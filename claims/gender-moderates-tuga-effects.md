@@ -121,3 +121,4 @@ PLS-MGA (Welch–Satterthwaite) comparing male (n = 105) and female (n = 382) su
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
 - [The motivation–self-efficacy–innovation model holds invariantly across gender, career stage, and academic discipline](sem-model-invariant-across-demographics.md) — reports the opposite
 - [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) — related
+- [SDL readiness shows no significant differences by gender, living condition, or presence of a doctor in the immediate family](no-sdl-differences-gender-living-family-doctor.md) — related

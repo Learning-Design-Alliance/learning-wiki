@@ -54,3 +54,4 @@ Within-ADHD comparisons of adverse outcomes between extreme-DESR and non-DESR gr
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [DESR severity correlates strongly with current ADHD symptom severity in adults with ADHD](desr-correlates-with-adhd-symptom-severity.md) — related
 - [Divorced nurses show lower patient safety competency in the primary model, an exploratory finding](divorced-nurses-lower-psc-exploratory.md) — related
+- [Fresh undergraduates with married parents have significantly higher odds of above-average emotional intelligence than those with non-married parents](married-parents-higher-odds-above-average-ei.md) — related

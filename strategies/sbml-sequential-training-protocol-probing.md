@@ -67,6 +67,8 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Two-video-tutorial training session followed by hands-on practice and blinded scored assessment for basic daVinci Xi skills](video-tutorial-plus-practice-davinci-xi-training.md)
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
+- [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
+- [Structured three-day intensive suturing course progressing from daily single-knot practice to a final anastomosis task](three-day-intensive-suturing-course-progression.md)
 
 ## Examples
 -

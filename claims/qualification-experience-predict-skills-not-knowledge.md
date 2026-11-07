@@ -82,3 +82,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Nurses with more than 15 years of emergency-care experience perceive fewer barriers than less-experienced colleagues](experience-reduces-perceived-barriers.md) — related
 - [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — related
 - [Pre-education, optometrists with glaucoma qualifications showed significantly higher specificity at <25%; post-education, performance was similar between qualification groups](glaucoma-qualification-subgroup-converges-post-education.md) — related
+- [Knowledge gains after patient safety training were larger for female nurses and nurses working fewer weekly hours; demographic factors showed no significant relation to attitude change](demographic-moderators-patient-safety-learning.md) — related

@@ -55,3 +55,4 @@ Stepwise regression analysis in the same 436-student correlational study. Irrati
 - [Hostility and afraid attachment do not meaningfully predict cognitive flexibility, while the other variables do](hostility-afraid-attachment-null-predictors-flexibility.md) — a broader claim this one bears on
 - [Attachment styles, irrational beliefs and psychological symptoms jointly explain approximately 41% of the variance in university students' cognitive flexibility](psychosocial-variables-explain-41-percent-cognitive-flexibility.md) — related
 - [Educational attainment, age, and continuing education frequency independently predict multidisciplinary competency, together explaining 14% of variance](education-age-ce-predict-mdt-competency.md) — related
+- [Academic procrastination correlates positively with irrational beliefs at pretest, posttest, and follow-up](procrastination-irrational-belief-correlation.md) — related

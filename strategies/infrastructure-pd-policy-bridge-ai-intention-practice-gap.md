@@ -52,6 +52,7 @@ The article recommends that effective AI integration in science education requir
 - [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 - [Research agenda: measure intent versus actual design practices and study design support for under-resourced contexts](design-practice-research-gaps-agenda.md)
 - [Targeted educational interventions including case-based learning and mentorship to bridge the intention-practice gap in antifungal stewardship](case-based-learning-mentorship-antifungal-stewardship.md)
+- [Build eLearning-based CPD systems that are user-friendly, enjoyable, and habit-forming, supported by infrastructure and digital-literacy training](elcpd-uptake-design-strategy.md)
 
 ## Examples
 -

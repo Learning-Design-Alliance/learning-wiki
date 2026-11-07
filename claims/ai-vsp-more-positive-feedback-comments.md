@@ -55,3 +55,4 @@ Conventional text analysis of open-ended feedback (20 valid AI-VSP comments, 24 
 - [Sentiment analysis of GAI-generated VSP responses showed predominantly negative sentiment, consistent with clinical realism](vsp-responses-negative-sentiment.md) — related
 - [Among RFETM-group students, 95.85% gave positive open-ended feedback, 3.63% neutral or uncertain, and 0.52% negative](rfetm-open-ended-comments-mostly-positive.md) — related
 - [Negative narrative comments were nearly absent in knowledge, cognitive processes, and general comments, with similar percentages for attitude and clinical reasoning](negative-narrative-comments-nearly-absent-knowledge-general.md) — related
+- [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related

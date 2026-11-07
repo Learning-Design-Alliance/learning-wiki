@@ -51,3 +51,4 @@ TDF-guided directed coding across the 17 included articles coded barriers and fa
 - [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](perceived-content-relevance-drives-sdl-engagement.md) — a narrower finding that bears on this claim
 - [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](sdl-cpd-five-barrier-facilitator-levels.md) — related
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — a narrower finding that bears on this claim
+- [Career-related factors — professional identity and accomplishment as facilitators, burnout as a barrier — influence trainees' SDL](career-factors-burnout-identity-sdl.md) — a narrower finding that bears on this claim

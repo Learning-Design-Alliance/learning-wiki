@@ -50,6 +50,7 @@ The article recommends that institutions adopt a phased implementation strategy 
 - [Share health education content across robots via a shared platform and collect materials in advance to reduce preparation burden](shared-robot-platform-content-collection-strategy.md)
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
+- [Distribute real-patient video production costs through interschool partnerships and shared digital repositories](shared-repositories-video-production-scalability.md)
 
 ## Examples
 -

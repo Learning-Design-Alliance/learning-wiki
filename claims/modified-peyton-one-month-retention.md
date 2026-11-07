@@ -49,3 +49,4 @@ One-month follow-up OSCE assessment in the RCT (t = 8.551, P < 0.001 in Table 5)
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — a narrower finding that bears on this claim
 - [Modified Peyton training takes significantly less time than traditional Peyton training](modified-peyton-shorter-training-time.md) — related
+- [Peer tutors using Peyton's four-step method taught basic suturing skills to undergraduates as effectively as faculty, with no significant OSCE score difference between PAL and FAL groups](pal-fal-equivalent-suturing-osce.md) — related

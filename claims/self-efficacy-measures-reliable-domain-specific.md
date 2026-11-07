@@ -80,3 +80,4 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - [Reliability of identified procedural skills assessment tools is limited, with κ ranging from 0.65 to 0.93 and much missing entirely](limited-reliability-procedural-tools-kappa-range.md) — related
 - [The oral prosody test showed high test-retest reliability, with a correlation coefficient of 94% between assessment occasions](prosody-test-retest-reliability-94.md) — related
 - [The listening comprehension test measured ten sub-skills with high criterion validity and test-retest reliability](listening-comprehension-test-ten-skills-validity-reliability.md) — related
+- [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — a narrower finding that bears on this claim

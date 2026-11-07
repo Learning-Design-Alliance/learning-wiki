@@ -51,3 +51,4 @@ Linear regression on 1,398 survey responses with API as dependent variable; anxi
 - [PTSD symptoms showed the least negative association with academic performance among the mental health problems measured](ptsd-least-academic-association.md) — related
 - [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related
 - [Severe depression symptoms were associated with a 17.4% reduction in academic performance of Ukrainian university students during the war](severe-depression-academic-performance-reduction.md) — related
+- [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — related

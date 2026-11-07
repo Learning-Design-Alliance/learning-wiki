@@ -69,3 +69,4 @@ Course achievement comparison in the quasi-experimental study: clinical skills f
 - [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related
 - [Ultrasound residents trained with CBL and mind mapping combined with Mini-CEX scored higher on graduation theory and practical tests than residents in traditional training](cbl-mindmap-minicex-higher-test-scores-ultrasound-residents.md) — related
 - [Operating room trainees assessed with the Mini-CEX score significantly higher than trainees assessed with the routine Logbook](mini-cex-higher-scores-than-logbook-operating-room-trainees.md) — related
+- [The REPs-VS group scored significantly higher on the operational examination total and on operational steps, but not on apparatus selection or doctor-patient communication](reps-vs-higher-operation-exam-scores.md) — related

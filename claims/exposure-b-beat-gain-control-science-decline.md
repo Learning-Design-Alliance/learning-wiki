@@ -66,3 +66,4 @@ Same random-effects within-group analysis, control-group side: a descriptive dec
 ## Related Claims
 - [Among lower-baseline nurses (exposure A), the training program yielded the largest gains in the science (MD=29.93) and assess (MD=25.04) domains](exposure-a-largest-gains-science-assess.md) — related
 - [A 40-hour EBP training program produces statistically significant posttest improvements in all five HS-EBP competency domains relative to no intervention in hospital nurses](40-hour-ebp-training-improves-all-five-hs-ebp-domains.md) — related
+- [After the training programme, nurses' self-reported competence in end-of-life care improved significantly across all three domains, with the largest gain in non-pharmacological management (49% to 86%)](eol-training-competence-gains-all-domains.md) — related

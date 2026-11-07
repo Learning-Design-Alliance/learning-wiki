@@ -52,3 +52,4 @@ Analysis of ChatGPT-4o's performance across the three U.S. Dental Decks question
 - [ChatGPT-4o showed a language-related performance gap, performing better on English than Chinese questions while humans showed the reverse pattern](chatgpt-4o-language-performance-gap-english-chinese.md) — related
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — related
 - [ChatGPT performs poorly on image-based data interpretation across DNA footprinting and BLI questions regardless of image detail](chatgpt-poor-image-inference-scientific-graphs.md) — reports the opposite
+- [The PROMPT-ONLY format showed more variable performance than TEXT, PDF, and DOCX formats in ChatGPT-4's examination responses](prompt-only-format-more-variable.md) — related

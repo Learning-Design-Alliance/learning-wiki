@@ -65,6 +65,7 @@ Multimodal presentation rests on dual coding: information presented simultaneous
 - [Select authentic texts with highly informative contextual cues matched to learner proficiency, and add multimodal glosses when context is insufficient](select-informative-texts-and-multimodal-glosses.md)
 - [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](ar-design-multimedia-principles-strategy.md)
 - [Use multimedia graphic novel courseware with audio narration and TLH-based inquiry questions to foster critical thinking in history learning.](graphic-novel-audio-narration-history-courseware.md)
+- [Integrate animated video education into pre-procedural patient education](animated-video-preprocedural-education-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated diagrams and worked visuals synchronized with spoken explanation, applying modality and contiguity principles.

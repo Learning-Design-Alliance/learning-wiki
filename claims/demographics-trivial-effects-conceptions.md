@@ -59,3 +59,4 @@ MANCOVAs with ANCOVA follow-ups on 304 prospective teachers testing gender, year
 - [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — reports the opposite
 - [Gevinson identified five dimensions of expert literary reading behavior shared across expert readers](gevinson-five-dimensions-expert-literary-reading.md) — related
 - [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](srl-strategies-ce-learner-factors-null-weak.md) — related
+- [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — related

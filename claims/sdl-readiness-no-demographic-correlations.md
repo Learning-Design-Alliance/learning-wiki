@@ -61,3 +61,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Demographic covariates (gender, age, birthplace, student cadre status, voluntary career choice) show no significant association with theoretical, practical, SRSSDL or CTDI-CV outcomes](demographics-not-associated-with-ltc-training-outcomes.md) — related
 - [Higher GPA, unmarried status and more positively perceived orientation programs are associated with higher readiness for practice](gpa-marital-status-orientation-predict-readiness.md) — related
 - [Age, gender, job position, and hospital type did not significantly predict nurses' warfarin-related knowledge scores](demographics-not-significant-warfarin-knowledge-predictors.md) — related
+- [SDL readiness shows no significant differences by gender, living condition, or presence of a doctor in the immediate family](no-sdl-differences-gender-living-family-doctor.md) — related

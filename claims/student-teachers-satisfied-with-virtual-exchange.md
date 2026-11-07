@@ -50,3 +50,5 @@ At the end of the exchanges, 564 participants completed a four-item satisfaction
 - [Virtual exchange participation develops student teachers' digital-pedagogical competence (TPACK)](virtual-exchange-develops-tpack-student-teachers.md) — related
 - [Science teachers reported high satisfaction with the quality and usability of the online asynchronous PD, including positive beliefs about tie quality, depth of interaction, and access to expertise.](high-satisfaction-social-capital-online-asynchronous-pd.md) — related
 - [Healthcare providers report high satisfaction with an asynchronous virtual care CPD module](virtual-care-cpd-module-high-satisfaction.md) — related
+- [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
+- [Cross-territory virtual bedside teaching with patient case exchange expanded students' disease exposure, with 82.2% agreement](cross-territory-case-exchange-disease-exposure.md) — related

@@ -75,3 +75,4 @@ Table 3 reports per-item STAI-6 medians pre and post simulation; the total score
 - [A 30-minute pre-OSCE HPOT session of relaxation, breathing and positive reinforcement significantly reduces medical students' pre-exam anxiety](hpot-reduces-pre-osce-anxiety.md) — a narrower finding that bears on this claim
 - [Most participants with elevated pre-simulation anxiety scores fell below the elevated-anxiety cut-off at 3 months](elevated-anxiety-participants-below-cutoff-at-3-months.md) — related
 - [State anxiety significantly improved 3 months after simulation-based training, though trained participants had higher baseline state anxiety than controls](state-anxiety-improved-3-months-after-simulation-training.md) — related
+- [Absence of suitable training models and psychological anxiety are the predominant barriers novice ophthalmology residents report to lacrimal irrigation skill mastery](training-model-absence-and-anxiety-barriers-to-mastery.md) — related

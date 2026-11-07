@@ -47,3 +47,4 @@ Usefulness analysis (Q3) from the same N = 64 online trial, using Spearman corre
 ## Related Claims
 - [A pilot mixed-method trial with 71 participants found students valued the system along three dimensions: career exploration, personalisation, and skill awareness/self-reflection](c3-ioc-pilot-three-value-dimensions.md) — related
 - [User trial participants rated the C3-IoC system positively for usability, with the Job roles map and Job roles overview the highest-rated components](c3-ioc-user-trial-usability-positive.md) — related
+- [Ratings of user-friendliness, input identification, and interaction correlate strongly and positively with overall learning efficacy and experience ratings](usability-aspects-correlate-with-efficacy-experience.md) — related

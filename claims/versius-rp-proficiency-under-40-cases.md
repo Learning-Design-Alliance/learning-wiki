@@ -62,3 +62,4 @@ LC-CUSUM analysis of the prospective cohort using console time thresholds (<165/
 - [Surgeons, including novices, achieve robotic OSB repair competency on the simulator within 15–21 procedures](competency-within-15-21-frost-procedures.md) — related
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related
 - [Assignment of experienced surgical assistants was associated with low malfunction rates during program expansion, highlighting assistant-level proficiency](assistant-proficiency-associated-with-low-malfunction-rate.md) — related
+- [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — related

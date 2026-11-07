@@ -59,3 +59,4 @@ This is an intensive microgenetic case study of three purposively-selected extre
 - [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related
 - [Role identity formation is a self-organizing process in which the system strives toward coherence, moving from repellor states toward attractor states](dsmri-role-identity-formation-attractor-repellor.md) — related
 - [In the IC-JPA group, teacher-delivered redirections decreased while student-to-student redirections increased, indicating growing student self-autonomy](icjpa-student-redirection-autonomy-growth.md) — related
+- [Autonomy for exploration sustains teachers' motivation](autonomy-for-exploration-sustains-teacher-motivation.md) — related

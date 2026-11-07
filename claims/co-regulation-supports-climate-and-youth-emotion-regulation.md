@@ -110,3 +110,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
 - [Near-peers' high social congruence has ambiguous effects: it enables a safe climate but makes leading discussions and sustaining productive tension harder](ambiguous-effects-of-social-congruence-in-npt.md) — related
+- [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related

@@ -56,6 +56,7 @@ The predominant instructional strategy across included studies was "simulation-b
 - [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
 - [Use a structured 3-phase debriefing model as the core of in situ simulation training](three-phase-debriefing-model-in-situ-simulation.md)
 - [Implement simulation-based refresher drills, visual job aids, mentorship champions, and stocked emergency kits for MgSO4 readiness](mgso4-competency-intervention-package.md)
+- [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 
 ## Examples
 -

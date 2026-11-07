@@ -54,3 +54,6 @@ The review's narrative synthesis of 34 studies involving over 5,700 healthcare p
 - [Teamwork, collaborative work, interactivity, and networking are the most frequently reported physician facilitators of SDL, while medicine's on-the-job learning culture is the most cited social-influences barrier](social-influences-teamwork-facilitates-sdl.md) — related
 - [Managers identified challenges limiting peer learning, including weak teamwork culture, absent management development strategies, and restricted structured interactions](peer-learning-challenges-iranian-hospital-managers.md) — related
 - [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related
+- [Career-related factors — professional identity and accomplishment as facilitators, burnout as a barrier — influence trainees' SDL](career-factors-burnout-identity-sdl.md) — related
+- [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related
+- [Family encouragement, educational atmosphere and support are reported facilitators of trainees' SDL](family-factors-facilitate-sdl.md) — related

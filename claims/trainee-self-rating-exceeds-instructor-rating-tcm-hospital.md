@@ -46,5 +46,5 @@ Independent samples t-test comparing 89 trainee nurses' self-ratings with 80 cli
 
 ## Related Claims
 - [Self-rating versus instructor-rating discrepancies vary by competency domain: trainees rate themselves higher in clinical practice and health teaching, instructors rate trainees higher in case study and specialised nursing](domain-specific-competency-rating-differences.md) — a narrower finding that bears on this claim
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](qualitative-explanation-competency-gap-feedback-workload.md) — related
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related

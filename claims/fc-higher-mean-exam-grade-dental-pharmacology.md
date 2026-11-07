@@ -54,3 +54,6 @@ Retrospective cohort comparison of exam results: 97 FC students (2021–2022) ve
 - [Better online learning outcomes in a flipped course tend to produce better in-class readiness, which further leads to better after-class performance and exam grades](spencer-2022-accumulative-fc-achievements.md) — related
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — related
 - [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
+- [Flipped classroom seminars improved immediate topic-specific test performance in three of four pharmacology topics compared with conventional teaching](fc-immediate-test-gains-three-topics.md) — related
+- [Pre-seminar preparation did not clearly determine flipped-classroom test gains, and unprepared students were noninferior to conventional students](fc-preparation-noninferior-unprepared.md) — related
+- [Six months after flipped seminars, students retained more topic knowledge than conventionally taught students](fc-six-month-long-term-retention.md) — related

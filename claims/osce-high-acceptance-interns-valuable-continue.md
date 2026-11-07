@@ -54,3 +54,4 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [A post-rotation formative OSCE increased interns' satisfaction with direct observation and feedback for calling consults, obtaining informed consent, and responding to nursing pages, but not for providing sign-out](osce-increased-satisfaction-observation-feedback-three-of-four-skills.md) — related
 - [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related
 - [Residents rated the mirror simulation program highly for perceived benefit and interest, averaging 3.87 and 4.08 out of 5](mirror-sim-benefit-interest-ratings.md) — related
+- [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related

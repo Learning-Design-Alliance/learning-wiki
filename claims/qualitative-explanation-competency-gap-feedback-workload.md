@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads"
-description: "Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads"
+title: "The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only"
+description: "The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only"
 id: qualitative-explanation-competency-gap-feedback-workload
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: mao-jing-2026
     resource: "https://doi.org/10.1002/nop2.70621"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads
+# The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Trainees reported struggling to meet requirements and feeling performance pressure, while instructors cited busy schedules limiting observation and timely feedback, explaining the quantitative gap. [→ Mao Jing 2026](#mao-jing-2026)
+`q2 i?` Interviewed trainees reported struggling to meet requirements and feeling performance pressure; the authors also say instructors cited busy schedules limiting observation and timely feedback, although only the 15 trainees were interviewed, so that part is the authors' account rather than instructors' interview data. [→ Mao Jing 2026](#mao-jing-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Mao Jing, Sun Ruimin, Yang Yanming, Zhong Yuan, Bai Yanhui, Qin Yangyang, Liu Sh
 
 `q2 · i?` · `qualitative · r2`
 
-Face-to-face semi-structured interviews with 15 randomly selected trainee nurses, conducted to explain the quantitative competency gap. The authors conclude the gap "reflects systemic issues of feedback infrastructure and workload management, not mere rater bias".
+Face-to-face semi-structured interviews with 15 randomly selected trainee nurses (no clinical instructor was interviewed), conducted to explain the quantitative competency gap. The discussion nonetheless attributes an account of busy schedules to instructors. The authors conclude the gap "reflects systemic issues of feedback infrastructure and workload management, not mere rater bias".
 
 > "Trainees reported struggling to meet requirements and felt performance pressure, whereas instructors cited their own busy schedules as limiting observation and timely feedback. Thus, the gap reflects systemic issues of feedback infrastructure and workload management, not mere rater bias."
 
@@ -55,3 +56,4 @@ Face-to-face semi-structured interviews with 15 randomly selected trainee nurses
 - [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
 - [Evaluation-system factors—doubted anonymity, insufficient feedback, tight timing, heavy workload, and unclear indicators—drive self-protective and arbitrary SET scoring](evaluation-system-factors-anonymity-feedback-timing.md) — related
 - [Traditional instructor-based cephalometric assessment lacks objectivity and consistency](traditional-cephalometric-assessment-lacks-objectivity.md) — related
+- [Student self-assessments and faculty evaluations of patient care domains diverge, with self-reported scores generally lower than faculty-assigned scores](self-assessment-faculty-score-discrepancy-dental-rotations.md) — related

@@ -62,3 +62,4 @@ Qualitative thematic analysis of reflective narratives from 103 students, coded 
 - [Simulation with standardized patients supports theoretical-practical integration and spontaneous activation of clinical reasoning in first-year nursing students](simulation-supports-theory-practice-integration.md) — possibly the same claim (merge candidate)
 - [A qualitative group assessment judged the scenario feasible, adequately timed, and realistic](pacu-scenario-qualitative-feasibility-realism.md) — related
 - [Group simulations foster perceived learning and future application of tools, with 78% reporting they learned a new theory and 56.1% expecting to apply acquired tools](group-simulations-learning-and-application-statements.md) — related
+- [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related

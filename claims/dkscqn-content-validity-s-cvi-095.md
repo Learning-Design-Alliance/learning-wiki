@@ -55,3 +55,4 @@ Content validation involved five speech language pathologists using a Table of S
 - [Convergent validity is supported by strong correlations between DKSCQ-N subdomains and the Knowledge of Dysphagia Scale.](dkscqn-convergent-validity-kds-correlations.md) — related
 - [The knowledge questionnaire and skills checklist showed acceptable validity and reliability for assessing head trauma assessment learning](trauma-assessment-tool-validity-reliability.md) — related
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
+- [Expert panel content validation of the TBL-SAI-TR yields an average content validity index of 0.95](tbl-sai-tr-content-validity-cvi-095.md) — related

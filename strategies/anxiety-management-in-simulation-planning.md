@@ -50,6 +50,7 @@ The article recommends that anxiety in simulation contexts be treated as a desig
 
 - [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 - [Gender-sensitive pre-briefing and debriefing practices to support psychological safety in simulation-based assessment](gender-sensitive-prebriefing-debriefing-strategy.md)
+- [Briefing practices facilitators use to establish a safe simulation learning environment](simulation-briefing-safety-practices.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 104 claims (63 for, 38 mixed, 3 against) · 85 studies (62 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 design), `q1`–`q4` · 19 of 85 report an effect size · 98 claims rest on one study
+> **Evidence** · 107 claims (66 for, 38 mixed, 3 against) · 86 studies (62 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 19 of 86 report an effect size · 101 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -140,6 +140,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Module-plus-animation video produces significantly higher self-evaluation score improvements than both traditional teaching and module-only video for six of twelve suturing techniques](../claims/ma-video-higher-self-eval-improvement-six-sutures.md) [+W] — attached 2026-11-06 from Cheng Meng et al. (2025), which proposed "A surgical video curriculum combining modular demonstrations with animated simulations for 12 suturing techniques"; tests this page's relationship.
 - [Video-assisted teaching yields a larger knowledge improvement over time for wearing gowns and gloves than skill demonstration](../claims/video-greater-gown-glove-knowledge-gain.md) [+W] — attached 2026-11-07 from Ozsaker Esma et al. (2025), which proposed "Four-part standardized surgical aseptic skills education video series"; tests this page's relationship.
 - [Video-assisted teaching improves the skill of opening a sterile package but not other aseptic skills compared with demonstration](../claims/video-improves-sterile-package-skill-only.md) [~W] — attached 2026-11-07 from Ozsaker Esma et al. (2025), which proposed "Four-part standardized surgical aseptic skills education video series"; tests this page's relationship.
+- [Simulated animated video education reduced disease uncertainty more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](../claims/animated-video-reduces-disease-uncertainty-endoscopy.md) [+W] — attached 2026-11-07 from Qian Xiaoqing et al. (2025), which proposed "Two-minute simulated animated video for digestive endoscopy patient education"; tests this page's relationship.
+- [Simulated animated video education reduced anxiety more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](../claims/animated-video-reduces-anxiety-endoscopy.md) [+W] — attached 2026-11-07 from Qian Xiaoqing et al. (2025), which proposed "Two-minute simulated animated video for digestive endoscopy patient education"; tests this page's relationship.
+- [Simulated animated video education improved sleep quality more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](../claims/animated-video-improves-sleep-quality-endoscopy.md) [+W] — attached 2026-11-07 from Qian Xiaoqing et al. (2025), which proposed "Two-minute simulated animated video for digestive endoscopy patient education"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
@@ -164,6 +167,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Instructors compile native-speaker video lessons and pair students for peer-supported immersive multimedia learning of L2 oral skills](../strategies/compile-native-video-lessons-peer-pairs-strategy.md)
 - [Use visual and aural aids and varied, vivid lesson structures in listening lessons](../strategies/visual-aural-aids-listening-lessons.md)
 - [Use filmed experiments in geography lessons to explain course material and save time, especially for large class groups](../strategies/filmed-experiments-large-class-groups.md)
+- [Integrate animated video education into pre-procedural patient education](../strategies/animated-video-preprocedural-education-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

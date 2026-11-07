@@ -70,3 +70,4 @@ Qualitative synthesis of beneficial features across included studies, identifyin
 - [Participants generally perceive NTS training programs as beneficial despite variations in teaching strategies](nts-training-icu-positive-reaction-perceptions.md) — related
 - [Proposed course is the only compared course with individualized expert feedback on assignments](proposed-course-only-individualized-expert-feedback.md) — related
 - [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — related
+- [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related

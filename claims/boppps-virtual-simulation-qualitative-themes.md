@@ -62,3 +62,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [Qualitative analysis of 492 participant quotes suggests the observed behavioral changes resulted from sense-making emerging from five themes about the training experience](vr-training-sense-making-five-themes.md) — related
 - [In-depth interviews identified clinical relevance, case-based scenarios, models, visualization, and facilitator interaction as key perceived strengths of the simulation-based intervention](interview-themes-simulation-strengths.md) — related
 - [Students in the experimental group reported high satisfaction with the BOPPPS-based “One Case to the End” reform](one-case-boppps-high-student-satisfaction.md) — related
+- [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related

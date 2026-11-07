@@ -48,3 +48,4 @@ Binary logistic regression in a cross-sectional survey of 922 Iraqi medical stud
 - [Headache, stress/anxiety, and fasting-affected sleep are associated with markedly higher sleepiness and fatigue during fasting](fasting-symptoms-associated-sleepiness-fatigue.md) — related
 - [Stress/anxiety and sleep disturbances are counterintuitively associated with better academic performance in fasting students](stress-sleep-disturbance-better-performance-ramadan.md) — related
 - [Later Ramadan breakfast timing is associated with higher odds of high academic performance](later-breakfast-timing-performance-ramadan.md) — related
+- [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related

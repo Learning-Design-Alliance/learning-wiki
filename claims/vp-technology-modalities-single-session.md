@@ -53,3 +53,4 @@ Review's mapping of technological formats (RQ4). The review reports that "virtua
 - [All included VR training interventions used non-immersive desktop systems; no immersive VR studies met the review's inclusion criteria](all-included-vr-interventions-non-immersive-desktop.md) — reports the opposite
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
 - [Virtual patient platform plus mind mapping improves reported learning efficiency versus conventional teaching](dxr-mindmap-learning-efficiency.md) — related
+- [Post-intervention, a majority of students preferred the virtual learning module over traditional teaching and VR headset over desktop delivery](post-intervention-preference-vl-and-vr.md) — related

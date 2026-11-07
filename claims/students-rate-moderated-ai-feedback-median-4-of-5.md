@@ -49,3 +49,4 @@ A 5-point Likert-scale survey of the moderated AI-generated feedback completed b
 - [Sixty percent of AI-generated feedback files required no modification before release, but eight of twenty required amendments including four major corrections](ai-feedback-sixty-percent-no-modification-four-major-errors.md) — related
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related
 - [No statistical differences were found across feedback methods in survey results for clarity, perceived utility, and skill building](no-statistical-difference-across-feedback-methods.md) — related
+- [Validators rated LLM-generated personalized recommendations as generally clear and actionable for most of the eight evaluated students](llm-recommendations-rated-clear-actionable.md) — related

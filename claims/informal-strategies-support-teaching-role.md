@@ -69,3 +69,4 @@ Results section: beyond the formal curriculum, students described informal oppor
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Medical students receive little or no formal teacher training before peer teaching assignments in the undergraduate curriculum](no-formal-training-peer-teachers-medical-curriculum.md) — related
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](practice-opportunities-develop-teacher-self-efficacy.md) — related
+- [Most graduating medical students (57%) feel very confident in a teaching role, having mainly developed teaching skills through informal near-peer mentorship](informal-near-peer-development-confidence.md) — a narrower finding that bears on this claim

@@ -74,3 +74,4 @@ The comparison section reports that “many K12 ETs emphasized gaining buy-in an
 - [Feedback provision is emphasized more than receiving feedback in P2P-teacher qualification measures](feedback-provision-over-receiving-p2p.md) — related
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
+- [Facilitators showed higher competency in interpersonal skills and focus but lower competency in guided discovery and application of change techniques](cbt-specific-skills-lower-competency-than-interpersonal-skills.md) — related

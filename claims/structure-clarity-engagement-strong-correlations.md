@@ -49,3 +49,4 @@ Spearman correlation analysis within each of the four groups (Table 4), all sign
 - [Under structured pre-session planning, students across four repeatedly taught groups reported no significant differences in perceptions of structure and organization](pre-session-planning-consistent-structure-perceptions.md) — related
 - [Tutors' independent ratings of student performance correlate strongly across assessment domains](tutor-inter-rater-correlation-strong.md) — related
 - [A moderate positive but non-significant correlation between post-module four confidence and final competency (r = 0.585, p = 0.059)](confidence-competency-correlation-pocus.md) — related
+- [Ratings of user-friendliness, input identification, and interaction correlate strongly and positively with overall learning efficacy and experience ratings](usability-aspects-correlate-with-efficacy-experience.md) — related

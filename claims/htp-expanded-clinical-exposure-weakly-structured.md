@@ -47,3 +47,4 @@ Grounded theory interview study of 21 clinical faculty at Ardabil teaching hospi
 ## Related Claims
 - [Faculty acknowledged supportive structural changes under the HTP, including improved educational equipment and budgets, but perceived these resources as underused](htp-supportive-structural-changes-underused-resources.md) — related
 - [Faculty perceived that increased student admissions combined with faculty shortages compressed pedagogical space and reduced bedside teaching and supervision after the HTP](htp-student-admissions-faculty-shortages-constrained-teaching.md) — related
+- [Cross-territory virtual bedside teaching with patient case exchange expanded students' disease exposure, with 82.2% agreement](cross-territory-case-exchange-disease-exposure.md) — related

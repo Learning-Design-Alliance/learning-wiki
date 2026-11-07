@@ -56,3 +56,5 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related
 - [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related
 - [Residents report satisfaction above 4 points across all eight evaluated aspects of peer-assisted learning under the LSPPDM mode](high-satisfaction-pal-lsppdm-residents.md) — possibly the same claim (merge candidate)
+- [Students rate peers' impact on their learning nearly equal to that of formal medical educators, with no agent scoring above 7.4/10](peer-impact-comparable-to-medical-educators.md) — related
+- [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related

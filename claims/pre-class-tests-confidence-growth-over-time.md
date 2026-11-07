@@ -48,3 +48,4 @@ Survey item on longitudinal confidence development in the 144-student pilot; fou
 - [Pre-class tests motivated 80.5% of neuroanatomy students to prepare more thoroughly for class](pre-class-tests-motivate-neuroanatomy-preparation.md) — related
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](pre-class-tests-increase-stress-anxiety.md) — related
 - [Anatomy Glove Learning System improved hand-anatomy knowledge in both groups, with 3D-group self-confidence increasing over time while 2D-group confidence declined](agls-knowledge-gains-sustained-confidence-3d-group.md) — related
+- [About 63% of responding first-year students agreed the CRE course contributed to their ability to demonstrate initiative and self-direction in learning](cre-satisfaction-self-direction-agreement.md) — related

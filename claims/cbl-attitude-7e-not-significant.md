@@ -67,3 +67,4 @@ Post-hoc analysis of attitude scores found the 7E-versus-case-based pair not sig
 - [Case-based learning produced the highest chemistry achievement, followed by the 7E learning cycle model, with both exceeding conventional teaching (all pairwise differences significant)](cbl-highest-achievement-ordering.md) — related
 - [Treatment (7E learning cycle, case-based learning, or conventional teaching) has a significant main effect on senior secondary students' chemistry achievement](treatment-main-effect-chemistry-achievement-adesoji.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
+- [Case-based learning produced significantly higher patient safety attitude scores than lecture and reflection](cbl-superior-attitude-patient-safety-nurses.md) — related

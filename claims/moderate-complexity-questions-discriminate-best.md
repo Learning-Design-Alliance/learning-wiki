@@ -47,3 +47,5 @@ Discussion of the Mann–Whitney U comparison between Groups 1 and 2; the Result
 ## Related Claims
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [The Statistics station was the most difficult and most discriminating station, with a difficulty index of 50% and a discrimination index of 100%](statistics-station-highest-difficulty-discrimination.md) — related
+- [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related

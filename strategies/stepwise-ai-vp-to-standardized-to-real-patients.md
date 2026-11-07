@@ -56,6 +56,7 @@ The review proposes a progressive training pathway in which learners begin clini
 - [Use speech-enabled GenAI standardized patients as a low-stakes practice venue for customer discovery interviews](genai-sp-low-stakes-customer-discovery-practice-strategy.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Stepwise blended learning: train clinical reasoning with the AI chatbot first, then practice procedural and communication skills through PRP or standardized patients, with structured debriefing](stepwise-blended-chatbot-then-prp-osce-strategy.md)
+- [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 
 ## Examples
 -

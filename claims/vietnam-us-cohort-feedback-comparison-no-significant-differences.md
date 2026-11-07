@@ -53,3 +53,4 @@ Comparative analysis with the prior U.S. study using chi-square or t-tests (Tabl
 - [VR-based neonatal resuscitation training is feasible and positively received by healthcare providers in Vietnam, with 100% recommending it and 86% rating it more realistic than traditional methods](vr-neonatal-resuscitation-training-feasible-vietnam.md) — possibly the same claim (merge candidate)
 - [Usefulness ratings of VR neonatal resuscitation training did not differ significantly by professional role or by years of NICU experience](vr-usefulness-no-subgroup-differences-role-experience.md) — related
 - [Undergraduate medical students rate VR anatomy scenarios as accurate and realistic compared to the traditional anatomy lab](vr-anatomy-scenarios-rated-accurate-realistic.md) — related
+- [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — related

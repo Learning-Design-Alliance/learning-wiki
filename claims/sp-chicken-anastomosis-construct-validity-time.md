@@ -58,3 +58,4 @@ Blinded construct validity comparison of recorded SP chicken anastomosis perform
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
 - [After reaching the minimum passing score, novices' laryngoscopy skill and laryngoscopy time remain significantly different from experts (36 s vs 20 s, p < 0.001)](lisa-at-laryngoscopy-gap-persists.md) — related
+- [After three days of intensive simulator training, most participants who attempted the final anastomosis completed it, but only a minority reached advanced analytic scores](anastomosis-success-after-three-day-course.md) — related

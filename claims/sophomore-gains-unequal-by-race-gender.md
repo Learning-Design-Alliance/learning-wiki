@@ -72,3 +72,4 @@ Disaggregated cohort analysis (Figure 16) shows sophomore gains "have not been e
 - [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related
 - [Grade-class membership relates to grade distributions, with failing-poor ratios rising sharply across the five lowest-to-highest Alpha classes](intelligence-class-gradedistribution.md) — related
 - [Differentiated instruction and tracking are studied as both remedy and catalyst for unequal achievement depending on discipline](differentiation-remedy-or-catalyst-by-discipline.md) — related
+- [Year of study and minority ethnicity predict poor academic performance in both genders, with other demographic predictors differing by gender](demographic-predictors-gpa-gender-specific.md) — related

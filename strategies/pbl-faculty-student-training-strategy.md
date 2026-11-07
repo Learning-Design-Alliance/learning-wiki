@@ -50,6 +50,7 @@ The article's intervention included structured training for both PBL stakeholder
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
 - [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
 - [Diagnose PBL gaps with a quality questionnaire, then revise problems with the 3C3R model via a multidisciplinary revision committee](3c3r-pbl-revision-strategy.md)
+- [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
 
 ## Examples
 -

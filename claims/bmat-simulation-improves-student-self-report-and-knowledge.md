@@ -55,3 +55,4 @@ Non-randomized controlled pre-post study of 210 fourth- and fifth-year medical s
 - [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](renal-biopsy-simulation-workshop-increased-student-confidence.md) — related
 - [Medical students trained on the BMAT simulator scored higher on a 26-item skills checklist than internist controls](students-outperform-internists-bmat-checklist.md) — related
 - [Post-program knowledge test scores of medical students were not significantly different from internists' scores](student-knowledge-posttest-equals-internists.md) — related
+- [A short simulation-based ophthalmology workshop immediately improves medical students' ophthalmology knowledge, confidence, and interest in the specialty](sbe-ophthalmology-workshop-immediate-gains.md) — a narrower finding that bears on this claim

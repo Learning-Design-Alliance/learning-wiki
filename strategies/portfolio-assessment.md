@@ -73,6 +73,7 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 - [Use priming tools, examples of practice, and artifacts of practice to support video-based reflection](priming-tools-examples-artifacts-video-reflection.md)
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
 - [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
+- [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](iterative-review-dops-portfolio-authenticity.md)
 
 ## Examples
 - **National Board Certification (USA)** — teachers submit portfolio entries with student work samples, video, and written analysis scored against professional standards ([https://www.nbpts.org](https://www.nbpts.org)).

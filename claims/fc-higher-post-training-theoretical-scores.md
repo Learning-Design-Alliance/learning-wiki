@@ -56,3 +56,5 @@ Pre- and post-training 20-question multiple-choice examinations (100 points) dra
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Pre-class test scores did not differ between BOPPPS-CBL and LBL groups at baseline](boppps-cbl-lbl-equal-pre-class-scores.md) — related
+- [Hemodialysis nurses trained with flipped classroom scored significantly higher on objective, subjective, and overall theoretical knowledge than nurses trained with lecture-based learning](fc-beats-lbl-hemodialysis-theoretical-knowledge.md) — related
+- [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related

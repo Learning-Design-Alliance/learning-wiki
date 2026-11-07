@@ -80,3 +80,4 @@ Table 4 proportions for three dimensions: 97.14% vs 54.29% for practical operati
 - [NSTIS students reported significantly higher learning outcomes on enhancing learning interest and satisfying the need for relevant case information](nstis-higher-learning-interest-and-case-information.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
 - [Most experimental students reported the design-thinking flipped classroom enhanced knowledge comprehension and comprehensive abilities without increasing learning burden](dt-flipped-perceived-gains-no-burden.md) — related
+- [Flipped classroom students reported higher satisfaction with the teaching model and course duration and higher learning interest](flipped-classroom-satisfaction-interest-gains.md) — related

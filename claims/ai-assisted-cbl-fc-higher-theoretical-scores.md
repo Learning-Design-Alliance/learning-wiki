@@ -60,3 +60,4 @@ Randomized controlled trial of 50 residents (n=25 per group) at a single centre.
 - [Symptom-focused CBL and conventional CBL produce no significant difference in dental residents’ theoretical knowledge of TMD](limited-mouth-opening-cbl-no-theoretical-knowledge-difference.md) — related
 - [BOPPPS-CBL teaching produces higher post-class chest pain test scores than lecture-based learning among resident physicians](boppps-cbl-higher-post-class-test-scores-residents.md) — related
 - [Both case-based learning and traditional lecture significantly increase residents' knowledge of research integrity, with no significant difference between the two methods](cbl-and-lecture-both-improve-residents-research-integrity-knowledge.md) — reports the opposite
+- [No significant difference among CBL, lecture, and reflection groups in patient safety knowledge after the intervention](no-between-group-knowledge-difference-patient-safety.md) — related

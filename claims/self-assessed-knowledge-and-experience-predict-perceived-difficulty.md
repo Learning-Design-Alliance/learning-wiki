@@ -47,3 +47,4 @@ Kruskal–Wallis tests followed by two-sided Dunn pairwise comparisons on the po
 ## Related Claims
 - [No statistically significant difference in overall proportion of correct answers on dental trauma cases between control, webinar-only, and combined webinar-plus-in-person intervention groups of general dentists](no-significant-overall-difference-dental-trauma-cpd-groups.md) — related
 - [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](no-predictor-significant-overall-correct-answers.md) — reports the opposite
+- [Healthcare professionals who rate themselves as very knowledgeable tend to overestimate their actual Alzheimer's disease knowledge](self-rated-ad-knowledge-overestimation.md) — related

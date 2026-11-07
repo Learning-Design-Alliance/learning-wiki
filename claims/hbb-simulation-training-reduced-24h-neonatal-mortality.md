@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: zanin-a-2026
     resource: "https://doi.org/10.1007/s00431-026-06925-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Weekly 3–5 minute on-site simulation training was associated with a significant decrease in 24-h neonatal mortality (p = 0.040). [→ Zanin A 2026](#zanin-a-2026)
@@ -60,3 +61,4 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 - [Work experience correlates positively with complicated child delivery skill but negatively with newborn and pregnant women's resuscitation skills](work-experience-skill-correlations.md) — related
 - [Among 43 neonatal care providers, hands-on simulator training improved image quality scores and the number of acceptable or good views in a pre-post study reported by the review](simulation-training-improves-image-quality-neonatal-providers.md) — related
 - [Having an HBB trained provider at birth is not significantly associated with lower in-facility neonatal mortality](trained-provider-no-significant-mortality-reduction.md) — related
+- [HBB training revealed existing malpractices and improved newborn care practices, including continuous resuscitation until death is certain](hbb-training-revealed-malpractices-improved-care.md) — related

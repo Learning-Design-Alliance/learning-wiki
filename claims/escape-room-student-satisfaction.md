@@ -49,3 +49,4 @@ Descriptive statistics (means, SDs) from the 15-item evaluation questionnaire co
 - [Motivation, participation, encouragement, fun and interest rated high during the intervention; critical thinking more modest](mbot-motivation-engagement-high.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [All participating nursing students evaluated the room of horror as relevant and educational for professional practice and would recommend it to peers](roh-students-rated-format-relevant-educational.md) — related
+- [A research-based escape room was rated 3.7 ± 0.31 out of 5 for overall experience by health professions student participants](morad-escape-overall-experience-rating.md) — related

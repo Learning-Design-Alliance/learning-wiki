@@ -56,3 +56,4 @@ Authors' interpretation (type e) from the Discussion, not a tested result: the a
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
 - [Urologists teaching imaging content themselves may cover it less thoroughly than dedicated radiologists or ultrasonographers, motivating the MDT model](urologist-imaging-teaching-limitation-motivation.md) — related
 - [The article argues, on theoretical grounds, that PBL + CBL stimulates motivation, judgment, collaboration, and interdisciplinary integration in lymphoma training](pbl-cbl-theoretical-advantages-lymphoma.md) — related
+- [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related

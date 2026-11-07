@@ -61,3 +61,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Male nursing students felt anxiety and stress during simulation due to cultural, religious and evaluative factors](simulation-anxiety-stress-cultural-evaluative-factors.md) — related
 - [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — possibly the same claim (merge candidate)
 - [Barriers to engaging in active learning include time constraints, exhaustion, group dynamics with unfamiliar peers, fear of negative evaluation, and poor session management](barriers-time-safety-group-dynamics.md) — a broader claim this one bears on
+- [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related

@@ -50,3 +50,4 @@ Linear regression predicting Midterm 2 condition-topic scores (0–100) for 295 
 - [PF still showed a positive, significant effect for combined medium- and high-achieving students on the midterm](pf-effect-med-high-combined.md) — a narrower finding that bears on this claim
 - [PF advantage on condition topics did not reach significance on the final exam overall](pf-final-exam-null-overall.md) — related
 - [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related
+- [Training type has a significant positive effect on examination scores independent of gender and academic year (ANCOVA)](ancova-training-effect-independent-gender-year.md) — related

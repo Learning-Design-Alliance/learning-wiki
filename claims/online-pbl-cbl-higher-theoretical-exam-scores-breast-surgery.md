@@ -101,3 +101,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
 - [CBL multimodal imaging teaching produced higher final theoretical examination and case analysis scores than traditional teaching](cbl-multimodal-higher-final-theory-and-case-analysis.md) — related
 - [A larger proportion of CBL multimodal students reached the top score ranges on image analysis, final theory and case analysis examinations](cbl-multimodal-higher-proportion-top-score-ranges.md) — related
+- [Students in the flipped classroom group scored higher on the final theory exam than lecture-group students (8.2 ± 0.7 vs 7.0 ± 0.8)](flipped-classroom-higher-theory-exam-scores-endodontics.md) — related

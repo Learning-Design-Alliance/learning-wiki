@@ -54,3 +54,4 @@ Cross-sectional online survey of 524 clinical nurses in a tertiary hospital in H
 - [The weakest frailty-management practices were assessing frailty in geriatric patients and promptly reporting frailty status to physicians](weakest-practices-frailty-assessment-physician-reporting.md) — related
 - [Most surveyed nurses lacked frailty education: only 41.8% knew the term frailty, 10.5% had frailty-care training, and 17.0% had studied relevant guidelines](nurses-frailty-education-gaps-survey.md) — related
 - [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — related
+- [Only 17.7% of nurses had good patient safety practice before training, rising to 79.6% after the intervention](low-baseline-practice-rises-after-training.md) — related

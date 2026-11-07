@@ -60,3 +60,4 @@ Faculty key-informant quote from Theme 3: "Simulation provides a safe platform f
 - [Psychological safety, including awareness of host-context hierarchy and norms around mistakes, emerged as a theme supporting open participation in transborder adaptation.](psychological-safety-transborder-adaptation.md) — related
 - [New dental-specific themes include practical guidance, a safe training environment, resident–patient relationships, career education and comprehensive treatment planning](new-dental-specific-teacher-themes.md) — related
 - [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](shared-competence-base-group-learning-clinobsmunicipality.md) — related
+- [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related

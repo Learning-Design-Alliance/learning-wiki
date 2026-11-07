@@ -42,7 +42,7 @@ Based on combined quantitative gaps and qualitative explanations, the authors pr
 
 - [Self-rating versus instructor-rating discrepancies vary by competency domain: trainees rate themselves higher in clinical practice and health teaching, instructors rate trainees higher in case study and specialised nursing](../claims/domain-specific-competency-rating-differences.md) [+W]
 - [Both trainee nurses and clinical instructors rated the training objectives, clinical instructors and training schedule as 'very effective'](../claims/high-effectiveness-ratings-training-programme.md) [+W]
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](../claims/qualitative-explanation-competency-gap-feedback-workload.md) [+W]
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](../claims/qualitative-explanation-competency-gap-feedback-workload.md) [+W]
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](../claims/self-developed-training-evaluation-instrument-reliability.md) [+W]
 - [Trainee nurses' self-rated competency is significantly higher than clinical instructors' ratings of the same trainees, with a moderate effect size](../claims/trainee-self-rating-exceeds-instructor-rating-tcm-hospital.md) [+W]
 

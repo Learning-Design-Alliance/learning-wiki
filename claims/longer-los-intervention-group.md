@@ -49,3 +49,4 @@ Secondary outcome from the retrospective record review of 149 patients in the ra
 - [Hospitalization time was significantly longer in the staff (non-teaching) group than in the resident (teaching) group](staff-group-longer-hospitalization.md) — reports the opposite
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — related
 - [A tele-education program (online lecture plus one month of WhatsApp microlearning) improved internal medicine residents' knowledge of inpatient hyperglycemia compared with no intervention](teleeducation-improved-resident-hospital-hyperglycemia-knowledge.md) — related
+- [Postoperative hospital stay and anastomotic fistula incidence decreased significantly from the preliminary to the proficient stage](laspme-postoperative-outcomes-improve-by-proficient-stage.md) — related

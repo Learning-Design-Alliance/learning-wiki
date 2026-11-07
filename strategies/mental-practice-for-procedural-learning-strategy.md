@@ -50,6 +50,7 @@ The review concludes there is some evidence to recommend mental practice — men
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Mental skills training (mental imagery rehearsal of procedural steps) as a component of training for high-stakes clinical procedures](mental-skills-training-rehearses-procedural-steps.md)
 - [Use brief instructor-guided relaxation and visualization imagery sessions immediately before practicing decomposed surgical skill steps](guided-imagery-before-decomposed-step-practice.md)
+- [Use mental practice as a low-resource adjunct for maintaining procedural competency when clinical opportunities are scarce](mental-practice-low-resource-competency-maintenance.md)
 
 ## Examples
 -

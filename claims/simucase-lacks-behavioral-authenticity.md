@@ -66,3 +66,4 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](ai-virtual-patients-feedback-feature-underincorporated.md) — related
 - [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — reports the opposite
 - [Eight of 37 respondents reported OSCEai scenarios or elements that were confusing or not representative of real-life practice](osceai-limitations-realism-confusion.md) — related
+- [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related

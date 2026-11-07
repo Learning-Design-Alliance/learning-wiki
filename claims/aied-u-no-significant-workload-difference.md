@@ -64,3 +64,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [Cognitive load did not differ significantly between the C, SML, and SML+AI groups, though the SML+AI group's load decreased descriptively](chatgpt-virtual-manipulatives-cognitive-load-no-group-difference.md) — related
 - [AR-based anatomy learning is associated with lower overall cognitive workload compared to traditional learning methods](ar-lower-cognitive-workload-than-traditional-learning.md) — related
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
+- [Surgeons using force feedback report a significant reduction in mental demand over time, with no significant between-cohort differences in SURG-TLX ratings](ffb-reduces-mental-demand-over-time.md) — related

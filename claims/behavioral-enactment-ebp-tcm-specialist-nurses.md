@@ -52,3 +52,4 @@ In the behavioral enactment theme, participants said hospital lecture-based trai
 - [Stakeholder buy-in from leaders, managers, physicians, and patients is reported by TCM specialist nurses as a key influence on their EBP competence development](stakeholder-buy-in-shapes-tcm-nurse-ebp-competence.md) — related
 - [TCM specialist nurses report uncertainty about what counts as evidence in TCM nursing and a shortage of robust, practice-ready evidence such as guidelines and consensus](evidence-uncertainty-shortage-tcm-nursing-ebp.md) — related
 - [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — related
+- [Medical trainees report inadequate understanding of the SDL concept and no dedicated instruction in it](trainees-lack-sdl-conceptual-understanding.md) — related

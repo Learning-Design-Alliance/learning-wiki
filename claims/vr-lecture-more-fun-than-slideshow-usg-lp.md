@@ -49,3 +49,4 @@ Dual-site randomized controlled trial of 55 medical students (27 slideshow, 28 V
 - [Distraction during lecture was reported only by slideshow participants, suggesting VR is more engaging](vr-more-engaging-fewer-distractions.md) — related
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
+- [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related

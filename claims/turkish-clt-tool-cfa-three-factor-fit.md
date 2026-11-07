@@ -52,3 +52,4 @@ Confirmatory factor analysis of responses from 101 second-year nursing students 
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [The Turkish-adapted Mindfulness in Teaching scale confirms its two-dimensional structure with adequate fit in the study sample](mindfulness-in-teaching-scale-turkish-cfa.md) — related
+- [Confirmatory factor analysis supports a three-factor structure of the six-item PtBL rubric with good fit](cfa-three-factor-rubric-good-fit.md) — related

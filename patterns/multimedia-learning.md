@@ -190,6 +190,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 - [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](../strategies/multimedia-and-homework-for-5e-phases.md)
 - [Apply slide design rules to limit text and enhance visual impact](../strategies/slide-design-rules-three-second-1-7-7-10-20-30.md)
+- [Integrate animated video education into pre-procedural patient education](../strategies/animated-video-preprocedural-education-strategy.md)
 
 ## Related Patterns
 

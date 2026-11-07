@@ -52,3 +52,4 @@ t-tests and one-way ANOVA on the 312-student survey. The printed effect sizes ar
 - [Spiritual health is positively correlated with core competencies of nursing intern students (r = 0.687)](spiritual-health-positively-correlated-nursing-intern-core-competencies.md) — related
 - [Demographic covariates (gender, age, birthplace, student cadre status, voluntary career choice) show no significant association with theoretical, practical, SRSSDL or CTDI-CV outcomes](demographics-not-associated-with-ltc-training-outcomes.md) — reports the opposite
 - [No significant differences in competence scores by residence, professional background, or employment intention for most domains](null-residence-specialty-employment-competence.md) — reports the opposite
+- [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related

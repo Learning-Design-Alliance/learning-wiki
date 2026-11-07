@@ -54,3 +54,4 @@ Preliminary correlational analysis (Table 2) of the 842-respondent Lesotho surve
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — reports the opposite
 - [Performance expectancy is the second strongest correlate of college students' intention to use GenAI (r = 0.389)](performance-expectancy-second-genai-intention.md) — related
 - [Perceived limitations and perceived educational impact correlate strongly and positively, while both correlate negatively with purpose of internet use, confidence, and perceived advantages](ckapq-construct-correlation-pattern.md) — related
+- [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — related

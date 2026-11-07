@@ -47,6 +47,7 @@ The article recommends using the rubric in two ways: 'This type of evaluation ca
 - [Master corneal suturing with a dedicated rubric before proceeding to penetrating keratoplasty](suture-rubric-before-pk-strategy.md)
 - [Integrate formal self-evaluation curriculum with timely supervisory feedback to develop accurate resident self-assessment](self-evaluation-curriculum-timely-feedback.md)
 - [Use the validated SSE scale routinely to track satisfaction and support data-driven curriculum improvement](routine-sse-tracking-curriculum-improvement.md)
+- [Use a short validated self-report rubric longitudinally to track SDL competency development and target students for remediation](longitudinal-sdl-rubric-tracking-strategy.md)
 
 ## Examples
 -

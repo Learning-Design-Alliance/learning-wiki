@@ -52,3 +52,4 @@ Inferential analyses using Mann-Whitney U and Kruskal-Wallis tests across demogr
 - [Knowledge scores rose from pre-test to post-test after the SDL package, in one uncontrolled pre-post study, with no significant difference in change by area of practice](no-practice-area-difference-sdl-ecg-knowledge-gain.md) — related
 - [Ward type did not differentiate general knowledge (p=0.993), but medical-ward nurses scored higher on basic concepts (p=0.031)](ward-type-null-general-knowledge-medical-ward-area-advantage.md) — related
 - [In final-stage training, medical and nursing students performed comparably on most sepsis knowledge and practice items, with some advantages for medical students](final-stage-students-comparable-sepsis-performance.md) — related
+- [Pre-course skill levels differ by professional occupation, with doctors and nurses scoring lower than operational staff on several emergency-response items](metra-course-occupation-subgroup-differences.md) — related

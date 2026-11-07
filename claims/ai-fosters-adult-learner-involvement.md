@@ -68,3 +68,5 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [AI applications in clinical education enhance learner engagement, flexibility, feedback, and objective competency assessment](ai-enhances-engagement-feedback-assessment-clinical-education.md) — related
 - [Students rate the GPT companion's formative assessment features highly, including question quality, feedback usefulness, and critical thinking support](positive-perceptions-formative-assessment-features-gpt-companion.md) — related
 - [Moderators fostered participation through personalized prompts, affirming language, welcoming tone, and balanced encouragement frequency](moderator-participation-encouragement-techniques.md) — related
+- [Autonomy for exploration sustains teachers' motivation](autonomy-for-exploration-sustains-teacher-motivation.md) — related
+- [Facilitators consider positive feedback crucial for learning and deliberately foster positive aspects of simulation performance](facilitators-foster-positive-feedback.md) — related

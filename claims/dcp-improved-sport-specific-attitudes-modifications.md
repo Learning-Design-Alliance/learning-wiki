@@ -48,3 +48,4 @@ A repeated measures ANOVA on the sport-specific subscale found significant main 
 ## Related Claims
 - [A three-week Disability Camp Program significantly improved general attitudes of campers without disabilities toward including a peer with a physical disability in a summer sport and leisure activity camp](dcp-improved-general-attitudes-toward-inclusion-camp.md) — related
 - [Simulated disability sport activities (wheelchair basketball, wheelchair rugby, boccia) were perceived by the authors as the most important activities leading to positive attitude change](simulated-disability-sports-most-important-activity.md) — related
+- [Post-training attitudes improved overall, but only the attitude towards telerehabilitation changed significantly](stp-attitude-change-telerehabilitation-only.md) — related

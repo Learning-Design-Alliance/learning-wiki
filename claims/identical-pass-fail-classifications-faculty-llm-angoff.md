@@ -48,3 +48,4 @@ Agreement analysis of pass/fail classifications for 73 students under faculty- v
 ## Related Claims
 - [LLM-generated modified Angoff cutoff estimates are comparable to faculty-generated estimates for a medical MCQ examination](llm-angoff-estimates-comparable-to-faculty.md) — related
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
+- [Applying theoretical concepts to phylogeny interpretation was the hardest assessed skill, with 73.4% of students failing to meet minimum standards in the Discussion section](discussion-section-greatest-difficulty-phylogeny.md) — related

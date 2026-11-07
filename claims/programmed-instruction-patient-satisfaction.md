@@ -48,3 +48,4 @@ An 11-item Patient Satisfaction with Nursing Student Care questionnaire (adapted
 - [Undergraduate nursing students taught with Skinner's programmed instruction achieved higher post-intervention diabetes knowledge scores than students taught with traditional lectures](programmed-instruction-higher-diabetes-knowledge.md) — related
 - [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related
+- [Patients rated CMRL trainees higher than MBL trainees on satisfaction, medical ability, communication skills, and patient care after teaching](cmrl-patient-evaluations-higher-than-mbl.md) — related

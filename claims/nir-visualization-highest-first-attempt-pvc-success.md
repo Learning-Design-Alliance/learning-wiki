@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: yılmaz-hülya-2025
     resource: "https://doi.org/10.1186/s12909-025-07350-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized controlled study of 147 first-year nursing students, the NIR light visualization group had a significantly higher proportion of first-attempt PVC success (67.3%) than the isometric exercise group (40%) and the control group (29.2%). [→ Yılmaz Hülya 2025](#ylmaz-hulya-2025)

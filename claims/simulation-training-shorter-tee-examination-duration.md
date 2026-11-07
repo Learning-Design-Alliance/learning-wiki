@@ -53,3 +53,4 @@ Same randomized trial's live clinical assessment on pediatric patients aged 10�
 - [A single VR training session before a tibial nailing synthetic-bone exercise significantly reduces completion time (about 5 minutes faster, P=.007)](vr-pretraining-faster-tibia-nailing.md) — related
 - [Simulator training substantially shortened the total time novices needed to complete the 16-view simulated TEE examination](tee-simulator-training-shortens-examination-time.md) — related
 - [In one uncontrolled pre-post study, the frequency of novice students passing the full 16-view simulated TEE examination without major errors rose from Test 1 to Test 2 after TEE simulator training](tee-simulator-training-increases-pass-rate.md) — related
+- [Nurses trained with NIVR simulation completed the six OSCE tasks significantly faster than conventionally trained nurses](nivr-training-faster-total-task-completion.md) — related

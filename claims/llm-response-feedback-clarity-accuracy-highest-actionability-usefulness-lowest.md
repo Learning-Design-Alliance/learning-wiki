@@ -52,3 +52,5 @@ Cross-sectional rating study of 144 students across three educational levels who
 - [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](perceived-accuracy-lower-ctesp-context-difference.md) — related
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related
 - [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](students-rate-moderated-ai-feedback-median-4-of-5.md) — related
+- [Alignment of LLM recommendations with individual student data showed more variability than clarity or actionability ratings](llm-recommendation-alignment-variable.md) — related
+- [Validators rated LLM-generated personalized recommendations as generally clear and actionable for most of the eight evaluated students](llm-recommendations-rated-clear-actionable.md) — related

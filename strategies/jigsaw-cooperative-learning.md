@@ -63,6 +63,7 @@ Jigsaw converts the accountability problem of group work into a structural featu
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the learner-as-explainer role but rotates fixed comprehension strategies rather than content segments
 - [Peer Instruction](peer-instruction.md) — similar peer-teaching mechanism, driven by conceptual questions rather than segmented content
 - [Use inter-group Jigsaw participation so each group member teaches his topic to other groups and returns to teach his initial group.](jigsaw-inter-group-participation-strategy.md)
+- [Use trained facilitator support and contingency planning to mitigate jigsaw's coverage and participation risks](facilitator-support-contingency-jigsaw.md)
 
 ## Examples
 - **The Jigsaw Classroom** ([jigsaw.org](https://www.jigsaw.org)) — Elliot Aronson's original implementation in Austin, TX elementary classrooms, where each child owned one biography segment of a history unit.

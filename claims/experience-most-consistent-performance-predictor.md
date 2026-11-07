@@ -71,3 +71,4 @@ Simmons 2 catheter results from the same experienced-vs-inexperienced comparison
 - [Experienced groups show higher instructional efficiency than inexperienced groups in the delayed retention test after collaborative learning](zambrano-2019-experienced-groups-more-efficient-retention.md) — a broader claim this one bears on
 - [No significant group difference in procedure time or number of fluoroscopic images; experienced surgeons used more fluoroscopy, which the authors argue should not compromise care quality](no-significant-difference-time-fluoroscopy-count.md) — reports the opposite
 - [A participant with prior radiology internship experience showed a below-average fluoroscopy-time reduction](prior-radiology-internship-below-average-improvement.md) — related
+- [Baseline skill differences by prior helicopter boarding experience largely disappear after the course, except impact-protection positioning](metra-course-experience-subgroup-differences.md) — related

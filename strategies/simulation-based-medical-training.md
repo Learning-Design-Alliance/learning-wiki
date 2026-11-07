@@ -87,6 +87,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Blend peer-assisted learning with scenario simulation: role-assigned team simulation with peer feedback and instructor-led debriefing for trauma first aid training](peer-assisted-scenario-simulation-blended-training.md)
 - [Deliver sensitive-conversation training as a blend of simulation practice with facilitator-led and role-play elements](blend-simulation-with-facilitated-roleplay-strategy.md)
 - [Use low-cost task simulators within high-fidelity scenarios as a first step in a train-the-trainer cascade for bleeding control](train-the-trainer-cascade-bleeding-control.md)
+- [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

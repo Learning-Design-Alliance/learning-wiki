@@ -51,3 +51,4 @@ Survey item from the 179-student study contrasting two attitudes: support for VR
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related
 - [Undergraduate medical students rate VR anatomy scenarios as accurate and realistic compared to the traditional anatomy lab](vr-anatomy-scenarios-rated-accurate-realistic.md) — related
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
+- [A VR-based OSCE station can be integrated into an established curricular OSCE with 93% of students using the VR technology without issues](vrs-osce-integration-feasible.md) — related

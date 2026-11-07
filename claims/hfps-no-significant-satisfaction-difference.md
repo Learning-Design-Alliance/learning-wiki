@@ -53,3 +53,4 @@ Random-effect meta-analysis of self-rating satisfaction instruments measured jus
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-efficacy (d=0.05)](hfps-no-significant-self-efficacy-difference.md) — related
 - [No clear differences in ALS performance metrics in the asystole scenario between groups](app-no-asystole-performance-difference.md) — related
+- [No statistically significant difference between groups in understanding of teaching objectives, satisfaction with the preview method, or satisfaction with the curriculum](flipped-classroom-null-objectives-preview-curriculum-satisfaction.md) — related

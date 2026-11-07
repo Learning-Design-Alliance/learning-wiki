@@ -23,7 +23,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (14 for, 8 mixed) · 36 studies (14 quant-synthesis, 7 review, 6 causal, 6 theoretical, 2 associational, 1 design), `q1`–`q4` · 11 of 36 report an effect size · 13 claims rest on one study
+> **Evidence** · 23 claims (15 for, 8 mixed) · 37 studies (14 quant-synthesis, 7 causal, 7 review, 6 theoretical, 2 associational, 1 design), `q1`–`q4` · 11 of 37 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,7 @@ Re-read against the model on 2026-10-15; these two do not bear on its relationsh
 - [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](../claims/practice-opportunities-needed-after-verbal-instruction.md) [+M] — added 2026-11-05 from Koedinger et al. (2023), 27 datasets from online practice systems with feedback; not yet read against the model above.
 - [Across 20 virtual patient cases with automated feedback, students' diagnostic justification, test ordering, cognitive errors and misdiagnosis rates improved with case sequence without plateau, in a non-randomised observational study](../claims/deliberate-practice-improves-cr-no-plateau.md) [+W] — attached 2026-11-05 from Waechter Jason et al. (2026), which proposed "Deliberate-practice virtual patient case sequence with staged differential diagnosis revision and per-case feedback"; tests this page's relationship.
 - [In this case, DP supervision of a therapist delivering Behavioral Activation coincided with improved client outcomes, with BDI falling from 31 at intake to 15 at final assessment](../claims/dp-supervision-case-bdi-improvement.md) [+W] — attached 2026-11-06 from Sacks (2025), which proposed "Choose clearly defined, behaviorally described treatments as the vehicle for DP skill training".
+- [Deliberate practice yields significantly higher OSCE scores than conventional lecture in trauma training for pre-clinical medical students](../claims/deliberate-practice-higher-osce-trauma-training.md) [+W] — attached 2026-11-07 from Kanoksin Suksan et al. (2025), which proposed "Use deliberate practice to complement, not replace, lecture-based instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

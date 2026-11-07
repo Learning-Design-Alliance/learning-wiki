@@ -55,3 +55,4 @@ Within the Factor 1 (Pessimistic Evaluators) viewpoint, concerns about misleadin
 - [AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration](ai-biased-inaccurate-outputs-require-critical-evaluation.md) — related
 - [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
+- [The sampled practice material contains potentially inaccurate or misleading radiation therapy information, for which the authors propose specific corrections](inaccurate-rt-content-nbme-practice-questions.md) — related

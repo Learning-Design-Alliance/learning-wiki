@@ -51,7 +51,8 @@ The study advocates integrating SBE into Malawian nursing and midwifery educatio
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](../claims/students-report-ineffective-clinical-feedback-nanda.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 
 ## Examples
 -

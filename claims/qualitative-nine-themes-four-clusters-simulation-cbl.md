@@ -53,3 +53,4 @@ Qualitative arm of the mixed-methods sequential explanatory design: semi-structu
 - [Students' learning experiences clustered into the theme 'a learner as a director in the learning process', with self-regulation and dynamic formation of applied knowledge categories](learner-as-director-theme.md) — related
 - [Qualitative analysis of 492 participant quotes suggests the observed behavioral changes resulted from sense-making emerging from five themes about the training experience](vr-training-sense-making-five-themes.md) — related
 - [Inductive analysis of 24 empathy canvases identified 32 learning gains and 18 pain points across self-awareness, teamwork, learning efficiency, and comprehensive ability](empathy-canvas-gains-pain-points-four-dimensions.md) — related
+- [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related

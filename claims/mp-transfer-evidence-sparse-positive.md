@@ -69,3 +69,4 @@ The SREA reports, citing Anton et al., an endovascular surgery study in which "e
 - [Evidence for mental practice impacts in surgery does not exceed Kirkpatrick level 3, and no study reported system-level (level 4) change](mp-evidence-capped-kirkpatrick-level-3.md)
 - [Reviews report that mental practice effectiveness may depend on individual imagery strength, and that MP interventions vary widely in duration, delivery mode and setting](mp-imagery-strength-and-delivery-variation.md) — related
 - [Mental practice improves surgical technical and non-technical performance in the majority of primary studies synthesised in systematic reviews](mp-improves-surgical-performance-majority.md) — a broader claim this one bears on
+- [Academic PCCM faculty use mental practice primarily to rehearse strategies for anticipating and troubleshooting problems during procedures](faculty-mental-practice-strategy-rehearsal.md) — related

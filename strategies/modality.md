@@ -64,6 +64,7 @@ When learners must read text and simultaneously view an animation, both compete 
 - [Signaling](../strategies/signaling.md) — directs attention within the narrated visual
 - [Coherence](../strategies/coherence.md) — removes extraneous material that competes for the freed channel
 - [Accompany animated instructional material with guide flyers or booklets explaining its functioning principles](guide-booklets-accompany-animated-materials.md)
+- [Integrate animated video education into pre-procedural patient education](animated-video-preprocedural-education-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated problem-solving videos with handwritten-style visuals; words are spoken, not displayed as paragraphs.

@@ -70,3 +70,4 @@ Within the intervention group, Wilcoxon signed-rank tests showed self-rated clin
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses](in-situ-set-improves-first-aid-junior-nurses.md) — related
 - [In situ simulated emergency training does not significantly improve critical thinking in junior nurses](in-situ-set-no-effect-critical-thinking.md) — related
+- [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](self-assessed-clinical-reasoning-competency-improves-tbl.md) — related

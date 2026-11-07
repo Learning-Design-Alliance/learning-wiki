@@ -52,3 +52,6 @@ Theme from thematic analysis of focus groups and reflective journals with 21 pos
 - [Collaborative learning in the postgraduate PBL course did not achieve deep peer collaboration, unlike the positive self-directed learning outcomes](pbl-collaborative-learning-shortfall.md) — related
 - [Postgraduate nursing students in the PBL course reported a multi-layered sense of accomplishment spanning knowledge gains, emotional satisfaction, and professional identity development](pbl-sense-of-accomplishment-nursing.md) — related
 - [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](professional-credibility-enables-agentic-learning.md) — related
+- [Autonomy for exploration sustains teachers' motivation](autonomy-for-exploration-sustains-teacher-motivation.md) — related
+- [Engagement with continuous personal and professional development sustains teachers' motivation](continuous-personal-professional-development-sustains-teacher-motivation.md) — related
+- [Pleasure in the teaching profession, via multidimensionality and positive self-worth, sustains teachers' motivation](pleasure-in-teaching-profession-sustains-teacher-motivation.md) — related

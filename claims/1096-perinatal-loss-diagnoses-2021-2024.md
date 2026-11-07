@@ -54,3 +54,4 @@ Retrospective administrative-data query of the institution's data warehouse for 
 - [Staff who received formal perinatal bereavement education report greater self-awareness than those who did not](formal-bereavement-education-higher-self-awareness.md) — related
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [A train-the-trainer, mono-professional simulation-based obstetric training program did not change the combined maternal and perinatal mortality rate in a low-resource referral hospital](mono-professional-obstetric-simulation-no-combined-mortality-change.md) — related
+- [High patient volume and inadequate supplies adversely affect midwives' neonatal resuscitation performance and neonatal survival in a low-resource referral hospital](patient-volume-supplies-hamper-neonatal-resuscitation.md) — related

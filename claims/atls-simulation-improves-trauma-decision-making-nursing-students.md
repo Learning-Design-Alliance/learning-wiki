@@ -72,3 +72,4 @@ Results section of the same repeated measures ANOVA: "both time and group had si
 - [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — possibly the same claim (merge candidate)
 - [Adding an aging simulation suit experience to theoretical training improves clinical empathy (JSPE-HPS total) in long-term care professionals](aging-suit-improves-jspe-total-empathy.md) — related
 - [Scores improve over the three assessment stages in both groups, with a significant time-by-group interaction](mini-cex-logbook-time-group-interaction-significant.md) — related
+- [Communication self-confidence improved significantly over time in both groups, with a significant group-by-time interaction favoring the experimental group](communication-confidence-time-effect-and-interaction.md) — related

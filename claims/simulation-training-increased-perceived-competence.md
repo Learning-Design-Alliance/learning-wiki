@@ -59,3 +59,4 @@ Wilcoxon signed-rank tests on self-reported perceived competence (15 items, Cron
 - [Medical students' self-rated self-efficacy scores rose significantly from pretest to posttest after hybrid simulation-based training, in one uncontrolled pre-post study](hybrid-sbt-increases-self-efficacy-medical-students.md) — related
 - [Self-assessed knowledge of urgent laryngectomy care increased significantly post-training across all individual items and in composite knowledge score](simulation-training-knowledge-gains-significant.md) — related
 - [Self-assessed confidence in managing urgent laryngectomy care improved post-training but the composite gain did not reach statistical significance](confidence-gains-not-significant-post-simulation.md) — related
+- [Subjective competence in brain death diagnosis increased significantly after the VR simulation](subjective-competence-gain-after-vr-simulation.md) — a narrower finding that bears on this claim

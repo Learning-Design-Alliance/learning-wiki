@@ -54,3 +54,4 @@ ANCOVA comparison of post-rotation SRSSDL self-directed learning readiness score
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [Eighth graders taught with the Herrmann Whole Brain Teaching Method significantly outperformed conventionally taught peers on conceptual understanding of simple electric circuits](hwbtm-outperforms-conventional-electric-circuits.md) — related
 - [Self-directed learning partially mediated the association between iHEC teaching model and educational performance, accounting for 51.4% of the total association](sdl-partial-mediation-ihec-performance.md) — related
+- [Students enrolled in private medical colleges report significantly higher self-directed learning readiness than public-college students](private-college-students-higher-sdl-readiness.md) — related

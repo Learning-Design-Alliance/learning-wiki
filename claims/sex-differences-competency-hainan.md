@@ -53,3 +53,5 @@ Group-comparison analysis (Table 2) of the 54 participants (39 female, 15 male) 
 - [Post-training microscopy performance showed no significant correlation with age, gender, educational background, or number of blood smears examined over the preceding 5 years](no-demographic-correlation-with-post-training-performance.md) — reports the opposite
 - [Female medical students score significantly higher than male students on OSCE modules and total score except auxiliary examination analysis](female-osce-outperformance-except-auxiliary-examination.md) — related
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — reports the opposite
+- [Female physicians rate all six competency domains higher than male physicians](female-physicians-higher-competency-domain-scores.md) — related
+- [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related

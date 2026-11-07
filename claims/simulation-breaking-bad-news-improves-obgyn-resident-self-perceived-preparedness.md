@@ -51,3 +51,4 @@ Pre-post survey of 13 OB/GYN residents completing the curriculum, analyzed with 
 - [Residents overwhelmingly endorse the SPIKES protocol as useful in clinical practice after training](residents-endorse-spikes-protocol-usefulness.md) — related
 - [Knowledge and confidence improvements show no significant differences among specialties](menopause-simulation-no-specialty-differences.md) — related
 - [In an uncontrolled pre–post study, both lecture and simulation cohorts had statistically significantly higher self-reported knowledge, competence, and comfort with breaking bad news after training than before (p < 0.001)](bbn-both-modalities-significant-prepost-gains.md) — related
+- [Deliberate practice students report significantly higher confidence and preparedness than conventional lecture students](deliberate-practice-higher-confidence-preparedness.md) — related

@@ -77,3 +77,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Three themes emerged from qualitative analysis: prioritizing patient care; representing variability in anatomy and PFDs for realism; and consideration of implementation, cost, and accessibility](three-themes-patient-care-realism-cost-accessibility.md) — related
 - [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](headset-added-little-over-360-video.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
+- [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related

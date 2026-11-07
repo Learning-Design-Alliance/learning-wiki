@@ -52,3 +52,4 @@ Fixed-effects meta-analysis of four randomized controlled trials assessing VR fo
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
 - [Digital platform-based reciprocal peer practice improves operational skills more than traditional small-group practice in nursing students](rpp-digital-platform-operational-skills-gains.md) — a narrower finding that bears on this claim
+- [The VRS intervention showed a significantly higher regression coefficient for learning confidence than traditional teaching in a generalized estimating equations model](vrs-greater-learning-confidence-growth.md) — related

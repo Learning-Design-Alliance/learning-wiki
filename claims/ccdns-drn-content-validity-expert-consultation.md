@@ -56,3 +56,4 @@ Expert consultation step with 10 experts from the Disaster Nursing Specialized C
 - [Content validity of the Aquablation simulator is rated excellent by experts, with an S-CVI/Ave of 0.91 but unanimous agreement on only half of the items (S-CVI/UA = 0.50)](aquablation-simulator-content-validity-scvi.md) — related
 - [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related
 - [Expert content validation rated all rubric items above 0.50 on the item-objective congruence index, ranging from 0.67 to 1.00](ioc-content-validity-acls-rubric.md) — related
+- [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related

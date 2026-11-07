@@ -48,3 +48,4 @@ Partial Spearman correlation in the online avatar study with 268 medical student
 - [A Duchenne smile versus a neutral expression does not increase the likelihood of positive ad hoc entrustment decisions by medical students](duchenne-smile-no-entrustment-effect.md) — related
 - [A Duchenne smile versus a neutral expression does not increase medical students' trustworthiness ratings of avatar trustees](duchenne-smile-no-trustworthiness-effect.md) — related
 - [Medical students vary randomly in entrustment behavior and trustworthiness assessments, while avatar trustees produced no random effects](participant-variability-avatar-null-random-effects.md) — related
+- [TT cases were selectively simpler, in older children, and performed during working hours on weekdays, reflecting ad hoc entrustment-based case selection](tt-case-selection-simpler-in-hours.md) — related

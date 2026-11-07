@@ -52,3 +52,4 @@ Semi-structured interviews (45–60 minutes) with 15 CALD-background occupationa
 - [Linguistic and cultural barriers are the most frequently mentioned challenges CALD students face in SBL](linguistic-cultural-barriers-sbl-cald-students.md) — related
 - [Language barriers impose internal translation, delayed responses and hesitation to speak for CALD students in simulation-based learning](language-barriers-delayed-translation-sbl.md) — related
 - [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](peer-educator-relationships-cald-sbl.md) — related
+- [Self-efficacy scores of occupational therapy students increased significantly after OSCE with simulation-based learning](osce-self-efficacy-significant-increase.md) — related

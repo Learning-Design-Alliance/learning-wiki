@@ -65,3 +65,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Attitude shows the strongest positive correlation with college students' intention to use GenAI (r = 0.576)](attitude-strongest-correlate-genai-intention.md) — related
 - [Performance expectancy is the second strongest correlate of college students' intention to use GenAI (r = 0.389)](performance-expectancy-second-genai-intention.md) — related
 - [Perceived limitations and perceived educational impact correlate strongly and positively, while both correlate negatively with purpose of internet use, confidence, and perceived advantages](ckapq-construct-correlation-pattern.md) — related
+- [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — related

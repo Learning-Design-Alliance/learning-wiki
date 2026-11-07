@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 97 claims (63 for, 32 mixed, 2 against) · 68 studies (32 causal, 14 quant-synthesis, 8 associational, 7 review, 3 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 15 of 68 report an effect size · 95 claims rest on one study
+> **Evidence** · 98 claims (64 for, 32 mixed, 2 against) · 69 studies (32 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 15 of 69 report an effect size · 96 claims rest on one study
 
 ## Description and scope
 
@@ -124,6 +124,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [No statistically significant difference in overall proportion of correct answers on dental trauma cases between control, webinar-only, and combined webinar-plus-in-person intervention groups of general dentists](../claims/no-significant-overall-difference-dental-trauma-cpd-groups.md) [~W] — attached 2026-11-06 from Cvijic Andjelka et al. (2025), which proposed "Combine educational formats and promote interaction in CPD, because passive webinar-only learning showed limited knowledge effects"; tests this page's relationship.
 - [The combined webinar-plus-in-person group answered significantly better than the control group on complicated crown fracture of the immature tooth and first-aid advice for avulsed teeth](../claims/combined-intervention-better-crown-fracture-avulsion-cases.md) [+W] — attached 2026-11-06 from Cvijic Andjelka et al. (2025), which proposed "Combine educational formats and promote interaction in CPD, because passive webinar-only learning showed limited knowledge effects"; tests this page's relationship.
 - [Students rated the redesigned blended learning radiotherapy module positively across design, skills acquisition, seminar, and internship items](../claims/positive-student-evaluation-blended-radiotherapy-module.md) [+W] — attached 2026-11-06 from Knöchelmann AC et al. (2025), which proposed "Blended learning pattern interweaving digital self-learning modules, activating online case seminars, and clinical practical experience".
+- [Students preferred a hybrid ALG model (50.4%) over fully in-person (40.4%) or fully virtual (9.2%), with no significant difference across groups](../claims/hybrid-alg-preference-plurality.md) [+W] — attached 2026-11-07 from Malta Kiana et al. (2025), which proposed "Deliver case-based active learning groups in a primarily in-person hybrid format, reserving virtual sessions for flexibility".
 
 ## Illustrative design instance and observation record
 

@@ -49,3 +49,4 @@ Descriptive analysis of 392 nurses' scale scores (Table 1). The authors interpre
 - [Self-efficacy is positively associated with core competence among infectious disease nurses](self-efficacy-core-competence-infectious-disease-nurses.md) — related
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Humanistic care-integrated Mini-CEX teaching yields higher core competency total scores than conventional instruction in nursing students](mini-cex-humanistic-care-higher-core-competency.md) — related
+- [Clinical nurses in Hunan province score above average on narrative medicine competence, with attentive listening the lowest-scoring dimension](hunan-nurses-nm-competence-above-average.md) — related

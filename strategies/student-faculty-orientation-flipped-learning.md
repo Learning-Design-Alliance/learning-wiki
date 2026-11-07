@@ -39,6 +39,7 @@ Effective implementation requires "clear, consistent, and ongoing communication 
 ## Related Strategies
 
 - [Maintain transparent, ongoing communication through consistent schedules, agendas, and multiple channels](transparent-ongoing-parent-council-communication.md)
+- [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](faculty-development-and-orientation-for-tbl.md)
 
 ## Examples
 -

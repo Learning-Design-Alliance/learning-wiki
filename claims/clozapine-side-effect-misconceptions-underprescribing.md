@@ -69,3 +69,4 @@ Survey of doctors, nurses and allied health workers reported within the review: 
 - [Health care professionals show substantial knowledge gaps about clozapine side effects, especially myocarditis and seizures](clozapine-side-effect-knowledge-gaps-professionals.md) — related
 - [Professionals self-report competence with clozapine guidelines but express less confidence in adhering to them](hcp-self-reported-competence-exceeds-confidence-clozapine.md) — related
 - [Publication of UK guidelines reduced variation in clozapine prescribing from 34-fold to 5-fold](guidelines-reduced-clozapine-prescribing-variation.md) — related
+- [Prescribing rates vary widely by country: Danish and British nurses more likely to prescribe, with Italian, Cypriot and Polish nurses notably lower](hf-nurse-prescribing-varies-by-country.md) — related

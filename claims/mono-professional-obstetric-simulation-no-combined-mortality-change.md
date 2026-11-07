@@ -54,3 +54,4 @@ Stepped-wedge cluster randomized trial at Mulago National Referral Hospital, Uga
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
 - [A cluster-randomized PRONTO-based quality improvement package in Kenya and Uganda reduced neonatal mortality and stillbirth among intervention facilities](pronto-cluster-randomized-reduced-neonatal-mortality.md) — related
+- [High patient volume and inadequate supplies adversely affect midwives' neonatal resuscitation performance and neonatal survival in a low-resource referral hospital](patient-volume-supplies-hamper-neonatal-resuscitation.md) — related

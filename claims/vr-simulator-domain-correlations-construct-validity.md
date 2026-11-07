@@ -49,3 +49,4 @@ Correlational analysis within the same 31-participant questionnaire validation s
 - [Post-intervention psychological, cognitive and physiological measures showed uniformly strong positive correlations](post-intervention-measures-correlated-positively.md) — related
 - [The VR TTTS simulator received strong positive validation across five domains, with training effectiveness the highest-endorsed at 87%](vr-ttts-simulator-strong-positive-validation.md) — related
 - [VR simulation is rated highly effective for distinguishing tooth textures and more engaging than manikin training](vr-engagement-tactile-tooth-texture.md) — related
+- [85% of training-model users rated the model as highly effective for skill development](eighty-five-percent-rated-model-highly-effective.md) — related

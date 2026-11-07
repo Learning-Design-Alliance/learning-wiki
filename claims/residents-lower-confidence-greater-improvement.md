@@ -51,3 +51,4 @@ Between-group comparison of 109 workshop participants stratified by academic lev
 - [Years of musculoskeletal ultrasound experience correlate positively with pre- and post-course self-reported confidence but negatively with self-reported confidence improvement](usg-experience-confidence-correlations.md) — related
 - [Weekly ultrasound-guided injection volume correlates moderately with pre-course confidence, weakly with post-course confidence, and negatively with confidence improvement](weekly-injection-volume-confidence-correlations.md) — related
 - [Participants without prior ultrasound course experience showed greater knowledge gains (26.7 vs 20 points, p = 0.003) despite lower pre- and post-course scores](rush-mooc-novice-greater-gains.md) — related
+- [Baseline skill differences by prior helicopter boarding experience largely disappear after the course, except impact-protection positioning](metra-course-experience-subgroup-differences.md) — related

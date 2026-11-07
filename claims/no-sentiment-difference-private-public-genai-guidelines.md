@@ -50,3 +50,4 @@ Sentiment analysis using the VADER Sentiment Intensity Analyzer on 214 guideline
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
 - [Sentiment differs significantly across target audiences, with faculty-targeted guidelines more positive than student-targeted ones](audience-sentiment-difference-faculty-students.md) — related
 - [Public-sector university students show higher knowledge and more positive attitudes toward antifungal stewardship than private-sector students](public-sector-students-higher-knowledge-antifungal.md) — related
+- [Physicians working in the private sector prefer communication-domain competencies more than others](private-sector-communication-domain-preference.md) — related

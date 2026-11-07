@@ -58,3 +58,4 @@ Multivariate linear regression on 392 nurses (F = 71.446, p < 0.001, R2 = 0.711)
 - [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — related
 - [Hospital administrators report that practice and on-the-job experience, not dedicated study, are the foundations on which their HIT competencies are built](ha-competencies-built-through-practice-experience.md) — related
 - [Position and palliative care-related education or training, along with work experience, autonomous learning capacity and job satisfaction, show significant bivariate differences in core competency](bivariate-differences-position-training-learning-satisfaction.md) — related
+- [Nurses in level III (tertiary) hospitals score higher on NM competence than counterparts in level II hospitals](tertiary-hospital-nurses-higher-nm-competence.md) — related

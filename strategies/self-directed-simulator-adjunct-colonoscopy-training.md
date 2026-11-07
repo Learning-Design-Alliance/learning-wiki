@@ -52,6 +52,7 @@ The authors recommend structured simulator-based practice as a low-risk adjunct 
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
+- [Add direct observation of the learner's simulated encounter before the coaching session](direct-observation-before-coaching-strategy.md)
 
 ## Examples
 -

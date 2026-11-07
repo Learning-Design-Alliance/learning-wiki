@@ -54,6 +54,7 @@ The article recommends adapting imported competency frameworks to local conditio
 - [Adopt student-centered innovative learning models and build teacher capacity to implement them in mathematics and statistics](adopt-innovative-models-pd-math-statistics.md)
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
 - [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
+- [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
 
 ## Examples
 -

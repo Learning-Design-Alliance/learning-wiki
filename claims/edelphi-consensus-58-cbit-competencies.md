@@ -59,3 +59,4 @@ Three-round e-Delphi study (March–May 2024) with an international expert panel
 - [Delphi experts judged interprofessional team approaches essential in primary care for chronic disease, rehabilitation, end-of-life, and mental health cases, with physicians, nurses, and social workers as essential team members](delphi-team-approach-essential-cases-composition.md) — related
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
+- [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related

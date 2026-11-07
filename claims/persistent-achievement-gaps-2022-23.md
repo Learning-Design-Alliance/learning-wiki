@@ -58,3 +58,4 @@ The brief tracked "the gap in achievement between the COVID year student group c
 - [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](months-of-schooling-needed-to-catch-up-2023-24.md) — related
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-gap-widened-2023-24.md) — related
 - [The COVID-affected cohort caught up to the control cohort in reading fluency one year after the pandemic](covid-cohort-caught-up-control-cohort-end-grade-four.md) — reports the opposite
+- [Medical students' academic performance in 2023, after 18 months of war, was significantly lower than in the pre-war 2019 cohort across all years of study](gpa-decline-2023-versus-2019-wartime-medical-students.md) — related

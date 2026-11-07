@@ -48,3 +48,4 @@ The commentary reports, citing Padilla et al. (2011), Rørstad & Aksnes (2015) a
 - [Grant award procedures have historically favoured men, with women winning fewer and lower value grants](grant-awards-historically-favoured-men.md) — related
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
 - [Research specialisation relates positively to female academics' productivity, but productivity growth favours male academics by mid-career](specialisation-productivity-gender-growth-gap.md) — related
+- [Men report clearer medium- and long-term career plans and are more prone to research, entrepreneurship and administrative roles than women, who favour public-service-oriented roles](gender-differences-career-plans-medical-students.md) — related

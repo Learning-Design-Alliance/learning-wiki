@@ -56,3 +56,4 @@ Latent-variable SEM of the 400-student survey. The article reports these negativ
 - [Usefulness, ease of use, social influence, facilitating conditions and community identity each have a significant positive influence on Facebook adoption.](five-factors-significant-positive-influence-facebook-adoption.md) — related
 - [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](effort-expectancy-mediated-by-attitude.md) — reports the opposite
 - [Perceived limitations and perceived educational impact correlate strongly and positively, while both correlate negatively with purpose of internet use, confidence, and perceived advantages](ckapq-construct-correlation-pattern.md) — related
+- [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — reports the opposite

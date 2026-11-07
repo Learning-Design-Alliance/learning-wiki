@@ -48,3 +48,4 @@ Non-controlled trial (Table 3) of 31 surgical residents naive to RAS who complet
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Two randomized trials of dVSS or dV-Trainer training to proficiency found no significant differences between trained and control groups on operative performance](rcts-no-significant-difference-vr-trained-versus-controls.md) — related
+- [Resident workload is predicted by PGY level, sleep, operative time, case number, and pre-procedure anxiety in both simulated and live robotic bariatric surgery](workload-regression-predictors-pgy-sleep-time-stai.md) — related

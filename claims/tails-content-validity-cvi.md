@@ -68,3 +68,5 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related
 - [Expert judges rated the branching virtual simulation's content as valid, with CVI, CVC and CVR above 0.80 and an average score of 4.3](content-validation-branching-simulation-cvi-cvc-cvr.md) — related
 - [Expert content validation rated all rubric items above 0.50 on the item-objective congruence index, ranging from 0.67 to 1.00](ioc-content-validity-acls-rubric.md) — related
+- [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
+- [Expert panel content validation of the TBL-SAI-TR yields an average content validity index of 0.95](tbl-sai-tr-content-validity-cvi-095.md) — related

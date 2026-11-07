@@ -49,3 +49,4 @@ Post-course evaluation of the boot camp in which students rated training effects
 - [Over 80% of RFPETM students gave positive evaluations of the model's teaching methods, learning experiences, and cultivation of innovative abilities](rfpetm-positive-student-evaluations-over-80-percent.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Intervention students rated the blended learning experience less favorably but rated learning-goal clarity, structure, and curricular alignment higher than controls](mixed-course-evaluation-favors-structure-not-format.md) — related
+- [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related

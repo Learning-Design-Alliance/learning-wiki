@@ -50,3 +50,4 @@ Usage and questionnaire check (111 questionnaires) for confounds: task-related m
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md)
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
 - [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](anchored-discussion-content-referrals-rereading.md) — related
+- [Both the VR and PC versions of the GPE simulation had reported ease-of-use difficulties, limiting the modality contrast on this metric](ease-of-use-difficulty-both-versions.md) — related

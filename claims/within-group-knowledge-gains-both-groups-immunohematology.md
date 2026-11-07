@@ -58,3 +58,5 @@ Within-group pre–post comparisons using Wilcoxon Signed Ranks Test found stati
 - [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — possibly the same claim (merge candidate)
 - [All three groups showed statistically significant pre-test to post-test knowledge gains, with no significant between-group differences in post-test PVC knowledge](all-groups-knowledge-gains-no-between-group-difference.md) — related
 - [In the simulation group, quiz scores increased significantly after both the lecture and simulator practice](simulation-group-significant-gains-lecture-and-practice.md) — related
+- [Both flipped and traditional patient safety training significantly improved self-reported competency within groups](both-groups-prepost-competency-improvement.md) — related
+- [Flipped learning improved knowledge and skill subscale gains but not attitude gains relative to traditional instruction](flipped-learning-knowledge-skill-not-attitude-gains.md) — related

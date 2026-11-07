@@ -51,6 +51,7 @@ Before implementation, peer tutors received a two-hour workshop held half a mont
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
+- [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
 
 ## Examples
 -

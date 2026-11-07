@@ -50,3 +50,4 @@ Post-lecture Likert survey in the same randomized trial; medians with interquart
 - [Medical students rate VR lectures as more fun than slideshow lectures for learning ultrasound-guided lumbar puncture](vr-lecture-more-fun-than-slideshow-usg-lp.md) — a narrower finding that bears on this claim
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
+- [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related

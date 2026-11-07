@@ -50,3 +50,5 @@ Specialty-level analysis of the automated EUNACOM evaluation (Table 2) reports a
 - [ChatGPT-4o's accuracy on Chinese questions varied by question type, highest for A1-type (76%) and lowest for A2-type (61%)](chatgpt-4o-chinese-question-type-accuracy-varies.md) — related
 - [GPT-4o's accuracy on the CONACEM anesthesiology exam varies significantly by cognitive domain, highest in Understanding (90.10%) and lowest in Application (76.83%) and Analysis (76.54%)](gpt4o-conacem-accuracy-varies-by-cognitive-domain.md) — related
 - [LLM performance on KMLE varies by medical specialty, with relatively weak accuracy in medical law for all three models](kmle-specialty-variation-weak-medical-law.md) — related
+- [Model performance varied across medical specialties, with GPT-4 scoring 100% (11/11) on nervous-system questions but lower on musculoskeletal (72.7%) and digestive (66.7%) questions](specialty-variance-llm-radiology-accuracy.md) — related
+- [GPT-4V's accuracy was inconsistent across medical subdomains, high in some (e.g. immunology 100%) and low in others (e.g. anatomy 25%)](gpt4v-subdomain-performance-inconsistent.md) — a narrower finding that bears on this claim

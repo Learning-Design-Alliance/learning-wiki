@@ -56,3 +56,4 @@ Propensity-matched comparison of operative times in the national AVR cohort; the
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — a narrower finding that bears on this claim
 - [Posterior tibial slope medians differed significantly between trainees and consultants, yet both groups' values fell within the optimum range](posterior-slope-medians-differ-within-optimum-range.md) — related
 - [The local surgical team had significantly longer total operation, aortic cross-clamping, and cardiopulmonary bypass times than international missions](local-team-longer-operative-times-than-missions.md) — related
+- [Median operative duration of TT cases was 65 minutes, comparable to published attending-supervised and consultant times](tt-operative-duration-65-minutes.md) — related

@@ -96,3 +96,4 @@ ANOVA across majors (English, Journalism, Education, Arabic, Others) in the expe
 - [Vocational ability scores differ significantly across academic backgrounds, with each discipline showing distinct strengths and weaknesses.](vocational-ability-differs-by-discipline.md) — related
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
 - [Preferences for visual, written, or board-exam-oriented e-learning resources did not differ significantly by gender, year, GPA bracket, background, or research participation](no-demographic-differences-elearning-preferences.md) — related
+- [Training type has a significant positive effect on examination scores independent of gender and academic year (ANCOVA)](ancova-training-effect-independent-gender-year.md) — related

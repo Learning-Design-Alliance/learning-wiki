@@ -59,6 +59,7 @@ The article recommends integrating AI simulated patients into undergraduate curr
 - [Deploy screen-based simulation as an accessible training alternative when face-to-face clinical education is disrupted](screen-simulation-disrupted-education-alternative.md)
 - [Use AI-generated disease images as a standardized supplement to limited real clinical teaching materials](ai-generated-images-as-standardized-teaching-supplement.md)
 - [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
+- [Use ChatGPT-based virtual patient chatbots as a supplementary platform for bedside history-taking practice and international case sharing](chatbot-supplementary-bedside-teaching-strategy.md)
 
 ## Examples
 -

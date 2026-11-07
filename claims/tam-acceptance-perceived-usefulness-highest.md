@@ -53,3 +53,5 @@ Reaction-level technology-acceptance survey using a 21-item questionnaire adapte
 - [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — a broader claim this one bears on
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — a broader claim this one bears on
 - [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](tam-satisfaction-above-cutoff-all-components.md) — related
+- [Expert clinicians rate the VR-based airway training system positively on feasibility, perceived usefulness and ease of use](vr-airway-tam-positive-ratings.md) — related
+- [Practitioners rated MEYA as acceptable, understandable, and feasible on the URP-I](meya-implementation-outcomes-urp-i.md) — related

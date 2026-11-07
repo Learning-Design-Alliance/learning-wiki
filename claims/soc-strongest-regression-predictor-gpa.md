@@ -78,3 +78,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — reports the opposite
 - [Social well-being components explain 11.1% of variance in academic achievement, with social acceptance the significant predictor (β = 0.136) despite a null bivariate correlation](social-acceptance-predicts-achievement-regression.md) — related
 - [Male nursing students scored slightly higher GPA than female students in this sample](male-students-higher-gpa-sample.md) — reports the opposite
+- [Training type has a significant positive effect on examination scores independent of gender and academic year (ANCOVA)](ancova-training-effect-independent-gender-year.md) — related

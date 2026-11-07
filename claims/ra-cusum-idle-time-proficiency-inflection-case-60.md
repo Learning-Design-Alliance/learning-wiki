@@ -49,3 +49,4 @@ Numerical modelling result: idle time was regressed on case order with PD-ROBOSC
 - [Console time and active time decrease significantly between the initial and proficiency phases of the RPD learning curve](console-active-time-decrease-across-rpd-curve.md) — related
 - [Postoperative outcome learning curves (length of stay, major complications) stabilise around case 30, earlier than the telemetry proficiency threshold, and blood loss shows no temporal trend](postoperative-outcome-curves-stabilise-case-30.md) — related
 - [Full-Case idle time from MyIntuitive telemetry falls as a surgeon progresses through the robotic pancreaticoduodenectomy learning curve](telemetry-idle-time-falls-across-rpd-learning-curve.md) — related
+- [The LASPME learning curve divides into three proficiency stages, with the preliminary stage ending around the 91st procedure and proficiency reached around the 125th](laspme-three-stage-learning-curve-91-125.md) — related

@@ -85,6 +85,6 @@ Interview data: participant RA017 reports insufficient time and a cumbersome sys
 
 ## Related Claims
 - [Time-consuming assessment and manual documentation plus heavy clinical workload were primary obstacles to implementing mini-CEX and DOPS](mini-cex-dops-time-burden-primary-obstacle.md) — related
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](qualitative-explanation-competency-gap-feedback-workload.md) — related
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related
 - [Student-related factors—course attributes, course interest, peer influence, and defaulting to high scores—bias medical students' SET responses](student-factors-course-interest-peer-default-bias.md) — related
 - [Teacher-student interpersonal factors bias medical students' SET scores, with lenient or high-affinity teachers receiving higher ratings and strictly managed teachers receiving lower ratings](teacher-student-interaction-set-bias-medical.md) — related

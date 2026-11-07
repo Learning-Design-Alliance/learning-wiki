@@ -57,3 +57,4 @@ Bivariate analysis of demographic characteristics among 550 nurses found working
 - [AI trust is positively associated with AI competence among nurses](ait-positively-associated-with-aic-nurses.md) — related
 - [Demographics and prior tourniquet experience do not significantly impact post-training outcomes](prior-experience-no-effect-on-post-training-scores.md) — related
 - [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related
+- [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related

@@ -51,3 +51,4 @@ Generalized linear mixed-effects models adjusted for age and class-level cluster
 - [OSCE performance did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-osce-scores-similar.md) — a narrower finding that bears on this claim
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](ai-vsp-equivalence-non-inferiority-post-hoc.md) — related
 - [AI-VSP and traditional SP training show no significant difference in SEGUE Process scores or individual dimension scores](no-group-difference-process-segue-scores.md) — related
+- [No significant difference was found between the OLP-only and OLP+VCI groups in scored SP encounter skills](no-group-difference-olp-versus-olp-vci.md) — related

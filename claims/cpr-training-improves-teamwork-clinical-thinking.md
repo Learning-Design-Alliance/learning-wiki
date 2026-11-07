@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: liu-huan-2025
     resource: "https://doi.org/10.1155/jonm/8624274"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teamwork ability and clinical thinking ability scores improved significantly from pretraining to day 1 after simulation and day 30 of clinical practice (ANOVA p < 0.001 for both). [→ Liu Huan 2025](#liu-huan-2025)

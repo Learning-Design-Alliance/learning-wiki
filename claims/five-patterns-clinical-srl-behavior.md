@@ -50,3 +50,4 @@ Review reports the Q-methodology study by Berkhout et al. identifying five patte
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
 - [Goal setting and time management skills are important drivers for improving the student learning experience of SDL](goal-setting-time-management-sdl-drivers.md) — related
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](srl-clinical-strategies-diverse-multifactor.md) — related
+- [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related

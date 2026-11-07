@@ -49,3 +49,4 @@ Supplementary blinded assessment in which six EMS-education students, blinded to
 - [The largest 12-month between-group difference in ALS performance is in non-technical skills, favouring low-dose high-frequency training](ldhf-als-largest-gain-non-technical-skills.md) — related
 - [Low-dose, high-frequency ALS training yields higher overall simulation-based resuscitation performance scores at 12 months than annual full-day training](ldhf-als-higher-overall-performance-12-months.md) — related
 - [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](ldhf-als-shorter-time-to-interventions.md) — related
+- [Blinded raters scored higher in Communication and Examination skills at post-test than pre-test in standardized patient encounters, in one uncontrolled pre-post study](sp-encounter-skills-significant-improvement.md) — related

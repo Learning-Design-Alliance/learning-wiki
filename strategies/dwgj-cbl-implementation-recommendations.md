@@ -53,6 +53,7 @@ The article's forward-looking recommendations for implementing the combined appr
 - [Incorporate the BOPPPS-CBL method into clinical clerkships with faculty training to ensure effective execution](adopt-boppps-cbl-clerkship-faculty-training.md)
 - [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 - [Optimize teaching structure and expand case resources when integrating an academic HIS into case simulation](optimize-structure-and-resources-academic-his-simulation.md)
+- [Train lecturers in the good-judgement debriefing model to ensure consistent, non-punitive debriefing](good-judgement-debriefing-lecturer-training.md)
 
 ## Examples
 -

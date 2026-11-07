@@ -61,3 +61,4 @@ Retrospective pre/post comparison of procedures by the same six surgeons at one 
 - [Training on 3D-printed LRYGB models transfers to porcine organ models: trained residents performed comparably to untrained intermediates](3d-training-transfers-to-porcine-models.md) — related
 - [In one single-group pre-post study, CPMDRs' task completion times fell from pre-test to post-test across all five evaluated laparoscopic tasks (P < 0.001)](progressive-laparoscopic-training-reduced-task-times.md) — related
 - [ePHR task completion times fell from pre-test to post-test in both age groups after one week of ePA Coach use, in a pre-post study with no comparison group](epa-coach-skill-time-reduction.md) — related
+- [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — a narrower finding that bears on this claim

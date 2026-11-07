@@ -54,6 +54,7 @@ The article recommends that facilitators identify students with disabling anxiet
 - [Breathing Exercises](breathing_exercises.md)
 - [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
+- [Use brief five-minute mini-simulation videos with small-group empathy mapping to reduce large-group simulation anxiety](mini-simulation-small-group-empathy-mapping-strategy.md)
 
 ## Examples
 -

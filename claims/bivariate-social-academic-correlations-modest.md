@@ -47,3 +47,4 @@ Pearson correlations among teacher-rated social functioning and standardized aca
 ## Related Claims
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
 - [Child gender at kindergarten entry predicts initial functioning: boys show more conflict and inattention/impulsivity, girls more closeness and school engagement](gender-predicts-relationships-and-behavior-at-entry.md) — related
+- [Advisor responsiveness and GSA leadership correlate with wellbeing and engagement in bivariate analyses but are not predictive in the comprehensive model](gsa-advisor-responsiveness-leadership-not-predictive-in-full-model.md) — related

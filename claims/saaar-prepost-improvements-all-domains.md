@@ -52,3 +52,4 @@ One-group pre- and posttraining evaluation in which residents completed a theore
 - [The SAAAR behavioral marker format showed high internal consistency (McDonald's ω = 0.928)](saaar-high-internal-consistency.md) — related
 - [Only 37.2% of residents were high performers in medication reconciliation after a standardized patient discharge encounter, with primary care program residents more likely to be high performers](residents-high-performers-medication-reconciliation-37-percent.md) — related
 - [Median cardiac auscultation quiz scores improved from 40 pretraining to 70 posttraining in a voluntary online course](auscultation-pre-post-score-improvement.md) — related
+- [Mayo High Performance Teamwork Scale responses shifted from a 71% presurvey average to a 95% postsurvey average of consistent teamwork behavior](mayo-teamwork-scale-71-to-95-shift.md) — related

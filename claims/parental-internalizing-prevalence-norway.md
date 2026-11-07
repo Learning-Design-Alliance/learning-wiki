@@ -49,3 +49,4 @@ Population-wide register analysis of all Norwegian children born 1992–2002 wit
 - [Most parents with an internalizing diagnosis have recurrent diagnoses across multiple years; only 10.4% have a single year with a diagnosis.](internalizing-diagnoses-mostly-recurrent.md) — related
 - [Mothers experience nearly double the rates of internalizing disorders compared to fathers (7.9% vs 4.3% yearly prevalence).](mothers-nearly-double-fathers-internalizing-rates.md) — related
 - [Parental internalizing disorders are negatively associated with child GPA in the population sample, attenuating from β = −0.43 unadjusted to β = −0.20 after full adjustment.](parental-internalizing-gpa-population-association.md) — related
+- [Exposure to parental depressive or anxiety disorders during compulsory school years was associated with lower ninth-grade school performance](parental-mental-disorders-lower-school-grades.md) — related

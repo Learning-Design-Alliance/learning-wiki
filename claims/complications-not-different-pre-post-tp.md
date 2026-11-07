@@ -51,3 +51,5 @@ Null comparison of puncture-related complications (local hematoma, one vasospasm
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
 - [First-attempt success rate improves from 51.7% in the learning phase to 80.0% in the proficiency phase](first-attempt-success-improves-post-tp.md) — related
 - [In one uncontrolled pre-post study, neurological complication rates fell from 3.2% before to 1.0% after CDHT, and allergic reaction rates fell from 4.3% to 3.2%; neither change was statistically significant](cdht-no-safety-compromise-neurologic-allergic.md) — related
+- [The study indicates a correlation between the reduction in mechanical complications and the decrease in multiple punctures](complication-reduction-correlated-with-fewer-multiple-punctures.md) — related
+- [Vocal cord palsy remained frequent even in the proficient stage, at 19.0%, despite overall learning-curve improvement](laspme-vocal-cord-palsy-persists-in-proficient-stage.md) — related

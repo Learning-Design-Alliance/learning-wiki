@@ -53,3 +53,4 @@ One-group pretest–posttest evaluation with 33 VHVs in Nong Bua Ban Village usi
 - [Large majorities of post-reform students self-reported gains in research competencies, academic communication skills and career development](student-self-reported-competency-gains-post-reform.md) — related
 - [Early-career psychiatrists' self-rated self-efficacy in conducting suicide risk assessments rose significantly from pre- to post-intervention after a 20-minute GenAI simulator session, in one uncontrolled pre-post study](genai-simulator-increases-suicide-assessment-self-efficacy.md) — related
 - [Knowledge test performance rose significantly from pre- to post-VR training (46.7% to 86.7%) in one uncontrolled pre-post study](vr-chest-tube-knowledge-gains-significant.md) — related
+- [Subjective competence in brain death diagnosis increased significantly after the VR simulation](subjective-competence-gain-after-vr-simulation.md) — a narrower finding that bears on this claim

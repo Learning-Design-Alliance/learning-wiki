@@ -42,6 +42,7 @@ The authors' forward-looking recommendations for the field: they suggest "Encour
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 - [Adopt emerging gesture-capture and telestration technologies to extend embodied anatomical teaching in dental education](telestration-gesture-tech-dental-future-directions.md)
+- [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 
 ## Examples
 -

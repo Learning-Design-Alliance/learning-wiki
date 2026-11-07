@@ -53,3 +53,4 @@ Descriptive analysis of the modified Delphi survey with 19 experts in round one 
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
 - [Participants proposed 103 additional competencies in round one, of which 90 (87.4%) achieved consensus in round two](delphi-90-of-103-participant-suggested-competencies-achieved-consensus.md) — related
 - [Most competencies in the final delirium e-learning curriculum address both nurses and GPs, supporting an interprofessional design](majority-competencies-address-both-disciplines.md) — related
+- [A three-round modified Delphi consensus process with neurosurgical key opinion leaders produced a prioritised list of 47 procedural skills for simulation-based learning](delphi-consensus-47-neurosurgical-procedures-sbe.md) — related

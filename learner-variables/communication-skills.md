@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 165 claims (112 show a difference, 30 mixed, 23 no difference) · 136 studies (52 causal, 26 review, 21 associational, 20 quant-synthesis, 6 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 22 of 136 report an effect size · 162 claims rest on one study
+> **Evidence** · 166 claims (112 show a difference, 30 mixed, 24 no difference) · 137 studies (52 causal, 26 review, 21 associational, 20 quant-synthesis, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 22 of 137 report an effect size · 163 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -206,6 +206,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [A one-time communication training improves dental students' self-assessed communication skills, especially complex skills such as conversation structure and nonverbal communication](../claims/communication-training-improves-dental-student-self-assessment.md) [+M] — measured as an outcome of the instruction studied
 - [Personal simulations are perceived to substantially develop interns' communication skills, including empathy, listening, and coping with patient resistance](../claims/personal-simulations-develop-communication-skills.md) [+M] — measured as an outcome of the instruction studied
 - [The simulation group's advantage over the bedside-teaching group is more than 30% on doctor-patient communication, neurological physical examination, localization and nature determination, organizational skills and overall performance, and 22–25% on humanistic care and communication skills](../claims/minicex-percentage-advantage-simulation-group.md) [+W] — measured as an outcome of the instruction studied
+- [Learners reported difficulty communicating directly with the ESP (eye contact, body language, tone and intonation), so doctor-patient communication skills were not fully practiced in the VR simulation](../claims/esp-communication-limitation-doctor-patient-skills.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

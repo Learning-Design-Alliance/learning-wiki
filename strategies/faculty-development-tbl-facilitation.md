@@ -51,6 +51,7 @@ The article recommends faculty development workshops to standardize how TBL sess
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 - [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
 - [Sustain the workshop by expanding to biannual sessions run through a medical student organization](biannual-student-organization-cbl-expansion.md)
+- [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](faculty-development-and-orientation-for-tbl.md)
 
 ## Examples
 -

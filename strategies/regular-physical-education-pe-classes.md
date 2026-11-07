@@ -65,6 +65,7 @@ Consistent PE supports cognition and classroom behavior, with effects strongest 
 - [Check-In](../elements/check-in.md) — a routine element for opening PE sessions with readiness monitoring
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Prioritize daily structured physical activity opportunities beyond regular physical education classes, incorporating aerobic, coordinative, and cognitively engaging tasks](daily-structured-physical-activity-beyond-pe.md)
+- [Integrate structured physical activity programs into the daily school curriculum to sustain MVPA](structured-daily-school-physical-activity-programs.md)
 
 ## Examples
 - **SPARK (Sports, Play, and Active Recreation for Kids)** — an evidence-based PE curriculum with structured lesson plans and activity promotion, widely implemented in US elementary schools ([https://sparkpe.org](https://sparkpe.org))

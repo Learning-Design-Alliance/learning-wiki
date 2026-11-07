@@ -49,3 +49,4 @@ Null Kruskal–Wallis results from the Polish survey's skills section: no signif
 - [Respondents rate core assessment and treatment techniques as highly important, with near-universal agreement on spirometry, breathing exercises, and strength/endurance training](high-importance-ratings-core-techniques.md) — related
 - [Perceived importance of post-COVID rehabilitation techniques shows no significant differences between student and professional groups](no-group-differences-in-perceived-importance.md) — related
 - [Self-assessed experience in pulmonary physiotherapy differs significantly across education level and years of clinical practice, with a large effect size](self-assessed-experience-differs-by-education-experience.md) — related
+- [Facilitators demonstrated breathing techniques in nearly all cases but only about half of participants were heard practising them back](breathing-technique-practice-back-half-of-participants.md) — related

@@ -75,3 +75,4 @@ Meta-analysis of 24 studies comparing theoretical exam scores between FC and LBL
 - [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related
 - [Students perceived flipped learning as aiding exam preparation and knowledge retention through in-class discussions](fl-inclass-discussions-exam-retention-nursing.md) — related
 - [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related
+- [Nurses in the flipped classroom group reported substantially higher satisfaction with the teaching method, its effectiveness, and the overall educational experience than the lecture-based group](fc-higher-satisfaction-hemodialysis-training.md) — related

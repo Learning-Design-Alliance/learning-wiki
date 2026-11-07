@@ -50,3 +50,4 @@ Self-report questionnaire (Module 1, six items, 5-point Likert scale) administer
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
 - [Participants report increased interest in interventional radiology and perceived skill gains after simulator training](simulator-training-increases-ir-interest-and-perceived-skills.md) — related
+- [Recruitment and retention exceeded expectations, supporting feasibility of virtually delivered telemedicine skills training](virtual-recruitment-retention-feasible.md) — related

@@ -67,3 +67,4 @@ Descriptive statistics from the same feasibility study, from the Debriefing Inst
 - [An exploratory configural caseness rule formalizes when a veteran warrants treatment for moral injury](cimi-m-configural-caseness-rule.md) — related
 - [Qualitative analysis finds the CIMI-M helped veterans share experiences and helped clinicians build trust and plan treatment](cimi-m-qualitative-utility-themes.md) — related
 - [STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings](story-mine-feasible-acceptable-pilot.md) — related
+- [Practitioners rated MEYA as acceptable, understandable, and feasible on the URP-I](meya-implementation-outcomes-urp-i.md) — related

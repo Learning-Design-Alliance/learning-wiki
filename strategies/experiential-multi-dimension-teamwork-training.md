@@ -48,6 +48,7 @@ Based on the moderator findings, the authors recommend that teamwork training in
 ## Related Strategies
 
 - [Use simulation-based training, case-based learning and repeated visual calibration exercises to strengthen pressure injury staging competence](simulation-case-based-visual-calibration-pi-staging.md)
+- [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
 
 ## Examples
 -

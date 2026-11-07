@@ -52,3 +52,4 @@ Weighted linear regression on the NEPS SC6 adult sample (n = 5015 with the mathe
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related
 - [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related
+- [Baseline age was inversely related to reading scores in adjusted models](baseline-age-inversely-related-reading-scores.md) — related

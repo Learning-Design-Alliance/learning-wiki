@@ -47,6 +47,7 @@ As future work, the authors propose refining the prompt used to generate combine
 - [Technical integration of GSR knowledge via onboarding system prompts, knowledge graphs, retrieval-augmented generation, and a control module](gsr-knowledge-technical-integration-strategies.md)
 - [Augment LLMs with retrieval-augmented generation using authoritative subspecialty resources to address remaining knowledge gaps on board-style examinations.](rag-subspecialty-resources-llm-knowledge-gaps.md)
 - [Integrate retrieval-augmented generation fact-checking alongside batch delivery to reduce residual factual errors in LLM-based medical education](rag-fact-checking-medical-education.md)
+- [Iterate on the recommendation pipeline through prompt refinement, hallucination safeguards, intervention studies, and larger cohorts](llm-wellbeing-recommendation-improvement-strategy.md)
 
 ## Examples
 -

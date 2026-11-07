@@ -61,6 +61,8 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
 - [Provide focused all-day procedure-specific training covering the entire surgical pathway before surgeons adopt a low-volume procedure](focused-all-day-procedure-specific-training-strategy.md)
+- [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
+- [Five-step structured training pathway for a surgical team adopting LASPME](five-step-laspme-team-training-pathway.md)
 
 ## Examples
 -

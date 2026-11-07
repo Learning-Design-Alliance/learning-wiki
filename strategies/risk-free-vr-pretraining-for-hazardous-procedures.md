@@ -48,6 +48,7 @@ The article recommends that virtual simulation complement physical training for 
 - [Use virtual simulation as a structured, repeatable, risk-free complement to traditional bracket placement training in early skill development](virtual-simulation-complement-early-skill-training.md)
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](vr-complementary-continuing-emergency-training-strategy.md)
 - [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
+- [Use interactive 3D object-based VR to let students repeat radiation-involved procedures without exposure and with feedback](3d-object-vr-repeat-procedures-without-radiation-strategy.md)
 
 ## Examples
 -

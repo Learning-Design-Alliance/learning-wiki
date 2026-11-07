@@ -48,3 +48,4 @@ Cross-sectional survey comparing public vs private sector university students fo
 ## Related Claims
 - [Most pharmacy students in Karachi demonstrate good knowledge of antifungal resistance and stewardship, improving with study year](pharmacy-students-good-knowledge-antifungal-resistance.md) — related
 - [Sentiment toward GenAI in university guidelines is highly positive and does not differ significantly between private and public institutions](no-sentiment-difference-private-public-genai-guidelines.md) — related
+- [Physicians working in the private sector prefer communication-domain competencies more than others](private-sector-communication-domain-preference.md) — related

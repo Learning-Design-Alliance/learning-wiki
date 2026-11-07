@@ -18,7 +18,7 @@ sources:
 # Item characteristic curve (unsigned area) method for DIF detection under item response theory
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q1`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The ICC method compares item characteristic curves estimated separately for reference and focal groups, computing the unsigned area between the male and female curves as a DIF index, using a probability index developed by Linn. Item parameters come from Samejima's graded-response model with random MML estimation, with a linear transformation placing groups on a common scale. A randomly split reference-group baseline estimates DIF attributable to sampling variation. The article notes this procedure yields one index per pair of rating categories rather than a simultaneous estimate.
@@ -26,17 +26,19 @@ The ICC method compares item characteristic curves estimated separately for refe
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Item characteristic curve (unsigned area) method for DIF detection under item response theory**: The ICC method compares item characteristic curves estimated separately for reference and focal groups, computing the unsigned area between the male and female curves as a DIF index, using a probability index developed by Linn. Item parameters come from Samejima's graded-response model with random MML estimation, with a linear transformation placing groups on a common scale. A randomly split reference-group baseline estimates DIF attributable to sampling variation. The article notes this procedure yields one index per pair of rating categories rather than a simultaneous estimate. (Holweger et al. (1998))
+- **Differential item functioning as a psychometric procedure for detecting potential item bias across test-taker groups**: Differential item functioning (DIF) is a psychometric procedure for detecting whether items function differently across groups of test-takers with equal latent ability, indicating possible construct-irrelevant variance and bias. The article defines it: "DIF occurs when test-takers with the same latent ability but from different groups have an unequal probability of correctly answering a test item." It distinguishes uniform DIF (difficulty differences) from nonuniform DIF (discrimination differences), and treats statistical flagging as a first stage followed by expert sensitivity review to conclude potential bias. (Dale Esther Dasari et al. (2025))
 
 ### Claims
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](../claims/irt-assumption-violations-cause-dif-method-discrepancy.md) [+W]
+- [Statistically significant DIF appears in 20%, 15%, and 11% of items on anatomy, histology, and physiology preclinical exams respectively](../claims/dif-prevalence-three-preclinical-courses.md) [+M]
 
 ## Related Research Methods
 -
 
 ## Key Sources
 - Holweger, Nancy; Weston, Timothy. (1998). Differential Item Functioning: An Applied Comparison of the Item Characteristic Curve Method with the Logistic Discriminant Function Method. https://eric.ed.gov/?id=ED422362
-
 <!-- merged 2026-10-10 from theories/icc-unsigned-area-dif-method ("Item characteristic curve (unsigned area) method for DIF detection under item response theory"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Dale Esther Dasari, Abulela Mohammed A. A., Jia Hao, Violato Claudio. (2025). Are medical school preclinical tests biased for sex and race? A differential item functioning analysis. BMC Medical Education. https://doi.org/10.1186/s12909-024-06540-6
 
 # Item characteristic curve (unsigned area) method for DIF detection under item response theory
 

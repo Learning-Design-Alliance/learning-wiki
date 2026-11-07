@@ -50,3 +50,4 @@ Exploratory prospective study in which ten voluntarily enrolled medical students
 - [VR simulator performance of interventional radiologists improved significantly from pretest to posttest on all outcome measures in both test cases, except contrast volume in case 1](vr-simulator-performance-improves-after-thrombectomy-training.md) — related
 - [Video gaming experience is tentatively associated with greater fluoroscopy-time reduction in simulator training](video-gaming-experience-tentative-fluoroscopy-reduction-association.md) — related
 - [Mean completion time for the five-scenario puzzle decreased significantly across all three paired comparisons](5cardsgame-completion-time-decrease.md) — related
+- [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — related

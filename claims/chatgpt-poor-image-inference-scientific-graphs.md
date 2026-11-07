@@ -69,3 +69,4 @@ Blind-graded GPT-4o responses (ten per graph, full versus minimal BLI graph vers
 - [ChatGPT's accuracy on image-based MCQs ranged from 13.1% to 100% across studies, and it performed significantly worse on open-ended questions than on MCQs](image-mcq-and-open-ended-question-performance.md) — related
 - [ChatGPT-4o's accuracy on U.S. Dental Decks was consistent across question formats (plain-text, case-box, and image-based)](chatgpt-4o-us-question-format-consistency.md) — reports the opposite
 - [ChatGPT underperforms doctoral students on long-answer experimental design questions, driven by poor apply-level control answers](chatgpt-underperforms-long-answer-apply-level-controls.md) — related
+- [Generative AI excels at processing digital text but struggles with interpreting text from images](genai-visual-comprehension-gap-images.md) — related

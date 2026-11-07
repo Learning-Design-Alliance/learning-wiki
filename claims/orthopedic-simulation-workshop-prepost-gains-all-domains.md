@@ -59,3 +59,4 @@ Prospective single-arm pre–post interventional study of 70 medical students ac
 - [Confidence rose significantly in all five CBOS competency areas, each with a large effect size (r ≈ .84–.88)](tbl-sbl-clinic-confidence-cbos-subdomains.md) — related
 - [A one-hour BMAT simulation program significantly improves medical students' self-evaluation, self-confidence, interest, and knowledge (p≤0.001)](bmat-simulation-improves-student-self-report-and-knowledge.md) — related
 - [Students' self-rated competency scores across all 12 suturing techniques rose from 1.85 to 3.84 after the course, in one uncontrolled pre-post study](self-rated-competency-improved-median-1-85-to-3-84.md) — related
+- [A short simulation-based ophthalmology workshop immediately improves medical students' ophthalmology knowledge, confidence, and interest in the specialty](sbe-ophthalmology-workshop-immediate-gains.md) — a narrower finding that bears on this claim

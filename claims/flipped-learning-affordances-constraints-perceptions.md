@@ -76,3 +76,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
 - [Remote flipped classrooms give pharmacy students time flexibility to engage with recorded lectures and revisit content at their convenience](remote-flipped-flexibility-recorded-lectures.md) — related
 - [Videos under 5 minutes have higher audience retention and higher response rates to embedded questions in a flipped undergraduate medical classroom](videos-under-5-minutes-higher-retention-and-question-response.md) — related
+- [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related

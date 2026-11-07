@@ -58,3 +58,4 @@ Pre-post evaluation of a 3-month single-intervention EBM course for 5th-year med
 - [EBM-BOPPPS clerks showed a significant pre-to-post increase in EBM confidence, concentrated in EBM concepts rather than statistical terms](ebm-boppps-confidence-increase-ebm-concepts.md) — related
 - [Medical undergraduates who participated in research training report higher research skills than untrained peers](research-training-higher-research-skills.md) — related
 - [Baseline self-confidence moderates knowledge gains, with somewhat confident and neutral nurses improving most and very confident nurses least](baseline-confidence-moderates-sdl-ecg-gains.md) — related
+- [Post-training attitudes improved overall, but only the attitude towards telerehabilitation changed significantly](stp-attitude-change-telerehabilitation-only.md) — related

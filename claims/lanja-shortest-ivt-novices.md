@@ -51,3 +51,4 @@ Non-randomized concurrent controlled simulation study of 29 novices intubating a
 - [Intubation success rates among novices differ significantly across the three laryngoscopes, with LANJA highest (89.5%) and VDO lowest (63.2%)](lanja-highest-novice-success-rate.md) — related
 - [Visualization and fixation time does not differ significantly among the three laryngoscopes for novice intubators](vft-no-difference-laryngoscopes.md) — related
 - [Novices without prior laryngoscope exposure achieved faster glottic exposure with the hyperangulated LANJA design than with intermediate-angle devices, which the authors attribute to structural design](novice-performance-device-structure-attribution.md) — related
+- [Pressure profiles in the VR-based system are statistically similar to those of the commercial CMAC video laryngoscope training system across all calibrated configurations](vr-airway-parametric-calibration-hotelling.md) — related

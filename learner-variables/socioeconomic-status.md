@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 255 claims (135 show a difference, 62 mixed, 58 no difference) · 195 studies (86 associational, 76 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 195 report an effect size · 254 claims rest on one study
+> **Evidence** · 259 claims (139 show a difference, 62 mixed, 58 no difference) · 197 studies (87 associational, 76 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 33 of 197 report an effect size · 258 claims rest on one study
 
 ## How to read this page
 
@@ -340,6 +340,10 @@ A learner's economic and social position: family income or poverty (often measur
 - [The association between educational poverty and achievement is non-linear, steepening at high poverty levels, while the economic-poverty relationship is linear](../claims/nonlinear-educational-poverty-achievement-association.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The negative association between local poverty and achievement is steeper for the science stream than for arts/general and business streams](../claims/science-stream-poverty-association-steeper-bangladesh.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The difference between the track effects for high‐SES and low‐SES students is not significant, indicating similarly large detrimental influence of non‐academic tracks for both groups](../claims/no-att-difference-between-ses-groups.md) [-M] — an instructional effect differs by group
+- [After adjusting for parental education and neighborhood socioeconomic status, the school-performance gap among females decreased by 0.26 points per year, while it kept increasing among males](../claims/female-gap-decreases-after-adjustment.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Effects of parental education, neighborhood socioeconomic status, and parental mental disorders on school performance were smaller among second-generation immigrant than non-immigrant children (diminished returns)](../claims/diminished-returns-second-generation-school-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Non-economic and economic disadvantages are the top hindering factors for medical students' pursuit of a teaching career](../claims/demotivators-teaching-non-economic-economic.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Parental education, neighborhood socioeconomic status and parental mental disorders partly explain the school-performance gap between non-immigrant and second-generation immigrant children, with a residual gap remaining](../claims/factors-explain-school-gap-immigrant-children.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

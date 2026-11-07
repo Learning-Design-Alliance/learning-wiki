@@ -46,6 +46,8 @@ Based on the finding that teachers possess experientially developed but theoreti
 - [Design research integrity courses around experiential, emotionally engaged engagement with concrete ethical problems](rcr-experiential-course-design-strategy.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
+- [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
+- [Provide lecturers with professional development and concrete pedagogical-didactic guidance for physically activating teaching](professional-development-physically-active-teaching.md)
 
 ## Examples
 -

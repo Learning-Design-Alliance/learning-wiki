@@ -68,6 +68,7 @@ Pairing words with relevant pictures or narration improves learning compared wit
 - [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
 - [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
 - [Use web-assisted conceptual change texts with visualizations to prevent and remediate science misconceptions](web-assisted-cct-misconception-strategy.md)
+- [Integrate animated video education into pre-procedural patient education](animated-video-preprocedural-education-strategy.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated physics and chemistry simulations combining visual manipulation with optional guided-inquiry activities; widely used for dynamic processes that static text cannot show

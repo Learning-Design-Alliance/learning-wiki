@@ -49,3 +49,4 @@ Moderation analysis using Hayes' PROCESS Model 2 with 83 fifth-year dental stude
 - [AI-assisted annotation raises dental students' self-reported confidence in detecting caries at all depths](ai-annotation-raises-caries-detection-confidence.md) — related
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
 - [Diagnostic accuracy and confidence vary widely across lesion types, with stafne bone cavity easiest and adenomatoid odontogenic tumor and odontogenic keratocyst hardest](case-difficulty-varies-across-radiographic-lesions.md) — related
+- [The Step 3 confidence effect depended on case difficulty: confidence fell at Step 3 in the hardest case (7% accuracy) but not in the easiest case (71% accuracy)](step3-effect-moderated-by-case-difficulty.md) — related

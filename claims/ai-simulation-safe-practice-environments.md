@@ -114,3 +114,5 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — a narrower finding that bears on this claim
 - [Clinical instructors perceive SBE role-play as mitigating language barriers when teaching international students from non-English-speaking countries](sbe-language-barrier-mitigation.md) — related
 - [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](shared-competence-base-group-learning-clinobsmunicipality.md) — related
+- [Mental practice for strategy rehearsal or task execution was reported to increase self-confidence and reduce anxiety](mental-practice-confidence-anxiety.md) — related
+- [The REPs-VS group reported significantly higher self-directed learning skill, confidence in future patient encounters, and reduced performance stress than the traditional group](reps-vs-confidence-and-stress-attitudes.md) — related

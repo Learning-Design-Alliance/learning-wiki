@@ -56,6 +56,7 @@ The review's forward-looking recommendation is to move from heterogeneous, mostl
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
 - [Recommendations for oral and maxillofacial surgery residency training: simulation-based skill modules, mandatory trainee-status disclosure with patient education, and stronger undergraduate basic clinical skills training](oms-residency-simulation-transparency-undergraduate-skills-strategy.md)
+- [Develop a pilot simulation course combining Reason's and Round's taxonomies to validate the blended framework](pilot-course-combined-taxonomies.md)
 
 ## Examples
 -

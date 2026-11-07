@@ -55,6 +55,8 @@ The program pairs an online handout with slides and a 10-minute video covering i
 - [Brief video orientation plus one-on-one hands-on cadaver workshop followed by an independent skills test](video-plus-one-on-one-cadaver-workshop-strategy.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Use brief five-minute mini-simulation videos with small-group empathy mapping to reduce large-group simulation anxiety](mini-simulation-small-group-empathy-mapping-strategy.md)
+- [Outcome-based simulation seminar combining a 20-minute anatomy lecture, expert demonstration, and 60 minutes of hands-on practice in equipped booths](outcome-based-cvc-simulation-seminar-structure.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article recommends adapting general-purpose text-to-image foundation models 
 
 - [Use lightweight task-adapted vision backbones rather than zero-shot multimodal foundation models for rubric-aligned drawing scoring](task-adapted-vit-over-zero-shot-vlm-scoring.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
+- [Fine-tune and train LLMs with domain-specific medical datasets to improve effectiveness in specialized fields like radiology](domain-specific-training-data-for-llms-in-radiology.md)
 
 ## Examples
 -

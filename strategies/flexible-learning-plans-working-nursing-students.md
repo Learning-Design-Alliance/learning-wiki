@@ -48,6 +48,7 @@ To support working students, the authors recommend providing a variety of flexib
 - [Offer student success courses in varied content, timing, and delivery modes matched to student needs rather than a one-size-fits-all model](varied-delivery-modes-student-success-courses.md)
 - [Offer learning-strategy workshops to help lower-semester students bridge self-directed learning skill gaps](learning-strategy-workshops-lower-semester-students.md)
 - [Pace and vary gamified activities, and offer self-directed options, to mitigate learner fatigue](pace-and-vary-gamified-activities-to-mitigate-learner-fatigue.md)
+- [Use needs assessment, flexible modalities, and protected time to implement palliative care education for clinical nurses](needs-assessment-flexible-modalities-pc-education-strategy.md)
 
 ## Examples
 -

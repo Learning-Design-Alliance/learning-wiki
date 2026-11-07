@@ -64,3 +64,6 @@ Interview quote from Respondent 4 in the 'Developing a culture of peer teaching 
 - [Participants attributed the teaching differences to near-peers' social proximity and recent learning experience versus faculty's clinical experience and standing](social-proximity-attribution-of-teaching-differences.md) — related
 - [New dental-specific themes include practical guidance, a safe training environment, resident–patient relationships, career education and comprehensive treatment planning](new-dental-specific-teacher-themes.md) — related
 - [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](shared-competence-base-group-learning-clinobsmunicipality.md) — related
+- [Junior doctor tutors reported high enjoyment and strong overall benefit from participating in the near-peer teaching program](junior-doctor-tutors-enjoyment-benefit-high.md) — related
+- [Prior teaching was somewhat stressful for junior doctor tutors but participation in the near-peer program provided only some relief of that stress](near-peer-teaching-stress-relief-minimal.md) — related
+- [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related

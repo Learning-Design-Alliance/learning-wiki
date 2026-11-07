@@ -52,6 +52,7 @@ The article recommends incorporating validated virtual simulation scenarios into
 - [Adopt validated clinical simulation scenarios as a perioperative nursing training resource](adopt-validated-simulation-scenarios-perioperative-training.md)
 - [Develop virtual clinical simulations through the five Contextualized Instructional Design stages with expert nurse participation](cid-stages-virtual-simulation-development-strategy.md)
 - [Integrate hands-on telenursing simulation training into nursing curricula and continuing education](integrate-telenursing-training-curricula-strategy.md)
+- [Encourage at least weekly virtual simulation practice until competence, then at least monthly for retention](venc-monthly-practice-frequency-strategy.md)
 
 ## Examples
 -

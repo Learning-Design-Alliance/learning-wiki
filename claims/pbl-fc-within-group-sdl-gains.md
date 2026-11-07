@@ -50,3 +50,4 @@ Within-group paired t-tests before and after the class (Table 3). The PBL-FC gro
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — reports the opposite
 - [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](pbl-improves-analysis-openness-justice-temperament.md) — related
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related
+- [First-year medical students' self-assessed SDL competency total scores increased significantly from midpoint to endpoint of a PBL-based CRE course (d = 0.44)](cre-course-significant-self-assessed-sdl-gain.md) — related

@@ -52,3 +52,4 @@ Thematic analysis of semi-structured interviews (30–45 min) with 25 Malaysian 
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related
 - [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](pbl-improves-efl-writing-proficiency.md) — related
+- [The ChatGPT version of the chatbot handles irrelevant and multi-intent questions, supports multiple languages, and simulates personalities and education levels, unlike the Dialogflow version](chatgpt-version-more-flexible-than-dialogflow.md) — related

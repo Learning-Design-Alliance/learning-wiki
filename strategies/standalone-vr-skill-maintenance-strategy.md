@@ -58,6 +58,7 @@ The article recommends scalable, self-directed VR practice to support skill main
 - [Integrate simulation as a complementary learning tool across oncology curricula, continuing education, and recertification programs](integrate-simulation-complementary-tool-oncology-curricula.md)
 - [Run digital skills-maintenance programmes as a monthly self-practise model with practise corners, formal hospital leadership involvement and facilitator training in online supervision](monthly-practise-model-practise-corners-leadership-strategy.md)
 - [Offer immersive VR patient safety education as a scalable alternative to live mock simulation for operating room teams](scalable-vr-patient-safety-education-strategy.md)
+- [Encourage at least weekly virtual simulation practice until competence, then at least monthly for retention](venc-monthly-practice-frequency-strategy.md)
 
 ## Examples
 -

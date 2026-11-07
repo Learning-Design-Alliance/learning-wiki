@@ -71,6 +71,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 - [Sequence a basics lecture before simulation practice to manage cognitive load](basics-lecture-before-simulation-cognitive-load.md)
 - [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
+- [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](mixed-learning-mode-vr-plus-tactile.md)
 
 ## Examples
 -

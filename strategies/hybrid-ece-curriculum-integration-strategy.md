@@ -63,6 +63,7 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 - [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
 - [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 - [Ensure teacher receptiveness and organise clinical practice so students encounter varied situations before graduating](teacher-receptiveness-and-varied-clinical-exposure-strategy.md)
+- [Use adaptive approaches and support systems, including virtual interprofessional experiences, to buffer disruptions to clinical education](adaptive-support-systems-pandemic-clinical-education-strategy.md)
 
 ## Examples
 -

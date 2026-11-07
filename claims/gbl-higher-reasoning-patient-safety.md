@@ -47,3 +47,4 @@ Repeated Measures ANOVA in a quasi-experimental cluster-randomized study of 100 
 ## Related Claims
 - [Performance deteriorated over time in both teaching approaches, with two-month scores significantly lower than two-week post-intervention results](performance-deterioration-both-approaches.md) — related
 - [Game-based learning improved observed patient safety performance at two weeks (p = 0.04) but the difference was no longer significant at two months (p = 0.63), with a moderate effect (partial η² = 0.034)](gbl-performance-short-term-only.md) — related
+- [Flipped learning produced higher total patient safety competency scores than traditional instruction in fourth-year nursing students](flipped-learning-higher-pscse-total-nursing.md) — related

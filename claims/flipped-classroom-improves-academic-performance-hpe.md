@@ -84,3 +84,4 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 - [Flipped classroom advantages appear across outcome measures, with the largest for exam scores and smaller for course grades](flipped-pharmacy-outcome-measure-subgroups.md) — a narrower finding that bears on this claim
 - [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](flipped-classroom-small-significant-advantage-health-professions.md) — related
 - [Flipped classroom effects are larger when instructors use quizzes at the start of in-class sessions](in-class-quiz-moderator-flipped-classroom-effect.md) — a narrower finding that bears on this claim
+- [Flipped classroom performance advantages persisted at two weeks in all topics except FC #2, where only a trend appeared](fc-delayed-two-week-retention.md) — a narrower finding that bears on this claim

@@ -56,3 +56,5 @@ Delphi consensus study of 30 invited heads of healthcare simulation centers in m
 - [The authors report a follow-up validity study of STRIVE across 40 Chinese hospitals with promising preliminary results](strive-followup-validity-40-hospitals.md) — related
 - [The authors position STRIVE as a concise, center-level complement to international simulation frameworks that focus on course phases and accreditation processes](strive-institutional-perspective-vs-course-phase-frameworks.md) — related
 - [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related
+- [A three-round modified Delphi consensus process with neurosurgical key opinion leaders produced a prioritised list of 47 procedural skills for simulation-based learning](delphi-consensus-47-neurosurgical-procedures-sbe.md) — related
+- [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related

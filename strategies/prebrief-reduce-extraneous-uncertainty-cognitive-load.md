@@ -45,7 +45,8 @@ A session-design strategy for healthcare simulation: because uncertainty is inhe
 - [Students' simulation anxiety coalesced around three themes: anticipation of the unknown, simulation as real, and being observed](../claims/three-themes-anxiety-realism-meaning-simulation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Protocolize the prebriefing with a fiction contract, a preplanned written briefing script, and a case-design checklist](protocolized-prebriefing-fiction-contract.md)
 
 ## Examples
 -

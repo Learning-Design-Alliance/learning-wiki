@@ -50,3 +50,4 @@ Synthesis of 6 gamification studies in the review, coded by direction of effect;
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
 - [Students most frequently named collaborative teamwork as the best aspect of escape room teaching, and suggested more briefing, smaller groups and more playing time](escape-room-teamwork-best-aspect.md) — a narrower finding that bears on this claim
 - [A narrative review identifies four main outcome areas of VR, gamification, and escape rooms in medical and nursing education from 25 reviewed studies](vr-gamification-escape-rooms-four-outcome-areas-review.md) — a broader claim this one bears on
+- [A research-based escape room was rated 3.7 ± 0.31 out of 5 for overall experience by health professions student participants](morad-escape-overall-experience-rating.md) — related

@@ -50,3 +50,4 @@ Training-time comparison recorded by stopwatch for each subgroup in the RCT; the
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](modified-peyton-one-month-retention.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
 - [SDTS requires substantially less total training time than traditional teaching in both skill modules](sdts-shorter-training-duration.md) — related
+- [Peer tutors using Peyton's four-step method taught basic suturing skills to undergraduates as effectively as faculty, with no significant OSCE score difference between PAL and FAL groups](pal-fal-equivalent-suturing-osce.md) — related

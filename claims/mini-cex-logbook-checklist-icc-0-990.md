@@ -56,3 +56,4 @@ Reliability analysis in SPSS-25 of the Delphi- and face-to-face-validated checkl
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
 - [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](goals-good-inter-rater-reliability-porcine-model.md) — related
 - [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — a narrower finding that bears on this claim
+- [Teams' research competency performance in the escape room averaged 336 ± 137.1 raw, 38.8 ± 20.9 negative, and 298 ± 150.1 final scores](morad-escape-team-competency-scores.md) — related

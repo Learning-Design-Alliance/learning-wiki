@@ -68,3 +68,5 @@ Within-group repeated-measures t-test in the same study found no significant dif
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related
 - [All experimental-group participants reported benefiting from the group and would recommend it](gefgp-all-reported-benefit-and-recommend.md) — related
 - [The program's effects on positive future expectations, trait anxiety, and anxiety of making mistakes persisted at four-week follow-up](cbt-skill-training-effects-persist-four-weeks.md) — related
+- [The REBT intervention's reduction of academic procrastination was sustained at follow-up, with a larger effect size (d = 0.877) than at posttreatment](rebt-procrastination-gains-sustained-followup.md) — related
+- [A 12-session REBT group intervention significantly reduces academic procrastination in in-school adolescents at posttreatment compared with a placebo counseling control group](rebt-reduces-academic-procrastination-posttreatment.md) — related

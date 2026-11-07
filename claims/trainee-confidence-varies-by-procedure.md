@@ -49,3 +49,4 @@ Survey of 105 neonatal trainees rating confidence on a 1–5 scale for ventilato
 - [Trainees reported feeling less confident with ventilatory modes such as neurally adjusted ventilatory assist (NAVA)](low-confidence-nava-ventilatory-mode.md) — related
 - [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related
 - [The largest confidence gain was at the peripheral vein IV access station (mean difference 5.74) and the smallest at the intubation station (4.55)](iv-access-largest-intubation-smallest-gain.md) — related
+- [Descriptive pre/post survey results show trainees shifted toward agreement on ECMO knowledge and role items after team-based simulation training](ecmo-sim-descriptive-prepost-survey-shift.md) — related

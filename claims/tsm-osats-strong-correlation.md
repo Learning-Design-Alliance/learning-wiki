@@ -50,3 +50,4 @@ Spearman's rank correlation analysis across the 30-participant cohort. The artic
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
 - [Robotic simulation training independently associated with higher OSATS and TSM scores after adjustment](robotic-simulation-training-higher-performance.md) — related
 - [Virtual simulation performance scores correlate strongly with post-training practical performance (r = 0.73)](vs-score-correlates-practical-performance.md) — related
+- [Simulator-generated analytic scores correlate moderately and significantly with blinded human OSATS assessments of single surgical knot performance](simulator-analytic-scores-correlate-osats.md) — related

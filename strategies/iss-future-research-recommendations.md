@@ -48,6 +48,7 @@ The review's conclusions set out research and evaluation priorities for in-situ 
 - [Evaluate the frequency of EBP intervention delivery, considering continuous or repeated interventions to sustain student comfort with EBP](repeated-delivery-frequency-research-strategy.md)
 - [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
 - [Increase 3D simulation training frequency and establish an online MDT discussion platform to optimize the MDT-CDIO model](mdt-cdio-optimization-3d-simulation-online-platform.md)
+- [Design simulation-training studies in complex clinical settings with whole-team enrollment, learner and evaluator continuity, and confirmatory validation](ecmo-sim-study-design-recommendations.md)
 
 ## Examples
 -

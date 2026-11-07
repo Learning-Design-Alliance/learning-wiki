@@ -57,3 +57,4 @@ In the hierarchical regression models, "behavioral inattention was not uniquely 
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — related
 - [NAT significantly reduced homeroom teacher-rated inattention and hyperactivity/impulsivity relative to control](nat-teacher-rated-symptoms-improvement.md) — related
 - [Observed off-task behavior positively correlates with teacher ratings of hyperactiveness/impulsivity and attention/concentration](observed-off-task-teacher-rating-correlations.md) — related
+- [Inattention symptoms, but not hyperactivity-impulsivity symptoms, predict academic performance and academic adjustment in South African first-year undergraduates](inattention-not-hyperactivity-predicts-academic-success.md) — related

@@ -53,3 +53,5 @@ MANCOVA in the same randomized experiment (N = 91) using five enjoyment items fr
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher interest than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-interest-than-2d-video.md) — related
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related
+- [All 22 user-experience questionnaire items showed significantly higher ratings for the 3D object-based VR group than the 360° video group](3dovr-dr-all-22-items-significantly-higher.md) — related
+- [In a randomized controlled trial, dental hygiene students using the 3D object-based VR tool (3DOVR-DR) rated overall user experience significantly higher than students using a 360° VR video](3dovr-dr-higher-user-experience-than-360-video-rct.md) — a narrower finding that bears on this claim

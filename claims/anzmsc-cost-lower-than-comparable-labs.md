@@ -46,3 +46,4 @@ The article compares its own cost data against figures cited from Ng et al. (202
 
 ## Related Claims
 - [The ANZMSC has a total set-up cost of $7,998.91 AUD and a maintenance cost of approximately $36,347.50 AUD per course.](anzmsc-setup-and-maintenance-costs.md) — related
+- [The VR-based station saves approximately €750 per semester in recurring costs, which must be weighed against approximately €25,000 in development costs](vrs-cost-savings-offset-development.md) — related

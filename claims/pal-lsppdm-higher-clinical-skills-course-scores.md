@@ -48,3 +48,4 @@ Test-control comparison of 61 residents (Grade 2023, peer-assisted LSPPDM) versu
 - [Peer-assisted learning under the LSPPDM mode improves half-year after-department skills and case-report scores but not theory scores](pal-lsppdm-after-department-skills-case-report-gains.md) — related
 - [Residents report satisfaction above 4 points across all eight evaluated aspects of peer-assisted learning under the LSPPDM mode](high-satisfaction-pal-lsppdm-residents.md) — related
 - [Peer mutual evaluation scores are significantly higher than teacher ratings of the same skill videos](peer-evaluation-scores-exceed-teacher-ratings.md) — related
+- [Students rate peers' impact on their learning nearly equal to that of formal medical educators, with no agent scoring above 7.4/10](peer-impact-comparable-to-medical-educators.md) — related

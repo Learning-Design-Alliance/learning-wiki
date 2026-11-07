@@ -50,3 +50,4 @@ Retrospective before-and-after complication comparison; the article reports oeso
 - [IONM-based education lowered recurrent laryngeal nerve injury rates and enhanced procedural standardization](ionm-education-lowers-rln-injury-rates.md) — related
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — related
 - [Model A had the highest incidence of tooth injury in both attempts, uniquely incorporating an auditory alarm for tooth contact](model-a-tooth-injury-highest.md) — related
+- [Vocal cord palsy remained frequent even in the proficient stage, at 19.0%, despite overall learning-curve improvement](laspme-vocal-cord-palsy-persists-in-proficient-stage.md) — related

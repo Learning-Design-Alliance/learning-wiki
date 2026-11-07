@@ -47,3 +47,4 @@ Correlation analysis of 65 students who completed all questionnaires in the neur
 ## Related Claims
 - [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md) — related
 - [In one uncontrolled pre-post study, student motivation rose from pre-test to post-test after self-assessment implementation, while cognitive strategies, resource management and total MSLQ scores did not change significantly](self-assessment-increases-motivation-not-total-mslq.md) — related
+- [Rubric-assessed PBL tutorial performance improves significantly between core time 1 and core time 2 (r=0.516)](rubric-performance-improves-across-pbl-sessions.md) — related

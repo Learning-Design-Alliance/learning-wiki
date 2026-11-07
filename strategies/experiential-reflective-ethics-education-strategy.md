@@ -49,6 +49,7 @@ Based on the finding that patient rights education is associated with higher PCC
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Support ethical genomics practice through ethics rounds and integrating ethics across genomics education, leadership and clinical practice](ethics-rounds-and-integrated-ethics-for-genomic-nursing.md)
 - [Provide continuous ethics education from undergraduate studies through professional development to support nurses' moral competence](continuous-ethics-education-nursing.md)
+- [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
 
 ## Examples
 -

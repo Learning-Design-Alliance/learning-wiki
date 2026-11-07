@@ -49,6 +49,7 @@ A preparation strategy in which institutions give students extended, OSCE-specif
 - [Peer-led mock OSCE as a cost-effective strategy to reduce anxiety and support well-being before high-stakes clinical assessments](peer-led-mock-osce-strategy.md)
 - [Offer a peer-led practice day before the OSCE to support skills training and simulated station practice.](peer-led-practice-day-osce-preparation.md)
 - [Implement anxiety-coping programs and orientation sessions before OSCE examinations](pre-osce-anxiety-coping-orientation-strategy.md)
+- [Use OSCE as a strategy to enhance occupational therapy students' clinical skills and prepare them for practice](osce-strategy-ot-educators.md)
 
 ## Examples
 -

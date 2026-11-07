@@ -47,3 +47,5 @@ Same SEM analysis of 550 nursing students. The path from AI acceptance to percei
 ## Related Claims
 - [Self-directed learning, AI acceptance, and perceived clinical competence are mutually positively correlated](sdl-ai-acceptance-competence-correlations-nursing.md) — related
 - [AI acceptance partially mediates the relationship between self-directed learning ability and perceived clinical competence](ai-acceptance-partially-mediates-sdl-clinical-competence.md) — related
+- [Experiential dHealth competences are positively related to students' perceptions of AI's role in the future of medicine, while knowledge competences are not](dhealth-experiential-competences-ai-perceptions.md) — related
+- [Students' perceptions of AI's role in the future of medicine positively influence their practice of EBM, though less strongly than experiential competences](ai-perceptions-influence-ebm-practice.md) — related

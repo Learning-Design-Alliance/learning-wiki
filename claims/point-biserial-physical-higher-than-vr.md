@@ -49,3 +49,5 @@ One-way ANOVA on point biserial values from the mock bellringer exam after exclu
 - [Item difficulty in anatomy bellringer testing does not differ significantly across physical specimen, 2D image, and VR modalities](br-item-difficulty-equal-across-modalities.md) — related
 - [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — reports the opposite
 - [A post-search study found no significant difference in item difficulty between AI- and human-generated MCQs, but higher discriminatory power for human questions](laupichler-difficulty-equal-discrimination-human-higher.md) — related
+- [The VR-based OSCE station shows higher item discrimination and discrimination index than the matched physical station](vrs-higher-discrimination-than-phs.md) — reports the opposite
+- [VR-based and physical OSCE stations testing identical emergency content show comparable item difficulty within the ideal reference range](vrs-item-difficulty-comparable.md) — related

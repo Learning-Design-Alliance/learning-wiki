@@ -132,3 +132,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
 - [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — related
 - [Participants identify inadequate skills-laboratory time and space, and recommend simulation centres in training institutions and simulation corners in health facilities](sbe-infrastructure-simulation-centres-corners.md) — related
+- [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related
+- [Five barriers hinder implementation of physically active university teaching: uncertainty, lack of space, lack of time, students' unwillingness to move, and organisational social norms](five-barriers-physically-active-teaching.md) — related

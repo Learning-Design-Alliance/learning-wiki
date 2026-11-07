@@ -77,6 +77,8 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 - [Use the K technique as a basis for building VR training models at scale](k-technique-basis-for-vr-training-models.md)
 - [Scaffolded guidance fading in VR surgical rehearsal: visible ideal-target guidance for the first five evaluated attempts, then deactivated](vr-guidance-fading-attempts.md)
 - [Use structured SENSE-model debriefing to consolidate VR simulation learning](sense-model-debriefing-vr-simulation.md)
+- [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](mixed-learning-mode-vr-plus-tactile.md)
+- [Use interactive 3D object-based VR to let students repeat radiation-involved procedures without exposure and with feedback](3d-object-vr-repeat-procedures-without-radiation-strategy.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — surgical rehearsal platform; randomized studies showed orthopedic trainees using it outperformed conventionally trained peers on assessed procedure performance [+M]

@@ -51,3 +51,4 @@ Review authors' synthesis in the Discussion: "Inequalities permeated all domains
 - [Supervision is critical for applying obstetric emergency knowledge, with increased complications during periods of reduced oversight](supervision-critical-reduced-oversight-complications.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — a broader claim this one bears on
 - [Workplace-based learning from real-patient encounters is sparse in the obstetric emergency literature and remains a significant gap](wpbl-real-patient-encounters-sparse-gap.md) — related
+- [A climate of mistrust, blame and lack of management understanding undermines midwives' motivation despite their commitment to patient survival](mistrust-blame-undermine-midwife-motivation.md) — a narrower finding that bears on this claim

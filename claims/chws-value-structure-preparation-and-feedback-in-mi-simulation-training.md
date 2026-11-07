@@ -55,3 +55,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Participant takeaways from the simulation emphasize clear communication, practical orientation to the physical environment and equipment, real-time correction of techniques, and early action before the code team arrives](rcdp-simulation-takeaways-communication-environment-early-action.md) — related
+- [Facilitators consider positive feedback crucial for learning and deliberately foster positive aspects of simulation performance](facilitators-foster-positive-feedback.md) — related

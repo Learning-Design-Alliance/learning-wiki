@@ -65,6 +65,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Embed simulation tools into official curricula as standardized preclinical modules and pursue multi-institutional validation](curricular-integration-of-rpd-simulation.md)
 - [Build disaster nursing preparedness through a national competency framework, mandatory disaster modules, scenario-based simulation and leadership development](national-disaster-nursing-competency-framework-strategy.md)
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
+- [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
 
 ## Examples
 -

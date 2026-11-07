@@ -53,3 +53,4 @@ Chi-square/ANOVA comparisons across the 342-nurse sample (Table 1) found "statis
 - [ICU nurses' palliative care core competency is at a lower-middle level, with a mean PCNCC total score of 58.96 (SD 21.56)](icu-nurses-palliative-core-competency-lower-middle-mean.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related
 - [Latent profile analysis identifies three palliative care core competency subgroups among ICU nurses: low (21.6%), medium (47.2%) and high (31.2%)](lpa-three-palliative-competency-profiles.md) — related
+- [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — related

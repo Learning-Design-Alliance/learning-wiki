@@ -73,3 +73,4 @@ Focus group interview data. Participants reported that "the agents' questions pr
 - [Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work](attentional-drift-pace-impatience-restless-switching.md) — related
 - [Group ethical discussion with multiple LLM agents significantly increases ethical sensitivity in STEM undergraduates](llm-ethics-discussion-ethical-sensitivity-gains.md) — related
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related
+- [Students early in the transition to active learning may have a lower tolerance of uncertainty and need clarity at the end of a case](low-tolerance-uncertainty-cbl-clarity.md) — related

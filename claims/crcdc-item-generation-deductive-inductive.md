@@ -70,3 +70,4 @@ Inductive item generation from conventional content analysis (Graneheim and Lund
 - [Exploratory Graph Analysis identified three distinct communities fully consistent with the theoretical three-factor model, supporting the structural validity and multidimensional nature of the CRCDCS.](crcdc-ega-network-structure.md) — related
 - [The CRCDCS demonstrated satisfactory internal consistency (α = 0.876; ω = 0.861) and test–retest reliability (ICC = 0.85, 95% CI: 0.82–0.91).](crcdc-reliability-alpha-omega-icc.md) — related
 - [A needs-assessment process combining literature review, interviews with 360 nurses, and a two-round Delphi survey finalized 21 educational topics for C-ICU nurses](needs-assessment-finalized-21-topics.md) — related
+- [Semi-structured interviews identified nurses' palliative care learning needs that informed the design of the educational sessions](interviews-informed-session-design.md) — related

@@ -89,6 +89,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Integrate robotic surgery training into the education of young professionals](integrate-robotics-into-surgical-curriculum.md)
 - [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
 - [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
+- [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 
 ## Examples
 -

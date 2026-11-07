@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 107 claims (70 for, 33 mixed, 4 against) · 53 studies (17 quant-synthesis, 15 causal, 8 review, 6 design, 5 associational, 2 theoretical), `q1`–`q4` · 15 of 53 report an effect size · 99 claims rest on one study
+> **Evidence** · 109 claims (72 for, 33 mixed, 4 against) · 54 studies (17 quant-synthesis, 16 causal, 8 review, 6 design, 5 associational, 2 theoretical), `q1`–`q4` · 16 of 54 report an effect size · 101 claims rest on one study
 
 ## Description and scope
 
@@ -122,6 +122,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Correct rates on practical application questions increased significantly from Quiz 1 to Quiz 2 during interprofessional OFST](../claims/ofst-quiz-practical-application-correct-rate-increase.md) [+W] — attached 2026-11-06 from Wang Ting-Huai et al. (2025), which proposed "Interprofessional OFST course structure combining quizzes, case-based team learning, and experience sharing".
 - [Classroom engagement scores rose significantly from before to after a TBL course, in one uncontrolled pre-post study](../claims/tbl-increases-classroom-engagement-nursing.md) [+W] — attached 2026-11-06 from Ngoc Lan Duong Thi et al. (2025), which proposed "Use team-based learning as an active-learning strategy suited to large student-to-faculty ratios".
 - [Students report positive accountability, preference for TBL over lectures, and satisfaction on the TBL-SAI after the course](../claims/tbl-sai-positive-student-assessment.md) [+W] — attached 2026-11-06 from Ngoc Lan Duong Thi et al. (2025), which proposed "Use team-based learning as an active-learning strategy suited to large student-to-faculty ratios".
+- [Script concordance test performance rose significantly from pre-test to post-test in fourth-year medical students in one uncontrolled pre-post study of a team-based learning course on clinical symptoms](../claims/sct-performance-improves-after-tbl-clinical-reasoning.md) [+W] — attached 2026-11-07 from Ishizuka K et al. (2025), which proposed "TBL course pattern: three-phase 240-minute units combining pre-class preparation, readiness assurance, and application exercises"; tests this page's relationship.
+- [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](../claims/self-assessed-clinical-reasoning-competency-improves-tbl.md) [+W] — attached 2026-11-07 from Ishizuka K et al. (2025), which proposed "TBL course pattern: three-phase 240-minute units combining pre-class preparation, readiness assurance, and application exercises"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -222,6 +224,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Use IRAT as an indicator of subsequent assessment performance and exam-condition practice in pharmacy calculations](../strategies/irat-as-subsequent-assessment-indicator-strategy.md)
 - [Introduce and teach peer assessment before implementing team-based learning](../strategies/teach-peer-assessment-before-tbl.md)
 - [Integrate TBL readiness testing with peer-taught clinical skill practice in dental residency training](../strategies/tbl-pt-integrated-residency-strategy.md)
+- [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](../strategies/faculty-development-and-orientation-for-tbl.md)
 
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)

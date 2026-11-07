@@ -53,6 +53,7 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Use plug-and-play virtual simulation for tip-control training targeted at novice and beginner endoscopists before patient-based endoscopy](plug-and-play-virtual-simulation-tip-control-novices.md)
 - [Provide animal-based simulation training before performing actual endoscopic surgeries](animal-simulation-before-actual-surgery-strategy.md)
 - [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
+- [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Table 3 one-sample t-tests comparing each satisfaction mean to the neutral cut-o
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Nursing interns report high satisfaction with the “online–simulation–bedside” team CPR training (Kirkpatrick reaction level)](cpr-three-step-training-high-satisfaction.md) — related
+- [The STP was highly acceptable and satisfying: the online format was rated 9.12/10 and 69.2% of participants were very satisfied](stp-high-satisfaction-acceptability.md) — related

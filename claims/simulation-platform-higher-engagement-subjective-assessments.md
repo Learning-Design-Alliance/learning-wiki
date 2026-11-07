@@ -71,3 +71,4 @@ Questionnaire domain assessing proactive learning behavior; the simulation group
 - [IMR-SS trainees report greater confidence, training satisfaction, and usability than digital-textbook trainees](imr-ss-greater-satisfaction-confidence.md) — related
 - [Simulation-platform trainees outperformed controls on specialized thyroid theory scores (d = 0.85) and surgeon-rated surgical proficiency (d = 0.82)](simulation-platform-higher-theory-and-surgical-proficiency.md) — related
 - [A significantly larger proportion of integrated-teaching trainees positively evaluate the teaching method (100% vs. 86.0%)](teaching-satisfaction-proportion-chi-square.md) — related
+- [CMRL trainees rated the teaching method higher than MBL trainees on satisfaction and perceived improvement of practice, theoretical, and operational knowledge](cmrl-trainee-teaching-evaluations-higher.md) — related

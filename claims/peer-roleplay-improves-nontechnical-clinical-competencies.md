@@ -60,3 +60,4 @@ Final assessment scores compared between the 2019 (control) and 2020 (experiment
 - [Structured preoperative frameworks (PREDICT, GAPS) and independent rotations increase graduated autonomy without harming patient outcomes](predict-gaps-graduated-autonomy-frameworks.md) — related
 - [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related
 - [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](boppps-cbl-dops-five-dimensions-higher.md) — related
+- [The REPs-VS group scored significantly higher on the operational examination total and on operational steps, but not on apparatus selection or doctor-patient communication](reps-vs-higher-operation-exam-scores.md) — related

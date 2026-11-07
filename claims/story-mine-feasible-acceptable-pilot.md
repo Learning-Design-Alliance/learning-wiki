@@ -53,3 +53,4 @@ Acceptability assessment (n=13) within the pilot feasibility RCT of STORY MINE a
 - [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
 - [The FC/TPS pilot demonstrated high feasibility and learner acceptability but not proven efficacy](fc-tps-pilot-feasibility-not-efficacy.md) — related
+- [Practitioners rated MEYA as acceptable, understandable, and feasible on the URP-I](meya-implementation-outcomes-urp-i.md) — related

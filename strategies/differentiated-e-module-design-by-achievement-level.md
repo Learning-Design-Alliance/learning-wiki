@@ -53,6 +53,7 @@ Based on the subgroup findings, the authors recommend tailoring future e-modules
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
+- [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 
 ## Examples
 -

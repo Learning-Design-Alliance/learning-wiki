@@ -50,3 +50,5 @@ Nonparametric group comparison in the 30-student sample using ASRS v1.1 classifi
 ## Related Claims
 - [Teacher-rated ADHD symptoms do not uniquely predict reading or math achievement once visual-motor subcomponents are accounted for](adhd-symptoms-not-predict-reading-math.md) — related
 - [ACCESS does not improve GPA or credits earned relative to delayed treatment among college students with ADHD](access-no-gpa-credit-gains.md) — related
+- [In South African first-year undergraduates, higher ADHD symptom counts predict a smaller magnitude of change in academic adjustment over the semester, but ADHD symptoms do not significantly predict first-semester GPA or end-of-semester adjustment](adhd-symptoms-smaller-magnitude-academic-adjustment-south-african-first-years.md) — related
+- [Neither ADHD symptoms alone nor combined with comorbid symptoms significantly predict first-semester GPA; only depressive symptoms show a significant independent contribution](no-adhd-comorbidity-prediction-first-semester-gpa.md) — related

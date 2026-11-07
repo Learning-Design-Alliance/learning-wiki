@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (106 show a difference, 31 mixed, 13 no difference) · 93 studies (25 associational, 23 review, 16 qualitative, 12 causal, 7 quant-synthesis, 6 design, 4 theoretical), `q1`–`q4` · 10 of 93 report an effect size · 150 claims rest on one study
+> **Evidence** · 153 claims (108 show a difference, 32 mixed, 13 no difference) · 95 studies (25 associational, 23 review, 17 qualitative, 12 causal, 7 quant-synthesis, 7 design, 4 theoretical), `q1`–`q4` · 10 of 95 report an effect size · 153 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -186,6 +186,9 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Psychological safety and simulation design features remain significant predictors of satisfaction within both gender subgroups, with predictors explaining more variance among male students](../claims/subgroup-predictors-consistent-across-genders.md) [+M] — learners who differ on it differ in outcomes
 - [Psychological safety, including awareness of host-context hierarchy and norms around mistakes, emerged as a theme supporting open participation in transborder adaptation.](../claims/psychological-safety-transborder-adaptation.md) [+M] — learners who differ on it differ in outcomes
 - [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](../claims/structured-analytical-debriefing-learning-from-errors.md) [+M] — measured as an outcome of the instruction studied
+- [Facilitator role management — psychological safety awareness, structure, and managing dominant voices — conditions whether CBL supports active learning](../claims/facilitator-role-management-cbl-active-learning.md) [~M] — an instructional effect differs with it
+- [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](../claims/psychological-safety-same-group-cbl-participation.md) [+M] — learners who differ on it differ in outcomes
+- [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](../claims/utaut2-acceptance-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

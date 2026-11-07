@@ -70,3 +70,4 @@ Null result from the same ATL pre-post comparison in the results section: satisf
 - [TBL is associated with higher satisfaction, positive attitudes and motivation versus lecture, but preferences are mixed](tbl-feeling-of-learning-satisfaction-mixed.md) — related
 - [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related
 - [Classroom engagement scores rose significantly from before to after a TBL course, in one uncontrolled pre-post study](tbl-increases-classroom-engagement-nursing.md) — related
+- [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](self-assessed-clinical-reasoning-competency-improves-tbl.md) — related

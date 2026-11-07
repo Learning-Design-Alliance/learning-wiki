@@ -48,6 +48,7 @@ The article recommends that, given ChatGPT-4.0's demonstrated proficiency on the
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Integrate AI tools into A-SPIRE's practical stages as an adjunct to human expertise, with ethical oversight](ai-integration-into-a-spire-practical-stages.md)
+- [Assess social sensibility and multitasking in residency applicants using OSCEs, situational judgment tests and simulated multitasking scenarios](og-residency-selection-assessment-strategies.md)
 
 ## Examples
 -

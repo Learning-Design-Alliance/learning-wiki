@@ -71,6 +71,9 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Implement targeted training strategies plus standardized protocols and institutional support to improve diabetic foot management](targeted-training-and-protocols-diabetic-foot.md)
 - [Incorporate case-based learning and interactive components into asynchronous virtual care CPD modules](strategy-case-based-learning-virtual-care-cpd.md)
 - [Implement mandatory, flexible, and financially supported CPD programs in public dental services with peer learning and monitoring](mandatory-flexible-supported-pds-cpd-strategy.md)
+- [Use innovative, flexible dementia-learning formats (short app-based modules, interactive e-learning, monthly workshops, tele-mentoring) instead of conventional formal training](flexible-dementia-learning-formats-strategy.md)
+- [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
+- [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 
 ## Examples
 -

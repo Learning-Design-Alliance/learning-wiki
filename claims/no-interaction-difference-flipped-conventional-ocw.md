@@ -46,3 +46,4 @@ Independent t-test on post-course teacher–student interaction survey scores (6
 
 ## Related Claims
 - [Interview data indicated flipped classroom learners obtained immediate help and clarified misconceptions, while conventional-group learners crammed for tests](interviews-immediate-help-versus-cramming.md) — related
+- [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related

@@ -53,3 +53,4 @@ Authors' interpretation in the discussion, grounded in the observation that NSW 
 - All eligible postgraduate CBL studies had serious methodological flaws identified by CASP appraisal, limiting the validity and reliability of their conclusions — related
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related

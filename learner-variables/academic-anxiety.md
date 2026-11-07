@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 284 claims (188 show a difference, 54 mixed, 42 no difference) · 177 studies (64 associational, 62 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 38 of 177 report an effect size · 276 claims rest on one study
+> **Evidence** · 288 claims (192 show a difference, 54 mixed, 42 no difference) · 180 studies (67 associational, 62 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 39 of 180 report an effect size · 280 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -320,6 +320,10 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Delta pupillary diameter predicts an anxiety increase during simulation with AUC 0.876 and was the only statistically significant variable in the stepwise model](../claims/pupillary-delta-predicts-anxiety-increase-auc-0-876.md) [+W] — measured as an outcome of the instruction studied
 - [A 14-week CBT-MBSR program substantially reduced academic test anxiety among TVET students compared with a waitlist control, with effects sustained at two-month follow-up](../claims/cbt-mbsr-reduced-test-anxiety-tvet-rct.md) [+M] — measured as an outcome of the instruction studied
 - [MANCOVA showed a significant multivariate effect of CBT-MBSR on test anxiety, academic achievement, and well-being, with large effect sizes](../claims/cbt-mbsr-mancova-multivariate-effect.md) [+M] — measured as an outcome of the instruction studied
+- [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](../claims/inverse-correlation-mental-health-gpa-wartime-students.md) [+M] — learners who differ on it differ in outcomes
+- [Both conventional and animated video education reduced uncertainty, anxiety, and improved sleep over time, with no baseline differences on these measures](../claims/both-education-forms-improve-patient-outcomes.md) [+M] — measured as an outcome of the instruction studied
+- [The combination of ADHD symptoms with depression and anxiety symptoms is a stronger predictor of smaller magnitude of academic adjustment than ADHD symptoms alone](../claims/adhd-comorbid-combination-stronger-predictor-adjustment-change.md) [+M] — learners who differ on it differ in outcomes
+- [The combination of ADHD symptoms with depression and anxiety symptoms predicts worse academic adjustment at the end of the semester, driven by depression and anxiety rather than ADHD symptoms](../claims/adhd-comorbid-combination-predicts-end-semester-adjustment.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

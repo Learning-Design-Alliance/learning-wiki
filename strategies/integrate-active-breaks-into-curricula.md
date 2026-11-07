@@ -56,6 +56,7 @@ The article recommends embedding short, structured physical activity breaks into
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Active Recess](active-recess.md)
 - [Brain-Based Learning with Movement Breaks](brain-based_learning_with_movement_breaks.md)
+- [Integrate structured physical activity programs into the daily school curriculum to sustain MVPA](structured-daily-school-physical-activity-programs.md)
 
 ## Examples
 -

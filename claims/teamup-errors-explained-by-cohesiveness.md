@@ -50,3 +50,4 @@ Correlation and regression analysis in SPSS of 106 teams (424 individuals) playi
 - [In-game time and distance are not very useful indicators of team quality because they are largely driven by team structure](teamup-time-distance-poor-quality-indicators.md) — related
 - [Team structure factors (gender, age, game experience) markedly influence TEAMUP speed and distance but not avoidable mistakes](teamup-structure-drives-time-distance-not-errors.md) — related
 - [Perceived task cohesion strength relates to team performance in collaborative learning teams](task-cohesion-relates-team-performance.md) — related
+- [In Critical Care simulation sessions, knowledge-based mistakes and lapses (Reason) and communication breakdown and poor team performance (Round) were the most commonly observed errors, while violations and sloths were least frequent](simulation-error-frequency-reason-round.md) — related

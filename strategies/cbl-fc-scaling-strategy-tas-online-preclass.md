@@ -54,6 +54,7 @@ The authors propose adaptations for settings with larger classes or limited facu
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
 - [Adapt case-based learning delivery for resource-limited preclinical settings: simplify cases, phase complexity, standardize facilitation, add low-cost visual aids](context-sensitive-cbl-adaptation-strategy.md)
+- [Key considerations and proposed strategies for better CBL implementation in applied physiology](cbl-implementation-improvement-strategies-applied-physiology.md)
 
 ## Examples
 -

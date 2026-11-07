@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (44 show a difference, 15 mixed, 12 no difference) · 42 studies (17 causal, 10 associational, 9 review, 4 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 8 of 42 report an effect size · 71 claims rest on one study
+> **Evidence** · 72 claims (45 show a difference, 15 mixed, 12 no difference) · 43 studies (17 causal, 10 associational, 9 review, 4 quant-synthesis, 2 qualitative, 1 design), `q2`–`q4` · 8 of 43 report an effect size · 72 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -107,6 +107,7 @@ Visual processing is what the brain does with the input that comes through visio
 - [Cognitive activity training produced significant interaction effects in LOTCA subdomains of spatial perception, praxis, visual-motor organization, thinking processes, and attention](../claims/cat-mixed-anova-lotca-subdomains.md) [+M] — measured as an outcome of the instruction studied
 - [School-based cognitive activity training significantly improved LOTCA Total and Visual Perception scores in refugee children compared to controls](../claims/cat-improves-lotca-total-visual-perception-refugee-children.md) [+M] — measured as an outcome of the instruction studied
 - [Mixed-reality feedback condition did not significantly affect novices' visual attention or mental workload during laparoscopic training](../claims/mr-feedback-no-significant-effect-attention-workload.md) [-M] — measured as an outcome of the instruction studied
+- [The more experienced radiologist showed a more uniformly distributed visual search pattern across the chest x-ray, while the less-experienced radiologist focused on regions suspected of abnormality](../claims/faculty-uniform-versus-trainee-focused-search-pattern.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

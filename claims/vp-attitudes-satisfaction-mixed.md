@@ -82,3 +82,4 @@ Narrative synthesis of 11 attitudinal-outcome studies; the review notes diminish
 - [Satisfaction item-level differences favor GBL on participation and expectations items](gbl-item-level-satisfaction-advantages.md) — related
 - [Patients cared for by programmed-instruction students reported higher satisfaction than patients cared for by traditionally taught students](programmed-instruction-patient-satisfaction.md) — related
 - [Two further confidence items favored the simulator group only at the P<.10 level, while 19 survey questions showed no significant differences](hss-marginal-items-and-null-items.md) — related
+- [The REPs-VS group reported significantly higher self-directed learning skill, confidence in future patient encounters, and reduced performance stress than the traditional group](reps-vs-confidence-and-stress-attitudes.md) — related

@@ -55,6 +55,7 @@ The article concludes that ChatGPT-4o "may be best used as a supplementary educa
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
 - [Use multimodal AI chatbots such as ChatGPT-4o as diagnostic support tools in dental education, particularly endodontics](multimodal-ai-chatbot-diagnostic-support-dental-education.md)
+- [Use advanced LLMs as supplementary oncology education and decision-support tools, with outputs verified by medical professionals and models regularly updated](llm-oncology-support-with-professional-verification.md)
 
 ## Examples
 -

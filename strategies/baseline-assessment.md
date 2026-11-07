@@ -68,6 +68,7 @@ Baseline assessment enables instruction to start where learners actually are rat
 - [Start adult learners in homogeneous small groups and use individual instruction with gradual release](small-group-library-instruction-adult-learners.md)
 - [Design participation deliberately: align entry points with partners' actual readiness rather than assuming a uniform baseline](design-participation-entry-points-match-readiness.md)
 - [Use a baseline 50-states pretest to inform differentiated geography instruction, and do not rely on CMT spatial-reasoning scores for placement](baseline-pretest-for-map-instruction-differentiation.md)
+- [Assess readiness at the end of each practice session and provide tailored remediation before advancing](readiness-assessment-tailored-remediation-strategy.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — a widely used physics diagnostic that identifies Newtonian vs. naive-mechanics reasoning before mechanics instruction; results are used to compare instructional approaches (e.g., interactive engagement vs. lecture).

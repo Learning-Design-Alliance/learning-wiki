@@ -46,6 +46,6 @@ Domain-level comparison of self-ratings and instructor ratings reported in the d
 
 ## Related Claims
 - [Trainee nurses' self-rated competency is significantly higher than clinical instructors' ratings of the same trainees, with a moderate effect size](trainee-self-rating-exceeds-instructor-rating-tcm-hospital.md) — a broader claim this one bears on
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](qualitative-explanation-competency-gap-feedback-workload.md) — related
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related
 - [Clinical instructors' ratings of students' emotional intelligence correlate with clinical performance while student self-ratings do not](ci-rated-emotional-intelligence-correlates-clinical-performance.md) — related
 - [Self-other rating differences vary across competency domains in first-year nursing OSCEs, with the largest discrepancy in social/communication skills (Rating Type × Domain interaction η²ₚ = 0.416)](osce-rating-type-domain-interaction-nursing.md) — a narrower finding that bears on this claim

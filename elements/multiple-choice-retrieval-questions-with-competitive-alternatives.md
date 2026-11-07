@@ -64,7 +64,8 @@ A recognition-format retrieval practice item: a multiple-choice question whose i
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+M]: the general testing effect these questions draw on; it is smallest when an initial test gives no feedback and learners answer half or fewer correctly
 
 ## Examples
--
+
+- [Use GenAI as a tutor to generate practice MCQs and embed retrieval practice into learning and training](../strategies/genai-tutor-generated-practice-mcqs-retrieval-practice.md)
 
 ## Key Sources
 - Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222

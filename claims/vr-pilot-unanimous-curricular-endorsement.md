@@ -49,3 +49,6 @@ Table 2 presents matched pre- and post-intervention open reflections of the 11 s
 - [Students rated Meta Quest 3 headset usability and comfort very highly (mean 4.7 ± 0.5) and openness to curricular VR integration rose from 3.6 to 4.4](vr-pilot-headset-usability-openness.md) — related
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
 - [Single-word word-cloud elicitation showed students’ associations with VR shifting from entertainment and scepticism toward constructive, professional and educational associations](vr-pilot-word-cloud-conceptual-shift.md) — related
+- [Students rated the VR-based station similarly to the physical station on most perception items, but showed significant hesitancy toward broader future use of VR in assessments](vrs-acceptance-hesitancy-future-use.md) — related
+- [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
+- [A VR-based OSCE station can be integrated into an established curricular OSCE with 93% of students using the VR technology without issues](vrs-osce-integration-feasible.md) — related

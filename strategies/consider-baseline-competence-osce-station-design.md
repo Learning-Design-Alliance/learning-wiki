@@ -43,7 +43,8 @@ Based on the small gain observed at the Oral Hygiene Education station, the auth
 - [A five-week simulation-based clinical readiness module was associated with statistically significant pre-to-post OSCE improvements in five pediatric dentistry outcomes (Medical History Taking, Child–Parent Communication, Team Dynamics, Fissure Sealant Application, Fluoride Application)](../claims/readiness-module-osce-gains-five-outcomes.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use OSCE as a strategy to enhance occupational therapy students' clinical skills and prepare them for practice](osce-strategy-ot-educators.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ The review reports, citing the qualitative study of Al-bedaery (2024), that part
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
 - [Realistic simulation gave students insight into future professional responsibilities, communication and teamworking, and asking for help](simulation-realism-professional-responsibility-insight.md) — a narrower finding that bears on this claim
+- [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — a narrower finding that bears on this claim

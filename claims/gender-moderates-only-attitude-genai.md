@@ -48,3 +48,4 @@ Meta-regression analysis coding each sample's male ratio as a continuous moderat
 - [Samples with a majority of female students showed significantly smaller science effects than evenly distributed samples](majority-female-samples-smaller-5e-science-effects.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
 - [Most study characteristics (publication year, mean age, sampling, target language, L2 major, proficiency, measure, mode) do not significantly moderate the gender gap](non-significant-moderators-l2-gender-gap.md) — related
+- [Gender and age moderate the habit–intention relationship, stronger for males and for those aged 30 or above](gender-age-moderate-habit-intention.md) — related

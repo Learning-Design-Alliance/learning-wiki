@@ -60,6 +60,7 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 - [Implement hybrid AI-generation with expert calibration for examination production](hybrid-ai-generation-expert-calibration-strategy.md)
 - [Use LLM-based feedback on resident reports so trainees can identify weaknesses, track growth, and reduce mentor workload](llm-feedback-resident-report-training-strategy.md)
+- [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 
 ## Examples
 -

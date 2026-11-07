@@ -55,3 +55,5 @@ Dichotomous course feedback items from the same study; the article reports "87.1
 - [Students received the new PBL oral-health content positively, with most judging PBL a suitable format](students-received-pbl-oral-content-positively.md) — related
 - [LEDs found the SIMBA programme highly acceptable and predominantly preferred it over traditional lecture-based learning](simba-high-acceptability-leds.md) — related
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
+- [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
+- [Students strongly favored the jigsaw peer learning module, with 93% rating it good or excellent and 94% endorsing regular use](student-feedback-favors-jigsaw.md) — related

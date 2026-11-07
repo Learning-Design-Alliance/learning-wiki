@@ -70,3 +70,4 @@ Multiple linear regression on the survey data identified sex and admission year 
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — reports the opposite
 - [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related
 - [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](gender-differences-english-app-usage.md) — related
+- [Female physicians rate all six competency domains higher than male physicians](female-physicians-higher-competency-domain-scores.md) — related

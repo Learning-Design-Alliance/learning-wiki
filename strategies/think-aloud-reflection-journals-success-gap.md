@@ -46,6 +46,7 @@ To address discrepancies between students' perceptions of success and their actu
 
 - [Design think-aloud tasks with training (instruction, demonstration, practice) and marker-based prompting to enhance methodological rigour](think-aloud-training-and-prompting-design.md)
 - [Provide early, proactive metacognitive support that guides feedback interpretation and strategy adjustment, beyond merely presenting performance information](early-proactive-calibration-support-tools.md)
+- [Incorporate reflective practices, feedback mechanisms, and pre/post ADKS assessment into training to foster accurate self-assessment of dementia knowledge](reflective-practices-accurate-self-assessment-strategy.md)
 
 ## Examples
 -

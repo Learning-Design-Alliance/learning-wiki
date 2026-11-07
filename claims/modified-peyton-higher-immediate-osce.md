@@ -54,3 +54,4 @@ Randomized controlled trial of 120 residents randomized to modified (n = 60) or 
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
 - [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related
+- [Peer tutors using Peyton's four-step method taught basic suturing skills to undergraduates as effectively as faculty, with no significant OSCE score difference between PAL and FAL groups](pal-fal-equivalent-suturing-osce.md) — related

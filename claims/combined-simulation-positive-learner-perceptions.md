@@ -49,3 +49,4 @@ Post-simulation learner experience survey (Table 3) in the pilot: all seven item
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
 - [Students rated the human standardized patient customer discovery simulation highly, with 85% agreeing it met learning objectives](human-sp-customer-discovery-simulation-high-acceptability.md) — related
 - [Medical students rate immersive VR simulation for chest tube insertion training as highly usable (median SUS 82.5 of 100)](immersive-vr-chest-tube-high-usability-sus.md) — related
+- [Expert clinicians rate the VR-based airway training system positively on feasibility, perceived usefulness and ease of use](vr-airway-tam-positive-ratings.md) — related

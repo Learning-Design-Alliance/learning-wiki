@@ -72,3 +72,4 @@ Linear regression on the same 400-answer corpus with automated marker scores as 
 - [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](peerscholar-accountability-improves-expert-peer-correlation.md) — related
 - [GAME's marks agree with a human marker's marks on student programming exercises and assignments](game-marks-agree-with-human-marker.md) — related
 - [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related
+- [Round two NAF scores correlated very strongly (r = 0.97) with the final round-three KOL consensus rankings](strong-correlation-naf-scores-final-consensus.md) — a narrower finding that bears on this claim

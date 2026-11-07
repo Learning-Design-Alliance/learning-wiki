@@ -54,3 +54,4 @@ Adjusted linear mixed-effects model estimate; unadjusted comparison showed train
 - [A structured Quality and Patient Safety module significantly improves medical interns' knowledge test scores across graduating cohorts](qps-module-improves-intern-knowledge-scores.md) — related
 - [Knowledge gains from the QPS module are larger for interns without prior patient safety training, while systems thinking and efficacy gains are comparable across groups](qps-gains-larger-without-prior-training.md) — related
 - [Systems thinking and personal accomplishment show model-dependent positive associations with patient safety competency](systems-thinking-pa-model-dependent-psc.md) — related
+- [Knowledge gains after patient safety training were larger for female nurses and nurses working fewer weekly hours; demographic factors showed no significant relation to attitude change](demographic-moderators-patient-safety-learning.md) — related

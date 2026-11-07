@@ -48,3 +48,4 @@ Prospective pre/post survey of 15 surgeons (13 pediatric, 2 general) attending t
 - [Confidence retention at last follow-up was variable, with some technical steps showing limited retention without ongoing practice](neurosave-variable-retention-followup.md) — related
 - [Chronic subdural evacuation confidence showed only a non-significant trend after the workshop, and suboccipital craniectomy and subdural drain implantation showed borderline results](neurosave-non-significant-steps.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
+- [Patient positioning with pinning and flap design, ICP probe insertion, and EVD insertion were ranked the three highest-priority procedural skills for neurosurgical SBE](top-three-neurosurgical-sbe-skills-positioning-icp-evd.md) — related

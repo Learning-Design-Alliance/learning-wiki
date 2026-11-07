@@ -97,3 +97,4 @@ The article reports eye-tracking research (Wolff et al. 2016) showing novices' s
 - [Expert evaluation supported the VR classroom's vividness and the expert validity of the classroom events' likely interpretations](ivr-pvas-expert-evaluation-vividness-validity.md) — related
 - [Video-based evaluation changed teacher self-reports and retention but did not improve student achievement](video-evaluation-no-student-achievement-gain.md) — related
 - [Experts show fewer and longer fixations than residents during ECG interpretation, indicating more targeted visual search](experts-fewer-longer-fixations-ecg.md) — related
+- [The more experienced radiologist showed a more uniformly distributed visual search pattern across the chest x-ray, while the less-experienced radiologist focused on regions suspected of abnormality](faculty-uniform-versus-trainee-focused-search-pattern.md) — a narrower finding that bears on this claim

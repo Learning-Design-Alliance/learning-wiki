@@ -53,3 +53,6 @@ Kirkpatrick levels 1 and 2 evaluation in the Fluharty et al. study (370 BSN and 
 - [Communication skills training improves clinician communication behaviors and confidence in goals-of-care conversations, with effects varying by skill and measure](gopc-training-improves-clinician-communication.md) — related
 - [SBLE significantly reduces emotional exhaustion among nursing students compared with traditional instruction](sble-reduces-emotional-exhaustion-nursing-students.md) — related
 - [Students reported significantly increased emotional stress and feelings of hopelessness after the palliative care course](increased-emotional-stress-hopelessness.md) — related
+- [A targeted end-of-life care training programme raised the EOL proficiency pass rate among medical ward nurses from 15% to 53% three months post-intervention](eol-training-pass-rate-15-to-53-percent.md) — related
+- [Nurses' self-reported confidence in end-of-life care increased significantly across all three domains after the training programme](eol-training-confidence-gains-all-domains.md) — a narrower finding that bears on this claim
+- [Nurses substantially overestimated their end-of-life care competence: about 80% rated themselves competent or confident while only 15% passed the knowledge quiz](nurses-overestimate-eol-competence.md) — related

@@ -64,6 +64,7 @@ To address scalability, the authors recommend that "future implementations in re
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Recommendations for future interprofessional OMP workshops: balance professions, stress efficiency, add a follow-up session, and refine micro-skill wording](interprofessional-omp-workshop-implementation-recommendations.md)
 - [Phased implementation strategy for adopting design-thinking flipped classrooms: pilot small, train teachers, provide demonstrations and feedback](phased-dt-flipped-adoption-strategy.md)
+- [Distribute real-patient video production costs through interschool partnerships and shared digital repositories](shared-repositories-video-production-scalability.md)
 
 ## Examples
 -

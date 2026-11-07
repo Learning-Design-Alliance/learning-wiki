@@ -53,6 +53,7 @@ The review recommends that medical and nursing faculties teach with "augmented r
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Develop next-generation virtual communication-training tools that integrate natural language processing, nonverbal cue detection, and conceptual and psychological fidelity](integrate-nlp-and-multifidelity-in-virtual-tools.md)
+- [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 
 ## Examples
 -

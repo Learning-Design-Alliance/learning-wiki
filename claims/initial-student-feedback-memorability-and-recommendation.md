@@ -50,3 +50,4 @@ An online feedback survey of 17 students eight weeks after the September 2019 se
 - [Undergraduate psychiatry students report that traditional methods are insufficient for mastering non-verbal cues](psychiatry-students-report-traditional-methods-insufficient-for-nonverbal-cues.md) — related
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
 - [Pilot survey of 12 anatomy students rated the app highly useful, immersive, and conducive to learning](pilot-survey-brain-app-high-usability-ratings.md) — related
+- [About 63% of responding first-year students agreed the CRE course contributed to their ability to demonstrate initiative and self-direction in learning](cre-satisfaction-self-direction-agreement.md) — related

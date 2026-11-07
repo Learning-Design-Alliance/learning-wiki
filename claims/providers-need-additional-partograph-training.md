@@ -53,3 +53,4 @@ Reported in the Results section of the cross-sectional survey of 373 obstetric c
 - [Midwives and general practitioners had higher odds of good partograph knowledge than nursing assistants](midwife-gp-higher-odds-partograph-knowledge.md) — related
 - [Providers with 6-10 years of service had higher odds of good partograph knowledge than those with less than one year](six-ten-years-service-higher-odds-partograph-knowledge.md) — related
 - [72.1% of obstetric care providers in West Cameroon systematically used the partograph](west-cameroon-partograph-systematic-use-72-1.md) — related
+- [Knowledge gaps in perinatal care persist despite HBB training, and midwives report a need for recurrent and more comprehensive training](knowledge-gaps-persist-despite-hbb-training.md) — related
