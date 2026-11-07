@@ -53,3 +53,4 @@ Random-effects meta-analysis of six studies (eleven groups) comparing time to co
 - [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — a narrower finding that bears on this claim
 - [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](leakage-grade3-reduction-vascular-anastomosis-simulation.md) — related
 - [IVR-trained residents complete the thyroidectomy task faster than control-trained residents](ivr-faster-task-completion-thyroidectomy.md) — a narrower finding that bears on this claim
+- [Anastomosis time decreased by at least 10 minutes from first to second period for both junior and senior residents in all three anastomosis types](anastomosis-time-decrease-at-least-10-minutes.md) — related

@@ -53,3 +53,5 @@ Blinded expert assessment of image quality on a 6-point scale during the same ev
 - [No statistically significant differences between AI-enhanced and non-AI groups on the other individual echocardiography views](ai-guidance-no-gain-other-echocardiography-views.md) — related
 - [Real-time AI guidance did not significantly improve the overall Cardiac US Score in novices after a short cardiac ultrasound course](ai-guidance-no-overall-cardiac-us-score-gain.md) — related
 - [Fellow image quality matched technicians for PLAX and A5C views but was significantly worse for the A3C view](fellow-image-quality-a3c-worse.md) — related
+- [Correct identification of echocardiographic view titles improved after training, with the apical two-cavities view title rising from 21.4% to 100% correct](echo-view-title-identification-improved-after-sim-training.md) — related
+- [All mannequin-based practical parameters of echocardiographic view acquisition improved significantly after training, with median view-obtaining time at or under 10 seconds](mannequin-practice-parameters-improved-after-sim-training.md) — related

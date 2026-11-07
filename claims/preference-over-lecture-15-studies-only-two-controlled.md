@@ -75,3 +75,5 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — a narrower finding that bears on this claim
 - [Interns taught with OBE-integrated PBL achieve their career plans one year after graduation at a higher rate than lecture-taught peers](obe-pbl-career-plan-achievement-one-year.md) — related
 - [Students report positive accountability, preference for TBL over lectures, and satisfaction on the TBL-SAI after the course](tbl-sai-positive-student-assessment.md) — a narrower finding that bears on this claim
+- [Students perceived TBL as requiring more individual preparation and effort and more lecturer involvement than PBL](tbl-perceived-needing-preparation-and-facilitation.md) — related
+- [Student preference for TBL over traditional lectures improved significantly after the intervention but remained one of the lowest-rated survey items](tbl-preference-improved-but-still-low.md) — a narrower finding that bears on this claim

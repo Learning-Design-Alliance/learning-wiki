@@ -77,3 +77,5 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [PGY trainees' TEAM self-assessment identified situation monitoring and composure as weaknesses while team morale, leadership, and communication scored highest.](team-self-assessment-monitoring-composure-weaknesses.md) — related
 - [Closed-loop communication is rare in real-life trauma teams (3.6% of utterances) and significantly higher in simulation (7.7%)](clc-low-in-real-trauma-teams-higher-in-simulation.md) — related
 - [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
+- [Teams with low technical performance scored far lower on situation awareness and patient communication than high-performing teams](low-performers-situation-awareness-patient-communication-scores.md) — related
+- [Team communication, stress management, and task management were not significantly associated with high technical performance](team-communication-stress-task-management-not-associated-technical-performance.md) — related

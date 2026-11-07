@@ -79,3 +79,5 @@ Domain-level ANTS analysis in the same scenario test showed only teamwork and si
 - [SPLINTS-based lecture and video-scenario training significantly raises scrub practitioners' overall self-efficacy in intraoperative non-technical skills one month after training](splints-training-raises-scrub-practitioner-self-efficacy.md) — related
 - [Flipped classroom preparation before anesthesia crisis management simulation yields higher overall ANTS non-technical skills scores than conventional lecture](fc-higher-overall-ants-scores-anesthesia-simulation.md) — related
 - [Flipped classroom raises ANTS decision making, team-working and leadership, and task management scores, but not situation awareness](fc-ants-subscores-situation-awareness-null.md) — related
+- [LSPPDM group scored higher on most NOTSS non-technical skills, with no difference in situation awareness](lsppdm-higher-notss-scores.md) — related
+- [Team communication, stress management, and task management were not significantly associated with high technical performance](team-communication-stress-task-management-not-associated-technical-performance.md) — related

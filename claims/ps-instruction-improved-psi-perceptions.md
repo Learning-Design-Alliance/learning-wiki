@@ -77,3 +77,4 @@ Same posttest-only quasi-experiment; the PC factor (z=-1,183, p=.237) showed no 
 - [High-tech simulations improve technological problem-solving ability more than low-tech simulations](high-tech-simulation-improves-problem-solving.md) — related
 - [Improvement spans all problem-solving subcategories: personal control, avoidance/approach, and confidence](psi-subcategories-all-improved-high-tech.md) — reports the opposite
 - [Productive failure plus debriefing training shifts problem-solving style toward rational-positive and away from negative-avoidant approaches](productive-failure-debriefing-problem-solving-styles.md) — related
+- [Among the three problem-solving components, only problem-solving confidence changed significantly after simulation-based training](problem-solving-confidence-only-component-changed.md) — related

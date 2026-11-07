@@ -51,3 +51,4 @@ The article states that "increasing information permanence, that is, making it m
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — related
 - [Both cognitive offloading and the transient information effect reduce extraneous cognitive load by making information more accessible or less transient](shared-mechanism-reducing-extraneous-load.md) — related
 - [The transient information effect states that learning from transient presentations leads to inferior learning compared to permanent presentations](transient-information-effect-definition.md) — related
+- [Documentation of the advance directive recorded its presence but not necessarily the content of the discussion](advance-directive-documentation-inadequate.md) — related

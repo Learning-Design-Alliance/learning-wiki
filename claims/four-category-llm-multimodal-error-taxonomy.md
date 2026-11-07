@@ -97,3 +97,4 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [Ten JNEOT questions were answered incorrectly by all four LLMs, six of them visually-based](ten-questions-incorrect-by-all-llms.md) — related
 - [Unsupported medical claims are significantly more prevalent in the Understanding domain than other domains (Cramér's V = 0.382), the only error type significant after correction](unsupported-claims-prevalent-understanding-domain.md) — related
 - [Most GPT-4 errors on TCM examination questions stemmed from misunderstanding of TCM concepts (55.3%), not misreading questions](gpt4-tcm-errors-concept-misunderstanding-55-3.md) — a narrower finding that bears on this claim
+- [Error-type distribution (logical, informational, explicit fallacy) does not differ significantly between ChatGPT-4 versions (chi-square P=.32)](chatgpt4-error-type-distribution-similar-across-versions.md) — related

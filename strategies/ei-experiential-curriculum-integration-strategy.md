@@ -68,6 +68,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Integrate relational and technical competencies in nursing education frameworks to address the assessment gap](integrate-relational-and-technical-competencies-nursing-education.md)
 - [Make student reflection a mandatory component of experiential learning courses to integrate personal, professional, and academic learning](mandatory-reflection-in-el-courses.md)
 - [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
+- [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
 
 ## Examples
 -

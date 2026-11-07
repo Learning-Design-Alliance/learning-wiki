@@ -85,3 +85,4 @@ Pilot study of a web-based content refresher (N = 10 NNPs): 4/5 participants in 
 - [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related
 - [The first attempt success benefit of just-in-time coaching was significant among residents but not among fellows or student registered nurse anesthetists](jit-coaching-resident-subgroup-benefit.md) — related
 - [Just-in-time coaching improved technical skill metrics (airway views, advancement maneuvers, technical difficulties, intubation time) but complications did not differ significantly](jit-coaching-technical-metrics-complications-null.md) — related
+- [Training participants' knowledge of neonatal resuscitation guidelines rose from pre-test to post-test after the in situ simulation programme, in one uncontrolled pre-post study](resuscitation-guideline-knowledge-improved-in-situ-sbt.md) — related

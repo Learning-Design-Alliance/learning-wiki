@@ -44,6 +44,7 @@ The article proposes examining questionnaire validity by having a few respondent
 
 - [Construct task-specific strategy questionnaires directly from a think-aloud coding taxonomy, item by item](build-questionnaire-from-think-aloud-taxonomy.md)
 - [Use cognitive interviewing with think-aloud and verbal probing to evaluate established questionnaires in new linguistic and educational contexts, revising conservatively](cognitive-interviewing-instrument-adaptation-strategy.md)
+- [Use video-recorded think-aloud case reports to diagnose knowledge gaps and tailor teaching strategies](video-transcription-diagnosis-strategy.md)
 
 ## Examples
 -

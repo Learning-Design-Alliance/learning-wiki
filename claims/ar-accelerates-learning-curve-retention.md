@@ -97,3 +97,4 @@ Parallel RCT (n=40 medical students) tracked across 10 ex vivo cholecystectomy s
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — related
 - [Exposure to AI-assisted training did not impair students' independent radiographic interpretation when AI support was removed](ai-training-did-not-impair-independent-interpretation.md) — related
 - [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a broader claim this one bears on
+- [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related

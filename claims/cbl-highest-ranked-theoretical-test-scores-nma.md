@@ -71,3 +71,4 @@ Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test 
 - [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related
 - [FC-TBL students outperformed LBL students in four subsequent molecular-biology-related courses in the seventh and eighth semesters](fc-tbl-improves-subsequent-course-outcomes.md) — a narrower finding that bears on this claim
 - [Seven months after the course, FC-TBL and LBL students showed no significant difference in retention of basic molecular biology concepts, though FC-TBL scores were marginally higher](fc-tbl-no-retention-advantage-seven-months.md) — related
+- [Residents ranked case discussion with supervisors as the most learning-enhancing method in neuroanesthesia and self-testing as the least](case-discussion-ranked-top-learning-method-neuroanesthesia.md) — related

@@ -50,3 +50,5 @@ The multi-centre cross-sectional comparison of 586 providers found a significant
 - [Practical compression-rate performance (57.17%) falls significantly below theoretical knowledge (96.76%) among emergency healthcare providers](cpr-compression-rate-theory-practice-gap.md) — related
 - [Manikin audiovisual feedback reveals low overall compression accuracy (17%) despite adequate rate and recoil](cpr-manikin-feedback-quality-metrics.md) — related
 - [Compression-to-ventilation ratio is the only core CPR indicator with no significant theory–practice difference](cpr-ventilation-ratio-no-theory-practice-gap.md) — related
+- [One year after training, psychomotor CPR component skills (hand placement, rate/depth, chest recoil, activating emergency response) show significant decreases in students performing them sufficiently, while some skills do not](dops-component-skills-differential-decay-one-year.md) — related
+- [Compression skill success rates among final-year medical students are low despite generally high self-efficacy perceptions](low-compression-success-rates-despite-high-sep.md) — related

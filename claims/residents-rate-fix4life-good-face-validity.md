@@ -50,3 +50,4 @@ Face validation survey of 30 junior surgical residents after a hands-on laparosc
 - [Novices rate Fix4Life procedures more favorably than experts, particularly for lifelike tissue manipulation and tissue color](novices-rate-fix4life-more-favorably-than-experts.md) — related
 - [Residents rate the TEP hernia repair on Fix4Life cadavers better than the laparoscopic cholecystectomy on several face validity points](tep-rated-better-than-cholecystectomy-fix4life.md) — related
 - [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related
+- [Participants rate both digital and in-person laparoscopy training positively and similarly, but a majority across both groups would still prefer to be trained in-person](training-modality-satisfaction-high-preference-in-person.md) — related

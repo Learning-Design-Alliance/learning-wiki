@@ -49,3 +49,4 @@ Final SEM in the longitudinal Head Start sample tested full mediation; the indir
 - [Positive preschool interpersonal relationships predict kindergarten academic achievement controlling for initial achievement](preschool-relationships-predict-kindergarten-achievement.md) — a narrower finding that bears on this claim
 - [Positive preschool interpersonal relationships predict gains in emotion knowledge over the prekindergarten year](preschool-relationships-predict-emotion-knowledge-gains.md) — a narrower finding that bears on this claim
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
+- [Academic emotions mediate the relationship between teacher support and academic achievement](academic-emotions-mediation-teacher-support-achievement.md) — related

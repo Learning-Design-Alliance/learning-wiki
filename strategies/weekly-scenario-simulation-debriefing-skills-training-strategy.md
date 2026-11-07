@@ -69,6 +69,7 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 - [Predefine mandatory core debriefing elements for each simulation scenario to standardize knowledge consolidation](predefined-core-debriefing-elements.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
+- [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 
 ## Examples
 -

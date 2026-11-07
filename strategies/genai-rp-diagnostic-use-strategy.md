@@ -52,6 +52,7 @@ The article recommends that institutions and instructors administer the GenAI-RP
 
 - [Use SR and OB measures together as diagnostic tools in AI literacy professional development, before and after training](combined-sr-ob-diagnostics-in-pd.md)
 - [Use validated competency questionnaires to diagnose educator strengths and design targeted professional development](competency-diagnosis-professional-development-strategy.md)
+- [Use the LBCS to identify needs for education concerning breastfeeding beyond 12 months](lbcs-identify-education-needs.md)
 
 ## Examples
 -

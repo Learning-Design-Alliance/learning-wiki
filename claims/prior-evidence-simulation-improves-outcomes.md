@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: toumi-dhekra-2025
     resource: "https://doi.org/10.62438/tunismed.v103i3.5342"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The article cites a multicenter randomized controlled trial (Crofts et al., 2006) in which successful deliveries increased from 42.9% to 83.3% (P < 0.001) after simulation training. [→ Toumi Dhekra 2025](#toumi-dhekra-2025)

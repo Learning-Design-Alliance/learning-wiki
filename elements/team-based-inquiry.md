@@ -13,7 +13,7 @@ generated:
 # Team-Based Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 10 studies (4 quant-synthesis, 3 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (4 quant-synthesis, 3 causal, 2 theoretical, 1 review, 1 qualitative), `q1`–`q4` · 6 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Team-Based Inquiry places students in small, structured groups that work through carefully sequenced questions or problems, constructing answers collectively rather than receiving them directly. Each team member typically adopts a role, and the group's reasoning — not just its answer — is the object of instruction. The structure distinguishes it from generic group work: tasks are interdependent, roles are assigned, and reflection on the group's process is built in.

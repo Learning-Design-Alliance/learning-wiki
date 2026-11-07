@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 79 claims (46 for, 28 mixed, 5 against) · 44 studies (27 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 15 of 44 report an effect size · 78 claims rest on one study
+> **Evidence** · 81 claims (48 for, 28 mixed, 5 against) · 45 studies (28 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 15 of 45 report an effect size · 80 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -103,6 +103,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [The flipped classroom significantly increased English test scores versus traditional teaching](../claims/flipped-classroom-raises-english-test-scores.md) [+M] — attached 2026-11-06 from Wang Zhonger et al. (2025), which proposed "Pre-class/in-class/post-class flipped classroom instructional design for college English"; tests this page's relationship.
 - [Flipped learning produced higher total patient safety competency scores than traditional instruction in fourth-year nursing students](../claims/flipped-learning-higher-pscse-total-nursing.md) [+W] — attached 2026-11-07 from Budak Vildan et al. (2025), which proposed "Six-week WHO-based flipped patient safety training program delivered via Microsoft Moodle"; tests this page's relationship.
 - [Students taught with flipped learning reported significantly higher satisfaction with the education method than traditionally taught students](../claims/flipped-learning-higher-satisfaction-patient-safety.md) [+W] — attached 2026-11-07 from Budak Vildan et al. (2025), which proposed "Six-week WHO-based flipped patient safety training program delivered via Microsoft Moodle".
+- [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](../claims/flipped-classroom-higher-posttest-scores-gondar.md) [+W] — attached 2026-11-07 from Mengesha Assefa Kebad et al. (2024), which proposed "Two-part flipped classroom module with online pre-class materials and in-class case-based activities"; tests this page's relationship.
+- [Flipped classroom students reported significantly higher engagement than traditional lecture students](../claims/flipped-classroom-higher-engagement-gondar.md) [+W] — attached 2026-11-07 from Mengesha Assefa Kebad et al. (2024), which proposed "Two-part flipped classroom module with online pre-class materials and in-class case-based activities"; tests this page's relationship.
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

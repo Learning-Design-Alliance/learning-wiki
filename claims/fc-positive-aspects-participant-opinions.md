@@ -50,3 +50,4 @@ Qualitative focus-group interviews with 18 students (4 male, 14 female), analyze
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](fc-student-resistance-self-learning.md) — related
 - [Flipped ESL/EFL students completed about 77.75% of out-of-class assignments on average, with completion dipping mid-semester and higher in Macau than the US](flipped-assignment-completion-buy-in.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
+- [The lowest-rated aspects of the flipped classroom concerned time: students most wanted more time per topic and noted long preparation and conduction time](flipped-classroom-time-related-lowest-ratings.md) — related

@@ -49,3 +49,4 @@ Independent-samples t-tests compared item-level performance between needle-guide
 - [Using a needle guide during transfer tests significantly improves CVS performance regardless of prior training method](needle-guide-improves-cvs-transfer-performance.md) — a broader claim this one bears on
 - [Training approach (context variation, needle-guided, or freehand) shows no significant difference in transfer-test performance for ultrasound-guided CVS among novices](no-training-approach-advantage-cvs-transfer.md) — related
 - [The needle-guided training group empties significantly fewer cavities during training than the context variation and freehand groups](needle-guided-training-fewer-cavities-emptied.md) — related
+- [Female trainees using AR-US identified insertion-site anatomy and located the IJV faster than male trainees using AR-US](ar-us-female-faster-anatomy-identification.md) — related

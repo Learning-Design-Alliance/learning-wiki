@@ -53,3 +53,4 @@ Bootstrap mediation analysis (5000 resamples, bias-corrected 95% CIs) within the
 - [Foreign language emotions fully mediate the relationship between social support and English academic achievement](fl-emotions-fully-mediate-support-achievement.md) — related
 - [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related
 - [Cognitive appraisals partially mediate the relationship between classroom conditions and student teachers' emotions](appraisals-partially-mediate-conditions-emotions.md) — related
+- [Academic emotions mediate the relationship between teacher support and academic achievement](academic-emotions-mediation-teacher-support-achievement.md) — related

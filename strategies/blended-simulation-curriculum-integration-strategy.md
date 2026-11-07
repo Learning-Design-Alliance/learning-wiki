@@ -54,6 +54,7 @@ The review recommends embedding simulation into the fabric of surgical education
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use VR simulation as a primer or distance-learning complement to mannequin simulation in a blended approach](vr-as-primer-or-distance-complement-to-mannequin.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Incorporate simulator training into cardiovascular surgery curricula with independent resident access](incorporate-simulator-training-cardiovascular-curriculum.md)
 
 ## Examples
 -

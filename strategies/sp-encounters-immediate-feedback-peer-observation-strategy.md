@@ -50,6 +50,7 @@ Learners in small groups of 4–6 observe peers in SP encounters from outside OS
 - [Include a patient panel discussion to ground communication training in patient experiences](patient-panel-discussion-communication-training.md)
 - [Provide immediate formative feedback from faculty and embedded participants after each OSCE station](immediate-formative-feedback-after-each-osce-station.md)
 - [Administer a rotating virtual breakout-room SP assessment with 15-minute interviews and 5-minute feedback](virtual-breakout-room-sp-assessment-rotation.md)
+- [Combine immediate standardized-patient feedback, video review, and self-feedback diary entries as the core of OSCE remediation](video-remediation-with-sp-feedback-and-self-feedback-diary.md)
 
 ## Examples
 -

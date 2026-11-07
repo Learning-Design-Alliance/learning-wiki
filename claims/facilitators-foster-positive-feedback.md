@@ -47,3 +47,4 @@ Interview data from nine facilitators: an experienced facilitator (Mary) stated 
 ## Related Claims
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) — related
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
+- [Students emphasise feedback after simulations as crucial, with feedback from professional actors offering the patient's viewpoint especially valued](actor-simulation-feedback-crucial.md) — related

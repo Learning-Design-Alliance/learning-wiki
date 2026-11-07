@@ -47,3 +47,4 @@ Longitudinal quasi-experimental comparison of 45 experimental versus 37 control 
 ## Related Claims
 - [The course's pedagogical impact was lagged: full superiority across assessment modalities emerged only at 16 months, which the authors interpret via script encapsulation theory](lagged-pedagogical-impact-script-encapsulation.md) — possibly the same claim (merge candidate)
 - [Short-term (3–4 months) benefits of the tripartite-framework course were limited to anaesthesia planning, with no significant differences in MCQs or oral examinations](tripartite-course-short-term-gain-only-anaesthesia-planning.md) — related
+- [Repeated MCQ test-enhanced learning produced no significant difference in delayed basic-science assessment scores among first-year anesthesiology residents](tel-mcq-no-effect-basic-science-neuroanesthesia.md) — related

@@ -52,3 +52,4 @@ The article states in its abstract that the two effects "share similar underlyin
 - [Learning with more than two external representations in STEM has advantageous effects on students' cognitive load and performance compared to learning with two representations.](more-than-two-representations-benefit-load-and-performance.md) — related
 - [CSCL environments in which students share external representations share characteristics that induce considerable cognitive load](cscl-environments-induce-considerable-cognitive-load.md) — related
 - [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — related
+- [Cognitive offloading — using physical external elements to reduce task cognitive demand — improves performance in perception, memory, mathematical thinking, and spatial reasoning](cognitive-offloading-improves-performance-extended-mind.md) — related

@@ -49,3 +49,4 @@ Repeated measures ANOVA per application on UCAT scores (Table 4) from nine parti
 - [Structured tutoring improves self-assessed heart ultrasound competency at 6 months, but the self-assessed lung competency difference is not statistically significant](tutoring-self-assessed-heart-competency.md) — related
 - [UCAT-measured POCUS competency improved significantly from module two to module six](pocus-competency-ucat-improved.md) — a broader claim this one bears on
 - [Two-way repeated measures ANOVA showed significant improvement over time in both confidence and competency, with no significant differences between applications and no time × application interaction](pocus-time-application-anova-no-interaction.md) — reports the opposite
+- [Hands-on lung POCUS proficiency improved from a pre-course median score of 0% to a post-course median of 67%](lus-hands-on-proficiency-gain.md) — related

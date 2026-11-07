@@ -61,3 +61,4 @@ Leave-one-rater-out validation analysis comparing the selected LLM judge (GPT-5.
 - [Automated formative scores showed strong rank-order agreement with blinded expert ratings for participation, reflection, and reasoning dimensions](maple-cr-formative-expert-convergence.md) — related
 - [Evaluator-agent scores agreed closely with a 16-rater human consensus benchmark for both MI (ICC(2,1)=0.959) and CBT (ICC(2,1)=0.934)](evaluator-agrees-with-human-rater-consensus.md) — related
 - [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — a narrower finding that bears on this claim
+- [Raters agreed strongly with each other (r = 0.725–0.838) but correlated only moderately with actual difficulty (r = 0.455–0.545)](ugmle-interrater-strong-actual-moderate-correlations.md) — related

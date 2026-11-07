@@ -55,3 +55,4 @@ Summary of the Table 7 regression results: printed coefficients include SAnx −
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [All three academic anxieties are negatively correlated with STEM interest and positively correlated with mental rotation commission error rate](anxieties-correlated-mr-error-and-stem-interest.md) — related
+- [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related

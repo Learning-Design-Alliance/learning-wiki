@@ -49,3 +49,4 @@ Reliability testing within the second survey of 512 digestive endoscopy nurses, 
 ## Related Claims
 - [Item analysis on an initial survey of 413 endoscopy nurses retained 41 items with significant item–total correlations and high-low group discrimination](endoscopy-nurse-scale-item-analysis-413-nurses.md) — related
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
+- [The scale shows high internal consistency, with total Cronbach's α of 0.984 and dimension coefficients from 0.947 to 0.978](scale-cronbach-alpha-high-internal-consistency.md) — related

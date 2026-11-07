@@ -53,6 +53,7 @@ Because state math anxiety is highest before a math task and declines during and
 - [Build students' mathematics ability, alongside STEM exposure, to foster STEM career interest during middle school.](build-math-ability-to-foster-stem-interest.md)
 - [Introduce affective strategies to reduce anxiety before pushing oral practice, and build relaxed, supportive classrooms](introduce-affective-strategies-before-forced-oral-practice.md)
 - [Screen students for elevated simulation anxiety with STAI and pupillometry, then support predisposed learners with pre-visit, presession-viewing, and breathing-relaxation interventions](anxiety-screening-and-support-strategy-simulation.md)
+- [Future interventions should prioritise anxiety-reduction strategies and emotionally supportive learning environments informed by Control-Value Theory](anxiety-reduction-emotionally-supportive-environment-strategy.md)
 
 ## Examples
 -

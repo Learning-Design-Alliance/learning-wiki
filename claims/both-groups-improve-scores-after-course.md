@@ -59,3 +59,4 @@ Pre- and post-class comparisons in the quasi-experimental study showed "both the
 - [Within the PBL-FC group all self-directed learning dimensions improve from pre- to post-class, while the traditional group shows no significant within-group change](pbl-fc-within-group-sdl-gains.md) — reports the opposite
 - [The PBL-CBL group outperformed the traditional group on every post-course test section: basic knowledge, clinical case analysis, and operation practice](pbl-cbl-better-all-test-sections.md) — related
 - [Students in problem-based learning curricula outperform students in traditional curricula on the European Prescribing Exam](pbl-curriculum-higher-prescribing-exam-scores.md) — related
+- [Within the conventional CBL group, practical skills scores did not improve significantly from pre-course to post-course, while theory and total scores improved in both groups](cbl-group-practical-no-pre-post-difference.md) — related

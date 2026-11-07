@@ -49,3 +49,4 @@ Test-retest analysis of 69 matched pairs retested approximately two weeks after 
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
 - [ATSHWS scores are temporally stable over a 15-day test-retest interval (ICC 0.900; r 0.951)](atshws-test-retest-stability-15-day.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
+- [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related

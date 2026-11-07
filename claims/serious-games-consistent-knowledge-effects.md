@@ -57,3 +57,4 @@ Subgroup analysis of four RCTs (n=135) of standalone serious games within the kn
 - [Most included studies reported a positive effect of game-thinking on academic achievement](majority-studies-report-positive-effect.md) — a broader claim this one bears on
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related
 - [GSIL produced significant positive effects on knowledge acquisition across all achievement bands, largest for low achievers](gsil-significant-knowledge-gains-all-bands.md) — related
+- [A mobile application combining educational content with scenario-based games was designed and used as the gamified flipped learning environment](health-assessment-gamified-mobile-app.md) — related

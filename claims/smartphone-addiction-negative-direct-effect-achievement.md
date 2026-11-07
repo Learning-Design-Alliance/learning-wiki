@@ -52,3 +52,4 @@ Cross-sectional survey of 828 Turkish seventh- and eighth-grade students analyze
 - [Smartphone addiction correlates negatively with academic resilience, self-efficacy and achievement, and positively with cognitive test anxiety](smartphone-addiction-correlation-pattern-secondary-students.md) — related
 - [General self-efficacy neither mediated nor moderated the smartphone addiction–academic achievement relationship](general-self-efficacy-no-mediation-moderation.md) — related
 - [Problematic smartphone use shows a small negative pooled correlation with academic achievement (r = −0.110)](psu-negative-small-correlation-academic-achievement.md) — a broader claim this one bears on
+- [The direction of the relationship between smartphone/internet addiction and academic achievement differs by country: negative for Czech students, positive for Chinese students](addiction-achievement-direction-country-difference.md) — related

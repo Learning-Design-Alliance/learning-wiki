@@ -54,3 +54,4 @@ Robustness analysis using multivariate regression models (n = 74) incorporating 
 - [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — related
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
+- [Adopting CBL combined with BOPPPS raises teachers' Personal Teaching Efficiency and Sense of Teaching Efficiency scores](cbl-boppps-raises-teacher-teaching-efficacy.md) — related

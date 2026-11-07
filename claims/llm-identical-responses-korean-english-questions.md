@@ -47,3 +47,4 @@ Language-input check conducted during LLM evaluation; the article states this su
 
 ## Related Claims
 - [No statistically significant performance gap existed between Turkish and English administration of the same radiology questions to ChatGPT-5 and Gemini 2.5 Pro](no-language-gap-turkish-english-llm-radiology-accuracy.md) — related
+- [GPT-4 self-agreement between Korean and English versions is 72.6%, with correct answers derived only from English in 14.1% of cases](gpt4-self-agreement-korean-english-72-6-percent.md) — reports the opposite

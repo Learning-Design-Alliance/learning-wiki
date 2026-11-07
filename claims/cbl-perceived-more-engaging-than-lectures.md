@@ -52,3 +52,6 @@ Thematic analysis of four focus group discussions with 30 second-year MBBS stude
 - [Students perceive interactive virtual exploration of a case family as deepening understanding and aiding retention compared with traditional teaching](vr-exploration-deeper-understanding-retention.md) — related
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — related
 - [Teachers identified limited clinical time, passive learning, and static case exposure as key problems of the LBL model, and time demands and weak guidance as problems of PBL](teacher-identified-lbl-pbl-problems-dermatology.md) — related
+- [The most notable motivational consequences of virtual CBL sessions are perceived applicability and interestingness of basic sciences](cbl-motivational-consequences-applicability-interestingness.md) — related
+- [Preclinical medical students at Najran University enjoyed PBL and were more motivated to join it than TBL](pbl-more-enjoyed-and-motivating-than-tbl-nu-survey.md) — a narrower finding that bears on this claim
+- [Virtual case-based learning sessions significantly increase medical students' motivation to learn basic sciences](virtual-cbl-increases-basic-science-motivation.md) — related

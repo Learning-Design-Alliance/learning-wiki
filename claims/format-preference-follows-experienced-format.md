@@ -70,3 +70,4 @@ Descriptive comparison of preferred formats across the two randomized groups (Fi
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](students-prefer-blended-teaching-orthodontics.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [Medical students prefer viewing anatomy on pinned cadavers over digital images during practical exams](students-prefer-pinned-cadavers-over-digital-images-practical-exams.md) — related
+- [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related

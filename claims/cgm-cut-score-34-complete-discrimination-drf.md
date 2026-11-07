@@ -51,3 +51,5 @@ Contrasting Groups' Method applied to the plotted total-score distributions of 1
 - [A credible pass/fail standard of 34.4% was established using the contrasting groups' method](foi-test-pass-fail-standard-34-4-percent.md) — related
 - [A composite total simulator score on an expert-informed iVR simulator significantly discriminated between novice and experienced orthopedic surgeons after a single procedure (Cohen's d = 4.2)](ivr-total-score-discriminates-novices-experienced-drf.md) — related
 - [A contrasting groups' method sets a 70% pass/fail score with one false positive and no false negatives](contrasting-groups-pass-fail-70-camera-navigation.md) — related
+- [A contrasting-groups discriminatory standard of 6.15 points yields one false positive and one false negative](contrasting-groups-standard-615-consequences.md) — related
+- [A composite fluoroscopy score on the iVR simulator discriminates novices from experienced surgeons with a very large effect size (partial eta squared = 0.54)](ivr-fluoroscopy-composite-score-discriminates-experience.md) — related

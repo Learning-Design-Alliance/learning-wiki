@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 307 claims (217 show a difference, 58 mixed, 32 no difference) · 199 studies (72 associational, 54 causal, 32 review, 15 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 44 of 199 report an effect size · 299 claims rest on one study
+> **Evidence** · 313 claims (221 show a difference, 58 mixed, 34 no difference) · 204 studies (74 associational, 56 causal, 33 review, 15 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 45 of 204 report an effect size · 305 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -347,6 +347,12 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](../claims/inverse-correlation-mental-health-gpa-wartime-students.md) [+M] — learners who differ on it differ in outcomes
 - [Prior teaching was somewhat stressful for junior doctor tutors but participation in the near-peer program provided only some relief of that stress](../claims/near-peer-teaching-stress-relief-minimal.md) [~M] — measured as an outcome of the instruction studied
 - [Hospital-based post-graduate feedback experiences were predominantly problematic or absent, and trainees developed coping strategies that cemented non-acceptance of supervision and feedback](../claims/hospital-feedback-problematic-coping-strategies.md) [+M] — measured as an outcome of the instruction studied
+- [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](../claims/ar-us-junior-trainees-lower-effort-frustration.md) [+M] — measured as an outcome of the instruction studied
+- [Perceived stress negatively affects coping with study demands in both Czech and Chinese university students](../claims/perceived-stress-negative-coping-study-demands.md) [+M] — learners who differ on it differ in outcomes
+- [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](../claims/test-anxiety-negative-correlation-performance-medical-students.md) [+M] — learners who differ on it differ in outcomes
+- [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](../claims/test-anxiety-null-osce-gpa-medical-students.md) [-M] — learners who differ on it differ in outcomes
+- [The flexible compulsory course did not add significant academic burden, psychological stress, or examination stress compared with the elective course](../claims/cdbrc-no-added-course-pressure.md) [-M] — measured as an outcome of the instruction studied
+- [Work stress is negatively associated with competency among Chinese radiology residents](../claims/work-stress-negative-competency-radiology-residents.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

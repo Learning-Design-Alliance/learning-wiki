@@ -80,6 +80,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
+- [Incorporate the HMSS into health management teaching curricula as a supplement to traditional teaching](incorporate-hmss-as-supplement-to-traditional-teaching.md)
 
 ## Examples
 -

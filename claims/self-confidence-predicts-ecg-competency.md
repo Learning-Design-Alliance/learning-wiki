@@ -49,3 +49,4 @@ Multivariable logistic regression using self-reported confidence ratings as pred
 - [Interns with emergency department rotations during clinical years have significantly higher odds of ECG competency (AOR = 3.87)](ed-rotation-clinical-years-predicts-ecg-competency.md) — related
 - [Only 19.1% of Ethiopian medical interns across four institutions meet the ≥80% ECG interpretation competency threshold](ethiopian-interns-low-ecg-competency-19-percent.md) — related
 - [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](randomised-case-order-attenuates-case1-effect.md) — related
+- [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related

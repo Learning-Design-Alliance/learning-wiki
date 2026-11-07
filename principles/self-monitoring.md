@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (10 for, 18 mixed, 3 against) · 34 studies (14 causal, 8 quant-synthesis, 6 review, 3 associational, 3 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (11 for, 18 mixed, 3 against) · 35 studies (14 causal, 8 quant-synthesis, 6 review, 4 associational, 3 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ None of these measures whether a self-monitoring habit persists after prompts ar
 - [Whole-task, metacognitive knowledge, and external standard interventions significantly improve monitoring accuracy in problem solving](../claims/whole-task-metacognitive-knowledge-external-standard-interventions-improve-monitoring-accuracy.md) [+W] — attached 2026-10-21 from Noortje Janssen · Ard W. Lazonder (2024), which proposed "For problem-solving tasks, use whole-task, metacognitive knowledge, or external standard interventions and avoid timing interventions".
 - [Informing learners about the to-be-monitored cue before the problem-solving phase improves self-assessment accuracy compared with informing them only afterwards](../claims/inform-learners-before-problem-solving-improves-accuracy.md) [+W] — attached 2026-10-21 from Waldeyer et al. (2024), which proposed "Inform learners about the to-be-monitored self-assessment cue before, not after, the problem-solving phase".
 - [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](../claims/qualitative-views-self-monitoring-strategies.md) [~W] — attached 2026-11-01 from Arslantas et al. (2017), which proposed "Equip teachers with the competence to use self-monitoring strategies and inform students of their purpose, or the strategies' benefit is limited".
+- [Most first-semester medical students misjudge their oral anatomy exam performance: 35.5% overestimate, 46.0% underestimate, and only 18.5% assess themselves accurately](../claims/self-assessment-accuracy-distribution-first-semester.md) [+W] — attached 2026-11-07 from Knof Harald et al. (2024), which proposed "Teach self-assessment skills explicitly at the beginning of medical studies, since realistic self-assessment is a major difficulty for beginning students and low performers' calibration is unlikely to improve by itself".
 
 ## Objective and learner-valued goal
 

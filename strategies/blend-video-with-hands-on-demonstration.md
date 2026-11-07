@@ -52,6 +52,7 @@ Based on findings that video teaching matched demonstration on knowledge and mos
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
 - [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 - [Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks](hierarchical-hybrid-teaching-vocational-skills.md)
+- [Use an animated training video demonstrating the guided-surgery workflow to prepare inexperienced operators before hands-on performance](animated-video-tutorial-novice-surgical-training.md)
 
 ## Examples
 -

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/difficult-procedures-longer-operating-time.md
+---
+
+# Revision history: [claims/difficult-procedures-longer-operating-time](../claims/difficult-procedures-longer-operating-time.md)
+
+### 2026-11-07 · ingest · process:wiki-ingest
+Ingested from pmc-11362477 (Internal and external factors affecting the performance score of surgical trainees doing laparoscopic appendectomy: a prospective, observational cohort study in a structured training programme.) via eval_harness.py + ingest_extractions.py

@@ -51,6 +51,7 @@ Educators emphasized linking theoretical instruction with clinical experiences a
 
 - [Use structured debriefing, formative assessment, and continuous feedback to consolidate learning in active learning activities](structured-debriefing-formative-assessment-active-learning.md)
 - [Train peer tutors to mastery on the exact skill checklist before they teach, using the same Peyton's-method module as the trainees will receive](peer-tutor-mastery-training-strategy.md)
+- [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 
 ## Examples
 -

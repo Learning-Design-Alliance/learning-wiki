@@ -54,6 +54,7 @@ The review groups proposed solutions into examiner training and calibration, que
 - [Use the SOE formatively to give students individual feedback on weak skill profiles, and combine it with SKT or KFE modules for broader level-2 evidence](soe-formative-feedback-and-skt-kfe-triangulation-strategy.md)
 - [Calibration and implementation pathways for analytic rubrics in clinical dental courses](rubric-calibration-implementation-pathways-dental-clinics.md)
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
+- [Multidimensional rater-improvement strategy combining expert training, monitoring and evaluation, quality assurance mechanisms, and item banking](ugmle-multidimensional-rater-improvement-strategy.md)
 
 ## Examples
 -

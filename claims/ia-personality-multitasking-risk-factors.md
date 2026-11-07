@@ -70,3 +70,4 @@ The review reports, citing Díaz Cárdenas (2019), a cross-sectional study of 40
 - [Internet addiction and frequent smartphone use are associated with higher surface learning and lower deep learning among medical students](ia-surface-learning-deep-learning-association.md) — related
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
 - [Internet use is a significant predictor of increased academic burnout among medical students](ia-predicts-academic-burnout.md) — related
+- [Mobile phone addiction is positively associated with internet addiction among university students in both Czech and Chinese samples](mobile-phone-addiction-positively-associated-internet-addiction.md) — related

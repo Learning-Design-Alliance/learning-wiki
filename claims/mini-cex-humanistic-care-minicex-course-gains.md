@@ -54,3 +54,4 @@ In the quasi-experimental study, Mini-CEX assessments (seven domains, 9-point sc
 - [Humanistic care-integrated Mini-CEX teaching improves self-directed learning ability in nursing students](mini-cex-humanistic-care-sdl-gains.md) — related
 - [Blended PBL-CBL-seminar chairside teaching improves Mini-CEX clinical competence scores versus LBL in fourth-year dental students](blended-pbl-cbl-seminar-improves-mini-cex-scores.md) — related
 - [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related
+- [CBL combined with BOPPPS improved four of five modified Mini-CEX clinical-thinking dimensions; for medical history writing the article's text reports no significant difference but its table prints p = 0.002](cbl-boppps-mini-cex-clinical-thinking-dimensions.md) — related

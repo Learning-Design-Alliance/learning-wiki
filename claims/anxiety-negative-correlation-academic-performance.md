@@ -74,3 +74,4 @@ The same correlation analysis among male students at post-instruction found GPA 
 - [Female undergraduate physics students report higher science, spatial, math, and clinical anxiety than male students at both pre- and post-instruction](sex-differences-stem-anxiety-physics-students.md) — related
 - [Anxiety and loneliness show moderate negative correlations with GPA among physiotherapy students](anxiety-loneliness-moderate-negative-gpa-correlations-physiotherapy.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
+- [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — reports the opposite

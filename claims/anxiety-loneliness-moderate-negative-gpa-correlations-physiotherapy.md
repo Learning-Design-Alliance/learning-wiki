@@ -52,3 +52,4 @@ Cross-sectional correlational analysis of 256 physiotherapy and rehabilitation s
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
+- [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related

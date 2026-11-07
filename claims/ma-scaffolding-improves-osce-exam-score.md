@@ -92,3 +92,5 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [A 7-day virtual simulation game on CAUTI prevention produced higher post-test knowledge scores than standard training presentations in nursing students](vsg-improves-cauti-prevention-knowledge.md) — related
 - [Communication simulation training raises senior medical students' informed consent OSCE scores under the UCD rubric versus standard clinical learning (mean grade C to B+, effect size 0.79)](cst-improves-consent-osce-ucd-rubric.md) — related
 - [Baseline OSCE scores on the generative AI platform did not differ between the podcast and control groups](ai-osce-baseline-scores-equivalent-groups.md) — related
+- [Free practice of physical examinations raises OSCE physical examination scores by about five percentage points, enough for a grade jump](physical-exam-free-practice-grade-jump.md) — related
+- [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related

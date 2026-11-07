@@ -49,3 +49,4 @@ Questionnaire survey of the DVRS group with an 84.72% (61/72) response rate, on 
 - [Participants rate the remote AR simulation system as highly usable, with mixed responses only about needing technical support](remote-ar-simulation-sus-high-usability.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Participants unanimously endorsed using Aizhixing for students while reporting handpiece discomfort and overly deep standard cavity settings](questionnaire-support-and-caveats-aizhixing.md) — related
+- [Students rate the BLS classroom course very positively, with majorities reporting clear objectives, appropriate difficulty and preparedness to respond to emergencies](bls-course-feedback-positive-ratings.md) — related

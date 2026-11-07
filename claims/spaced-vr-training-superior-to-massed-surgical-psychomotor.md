@@ -56,3 +56,4 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
 - [Blended-model students performed about twice as many suturing practice attempts as controls, and simulation attempts correlated with skills scores](doubled-practice-attempts-correlate-with-skills-scores.md) — related
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
+- [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related

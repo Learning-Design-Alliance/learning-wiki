@@ -69,3 +69,4 @@ Case-level analysis (Table 4) reports traumatology experience associated with co
 - [Specific postgraduate training types (McKenzie, cervical stabilization, manual therapy) are associated with correct decisions on different specific cases](training-type-specific-case-associations.md) — related
 - [Hungarian physiotherapists make appropriate treatment decisions for musculoskeletal cervical cases far more often than they recognize critical medical cases (61.7% vs 22.7%)](physiotherapists-msk-decisions-exceed-critical-case-recognition.md) — related
 - [Years of professional experience significantly influenced recognition of the dens fracture and cervical myelopathy cases](years-of-practice-influence-specific-cm-case-recognition.md) — related
+- [The SCT significantly differentiates first-year DPT students from an experienced physical therapist reference panel, with the panel scoring higher](sct-differentiates-students-reference-panel.md) — related

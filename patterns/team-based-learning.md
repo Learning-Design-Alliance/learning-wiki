@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 111 claims (74 for, 33 mixed, 4 against) · 55 studies (17 causal, 17 quant-synthesis, 8 review, 6 design, 5 associational, 2 theoretical), `q1`–`q4` · 17 of 55 report an effect size · 103 claims rest on one study
+> **Evidence** · 113 claims (75 for, 34 mixed, 4 against) · 58 studies (18 causal, 17 quant-synthesis, 8 review, 6 associational, 6 design, 3 theoretical), `q1`–`q4` · 18 of 58 report an effect size · 105 claims rest on one study
 
 ## Description and scope
 
@@ -126,6 +126,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](../claims/self-assessed-clinical-reasoning-competency-improves-tbl.md) [+W] — attached 2026-11-07 from Ishizuka K et al. (2025), which proposed "TBL course pattern: three-phase 240-minute units combining pre-class preparation, readiness assurance, and application exercises"; tests this page's relationship.
 - [FC-TBL students achieved significantly higher molecular biology laboratory exam scores than LBL students](../claims/fc-tbl-higher-lab-exam-scores.md) [+W] — attached 2026-11-07 from Qu Meng et al. (2024), which proposed "FC-TBL laboratory course pattern: pre-class self-study with iRAT, in-class tRAT and team experiments, post-class discussion"; tests this page's relationship.
 - [FC-TBL students expressed high satisfaction, with about 78% reporting sparked interest and over 74% willing to choose the model again](../claims/fc-tbl-high-satisfaction.md) [+W] — attached 2026-11-07 from Qu Meng et al. (2024), which proposed "FC-TBL laboratory course pattern: pre-class self-study with iRAT, in-class tRAT and team experiments, post-class discussion".
+- [Permanent versus temporary TBL teams did not differ in domain knowledge test scores](../claims/permanent-vs-temporary-teams-no-dktest-difference.md) [~W] — attached 2026-11-07 from Heber Stefan et al. (2024), which proposed "For knowledge acquisition, TBL team formation can be relaxed rather than strictly controlling team familiarity".
+- [Preclass preparation, measured as average iRAT performance, was the only significant predictor of exam performance in each course unit.](../claims/irat-preparation-predicts-exam-performance.md) [+W] — attached 2026-11-07 from Woodbury J (2024), which proposed "Team-based learning course structure with permanent diverse teams, readiness assurance, and team exercises".
 
 ## Illustrative design instance and observation record
 

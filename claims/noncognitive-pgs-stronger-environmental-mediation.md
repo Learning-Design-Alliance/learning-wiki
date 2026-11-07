@@ -50,3 +50,4 @@ Mediation analyses comparing cognitive and noncognitive polygenic score pathways
 - [Neighbourhood characteristics show only weak mediation of polygenic score effects on academic achievement](neighbourhood-weak-mediation-pgs-achievement.md) — reports the opposite
 - [Beyond SES, other family environments such as harsh parenting and chaos and the supportive home environment remain significant mediators of PGS effects, albeit attenuated, in two-mediator models](non-ses-environments-remain-significant-mediators.md) — related
 - [Mediation effects of non-cognitive skills remain significant after controlling for general cognitive ability and family socioeconomic status](mediation-robust-to-cognitive-ability-and-ses-controls.md) — related
+- [PGS–achievement associations did not differ across socio-economic strata: no significant Cog or NonCog PGS × SES interaction was detected](no-pgs-ses-interaction-achievement.md) — related

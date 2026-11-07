@@ -47,3 +47,4 @@ Generalized linear model with logit link assessing whether initial quiz average 
 ## Related Claims
 - [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](retake-participation-and-improvement-quantitative.md) — related
 - [First-semester outcomes strongly predicted second-semester A2 and B4 completion: students who completed first-semester stretch courses mostly completed the requirement, while most who failed an A2 or B4 course did not retake it](eo1110-first-semester-outcomes-predict-second-semester.md) — related
+- [Students who scored higher on first attempts were less likely to retake exams, and participation differed by social identity and by whether retakes were offered outside of class time](retake-participation-demographic-differences.md) — possibly the same claim (merge candidate)

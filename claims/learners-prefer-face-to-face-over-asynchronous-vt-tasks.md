@@ -50,3 +50,4 @@ Semi-structured interviews with 4 experimental-group participants (2 male, 2 fem
 - [Adding asynchronous Voice Thread online speaking tasks did not outperform face-to-face-only tasks in reducing hypothetical conditional errors](vt-asynchronous-no-outperform-face-to-face-accuracy.md) — related
 - [Asynchronous voice-based MMC offers more opportunities for noticing non-target items than synchronous voice MMC](avmmc-more-noticing-than-svmmc.md) — related
 - [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](discussion-board-lowers-l2-writing-anxiety.md) — reports the opposite
+- [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related

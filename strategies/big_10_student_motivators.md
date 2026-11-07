@@ -13,7 +13,7 @@ generated:
 # Big 10 Student Motivators
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies (6 review, 3 quant-synthesis, 2 theoretical, 1 causal), `q1`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies (6 review, 3 quant-synthesis, 3 theoretical, 1 causal), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 The Big 10 Student Motivators is a bundle of ten classroom strategies drawn from motivation research and playful-learning practice: providing choice, fostering collaboration, integrating meaningful talk, encouraging problem solving, inquiry learning, risk-taking, unlocking creativity, developing empathy, teacher–student negotiation, and ensuring adequate recess and brain breaks. Each strategy targets one or more of the basic psychological needs — autonomy, competence, and relatedness — that sustain engagement in core subjects.

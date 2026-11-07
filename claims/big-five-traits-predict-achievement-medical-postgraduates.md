@@ -56,3 +56,4 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [Agreeableness is the dominant Big Five personality type among Grade 12 Thai EFL students, at 59.7% of respondents](agreeableness-dominant-thai-g12-personality-type.md) — related
 - [VA-MeCo scores show near-zero to low correlations with Big Five personality traits, smaller than typically found for SJTs](va-meco-personality-discriminant-validity.md) — related
 - [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — reports the opposite
+- [Extraversion, Agreeableness, and Conscientiousness are positively associated with non-performance and performance components of academic achievement](personality-traits-academic-achievement-paths.md) — related

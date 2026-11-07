@@ -49,6 +49,7 @@ The authors recommend applying their framework and Structural Model 1 in educati
 ## Related Strategies
 
 - [MTSS wraparound services with adequate counseling ratios and continuous improvement monitoring](mtss-wraparound-services-counseling-ratio.md)
+- [Foster non-cognitive skills as an avenue for educational intervention, particularly in later school years](foster-noncognitive-skills-intervention-strategy.md)
 
 ## Examples
 -

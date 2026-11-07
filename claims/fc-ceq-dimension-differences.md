@@ -67,3 +67,4 @@ Same CEQ analysis; the two remaining dimensions "did not differ between the FC a
 - [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [Flipped classroom residents reported significantly higher overall satisfaction with teaching than lecture-based residents](fc-higher-overall-teaching-satisfaction.md) — related
+- [Students rate the BLS classroom course very positively, with majorities reporting clear objectives, appropriate difficulty and preparedness to respond to emergencies](bls-course-feedback-positive-ratings.md) — related

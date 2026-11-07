@@ -50,3 +50,4 @@ Bootstrap mediation test in the same SEM of 1460 Chinese secondary EFL learners;
 - [EFL PsyCap positively predicts EFL achievement among Chinese secondary EFL learners](efl-psycap-predicts-achievement.md) — a broader claim this one bears on
 - [Behavioral engagement mediates the relationship between perceived peer support and academic achievement](behavioral-engagement-mediation-peer-support-achievement.md) — related
 - [EFL PsyCap is negatively associated with academic boredom and positively with behavioural engagement, and boredom negatively predicts engagement and achievement](psycap-boredom-engagement-paths.md) — related
+- [Academic emotions mediate the relationship between teacher support and academic achievement](academic-emotions-mediation-teacher-support-achievement.md) — related

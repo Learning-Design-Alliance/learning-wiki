@@ -42,6 +42,7 @@ A core strategy the guide recommends is measuring fidelity and enactment: resear
 - [Link implementation and impact findings when analyzing and reporting impact studies](link-implementation-and-impact-findings.md)
 - [Specify implementation research questions as a distinct step in impact study design](specify-implementation-research-questions-step.md)
 - [Assess fidelity separately for instructional components and include student application when evaluating strategy instruction](component-level-fidelity-scores-with-student-application.md)
+- [Assess local TBL implementation fidelity and target interventions at missing standard steps and components to improve the student TBL experience](assess-and-target-tbl-implementation-gaps.md)
 
 ## Examples
 -

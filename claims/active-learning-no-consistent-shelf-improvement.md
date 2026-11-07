@@ -57,3 +57,5 @@ Narrative review reports, citing Crisafio & Cho (n=518), that increasing active 
 - [Students perceived flipped learning as aiding exam preparation and knowledge retention through in-class discussions](fl-inclass-discussions-exam-retention-nursing.md) — reports the opposite
 - [Novel clerkship students articulate established clinical reasoning strategies in TBL discussions without labelling them, but do not describe heuristics](students-articulate-clinical-reasoning-strategies-unlabelled.md) — related
 - [Flipped classroom students reported significantly higher understanding of humanistic goals and medical ethics than lecture students](flipped-classroom-humanistic-ethics-understanding-gains.md) — related
+- [A topic-matched online TBL session before the test improved topic-specific domain knowledge test scores](online-tbl-improves-topic-specific-dktest.md) — related
+- [Shelf exam scores did not differ significantly between students testing after a 2-week flipped-classroom virtual neurology clerkship and those testing after a traditional 4-week rotation](virtual-flipped-neurology-clerkship-shelf-scores-comparable.md) — a narrower finding that bears on this claim

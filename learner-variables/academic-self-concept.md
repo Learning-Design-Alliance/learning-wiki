@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 166 claims (115 show a difference, 37 mixed, 14 no difference) · 88 studies (45 associational, 24 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 24 of 88 report an effect size · 163 claims rest on one study
+> **Evidence** · 167 claims (116 show a difference, 37 mixed, 14 no difference) · 89 studies (45 associational, 25 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 24 of 89 report an effect size · 164 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -201,6 +201,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Students perceived the problematization methodology as enabling student-centered problem-solving and transforming their perceptions of their problem-solving abilities.](../claims/problematization-methodology-student-centered-problem-solving-perceptions.md) [+M] — measured as an outcome of the instruction studied
 - [Adolescents' academic self-concept decreases over 1.5 years in mid-adolescence](../claims/asc-declines-over-1-5-years-mid-adolescence.md) [+W] — measured as an outcome of the instruction studied
 - [Higher academic achievement predicts higher academic self-concept over time](../claims/higher-grades-predict-higher-asc-longitudinally.md) [+W] — measured as an outcome of the instruction studied
+- [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](../claims/pbl-cbl-higher-student-satisfaction-questionnaire.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

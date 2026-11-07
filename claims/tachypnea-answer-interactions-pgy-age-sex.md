@@ -52,3 +52,4 @@ Interaction-test analysis (Multimedia Appendix 4) of the matched GM-ITE 2022 coh
 - [No significant interaction between experience level and training effect was observed, suggesting video and AR training benefits across residency years](no-experience-training-interaction.md) — related
 - [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related
 - [Attrition at time 3 was high (73.6%) but responders and nonresponders did not differ significantly in age or sex](time3-attrition-missing-at-random.md) — related
+- [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related

@@ -40,6 +40,7 @@ The article recommends that evaluation of AI in education report performance sep
 ## Related Strategies
 
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
+- [Disaggregate student outcome data by demographic variables when evaluating educational interventions](disaggregate-outcomes-by-demographics-strategy.md)
 
 ## Examples
 -

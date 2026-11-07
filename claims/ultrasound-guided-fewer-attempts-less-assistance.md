@@ -68,3 +68,4 @@ Self-reported supervisor assistance frequency from 454 trainees, dichotomized as
 - [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](trainees-greater-confidence-ultrasound-guided-cannulation.md) — related
 - [Completion rate increased from 43% to 100% in the ultrasound-guided phase, a large but statistically non-significant difference](us-guided-completion-rate-100-vs-43-non-significant.md) — related
 - [Both EM residents and PGY trainees reported significantly lower procedural stress with ultrasound guidance](lower-stress-with-us-guidance-both-groups.md) — related
+- [Female trainees using AR-US identified insertion-site anatomy and located the IJV faster than male trainees using AR-US](ar-us-female-faster-anatomy-identification.md) — related

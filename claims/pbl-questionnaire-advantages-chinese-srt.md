@@ -90,3 +90,6 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related
 - [Dietetic students in PBL perceived stronger thinking, problem-solving, communication and collaborative-learning skills than didactically taught students](pbl-dietetic-students-perceived-skill-gains.md) — a narrower finding that bears on this claim
 - [SPOC+PBL students reported higher satisfaction with teaching than LBL students across interest, participation, collaboration, interaction and clinical thinking dimensions](spoc-pbl-higher-teaching-satisfaction.md) — related
+- [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](pbl-cbl-higher-student-satisfaction-questionnaire.md) — related
+- [Students in the combined PBL-CBL group showed higher team collaboration ability in group discussions than the traditional teaching group](pbl-cbl-higher-team-collaboration-rating.md) — related
+- [Students perceived PBL as more effective than TBL for knowledge acquisition, teamwork support, and higher marks](pbl-perceived-more-effective-learning-tbl-nu-survey.md) — related

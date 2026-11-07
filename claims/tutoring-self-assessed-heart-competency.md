@@ -51,3 +51,4 @@ Self-assessment survey (5-point Likert, dichotomized) administered after the cou
 - [Structured tutoring raises the median number of supervised POCUS examinations performed over 6 months (27 vs 0)](tutoring-increases-supervised-examination-volume.md) — related
 - [Success on the primary outcome appears higher for residents in POCUS-favourable clinical rotations, but the unfavourable-rotation difference is not significant](favourable-rotation-subgroup-primary-outcome.md) — related
 - [First trimester ultrasound showed the least improvement in competency while cardiac and lung applications improved most consistently](first-trimester-least-competency-improvement.md) — related
+- [Hands-on lung POCUS proficiency improved from a pre-course median score of 0% to a post-course median of 67%](lus-hands-on-proficiency-gain.md) — related

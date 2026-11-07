@@ -52,3 +52,4 @@ Nineteen-item 1–5 Likert satisfaction questionnaire (α 0.93, ω 0.94) compare
 - [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
 - [Dental undergraduates taught with the P-I-T-D-S flipped classroom model scored significantly higher on the Dental Exam, Test, and Total Score than those taught by traditional lecture](pitds-flipped-higher-scores-than-lecture.md) — related
 - [Dental students in a flipped classroom report significantly higher satisfaction with training than students in a face-to-face classroom](flipped-classroom-higher-satisfaction-wirebending.md) — related
+- [Flipped classroom students reported significantly higher satisfaction than traditional lecture students](flipped-classroom-higher-satisfaction-gondar.md) — related

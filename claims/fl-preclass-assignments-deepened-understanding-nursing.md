@@ -53,3 +53,4 @@ Qualitative content analysis of semi-structured interviews with eight third-year
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [The article reports that FL implementation success depends on pre-class material quality, student readiness, and instructor facilitation ability](fl-success-depends-on-materials-readiness-facilitation.md) — related
+- [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related

@@ -85,3 +85,4 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
 - [Authors position SKIT as excelling at non-technical skills while high-fidelity simulation outperforms it for fine procedural skills](skit-versus-hfs-vr-positioning.md) — related
 - [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](pal-simulation-pgy-cpe-significant-gains.md) — reports the opposite
+- [Both high-fidelity simulation and case-based discussion increased theoretical knowledge scores, with no significant difference between groups](hfs-cbd-equal-knowledge-gains.md) — related

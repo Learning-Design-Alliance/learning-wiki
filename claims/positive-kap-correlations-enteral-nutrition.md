@@ -53,3 +53,4 @@ Spearman correlation analysis of the survey's three dimension scores. All three 
 - [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related
 - [Nurses' frailty-management knowledge, attitudes, and practices show weak positive correlations with one another](weak-positive-kap-correlations-frailty-nurses.md) — related
 - [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — related
+- [Knowledge and skills scores correlated strongly with attitude scores](knowledge-attitude-correlation.md) — related

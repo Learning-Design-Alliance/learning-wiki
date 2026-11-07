@@ -53,3 +53,4 @@ Moderator analysis grouping studies by subject area in the meta-analysis; the pr
 - IE participation correlated with improved Mathematics Computation NCE scores but lower Reading and Mathematics Concepts NCE scores on city-wide tests — related
 - [Teachers account for large effects on student growth: effect sizes of .77–.88 in reading and .72–.85 in mathematics across years](teacher-effects-on-growth-rowan.md) — related
 - [The effect of computer-based teaching on academic success does not differ significantly by subject area](cbt-effect-no-difference-by-course-type.md) — related
+- [Active learning benefits college humanities and social science students, with larger effects in smaller classes (≤20 students) and upper-level courses](active-learning-humanities-kozamitis-moderators.md) — related

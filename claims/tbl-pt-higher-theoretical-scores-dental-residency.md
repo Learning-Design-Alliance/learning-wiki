@@ -50,3 +50,4 @@ Two-cohort comparison in the Results section: 82 students taught by the same fac
 - [TBL + peer teaching cohort outperformed the traditional cohort on complex OSCE procedures (pulpotomy, tooth preparation, incision and suturing, curettage, patient intake) but not on routine skills (rubber dam, periodontal probing)](tbl-pt-osce-complex-not-routine-skills.md) — related
 - [Word cloud analysis of anonymized feedback showed the TBL + PT cohort emphasized collaboration, participation, and innovation more than the traditional cohort](word-cloud-tbl-pt-collaboration-innovation.md) — related
 - [TBL + peer teaching cohort reported higher overall satisfaction, specifically on teaching quality, mentoring, and student-centric methods](tbl-pt-higher-student-satisfaction.md) — related
+- [Students valuing Team-Based Learning as useful achieved higher exam scores than those rating it not useful](tbl-valuation-associated-with-higher-exam-scores.md) — related

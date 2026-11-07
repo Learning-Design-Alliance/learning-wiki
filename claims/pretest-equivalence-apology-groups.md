@@ -50,3 +50,4 @@ Independent-samples t-tests on pre-test DCT scores established group comparabili
 - [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related
 - [Explicit metapragmatic instruction on requests raises request speech act awareness of intermediate EFL learners relative to regular institute instruction](explicit-metapragmatic-instruction-improves-request-awareness.md) — related
 - [Experimental and control groups did not differ significantly on the stoichiometry pre-test](stoichiometry-pretest-no-significant-group-difference.md) — related
+- [The apologizing workshop produced the most noticeable pre/post gains, with most participants agreeing they could recognize harm and apologize in person, in public, and electronically](apologizing-workshop-largest-gains.md) — related

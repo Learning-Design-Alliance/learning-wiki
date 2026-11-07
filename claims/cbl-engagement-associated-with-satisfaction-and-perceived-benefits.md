@@ -71,3 +71,4 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Students in the CBL multimodal imaging group reported higher learning interest, study ability, clinical thinking and case analysis ability than traditional-group students](cbl-multimodal-higher-subjective-evaluations.md) — related
 - [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related
 - [SPOC+PBL students reported higher satisfaction with teaching than LBL students across interest, participation, collaboration, interaction and clinical thinking dimensions](spoc-pbl-higher-teaching-satisfaction.md) — related
+- [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](pbl-cbl-higher-student-satisfaction-questionnaire.md) — related

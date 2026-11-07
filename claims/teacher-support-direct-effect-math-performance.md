@@ -55,3 +55,4 @@ PLS-SEM structural model of 363 sixth-grade students in Türkiye, with gender an
 - [Directly assessed effortful control at 48 months predicts prekindergarten math but not reading, and not growth in either](direct-effortful-control-predicts-math-not-reading.md) — related
 - [Digital technology use has a significant positive direct effect on EFL students' English academic performance](digital-technology-use-direct-positive-effect-efl-performance.md) — related
 - [Social support is positively and directly associated with academic performance among Chinese middle school adolescents](social-support-direct-academic-performance-adolescents.md) — related
+- [Teacher support is directly and positively associated with academic achievement among university students](teacher-support-direct-effect-achievement.md) — related

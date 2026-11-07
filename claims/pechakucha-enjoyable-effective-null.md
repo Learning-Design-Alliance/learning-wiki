@@ -55,3 +55,4 @@ Chi-square comparison of the enjoyable-and-effective opinion item in Table 3 of 
 - [Nursing students trained with the PechaKucha method achieve higher deep breathing and coughing exercise skill scores than students trained with traditional PowerPoint instruction](pechakucha-higher-db-and-c-skill-scores.md) — related
 - [Nursing students report higher satisfaction with PechaKucha-based DB&C training than with traditional PowerPoint instruction](pechakucha-higher-satisfaction-vas.md) — related
 - [The PechaKucha group rated the training significantly higher than the control group on comprehensibility, attractiveness, adequacy of training time, and absence of distractions](pechakucha-perceived-comprehensibility-attractiveness.md) — related
+- [Overall training satisfaction is descriptively higher under step-by-step teaching (96.0% vs. 72.0%) but not statistically significant](sbs-overall-satisfaction-not-significant.md) — related

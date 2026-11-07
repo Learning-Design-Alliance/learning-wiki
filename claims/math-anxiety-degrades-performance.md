@@ -123,3 +123,4 @@ Multilevel meta-analysis of 223 studies from research conducted 1992–2018 (pub
 - [Math anxiety negatively correlates with math performance, controlling for general anxiety and word task performance](math-anxiety-underperformance-partial-correlation-daker-2023.md) — a narrower finding that bears on this claim
 - [Disgust and anxiety during dissection are negatively associated with motivation, interest and achievement (as reported in prior work cited by the article)](disgust-anxiety-hinder-dissection-learning.md) — a narrower finding that bears on this claim
 - [Reduced anxiety redirects attention from task-irrelevant worry to the writing assignment itself](anxiety-reduction-frees-attention-for-writing.md) — related
+- [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related

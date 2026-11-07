@@ -63,3 +63,4 @@ The review reports, citing Darvishi et al. (2024), a controlled study in which "
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
 - [AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback](ai-led-assistance-more-descriptive-than-peer-feedback.md) — related
 - [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — reports the opposite
+- [Students at all performance levels sought peer feedback on their own, facilitated by prior knowledge of learning objectives, though lower performers preferred tutor feedback](feedback-seeking-objectives-and-tutor-preference.md) — related

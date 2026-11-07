@@ -58,3 +58,4 @@ The review reports that Marcussen et al. investigated interprofessional training
 - [Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group](sfhc-improved-interprofessional-learning.md) — related
 - [Review-reported evidence holds that simulation-based team training improves communication, coordination and response times in acute care, and simulation-based mastery learning reduces catheter-related bloodstream infections](review-reported-simulation-team-and-mastery-learning-effects.md) — related
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
+- [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related

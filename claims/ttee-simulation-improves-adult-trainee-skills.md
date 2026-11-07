@@ -47,3 +47,4 @@ The review reports that Neelankavil and colleagues randomized 61 anesthesiology 
 ## Related Claims
 - [In a randomized controlled trial reported by the review, neonatology residents receiving simulation-based echocardiography training scored higher than controls at 3 and 6 months](simulation-training-improves-neonatal-resident-echo-scores.md) — related
 - [The review reports that simulator training was not inferior to live training for beginners without prior transthoracic echocardiography experience](simulator-training-not-inferior-to-live-training-beginners.md) — related
+- [Medical residents' echocardiography interpretation skills and theoretical test responses rose from pre-test to post-test after simulation-based training, in a single-group pre-post study](sim-training-improved-self-reported-echo-interpretation-skills.md) — related

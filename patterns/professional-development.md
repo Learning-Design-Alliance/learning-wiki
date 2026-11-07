@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 65 claims (41 for, 19 mixed, 5 against) · 58 studies (19 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 58 report an effect size · 59 claims rest on one study
+> **Evidence** · 65 claims (41 for, 19 mixed, 5 against) · 59 studies (19 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 4 theoretical, 3 associational), `q1`–`q4` · 9 of 59 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 

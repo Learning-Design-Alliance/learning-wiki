@@ -68,6 +68,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Integrate e-learning and game-based approaches into nursing education to leverage the strengths of both methods](integrate-elearning-and-game-based-nursing-education.md)
 - [Embed the evolutive patient model in computer-based simulations and serious games for major incident management training, then assess teaching impact through randomized trials](embed-evolutive-patient-model-in-simulations.md)
 - [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
+- [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 
 ## Examples
 -

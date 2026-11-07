@@ -52,3 +52,4 @@ GEARS ratings of surgeon performance in the 25 videos were made independently by
 - [Senior surgeons rate online surgical videos as lower quality and lower educational utility than fellows and trainees do](seniors-rate-videos-more-critically.md) — related
 - [Inter-rater reliability of overall video quality ratings increases with rater seniority, reaching perfect agreement among senior surgeons](video-quality-rater-reliability-seniority.md) — related
 - [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related
+- [Tissue handling and decision making were common areas for improvement for both training groups](tissue-handling-decision-making-common-weak-areas.md) — related

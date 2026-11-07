@@ -13,7 +13,7 @@ generated:
 # Composition Projects Multimodal
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (8 for, 2 against) · 28 studies (11 quant-synthesis, 10 causal, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 28 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (8 for, 2 against) · 29 studies (11 quant-synthesis, 10 causal, 4 review, 3 theoretical, 1 associational), `q1`–`q4` · 11 of 29 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimodal composition projects ask learners to produce original artifacts that deliberately combine modes of meaning — writing, visuals, audio, video, gesture, and spatial layout — rather than text alone. Learners plan, draft, and revise across modes, making rhetorical decisions about which mode best serves their purpose and audience. The composition process, not just the artifact, is the site of learning.

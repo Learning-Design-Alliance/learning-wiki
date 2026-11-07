@@ -59,3 +59,4 @@ Stratified randomized controlled trial with 24 participants per group (12 underg
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
 - [Both PBL-ChatGPT and traditionally taught urology interns significantly improved their theoretical knowledge exam scores from before to three days after the course](pbl-chatgpt-and-traditional-both-improve-theory-exam-scores.md) — related
 - [Urology interns taught with ChatGPT-assisted PBL scored significantly higher on the post-course theoretical exam than interns taught with traditional teaching](pbl-chatgpt-higher-post-course-theory-exam-than-traditional.md) — related
+- [LSPPDM group scored higher on the laparoscopic theoretical knowledge assessment](lsppdm-higher-theoretical-knowledge-scores.md) — related

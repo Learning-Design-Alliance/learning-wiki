@@ -54,3 +54,4 @@ Retrospective pre-post study of N = 540 first-year health students using the ICC
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
 - [Weight-related communication skills scores rose from pre-test to post-test among health care professionals in one uncontrolled pre-post study of VITAL-COMS training](vital-coms-improved-self-assessed-communication-skills.md) — related
 - [Competence scores in six dimensions showed an upward trend as the number of BIM interventions increased](bim-dose-response-trend-six-dimensions.md) — related
+- [Undergraduate MSUS course participants' self-rated ultrasound competency rose significantly from course start to end within the course group during a blended-learning course](msus-course-self-perceived-competency-gain.md) — a narrower finding that bears on this claim

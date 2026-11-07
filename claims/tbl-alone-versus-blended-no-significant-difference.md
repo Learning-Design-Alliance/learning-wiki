@@ -69,3 +69,4 @@ Subgroup analysis of theoretical knowledge scores by intervention method (TBL al
 - [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related
 - [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — a broader claim this one bears on
 - [PBL-based teaching shows no significant advantage over LBL for self-directed learning, communication ability, or hands-on ability in Chinese standardized residency training](pbl-no-advantage-self-directed-communication-hands-on.md) — related
+- [Students perceived PBL as more effective than TBL for knowledge acquisition, teamwork support, and higher marks](pbl-perceived-more-effective-learning-tbl-nu-survey.md) — related

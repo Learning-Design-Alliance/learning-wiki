@@ -55,3 +55,4 @@ Pairwise McNemar tests with Bonferroni correction compared the four main models 
 - [Complex Type C integrative questions distinguish models most: the Deepseek-R1 vs. ChatGPT-4o accuracy gap on Type C was nearly 25%](type-c-questions-distinguish-models.md) — related
 - [GPT-4.1 achieved the highest accuracy among GPT-4.1, GPT-4o and GPT-4 on Taiwan plastic surgery board questions, but no model reached accuracy sufficient for independent clinical education use](gpt41-highest-accuracy-but-below-clinical-education-threshold.md) — related
 - [Post-hoc comparisons show ChatGPT o1 performed significantly better than most other models across both question types (p < 0.0031)](chatgpt-o1-posthoc-significantly-better.md) — related
+- [GPT-4 answers higher-order anesthesiology questions significantly better than first-order questions; clinical-case inclusion shows no significant difference](gpt4-higher-order-versus-first-order-questions.md) — related

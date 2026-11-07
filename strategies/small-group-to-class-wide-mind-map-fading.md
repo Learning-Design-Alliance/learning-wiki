@@ -49,6 +49,7 @@ An implementable two-step recipe: each group reads assigned articles and builds 
 ## Related Strategies
 
 - [Case-based ultrasound teaching sequence with pre-class case materials, in-class image progression analysis, and mind-map construction](cbl-mindmap-ultrasound-teaching-sequence.md)
+- [Deliver case-based learning inside a BOPPPS framework by sending real cases and questions to students before class, quizzing, discussing cases, testing, and having students build mind maps](cbl-boppps-case-delivery-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Deductive content analysis of domain-expert testing feedback for the Tero charac
 
 - [Domain-expert testing indicated the two GAI characters fulfilled 9 of the 12 educator needs identified in the needs analysis](domain-expert-evaluation-9-of-12-needs.md) — related
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md)
+- [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](student-critical-perspectives-simulations.md) — related

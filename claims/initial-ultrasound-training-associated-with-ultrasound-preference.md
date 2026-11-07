@@ -49,3 +49,4 @@ Multivariable logistic regression on 454 trainees from a multicenter cross-secti
 - [PGY trainees also reported significantly lower stress with ultrasound guidance and a non-significant confidence increase](pgy-trainees-lower-stress-us-guidance.md) — related
 - [Among students unable to manage independently, theory-based students more often prefer referring to a facility with an anesthesia specialist](theory-based-students-prefer-referral-to-anesthesia-specialist.md) — related
 - [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — related
+- [Female trainees using AR-US identified insertion-site anatomy and located the IJV faster than male trainees using AR-US](ar-us-female-faster-anatomy-identification.md) — related

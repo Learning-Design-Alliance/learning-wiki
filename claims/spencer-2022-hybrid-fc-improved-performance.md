@@ -61,3 +61,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [Flipped and blended learning shows mixed effectiveness in diabetes education, dependent on learner preparation and integration with experiential practice](flipped-blended-mixed-preparation-dependent.md) — related
 - [Conventional and hybrid instruction produced higher practical exam scores than digital-only Ren'Py instruction in physiotherapy students](face-to-face-hybrid-beat-digital-only-practical-exam-physiotherapy.md) — related
 - [Students favored a blended instructional approach combining lectures with games or case studies rather than replacing lectures with games](students-favor-blended-lecture-game-approach.md) — related
+- [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — related

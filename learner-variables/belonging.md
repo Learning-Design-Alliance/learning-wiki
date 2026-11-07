@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (93 show a difference, 31 mixed, 7 no difference) · 95 studies (25 review, 18 associational, 17 causal, 17 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 8 of 95 report an effect size · 126 claims rest on one study
+> **Evidence** · 133 claims (94 show a difference, 31 mixed, 8 no difference) · 97 studies (25 review, 20 associational, 17 causal, 17 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 97 report an effect size · 128 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -168,6 +168,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](../claims/peer-educator-relationships-cald-sbl.md) [+M] — measured as an outcome of the instruction studied
 - [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](../claims/professional-credibility-enables-agentic-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](../claims/quiz-retakes-increase-relatedness.md) [+M] — measured as an outcome of the instruction studied
+- [Peer-relatedness scores did not differ significantly among instructors across teaching profiles](../claims/peer-relatedness-no-instructor-differences.md) [-M] — measured as an outcome of the instruction studied
+- [Sense of belonging at school is strongly negatively correlated with adolescent psychosocial maladjustment](../claims/sobas-strong-negative-correlation-maladjustment.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

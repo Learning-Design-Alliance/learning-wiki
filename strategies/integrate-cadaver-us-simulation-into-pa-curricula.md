@@ -51,6 +51,7 @@ The authors recommend that ultrasound needle-guidance training move into the pre
 - [Brief video orientation plus one-on-one hands-on cadaver workshop followed by an independent skills test](video-plus-one-on-one-cadaver-workshop-strategy.md)
 - [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
 - [Use cadaveric workshops to compensate for missed prior ultrasound course attendance when allocating educational resources](cadaveric-course-compensation-resource-allocation-strategy.md)
+- [Deliver ultrasound-guided aspiration training as a 15-minute orientation video followed by a 20-minute one-on-one workshop and a 5-minute independent skills test](video-workshop-skills-test-sequence-strategy.md)
 
 ## Examples
 -

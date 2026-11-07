@@ -13,7 +13,7 @@ generated:
 # Scenario-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (3 causal, 2 qualitative, 1 review), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 7 studies (4 causal, 2 qualitative, 1 review), `q2`–`q3` · 0 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.
@@ -49,6 +49,8 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Scenario-based animation training produced higher post-test e-learning motivation than routine skill video training in nursing students](../claims/rom-animation-higher-motivation.md) [+W] — attached 2026-11-05 from Özsaban Aysel et al. (2026), which proposed "Scenario-based ROM exercises animation video (multiple sclerosis case, nursing-process scenario, 3D Studio Max)".
 - [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](../claims/rom-animation-higher-attitude.md) [+W] — attached 2026-11-05 from Özsaban Aysel et al. (2026), which proposed "Scenario-based ROM exercises animation video (multiple sclerosis case, nursing-process scenario, 3D Studio Max)".
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](../claims/vr-hfs-desaturation-confidence-gain.md) [+M] — attached 2026-11-05 from Huh Yeon-Ju et al. (2026), which proposed "Scenario-based nonlinear decision-making VR system for oxygen desaturation management".
+- [AI-empowered scenario-based simulation teaching produced higher theoretical exam scores than traditional teaching in cardiovascular disease education](../claims/ai-scenario-simulation-higher-theoretical-exam-scores-cardiology.md) [~M] — attached 2026-11-07 from Zheng Koulong et al. (2024), which proposed "AI-empowered scenario-based simulation teaching mode for cardiovascular disease education".
+- [AI-empowered scenario-based simulation teaching produced higher Mini-CEX clinical skills scores than traditional teaching](../claims/ai-scenario-simulation-higher-mini-cex-clinical-skills.md) [~M] — attached 2026-11-07 from Zheng Koulong et al. (2024), which proposed "AI-empowered scenario-based simulation teaching mode for cardiovascular disease education".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

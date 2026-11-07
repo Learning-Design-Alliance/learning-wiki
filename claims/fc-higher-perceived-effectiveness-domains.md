@@ -79,3 +79,5 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Flipped classroom students reported higher satisfaction with the teaching model and course duration and higher learning interest](flipped-classroom-satisfaction-interest-gains.md) — related
 - [Flipped classroom students rated their theoretical knowledge mastery higher than lecture students (7.9 ± 0.7 vs 7.1 ± 0.8)](flipped-classroom-self-rated-theoretical-knowledge-gain.md) — reports the opposite
 - [Residents in the Peyton's four-step and flipped classroom group reported greater improvement in learning interest than control group residents](peyton-flipped-greater-learning-interest.md) — related
+- [Flipped classroom students reported significantly higher engagement than traditional lecture students](flipped-classroom-higher-engagement-gondar.md) — related
+- [Intervention-group students perceived a moderate level of effectiveness of the flipped teaching classroom, rating logical thinking and application of knowledge highest](flipped-teaching-moderate-perceived-effectiveness.md) — related

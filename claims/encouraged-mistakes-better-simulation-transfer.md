@@ -47,3 +47,4 @@ Narrative review attributing this finding to a Danish study of simulation-based 
 ## Related Claims
 - [Both simulator-based and traditional training significantly improved residents' routine mid-trimester fetal ultrasound performance in a randomized controlled trial](sbme-and-traditional-training-both-improve-obstetric-ultrasound-scores.md) — related
 - [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](simulation-skill-transfer-to-clinic-poorly-addressed.md) — related
+- [Error Management framing refutes the assumption that encouraging errors during training leads learners to make more performance errors](em-not-detrimental-to-performance.md) — related

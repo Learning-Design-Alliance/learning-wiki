@@ -67,3 +67,4 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 - [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — reports the opposite
 - [Eight of 37 respondents reported OSCEai scenarios or elements that were confusing or not representative of real-life practice](osceai-limitations-realism-confusion.md) — related
 - [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related
+- [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](student-critical-perspectives-simulations.md) — related

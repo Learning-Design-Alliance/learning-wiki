@@ -49,6 +49,7 @@ Because "the high cost of LTM equipment limits scalability in low-income areas",
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 - [Distribute real-patient video production costs through interschool partnerships and shared digital repositories](shared-repositories-video-production-scalability.md)
+- [Improve audiovisual quality, connectivity, and standardized recordings before deploying live-streamed procedural teaching](improve-av-connectivity-before-ls-teaching.md)
 
 ## Examples
 -

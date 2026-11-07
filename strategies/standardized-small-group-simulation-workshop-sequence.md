@@ -49,6 +49,7 @@ Each workshop session lasted approximately 60 minutes and "followed a standardiz
 - [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)
 - [Mini Lessons](mini-lessons.md)
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](demonstrate-group-practice-report-revision-simulation-session.md)
+- [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
 
 ## Examples
 -

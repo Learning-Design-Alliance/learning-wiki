@@ -51,3 +51,4 @@ Repeated measures ANOVA of UCAT scores from nine participants with complete data
 - [OSAUS sum scores increased for all POCUS applications at three-month follow-up, with Cohen's d representing a medium or large effect size](osaus-sum-score-increase-follow-up.md) — related
 - [A tailored three-month POCUS program brought office-based GPs to 68.9%–82.3% of maximum OSAUS score across 10 applications at program end](gp-osaus-competence-post-course-tailored-program.md) — related
 - [Hybrid POCUS certification program participants' self-reported confidence improved significantly from pre-program to post-program](pocus-confidence-improved-hybrid-certification.md) — related
+- [Hands-on lung POCUS proficiency improved from a pre-course median score of 0% to a post-course median of 67%](lus-hands-on-proficiency-gain.md) — related

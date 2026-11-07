@@ -47,3 +47,4 @@ The same linear mixed-effects model found "a significant main effect of the exam
 ## Related Claims
 - [No significant main effect of participation mode (online vs face-to-face) on microscopic anatomy learning outcomes](no-significant-main-effect-participation-mode-anatomy.md) — related
 - [No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant](no-mode-by-style-interaction-vr-gains.md) — related
+- [The online TBL knowledge benefit was topic-specific, with no difference on untaught-topic test items](tbl-knowledge-benefit-topic-specific-negative-control.md) — related

@@ -65,6 +65,7 @@ The strategy combines two evidence-backed mechanisms: observing a modeled perfor
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — demonstrations supply the supportive/procedural information for learning tasks
 - [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
 - [Flipped classroom: pre-class self-paced preparation followed by interactive problem-solving sessions](flipped-classroom-icu-overload-limiting.md)
+- [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 
 ## Examples
 - Engineering courses using screencasts to demonstrate CAD software techniques, then dedicating lab sessions to instructor-supervised modeling tasks.

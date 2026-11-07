@@ -50,3 +50,4 @@ Learning-effects dimension of the post-clerkship questionnaire (71 respondents).
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
+- [Students rate CBL combined with BOPPPS as improving learning initiative, objective clarity, and clinical speculative thinking, with no significant difference in reported learning pressure](cbl-boppps-student-satisfaction-ratings.md) — related

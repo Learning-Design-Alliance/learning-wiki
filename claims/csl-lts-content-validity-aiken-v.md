@@ -54,3 +54,5 @@ Content validation involved a panel of seven lecturers with a minimum of 15 year
 - [Expert judges rated the SAAAR behavioral marker scale's sufficiency, coherence, importance, and relevance at 3.10 on average, with clarity lower at 2.60](saaar-content-validity-expert-judgment.md) — related
 - [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
+- [The validation panel comprised 12 health professionals with at least six years of experience, rating the scenario on six Pasquali criteria](delphi-panel-twelve-experts-pasquali-criteria.md) — related
+- [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related

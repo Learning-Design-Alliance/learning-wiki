@@ -57,3 +57,4 @@ Baseline comparison of the two assigned groups using the independent samples t-t
 - [Pre-test comparison showed no significant difference between experimental and control groups before implementation](pretest-no-difference-groups.md) — related
 - [Self-esteem, measured by the BASE scale, improved significantly more in the intervention group than controls](steps-for-life-self-esteem-improvement.md) — related
 - [Before treatment, experimental and control groups did not differ significantly in Willingness to Communicate](cs-study-pretest-no-difference.md) — related
+- [Self-esteem, empathy and self-assessed OSCE success showed no significant intergroup differences and did not correlate with OSCE success](null-self-esteem-empathy-self-assessment.md) — related

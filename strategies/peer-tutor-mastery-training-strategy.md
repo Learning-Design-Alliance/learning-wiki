@@ -45,6 +45,7 @@ The article's peer tutor preparation involved selecting six phase 2 MBBS student
 
 - [Integrate theory with clinical practice through coordinated planning and structured procedural teaching methods such as Peyton's four-step approach](theory-clinical-integration-peyton-four-step.md)
 - [Support students at the peer-evaluation stage with training and tutoring so all can participate and benefit](training-support-peer-evaluation-stage.md)
+- [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 
 ## Examples
 -

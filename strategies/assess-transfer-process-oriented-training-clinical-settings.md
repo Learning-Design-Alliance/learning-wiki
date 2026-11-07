@@ -42,6 +42,7 @@ The authors' forward-looking recommendation is to move beyond the simulated envi
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Supplement simulation-based procedural training with three process-oriented interventions: BPMN-based teaching, self-labelling of one's own recorded execution, and an individual process mining feedback report](process-oriented-feedback-interventions-strategy.md)
 - [Enhance lacrimal irrigation simulation training with force-sensitive gloves, longitudinal validation, and motion analytics](future-enhanced-simulation-validation-motion-analytics.md)
+- [Implement SBML as a teaching modality for procedural-based training and cross-discipline education initiatives](sbml-procedural-cross-discipline-strategy.md)
 
 ## Examples
 -

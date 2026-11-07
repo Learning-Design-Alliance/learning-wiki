@@ -54,3 +54,4 @@ Self-report questionnaire on a 10-point scale administered to both groups after 
 - [A short simulation-based ophthalmology workshop immediately improves medical students' ophthalmology knowledge, confidence, and interest in the specialty](sbe-ophthalmology-workshop-immediate-gains.md) — related
 - [Face-to-face students rate learning motivation, clinical thinking, communication and teamwork higher, while self-learning skills and basic knowledge mastery do not differ](self-evaluation-f2f-vs-online-neurosurgery.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
+- [Students taught with step-by-step teaching rate their instructors' teaching ability and teaching methods significantly higher than traditionally taught students do](sbs-students-rate-teaching-ability-methods-higher.md) — related

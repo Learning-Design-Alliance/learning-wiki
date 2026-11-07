@@ -71,3 +71,4 @@ Same bootstrap mediation analysis; both indirect paths through academic buoyancy
 - [Gender differences appear in academic self-efficacy and buoyancy but not in mathematics performance, and age shows no differences](gender-differences-ase-ab-not-math.md) — related
 - [Time management partially mediates the relationship between self-regulation and academic self-efficacy (standardized indirect effect β = 0.44, bias-corrected 95% CI (0.17, 0.41))](tm-partial-mediation-sr-ase.md) — related
 - [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
+- [Academic self-efficacy mediates the relationship between teacher support and academic achievement](self-efficacy-mediation-teacher-support-achievement.md) — related

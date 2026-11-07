@@ -68,3 +68,5 @@ Same correlation analysis; the article reports "no correlation was found between
 - [VA-MeCo scores show near-zero to low correlations with Big Five personality traits, smaller than typically found for SJTs](va-meco-personality-discriminant-validity.md) — related
 - [Marital status, having no children, hospital grade, empathy and difficulty carrying out NM are primary factors explaining 71.9% of variance in nurses' NM competence](regression-factors-explain-71-9-percent-nm-competence.md) — related
 - [Empathy and patient orientation correlate positively with VA-MeCo scores, most strongly with the building relationship dimension](va-meco-patient-interaction-convergent-validity.md) — related
+- [Self-esteem, empathy and self-assessed OSCE success showed no significant intergroup differences and did not correlate with OSCE success](null-self-esteem-empathy-self-assessment.md) — related
+- [PCC competence is strongly positively correlated with empathy among surgical nurses (r = 0.700)](pcc-competence-empathy-correlation.md) — related

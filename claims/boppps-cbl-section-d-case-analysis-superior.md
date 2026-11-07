@@ -54,3 +54,4 @@ In the same randomized clerkship comparison, Pt-test Section D median scores wer
 - [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
+- [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — related

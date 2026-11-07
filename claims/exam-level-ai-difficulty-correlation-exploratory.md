@@ -52,3 +52,4 @@ Exploratory exam-level correlations across 11 parallel-class exams mixing solved
 - [AI review difficulty also correlates with problem-level non-attempt rate, providing process evidence beyond pass rate](ai-difficulty-non-attempt-rate-correlation.md) — related
 - [The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course](longitudinal-dsa-review-ruler-tracking.md) — related
 - Reported GenAI use frequency shows only weak negative associations with OOP assessment performance — related
+- [Perceived subject difficulty across the MED4 curriculum correlates negatively with exam scores](perceived-subject-difficulty-negatively-correlates-with-exam-scores.md) — related

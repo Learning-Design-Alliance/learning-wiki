@@ -50,6 +50,7 @@ The article recommends systematically embedding feedback literacy across program
 
 - [Re-focus peer feedback and exemplar analysis as core curriculum activities with coaching and dialogue](refocus-peer-feedback-and-exemplars-for-feedback-literacy.md)
 - [Establish systematic audit-and-feedback systems with personalized coaching to evaluate and improve ICU assessment quality](audit-and-feedback-personalized-coaching-icu-assessments.md)
+- [Embed peer assessment throughout the program with enhanced feedback literacy training and process-focused criteria](embed-peer-assessment-feedback-literacy-training.md)
 
 ## Examples
 -

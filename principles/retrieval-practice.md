@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 159 claims (72 for, 77 mixed, 10 against) · 83 studies (42 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 26 of 83 report an effect size · 152 claims rest on one study
+> **Evidence** · 160 claims (72 for, 78 mixed, 10 against) · 84 studies (43 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 26 of 84 report an effect size · 153 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +117,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Administering quizzes significantly improves college students' exam performance in a behavior-analytic course, replicating the testing effect](../claims/quizzes-improve-exam-performance-behavior-analytic-replication.md) [+W] — attached 2026-11-06 from Glodowski et al. (2025), which proposed "Use relatively short quizzes to support college student success at a favorable cost-to-benefit ratio"; tests this page's relationship.
 - [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](../claims/measured-self-testing-predicts-course-score.md) [+W] — attached 2026-11-07 from Hazlett et al. (2025), which proposed "Provide structured, feedback-rich practice opportunities in courseware, linked to learning objectives, to support adoption of effective strategies"; tests this page's relationship.
 - [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](../claims/no-practice-format-effect-on-retention-vsaq-mcq.md) [~W] — attached 2026-11-07 from van Wijk EV et al. (2024), which proposed "Choose VSAQs or MCQs for practice testing based on diagnostic purpose, since neither format shows a retention advantage for lower-order skills".
+- [Repeated MCQ test-enhanced learning produced no significant difference in delayed basic-science assessment scores among first-year anesthesiology residents](../claims/tel-mcq-no-effect-basic-science-neuroanesthesia.md) [~W] — attached 2026-11-07 from Raksakietisak M et al. (2024), which proposed "Test-enhanced learning at the postgraduate medical level should be designed with attention to test format and feedback, since unfeedbacked context-free MCQs may not enhance learning"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

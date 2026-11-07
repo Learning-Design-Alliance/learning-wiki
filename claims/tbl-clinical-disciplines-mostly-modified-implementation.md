@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: sterpu-irene-2024
     resource: "https://doi.org/10.1186/s12909-023-04975-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 49 included studies, 44 (90%) implemented a modified version of TBL with one or more steps missing, and only four implemented the full concept. [→ Sterpu Irene 2024](#sterpu-irene-2024)
@@ -50,3 +51,4 @@ Scoping review of 49 peer-reviewed studies on TBL in clinical disciplines; the r
 - [TBL remains largely supplementary in pre-clinical medical education, with only a few institutions using it as the primary teaching method](tbl-largely-supplementary-preclinical.md) — related
 - [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](tbl-clinical-knowledge-acquisition-mixed-retention.md) — related
 - [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](irat-mcq-closed-book-5-30-items.md) — related
+- [Faculty at one osteopathic medical school reported wide variation in how often they implemented the standard steps and components of the TBL process, with peer evaluation and appeals least frequently implemented](faculty-variation-tbl-implementation.md) — a narrower finding that bears on this claim

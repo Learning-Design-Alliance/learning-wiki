@@ -75,3 +75,4 @@ Tukey HSD post-hoc comparisons from the same simulation evaluation, corroborated
 - [GPT-4o's accuracy varies by exam unit, peaking at 94.7% on digestive and respiratory systems (Unit 3, 2021)](gpt4o-unit3-digestive-respiratory-peak.md) — related
 - [LLM accuracy varied significantly across oncology topics, with the lowest performance in colorectal tumors (mean 48.3%) and genitourinary tumors (mean 50.8%)](llm-accuracy-varies-across-oncology-topics.md) — related
 - [Model performance varied across medical specialties, with GPT-4 scoring 100% (11/11) on nervous-system questions but lower on musculoskeletal (72.7%) and digestive (66.7%) questions](specialty-variance-llm-radiology-accuracy.md) — related
+- [Model performance varies across anesthesiology subfields, with geriatric anesthesia highest and neuromuscular blocking agents or anesthesia equipment lowest](subfield-performance-variation-anesthesiology-models.md) — related

@@ -51,3 +51,4 @@ Thematic analysis of semi-structured interviews and focus groups with 25 stakeho
 - [Clinical placements are identified as the most important source of knowledge and skill attainment for student clinical exercise physiologists](clinical-placements-optimal-cep-competency.md) — related
 - [Students favoured practical, hands-on experience over lecture-based tutorials and saw simulation, including VR, as a safe way to practise without consequences for real patients.](practical-experience-preferred-over-lectures.md) — related
 - [Students saw virtual patients as a safe, standardised complement to clinical rotations that guarantees exposure to representative diagnoses](vp-potential-safe-standardised-rotation-complement.md) — related
+- [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — a narrower finding that bears on this claim

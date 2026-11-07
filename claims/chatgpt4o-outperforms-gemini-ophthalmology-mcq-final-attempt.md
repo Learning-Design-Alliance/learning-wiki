@@ -75,3 +75,4 @@ Overall analysis of the same 220-item corpus across the three attempts. ChatGPT-
 - [No statistically significant differences between the two chatbots across ophthalmic subspecialties](no-chatbot-difference-by-subspecialty.md) — related
 - [No statistically significant interlingual variation for either chatbot answering the same questions in Turkish versus English](no-interlingual-variation-chatbot-ophthalmology-mcq.md) — related
 - [Asking \"Are you sure?\" reduced correct answers for both models; ChatGPT-3.5 Turbo's answer changes approached but did not reach significance](are-you-sure-prompt-reduced-correct-answers.md) — related
+- [ChatGPT 4.0 had the most uniquely correct and fewest uniquely incorrect responses among the three LLMs across both languages](chatgpt-4-most-unique-correct-responses-venn.md) — related

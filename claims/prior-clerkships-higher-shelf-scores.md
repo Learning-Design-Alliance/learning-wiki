@@ -49,3 +49,4 @@ Narrative review reports observational findings across multiple specialties that
 - [Clerkship timing within the academic year influences shelf exam performance](clerkship-timing-influences-shelf-scores.md) — a narrower finding that bears on this claim
 - [Clinical exposure and performance are not consistently associated with shelf exam scores](clinical-exposure-inconsistent-shelf-scores.md) — related
 - [Step 1 performance strongly predicts shelf exam performance across clerkships](step1-predicts-shelf-exam-performance.md) — related
+- [Shelf exam scores did not differ significantly between students testing after a 2-week flipped-classroom virtual neurology clerkship and those testing after a traditional 4-week rotation](virtual-flipped-neurology-clerkship-shelf-scores-comparable.md) — related

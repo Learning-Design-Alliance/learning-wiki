@@ -50,3 +50,4 @@ In the randomized controlled trial of 38 senior nursing students (19 per group),
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Screen-based simulation produces higher post-test student satisfaction and self-confidence in learning (SCLS overall) than verbal instruction](screen-simulation-raises-satisfaction-self-confidence-scls.md) — related
 - [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — reports the opposite
+- [Both high-fidelity simulation and case-based discussion increased medical students' self-confidence, with no significant difference between groups](hfs-cbd-equal-self-confidence-gains.md) — related

@@ -67,3 +67,4 @@ Mann-Whitney U between-group comparison at LC5 in the same RCT. The article prin
 - [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](smartcoach-improves-cvs-achievement.md) — a broader claim this one bears on
 - [AI-assisted coaching shows no significant differences versus self-learning in overall surgical efficiency or intraoperative adverse events](smartcoach-no-efficiency-or-iae-difference.md) — related
 - [Coached surgeons report improved CVS understanding and compliance and high satisfaction with the AI coaching program](smartcoach-satisfaction-and-cvs-perception.md) — related
+- [Coaching benefits were consistent across age, gender and overall laparoscopic experience, but weaker in participants with bariatric laparoscopic experience](coaching-effect-weaker-with-laparoscopic-experience.md) — related

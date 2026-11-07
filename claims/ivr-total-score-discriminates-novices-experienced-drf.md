@@ -52,3 +52,4 @@ Cross-sectional validation study at two Danish sites: 12 first-year orthopedic r
 - [Expert-derived time- and score-based training benchmarks discriminate between novice learners and expert surgeons on all six FRS VR tasks](frs-vr-benchmarks-discriminate-novice-expert.md) — related
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
 - [IVR and control groups do not differ in attending-surgeon interventions, verbal answers to composite questions, or safety cessations](ivr-null-surgeon-intervention-questions-safety.md) — related
+- [A composite fluoroscopy score on the iVR simulator discriminates novices from experienced surgeons with a very large effect size (partial eta squared = 0.54)](ivr-fluoroscopy-composite-score-discriminates-experience.md) — related

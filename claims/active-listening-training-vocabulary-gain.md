@@ -54,3 +54,4 @@ Two-Way ANOVA for mixed measures on pre-test–post-test Vocabulary Test scores 
 - [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](listening-comprehension-predicts-vocabulary.md) — related
 - [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](metacognitive-strategy-instruction-improves-listening-comprehension.md) — related
 - [Training active listening as a stand-alone component before other interpreting skills contributes more to selective listening development than training it as a built-in part](standalone-active-listening-mode-contributes-more.md) — related
+- [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](reversed-classroom-workshops-beat-lecture-ecg.md) — related

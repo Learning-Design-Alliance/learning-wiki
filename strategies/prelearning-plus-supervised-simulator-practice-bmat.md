@@ -57,6 +57,7 @@ The program pairs an online handout with slides and a 10-minute video covering i
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use brief five-minute mini-simulation videos with small-group empathy mapping to reduce large-group simulation anxiety](mini-simulation-small-group-empathy-mapping-strategy.md)
 - [Outcome-based simulation seminar combining a 20-minute anatomy lecture, expert demonstration, and 60 minutes of hands-on practice in equipped booths](outcome-based-cvc-simulation-seminar-structure.md)
+- [Deliver ultrasound-guided aspiration training as a 15-minute orientation video followed by a 20-minute one-on-one workshop and a 5-minute independent skills test](video-workshop-skills-test-sequence-strategy.md)
 
 ## Examples
 -

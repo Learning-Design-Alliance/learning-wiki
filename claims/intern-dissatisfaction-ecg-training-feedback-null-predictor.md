@@ -51,3 +51,4 @@ Multivariable regression finding on the 220-intern dataset, alongside survey des
 - [94.5% of surveyed nursing interns were relatively satisfied with teaching quality and 95.5% with their preceptors after certification implementation](intern-satisfaction-94-5-teaching-quality.md) — reports the opposite
 - [Supervisors were satisfied with equipment and working with students but 90.9% reported insufficient preparation time](supervisors-satisfied-but-underprepared.md) — related
 - [User satisfaction with the system is high overall (94%), with educators most satisfied (90%) and grade 4–6 students relatively less satisfied](hci-system-user-satisfaction-educators-highest.md) — reports the opposite
+- [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related

@@ -49,3 +49,4 @@ Bivariate Cholesky ACE decomposition splitting attainment variance into componen
 - [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — related
 - [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related
 - In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age — related
+- [Twin analyses show the genetic contribution of non-cognitive skills to academic achievement independent of cognitive genetics increases over development, from 1% of achievement variance at age 9 to 12% at age 16](twin-ncs-genetic-contribution-increases.md) — related

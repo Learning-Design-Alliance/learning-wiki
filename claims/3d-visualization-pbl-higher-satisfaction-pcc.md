@@ -58,3 +58,4 @@ Questionnaire survey with 100% response rate (25 per group), 10 items scored 10 
 - [PBL combined with 3D-VRT produced higher overall teaching satisfaction than traditional teaching across all six questionnaire components](pbl-3d-vrt-higher-teaching-satisfaction.md) — related
 - [The 3D-printed PBL group outperformed the traditional PBL group on operative skill assessments including incision design, columella deformity improvement, and upper lip symmetry](3d-printed-pbl-outperformed-operative-skills.md) — related
 - [Symptom-focused CBL residents reported significantly higher satisfaction than controls across five competencies including clinical reasoning and documentation quality](limited-mouth-opening-cbl-higher-satisfaction-competencies.md) — related
+- [Students taught DDH with 3D-printed models plus CBL scored higher on post-course practical skills than students taught with conventional CBL alone](3d-cbl-higher-post-course-practical-skills-ddh.md) — related

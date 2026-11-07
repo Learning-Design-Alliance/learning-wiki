@@ -59,3 +59,4 @@ The review reports Elliot and McGregor's (1999) undergraduate study measuring tr
 - [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related
 - [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](worry-positively-predicts-grades.md) — related
 - [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](literacy-difficulties-moderate-trait-anxiety-gpa.md) — related
+- [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related

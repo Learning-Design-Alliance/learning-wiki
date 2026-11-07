@@ -53,6 +53,7 @@ The article's VRS session recipe combines collaborative drills with structured r
 - [Team-based, bilingual VR training session format combining orientation, remote-facilitated simulation, and debriefing](team-based-bilingual-vr-session-format.md)
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
 - [Deliver short-term, intensive, simulation-based infectious disease emergency training with frequent drills](short-term-simulation-drill-training-strategy.md)
+- [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 
 ## Examples
 -

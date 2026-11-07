@@ -57,3 +57,4 @@ In the same 90-student quasi-experiment, the experimental group's total CTDI-CV 
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
 - [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — related
 - [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-critical-thinking.md) — related
+- [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related

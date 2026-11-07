@@ -52,3 +52,4 @@ Spearman correlation analysis in a cross-sectional survey of 321 new nurses in e
 - [Perceived organizational support and self-efficacy form a chain mediation from job burnout to emergency response competence, accounting for 15.67% of the total effect](chain-mediation-pos-self-efficacy-burnout-competence.md) — related
 - [New nurses' emergency response competence is at a moderate level, lower than previously reported for nurses overall](moderate-emergency-response-competence-new-nurses.md) — related
 - [Nurses with more than 15 years of emergency-care experience perceive fewer barriers than less-experienced colleagues](experience-reduces-perceived-barriers.md) — related
+- [PCC competence is negatively correlated with job burnout among surgical nurses (r = −0.583)](pcc-competence-burnout-negative-correlation.md) — a narrower finding that bears on this claim

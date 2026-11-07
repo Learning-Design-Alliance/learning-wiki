@@ -47,6 +47,7 @@ The article's general discussion recommends that material selection be tailored 
 - [Providing Multiple Means of Representation](providing_multiple_means_of_representation.md)
 - [Use background-characteristic evidence to decide when and for whom to deploy game-based learning and whether to tailor instruction](tailor-game-based-learning-to-student-background.md)
 - [Tailor practice format to students' motivational profiles, particularly baseline self-efficacy and format favorability](tailor-practice-format-to-motivational-profiles.md)
+- [Use video-recorded think-aloud case reports to diagnose knowledge gaps and tailor teaching strategies](video-transcription-diagnosis-strategy.md)
 
 ## Examples
 -

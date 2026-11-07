@@ -60,3 +60,4 @@ A 10-item self-developed questionnaire administered to all 50 residents showed t
 - [Among residents, critical evaluation of diagnostic pitfalls rose from 30% in traditional sessions to 93.3% during the STH 'Black Hat' phase, measured within the same group](pbl-sth-critical-thinking-black-hat.md) — a narrower finding that bears on this claim
 - [CBL-PBL training improves critical, systematic, and evidence-based thinking domains more than LBL](cbl-pbl-improves-all-ctses-domains.md) — related
 - [SPOC+PBL students reported higher satisfaction with teaching than LBL students across interest, participation, collaboration, interaction and clinical thinking dimensions](spoc-pbl-higher-teaching-satisfaction.md) — related
+- [Students in the 3D+CBL group rated the teaching higher than the CBL group on hip fundamentals, diagnostic and treatment-planning ability, interest, willingness to communicate, and satisfaction](3d-cbl-higher-questionnaire-ratings-ddh.md) — related

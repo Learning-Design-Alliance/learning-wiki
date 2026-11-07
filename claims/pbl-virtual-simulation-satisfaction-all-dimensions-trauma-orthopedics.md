@@ -79,3 +79,4 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [NSTIS students reported significantly higher learning outcomes on enhancing learning interest and satisfying the need for relevant case information](nstis-higher-learning-interest-and-case-information.md) — related
 - [Students in the experimental group reported high satisfaction with the BOPPPS-based “One Case to the End” reform](one-case-boppps-high-student-satisfaction.md) — related
 - [Flipped classroom students reported higher satisfaction with the teaching model and course duration and higher learning interest](flipped-classroom-satisfaction-interest-gains.md) — related
+- [Students in the 3D+CBL group rated the teaching higher than the CBL group on hip fundamentals, diagnostic and treatment-planning ability, interest, willingness to communicate, and satisfaction](3d-cbl-higher-questionnaire-ratings-ddh.md) — related

@@ -56,6 +56,8 @@ The article's zone 0 session is an implementable recipe: an approximately 30-min
 - [Non-linear Point-and-Click interaction with optional hand hygiene, Quests, instructional videos, and an end-of-simulation feedback report](nonlinear-point-click-quests-feedback-report-strategy.md)
 - [Two-video-tutorial training session followed by hands-on practice and blinded scored assessment for basic daVinci Xi skills](video-tutorial-plus-practice-davinci-xi-training.md)
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
+- [Four-step graduated practical training sequence from trainer demonstration to learner performance with real-time feedback](four-step-graduated-echo-simulator-practice-sequence.md)
+- [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 
 ## Examples
 -

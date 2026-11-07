@@ -51,3 +51,4 @@ Descriptive survey results from Table 3 of the 97-resident cross-sectional study
 - [Any form of prior POCUS training is strongly associated with good POCUS knowledge among pediatric residents](prior-pocus-training-associated-with-knowledge.md) — related
 - [POCUS access and utilization during clerkships were concentrated in Emergency Medicine clerkships and the Emergency Department](pocus-access-concentrated-emergency-medicine-clerkships.md) — related
 - [A four-module POCUS education programme significantly increased haemodialysis nurses' perceived confidence in ultrasound-based vascular access assessment (n = 15)](pocus-training-increases-nurse-cannulation-confidence.md) — related
+- [All participating residents viewed ultrasound teaching as a necessary part of training for physicians in cardiopulmonary-emergency specialties](residents-view-ultrasound-teaching-necessary.md) — related

@@ -51,7 +51,8 @@ The article recommends a multi-pronged approach for graduate nursing education: 
 - [The teacher-student relationship mediates the effect of ethical leadership on academic achievement](../claims/teacher-student-relationship-mediation-ethical-leadership.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement teacher training to enhance supportive teaching practices and strengthen students' academic self-efficacy](teacher-training-supportive-practices-self-efficacy.md)
 
 ## Examples
 -

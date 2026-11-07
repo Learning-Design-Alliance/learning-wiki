@@ -70,3 +70,6 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
 - [80% of students presented their scientific reports in an appropriate written style, judged on technical and scientific communication](eighty-percent-appropriate-scientific-writing-style.md) — related
 - [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related
+- [The validation panel comprised 12 health professionals with at least six years of experience, rating the scenario on six Pasquali criteria](delphi-panel-twelve-experts-pasquali-criteria.md) — related
+- [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
+- [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related

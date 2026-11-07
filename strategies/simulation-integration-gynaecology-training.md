@@ -50,6 +50,7 @@ The article recommends incorporating simulation and other training models into g
 ## Related Strategies
 
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
+- [Maintain trainee exposure to open and reconstructive procedures using real cases, simulation-based and cadaveric education, and video libraries despite declining open case volume](maintain-open-reconstructive-exposure-simulation-cadaver-video.md)
 
 ## Examples
 -

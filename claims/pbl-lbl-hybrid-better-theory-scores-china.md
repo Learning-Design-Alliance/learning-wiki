@@ -61,3 +61,4 @@ Meta-analysis of the 20 included RCTs reporting the clinical theory assessment s
 - [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related
 - [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related
 - [Fourth-year medical students taught with SPOC+PBL scored higher on a closed-book neurology unit test than students taught with LBL](spoc-pbl-higher-neurology-unit-test-scores.md) — a narrower finding that bears on this claim
+- [Fourth-year medical students taught DDH with 3D-printed models plus CBL scored higher on post-course theoretical knowledge than students taught with conventional CBL alone](3d-cbl-higher-post-course-theory-scores-ddh.md) — related

@@ -51,3 +51,4 @@ Qualitative workshop finding: participants described the AI as "a lubricant for 
 - [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md) — related
 - [The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own](antagonistic-agent-broadens-stakeholder-coverage.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
+- [Small-group training in the HMSS was associated with students strengthening communication skills and resolving team conflicts](hmss-small-group-conflict-resolution.md) — related

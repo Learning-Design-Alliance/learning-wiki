@@ -50,3 +50,4 @@ Standard-setting analysis of the composite score in the validation trial, using 
 - [A credible pass/fail standard of 34.4% was established using the contrasting groups' method](foi-test-pass-fail-standard-34-4-percent.md) — related
 - [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — related
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
+- [A contrasting-groups discriminatory standard of 6.15 points yields one false positive and one false negative](contrasting-groups-standard-615-consequences.md) — related

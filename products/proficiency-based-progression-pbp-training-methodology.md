@@ -13,19 +13,23 @@ generated:
 # Proficiency-based progression (PBP) training methodology
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q2`–`q4` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A structured surgical-skills training methodology developed by its proponents that decomposes procedures into validated binary performance metrics and uses metric-based formative feedback to guide trainees toward proficiency.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Proficiency-based progression (PBP) training: metrics-based advancement only upon demonstrated benchmark performance**: Proficiency-based progression is a training model in which trainees advance through a simulation curriculum only after demonstrating predefined, quantitatively defined performance benchmarks verified by instructors. Performance is measured with a task-specific system of 'Metrics' of three types, and trainees "should advance only upon demonstration of the proficiency requirements". The article applies it to surgical skills training for cardiac device implantation, with benchmarks set from experienced implanters' scores. (Mascheroni J et al. (2024))
 
 ### Claims
 - [Expert consensus metrics for circular stapling anastomosis comprise three procedural phases, 36 steps, 42 errors and 39 critical errors with unanimous Delphi agreement](../claims/circular-stapling-anastomosis-metrics-consensus.md) [+M]
+- [Proficiency-based progression simulation training produces superior objectively assessed surgical performance in novice CIED implanters than traditional simulation training](../claims/pbp-superior-surgical-performance-novel-cied-implanters.md) [+M]
+- [A majority of PBP trainees (73%) versus 20% of SIM trainees demonstrated the skills proficiency benchmark in video-recorded performance](../claims/pbp-benchmark-demonstration-73-vs-20-percent.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Tou S, Gallagher AG, Bislenghi G, Farinha R, Wolthuis A. (2025). European expert consensus on a structured approach to circular stapling anastomosis in minimally invasive left‐sided colorectal resection. Colorectal Disease. https://doi.org/10.1111/codi.70037
+- Mascheroni J, Stockburger M, Patwala A, Mont L, Rao A, Retzlaff H, Garweg C, Gallagher AG, Verbelen T. (2024). Surgical skill simulation training to proficiency reduces procedural errors among novice cardiac device implanters: a randomized study. Europace. https://doi.org/10.1093/europace/euae229

@@ -56,3 +56,4 @@ Anonymous paper questionnaire (modified course evaluation questionnaire, Kirkpat
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [CBL multimodal imaging teaching produced higher final theoretical examination and case analysis scores than traditional teaching](cbl-multimodal-higher-final-theory-and-case-analysis.md) — related
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
+- [Students in the 3D+CBL group rated the teaching higher than the CBL group on hip fundamentals, diagnostic and treatment-planning ability, interest, willingness to communicate, and satisfaction](3d-cbl-higher-questionnaire-ratings-ddh.md) — related

@@ -50,3 +50,4 @@ Descriptive results from the cross-sectional multicenter online survey, in which
 - [Physicians could not be grouped into distinct learner clusters by motivation, self-assessment, and risk perception in the POCUS context](pocus-no-learner-clusters.md) — related
 - [Overplacing oneself above peers correlates with lower intrinsic motivation and identified regulation and higher amotivation](overplacement-negative-correlation-motivation.md) — related
 - [No significant differences in diagnostic performance between physicians with POCUS certification or trainer experience and those without formal training](pocus-certification-no-performance-difference.md) — related
+- [All participating residents viewed ultrasound teaching as a necessary part of training for physicians in cardiopulmonary-emergency specialties](residents-view-ultrasound-teaching-necessary.md) — related

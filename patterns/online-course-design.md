@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 61 claims (30 for, 30 mixed, 1 against) · 44 studies (12 causal, 11 associational, 6 quant-synthesis, 6 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 44 report an effect size · 58 claims rest on one study
+> **Evidence** · 61 claims (30 for, 30 mixed, 1 against) · 45 studies (12 causal, 11 associational, 6 quant-synthesis, 6 qualitative, 5 design, 3 review, 2 theoretical), `q1`–`q4` · 10 of 45 report an effect size · 58 claims rest on one study
 
 ## Description and scope
 

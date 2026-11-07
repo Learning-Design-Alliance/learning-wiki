@@ -52,3 +52,4 @@ Robust regression analysis of cross-sectional survey data from 2,625 Serbian phy
 - [Physicians working in the private sector prefer communication-domain competencies more than others](private-sector-communication-domain-preference.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
 - [Primary healthcare physicians prefer public health, essentials and clinical emergency domains more, while specialists and subspecialists prefer them less](primary-care-specialist-domain-preference-split.md) — related
+- [Second-year residents reported the highest work stress and lowest resilience, competency increased with training progress, and males reported more work stress but higher resilience and competency than females](residency-year-and-gender-differences-radiology-residents.md) — reports the opposite

@@ -57,3 +57,4 @@ Online CCTDI-CV survey administered 1 week after each training phase to the same
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [AI-enabled personalized teaching raised overall critical thinking disposition (CTDI-CV total score) above the positive-disposition threshold](ai-teaching-ctdi-cv-total-score-higher.md) — related
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
+- [Critical thinking skills scores rose from pretest to posttest after simulation-based training among Vietnamese nursing students in a single-group pre-post study; the change was not statistically significant](simulation-training-no-critical-thinking-change-vietnam.md) — related

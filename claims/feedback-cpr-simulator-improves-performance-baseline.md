@@ -51,3 +51,4 @@ In the randomized controlled trial, 43 medical students completed a baseline pra
 - [Real-time feedback training increases compliance with the combined compression rate-and-depth target in hands-only CPR among medical students](real-time-feedback-improves-compression-target-hands-only-cpr.md) — related
 - [Feedback-equipped simulator training becomes cheaper than traditional simulation-center training from the second year onward](feedback-cpr-training-cost-savings-second-year.md) — related
 - [A higher proportion of students reached the excellent performance level with the feedback-equipped device than without it](feedback-device-more-excellent-level-cpr.md) — related
+- [Compression skill success rates among final-year medical students are low despite generally high self-efficacy perceptions](low-compression-success-rates-despite-high-sep.md) — related

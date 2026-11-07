@@ -69,3 +69,4 @@ Self-evaluation questionnaires at T1 and T2 in the randomized study showed both 
 - [Simulator-trained and human-trained groups perform equivalently on the simulator-based practical FATE tests](fatesim-equivalent-simulator-performance.md) — related
 - [The simulator-trained group performs significantly worse than the human-trained group on the practical FATE examination with human subjects](fatesim-simulator-group-worse-on-humans.md) — related
 - [Medical students' theoretical FOCUS competencies rose significantly from pre-test to post-test, with a large pre-post difference, in the student group of a controlled study after e-learning preparation](elearning-large-gain-student-focus-theory.md) — related
+- [Medical residents' echocardiography interpretation skills and theoretical test responses rose from pre-test to post-test after simulation-based training, in a single-group pre-post study](sim-training-improved-self-reported-echo-interpretation-skills.md) — related

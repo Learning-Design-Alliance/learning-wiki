@@ -72,3 +72,4 @@ The review reports from Moreno-Lopez and Hope's retrospective UK study of dental
 - [The high overall pass rate of 97.1% may limit the discriminatory power of the PJ-OSCE in its current form.](pj-osce-high-pass-rate-limits-discriminatory-power.md) — related
 - [No students failed the virtual OSCE or their clerkship, with cut-scores set by the Borderline Regression Method and an Angoff process](virtual-osce-no-failures-brm-angoff.md) — related
 - [Single-rater scoring alone yields a higher pass rate than double scoring in the remote OSCE (71.45% vs 68.72%)](single-rater-pass-rate-71-45-vs-double-68-72.md) — related
+- [Borderline regression standard setting produced a pass-fail cut at which all senior trainees passed and 4 of 6 junior trainees failed](sim-assessment-borderline-regression-pass-fail.md) — related

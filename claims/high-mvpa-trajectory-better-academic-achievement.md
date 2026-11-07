@@ -49,3 +49,4 @@ Generalized estimating equation models on the three-year cohort, adjusted for ag
 - [At baseline, the High MVPA group had the highest academic scores and the Low MVPA group the lowest, with significant between-group differences](high-mvpa-group-highest-baseline-academic-scores.md) — related
 - [Three distinct MVPA trajectories (Low, Decline, High) were identified among Chinese primary school children over three years](three-mvpa-trajectories-primary-children.md) — related
 - [Students' favourable attitudes towards sports were positively associated with higher academic achievement](student-sports-attitudes-academic-achievement.md) — related
+- [Higher MVPA relative to remaining movement behaviors at age 5.5 years is associated with lower academic achievement, and reallocating MVPA time to sleep predicts higher academic achievement](mvpa-academic-achievement-negative-sleep-reallocation-favorable.md) — reports the opposite

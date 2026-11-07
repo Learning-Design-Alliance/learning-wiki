@@ -60,3 +60,4 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related
 - [Student teachers' teaching implementation skills were higher at posttest than pretest after blended e-learning, with a statistically significant difference in one uncontrolled pre-post study.](blended-learning-significant-pre-post-gains-teaching-skills.md) — related
 - [In both groups, knowledge post-test and persistence test scores rose significantly above pre-test, and persistence scores exceeded post-test scores](intragroup-knowledge-gains-both-groups.md) — related
+- [All four teaching methods were followed by significant pre-to-post gains in learning, satisfaction and self-efficacy](all-methods-pre-post-gains.md) — related

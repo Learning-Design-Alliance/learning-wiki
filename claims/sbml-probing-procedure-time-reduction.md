@@ -55,3 +55,4 @@ Paired t test on procedure durations recorded from video performances of the sam
 - [FONA procedure duration after three months was on average 3.6 seconds longer for the self-made-model group, with no pre-specified non-inferiority threshold](fona-duration-self-made-plus-3-6s.md) — related
 - [Time to acquire all eight rTEE views decreased from 7.3 minutes at month 6 to 5.7 minutes at month 7, a non-significant difference](rtee-acquisition-time-month6-month7.md) — related
 - [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — a narrower finding that bears on this claim
+- [Median procedure time fell from before to after instructor feedback in one uncontrolled pre-post study; senior residents' time fell by nearly 40%, while junior residents' time was similar before and after](procedure-time-drops-after-feedback-seniors.md) — related

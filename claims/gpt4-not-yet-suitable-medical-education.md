@@ -48,3 +48,4 @@ Authors' interpretive conclusion from the discussion: GPT-4 exceeded 90% accurac
 ## Related Claims
 - [GPT-4 performed significantly better on examinations from English-speaking countries (86% vs 80%, P=.02), while GPT-3.5 showed no such difference (P=.72)](gpt4-english-speaking-country-advantage.md) — a narrower finding that bears on this claim
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
+- [Informational errors account for over 70% of incorrect answers across all models, with simple logical errors under 10%](informational-errors-dominate-incorrect-answers.md) — related

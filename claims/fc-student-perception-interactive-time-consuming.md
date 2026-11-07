@@ -70,3 +70,5 @@ Keyword coding of open-ended answers from 44 students, visualised as word clouds
 - [No significant difference in teacher–student interaction ratings between the flipped and conventional OCW classroom groups](no-interaction-difference-flipped-conventional-ocw.md) — related
 - [Students most frequently reported active participation, student-teacher interaction, flexibility, repetitive watching, and peer interaction as advantages of the flipped classroom](flipped-classroom-perceived-advantages.md) — related
 - [Flipped classroom seminars improved immediate topic-specific test performance in three of four pharmacology topics compared with conventional teaching](fc-immediate-test-gains-three-topics.md) — related
+- [The lowest-rated aspects of the flipped classroom concerned time: students most wanted more time per topic and noted long preparation and conduction time](flipped-classroom-time-related-lowest-ratings.md) — related
+- [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related

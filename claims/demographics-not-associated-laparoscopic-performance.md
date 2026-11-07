@@ -50,3 +50,4 @@ Spearman correlations and Mann Whitney U tests in the feasibility study (42 stud
 ## Related Claims
 - [VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background](vr-performance-no-individual-factor-associations.md) — related
 - [Gamified test scores correlate significantly with technical aptitude test scores (r=0.46), remaining significant after controlling for video game experience (semipartial r=0.38)](gba-technical-aptitude-correlation.md) — related
+- [Gender, age, hand dominance, and gaming experience showed no significant association with speed or quality of robotic-assisted anastomoses](no-demographic-or-gaming-effects-on-robotic-microsurgery.md) — related

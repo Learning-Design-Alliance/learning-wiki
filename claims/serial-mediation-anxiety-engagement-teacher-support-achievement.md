@@ -54,3 +54,4 @@ Bootstrap SEM serial mediation analysis (10,000 resamples, 95% CI) in Mplus 8.3 
 - [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — related
 - [Emotional intelligence and learning engagement jointly serially mediate digital technology use and English performance, with a modest and marginally stable distal effect](serial-mediation-ei-engagement-digital-technology-english.md) — related
 - [Self-efficacy and learning engagement act as a significant chain mediator from social support to academic performance](chain-mediation-self-efficacy-learning-engagement.md) — related
+- [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related

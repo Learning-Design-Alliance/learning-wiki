@@ -53,3 +53,4 @@ Language-based performance analysis in which the same 100 questions were adminis
 - [LLMs gave identical responses to Korean and English versions of the questions, suggesting consistent reasoning across languages](llm-identical-responses-korean-english-questions.md) — related
 - [ChatGPT-o1pro shows higher response consistency on Turkish questions (κ = 0.836) than English questions (κ = 0.689), while AtlasGPT and ChatGPT-4 remain balanced across languages](language-specific-consistency-turkish-english.md) — related
 - [No statistically significant interlingual variation for either chatbot answering the same questions in Turkish versus English](no-interlingual-variation-chatbot-ophthalmology-mcq.md) — related
+- [GPT-4 self-agreement between Korean and English versions is 72.6%, with correct answers derived only from English in 14.1% of cases](gpt4-self-agreement-korean-english-72-6-percent.md) — related

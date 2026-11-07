@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 511 claims (243 for, 238 mixed, 30 against) · 277 studies (136 causal, 58 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 93 of 277 report an effect size · 504 claims rest on one study
+> **Evidence** · 513 claims (245 for, 238 mixed, 30 against) · 278 studies (136 causal, 59 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 93 of 278 report an effect size · 506 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -555,6 +555,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](../claims/confidence-competence-gap-sepsis-recognition.md) [-W]
 - [Less surgical experience is associated with overestimation of abilities](../claims/less-experience-overestimation.md) [-W]
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](../claims/phtls-knowledge-confidence-subgroup-pattern.md) [~M] — attached 2026-11-04 from Çevikbaş Pınar et al. (2026), which proposed "Dunning-Kruger-like effect as an interpretive lens for the knowledge–confidence paradox".
+- [First-semester medical students show a pronounced Dunning-Kruger effect: the correlation between self-assessment ability and actual oral anatomy exam performance is strongly negative (ρ = -0.590)](../claims/dke-first-semester-medical-students-negative-correlation.md) [+W] — attached 2026-11-07 from Knof Harald et al. (2024), which proposed "The Dunning-Kruger effect as a metacognitive phenomenon in which limited knowledge causes individuals to overestimate their competence and underestimate others'"; tests this page's relationship.
+- [Most first-semester medical students misjudge their oral anatomy exam performance: 35.5% overestimate, 46.0% underestimate, and only 18.5% assess themselves accurately](../claims/self-assessment-accuracy-distribution-first-semester.md) [+W] — attached 2026-11-07 from Knof Harald et al. (2024), which proposed "The Dunning-Kruger effect as a metacognitive phenomenon in which limited knowledge causes individuals to overestimate their competence and underestimate others'".
 
 ## The evidence by question
 

@@ -157,3 +157,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Interns who experienced real patient CPR had higher skill confidence and skill test scores than those who did not](real-cpr-experience-higher-confidence-skill.md) — a narrower finding that bears on this claim
 - [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related
 - [Students rated the case-based VR simulation highly acceptable: 95% affirmed it simulated real-patient scenarios, and all 40 reported making real-life doctor decisions and finding it interesting and useful](vr-pelvic-trauma-student-acceptability-ratings.md) — related
+- [A mobile application combining educational content with scenario-based games was designed and used as the gamified flipped learning environment](health-assessment-gamified-mobile-app.md) — a narrower finding that bears on this claim

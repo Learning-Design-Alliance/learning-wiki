@@ -60,3 +60,4 @@ The review reports, citing Song et al. (2024), that "belonging mediated the rela
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a broader claim this one bears on
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
 - [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — related
+- [Learning engagement mediates the relationship between professional identity and academic achievement in nursing students](learning-engagement-mediate-professional-identity-academic-achievement.md) — related

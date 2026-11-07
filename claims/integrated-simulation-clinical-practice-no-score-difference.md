@@ -57,3 +57,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [Blended MOOC-virtual simulation teaching produces higher post-course theoretical test scores than traditional face-to-face teaching in a general surgery experiment course](mooc-virtual-simulation-higher-post-theoretical-test-scores.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning shows no difference in clinical operation skills compared with routine mentoring](ltc-training-no-clinical-skills-difference.md) — related
 - [Online and face-to-face neurosurgery teaching produce no statistically significant difference in theory test scores](online-f2f-neurosurgery-theory-scores-no-difference.md) — related
+- [AI-empowered scenario-based simulation teaching produced higher theoretical exam scores than traditional teaching in cardiovascular disease education](ai-scenario-simulation-higher-theoretical-exam-scores-cardiology.md) — related

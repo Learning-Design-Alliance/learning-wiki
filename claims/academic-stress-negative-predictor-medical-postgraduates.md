@@ -49,3 +49,4 @@ Cross-sectional survey of 616 medical master's students at a Chinese medical uni
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [Perceived academic stress correlates positively with perceived memory problems among preclinical medical students (rS = 0.445)](perceived-stress-correlates-poorer-perceived-memory-medical-students.md) — related
 - [Perceived stress is negatively related to academic performance among Chinese LGBTQ+ college students](perceived-stress-negative-academic-performance-lgbtq.md) — related
+- [Work stress is negatively associated with competency among Chinese radiology residents](work-stress-negative-competency-radiology-residents.md) — related

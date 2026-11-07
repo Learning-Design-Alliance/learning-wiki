@@ -13,7 +13,7 @@ generated:
 # Writing Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 22 studies (9 causal, 6 quant-synthesis, 3 associational, 2 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 23 studies (9 causal, 6 quant-synthesis, 3 associational, 2 review, 2 theoretical, 1 design), `q1`–`q4` · 7 of 23 report an effect size · 10 claims rest on one study
 
 ## Description
 A writing prompt specifies a task that requires learners to generate written text — an explanation, argument, reflection, or summary — rather than select or recognize a response. Prompts function both as learning activities (writing to consolidate understanding) and as assessment instruments (writing to reveal it), and their design determines which of these functions dominates.

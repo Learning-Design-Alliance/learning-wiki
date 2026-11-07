@@ -49,3 +49,4 @@ Confirmatory factor analysis of the Mindfulness in Teaching scale in this study'
 - [Confirmatory factor analysis supports retaining the ANTSdk four-category, 16-element structure in the Turkish version](antstr-cfa-four-category-structure-confirmed.md) — related
 - [The Turkish-adapted PESD-FT scale shows excellent confirmatory factor analysis fit and high internal consistency in a sample of 852 PE teachers](pesd-ft-scale-cfa-fit-turkish-pe-teachers.md) — related
 - [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related
+- [The mindfulness–adaptability–achievement structural model shows acceptable fit (R² achievement = 0.58, SRMR = 0.054)](sem-model-fit-acceptable-r2-q2-srmr.md) — related

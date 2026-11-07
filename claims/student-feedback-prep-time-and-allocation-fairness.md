@@ -54,3 +54,4 @@ Questionnaire feedback (Table 6) compared groups with χ2/Fisher's exact and Man
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related
 - [Intervention students spent about 2 more hours in the course than controls, without higher perceived stress](intervention-cost-two-extra-hours-no-stress-increase.md) — related
 - [The inverted classroom approach increased preclass workload relative to the traditional approach](ic-increased-preclass-workload.md) — possibly the same claim (merge candidate)
+- [Live-streaming participants self-trained more often during the week yet did not acquire the same posttest score increase](ls-more-self-training-not-more-gain.md) — related

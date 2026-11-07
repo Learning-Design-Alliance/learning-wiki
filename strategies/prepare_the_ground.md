@@ -69,6 +69,7 @@ Difficult dialogues collapse when participants lack trust in the facilitator and
 - [Build trusting relationships among workgroup participants through structured facilitation](trust-building-facilitation-practices.md)
 - [Support tertiary educators to dialogue safely with colleagues about student feedback and teaching failure](collegial-dialogue-teaching-failure-strategy.md)
 - [Establish psychological safety through shared ground rules, confidentiality, respect, and a mistakes-as-learning philosophy during simulation-based learning](psychological-safety-ground-rules-sbl.md)
+- [Sequence microaggression curricula from foundational naming skills toward more complex debriefing skills](foundational-to-complex-microaggression-sequencing.md)
 
 ## Examples
 - **Arao & Clemens' "brave space" redesign** — a widely used exercise in which a class critiques a standard "safe space" ruleset (e.g., "agree to disagree") and rewrites each agreement to name what participation actually requires, building ownership of norms before charged content begins.

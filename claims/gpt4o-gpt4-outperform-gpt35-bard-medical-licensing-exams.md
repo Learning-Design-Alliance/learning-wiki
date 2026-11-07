@@ -55,3 +55,4 @@ Cross-sectional evaluation conducted in June 2023 in which four LLMs answered mu
 - [GPT-4 outperforms GPT-3.5 and Bard on dental licensing examinations, achieving an integrated accuracy of 72%](gpt-4-outperforms-gpt-3-5-and-bard-dental-licensing-accuracy.md) — related
 - [Bard achieves an integrated accuracy of 56% on dental licensing examinations](bard-integrated-accuracy-56-percent-dental-licensing.md) — related
 - [All four LLMs showed a decline in accuracy on the Chinese-language NMLE, with GPT-4, GPT-3.5 and Bard failing to reach the 70% accuracy threshold](llm-accuracy-declines-on-chinese-nmle.md) — related
+- [ChatGPT 4.0 significantly outperforms ChatGPT 3.5 and Google Bard in accuracy on English NCLEX-RN practice MCQs](chatgpt-4-highest-accuracy-english-nclex-rn-mcqs.md) — related

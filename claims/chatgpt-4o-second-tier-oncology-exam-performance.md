@@ -52,3 +52,4 @@ Category-level results (Table 3) report ChatGPT 4o answering 102 of 118 basic on
 - [GPT-4o achieves the highest overall accuracy on KMLE questions (83.2%), significantly outperforming Claude 3.5 Sonnet and Gemini 1.5 Pro across 2022–2024](gpt4o-highest-kmle-accuracy-83-2.md) — related
 - [All three LLMs exceed the 400/650-point passing threshold on a Chinese anesthesiology SRTP mock exam, with Claude 3.5 Sonnet achieving the highest mean score](llms-pass-chinese-anesthesiology-srtp-exam-claude-highest.md) — related
 - [LLM accuracy varied significantly across oncology topics, with the lowest performance in colorectal tumors (mean 48.3%) and genitourinary tumors (mean 50.8%)](llm-accuracy-varies-across-oncology-topics.md) — related
+- [GPT-4 significantly outperforms GPT-3.5 and CLOVA X on Korean anesthesiology in-training examination questions, while GPT-3.5 and CLOVA X do not differ](gpt4-outperforms-gpt35-clovax-korean-anesthesiology-exam.md) — related

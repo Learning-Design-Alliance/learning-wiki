@@ -56,3 +56,4 @@ FAHP fuzzy assessment of expert satisfaction across the five dimensions (Table 9
 - [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related
 - [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related
 - [Public health practice ability receives the highest entropy weight among the five competency dimensions](entropy-weights-practice-ability-highest-dimension.md) — related
+- [AHP weighting assigns the highest weight to professional theoretical knowledge (0.2168) and the lowest to professional development ability (0.1649), with consistency ratio 0.0013](ahp-weights-primary-indicators-clinical-nutritionists.md) — related

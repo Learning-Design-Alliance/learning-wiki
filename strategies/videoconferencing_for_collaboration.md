@@ -12,7 +12,7 @@ generated:
 # Videoconferencing for Collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 2 theoretical), `q2`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Videoconferencing platforms with built-in collaboration features — Microsoft Teams, Google Meet, Zoom — allow teachers to replicate teamwork experiences online. These platforms typically combine synchronous video and audio with digital whiteboards, screensharing, breakout rooms, and real-time co-editing, enabling students to brainstorm strategies, share resources, and produce joint work without co-location.

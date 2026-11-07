@@ -65,3 +65,4 @@ A pragmatic randomized controlled trial with 84 second-year nursing students (42
 - [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — related
 - [Second-year nursing students who received empathy mapping with mini-simulation showed significantly higher post-test communication self-confidence than controls](empathy-mapping-mini-simulation-higher-communication-confidence.md) — related
 - [The REPs-VS group reported significantly higher self-directed learning skill, confidence in future patient encounters, and reduced performance stress than the traditional group](reps-vs-confidence-and-stress-attitudes.md) — related
+- [Live-streaming participants reported greater confidence in performing the procedure independently than face-to-face participants](ls-greater-confidence-independent-performance.md) — related

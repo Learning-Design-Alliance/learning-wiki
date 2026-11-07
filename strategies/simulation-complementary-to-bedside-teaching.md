@@ -64,6 +64,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
 - [Complement traditional teaching with experiential dHealth formats such as hackathons and capstone projects, covering fundamental technologies broadly before AI](experiential-dhealth-curriculum-strategy.md)
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
+- [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 
 ## Examples
 -

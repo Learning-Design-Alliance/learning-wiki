@@ -43,7 +43,8 @@ The article's future-directions section recommends formalizing simulation's role
 - [Most EM residency programs use simulation to fulfill rare ACGME-mandated procedure requirements while routine procedures are simulated in fewer than 20% of cases](../claims/simulation-rare-procedure-requirements-em.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
 
 ## Examples
 -

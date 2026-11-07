@@ -50,3 +50,4 @@ Exploratory sex-stratified proportional odds analyses (Table 4) in 1608 female a
 - [Video game use (any vs none) in young children is associated with lower grade 3 reading achievement in the combined sample](video-game-use-lower-grade3-reading.md) — related
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](sex-by-sedentary-behavior-interaction-math.md) — related
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
+- [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — related

@@ -73,6 +73,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Integrate PBL modules into existing clinical nursing curricula to cultivate reflective thinking and engagement](integrate-pbl-modules-clinical-curricula-strategy.md)
 - [Add dedicated research methodology, ethics, and mentoring components to case-based curricula to address competency gaps](add-research-ethics-components-to-cbl.md)
 - [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
+- [Integrate student-active teaching methods such as TBL and formative assignments into preclinical curricula](integrate-active-learning-tbl-formative-assignments-medical-curricula.md)
 
 ## Examples
 -

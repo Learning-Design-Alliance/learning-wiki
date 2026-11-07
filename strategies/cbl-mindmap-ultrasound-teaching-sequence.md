@@ -51,6 +51,7 @@ A specific teaching activity sequence for ultrasound residency: before lectures,
 - [Progress from small-group domain-specific mind maps to class-wide integration to fade scaffolding](small-group-to-class-wide-mind-map-fading.md)
 - [Provide sufficient pre-class preparation time and adjust teaching based on ongoing trainee feedback](sufficient-pre-class-time-ongoing-feedback-strategy.md)
 - [Visualizations and Mind Maps](visualizations_and_mind_maps.md)
+- [Deliver case-based learning inside a BOPPPS framework by sending real cases and questions to students before class, quizzing, discussing cases, testing, and having students build mind maps](cbl-boppps-case-delivery-strategy.md)
 
 ## Examples
 -

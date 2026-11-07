@@ -65,3 +65,4 @@ Paired-samples t-test on an eight-item 5-point prompt self-efficacy scale admini
 - [Intervention group reports higher perceived difficulty, reasoning improvement, engagement, self-efficacy, and course material evaluation](genai-cbl-subjective-experience.md) — related
 - [Early-career psychiatrists' self-rated self-efficacy in conducting suicide risk assessments rose significantly from pre- to post-intervention after a 20-minute GenAI simulator session, in one uncontrolled pre-post study](genai-simulator-increases-suicide-assessment-self-efficacy.md) — related
 - [Control-group overall self-efficacy did not change significantly over the study period while the intervention group's did](control-group-self-efficacy-unchanged.md) — related
+- [All four teaching methods were followed by significant pre-to-post gains in learning, satisfaction and self-efficacy](all-methods-pre-post-gains.md) — related

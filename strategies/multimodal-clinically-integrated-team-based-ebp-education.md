@@ -52,6 +52,7 @@ Drawing on studies cited in its discussion, the review highlights that EBP educa
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
 - [On-site personalized mentoring based on healthcare workers' own consultation data, eLearning programs, and continuous monitoring of CDSA data trends to track skill development](data-driven-mentoring-elearning-strategy.md)
+- [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
 
 ## Examples
 -

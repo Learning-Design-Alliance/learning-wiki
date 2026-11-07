@@ -50,3 +50,4 @@ Inductive thematic analysis of free-text survey responses from 35 students; subt
 - [Almost 90% of students recommend changes to EPAs, predominantly reducing EPA requirements](students-recommend-epa-changes-reduction-requirements.md) — related
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Students propose global evaluations, shifting completion onus to preceptors, and clearer form wording](student-proposed-epa-reforms-beyond-reduction.md) — related
+- [Trainees perceived entrustment statements as mandatory and bureaucratic despite EPAs being designed as elective learning tasks, suggesting an alignment gap](entrustment-perceived-mandatory-alignment-gap.md) — related

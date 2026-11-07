@@ -48,3 +48,4 @@ Structural equation model built in Amos 21.0 on the same survey data, after remo
 - [Learning adaptation and academic self-efficacy chain-mediate the negative relationship between mental health and academic achievement, accounting for 40.57% of the total effect](chain-mediation-learning-adaptation-self-efficacy.md) — related
 - [Mental health, learning adaptation and academic self-efficacy show significant pairwise correlations among freshmen](correlations-mental-health-adaptation-self-efficacy.md) — related
 - [Academic self-efficacy mediates the relationship between mental health and academic achievement](self-efficacy-mediation-mental-health-achievement.md) — related
+- [Students' adaptability positively and significantly affects their academic achievement (β = 0.57)](adaptability-positively-affects-academic-achievement-sem.md) — related

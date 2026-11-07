@@ -49,3 +49,4 @@ Performance was assessed by blinded structured observation with the WHOBARS chec
 - [Performance deteriorated over time in both teaching approaches, with two-month scores significantly lower than two-week post-intervention results](performance-deterioration-both-approaches.md) — related
 - [Most ISBTT studies report improvement in collaborative behaviors immediately after training, but longer-term and clinical-setting outcomes are rarely measured](isbtt-behavior-improvements-mostly-immediate.md) — related
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
+- [The experiential learning program improves patient health engagement at the immediate posttest, but the difference is no longer significant 3 months later](elt-ehealth-program-patient-engagement-mixed.md) — related

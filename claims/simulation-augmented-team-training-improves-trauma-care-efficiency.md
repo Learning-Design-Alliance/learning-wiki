@@ -59,3 +59,5 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [Adding a communication module to RTTDC training further shortened transfer-related times in rural trauma care](rttdc-communication-module-transfer-times.md) — related
 - [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
 - [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — possibly the same claim (merge candidate)
+- [After in situ simulation training, the frequency of the teamwork event evaluation of plans increased significantly during real postnatal stabilization and resuscitation](evaluation-of-plans-teamwork-event-increased.md) — related
+- [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](total-teamwork-events-nonsignificant-increase.md) — related

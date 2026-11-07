@@ -49,3 +49,4 @@ Descriptive synthesis of learning objectives across the 24 tools in the Results 
 - [Students reported high confidence gains in history-taking, differential diagnosis, and management planning from AIVP](aivp-survey-confidence-gains.md) — related
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [Residents report increased comfort delivering bad news for specific clinical scenarios after simulation training](simulation-training-increases-comfort-specific-obgyn-scenarios.md) — related
+- [Performance in communicative OSCE skills is associated with general willingness to engage with instructional contents, not with targeted practice of specific skills](communication-engagement-not-targeted-practice.md) — related

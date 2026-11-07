@@ -47,7 +47,8 @@ The authors recommend incorporating Peyton's structured, stepwise instructional 
 - [Total knowledge-plus-performance scores rose significantly over time in all three groups, with between-group total-score differences significant at one and six weeks post-intervention](../claims/total-score-gains-all-groups-between-group-differences-post-intervention.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 
 ## Examples
 -

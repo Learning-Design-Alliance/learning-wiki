@@ -49,3 +49,4 @@ Survey of learning sources and attitudes (Tables 2 and 4) among 502 students. Tr
 - [PBL-exposed 4th-year undergraduates reported the highest TDI learning through PBL classrooms](pbl-classroom-exposure-fourth-year-undergraduates.md) — related
 - [Traditional classroom teaching dominates TDI learning while internet resource use varies sharply by specialty](traditional-classroom-dominates-tdi-learning.md) — related
 - [Dental students show strongly positive attitudes toward TDI management and want more training](positive-attitudes-toward-tdi-management.md) — related
+- [Baseline survey of course completers confirmed deficiencies in undergraduate trauma teaching exposure](satmas-baseline-teaching-deficiency.md) — related

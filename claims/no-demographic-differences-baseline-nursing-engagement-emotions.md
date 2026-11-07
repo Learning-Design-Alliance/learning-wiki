@@ -55,3 +55,4 @@ Baseline demographic comparisons in the 65-student cohort tested five demographi
 - [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
 - [Background variables: gender, school socio-economic status, and prior acquaintance with students showed no significant differences in experiences, while number of children and seniority correlated positively with positive and negatively with negative experiences.](teacher-background-null-and-correlational-predictors-online-experiences.md) — related
 - [Scholarship recipients show higher baseline learning engagement and positive emotions than non-recipients](scholarship-recipients-higher-baseline-engagement-positive-emotions.md) — related
+- [Baseline characteristics did not differ significantly between the TA+CBL and CBL-only groups before the teaching rounds](ta-cbl-baseline-equivalence.md) — related

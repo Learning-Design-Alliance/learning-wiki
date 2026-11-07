@@ -51,3 +51,4 @@ An anonymous questionnaire using a Likert 5-point scale (1–5) was distributed 
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [Both SBS and VBT improve knowledge scores, but the score gain (delta) is significantly larger under SBS](sbs-larger-delta-score-gain-than-vbt.md) — related
+- [Overall training satisfaction is descriptively higher under step-by-step teaching (96.0% vs. 72.0%) but not statistically significant](sbs-overall-satisfaction-not-significant.md) — related

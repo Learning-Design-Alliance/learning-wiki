@@ -60,3 +60,4 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](pars3-gad7-phq9-not-independent-gpa-predictors.md) — related
 - [Depressive symptom severity (PHQ-9) is not statistically significantly associated with GPA category among Saudi physical therapy students](phq9-not-associated-gpa-saudi-pt-students.md) — related
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
+- [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](depression-anxiety-negative-academic-performance-medical-students.md) — related

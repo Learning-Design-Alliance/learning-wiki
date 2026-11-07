@@ -51,3 +51,4 @@ Post-course Likert questionnaire of the 60 experimental-group students only (Cro
 - [Teachers report significantly higher satisfaction with the MOOC-HFS blended model across all questionnaire items](mooc-hfs-higher-teacher-satisfaction.md) — related
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
 - [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related
+- [Experimental-group students were more satisfied with teaching scene, individual participation, and teaching content, but not with course discussion, group cooperation, or teacher style](ai-scenario-simulation-selective-satisfaction-gains.md) — related

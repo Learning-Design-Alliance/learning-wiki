@@ -53,6 +53,7 @@ The article states that "porcine models should represent the final step of a gra
 - [Adapt the progressive laparoscopic program to resource-limited settings by grouping trainees per animal, expanding lower-cost ex vivo practice, and retaining core box trainer and VR modules](resource-adaptive-laparoscopic-training-strategy.md)
 - [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
+- [Pre-processing porcine stomachs to remove grease and gastric acid before simulation use](porcine-stomach-preprocessing-strategy.md)
 
 ## Examples
 -

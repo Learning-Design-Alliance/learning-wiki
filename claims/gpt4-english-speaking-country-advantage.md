@@ -51,3 +51,4 @@ Subgroup 1 meta-analysis with random-effects models due to heterogeneity (GPT-4:
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
 - [The review concludes GPT-4 is not yet suitable for use in medical education despite its potential, due to insufficient accuracy, inconsistent performance, and country-specific policy and knowledge challenges](gpt4-not-yet-suitable-medical-education.md) — a broader claim this one bears on
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related
+- [GPT-4 performs significantly better on English-translated than original Korean anesthesiology questions](gpt4-english-translation-advantage-korean-questions.md) — a narrower finding that bears on this claim

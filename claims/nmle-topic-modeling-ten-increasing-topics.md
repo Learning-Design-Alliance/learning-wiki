@@ -69,3 +69,4 @@ Same BERTopic time-series analysis; the article names the increasing non-organ-s
 - [NMLE items requiring simple recall declined while context-sensitive Type IIIb problem-solving items increased from 2001 to 2024](nmle-taxonomy-shift-toward-type-iiib-problem-solving.md) — related
 - [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
+- [Significant predictors of passing the NMLE exist at all five time points, and their number increases as students advance through school](nmle-significant-predictors-increase-across-time-points.md) — related

@@ -12,7 +12,7 @@ generated:
 # Math Games and Movement Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 9 studies (5 quant-synthesis, 3 causal, 1 theoretical), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 2 claims (2 for) · 10 studies (5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 Short physical math games and movement breaks are inserted into lessons when learners become restless or attention wanes. They serve two functions at once: restoring attention through brief physical activity, and giving learners a second, embodied encounter with the math concept being taught. Games range from teacher-led whole-class activities (stand up/sit down, finger speed-sums, group formation games) to student-pair games, and require no special materials.

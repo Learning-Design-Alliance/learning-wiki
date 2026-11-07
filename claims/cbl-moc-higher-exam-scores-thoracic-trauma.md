@@ -51,3 +51,4 @@ Randomized two-group study of 43 fifth-year medical students; 39 completed the o
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
 - [The CBL+MOC model does not significantly improve medical students' self-confidence compared with traditional CBL](cbl-moc-no-self-confidence-improvement.md) — related
 - [Course satisfaction does not differ significantly between the CBL+MOC and traditional CBL teaching models](cbl-moc-satisfaction-unaffected.md) — related
+- [Medical students taught with combined PBL-CBL scored significantly higher on vascular surgery theoretical tests than students taught with traditional teaching](pbl-cbl-higher-theoretical-test-scores-vascular-surgery.md) — related

@@ -56,3 +56,4 @@ Paired t tests compared first versus last attempt times within groups. "For firs
 - [More senior trainees outperform junior residents on first attempt at simulated durotomy repair, supporting the simulator's validity](senior-surgeons-outperform-juniors-first-attempt-durotomy-simulator.md) — related
 - [Repeated SDL skills training increases the approval rate of care tasks among healthcare professionals.](repeated-sdl-training-increases-approval-rate.md) — related
 - [First-year radiology residents significantly improve in adding missing positive findings, deleting findings, and adding negative findings between first and last terms](resident-report-improvement-c1-c3.md) — related
+- [Repeated attempts within a two-hour basic laparoscopy training significantly decrease novices' completion times on both tasks, and failure rates decrease significantly on task 1 but not task 2](novice-laparoscopy-learning-curve-two-hour-training.md) — related

@@ -60,3 +60,5 @@ Prospective comparative study of 71 novice trainees (19 intervention, 52 control
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related
 - [The GOALS domain depth perception improved significantly more after simulation training, while the other four domains did not differ significantly](depth-perception-domain-significant-gain.md) — related
 - [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related
+- [LSPPDM group scored higher on all five GOALS technical-skill dimensions in live-pig cholecystectomy](lsppdm-higher-goals-technical-scores.md) — related
+- [LSPPDM-based laparoscopic training improved technical and non-technical skills versus traditional training](lsppdm-improves-laparoscopic-training-outcomes.md) — related

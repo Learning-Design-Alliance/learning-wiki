@@ -47,6 +47,7 @@ A scaling recipe the authors propose for delivering simulator-based POCUS traini
 
 - [Implement XR-based ultrasound training as partial replacement of standard training during a dedicated training day](xr-partial-replacement-training-day.md)
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
+- [Use peer tutors and a deliberately planned digital preparation phase when delivering ultrasound training to undergraduates](peer-tutors-digital-preparation-undergraduate-ultrasound.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Null findings from the same multiple linear regression (n = 176). Table 5 prints
 - [Jordanian nurses demonstrate moderate knowledge of warfarin–drug interactions (mean 8.76 of 26), with the lowest awareness in anti-inflammatory and CNS agents](nurses-moderate-warfarin-drug-interaction-knowledge.md) — related
 - [Nurses' knowledge of patient counseling on warfarin management is moderate (mean 8.07 of 15), with gaps in missed-dose and dietary-restriction counseling](warfarin-counseling-knowledge-moderate-gaps.md) — related
 - [Marital status, having no children, hospital grade, empathy and difficulty carrying out NM are primary factors explaining 71.9% of variance in nurses' NM competence](regression-factors-explain-71-9-percent-nm-competence.md) — related
+- [Age, marital status, educational level, and professional title did not significantly affect PCC competence in the multiple regression](demographics-nonsignificant-in-regression.md) — related

@@ -59,3 +59,4 @@ Single-center RCT with 120 interns randomized 1:1 (n = 60 each) at the Affiliate
 - [Medical students taught with PA-PBL added to lectures scored significantly higher than lecture-only controls on the final examination total score and on knowledge-recall MCQs, case-based MCQs, and MEQs](pa-pbl-higher-final-exam-scores-than-lecture.md) — related
 - [Structured PBL is associated with higher overall clinical reasoning scores than conventional lectures in esophageal cancer teaching for medical interns](pbl-higher-clinical-reasoning-esophageal-cancer-interns.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
+- [Medical students taught with combined CBL/FC outperform lecture-based peers on clinical case scenarios in nephrology bedside teaching](cbl-fc-superior-clinical-case-scenario-nephrology.md) — related

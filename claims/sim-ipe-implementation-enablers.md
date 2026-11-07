@@ -64,3 +64,4 @@ Faculty key-informant quote from Theme 3: "Simulation provides a safe platform f
 - [Lack of curriculum integration and unharmonized timetables are key structural barriers to implementing Sim-IPE](sim-ipe-curriculum-scheduling-barriers.md) — related
 - [Barriers arising during interprofessional simulation sessions include unclear team leadership, unequal profession numbers, unfamiliar teammates, perceived hierarchies, and information-sharing gaps](sim-ipe-session-level-barriers.md) — related
 - [Departmental and individual faculty support facilitates Sim-IPE, but the absence of formal administrative policies hinders it](sim-ipe-support-and-policy-gap.md) — a narrower finding that bears on this claim
+- [Institutional interventions to promote psychological safety competencies are rated as barely implemented yet highly significant](institutional-interventions-low-implementation-high-significance.md) — related

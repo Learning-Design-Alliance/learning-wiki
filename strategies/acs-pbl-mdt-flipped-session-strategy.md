@@ -55,6 +55,7 @@ An implementable session recipe drawn from the article's experimental group proc
 - [Structure MDT-CBL as three modules: preparatory self-study, traditional CBL application, and consolidation by a specialist team](three-module-mdt-cbl-structure.md)
 - [Implement a 2-week CDIO-PBL rotation cycle combining PBL case-based theoretical clinics with a conceive-design-implement-operate skills cycle](cdio-pbl-two-week-rotation-cycle-strategy.md)
 - [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
+- [Design virtual case-based learning as a three-phase, three-day flipped sequence combining team case discussion, peer presentation, and expert-supported conclusion](three-day-virtual-cbl-session-structure-strategy.md)
 
 ## Examples
 -

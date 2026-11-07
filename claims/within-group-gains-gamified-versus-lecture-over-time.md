@@ -51,3 +51,4 @@ Paired t-tests compared scores before and four weeks after intervention in each 
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — related
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — related
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related
+- [All four teaching methods were followed by significant pre-to-post gains in learning, satisfaction and self-efficacy](all-methods-pre-post-gains.md) — related

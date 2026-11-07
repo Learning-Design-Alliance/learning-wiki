@@ -59,6 +59,8 @@ The article's implementable session recipe: distribute pre-class materials on cr
 - [Run a simulated clinical practice ability assessment before residents leave the department and evaluate teaching from results plus student feedback](simulated-pre-departure-assessment-feedback-strategy.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 - [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
+- [The Golden Minute Campaign: a multifaceted data-guided QI/simulation intervention combining trained local-champion facilitators, monthly scenario team training, clinical debriefings, and clinical data feedback loops](golden-minute-campaign-qi-simulation-intervention.md)
+- [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 
 ## Examples
 -

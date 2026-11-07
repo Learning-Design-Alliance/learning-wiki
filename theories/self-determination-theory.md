@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 130 claims (96 for, 31 mixed, 3 against) · 89 studies (34 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 19 of 89 report an effect size · 124 claims rest on one study
+> **Evidence** · 131 claims (97 for, 31 mixed, 3 against) · 90 studies (35 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 19 of 90 report an effect size · 125 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -186,6 +186,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Quiz retakes and low-stakes assessments increased students' sense of autonomy over grade outcomes and study decisions](../claims/quiz-retakes-increase-autonomy.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "Self-determination theory as a lens for interpreting grading practices' effects on motivation".
 - [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](../claims/quiz-retakes-increase-relatedness.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "Self-determination theory as a lens for interpreting grading practices' effects on motivation".
 - [Autonomy for exploration sustains teachers' motivation](../claims/autonomy-for-exploration-sustains-teacher-motivation.md) [+W] — attached 2026-11-07 from Bahramnezhad F (2025), which proposed "Establishing pathways to excellence in the teaching profession: a framework of sustainable motivators for medical sciences university teachers".
+- [Students of instructors with interactive-lecture and student-centred teaching profiles reported significantly higher perceived competence than students of didactic instructors, while autonomy support differed less consistently](../claims/active-learning-profiles-higher-competence-autonomy.md) [+W] — attached 2026-11-07 from Stieha Vicki et al. (2024), which proposed "Self-determination theory: competence, autonomy, and relatedness as supports for motivation quality".
 
 ## The evidence by question
 

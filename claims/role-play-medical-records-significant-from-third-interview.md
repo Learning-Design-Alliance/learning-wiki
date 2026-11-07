@@ -48,3 +48,4 @@ Controlled comparison of 52 students randomized into an observation group (n=25)
 - [Students trained with role-play activity score higher than control students on a practical history-taking test with a teacher standardized patient](role-play-higher-sp-history-taking-test-score.md) — related
 - [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related
 - [Role-play training shows no significant difference between groups in theoretical examination scores](role-play-no-significant-theory-exam-difference.md) — related
+- [Within the role-playing group, triage record accuracy improves over repeated role-play sessions](role-playing-improves-triage-record-over-time.md) — related

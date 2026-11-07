@@ -68,3 +68,4 @@ Questionnaire and Spearman correlation analysis of teacher attitudes; the articl
 - [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
 - [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
+- [The lowest-rated aspects of the flipped classroom concerned time: students most wanted more time per topic and noted long preparation and conduction time](flipped-classroom-time-related-lowest-ratings.md) — related

@@ -50,3 +50,4 @@ Quasi-experimental non-equivalent control group pretest-posttest study of 67 nur
 - [VR-based disaster simulation education increases learning immersion more than written case simulation](vr-simulation-learning-immersion-gain.md) — related
 - [VR-based disaster simulation education increases cognitive flexibility while it decreases in the written-case group](vr-simulation-cognitive-flexibility-gain.md) — related
 - [Both VR and written case simulation reduce disaster triage time, with no significant between-group difference](vr-disaster-triage-time-null-difference.md) — related
+- [KTAS education using role-playing improves nursing students' triage performance ability more than lecture-based education](role-playing-improves-triage-performance-ability.md) — related

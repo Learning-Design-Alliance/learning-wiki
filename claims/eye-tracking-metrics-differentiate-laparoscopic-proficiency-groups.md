@@ -72,3 +72,4 @@ One-way Welch ANOVA across the three novice clusters and the expert group in the
 - [Random Forest most accurately predicts novices' visual behavior levels from CV-DL-extracted metrics, with fixation rates on objects and tool speed as key predictors](random-forest-predicts-visual-behavior-levels.md) — related
 - [Novices show longer fixation durations on the adult box trainer than on the pediatric box trainer during peg transfer training](longer-fixation-durations-adult-than-pediatric-trainer.md) — related
 - [Mixed-reality feedback condition did not significantly affect novices' visual attention or mental workload during laparoscopic training](mr-feedback-no-significant-effect-attention-workload.md) — related
+- [A sensor-based objective metric framework differentiates novice from intermediate microsurgeons in line with ALI-based subjective assessment](sensor-metrics-differentiate-microsurgery-proficiency.md) — related

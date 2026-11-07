@@ -59,3 +59,4 @@ Scatterplot displays (Figures 1 and 2) of mean IRAT and mean TRAT scores versus 
 - [TRAT scores correlate only very low-to-low with lecture assessment scores, with significance limited to a few topics](trat-weak-correlation-lecture-assessments.md) — related
 - [Neither IRAT nor TRAT distinguishes itself in correlation with module high scores, with isolated significant correlations on difficult topics](rat-module-high-scores-no-distinction.md) — related
 - [iRAT scores vary significantly between curriculum themes, indicating that readiness data can function as a real-time curriculum signal for content difficulty and alignment.](tbl-irat-theme-variation-curriculum-signal.md) — related
+- [Preclass preparation, measured as average iRAT performance, was the only significant predictor of exam performance in each course unit.](irat-preparation-predicts-exam-performance.md) — related

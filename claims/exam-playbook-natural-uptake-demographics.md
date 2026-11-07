@@ -85,3 +85,4 @@ In the same logistic regression, "First-generation status did not predict Exam P
 ## Related Claims
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [Within QR placement categories, White and Asian students earned significantly more first-year units than Black/African American and Hispanic/Latino students, with gaps most pronounced in Category IV](eo1110-units-earned-racial-gaps-within-placement.md) — related
+- [In an upper-division TBL biochemistry course, student gender, historically marginalized status, and generational status did not statistically explain differences in exam performance.](tbl-demographics-not-explain-exam-performance.md) — related

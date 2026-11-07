@@ -45,7 +45,8 @@ The authors recommend extending evaluation of the internship model beyond their 
 - [Participants experienced the anesthesiology internship model as improving student interaction with staff and patients, reducing anxiety, and enhancing self-confidence, independence, and responsibility](../claims/anesthesia-internship-strengths-interaction-confidence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Tailor postgraduate educational programs to performance-trajectory subtypes and average internship scores across a year of monthly evaluations](tailored-programs-and-yearlong-internship-score-averaging.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Subgroup analysis of OSCE stations in the retrospective cohort: the test group s
 - [No significant difference between WBLP and control students in CPR performance at the OSCE](wblp-no-cpr-performance-difference.md) — related
 - [Fourth-year medical students in a workplace-based learning program with mini-CEX and DOPS achieve higher MCQ knowledge scores than standard-clerkship peers](wblp-mini-cex-dops-higher-mcq-scores.md) — related
 - [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related
+- [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related

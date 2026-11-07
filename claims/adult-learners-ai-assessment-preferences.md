@@ -88,3 +88,4 @@ Findings section on assessment; in AI-powered curricula CBA can be enhanced with
 - [In-game behaviors collected unobtrusively in serious games show promising relationships with candidate ability level in the target professional competency](in-game-behavior-indicates-ability.md) — related
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — a narrower finding that bears on this claim
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related
+- [A mobile application combining educational content with scenario-based games was designed and used as the gamified flipped learning environment](health-assessment-gamified-mobile-app.md) — a narrower finding that bears on this claim

@@ -56,3 +56,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related
 - [Peer and teacher ratings of PtBL video presentations correlate substantially (r = 0.73), supporting criterion-related validity](peer-teacher-rating-correlation-ptbl.md) — related
 - [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — related
+- [Blinded GOALS rating of the bleeding-exercise videos showed moderate-to-good inter-rater reliability (ICC = 0.72)](goals-bleeding-exercise-icc-moderate-good.md) — related

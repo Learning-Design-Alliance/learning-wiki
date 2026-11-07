@@ -52,3 +52,4 @@ Prospective single-center crossover study of 16 medical students and 16 resident
 - [Participants rated the 3D heads-up system superior for control, instrument handling, movement precision, comfort and instructor interaction](subjective-ratings-favour-3d-system.md) — related
 - [Novice surgeons achieve significantly higher phacoemulsification competency scores when operating on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-higher-novice-surgical-competency-scores.md) — related
 - [Novice surgeons complete phacoemulsification surgeries significantly faster on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-shorter-novice-surgical-duration.md) — related
+- [After crossover to the non-familiar viewing mode, 3D-trained and 2D-4 K-trained novices do not differ significantly in time or success rate on a precision transfer task](crossover-nonfamiliar-system-no-performance-difference.md) — related

@@ -73,3 +73,4 @@ Review of behavior-genetic findings: "the heritability of cognitive skills rises
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Twin-specific shared environments account for a substantial portion of CTD shared-environment estimates for educational attainment and cannot be interpreted as between-family environmental differences](twin-specific-environments-not-between-family.md) — related
 - [A Classical Twin Design model of educational attainment in the TwinLife sample estimates shared environmental influence at 43% and additive genetic influence at 34%](ctd-ea-ace-twinlife-43-c.md) — related
+- [Latent non-cognitive skill factors show high heritability (70–93%), varying by rater and developmental stage](latent-ncs-heritability-70-93-percent.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Thematic analysis of free-text survey responses; students felt the volume of EPA
 - [Over 90% of students report barriers to obtaining EPA observations](barriers-obtaining-epa-observations-majority.md) — related
 - [Students hold mixed perceptions of whether EPA observations support clinical development](mixed-student-perceptions-epa-clinical-development.md) — related
 - [Students propose global evaluations, shifting completion onus to preceptors, and clearer form wording](student-proposed-epa-reforms-beyond-reduction.md) — related
+- [Trainees perceived entrustment statements as mandatory and bureaucratic despite EPAs being designed as elective learning tasks, suggesting an alignment gap](entrustment-perceived-mandatory-alignment-gap.md) — related

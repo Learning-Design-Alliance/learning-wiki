@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (117 show a difference, 40 mixed, 27 no difference) · 134 studies (63 causal, 21 associational, 16 review, 11 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 134 report an effect size · 183 claims rest on one study
+> **Evidence** · 189 claims (121 show a difference, 40 mixed, 28 no difference) · 135 studies (63 causal, 22 associational, 16 review, 11 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 31 of 135 report an effect size · 188 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -226,6 +226,11 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Embedded reflective writing in e-learning fostered metacognitive engagement and transformative learning beyond formal objectives](../claims/reflective-writing-elearning-metacognitive-transformative.md) [+M] — measured as an outcome of the instruction studied
 - [Eye-tracking augmented debriefing produced no statistically significant difference in resident metacognitive awareness change compared with traditional PEARLS debriefing](../claims/etad-no-significant-mai-change.md) [-M] — measured as an outcome of the instruction studied
 - [Students report structured self-assessment stimulates self-judgement, learning monitoring, motivation, tutorial performance, and awareness of external feedback in PBL](../claims/self-assessment-qualitative-five-themes-pbl.md) [+M] — measured as an outcome of the instruction studied
+- [About a quarter of junior physicians report learning needs at the end of basic training, with no meaningful differences between the three clinics](../claims/quarter-report-learning-needs-end-of-basic-training.md) [-W] — measured as an outcome of the instruction studied
+- [Junior physicians downgrade their global self-judgement of training goal completion after changing department during basic training](../claims/jp-downgrade-self-judgement-after-department-change.md) [+W] — measured as an outcome of the instruction studied
+- [Self-judged level of training goal completion increases over the nine months of basic training, though weakly](../claims/self-judged-goal-completion-increases-over-training.md) [+M] — measured as an outcome of the instruction studied
+- [Self-judged mastery of learning objectives increases across all three competence levels (K, E, P) during basic training](../claims/perceived-mastery-increases-all-competence-groups.md) [+M] — measured as an outcome of the instruction studied
+- [Supervisor judgement of training goal completion increases over training, runs parallel to self-judgement, and shows less variance](../claims/supervisor-judgement-parallel-self-judgement-less-variance.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

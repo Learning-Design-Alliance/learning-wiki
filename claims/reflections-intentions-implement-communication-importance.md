@@ -50,3 +50,4 @@ Qualitative analysis of Theme 5 reflections: students expressed intentions such 
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — related
 - [Medical students’ reflections in the e-learning course addressed all key communication topics conveyed in the course](reflections-recalled-course-content-communication.md) — related
+- [Students report learning outcomes across patient-related, behavioural, emotional, and error-handling dimensions of communication competence](simulation-learning-outcomes-themes.md) — related

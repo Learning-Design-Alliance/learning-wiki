@@ -52,3 +52,4 @@ Subgroup analysis by question language (English n=21, Spanish n=11, Japanese n=1
 - [Translating non-English examination questions into English improved GPT-3.5's performance but had limited effect on GPT-4](english-translation-improves-gpt35-not-gpt4.md) — related
 - [ChatGPT's accuracy on image-based MCQs ranged from 13.1% to 100% across studies, and it performed significantly worse on open-ended questions than on MCQs](image-mcq-and-open-ended-question-performance.md) — related
 - [LLM performance does not differ significantly between 2019 and 2025 exam questions despite training-cutoff differences](no-performance-difference-exam-year.md) — related
+- [Language input affects accuracy: English input yields higher NCLEX-RN accuracy, while NNLE results show no significant language difference for ChatGPT 4.0](language-input-effect-llm-nursing-mcq-accuracy.md) — related

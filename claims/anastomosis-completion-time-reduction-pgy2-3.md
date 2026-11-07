@@ -51,3 +51,6 @@ In the same pre–post study of 39 residents, procedural time was recorded from 
 - [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](leakage-grade3-reduction-vascular-anastomosis-simulation.md) — related
 - [FPS rate gains by training year: third-year STRs improved significantly (50.0% to 85.2%), second-year gains not significant (62.5% to 88.2%)](pdca-fps-gains-by-training-year.md) — related
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
+- [Anastomosis time decreased by at least 10 minutes from first to second period for both junior and senior residents in all three anastomosis types](anastomosis-time-decrease-at-least-10-minutes.md) — related
+- [Median procedure time fell from before to after instructor feedback in one uncontrolled pre-post study; senior residents' time fell by nearly 40%, while junior residents' time was similar before and after](procedure-time-drops-after-feedback-seniors.md) — related
+- [Across three training sessions, all participants significantly reduced the time needed per robotic-assisted microsurgical anastomosis](robotic-microsurgery-time-decreases-across-sessions.md) — related

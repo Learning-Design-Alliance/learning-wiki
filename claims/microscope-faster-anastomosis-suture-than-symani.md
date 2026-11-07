@@ -49,3 +49,4 @@ Third exercise in the 40-student comparison: piercing two rubber-like vessels of
 - [Threading a 9.0 needle takes novices equally long with microscope and Symani robot](no-time-difference-needle-threading-microscope-symani.md) — related
 - [Most novice students perceive the Symani robot as more precise and more relaxing and prefer it for clinical use despite longer times](students-prefer-symani-precision-ergonomics.md) — related
 - [Inexperienced students can adequately perform simulated microsurgical steps with both microscope and robot without prior training](novices-complete-microsurgery-simulation-both-systems.md) — related
+- [Across three training sessions, all participants significantly reduced the time needed per robotic-assisted microsurgical anastomosis](robotic-microsurgery-time-decreases-across-sessions.md) — related

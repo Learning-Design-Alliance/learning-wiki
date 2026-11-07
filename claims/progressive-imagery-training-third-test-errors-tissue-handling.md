@@ -49,3 +49,4 @@ Mann-Whitney U comparison after 300 min of training in the same RCT. Table 4 pri
 - [At the mid-training (second) test, residents trained with combined progressive and imagery training had significantly lower (better) LS-CAT scores and fewer operation errors than residents trained with traditional whole-action practice](progressive-imagery-training-better-lscat-second-test.md) — related
 - [Both groups improved significantly in LS-CAT scores and operation error counts across the three tests over the training period](both-groups-improve-lscat-across-tests.md) — a broader claim this one bears on
 - [Error frequency differs significantly across suturing gestures and error types, with pulling the needle out of tissue and poor instrument control most frequent](error-distribution-gesture-type-rarp.md) — related
+- [Tissue handling and decision making were common areas for improvement for both training groups](tissue-handling-decision-making-common-weak-areas.md) — related

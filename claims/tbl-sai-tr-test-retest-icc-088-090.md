@@ -56,3 +56,4 @@ Test–retest reliability analysis with the scale readministered to 165 students
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
 - [The 43-item Korean HLCs shows strong internal consistency and test-retest reliability](korean-hlc-reliability-strong.md) — related
 - [TBL-SAI-TR scores correlate strongly with self-directed learning scores, supporting criterion validity](tbl-sai-tr-criterion-validity-self-directed-learning.md) — related
+- [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related

@@ -48,3 +48,4 @@ Retrospective cohort analysis across six cohorts (2013–2019) with calibrated r
 - [Endodontic simulation marks differed significantly by tooth type (extracted vs plastic), with extracted teeth showing a non‐significant positive correlation with clinical marks](endo-simulation-tooth-type-extracted-versus-plastic.md) — related
 - [No significant correlation between pre‐clinical simulation marks and clinical performance in Periodontics or Endodontics](no-simulation-clinic-correlation-perio-endo.md) — related
 - [Students achieved higher marks in pre‐clinical assessments (theory and simulation) than in patient clinics across all six cohorts](preclinical-marks-higher-than-clinic-marks.md) — related
+- [Peer-relatedness scores did not differ significantly among instructors across teaching profiles](peer-relatedness-no-instructor-differences.md) — related

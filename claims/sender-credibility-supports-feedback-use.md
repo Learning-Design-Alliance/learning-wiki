@@ -55,3 +55,4 @@ The review reports, citing Eva et al. (2012), a focus group study in which stude
 - [Teachers perceived research evidence as most effectively communicated when interactive, accessible, relevant, balanced, credible and practice-focused](teachers-views-effective-research-communication.md) — related
 - [Model note feedback was perceived as trustworthy but harder for comparison than automated feedback](model-note-feedback-trustworthy-harder-comparison.md) — related
 - [Students' perspectives on clinical reasoning were greatly impacted by their clinical experience, including lack thereof](clinical-experience-shapes-student-reasoning-perspectives.md) — related
+- [Higher-performing students took peer assessment seriously while lower-performing students questioned its credibility due to friendship bias and perceived lack of peer expertise](peer-feedback-credibility-distrust-lower-performers.md) — a narrower finding that bears on this claim

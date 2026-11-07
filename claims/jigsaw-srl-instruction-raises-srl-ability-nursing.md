@@ -49,3 +49,4 @@ Quasi-experiment with two intact classes (intervention n=40, control n=44) in a 
 - [Jigsaw-plus-SRL instruction raises nursing students' learning cooperation and information literacy relative to lecture teaching](jigsaw-srl-raises-cooperation-information-literacy.md) — related
 - [Jigsaw-plus-SRL instruction improves nursing students' learning engagement, especially vitality and dedication, but not concentration](jigsaw-srl-raises-learning-engagement.md) — related
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related
+- [The 7E instructional model raised self-regulated learning ability in nursing probation students, with gains in motivation, cooperation and information literacy but no significant difference in independent learning ability](7e-model-self-regulated-learning-nursing.md) — related

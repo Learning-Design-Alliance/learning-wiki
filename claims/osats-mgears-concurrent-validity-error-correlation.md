@@ -68,3 +68,4 @@ Correlational analysis linking skill scores to OCHRA error counts in the RARP da
 - [Skill and error scores did not differ across surgeon seniority groups, so construct validity was not established for the simpler suturing task](no-construct-validity-seniority-dvc-suturing.md) — related
 - [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — related
 - [TSM and OSATS scores strongly positively correlated (Spearman's ρ = 0.88)](tsm-osats-strong-correlation.md) — related
+- [Subjective gentleness ratings correlate negatively with objectively measured force on tissue during robotic suturing](gentleness-negatively-correlated-with-force.md) — related

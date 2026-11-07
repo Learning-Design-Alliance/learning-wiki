@@ -68,3 +68,4 @@ In the same GCRS analysis of the trial's second assessment, Table 1 shows buildi
 - [No significant difference between CST and control groups at baseline on either consent-scoring rubric, supporting attribution of post-test differences to the training](cst-trial-baseline-equivalence.md) — related
 - [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
+- [Workshop students scored significantly higher on listening and on providing the patient with information during the OSCE](listening-and-information-skills-higher-after-workshop.md) — related

@@ -51,6 +51,7 @@ To address barriers including limited training resources, time constraints, and 
 - [Implement targeted structural reforms for tourniquet safety training: standardized national training modules, mandatory simulation-based certification, competency reassessment, institutional protocols, and interdisciplinary safety checklists](tourniquet-safety-training-reform-strategy.md)
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 - [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
+- [Include a directly-observed clinic-based assessment of the bHIT as a specific component of EPAs for evaluating dizzy patients](direct-bhit-assessment-in-epas-strategy.md)
 
 ## Examples
 -

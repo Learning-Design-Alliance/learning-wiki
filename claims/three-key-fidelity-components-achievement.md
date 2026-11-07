@@ -50,3 +50,4 @@ Comparison of implementation rates for individual fidelity elements between clas
 - [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](implementation-fidelity-grade-residuals.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Care bundles implemented as a cohesive set yield better outcomes than their components applied individually, per evidence the review cites](care-bundles-cohesive-set-better-outcomes.md) — related
+- [The same instructional practice can produce different student motivation outcomes depending on the instructor, underscoring fidelity to evidence-based methods](practice-fidelity-varies-motivation-outcomes.md) — related

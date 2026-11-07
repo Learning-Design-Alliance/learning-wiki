@@ -48,3 +48,4 @@ Correlational analysis using Kendall's tau with FDR correction for multiple test
 - [Blindfolded sighted participants learned an apartment layout from digital haptics alone and reconstructed it with high similarity to an ideal reconstruction](digital-haptics-layout-reconstruction-blindfolded.md) — related
 - [Inverse Efficiency scores showed a Training × Group interaction, significant for Group 1 (higher IE on trained trajectories) but not Group 2](digital-haptics-inverse-efficiency-interaction.md) — related
 - [Navigation accuracy on trained versus untrained trajectories depended on training group, with Group 2 (trained on the easier trajectory) more accurate on trained than untrained trajectories](digital-haptics-accuracy-training-interaction.md) — related
+- [Valuing self-found online resources correlates negatively with MED4 exam score](self-found-online-resources-negative-correlation.md) — related

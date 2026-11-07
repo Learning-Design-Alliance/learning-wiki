@@ -13,7 +13,7 @@ generated:
 # Expert Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Expert modeling is the element in which a skilled performer demonstrates not only what to do, but how an expert notices cues, makes decisions, and checks quality during performance. It is useful when learners need access to expert judgment that would otherwise remain tacit.
@@ -36,7 +36,7 @@ Expert modeling is the element in which a skilled performer demonstrates not onl
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The 9-minute EYE-ECG eye-tracking video with CRR commentary produced a small, statistically non-significant additional skill gain compared to training as usual](../claims/eye-ecg-video-small-nonsignificant-advantage.md) [~W] — attached 2026-11-07 from Scherff Aline D. et al. (2024), which proposed "EYE-ECG video: expert eye-tracking gaze video with cued retrospective reporting audio commentary"; tests this page's relationship.
 
 ## Related Elements
 - [Modeling](modeling.md)

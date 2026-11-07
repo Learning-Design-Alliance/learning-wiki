@@ -64,3 +64,4 @@ Quasi-experimental study with 25 students per group, groups formed by prior achi
 - [Peer instruction produced significantly higher post-test conceptual comprehension scores than traditional lecture in a pre-service teacher methodology course](peer-instruction-higher-posttest-conceptual-comprehension.md) — related
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
 - [The EmMa continuous professional development course significantly improved early childhood teachers' mathematical pedagogical content knowledge](emma-improves-mpck-early-childhood-teachers.md) — related
+- [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — related

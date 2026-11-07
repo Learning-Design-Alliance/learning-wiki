@@ -57,3 +57,4 @@ Within the review's training-duration synthesis, Vincent et al.'s restorative de
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — related
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
 - [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related
+- [Learning curve-based training required shorter training duration and significantly fewer simulator procedures than fixed 1-hour training](individualized-training-shorter-duration-fewer-procedures.md) — related

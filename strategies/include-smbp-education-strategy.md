@@ -48,6 +48,7 @@ The article argues BPM education should cover self-measured blood pressure and h
 ## Related Strategies
 
 - [Supplement e-learning modules with in-person practice and formative OSCEs with feedback](elearning-plus-hands-on-bpm-strategy.md)
+- [Combine technique education with ongoing monitoring, reinforcement, and quality assurance to sustain blood pressure measurement proficiency](ongoing-reinforcement-bp-measurement-training.md)
 
 ## Examples
 -

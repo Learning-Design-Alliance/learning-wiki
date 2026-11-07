@@ -12,7 +12,7 @@ generated:
 # Facilitating Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 16 studies (5 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 17 studies (5 causal, 5 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size
 
 ## Description
 Facilitating learning repositions the teacher from primary source of content to designer and guide of student activity. The facilitator structures tasks, poses questions, mediates [Class Discussion](../elements/class-discussion.md) and [Coaching](../elements/coaching.md), and distributes authority over topics, materials, and pace to students. In culturally diverse classrooms, this shift also functions as an equity move: students gain power over what and how they learn, which raises intrinsic motivation and connectedness to the material [Autonomy support improves intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].

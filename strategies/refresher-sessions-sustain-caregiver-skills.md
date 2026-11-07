@@ -63,6 +63,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 - [Schedule top-up or refresher sessions after short SBE workshops to maintain knowledge gains](top-up-sessions-maintain-sbe-gains.md)
 - [Continue offering monthly optional anatomy workshops and add a formative anatomy readiness exam before Step 1](monthly-anatomy-workshops-readiness-exam-strategy.md)
+- [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 
 ## Examples
 -

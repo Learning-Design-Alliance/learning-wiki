@@ -48,3 +48,4 @@ Hierarchical multiple regression (N = 81) predicting misconception accuracy; mod
 - [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](response-inhibition-predicts-longer-misconception-rt.md) — related
 - [In discipline-specific exploratory regressions, neither Stroop RT cost nor complex No-Go accuracy significantly predicted science or maths misconception measures separately](discipline-specific-inhibition-predictions-nonsignificant.md) — a narrower finding that bears on this claim
 - [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
+- [Grade averages show no statistically significant relationship with Stroop reaction times or time-limit exceedances](grade-average-stroop-reaction-time-null.md) — related

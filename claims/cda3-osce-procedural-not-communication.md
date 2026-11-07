@@ -49,3 +49,4 @@ Pearson correlation analysis of CDA3 scores against OSCE station subcategories i
 - [Clinical Diagnosis Assessment scores correlate significantly with end-of-trimester written examination scores across trimesters](cda-significant-correlation-exam-scores.md) — related
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
 - [EBM Confidence Scale scores correlated moderately positively with OSCE Physical Interview performance in the EBM-BOPPPS group](ebm-confidence-osce-physical-interview-correlation.md) — related
+- [Performance in communicative OSCE skills is associated with general willingness to engage with instructional contents, not with targeted practice of specific skills](communication-engagement-not-targeted-practice.md) — related

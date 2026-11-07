@@ -48,7 +48,8 @@ The article recommends that surgical training programs adopt formal, structured 
 - [Inter-rater reliability of overall video quality ratings increases with rater seniority, reaching perfect agreement among senior surgeons](../claims/video-quality-rater-reliability-seniority.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate structured video-assisted coaching and complication-management exercises into surgical training curricula](video-assisted-coaching-complication-curricula-strategy.md)
 
 ## Examples
 -

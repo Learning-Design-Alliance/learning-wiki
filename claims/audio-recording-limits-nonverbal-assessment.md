@@ -50,3 +50,4 @@ Authors' stated limitation in the Limitations of the study section, an interpret
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [Cited pilot trial and transcript-grading work show scenario-dependent strengths and reliability limits of AI in OSCE-adjacent tasks](ai-osce-evidence-mixed-strengths-limits.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Workshop students scored significantly higher on listening and on providing the patient with information during the OSCE](listening-and-information-skills-higher-after-workshop.md) — related

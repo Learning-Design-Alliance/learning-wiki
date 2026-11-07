@@ -117,3 +117,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Mental practice for strategy rehearsal or task execution was reported to increase self-confidence and reduce anxiety](mental-practice-confidence-anxiety.md) — related
 - [The REPs-VS group reported significantly higher self-directed learning skill, confidence in future patient encounters, and reduced performance stress than the traditional group](reps-vs-confidence-and-stress-attitudes.md) — related
 - [Students saw virtual patients as a safe, standardised complement to clinical rotations that guarantees exposure to representative diagnoses](vp-potential-safe-standardised-rotation-complement.md) — related
+- [Students attribute increased confidence to making mistakes and receiving immediate feedback in the simulation lab](mistakes-feedback-build-confidence-sle.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Content validity assessment by a 6-member expert panel using the Polit and Beck 
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
+- [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related

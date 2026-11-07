@@ -58,6 +58,7 @@ The review's synthesized design strategies position AI simulations as complement
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use AI-simulated audiences to give students safe, repeated low-stakes communication practice](ai-simulated-audiences-low-stakes-communication-practice.md)
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
+- [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 
 ## Examples
 -

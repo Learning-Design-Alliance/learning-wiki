@@ -53,3 +53,4 @@ Chi-squared test on the frequency distribution of recommendations (against/neutr
 - [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](llm-search-lower-intrinsic-cognitive-load.md) — related
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](germane-load-mediates-tool-effect-on-justification-quality.md) — related
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — related
+- [Error-type distribution (logical, informational, explicit fallacy) does not differ significantly between ChatGPT-4 versions (chi-square P=.32)](chatgpt4-error-type-distribution-similar-across-versions.md) — related

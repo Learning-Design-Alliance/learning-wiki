@@ -54,3 +54,4 @@ Prospective pre/post-test interventional study reported in the review's trained 
 - [In situ mirror simulation significantly increases confidence in the non-technical skill of performing a debrief, but not in fixed skills such as ACLS protocol knowledge or team-leader role assignment](mirror-sim-debrief-gain-fixed-skills-null.md) — related
 - [Emergency department length of stay increased after a four-year trauma team training program](ttt-increases-ed-length-of-stay.md) — related
 - [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
+- [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](total-teamwork-events-nonsignificant-increase.md) — related

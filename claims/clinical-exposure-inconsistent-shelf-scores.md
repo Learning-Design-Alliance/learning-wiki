@@ -50,3 +50,4 @@ Narrative review reports, citing Rosenthal et al. (n=118), no difference in shel
 - [Clerkship timing within the academic year influences shelf exam performance](clerkship-timing-influences-shelf-scores.md) — related
 - [Number of prior shelf exams completed is positively associated with higher scores](prior-clerkships-higher-shelf-scores.md) — related
 - [Shortened pre-clinical curriculum is associated with lower shelf exam scores](shortened-preclinical-curriculum-lower-shelf-scores.md) — related
+- [Delayed clinical training after the virtual rotation did not improve shelf exam scores — the EADC cohort scored numerically lower than the EBC cohort](delayed-clinical-training-did-not-raise-shelf-scores.md) — related

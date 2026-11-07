@@ -63,3 +63,4 @@ Table 1 of the cluster-randomized trial reports baseline prerequisite (Human Ana
 - [Baseline clinical skill performance did not differ between the randomized groups, while baseline knowledge did and was controlled in the analysis](baseline-differences-knowledge-controlled-skill-equivalent.md) — related
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — related
 - [Students in the PBL-online group had significantly higher grade point averages in their internship semester than the traditional group, but the two groups were not equivalent at baseline](pbl-online-group-gpa-difference.md) — related
+- [Test-enhanced learning produced no significant difference on the end-of-year neuroanesthesia exam of first-year residents](tel-no-effect-end-of-year-neuroanesthesia-exam.md) — related

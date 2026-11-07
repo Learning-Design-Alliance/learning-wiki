@@ -52,3 +52,4 @@ A systematic review of eight retrospective studies using the CUSUM method found 
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [Robotic simulation training improves surgical skill acquisition, with progressive competency-based training raising competence rates in junior residents](robotic-simulation-competency-training.md) — related
 - [Lymph node dissection quality improved across learning-curve stages, with total, mediastinal, and RLN lymph node counts and RLN harvest rate rising by the proficient stage](laspme-lymph-node-harvest-improves-across-stages.md) — related
+- [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related

@@ -45,7 +45,9 @@ A concrete activity recipe: place interprofessional teams in a realistic virtual
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](../claims/vr-communication-training-challenges-realism-urgency-language.md) [~W]
 
 ## Related Strategies
+
 - Virtual Roe Design Pattern
+- [Gamified case-based discussion with peer-to-peer competition and teamwork as an active-methodology comparator](gamified-cbd-competition-teamwork-strategy.md)
 
 ## Examples
 -

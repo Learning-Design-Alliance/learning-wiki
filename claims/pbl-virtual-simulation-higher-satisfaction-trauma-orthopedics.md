@@ -83,3 +83,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Both groups evaluate the FOCUS e-learning positively, with physicians rating it significantly higher overall](elearning-positively-evaluated-both-groups.md) — related
 - [Residents in the scaffolded case-based learning group report maximal teaching satisfaction compared with the lecture-based group](scaffolded-cbd-teaching-satisfaction.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
+- [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related

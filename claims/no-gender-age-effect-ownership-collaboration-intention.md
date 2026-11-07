@@ -49,3 +49,4 @@ As a secondary analysis, the authors constructed a generalized linear model (Ann
 - [Previous online knowledge-sharing experience positively predicts intention to engage in open educational collaboration](prior-experience-predicts-open-collaboration-intention.md) — related
 - [Outcome expectations of reputation and network status do not increase intention to engage in collaborative OER development](reputation-expectations-no-effect-collaboration-intention.md) — related
 - [Age and gender did not significantly predict marshmallow-task wait-times in this sample when controlling for condition](age-gender-not-significant-wait-time-predictors.md) — related
+- [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related

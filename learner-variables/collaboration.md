@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (131 show a difference, 23 mixed, 10 no difference) · 141 studies (52 causal, 29 review, 23 qualitative, 11 quant-synthesis, 10 associational, 10 design, 6 theoretical), `q1`–`q3` · 11 of 141 report an effect size · 164 claims rest on one study
+> **Evidence** · 169 claims (133 show a difference, 25 mixed, 11 no difference) · 144 studies (55 causal, 29 review, 23 qualitative, 11 quant-synthesis, 10 associational, 10 design, 6 theoretical), `q1`–`q3` · 11 of 144 report an effect size · 169 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -206,6 +206,11 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Teamwork ability and clinical thinking ability scores rose from pretraining to day 1 after simulation and day 30 of clinical practice in one single-group pre-post study (Kirkpatrick learning level)](../claims/cpr-training-improves-teamwork-clinical-thinking.md) [+M] — measured as an outcome of the instruction studied
 - [Mayo High Performance Teamwork Scale responses shifted from a 71% presurvey average to a 95% postsurvey average of consistent teamwork behavior](../claims/mayo-teamwork-scale-71-to-95-shift.md) [+M] — measured as an outcome of the instruction studied
 - [Dietetic students in PBL perceived stronger thinking, problem-solving, communication and collaborative-learning skills than didactically taught students](../claims/pbl-dietetic-students-perceived-skill-gains.md) [+M] — measured as an outcome of the instruction studied
+- [After in situ simulation training, the frequency of the teamwork event evaluation of plans increased significantly during real postnatal stabilization and resuscitation](../claims/evaluation-of-plans-teamwork-event-increased.md) [+M] — measured as an outcome of the instruction studied
+- [Self-rated perceived benefits of TBL rose significantly from pre-test to post-test on all items except two teamwork-value items that were highly rated at both time points, in one group with no comparison group](../claims/tbl-benefits-improved-except-teamwork-value-items.md) [~M] — measured as an outcome of the instruction studied
+- [Teamwork perceptions were already high before the intervention and rose significantly after it, though perceived attentiveness of teammates remained below the agree threshold](../claims/teamwork-perceptions-high-and-improved.md) [~M] — measured as an outcome of the instruction studied
+- [The 7E instructional model raised self-regulated learning ability in nursing probation students, with gains in motivation, cooperation and information literacy but no significant difference in independent learning ability](../claims/7e-model-self-regulated-learning-nursing.md) [+M] — measured as an outcome of the instruction studied
+- [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](../claims/total-teamwork-events-nonsignificant-increase.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

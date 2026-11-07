@@ -73,3 +73,7 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [Scaffolded case-based learning yields higher clinical reasoning proficiency than lecture-based teaching with the same case at Week 4 in anesthesiology residents](scaffolded-cbd-clinical-reasoning-week4.md) — related
 - [The REPs-VS group scored significantly higher on the operational examination total and on operational steps, but not on apparatus selection or doctor-patient communication](reps-vs-higher-operation-exam-scores.md) — related
 - [Blinded raters scored higher in Communication and Examination skills at post-test than pre-test in standardized patient encounters, in one uncontrolled pre-post study](sp-encounter-skills-significant-improvement.md) — related
+- [CBL/FC students report more positive perceptions of clinical skill gains than LBT students in both grades](cbl-fc-positive-skill-perceptions.md) — related
+- [Free practice of physical examinations raises OSCE physical examination scores by about five percentage points, enough for a grade jump](physical-exam-free-practice-grade-jump.md) — related
+- [Workshop students more often recommended specialist cancer management and suggested another appointment in the OSCE](specialist-referral-and-follow-up-appointment-items.md) — related
+- [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related

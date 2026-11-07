@@ -51,3 +51,4 @@ Pre-post paired comparison of 36 nurses using the Wilcoxon signed-rank test for 
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
 - [CNTPs improve nurses' traits including psychological empowerment, job productivity, professional development and the affective dimension, though some effects fade at follow‐up](cntps-improve-nurse-traits-narrative.md) — related
 - [By September 2025, 88.89% of participants had progressed to the level of clinical experts, a substantial increase compared with the baseline rate of 2.78% before retraining.](retraining-increases-advancement-to-clinical-nurse-specialist.md) — related
+- [Students under the flexible compulsory course participated in more research projects and received more research awards than elective-course students](cdbrc-more-research-achievements.md) — related

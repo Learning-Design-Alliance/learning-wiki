@@ -88,3 +88,4 @@ Timing analysis of the 53 TT cases versus non-TT cases in the audit. TT cases ov
 - [Residents experience workplace entrustment as both a covert default process and explicit ad hoc delegation during ward rounds](default-and-ad-hoc-entrustment-perceptions.md) — related
 - [Perceived trustworthiness of a simulated trustee is positively correlated with ad hoc entrustment decisions in medical scenarios](trustworthiness-positively-correlated-ad-hoc-entrustment.md) — related
 - [Trainee-as-trainer cases accounted for 20.7% of paediatric laparoscopic appendicectomies at a UK tertiary centre, most often a Junior Registrar teaching a Core Trainee](tt-cases-20-7-percent-paediatric-appendicectomy.md) — related
+- [Perforated appendicitis is strongly associated with procedures rated difficult by the trainer](perforation-associated-with-difficult-procedure.md) — related

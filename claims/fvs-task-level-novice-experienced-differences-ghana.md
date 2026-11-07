@@ -52,3 +52,4 @@ Task-level analysis of the same 34-resident FVS hands-on assessment in Ghana. Me
 - [Most residents at a Ghanaian teaching hospital did not reach the region-specific FVS proficiency score of 266, including most experienced residents](fvs-proficiency-score-266-most-residents-below.md) — related
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
 - [The D-Casting serious game test distinguishes experienced from novice students, with the most experienced group scoring significantly higher on the module test](d-casting-test-distinguishes-novice-experienced.md) — related
+- [No significant differences in rating-scale or TABLT task-performance scores were observed among the five STALS batches](stals-no-batch-differences-task-scores.md) — related

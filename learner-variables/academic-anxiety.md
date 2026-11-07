@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 288 claims (192 show a difference, 54 mixed, 42 no difference) · 180 studies (67 associational, 62 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 39 of 180 report an effect size · 280 claims rest on one study
+> **Evidence** · 293 claims (194 show a difference, 56 mixed, 43 no difference) · 182 studies (68 associational, 62 causal, 27 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 40 of 182 report an effect size · 285 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -324,6 +324,11 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Both conventional and animated video education reduced uncertainty, anxiety, and improved sleep over time, with no baseline differences on these measures](../claims/both-education-forms-improve-patient-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [The combination of ADHD symptoms with depression and anxiety symptoms is a stronger predictor of smaller magnitude of academic adjustment than ADHD symptoms alone](../claims/adhd-comorbid-combination-stronger-predictor-adjustment-change.md) [+M] — learners who differ on it differ in outcomes
 - [The combination of ADHD symptoms with depression and anxiety symptoms predicts worse academic adjustment at the end of the semester, driven by depression and anxiety rather than ADHD symptoms](../claims/adhd-comorbid-combination-predicts-end-semester-adjustment.md) [+M] — learners who differ on it differ in outcomes
+- [Anxiety can have a positive, statistically significant association with medical students' academic performance when manageable](../claims/anxiety-positive-effect-academic-performance-medical-students.md) [~W] — learners who differ on it differ in outcomes
+- [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](../claims/depression-anxiety-negative-academic-performance-medical-students.md) [~W] — learners who differ on it differ in outcomes
+- [Most students reported that having a retake opportunity reduced their anxiety on the initial exam, similarly across social identities, though about half felt anxious while retaking](../claims/retakes-reduce-initial-exam-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](../claims/test-anxiety-negative-correlation-performance-medical-students.md) [+M] — learners who differ on it differ in outcomes
+- [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](../claims/test-anxiety-null-osce-gpa-medical-students.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

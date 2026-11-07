@@ -51,3 +51,6 @@ FGD thematic analysis found students valued PBL's group dynamics and pacing, wit
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — a broader claim this one bears on
 - [Of 22 included studies on active learning in public health education, 11 used PBL only, 6 used TBL, 3 integrated PBL and CBL, and 2 used CBL only](22-studies-pbl-11-tbl-6-cbl-2-both-3.md) — related
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related
+- [Most surveyed students would recommend PBL and/or TBL to other medical students, but future-block preference was divided](recommendation-and-future-preference-pbl-tbl.md) — related
+- [Students perceived TBL as requiring more individual preparation and effort and more lecturer involvement than PBL](tbl-perceived-needing-preparation-and-facilitation.md) — related
+- [Student preference for TBL over traditional lectures improved significantly after the intervention but remained one of the lowest-rated survey items](tbl-preference-improved-but-still-low.md) — related
