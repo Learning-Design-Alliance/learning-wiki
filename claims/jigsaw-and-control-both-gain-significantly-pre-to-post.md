@@ -71,3 +71,5 @@ Within-group dependent t test in the traditionally taught control group (n=23): 
 - [Teaching 7th-grade social studies with the jigsaw technique produced higher post-test achievement scores than traditional instruction](jigsaw-higher-achievement-science-within-time.md) — related
 - [The jigsaw group showed a statistically significant pre-to-post achievement gain, while the tutorial group's within-group gain was not statistically significant](jigsaw-within-group-achievement-gain-dental.md) — related
 - [Post-intervention academic motivation was significantly higher for dental students taught with the jigsaw method than for those taught with tutorials, with no baseline difference between groups](jigsaw-tutorial-academic-motivation-postintervention.md) — related
+- [The jigsaw peer learning module produced a larger score improvement than conventional tutorials, about 10% higher and statistically significant](plm-gain-exceeds-ct-gain.md) — related
+- [Both conventional tutorials and the jigsaw peer learning module significantly improved first-year medical students' pre-to-post test scores](plm-and-ct-both-improve-pre-post-scores.md) — related

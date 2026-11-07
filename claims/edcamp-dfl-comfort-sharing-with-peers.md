@@ -50,3 +50,4 @@ Pre/post survey comparison reported in the Series Impact section. The report pri
 - [Statewide OPTEL webinars showed high self-reported impact on participant knowledge and perceived quality](optel-webinar-high-survey-impact.md) — related
 - [Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech](teacher-practice-experience-over-research-edtech-link.md) — related
 - [Medical students who attend a student-led peer teaching society report improved knowledge, confidence, motivation and sense of community](meded-attendance-reported-academic-and-community-benefits.md) — related
+- [Greater teaching experience correlated with less need to look up topic background and more confidence in class quality](fc-teacher-experience-confidence-correlation.md) — related

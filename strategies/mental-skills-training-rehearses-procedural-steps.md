@@ -45,6 +45,7 @@ Mental skills training (MST) in the program is "a rehearsal involving mental ima
 - [Method of Loci (Memory Palace)](method-of-loci-memory-palace.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Practice](simulation-based-practice.md)
+- [Use mental practice as a low-resource adjunct for maintaining procedural competency when clinical opportunities are scarce](mental-practice-low-resource-competency-maintenance.md)
 
 ## Examples
 -

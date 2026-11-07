@@ -45,6 +45,7 @@ The brief's discussion of pandemic responses points to virtual engagement as a w
 - [Deliver FF tutoring and family engagement through a distance-learning version when in-person schooling is disrupted](distance-learning-version-of-ff.md)
 - [Use employer-based earn-and-learn apprenticeship as a workforce training pathway outside traditional construction occupations](earn-and-learn-apprenticeship-nontraditional-occupations.md)
 - [Permit teachers to adapt and integrate programme materials in their own way in future trials, and consider remote delivery of training and support when scaling](teacher-adaptation-and-remote-training-at-scale.md)
+- [Use adaptive approaches and support systems, including virtual interprofessional experiences, to buffer disruptions to clinical education](adaptive-support-systems-pandemic-clinical-education-strategy.md)
 
 ## Examples
 -

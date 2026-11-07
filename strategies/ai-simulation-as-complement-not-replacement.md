@@ -63,6 +63,9 @@ The authors recommend treating AI-enhanced simulation as an augmenting strategy 
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 - [Enhance escape room simulation fidelity with AR, VR, AI, and real-time adaptive data](er-emerging-technology-fidelity-strategy.md)
 - [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
+- [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
+- [Complement traditional teaching with experiential dHealth formats such as hackathons and capstone projects, covering fundamental technologies broadly before AI](experiential-dhealth-curriculum-strategy.md)
+- [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 
 ## Examples
 -

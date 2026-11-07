@@ -57,6 +57,7 @@ The authors propose a pragmatic reform model in which simulation is an "on-ramp"
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
+- [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 
 ## Examples
 -

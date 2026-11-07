@@ -51,3 +51,4 @@ Post-clerkship questionnaire (71 of 74 returned, 96% response rate, Cronbach's �
 - [BOPPPS-CBL students reported significantly higher scores on all seven positive perception dimensions after Bonferroni correction](boppps-cbl-higher-positive-perceptions.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
 - [Clinical pharmacy trainees gave generally positive evaluations of an AI-assisted multi-advisor BOPPPS teaching model](positive-evaluations-ai-boppps-clinical-pharmacy.md) — related
+- [Students taught with flipped learning reported significantly higher satisfaction with the education method than traditionally taught students](flipped-learning-higher-satisfaction-patient-safety.md) — related

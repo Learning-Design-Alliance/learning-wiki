@@ -48,6 +48,7 @@ Because performance gains from game-based learning diminished by two months, the
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Add post-training support measures and competency-refresh strategies to sustain effects and enable real-world implementation of change-agent actions](post-training-support-measures-ca-role.md)
+- [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
 
 ## Examples
 -

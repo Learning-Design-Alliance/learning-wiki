@@ -69,3 +69,5 @@ Cross-over intervention (Jerome et al., n = 496) of height-adjustable sit-stand 
 - [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — related
 - [PAL and CMB interventions are feasible and acceptable to university students and staff](cmb-pal-feasible-acceptable-tertiary.md) — related
 - [Active Learning Classrooms predominantly reduce sitting time and increase standing time in children and adolescents](alc-reduce-sitting-increase-standing.md) — related
+- [Group work, the most common physically activating method, often produces only minimal movement](group-work-minimal-physical-activation.md) — related
+- [Conventional measures — physical activity breaks and sit-stand desks — are hardly used in university teaching](conventional-measures-rarely-used-university-teaching.md) — related

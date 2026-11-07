@@ -54,3 +54,4 @@ First LP assessment in the randomized trial (88 students, blinded dual scoring).
 - [Simulation-trained students performed lumbar punctures faster than bedside-trained students, though the difference was not statistically significant](ar-simulation-shorter-procedure-duration.md) — related
 - [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related
 - [Simulator-trained students felt significantly more comfortable and confident about their subsequent lumbar punctures](simulator-training-confidence-next-lp.md) — related
+- [Nonimmersive VR simulation training produced no significant difference in theoretical test scores compared with conventional training](nivr-isolation-training-no-theoretical-score-difference.md) — related

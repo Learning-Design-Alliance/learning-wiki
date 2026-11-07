@@ -123,6 +123,11 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
 - [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
+- [Complement traditional teaching with experiential dHealth formats such as hackathons and capstone projects, covering fundamental technologies broadly before AI](experiential-dhealth-curriculum-strategy.md)
+- [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](mixed-learning-mode-vr-plus-tactile.md)
+- [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
+- [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
+- [Use adaptive approaches and support systems, including virtual interprofessional experiences, to buffer disruptions to clinical education](adaptive-support-systems-pandemic-clinical-education-strategy.md)
 
 ## Examples
 -

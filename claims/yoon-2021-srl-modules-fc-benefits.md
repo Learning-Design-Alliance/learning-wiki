@@ -63,3 +63,4 @@ Review's account of Yoon et al.'s (2021) study facilitating SRL in a three-week 
 - [Self-reflection prompts improve post-training theoretical knowledge in a brief online asynchronous training module (medium effect)](self-reflection-improves-knowledge-quiz-gains.md) — a narrower finding that bears on this claim
 - [Self-reflection prompts improve two specific procedural interviewing skills — specifying the problem behaviour and questioning its consequences — but not procedural skills overall](self-reflection-improves-specific-procedural-skills.md) — related
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
+- [Learning scores for all five theory modules were higher in the flipped classroom group, averaging an 11.2% increase](flipped-classroom-module-scores-higher-all-five.md) — related

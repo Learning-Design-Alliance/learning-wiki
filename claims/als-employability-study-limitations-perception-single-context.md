@@ -51,3 +51,4 @@ Authors' stated limitation in the discussion: the quantitative analysis is based
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — related
 - [The authors identify open questions: cultural and social background effects and skill-specific self-efficacy effects of self-assessment remain uninvestigated](self-assessment-self-efficacy-open-questions.md) — related
 - [The curriculum's generalizability is limited by a single-institution convenience sample and reliance on self-efficacy measures](otolaryngology-simulation-self-efficacy-study-limitations.md) — a narrower finding that bears on this claim
+- [The authors state that educational effectiveness of 3DOVR-DR on clinical skills remains untested and requires quantitative assessment](3dovr-dr-effectiveness-untested-needs-quantitative-assessment.md) — related

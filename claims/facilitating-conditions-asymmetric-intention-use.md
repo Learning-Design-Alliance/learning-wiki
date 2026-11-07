@@ -50,3 +50,4 @@ PLS-SEM structural results (Table 8) from the 842-student Lesotho survey show th
 - [Personal innovativeness did not significantly influence behavioral intention to use ChatGPT](personal-innovativeness-null-intention.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation](arcs-motivation-drives-use-behavior-not-intention.md) — related
+- [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — reports the opposite

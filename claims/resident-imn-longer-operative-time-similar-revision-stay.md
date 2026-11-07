@@ -92,3 +92,4 @@ The matched cohort reports "Median postoperative stay was similar between groups
 - [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
 - [In exploratory analyses, the only factor significantly associated with prolonged length of stay was the study center](study-center-only-significant-predictor-prolonged-los.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — a narrower finding that bears on this claim
+- [Median operative duration of TT cases was 65 minutes, comparable to published attending-supervised and consultant times](tt-operative-duration-65-minutes.md) — related

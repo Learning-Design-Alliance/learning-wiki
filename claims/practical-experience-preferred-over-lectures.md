@@ -52,3 +52,4 @@ Focus-group theme on practical experience: students wanted opportunities to prac
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — possibly the same claim (merge candidate)
 - [A focus group of radiotherapy education experts favoured the end-to-end case study approach using an anthropomorphic phantom in simulation-based learning](focus-group-favors-end-to-end-phantom-sbl.md) — related
 - [Virtual dissection tables allow students to practice procedures in a low-risk environment where errors can be recognized and virtually reverted without consequences](vdt-low-risk-error-recovery-practice.md) — related
+- [Facilitators demonstrated breathing techniques in nearly all cases but only about half of participants were heard practising them back](breathing-technique-practice-back-half-of-participants.md) — related

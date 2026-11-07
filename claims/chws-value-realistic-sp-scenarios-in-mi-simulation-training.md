@@ -63,3 +63,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
 - [Students in the PBL-SP group perceive the standardized patient as more helpful for learning than LBL-SP students](pbl-sp-students-perceive-sp-more-helpful.md) — related
 - [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — related
+- [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related

@@ -49,3 +49,4 @@ Consequences-of-testing analysis in the Results section of the 27-student virtua
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
 - [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](percentage-format-more-reliable-than-yes-no-angoff.md) — related
+- [Single-rater scoring alone yields a higher pass rate than double scoring in the remote OSCE (71.45% vs 68.72%)](single-rater-pass-rate-71-45-vs-double-68-72.md) — related

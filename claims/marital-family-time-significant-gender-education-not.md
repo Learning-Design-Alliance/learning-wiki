@@ -71,3 +71,4 @@ Mann-Whitney U test, t-test and Spearman rank correlation on the same survey dat
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Nurses at the NICC show a moderate overall spiritual care competency score of 100.71±10.60 on the SCCS-27](nicc-nurses-moderate-spiritual-care-competency.md) — related
 - [Higher GPA, unmarried status and more positively perceived orientation programs are associated with higher readiness for practice](gpa-marital-status-orientation-predict-readiness.md) — related
+- [Married nurses score significantly higher on NM competence than unmarried and divorced nurses, and nurses with children score higher than nurses without children](family-status-higher-nm-competence-nurses.md) — related

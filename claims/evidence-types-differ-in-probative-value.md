@@ -75,3 +75,4 @@ The credential analysis found interview-inconsistency items uniformly rated beca
 - [Different evidence types differ in how strongly they can support claims about effectiveness](evidence-types-differ-support-strength.md) — related
 - [Popular plagiarism detection tools detect plagiarism in AI-assisted essays in less than 15% of cases](plagiarism-detectors-below-15-percent-ai-essays.md) — related
 - [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related
+- [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — a narrower finding that bears on this claim

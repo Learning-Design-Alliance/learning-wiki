@@ -72,3 +72,4 @@ CUSUM analysis of operative time showed a visual peak at Case 40 (maximum 576.7 
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
+- [The LASPME learning curve divides into three proficiency stages, with the preliminary stage ending around the 91st procedure and proficiency reached around the 125th](laspme-three-stage-learning-curve-91-125.md) — related

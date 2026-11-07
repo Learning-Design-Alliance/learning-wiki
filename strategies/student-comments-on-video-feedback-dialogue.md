@@ -44,6 +44,7 @@ The article recommends encouraging students to post comments in response to gene
 ## Related Strategies
 
 - [Plan and structure video feedback around signposts and feed-forward points before recording.](plan-video-feedback-with-signposts.md)
+- [Improve active bioinformatics lessons by balancing theory with practice, clarifying tasks, providing detailed software tutorials, and running a regular feedback loop](balance-theory-practice-clear-tasks-feedback-loop-strategy.md)
 
 ## Examples
 -

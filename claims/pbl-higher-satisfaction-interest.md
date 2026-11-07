@@ -55,3 +55,4 @@ Randomized controlled trial of 57 pharmacy students; Table 1 reports satisfactio
 - [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — related
 - [CBL is associated with improved learning interest and self-directed learning ability](cbl-improves-interest-self-directed-learning.md) — related
 - [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — possibly the same claim (merge candidate)
+- [Community-oriented PBL increases students' self-assessed interest in community health care and ability to envision community health care settings](pbl-increases-interest-and-envisioning-community-care.md) — related

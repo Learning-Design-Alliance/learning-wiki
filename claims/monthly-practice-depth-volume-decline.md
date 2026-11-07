@@ -55,3 +55,4 @@ Review's summary of Oermann et al. (n = 606 nursing students; control group with
 - [Safety-control skill declines significantly over the year after BLS training, and chest compression depth deteriorates and becomes too deep](safety-control-and-compression-depth-decline-over-time.md) — related
 - [CPR performance improved further over time after feedback-equipped training, with gains at both 3 and 6 months relative to baseline](cpr-performance-retained-improved-3-6-months.md) — related
 - [Providers completed about two self-practise sessions per month over three months, fewer than the expected fortnightly schedule, with a median of 30 minutes spent practising](eenc-self-practise-two-sessions-per-month-fidelity.md) — related
+- [Manikin-measured ventilation time is stable from immediately after the course to 6 months, while appropriate ventilation rates show no significant change](venc-manikin-ventilation-stable.md) — related

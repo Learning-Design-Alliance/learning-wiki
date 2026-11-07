@@ -49,3 +49,4 @@ Same quasi-experimental design as the CA analysis but using the EOM exam taken o
 - [Performance on questions from the non-vodcast lecturer's lectures did not differ significantly between the two cohorts.](no-vodcast-effect-on-non-vodcast-lecturer-questions.md) — related
 - [The majority of students perceived vodcasts as improving understanding of lecture material both as preview and revision tools.](positive-student-perceptions-of-vodcasts-preview-and-revision.md) — related
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
+- [Learning scores for all five theory modules were higher in the flipped classroom group, averaging an 11.2% increase](flipped-classroom-module-scores-higher-all-five.md) — related

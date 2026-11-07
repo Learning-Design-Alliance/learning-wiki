@@ -78,3 +78,5 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Trainee feedback on the programme was highly positive, with a median score of 5 (IQR 0.75) across questionnaire sections](positive-rcs-feedback-median-5-pilot-robotic-training.md) — related
 - [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related
 - [Final-year nursing students rated the Nik's story virtual simulation highly on usability, engagement, and impact on learning, and most would recommend its continued use](niks-story-high-usability-engagement-impact.md) — related
+- [Participants report high satisfaction and perceived utility for the MeTra simulator and the new basic course overall](metra-course-high-satisfaction.md) — related
+- [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related

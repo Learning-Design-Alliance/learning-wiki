@@ -54,6 +54,7 @@ The review's forward-looking recommendations for VR training research in mental 
 - [Use size-matched randomized designs with baseline testing to isolate immersion effects in VR anatomy studies](size-matched-randomized-designs-vr-anatomy-studies.md)
 - [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 - [Validate LLM-based PFA training through larger-scale studies, trainee feedback, multimodal interfaces, and validated assessment frameworks](validate-llm-pfa-training-research-agenda.md)
+- [Integrate VR with traditional training methods and validate with large-scale multicenter trials before wide promotion](cautious-multimethod-vr-integration-strategy.md)
 
 ## Examples
 -

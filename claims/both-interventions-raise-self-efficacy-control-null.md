@@ -68,3 +68,4 @@ Null result from the same study's control group, which received only routine Eme
 - [Microlearning produces more durable self-efficacy gains than webinars in EMTs at one-month follow-up](microlearning-more-durable-self-efficacy-than-webinar.md) — related
 - [Microlearning produces more durable knowledge gains than webinars and routine training in EMTs at one-month follow-up](microlearning-more-durable-knowledge-than-webinar-emts.md) — related
 - [Within the control group receiving current-curriculum instruction, prospective teachers' self-reported self-efficacy showed no significant change from pretest to posttest and follow-up](current-curriculum-no-self-efficacy-change.md) — related
+- [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — reports the opposite

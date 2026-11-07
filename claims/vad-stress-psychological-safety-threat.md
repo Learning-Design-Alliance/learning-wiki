@@ -111,3 +111,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Uncertainty in simulation was seen to increase cognitive load but was not always viewed as aversive, offering an opportunity to learn](uncertainty-cognitive-load-and-learning-opportunity.md) — related
 - [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — related
 - [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — related
+- [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related

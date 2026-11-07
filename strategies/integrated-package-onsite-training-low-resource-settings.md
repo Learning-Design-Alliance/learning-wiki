@@ -49,6 +49,7 @@ The authors note that their program was stand-alone, "while simulation-based tra
 - [Consider multiprofessional team training in obstetrics involving all staff within their units](multiprofessional-team-training-obstetrics-recommendation.md)
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Implement simulation-based refresher drills, visual job aids, mentorship champions, and stocked emergency kits for MgSO4 readiness](mgso4-competency-intervention-package.md)
+- [Improve HBB implementation through better work routines, equipment maintenance, psychological safety, and training that explains neonatal physiology](hbb-implementation-support-strategy.md)
 
 ## Examples
 -

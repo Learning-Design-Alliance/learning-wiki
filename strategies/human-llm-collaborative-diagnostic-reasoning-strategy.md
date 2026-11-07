@@ -48,6 +48,7 @@ The article's future-directions section recommends three advancement pathways, w
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 - [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
 - [Design hybrid learning models that integrate LLMs with critical reflection, and establish secondary validation mechanisms for AI-driven clinical decisions](hybrid-llm-learning-secondary-validation-strategy.md)
+- [Provide expert-written image hints and human oversight when using multimodal LLMs for image-based medical learning or decision support](expert-image-hints-with-human-oversight-strategy.md)
 
 ## Examples
 -

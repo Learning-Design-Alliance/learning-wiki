@@ -50,3 +50,5 @@ The review reports, citing Eva et al's study of responsiveness to feedback, this
 - [Most SDL-in-CPD behavior-change factors fall in four TDF domains: environmental context and resources, social influences, beliefs about consequences, and behavioral regulation](sdl-cpd-four-key-tdf-domains.md) — a broader claim this one bears on
 - [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](sdl-cpd-five-barrier-facilitator-levels.md) — a broader claim this one bears on
 - [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related
+- [Interpersonal and social factors — mentors, peers, leaders, living pressure, social consensus and life goals — influence trainees' SDL](interpersonal-social-factors-sdl.md) — related
+- [Career-related factors — professional identity and accomplishment as facilitators, burnout as a barrier — influence trainees' SDL](career-factors-burnout-identity-sdl.md) — related

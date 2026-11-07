@@ -46,6 +46,8 @@ The authors recommend that health system administrators and educators embed the 
 
 - [Prioritize expanding health literacy and competency training coverage, focusing on knowledge and inter-professional collaboration](expand-nurse-hlc-training-coverage.md)
 - [Use the indicator system for competency assessment, training needs diagnosis, pre-post training evaluation, and talent development pathways](applications-tb-educator-competency-indicator-system.md)
+- [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
+- [Use a short validated self-report rubric longitudinally to track SDL competency development and target students for remediation](longitudinal-sdl-rubric-tracking-strategy.md)
 
 ## Examples
 -

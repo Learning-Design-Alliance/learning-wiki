@@ -46,6 +46,7 @@ The article recommends that professors and administrators in nursing schools act
 
 - [Teach SDL skills explicitly and differentiate support by student group in bioscience courses](explicit-sdl-skills-teaching-differentiated-support.md)
 - [Reduce mobile phone addiction as a modifiable behavioral target to enhance nursing students' self-directed learning](reduce-mobile-phone-addiction-to-enhance-sdl.md)
+- [Incorporate SDL programs with problem-based learning and group discussion components, and shift teachers from didactic instructors to facilitators](sdl-programs-pbl-group-discussion-facilitator-role.md)
 
 ## Examples
 -

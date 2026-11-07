@@ -51,3 +51,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "some cli
 - [Prenatal clinicians show a gap between TIC knowledge and practice despite favorable attitudes](tic-knowledge-practice-gap-prenatal-clinicians.md) — a broader claim this one bears on
 - [Clinicians reported their largest perceived practice changes in providing hope, setting aside time for questions and acknowledging feelings](perceived-practice-change-hope-and-feelings.md) — related
 - [Non-clinician facilitators' lack of case expertise initially undermined confidence, but confidence improved with facilitating experience](non-clinician-cbl-confidence-expertise-concerns.md) — related
+- [Some family violence training raises clinician awareness of covert indicators, but these clinicians still report needing further training](some-training-covert-indicator-awareness-partial.md) — related

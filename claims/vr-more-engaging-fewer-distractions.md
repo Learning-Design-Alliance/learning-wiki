@@ -53,3 +53,4 @@ Authors' interpretation in the Discussion of the break-reason data (5 of 27 slid
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — reports the opposite
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
+- [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related

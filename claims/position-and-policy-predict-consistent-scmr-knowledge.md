@@ -69,3 +69,4 @@ The same regression (Table 7) found departments lacking SCMR rules reduced odds 
 - [Senior position and qualification obtained outside Saudi Arabia were associated with higher overall SCMR knowledge scores](seniority-and-foreign-qualification-higher-knowledge.md) — related
 - [Professional title, position and work experience significantly predict membership in the medium palliative care core competency group](title-position-experience-predict-medium-competency-group.md) — related
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
+- [Neither years of experience managing invasive mechanical ventilation nor professional title is associated with the ability to identify asynchrony waveforms](experience-and-title-not-associated-with-recognition.md) — related

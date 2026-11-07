@@ -63,6 +63,8 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Foster deep learning approaches in teacher education through problem-based learning, peer mentoring, and self-efficacy training](pbl-mentoring-selfefficacy-teacher-candidates-strategy.md)
 - [Integrate happiness training into teacher professional development programs to reduce burnout and support teaching effectiveness](integrate-happiness-training-teacher-professional-development.md)
 - [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
+- [Implement psychological support programs, foster intrinsic motivation, integrate psychological assessments, establish support networks, and make tailored curricular adjustments for women doctoral students](psychological-support-programs-women-doctoral-strategy.md)
+- [Integrate same-class peer mentorship into medical curricula as a cost-effective support for academically underperforming students in resource-limited settings](same-class-peer-mentorship-strategy-resource-limited-medical-education.md)
 
 ## Examples
 -

@@ -59,6 +59,7 @@ Deploy generative AI virtual patients as an adjunct or alternative to standardiz
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
 
 ## Examples
 -

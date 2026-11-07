@@ -59,3 +59,4 @@ Quasi-experimental comparison of pooled grades on three multiple-choice exams be
 - [International students studying CBL in a second language and unaccustomed to active learning show poorer knowledge gains than domestic peers](cbl-international-students-second-language-poorer-gains.md) — related
 - [Scaffolding instruction produces significantly higher learning achievement than traditional instruction in undergraduate emergency language courses.](scaffolding-higher-achievement-emergency-language.md) — related
 - [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related
+- [Students in the flipped classroom group scored higher on the final theory exam than lecture-group students (8.2 ± 0.7 vs 7.0 ± 0.8)](flipped-classroom-higher-theory-exam-scores-endodontics.md) — related

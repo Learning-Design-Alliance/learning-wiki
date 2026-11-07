@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (59 show a difference, 11 mixed, 11 no difference) · 63 studies (19 associational, 14 causal, 9 review, 9 qualitative, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 11 of 63 report an effect size · 79 claims rest on one study
+> **Evidence** · 82 claims (60 show a difference, 11 mixed, 11 no difference) · 64 studies (20 associational, 14 causal, 9 review, 9 qualitative, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 11 of 64 report an effect size · 80 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -115,6 +115,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Narrative competence correlates positively with self-directed learning (r = 0.603), nursing professional values (r = 0.504), and digital literacy (r = 0.460)](../claims/narrative-competence-bivariate-correlations-sdl-npv-dl.md) [+M] — learners who differ on it differ in outcomes
 - [Nursing professional values mediate the relationship between digital literacy and narrative competence](../claims/professional-values-mediate-digital-literacy-narrative-competence.md) [+M] — learners who differ on it differ in outcomes
 - [Students with higher computer skills report statistically higher SDS and EPQ scores than students with lower-rated skills](../claims/computer-skills-associated-with-higher-sds-epq.md) [+M] — learners who differ on it differ in outcomes
+- [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](../claims/utaut2-positive-predictors-elcpd.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

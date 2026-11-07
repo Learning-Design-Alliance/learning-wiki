@@ -96,3 +96,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Managers identified facilitating factors for peer learning, including strong organizational support, sharing successful practices, and benchmarking against high-performing hospitals](peer-learning-facilitators-organizational-support-benchmarking.md) — related
 - [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
 - [Senior managers' lack of belief in assessment is the most important cultural challenge to Assessment Center implementation](senior-manager-disbelief-top-cultural-ac-challenge.md) — related
+- [Connectedness with stakeholders acts as a catalyst enabling the factors that sustain teacher motivation](connectedness-catalyst-sustaining-teacher-motivation.md) — related

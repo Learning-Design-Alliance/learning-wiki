@@ -67,3 +67,4 @@ A Digital Promise and Grunwald Associates (2015) survey of teachers, presented a
 - [Nearly 90% of participants reported sharing their program knowledge with others through formal training, workshops, or informal mentoring and case discussions](therapy-intensive-knowledge-dissemination.md) — related
 - [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related
 - [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related
+- [Informal dementia learning experiences, but not formal dementia training, are associated with higher ADKS scores](informal-dementia-learning-higher-adks-formal-training-null.md) — related

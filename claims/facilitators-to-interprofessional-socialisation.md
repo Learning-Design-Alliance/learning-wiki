@@ -50,3 +50,4 @@ Interpretive description analysis of the same 17 interviews. Educators saw their
 - [Healthcare educators' attitudes toward interprofessional socialisation increased significantly after an interprofessional simulation facilitator training programme](simulation-facilitator-training-increases-attitudes-toward-interprofessional-socialisation.md) — related
 - [No significant relationships were found between demographic co-variates and interprofessional socialisation scores](no-significant-covariate-relationships-with-is-scores.md) — related
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
+- [Post-COVID interprofessional collaboration scores declined significantly among students, while faculty cohort differences were not significant](covid-decline-interprofessional-collaboration-dental-rotations.md) — related

@@ -49,6 +49,7 @@ Based on the observed knowledge attrition and the insufficiency of purely didact
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 - [Adopt hybrid CBL-SST-simulator teaching for preclinical clinical-reasoning and communication goals while retaining LBL for foundational knowledge](hybrid-cbl-sst-adoption-strategy-preclinical-dental.md)
 - [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
+- [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
 
 ## Examples
 -

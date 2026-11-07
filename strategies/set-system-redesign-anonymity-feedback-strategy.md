@@ -42,7 +42,7 @@ The article recommends concrete system-level changes to reduce bias: the conclus
 ## Claims
 
 - [Evaluation-system factors—doubted anonymity, insufficient feedback, tight timing, heavy workload, and unclear indicators—drive self-protective and arbitrary SET scoring](../claims/evaluation-system-factors-anonymity-feedback-timing.md) [+M]
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](../claims/qualitative-explanation-competency-gap-feedback-workload.md) [+W]
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](../claims/qualitative-explanation-competency-gap-feedback-workload.md) [+W]
 
 ## Related Strategies
 - 

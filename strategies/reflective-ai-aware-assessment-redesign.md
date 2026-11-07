@@ -49,6 +49,7 @@ The chapter recommends adapting or redesigning assessment to account for intenti
 - [Use LLM-generated design problems in supervised, time-bound exam-like settings to assess individual higher-order thinking where AI use or teamwork obscures mastery](deploy-dps-in-supervised-exam-settings.md)
 - [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
+- [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](iterative-review-dops-portfolio-authenticity.md)
 
 ## Examples
 -

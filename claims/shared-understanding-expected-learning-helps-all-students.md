@@ -65,3 +65,4 @@ The brief asserts, citing prior research (Pryor & Crossouard, 2008, in an endnot
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
 - [Early realization of a shared object/motive bonds adult course participants into a quasi-community](quasi-community-shared-object-motive.md) — related
+- [Student academic-related anxiety and motivation in the course were shaped by three themes: communicating clear goals and expectations, instructor approachability and individualized assessment, and alignment between perceived effort and outcomes](student-themes-assessment-stress-motivation.md) — related

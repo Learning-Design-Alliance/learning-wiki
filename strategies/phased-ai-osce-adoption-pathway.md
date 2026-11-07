@@ -49,6 +49,8 @@ The article recommends a staged pathway in which adoption is phased (practice, m
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Shared deidentified registry and cross-border data governance for benchmarking AI-augmented OSCEs](shared-deidentified-osce-registry.md)
 - [Adopt a hybrid model combining virtual and in-person OSCE components, assigning telehealth-suitable skills to virtual stations](hybrid-virtual-in-person-osce-strategy.md)
+- [Integrate the PHLCS into staged medical education assessment and OSCEs](phlcs-staged-assessment-and-osce-strategy.md)
+- [Adopt TDS by piloting in smaller cohorts within institutions that already use traditional double scoring](pilot-tds-in-small-cohorts-with-existing-ds.md)
 
 ## Examples
 -

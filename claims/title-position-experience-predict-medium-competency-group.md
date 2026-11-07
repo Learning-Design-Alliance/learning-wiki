@@ -53,3 +53,4 @@ In the multivariate logistic regression (n = 342, high group as reference), "Pro
 - [Lower autonomous learning capacity significantly increases the odds of membership in the low and medium palliative care core competency groups](autonomous-learning-capacity-predicts-competency-subgroup.md) — related
 - [Self-directed learning ability is positively associated with membership of the moderate- and high-level competency profiles rather than the low-level profile](self-directed-learning-ability-higher-competency-profiles.md) — related
 - [Latent profile analysis identifies three palliative care core competency subgroups among ICU nurses: low (21.6%), medium (47.2%) and high (31.2%)](lpa-three-palliative-competency-profiles.md) — related
+- [Neither years of experience managing invasive mechanical ventilation nor professional title is associated with the ability to identify asynchrony waveforms](experience-and-title-not-associated-with-recognition.md) — related

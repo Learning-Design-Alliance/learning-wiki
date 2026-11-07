@@ -49,3 +49,4 @@ Linear least-squares regression on survey responses from 1,398 students, depende
 - [Severe anxiety symptoms and moderate or severe sleep problems were associated with 12.2% and 11% reductions in academic performance respectively](severe-anxiety-sleep-problems-academic-reduction.md) — related
 - [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related
 - [A higher share of study hours missed because of mental health problems was associated with lower academic performance](absenteeism-mental-health-academic-decrease.md) — related
+- [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — related

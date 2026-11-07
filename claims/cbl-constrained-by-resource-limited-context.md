@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: ahmed-2026
     resource: "https://doi.org/10.1038/s41598-026-40750-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported that compressed schedules, inconsistent facilitation, restricted clinical exposure and absent visual aids collectively reduced the intended benefits of small-group case discussion. [→ Ahmed 2026](#ahmed-2026)
@@ -51,7 +52,7 @@ Theme 2 of the reflexive thematic analysis; students said “The quality of the 
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — a broader claim this one bears on
 - [Missed CVC training opportunities were attributed to time constraints, variable patient volume, and inconsistent access to equipment and funding](cvc-training-opportunities-limited-time-volume-equipment.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](qualitative-explanation-competency-gap-feedback-workload.md) — related
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related

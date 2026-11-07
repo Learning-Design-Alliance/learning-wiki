@@ -48,6 +48,7 @@ Stakeholders identified that variation in undergraduate taught content produced 
 - [Blend simulation with traditional apprenticeship under a competency-based milestone framework for PTED training](blended-competency-based-pted-training-pathway.md)
 - [Use a structured multi-tool assessment toolkit combining workplace-based observation and standardised examination](etr2025-assessment-toolkit-strategy.md)
 - [Establish university-led exercise services as an alternative source of authentic clinical learning when placements are scarce](university-led-exercise-services-cep.md)
+- [Harmonize European HF nurse education, training and career pathways through an updated curriculum, accreditation and certification](harmonize-hf-nurse-education-career-pathway.md)
 
 ## Examples
 -

@@ -84,6 +84,7 @@ Multimedia works when the combination reduces extraneous load and enables refere
 - [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](multimedia-and-homework-for-5e-phases.md)
 - [Use web-assisted conceptual change texts with visualizations to prevent and remediate science misconceptions](web-assisted-cct-misconception-strategy.md)
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
+- [Integrate animated video education into pre-procedural patient education](animated-video-preprocedural-education-strategy.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated science simulations paired with guided inquiry activities; studies show simulation-plus-guided-activity outperforms simulation alone [~M]

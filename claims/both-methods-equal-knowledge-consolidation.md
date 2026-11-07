@@ -50,3 +50,4 @@ Descriptive percentages from the comparison section of the 229-student questionn
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [VR simulation is rated highly effective for distinguishing tooth textures and more engaging than manikin training](vr-engagement-tactile-tooth-texture.md) — related
 - [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related
+- [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — related

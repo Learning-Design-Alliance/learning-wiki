@@ -64,3 +64,5 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
 - [Experts respond faster than novices on clinical decision-making cases](experts-faster-response-times-clinical-cases.md) — related
 - [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related
+- [Novice surgeons using force feedback apply significantly less force to tissue during robotic-assisted suturing tasks](ffb-reduces-applied-force-robotic-suturing.md) — related
+- [Force feedback significantly reduces suturing errors, particularly suture breaks and suture fray, in robotic-assisted suturing](ffb-reduces-suturing-errors-breaks-fray.md) — related

@@ -50,6 +50,7 @@ Based on their findings, the authors recommend that educators establish an infor
 - [Integrate anxiety management and psychological-safety practices into simulation planning](anxiety-management-in-simulation-planning.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Establish Guidelines for Discussions](establish_guidelines_for_discussions.md)
+- [Protocolize the prebriefing with a fiction contract, a preplanned written briefing script, and a case-design checklist](protocolized-prebriefing-fiction-contract.md)
 
 ## Examples
 -

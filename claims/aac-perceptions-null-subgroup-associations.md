@@ -99,3 +99,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [No significant correlation exists between educators' quality of life and their work experience (r = 0.179, p = 0.098) or age (r = 0.128, p = 0.238).](educator-qol-no-work-experience-age-correlation.md) — related
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
 - [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related
+- [Absolute score changes did not differ significantly by most participant characteristics or e-learning use parameters, though two subgroup differences were significant.](mali-elearning-subgroup-changes-mixed.md) — related

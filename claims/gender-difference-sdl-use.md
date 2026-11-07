@@ -53,3 +53,4 @@ Binary and multinomial logistic regression on survey responses found gender sign
 - [Male students were significantly more likely than female students to report English proficiency and course relevance as barriers to e-resource use](gender-barriers-english-proficiency.md) — related
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related
 - [Most pharmacy students at a Saudi public university had not used the Saudi Digital Library in the year preceding the study](sdl-unused-past-year-pharmacy-students.md) — related
+- [SDL readiness shows no significant differences by gender, living condition, or presence of a doctor in the immediate family](no-sdl-differences-gender-living-family-doctor.md) — related

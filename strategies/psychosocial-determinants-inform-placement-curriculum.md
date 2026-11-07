@@ -54,6 +54,7 @@ The article recommends translating its determinants findings into curriculum des
 ## Related Strategies
 
 - [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
+- [Implement psychological support programs, foster intrinsic motivation, integrate psychological assessments, establish support networks, and make tailored curricular adjustments for women doctoral students](psychological-support-programs-women-doctoral-strategy.md)
 
 ## Examples
 -

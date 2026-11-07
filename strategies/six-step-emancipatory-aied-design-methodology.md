@@ -48,6 +48,7 @@ The paper outlines a design process expanding design thinking, value-sensitive d
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
 - [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
 - [User-centered R&D with A/B tests and rapid prototyping to tailor interventions to a target population](user-centered-intervention-rd-process.md)
+- [Participatory, V-model systems-engineering design process with end-user engagement](participatory-v-model-simulation-design.md)
 
 ## Examples
 -

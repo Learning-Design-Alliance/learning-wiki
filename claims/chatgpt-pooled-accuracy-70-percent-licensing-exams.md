@@ -54,3 +54,4 @@ Random-effects meta-analysis of 23 studies (144 effect sizes) of ChatGPT-3.5 and
 - [Large language models achieve a pooled accuracy of 63.69% (95% CI 60.26%-67.06%) in answering dental examination questions](llm-pooled-accuracy-dental-exam-63-69.md) — related
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
 - [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
+- [ChatGPT-4's performance on the Japanese National Nursing Examination differs by attached file format, with JPG (26% median) far below text-based formats (87%-94% medians)](file-format-affects-chatgpt-nursing-exam-performance.md) — a narrower finding that bears on this claim

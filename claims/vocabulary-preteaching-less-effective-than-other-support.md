@@ -53,3 +53,4 @@ The article reports, citing Berne (1995) and Chang and Read (2006, 2008), that v
 - [Repetition of input yielded higher scores than previewing questions, but the two supports did not differ significantly in this study](repetition-versus-previewing-listening.md) — related
 - [Group differences on the main listening test were statistically significant overall (F = 17.13), with topic preparation and repetition outperforming control](listening-support-omnibus-anova-significant.md) — related
 - [Group differences reached statistical significance on each of the three listening texts individually](listening-supports-per-text-anovas.md) — related
+- [No statistically significant difference between groups in understanding of teaching objectives, satisfaction with the preview method, or satisfaction with the curriculum](flipped-classroom-null-objectives-preview-curriculum-satisfaction.md) — related

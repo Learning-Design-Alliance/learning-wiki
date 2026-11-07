@@ -58,6 +58,7 @@ The article recommends that nursing managers adopt targeted interventions to red
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Targeted interventions to enhance clinical preparation, plus mentorship and education–practice collaboration, to bolster nurse interns' readiness](enhance-clinical-preparation-interventions-nurse-interns.md)
 - [Provide targeted, structured learning strategies — mentorship and peer learning — for ICU nurses with low autonomous learning capacity](targeted-strategies-low-autonomous-learning-nurses.md)
+- [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
 
 ## Examples
 -

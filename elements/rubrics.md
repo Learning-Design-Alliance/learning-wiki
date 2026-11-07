@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 49 claims (23 for, 22 mixed, 4 against) · 43 studies (19 causal, 9 design, 7 review, 5 associational, 3 quant-synthesis), `q1`–`q3` · 7 of 43 report an effect size · 46 claims rest on one study
+> **Evidence** · 50 claims (24 for, 22 mixed, 4 against) · 44 studies (19 causal, 10 design, 7 review, 5 associational, 3 quant-synthesis), `q1`–`q3` · 7 of 44 report an effect size · 47 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -79,6 +79,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Final impression was the only rubric parameter with a significant gender difference, favouring female students](../claims/final-impression-significant-gender-difference.md) [~W] — attached 2026-11-06 from Alshehri Abdulkarim H. et al. (2025), which proposed "39-point analytic rubric for all-ceramic crown preparation assessment".
 - [Two raters' total scores on the ten-item ACLS simulation rubric correlate 0.70 (p < 0.001) among pre-clinical medical students](../claims/acls-rubric-interrater-reliability-070.md) [+W] — attached 2026-11-06 from Lertsakulbunlue et al. (2025), which proposed "Simulation-based ACLS course with ten-item three-domain assessment rubric for pre-clinical medical students".
 - [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](../claims/acls-rubric-cronbach-alpha-076.md) [+W] — attached 2026-11-06 from Lertsakulbunlue et al. (2025), which proposed "Simulation-based ACLS course with ten-item three-domain assessment rubric for pre-clinical medical students".
+- [Confirmatory factor analysis supports a three-factor structure of the six-item PtBL rubric with good fit](../claims/cfa-three-factor-rubric-good-fit.md) [+W] — attached 2026-11-07 from Lertsakulbunlue Sethapong; Kantiwong Anupong (2025), which proposed "Six-item PtBL assessment rubric covering interdisciplinary integration, interpersonal skills, and media quality".
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

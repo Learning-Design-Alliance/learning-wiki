@@ -52,5 +52,5 @@ Comparison in the TalkMoves classification experiment against a word-only baseli
 - [LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)](llm-features-add-value-beyond-item-metadata.md) — a broader claim this one bears on
 - [Episode-composition and transition features contribute predictive process evidence beyond semantics, with Epi.+Tran. reaching 0.136 permutation importance versus 0.084 for Sem. in the Both (Role) setting](episode-features-predictive-importance-beyond-semantics.md) — a broader claim this one bears on
 - [EduBehaviors achieves 0.764 macro-F1 and 0.756 Cohen's kappa on Teacher TalkMoves, improving over direct LLM prompting](edubehaviors-matches-direct-llm-prompting-talkmoves.md) — related
-- [EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
+- [Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
 - [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](cscl-systems-characterized-data-processes-feedback.md) — related

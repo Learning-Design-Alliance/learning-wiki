@@ -57,3 +57,4 @@ The paper reports, citing Liang et al. (2023), that detectors use perplexity as 
 - [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — related
 - [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
 - [ChatGPT-generated essays showed high written English and PEEL-framework structure across native and non-native speakers](chatgpt-essays-high-english-structure-peel.md) — related
+- [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — a narrower finding that bears on this claim

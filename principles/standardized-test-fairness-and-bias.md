@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (19 for, 39 mixed, 5 against) · 42 studies (12 causal, 11 associational, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 42 report an effect size · 62 claims rest on one study
+> **Evidence** · 65 claims (21 for, 39 mixed, 5 against) · 43 studies (12 causal, 12 associational, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 43 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,8 @@ Claims found while rewriting, used in the default design or the situation table 
 - [National demographic data show significant differential attainment on prescribing-related assessments by age, sex and ethnicity](../claims/differential-attainment-national-prescribing-assessments.md) [+W] — attached 2026-10-31 from McLachlan JC et al. (2025), which proposed "Routinely collect demographic data in prescribing competence assessments to enable subgroup analysis".
 - [Slow test-takers perform as well as fast ones when given the time they need, and may perform better on difficult items](../claims/slow-test-takers-perform-as-well-as-fast-ones.md) [+W] — attached 2026-11-04 from Weiner Saul J. et al. (2026), which proposed "Eliminate time limits on written high-stakes assessments by universalizing maximal accommodation"; tests this page's relationship.
 - [Accommodation denial is common among US medical students seeking USMLE accommodations, with adverse consequences](../claims/usmle-accommodation-denial-common.md) [+W] — attached 2026-11-04 from Weiner Saul J. et al. (2026), which proposed "Eliminate time limits on written high-stakes assessments by universalizing maximal accommodation".
+- [Statistically significant DIF appears in 20%, 15%, and 11% of items on anatomy, histology, and physiology preclinical exams respectively](../claims/dif-prevalence-three-preclinical-courses.md) [+W] — attached 2026-11-07 from Dale Esther Dasari et al. (2025), which proposed "Conduct item-level DIF routinely as part of psychometric analyses for course and other assessments to ensure fairness".
+- [Expert sensitivity review attributed most DIF-flagged items to poor item writing or unclear images](../claims/sensitivity-review-item-flaws-unclear-images.md) [+W] — attached 2026-11-07 from Dale Esther Dasari et al. (2025), which proposed "Conduct item-level DIF routinely as part of psychometric analyses for course and other assessments to ensure fairness".
 
 ## Objective and learner-valued goal
 

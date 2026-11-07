@@ -51,3 +51,4 @@ Descriptive analysis of guess rates and Likert confidence items across the three
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
+- [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related

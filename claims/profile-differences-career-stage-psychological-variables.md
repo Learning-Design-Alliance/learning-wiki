@@ -73,3 +73,8 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Nurses' religion/spirituality integration competency differs by age, work experience, religiosity, spirituality, and professional involvement, but not by training-course history](demographic-associations-spiritual-competency.md) — related
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
 - [Professional title, position and work experience significantly predict membership in the medium palliative care core competency group](title-position-experience-predict-medium-competency-group.md) — related
+- [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
+- [Pre-course skill levels differ by professional occupation, with doctors and nurses scoring lower than operational staff on several emergency-response items](metra-course-occupation-subgroup-differences.md) — related
+- [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — reports the opposite
+- [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — reports the opposite
+- [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related

@@ -57,3 +57,4 @@ A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65
 - [Students' self-rated preparedness for the upcoming summative exam did not meaningfully change from pre-test to post-test within the exam-format groups](no-change-self-perceived-preparedness.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
+- [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related

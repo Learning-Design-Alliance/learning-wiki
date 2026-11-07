@@ -49,6 +49,7 @@ The article recommends applying the validated 41-item scale as a management tool
 
 - [Use validated competency questionnaires to diagnose educator strengths and design targeted professional development](competency-diagnosis-professional-development-strategy.md)
 - [Use the ATSHWS in surgical nursing education for competency assessment, targeted feedback, and skills reinforcement](atshws-education-feedback-strategy.md)
+- [Use a short validated self-report rubric longitudinally to track SDL competency development and target students for remediation](longitudinal-sdl-rubric-tracking-strategy.md)
 
 ## Examples
 -

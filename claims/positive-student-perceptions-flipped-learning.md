@@ -74,3 +74,4 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Students hold favorable attitudes toward e-learning as a supplement to in-class teaching](favorable-attitudes-toward-elearning-supplement.md) — related
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
+- [Teachers viewed the flipped classroom favourably overall but raised workload and student-preparation concerns, with experienced flipped teachers more receptive](fc-teacher-perception-workload-resistance.md) — related

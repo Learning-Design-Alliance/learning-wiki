@@ -52,3 +52,4 @@ Binary logistic regression with outcomes dichotomized Good vs. Fair/Poor in the 
 - [Gender and marital status are significantly associated with AMS knowledge scores, and marital status with attitude scores, among clinical dental students in southern Nigeria](gender-marital-status-associated-ams-knowledge-dental-students.md) — a narrower finding that bears on this claim
 - [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](knowledge-attitude-positive-correlation-ams-dental-students.md) — related
 - [No categorical demographic variable was significantly related to AMS opinion scores, and no participant scored Poor on any AMS measure](null-opinion-associations-no-poor-scorers-ams.md) — reports the opposite
+- [Male participants scored higher on clinical preparedness in Spain while women scored higher on attitudes in both cohorts](here-gender-preparedness-attitudes.md) — related

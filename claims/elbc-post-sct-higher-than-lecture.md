@@ -49,3 +49,4 @@ Quasi-experimental within-subjects study of 60 fifth-year medical students in th
 - [In item-level vignette analysis, e-LbC students outperformed lecture students in 10 of 15 vignettes, significantly in 8](elbc-vignette-level-outperformance.md) — related
 - [Students in the blended learning group scored significantly higher on the final pathophysiology examination than students in the traditional lecture group](blended-final-higher-than-lecture.md) — related
 - [Higher-secondary chemistry students taught with web-based instruction scored significantly higher on the post-test than students taught by traditional method](wbi-post-test-significant-advantage-chemistry.md) — related
+- [Script concordance test performance rose significantly from pre-test to post-test in fourth-year medical students in one uncontrolled pre-post study of a team-based learning course on clinical symptoms](sct-performance-improves-after-tbl-clinical-reasoning.md) — related

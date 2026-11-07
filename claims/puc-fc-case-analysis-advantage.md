@@ -52,3 +52,4 @@ Three-group randomized trial of 120 undergraduates stratified by baseline scores
 - [PUC-FC students rated the course more highly than FC and LBL students on all satisfaction dimensions except rationality of class hour arrangement](puc-fc-satisfaction-advantage.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
 - [SPOC+EIL improves ability-analysis and total written scores but not basic knowledge scores relative to LBL](spoc-eil-ability-scores-not-basic-knowledge.md) — related
+- [Hemodialysis nurses trained with flipped classroom scored significantly higher on objective, subjective, and overall theoretical knowledge than nurses trained with lecture-based learning](fc-beats-lbl-hemodialysis-theoretical-knowledge.md) — related

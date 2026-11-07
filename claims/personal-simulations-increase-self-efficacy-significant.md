@@ -54,3 +54,4 @@ Pre-post paired-samples t-test analysis of 20 interns' self-efficacy questionnai
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
 - [In one uncontrolled pre-post study, psychiatrists' self-rated willingness to treat patients at suicide risk rose from pre-intervention to post-intervention after a GenAI simulator session.](genai-simulator-increases-willingness-to-treat-suicidal-patients.md) — related
 - [The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs](post-rosc-simulation-increased-confidence.md) — related
+- [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — related

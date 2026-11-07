@@ -71,3 +71,6 @@ Same validated 24-item perception questionnaire completed by all 60 study-group 
 - [Participants report strong future engagement intentions and high enjoyment of the e-textile STEAM PD program](e-textile-pd-future-engagement-satisfaction.md) — related
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](student-perceptions-online-caries-module.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
+- [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
+- [User satisfaction with the system is high overall (94%), with educators most satisfied (90%) and grade 4–6 students relatively less satisfied](hci-system-user-satisfaction-educators-highest.md) — related
+- [Students in the REPs-VS group rated gains in learning needs identification, clinical reasoning, and communication highly, with 98.3% agreeing the platform enhanced their understanding](reps-vs-perceptions-knowledge-skills.md) — related

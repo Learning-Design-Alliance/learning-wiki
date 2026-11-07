@@ -58,9 +58,11 @@ Learners are systematically miscalibrated: they overestimate what they know and 
 5. Repeat across multiple cycles and have learners track their calibration trend over time ([Check-In](../elements/check-in.md) routines work well as the recurring touchpoint)
 
 ## Related Strategies
+
 - **Pretesting** — prediction before instruction doubles as a retrieval event that primes subsequent learning
 - **Exam wrappers / post-task reflection** — the structured reflection step after results return
 - **Portfolio self-assessment** — longer-cycle version using accumulated work rather than single tasks
+- [Incorporate reflective practices, feedback mechanisms, and pre/post ADKS assessment into training to foster accurate self-assessment of dementia knowledge](reflective-practices-accurate-self-assessment-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repeated estimate–result cycles are what produce calibration

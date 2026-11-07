@@ -54,3 +54,4 @@ The review's discussion synthesizes findings on learning environment, noting tha
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — a narrower finding that bears on this claim
 - [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](cbl-teamwork-supports-psychological-safety.md) — related
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
+- [Facilitator role management — psychological safety awareness, structure, and managing dominant voices — conditions whether CBL supports active learning](facilitator-role-management-cbl-active-learning.md) — related

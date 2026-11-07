@@ -52,3 +52,4 @@ Covariate analyses within the latent change SEM of 1411 preservice teachers. Age
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](math-self-efficacy-gender-gap-top5.md) — related
+- [Gender and age moderate the habit–intention relationship, stronger for males and for those aged 30 or above](gender-age-moderate-habit-intention.md) — related

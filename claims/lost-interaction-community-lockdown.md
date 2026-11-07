@@ -57,3 +57,4 @@ Qualitative theme from questionnaire open-ended responses, individual interviews
 - [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related
 - [Large study group size prevented the learning process in both communication settings](large-group-size-prevented-learning.md) — related
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — reports the opposite
+- [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related

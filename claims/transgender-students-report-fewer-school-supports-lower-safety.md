@@ -65,3 +65,4 @@ Descriptive analysis of pooled 2017–19 California Healthy Kids Survey response
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
 - [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — related
 - [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](cal-well-dnusd-student-school-connectedness-increase.md) — related
+- [The strength of associations between GSA experiences and wellbeing does not vary by youth's sexual orientation identity, gender identity, or race or ethnicity](gsa-experience-wellbeing-associations-do-not-vary-by-demographics.md) — related

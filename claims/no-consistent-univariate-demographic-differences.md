@@ -62,3 +62,4 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [Tabriz nursing students reported a high level of caring behaviours (mean 121.03 of a possible 144)](caring-behaviours-level-tabriz-nursing-students.md) — related
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
 - [No significant differences in competence scores by residence, professional background, or employment intention for most domains](null-residence-specialty-employment-competence.md) — a narrower finding that bears on this claim
+- [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related

@@ -58,3 +58,5 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Virtual patient platform plus mind mapping raises medical students' reported learning enthusiasm far more than conventional teaching](dxr-mindmap-enhancement-subjective-initiative.md) — related
 - [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related
 - [Students in two distinct experiential learning courses reported positive perceived skill gains, with 87%–96% agreeing or strongly agreeing with Likert prompts across four domains](el-courses-positive-perceived-gains-four-domains.md) — related
+- [Facilitators received CBL positively, with 85% agreeing the hybrid approach enhances communication skills and 80% supporting its regular timetable incorporation](facilitators-positive-cbl-feedback-physiology.md) — related
+- [Students in the REPs-VS group rated gains in learning needs identification, clinical reasoning, and communication highly, with 98.3% agreeing the platform enhanced their understanding](reps-vs-perceptions-knowledge-skills.md) — related

@@ -49,3 +49,4 @@ Multiple regression analysis in a descriptive relational study of 436 voluntary 
 - [Hostility and afraid attachment do not meaningfully predict cognitive flexibility, while the other variables do](hostility-afraid-attachment-null-predictors-flexibility.md) — a narrower finding that bears on this claim
 - [Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students](irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility.md) — related
 - [Educational attainment, age, and continuing education frequency independently predict multidisciplinary competency, together explaining 14% of variance](education-age-ce-predict-mdt-competency.md) — related
+- [Academic procrastination correlates positively with irrational beliefs at pretest, posttest, and follow-up](procrastination-irrational-belief-correlation.md) — related

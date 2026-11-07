@@ -53,6 +53,7 @@ The authors recommend hybrid simulation as "a valuable complement to clinical sk
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
 - [Incorporate 3D-printed temporal bone models into surgical training programs to accelerate the learning curve](3d-printed-temporal-bone-training-programs.md)
+- [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 
 ## Examples
 -

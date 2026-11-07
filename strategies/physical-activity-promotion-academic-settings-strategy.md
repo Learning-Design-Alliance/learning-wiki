@@ -51,6 +51,7 @@ The article recommends that institutions embed physical movement in academic lif
 - [Mini Classroom Exercise Breaks](mini_classroom_exercise_breaks.md)
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
 - [Tailored institutional support for fasting students: flexible schedules, sleep hygiene programs, and fatigue monitoring](ramadan-student-support-flexible-schedules-fatigue-monitoring.md)
+- [Integrate structured physical activity programs into the daily school curriculum to sustain MVPA](structured-daily-school-physical-activity-programs.md)
 
 ## Examples
 -

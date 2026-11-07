@@ -68,3 +68,4 @@ Study of 67 neuropsychology students comparing a mobile AR application for brain
 - [Midwifery students reported significantly greater satisfaction with the gamified training method than with the traditional lecture method](gamification-greater-satisfaction-midwifery-students.md) — related
 - [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
 - [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related
+- [Post-intervention, a majority of students preferred the virtual learning module over traditional teaching and VR headset over desktop delivery](post-intervention-preference-vl-and-vr.md) — related

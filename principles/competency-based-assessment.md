@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (21 for, 37 mixed, 2 against) · 60 studies (14 design, 12 causal, 11 review, 10 associational, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 3 of 60 report an effect size · 55 claims rest on one study
+> **Evidence** · 61 claims (22 for, 37 mixed, 2 against) · 61 studies (15 design, 12 causal, 11 review, 10 associational, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 3 of 61 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [Experienced surgeons significantly outperformed novices on nine of 32 individual simulator metrics, while novices outperformed surgeons on one metric (distance from screw to fracture lines), which was excluded as construct-irrelevant](../claims/individual-metric-contrasts-nine-favor-surgeons-one-reverse.md) [+W] — attached 2026-11-05 from Jacobsen Mads Emil et al. (2026), which proposed "Develop surgical simulators around explicit, evidence-based assessment tools defined by expert consensus".
 - [Examiner effects on total SOE scores were significant for pure tone audiometry (p = 0.001) but not for rhinomanometry (p = 0.078)](../claims/soe-examiner-effects-pta-significant.md) [+W] — attached 2026-11-05 from Günther S.I. et al. (2025), which proposed "Train and calibrate oral examiners with anchor cases and behaviorally anchored criteria because examiner effects threaten SOE objectivity".
 - [Optimal number of procedures for a reproducible assessment is 10, 17, 15, and 17 for PGY 2, 3, 4, and 5 respectively, with senior years requiring more procedures](../claims/optimal-procedures-increase-by-pgy.md) [+W] — attached 2026-11-06 from Sun Ting et al. (2024), which proposed "Adjust the number of assessed procedures based on trainees' stage in training to enhance assessment accuracy".
+- [Expert consensus metrics for circular stapling anastomosis comprise three procedural phases, 36 steps, 42 errors and 39 critical errors with unanimous Delphi agreement](../claims/circular-stapling-anastomosis-metrics-consensus.md) [+W] — attached 2026-11-07 from Tou S et al. (2025), which proposed "Use validated performance metrics as the foundation for structured training in circular stapling anastomosis".
 
 ## Objective and learner-valued goal
 

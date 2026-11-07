@@ -52,6 +52,7 @@ The article recommends that the organisation develop a strategy, governance and 
 
 - [Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up](staged-readiness-policy-clarity-before-scale-up.md)
 - [Enable leadership to nurture adaptive space for LA-related innovations and navigate existing resources to encourage change](enable-leadership-adaptive-space-la-innovation.md)
+- [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 
 ## Examples
 -

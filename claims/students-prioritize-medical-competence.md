@@ -51,3 +51,4 @@ Synthesis of the four included student-targeted studies (e.g. Maudsley et al. 20
 - [Stakeholder groups differ in their conceptions of a good doctor, with patients emphasizing communication and doctors medical skills](stakeholder-differences-good-doctor-concept.md)
 - [General interpersonal qualities and communication are the most frequently mentioned good-doctor attributes across 20 studies](interpersonal-communication-most-mentioned-good-doctor.md) — related
 - [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
+- [Medical students value interpersonal and personal qualities — especially respect and patience — most in an exemplary teacher, but judge bad teachers mainly on teaching-domain failures](exemplary-teacher-attributes-medical-students.md) — related

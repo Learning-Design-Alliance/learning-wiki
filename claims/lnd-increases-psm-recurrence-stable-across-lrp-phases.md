@@ -87,3 +87,4 @@ One-year biochemical recurrence showed no significant group difference; the auth
 - [Length of hospital stay decreased significantly with surgical experience in laparoscopic radical prostatectomy, while catheterization duration did not change](hospital-stay-decreases-with-lrp-experience.md) — related
 - [No learning curve inflection point was identified for open LLND](open-llnd-no-inflection-point.md) — related
 - [The overall positive surgical margin rate was 27.8%, with PSM rates higher in junior surgeons (39.5% and 36.1%) than senior surgeons (17.5% and 21.1%), though not statistically significant](psm-rates-by-surgeon-experience-versius.md) — related
+- [Lymph node dissection quality improved across learning-curve stages, with total, mediastinal, and RLN lymph node counts and RLN harvest rate rising by the proficient stage](laspme-lymph-node-harvest-improves-across-stages.md) — related

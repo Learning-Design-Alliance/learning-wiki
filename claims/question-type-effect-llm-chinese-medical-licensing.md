@@ -70,3 +70,4 @@ Bonferroni-corrected post hoc paired t-tests between question-type pairs, report
 - [Question type affects accuracy: feature-to-concept questions are answered best and applied questions worst](question-type-accuracy-ordering.md) — a broader claim this one bears on
 - [No significant differences in LLM accuracy across medical specialties or between acute and chronic questions](no-accuracy-differences-specialty-urgency.md) — related
 - [Histology topic, not LLM platform, was the primary factor in performance variance (η2 = 0.452 vs 0.006), with a significant system-by-topic interaction](topic-effect-dominates-system-effect-llm-histology.md) — related
+- [LLM accuracy varied significantly across oncology topics, with the lowest performance in colorectal tumors (mean 48.3%) and genitourinary tumors (mean 50.8%)](llm-accuracy-varies-across-oncology-topics.md) — related

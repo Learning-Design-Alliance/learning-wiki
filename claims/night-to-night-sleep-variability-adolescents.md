@@ -56,3 +56,4 @@ Descriptive actigraphy statistics from the week of monitoring in 160 adolescents
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
 - [Study time is negatively correlated with sleep duration, strengthening toward the exam day (r = −0.444), and higher study time is associated with poorer PSQI sleep quality](study-time-trades-off-against-sleep.md) — related
 - [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](sleep-duration-associated-entrance-success.md) — related
+- [Device-recorded sleep and PSQI self-report showed discrepancies, with very low Fitbit sleep durations co-occurring with PSQI scores indicating little sleep problems](fitbit-psqi-sleep-discrepancies-adolescents.md) — related

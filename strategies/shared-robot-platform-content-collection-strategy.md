@@ -48,6 +48,7 @@ To address the cost and labor limitations of robot-assisted health education, th
 
 - [Robot Assisted Ds Clinical Health Education Strategy](robot-assisted-ds-clinical-health-education-strategy.md)
 - [Phased implementation strategy for robot-assisted training to distribute costs](phased-implementation-robot-training-strategy.md)
+- [Distribute real-patient video production costs through interschool partnerships and shared digital repositories](shared-repositories-video-production-scalability.md)
 
 ## Examples
 -

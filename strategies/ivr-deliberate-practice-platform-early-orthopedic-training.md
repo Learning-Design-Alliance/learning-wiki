@@ -56,6 +56,7 @@ The authors recommend integrating the simulator into early orthopedic training "
 - [Incorporate the validated sensorised glove into structured obstetric training curricula after staged refinement and validation](staged-sensorised-glove-training-curriculum-strategy.md)
 - [Integrate AOI-dependent eye-tracking and motion metrics into training sessions for real-time formative feedback and personalized training](eye-tracking-real-time-formative-feedback-laparoscopic-training.md)
 - [Structured return-to-work simulation bootcamp for surgeons returning after time out of training](return-to-work-surgical-bootcamp-strategy.md)
+- [Enhance lacrimal irrigation simulation training with force-sensitive gloves, longitudinal validation, and motion analytics](future-enhanced-simulation-validation-motion-analytics.md)
 
 ## Examples
 -

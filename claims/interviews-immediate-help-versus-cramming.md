@@ -47,3 +47,4 @@ Semi-structured interviews with the instructor, TAs, and learners from both grou
 ## Related Claims
 - [Learners in both teaching models interacted mostly with TAs and peers rather than with the instructor](learners-interact-mostly-tas-peers-not-instructor.md) — related
 - [No significant difference in teacher–student interaction ratings between the flipped and conventional OCW classroom groups](no-interaction-difference-flipped-conventional-ocw.md) — related
+- [Flipped classroom seminars improved immediate topic-specific test performance in three of four pharmacology topics compared with conventional teaching](fc-immediate-test-gains-three-topics.md) — related

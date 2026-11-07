@@ -50,3 +50,4 @@ Thematic analysis of three focus group discussions, each with five faculty membe
 ## Related Claims
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — related
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — a broader claim this one bears on
+- [Trainee focus groups identified that simulation training built a stronger, more confident team and created a space for communication and decision-making](ecmo-sim-qualitative-confidence-themes.md) — related

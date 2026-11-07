@@ -48,3 +48,4 @@ From the 74-educator attitude survey: "Teaching staff thought that virtual commu
 - [Faculty concerns centered on academic integrity (80%) and over-reliance on AI by students or faculty (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
 - [Time delay and head pose variations relative to the screen were significant predictors of cheating, yielding 75.6% average detection accuracy](head-pose-time-delay-cheating-predictors.md) — related
 - [A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment](moop-webcam-acd-detection-metrics.md) — related
+- [Unsupervised online exams saw considerable cheating rises during COVID-19 lockdowns, and opportunity is a main driver of cheating](unsupervised-online-exams-cheating-opportunity.md) — related

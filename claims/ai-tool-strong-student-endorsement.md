@@ -50,3 +50,4 @@ Descriptive results of terminatory questionnaire (T2) among 72 students (Table 5
 - [No published investigations specifically address the use of coaching in endodontics, and no recommended models exist](no-published-coaching-research-endodontics.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related
+- [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related

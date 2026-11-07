@@ -49,3 +49,5 @@ Linear regression on 1,398 survey responses; the PTSD symptom coefficient was 0.
 - [Severe anxiety symptoms and moderate or severe sleep problems were associated with 12.2% and 11% reductions in academic performance respectively](severe-anxiety-sleep-problems-academic-reduction.md) — related
 - [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related
 - [Severe depression symptoms were associated with a 17.4% reduction in academic performance of Ukrainian university students during the war](severe-depression-academic-performance-reduction.md) — related
+- [44.2% of surveyed Ukrainian medical students reported significant PTSD symptoms, with the highest subscale score on hyperarousal](ptsd-significant-symptoms-medical-students-war.md) — related
+- [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — related

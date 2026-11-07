@@ -67,6 +67,7 @@ The conference converts feedback from a one-way written transmission into a dial
 - [Use a Letter to the Reviewer reflective memo submitted with each draft](letter-to-the-reviewer-memo.md)
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Provide immediate individual written and oral corrective feedback the day after a writing task](immediate-individual-written-oral-feedback-strategy.md)
+- [Replace or supplement essay assessment with interactive oral assessments (viva voces) where writing is not the skill being assessed](oral-viva-assessment-replace-essays.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the conference is a micro-instance of the coaching cycle: observe, diagnose, act

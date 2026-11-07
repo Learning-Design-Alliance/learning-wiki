@@ -66,3 +66,4 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [PBE shows no statistically significant effect on teachers' self-reported pedagogical practices, and the survey measure may lack sensitivity](pbe-no-pedagogical-practice-effect.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [Most nurse educators in the validation sample lacked required pedagogical training for their role](nurse-educators-lack-pedagogical-training.md) — related
+- [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related

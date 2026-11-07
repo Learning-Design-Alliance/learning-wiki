@@ -54,3 +54,4 @@ Paired t test on procedure durations recorded from video performances of the sam
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [FONA procedure duration after three months was on average 3.6 seconds longer for the self-made-model group, with no pre-specified non-inferiority threshold](fona-duration-self-made-plus-3-6s.md) — related
 - [Time to acquire all eight rTEE views decreased from 7.3 minutes at month 6 to 5.7 minutes at month 7, a non-significant difference](rtee-acquisition-time-month6-month7.md) — related
+- [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — a narrower finding that bears on this claim

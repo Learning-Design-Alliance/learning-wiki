@@ -49,3 +49,4 @@ Descriptive self-report from the custom 5-point Likert questionnaire in the same
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Students reported high perceived usefulness of AI for teaching preparation and classroom performance.](students-rate-ai-usefulness-highly.md) — related
 - [VR-based neonatal resuscitation training is feasible and positively received by healthcare providers in Vietnam, with 100% recommending it and 86% rating it more realistic than traditional methods](vr-neonatal-resuscitation-training-feasible-vietnam.md) — related
+- [Expert clinicians rate the VR-based airway training system positively on feasibility, perceived usefulness and ease of use](vr-airway-tam-positive-ratings.md) — related

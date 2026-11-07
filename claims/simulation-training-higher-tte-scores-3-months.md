@@ -68,3 +68,4 @@ Same trial, secondary custom-made 33-point score for recognising anatomical stru
 - [Simulation-based training gains in neonatal TTE are retained at 6 months, though controls catch up on the reference score](simulation-training-tte-skill-retention-6-months.md) — related
 - [In a randomized controlled trial reported by the review, neonatology residents receiving simulation-based echocardiography training scored higher than controls at 3 and 6 months](simulation-training-improves-neonatal-resident-echo-scores.md) — a broader claim this one bears on
 - [Simulation-based training does not significantly change neonatal TTE duration at 3 or 6 months](simulation-training-no-tte-duration-difference.md) — related
+- [Both groups rated learning at the skill lab as a better alternative to bedside learning, with no significant group difference](skill-lab-better-than-bedside-both-groups.md) — reports the opposite

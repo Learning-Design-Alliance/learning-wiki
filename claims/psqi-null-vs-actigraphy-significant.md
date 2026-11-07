@@ -53,3 +53,5 @@ Comparison of PSQI total and component scores between the median-split groups (T
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — reports the opposite
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — reports the opposite
+- [Device-recorded sleep and PSQI self-report showed discrepancies, with very low Fitbit sleep durations co-occurring with PSQI scores indicating little sleep problems](fitbit-psqi-sleep-discrepancies-adolescents.md) — related
+- [Simulated animated video education improved sleep quality more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](animated-video-improves-sleep-quality-endoscopy.md) — related

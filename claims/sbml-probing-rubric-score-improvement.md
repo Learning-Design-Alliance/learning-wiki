@@ -50,3 +50,4 @@ Pre–post comparison in the same 20 residents using a 40-point performance rubr
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
 - [Total procedural quality scores do not differ significantly between high-fidelity simulation and procedural workshop groups](procedural-quality-score-no-difference-ecmo-training.md) — related
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
+- [Rubric-assessed PBL tutorial performance improves significantly between core time 1 and core time 2 (r=0.516)](rubric-performance-improves-across-pbl-sessions.md) — related

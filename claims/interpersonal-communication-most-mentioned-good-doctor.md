@@ -51,3 +51,4 @@ Narrative synthesis of 20 included articles and open-access questionnaires, in w
 - [Stakeholder groups differ in their conceptions of a good doctor, with patients emphasizing communication and doctors medical skills](stakeholder-differences-good-doctor-concept.md)
 - [Doctors rate medical competence and ethics most important and never rank communication first](doctors-rate-competence-ethics-highest.md) — related
 - [Medical students prioritize medical competence over teaching competence](students-prioritize-medical-competence.md) — related
+- [Medical students value interpersonal and personal qualities — especially respect and patience — most in an exemplary teacher, but judge bad teachers mainly on teaching-domain failures](exemplary-teacher-attributes-medical-students.md) — related

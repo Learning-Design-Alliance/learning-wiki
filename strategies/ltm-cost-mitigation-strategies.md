@@ -48,6 +48,7 @@ Because "the high cost of LTM equipment limits scalability in low-income areas",
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
+- [Distribute real-patient video production costs through interschool partnerships and shared digital repositories](shared-repositories-video-production-scalability.md)
 
 ## Examples
 -

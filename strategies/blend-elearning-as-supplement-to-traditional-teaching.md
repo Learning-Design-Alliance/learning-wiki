@@ -77,6 +77,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 - [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
+- [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
+- [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 
 ## Examples
 -

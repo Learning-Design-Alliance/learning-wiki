@@ -66,3 +66,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Nursing students rate support, objectives and information, and fidelity as the highest-rated simulation design dimensions](jordan-students-rate-support-objectives-fidelity-highest-sds.md) — related
 - [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
 - [Realism ratings for prophylactic and emergency cerclage scenarios are positive but lower than overall effectiveness](wccs-realism-ratings-scenarios.md) — related
+- [Students rated the VR-based station similarly to the physical station on most perception items, but showed significant hesitancy toward broader future use of VR in assessments](vrs-acceptance-hesitancy-future-use.md) — related

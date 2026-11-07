@@ -54,3 +54,4 @@ Linear mixed models with matched ICSEA subgroups found Year 3 low-ICSEA students
 - [Year 4 students in major cities demonstrated one month's additional reading growth in 2020 compared with 2019](covid19-year4-major-cities-one-month-additional-reading-growth.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
+- [64.3% of students demonstrated knowledge and skills meeting the set standards on the report assessment, with no significant difference between the 2020/21 and 2021/22 cohorts](two-thirds-met-proficiency-standards-report-assessment.md) — related

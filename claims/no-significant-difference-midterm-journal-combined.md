@@ -57,3 +57,5 @@ One-way ANOVA results for these measures: mid-term exam F = .38, p = .68; journa
 - [Graduate students in a gamified online statistics course scored significantly higher on exams than students in a non-gamified control group](lms-gamification-higher-exam-scores.md) — related
 - [Students in the blended learning group scored significantly higher on the mid-term pathophysiology examination than students in the traditional lecture group](blended-midterm-higher-than-lecture.md) — reports the opposite
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
+- [Flipped classroom did not alter overall student performance on midterm tests or exam grades](fc-no-overall-performance-change.md) — related
+- [Facilitator group was a significant factor in student self-assessed SDL total scores at course midpoint but not at endpoint](facilitator-effect-midpoint-only.md) — related

@@ -106,6 +106,7 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 - [Include a patient panel discussion to ground communication training in patient experiences](patient-panel-discussion-communication-training.md)
 - [Use role-play of standardized clinical scenarios as the shared active-learning core of communication-skills workshops](role-play-standardized-scenarios-communication-workshops.md)
 - [Involve people with lived experience throughout simulation, from defining objectives and codesigning scenarios to training actors, observing simulations and contributing to debriefings](involve-ple-throughout-simulation-lifecycle.md)
+- [Use brief five-minute mini-simulation videos with small-group empathy mapping to reduce large-group simulation anxiety](mini-simulation-small-group-empathy-mapping-strategy.md)
 
 ## Examples
 - **Corporate customer-service training** — agents rehearse handling an angry customer while a peer plays the customer from a brief; the debrief names specific de-escalation moves observed

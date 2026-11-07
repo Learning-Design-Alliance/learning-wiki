@@ -42,6 +42,7 @@ The authors describe an ongoing improvement cycle in which "each cycle would con
 - [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
 - [Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction](planned-ai-instruction-enhancements-rag-multiturn.md)
 - [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
+- [Iteratively improve a VR course through continuous evaluation and informal feedback](iterative-evaluation-driven-vr-course-improvement.md)
 
 ## Examples
 -

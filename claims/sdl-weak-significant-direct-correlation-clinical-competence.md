@@ -53,3 +53,4 @@ Pearson correlation analysis in the Findings section of a cross-sectional descri
 - [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related
 - [A chatbot-based self-directed learning program for mechanical ventilation nursing raises nursing students' clinical reasoning competency more than video lectures alone](chatbot-sdl-raises-clinical-reasoning-competency.md) — related
 - [Full Code simulation scores correlate positively but weakly with final course grades in clinical medicine and surgery courses (overall r = 0.30)](full-code-score-correlates-with-course-grade.md) — related
+- [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related

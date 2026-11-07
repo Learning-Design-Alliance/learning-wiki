@@ -65,3 +65,4 @@ Multi-cohort quasi-experiment with historical control (2023 LBL n=21; 2024/2025 
 - [BOPPPS-CBL teaching produces higher post-class chest pain test scores than lecture-based learning among resident physicians](boppps-cbl-higher-post-class-test-scores-residents.md) — related
 - [Primary care physicians' knowledge of when to refer perinatal patients to a psychiatrist rose from mean 1.90 pre-test to 3.13 post-test after training, in one uncontrolled pre-post study.](pmh-training-improves-referral-knowledge.md) — related
 - [Pre-class test scores did not differ between BOPPPS-CBL and LBL groups at baseline](boppps-cbl-lbl-equal-pre-class-scores.md) — related
+- [No significant difference among CBL, lecture, and reflection groups in patient safety knowledge after the intervention](no-between-group-knowledge-difference-patient-safety.md) — related

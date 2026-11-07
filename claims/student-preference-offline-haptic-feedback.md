@@ -68,3 +68,4 @@ Drawbacks reported in the same survey: the article reports "positioning of the b
 - [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related
 - [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
+- [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — reports the opposite

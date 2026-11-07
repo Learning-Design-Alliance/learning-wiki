@@ -60,3 +60,4 @@ Discussion statement summarizing the discrimination-index classification across 
 - [Item difficulty ranged broadly (completion rates 0.05–0.90) and discrimination ranged 0.14–0.60, with UI-related and navigation-heavy tasks showing particularly good discrimination](specific-ic-item-difficulty-discrimination-range.md) — related
 - [Difficulty ranges of ChatGPT and instructor items differed: ChatGPT items spanned a broader range while the human test included more high-difficulty items](chatgpt-items-broader-difficulty-range-human-more-high-difficulty.md) — related
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — related
+- [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related

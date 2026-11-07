@@ -56,3 +56,4 @@ Subgroup analysis of accuracy by question purpose (diagnosis, treatment, other) 
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — related
 - [ChatGPT's reported accuracy on medical licensing examinations varies widely across countries, from 22% (France) to 73% (Italy)](chatgpt-medical-exam-accuracy-varies-by-country.md) — related
+- [ChatGPT can complete multiple-choice exams to a very high standard, across disciplines and including image- and data-based questions](chatgpt-high-performance-mcq-exams.md) — related

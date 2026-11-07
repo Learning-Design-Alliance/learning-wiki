@@ -67,3 +67,4 @@ Descriptive competence distributions from the survey (Table 6). The article adds
 - [No significant group differences in self-assessed competence for basic techniques (strength/endurance training and breathing exercises)](null-group-differences-basic-technique-competence.md) — related
 - [Spirometry was the lowest-rated domain at baseline and remained lowest post-training; self-rated knowledge, skills, and confidence rose from baseline to post-training in one single-group pre-post study](spirometry-lowest-rated-domain-pr-training.md) — related
 - [Perceived importance of post-COVID rehabilitation techniques shows no significant differences between student and professional groups](no-group-differences-in-perceived-importance.md) — related
+- [Facilitators demonstrated breathing techniques in nearly all cases but only about half of participants were heard practising them back](breathing-technique-practice-back-half-of-participants.md) — related

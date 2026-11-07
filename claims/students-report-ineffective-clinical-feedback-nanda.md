@@ -47,7 +47,7 @@ In the same qualitative interview study, students reported variability in feedba
 ## Related Claims
 - [Nursing students perceive theoretical instruction on NANDA-I diagnoses as adequate but report insufficient opportunities to apply diagnoses in clinical settings](students-perceive-clinical-training-nanda-insufficient.md) — related
 - [Nursing students rely on a narrow set of familiar NANDA-I diagnoses and report insufficient exposure to diverse taxonomy domains](students-rely-on-limited-nanda-diagnosis-set.md) — related
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](qualitative-explanation-competency-gap-feedback-workload.md) — related
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](instructor-following-procedure-associated-competency-ethiopia.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Students perceived instructor's supportive guidance and portable ultrasound practicality as key features of the learning environment](supportive-guidance-portable-ultrasound-environment.md) — related

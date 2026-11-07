@@ -52,3 +52,4 @@ Qualitative content analysis of focus group interviews with 34 personnel coded e
 - [Training programs at designated infectious disease institutions improved confidence, role clarity, and interdepartmental collaboration among personnel](fgi-training-improved-confidence-role-clarity-collaboration.md) — related
 - [Response competency is a multidimensional construct combining technical skills with psychological resilience, collaboration, leadership, communication, and professional identity](response-competency-multidimensional-construct.md) — related
 - [Focus groups with nurses at four clinical-ladder stages identify five educational needs for medication safety competence](five-educational-needs-medication-safety-nurses.md) — a broader claim this one bears on
+- [HF nurses report educational needs centred on optimizing guideline-directed medical therapy and advanced clinical assessment skills](hf-nurse-educational-needs-gdmt-assessment.md) — related

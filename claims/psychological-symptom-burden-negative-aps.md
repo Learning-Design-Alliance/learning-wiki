@@ -51,3 +51,4 @@ Final block of the hierarchical linear regression (n = 89) in the cross-sectiona
 - [Positive 3Q-TMD screening is more frequent among lower-performing students but is explained by oral parafunctional behavior rather than academic performance](tmd-screening-confounded-oral-behavior.md) — related
 - [Screen time correlates negatively with assessment scores and depression correlates negatively with academic integrity](screen-time-depression-correlate-academic-outcomes-ghana.md) — related
 - [Depression predicts increased assessment dishonesty, amplified among students with high non-academic screen time](depression-predicts-assessment-dishonesty-screen-time-moderation.md) — related
+- [Neither ADHD symptoms alone nor combined with comorbid symptoms significantly predict first-semester GPA; only depressive symptoms show a significant independent contribution](no-adhd-comorbidity-prediction-first-semester-gpa.md) — related

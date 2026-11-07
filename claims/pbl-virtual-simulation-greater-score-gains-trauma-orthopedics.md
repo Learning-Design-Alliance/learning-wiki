@@ -71,3 +71,6 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [RCDP ACLS simulation produces greater ACLS knowledge gains than traditional simulation, which showed no significant change](rcdp-acls-simulation-greater-knowledge-gains.md) — related
 - [The simulation group significantly outperformed the traditional teaching group on the post-session quiz (Q3)](simulation-group-superior-q3-score.md) — related
 - [ICU nurses trained with ultrasound simulation achieve significantly higher practical operation scores than nurses taught traditionally](simulation-training-higher-practical-scores-icu-nurses.md) — related
+- [Deliberate practice students report significantly higher confidence and preparedness than conventional lecture students](deliberate-practice-higher-confidence-preparedness.md) — related
+- [Deliberate practice yields significantly higher OSCE scores than conventional lecture in trauma training for pre-clinical medical students](deliberate-practice-higher-osce-trauma-training.md) — related
+- [Within the experimental group, theory examination scores improved significantly from before to after REPs-VS learning](reps-vs-within-group-theory-gain.md) — related

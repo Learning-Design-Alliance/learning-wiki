@@ -72,3 +72,4 @@ Qualitative content analysis (Mayring) of free-text answers on main insights; in
 - [European dental schools show large variation in gerodontology teaching, with many lacking clinical and outreach components](european-gerodontology-teaching-variation-gaps.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
+- [First-year Biology students report high satisfaction with a QR-based active learning bioinformatics lesson, with 94.6% finding the lesson important and about 89% finding it effective for information-management skills](qr-gymkhana-bioinformatics-high-student-satisfaction.md) — related

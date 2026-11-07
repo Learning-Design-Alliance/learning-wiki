@@ -49,3 +49,4 @@ Review synthesis and historical analysis (citing Coppe, 2024) of how the field f
 - [The most common rationale treats the teacher network as a source of professional development (32 of 51 studies)](network-as-source-of-tpd-rationale.md) — related
 - Included studies conceptualized TPD in ten distinct themes, most often as improvement of instructional practices (20 studies) — related
 - [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related
+- [Connectedness with stakeholders acts as a catalyst enabling the factors that sustain teacher motivation](connectedness-catalyst-sustaining-teacher-motivation.md) — related

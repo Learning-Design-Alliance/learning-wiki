@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 447 claims (267 for, 155 mixed, 25 against) · 279 studies (110 causal, 78 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 57 of 279 report an effect size · 442 claims rest on one study
+> **Evidence** · 451 claims (270 for, 156 mixed, 25 against) · 282 studies (113 causal, 78 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 58 of 282 report an effect size · 446 claims rest on one study
 
 ## Conditional relationship
 
@@ -445,6 +445,10 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Student nurse-midwives' knowledge of postpartum hemorrhage prevention and management rose from pre-test to post-test after simulation-based education, in one uncontrolled pre-post study (Tanzania)](../claims/simulation-education-improves-pph-knowledge-tanzanian-nurse-midwives.md) [+M] — attached 2026-11-07 from Faustine Rose et al. (2025), which proposed "Integrate standardized simulation scenarios and educator training into nurse-midwifery curricula"; tests this page's relationship.
 - [Student nurse-midwives' skills scores in postpartum hemorrhage prevention and management rose from baseline to endline after simulation-based education, in one uncontrolled pre-post study](../claims/simulation-education-improves-pph-skills-tanzanian-nurse-midwives.md) [+M] — attached 2026-11-07 from Faustine Rose et al. (2025), which proposed "Integrate standardized simulation scenarios and educator training into nurse-midwifery curricula"; tests this page's relationship.
 - [VR-group students scored significantly higher than control students on physical examination, ultrasound manipulation, and diagnosis in virtual simulation case assessment](../claims/vr-group-higher-physical-exam-ultrasound-diagnosis-scores.md) [+W] — attached 2026-11-07 from Wang Qianyun et al. (2025), which proposed "Use virtual simulation beyond technical imitation to demonstrate a disease's progression from anatomy to pathophysiology and clinical signs"; tests this page's relationship.
+- [Nurses trained with NIVR simulation completed the six OSCE tasks significantly faster than conventionally trained nurses](../claims/nivr-training-faster-total-task-completion.md) [+W] — attached 2026-11-07 from Zhang D et al. (2025), which proposed "Four-hour NIVR session structure combining instructor demonstration, supervised virtual practice, and group discussion"; tests this page's relationship.
+- [Simulation training with haptic feedback lowers residents' overall NASA-TLX workload during subsequent live robot-assisted sleeve gastrectomies performed without haptic feedback](../claims/haptic-training-lowers-live-or-workload.md) [+W] — attached 2026-11-07 from Gomez ED et al. (2024), which proposed "Provide naturalistic haptic feedback of instrument vibrations during early robotic surgery simulation training to reduce trainee workload in later live operations"; tests this page's relationship.
+- [Haptic-feedback simulation training reduces physical demand and improves perceived performance in both simulation and live OR settings, with setting-specific effects on effort and mental demand](../claims/haptic-feedback-subscales-physical-demand-performance.md) [+W] — attached 2026-11-07 from Gomez ED et al. (2024), which proposed "Provide naturalistic haptic feedback of instrument vibrations during early robotic surgery simulation training to reduce trainee workload in later live operations".
+- [Experienced HEMS participants rate the MeTra simulator's enclosed environment and communication system as highly similar to a real helicopter](../claims/metra-simulator-fidelity-ratings.md) [~W] — attached 2026-11-07 from Omori Kazuhiko et al. (2025), which proposed "Align simulator fidelity with learners' needs and key tasks rather than maximizing physical realism".
 
 ## Objective and learner-valued goal
 
@@ -727,6 +731,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](../strategies/vr-complementary-continuing-emergency-training-strategy.md)
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](../strategies/daily-repeated-vr-practice-then-final-test.md)
 - [Add a self-assessment mode without real-time instructions to immersive VR procedural training modules](../strategies/vr-self-assessment-mode-no-instructions.md)
+- [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](../strategies/mixed-learning-mode-vr-plus-tactile.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

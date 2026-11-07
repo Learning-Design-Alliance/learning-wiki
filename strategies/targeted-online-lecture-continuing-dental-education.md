@@ -53,6 +53,7 @@ The article recommends delivering concise, evidence-based, interactive online le
 - [Segment recorded lectures into shorter videos with embedded interaction](segmented-short-lecture-videos-strategy.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Targeted continuing professional development and specialist shadowing to address cognitive errors in oral cancer recognition](targeted-cpd-oral-cancer-recognition.md)
+- [Deliver dedicated lymphoedema lectures and clinical exposure sessions, including cancer-context teaching by oncologists or nurse consultants](lymphoedema-lectures-clinical-exposure-strategy.md)
 
 ## Examples
 -

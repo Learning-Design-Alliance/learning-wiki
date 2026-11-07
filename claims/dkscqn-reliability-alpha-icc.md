@@ -69,3 +69,4 @@ Test-retest reliability was assessed with 46 nurses across two administrations s
 - [Translated and adapted questionnaires showed good reliability for SRIS, PCS and CS but weak separation of SRQ-L-PJ regulation subscales](questionnaire-psychometrics-german-fyms.md) — related
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
 - [The scale shows robust reliability: Cronbach's alpha 0.96, Spearman-Brown 0.86, and composite reliability coefficients above 0.60](gp-depression-scale-reliability-alpha-0-96.md) — related
+- [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related

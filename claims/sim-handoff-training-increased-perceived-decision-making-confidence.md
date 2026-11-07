@@ -76,3 +76,4 @@ Same SET-M post-simulation survey. The article reports "94%, N = 15" strongly ag
 - [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
 - [Students perceive SFH simulation as beneficial for understanding landmarks and building confidence in performing measurements](simulation-perceived-beneficial-sfh.md) — related
 - [Trainees report increased confidence as aesthetic practitioners and increased motivation to learn injection techniques after 3D simulation training](3d-simulation-app-confidence-motivation-perceptions.md) — related
+- [Second-year nursing students who received empathy mapping with mini-simulation showed significantly higher post-test communication self-confidence than controls](empathy-mapping-mini-simulation-higher-communication-confidence.md) — related

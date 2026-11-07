@@ -52,3 +52,4 @@ Unadjusted Kaplan–Meier analysis of 953,081 primary TKRs in the NJR (96,544 tr
 - [Truly autonomous senior resident-led cardiac surgery shows long-term survival similar to matched consultant-led cases up to 10 years](resident-led-cardiac-surgery-long-term-survival-similar.md) — related
 - [All-cause reoperation risk did not differ significantly between trainee- and consultant-performed Oxford UKR, with one intra-operative complication overall](no-reoperation-risk-difference-trainee-consultant-ukr.md) — related
 - [No cup revisions, loosening, or dislocations occurred within six months under trainee-performed CT-navigated cup placement](no-revisions-or-dislocations-navigated-trainee-tha.md) — related
+- [Surgical training did not compromise survival: no significant difference in 2-year overall (p = 0.436) or disease-free (p = 0.305) survival between trainer and trainee patients](mie-training-no-survival-difference.md) — related

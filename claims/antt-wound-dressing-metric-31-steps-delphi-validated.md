@@ -51,3 +51,5 @@ Modified Delphi panel meeting with 21 expert members who evaluated each phase, s
 
 - [Standardising aseptic technique with the ANTT Clinical Practice Framework increased staff mean compliance with hand hygiene, glove use, key-part protection, and aseptic field management, as reported by Clare and Rowley](antt-cpf-standardisation-increased-compliance.md)
 - [Iterative video-based task analysis of 14 wound-dressing recordings, with repeated independent scoring, produced step and error metrics with inter-rater reliability of at least 0.85](video-task-analysis-interrater-reliability-085.md) — a narrower finding that bears on this claim
+- [Expert consensus metrics for circular stapling anastomosis comprise three procedural phases, 36 steps, 42 errors and 39 critical errors with unanimous Delphi agreement](circular-stapling-anastomosis-metrics-consensus.md) — related
+- [Per-phase counts of steps, errors and critical errors showed no statistically significant change after the Delphi process](delphi-no-significant-count-change.md) — related

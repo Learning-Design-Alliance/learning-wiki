@@ -51,3 +51,4 @@ Discussion-section interpretation of the focus-group findings: "near-peers’ hi
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Near-peers tend to answer student questions directly, while faculty better stimulate students to think critically about unanswered questions and how to fill competence gaps](faculty-stimulate-thinking-on-competence-gaps.md) — related
 - [Near-peers are perceived to establish a safer, more informal learning climate than faculty, lowering the threshold for students to ask questions](near-peer-relatability-comfort-asking-questions.md) — related
+- [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — reports the opposite

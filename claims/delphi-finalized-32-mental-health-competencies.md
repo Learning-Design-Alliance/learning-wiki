@@ -59,3 +59,4 @@ Modified Delphi study reporting final voting outcomes. The abstract states "Foll
 - [A three-round Delphi panel of 30 Korean experts derived six core shared competencies for physician–nurse collaboration in primary care, all meeting consensus criteria](delphi-six-shared-competencies-primary-care.md) — related
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
 - [A two-round modified Delphi process with an integrated workshop produced consensus on 97 of 120 formulated competencies for a delirium e-learning curriculum](delphi-consensus-97-of-120-delirium-competencies.md) — related
+- [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related

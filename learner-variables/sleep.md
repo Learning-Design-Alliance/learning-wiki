@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (38 show a difference, 22 mixed, 6 no difference) · 28 studies (13 associational, 9 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 28 report an effect size · 66 claims rest on one study
+> **Evidence** · 68 claims (40 show a difference, 22 mixed, 6 no difference) · 29 studies (13 associational, 10 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 29 report an effect size · 68 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -102,6 +102,8 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](../claims/sleep-duration-associated-entrance-success.md) [+W] — learners who differ on it differ in outcomes
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](../claims/bmi-diet-sleep-quality-girls-language-performance.md) [~W] — learners who differ on it differ in outcomes
 - [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](../claims/excellent-performers-earlier-sleep-schedules.md) [+M] — learners who differ on it differ in outcomes
+- [Both conventional and animated video education reduced uncertainty, anxiety, and improved sleep over time, with no baseline differences on these measures](../claims/both-education-forms-improve-patient-outcomes.md) [+M] — measured as an outcome of the instruction studied
+- [Simulated animated video education improved sleep quality more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](../claims/animated-video-improves-sleep-quality-endoscopy.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

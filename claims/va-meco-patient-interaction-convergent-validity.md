@@ -50,3 +50,4 @@ Pearson correlation analysis in the N = 395 validation survey using the IRI empa
 - [The VA-MeCo shows high reliability, with McDonald's ω of .94 for the total score and .82–.88 for the sub-scales](va-meco-high-reliability.md) — related
 - [VA-MeCo scores show only low positive correlations with intelligence, supporting discriminant validity against cognitive ability](va-meco-low-intelligence-correlations.md) — related
 - [IC-MD ratings show convergent validity with simulation patients' perceptions of the consultation (r = .57) but no significant association with emotional intelligence measures after correction for multiple testing](ic-md-convergent-validity-prad-not-ei.md) — related
+- [NM competence is positively correlated with total empathy score (r=0.229), with no correlation found with the four personality trait dimensions](nm-competence-correlates-empathy-not-personality.md) — related

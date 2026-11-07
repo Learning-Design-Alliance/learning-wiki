@@ -62,3 +62,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Patient-related, technical and organisational challenges hindered clinical LUS integration](lus-integration-challenges-ed.md) — related
 - [Logistical constraints, including limited time for individualized feedback and challenges related to the physical learning environment, were identified as barriers to the integrated module.](logistical-constraints-limit-individualized-feedback.md) — related
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
+- [Five barriers hinder implementation of physically active university teaching: uncertainty, lack of space, lack of time, students' unwillingness to move, and organisational social norms](five-barriers-physically-active-teaching.md) — related

@@ -60,3 +60,4 @@ Chi-squared tests on profile membership of the 191-teacher sample showed "the pr
 - [Demographic and professional characteristics showed no statistically significant associations with PCC competency scores](no-demographic-associations-pcc-competency.md) — related
 - [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related
 - [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — reports the opposite
+- [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — related

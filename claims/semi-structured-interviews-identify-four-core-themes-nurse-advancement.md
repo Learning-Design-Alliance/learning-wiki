@@ -51,3 +51,4 @@ Qualitative analysis of semi-structured interviews with 10 peritoneal dialysis S
 - [By September 2025, 88.89% of participants had progressed to the level of clinical experts, a substantial increase compared with the baseline rate of 2.78% before retraining.](retraining-increases-advancement-to-clinical-nurse-specialist.md) — related
 - [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related
 - [Educational needs vary by occupational group, supporting differentiated role-based training modules](fgi-role-differentiated-training-needs.md) — related
+- [Semi-structured interviews identified nurses' palliative care learning needs that informed the design of the educational sessions](interviews-informed-session-design.md) — related

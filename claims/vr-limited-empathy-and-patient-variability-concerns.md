@@ -49,3 +49,5 @@ Theme 4 (challenges with innovation) from the results: participants said VR scen
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — reports the opposite
 - [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — related
+- [Learners reported difficulty communicating directly with the ESP (eye contact, body language, tone and intonation), so doctor-patient communication skills were not fully practiced in the VR simulation](esp-communication-limitation-doctor-patient-skills.md) — related
+- [The VR course scaled to nearly 800 students, a number infeasible with real patients or per-student manikins](vr-course-scaled-to-800-students.md) — related

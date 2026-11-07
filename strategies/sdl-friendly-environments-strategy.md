@@ -53,6 +53,7 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [Policy recommendations for protecting clinical education during health system reforms: protected teaching time, aligned evaluation, teaching-linked compensation, and embedded educational objectives](protecting-education-in-health-system-reforms-strategy.md)
 - [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
 - [Implement structured mentorship programs and formal leadership development initiatives for healthcare professionals in LMIC settings](structured-mentorship-leadership-development-lmic.md)
+- [Multi-level strategy for strengthening EBM implementation: individual workshops and protected time, institutional access and culture, and system-level public awareness](multi-level-ebm-implementation-strategy.md)
 
 ## Examples
 -

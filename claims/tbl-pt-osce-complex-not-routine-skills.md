@@ -71,3 +71,4 @@ Null results in the Results section for two routinely practiced skills ("no sign
 - [Traditional teaching outperforms SDTS on the more complex suture removal and dressing change OSCE](traditional-teaching-superior-suture-removal-osce.md) — related
 - [SDTS produces post-training OSCE scores in incision and suturing that do not differ significantly from traditional teaching](sdts-equivalent-incision-suturing-osce.md) — related
 - [Final-year dental students report lower self-perceived confidence in technically demanding procedures such as stainless steel crown placement and pulpotomy.](final-year-dental-students-low-confidence-technically-demanding-procedures.md) — related
+- [Students trained by peer tutors reported significantly higher confidence in performing suturing in the skill lab and on real patients than faculty-trained students](pal-higher-confidence-suturing.md) — related

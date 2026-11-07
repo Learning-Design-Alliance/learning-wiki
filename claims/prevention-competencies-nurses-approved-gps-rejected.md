@@ -46,3 +46,4 @@ Authors' comparison in the Discussion between their curriculum's prevention modu
 
 ## Related Claims
 - [Most competencies in the final delirium e-learning curriculum address both nurses and GPs, supporting an interprofessional design](majority-competencies-address-both-disciplines.md) — related
+- [Prevention was included as an independent primary indicator for the first time in a Chinese GP competency model](prevention-first-independent-primary-indicator-china.md) — related

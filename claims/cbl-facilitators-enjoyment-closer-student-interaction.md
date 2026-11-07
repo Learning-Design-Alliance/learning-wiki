@@ -47,3 +47,4 @@ IPA study of ten purposively selected CBL facilitators interviewed via semi-stru
 ## Related Claims
 - [The majority of faculty and students who have used OER had a positive experience and would do so again.](oer-positive-perceptions-majority.md) — a broader claim this one bears on
 - [Non-clinician facilitators' lack of case expertise initially undermined confidence, but confidence improved with facilitating experience](non-clinician-cbl-confidence-expertise-concerns.md) — related
+- [CBL facilitated active learning and enjoyment for first-year medical students at a multicultural medical school](cbl-facilitates-active-learning-multicultural-medical-students.md) — related

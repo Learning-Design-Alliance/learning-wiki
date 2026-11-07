@@ -52,3 +52,5 @@ A randomized controlled trial of 150 pediatric nursing students reported post-in
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
 - [Baseline comparability across study groups](baseline-comparability-three-groups.md) — related
 - [PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations](pbl-improves-critical-thinking-versus-traditional-teaching.md) — related
+- [Community-oriented PBL with real-patient videos: medical students' comprehension test scores rose significantly from pre-test to post-test in one uncontrolled pre-post study (r=0.528)](community-pbl-videos-improve-comprehension-scores.md) — related
+- [Knowledge application, comprehensive care process, and self-directed learning scores rose from pre-test to post-test after PBL, but motivation to learn did not change, in one uncontrolled pre-post study](pbl-rubric-domains-mixed-gains.md) — related

@@ -63,6 +63,7 @@ The study's conclusion recommends four interventions: "1. Structured refresher t
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Embed simulation-based training in integrated packages and consider on-site delivery in low-resource settings](integrated-package-onsite-training-low-resource-settings.md)
 - [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
+- [Improve HBB implementation through better work routines, equipment maintenance, psychological safety, and training that explains neonatal physiology](hbb-implementation-support-strategy.md)
 
 ## Examples
 -

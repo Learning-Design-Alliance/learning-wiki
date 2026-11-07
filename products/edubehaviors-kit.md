@@ -25,7 +25,7 @@ EduBehaviors-kit is an open-source Python package developed by Julian Bernado et
 
 - [EduBehaviors achieves 0.764 macro-F1 and 0.756 Cohen's kappa on Teacher TalkMoves, improving over direct LLM prompting](../claims/edubehaviors-matches-direct-llm-prompting-talkmoves.md) [+W]
 - [All three assertion sources (word, corpus-derived, construct-derived) contribute to predictive accuracy](../claims/all-assertion-sources-contribute-predictive-accuracy.md) [+W]
-- [EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data](../claims/edubehaviors-underperforms-finetuned-encoder.md) [-W]
+- [Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data](../claims/edubehaviors-underperforms-finetuned-encoder.md) [-W]
 
 ## Related Products and Programmes
 

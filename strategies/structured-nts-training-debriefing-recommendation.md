@@ -54,6 +54,8 @@ The article recommends embedding structured non-technical skills training in sim
 - [Integrate immersive non-technical skills and crisis resource management training into neurosurgical simulation programmes](nts-crm-integration-neurosurgical-simulation.md)
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 - [Integrate relational and technical competencies in nursing education frameworks to address the assessment gap](integrate-relational-and-technical-competencies-nursing-education.md)
+- [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
+- [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 
 ## Examples
 -

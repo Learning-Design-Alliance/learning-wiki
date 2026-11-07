@@ -53,3 +53,5 @@ Descriptive survey results from the same 318-student cross-sectional study, repo
 - [94.5% of surveyed nursing interns were relatively satisfied with teaching quality and 95.5% with their preceptors after certification implementation](intern-satisfaction-94-5-teaching-quality.md) — related
 - [Course participants reported high satisfaction (95.5%) and perceived clinical impact (97.7%), but nearly half reported a high or moderately high learning burden](tripartite-course-satisfaction-burden-survey.md) — related
 - [Students rated online learning quality positively, with Quality of Online Resources and Perceived Importance of Online Resources the highest Q-OLQ components](qolq-online-resources-quality-rated-highest.md) — related
+- [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
+- [User satisfaction with the system is high overall (94%), with educators most satisfied (90%) and grade 4–6 students relatively less satisfied](hci-system-user-satisfaction-educators-highest.md) — related

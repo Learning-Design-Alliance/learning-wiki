@@ -47,6 +47,7 @@ The article recommends that physicians develop LLM use expertise by deliberately
 ## Related Strategies
 
 - [Develop AI tool use expertise through simulation exercises in sandbox environments with tool prototypes](sandbox-simulation-ai-tool-expertise.md)
+- [Iterate on the recommendation pipeline through prompt refinement, hallucination safeguards, intervention studies, and larger cohorts](llm-wellbeing-recommendation-improvement-strategy.md)
 
 ## Examples
 -

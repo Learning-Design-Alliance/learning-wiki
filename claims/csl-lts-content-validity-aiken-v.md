@@ -53,3 +53,4 @@ Content validation involved a panel of seven lecturers with a minimum of 15 year
 - [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related
 - [Expert judges rated the SAAAR behavioral marker scale's sufficiency, coherence, importance, and relevance at 3.10 on average, with clarity lower at 2.60](saaar-content-validity-expert-judgment.md) — related
 - [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related
+- [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related

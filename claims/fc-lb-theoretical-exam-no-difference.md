@@ -48,3 +48,4 @@ Same retrospective two-group comparison; the theoretical component, modeled on t
 - [Radiology residents in the flipped classroom group scored significantly higher on the practical examination than lecture-based residents](fc-higher-practical-exam-radiology-residents.md) — related
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — reports the opposite
+- [Flipped classroom students rated their theoretical knowledge mastery higher than lecture students (7.9 ± 0.7 vs 7.1 ± 0.8)](flipped-classroom-self-rated-theoretical-knowledge-gain.md) — related

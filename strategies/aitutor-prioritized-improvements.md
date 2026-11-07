@@ -43,7 +43,8 @@ Based on field findings and participants' explicit requests, the authors list fi
 - [Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead](../claims/transfer-practice-timing-mismatch-delayed-review.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Continuous user participation and feedback mechanism for iterative system improvement](user-participation-feedback-iteration-strategy.md)
 
 ## Examples
 -

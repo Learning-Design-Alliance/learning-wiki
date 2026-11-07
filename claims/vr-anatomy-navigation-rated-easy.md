@@ -50,3 +50,4 @@ Post-usage usability ratings from the survey of 179 medical students; the articl
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — reports the opposite
 - [Undergraduate medical students rate VR anatomy scenarios as accurate and realistic compared to the traditional anatomy lab](vr-anatomy-scenarios-rated-accurate-realistic.md) — related
+- [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — related

@@ -68,6 +68,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Combine VR task-training for operators with simulation team-training for the whole acute stroke team](combine-vr-task-training-with-stroke-team-simulation.md)
 - [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
 - [Three-phase debriefing (reaction, analysis, summary) with formative critical-actions feedback](three-phase-debriefing-ecpr-simulation-strategy.md)
+- [Train lecturers in the good-judgement debriefing model to ensure consistent, non-punitive debriefing](good-judgement-debriefing-lecturer-training.md)
 
 ## Examples
 -

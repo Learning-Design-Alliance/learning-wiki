@@ -54,6 +54,9 @@ The article describes a standardized simulation-based training protocol structur
 - [Combine a briefing with a simulation scenario and individual expert feedback when training staff on a new medical device](briefing-plus-simulation-with-feedback-for-device-training.md)
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
+- [Use interactive 3D object-based VR to let students repeat radiation-involved procedures without exposure and with feedback](3d-object-vr-repeat-procedures-without-radiation-strategy.md)
+- [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
+- [Structured three-day intensive suturing course progressing from daily single-knot practice to a final anastomosis task](three-day-intensive-suturing-course-progression.md)
 
 ## Examples
 -

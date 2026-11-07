@@ -51,3 +51,4 @@ Mixed-effects regression on trait anxiety in the study sample; gender was the on
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
+- [Female Ukrainian medical students reported significantly higher anxiety, stress, and PTSD symptoms than male students during the war](gender-disparity-war-mental-health-medical-students.md) — related

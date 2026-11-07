@@ -58,3 +58,5 @@ Item-level analysis of the 11-task checklist at one month in the RCT; Table 4 re
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
 - [Experimental group outperformed control in clinical case synthesis, emergency management, and aseptic compliance on instructor evaluations](flipped-boppps-instructor-evaluation-advantages.md) — related
 - [Video-assisted teaching improves the skill of opening a sterile package but not other aseptic skills compared with demonstration](video-improves-sterile-package-skill-only.md) — related
+- [Flipped classroom training produced significantly better clinical skills only on some hemodialysis procedures (aseptic technique, fistula puncture and management, catheter management), with no significant difference on pre-dialysis preparation or machine maintenance](fc-clinical-skills-mixed-across-procedures.md) — related
+- [NIVR training sped up patient reception and ward-exit tasks only, with no significant difference in the other four tasks](nivr-faster-task3-task6-only.md) — related

@@ -49,3 +49,4 @@ Scheffe post hoc pairwise comparison of adjusted transfer-of-knowledge means fro
 - [Scheffe multiple comparisons rank the four strategies: demonstration highest, then inquiry, then discussion, with lecture lowest](scheffe-strategy-ordering-electrical-installation.md) — reports the opposite
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — a broader claim this one bears on
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
+- [Facilitators showed higher competency in interpersonal skills and focus but lower competency in guided discovery and application of change techniques](cbt-specific-skills-lower-competency-than-interpersonal-skills.md) — related

@@ -46,3 +46,4 @@ Qualitative analysis of postsession focus groups in which learners were divided 
 
 ## Related Claims
 - [Learners reported the peer-led session created a question-friendly, low-intimidation environment compared to faculty-led training](peer-led-low-intimidation-environment.md) — related
+- [Trainee focus groups identified that simulation training built a stronger, more confident team and created a space for communication and decision-making](ecmo-sim-qualitative-confidence-themes.md) — related

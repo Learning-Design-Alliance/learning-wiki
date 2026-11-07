@@ -48,3 +48,4 @@ Modified posttest quasi-experimental study with 35 elementary school teachers as
 - [Face-to-face RE-SB consultation reduces self-downing attitudes and authoritarian attitudes toward students but not low frustration tolerance or school organization attitudes](face-to-face-consultation-reduces-sda-and-aats.md) — a narrower finding that bears on this claim
 - [Online RE-SB group consultation does not significantly reduce teachers' irrational beliefs compared to control](online-re-sb-consultation-ineffective-irrational-beliefs.md) — related
 - [Neither face-to-face nor online RE-SB consultation significantly increases overall teacher efficacy beliefs](re-sb-consultation-no-effect-teacher-efficacy.md) — related
+- [Academic procrastination correlates positively with irrational beliefs at pretest, posttest, and follow-up](procrastination-irrational-belief-correlation.md) — related

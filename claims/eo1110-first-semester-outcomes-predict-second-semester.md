@@ -69,3 +69,4 @@ Analysis of second-semester B4 outcomes for 28,980 QR Category II-IV non-complet
 - [First-year completion of the A2 and B4 General Education requirements varied sharply by placement category, with wider gaps in QR than in WC](eo1110-ge-completion-varies-by-placement.md) — related
 - [Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters](stretch-models-same-instructor-cohort-across-semesters.md) — related
 - [Lower initial quiz average predicted retake participation, suggesting retakes particularly benefited lower-scoring students](initial-quiz-average-predicts-retake-participation.md) — related
+- [Study completers had significantly better first-semester academic performance than non-completers, while baseline psychiatric symptoms did not differ between groups](completers-higher-gpa-than-non-completers.md) — related

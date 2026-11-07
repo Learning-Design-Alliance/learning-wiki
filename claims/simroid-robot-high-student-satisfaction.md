@@ -51,3 +51,5 @@ Self-designed satisfaction survey distributed to all 34 experimental group stude
 - [Simroid robot training improved overall Mini-CEX scores compared to conventional training at the first assessment](simroid-robot-improved-minicex-first-assessment.md) — related
 - [Both groups improved over the internship period, but the experimental group showed gains earlier](simroid-robot-both-groups-improved-over-time.md) — related
 - [Medical interns report high acceptance of VR training, with 90% agreeing it improved autonomous learning ability](vr-high-acceptance-autonomous-learning.md) — related
+- [Students rated the case-based VR simulation highly acceptable: 95% affirmed it simulated real-patient scenarios, and all 40 reported making real-life doctor decisions and finding it interesting and useful](vr-pelvic-trauma-student-acceptability-ratings.md) — related
+- [Students in the REPs-VS group rated gains in learning needs identification, clinical reasoning, and communication highly, with 98.3% agreeing the platform enhanced their understanding](reps-vs-perceptions-knowledge-skills.md) — related

@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (16 for, 7 mixed) · 17 studies (7 design, 5 causal, 3 associational, 2 review), `q1`–`q4` · 1 of 17 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (17 for, 7 mixed) · 18 studies (8 design, 5 causal, 3 associational, 2 review), `q1`–`q4` · 1 of 18 report an effect size · 24 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -65,6 +65,7 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Students completing a SAP-codeveloped authentic assessment reported the greatest growth in scientific literacy (41.6%) and communication/knowledge translation (34.7%), with less reported growth in critical thinking (16.2%) and problem-solving (7.5%)](../claims/sap-authentic-assessment-skill-growth-sl-communication.md) [+W] — attached 2026-11-06 from Van Kelsey et al. (2025), which proposed "Data Extraction Assignment: authentic assessment combining a literature data extraction table with multi-audience communication outputs".
 - [A multiview pose-estimation deep learning model assesses overall CPR performance quality with mean absolute error comparable to expert human raters, with margins typically below 1 point on a 4-point item scale.](../claims/aqa-stgcn-mae-comparable-to-expert-raters.md) [+W] — attached 2026-11-06 from Constable et al. (2025), which proposed "Multiview spatial-temporal graph convolutional network framework for Automatic Action Quality Assessment of CPR".
 - [The automatic CPR assessment system shows lower error than human raters on hand, arm and shoulder position items but higher error on compression depth and rate, which depend on human-object interaction the model does not capture.](../claims/aqa-pose-items-outperform-depth-rate-items.md) [+W] — attached 2026-11-06 from Constable et al. (2025), which proposed "Multiview spatial-temporal graph convolutional network framework for Automatic Action Quality Assessment of CPR".
+- [Teams' research competency performance in the escape room averaged 336 ± 137.1 raw, 38.8 ± 20.9 negative, and 298 ± 150.1 final scores](../claims/morad-escape-team-competency-scores.md) [+W] — attached 2026-11-07 from Mirshahi Arvin et al. (2025), which proposed "Validated research competency checklist and game evaluation checklist for escape room assessment".
 
 ## Related Elements
 

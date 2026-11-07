@@ -48,3 +48,4 @@ Interpretation of the regression results in the Results section of the 436-stude
 - [Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students](irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility.md) — a narrower finding that bears on this claim
 - [Attachment styles, irrational beliefs and psychological symptoms jointly explain approximately 41% of the variance in university students' cognitive flexibility](psychosocial-variables-explain-41-percent-cognitive-flexibility.md) — related
 - [Hostility and afraid attachment do not meaningfully predict cognitive flexibility, while the other variables do](hostility-afraid-attachment-null-predictors-flexibility.md) — related
+- [Academic procrastination correlates positively with irrational beliefs at pretest, posttest, and follow-up](procrastination-irrational-belief-correlation.md) — related

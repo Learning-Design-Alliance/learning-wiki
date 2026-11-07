@@ -81,6 +81,7 @@ Simulation works because it compresses experience: learners encounter rare, high
 - [Use high-fidelity simulation with standardized clinical scenarios to evaluate and train emergency guideline adherence](high-fidelity-simulation-emergency-guideline-training.md)
 - [Manage cognitive load in complex resuscitation simulation through scenario sequencing, role rotation, and immediate feedback](cognitive-load-management-resuscitation-simulation-strategy.md)
 - [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
+- [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 
 ## Examples
 - **Flight simulation (aviation)** — Full-motion simulators with standardized proficiency checks are the canonical case; airline pilots log most initial type-rating hours in simulation before touching the aircraft.

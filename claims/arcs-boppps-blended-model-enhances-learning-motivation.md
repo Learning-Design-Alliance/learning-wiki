@@ -55,3 +55,4 @@ A randomized controlled trial with 275 fourth-year undergraduate dental students
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
 - [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related
+- [VRS teaching produced significantly higher posttest learning attention than traditional teaching, with no between-group differences in overall motivation or relevance and satisfaction](vrs-higher-learning-attention-posttest.md) — related

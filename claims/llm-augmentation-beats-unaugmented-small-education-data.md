@@ -47,6 +47,6 @@ Systematic fine-tuning experiment (15,120 BERT-based models over two datasets, s
 
 ## Related Claims
 - [LLM-generated responses outperform self-augmentation when augmenting small educational classification datasets](llm-generated-beats-self-augmentation.md) — related
-- [EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
+- [Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
 - [Augmentation levels below 20x produce unreliable classification performance in small educational datasets](low-augmentation-levels-unreliable.md) — related
 - [Datasets with entropy below 0.5 are difficult to augment enough to beat majority-label guessing](low-entropy-datasets-resist-augmentation.md) — related

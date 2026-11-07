@@ -48,3 +48,4 @@ Fully adjusted logistic models for high mathematics grades in the I.Family cohor
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Girls who engage in sport at least one hour per week show better math and reading results; this relationship did not hold for boys](girls-sport-one-hour-better-math-reading.md) — related
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
+- [Students' favourable attitudes towards sports were positively associated with higher academic achievement](student-sports-attitudes-academic-achievement.md) — related

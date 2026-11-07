@@ -51,3 +51,5 @@ Multiple linear regression on the readiness survey (Table 5, n = 130); the text 
 - [Most nurse interns are moderately ready for practice, with 22.3% at a low readiness level](nurse-interns-moderate-practice-readiness-level.md) — related
 - [Perceived clinical preparation is significantly positively correlated with readiness for practice among nurse interns](preparation-readiness-positive-correlation-nurse-interns.md) — related
 - [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related
+- [Marital status, having no children, hospital grade, empathy and difficulty carrying out NM are primary factors explaining 71.9% of variance in nurses' NM competence](regression-factors-explain-71-9-percent-nm-competence.md) — related
+- [Married nurses score significantly higher on NM competence than unmarried and divorced nurses, and nurses with children score higher than nurses without children](family-status-higher-nm-competence-nurses.md) — related

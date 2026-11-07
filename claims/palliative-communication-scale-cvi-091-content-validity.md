@@ -59,3 +59,4 @@ Content validity evaluation from the expert consultation stage, in which 20 expe
 - [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related
 - [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related
 - [A 200-item clinical performance checklist was developed and content-validated through Delphi, CVI, Kappa, and CVR filtering](validated-200-item-performance-checklist.md) — related
+- [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related

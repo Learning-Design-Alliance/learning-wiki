@@ -54,3 +54,4 @@ Pre/post comparison of the Attitude toward science Test found "no significant ev
 - [No significant association was found between students' achievement and their attitudes toward the science lesson in either group](no-achievement-attitude-correlation.md) — related
 - [Neither PD approach changed teacher perceptions of teaching or attitudes towards teaching](pd-no-change-teacher-perceptions.md) — related
 - [A one-year PD program emphasizing IBI significantly increased middle school science teachers' overall belief about IBI from pre- to post-survey.](pd-increased-teacher-beliefs-ibi.md) — related
+- [Learning attitudes toward caring for patients with infectious diseases did not differ significantly between the VRS and control groups at either time point](vrs-no-attitude-difference-between-groups.md) — related

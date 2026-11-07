@@ -52,6 +52,7 @@ Experts recommended clarifying and standardizing EA terminology so stakeholders 
 
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 - [Develop a standardised and accredited training pathway from undergraduate through to postgraduate level for CEP competency](standardised-undergraduate-postgraduate-cep-pathway.md)
+- [Harmonize European HF nurse education, training and career pathways through an updated curriculum, accreditation and certification](harmonize-hf-nurse-education-career-pathway.md)
 
 ## Examples
 -

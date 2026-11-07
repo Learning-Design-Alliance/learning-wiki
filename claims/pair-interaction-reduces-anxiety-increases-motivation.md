@@ -57,3 +57,4 @@ Authors' interpretive conclusion from the quantitative and qualitative phases, n
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](spaceteam-interviews-motivation-anxiety.md) — related
 - [The interactive training program did not develop planning, locus of control, or self-confidence, which the authors attribute to prior knowledge and insufficient activities](program-failed-planning-locus-self-confidence.md) — related
 - [Pre-simulation expectations combined high motivation with anxiety, nervousness, self-doubt and insecurity](pre-simulation-expectations-motivation-and-anxiety.md) — related
+- [Mental practice for strategy rehearsal or task execution was reported to increase self-confidence and reduce anxiety](mental-practice-confidence-anxiety.md) — related

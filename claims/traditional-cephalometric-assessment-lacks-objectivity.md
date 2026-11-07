@@ -48,4 +48,4 @@ The article's discussion of conventional preclinical cephalometric training, cit
 ## Related Claims
 - [AI-assisted cephalometric analysis shows no significant accuracy difference among clinical training students of different grades](ai-cephalometric-analysis-no-grade-difference.md) — related
 - [Digital cephalometric training with real-time feedback significantly improves preclinical orthodontic students' landmarking accuracy](digital-cephalometric-training-improves-landmarking-accuracy.md) — related
-- [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](qualitative-explanation-competency-gap-feedback-workload.md) — related
+- [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related

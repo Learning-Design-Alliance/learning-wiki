@@ -49,3 +49,4 @@ Quasi-experimental pretest-posttest-follow-up study with 59 second-year dental s
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — reports the opposite
 - [No statistically significant differences in anatomy and physiology knowledge between Jigsaw and traditional teaching at post-intervention or three-month follow-up](no-knowledge-difference-jigsaw-vs-tt.md) — related
 - [Scores changed significantly across the three observations in both groups, with the experimental group improving and the control group declining over successive observations](divergent-trajectory-rlc-versus-control-repeated-measures.md) — reports the opposite
+- [Both flipped and traditional patient safety training significantly improved self-reported competency within groups](both-groups-prepost-competency-improvement.md) — related

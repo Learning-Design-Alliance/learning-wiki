@@ -42,7 +42,8 @@ Based on the finding that residents performed poorly on complex applied competen
 - [Residents perform well on lower-order factual competencies but poorly on complex applied skills such as asynchrony correction (27.2% correct) and setting initial parameters in obstructive lung disease (25.9% correct)](../claims/complex-mv-competencies-low-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deliver standardized mechanical ventilation training covering modes, synchrony and waveform analysis to improve asynchrony recognition](standardized-ventilation-waveform-training-strategy.md)
 
 ## Examples
 -

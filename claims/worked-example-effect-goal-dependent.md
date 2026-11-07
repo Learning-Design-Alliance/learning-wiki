@@ -53,3 +53,4 @@ Theoretical argument in the goal-driven approach section: the article attributes
 - [Cognitive load theory has generated a variety of novel instructional procedures for presenting information](architecture-generated-novel-instructional-procedures.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — related
+- [The authors report that prior knowledge has a positive impact on acquiring new information and that motivation appears to facilitate this association](prior-knowledge-motivation-facilitate-new-learning.md) — related

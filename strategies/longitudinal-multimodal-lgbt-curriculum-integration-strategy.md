@@ -46,7 +46,8 @@ The article recommends that LGBT health be "systematically integrated into under
 - [Most residents reported little or no formal LGBT-related education during medical school or residency](../claims/limited-lgbt-education-exposure-japanese-residents.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
 
 ## Examples
 -

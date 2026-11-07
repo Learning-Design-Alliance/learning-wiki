@@ -55,3 +55,6 @@ Multivariable multinomial logistic regression (table 4) in the 605-nurse survey;
 - [Nurses' clinic communication competency differs significantly by age, gender, nursing years, professional title, and department](ncccs-demographic-differences-tertiary-nurses.md) — related
 - [Nurses with junior titles score higher on PED KAP than senior-title nurses](junior-title-higher-ped-kap.md) — related
 - [Professional title, position and work experience significantly predict membership in the medium palliative care core competency group](title-position-experience-predict-medium-competency-group.md) — related
+- [Neither years of experience managing invasive mechanical ventilation nor professional title is associated with the ability to identify asynchrony waveforms](experience-and-title-not-associated-with-recognition.md) — related
+- [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — reports the opposite
+- [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — reports the opposite

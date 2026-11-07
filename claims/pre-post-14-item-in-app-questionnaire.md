@@ -47,3 +47,4 @@ Descriptive report of the embedded dual-survey instrument in the Results section
 ## Related Claims
 - [Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study](videogame-experience-visual-memory-item-shift.md) — related
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related
+- [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related

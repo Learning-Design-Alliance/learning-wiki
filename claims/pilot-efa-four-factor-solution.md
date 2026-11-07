@@ -67,3 +67,4 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - [Item refinement reduced the scale from 45 to 36 items through NGT and pilot testing](hspncs-item-refinement-process.md) — related
 - [Exploratory factor analysis of the gamified test yields a 2-factor solution matching the cognitive-abilities versus personality-characteristics distinction, with conformity loading on neither factor](gba-two-factor-structure-cognitive-personality.md) — related
 - [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related
+- [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related

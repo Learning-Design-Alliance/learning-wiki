@@ -47,3 +47,4 @@ Pre-and-post workshop survey within an explanatory sequential mixed-methods stud
 ## Related Claims
 - [Providers' self-rated readiness for engaging in ACP did not change from pre-test to post-test after the ACP workshop, in one single-group pre-post study](acp-workshop-no-readiness-change.md) — related
 - [Post-workshop, health assistants scored significantly higher than registered nurses on total, Basic and Beginner ACP competency](health-assistants-outscore-registered-nurses-post-workshop.md) — related
+- [Nurses demonstrated comprehensive understanding of advance care planning concepts before and after education, while palliative care concept understanding rose from 80% to 90%](acp-concepts-already-high-pc-concept-gain.md) — related

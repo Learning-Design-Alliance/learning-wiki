@@ -43,6 +43,7 @@ The article demonstrates a sensitivity-analysis strategy for observational schoo
 
 - [Include both academic and socioemotional outcomes when evaluating school composition effects](evaluate-composition-with-academic-and-socioemotional-outcomes.md)
 - [Select confounders using a modified disjunctive cause criterion, controlling covariates measured prior to the treatment variable](modified-disjunctive-cause-criterion-confounder-selection.md)
+- [Use negative controls in registry-based studies to detect unobserved confounding](negative-controls-registry-studies-strategy.md)
 
 ## Examples
 -

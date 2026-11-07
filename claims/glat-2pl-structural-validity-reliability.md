@@ -74,3 +74,4 @@ The article reports the final 2PL model's fit (M2 = 225.325, RMSEA 0.031, SRMSR 
 - [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
 - [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related
+- [The two-parameter logistic model showed acceptable to excellent fit for all three course assessments](2pl-model-fit-preclinical-exams.md) — a narrower finding that bears on this claim

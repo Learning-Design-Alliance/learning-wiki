@@ -67,3 +67,5 @@ The author's documented exploratory audit of one manuscript (4,613–4,727 words
 - [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md) — related
 - [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — related
 - [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — related
+- [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — related
+- [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — related

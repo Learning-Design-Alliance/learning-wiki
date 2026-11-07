@@ -46,6 +46,7 @@ The article recommends strategically integrating widely available technology int
 
 - [Schedule collaboration during summer months or existing professional development days to overcome staff time constraints](schedule-collaboration-in-summer-or-pd-days.md)
 - [Join national innovation networks and build internal leadership academies to advance responsible district AI adoption](join-national-innovation-networks-ai-readiness.md)
+- [Launch community-of-practice activities and interprofessional empowerment networks to sustain teacher motivation](community-of-practice-activities-sustain-teacher-motivation.md)
 
 ## Examples
 -

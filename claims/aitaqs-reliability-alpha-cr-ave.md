@@ -81,3 +81,4 @@ Convergent validity analysis (Table 9). All CR values "exceed 0.7"; AVE values b
 - [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related
 - [The job competency evaluation framework comprises 5 primary dimensions, 24 secondary dimensions, and 52 tertiary items with strong psychometric properties](job-competency-framework-five-dimensions-52-items.md) — related
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
+- [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related

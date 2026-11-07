@@ -73,3 +73,4 @@ Participant quote framing simulation as practice for adapting communication appr
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [Faculty and students view simulation as a valuable structured, risk-free precursor to real patient encounters that cannot fully replace bedside learning](simulation-valued-but-insufficient-lmic-clinical-skills.md) — related
 - [Clinical instructors perceive SBE role-play as mitigating language barriers when teaching international students from non-English-speaking countries](sbe-language-barrier-mitigation.md) — related
+- [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related

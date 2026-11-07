@@ -50,3 +50,5 @@ Paired t-test within the jigsaw group comparing pre- and post-test MCQ achieveme
 - [Post-intervention academic motivation was significantly higher for dental students taught with the jigsaw method than for those taught with tutorials, with no baseline difference between groups](jigsaw-tutorial-academic-motivation-postintervention.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](jigsaw-iv-significant-pre-post-gain.md) — related
+- [Both conventional tutorials and the jigsaw peer learning module significantly improved first-year medical students' pre-to-post test scores](plm-and-ct-both-improve-pre-post-scores.md) — reports the opposite
+- [The jigsaw peer learning module produced a larger score improvement than conventional tutorials, about 10% higher and statistically significant](plm-gain-exceeds-ct-gain.md) — related

@@ -71,3 +71,5 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
 - [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related
 - [Scaffolded case-based learning yields higher clinical reasoning proficiency than lecture-based teaching with the same case at Week 4 in anesthesiology residents](scaffolded-cbd-clinical-reasoning-week4.md) — related
+- [The REPs-VS group scored significantly higher on the operational examination total and on operational steps, but not on apparatus selection or doctor-patient communication](reps-vs-higher-operation-exam-scores.md) — related
+- [Blinded raters scored higher in Communication and Examination skills at post-test than pre-test in standardized patient encounters, in one uncontrolled pre-post study](sp-encounter-skills-significant-improvement.md) — related

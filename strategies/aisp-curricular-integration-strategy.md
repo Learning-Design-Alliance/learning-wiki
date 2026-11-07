@@ -60,6 +60,7 @@ Based on student recommendations and the study's feasibility findings, the artic
 - [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
 - [Use AI-generated disease images as a standardized supplement to limited real clinical teaching materials](ai-generated-images-as-standardized-teaching-supplement.md)
 - [Optimize teaching structure and expand case resources when integrating an academic HIS into case simulation](optimize-structure-and-resources-academic-his-simulation.md)
+- [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 
 ## Examples
 -

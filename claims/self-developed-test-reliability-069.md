@@ -57,3 +57,4 @@ Reliability testing of the self-developed achievement test using a smaller group
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
 - [The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval](csl-lts-temporal-stability-icc.md) — related
 - [ATSHWS scores are temporally stable over a 15-day test-retest interval (ICC 0.900; r 0.951)](atshws-test-retest-stability-15-day.md) — related
+- [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related

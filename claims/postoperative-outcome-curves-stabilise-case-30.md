@@ -68,3 +68,7 @@ Secondary RA-CUSUM analysis of Clavien–Dindo ≥III complications adjusted for
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
 - [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — related
 - [Major complications occurred only after the learning phase, and phase differences in severe complications and anastomotic leakage were not statistically significant](complications-after-proficiency-phase.md) — related
+- [Postoperative hospital stay and anastomotic fistula incidence decreased significantly from the preliminary to the proficient stage](laspme-postoperative-outcomes-improve-by-proficient-stage.md) — related
+- [Intraoperative bleeding volume decreased significantly from the preliminary stage to the transition and proficient stages of LASPME](laspme-bleeding-volume-decreases-across-stages.md) — reports the opposite
+- [Vocal cord palsy remained frequent even in the proficient stage, at 19.0%, despite overall learning-curve improvement](laspme-vocal-cord-palsy-persists-in-proficient-stage.md) — related
+- [The trainee's learning curve for major complications was completed after 55 consecutive cases under risk adjustment](mie-trainee-major-complications-lc-55-cases.md) — related

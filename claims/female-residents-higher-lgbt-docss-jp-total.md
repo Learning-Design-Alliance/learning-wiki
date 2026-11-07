@@ -48,3 +48,4 @@ Multivariable linear regression among 280 residents adjusting for age, hospital 
 - [Japanese residents' LGBT-DOCSS scores, particularly clinical preparedness, were lower than those reported in Western studies](japan-lgbt-docss-lower-than-western-benchmarks.md) — related
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
 - [Japanese PGY-1 residents show moderate overall LGBT-related clinical competence, with attitudinal awareness highest and clinical preparedness and training lowest](japan-pgy1-lgbt-docss-moderate-competence-attitude-gap.md) — a broader claim this one bears on
+- [Male participants scored higher on clinical preparedness in Spain while women scored higher on attitudes in both cohorts](here-gender-preparedness-attitudes.md) — reports the opposite

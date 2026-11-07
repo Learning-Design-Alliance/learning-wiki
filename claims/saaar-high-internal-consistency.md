@@ -51,3 +51,4 @@ Internal-consistency analysis of the final behavioral marker format using evalua
 - [Expert judges rated the SAAAR behavioral marker scale's sufficiency, coherence, importance, and relevance at 3.10 on average, with clarity lower at 2.60](saaar-content-validity-expert-judgment.md) — related
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
 - [In a simulation-based pilot, residents' SAAAR scores improved significantly from pretraining to posttraining across all four domains](saaar-prepost-improvements-all-domains.md) — related
+- [Mayo High Performance Teamwork Scale responses shifted from a 71% presurvey average to a 95% postsurvey average of consistent teamwork behavior](mayo-teamwork-scale-71-to-95-shift.md) — related

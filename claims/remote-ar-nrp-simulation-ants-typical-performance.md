@@ -68,3 +68,4 @@ Descriptive ANTS element-level results from the same feasibility study (Table 2)
 - [BARS ratings confirm measurable non-technical skill performance (5.2–5.4 on a 1–9 scale) in remote AR neonatal resuscitation simulation](remote-ar-nrp-bars-secondary-nts.md) — related
 - [Remote AR simulation is noninferior to in-person simulation across all four BARS nontechnical behavior domains](remote-ar-noninferior-bars-domains.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
+- [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related

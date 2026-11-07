@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-07
 sources:
   - id: hemmati-2013
     resource: "https://eric.ed.gov/?id=EJ1006264"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants in the IBL format reported significantly higher mean satisfaction ratings than participants in the TCL format. [→ Hemmati 2013](#hemmati-2013)

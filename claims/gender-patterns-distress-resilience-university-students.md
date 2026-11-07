@@ -55,3 +55,5 @@ The review's thematic synthesis (RQ3) reports this gender pattern as observed ac
 - [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related
 - [Older age and male gender were associated with greater resilience to the negative effects of mental health problems on academic performance](age-gender-moderate-mental-health-academic-impact.md) — related
 - [Male students report higher innovativeness, academic resilience, and academic performance than female students, with only a small gender gap in DL self-efficacy](gender-differences-innovation-resilience-performance.md) — related
+- [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
+- [Mental health varies by year of study: fourth-year students of both genders scored lowest, with female peaks in year one and male peaks in year three](scl90-by-year-of-study.md) — related

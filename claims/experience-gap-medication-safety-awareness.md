@@ -49,3 +49,4 @@ Focus group finding from the competent-stage and proficient-stage groups contras
 - [Junior nurses hesitate to seek guidance from senior colleagues and physicians about medication procedures, creating error risk](junior-nurse-communication-hesitation-medication-errors.md) — related
 - [Nurses at all career stages lacked knowledge of root cause analysis tools for medication error prevention](nurses-lack-rca-tool-knowledge.md) — related
 - [Focus groups with nurses at four clinical-ladder stages identify five educational needs for medication safety competence](five-educational-needs-medication-safety-nurses.md) — related
+- [Most senior nursing students entered training perceiving their patient safety knowledge as inadequate or moderate, and over half had encountered a medical error](nursing-students-baseline-patient-safety-gaps.md) — related

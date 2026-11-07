@@ -63,3 +63,4 @@ The review reports Pratama's study of scholarly abstracts, in which "97.22% aggr
 - [Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts](detectors-lower-accuracy-scientific-writing.md) — related
 - [ChatGPT-generated essays showed high written English and PEEL-framework structure across native and non-native speakers](chatgpt-essays-high-english-structure-peel.md) — related
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
+- [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — related

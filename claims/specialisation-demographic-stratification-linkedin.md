@@ -54,3 +54,4 @@ Descriptive analysis of 2025 portfolio distributions by gender, age generation, 
 - [Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers](diversity-specialisation-inverse-u-pattern.md) — related
 - [Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting](diversity-frontier-predicts-adaptive-capacity.md) — related
 - [Higher education, specialised experience, recent training, and seniority are associated with better knowledge, attitudes, and practices.](education-training-seniority-better-kap.md) — related
+- [Men report clearer medium- and long-term career plans and are more prone to research, entrepreneurship and administrative roles than women, who favour public-service-oriented roles](gender-differences-career-plans-medical-students.md) — related

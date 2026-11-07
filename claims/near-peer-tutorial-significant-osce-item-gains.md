@@ -49,3 +49,4 @@ Item-level analysis of paired pre-post OSCE scores using a 15-item rubric with p
 - [A single near-peer-led OSCE-style tutorial significantly improves overall OSCE performance in upper limb musculoskeletal examination among pre-clinical medical students](near-peer-tutorial-improves-msk-osce-overall-performance.md) — a broader claim this one bears on
 - [Students identify logical organisation, clinical reasoning integration, demonstration, and hands-on practice as key strengths of the near-peer tutorial](near-peer-tutorial-qualitative-strengths.md) — related
 - [All surveyed students perceive the near-peer tutorial as superior to lectures, textbooks, or videos for learning musculoskeletal examination](near-peer-tutorial-superior-to-traditional-resources.md) — related
+- [One OSCE item, estimating the patient's carbohydrate intake in servings, showed no statistically significant pre-to-post improvement](osce-carbohydrate-estimation-item-not-significant.md) — related

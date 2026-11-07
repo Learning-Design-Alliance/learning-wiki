@@ -68,3 +68,4 @@ The same two-way mixed ANOVA of LLM accuracy across systems and topics found "a 
 - [Five LLMs showed comparable, exceptionally high accuracy (collective mean 91.1%) on text-based medical histology MCQs](llm-mean-accuracy-91-1-histology-mcqs.md) — related
 - [Across all questions, final performance showed a main effect of learning condition and a large main effect of question type, with only a trend toward an interaction](omnibus-anova-condition-question-type-latimier.md) — related
 - [Question type significantly affects LLM accuracy on Chinese medical licensing exam questions, with Type A basic-knowledge items answered better than Type B and Type C items](question-type-effect-llm-chinese-medical-licensing.md) — related
+- [LLM accuracy varied significantly across oncology topics, with the lowest performance in colorectal tumors (mean 48.3%) and genitourinary tumors (mean 50.8%)](llm-accuracy-varies-across-oncology-topics.md) — related

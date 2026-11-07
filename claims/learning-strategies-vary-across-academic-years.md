@@ -51,3 +51,4 @@ One-way ANOVA (Table 4) comparing deep and surface strategy means across second-
 - [Moral competence diverges by fifth year: psychology students score higher than medical students, with a significant field-by-year interaction](moral-competence-declines-medical-students-fifth-year.md) — related
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
 - [Deep learning strategy use correlates strongly and positively with academic achievement in undergraduate pharmacy students](deep-learning-strategies-correlate-achievement-pharmacy.md) — related
+- [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related

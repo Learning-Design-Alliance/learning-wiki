@@ -61,3 +61,4 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 - [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Voluntary choice of nursing profession loses significance and reverses direction in multivariable model](voluntary-choice-suppression-effect-multivariable.md) — related
+- [Years since injury, sex, age, and present accommodations were not significantly associated with negative grade changes after adjustment](non-significant-covariates-grade-change.md) — related

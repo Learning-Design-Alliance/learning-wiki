@@ -50,6 +50,7 @@ The review recommends that NM programmes treat narrative writing not only as a m
 ## Related Strategies
 
 - [Future narrative medicine directions: robust evaluation mechanisms plus NM for researchers, burnout-prone contexts, cultural competence training and low-resource settings](nm-future-directions-strategy.md)
+- [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
 
 ## Examples
 -

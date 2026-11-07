@@ -52,3 +52,4 @@ Spearman correlation analysis of KAP domain scores in the 931-nurse cross-sectio
 - [CSSC-trained nurses outperform untrained nurses on every KAP item subgroup, from ANE definitions to post-event psychological care](cssc-subgroup-item-advantages.md) — related
 - [Knowledge, attitude and practice scores for enteral nutrition are positively correlated](positive-kap-correlations-enteral-nutrition.md) — related
 - [Nurses' frailty-management knowledge, attitudes, and practices show weak positive correlations with one another](weak-positive-kap-correlations-frailty-nurses.md) — related
+- [Ratings of user-friendliness, input identification, and interaction correlate strongly and positively with overall learning efficacy and experience ratings](usability-aspects-correlate-with-efficacy-experience.md) — related

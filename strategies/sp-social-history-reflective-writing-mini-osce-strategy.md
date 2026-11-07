@@ -55,6 +55,7 @@ The article describes a concrete activity sequence: standardized patients "authe
 - [Role Play](role-play.md)
 - [Use virtual humans to standardize communication training scenarios and allow safe repetition of emotionally charged conversations](virtual-humans-standardized-communication-practice.md)
 - [Use role-play of standardized clinical scenarios as the shared active-learning core of communication-skills workshops](role-play-standardized-scenarios-communication-workshops.md)
+- [Assess social sensibility and multitasking in residency applicants using OSCEs, situational judgment tests and simulated multitasking scenarios](og-residency-selection-assessment-strategies.md)
 
 ## Examples
 -

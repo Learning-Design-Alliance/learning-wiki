@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: kalmring-m-2026
     resource: "https://doi.org/10.1186/s12909-026-09374-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the included reviews, VR/AR- and metaverse-based approaches were more frequently associated with favorable findings than screen-based VP approaches; screen-based VP interventions yielded mixed findings and no clear advantage over non-technology-based simulation methods. [→ Kalmring M 2026](#kalmring-m-2026)

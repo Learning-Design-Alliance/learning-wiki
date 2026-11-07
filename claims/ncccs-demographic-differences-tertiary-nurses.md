@@ -49,3 +49,4 @@ Student's t-test and ANOVA univariate analysis (Table 3) in the 1977-nurse surve
 - [Department, nursing years, and caring ability are independent predictors of nurses' clinic communication competency, explaining 30.2% of variance](regression-predictors-ncccs-department-years-cai.md) — related
 - [In the adjusted model, intermediate professional title is positively associated with the high-level profile while short nursing tenure is negatively associated with it](title-and-tenure-associations-high-level-profile.md) — related
 - [Nurses scored highest on team communication competency and lowest on communication competency in difficult clinical scenes](ncccs-dimension-profile-difficult-scenes-lowest.md) — related
+- [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — reports the opposite

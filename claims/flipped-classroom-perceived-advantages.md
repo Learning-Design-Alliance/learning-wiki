@@ -55,3 +55,5 @@ Content analysis of open-ended questionnaire responses from the experimental gro
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related
 - [Collaborative learning in the postgraduate PBL course did not achieve deep peer collaboration, unlike the positive self-directed learning outcomes](pbl-collaborative-learning-shortfall.md) — related
 - [Remote flipped classrooms give pharmacy students time flexibility to engage with recorded lectures and revisit content at their convenience](remote-flipped-flexibility-recorded-lectures.md) — related
+- [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
+- [Students' perceived advantages of TBL for learning clinical reasoning span all six levels of Fink's taxonomy, with discussion from diverse perspectives most frequent](tbl-advantages-fink-taxonomy-content-analysis.md) — related

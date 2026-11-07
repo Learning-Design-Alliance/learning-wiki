@@ -48,3 +48,4 @@ Appendix A.4 secondary analysis: a hierarchical multiple regression with warmth 
 ## Related Claims
 - [Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet](learnlm-roleplayer-weaker-gpt4o-experience.md) — related
 - [Perceived warmth and perceived competence partially mediate the negative association between GenAI use and interpersonal trust](warmth-competence-partially-mediate-genai-trust.md) — related
+- [Experiential dHealth competences are positively related to students' perceptions of AI's role in the future of medicine, while knowledge competences are not](dhealth-experiential-competences-ai-perceptions.md) — related

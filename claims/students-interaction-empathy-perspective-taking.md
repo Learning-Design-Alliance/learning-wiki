@@ -96,3 +96,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Students linked the group simulation assessment to self-awareness, personal accountability and lifelong learning](autonomous-learning-self-awareness-lifelong-growth.md) — related
 - [Communication is the competence that enables teachers to convey all other competences to their students, with nonverbal communication considered more effective than verbal](communication-conveys-other-competencies.md) — related
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — a narrower finding that bears on this claim
+- [Follow-up interviews reveal seven themes linking community-oriented PBL to readiness for home care visits, professional growth, and community engagement](pbl-interviews-seven-themes-community-care.md) — related

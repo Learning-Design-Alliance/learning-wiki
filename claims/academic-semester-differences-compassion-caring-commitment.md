@@ -88,3 +88,4 @@ One-way ANOVA in the same survey showed professional commitment means "showed si
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — reports the opposite
 - [Tabriz nursing students reported a high level of compassion competence (mean 4.02 of 5), highest in sensitivity and lowest in insight](compassion-competence-level-tabriz-nursing-students.md) — related
 - [Tabriz nursing students reported a moderate-to-high level of professional commitment (mean 71.12 of a possible 104)](professional-commitment-level-tabriz-nursing-students.md) — related
+- [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related

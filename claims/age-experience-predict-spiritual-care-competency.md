@@ -48,3 +48,4 @@ Simple linear regression analyses on the 220-nurse cross-sectional survey data. 
 - [Twelve factors are significantly associated with nurses' spiritual care competency (p < 0.01)](twelve-factors-influence-nurse-spiritual-care-competency.md) — related
 - [Age findings conflict: one cited study reports spiritual care ability decreasing with age while another reports it increasing](age-spiritual-care-ability-conflicting-direction.md) — reports the opposite
 - [Nurses at the NICC show a moderate overall spiritual care competency score of 100.71±10.60 on the SCCS-27](nicc-nurses-moderate-spiritual-care-competency.md) — related
+- [In the Polish cohort, age was positively associated with clinical preparedness and physicians scored higher than nurses/midwives](here-poland-age-profession-predictors.md) — related

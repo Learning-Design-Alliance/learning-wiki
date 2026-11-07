@@ -49,6 +49,7 @@ The article's session recipe consists of four components: an introduction and or
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
 - [Use remote instructor-led AR simulation to deliver standardized team-leader assessment where in-person simulation access is limited](remote-ar-assessment-resource-limited-settings-strategy.md)
 - [Include facilitated social learning opportunities (introduction and debriefing) around individual IVR safety scenarios](facilitated-introduction-and-debriefing-around-ivr-scenarios.md)
+- [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 
 ## Examples
 -

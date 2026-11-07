@@ -80,3 +80,4 @@ Another student comment in the same theme, noting the virtual lab hastened learn
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest — related
 - [Control group students showed score improvement attributed to after-lecture worksheets, with some showing less improvement](control-group-worksheets-improvement.md) — related
+- [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related

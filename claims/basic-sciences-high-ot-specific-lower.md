@@ -68,3 +68,4 @@ OT-specific visual subscores: "correct response rates for OT visuals ranging fro
 - [Both chatbots achieve above-90% accuracy on fundamental medical sciences questions with no significant difference between models or sub-disciplines](llms-fundamental-medical-sciences-dus-high-accuracy.md) — related
 - [LLM accuracy on the EUS varies by subject area, with pharmacy legislation/ethics lowest (DeepSeek-R1 at 20%)](eus-subject-area-accuracy-variation.md) — related
 - [All seven LLMs showed markedly lower accuracy on image-based than text-based DUS questions, with significant text-image gaps for five models but not Gemini or Claude](llms-lower-accuracy-image-based-dus-questions.md) — related
+- [GPT-4V's accuracy was inconsistent across medical subdomains, high in some (e.g. immunology 100%) and low in others (e.g. anatomy 25%)](gpt4v-subdomain-performance-inconsistent.md) — related

@@ -47,3 +47,4 @@ A post-session feedback survey with good internal consistency (Cronbach's alpha 
 ## Related Claims
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related
+- [Students strongly favored the jigsaw peer learning module, with 93% rating it good or excellent and 94% endorsing regular use](student-feedback-favors-jigsaw.md) — related

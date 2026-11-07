@@ -67,3 +67,4 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [The VR camera navigation test shows high internal consistency (Cronbach's α = 0.88) and test–retest reliability (r = 0.84)](camera-navigation-test-high-reliability.md) — related
 - [Questionnaire subscales show high internal consistency with Cronbach's alpha ranging from 0.86 to 0.89](see-questionnaire-subscales-alpha-086-089.md) — related
 - [The CKAPQ measurement model shows adequate construct validity, with composite reliability 0.729–0.848 and AVE 0.516–0.669 exceeding discriminant MSV values](ckapq-construct-validity-cr-ave.md) — related
+- [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — a narrower finding that bears on this claim

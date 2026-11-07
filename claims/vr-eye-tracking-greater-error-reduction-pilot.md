@@ -51,3 +51,4 @@ Pilot randomized pretest–posttest study; errors scored as absolute cumulative 
 - [VR group showed numerically greater ATLS performance gains than the mannequin group in exploratory comparison](vr-eye-tracking-greater-atls-gains-pilot.md) — related
 - [Both VR and mannequin simulation situational-awareness scores rose significantly from pre-test to post-test within each group](both-modalities-improved-sa-within-groups.md) — related
 - [The mannequin simulator received significantly higher total feedback scores than the VR simulator, and higher scores in all six domains except knowledge](mannequin-higher-feedback-scores-than-vr.md) — related
+- [Students rated the VR-based brain death course significantly higher than the manikin-based course in a randomized pilot](vr-brain-death-course-rated-higher-than-manikin.md) — related

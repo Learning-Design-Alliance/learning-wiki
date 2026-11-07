@@ -68,3 +68,4 @@ End-of-course global satisfaction item in the randomized study; 88/93 (95%) cont
 - [Participation in the case-study course was significantly lower among students assigned to the inverted classroom group (37%) than the control group (54%)](ic-case-study-lower-participation-than-traditional.md) — related
 - [The inverted classroom approach increased preclass workload relative to the traditional approach](ic-increased-preclass-workload.md) — related
 - [The inverted classroom approach did not increase student stress or enhance empathy for the instructor](ic-no-stress-or-empathy-difference.md) — related
+- [Students report lower satisfaction with and lower evaluation of curriculum effectiveness for online neurosurgery teaching than face-to-face teaching](satisfaction-effectiveness-lower-online-neurosurgery.md) — related

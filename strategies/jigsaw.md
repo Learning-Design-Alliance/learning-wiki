@@ -65,6 +65,7 @@ Jigsaw operationalizes positive interdependence and individual accountability â€
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 - [Start an RTS in a basic form, then add CLS mechanisms only as evaluation shows necessity](start-basic-rts-then-add-mechanisms.md)
 - [Implementation prerequisites for jigsaw: teacher preparation, student briefing, target setting, and active observation](jigsaw-implementation-prerequisites-strategy.md)
+- [Use trained facilitator support and contingency planning to mitigate jigsaw's coverage and participation risks](facilitator-support-contingency-jigsaw.md)
 
 ## Related Elements
 - [Collaboration](../elements/collaboration.md) â€” the interdependent group structure that makes jigsaw work

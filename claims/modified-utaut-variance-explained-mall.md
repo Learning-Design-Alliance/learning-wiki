@@ -54,3 +54,4 @@ The path model fitted to Rasch-calibrated measures of 293 learners explained "62
 - [The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention](model-variance-explained-galp-bi.md) — related
 - [Facilitating condition has no direct effect on actual use of MALL, departing from prior literature.](facilitating-condition-no-direct-effect-use.md) — related
 - [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related
+- [The modified UTAUT-2 model with computer literacy explains 68% of variance in intention to use eLearning-based CPD](model-explains-68-percent-variance-intention.md) — related

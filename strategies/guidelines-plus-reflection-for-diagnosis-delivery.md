@@ -49,6 +49,7 @@ The article's practice recommendation is that "Clinicians should be provided wit
 ## Related Strategies
 
 - [Provide learners with a structured tool or guideline to guide care practice after dementia education](structured-tool-guideline-dementia-care-practice.md)
+- [Incorporate reflective practices, feedback mechanisms, and pre/post ADKS assessment into training to foster accurate self-assessment of dementia knowledge](reflective-practices-accurate-self-assessment-strategy.md)
 
 ## Examples
 -

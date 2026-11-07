@@ -51,3 +51,4 @@ Quasi-experimental single-group pre-post study of 271 MBBS learners. Paired t-te
 - [In one single-group pre-post study with no comparison group, UTI SCT scores rose significantly from pre-test to post-test, while URTI and diarrhoea SCT scores did not change significantly](uti-case-significant-sct-improvement.md) — related
 - [Interactive e-learning does not improve clinical reasoning measured by script concordance test compared with passive e-learning](e-learning-no-sct-clinical-reasoning-gain.md) — related
 - [Both instructional methods produced statistically significant pre-to-post SCT gains, with a larger effect size for the e-LbC theme](elbc-lecture-both-improved-sct-gains.md) — related
+- [Script concordance test performance rose significantly from pre-test to post-test in fourth-year medical students in one uncontrolled pre-post study of a team-based learning course on clinical symptoms](sct-performance-improves-after-tbl-clinical-reasoning.md) — related

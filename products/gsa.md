@@ -28,6 +28,7 @@ A teacher professional-development system that guides educators in videotaping, 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Guided Self-Analysis System (GSA): teacher self-analysis of videotaped lessons as professional development**: The Guided Self-Analysis System for Professional Development is a set of materials through which teachers analyze recordings of their own classroom teaching. The document states that "The Guided Self-Analysis System consists of materials which guide the teacher in analyzing his own teaching behavior, so that he can gain an objective understanding of his strengths and weaknesses." Teachers make 15-20 minute videotapes, replay each tape three or four times with a different workbook each time, code observed behaviors on coding forms, and build profiles of their habitual techniques that can be compared across successive tapings. The system is described as an "open system" adaptable to varied tea (Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview (1970))
 - [From models and closed cues to open cues](../designs/models-closed-cues-to-open-cues-language-independence.md): the cueing strategy in Workbook C of the language unit
+- **Gender–sexuality alliances (GSAs) as school clubs supporting LGBTQ+ youth wellbeing and academic engagement**: Gender–sexuality alliances (GSAs) are school clubs that "provide space for LGBTQ+ youth and their heterosexual cisgender peer allies to mutually support one another and advocate for LGBTQ+ people." They are now in an estimated 44% of U.S. secondary schools. Typically, GSAs meet weekly or biweekly for up to 1 hour during or after the regular school day. During meetings, youth socialize, support one another, discuss issues faced by the LGBTQ+ community, learn about LGBTQ+ affirming resources, or plan and engage in advocacy efforts. This study examined specific experiences within GSAs—peer responsiveness, advisor responsiveness, and leadership—as predictors of wellbeing and academic outcomes. (Poteat et al. (2025))
 
 ### Claims
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](../claims/performance-goal-discrepancy-motivates-teacher-change.md) [+W]
@@ -38,8 +39,8 @@ A teacher professional-development system that guides educators in videotaping, 
 
 ## Key Sources
 - Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340
-
 <!-- merged 2026-10-10 from theories/gsa-guided-self-analysis-system ("Guided Self-Analysis System (GSA): teacher self-analysis of videotaped lessons as professional development"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Poteat, V. P., Calzo, J. P., Yoshikawa, H., Kellogg, D., Marx, R. A., Richburg, A., & Lipkin, A. (2025). Youth experiences in gender–sexuality alliances predict academic engagement but not disaffection through social–emotional wellbeing. Child Development, 96, 847–864. https://doi.org/10.1111/cdev.14209
 
 # Guided Self-Analysis System (GSA): teacher self-analysis of videotaped lessons as professional development
 

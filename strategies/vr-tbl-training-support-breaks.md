@@ -47,6 +47,7 @@ A delivery strategy for VR-based TBL in which instructors resolve technical prob
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Practical orchestration measures for running iVR sessions in classrooms: space, time, supervisors, a Let's Play introduction, and motion sickness breaks](ivr-classroom-orchestration-logistics.md)
 - [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
+- [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](faculty-development-and-orientation-for-tbl.md)
 
 ## Examples
 -

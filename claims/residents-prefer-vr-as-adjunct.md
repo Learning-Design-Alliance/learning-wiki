@@ -69,3 +69,4 @@ Reverse preference question from the same survey: conventional methods remained 
 - [A single VR training session before a tibial nailing synthetic-bone exercise significantly reduces completion time (about 5 minutes faster, P=.007)](vr-pretraining-faster-tibia-nailing.md) — related
 - [Only 56.40% of students had participated in virtual simulation training, though most participants reported skill improvement and 62.90% wanted it as a compulsory course](practice-engagement-virtual-simulation-limited.md) — related
 - [Stakeholders prefer students experience social prescriptions in real nature with community organizations, viewing VR as an addition rather than a replacement](prefer-direct-nature-experience-over-virtual.md) — related
+- [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — related

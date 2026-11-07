@@ -47,3 +47,4 @@ The commentary states, citing Bornmann, Mutz and Daniel (2007), that "grant awar
 
 ## Related Claims
 - [Gender disparities favouring men in publication rates are documented across countries, disciplines and time periods](gender-disparities-publication-rates-documented.md) — related
+- [Men report clearer medium- and long-term career plans and are more prone to research, entrepreneurship and administrative roles than women, who favour public-service-oriented roles](gender-differences-career-plans-medical-students.md) — related

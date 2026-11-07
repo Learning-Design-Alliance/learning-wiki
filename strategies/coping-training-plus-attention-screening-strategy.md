@@ -55,6 +55,7 @@ The article recommends that low-resource universities support achievement throug
 - [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 - [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
 - [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
+- [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 
 ## Examples
 -

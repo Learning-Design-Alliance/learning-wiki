@@ -67,3 +67,4 @@ In the Discussion, the authors summarize the reported barriers and state this fi
 ## Related Claims
 - [Nurses identify staffing levels, leadership support, teamwork, and the adverse event management system as factors influencing patient safety competency](influencing-factors-psychiatric-safety-competency.md) — related
 - [Focus groups with nurses at four clinical-ladder stages identify five educational needs for medication safety competence](five-educational-needs-medication-safety-nurses.md) — related
+- [A climate of mistrust, blame and lack of management understanding undermines midwives' motivation despite their commitment to patient survival](mistrust-blame-undermine-midwife-motivation.md) — related

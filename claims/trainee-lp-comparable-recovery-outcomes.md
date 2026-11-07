@@ -49,3 +49,4 @@ Retrospective cohort analysis of 77 infants. The composite endpoint combined sur
 - [Supervised trainee-performed laparoscopic pyloromyotomy shows no significant increase in surgery-related complications compared with specialist-performed cases](trainee-lp-no-complication-increase.md) — a narrower finding that bears on this claim
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
+- [No statistically significant difference in complications between TT and non-TT cases, supporting TT as a safe teaching model](tt-complications-no-significant-difference.md) — related

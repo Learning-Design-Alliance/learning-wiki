@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (17 for, 15 mixed, 3 against) · 33 studies (10 causal, 8 review, 6 quant-synthesis, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 33 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (17 for, 18 mixed, 3 against) · 35 studies (11 causal, 8 review, 6 quant-synthesis, 5 design, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 35 report an effect size · 36 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -86,6 +86,9 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Students rated the structured viva-voce more positively than the traditional viva-voce, particularly in content coverage and clarity of objectives](../claims/structured-viva-rated-higher-than-traditional.md) [+W] — attached 2026-11-06 from Rasalkar Kavita et al. (2025), which proposed "Validated structured viva-voce cards with eight Bloom's-taxonomy-graded questions".
 - [The hybrid viva-voce format demonstrated higher inter-examiner consistency, correlation, and reliability (Cronbach's α = 0.663) than the structured and traditional formats](../claims/hybrid-viva-highest-inter-examiner-consistency.md) [~W] — attached 2026-11-06 from Rasalkar Kavita et al. (2025), which proposed "Hybrid viva-voce assessment method combining structured and traditional formats".
 - [Students preferred the hybrid viva-voce format (56%) over structured (28%) and traditional (16%) formats](../claims/students-prefer-hybrid-viva-format.md) [~W] — attached 2026-11-06 from Rasalkar Kavita et al. (2025), which proposed "Hybrid viva-voce assessment method combining structured and traditional formats".
+- [Simulated patient assessors awarded significantly lower total scores to the black fail-grade candidate than to the white fail-grade candidate in the same history-taking station](../claims/sp-lower-scores-black-fail-candidate.md) [~W] — attached 2026-11-07 from Brown Celia et al. (2025), which proposed "Video-based randomised simulated patient assessment platform with paired white/non-white candidate videos at three performance grades".
+- [Simulated patient assessors awarded significantly higher total scores to the black and Chinese borderline-grade candidates than to the white borderline-grade candidate](../claims/sp-higher-scores-black-chinese-borderline-candidates.md) [~W] — attached 2026-11-07 from Brown Celia et al. (2025), which proposed "Video-based randomised simulated patient assessment platform with paired white/non-white candidate videos at three performance grades".
+- [Student self-assessments and faculty evaluations of patient care domains diverge, with self-reported scores generally lower than faculty-assigned scores](../claims/self-assessment-faculty-score-discrepancy-dental-rotations.md) [~W] — attached 2026-11-07 from Shukla A (2025), which proposed "Community-Based Dental Education (CBDE) rotation assessment toolkit: five patient care domains on a five-point Likert scale".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

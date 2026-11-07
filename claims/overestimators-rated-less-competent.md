@@ -50,3 +50,5 @@ Comparison of expert evaluation scores between overestimation and underestimatio
 - [Trainee doctors specializing in gynecology tended to overestimate themselves](gynecology-overestimation.md) — related
 - [Self-assessment and expert evaluation scores correlate strongly on a suture exercise](sa-ee-strong-correlation-suture.md) — related
 - [Trainee surgeons' self-assessment scores are lower than expert evaluation scores on a suture exercise](sa-lower-than-ee-suture-scores.md) — related
+- [Teletherapy experts nonetheless self-report being less skilful in teletherapy than in-person therapy, indicating self-assessment bias](experts-underestimate-teletherapy-skills.md) — related
+- [Healthcare professionals who rate themselves as very knowledgeable tend to overestimate their actual Alzheimer's disease knowledge](self-rated-ad-knowledge-overestimation.md) — related

@@ -51,6 +51,7 @@ Based on persistent clinical reasoning and prioritization limitations, the artic
 - [Use high-performance LLMs as supportive tools in medical education for feedback and learning-process optimization, pending image-based validation](llms-supportive-tools-medical-education-feedback.md)
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 - [Use multimodal AI chatbots such as ChatGPT-4o as diagnostic support tools in dental education, particularly endodontics](multimodal-ai-chatbot-diagnostic-support-dental-education.md)
+- [Provide expert-written image hints and human oversight when using multimodal LLMs for image-based medical learning or decision support](expert-image-hints-with-human-oversight-strategy.md)
 
 ## Examples
 -

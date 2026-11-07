@@ -43,6 +43,7 @@ Among the report's considerations for the future, it recommends that "Future eff
 
 - [Alignment Director strategies for engaging stakeholders: leveraging existing networks, field-based pods, and cross-sector convenings](alignment-director-stakeholder-engagement-strategies.md)
 - [Use the WSCC model as a framework for school improvement plans, accountability measures, and cross-sector initiatives](wscc-implementation-across-sectors.md)
+- [Launch community-of-practice activities and interprofessional empowerment networks to sustain teacher motivation](community-of-practice-activities-sustain-teacher-motivation.md)
 
 ## Examples
 -

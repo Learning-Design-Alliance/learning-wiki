@@ -48,3 +48,4 @@ ANOVAs on attendance and satisfaction in the randomized trial found no overall a
 - [The STP-PreK Enhanced group shows greater growth in emotion knowledge than the other groups](emotion-knowledge-greater-growth-enhanced.md) — related
 - [The STP-PreK Enhanced group shows greater growth in emotion regulation and executive functioning than the other groups](self-regulation-greater-growth-enhanced.md) — related
 - [Adding social–emotional and self-regulation training to an intensive summer readiness class yields greater growth in academic achievement than parent training or standard summer programming](stp-prek-enhanced-academic-growth.md) — related
+- [The STP was highly acceptable and satisfying: the online format was rated 9.12/10 and 69.2% of participants were very satisfied](stp-high-satisfaction-acceptability.md) — related

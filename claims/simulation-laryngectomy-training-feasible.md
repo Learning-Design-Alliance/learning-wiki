@@ -52,3 +52,4 @@ Feasibility analysis of a piloted simulation-based training programme over three
 - [All 32 certified perinatal professionals completed the self-directed NCPR-VR workflow (100% completion rate)](ncpr-vr-100-percent-completion.md) — related
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
 - [Learners rated RCDP-based simulations highly acceptable and educationally valuable, with most reporting positive impact on task ability, rotation objectives, and comfort managing deteriorating patients](rcdp-high-acceptability-perceived-impact.md) — related
+- [Recruitment and retention exceeded expectations, supporting feasibility of virtually delivered telemedicine skills training](virtual-recruitment-retention-feasible.md) — related

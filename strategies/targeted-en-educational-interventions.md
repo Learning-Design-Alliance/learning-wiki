@@ -54,6 +54,7 @@ The article's recommendation for closing enteral nutrition knowledge gaps is str
 - [Use the validated KAP questionnaire to guide targeted educational interventions and programs for EVD care](evd-kap-questionnaire-guides-targeted-education.md)
 - [Improve ICU nurses' PED competence through systematic professional training, PED assessment tools, and measures promoting independent learning](systematic-ped-training-strategy.md)
 - [Target warfarin education through structured programs, interactive e-learning modules, regular workshops, and case-based training](warfarin-targeted-education-strategy.md)
+- [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
 
 ## Examples
 -

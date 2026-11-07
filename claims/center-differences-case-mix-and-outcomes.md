@@ -70,3 +70,4 @@ IWATE difficulty distribution differed significantly between centers (p<.001): "
 - [Conversion to open surgery was associated with substantially increased blood loss and operative time, and Pringle maneuver use with reduced blood loss](conversion-and-pringle-associated-with-outcomes.md) — related
 - [Both centers reached pre-defined institutional proficiency in robotic liver surgery at comparable case volumes (case 124 at UMCU and case 133 at KUH)](institutional-proficiency-124-133-cases.md) — related
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — related
+- [Intraoperative bleeding volume decreased significantly from the preliminary stage to the transition and proficient stages of LASPME](laspme-bleeding-volume-decreases-across-stages.md) — related

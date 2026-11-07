@@ -58,3 +58,4 @@ Summary statement in the publication’s overview describing what research on IP
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Exploratory analyses suggest Roads to Success positively impacted eighth graders' talking to school staff about career and school plans](roads-to-success-exploratory-positive-talking-to-staff.md) — a narrower finding that bears on this claim
+- [Autonomy for exploration sustains teachers' motivation](autonomy-for-exploration-sustains-teacher-motivation.md) — related

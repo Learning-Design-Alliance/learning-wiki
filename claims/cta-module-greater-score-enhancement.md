@@ -62,3 +62,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [The experimental group started with lower pre-test scores but achieved a higher average than the control group in the post-test](qmp-lower-pretest-higher-posttest-descriptive.md) — related
 - [English academic performance scores rose significantly from pre-test to post-test, with a large effect size (d = 0.93), in one group with no comparison group](intervention-improves-english-performance-large-effect.md) — related
 - [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related
+- [Learning scores for all five theory modules were higher in the flipped classroom group, averaging an 11.2% increase](flipped-classroom-module-scores-higher-all-five.md) — related

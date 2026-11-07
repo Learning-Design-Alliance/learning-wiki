@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 92 claims (49 for, 41 mixed, 2 against) · 68 studies (34 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 68 report an effect size · 87 claims rest on one study
+> **Evidence** · 93 claims (50 for, 41 mixed, 2 against) · 69 studies (35 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 69 report an effect size · 88 claims rest on one study
 
 ## Description and scope
 
@@ -160,6 +160,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [CBL multimodal imaging teaching produced higher multimodal image analysis scores than traditional teaching in postgraduate ophthalmology residents](../claims/cbl-multimodal-higher-multimodal-image-analysis-scores.md) [+W] — attached 2026-11-06 from Shi X et al. (2025), which proposed "Case-based multimodal imaging teaching pattern: disease-centred cases integrating CFP, FFA, ICGA and OCT"; tests this page's relationship.
 - [CBL multimodal imaging teaching produced higher final theoretical examination and case analysis scores than traditional teaching](../claims/cbl-multimodal-higher-final-theory-and-case-analysis.md) [+W] — attached 2026-11-06 from Shi X et al. (2025), which proposed "Case-based multimodal imaging teaching pattern: disease-centred cases integrating CFP, FFA, ICGA and OCT"; tests this page's relationship.
 - [Traditional lecture alone does not significantly change residents' agreement toward the three most integrity-damaging misconduct behaviors (paper selling/ghost-writing, plagiarism, and data falsification)](../claims/lecture-fails-on-most-severe-misconduct-attitudes.md) [~W] — attached 2026-11-07 from Chen Lulin et al. (2025), which proposed "Use case-based analysis and discussion rather than lecture alone when the goal is to change attitudes toward severe research misconduct"; tests this page's relationship.
+- [Applied physiology grades rose from the first-semester TTMs period to the fourth-semester combined CBL-and-TTMs period in the same cohort, in a pre-post comparison without a separate comparison group (minimum 2.0 to 7.5; median 8.5 to 10.0; Z = −11.668, P < 0.001)](../claims/cbl-ttm-hybrid-improved-physiology-grades.md) [+W] — attached 2026-11-07 from Elgheit Rehab E. Abo (2025), which proposed "Kaddoura five-step CBL session structure for applied physiology labs".
 
 ## Illustrative design instance and observation record
 

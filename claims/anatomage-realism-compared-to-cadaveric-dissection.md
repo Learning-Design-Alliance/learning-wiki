@@ -48,3 +48,4 @@ Descriptive cross-sectional survey (N=94) using a 5-point Likert item comparing 
 - [Students rated Remote Anatomage Teaching as more engaging than regular theory classes (76.6% combined positive response)](rat-more-engaging-than-regular-classes.md) — related
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
+- [Students' pre-intervention apprehension that virtual learning would feel unrealistic was largely reversed after completing the module](realism-apprehension-reversed-post-intervention.md) — related

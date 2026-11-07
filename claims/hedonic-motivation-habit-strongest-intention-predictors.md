@@ -54,3 +54,4 @@ PLS-SEM structural results from the Lesotho survey (n = 842) report hedonic moti
 - [Effort expectancy is associated with AI use only indirectly through competence, whereas hedonic motivation shows a direct positive association](effort-expectancy-mediated-hedonic-motivation-direct.md) — related
 - [Habits tend to override intentions primarily under unfavorable conditions such as stress, time pressure, or low self-control](habits-override-intentions-under-stress.md) — related
 - [Prior research identifies motivational, cognitive, affective, contextual, and ethical factors influencing GenAI adoption among instructors and students](genai-adoption-influencing-factors-review.md) — a broader claim this one bears on
+- [Habit is the strongest predictor of intention to use eLearning-based CPD (β = 0.473)](habit-strongest-predictor-elcpd-intention.md) — related

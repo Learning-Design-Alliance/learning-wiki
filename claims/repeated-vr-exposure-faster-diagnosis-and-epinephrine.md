@@ -68,3 +68,4 @@ Welch's t-test comparison of time to first IM epinephrine in VR2; the article re
 - [Time-based outcomes correlate strongly and negatively with overall checklist performance](time-outcomes-negative-correlation-performance.md) — related
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — a broader claim this one bears on
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
+- [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — related

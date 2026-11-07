@@ -66,3 +66,5 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](effort-expectancy-mediated-by-attitude.md) — reports the opposite
 - [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related
 - [Behavioral intention positively predicts self-directed learning ability while social influence shows a negative direct effect on it](intention-positive-social-influence-negative-sdla.md) — related
+- [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — related
+- [Social influence and price value do not significantly predict intention to use eLearning-based CPD](si-pv-null-predictors-elcpd.md) — related

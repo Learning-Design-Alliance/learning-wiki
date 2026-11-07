@@ -51,6 +51,7 @@ Participants described moving away from unsupervised written essays toward more 
 - [Seven-step reach audit of a course](seven-step-reach-audit.md)
 - [Provide AI-free proctored spaces so some take-home work is verifiably unassisted](ai-free-study-halls-verifiable-unassisted-work.md)
 - [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
+- [Replace or supplement essay assessment with interactive oral assessments (viva voces) where writing is not the skill being assessed](oral-viva-assessment-replace-essays.md)
 
 ## Examples
 -

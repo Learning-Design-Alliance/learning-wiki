@@ -51,6 +51,7 @@ The authors recommend that nursing education simultaneously develop digital lite
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Integrate digital-competency development into nursing curricula through pedagogically guided real-world technology activities](integrate-digital-competencies-nursing-curricula.md)
+- [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
 
 ## Examples
 -

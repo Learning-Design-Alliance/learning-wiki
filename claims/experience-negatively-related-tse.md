@@ -47,3 +47,4 @@ Cross-sectional survey of 94 Croatian high school teachers: experience showed si
 - [Teacher self-efficacy is not directly related to student self-efficacy or intrinsic motivation when teacher and student reports are combined at the class level](tse-not-related-student-motivational-beliefs.md) — related
 - [Teachers with higher self-efficacy report higher instructional quality at the individual teacher level, with congruent domain-specific associations](teacher-level-self-efficacy-instructional-quality-association.md) — related
 - [Gender, teaching experience, and educational level covary with TSE and burnout levels at Time 1](demographic-covariates-tse-burnout.md) — related
+- [Greater teaching experience correlated with less need to look up topic background and more confidence in class quality](fc-teacher-experience-confidence-correlation.md) — reports the opposite

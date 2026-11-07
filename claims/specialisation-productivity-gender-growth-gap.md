@@ -47,3 +47,4 @@ The commentary attributes to Leahey, Crockett and Hunter (2008) a longitudinal a
 ## Related Claims
 - [Gender disparities favouring men in publication rates are documented across countries, disciplines and time periods](gender-disparities-publication-rates-documented.md) — related
 - [Interviewed academic women defined success in terms of collegiality, institutions pursuing public good, and mentoring growth rather than productivity indicators](womens-own-success-definitions-collegiality-mentoring.md) — reports the opposite
+- [Men report clearer medium- and long-term career plans and are more prone to research, entrepreneurship and administrative roles than women, who favour public-service-oriented roles](gender-differences-career-plans-medical-students.md) — related

@@ -83,3 +83,4 @@ Comparison of discrimination indices between AI-generated validated questions an
 - [Human-edited GenAI-assisted items achieved plausible difficulty: mean difficulty index did not differ significantly and more GenAI-assisted items fell in the acceptable difficulty range](genai-mcq-plausible-difficulty.md) — related
 - [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in difficulty index in a real dental exam](chatgpt-educator-mcq-no-difficulty-difference.md) — related
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — reports the opposite
+- [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related

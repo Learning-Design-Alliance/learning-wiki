@@ -48,3 +48,4 @@ Cross-sectional study at Hawassa health college (n = 280) synthesized in the rev
 - [Dysmenorrhea, especially moderate to severe pain, is associated with negative impacts on academic performance among female Ethiopian students](dysmenorrhea-impairs-academic-performance-female-students.md) — related
 - [Being a health science student and being aged 20–24 are associated with good academic performance](health-science-students-age-20-24-better-performance.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
+- [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — reports the opposite

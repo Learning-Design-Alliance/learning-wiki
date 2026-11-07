@@ -85,3 +85,5 @@ Item-level and scale-level content validity indices computed after expert review
 - [A 200-item clinical performance checklist was developed and content-validated through Delphi, CVI, Kappa, and CVR filtering](validated-200-item-performance-checklist.md) — related
 - [Expert judges rated the branching virtual simulation's content as valid, with CVI, CVC and CVR above 0.80 and an average score of 4.3](content-validation-branching-simulation-cvi-cvc-cvr.md) — related
 - [Expert content validation rated all rubric items above 0.50 on the item-objective congruence index, ranging from 0.67 to 1.00](ioc-content-validity-acls-rubric.md) — related
+- [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related
+- [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related

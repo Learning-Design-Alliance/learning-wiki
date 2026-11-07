@@ -68,3 +68,4 @@ Independent-samples t-test comparing post-test achievement scores of the randoml
 - [Most undergraduate dental students in the jigsaw group reported that the method enhanced their understanding, provided adequate discussion time, and allowed effective contribution](jigsaw-student-feedback-dental.md) — related
 - [Post-intervention academic motivation was significantly higher for dental students taught with the jigsaw method than for those taught with tutorials, with no baseline difference between groups](jigsaw-tutorial-academic-motivation-postintervention.md) — related
 - [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related
+- [The jigsaw peer learning module produced a larger score improvement than conventional tutorials, about 10% higher and statistically significant](plm-gain-exceeds-ct-gain.md) — related

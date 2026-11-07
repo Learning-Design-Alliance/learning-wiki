@@ -73,6 +73,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Prepare CBL facilitators with clear learning outcomes, structured case handbooks, role-play training, and continuity of facilitator across a case](cbl-facilitator-preparation-strategy.md)
 - [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
+- [Key considerations and proposed strategies for better CBL implementation in applied physiology](cbl-implementation-improvement-strategies-applied-physiology.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ In the 107-child low-number-sense sample, SWAN Hyperactivity/Impulsivity subscal
 - [Observed off-task behavior positively correlates with teacher ratings of hyperactiveness/impulsivity and attention/concentration](observed-off-task-teacher-rating-correlations.md) — related
 - [Impulsivity does not have a statistically significant effect on reading comprehension of Iranian EFL learners](impulsivity-no-effect-reading-comprehension-iranian-efl.md) — related
 - [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — related
+- [Inattention symptoms, but not hyperactivity-impulsivity symptoms, predict academic performance and academic adjustment in South African first-year undergraduates](inattention-not-hyperactivity-predicts-academic-success.md) — related

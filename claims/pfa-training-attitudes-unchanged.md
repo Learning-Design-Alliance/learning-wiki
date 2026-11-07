@@ -49,3 +49,4 @@ Between-group and within-group tests of the 6-item PFA attitude scale across T0,
 - [PFA training improves community nurses' self-reported PFA skills immediately after training, but the skills advantage is not retained at 2 months](pfa-training-improves-skills-not-retained.md) — related
 - [A 4-hour WHO-based PFA training program significantly increases community nurses' PFA knowledge immediately after training, with a smaller but sustained advantage at 2 months](pfa-training-increases-community-nurse-knowledge.md) — related
 - [Within the intervention group, PFA knowledge scores increase significantly from baseline to post-training (r = 0.56) and remain significantly above baseline at 2 months](pfa-within-group-knowledge-gains.md) — related
+- [Post-training attitudes improved overall, but only the attitude towards telerehabilitation changed significantly](stp-attitude-change-telerehabilitation-only.md) — reports the opposite

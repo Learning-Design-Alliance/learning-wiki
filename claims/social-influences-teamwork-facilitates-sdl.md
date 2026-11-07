@@ -54,3 +54,5 @@ Review synthesis across the 17 articles; the discussion cites Watling's argument
 - [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](sdl-cpd-five-barrier-facilitator-levels.md)
 - [Fear of appearing incompetent acts as both a barrier and a facilitator to physicians' engagement in feedback-related SDL](fear-of-incompetence-dual-role-sdl-feedback.md) — related
 - [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](organizational-culture-enhances-sdl-hcp.md) — related
+- [Interpersonal and social factors — mentors, peers, leaders, living pressure, social consensus and life goals — influence trainees' SDL](interpersonal-social-factors-sdl.md) — related
+- [Career-related factors — professional identity and accomplishment as facilitators, burnout as a barrier — influence trainees' SDL](career-factors-burnout-identity-sdl.md) — related

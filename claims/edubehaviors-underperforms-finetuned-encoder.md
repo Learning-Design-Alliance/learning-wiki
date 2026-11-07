@@ -1,7 +1,7 @@
 ---
 type: claim
-title: EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data
-description: EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data
+title: "Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data"
+description: "Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data"
 id: edubehaviors-underperforms-finetuned-encoder
 status: review
 generated:
@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-07
 recheck_by: 2029
 sources:
   - id: julian-bernado-2026
@@ -22,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data
+# Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Despite generally beating direct prompting, EduBehaviors strictly underperforms the specialized fine-tuned classifier (RoBERTa-base at 0.76 macro-F1) trained on gold TalkMoves labels. [→ Julian Bernado 2026](#julian-bernado-2026)
+`q2 i?` EduBehaviors beat direct prompting in every tested case that used LLM-annotated assertions, but only two models (Claude Opus 5.0 and Gemini 3.8 Flash) reached macro-F1 comparable to the fine-tuned classifier (RoBERTa-base at 0.76) trained on gold TalkMoves labels; the best configuration reached 0.764. [→ Julian Bernado 2026](#julian-bernado-2026)
 
 ## Evidence
 
@@ -39,9 +39,9 @@ Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb. (2026).
 
 `q2 · i?` · `design · r2`
 
-Stated comparison in the Limitations section, benchmarking against the fine-tuned RoBERTa-base result (0.76 macro-F1, no agreement metrics) reported in the original TalkMoves paper. The framework "strictly underperforms the original fined-tuned encoder-based classifier."
+Stated comparison in the Limitations section, benchmarking against the fine-tuned RoBERTa-base result (0.76 macro-F1, no agreement metrics) reported in the original TalkMoves paper. The best configuration (Claude Opus 5) reached macro-F1 0.764 and Cohen's κ 0.756; the authors judge only two models comparable to the fine-tuned classifier.
 
-> "While our framework outperforms directly prompting LLMs in most of the tested cases, it strictly underperforms the original fined-tuned encoder-based classifier trained on the golden dataset annotated by experts."
+> "While we are able to demonstrate that the EduBehaviors framework outperforms directly prompting LLMs in all tested cases that used LLM-annotated assertions, only two models, Claude Opus 5.0 and Gemini 3.8 Flash, produced macro-F1 scores comparable to the original fine-tuned encoder-based classifier trained on the golden dataset annotated by experts."
 
 ## Discussion
 

@@ -57,6 +57,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 - [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
 - [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
+- [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 
 ## Examples
 -

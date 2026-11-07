@@ -46,3 +46,4 @@ Descriptive survey of the review's included studies: EERs with open pathways (n 
 
 ## Related Claims
 - [Linear path design in EERs tends to foster collaboration, while open-path structures enable positive social interdependence](eer-path-design-collaboration.md) — related
+- [Teams' research competency performance in the escape room averaged 336 ± 137.1 raw, 38.8 ± 20.9 negative, and 298 ± 150.1 final scores](morad-escape-team-competency-scores.md) — related

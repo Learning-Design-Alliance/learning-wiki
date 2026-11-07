@@ -49,3 +49,4 @@ Descriptive percentages from the 229-student questionnaire: 58.1% (n=133) favore
 - [Preclinical dental students improve significantly in tooth volume loss, procedural error scores, and task completion time after either VR or phantom head training](pre-post-improvement-vr-ph-endodontics.md) — related
 - [Domain correlations suggest coherent construct validity, with realism–skill-replication r = 0.85 and effectiveness–engagement r = 0.79](vr-simulator-domain-correlations-construct-validity.md) — related
 - [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — reports the opposite
+- [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — related

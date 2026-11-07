@@ -85,3 +85,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
 - [Repeated use of picture story books in a short time reduced student enthusiasm by the fifth meeting](picture-story-book-frequency-boredom-effect.md) — related
 - [Short improv exposure (under 10 hours) produced gains consistent with meta-analytic findings that moderate drama instruction durations are most effective](short-exposure-sufficient-gains.md) — related
+- [The longer the proctoring duration, the less adequate surgeons rated it for their learning needs (p = 0.009)](longer-proctoring-rated-less-adequate-learning-needs.md) — related

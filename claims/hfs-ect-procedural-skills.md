@@ -87,3 +87,4 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [Simulation training with 3D-printed trauma models yields significantly higher self-confidence than theoretical instruction alone at two weeks (p < 0.001)](3d-printed-simulation-raises-self-confidence-dental-trauma.md) — reports the opposite
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
 - [Simulation-based training yields higher resident satisfaction and self-confidence ratings](simulation-training-higher-satisfaction-neonatal-residents.md) — reports the opposite
+- [The self-serve training model significantly increases procedural confidence of novice ophthalmology residents but does not significantly improve skill assessment scores](self-serve-model-raises-confidence-not-skill-scores.md) — related

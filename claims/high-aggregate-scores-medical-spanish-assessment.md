@@ -49,3 +49,4 @@ End-of-course assessment in Fall 2021 with 28 students (13 Intermediate, 15 Adva
 - [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related
 - [Mean performance scores showed no statistically significant difference between virtual and in-person assessment formats in a small comparison of students who completed both](virtual-equivalent-in-person-spanish-assessment.md) — related
 - [Heritage learners of Spanish enter Spanish courses with high pragmatic competence in recognizing appropriate compliment strategies](heritage-learners-high-compliment-pragmatic-competence.md) — related
+- [80% of students presented their scientific reports in an appropriate written style, judged on technical and scientific communication](eighty-percent-appropriate-scientific-writing-style.md) — related

@@ -49,6 +49,7 @@ The article recommends leveraging an established community of practice (CoP) to 
 - [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 - [Invest in ongoing educator professional development and an assessment community of practice for POG success](pog-ongoing-pd-community-of-practice.md)
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
+- [Launch community-of-practice activities and interprofessional empowerment networks to sustain teacher motivation](community-of-practice-activities-sustain-teacher-motivation.md)
 
 ## Examples
 -

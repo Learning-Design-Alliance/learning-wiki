@@ -49,3 +49,4 @@ Two-way repeated measures ANOVA with time and POCUS application as within-subjec
 - [UCAT-measured POCUS competency improved significantly from module two to module six](pocus-competency-ucat-improved.md) — a narrower finding that bears on this claim
 - [First trimester ultrasound showed the least improvement in competency while cardiac and lung applications improved most consistently](first-trimester-least-competency-improvement.md) — reports the opposite
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
+- [Communication self-confidence improved significantly over time in both groups, with a significant group-by-time interaction favoring the experimental group](communication-confidence-time-effect-and-interaction.md) — related

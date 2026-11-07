@@ -82,3 +82,4 @@ Reaction data from the posttraining survey showed very high satisfaction and wil
 - [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related
 - [Players rate the NICU serious game highly on story empathy, knowledge acquisition, and perceived effectiveness of serious games for learning](nicu-serious-game-high-educational-usefulness-ratings.md) — related
 - [Physiotherapists rated MECC HCS training highly valuable and found the intervention acceptable across all Theoretical Framework of Acceptability constructs](mecc-hcs-acceptability-tfa.md) — related
+- [Participants report high satisfaction and perceived utility for the MeTra simulator and the new basic course overall](metra-course-high-satisfaction.md) — related

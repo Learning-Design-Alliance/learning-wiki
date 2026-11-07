@@ -50,3 +50,5 @@ Confirmatory factor analysis (maximum likelihood, Stata 17) of rubric ratings fr
 - [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [In the G-study, the student (person) facet accounts for 20.33% of total score variance in the ACLS rubric](g-study-student-variance-20-percent.md) — related
+- [Confirmatory factor analysis supports a three-factor structure of the six-item PtBL rubric with good fit](cfa-three-factor-rubric-good-fit.md) — related
+- [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related

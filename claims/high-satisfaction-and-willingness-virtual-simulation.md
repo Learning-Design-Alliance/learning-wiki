@@ -67,3 +67,4 @@ Table 3 reports first-person perspective impact by specialty, with totals of 115
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — a broader claim this one bears on
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
+- [User satisfaction with the system is high overall (94%), with educators most satisfied (90%) and grade 4–6 students relatively less satisfied](hci-system-user-satisfaction-educators-highest.md) — related

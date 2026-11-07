@@ -49,6 +49,7 @@ Before the simulation session, both groups were instructed on the methodology an
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
 - [Brief video orientation plus one-on-one hands-on cadaver workshop followed by an independent skills test](video-plus-one-on-one-cadaver-workshop-strategy.md)
+- [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 
 ## Examples
 -

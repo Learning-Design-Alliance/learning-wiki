@@ -53,3 +53,4 @@ Quasi-experimental comparison of two groups of female students (n=137 control, n
 - [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](cooperative-learning-higher-lab-report-scores-chemistry.md) — related
 - [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — related
 - [Overall cumulative final exam scores showed no significant difference before versus after implementing the story](final-exam-overall-no-significant-difference.md) — related
+- [Students in the flipped classroom group scored higher on the final theory exam than lecture-group students (8.2 ± 0.7 vs 7.0 ± 0.8)](flipped-classroom-higher-theory-exam-scores-endodontics.md) — related

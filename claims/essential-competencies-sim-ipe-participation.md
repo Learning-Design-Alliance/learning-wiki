@@ -49,3 +49,4 @@ Faculty key informant in Theme 4: "We expect them to have drug therapy problem d
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — related
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
 - [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — related
+- [Students in a postgraduate Sim-IPE program identified six SWOT themes: competence acquisition, prebriefing, debriefing, fidelity, resources, and teaching team](students-six-swot-themes-sim-ipe.md) — related

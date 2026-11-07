@@ -53,3 +53,4 @@ Pilot RCT questionnaire analysis using the ARCS Learning Motivation Questionnair
 - [Virtual simulation training reduced incisor mesiodistal bracket placement deviation compared with traditional training in a pilot RCT](virtual-simulation-reduced-incisor-mesiodistal-deviation.md) — related
 - [Students rated the program's ARCS confidence component significantly lower than attention, relevance, and satisfaction](arcs-confidence-lower-than-other-components.md) — related
 - [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related
+- [VRS teaching produced significantly higher posttest learning attention than traditional teaching, with no between-group differences in overall motivation or relevance and satisfaction](vrs-higher-learning-attention-posttest.md) — related

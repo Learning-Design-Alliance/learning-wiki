@@ -69,3 +69,4 @@ The review reports Liang et al.'s controlled benchmark of seven detectors on aut
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
 - [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — related
 - [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — related
+- [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — related

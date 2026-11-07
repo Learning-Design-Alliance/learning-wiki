@@ -49,3 +49,4 @@ Interview theme on trainee teaching skills. One GP stated "We don't organize cou
 ## Related Claims
 - [GPs' wish for support and their own positive experience with near-peer teaching influence decisions to delegate student supervision](gp-wish-for-support-and-near-peer-experience.md) — related
 - [Entrustment of student supervision to GP trainees is influenced by factors related to the trainee, the GP, their relationship, the teaching task, the context, and perceived risks](teaching-entrustment-factor-categories-gp-practice.md) — a broader claim this one bears on
+- [Trainees identify personal factors — learning habits, personality and interests — as influences on SDL](personal-factors-shape-sdl-trainees.md) — related

@@ -49,3 +49,4 @@ In the interview thematic analysis, this subtheme describes how residents "obser
 - [Residents cope with perceived overentrustment and inadequate supervision using instrumental, emotion-focused, and appraisal-focused strategies](resident-coping-strategies-overentrustment.md) — related
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](srl-clinical-strategies-diverse-multifactor.md) — related
 - [Workload and availability of protected teaching time, students, teachers and patients shape entrustment of student supervision in general practice](context-factors-workload-and-protected-teaching-time.md) — related
+- [TT cases were selectively simpler, in older children, and performed during working hours on weekdays, reflecting ad hoc entrustment-based case selection](tt-case-selection-simpler-in-hours.md) — related

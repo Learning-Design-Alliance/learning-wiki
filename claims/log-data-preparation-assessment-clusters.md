@@ -68,3 +68,4 @@ Results of the log-data cluster comparison report the direction of each contrast
 - [Students adopting a preparation-oriented log-data approach earned significantly higher course marks and spent more online time than assessment-oriented students](preparation-oriented-approach-higher-marks.md) — related
 - [Self-reported data identify two clusters of students in a flipped classroom, one using a deep approach more frequently and one using a surface approach more frequently](self-report-deep-surface-clusters-flipped-classroom.md) — related
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
+- [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — related

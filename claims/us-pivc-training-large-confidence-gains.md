@@ -54,3 +54,4 @@ Pre- and post-simulation questionnaires on 5-point Likert scales compared with t
 - [Students' post-training confidence ratings do not correlate with their objectively assessed US-PIVC competency scores.](us-pivc-confidence-not-correlated-with-competency.md) — related
 - [Participants' perceived confidence in the RUSH protocol significantly increased from a median of 6 to 9 (p < 0.001, effect size −0.842)](rush-mooc-confidence-gain.md) — a narrower finding that bears on this claim
 - [Students' self-rated competency scores across all 12 suturing techniques rose from 1.85 to 3.84 after the course, in one uncontrolled pre-post study](self-rated-competency-improved-median-1-85-to-3-84.md) — related
+- [Subjective competence in brain death diagnosis increased significantly after the VR simulation](subjective-competence-gain-after-vr-simulation.md) — a narrower finding that bears on this claim

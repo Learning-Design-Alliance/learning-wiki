@@ -49,3 +49,4 @@ Written survey of 139 high school girls, 253 high school boys, and 150 normal sc
 - [Teacher-quality preferences differ by group: kindness ranks first with girls, fairness with boys, and sociability is more appreciated by normal school students than by high school students.](group-differences-teacher-quality-preferences.md) — related
 - [Pupils rarely mention appearance, health, or experience-related qualities, and sense of humor is absent from standard teacher efficiency records despite pupils valuing it.](pupils-rarely-cite-appearance-health-efficiency-records-omit-humor.md) — related
 - [The M/A group rated fairness of the teacher's approach better than the control group.](clil-maths-fairness-better.md) — related
+- [Medical students value interpersonal and personal qualities — especially respect and patience — most in an exemplary teacher, but judge bad teachers mainly on teaching-domain failures](exemplary-teacher-attributes-medical-students.md) — related

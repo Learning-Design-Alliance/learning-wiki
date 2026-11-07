@@ -54,6 +54,7 @@ The article recommends deploying high-accuracy LLMs as supportive tools in medic
 - [Use LLMs cautiously in ophthalmology resident training, particularly for complex clinical decision-making cases](cautious-llm-use-in-resident-training-complex-cases.md)
 - [Guide medical students to use ChatGPT cautiously with cross-checking, disclosure, and teacher oversight](cautious-chatgpt-use-teacher-oversight-strategy.md)
 - [Use multimodal AI chatbots such as ChatGPT-4o as diagnostic support tools in dental education, particularly endodontics](multimodal-ai-chatbot-diagnostic-support-dental-education.md)
+- [Use advanced LLMs as supplementary oncology education and decision-support tools, with outputs verified by medical professionals and models regularly updated](llm-oncology-support-with-professional-verification.md)
 
 ## Examples
 -

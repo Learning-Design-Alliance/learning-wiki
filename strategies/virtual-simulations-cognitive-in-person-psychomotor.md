@@ -60,6 +60,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Multifaceted integration of simulator-based training into medical curricula with adaptive, learner-group-specific teaching methods and qualified supervision](adaptive-sbt-curriculum-integration-strategy.md)
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
+- [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Phase 3 exploratory factor analysis of survey responses from 170 valid GP respon
 - [Exploratory factor analysis of the gamified test yields a 2-factor solution matching the cognitive-abilities versus personality-characteristics distinction, with conformity loading on neither factor](gba-two-factor-structure-cognitive-personality.md) — related
 - [The HLC-N demonstrates good construct validity with a six-factor structure explaining 72.558% of variance and good CFA model fit](hlc-n-good-construct-validity-efa-cfa.md) — related
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
+- [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related

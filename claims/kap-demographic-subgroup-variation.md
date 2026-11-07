@@ -54,3 +54,5 @@ Unadjusted comparisons across participant characteristics in the 931-nurse surve
 - [Nurses reporting CSSC training have higher knowledge, attitude, and practice scores for ANE management than untrained nurses in unadjusted cross-sectional comparisons](cssc-training-higher-kap-ane-management.md) — related
 - [CSSC-trained nurses outperform untrained nurses on every KAP item subgroup, from ANE definitions to post-event psychological care](cssc-subgroup-item-advantages.md) — related
 - [Factors associated with PICC care knowledge differ across hospital levels: guidelines and training need were significant only in tertiary hospitals, while education and prior training were significant only in secondary/primary hospitals](hospital-level-stratified-picc-knowledge-factors.md) — related
+- [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
+- [Nurses in level III (tertiary) hospitals score higher on NM competence than counterparts in level II hospitals](tertiary-hospital-nurses-higher-nm-competence.md) — related

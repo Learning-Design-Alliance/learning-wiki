@@ -83,3 +83,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
 - [Questionnaire subscales show high internal consistency with Cronbach's alpha ranging from 0.86 to 0.89](see-questionnaire-subscales-alpha-086-089.md) — related
 - [The scale shows robust reliability: Cronbach's alpha 0.96, Spearman-Brown 0.86, and composite reliability coefficients above 0.60](gp-depression-scale-reliability-alpha-0-96.md) — related
+- [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related

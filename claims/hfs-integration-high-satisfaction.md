@@ -48,3 +48,4 @@ Self-reported 14-item satisfaction questionnaire (5-point agreement scale, CVI =
 - [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md) — related
 - [HFS/curriculum integration significantly improves knowledge of nursing care during vaginal delivery (86% vs. 46%)](hfs-integration-vaginal-delivery-knowledge.md) — related
+- [First-year Biology students report high satisfaction with a QR-based active learning bioinformatics lesson, with 94.6% finding the lesson important and about 89% finding it effective for information-management skills](qr-gymkhana-bioinformatics-high-student-satisfaction.md) — related

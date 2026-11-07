@@ -55,6 +55,8 @@ The article's implementable session recipe: an orientation introducing the study
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Simulation-based mastery learning course with at-home simulator practice supported by written and video instructions](sbml-course-home-practice-video-instructions.md)
 - [Team-based, bilingual VR training session format combining orientation, remote-facilitated simulation, and debriefing](team-based-bilingual-vr-session-format.md)
+- [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
+- [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 
 ## Examples
 -

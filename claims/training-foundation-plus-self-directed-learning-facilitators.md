@@ -49,3 +49,4 @@ Thematic analysis of 18 interviews with 15 healthcare professionals trained to d
 - [Facilitators reported that real delivery experience, not role-play training alone, was needed to become confident and competent](experiential-learning-facilitator-competence.md) — related
 - [Reflective practice, supported by individual and group supervision, helped facilitators learn from rather than be derailed by challenging cases](reflective-practice-supervision-challenging-cases.md) — related
 - [Growth in facilitator skill depended on experiencing challenge commensurate with experience: easier cases first, more complex cases later](appropriate-challenge-facilitator-development.md) — related
+- [Trained respiratory healthcare professionals delivered the TANDEM cognitive behavioural intervention with acceptable therapeutic competency in 78% of assessed cases](tandem-facilitators-acceptable-therapeutic-competency.md) — a narrower finding that bears on this claim

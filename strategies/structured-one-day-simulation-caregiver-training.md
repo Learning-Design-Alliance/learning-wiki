@@ -68,6 +68,7 @@ The article describes a specific instructional sequence for caregiver emergency-
 - [Combine a briefing with a simulation scenario and individual expert feedback when training staff on a new medical device](briefing-plus-simulation-with-feedback-for-device-training.md)
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](demonstrate-group-practice-report-revision-simulation-session.md)
+- [Protocolize the prebriefing with a fiction contract, a preplanned written briefing script, and a case-design checklist](protocolized-prebriefing-fiction-contract.md)
 
 ## Examples
 -

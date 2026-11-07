@@ -56,3 +56,5 @@ Single-group pre–post study of 30 third-year dental students (28 post-test) co
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Students' pre-course self-assessment of history-taking skills exceeds post-course self-assessment in all three groups](pre-course-self-assessment-higher.md) — related
 - [Nursing students' patient and injury assessment skills, including emotional, nutritional and history-taking items, rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study](simulation-improves-wound-patient-assessment-skills.md) — related
+- [One OSCE item, estimating the patient's carbohydrate intake in servings, showed no statistically significant pre-to-post improvement](osce-carbohydrate-estimation-item-not-significant.md) — related
+- [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related

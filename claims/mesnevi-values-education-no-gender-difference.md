@@ -51,3 +51,4 @@ Mann-Whitney U analysis of the 31-student experimental group (15 female, 16 male
 - [Male participants rated TQM applicability higher than female participants in all scale dimensions](gender-difference-tqm-perceptions-male-higher.md) — related
 - [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](similar-simulator-perceptions-novice-experienced.md) — related
 - [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related
+- [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related

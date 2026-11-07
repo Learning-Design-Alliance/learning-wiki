@@ -59,3 +59,4 @@ Analysis of the same four-model comparison against empirical IRT difficulty repo
 - [Angoff estimates correlated with observed item difficulty more strongly for LLMs than for faculty judges](llm-angoff-item-difficulty-correlation.md) — related
 - [LLM-generated scores on multimodal OSPE items correlate strongly with human scores in rank order yet diverge substantially on categorical pass/fail decisions](llm-ospe-rank-agreement-paradox.md) — a narrower finding that bears on this claim
 - [The ML regression model's predicted GOALS scores correlate strongly with expert evaluations (r = 0.86 dissection, r = 0.91 suturing) with small mean absolute errors](mocap-goals-prediction-correlation-mae.md) — related
+- [Participants' and tutors' rankings of medical error types were highly similar, indicating strong agreement between the two perspectives](participant-tutor-ranking-agreement.md) — related

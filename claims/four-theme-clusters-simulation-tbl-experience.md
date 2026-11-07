@@ -50,3 +50,4 @@ Qualitative arm: semi-structured interviews with 11 participants (mean duration 
 - [Team collaboration scores rose from pre-test to post-test after integrated simulation with TBL in paediatric postgraduates, in one single-group pre-post study using the French TEAM system](simulation-tbl-improves-teamwork-team-scores.md) — related
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
 - [Inductive analysis of 24 empathy canvases identified 32 learning gains and 18 pain points across self-awareness, teamwork, learning efficiency, and comprehensive ability](empathy-canvas-gains-pain-points-four-dimensions.md) — related
+- [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related

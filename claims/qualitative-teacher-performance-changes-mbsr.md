@@ -56,3 +56,4 @@ Qualitative interviews with intervention teachers, thematically coded by the mai
 - [Qualitative interviews identified six themes contextualizing the quantitative patterns, including self-efficacy repair, reduced evaluative threat, and residual planning difficulty.](qualitative-themes-personalized-vocabulary-learning.md) — related
 - [Professional development is perceived as key to bolstering faculty self-efficacy for innovative teaching](professional-development-bolsters-self-efficacy.md) — related
 - [Teacher narratives after happiness training yield eight recurring themes, including emotional exhaustion and recovery, reconnection with purpose, and improved classroom engagement](happiness-training-eight-qualitative-themes.md) — related
+- [Engagement with continuous personal and professional development sustains teachers' motivation](continuous-personal-professional-development-sustains-teacher-motivation.md) — related

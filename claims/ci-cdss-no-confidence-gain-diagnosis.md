@@ -48,3 +48,4 @@ Survey-based arm-by-time analysis from the same clinic-randomized trial. Overall
 - [CI-CDSS clinics showed larger confidence gains than usual care specifically in addressing home and driving safety for patients with cognitive impairment](ci-cdss-confidence-home-driving-safety.md) — related
 - [Clinician exposure to a CI-CDSS plus one-hour training increased primary care clinicians' confidence in managing cognitive impairment care relative to usual care](ci-cdss-increased-confidence-managing-ci-care.md) — related
 - [Self-reported CI-CDSS uptake was modest, but clinicians who used the tool reported high satisfaction and perceived usefulness](ci-cdss-modest-use-high-satisfaction.md) — related
+- [E-learning significantly increased participants' satisfaction with knowledge and self-assessed ability to diagnose and manage patients, and by more than knowledge and practices scores.](mali-elearning-confidence-gains-exceed-knowledge.md) — related

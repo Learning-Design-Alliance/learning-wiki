@@ -49,3 +49,4 @@ Descriptive survey results on demand for statistics education (N = 274) from sec
 - [Students favored a blended instructional approach combining lectures with games or case studies rather than replacing lectures with games](students-favor-blended-lecture-game-approach.md) — a narrower finding that bears on this claim
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
+- [Only a minority of students prefer online teaching for clinical courses, and the primary drawback cited is the lack of a classroom atmosphere](online-teaching-willingness-shortcomings-neurosurgery.md) — related

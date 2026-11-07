@@ -57,6 +57,7 @@ The article recommends that LLM use in foundational biomedical education focus o
 - [Integrate generative-AI-vulnerable take-home tasks into supervised or in-class settings and use student-generated MCQs in peer-testing or formative assessment](supervised-settings-and-peer-testing-for-generation-tasks.md)
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
 - [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
+- [Use advanced LLMs as supplementary oncology education and decision-support tools, with outputs verified by medical professionals and models regularly updated](llm-oncology-support-with-professional-verification.md)
 
 ## Examples
 -

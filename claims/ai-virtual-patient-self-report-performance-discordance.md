@@ -62,3 +62,4 @@ Qualitative synthesis of Kirkpatrick level 2 findings reported in three included
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related
 - [Within generating, students proposed hypotheses, managed discordant information, and determined final diagnoses, with wide variation in data use](generating-hypotheses-discordant-data-final-diagnoses.md) — related
 - [Faculty observed more structured reasoning and improved question formulation in students after repetitive practice with ChatGPT as a standardized patient](faculty-observed-improved-question-formulation.md) — related
+- [E-learning significantly increased participants' satisfaction with knowledge and self-assessed ability to diagnose and manage patients, and by more than knowledge and practices scores.](mali-elearning-confidence-gains-exceed-knowledge.md) — related

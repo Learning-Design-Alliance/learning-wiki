@@ -48,3 +48,4 @@ Qualitative thematic analysis of open-ended questionnaire responses. The four th
 - [Thematic analysis of students' open-ended responses identified four themes about the blended course experience, including that LXD enhanced engagement and that the teacher's use of multiple solution strategies had pedagogical value](qualitative-four-themes-blended-lxd.md) — related
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Students rate course-provided OLRs as more useful in post-class and pre-exam stages than in the pre-class stage](olr-perceived-usefulness-increases-later-stages.md) — related
+- [Trainees identify personal factors — learning habits, personality and interests — as influences on SDL](personal-factors-shape-sdl-trainees.md) — related

@@ -54,6 +54,8 @@ The authors conclude that simulation-trained providers' skills "remain effective
 - [Deliver smartphone-based, scenario-based PFA review modules and peer case-sharing via WeChat to sustain skills after initial training](wechat-microlearning-pfa-booster-strategy.md)
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 - [Share the simulation scenario with learners in advance and repeat the scenario within sessions](advance-scenario-sharing-and-repetition-strategy.md)
+- [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
+- [Schedule top-up or refresher sessions after short SBE workshops to maintain knowledge gains](top-up-sessions-maintain-sbe-gains.md)
 
 ## Examples
 -

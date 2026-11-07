@@ -50,3 +50,4 @@ Retrospective single-center cohort of 77 infants (45 specialist-operated, 32 tra
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
 - [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — related
+- [No statistically significant difference in complications between TT and non-TT cases, supporting TT as a safe teaching model](tt-complications-no-significant-difference.md) — related

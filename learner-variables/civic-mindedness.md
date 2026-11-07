@@ -13,7 +13,7 @@ generated:
 # Civic Mindedness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (33 show a difference, 7 mixed, 9 no difference) · 24 studies (10 causal, 7 associational, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (34 show a difference, 7 mixed, 9 no difference) · 25 studies (10 causal, 7 associational, 3 theoretical, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 6 of 25 report an effect size · 48 claims rest on one study
 
 ## Description
 Civic mindedness is a learner's orientation toward their community: seeing themselves as someone who can contribute, being informed about and attentive to the needs and goals of others (including needs that differ from their own), and joining with others to pursue shared aims. It includes thinking critically about civic content and social movements and about the democratic systems that govern communities, including the inequities those systems can produce and how they might be addressed. Prosocial behaviour, acting with others in mind, is described as one of its foundations. It is measured with sets of civic-outcome instruments for elementary classrooms (knowledge, thinking, dispositions and participation) and with critical-consciousness scales for older adolescents and adults.
@@ -91,6 +91,7 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [Pre-service teachers required to read critical literature and reflect through guiding questions show greater awareness of the political aspects of language than those who are not](../claims/guided-reflection-critical-literature-raise-politics-of-language-awareness.md) [+M] — instruction changes it
 - [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](../claims/service-learning-perceived-costs-reduction.md) [+M] — measured as an outcome of the instruction studied
 - [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](../claims/seven-csas-subscales-no-change-ceiling.md) [-M] — measured as an outcome of the instruction studied
+- [Follow-up interviews reveal seven themes linking community-oriented PBL to readiness for home care visits, professional growth, and community engagement](../claims/pbl-interviews-seven-themes-community-care.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

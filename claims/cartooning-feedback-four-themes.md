@@ -49,3 +49,4 @@ Inductive thematic analysis (following Maguire & Delahunt and Braun & Clarke) of
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Open-ended student feedback yielded four themes: PBL is acceptable, challenging but beneficial, improves soft skills, and suits only students with basic accounting knowledge](pbl-qualitative-feedback-four-themes.md) — related
 - [Interviews with MedED participants yield three themes: academic value, career prospects, and sense of community and wellbeing](meded-three-interview-themes.md) — related
+- [Inductive coding of open-ended responses yielded four themes: virtual format issues, work-life balance, influential group dynamics, and improved connection in-person](alg-qualitative-four-themes.md) — related
