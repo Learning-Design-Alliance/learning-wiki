@@ -50,3 +50,4 @@ Between-group comparison of overall CRM-score gains (Δ = post − pre) in the r
 - [Simulations benefited students regardless of gender or ethnicity, though females were more satisfied and minorities more engaged](vct-benefits-across-gender-ethnicity.md) — related
 - [Retrospective self-assessed CRM-related competencies improve significantly after in-situ ATLS®-based trauma team training, with a small mean gain relative to the scale range](in-situ-trauma-simulation-crm-self-assessed-gains.md) — related
 - [Performance improvements after simulation-based learning were statistically significant for both male and female students across all assessment domains](sbl-improvements-consistent-across-genders.md) — related
+- [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — reports the opposite

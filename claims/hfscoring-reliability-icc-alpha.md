@@ -60,3 +60,5 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Blinded GOALS assessment of videotaped cholecystectomies has moderate reliability (ICC(A,3) = 0.84 for consensus ratings)](goals-video-assessment-moderate-reliability.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Novice participants' simulator evaluation scores did not significantly differ from those of experienced surgeons, with high internal consistency (Cronbach's alpha 0.872) and interrater agreement (ICC 0.851)](traps-simulator-novice-expert-rating-agreement.md) — related
+- [The five-scenario IC-MD achieves satisfactory inter-rater reliability (ICC = 0.627) and generalizability (Eρ² = 0.642), though participant × scenario variance exceeds participant variance](ic-md-reliability-generalizability.md) — related
+- [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related

@@ -45,6 +45,7 @@ Participants' open-ended questionnaire answers should drive the next iteration o
 
 - [Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction](planned-ai-instruction-enhancements-rag-multiturn.md)
 - [Replace Wizard of Oz facilitation with generative AI chatbots and automated AI-driven assessment in future simulator iterations](generative-ai-replacement-for-woz-simulation-strategy.md)
+- [Session-design adjustments suggested by student feedback: shorten or split the manual, add facilitators, schedule the session earlier, and keep facilitator synthesis pauses](gas-exchange-session-design-adjustments-strategy.md)
 
 ## Examples
 -

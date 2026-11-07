@@ -46,3 +46,4 @@ Wilcoxon Signed Ranks Test on the experimental group's pre-post scores (n=29; 18
 
 ## Related Claims
 - [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Science process skills scores rose significantly from pre-test to post-test among students taught with GIBLEI, in one uncontrolled pre-post study](giblei-within-group-sps-gain-wilcoxon.md) — related

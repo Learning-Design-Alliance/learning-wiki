@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: şimşek-emine-2026
     resource: "https://doi.org/10.1186/s12909-026-09577-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most experimental-group students agreed HVRS increased confidence (46.7% agree), reduced procedure time (46.7%), helped locate canal orifices (60.0%), and prevented iatrogenic errors (53.3%); 46.7% strongly agreed HVRS should be incorporated into the curriculum. [→ Şimşek Emine 2026](#simsek-emine-2026)
@@ -60,3 +61,4 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Early student evaluation after initial pre-clinical haptics training suggested enhanced satisfaction and improved confidence, based on immediate findings only](early-haptics-training-satisfaction-confidence.md) — related
 - [Pair-trained students reported higher confidence in their performance but perceived the procedure as less challenging than solo-trained students](qcm-confidence-challenge-pair-training.md) — related
 - [Perceptions of VR training do not differ significantly between preclinical and clinical dental students](vr-perception-similar-across-cohorts.md) — related
+- [Most VR-group students reported satisfaction with the course and improved security and confidence in clinical diagnosis](vr-students-satisfaction-confidence-survey.md) — related

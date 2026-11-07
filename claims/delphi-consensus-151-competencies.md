@@ -54,3 +54,4 @@ In the three-round Delphi study, Round 2 retained 124 items meeting consensus cr
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
 - [In Delphi Round 2, three of 16 candidate shared-competency items were deleted for high variability (SD above 0.8) and lower relevance to shared collaborative roles](delphi-round2-item-deletion-high-sd.md) — related
 - [A three-round Delphi panel of 30 Korean experts derived six core shared competencies for physician–nurse collaboration in primary care, all meeting consensus criteria](delphi-six-shared-competencies-primary-care.md) — related
+- [A two-round modified Delphi process with an integrated workshop produced consensus on 97 of 120 formulated competencies for a delirium e-learning curriculum](delphi-consensus-97-of-120-delirium-competencies.md) — related

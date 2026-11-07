@@ -53,3 +53,4 @@ The review reports, citing Margolin et al.'s multi-institutional virtual urology
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [Intern performance on validated AI-generated urology questions improved significantly across a three-week clinical rotation, from 45.2% at baseline to 78.4% at final assessment](ai-question-scores-improve-across-urology-rotation.md) — related

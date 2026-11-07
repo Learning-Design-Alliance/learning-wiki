@@ -48,6 +48,8 @@ For future implementation, the authors propose a governance-oriented credentiali
 - [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Use a benchmark of roughly 5 to 8 supervised PUL cases, preceded by simulation training, to structure supervision and credentialing for naïve urologists](pul-simulation-plus-5-8-proctored-cases-benchmark.md)
+- [Implement certification systems to standardize student ultrasound education and quality-assure minimum competencies](certification-standardization-suse.md)
+- [Adopt competency-based education and rebuilt training resources to strengthen technical emergency competences](competency-based-emergency-training-strategy.md)
 
 ## Examples
 -

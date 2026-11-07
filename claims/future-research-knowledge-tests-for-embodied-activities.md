@@ -47,3 +47,4 @@ The author's own stated limitation and future direction, offered without evidenc
 ## Related Claims
 - [Exploratory correlations suggest embodiment was specifically relevant in the re-experiencing group, correlating with written procedural knowledge and post-test self-efficacy](embodiment-correlations-re-experiencing-group.md) — related
 - [Children's most frequent impressions concern ease of use of tangible interface and graphical UI](children-impressions-ease-of-use-and-gui.md) — related
+- [The most frequent student first impression of the GP was professional knowledge enhancement, including corrected misconceptions about ageing](gp-first-impressions-knowledge-enhancement.md) — related

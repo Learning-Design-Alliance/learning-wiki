@@ -75,3 +75,4 @@ Pick-a-point probing of Model 2 interactions (Fig 2) in the seven negative-inter
 - [Growth mindset mediates only a small share (about 2.9–3.2%) of the effect of SES on academic achievement across 73 countries](growth-mindset-mediation-of-ses-effect-small-pisa-2022.md) — related
 - [Country affluence significantly moderated the growth mindset associations with all three outcomes, providing strong support for the rich get richer hypothesis](country-affluence-moderates-mindset-all-outcomes.md) — related
 - [The study found almost no support for the compensatory hypothesis that growth mindsets benefit disadvantaged students more](no-support-compensatory-hypothesis-correlational.md) — reports the opposite
+- [Students from a widening participation background tended to show higher growth mindset than non-WP students, a non-significant trend the authors attribute to pre-course factors](wp-students-higher-mindset-trend.md) — related

@@ -70,3 +70,4 @@ D-study for the two-facet nested r:(p×i) design, which matches the course's rat
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — related
 - [More OSCE stations are needed to reach a target reliability with the extended scale than with the generic scale](decision-study-stations-to-target-reliability.md) — related
 - [In the G-study, the student (person) facet accounts for 20.33% of total score variance in the ACLS rubric](g-study-student-variance-20-percent.md) — related
+- [Two raters using the QASSH achieve a G coefficient above 0.85, while a single rater still yields Coef-G above 0.75](qassh-two-raters-g-above-085.md) — related

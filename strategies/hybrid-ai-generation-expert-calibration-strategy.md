@@ -17,7 +17,7 @@ sources:
 # Implement hybrid AI-generation with expert calibration for examination production
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 3 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 against) · 2 studies (1 causal, 1 design), `q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends immediate adoption of hybrid "AI-generation/expert-calibration" models in dental education assessment, bridging formative feedback enabled by AI efficiency with summative rigor supplied by human expertise. Future work should develop AI pre-screening followed by expert refinement with knowledge graph-enhanced distractor complexity, and constrain item parameters during generation. The strategy directly targets the study's findings on breadth gains and discrimination shortfalls.
@@ -46,7 +46,7 @@ The article recommends immediate adoption of hybrid "AI-generation/expert-calibr
 - [The AI-generated and human-designed examinations showed comparable split-half reliability and difficulty distributions](../claims/ai-exam-comparable-reliability-difficulty.md) [+W]
 - [A GPT-4-generated periodontology examination achieved higher syllabus content coverage than a human-designed examination (81.3% vs. 72.4%)](../claims/ai-exam-higher-content-coverage-periodontology.md) [+W]
 - [Students scored significantly higher on the AI-generated examination than on the human-designed examination, with a narrower score range](../claims/ai-exam-higher-total-scores.md) [+W]
-- [The AI-generated examination showed significantly lower item discrimination than the human-designed examination (0.35 vs. 0.49)](../claims/ai-exam-lower-discrimination.md) [-W]
+- [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](../claims/ai-exam-lower-discrimination.md) [-W]
 - [AI-generated X-type questions were easier than human-designed X-type questions (difficulty 0.77 vs. 0.62)](../claims/ai-x-type-questions-easier.md) [-W]
 - [Students rated the AI-generated examination significantly lower on difficulty adaptability, knowledge coverage, and learning inspiration](../claims/students-rate-ai-exam-lower-feedback.md) [-W]
 

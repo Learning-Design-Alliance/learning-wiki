@@ -49,3 +49,4 @@ Planned paired-samples t-test within the same OSCE cohort (valid cases 103–104
 - [Older first-year nursing students show smaller overestimation of social/communication skills (age negatively predicts the discrepancy, R² = 0.07)](age-predicts-smaller-social-calibration-gap.md) — related
 - [Self-other rating differences vary across competency domains in first-year nursing OSCEs, with the largest discrepancy in social/communication skills (Rating Type × Domain interaction η²ₚ = 0.416)](osce-rating-type-domain-interaction-nursing.md) — a broader claim this one bears on
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
+- [Self-assessment overestimates ultrasound skills relative to external examination, while meta-analyses show moderate self-assessment accuracy overall](self-assessment-overestimates-ultrasound-skills.md) — related

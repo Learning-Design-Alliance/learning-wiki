@@ -52,3 +52,4 @@ Blinded within-participant psychometric evaluation in Singapore: 73 postgraduate
 - [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
 - [Students scored significantly higher on the AI-generated examination than on the human-designed examination, with a narrower score range](ai-exam-higher-total-scores.md) — reports the opposite
 - [AI-generated X-type questions were easier than human-designed X-type questions (difficulty 0.77 vs. 0.62)](ai-x-type-questions-easier.md) — related
+- [AI-generated questions showed significantly lower discrimination indices than traditional board examination questions despite similar difficulty](ai-exam-lower-discrimination.md) — related

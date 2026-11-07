@@ -52,3 +52,4 @@ Item-level exploratory analysis of the Communication Clarity Scale in a single-g
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
 - [SBAR and handover capabilities did not change significantly from pre-test to post-test in one single-group study with no comparison group](sccdp-sbar-handover-no-significant-change.md) — related
 - [Communication feedback in adult nursing assessment is perfunctory unless tied to functional safety tasks such as SBAR handover and escalation of concerns](communication-feedback-perfunctory-except-functional-contexts.md) — related
+- [Standardised scoring tools (ABCDE, NEWS, ISBAR) created a common language that participants experienced as strengthening clinical communication and confidence across service levels](standardised-language-scoring-tools-communication.md) — related

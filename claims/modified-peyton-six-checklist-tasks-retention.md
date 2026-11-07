@@ -57,3 +57,4 @@ Item-level analysis of the 11-task checklist at one month in the RCT; Table 4 re
 - [High-fidelity simulation did not outperform medium-fidelity simulation on clinical skills for pressure-injury management (p = 0.853; d = 0.076)](high-fidelity-no-skills-advantage-pressure-injury.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
 - [Experimental group outperformed control in clinical case synthesis, emergency management, and aseptic compliance on instructor evaluations](flipped-boppps-instructor-evaluation-advantages.md) — related
+- [Video-assisted teaching improves the skill of opening a sterile package but not other aseptic skills compared with demonstration](video-improves-sterile-package-skill-only.md) — related

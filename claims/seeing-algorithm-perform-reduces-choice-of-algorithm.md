@@ -52,3 +52,4 @@ Five lab and MTurk experiments in which participants forecast MBA success or sta
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
 - [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related
 - [Algorithm aversion: people show negative attitudes toward algorithms and trust humans more, especially for subjective tasks requiring attention to individual uniqueness](algorithm-aversion-educators-pla.md) — related
+- [Forecasts of intervention efficacy by scientists, platform staff, and teachers were overly optimistic by a factor of 30 or more, though rank orders correlated across forecasters](nudge-efficacy-forecasts-overly-optimistic.md) — related

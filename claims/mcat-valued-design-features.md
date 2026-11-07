@@ -50,3 +50,4 @@ Descriptive results from the anonymous Likert-based acceptance questionnaire adm
 - [PBL methods produce significantly better radiographic interpretation skills than traditional teaching among dental students (pooled MD 0.54)](pbl-improves-radiographic-interpretation-skills.md) — related
 - [Mean cephalometric deviations differed significantly between MCAT-trained and conventionally trained students only for isolated landmarks, with most variables showing no significant difference](mcat-mean-deviations-mostly-nonsignificant.md) — related
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related
+- [Digital cephalometric training with real-time feedback significantly improves preclinical orthodontic students' landmarking accuracy](digital-cephalometric-training-improves-landmarking-accuracy.md) — related

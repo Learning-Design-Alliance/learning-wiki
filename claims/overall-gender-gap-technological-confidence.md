@@ -104,3 +104,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related
 - [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) — related
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite
+- [Male students report higher innovativeness, academic resilience, and academic performance than female students, with only a small gender gap in DL self-efficacy](gender-differences-innovation-resilience-performance.md) — related

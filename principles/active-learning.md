@@ -239,6 +239,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Logic Puzzles](../strategies/logic_puzzles.md)
 - [Electricity and Circuit Tasks](../strategies/electricity_and_circuit_tasks.md)
 - [Experimenting and Discussion (ED) learning package](../designs/ed-learning-package.md)
+- [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](../strategies/clear-expectations-focused-prep-increase-preparation.md)
 
 ## Key Sources
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415. [https://doi.org/10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

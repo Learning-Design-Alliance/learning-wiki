@@ -49,3 +49,4 @@ Mann–Whitney U comparison of end-of-course manual tracing deviations (19 varia
 - [AI-supported self-training with MCAT reduced variability in students' cephalometric assessment tracings, yielding a lower interquartile range than conventional training](mcat-reduced-tracing-variability.md) — related
 - [Students strongly preferred MCAT-supported digital tracing over manual tracing, with 86.5% perceiving greater learning success with MCAT](mcat-preferred-over-manual-tracing.md) — related
 - [Students most valued MCAT's large radiograph pool, fast simple operation, immediate feedback, and linking of theoretical and practical knowledge](mcat-valued-design-features.md) — related
+- [Digital cephalometric training with real-time feedback significantly improves preclinical orthodontic students' landmarking accuracy](digital-cephalometric-training-improves-landmarking-accuracy.md) — related

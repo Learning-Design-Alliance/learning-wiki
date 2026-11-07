@@ -69,3 +69,5 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [\"Learning, Thinking & Conveying\" training with experiential learning shows no difference in clinical operation skills compared with routine mentoring](ltc-training-no-clinical-skills-difference.md) — reports the opposite
 - [Simulation training added roughly a 12-percentage-point knowledge gain in the intervention group, from 66.7% to 79.2% mean MCQ correct](simulation-added-twelve-point-mcq-gain.md) — related
 - [RCDP ACLS simulation produces greater ACLS knowledge gains than traditional simulation, which showed no significant change](rcdp-acls-simulation-greater-knowledge-gains.md) — related
+- [The simulation group significantly outperformed the traditional teaching group on the post-session quiz (Q3)](simulation-group-superior-q3-score.md) — related
+- [ICU nurses trained with ultrasound simulation achieve significantly higher practical operation scores than nurses taught traditionally](simulation-training-higher-practical-scores-icu-nurses.md) — related

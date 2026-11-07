@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 91 claims (49 for, 40 mixed, 2 against) · 67 studies (33 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 67 report an effect size · 86 claims rest on one study
+> **Evidence** · 92 claims (49 for, 41 mixed, 2 against) · 68 studies (34 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 68 report an effect size · 87 claims rest on one study
 
 ## Description and scope
 
@@ -159,6 +159,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Experimental-group trainees' theoretical implantology knowledge scores rose significantly from pre-course to post-course in a single-group pre-post study with no comparison group](../claims/digital-cbl-significant-pre-post-theoretical-gain.md) [+W] — attached 2026-11-05 from Cai Z (2025), which proposed "Combine digital technology with case-based learning rather than relying on digital navigation alone"; tests this page's relationship.
 - [CBL multimodal imaging teaching produced higher multimodal image analysis scores than traditional teaching in postgraduate ophthalmology residents](../claims/cbl-multimodal-higher-multimodal-image-analysis-scores.md) [+W] — attached 2026-11-06 from Shi X et al. (2025), which proposed "Case-based multimodal imaging teaching pattern: disease-centred cases integrating CFP, FFA, ICGA and OCT"; tests this page's relationship.
 - [CBL multimodal imaging teaching produced higher final theoretical examination and case analysis scores than traditional teaching](../claims/cbl-multimodal-higher-final-theory-and-case-analysis.md) [+W] — attached 2026-11-06 from Shi X et al. (2025), which proposed "Case-based multimodal imaging teaching pattern: disease-centred cases integrating CFP, FFA, ICGA and OCT"; tests this page's relationship.
+- [Traditional lecture alone does not significantly change residents' agreement toward the three most integrity-damaging misconduct behaviors (paper selling/ghost-writing, plagiarism, and data falsification)](../claims/lecture-fails-on-most-severe-misconduct-attitudes.md) [~W] — attached 2026-11-07 from Chen Lulin et al. (2025), which proposed "Use case-based analysis and discussion rather than lecture alone when the goal is to change attitudes toward severe research misconduct"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

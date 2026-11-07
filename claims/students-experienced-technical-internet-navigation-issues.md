@@ -57,3 +57,4 @@ The review reports that "students also experienced technical challenges, interne
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related
+- [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — possibly the same claim (merge candidate)

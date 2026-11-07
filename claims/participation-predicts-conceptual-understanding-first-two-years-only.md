@@ -49,3 +49,4 @@ Linear and Bayesian regressions predicting performance on the two end-of-semeste
 - [PS-I over a year in a university linear algebra course was followed by significantly higher final exam performance versus baseline cohorts](ps-i-linear-algebra-higher-exam-performance.md) — related
 - [The PS-I intervention significantly increased the percentage of students passing the linear algebra final exam in all four cohorts (Cohen's d = 0.21–0.42)](ps-i-preparatory-exercises-increase-pass-rates-linear-algebra.md) — related
 - [During the intervention, linear algebra exam performance rose distinctly above overall first-year performance, a pattern the authors interpret as intervention impact beyond cohort differences](linear-algebra-performance-above-overall-first-year-trend.md) — related
+- [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](measured-self-testing-predicts-course-score.md) — related

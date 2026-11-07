@@ -53,3 +53,4 @@ Analysis of identical pre- and after-class quizzes for all 178 participants in a
 - [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related
 - [The periodontal endoscopy-assisted in-person group outperformed the other two groups on operative skill assessment, driven by calculus removal](pe-inperson-higher-skill-calculus-removal.md) — related
 - [IBVR and TBVR show no significant differences in quiz knowledge gain, cognitive load, or most HRV metrics](ibvr-tbvr-no-difference-knowledge-load-hrv.md) — related
+- [A large-class flipped classroom with design thinking produced no statistically significant difference in classroom quiz scores versus traditional large-class teaching](dt-flipped-classroom-no-quiz-score-difference.md) — related

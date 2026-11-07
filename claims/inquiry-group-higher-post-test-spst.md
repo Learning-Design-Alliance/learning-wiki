@@ -54,3 +54,4 @@ Mann-Whitney U test comparing post-test SPST scores of the experimental group (m
 - [SPST pre-test and post-test scores show a moderate positive correlation](spst-pretest-posttest-correlation.md) — related
 - [Science lessons built on students' meaningful pre-inquiries produce higher total science process skills than traditional textbook lessons in 6th-grade classes](pre-inquiry-lessons-improve-science-process-skills.md) — possibly the same claim (merge candidate)
 - [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related
+- [Grade 10 biology students taught with the GIBLEI guided-inquiry laboratory approach scored significantly higher on science process skills post-tests than students taught with traditional laboratory instruction](giblei-higher-sps-posttest-than-traditional-labs.md) — related

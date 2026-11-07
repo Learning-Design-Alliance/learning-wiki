@@ -50,3 +50,4 @@ Model-fit analysis of Experiment 2 data: "a strong correlation between predicted
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
 - [A calibrated logistic-regression model predicts next-assessment pass/fail strongly on OULAD at both decision horizons](oulad-calibrated-logistic-regression-strong-prediction.md) — related
 - [Semester grades correlate strongly with practical carving test scores (r = 0.775)](semester-grades-practical-test-correlation.md) — related
+- [Clinical exposure time correlated strongly with performance improvement, and prior-exposure advantages diminished by the final assessment](clinical-exposure-correlates-with-performance-gains.md) — related

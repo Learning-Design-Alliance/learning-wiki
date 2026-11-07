@@ -57,6 +57,7 @@ The article recommends using AI chatbots as supplementary tools in dental educat
 - [Use advanced LLMs as assistive tools in dental education and practice, with comprehensive validation, strict regulation, and human supervision before deployment](llm-assistive-dental-education-strategy.md)
 - [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
 - [Guide medical students to use ChatGPT cautiously with cross-checking, disclosure, and teacher oversight](cautious-chatgpt-use-teacher-oversight-strategy.md)
+- [Use LLMs as a supplementary educational tool in dental education and exam preparation, with reliability evaluated per specialty](llm-supplementary-dental-education-strategy.md)
 
 ## Examples
 -

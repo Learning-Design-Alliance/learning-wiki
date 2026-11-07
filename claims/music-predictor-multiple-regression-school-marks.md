@@ -52,3 +52,5 @@ Multiple linear regression on 134 children with gender, grade, parent's income, 
 - [The association between musical training and school performance appears general and non-specific across subjects, with no evidence for special links to single domains](music-school-association-non-specific-no-special-links.md) — related
 - [Music-practicing children scored significantly better than controls in all school subjects except sports](music-practice-better-all-subjects-except-sports.md) — related
 - [Third-grade students receiving music-mathematics integrated lessons scored significantly higher on posttest mathematics achievement than non-music control students](music-math-lessons-posttest-achievement-advantage.md) — related
+- [Prior musical training correlates modestly with percussion competency (r≈0.23)](prior-music-training-modest-percussion-correlation.md) — related
+- [Prior musical training correlates strongly with MBEA scores (r≈0.89)](prior-music-training-strong-correlation-mbea.md) — related

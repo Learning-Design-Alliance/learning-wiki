@@ -54,3 +54,4 @@ Monitoring accuracy was measured by asking students to self-rate their stories' 
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
 - [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](training-impact-higher-evaluation-than-search.md) — related
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
+- [Self-assessment overestimates ultrasound skills relative to external examination, while meta-analyses show moderate self-assessment accuracy overall](self-assessment-overestimates-ultrasound-skills.md) — related

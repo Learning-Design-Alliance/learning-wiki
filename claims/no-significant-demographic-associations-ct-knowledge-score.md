@@ -70,3 +70,4 @@ Secondary analysis of knowledge-score associations; experience (>10 years vs. �
 - [Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers](moderate-knowledge-score-variability-early-career-radiographers.md) — reports the opposite
 - [Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers](vertical-below-isocentre-most-reported-ct-centring-error.md) — related
 - [Senior position and qualification obtained outside Saudi Arabia were associated with higher overall SCMR knowledge scores](seniority-and-foreign-qualification-higher-knowledge.md) — related
+- [Pre-education, optometrists with glaucoma qualifications showed significantly higher specificity at <25%; post-education, performance was similar between qualification groups](glaucoma-qualification-subgroup-converges-post-education.md) — related

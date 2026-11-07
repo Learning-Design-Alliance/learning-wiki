@@ -54,3 +54,4 @@ Review reports, from AbdElshafy et al. [22], a pre-post training study of 50 nur
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
 - [Only 19.9% of surveyed Primary Care nurses considered themselves sufficiently and up-to-date trained in diabetic foot management](under-one-fifth-nurses-feel-trained-diabetic-foot.md) — related
+- [Pre-education, optometrists with glaucoma qualifications showed significantly higher specificity at <25%; post-education, performance was similar between qualification groups](glaucoma-qualification-subgroup-converges-post-education.md) — related

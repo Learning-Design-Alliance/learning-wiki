@@ -49,6 +49,7 @@ The review proposes a ten-item checklist guiding institutions through adopting v
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
+- [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 
 ## Examples
 -

@@ -77,3 +77,4 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
 - [NSTIS students reported significantly higher learning outcomes on enhancing learning interest and satisfying the need for relevant case information](nstis-higher-learning-interest-and-case-information.md) — related
+- [Students in the experimental group reported high satisfaction with the BOPPPS-based “One Case to the End” reform](one-case-boppps-high-student-satisfaction.md) — related

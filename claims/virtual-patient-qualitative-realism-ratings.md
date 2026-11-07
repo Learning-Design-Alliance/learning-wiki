@@ -54,3 +54,5 @@ Qualitative Likert ratings (7-point scale) collected after each of the 20 interv
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — a broader claim this one bears on
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [Medical students rate the virtual patients as realistic and comprehensible, with face validity exceeding the acceptability threshold](vp-acceptable-face-validity.md) — related
+- [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related
+- [LLM-powered virtual patients demonstrably represent intended patient preferences in dialogues](llm-vp-represent-patient-preferences.md) — related

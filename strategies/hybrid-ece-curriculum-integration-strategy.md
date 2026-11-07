@@ -61,6 +61,8 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
+- [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
+- [Ensure teacher receptiveness and organise clinical practice so students encounter varied situations before graduating](teacher-receptiveness-and-varied-clinical-exposure-strategy.md)
 
 ## Examples
 -

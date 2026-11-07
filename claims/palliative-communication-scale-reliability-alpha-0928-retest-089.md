@@ -75,3 +75,4 @@ Test-retest reliability was assessed with a 2-week interval by randomly selectin
 - [The CCDNS-DRN shows high internal consistency and two-week test–retest stability](ccdns-drn-reliability-coefficients.md) — related
 - [Internal consistency of the tool's three category scores is satisfactory, with Cronbach's α of 0.84 for positive and mixed videos and 0.91 for the negative video](fbat-internal-consistency-cronbach.md) — related
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
+- [The scale shows robust reliability: Cronbach's alpha 0.96, Spearman-Brown 0.86, and composite reliability coefficients above 0.60](gp-depression-scale-reliability-alpha-0-96.md) — related

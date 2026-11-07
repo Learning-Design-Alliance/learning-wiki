@@ -54,6 +54,7 @@ Based on its findings and institutional case studies, the review proposes operat
 - [Include nutrition-related questions in mandatory written and practical assessments, including OSCEs, to motivate engagement with nutrition education](mandatory-nutrition-assessments-osce.md)
 - [Use active methodologies, case studies, simulation, portfolios, flipped classroom, and problem-based learning to develop soft skills in nursing curricula](active-methodologies-soft-skills-nursing-strategy.md)
 - [Develop standardized DHN training curricula that integrate interpersonal soft skills with digital competencies](dhn-training-integrating-soft-and-digital-skills.md)
+- [Reinforce central OSCE modules and build integrated teaching modules around strongly connected skills](reinforce-central-modules-integrated-skill-teaching.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Table 3 one-sample t-tests comparing each satisfaction mean to the neutral cut-o
 - [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
+- [Nursing interns report high satisfaction with the “online–simulation–bedside” team CPR training (Kirkpatrick reaction level)](cpr-three-step-training-high-satisfaction.md) — related

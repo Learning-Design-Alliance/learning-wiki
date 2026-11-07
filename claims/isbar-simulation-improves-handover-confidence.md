@@ -52,3 +52,5 @@ A single-group pretest-posttest study of 57 nursing students. Paired-samples t-t
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
 - [Within the simulation group, total self-confidence rose significantly from pretest to posttest (d = 0.693)](hfs-within-group-selfconfidence-increase-d0693.md) — related
 - [Structured US-PIVC simulation training produces statistically significant pre-to-post confidence improvements across all measured learning outcomes, with large effect sizes (r = 0.63–0.87).](us-pivc-training-large-confidence-gains.md) — related
+- [Hybrid POCUS certification program participants' self-reported confidence improved significantly from pre-program to post-program](pocus-confidence-improved-hybrid-certification.md) — related
+- [Standardised scoring tools (ABCDE, NEWS, ISBAR) created a common language that participants experienced as strengthening clinical communication and confidence across service levels](standardised-language-scoring-tools-communication.md) — related

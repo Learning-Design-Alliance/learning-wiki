@@ -48,6 +48,7 @@ Drawing on their teaching experience with the model, the authors give educators 
 ## Related Strategies
 
 - [Provide adaptive online support and targeted guidance for students with weaker self-study motivation in blended flipped courses](adaptive-online-support-varied-self-study-strategy.md)
+- [Phased implementation strategy for adopting design-thinking flipped classrooms: pilot small, train teachers, provide demonstrations and feedback](phased-dt-flipped-adoption-strategy.md)
 
 ## Examples
 -

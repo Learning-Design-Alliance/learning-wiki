@@ -52,3 +52,4 @@ Pilot implementation of study period 1 in an online graduate-level course: a web
 - [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related
 - [Project satisfaction strongly positively correlated with instruction ratings (0.50 < r < 0.70)](project-satisfaction-correlates-instruction-ratings.md) — related
 - [Interest in cultural comparison increases vocabulary learning](cultural-comparison-increases-vocabulary-learning.md) — related
+- [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related

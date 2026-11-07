@@ -95,3 +95,4 @@ Review synthesis of feedback mechanisms across included studies. The authors sta
 - [A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms](a-little-intelligence-can-go-a-long-way.md) — related
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related
 - [Tutors described ongoing progress monitoring, guided practice, and multiple explanations and representations as core practices in synchronous online mathematics tutoring sessions](tutor-practices-progress-monitoring-guided-practice.md) — related
+- [Common teacher qualities recur across culture, occupation and learning stage, including feedback, enthusiasm, approachability and clear explanations](cross-context-common-teacher-qualities.md) — related

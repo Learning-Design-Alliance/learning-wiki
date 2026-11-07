@@ -39,6 +39,7 @@ Drawing on complex learning theory and whole-task approaches, the article recomm
 ## Related Strategies
 
 - [Simple-to-Difficult Examples](simple-to-difficult_examples.md)
+- [Ensure teacher receptiveness and organise clinical practice so students encounter varied situations before graduating](teacher-receptiveness-and-varied-clinical-exposure-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Thematic finding from analysis of 24 tutor activity reports in the diagnostic-as
 - [Peer tutoring challenges included passive tutee study habits, lack of punctuality and commitment, and limited time for relationship building in online sessions](peer-tutoring-barriers-commitment-passive-learning.md) — related
 - [Tutees in the program reported improvements in study methods, time management, motivation, and confidence, with high satisfaction and willingness to recommend](tutee-descriptive-survey-improvements.md) — related
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- [Most first-year medical student participants in the Academic Tutoring programme reported changing their study habits, including adopting active strategies and abandoning passive ones](at-programme-reported-study-habit-changes.md) — related

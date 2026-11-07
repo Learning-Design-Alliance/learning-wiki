@@ -47,7 +47,8 @@ The authors recommend simulator-based training as a step preceding animal-model 
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](../claims/post-competence-performance-equal-experts-novices.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use non-organic silicone materials for accessible, reproducible tendon repair simulation](non-organic-materials-tendon-simulation-strategy.md)
 
 ## Examples
 -

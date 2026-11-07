@@ -65,3 +65,4 @@ Same frequency-based chi-square analysis: "No significant differences were obser
 
 ## Related Claims
 - [The experimental group reported significantly higher self-perceived competency in 6 of 8 CanMEDS-based domains, but not in research skills or professionalism](blended-cbl-self-perceived-competency-gains.md) — possibly the same claim (merge candidate)
+- [Students in two distinct experiential learning courses reported positive perceived skill gains, with 87%–96% agreeing or strongly agreeing with Likert prompts across four domains](el-courses-positive-perceived-gains-four-domains.md) — related

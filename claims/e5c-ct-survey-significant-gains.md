@@ -112,3 +112,4 @@ Table 2 row of the same pre/post t-test analysis: problem solving pretest M = 3.
 - [Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task](creact-previous-language-arts-evidence.md) — related
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [After playing Factory Craft, middle school students showed no statistically significant overall gain in computational thinking competency](gbl-no-overall-ct-competency-gain.md) — related
+- [82%–89% of students agreed experiential learning courses gave them chances to think creatively and judge data and arguments, and improved their ability to apply knowledge to new problems](el-critical-thinking-gains-82-89-percent.md) — related

@@ -50,3 +50,4 @@ Paired samples t-tests comparing experimental-group posttest and four-week follo
 - [A CBT-based skill-training program increases university students' positive future expectations compared with a no-treatment control](cbt-skill-training-increases-positive-future-expectations.md) — related
 - [The training effect on academic procrastination persisted at a four-week follow-up](cbt-procrastination-effect-persisted-follow-up.md) — related
 - [A CBT-based psycho-educational group program reduced university students' academic procrastination scores at posttest](cbt-group-program-reduced-academic-procrastination-posttest.md) — related
+- [A 14-week CBT-MBSR program substantially reduced academic test anxiety among TVET students compared with a waitlist control, with effects sustained at two-month follow-up](cbt-mbsr-reduced-test-anxiety-tvet-rct.md) — related

@@ -30,7 +30,7 @@ PY
   label="j-scr$tag-$n"
   log "start $label ($left left in $q)"
   python3 -u scripts/run_scrape_batch.py --label "$label" --out "eval/corpus/manifest_$label.json" \
-    --model z-ai/glm-5.3-flash --pmc 0 --eric 0 --arxiv 0 --queue "$q" --take 80 --concurrency 8 \
+    --model z-ai/glm-5.3-flash --pmc 0 --eric 0 --arxiv 0 --queue "$q" --take "${SWEEP_TAKE:-120}" --concurrency 8 \
     2>&1 | while IFS= read -r line; do   # stamp each step header, so a batch's slow steps can be found
       case $line in "==="*) printf '%s [%s]\n' "$line" "$(date +%H:%M:%S)" ;; *) printf '%s\n' "$line" ;; esac
     done > "$J/$label.log"

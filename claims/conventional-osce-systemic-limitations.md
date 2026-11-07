@@ -50,3 +50,4 @@ Consensus workshop with a multidisciplinary panel of 10 experts including medica
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [OSCEs provide standardized, objective practical assessment but carry high organizational effort and scenario-preparation risks](osce-advantages-limitations-ultrasound.md) — possibly the same claim (merge candidate)

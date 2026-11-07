@@ -49,3 +49,4 @@ In the same RCT, the suture removal/dressing change module showed significantly 
 - [SDTS produces post-training OSCE scores in incision and suturing that do not differ significantly from traditional teaching](sdts-equivalent-incision-suturing-osce.md) — related
 - [SDTS requires substantially less total training time than traditional teaching in both skill modules](sdts-shorter-training-duration.md) — related
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
+- [TBL + peer teaching cohort outperformed the traditional cohort on complex OSCE procedures (pulpotomy, tooth preparation, incision and suturing, curettage, patient intake) but not on routine skills (rubber dam, periodontal probing)](tbl-pt-osce-complex-not-routine-skills.md) — related

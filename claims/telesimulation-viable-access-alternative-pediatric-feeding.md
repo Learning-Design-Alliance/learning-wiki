@@ -53,3 +53,4 @@ Authors' interpretation in the discussion of the randomized controlled trial res
 - [Telesimulation produces clinical reasoning improvements comparable to in-person simulation, with a numerically greater but non-significant change in the telesimulation group](telesimulation-comparable-clinical-reasoning-in-person.md) — a narrower finding that bears on this claim
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
 - [VR simulation's capacity to facilitate distance learning and expand access to education was a significant driver of use behavior](vr-distance-learning-expands-access.md) — related
+- [Telesimulation achieves enhanced self-reported knowledge and confidence in line with in-person simulation](telesimulation-knowledge-confidence-in-line-with-in-person.md) — a narrower finding that bears on this claim

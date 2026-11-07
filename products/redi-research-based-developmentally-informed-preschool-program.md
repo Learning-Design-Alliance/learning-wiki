@@ -19,7 +19,7 @@ sources:
 # REDI (Research-Based, Developmentally Informed) preschool program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A preschool intervention developed by researchers that combines the Preschool PATHS social-emotional learning curriculum with interactive literacy activities, phonological-awareness training, and teacher training and mentoring for disadvantaged children.
@@ -28,9 +28,11 @@ A preschool intervention developed by researchers that combines the Preschool PA
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **REDI preschool program combining social-emotional learning with early literacy activities**: REDI (Research Based, Developmentally Informed) is a preschool program "designed primarily to enhance executive functions and school readiness among disadvantaged students." It delivers the Preschool PATHS social-emotional learning curriculum alongside "an interactive storybook reading and retelling approach, along with phonological awareness training and alphabet center activities," and is taught by classroom teachers with inservice training and weekly mentoring. (REDI (Research Based (2024))
 - **Pairing social-emotional learning with interactive storybook reading and phonological awareness activities in preschool**: REDI's instructional design combines an SEL curriculum with structured early-literacy activities: "an interactive storybook reading and retelling approach, along with phonological awareness training and alphabet center activities." The pattern pairs self-regulation and emotional-control teaching with language and print activities in the same preschool day. (REDI (Research Based (2024))
+- **Head Start REDI: a multi-component preschool SEL enrichment program**: REDI enriched Head Start classrooms with an evidence-based SEL curriculum (Preschool PATHS) providing weekly lessons in emotional understanding, social skills, self-control, and problem-solving; a coordinated interactive reading program using two books per week to extend PATHS themes and strengthen oral language; sound games and alphabet centers for phonemic awareness and print knowledge. Teachers received "4 days of workshop training and weekly mentoring visits", and parents received weekly PATHS handouts and three DVDs. Teachers delivered most planned lessons (M = 86%). (Bierman Karen L. et al. (2025))
 
 ### Claims
 - REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency [-W] — (also cited [~M])
+- [The REDI preschool SEL enrichment reduced high school behavior problems (d = 0.27) and emotional symptoms (d = 0.41) 14 years later in an RCT of Head Start classrooms.](../claims/redi-preschool-sel-reduced-high-school-symptoms.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -38,9 +40,9 @@ A preschool intervention developed by researchers that combines the Preschool PA
 ## Key Sources
 - REDI (Research Based, Developmentally Informed). (2024). Program description page, Evidence Rating: promising. https://evidenceforessa.org/program/redi-research-based-developmentally-informed/
 - REDI (Research Based, Developmentally Informed). (2024). Program description page, Evidence Rating: promising. http://www.pathseducation.com/
-
 <!-- merged 2026-10-10 from elements/redi-preschool-program-executive-function-school-readiness ("REDI preschool program combining social-emotional learning with early literacy activities"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - REDI (Research Based, Developmentally Informed). (2024). Program description page, Evidence Rating: promising. http://www.pathseducation.com/
+- Bierman Karen L., Heinrichs Brenda S., Welsh Janet A., Jones Damon E., Crowley D. Max. (2025). How a Preschool Intervention Affected High School Outcomes: Longitudinal Pathways in a Randomized‐Controlled Trial. Child Development. https://doi.org/10.1111/cdev.14235
 
 # REDI preschool program combining social-emotional learning with early literacy activities
 

@@ -53,6 +53,7 @@ The article recommends implementing the CSM to systematize teaching practice: tr
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
 - [Transportable tutoring protocol with structured tutor training and supervision](fact-retrieval-tutoring-training-transportability.md)
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
+- [Ensure supervisor quality through preparation, observation, feedback and post-event evaluation](gp-supervisor-quality-assurance-strategy.md)
 
 ## Examples
 -

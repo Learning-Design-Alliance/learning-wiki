@@ -74,3 +74,4 @@ OSCE subdomain analysis (Table 4) shows adverse events management significantly 
 - [Blended PBL-CBL-seminar chairside teaching improves DOPS procedural skill scores versus LBL, except technique and seeking assistance](blended-pbl-cbl-seminar-improves-dops-scores.md) — related
 - [SOM-PBL yields significantly higher theoretical examination scores than traditional lecture-based teaching in ICU clerkships (Cohen's d = 0.455)](som-pbl-higher-theoretical-knowledge-scores.md) — related
 - [Experimental group outperformed control in clinical case synthesis, emergency management, and aseptic compliance on instructor evaluations](flipped-boppps-instructor-evaluation-advantages.md) — related
+- [Video-assisted teaching improves the skill of opening a sterile package but not other aseptic skills compared with demonstration](video-improves-sterile-package-skill-only.md) — related

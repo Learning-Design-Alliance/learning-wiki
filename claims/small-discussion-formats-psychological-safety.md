@@ -55,3 +55,4 @@ Theme 5 of the thematic analysis; students reported that discussion-based format
 - [Peer learning's effectiveness depends on psychological safety and trust within the group; informal networks may disproportionately benefit those with stronger social capital](peer-learning-psychological-safety-and-equity-conditions.md) — related
 - [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related
 - [Qualified listening within the action research process made dental students feel heard and valued and surfaced problems that would otherwise remain unnoticed.](qualified-listening-fostered-trust-and-surfaced-overlooked-issues.md) — related
+- [Peer-to-peer meetings between hybrid and on-campus students and twice-monthly on-campus days fostered students' sense of integration and inclusion](peer-to-peer-meetings-foster-integration.md) — related

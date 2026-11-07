@@ -50,3 +50,4 @@ Reliability analysis (Pearson's correlation) of 192 ratings of 96 students by tw
 - [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related
 - [In the G-study, the student (person) facet accounts for 20.33% of total score variance in the ACLS rubric](g-study-student-variance-20-percent.md) — related
 - [Agreement between expert raters' consensus and the gold-standard ACLS checklist ranged from substantial to near-perfect in most scenarios but was negative for one pVT scenario](acls-llm-sim-gold-standard-agreement-mixed.md) — related
+- [The five-scenario IC-MD achieves satisfactory inter-rater reliability (ICC = 0.627) and generalizability (Eρ² = 0.642), though participant × scenario variance exceeds participant variance](ic-md-reliability-generalizability.md) — related

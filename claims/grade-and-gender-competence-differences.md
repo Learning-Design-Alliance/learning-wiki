@@ -56,3 +56,4 @@ Grade two	116.04, 22.29"
 - [Interest in gerontological nursing shows the strongest association with competence scores among the studied factors](interest-in-gerontological-nursing-predicts-competence.md) — related
 - [Prior gerontological nursing education is associated with higher self-assessed competence among vocational nursing students](prior-gerontological-education-higher-competence.md) — related
 - [Male nursing students report lower perceived simulation fidelity than female students, despite no overall gender difference in perceived design features](male-students-lower-perceived-fidelity.md) — related
+- [Upper-year chiropractic students are generally more confident than first-year students in performing SMT force–time characteristics](upper-year-students-higher-smt-confidence.md) — related

@@ -122,6 +122,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
+- [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 
 ## Examples
 -

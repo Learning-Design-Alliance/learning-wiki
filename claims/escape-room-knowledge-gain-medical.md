@@ -51,3 +51,4 @@ Cross-sectional pre-post evaluation of an interdisciplinary medical escape room 
 - [Students' self-assessment accuracy improved after the escape room, with about one-third accurately evaluating their knowledge beforehand rising to nearly half afterwards](escape-room-improved-self-assessment.md) — related
 - [The oral hygiene screening module showed a large pre-to-post knowledge gain (Cohen's d = 1.37)](oral-hygiene-screening-module-knowledge-gain.md) — related
 - [A sepsis-themed educational escape room improved residents' knowledge scores with retention at three months](sepsis-escape-room-resident-knowledge-retention.md) — related
+- [Scores rose from first to second session and from second to third session in one uncontrolled pre-post study; first-to-second d = 0.89 and second-to-third d = 1.07](5cardsgame-score-effect-sizes.md) — related

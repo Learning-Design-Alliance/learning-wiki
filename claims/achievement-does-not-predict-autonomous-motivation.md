@@ -49,3 +49,4 @@ Null finding from the same three-wave RI-CLPM analysis of 1042 secondary mathema
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](performance-predicts-subsequent-emotions.md) — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
+- [In a short-timeframe vocabulary-learning experiment, achievement shows a unilateral effect on subsequent intrinsic motivation, with no reciprocal motivation→achievement effect](unilateral-achievement-to-motivation-no-reciprocity-short-timeframe.md) — related

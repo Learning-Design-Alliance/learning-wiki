@@ -57,3 +57,4 @@ Chi-square analyses of Phase 1 survey data dichotomised competency into high (n 
 - [Gender, marital status, living status, and chronic disease show no significant association with older volunteers' competency needs](null-demographic-factors-older-volunteer-needs.md) — related
 - [No significant association of regulation type, sex, age, or mentoring style with form completion or competence](no-association-regulation-mentoring-completion-competence.md) — related
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
+- [More hours of IPV-and-disability training are associated with higher self-perceived competence among service providers, with the highest competence among those with more than 20 hours of training](ipv-disability-training-hours-higher-self-perceived-competence.md) — related

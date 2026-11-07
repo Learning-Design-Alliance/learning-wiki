@@ -58,3 +58,4 @@ Paired-samples t-tests within each group showed significant pre- to post-test ga
 - [Knowledge scores rose significantly within the live demonstration group from pre- to postdemonstration, with a large effect size](ld-within-group-knowledge-improvement-dental.md) — related
 - [In both groups, knowledge post-test and persistence test scores rose significantly above pre-test, and persistence scores exceeded post-test scores](intragroup-knowledge-gains-both-groups.md) — related
 - [Radiographic-interpretation knowledge was significantly higher at post-test than at pre-test in both the in-person rotation and in-person rotation plus gamification groups, in within-group pre-post comparisons](both-groups-knowledge-gains-pre-post.md) — related
+- [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related

@@ -49,6 +49,7 @@ Because feedback quality and features were the factors most strongly associated 
 ## Related Strategies
 
 - [Adopt a hybrid ECTV delivery model mixing face-to-face and remote modalities across training](hybrid-ectv-delivery-model-strategy.md)
+- [Ensure supervisor quality through preparation, observation, feedback and post-event evaluation](gp-supervisor-quality-assurance-strategy.md)
 
 ## Examples
 -

@@ -65,3 +65,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Participant takeaways from the simulation emphasize clear communication, practical orientation to the physical environment and equipment, real-time correction of techniques, and early action before the code team arrives](rcdp-simulation-takeaways-communication-environment-early-action.md) — related
 - [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related
 - [Students report that MAES places them at the center of CPR learning and increases perceived knowledge retention and integration](maes-learner-centered-knowledge-retention.md) — related
+- [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related

@@ -56,3 +56,4 @@ Written exam administered one week after the six-week Endodontics module in the 
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
 - [Total examination scores did not differ significantly between WeChat-based PBL and traditional teaching groups](wechat-pbl-total-exam-score-no-difference.md) — related
 - [Symptom-focused CBL and conventional CBL produce no significant difference in dental residents’ theoretical knowledge of TMD](limited-mouth-opening-cbl-no-theoretical-knowledge-difference.md) — related
+- [Hybrid Physician Associate students performed as well as or better than on-campus students across both years, with no observed difference in academic or clinical exam performance](hybrid-students-perform-as-well-or-better.md) — related

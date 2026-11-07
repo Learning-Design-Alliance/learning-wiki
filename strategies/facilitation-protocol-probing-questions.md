@@ -49,6 +49,7 @@ The facilitation protocol assigns the facilitator the 'primary responsibility...
 - [Discussing Race With Students](discussing_race_with_students.md)
 - [Support instructors during execution with predefined email templates and instructor notes](predefined-email-templates-instructor-notes.md)
 - [Use a non-directive approach during PAT dosing sessions](non-directive-approach-pat-dosing.md)
+- [Session-design adjustments suggested by student feedback: shorten or split the manual, add facilitators, schedule the session earlier, and keep facilitator synthesis pauses](gas-exchange-session-design-adjustments-strategy.md)
 
 ## Examples
 -

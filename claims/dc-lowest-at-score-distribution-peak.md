@@ -69,3 +69,4 @@ Observed in the Sim 1 results (Figure 2 and Table 7), where the lowest DC estima
 - [Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target](spanish-csem-middle-deciles-most-precise.md) — related
 - [Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument](grade-cutoffs-arbitrary-adjacent-scores.md) — related
 - [Pass/fail decisions from simulation and OSCE show substantial consistency (Cohen's kappa = 0.67), and a simulation cut-score of 75 aligns with OSCE and practicum outcomes](simulation-osce-decision-consistency-kappa.md) — related
+- [Criterion-referenced coefficients Φ(λ) above 0.95 support pass-or-fail decisions about scenario quality at cut-scores based on borderline scenario means](qassh-cut-score-decision-reliability.md) — related

@@ -57,3 +57,4 @@ Same adjusted binary logistic regression model on the 400-dentist survey, with e
 - [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](no-predictor-significant-overall-correct-answers.md) — related
 - [Prior BLS training is independently associated with higher BLS knowledge/practice scores among Gaza healthcare workers](prior-bls-training-higher-scores-gaza.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
+- [Interns who experienced real patient CPR had higher skill confidence and skill test scores than those who did not](real-cpr-experience-higher-confidence-skill.md) — related

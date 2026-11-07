@@ -12,7 +12,7 @@ generated:
 # Experiential Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (14 for, 8 mixed) · 14 studies (6 causal, 3 qualitative, 2 review, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 2 of 14 report an effect size · 22 claims rest on one study
+> **Evidence** · 23 claims (14 for, 8 mixed, 1 against) · 15 studies (7 causal, 3 qualitative, 2 review, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 2 of 15 report an effect size · 23 claims rest on one study
 
 ## Description
 David Kolb's Experiential Learning Theory (ELT) is "a holistic model of the learning process and a multi-linear model of adult development" (Baker, Jensen, & Kolb, 2002, p. 51), rooted explicitly in Dewey, Kurt Lewin, and Piaget. It models learning as a four-stage cycle — concrete experience, reflective observation, abstract conceptualization, and active experimentation — organized around two underlying dialectical continuums: **apprehension** (concrete experience) versus **comprehension** (abstract conceptualization), and **intension** (reflective observation) versus **extension** (active experimentation). Kolb's central theoretical claim is that learning requires actively resolving the discomfort of whichever pole of each continuum a learner is *not* naturally comfortable with: "perception alone is not sufficient for learning; something must be done with it," and "transformation alone cannot represent learning, for there must be something to be transformed" (Baker, Jensen, & Kolb, pp. 56–67). This dialectical-resolution requirement is the theory's core explanatory mechanism, distinguishing it from a purely descriptive account of "learning by doing."
@@ -64,6 +64,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](../claims/structured-reflection-self-awareness-growth.md) [+W] — attached 2026-11-05 from Watson AL et al. (2026), which proposed "The Reflect-Recognize-Reorient (R3) Cycle of undergraduate wellness learning".
 - [Structured reflective sessions significantly improve theoretical knowledge (MCQ) scores of operating room technology students compared with controls](../claims/reflective-sessions-improve-mcq-knowledge-or-students.md) [+W] — attached 2026-11-05 from Hassani Nia Nasser et al. (2025), which proposed "Gibbs' reflective cycle integrated with Kolb's experiential learning theory as the framework for structured reflective sessions".
 - [Thematic analysis of occupational therapy students' interviews yielded four overarching themes mapped onto the four stages of Kolb's experiential learning cycle](../claims/dvsim-four-kolb-themes-qualitative.md) [+W] — attached 2026-11-06 from Wang Zhizhuo et al. (2025), which proposed "Kolb's experiential learning theory as the a priori framework for virtual simulation learning".
+- [The Peyton method was statistically significantly more effective than the Kolb method for cardiac massage, breathing, and defibrillator skills](../claims/peyton-more-effective-than-kolb-for-cpr-skills.md) [-W] — attached 2026-11-07 from Abbasi M et al. (2025), which proposed "Kolb's four-stage experiential learning cycle and Peyton's four-stage approach as contrasting simulation-based CPR training frameworks".
 
 ## Related Theories
 
@@ -93,6 +94,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Pedagogical framework of Exploring 3D Anatomy: multimodal, experiential, and social learning with art-based cycles](../designs/exploring-3d-anatomy-pedagogical-framework.md)
 - [Active Learning–GenAI Synergy Framework](../designs/active-learning-genai-synergy-framework.md)
 - [Use experiential learning cycles to structure continuing health education for chronic disease management](../strategies/experiential-learning-cycle-continuing-health-education.md)
+- [Integrate Peyton's structured four-step approach into CPR training programs, particularly for critical procedural skills, and consider combining it with Kolb's experiential cycle](../strategies/integrate-peyton-structured-approach-in-cpr-training.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

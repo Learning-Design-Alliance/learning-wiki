@@ -56,3 +56,4 @@ Cohort comparison of 150 experimental vs 145 control fourth-year stomatology stu
 - [Experimental group achieved superior theoretical and practical assessment scores compared to control group](flipped-boppps-superior-final-assessment-scores.md) — related
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
 - [Residents taught with BOPPPS combined with flipped classroom show significantly higher self-directed learning readiness (SDLRS) than traditionally taught residents](boppps-flipped-higher-sdlrs-self-directed-learning.md) — related
+- [The “One Case to the End” model based on BOPPPS raises pediatric nursing students' academic performance compared with traditional teaching](one-case-boppps-improves-academic-performance.md) — related

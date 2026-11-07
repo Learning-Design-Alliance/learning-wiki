@@ -240,6 +240,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
 - [Provide teachers with training periods on how, when, and where to use language-learning technologies](../strategies/teacher-training-periods-for-language-technology.md)
 - [Beijing Oubeier adaptive nursing virtual simulation platform (Version 3.2)](../products/beijing-oubeier-adaptive-nursing-virtual-simulation-platform-version-32.md)
+- [Adapt the 5CardsGame format to other healthcare education contexts, including digital versions for remote and self-paced practice](../strategies/5cardsgame-adaptation-strategy.md)
 
 ### Illustrative
 

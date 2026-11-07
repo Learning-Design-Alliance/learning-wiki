@@ -53,3 +53,4 @@ Open-ended survey responses from 28 honours students were categorised into theme
 - Providers reported racial and gender bias within their local business communities, with many feeling less supported than other businesses due to their race — related
 - [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
 - [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — related
+- [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](hybrid-student-social-isolation.md) — related

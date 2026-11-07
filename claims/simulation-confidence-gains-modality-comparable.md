@@ -72,3 +72,4 @@ Between-groups test in the same trial showed "no significant difference in impro
 - [Novice clinicians report significantly greater confidence and anxiety changes than experienced clinicians, while experienced clinicians show a greater but non-significant clinical reasoning change](novices-greater-confidence-gains-experienced-greater-reasoning-change.md) — related
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
 - [Both telesimulation and videoconferencing didactics produced sustained gains in clinical lactation self-efficacy with no significant between-group difference](lactation-self-efficacy-gains-both-arms.md) — related
+- [Telesimulation achieves enhanced self-reported knowledge and confidence in line with in-person simulation](telesimulation-knowledge-confidence-in-line-with-in-person.md) — related

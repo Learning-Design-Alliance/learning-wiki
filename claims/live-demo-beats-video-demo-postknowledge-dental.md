@@ -51,3 +51,4 @@ Cohort study of 51 first-year dental students quasi-randomized by serial number 
 - [Student perceptions of the two demonstration methods do not differ significantly, though the video group tended to prefer its assigned method](no-perception-differences-ld-vd-survey.md) — related
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related
+- [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related

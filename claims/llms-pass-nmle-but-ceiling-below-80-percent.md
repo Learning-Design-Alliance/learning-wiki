@@ -70,3 +70,4 @@ The authors' discussion of the performance ceiling identifies three factors: emp
 - [LLM scores typically exceeded the student median and, in several instances, the highest student score in every course](llm-scores-exceed-student-median-and-maximum.md) — related
 - [GPT-4 exceeds pass marks on India NEET-PG and UK PLAB 1 but falls below pass on clinical reasoning and procedural items](gpt4-neetpg-plab-pass-clinical-reasoning-below.md) — related
 - [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related
+- [GPT-4 and GPT-4o accuracy exceeds the NMLE passing threshold and the typical national pass rate](gpt4-gpt4o-exceed-nmle-passing-threshold.md) — a narrower finding that bears on this claim

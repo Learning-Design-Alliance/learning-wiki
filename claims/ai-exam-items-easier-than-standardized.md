@@ -52,4 +52,4 @@ IRT analysis of field-student responses (2PL hierarchical Bayesian model) estima
 - [Exposed item-bank problems did not show an overall 'seen before, hence easier' pattern in this sample](exposed-problems-not-easier-pattern.md) — related
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [Instructor-developed items showed higher discrimination than ChatGPT items in 3PL IRT analysis](instructor-items-higher-discrimination-3pl.md) — related
-- [The AI-generated examination showed significantly lower item discrimination than the human-designed examination (0.35 vs. 0.49)](ai-exam-lower-discrimination.md) — related
+- [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — related

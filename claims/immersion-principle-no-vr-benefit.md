@@ -93,3 +93,4 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [3D VR acclimatisation reduces simulator penalty scores versus 2D video, with task-level effects mixed](3d-vr-reduces-penalty-scores.md) — reports the opposite
 - [Immersive VR training yields higher overall OSATS scores than textbook-and-video training in thyroidectomy steps, driven by knowledge of instruments and flow of operation](ivr-training-higher-osats-thyroidectomy.md) — reports the opposite
 - [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — reports the opposite
+- [No statistically significant difference between VR and control groups in offline image interpretation or patient inquiry scores](no-difference-offline-image-reading-patient-inquiry.md) — a narrower finding that bears on this claim

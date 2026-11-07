@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 16 studies (5 associational, 4 causal, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size · 13 claims rest on one study
+> **Evidence** · 17 claims (9 for, 7 mixed, 1 against) · 17 studies (5 causal, 5 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 14 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -57,6 +57,7 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Peer grading behaviors do not significantly predict project performance for assessors or assessees](../claims/peer-grading-not-significant-predictor.md) [-W]
 - [Seventh graders could in principle give relevant peer feedback on ELOs, but their peer-assessment skills needed further development](../claims/seventh-graders-peer-feedback-skills.md) [~W]
 - [Students using a scripting interface for peer feedback provide longer comments than students using a self-monitoring interface](../claims/scripting-interface-longer-peer-feedback-comments.md) [~W]
+- [Peer mutual evaluation scores are significantly higher than teacher ratings of the same skill videos](../claims/peer-evaluation-scores-exceed-teacher-ratings.md) [~M] — attached 2026-11-07 from Jin Peipei et al. (2025), which proposed "Video-based skill assessment with anonymous peer evaluation"; tests this page's relationship.
 
 ## The evidence by question
 

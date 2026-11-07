@@ -72,3 +72,4 @@ Tukey HSD post-hoc comparisons from the same simulation evaluation, corroborated
 - [Temperature parameter has a statistically significant but negligible effect on GPT-4o exam accuracy (ηG² = 0.0017), with global accuracy peaking at temperature 0.23](temperature-effect-negligible-gpt4o-accuracy.md) — related
 - [Among GPT-4o's incorrect CONACEM responses, unsupported medical claims are the most common error (40.69%), followed by incorrect or vague conclusions (22.07%)](gpt4o-unsupported-medical-claims-most-common-error.md) — related
 - [GPT-4o accuracy on EUNACOM varies substantially by medical specialty, highest in psychiatry, neurology, and surgery and lowest in neonatology, otolaryngology, and urology/nephrology](eunacom-accuracy-varies-by-specialty.md) — related
+- [GPT-4o's accuracy varies by exam unit, peaking at 94.7% on digestive and respiratory systems (Unit 3, 2021)](gpt4o-unit3-digestive-respiratory-peak.md) — related

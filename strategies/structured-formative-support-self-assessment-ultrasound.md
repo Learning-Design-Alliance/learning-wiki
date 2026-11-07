@@ -51,6 +51,7 @@ Because students' perceived goal attainment did not reliably reflect their objec
 - [Teach Metacognitive Strategies](teach-metacognitive-strategies.md)
 - [Calibrated Peer Review](calibrated_peer_review.md)
 - [Supplement e-learning modules with in-person practice and formative OSCEs with feedback](elearning-plus-hands-on-bpm-strategy.md)
+- [Extend self-practice time and delay testing to strengthen AI-guided ultrasound training research](extended-self-practice-and-delayed-testing-for-ai-ultrasound-training.md)
 
 ## Examples
 -

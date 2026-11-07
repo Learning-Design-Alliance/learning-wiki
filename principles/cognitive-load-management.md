@@ -206,6 +206,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - A coding tutorial removes unnecessary UI options and provides starter files so novices can focus on the target concept before handling full project complexity.
 - [Present information in a manner that encourages learner activities that optimize intellectual performance](../strategies/present-information-to-optimize-intellectual-performance.md)
 - [Manage intrinsic load with a part-whole approach, task variability, and self-explanation to raise germane load](../strategies/part-whole-variability-self-explanation-raise-germane-load.md)
+- [Sequence a basics lecture before simulation practice to manage cognitive load](../strategies/basics-lecture-before-simulation-cognitive-load.md)
+- [Use eye-tracking feedback and gradually increasing case complexity to train targeted visual search and cognitive-load management in ECG education](../strategies/eye-tracking-feedback-ecg-visual-strategy-training.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

@@ -55,3 +55,4 @@ Prototype development phase of a developmental research study. Authors report th
 - [Four clinical scenario types were identified as suitable for metaverse-based assessment based on expert consensus criteria](metaverse-scenario-selection-criteria.md) — related
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](llm-cooperates-with-trainer-but-breaks-instructions.md) — related
+- [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related

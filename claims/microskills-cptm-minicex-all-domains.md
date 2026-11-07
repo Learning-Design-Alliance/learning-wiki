@@ -64,3 +64,4 @@ Mini-CEX assessment after eight subspecialty rotations in the randomized trial. 
 - [Residents in the combined Mini-CEX, CBL and mind-mapping group reported higher satisfaction with teaching than traditionally trained residents across all seven questionnaire items](higher-teaching-satisfaction-cbl-mindmap-minicex-group.md) — related
 - [Experimental-group residents' Mini-CEX scores on all six assessed competencies rose significantly from admission to two and four weeks of training](minicex-scores-improve-two-four-weeks-ultrasound.md) — related
 - [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related
+- [Peer-assisted learning under the LSPPDM mode improves half-year after-department skills and case-report scores but not theory scores](pal-lsppdm-after-department-skills-case-report-gains.md) — related

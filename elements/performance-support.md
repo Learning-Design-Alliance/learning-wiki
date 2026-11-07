@@ -13,7 +13,7 @@ generated:
 # Performance Support
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 21 studies (9 review, 4 causal, 4 theoretical, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 21 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (9 for, 3 mixed) · 22 studies (9 review, 5 causal, 4 theoretical, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 22 report an effect size · 7 claims rest on one study
 
 ## Description
 Performance support delivers just-in-time, task-specific guidance — job aids, checklists, embedded wizards, tooltips, decision trees — at the moment a learner attempts a task, rather than requiring the task to be recalled from memory. It functions as externalized knowledge: the system or artifact carries procedural detail so the performer can act competently before full mastery is achieved.
@@ -58,6 +58,8 @@ Performance support shifts the instructional goal from "train everything in adva
 - [AR guidance improves objective technical accuracy in surgical trainees, most strongly in tasks with high visuospatial demands](../claims/ar-improves-technical-accuracy-visuospatial-tasks.md) [+W]
 - [Use of a surgical safety checklist alongside team training was associated with the lowest adverse event rate compared with a historical control and team training without a checklist](../claims/surgical-checklist-lowest-adverse-events.md) [+W]
 - [Immediate feedback on incorrect operations and surgical step prompts are the most valued learning resources](../claims/cataract-vsim-feedback-prompts-most-valued.md) [+W]
+- [Real-time AI guidance improved novices' acquisition of the Apical-4-chamber and Apical-5-chamber views after a short cardiac ultrasound course](../claims/ai-guidance-improved-a4c-a5c-views.md) [+W] — attached 2026-11-07 from Karni Ofri et al. (2025), which proposed "UltraSight real-time AI guidance software for cardiac ultrasound probe navigation and image quality"; tests this page's relationship.
+- [Novices trained with real-time AI guidance completed the cardiac ultrasound proficiency exam more slowly than non-AI peers](../claims/ai-guidance-slower-exam-completion.md) [~W] — attached 2026-11-07 from Karni Ofri et al. (2025), which proposed "UltraSight real-time AI guidance software for cardiac ultrasound probe navigation and image quality"; tests this page's relationship.
 
 ## The evidence by question
 - *Does performing with an aid at hand leave learners able to do the task once the aid is removed?* [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~M]

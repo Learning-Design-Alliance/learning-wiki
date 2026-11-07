@@ -54,3 +54,4 @@ SUS questionnaires with four bespoke experience items were completed immediately
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
+- [The scale is quickly completed, averaging 4 min, which the authors report as good acceptability](gp-depression-scale-acceptability-4-min-completion.md) — related

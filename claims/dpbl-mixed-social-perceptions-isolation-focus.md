@@ -51,3 +51,4 @@ Thematic synthesis of 108 quotes under social design found that "Some felt isola
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Cooperative learning benefits both low- and high-proficiency EFL students in the Chinese context](cooperative-writing-benefits-all-proficiency-levels.md) — related
 - [Students reported moderate to high digital readiness while valuing face-to-face instructor contact](students-moderately-highly-digitally-ready.md) — related
+- [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](hybrid-student-social-isolation.md) — related

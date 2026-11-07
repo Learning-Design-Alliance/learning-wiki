@@ -108,3 +108,4 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](poor-assessment-practices-harm-students-anxiety-lost-time.md) — a broader claim this one bears on
 - [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](student-preference-and-logistical-advantages-of-obe.md) — related
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related
+- [Students perceived traditional grading practices as harmful to motivation and well-being](traditional-grading-harms-motivation-wellbeing.md) — related

@@ -48,6 +48,7 @@ The authors recommend extending the approach beyond special care dentistry: "fut
 - [Future research should evaluate advanced simulation modalities, real-world clinical outcomes and underrepresented critical care scenarios](future-sbme-critical-care-research-priorities.md)
 - [Extend competency-driven procedural training to other under-taught clinical skills and resource-limited settings](extend-competency-driven-training-to-other-procedures.md)
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
+- [Adapt the 5CardsGame format to other healthcare education contexts, including digital versions for remote and self-paced practice](5cardsgame-adaptation-strategy.md)
 
 ## Examples
 -

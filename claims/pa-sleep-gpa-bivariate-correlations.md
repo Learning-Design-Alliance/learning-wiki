@@ -59,3 +59,4 @@ Pearson correlation analysis among GPA, PSQI global score, ordinal IPAQ score, a
 - [Health sciences students' GPA is positively correlated with their physical activity level (r = 0.279)](gpa-positively-correlated-physical-activity-health-sciences-students.md) — related
 - [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite
+- [GPA is strongly positively correlated with knowledge gain across all three teaching methods (r = 0.708)](gpa-strong-positive-correlation-knowledge-gain.md) — related

@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (75 show a difference, 22 mixed, 14 no difference) · 71 studies (25 causal, 18 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 71 report an effect size · 110 claims rest on one study
+> **Evidence** · 112 claims (76 show a difference, 22 mixed, 14 no difference) · 72 studies (26 causal, 18 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 72 report an effect size · 111 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -147,6 +147,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Psychological well-being, academic self-efficacy, and emotional intelligence each significantly and positively predict CGPA among pre-service teachers](../claims/pwb-ase-ei-predict-cgpa-preservice-teachers.md) [+W] — learners who differ on it differ in outcomes
 - [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](../claims/ei-predicts-emotions-and-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Trait and ability EI mediate, at a low level, the link between entity ITEI and negative emotions and Portuguese grades](../claims/ei-mediation-of-entity-itei-effects.md) [~W] — learners who differ on it differ in outcomes
+- [Four serial mediation paths linked REDI to reduced high school behavior problems via preschool emotion knowledge, social competence, grade school social adjustment, and parent involvement.](../claims/redi-behavior-problems-serial-mediation.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

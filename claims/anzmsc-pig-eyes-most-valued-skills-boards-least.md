@@ -47,3 +47,4 @@ Mann-Whitney non-parametric testing of station rankings from the University of S
 ## Related Claims
 - [The article reports that corneal suturing practice on pig eyes significantly improves path length, hand movements, and time taken, as measured by OSATs and ICSAD video-based assessment.](pig-eye-corneal-suturing-improves-osats-icsad.md) — related
 - [Among the 26 EES procedures, experts rated polypectomy least difficult and Vidian neurectomy most difficult.](polypectomy-least-vidian-neurectomy-most-difficult.md) — related
+- [Students rated the wheelchair-to-dental-chair transfer station most useful and the clinical nutrition station least useful for their future professional life](transfer-station-most-useful-nutrition-least.md) — related

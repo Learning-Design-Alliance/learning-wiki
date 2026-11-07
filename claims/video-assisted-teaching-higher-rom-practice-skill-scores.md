@@ -51,3 +51,5 @@ Randomized controlled trial: 36 video-group and 36 control-group students were e
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
 - [Personalized video feedback produces higher BCLS skills scores one week and one month after training than in-person feedback alone](pvf-higher-bcls-skills-one-week-one-month.md) — a narrower finding that bears on this claim
 - [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related
+- [First-year nursing students report higher satisfaction with traditional skill demonstration than with video-assisted teaching](demonstration-higher-satisfaction-than-video.md) — related
+- [Video-assisted teaching and skill demonstration produce equivalent post-test knowledge of surgical aseptic technique in first-year nursing students](video-vs-demonstration-equivalent-aseptic-knowledge.md) — related

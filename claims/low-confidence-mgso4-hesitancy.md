@@ -50,3 +50,4 @@ The confidence theme from thematic analysis of provider discussions found that "
 - [Teachers' main challenge was transitioning from diagnosis to intervention, with less experienced teachers more hesitant to act on LA report information.](diagnosis-to-intervention-challenge-experience.md) — related
 - [Divergence between high self-reported collaboration and hesitancy in error reporting within perceived punitive environments](divergence-collaboration-scores-error-reporting-hesitancy.md) — related
 - [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
+- [Junior nurses hesitate to seek guidance from senior colleagues and physicians about medication procedures, creating error risk](junior-nurse-communication-hesitation-medication-errors.md) — related

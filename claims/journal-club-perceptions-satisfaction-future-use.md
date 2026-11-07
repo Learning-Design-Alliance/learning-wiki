@@ -52,3 +52,4 @@ Descriptive results from the perception/attitude and feedback domains of the pos
 - [AVID students in CPS report extremely high satisfaction with the program](avid-students-extremely-satisfied-cps-2007.md) — related
 - [A structured paired journal club activity leads pharmacy students to report new knowledge and increased confidence in critically evaluating research](journal-club-self-reported-knowledge-confidence-gains.md) — related
 - [Pharmacy and science students show high acceptance of digital learning offerings, with 89% preferring future learning settings that include them](high-student-acceptance-digital-learning-offerings.md) — related
+- [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related

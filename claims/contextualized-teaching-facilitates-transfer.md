@@ -153,3 +153,5 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Students report that MAES places them at the center of CPR learning and increases perceived knowledge retention and integration](maes-learner-centered-knowledge-retention.md) — related
 - [Participants report that SBE can expose students to rare clinical conditions and skills they may not encounter in Malawian clinical placements](sbe-rare-conditions-exposure.md) — related
 - [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — a narrower finding that bears on this claim
+- [Familiar instructors who knew participants' clinical context were perceived to improve learning outcomes compared with unknown instructors](familiar-instructors-improve-relevance-learning.md) — related
+- [Interns who experienced real patient CPR had higher skill confidence and skill test scores than those who did not](real-cpr-experience-higher-confidence-skill.md) — a narrower finding that bears on this claim

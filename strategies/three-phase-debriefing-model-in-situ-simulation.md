@@ -49,6 +49,7 @@ Debriefing is described as one of the most important features of in situ SET and
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 - [Three-phase debriefing (reaction, analysis, summary) with formative critical-actions feedback](three-phase-debriefing-ecpr-simulation-strategy.md)
+- [In-situ simulation case with three consecutive crisis elements and GAS-model debriefing for bronchoscopy team training](in-situ-bronchoscopy-crisis-simulation-case-strategy.md)
 
 ## Examples
 -

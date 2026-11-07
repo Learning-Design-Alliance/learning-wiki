@@ -53,3 +53,4 @@ In the same randomized N = 87 experiment, an LMM on the SE-12 self-efficacy scal
 - [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — reports the opposite
 - [VP simulation training reduces perceived insecurity across most subdomains](vp-simulation-reduces-perceived-insecurity.md) — related
 - [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — possibly the same claim (merge candidate)
+- [Handwashing knowledge scores increased more in the video group over time, though the group-by-time interaction was not significant](handwashing-knowledge-gain-video-group.md) — possibly the same claim (merge candidate)

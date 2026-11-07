@@ -55,3 +55,5 @@ Benchmark evaluation in January 2025 of four chatbots on a validated question ba
 - [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — related
 - [Only 29.5% of questions were answered correctly by all four current LLMs across all attempts](only-29-5-percent-answered-correctly-by-all-llms.md) — related
 - [GPT-4o answers were highly consistent across attempts, whereas GPT-3.5's answers a year earlier were mostly unreliable](gpt-4o-answer-consistency-versus-gpt-3-5.md) — related
+- [Claude achieved the highest biochemistry MCQ accuracy (92.5%), followed by GPT-4 (85.1%), Gemini (78.5%), and Copilot (64%), with only Copilot below the student average](claude-highest-accuracy-biochemistry-mcq-ranking.md) — related
+- [The article reports that GPT-4 outperformed GPT-3.5 on biochemistry MCQs, but contradicts a prior clinical-exam study by finding Claude, not GPT-4, was the most proficient chatbot for biochemistry](gpt-4-superior-to-gpt-35-but-not-best-in-biochemistry.md) — related

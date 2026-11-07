@@ -48,3 +48,4 @@ Fisher's exact test comparisons of individual checklist item completion rates be
 - [Medical students trained on the BMAT simulator scored higher on a 26-item skills checklist than internist controls](students-outperform-internists-bmat-checklist.md) — possibly the same claim (merge candidate)
 - [Post-program knowledge test scores of medical students were not significantly different from internists' scores](student-knowledge-posttest-equals-internists.md) — related
 - [Checklist superiority over internists held only in 2020 and was not statistically significant in 2021 and 2022](checklist-advantage-varies-by-cohort-year.md) — reports the opposite
+- [Checklist items on identity verification, small talk, illness life impact, and reviewing visit steps showed the highest percentage of incorrect responses](communication-items-most-often-incorrect-checklist.md) — related

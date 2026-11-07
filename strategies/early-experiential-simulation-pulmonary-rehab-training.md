@@ -46,7 +46,8 @@ The authors recommend curriculum change based on their finding that early-year s
 - [Self-assessed experience in pulmonary physiotherapy differs significantly across education level and years of clinical practice, with a large effect size](../claims/self-assessed-experience-differs-by-education-experience.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Provide additional support to involve early-years students in simulation, especially high-fidelity designs](early-years-student-simulation-support-strategy.md)
 
 ## Examples
 -

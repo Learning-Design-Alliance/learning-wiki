@@ -69,3 +69,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [Students report high acceptance of the virtual system: 98.9% improved comprehension, 89.3% willing to adopt it, and 97.2% overall satisfaction](high-satisfaction-and-willingness-virtual-simulation.md) — a narrower finding that bears on this claim
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
 - [Platform usability was rated high marginal (SUS 64.04) with no age-group difference, and chatbot usability was poor for older adults](epa-coach-usability-sus-cuq-ratings.md) — a narrower finding that bears on this claim
+- [First-semester medical students evaluate the IC-MD procedure positively, with acceptance scores ranging from 3.9 (quality of measurement) to 5.4 (controllability)](ic-md-participant-acceptance.md) — related

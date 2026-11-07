@@ -57,3 +57,4 @@ Within-group pre–post comparisons using Wilcoxon Signed Ranks Test found stati
 - [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — a narrower finding that bears on this claim
 - [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — possibly the same claim (merge candidate)
 - [All three groups showed statistically significant pre-test to post-test knowledge gains, with no significant between-group differences in post-test PVC knowledge](all-groups-knowledge-gains-no-between-group-difference.md) — related
+- [In the simulation group, quiz scores increased significantly after both the lecture and simulator practice](simulation-group-significant-gains-lecture-and-practice.md) — related

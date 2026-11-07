@@ -234,3 +234,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Overemphasizing learner satisfaction can undermine educational quality, as educators become disincentivized from delivering critical feedback](overemphasizing-learner-satisfaction-undermines-quality.md) — related
 - [Structured preoperative frameworks (PREDICT, GAPS) and independent rotations increase graduated autonomy without harming patient outcomes](predict-gaps-graduated-autonomy-frameworks.md) — related
 - [The article attributes Sim + LBL's effectiveness to cognitive and motivational processes consistent with Self-Determination Theory](sdt-explanation-sim-lbl-effectiveness.md) — a narrower finding that bears on this claim
+- [Quiz retakes and low-stakes assessments increased students' sense of autonomy over grade outcomes and study decisions](quiz-retakes-increase-autonomy.md) — a narrower finding that bears on this claim

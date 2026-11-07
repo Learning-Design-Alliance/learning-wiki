@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 157 claims (71 for, 76 mixed, 10 against) · 81 studies (41 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 25 of 81 report an effect size · 150 claims rest on one study
+> **Evidence** · 158 claims (72 for, 76 mixed, 10 against) · 82 studies (41 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 25 of 82 report an effect size · 151 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Adding feedback to closed-ended practice tests yields no added comprehension benefit, while the multiple-choice advantage over true—false persists (Experiment 3)](../claims/feedback-no-added-benefit-mc-advantage-persists.md) [~M] — attached 2026-11-05 from Hildenbrand Lena; Wiley Jennifer (2025), which proposed "When using closed-ended practice tests to build comprehension, prefer multiple-choice inference questions over matched true—false items".
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](../claims/quiz-question-number-does-not-moderate-testing-effect.md) [~W] — attached 2026-11-06 from Glodowski et al. (2025), which proposed "Use relatively short quizzes to support college student success at a favorable cost-to-benefit ratio".
 - [Administering quizzes significantly improves college students' exam performance in a behavior-analytic course, replicating the testing effect](../claims/quizzes-improve-exam-performance-behavior-analytic-replication.md) [+W] — attached 2026-11-06 from Glodowski et al. (2025), which proposed "Use relatively short quizzes to support college student success at a favorable cost-to-benefit ratio"; tests this page's relationship.
+- [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](../claims/measured-self-testing-predicts-course-score.md) [+W] — attached 2026-11-07 from Hazlett et al. (2025), which proposed "Provide structured, feedback-rich practice opportunities in courseware, linked to learning objectives, to support adoption of effective strategies"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -71,3 +71,4 @@ Contrast analysis within English prompts (Table 8): ChatGPT-4/Claude OR = 0.44 a
 - [Accuracy rates differ significantly among ChatGPT, Claude, and Gemini on text-based endodontic examination questions](llm-accuracy-differs-endodontic-exam-questions.md) — reports the opposite
 - [Chatbot answers showed only moderate cross-language agreement and imperfect consistency across repeated measurements](chatbot-response-consistency-varies-by-language-and-measurement.md) — related
 - [Only Claude would have passed the LDEK/LDEW pass threshold on every attempt, while Gemini in Polish would certainly fail](only-claude-passes-ldek-threshold-every-attempt.md) — related
+- [The article reports that GPT-4 outperformed GPT-3.5 on biochemistry MCQs, but contradicts a prior clinical-exam study by finding Claude, not GPT-4, was the most proficient chatbot for biochemistry](gpt-4-superior-to-gpt-35-but-not-best-in-biochemistry.md) — related

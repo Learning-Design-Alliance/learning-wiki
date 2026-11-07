@@ -78,3 +78,4 @@ Results for the five image-based questions (3 electrocardiograms, 2 CT scans), K
 - [LLM performance on KMLE varies by medical specialty, with relatively weak accuracy in medical law for all three models](kmle-specialty-variation-weak-medical-law.md) — related
 - [GPT-4o and Claude 3.5 Sonnet are significantly more accurate on text-only than image-based KMLE questions, while Gemini 1.5 Pro performs comparably across formats](text-only-beats-image-based-kmle-accuracy.md) — related
 - [GPT-4o answered both image-based PNA questions correctly](gpt-4o-answered-image-questions-correctly.md) — related
+- [GPT-4o shows a clear advantage in complex question formats, exceeding 85% accuracy on case analysis (A3/A4) and matching (B1) questions](gpt4o-advantage-complex-question-formats.md) — related

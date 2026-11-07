@@ -50,3 +50,4 @@ Cross-sectional comparative study in which 80 fifth-year dental students sat a v
 - [ChatGPT generated usable MCQs roughly five times faster than educator panels but with a 44% rejection rate](chatgpt-mcq-generation-speed-rejection-tradeoff.md) — related
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
 - [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related
+- [AI-generated questions showed significantly lower discrimination indices than traditional board examination questions despite similar difficulty](ai-exam-lower-discrimination.md) — related

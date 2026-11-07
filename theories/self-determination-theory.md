@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 126 claims (92 for, 31 mixed, 3 against) · 87 studies (34 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 19 of 87 report an effect size · 120 claims rest on one study
+> **Evidence** · 129 claims (95 for, 31 mixed, 3 against) · 88 studies (34 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 19 of 88 report an effect size · 123 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -182,6 +182,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Perceived emotional support from peers positively predicts personally referred performance self-talk, self-efficacy enhancement and enhancement of situational interest in secondary students](../claims/emotional-peer-support-predicts-motivational-regulation-strategies.md) [+W] — attached 2026-11-05 from Villar et al. (2025), which proposed "Self-determination theory and the self-system model of motivational development as the framework linking peer support provisions to motivational self-regulation"; tests this page's relationship.
 - [Intrinsic motivation to experience stimulation significantly strengthens the achievement composition effect in L2 classrooms](../claims/im-experience-stimulation-moderates-ace.md) [+W] — attached 2026-11-05 from Mendoza et al. (2025), which proposed "Self-Determination Theory and the self-system model of motivational development as the framework for peer-achievement effects".
 - [Faculty autonomous motivation positively predicts teacher self-efficacy in Chinese higher education](../claims/autonomous-motivation-predicts-self-efficacy-chinese-faculty.md) [+W] — attached 2026-11-06 from Li Xinyan et al. (2025), which proposed "Integrated SDT–Social Cognitive Theory model of motivation, self-efficacy, and innovative teaching in Chinese higher education".
+- [In-class quiz retakes improved undergraduate students' perceptions of their competence in STEM course material](../claims/quiz-retakes-improve-perceived-competence.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "Self-determination theory as a lens for interpreting grading practices' effects on motivation".
+- [Quiz retakes and low-stakes assessments increased students' sense of autonomy over grade outcomes and study decisions](../claims/quiz-retakes-increase-autonomy.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "Self-determination theory as a lens for interpreting grading practices' effects on motivation".
+- [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](../claims/quiz-retakes-increase-relatedness.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "Self-determination theory as a lens for interpreting grading practices' effects on motivation".
 
 ## The evidence by question
 

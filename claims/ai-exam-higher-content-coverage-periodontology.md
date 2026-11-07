@@ -48,4 +48,4 @@ Content validity analysis of the two 90-question MCQ papers, comparing keyword c
 - [Students rated the AI-generated examination significantly lower on difficulty adaptability, knowledge coverage, and learning inspiration](students-rate-ai-exam-lower-feedback.md) — related
 - [The AI-generated and human-designed examinations showed comparable split-half reliability and difficulty distributions](ai-exam-comparable-reliability-difficulty.md) — related
 - [Students scored significantly higher on the AI-generated examination than on the human-designed examination, with a narrower score range](ai-exam-higher-total-scores.md) — related
-- [The AI-generated examination showed significantly lower item discrimination than the human-designed examination (0.35 vs. 0.49)](ai-exam-lower-discrimination.md) — related
+- [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — related

@@ -89,3 +89,4 @@ Spearman correlation between SUS score and skill-test completion-time mean diffe
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — a broader claim this one bears on
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
+- [Older students report statistically higher simulation design and educational practice scores than younger students](older-students-higher-sds-epq-scores.md) — related

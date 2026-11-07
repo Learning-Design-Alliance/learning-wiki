@@ -60,3 +60,4 @@ Pilot randomised controlled trial comparing SBS (n=42) and VBT (n=42) among four
 - [Self-rated operator confidence in managing distal coronary perforation and stent loss rose from before to immediately after structured simulation-based learning, in one uncontrolled pre-post study](sbl-improves-operator-confidence-pci-complications.md) — related
 - [Live demonstrations yield higher postdemonstration knowledge than prerecorded video demonstrations in first-year dental students learning a class II amalgam restoration](live-demo-beats-video-demo-postknowledge-dental.md) — related
 - [Dental students using ChatGPT-3.5 alongside videos achieve higher operational skill test scores than students using videos alone](chatgpt-supplement-raises-dental-operational-skill-scores.md) — related
+- [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related

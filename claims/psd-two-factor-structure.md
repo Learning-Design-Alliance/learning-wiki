@@ -71,3 +71,4 @@ Confirmatory factor analysis on the second half of the Study 1 sample (N = 375) 
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related
 - [Designing fun explains additional variance in peer interactions and popularity beyond core self-evaluations and PsyCap, whereas designing competition does not](designing-fun-social-integration.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
+- [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related

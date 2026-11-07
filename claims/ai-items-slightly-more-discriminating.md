@@ -51,4 +51,4 @@ IRT discrimination estimates from the same field-study 2PL model, comparing AI-g
 - [For all θ < 0.75, AI-generated exams were on average more informative than the standardized exams, with I(0) = 3.36 versus 2.5](ai-exams-informative-below-average-ability.md) — related
 - [A larger share of AI-generated questions were highly or very highly discriminating (36%) compared to standardized test questions (21%)](ai-items-higher-share-high-discrimination.md) — related
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
-- [The AI-generated examination showed significantly lower item discrimination than the human-designed examination (0.35 vs. 0.49)](ai-exam-lower-discrimination.md) — related
+- [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — related

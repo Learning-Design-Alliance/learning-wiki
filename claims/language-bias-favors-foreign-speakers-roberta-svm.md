@@ -50,3 +50,4 @@ In-depth fairness analysis of the best-performing RoBERTa-SVM across all items, 
 - [Methods with higher scoring accuracy showed lower demographic disparity across the tested model combinations](higher-accuracy-lower-disparity.md) — a broader claim this one bears on
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
+- [IC-MD performance is fair regarding age and gender, but native German speakers and applicants with ≥ 6 months healthcare work experience score significantly higher](ic-md-fairness-language-work-experience.md) — related

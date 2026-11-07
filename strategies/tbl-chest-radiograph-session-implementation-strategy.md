@@ -51,6 +51,7 @@ The article describes a specific implementable TBL session structure for radiogr
 
 - [Expand TBL across diagnostic imaging modalities including CT, musculoskeletal radiographs, and ultrasound](expand-tbl-across-imaging-modalities-strategy.md)
 - [Team Based Learning](team-based-learning.md)
+- [Integrate TBL readiness testing with peer-taught clinical skill practice in dental residency training](tbl-pt-integrated-residency-strategy.md)
 
 ## Examples
 -

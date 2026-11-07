@@ -56,6 +56,8 @@ The article recommends the integrated, simulation-based approach as "a powerful 
 - [Use chatbot standardised patients combined with CBL to address limitations of traditional SP approaches.](chatbot-sp-cbl-strategy.md)
 - [Adopt Sim + LBL as a cost-effective, scalable approach for visually intensive, practice-oriented disciplines](adopt-sim-lbl-cost-effective-scalable.md)
 - [Combine push-based mobile learning with simulation practice and tiered content in a push-practice-feedback loop](push-plus-simulation-hybrid-nursing-education-strategy.md)
+- [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
+- [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 
 ## Examples
 -

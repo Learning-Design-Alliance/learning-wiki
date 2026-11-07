@@ -86,3 +86,4 @@ Follow-up univariate tests and Tukey HSD comparisons (Table 3): self-efficacy F 
 - [Clusters differ in learner characteristics: Cluster 2 and 5 differ in chemistry self-concept and interest, Cluster 0 shows higher reading ability, and Cluster 1 shows below-average post-test scores](cluster-learner-characteristic-differences.md) — related
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
 - [General self-efficacy is positively associated with membership of the moderate- and high-level competency profiles, with a particularly strong association for the high-level profile](self-efficacy-high-level-competency-profile-membership.md) — related
+- [Associations between programme engagement and self-efficacy/mindset do not permit causal inference, and effects on academic outcomes were not measured](at-evaluation-no-causal-inference.md) — related

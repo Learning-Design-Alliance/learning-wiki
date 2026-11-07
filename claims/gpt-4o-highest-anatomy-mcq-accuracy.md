@@ -73,3 +73,5 @@ Pearson chi-square pairwise comparisons between chatbots (Table 1), e.g. GPT-4o 
 - [Correct-answer totals shifted in opposite directions over one month: CoPilot Pro and Gemini Advanced increased while both ChatGPT versions decreased](opposite-accuracy-shifts-over-one-month.md) — related
 - [New-generation LLMs significantly outperform GPT-4o on knowledge-based question types (A1, B1) but not on case-analysis types (A2, A3/A4)](cdle-knowledge-vs-case-analysis-question-types.md) — related
 - [Only 29.5% of questions were answered correctly by all four current LLMs across all attempts](only-29-5-percent-answered-correctly-by-all-llms.md) — related
+- [Claude achieved the highest biochemistry MCQ accuracy (92.5%), followed by GPT-4 (85.1%), Gemini (78.5%), and Copilot (64%), with only Copilot below the student average](claude-highest-accuracy-biochemistry-mcq-ranking.md) — reports the opposite
+- [The article reports that GPT-4 outperformed GPT-3.5 on biochemistry MCQs, but contradicts a prior clinical-exam study by finding Claude, not GPT-4, was the most proficient chatbot for biochemistry](gpt-4-superior-to-gpt-35-but-not-best-in-biochemistry.md) — related

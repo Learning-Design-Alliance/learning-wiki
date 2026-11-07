@@ -46,6 +46,7 @@ Teachers in the evaluation offered concrete suggestions for improving the profes
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Session-design adjustments suggested by student feedback: shorten or split the manual, add facilitators, schedule the session earlier, and keep facilitator synthesis pauses](gas-exchange-session-design-adjustments-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Cross-sectional survey of 931 nurses across five Chinese hospitals; Mann-Whitney
 - [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related
 - [Less experienced nurses (< 10 years) and untrained nurses are more likely to report insufficient preparedness](less-experienced-nurses-insufficient-preparedness.md) — related
 - [Trained nurses outperformed untrained nurses on every one of the 21 approved educational topics](trained-nurses-higher-all-21-topics.md) — related
+- [Students who received formal sepsis training had higher correct knowledge and correct practice scores and lower incorrect practice scores than untrained students](sepsis-training-associated-higher-scores.md) — related

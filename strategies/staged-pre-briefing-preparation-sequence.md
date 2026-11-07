@@ -41,6 +41,7 @@ The article's pre-briefing sequence prepares students over roughly two weeks bef
 
 - [Provide preparatory materials, scenario introductions, adequate practice time, and constructive feedback in simulation teaching](simulation-teaching-preparation-practice-feedback.md)
 - [Spread simulation scenarios across multiple sessions, provide preparatory materials in advance, assign structured observer roles, and increase direct participation](ccs-session-design-improvement-strategy.md)
+- [Share the simulation scenario with learners in advance and repeat the scenario within sessions](advance-scenario-sharing-and-repetition-strategy.md)
 
 ## Examples
 -

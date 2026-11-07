@@ -54,3 +54,5 @@ Prospective quasi-experimental study of 71 undergraduates: experimental group (n
 - [Trainees trained on an animal-experiment-based simulation platform achieved significantly higher anatomy scores than control trainees (d = 0.68)](simulation-platform-higher-anatomy-scores-endoscopic-thyroidectomy.md) — related
 - [Simulation-platform trainees outperformed controls on specialized thyroid theory scores (d = 0.85) and surgeon-rated surgical proficiency (d = 0.82)](simulation-platform-higher-theory-and-surgical-proficiency.md) — related
 - [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related
+- [VR-group students scored significantly higher than control students on physical examination, ultrasound manipulation, and diagnosis in virtual simulation case assessment](vr-group-higher-physical-exam-ultrasound-diagnosis-scores.md) — related
+- [VR group's total teaching quality score was significantly higher than the control group's](vr-group-higher-total-teaching-quality-score.md) — related

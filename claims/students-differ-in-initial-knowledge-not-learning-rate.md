@@ -59,3 +59,4 @@ The authors read the result as a challenge to accounts of large individual diffe
 - [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](practice-opportunities-needed-after-verbal-instruction.md) — the same study
 - [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](individualizing-initial-knowledge-improves-prediction.md) — related
 - [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related
+- [Opportunity gaps in incoming chemistry content knowledge are present: prequiz scores varied widely and were predicted by coursework, PEER/first-generation status, and gender](prequiz-opportunity-gaps-chemistry-knowledge.md) — related

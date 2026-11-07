@@ -13,7 +13,7 @@ generated:
 # Reassessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 16 studies (9 causal, 5 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 3 of 16 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 17 studies (9 causal, 5 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 17 report an effect size · 5 claims rest on one study
 
 ## Description
 Reassessment asks learners to revisit and revise their own answers after discussion, feedback, or additional instruction. It converts an initial response — right or wrong — into an object of reflection, making the gap between first thinking and improved thinking visible and revisable.
@@ -55,6 +55,8 @@ Reassessment leverages the testing effect a second time: the initial response fu
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [~W]
 - [Log-file analysis links the greatest post-Opener gains to revisiting an evidence page and spending more time revising initial work](../claims/revisiting-evidence-after-opener-predicts-gains.md) [+W]
 - [Students who participate in an Opener are significantly more likely to revisit and revise their embedded-assessment work than students with no Opener](../claims/openers-increase-revision-of-embedded-assessment-work.md) [+W]
+- [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](../claims/retake-participation-and-improvement-quantitative.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "In-class quiz retakes integrated into a two-part final exam"; tests this page's relationship.
+- [In-class quiz retakes improved undergraduate students' perceptions of their competence in STEM course material](../claims/quiz-retakes-improve-perceived-competence.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "In-class quiz retakes integrated into a two-part final exam".
 
 ## The evidence by question
 - *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]

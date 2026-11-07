@@ -53,3 +53,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
 - [The Facilitation Behavioural Assessment Tool achieves suitable inter-rater reliability after short online rater training, with ICC2 of 0.73 and ICC2k of 0.89](fbat-inter-rater-reliability-icc.md) — related
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
+- [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related

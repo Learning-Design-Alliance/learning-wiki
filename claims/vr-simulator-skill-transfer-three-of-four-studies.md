@@ -53,3 +53,4 @@ Summary of five skill-transfer studies (113 participants) with heterogeneous des
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related
 - [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](vr-simulators-perceptual-motor-skills-transfer-challenge.md) — a broader claim this one bears on
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
+- [The review attributes to prior literature that simulation-based surgical training improves technical skills, reduces operative time, and enhances patient safety](surgical-simulation-attributed-benefits.md) — related

@@ -50,3 +50,4 @@ Concurrent correlation between simulation and OSCE scores reported in Results (T
 - [Simulator assessment scores correlate strongly and positively with real-patient assessment scores, supporting simulators as competency assessment alternatives](simulator-assessment-scores-correlate-with-real-patient-performance.md) — related
 - [OSCE validity correlations with other measures range from very weak to strong, suggesting OSCEs resemble narrow course examinations more than broad clinical practice](pt-osce-validity-correlations-mixed.md) — related
 - [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](weak-correlation-virtual-sba-mce.md) — related
+- [Full Code simulation scores correlate positively but weakly with final course grades in clinical medicine and surgery courses (overall r = 0.30)](full-code-score-correlates-with-course-grade.md) — related

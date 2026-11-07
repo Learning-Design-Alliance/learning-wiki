@@ -48,3 +48,4 @@ Analysis of the TRIAD evaluation of the Building Blocks curriculum in 42 low-res
 - [Gains from the one-year intervention fade in kindergarten while gains from the two-year intervention are sustained](two-year-gains-sustained-kindergarten.md) — related
 - [Follow-up effects of targeted K-6 interventions remain positive up to 2 years after intervention ends, with evidence of fadeout](targeted-k6-interventions-followup-fadeout.md) — a broader claim this one bears on
 - [Matched control children with similar post-test scores outperform matched treatment children at follow-up](matched-controls-outperform-matched-treatment-at-followup.md) — related
+- [Intervention effects on student math progress persisted without fadeout through the 8-week post-intervention period](nudge-effects-persist-8-weeks.md) — related

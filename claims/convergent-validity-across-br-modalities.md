@@ -49,3 +49,4 @@ Pairwise Pearson's correlations of student sub-scores on physical, 2D, and VR be
 - [Bellringer examinations across the three modalities showed respectable reliability (KR-20 averaging 0.785)](br-exam-kr20-respectable-reliability.md) — related
 - [Item difficulty in anatomy bellringer testing does not differ significantly across physical specimen, 2D image, and VR modalities](br-item-difficulty-equal-across-modalities.md) — related
 - [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related
+- [Scores on the GGR and VLAT data visualization literacy assessments are moderately correlated (ρ = 0.56)](vlat-ggr-moderate-score-correlation.md) — related

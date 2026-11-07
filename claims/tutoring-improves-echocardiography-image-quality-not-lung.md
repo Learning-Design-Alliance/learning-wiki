@@ -49,3 +49,6 @@ Blinded expert assessment of image quality on a 6-point scale during the same ev
 - [Structured tutoring improves self-assessed heart ultrasound competency at 6 months, but the self-assessed lung competency difference is not statistically significant](tutoring-self-assessed-heart-competency.md) — related
 - [Structured tutoring raises the median number of supervised POCUS examinations performed over 6 months (27 vs 0)](tutoring-increases-supervised-examination-volume.md) — related
 - [Under real-life conditions, FLUS image quality was rated acceptable or higher in 92.4% of patient examinations after training](gp-flus-image-quality-acceptable-92-percent.md) — related
+- [Real-time AI guidance improved novices' acquisition of the Apical-4-chamber and Apical-5-chamber views after a short cardiac ultrasound course](ai-guidance-improved-a4c-a5c-views.md) — related
+- [No statistically significant differences between AI-enhanced and non-AI groups on the other individual echocardiography views](ai-guidance-no-gain-other-echocardiography-views.md) — related
+- [Real-time AI guidance did not significantly improve the overall Cardiac US Score in novices after a short cardiac ultrasound course](ai-guidance-no-overall-cardiac-us-score-gain.md) — related

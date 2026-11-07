@@ -48,3 +48,4 @@ Correlational analysis comparing incumbents (admitted students) with all test-ta
 ## Related Claims
 - [School-level averages of observed admissions test scores are extremely highly correlated with average latent scores](observed-school-mean-scores-track-latent-means.md) — related
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
+- [IC-MD scores are independent of cognitive admission criteria (TMS r = .01; GPA r = .14), supporting divergent validity](ic-md-divergent-validity-cognitive-criteria.md) — related

@@ -201,6 +201,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](../strategies/video-instruction-supervised-practice-prepost-strategy.md)
 - [Simulation-first framework: acquire foundational procedural skills on simulation models before clinical practice](../strategies/simulation-first-foundational-skills-before-clinical.md)
 - [Use brief instructor-guided relaxation and visualization imagery sessions immediately before practicing decomposed surgical skill steps](../strategies/guided-imagery-before-decomposed-step-practice.md)
+- [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](../strategies/demonstrate-group-practice-report-revision-simulation-session.md)
 
 ### Illustrative
 

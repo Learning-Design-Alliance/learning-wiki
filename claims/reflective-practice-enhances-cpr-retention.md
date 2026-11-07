@@ -63,3 +63,5 @@ Narrative synthesis of a limited number of cognitive–psychological studies; th
 - [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](retention-confidence-self-report-trajectory.md) — related
 - [Individual and group reflection produce similar MCQ scores at the 60-day voluntary follow-up](ir-gr-similar-long-term-retention-60-days.md) — related
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — related
+- [Teamwork ability and clinical thinking ability scores rose from pretraining to day 1 after simulation and day 30 of clinical practice in one single-group pre-post study (Kirkpatrick learning level)](cpr-training-improves-teamwork-clinical-thinking.md) — related
+- [After 30 days of clinical practice, all intern teams scored good or above on the team CPR skills assessment (Kirkpatrick result level)](cpr-training-result-level-good-scores.md) — related

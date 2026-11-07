@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 237 claims (160 show a difference, 47 mixed, 30 no difference) · 177 studies (57 causal, 43 review, 37 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 47 of 177 report an effect size · 230 claims rest on one study
+> **Evidence** · 241 claims (164 show a difference, 47 mixed, 30 no difference) · 179 studies (57 causal, 43 review, 39 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 47 of 179 report an effect size · 234 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -279,6 +279,10 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Social behavior measures were not associated with math or reading skills at both time points and did not qualify as mediators](../claims/social-behavior-not-associated-academic-skills-both-timepoints.md) [-W] — learners who differ on it differ in outcomes
 - [Interpersonal and communication skills benefited most from distance learning while patient care and technical skills benefited least](../claims/unequal-competency-domain-benefits-from-distance-learning.md) [+M] — measured as an outcome of the instruction studied
 - [Social Awareness, Relationship Skills and Responsible Decision-Making show no practically meaningful association with Year 7 reading or numeracy](../claims/interpersonal-sel-competencies-no-meaningful-association.md) [-M] — learners who differ on it differ in outcomes
+- [91% of students reported improved confidence working in a team and 90% reported teamwork developed interpersonal skills](../claims/el-teamwork-confidence-gains-91-percent.md) [+M] — measured as an outcome of the instruction studied
+- [Inclusive education efficacy mediates the relationship between empathy and attitudes toward inclusive education](../claims/inclusive-efficacy-mediation-empathy-attitudes.md) [+M] — learners who differ on it differ in outcomes
+- [Pre-service teachers' empathy positively predicts their attitudes toward inclusive education](../claims/empathy-predicts-attitudes-inclusive-education.md) [+M] — learners who differ on it differ in outcomes
+- [Teaching motivation mediates the relationship between empathy and attitudes toward inclusive education](../claims/teaching-motivation-mediation-empathy-attitudes.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

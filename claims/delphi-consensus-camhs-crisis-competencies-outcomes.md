@@ -58,3 +58,4 @@ Three-round Delphi study with 69 initial participants, of whom 43 (62%) complete
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
 - [A three-round Delphi panel of 30 Korean experts derived six core shared competencies for physician–nurse collaboration in primary care, all meeting consensus criteria](delphi-six-shared-competencies-primary-care.md) — related
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
+- [A two-round modified Delphi process with an integrated workshop produced consensus on 97 of 120 formulated competencies for a delirium e-learning curriculum](delphi-consensus-97-of-120-delirium-competencies.md) — related

@@ -60,3 +60,4 @@ Self-report questionnaire (10 items, 5-point Likert; Cronbach's α = 0.924, S-CV
 - [DwGJ residents reported higher course satisfaction and perceived learning outcomes, while ratings of instructors' teaching attitudes did not differ between groups](dwgj-higher-satisfaction-instructor-ratings-null.md) — related
 - [VSE students reported higher experimental interest, confidence, and willingness to participate than traditionally taught students](vse-higher-motivation-engagement.md) — related
 - [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — related
+- [Public health undergraduates rate their intellectual and practical emergency competences around 3 of 5 but behavioral and motivation items around 4 of 5](students-weak-technical-strong-behavioral-competence.md) — related

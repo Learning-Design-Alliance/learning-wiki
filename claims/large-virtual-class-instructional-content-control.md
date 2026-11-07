@@ -52,3 +52,4 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [During the pandemic teachers employed an array of digital tools, including non-institutional ones, to maintain content delivery and promote interaction](expanded-digital-tool-array-during-got.md) — related
 - [Designers' intents for interactive features cluster into two themes: attention-getting and engagement techniques](design-intent-attention-and-engagement.md) — related
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
+- [Most students in a hybrid PA programme agreed that live online classes, questions, and breakout rooms encouraged engagement, but only half felt connected to other class members](hybrid-pa-survey-connection-engagement.md) — related

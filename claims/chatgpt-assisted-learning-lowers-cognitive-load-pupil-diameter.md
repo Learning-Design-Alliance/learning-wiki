@@ -49,3 +49,4 @@ Eye-tracking analysis of pupil diameter change from baseline during the learning
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
+- [Experts show lower pupil dilation changes than residents during ECG interpretation, indicating lower cognitive load](experts-lower-pupil-dilation-cognitive-load.md) — related

@@ -46,7 +46,7 @@ Five-point Likert questionnaire completed by all 126 students (63 per group); th
 
 ## Related Claims
 - [A GPT-4-generated periodontology examination achieved higher syllabus content coverage than a human-designed examination (81.3% vs. 72.4%)](ai-exam-higher-content-coverage-periodontology.md) — related
-- [The AI-generated examination showed significantly lower item discrimination than the human-designed examination (0.35 vs. 0.49)](ai-exam-lower-discrimination.md) — related
+- [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — related
 - [The AI-generated and human-designed examinations showed comparable split-half reliability and difficulty distributions](ai-exam-comparable-reliability-difficulty.md) — related
 - [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related
 - [Students scored significantly higher on the AI-generated examination than on the human-designed examination, with a narrower score range](ai-exam-higher-total-scores.md) — related

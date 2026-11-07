@@ -49,3 +49,4 @@ Confirmatory factor analyses within a multitrait, multimethod modeling approach 
 - A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th — related
 - [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — reports the opposite
 - [Specific text- and question-type factor scores were not reliable and were hardly related to word reading speed, vocabulary, and working memory](specific-comprehension-factor-scores-unreliable-unrelated-cognitive-abilities.md) — possibly the same claim (merge candidate)
+- [Question type reliably accounts for variation in assessment performance within each test and combined](question-type-accounts-for-performance-variance.md) — related

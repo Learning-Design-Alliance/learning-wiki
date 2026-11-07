@@ -99,3 +99,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Symbolic-regression models built on previous exam grades account for roughly 70% of exam-score variation, but predict project scores poorly (about 35%)](exam-scores-predictable-project-scores-not.md) — a narrower finding that bears on this claim
 - [Grade 5 academic and non-cognitive skills are positive predictors of grade 8 mathematics scores](grade-5-skills-predict-grade-8-math-achievement.md) — related
 - [Improvements in suturing skills are not significantly associated with age, seniority or previous training history](suturing-gain-unrelated-to-age-seniority-history.md) — related
+- [Number of prior high school mathematics courses reliably predicts data visualization assessment performance](math-coursework-predicts-visualization-literacy.md) — related

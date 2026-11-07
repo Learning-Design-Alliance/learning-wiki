@@ -49,3 +49,4 @@ Pretest analysis of the heritage control and experimental groups at site two usi
 - [Pragmatic lessons on compliments produce no statistically significant improvement in heritage learners' recognition of compliment strategies](pragmatic-lessons-no-impact-heritage-learners.md) — related
 - [Pragmatic lessons on compliments produce statistically significant, very large gains in beginner L2 learners' recognition of compliment strategies](pragmatic-lessons-large-gains-l2-learners.md) — related
 - [U.S. heritage learners of Spanish scored above the 70% proficiency threshold on request DCT pre-tests, showing no negative pragmatic transfer from English](shl-no-negative-pragmatic-transfer-requests.md) — related
+- [Students in both Intermediate and Advanced Medical Spanish courses achieved high aggregate performance scores at or above 80%, with mean scores differing between the two course levels (p = .0001)](high-aggregate-scores-medical-spanish-assessment.md) — related

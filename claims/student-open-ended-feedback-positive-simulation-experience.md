@@ -48,3 +48,4 @@ Informal review of free-text posttest responses in the pretest–posttest study;
 - [No significant differences in modified R‐DAQ scores between PMHNP and midwifery/WHGRNP students on pretest, posttest, or change scores](no-specialty-differences-rdaq-scores.md) — related
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related
+- [Student feedback on the simulation-based session was strongly positive, with 93.6% enjoying the session and 88.6% feeling more confident in differentiating obstructive and restrictive lung disorders](positive-student-feedback-simulation-session.md) — related

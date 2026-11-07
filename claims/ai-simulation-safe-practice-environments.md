@@ -113,3 +113,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Test-group students reported that the simulator's hands-on experience was easy to use, useful, and increased their confidence in performing hearing screenings](hss-qualitative-hands-on-confidence.md) — related
 - [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — a narrower finding that bears on this claim
 - [Clinical instructors perceive SBE role-play as mitigating language barriers when teaching international students from non-English-speaking countries](sbe-language-barrier-mitigation.md) — related
+- [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](shared-competence-base-group-learning-clinobsmunicipality.md) — related

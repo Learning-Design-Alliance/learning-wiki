@@ -55,3 +55,4 @@ Two-way ANOVA on 115 randomly assigned children (360° VR n = 46, TV n = 28, Pos
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related
 - [Using cartoons in social studies lessons significantly increases grade 4 students' awareness of water issues compared with traditional teaching](cartoons-increase-water-awareness-grade4.md) — related
 - [The virtual learning resource was feasible and perceived as more engaging than traditional teaching in a 12-student pilot](vr-resource-feasibility-pilot-engagement.md) — related
+- [No statistically significant difference in knowledge gains between live, flipped video, and interactive flipped methods (η² = 0.009)](no-between-group-difference-three-teaching-methods.md) — a narrower finding that bears on this claim

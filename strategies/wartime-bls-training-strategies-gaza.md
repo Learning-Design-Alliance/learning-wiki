@@ -52,6 +52,7 @@ The authors recommend resource-efficient interventions tailored to conflict sett
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Decentralise BLS training at scale with periodic retraining and certification tracking in performance management](decentralised-bls-training-retraining-strategy.md)
+- [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
 
 ## Examples
 -

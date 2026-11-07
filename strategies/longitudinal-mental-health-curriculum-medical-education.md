@@ -63,6 +63,7 @@ The article recommends that institutions integrate mandatory, longitudinal teach
 - [Sustain engagement across the programme with system-level reforms, collaborative and experiential activities, and stimulating environments](sustain-engagement-system-level-strategies.md)
 - [Combine active and experiential learning with coping-skill training, reflective practices, and peer support to address the emotional burden of palliative care education](palliative-coping-support-strategy.md)
 - [Implement student-support mechanisms and embed well-being in the medical curriculum to sustain strength of motivation](student-support-mechanisms-sustain-motivation.md)
+- [Make student reflection a mandatory component of experiential learning courses to integrate personal, professional, and academic learning](mandatory-reflection-in-el-courses.md)
 
 ## Examples
 -

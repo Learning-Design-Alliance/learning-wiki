@@ -41,7 +41,8 @@ The authors recommend extending TPD strategies for online and blended learning b
 - [The West-European context of the TPD review limits its international generalisability, since about half the world's students lack household computer access](../claims/tpd-review-west-european-context-limit.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adapt the 5CardsGame format to other healthcare education contexts, including digital versions for remote and self-paced practice](5cardsgame-adaptation-strategy.md)
 
 ## Examples
 -

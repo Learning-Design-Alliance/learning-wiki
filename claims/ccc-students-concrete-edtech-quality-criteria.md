@@ -60,3 +60,4 @@ Phase 1 focus groups and survey with CCC students surfaced concrete edtech quali
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
 - [User-friendly XR systems are accessible to trainees with various levels of expertise (effort expectancy)](xr-effort-expectancy-user-friendly-systems.md) — a narrower finding that bears on this claim
 - [Written feedback from dissatisfied AI chatbot users split roughly equally between technical and pedagogical critiques](ai-chatbot-critiques-technical-and-pedagogical.md) — related
+- [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related

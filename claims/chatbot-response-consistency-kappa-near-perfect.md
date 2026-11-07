@@ -49,3 +49,4 @@ Consistency analysis of the MCQ evaluation across the first and second attempts,
 - [All three LLMs show near-perfect answer reproducibility under repeated API testing at zero temperature, highest for Claude 3.5 Sonnet (99.9%)](llm-kmle-reproducibility-near-perfect.md) — related
 - [Gemini 1.5 Pro shows the highest response consistency across 30 repeated exam attempts, significantly exceeding GPT-4o but statistically comparable to Claude](gemini-highest-response-consistency-repeated-attempts.md) — related
 - [ChatGPT-4o achieves higher final-attempt accuracy than Gemini 1.5 Pro on ophthalmology MCQs, significantly in English but not in Turkish](chatgpt4o-outperforms-gemini-ophthalmology-mcq-final-attempt.md) — related
+- [Chatbot answers were largely stable across 5 successive attempts, with all chatbots answering 104 (52%) of the 200 questions correctly in every attempt](chatbot-answer-stability-across-five-attempts.md) — a narrower finding that bears on this claim

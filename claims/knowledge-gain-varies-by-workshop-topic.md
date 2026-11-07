@@ -50,3 +50,4 @@ Overall pooled analysis of both academic years by workshop type, reported in Res
 - [Peer-assisted simulation workshops significantly improve immediate workshop-specific knowledge test scores in undergraduate medical students](peer-simulation-workshops-immediate-knowledge-gain.md) — related
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
+- [In the OSCE module network, Pediatric Skills and Nursing Skill show the strongest edge, followed by Cardiac Auscultation and Pulmonary Auscultation](osce-network-strongest-module-edges.md) — related

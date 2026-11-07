@@ -70,3 +70,4 @@ McNemar pairwise tests in Infectious Diseases found no significant differences; 
 - [McNemar's exact test confirms o1-Pro's advantage is statistically significant (P=0.0015, OR 5.00)](mcnemar-significant-o1-pro-advantage-ukmla.md) — related
 - [o1-Pro consistently outperformed GPT-4o in dermatology and respiratory medicine (+18.2 points each) among specialty differences](o1-pro-dermatology-respiratory-specialty-gaps.md) — related
 - [Pairwise inter-model agreement showed no statistically significant differences among the five AI models (all p > 0.05)](no-significant-inter-model-agreement-differences.md) — related
+- [Post-hoc comparisons show ChatGPT o1 performed significantly better than most other models across both question types (p < 0.0031)](chatgpt-o1-posthoc-significantly-better.md) — a broader claim this one bears on

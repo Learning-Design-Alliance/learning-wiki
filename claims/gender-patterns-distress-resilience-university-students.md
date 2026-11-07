@@ -54,3 +54,4 @@ The review's thematic synthesis (RQ3) reports this gender pattern as observed ac
 - [Genetic or chemogenetic enhancement of adult hippocampal neurogenesis does not improve baseline mood but can promote behavioural resilience to chronic stressors](neurogenesis-enhancement-promotes-resilience.md) — related
 - [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related
 - [Older age and male gender were associated with greater resilience to the negative effects of mental health problems on academic performance](age-gender-moderate-mental-health-academic-impact.md) — related
+- [Male students report higher innovativeness, academic resilience, and academic performance than female students, with only a small gender gap in DL self-efficacy](gender-differences-innovation-resilience-performance.md) — related

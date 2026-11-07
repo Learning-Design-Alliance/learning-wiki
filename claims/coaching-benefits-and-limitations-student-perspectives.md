@@ -73,3 +73,4 @@ Same interview analysis; the article reports students found the half-hour sessio
 - [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](perry-beeches-coaching-pupil-engagement-sessions.md) — related
 - [The graduation coach spent 79% of total available time (1029 hours) on intervention, with the Activity Reporting System accounting for over 83% of available time](coach-time-allocation-fidelity.md) — related
 - [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](ccs-perceived-limitations-timing-preparation-anxiety.md) — related
+- [Students attributed improved wellbeing and time management to the programme's coaching-style one-to-one conversations](coaching-linked-wellbeing-gains.md) — related

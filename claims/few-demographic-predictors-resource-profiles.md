@@ -52,3 +52,4 @@ Manual three-step BCH multinomial logistic regression of latent class membership
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
+- [Opportunity gaps in prior chemistry coursework are present among introductory biology students, with historically underserved students reporting less high school chemistry](opportunity-gaps-chemistry-coursework-intro-biology.md) — related

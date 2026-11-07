@@ -64,3 +64,4 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related
 - [Evidence for transfer of SBE-gained knowledge and skills to clinical practice is weak, with scarce control groups and longitudinal studies](sbe-evidence-gaps-transfer-weak.md) — related
+- [Novice learners may require more training sessions and more time to retain non-technical skills trained by simulation](novice-residents-need-more-simulation-sessions-for-retention.md) — a narrower finding that bears on this claim

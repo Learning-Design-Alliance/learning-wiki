@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 138 claims (103 show a difference, 23 mixed, 12 no difference) · 107 studies (38 associational, 17 causal, 17 review, 16 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 15 of 107 report an effect size · 138 claims rest on one study
+> **Evidence** · 139 claims (104 show a difference, 23 mixed, 12 no difference) · 108 studies (38 associational, 17 causal, 17 review, 17 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 15 of 108 report an effect size · 139 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -174,6 +174,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Teacher support and parental involvement correlate positively with self-efficacy, buoyancy, and mathematics performance](../claims/support-correlations-noncognitive-math.md) [+M] — learners who differ on it differ in outcomes
 - [Perceived academic support significantly moderated the negative link between perceived stress and academic performance in Chinese LGBTQ+ college students, but the paper's own slopes show the link was stronger, not weaker, at high support](../claims/academic-support-buffers-stress-performance.md) [~W] — an instructional effect differs with it
 - [Autonomy-supportive parental involvement in Grade 7 (educational trips, education discussion, school contact) positively predicts Grade 8 academic performance](../claims/autonomy-supportive-involvement-predicts-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](../claims/hybrid-student-social-isolation.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

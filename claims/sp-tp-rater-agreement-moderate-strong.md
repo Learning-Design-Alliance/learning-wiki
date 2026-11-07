@@ -51,3 +51,4 @@ Leave-one-out interrater agreement analysis comparing SP scores with a reference
 - [Patient and clinician rater scores sometimes correlate poorly, an undertone used to question patients as assessors](low-patient-physician-score-correlation.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
 - [Simulated patients failed more students than physician examiners in three stations, and inter-rater kappa was mostly non-significant](virtual-osce-sp-failures-kappa.md) — related
+- [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related

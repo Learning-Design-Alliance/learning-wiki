@@ -54,6 +54,7 @@ The article's practical implications recommend that vocational instructors adopt
 - [Use video feedback alongside augmented feedback to support self-efficacy when learning a new psychomotor competency skill](video-feedback-plus-augmented-feedback-strategy.md)
 - [Use virtual simulation resources to prepare students before high-risk or complex experiments](virtual-simulation-prelearning-before-complex-experiments.md)
 - [Recommend weekly blended MOOC-HFS sessions during internship training, prioritizing procedural topics such as corneal refractive surgery](weekly-blended-mooc-hfs-internship-frequency-strategy.md)
+- [Blend video-based instruction with hands-on skill demonstration in nursing skills education](blend-video-with-hands-on-demonstration.md)
 
 ## Examples
 -

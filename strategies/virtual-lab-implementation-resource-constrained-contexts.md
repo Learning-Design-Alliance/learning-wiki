@@ -45,6 +45,7 @@ The review notes that two-thirds of included studies were conducted in high-inco
 ## Related Strategies
 
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
+- [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 
 ## Examples
 -

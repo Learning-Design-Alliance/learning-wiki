@@ -66,6 +66,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 - [Integrate relational and technical competencies in nursing education frameworks to address the assessment gap](integrate-relational-and-technical-competencies-nursing-education.md)
+- [Make student reflection a mandatory component of experiential learning courses to integrate personal, professional, and academic learning](mandatory-reflection-in-el-courses.md)
 
 ## Examples
 -

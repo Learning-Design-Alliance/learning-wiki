@@ -65,3 +65,4 @@ Theoretical argument that prompting effects are uneven across learners, so self-
 
 ## Related Claims
 - [Off-line self-reports of strategy use may not correspond to actual learner behavior due to memory-reconstruction problems](off-line-self-reports-memory-reconstruction-problem.md) — possibly the same claim (merge candidate)
+- [The retrospective design without a control group or basal assessment cannot determine causality between Full Code use and knowledge acquisition](full-code-causality-not-established.md) — related

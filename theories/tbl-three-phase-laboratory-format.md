@@ -55,6 +55,7 @@ Team-based learning (TBL) is a student-centered instructional format that, as th
 - [Team Based Learning](../strategies/team-based-learning.md)
 - [Team Based Learning](../patterns/team-based-learning.md)
 - [Implement TBL for chest radiograph interpretation using pre-class recordings, readiness assurance tests, and the 4S framework](../strategies/tbl-chest-radiograph-session-implementation-strategy.md)
+- [Integrate TBL readiness testing with peer-taught clinical skill practice in dental residency training](../strategies/tbl-pt-integrated-residency-strategy.md)
 
 ## Key Sources
 - Peterson, E.K. and Carrico, P. (2015). Laboratory Exercise in Behavioral Genetics Using Team-based Learning Strategies. Bioscene 41(2). https://visionandchange.org/files/2011/03/Revised-Vision-and-Change-Final-Report.pdf

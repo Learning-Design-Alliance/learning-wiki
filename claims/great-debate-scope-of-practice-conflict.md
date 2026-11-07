@@ -52,3 +52,4 @@ Narrative synthesis of The Great Debate subtheme, reporting that "occupational t
 - [Psychotherapy regulation and supervision requirements vary across Canadian provinces, potentially limiting skill acquisition](inconsistent-provincial-psychotherapy-regulation-supervision.md) — related
 - Included articles span 1927 to 2020, with 81% published between 1996 and 2020 — related
 - Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles — related
+- [Cross-disciplinary disagreement about competence relevance led to competencies being removed or retained against one group's rating](occupational-group-disagreement-shaped-curriculum.md) — related

@@ -42,6 +42,7 @@ The G4L authors used a generative AI assistant to build the knowledge base rapid
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
 - [Hybrid pedagogical framework: AI-generated cases refined through expert review and supplemented with curated imaging data](hybrid-ai-expert-case-generation-framework.md)
+- [Hybrid AI question-development workflow: AI generation with standardized prompts, then expert review, psychometric validation, and continuous monitoring](hybrid-ai-question-generation-expert-validation-workflow.md)
 
 ## Examples
 -

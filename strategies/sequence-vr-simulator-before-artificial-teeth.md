@@ -62,6 +62,7 @@ The article's central design recommendation is to place VR haptic simulator sess
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 - [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
 - [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
+- [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Theme 2 of the interview study (subthemes: manpower resources, leadership, teamw
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Nurses identify observation of patients and environment as the most critical means of preventing psychiatric adverse events](observation-critical-means-preventing-adverse-events.md) — related
+- [Nurses report being discouraged from voluntarily reporting medication errors by blame-oriented cultures and cumbersome procedures](barriers-voluntary-medication-error-reporting.md) — related

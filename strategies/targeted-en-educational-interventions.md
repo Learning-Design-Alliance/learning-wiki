@@ -53,6 +53,7 @@ The article's recommendation for closing enteral nutrition knowledge gaps is str
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Use the validated KAP questionnaire to guide targeted educational interventions and programs for EVD care](evd-kap-questionnaire-guides-targeted-education.md)
 - [Improve ICU nurses' PED competence through systematic professional training, PED assessment tools, and measures promoting independent learning](systematic-ped-training-strategy.md)
+- [Target warfarin education through structured programs, interactive e-learning modules, regular workshops, and case-based training](warfarin-targeted-education-strategy.md)
 
 ## Examples
 -

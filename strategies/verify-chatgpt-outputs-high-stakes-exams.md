@@ -40,6 +40,7 @@ The review recommends that although ChatGPT versions showed potential in answeri
 
 - [Use ChatGPT as a supplementary educational tool alongside traditional study methodology rather than as a standalone resource](chatgpt-as-supplementary-educational-tool.md)
 - [Use LLMs cautiously as supplementary learning tools in dental education, with output verification and professional supervision](cautious-llm-supplementary-tools-dental-education.md)
+- [Use LLMs as a supplementary educational tool in dental education and exam preparation, with reliability evaluated per specialty](llm-supplementary-dental-education-strategy.md)
 
 ## Examples
 -

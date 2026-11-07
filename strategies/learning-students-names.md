@@ -58,9 +58,11 @@ Using students' names lowers the social threshold for participation: students wh
 5. Re-test yourself periodically; if a name slips, ask rather than avoid the student.
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — routine individual check-ins give the instructor repeated name-retrieval opportunities
 - Cold-calling — name knowledge is the precondition for equitable, non-volunteer questioning
 - Community-building norms — name learning is usually the first concrete move in a broader climate strategy
+- [Concrete strategies for building inclusion in hybrid cohorts: induction photos at lectern, leaving audio/camera on after class, extended on-campus breaks, and proactive communication about exam disruptions](hybrid-inclusion-strategies-pa-programme.md)
 
 ## Examples
 - **Elon University's "Name Game" first-day practice** — instructors open courses with structured introductions and commit to full-name use by week two; widely used in faculty development workshops on inclusive teaching.

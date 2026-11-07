@@ -50,3 +50,4 @@ Robustness check using only the first two videorecorded lessons, reported in sup
 - [TSESE, NVI and enthusiastic teaching show no significant direct or longitudinal effects on student interest once baseline interest is controlled](no-direct-effects-on-interest-controlling-baseline.md) — related
 - [Teachers more enthusiastic about teaching mathematics show higher-quality instructional behaviour, both self-reported and student-rated](enthusiasm-for-teaching-predicts-instructional-quality.md) — related
 - [Teachers' self-efficacy for student engagement before the lesson is positively related to their machine-learning assessed nonverbal immediacy during the lesson](tsese-related-to-machine-learning-nvi.md) — related
+- [Common teacher qualities recur across culture, occupation and learning stage, including feedback, enthusiasm, approachability and clear explanations](cross-context-common-teacher-qualities.md) — related

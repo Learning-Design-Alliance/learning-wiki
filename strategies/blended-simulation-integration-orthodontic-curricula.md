@@ -67,6 +67,8 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Use VR simulation as a primer or distance-learning complement to mannequin simulation in a blended approach](vr-as-primer-or-distance-complement-to-mannequin.md)
 - [Multifaceted integration of simulator-based training into medical curricula with adaptive, learner-group-specific teaching methods and qualified supervision](adaptive-sbt-curriculum-integration-strategy.md)
 - [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
+- [Adapt the 5CardsGame format to other healthcare education contexts, including digital versions for remote and self-paced practice](5cardsgame-adaptation-strategy.md)
+- [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
 
 ## Examples
 -

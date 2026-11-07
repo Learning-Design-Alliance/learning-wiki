@@ -55,3 +55,4 @@ Post-session survey using adapted SEEQ and SSES items on a 5-point Likert scale 
 - [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
 - [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — related
 - [Students report positive accountability, preference for TBL over lectures, and satisfaction on the TBL-SAI after the course](tbl-sai-positive-student-assessment.md) — related
+- [TBL + peer teaching cohort showed significantly higher emotional and participation/interaction engagement, with no difference in skills or performance engagement](tbl-pt-engagement-emotional-participation-gains.md) — related

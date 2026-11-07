@@ -45,6 +45,7 @@ The article recommends combining e-learning with hands-on training rather than t
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
 - [Use structured formative supports such as guided self-assessment checklists, benchmark examples, and mid-course feedback to scaffold novice self-evaluation in ultrasound training](structured-formative-support-self-assessment-ultrasound.md)
 - [Include self-measured blood pressure (SMBP) education in BPM curricula](include-smbp-education-strategy.md)
+- [Reinforce central OSCE modules and build integrated teaching modules around strongly connected skills](reinforce-central-modules-integrated-skill-teaching.md)
 
 ## Examples
 -

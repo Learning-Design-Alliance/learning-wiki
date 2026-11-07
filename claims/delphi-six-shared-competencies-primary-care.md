@@ -54,3 +54,4 @@ Three-round online Delphi survey (November 2024–February 2025) with 30 experts
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
 - [Delphi panel reached consensus on six competence areas and 43 learning objectives for dental care of DOP](delphi-consensus-43-learning-objectives-dop.md) — related
 - [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related
+- [The Delphi-derived competence framework shows considerable reliability, with importance-score concordance above 80% in both rounds](delphi-framework-reliability-concordance-over-80.md) — related

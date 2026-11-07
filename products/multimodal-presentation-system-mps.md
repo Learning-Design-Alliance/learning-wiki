@@ -20,6 +20,7 @@ A multimodal presentation and interactive-whiteboard software system developed b
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Mayer's cognitive theory of multimedia learning (CTML) as the design basis for the MPS**: The article grounds the MPS in Mayer's cognitive theory of multimedia learning, an information-processing model integrating Sweller's cognitive load theory, Paivio's dual-coding theory, and Baddeley's working memory model. CTML rests on "three main assumptions (dual channel, limited capacity, and active processing)" and proposes seven principles including the multimedia, spatial and temporal contiguity, coherence, modality, redundancy, and individual differences principles. The authors used the modality principle — that students learn better when words are presented as spoken rather than printed text — to justify presenting materials in auditory and visual modalities. (Kuo et al. (2013))
 
 ### Claims
 

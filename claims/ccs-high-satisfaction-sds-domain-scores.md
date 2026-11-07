@@ -55,3 +55,4 @@ Quantitative component of a descriptive mixed-methods study: 103 second-year nur
 - [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related
 - [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — related
 - [Nursing students report high satisfaction with creating educational videos, with applicability rated highest (4.12 ± 0.59) and complexity lowest (3.47 ± 0.69)](nursing-students-high-satisfaction-video-creation.md) — related
+- [Nursing students rate support, objectives and information, and fidelity as the highest-rated simulation design dimensions](jordan-students-rate-support-objectives-fidelity-highest-sds.md) — reports the opposite

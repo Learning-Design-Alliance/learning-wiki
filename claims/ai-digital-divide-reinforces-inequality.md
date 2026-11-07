@@ -110,3 +110,4 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Young new farmers show high acceptance and proficiency with digital technologies and platforms.](young-new-farmers-digital-technology-acceptance.md) — related
 - [The SIAPeC Quiz revealed a gap in digital resource literacy among trainees](siapec-quiz-digital-resource-literacy-gap.md) — related
+- [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — a narrower finding that bears on this claim

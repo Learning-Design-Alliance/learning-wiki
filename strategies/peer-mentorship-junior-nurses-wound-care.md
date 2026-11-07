@@ -50,6 +50,7 @@ The article recommends that hospitals "Formalize clinical peer‐mentorship prog
 - [Leverage the NICU stay as a teachable moment for structured vaccine counseling by nurses and midwives](nicu-teachable-moment-vaccine-counseling.md)
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
+- [Implement sepsis care bundles and formal sepsis training modules during healthcare student training](sepsis-care-bundles-during-training-strategy.md)
 
 ## Examples
 -

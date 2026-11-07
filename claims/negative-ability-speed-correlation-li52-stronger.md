@@ -72,3 +72,4 @@ Same person-parameter analysis across the five nested models per test. The autho
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
 - [Higher prior proficiency is associated with faster step-level response-time propensities](higher-proficiency-faster-step-responses.md) — possibly the same claim (merge candidate)
 - [Response acceleration is heterogeneous by ability: lower ability estimates are associated with larger increases in acceleration](acceleration-heterogeneous-by-estimated-ability.md) — related
+- [Higher first-test scores correlated with faster first-test completion (r = -0.547), and scores correlated across tests](5cardsgame-score-time-correlations.md) — possibly the same claim (merge candidate)

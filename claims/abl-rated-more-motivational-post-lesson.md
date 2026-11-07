@@ -50,3 +50,4 @@ Post-lesson survey of both groups after the same five chapters taught by the sam
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [MDT-CBL produced the greatest increase in learning interest versus lecture-based learning, but 3D-PBL was the only top-ranked option with high-quality evidence](mdt-cbl-greatest-learning-interest-gains.md) — related
+- [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related

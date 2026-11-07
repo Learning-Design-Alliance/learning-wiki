@@ -47,3 +47,4 @@ Quasi-experimental comparison of MUSIC Inventory responses between Fall 2025 (n 
 ## Related Claims
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related
 - [Office hours attendance and Piazza posting declined over prior semesters and rose in Fall 2025 when LLMs and retakes were allowed](help-seeking-decline-then-rise-dura-semester.md) — related
+- [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](quiz-retakes-increase-relatedness.md) — related

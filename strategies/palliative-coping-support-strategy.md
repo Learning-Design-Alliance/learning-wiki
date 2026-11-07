@@ -47,6 +47,7 @@ The article recommends that palliative care curricula complement active and expe
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
+- [Make student reflection a mandatory component of experiential learning courses to integrate personal, professional, and academic learning](mandatory-reflection-in-el-courses.md)
 
 ## Examples
 -

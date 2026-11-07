@@ -55,3 +55,4 @@ Internal-structure analysis of the first simulation round (33 participants, two 
 - [Internal consistency of the tool's three category scores is satisfactory, with Cronbach's α of 0.84 for positive and mixed videos and 0.91 for the negative video](fbat-internal-consistency-cronbach.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [Internal consistency of ANTStr scores is high for both raters (Cronbach's alpha 0.83–0.94)](antstr-internal-consistency-cronbach-alpha.md) — related
+- [The five-scenario IC-MD achieves satisfactory inter-rater reliability (ICC = 0.627) and generalizability (Eρ² = 0.642), though participant × scenario variance exceeds participant variance](ic-md-reliability-generalizability.md) — related

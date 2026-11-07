@@ -49,6 +49,8 @@ The article's forward-looking design recommendations for community care simulati
 - [Engage observers as active learners throughout the post-simulation debrief, seeking their input before the performing participant](observer-engagement-during-debriefing.md)
 - [Staged pre-briefing preparation before a simulation scenario (written material, online class, laboratory practice)](staged-pre-briefing-preparation-sequence.md)
 - [Structure group supervision content in advance and pair it with direct, pool-based supervision for novices](structured-group-supervision-with-direct-complement-strategy.md)
+- [Share the simulation scenario with learners in advance and repeat the scenario within sessions](advance-scenario-sharing-and-repetition-strategy.md)
+- [Design simulation laboratories with strong student support, clear objectives and information, high fidelity, and active learning strategies](simulation-design-support-objectives-fidelity-active-learning-strategy.md)
 
 ## Examples
 -

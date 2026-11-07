@@ -49,3 +49,4 @@ Pre- and post-training paired ordinal surveys from 30 veterinary students in a c
 - [Integrated instructional videos increased first-year medical students' self-reported confidence performing spine/gait examinations compared with standard preparation materials](integrated-video-confidence-spine-gait-examination.md) — related
 - [Integrated instructional videos increased upper limb examination confidence and perceived explanation quality among first-year medical students](integrated-video-confidence-upper-limb-examination.md) — related
 - [Self-reported confidence progressively increased across the four training steps, from median 2 after the video to median 4 after final evaluation](sbml-probing-confidence-progression.md) — related
+- [Hybrid POCUS certification program participants' self-reported confidence improved significantly from pre-program to post-program](pocus-confidence-improved-hybrid-certification.md) — related

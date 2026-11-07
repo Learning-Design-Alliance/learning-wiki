@@ -49,3 +49,4 @@ Cluster-randomized multicenter pre–post study of 29 trauma teams (186 particip
 - [Retrospective self-assessed CRM-related competencies improve significantly after in-situ ATLS®-based trauma team training, with a small mean gain relative to the scale range](in-situ-trauma-simulation-crm-self-assessed-gains.md) — related
 - [Simulation training significantly but more modestly increases communication similarity in trauma teams](simulation-training-increases-communication-similarity.md) — related
 - [Simulation training significantly increases task responsibility similarity in trauma teams, with a large time effect](simulation-training-increases-task-responsibility-similarity.md) — related
+- [Teamwork ability and clinical thinking ability scores rose from pretraining to day 1 after simulation and day 30 of clinical practice in one single-group pre-post study (Kirkpatrick learning level)](cpr-training-improves-teamwork-clinical-thinking.md) — related

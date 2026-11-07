@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 417 claims (276 show a difference, 98 mixed, 43 no difference) · 297 studies (104 associational, 102 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 81 of 297 report an effect size · 405 claims rest on one study
+> **Evidence** · 418 claims (276 show a difference, 98 mixed, 44 no difference) · 298 studies (104 associational, 103 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 81 of 298 report an effect size · 406 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -467,6 +467,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Changes in growth mindset predicted changes in math grades only within the intervention group (r = .171), providing indirect evidence for the mindset mechanism.](../claims/explore-your-brain-mindset-math-change-correlation.md) [~W] — learners who differ on it differ in outcomes
 - [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](../claims/flipped-classroom-raises-autonomous-learning-motivation.md) [+M] — measured as an outcome of the instruction studied
 - [The growth mindset intervention increased students' growth mindset endorsement directly after the intervention (d = .38) and at 1-year follow-up (d = .25) versus an active control.](../claims/explore-your-brain-mindset-gains-post-and-followup.md) [+M] — measured as an outcome of the instruction studied
+- [In a short-timeframe vocabulary-learning experiment, achievement shows a unilateral effect on subsequent intrinsic motivation, with no reciprocal motivation→achievement effect](../claims/unilateral-achievement-to-motivation-no-reciprocity-short-timeframe.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

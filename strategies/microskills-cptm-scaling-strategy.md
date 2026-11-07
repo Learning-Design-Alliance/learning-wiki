@@ -63,6 +63,7 @@ To address scalability, the authors recommend that "future implementations in re
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Recommendations for future interprofessional OMP workshops: balance professions, stress efficiency, add a follow-up session, and refine micro-skill wording](interprofessional-omp-workshop-implementation-recommendations.md)
+- [Phased implementation strategy for adopting design-thinking flipped classrooms: pilot small, train teachers, provide demonstrations and feedback](phased-dt-flipped-adoption-strategy.md)
 
 ## Examples
 -

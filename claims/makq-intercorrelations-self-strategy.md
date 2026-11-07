@@ -53,3 +53,4 @@ Pearson correlations among the three MAKQ dimensions in Study One (N = 293), all
 - [All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly](positive-correlations-among-graduate-attribute-measures.md)
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md)
 - [Metacognitive awareness is weakly correlated with intelligence and independently predicts performance (review-reported)](metacognitive-awareness-independently-predicts-performance.md) — related
+- [Scores on the GGR and VLAT data visualization literacy assessments are moderately correlated (ρ = 0.56)](vlat-ggr-moderate-score-correlation.md) — related

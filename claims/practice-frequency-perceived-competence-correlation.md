@@ -52,3 +52,4 @@ Spearman correlation analysis in the same one-group pretest–posttest study of 
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
 - [Students' self-evaluations of suturing techniques correlate positively with their post-course test scores](self-evaluation-correlates-with-post-test.md) — related
+- [A moderate positive but non-significant correlation between post-module four confidence and final competency (r = 0.585, p = 0.059)](confidence-competency-correlation-pocus.md) — related

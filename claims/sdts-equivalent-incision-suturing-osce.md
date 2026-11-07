@@ -50,3 +50,4 @@ Randomized controlled trial of 56 surgical interns comparing SDTS (n = 31) with 
 - [SDTS requires substantially less total training time than traditional teaching in both skill modules](sdts-shorter-training-duration.md) — related
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
 - [No significant difference between e-learning and video groups in satisfaction, perceived duration, or perceived difficulty](no-difference-satisfaction-duration-difficulty.md) — related
+- [TBL + peer teaching cohort outperformed the traditional cohort on complex OSCE procedures (pulpotomy, tooth preparation, incision and suturing, curettage, patient intake) but not on routine skills (rubber dam, periodontal probing)](tbl-pt-osce-complex-not-routine-skills.md) — related

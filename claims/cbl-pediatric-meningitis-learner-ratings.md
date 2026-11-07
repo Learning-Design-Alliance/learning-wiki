@@ -50,3 +50,4 @@ Anonymous postsession learner evaluation survey (61.3% response rate) at two res
 - [Facilitators reported reduced preparation time using the CBL module compared with preparing didactic teaching materials de novo](cbl-pediatric-meningitis-facilitator-prep-time.md) — related
 - [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related
 - [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related
+- [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related

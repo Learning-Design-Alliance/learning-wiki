@@ -51,3 +51,4 @@ Cross-case qualitative finding from the Program Appeal/Feasibility section. Seve
 - [Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility](workforce-micro-credential-success-practices.md) — a broader claim this one bears on
 - [Teachers rated Session 1 DVD episodes and Prankster Planet as the most appealing TEC elements and worksheets as least appealing](tec-element-appeal-rankings.md) — related
 - [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
+- [Students with less prior chemistry coursework used the optional intervention modules more, while overall module use was 35%](module-usage-less-chemistry-experience.md) — related

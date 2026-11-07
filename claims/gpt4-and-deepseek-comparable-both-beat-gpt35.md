@@ -49,3 +49,4 @@ Cross-model comparison in the Results section: the four Chinese LLMs' NMLE resul
 - [DeepSeek achieved the highest overall NMLE performance among the four Chinese LLMs tested](deepseek-highest-chinese-llm-nmle-performance.md) — related
 - [GPT-4 performed comparably to average human NMLE examinees, DeepSeek slightly exceeded them, and no tested LLM reached the top-10% human threshold](llm-nmle-performance-versus-human-examinees.md) — related
 - [GPT-4's accuracy was significantly higher than GPT-3.5's in all four NMLE units (2018-2024)](gpt4-significantly-outperforms-gpt35-all-nmle-units.md) — a narrower finding that bears on this claim
+- [GPT-4o achieves significantly higher overall accuracy than GPT-4 and GPT-3.5 on the 2020 and 2021 Chinese NMLE](gpt4o-highest-accuracy-chinese-nmle.md) — related

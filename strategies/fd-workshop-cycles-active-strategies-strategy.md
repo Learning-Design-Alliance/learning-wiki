@@ -55,6 +55,7 @@ The article's FD project offered 11 face-to-face workshop cycles of about 20 hou
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Provide teachers about 240 hours of face-to-face professional development over two years, with workshop formats scaled to school schedules](emints-240-hours-pd-two-years.md)
+- [Use CTDR-derived teacher characteristics to develop faculty development programs and evaluation criteria for supervising dentists](fd-programs-from-ctdr-teacher-characteristics.md)
 
 ## Examples
 -

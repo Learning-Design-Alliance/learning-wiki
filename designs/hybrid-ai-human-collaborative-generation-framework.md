@@ -17,7 +17,7 @@ sources:
 # Hybrid AI-human collaborative generation framework for examination design
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 design), `q3` · 1 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a hybrid "AI-human collaborative generation" framework that combines automated item generation with human expert calibration, integrating medical knowledge graphs for contextual optimization of items. It is motivated by the finding that AI papers achieved breadth and efficiency but lacked clinical contextualization and discrimination, so automation is balanced "with assessment precision". The framework positions AI as augmentation of, not replacement for, human expertise in assessment design.

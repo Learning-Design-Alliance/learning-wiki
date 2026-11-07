@@ -70,3 +70,5 @@ Survey item on relative testing anxiety, reported as percentages of respondents;
 ## Related Claims
 - [Content-retention scores rose from initial exam to final exam among students who initially failed to master microbiology course material and mastered it during oral examination retesting](oral-retest-improves-retention-low-performers.md) — related
 - [Final-exam performance of students who initially mastered material is indistinguishable from that of students who used the oral retest intervention](oral-retest-closes-retention-gap.md) — related
+- [In-class quiz retakes improved undergraduate students' perceptions of their competence in STEM course material](quiz-retakes-improve-perceived-competence.md) — related
+- [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](retake-participation-and-improvement-quantitative.md) — related

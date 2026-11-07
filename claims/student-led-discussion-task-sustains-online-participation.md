@@ -60,3 +60,4 @@ Observational analysis of SNAPP visualisations of discussion-board interactions 
 - [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](asynchronous-video-enhances-social-presence-covid.md) — related
 - [Peer-led learning is associated with higher post-secondary cognitive achievement than non-peer-led learning, with a moderate pooled effect of g = 0.36](pll-moderate-positive-effect-cognitive-achievement.md) — related
+- [Gas exchange question scores did not differ between small groups led by study coauthors versus nonauthors (74.7% vs. 75.8%)](no-facilitator-author-effect-on-gas-exchange-scores.md) — related

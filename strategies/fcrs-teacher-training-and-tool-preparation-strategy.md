@@ -43,6 +43,7 @@ From the study's recommendations, teachers should be trained to use FCRS in mode
 
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
 - [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
+- [Phased implementation strategy for adopting design-thinking flipped classrooms: pilot small, train teachers, provide demonstrations and feedback](phased-dt-flipped-adoption-strategy.md)
 
 ## Examples
 -

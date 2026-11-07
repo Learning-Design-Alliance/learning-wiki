@@ -60,3 +60,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related
 - [Demographic covariates (gender, age, birthplace, student cadre status, voluntary career choice) show no significant association with theoretical, practical, SRSSDL or CTDI-CV outcomes](demographics-not-associated-with-ltc-training-outcomes.md) — related
 - [Higher GPA, unmarried status and more positively perceived orientation programs are associated with higher readiness for practice](gpa-marital-status-orientation-predict-readiness.md) — related
+- [Age, gender, job position, and hospital type did not significantly predict nurses' warfarin-related knowledge scores](demographics-not-significant-warfarin-knowledge-predictors.md) — related

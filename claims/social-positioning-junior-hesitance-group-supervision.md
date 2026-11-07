@@ -51,3 +51,4 @@ Focus group finding interpreted through social positioning theory: balancing the
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Low psychological readiness and fear of complications cause hesitancy and referral preferences among junior staff administering MgSO4](low-confidence-mgso4-hesitancy.md) — related
 - [Group supervision is valued because aquatic physiotherapy is a specialised area practised infrequently, leaving little other dedicated reflection time](specialised-infrequent-practice-drives-supervision-value.md) — related
+- [Junior nurses hesitate to seek guidance from senior colleagues and physicians about medication procedures, creating error risk](junior-nurse-communication-hesitation-medication-errors.md) — related

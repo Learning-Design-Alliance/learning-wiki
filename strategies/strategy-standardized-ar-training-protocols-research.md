@@ -58,6 +58,7 @@ The authors' forward-looking research and design recommendation for AR in surgic
 - [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
 - [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
 - [Prioritise flexible, ergonomically adaptable haptic input devices and standardised, longer training protocols in future VR surgical training research](flexible-haptic-input-devices-and-standardised-protocols-strategy.md)
+- [Strengthen interinstitutional collaboration and investigate emerging technologies (3D printing, augmented reality) in simulation-based medical education research](strengthen-collaboration-emerging-technologies-strategy.md)
 
 ## Examples
 -

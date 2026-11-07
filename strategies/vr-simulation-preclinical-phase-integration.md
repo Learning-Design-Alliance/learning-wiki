@@ -51,6 +51,7 @@ The article recommends that simulation-based training with VR platforms "may be 
 - [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
 - [Integrate sharp object injury management modules into the preclinical curriculum and implement a simplified mandatory reporting system with increased faculty oversight](soi-curriculum-modules-and-mandatory-reporting-strategy.md)
 - [Deliver 360-video/VR orientation resources before first clinical exposure, timed to the pre-clinical years and in concise, accessible formats](timed-preclinical-360-video-delivery-strategy.md)
+- [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 
 ## Examples
 -

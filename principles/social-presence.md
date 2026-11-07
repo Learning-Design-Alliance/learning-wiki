@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (36 for, 15 mixed, 1 against) · 42 studies (9 causal, 8 review, 7 associational, 7 qualitative, 6 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 42 report an effect size · 49 claims rest on one study
+> **Evidence** · 53 claims (37 for, 15 mixed, 1 against) · 43 studies (9 causal, 8 review, 8 qualitative, 7 associational, 6 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 43 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims and sources this page touches that have not been read against the model a
 - [The benefits of social interaction during online classes have limits: more is not always better, quality matters, and some students may find interactive courses burdensome](../claims/social-interaction-limits-not-panacea.md) [~W] — attached 2026-10-29 from Gherghel et al. (2023), which proposed "Design online classes with deliberate opportunities for social interaction, because interactivity fosters engagement and spillovers into self-directed study".
 - [Intra-group emotional support has a positive and significant influence on collaborative learning.](../claims/emotional-support-drives-collaborative-learning.md) [+W] — attached 2026-10-30 from Hernández-Sellés et al. (2019), which proposed "Design online collaborative learning to intentionally build intra-group emotional support, not just cognitive interaction."; tests this page's relationship.
 - [Proposed course provides highest human interaction among compared courses](../claims/proposed-course-highest-human-interaction.md) [+W] — attached 2026-10-31 from El Ansari Walid et al. (2025), which proposed "Embrace the human factor through synchronous and asynchronous communication in online courses".
+- [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](../claims/hybrid-student-social-isolation.md) [+W] — attached 2026-11-07 from Joyce P et al. (2025), which proposed "Sustain ongoing, responsive programme engagement with hybrid students and build lecturer capacity for inclusive synchronous delivery, because hybrid learning alone does not guarantee an inclusive environment".
 
 ## Objective and learner-valued goal
 

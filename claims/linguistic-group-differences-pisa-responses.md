@@ -47,3 +47,4 @@ Descriptive analysis of response characteristics (Table 4) across gender and hom
 ## Related Claims
 - [The most predictive linguistic features differ across datasets, overlapping only in lexical diversity measures](aes-predictive-features-not-generalizable-across-corpora.md) — related
 - [Feature operationalization can reverse the direction of the relationship with essay score, as with document length and TTR variants](feature-operationalization-reverses-score-relationship.md) — related
+- [IC-MD performance is fair regarding age and gender, but native German speakers and applicants with ≥ 6 months healthcare work experience score significantly higher](ic-md-fairness-language-work-experience.md) — related

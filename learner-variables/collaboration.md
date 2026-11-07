@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 160 claims (127 show a difference, 23 mixed, 10 no difference) · 137 studies (50 causal, 28 review, 23 qualitative, 11 quant-synthesis, 10 design, 9 associational, 6 theoretical), `q1`–`q3` · 11 of 137 report an effect size · 160 claims rest on one study
+> **Evidence** · 162 claims (129 show a difference, 23 mixed, 10 no difference) · 139 studies (51 causal, 28 review, 23 qualitative, 11 quant-synthesis, 10 associational, 10 design, 6 theoretical), `q1`–`q3` · 11 of 139 report an effect size · 162 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -202,6 +202,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [An escape room intervention improved clinical reasoning and teamwork skills among fourth-year nursing students](../claims/escape-room-nursing-clinical-reasoning-teamwork.md) [+M] — measured as an outcome of the instruction studied
 - [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](../claims/sbe-multidisciplinary-teamwork-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Interprofessional CPR training with MAES is perceived by nursing and medical students to enhance teamwork and nontechnical skill development](../claims/maes-ipe-enhances-teamwork-perceptions.md) [+M] — measured as an outcome of the instruction studied
+- [91% of students reported improved confidence working in a team and 90% reported teamwork developed interpersonal skills](../claims/el-teamwork-confidence-gains-91-percent.md) [+M] — measured as an outcome of the instruction studied
+- [Teamwork ability and clinical thinking ability scores rose from pretraining to day 1 after simulation and day 30 of clinical practice in one single-group pre-post study (Kirkpatrick learning level)](../claims/cpr-training-improves-teamwork-clinical-thinking.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.
