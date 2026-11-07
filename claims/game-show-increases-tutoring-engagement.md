@@ -50,7 +50,7 @@ Process-data comparison between Game Show and Baseline conditions in the classro
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — a broader claim this one bears on
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
-- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
+- [A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
 - [Learning-by-teaching games position students as tutors of a teachable virtual agent for basic mathematics](learning-by-teaching-teachable-agent-math-games.md) — a broader claim this one bears on
 - [A competition environment increases learners' motivation toward the instructional game](competition-increases-motivation-imms.md) — related
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](correlations-post-test-game-measures.md) — related

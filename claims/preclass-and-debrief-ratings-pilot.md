@@ -51,3 +51,4 @@ Two descriptive survey findings from the pilot (n = 62): pre-class preparation (
 - [Pre-reading annotations made with VPEN revealed students' prior knowledge and preparation, helping the instructor prepare the lecture in advance](prereading-annotations-inform-instructor.md) — related
 - [Most pharmacy students (93.5%) rated real prescriptions as highly effective for course engagement](real-prescriptions-engagement-rating-pilot.md) — related
 - [Students judged the module's time scope appropriate and prior knowledge sufficient, but rated content difficulty as slightly too high](time-difficulty-ratings-radiotherapy-module.md) — related
+- [Participants rated the liver model positively and 93% deemed it helpful preparation for clinical practice](participants-rate-liver-model-helpful.md) — related

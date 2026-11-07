@@ -48,3 +48,4 @@ Descriptive synthesis of patient safety indicators across included studies, incl
 - [Senior trainees scored approximately 30–40% higher than juniors on technical performance measures in simulation studies](senior-junior-technical-performance-gap-simulation.md) — related
 - [Teams with part-task congruent tools adjusted their representations across phases—broad causal representations first, then more selective algebraic specification—unlike single-tool teams](matched-tools-phase-appropriate-representations.md) — related
 - [Critical checklist steps focus on preventing acute hemolytic transfusion reaction from ABO incompatibility](critical-steps-prevent-acute-hemolytic-transfusion-reaction.md) — related
+- [Five of 22 teams (23%) were classified as high-performing based on timely dantrolene administration and appropriate MH treatment actions](five-of-22-teams-high-performing-mh-simulation.md) — related

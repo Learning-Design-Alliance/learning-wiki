@@ -49,3 +49,4 @@ Multivariable linear mixed-effects model for the knowledge subscale among 610 nu
 - [More recent frailty education is independently associated with higher total KAP scores among nurses](frailty-education-recency-associated-kap.md) — related
 - [Nurses in southwestern China show moderately high frailty-management KAP, with attitude scoring highest and practice lowest relative to its maximum](nurses-frailty-kap-attitude-high-practice-low.md) — related
 - [Higher education, specialised experience, recent training, and seniority are associated with better knowledge, attitudes, and practices.](education-training-seniority-better-kap.md) — related
+- [Nurses' frailty-management knowledge, attitudes, and practices show weak positive correlations with one another](weak-positive-kap-correlations-frailty-nurses.md) — related

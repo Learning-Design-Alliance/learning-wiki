@@ -47,3 +47,4 @@ Item-level comparison of a 6-item learner-reported questionnaire (Cronbach's α 
 ## Related Claims
 - [Phantom-based lesion-recognition performance ranged from 78.6% to 86.5% across assessed domains, highest for scanning and lowest for preliminary diagnosis](lesion-recognition-task-performance-phantom.md) — related
 - [Integrating a structured phantom-assisted simulation module into residency teaching is associated with higher SP-based abdominal ultrasound OSCE scores among novice residents](phantom-assisted-simulation-improves-abdominal-ultrasound-osce.md) — related
+- [Participants report increased interest in interventional radiology and perceived skill gains after simulator training](simulator-training-increases-ir-interest-and-perceived-skills.md) — related

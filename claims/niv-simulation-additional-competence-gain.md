@@ -48,3 +48,4 @@ Wilcoxon comparison of COM-VA scores between the posttheoretical-practical and p
 - [Self-perceived clinical competence (COM-VA) increased significantly from a median of 6.82 preintervention to 7.38 postsimulation](niv-training-comva-competence-increase.md) — related
 - [Nursing students' and professionals' NIV knowledge rose from 82.2% correct preintervention to 90.2% postsimulation after a combined theoretical-practical and simulation-based intervention, in one uncontrolled pre-post study](niv-training-knowledge-gain-82-to-90-percent.md) — related
 - [The larger knowledge gain was observed after theoretical-practical formation, with a further, smaller rise after simulation, in one group with no comparison group](niv-theoretical-phase-largest-knowledge-gain-simulation-additional.md) — related
+- [High-fidelity simulation significantly increases both state and trait STAI scores in sixth-year medical students](simulation-increases-state-and-trait-stai.md) — related

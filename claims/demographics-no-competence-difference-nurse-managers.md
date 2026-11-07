@@ -59,3 +59,4 @@ Bivariate non-parametric comparisons (Mann–Whitney U, Kruskal–Wallis) across
 - [Perceived autonomy, training, and dressing confidence showed no significant associations with years of experience or health area](no-competence-differences-experience-health-area.md) — related
 - [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — related
 - [Compassion competence differed by work experience and grade point average but not by gender or age, and caring behaviours showed no sociodemographic differences except semester](compassion-competence-sociodemographic-differences-tabriz.md) — related
+- [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related

@@ -53,3 +53,4 @@ Cross-sectional survey of EM residency program directors; barriers reported in t
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [About half of responding EM residency programs have simulation fellowship-trained faculty, and only 27.4% offer a simulation fellowship or scholarly track](simulation-fellowship-faculty-half-programs.md) — related
 - [Nearly one-third of Mini-CEX students cited limited faculty availability and insufficient training as implementation barriers](mini-cex-faculty-availability-barriers.md) — related
+- [Implementing a VR simulation curriculum requires extensive upfront resource investment, including equipment costs, cocreation time, and ongoing software maintenance](vr-curriculum-resource-investment-barriers.md) — possibly the same claim (merge candidate)

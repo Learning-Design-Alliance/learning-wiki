@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-06
 sources:
   - id: jaebong-yoo-jihie-kim-2014
     resource: "https://doi.org/10.1007/s40593-013-0010-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` APTTD correlates r = .21 (p < .01) with grade and has the second largest regression coefficient B = .20 (p < .001); procrastinating groups tend to get lower grades. [→ Jaebong Yoo & Jihie Kim 2014](#jaebong-yoo-jihie-kim-2014)
@@ -52,3 +53,5 @@ Regression analysis with grade as dependent variable over N = 173 groups; Table 
 - [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](discussion-participation-predicts-project-grade.md) — related
 - [Greater procrastination (more days to hand in tasks) was associated with lower final marks.](procrastination-associated-with-lower-marks.md) — related
 - [Specific Facebook activities predict grades in opposite directions: initiating projects, uploading and tagging videos positively; playing games and non-game applications negatively](facebook-activity-type-predicts-grades.md) — related
+- [Seminar-linked videos and earlier release timing are associated with higher video viewing, viewing index and question response, and lower non-access](seminar-status-and-early-release-drive-engagement.md) — related
+- [Earlier-released videos retain more audience in a flipped medical course](earlier-videos-higher-audience-retention.md) — related

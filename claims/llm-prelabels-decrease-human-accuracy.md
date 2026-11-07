@@ -51,3 +51,4 @@ A position paper on reliability and validity in AI in education. It reports, as 
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — related
 - [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — a narrower finding that bears on this claim
+- [Human review of GPT-4's explanations reduced overall accuracy from 43.9% to 40.3% and 39.1%, driven mainly by LOTS and recall questions](human-curation-lowered-gpt4-accuracy-lots-recall.md) — a narrower finding that bears on this claim

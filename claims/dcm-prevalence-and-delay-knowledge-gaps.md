@@ -47,3 +47,4 @@ Descriptive results from the survey's general‐knowledge section: “39.81% wer
 - [Over half of MSK physiotherapists express anxiety about missing a DCM diagnosis](dcm-missed-diagnosis-anxiety-majority.md) — related
 - [MSK physiotherapists recognise conventional DCM symptoms well but unconventional symptoms poorly](dcm-symptom-awareness-conventional-vs-unconventional.md) — related
 - [Most MSK physiotherapists report DCM was not covered, or coverage not recalled, in undergraduate training, and most want further DCM training](dcm-undergraduate-education-gap-and-training-demand.md) — related
+- [Epinephrine knowledge was incomplete: only 56% correctly identified it as the preferred initial treatment for severe reactions](epinephrine-initial-treatment-only-56-percent.md) — related

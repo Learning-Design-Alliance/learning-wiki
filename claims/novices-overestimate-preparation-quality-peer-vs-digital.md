@@ -47,3 +47,6 @@ Comparison of peer evaluation (n = 233) and digital evaluation (n = 226) of the 
 ## Related Claims
 - [Digital group students achieved higher Class II cavity preparation exam scores than traditional group students after colored-tooth and digital-evaluation training](colored-teeth-digital-evaluation-higher-exam-scores.md) — related
 - [Students preferred the digital evaluation system as process guidance rather than a scoring tool, and 73.33% chose the combined Teacher + Digital evaluation + Colored tooth teaching mode](student-preference-guidance-over-scoring-integrated-mode.md) — related
+- [Repeated practice with the Aizhixing digital real-time evaluation system significantly reduced Class II cavity preparation operation time across four examinations](aizhixing-practice-reduces-operation-time.md) — related
+- [Result scores on the Aizhixing system tended to increase from earlier to later examinations after practice repetitions in one group with no comparison group, but the trend was not statistically significant](aizhixing-score-trend-not-significant.md) — related
+- [Participants unanimously endorsed using Aizhixing for students while reporting handpiece discomfort and overly deep standard cavity settings](questionnaire-support-and-caveats-aizhixing.md) — related

@@ -72,3 +72,5 @@ The same correlation analysis among male students at post-instruction found GPA 
 - [No significant sex differences in incoming GPA or physics course grade despite sex differences in anxiety](no-sex-difference-gpa-physics-grade.md) — related
 - [Male physics students show significant anxiety–tripartite-network connectivity correlations at pre- and post-instruction, while female students show none](male-specific-anxiety-network-connectivity.md) — related
 - [Female undergraduate physics students report higher science, spatial, math, and clinical anxiety than male students at both pre- and post-instruction](sex-differences-stem-anxiety-physics-students.md) — related
+- [Anxiety and loneliness show moderate negative correlations with GPA among physiotherapy students](anxiety-loneliness-moderate-negative-gpa-correlations-physiotherapy.md) — related
+- [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related

@@ -65,3 +65,6 @@ Prospective single-center pre-post educational intervention with 113 fifth-year 
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related
 - [Overall end-of-clerkship performance of fifth-year medical students was significantly higher after simulation-based learning was integrated into the pediatric curriculum](sbl-improves-overall-pediatric-clerkship-performance.md) — related
 - [Participation in a student-led procedure training session significantly increased preclinical medical students' self-reported confidence in performing all four trained procedures](slpts-increases-procedure-confidence.md) — related
+- [A one-hour BMAT simulation program significantly improves medical students' self-evaluation, self-confidence, interest, and knowledge (p≤0.001)](bmat-simulation-improves-student-self-report-and-knowledge.md) — related
+- [The podcast increased students' confidence in nephrology clinical skills but did not change intention to specialize in nephrology](osce-podcast-confidence-not-career-intention.md) — related
+- [Participants report increased interest in interventional radiology and perceived skill gains after simulator training](simulator-training-increases-ir-interest-and-perceived-skills.md) — related

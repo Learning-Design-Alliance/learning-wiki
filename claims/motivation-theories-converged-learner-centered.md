@@ -46,7 +46,7 @@ Theoretical argument by the author reviewing the history of the field since the 
 
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a narrower finding that bears on this claim
-- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — a narrower finding that bears on this claim
+- [A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting](well-designed-games-foster-practice-and-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - The constellation of dominant motivation theories in educational psychology has changed very little over recent decades — related

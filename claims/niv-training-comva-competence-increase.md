@@ -47,3 +47,4 @@ Nonparametric analysis (Friedman and Wilcoxon tests) of validated COM-VA questio
 ## Related Claims
 - [COM-VA scores rose 0.08 points from postclass (7.30) to postsimulation (7.38), a statistically significant 1.17% change in one group with no comparison group](niv-simulation-additional-competence-gain.md) — related
 - [Nursing students' and professionals' NIV knowledge rose from 82.2% correct preintervention to 90.2% postsimulation after a combined theoretical-practical and simulation-based intervention, in one uncontrolled pre-post study](niv-training-knowledge-gain-82-to-90-percent.md) — related
+- [High-fidelity simulation significantly increases both state and trait STAI scores in sixth-year medical students](simulation-increases-state-and-trait-stai.md) — related

@@ -48,6 +48,7 @@ Based on the observed knowledge attrition and the insufficiency of purely didact
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 - [Adopt hybrid CBL-SST-simulator teaching for preclinical clinical-reasoning and communication goals while retaining LBL for foundational knowledge](hybrid-cbl-sst-adoption-strategy-preclinical-dental.md)
+- [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
 
 ## Examples
 -

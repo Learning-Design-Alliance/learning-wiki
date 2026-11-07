@@ -49,3 +49,4 @@ Cross-lagged panel analyses (both models) in the four-wave sample of 672 adolesc
 - [Mathematics shows the most heterogeneous reciprocal pattern, with early reciprocal links to emotional problems and prosocial behavior and negative externalizing-to-math paths](mathematics-reciprocal-behavior-effects.md) — related
 - [Positive risk-taking behaviors exert sustained positive effects on subsequent academic achievement across one academic year in Chinese adolescents](positive-risk-taking-sustained-positive-effect-academic-achievement.md) — related
 - [Positive risk-taking behaviors show a transient negative effect on subsequent academic engagement (T2→T3) with no other significant cross-lagged paths](positive-risk-taking-transient-negative-effect-academic-engagement.md) — related
+- [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — related

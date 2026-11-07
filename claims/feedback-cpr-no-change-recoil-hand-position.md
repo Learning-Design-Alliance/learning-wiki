@@ -50,3 +50,4 @@ Same 43-student randomized controlled trial, first-attempt comparison with and w
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Manikin audiovisual feedback reveals low overall compression accuracy (17%) despite adequate rate and recoil](cpr-manikin-feedback-quality-metrics.md) — related
 - [A higher proportion of students reached the excellent performance level with the feedback-equipped device than without it](feedback-device-more-excellent-level-cpr.md) — related
+- [The automatic CPR assessment system shows lower error than human raters on hand, arm and shoulder position items but higher error on compression depth and rate, which depend on human-object interaction the model does not capture.](aqa-pose-items-outperform-depth-rate-items.md) — related

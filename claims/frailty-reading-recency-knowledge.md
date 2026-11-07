@@ -48,3 +48,5 @@ Multivariable mixed-effects models on 610 nurses; the knowledge model retained r
 - [More recent frailty education is independently associated with higher total KAP scores among nurses](frailty-education-recency-associated-kap.md) — related
 - [Geriatric nurse specialist certification is independently associated with higher frailty knowledge but not with overall KAP, attitude, or practice](geriatric-certification-knowledge-only.md) — related
 - [Nurses in southwestern China show moderately high frailty-management KAP, with attitude scoring highest and practice lowest relative to its maximum](nurses-frailty-kap-attitude-high-practice-low.md) — related
+- [Age, organizational support, familiarity with relevant guidelines, familiarity with the term frailty, and department significantly predict nurses' frailty-management KAP total score (adjusted R2 = 0.264)](frailty-kap-predictors-age-support-guidelines-department.md) — related
+- [Most surveyed nurses lacked frailty education: only 41.8% knew the term frailty, 10.5% had frailty-care training, and 17.0% had studied relevant guidelines](nurses-frailty-education-gaps-survey.md) — related

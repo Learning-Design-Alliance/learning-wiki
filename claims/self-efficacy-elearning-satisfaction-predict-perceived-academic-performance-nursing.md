@@ -51,3 +51,4 @@ Cross-sectional correlational study of 163 nursing students using multiple linea
 - [Overall e-learning satisfaction among nursing students in synchronous virtual learning is relatively low](low-elearning-satisfaction-synchronous-nursing.md) — related
 - [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — reports the opposite
 - [Engagement and burnout jointly explain 14.2% of auto-perceived academic performance variance and 4.6% of auto-perceived score variance, with burnout the most influential](model-variance-performance-pap-oap.md) — related
+- [Cognitive, behavioural and MAC methodologies positively predict teaching self-efficacy in aquatic educators](cognitive-behavioural-mac-predict-teaching-self-efficacy.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Interview study of 15 CALD occupational therapy students; reflexive thematic ana
 - [Linguistic and cultural barriers are the most frequently mentioned challenges CALD students face in SBL](linguistic-cultural-barriers-sbl-cald-students.md) — a broader claim this one bears on
 - [English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies](double-burden-language-of-ai-instruction.md) — related
 - [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](peer-educator-relationships-cald-sbl.md) — related
+- [Clinical instructors perceive SBE role-play as mitigating language barriers when teaching international students from non-English-speaking countries](sbe-language-barrier-mitigation.md) — related

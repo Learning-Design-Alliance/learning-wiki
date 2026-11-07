@@ -50,6 +50,8 @@ The authors recommend structured simulator-based practice as a low-risk adjunct 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Use periodic high-intensity training sessions to compensate for uneven clinical case exposure in paediatric surgery](periodic-high-intensity-training-uneven-case-volumes.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
+- [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 
 ## Examples
 -

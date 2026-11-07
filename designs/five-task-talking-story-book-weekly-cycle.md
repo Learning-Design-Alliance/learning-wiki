@@ -46,7 +46,8 @@ The article describes a weekly instructional cycle built around one talking stor
 - [Talking Story Books Phonics Skills](../claims/talking-story-books-phonics-skills.md) [+M]
 
 ## Related Designs
-- 
+
+- [Minimal-integration illustrated hero's-journey story woven through an existing lecture sequence](illustrated-heros-journey-story-pattern.md)
 
 ## Examples
 -

@@ -80,3 +80,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related
 - [ChatGPT-4o and expert agreement on root canal treatment radiograph ratings is poor to moderate, with ICC ranging from 0.36 to 0.45 across five rubric criteria](ai-expert-icc-poor-moderate-endodontic.md) — related
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite
+- [Two expert raters rating CPR cycles alone reached moderate agreement for Cycles 2-4 but poor agreement for Cycle 1, which the authors attribute to inconsistencies in an initial 'practice' cycle.](expert-rater-agreement-cpr-performance-cycles.md) — related

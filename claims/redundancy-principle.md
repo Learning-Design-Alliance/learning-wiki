@@ -67,7 +67,7 @@ This review classifies redundancy effects across 63 multimedia-learning experime
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Redundancy principle: animation plus narration beats animation, narration, and on-screen t](redundancy-principle-mayer-2008.md) (supports) |
 | [Adesope 2012](https://doi.org/10.1037/a0026147) | q3 · quant-synthesis · r3 | i? | [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) (qualifies) |
 | Kutbay 2020 | q2 · causal · r2 | i? | [In one middle-school quasi-experiment, adding written text to spoken narration makes no si](redundancy-effect-not-significant-middle-school.md) (qualifies) |
-| [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
+| [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram made no statistically significant difference to posttest acc](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

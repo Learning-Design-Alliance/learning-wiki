@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q3`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Phonics Instruction Outperforms Whole Word For Generalization -->
 
 Systematic phonics instruction — teaching letter–sound correspondences explicitly — beat unsystematic or no-phonics instruction on children's reading overall in the National Reading Panel meta-analysis (d = 0.41), whose abstract gives no separate effect for novel words. The only recorded test of reading untrained words is an artificial-script experiment with 24 adults, where print-to-sound training made untrained words faster to read but not more accurate. A systematic review of 12 meta-analyses argues the evidence does not show phonics beating whole language. That a generative decoding strategy should transfer to novel words better than memorized word forms is the claim's rationale, not a finding its entries establish in beginning readers.

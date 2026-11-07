@@ -50,3 +50,4 @@ Kruskal–Wallis test comparing latest exam scores across preferred modality gro
 ## Related Claims
 - [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related
 - [Online video lectures are the most preferred learning modality among medical students, chosen by 71.7% versus 26.9% for textbooks and 1.4% for university lectures](ovl-most-preferred-modality-medical-students.md) — related
+- [Most medical students who used paid e-learning resources for school exams perceived an improvement in their exam scores](paid-elearning-perceived-exam-score-improvement.md) — related

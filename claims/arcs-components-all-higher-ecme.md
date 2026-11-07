@@ -62,3 +62,4 @@ satisfaction 40.86±2.71 50.17±7.34 6.51 0.001"
 - [Experimental-group students report high satisfaction with VSO but note limited emotional interaction and virtual-to-real transfer issues](vso-student-survey-feedback.md) — related
 - [Puzzle-based teaching improves all four IMTS motivation sub-dimensions (attention, appropriateness, confidence, satisfaction)](puzzle-teaching-improves-imts-subdimensions.md) — related
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
+- [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related

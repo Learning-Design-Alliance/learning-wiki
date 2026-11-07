@@ -70,3 +70,4 @@ Secondary analyses in the same experiment examined the three load subscales sepa
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [Intervention group produced a higher proportion of anatomy strength codes in qualitative feedback compared with controls](anatomy-strength-codes-intervention-qualitative.md) — related
 - [Extraneous load showed low internal consistency (α = 0.283), limiting its interpretability in this VR anatomy context](incarne-extraneous-load-poor-reliability.md) — related
+- [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — related

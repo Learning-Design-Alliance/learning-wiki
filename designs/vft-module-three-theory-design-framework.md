@@ -41,7 +41,8 @@ The article states that "The concepts of learning using a VFT include the theori
 - Vft Mangrove Colonization Succession Module [+M]
 
 ## Related Designs
-- 
+
+- [Three-step online module pattern: animated theory videos, interactive video practice, gamified assessment](three-step-video-module-pattern.md)
 
 ## Examples
 -

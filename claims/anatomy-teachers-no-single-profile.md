@@ -48,3 +48,4 @@ Narrative synthesis of 42 studies included from 6,779 screened in a PRISMA-ScR s
 ## Related Claims
 - No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches — related
 - [The evidence base on anatomy teacher profiles is geographically skewed toward the Americas and toward medicine, limiting generalizability](anatomy-teacher-evidence-geographic-bias.md) — related
+- [US anatomy teachers are predominantly white, slightly more often female, and mostly hold academic doctoral degrees](us-anatomy-teacher-demographics-2025-survey.md) — related

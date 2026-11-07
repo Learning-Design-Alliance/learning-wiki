@@ -124,3 +124,4 @@ Same path analysis of the hypothesized model; the fitted model's R² for readine
 - [First-year nursing students before clinical practice reported mild-to-moderate overall stress, highest for education-related stressors](first-year-nursing-stress-mild-moderate-education-highest.md) — related
 - [Overall stress level correlates strongly and negatively with readiness for clinical practice among first-year nursing students (r = −0.85)](stress-readiness-strong-negative-correlation.md) — related
 - [First-year nursing students reported moderate-to-high readiness for clinical practice, highest for recognition of the practice area](readiness-moderate-high-recognition-area-highest.md) — related
+- [Perceived clinical preparation is significantly positively correlated with readiness for practice among nurse interns](preparation-readiness-positive-correlation-nurse-interns.md) — related

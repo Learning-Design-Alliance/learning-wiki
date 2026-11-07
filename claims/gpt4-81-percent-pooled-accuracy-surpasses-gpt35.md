@@ -61,3 +61,6 @@ Meta-analysis of 25 studies reporting GPT-3.5 accuracy and 29 reporting GPT-4 ac
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — related
 - [Students rated OSCEai's ease of use at 4.73 and medical content quality at 4.70 out of 5](osceai-usability-content-ratings.md) — related
 - [MDAGENTS achieves the highest accuracy on Spanish-language EUNACOM questions, outperforming all other evaluated strategies](mdagents-highest-accuracy-eunacom.md) — related
+- [ChatGPT-4o mini achieved 65% (48/74) accuracy on the 2023 Portuguese PNA medical examination, surpassing ChatGPT-3.5 Turbo's 54% (40/74)](chatgpt-4o-mini-65-percent-pna-surpasses-35-turbo.md) — a narrower finding that bears on this claim
+- [GPT-4 achieved 43.9% accuracy on the 2022 Taiwanese TCM licensing examination, below two human TCM resident doctors (70% and 78.4%) and below the 60% pass threshold](gpt4-43-9-accuracy-tcm-licensing-below-humans.md) — a narrower finding that bears on this claim
+- [ChatGPT-4o mini outperformed the average human candidate on part 2 of the 2023 PNA, while ChatGPT-3.5 Turbo scored significantly below humans on part 1](chatgpt-4o-mini-outperformed-human-pna-candidates.md) — a narrower finding that bears on this claim

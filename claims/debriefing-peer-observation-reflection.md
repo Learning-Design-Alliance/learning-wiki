@@ -55,3 +55,4 @@ Within class 2 of the qualitative analysis, students reported that watching coll
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — reports the opposite
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — a narrower finding that bears on this claim
 - [Students viewed the debrief and structured reflection following the group simulation assessment as beneficial to their professional development](debrief-reflection-benefited-professional-development.md) — related
+- [The ad hoc structure of group supervision sessions is perceived to limit reflective learning; participants want pre-determined structured content](adhoc-structure-limits-group-supervision-reflection.md) — related

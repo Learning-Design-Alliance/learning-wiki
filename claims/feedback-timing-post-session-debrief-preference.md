@@ -63,3 +63,5 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
 - [The chorda tympani replica was interrupted in every training session, with residents damaging it earlier than specialists, and it was the least appreciated structure in participant feedback](3dst-chorda-tympani-fragility-limitation.md) — related
 - [Post-intervention, residents more often used scaffolding for procedures, demonstrating a technique first and then allowing supervised student attempts with real-time feedback](post-intervention-scaffolding-hands-on-supervised-practice.md) — related
+- [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — related
+- [The authors interpret real-time feedback within the ESNPNSD as helping minimize documentation errors before students enter clinical practice](esnpnsd-realtime-feedback-error-minimization.md) — related

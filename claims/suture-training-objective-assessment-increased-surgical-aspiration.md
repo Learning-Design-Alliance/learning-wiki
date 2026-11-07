@@ -51,3 +51,4 @@ Repeated-measures observational study of 185 fifth-year medical students during 
 - [No significant differences in suturing skill scores or procedure time between aspiring-surgeon and aspiring-physician groups](no-skill-score-difference-between-aspiration-groups.md) — related
 - [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related
+- [Students' self-rated competency scores across all 12 suturing techniques rose from 1.85 to 3.84 after the course, in one uncontrolled pre-post study](self-rated-competency-improved-median-1-85-to-3-84.md) — related

@@ -55,3 +55,4 @@ CFA of the 13-item self-report model in the full sample (N = 288) demonstrated "
 - [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related
 - [Adapted PCE and MSLQ scales show good model fit and internal consistency for measuring collective and self-efficacy in simulation contexts](adapted-pce-mslq-scales-valid-in-simulation-context.md) — related
 - [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related
+- [Excluding low-loading items yields an eight-item ACLS rubric with better CFA fit than the full ten-item form](cfa-eight-item-acls-rubric-fit.md) — related

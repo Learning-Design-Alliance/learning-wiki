@@ -72,3 +72,4 @@ The article reports significant between-group differences on medical interviewin
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [SOM-PBL improves clinical reasoning performance overall and specifically diagnostic cognitive rigor, but not integrative history analysis or time-critical decision-making](som-pbl-clinical-reasoning-gains.md) — related
 - [Clinical competence measured by Mini-CEX did not differ significantly between AI-PBL and traditional PBL groups despite numerically higher scores in the AI-PBL group](mini-cex-no-significant-group-difference.md) — reports the opposite
+- [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related

@@ -49,6 +49,7 @@ The authors recommend improving the module by aligning simulation topics with st
 - [Use timely facilitator-led debriefing, realistic scenario fidelity, and immediate feedback to enhance simulation learning](debriefing-fidelity-feedback-strategies.md)
 - [Incorporate obstetric emergency simulation modules with structured personalised feedback into critical care nursing programmes](obstetric-emergency-simulation-personalised-feedback-critical-care.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
+- [Use student-chosen, real-world-anchored scenario topics with peer-designed cases in interprofessional CPR simulation](student-chosen-real-world-scenario-strategy.md)
 
 ## Examples
 -

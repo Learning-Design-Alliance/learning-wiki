@@ -87,6 +87,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Train peer tutors in a pre-session workshop and sustain quality with feedback questionnaires and incentive awards](peer-tutor-training-and-incentive-strategy.md)
+- [Phased co-production and cascade training model for developing and implementing new nursing education content](phased-coproduction-cascade-training-strategy.md)
 
 ## Examples
 -

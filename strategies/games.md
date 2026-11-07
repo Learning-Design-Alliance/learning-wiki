@@ -69,6 +69,7 @@ Games are powerful because they embed [Practice](../elements/practice.md) and [A
 - [Add a game mode with input fields and customized feedback to a physics simulation for concept testing](simulation-game-mode-concept-testing-feedback.md)
 - [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](online-lecture-virtual-roleplay-simulation.md)
 - [Use the game and physical activities course with an interdisciplinary approach for experiential elementary science teaching](gpa-course-science-teaching-strategy.md)
+- [Embed the evolutive patient model in computer-based simulations and serious games for major incident management training, then assess teaching impact through randomized trials](embed-evolutive-patient-model-in-simulations.md)
 
 ## Examples
 - **[Duolingo](https://www.duolingo.com)** — gamified language learning using streaks, points, and levels to sustain daily practice.

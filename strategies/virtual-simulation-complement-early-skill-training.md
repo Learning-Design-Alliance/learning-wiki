@@ -52,6 +52,7 @@ The article recommends combining virtual simulation with traditional training ra
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 - [Use VR simulation as a complementary, not competing, component of hazardous-drug spill-management training](vr-complementary-hazardous-drug-training.md)
+- [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
 
 ## Examples
 -

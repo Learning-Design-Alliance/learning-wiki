@@ -51,3 +51,5 @@ Spearman correlation analysis of the survey's three dimension scores. All three 
 - [Knowledge, attitude, and practice scores for ANE management are positively intercorrelated, with attitude most strongly linked to practice](kap-domain-correlations-ane.md) — related
 - [Knowledge and practice scores correlate positively, and attitude correlates weakly with practice](knowledge-practice-spearman-correlation-wound-care.md) — related
 - [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related
+- [Nurses' frailty-management knowledge, attitudes, and practices show weak positive correlations with one another](weak-positive-kap-correlations-frailty-nurses.md) — related
+- [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — related

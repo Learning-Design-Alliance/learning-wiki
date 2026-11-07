@@ -25,7 +25,8 @@ A 32-item Likert self-assessment questionnaire developed by Han (2021) for oncol
 - [Overall palliative care core competency among the surveyed oncology nurses is moderate (76.02 ± 23.85, 59.3% of maximum), with psychological self-adjustment the weakest dimension.](../claims/moderate-overall-competency-psa-weakest-dimension.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Palliative Care Nurses' Core Competences (PCNCC) scale](palliative-care-nurses-core-competences-pcncc-scale.md)
 
 ## Key Sources
 - Yu Yang, Luoye Fangxin, You Danhui, Xu Zhenhong, Liu Yuping, Wu Li, Deng Qian, Ning Yanting, Liu Liqiong. (2026). Heterogeneity and associated factors of palliative care core competency among oncology nurses: a latent profile analysis. PeerJ. https://doi.org/10.7717/peerj.21645

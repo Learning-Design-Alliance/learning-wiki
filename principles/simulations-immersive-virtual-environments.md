@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 438 claims (258 for, 155 mixed, 25 against) · 274 studies (105 causal, 78 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 56 of 274 report an effect size · 433 claims rest on one study
+> **Evidence** · 440 claims (260 for, 155 mixed, 25 against) · 275 studies (106 causal, 78 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 57 of 275 report an effect size · 435 claims rest on one study
 
 ## Conditional relationship
 
@@ -436,6 +436,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](../claims/box-skills-transferred-to-vr-not-vice-versa.md) [+W] — attached 2026-11-06 from Hottmann NM (2025), which proposed "Prefer box training for novice laparoscopic curricula and combine box and VR systems multimodally"; tests this page's relationship.
 - [Simulation-based teaching significantly reduces test times and improves skill development in medical trainees across 26 randomized trials](../claims/simulation-improves-skill-scores-rct-review.md) [+W] — attached 2026-11-06 from Mawyin-Muñoz CE et al. (2025), which proposed "Integrate simulation into medical curricula as a safe complement to conventional patient practice"; tests this page's relationship.
 - [Adding immersive VR training to an online module yields higher mannequin-based technical skill scores (OSATS) than the online module alone in novice medical students](../claims/vr-plus-online-higher-osats-chest-tube.md) [+W] — attached 2026-11-06 from Knobovitch Ryan M. BSc et al. (2025), which proposed "Blend interactive online learning with self-directed immersive VR practice to prepare novices for hands-on procedural simulation"; tests this page's relationship.
+- [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](../claims/web-pfa-sim-raises-disaster-competencies.md) [+W] — attached 2026-11-06 from Choi et al. (2024), which proposed "Use web-based simulation to provide repeatable, time- and place-flexible training where in-person disaster education is impractical"; tests this page's relationship.
+- [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](../claims/web-pfa-sim-improves-problem-solving.md) [+M] — attached 2026-11-06 from Choi et al. (2024), which proposed "Use web-based simulation to provide repeatable, time- and place-flexible training where in-person disaster education is impractical"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

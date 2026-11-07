@@ -55,3 +55,7 @@ Meta-analysis of influencing factors across the 16 included cross-sectional stud
 - [The religious attachment dimension of spiritual health scored lowest and showed only a weak correlation with core competencies](religious-attachment-lowest-weak-correlation-competencies.md) — related
 - [Age and working experience each significantly predict higher spiritual care competency scores](age-experience-predict-spiritual-care-competency.md) — related
 - [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related
+- [Ethical care competency is the highest-rated PCNCC dimension and spiritual care competency the lowest among ICU nurses](dimension-scores-ethical-highest-spiritual-lowest.md) — related
+- [Hospital type, work experience, and involvement of professionals in religious/spiritual care significantly predict nurses' religion/spirituality integration competency](regression-predictors-spiritual-care-competency.md) — related
+- [Nurses' religion/spirituality integration competency differs by age, work experience, religiosity, spirituality, and professional involvement, but not by training-course history](demographic-associations-spiritual-competency.md) — related
+- [Nurses in a general hospital report higher overall competency in integrating patients' religion/spirituality into practice than nurses in a psychiatric hospital](general-hospital-nurses-higher-rsipas-than-psychiatric.md) — related

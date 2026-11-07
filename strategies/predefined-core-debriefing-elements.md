@@ -41,6 +41,7 @@ Before the course, the authors predefined five mandatory core elements per scena
 ## Related Strategies
 
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
+- [Structured stroke nurse training program with mandatory certification, annual training hours, and mixed educational formats](stroke-nurse-training-program-luh.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ An online feedback survey of 17 students eight weeks after the September 2019 se
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
 - [Undergraduate psychiatry students report that traditional methods are insufficient for mastering non-verbal cues](psychiatry-students-report-traditional-methods-insufficient-for-nonverbal-cues.md) — related
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
+- [Pilot survey of 12 anatomy students rated the app highly useful, immersive, and conducive to learning](pilot-survey-brain-app-high-usability-ratings.md) — related

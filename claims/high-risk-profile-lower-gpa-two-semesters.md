@@ -50,3 +50,4 @@ Prospective observational cohort of 106 preclinical medical students followed ac
 - [High perceived stress combined with elevated cortisol tertile is associated with poorer perceived memory performance](high-stress-high-cortisol-poorer-perceived-memory.md) — related
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
 - [Living with one's family is associated with increased odds of a high GPA among Saudi physical therapy students](living-with-family-higher-odds-high-gpa-saudi-pt-students.md) — related
+- [Higher GPA rankings are associated with higher JHLES scores among Chinese medical students (p < 0.001)](gpa-ranking-associated-with-jhles-scores.md) — related

@@ -53,3 +53,4 @@ The article's discussion attributes this to prior work (Bray‐Clark & Bates, 20
 - [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](inclusion-training-improves-teacher-beliefs.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
+- [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related

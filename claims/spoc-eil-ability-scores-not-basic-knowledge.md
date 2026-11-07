@@ -71,3 +71,5 @@ Pass-rate analysis in the same randomized study: EIL pass rates of "55%" on the 
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
 - [EIL students apply a wider range of bonding methods in practice than LBL students](eil-wider-range-bonding-methods.md) — related
 - [Students in a SPOC+EIL course show higher in-class and postclass engagement and interaction than students in lecture-based learning](spoc-eil-higher-engagement-than-lbl.md) — related
+- [CBL multimodal teaching did not weaken single-mode image analysis or basic knowledge performance relative to traditional teaching](cbl-multimodal-no-difference-basic-and-single-mode.md) — related
+- [A larger proportion of CBL multimodal students reached the top score ranges on image analysis, final theory and case analysis examinations](cbl-multimodal-higher-proportion-top-score-ranges.md) — related

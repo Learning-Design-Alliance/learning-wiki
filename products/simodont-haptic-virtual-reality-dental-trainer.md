@@ -25,7 +25,8 @@ Simodont is a commercial haptic virtual-reality dental training simulator made b
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Fair Grader 2000](fair-grader-2000.md)
 
 ## Key Sources
 - Ranauta A, Audsley B, Coulthard P. (2025). The integration of haptic training into the QMUL dental curriculum. Eur J Dent Educ. https://doi.org/10.1111/eje.12963

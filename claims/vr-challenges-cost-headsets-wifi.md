@@ -75,3 +75,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Virtual escape rooms face challenges of technical malfunction, low survey response rates, missing in-person moderators, and narrow topical focus](virtual-escape-room-challenges.md) — related
 - [The VR simulator ran reliably and was quickly deployable, with under-5-minute setup, minimum 90 fps frame rates, and no malfunctions or breakages](vr-simulator-technical-performance-reliability.md) — related
 - [Three themes emerged from qualitative analysis: prioritizing patient care; representing variability in anatomy and PFDs for realism; and consideration of implementation, cost, and accessibility](three-themes-patient-care-realism-cost-accessibility.md) — related
+- [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](headset-added-little-over-360-video.md) — related

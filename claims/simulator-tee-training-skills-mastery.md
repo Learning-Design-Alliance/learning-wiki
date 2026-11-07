@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: beres-adam-2026
     resource: "https://doi.org/10.1186/s12909-026-09600-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Beres Adam 2026: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
@@ -50,3 +51,5 @@ Skills assessment across both phases, in which faculty examiners judged whether 
 - [Simulator-based TEE training is feasible for larger cohorts of early medical students](tee-simulator-training-feasible-large-cohorts.md) — related
 - [Simulator-based TEE training significantly increases medical students' confidence across all measured categories](simulator-tee-training-increases-student-confidence.md) — related
 - [Students with more prior ultrasound experience show larger confidence gains from TEE simulator training](prior-ultrasound-experience-moderates-tee-confidence-gains.md) — related
+- [In one uncontrolled pre-post study, the frequency of novice students passing the full 16-view simulated TEE examination without major errors rose from Test 1 to Test 2 after TEE simulator training](tee-simulator-training-increases-pass-rate.md) — related
+- [Simulator training substantially shortened the total time novices needed to complete the 16-view simulated TEE examination](tee-simulator-training-shortens-examination-time.md) — related

@@ -47,3 +47,4 @@ Pearson correlation analysis (Table 3) of the same 210-student census. The artic
 ## Related Claims
 - [Deep learning strategy use correlates strongly and positively with academic achievement in undergraduate pharmacy students](deep-learning-strategies-correlate-achievement-pharmacy.md) — related
 - [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — a broader claim this one bears on
+- [SL skill retention 4 months later is positively correlated with deep learning approach (r = 0.298) and negatively correlated with surface learning approach (r = −0.314)](learning-approach-predicts-sl-retention.md) — related

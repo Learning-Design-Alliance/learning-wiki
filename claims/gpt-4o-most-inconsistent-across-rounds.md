@@ -51,3 +51,4 @@ Descriptive analysis of within-chatbot response changes between Day-0 and Month-
 - [Exam questions that GPT-4 answered inconsistently or incorrectly were harder for human examinees, who scored about 63–68% on them versus about 75% on the rest](gpt4-inconsistent-questions-harder-for-students.md) — related
 - [GPT-4o mini performed significantly worse than the other three AI chatbots at both time points](gpt-4o-mini-significantly-worse-than-other-chatbots.md) — related
 - [GPT-4's March and June 2023 versions showed no notable overall difference on the English exams, but differed on individual questions](gpt4-march-june-versions-comparable-overall.md) — related
+- [Agreement between GPT-4's answers and human-curated answers based on its explanations was low (κ=0.504), with frequent answer-explanation mismatches](gpt4-answer-explanation-consistency-low-kappa.md) — related

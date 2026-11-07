@@ -54,3 +54,5 @@ Interaction-level Dialogue Authenticity Scale ratings of 16 transcripts (8 group
 - [LLM-based virtual patients predominantly lack emotional depth or expressions of concern, lowering Personal dimension ratings](lack-emotional-depth-lowers-personal-ratings.md) — related
 - [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](robotic-vp-higher-authenticity-than-computer-platform.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Experienced prehospital professionals rated the overall physiological parameters of all 9 simulated trauma patients as absolutely realistic (median 5, IQR 3-5)](humans-physiological-parameters-rated-realistic.md) — related
+- [Medical students perceive an LLM-driven social robotic virtual patient platform as more authentic than a computer-based semilinear virtual patient platform](social-robotic-vp-perceived-more-authentic-than-computer-based.md) — related

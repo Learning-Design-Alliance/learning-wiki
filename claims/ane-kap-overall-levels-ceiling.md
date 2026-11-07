@@ -51,3 +51,5 @@ Descriptive results from the 931-nurse cross-sectional questionnaire survey. The
 - [Knowledge, attitude, and practice scores for ANE management are positively intercorrelated, with attitude most strongly linked to practice](kap-domain-correlations-ane.md) — related
 - [CSSC-trained nurses outperform untrained nurses on every KAP item subgroup, from ANE definitions to post-event psychological care](cssc-subgroup-item-advantages.md) — related
 - [Nurses in southwestern China show moderately high frailty-management KAP, with attitude scoring highest and practice lowest relative to its maximum](nurses-frailty-kap-attitude-high-practice-low.md) — related
+- [Among 524 Chinese clinical nurses, only 37.2% were rated good in frailty-management KAP, with good knowledge (10.3%) and practice (13.4%) far less common than good attitudes (65.3%)](nurses-frailty-kap-knowledge-practice-lag-attitudes.md) — related
+- [Nurses' frailty-management knowledge, attitudes, and practices show weak positive correlations with one another](weak-positive-kap-correlations-frailty-nurses.md) — related

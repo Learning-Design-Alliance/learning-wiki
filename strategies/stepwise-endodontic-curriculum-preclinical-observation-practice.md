@@ -54,6 +54,7 @@ The article describes and endorses a three-stage progression in which students f
 - [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
 - [Use combined training modules integrating extracted teeth, artificial/simulative teeth, and phantom bodies in endodontic preclinical curricula](combined-endodontic-training-modules-strategy.md)
 - [Scaffolded progression to independent clinical practice: graded movement from observation to assisted practice to supervised independent care](scaffolded-progression-independent-clinical-practice.md)
+- [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
 
 ## Examples
 -

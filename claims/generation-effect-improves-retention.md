@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q1`–`q4` · `i2` medium · n=445 generation effects, 17,711 subjects
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Information that learners actively generate (completing a word, producing an answer, deriving a rule) is remembered better than information they passively read, even when generation takes longer or produces errors.
 

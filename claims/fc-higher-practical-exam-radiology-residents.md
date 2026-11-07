@@ -48,3 +48,4 @@ Retrospective comparison of 67 FC residents (2021–2023) and 60 LB residents (2
 - [Theoretical examination scores did not differ between flipped classroom and lecture-based residents](fc-lb-theoretical-exam-no-difference.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — a broader claim this one bears on
+- [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related

@@ -49,3 +49,4 @@ Pearson correlation analysis in the same cross-sectional study of 300 nursing st
 - [VRISE symptoms were generally mild to moderate and only weakly associated with age and corrective-glasses use](vrise-mild-weak-age-and-glasses-associations.md) — related
 - [Age showed a weak but significant positive correlation with all evaluation domains, while gender showed no significant effect](age-correlation-domain-scores.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
+- [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related

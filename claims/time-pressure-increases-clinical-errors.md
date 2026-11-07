@@ -67,3 +67,4 @@ The commentary reports a randomized study of senior residents diagnosing clinica
 - [Time pressure degraded laparoscopic suturing performance and reduced PFC activity, while resilient trainees showed greater bilateral ventral PFC activation independent of experience level](time-pressure-pfc-activation-laparoscopic-performance.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related
+- [Novice clinicians report significantly greater confidence and anxiety changes than experienced clinicians, while experienced clinicians show a greater but non-significant clinical reasoning change](novices-greater-confidence-gains-experienced-greater-reasoning-change.md) — related

@@ -50,3 +50,4 @@ Retrospective observational study of 100 consecutive RPD attempts by a single su
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
 - [Arm-4 active time, a prespecified exposure/retraction workload endpoint, decreases significantly across the RPD learning curve](arm4-active-time-decreases-learning-curve.md) — related
 - [No significant differences in learning progression between individual console surgeons](no-surgeon-level-learning-progression-differences.md) — related
+- [A surgeon's robotic liver resection learning curve divides into four phases: Competency (cases 1–20), Proficiency (21–30), Early Mastery (31–65), and Full Mastery (66–100)](four-phase-robotic-liver-learning-curve.md) — related

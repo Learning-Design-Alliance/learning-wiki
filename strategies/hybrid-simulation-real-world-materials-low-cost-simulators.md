@@ -61,6 +61,8 @@ The review recommends hybrid simulation approaches that combine different low-co
 - [Share standardized patient costs across specialties to run interprofessional simulation cost-effectively](shared-standardized-patient-costs-interprofessional-simulation.md)
 - [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
 - [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
+- [Use student-chosen, real-world-anchored scenario topics with peer-designed cases in interprofessional CPR simulation](student-chosen-real-world-scenario-strategy.md)
+- [Use low-cost task simulators within high-fidelity scenarios as a first step in a train-the-trainer cascade for bleeding control](train-the-trainer-cascade-bleeding-control.md)
 
 ## Examples
 -

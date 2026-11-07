@@ -62,3 +62,4 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [Qualitative interviews suggest narrative features acted as a catalyst for meaning-making and peer-assisted elements provided social scaffolding for skill development](nm-pal-qualitative-mechanisms-meaning-making-scaffolding.md) — related
 - [Rwandan medical students recommend integrating simulation into the curriculum with early procedural skills training to improve patient outcomes](students-recommend-curriculum-integration-early-simulation.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
+- [Experts recommended curriculum scaffolding with introductory phantom exposure in Year 1 and advanced hands-on planning in Year 2](year1-intro-year2-hands-on-scaffolding.md) — related

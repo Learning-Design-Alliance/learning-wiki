@@ -48,3 +48,4 @@ Within-participant pre–post comparison across the three PZ-PUKT domains (n = 8
 - [Registered nurses in three Saudi tertiary hospitals scored a mean 62.54% on pressure injury staging knowledge items, below the 70% threshold used in previous studies](nurses-pi-staging-knowledge-62-percent.md) — related
 - [Operating room nurses' total MDRPI knowledge scores rose from pre-test to post-test after hybrid PBL–simulation training in one uncontrolled pre-post study (Cohen's dz = 2.231)](pbl-simulation-training-increased-or-nurse-mdrpi-knowledge.md) — related
 - [Higher-order OSATS subdomains are most vulnerable to decay while fundamental psychomotor domains remain stable](higher-order-osats-subdomains-vulnerable-to-decay.md) — related
+- [After the PBL improvement intervention, student post-PBL formative assessment scores improved significantly, with an overall Cohen's d of -0.54](pbl-intervention-formative-assessment-gains.md) — related

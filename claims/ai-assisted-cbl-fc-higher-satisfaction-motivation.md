@@ -51,3 +51,4 @@ Post-course questionnaire on a 5-point Likert scale assessing motivation for lea
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [Residents perceive online CBL modules will improve their effectiveness as pediatricians](online-cbl-perceived-impact-pediatric-effectiveness.md) — related
 - [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related
+- [A trial reports residents' satisfaction and self-adjustment as higher under BOPPPS-CBL than lecture-based learning, but its own table, scored 1 = best, shows most items favouring lecture](boppps-cbl-higher-satisfaction-self-adjustment.md) — related

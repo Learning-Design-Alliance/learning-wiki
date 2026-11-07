@@ -48,3 +48,4 @@ Trial-level training data (128 trials per Standard participant, 64 per MT-ITS pa
 - [MT-ITS training was especially effective for distant (250m) moving targets](mt-its-especially-effective-distant-targets.md) — related
 - [DBN analysis shows wind direction and air movement reached the highest posterior mastery probabilities while other skills stayed flat or declined](dbn-posterior-mastery-over-time.md) — related
 - [Behavioral learning curves in a procedural working memory task are better fit by an exponential model than a linear model across five training sessions](exponential-model-behavioral-procedural-learning-curves.md) — related
+- [Individual learning curves vary, with some participants showing temporary fluoroscopy-time increases across sessions](individual-variability-in-simulator-learning-curves.md) — related

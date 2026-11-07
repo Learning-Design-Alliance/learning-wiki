@@ -51,6 +51,7 @@ The article suggests that the optimal timing for bolus refresher education may b
 - [Spaced Repetition Scheduling](spaced-repetition-scheduling.md)
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md)
 - [Schedule periodic refresher modules to maintain point-of-care EEG skills after initial e-learning](periodic-refresher-modules-poceeg-skills.md)
+- [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 
 ## Examples
 -

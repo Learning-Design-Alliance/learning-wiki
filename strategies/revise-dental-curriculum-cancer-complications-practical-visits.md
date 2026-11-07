@@ -50,6 +50,7 @@ The authors recommend revising the dental curriculum so that it better addresses
 - [Targeted continuing professional development and specialist shadowing to address cognitive errors in oral cancer recognition](targeted-cpd-oral-cancer-recognition.md)
 - [Promote continuing education programs, workshops, and certifications on managing oral complications in cancer patients for practicing dentists](continuing-education-oral-oncology-dental-practitioners.md)
 - [Case‐based learning, impairment simulations and outreach placements for gerodontology teaching](case-based-simulation-outreach-gerodontology-teaching.md)
+- [Develop updated MIH courses for dentists aligned with international guidelines](updated-mih-courses-international-guidelines.md)
 
 ## Examples
 -

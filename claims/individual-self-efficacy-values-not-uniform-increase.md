@@ -53,3 +53,4 @@ Results-section observation for the eight-student cohort. In the Discussion the 
 - [Group self-efficacy means increased across all five questionnaire trials, from a baseline mean of 6.14 to 9.51 post-intervention](group-self-efficacy-increased-across-five-trials.md) — related
 - [Writing self-efficacy typically improves over a single academic term but fluctuates and drops when students enter new writing contexts](writing-self-efficacy-change-over-time.md) — a broader claim this one bears on
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](self-efficacy-rises-early-inquiry-training.md) — related
+- [Individual learning curves vary, with some participants showing temporary fluoroscopy-time increases across sessions](individual-variability-in-simulator-learning-curves.md) — a narrower finding that bears on this claim

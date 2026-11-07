@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Directly manipulating physical materials and enacting scientific phenomena with the body can support conceptual understanding in science, particularly when the physical experience is later linked to symbolic or abstract representations.
 

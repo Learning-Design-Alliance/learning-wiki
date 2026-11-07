@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: lv-pingping-2026
     resource: "https://doi.org/10.1186/s12909-026-09102-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Lv Pingping 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-05)
 
 ## Subclaims
@@ -58,3 +59,4 @@ Final assessment scores compared between the 2019 (control) and 2020 (experiment
 - [The BOPPPS-based micro-lecture group outperformed controls on eight of eleven DOPS clinical skills indicators (p < 0.005), with preoperative preparation at the significance threshold and no differences on informed consent or patient communication](boppps-microlecture-dops-clinical-skills.md) — related
 - [Structured preoperative frameworks (PREDICT, GAPS) and independent rotations increase graduated autonomy without harming patient outcomes](predict-gaps-graduated-autonomy-frameworks.md) — related
 - [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related
+- [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](boppps-cbl-dops-five-dimensions-higher.md) — related

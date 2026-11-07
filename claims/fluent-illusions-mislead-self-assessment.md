@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 The subjective ease of processing information (fluency) is often mistaken by learners for evidence of learning, producing overconfident self-assessments. The two experiments recorded here show fluency raising judgments of learning without raising recall; neither shows the misjudgment changing how learners go on to study (Carpenter et al. 2013 found no difference in study time).
 <!-- deprecated wording (2026-10-05, overstated its evidence): The subjective ease of processing information (fluency) is often mistaken by learners for evidence of learning, producing overconfident self-assessments that misdirect further study. -->

@@ -51,3 +51,5 @@ Single-blind RCT with 44 third- and fourth-year nursing students randomly assign
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
 - [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
+- [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related
+- [The web-based PFA simulation program improves nurses' self-leadership capacity more than e-book self-learning (medium effect)](web-pfa-sim-improves-self-leadership.md) — related

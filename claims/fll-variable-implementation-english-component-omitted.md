@@ -52,3 +52,4 @@ Process evaluation using training observations, unit completion records, teacher
 - [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related
 - [Teachers reported insufficient time to deliver PATHS at the recommended frequency, with on average only half of lessons delivered](paths-dosage-shortfall-time.md) — related
 - [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related
+- [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — related

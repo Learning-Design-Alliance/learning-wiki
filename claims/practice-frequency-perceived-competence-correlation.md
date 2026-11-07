@@ -51,3 +51,4 @@ Spearman correlation analysis in the same one-group pretest–posttest study of 
 - [Knowledge and practice scores correlate positively, and attitude correlates weakly with practice](knowledge-practice-spearman-correlation-wound-care.md) — related
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
+- [Students' self-evaluations of suturing techniques correlate positively with their post-course test scores](self-evaluation-correlates-with-post-test.md) — related

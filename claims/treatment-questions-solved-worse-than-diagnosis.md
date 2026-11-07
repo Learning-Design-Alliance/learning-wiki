@@ -55,3 +55,4 @@ Subgroup analysis of accuracy by question purpose (diagnosis, treatment, other) 
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — a broader claim this one bears on
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — related
+- [ChatGPT's reported accuracy on medical licensing examinations varies widely across countries, from 22% (France) to 73% (Italy)](chatgpt-medical-exam-accuracy-varies-by-country.md) — related

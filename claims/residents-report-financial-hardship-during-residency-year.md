@@ -70,3 +70,4 @@ Spring 2021 surveys found gaps in health coverage: "a quarter of residents did n
 - Apprentices desired clearer, more consistent program communication, especially about financial obligations — related
 - [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related
 - [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related
+- [Medical students perceive paid e-learning resources as highly expensive and most access them through non-payment workarounds](paid-elearning-cost-burden-and-access-workarounds.md) — related

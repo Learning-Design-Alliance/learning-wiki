@@ -52,3 +52,6 @@ Mixed-methods study (Bahadır Yılmaz 2025, Turkey) of a face-to-face PFA traini
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
 - [An 8-hour online educational program significantly improved emergency nurses' knowledge, skills, and personal preparedness, though scores remained moderate](online-program-improved-knowledge-skills-preparedness.md) — related
 - [A 4-hour WHO-based PFA training program significantly increases community nurses' PFA knowledge immediately after training, with a smaller but sustained advantage at 2 months](pfa-training-increases-community-nurse-knowledge.md) — related
+- [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](web-pfa-sim-raises-disaster-competencies.md) — related
+- [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related
+- [The web-based PFA simulation program improves nurses' self-leadership capacity more than e-book self-learning (medium effect)](web-pfa-sim-improves-self-leadership.md) — related

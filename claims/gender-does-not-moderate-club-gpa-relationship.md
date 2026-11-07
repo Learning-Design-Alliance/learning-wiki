@@ -52,3 +52,4 @@ Fully interacted models in Tables 5 and 6 show similar male and female coefficie
 - [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related
 - [Gender is not a significant moderator of the math anxiety–performance relationship](gender-not-moderator-ma-math-link.md) — related
+- [The GPA–JHLES association holds across age and gender subgroups, but is not significant in the small 26–40 age group](gpa-jhles-association-subgroups.md) — related

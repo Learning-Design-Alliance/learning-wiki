@@ -52,3 +52,4 @@ Subscale comparisons (Table 4) used Mann–Whitney U tests with Holm–Bonferron
 - [No between-group differences in changes on any modified OSAUS subcategory, including image optimization](osaus-subcategory-changes-null-between-groups.md) — related
 - [Neither training modality produced measurable improvement beyond the initial workshop; both groups showed a small comparable decline in modified OSAUS performance](no-improvement-beyond-workshop-both-modalities.md) — related
 - [All 4 principal between-group comparisons remain statistically significant after exploratory Holm correction, and bootstrap confidence intervals are consistent with conventional estimates](spoc-blended-package-sensitivity-analyses-robust.md) — related
+- [Tutor-rated OSAUS scores improved significantly for image recognition and both in-plane and out-of-plane US-FNA after model training](osaus-scores-improve-after-liver-model-training.md) — related

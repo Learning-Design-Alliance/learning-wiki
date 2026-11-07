@@ -55,3 +55,4 @@ In the same quasi-experimental study, post-class basic knowledge scores showed "
 - [Integrated clinical pathway and case-based teaching yields higher Mini-CEX clinical skills scores than traditional teaching](clinical-pathway-cbt-higher-mini-cex-scores.md) — reports the opposite
 - [The PBL-CBL group outperformed the traditional group on every post-course test section: basic knowledge, clinical case analysis, and operation practice](pbl-cbl-better-all-test-sections.md) — reports the opposite
 - [BOPPPS-CBL and traditional teaching produce no significant differences on the Pt-test knowledge sections A, B, and C](boppps-cbl-no-difference-knowledge-sections-abc.md) — related
+- [CBL multimodal teaching did not weaken single-mode image analysis or basic knowledge performance relative to traditional teaching](cbl-multimodal-no-difference-basic-and-single-mode.md) — related

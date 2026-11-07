@@ -61,6 +61,7 @@ The article recommends a staged approach to simulation training for paediatric s
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 - [Adopt practical training scenario simulation teaching in teaching-hospital internships while managing preparation burden via standardized case templates or digital platforms](adopt-scenario-simulation-manage-preparation-burden.md)
+- [Phased co-production and cascade training model for developing and implementing new nursing education content](phased-coproduction-cascade-training-strategy.md)
 
 ## Examples
 -

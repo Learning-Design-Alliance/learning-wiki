@@ -49,3 +49,4 @@ Separate analysis of 20 image-based items (clinical photographs, radiology, ECG,
 - [o1-Pro significantly outperforms GPT-4o on UKMLA-style single-best-answer items (93.0% vs 88.8% accuracy)](mcnemar-significant-o1-pro-advantage-ukmla.md) — related
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
 - [GPT-4o answered image-based USMLE sample items with 89.5% accuracy versus GPT-4's 73.4%, a numerically higher but not statistically significant difference](gpt4o-89-5-percent-image-usmle-accuracy.md) — related
+- [GPT-4o answered both image-based PNA questions correctly](gpt-4o-answered-image-questions-correctly.md) — related

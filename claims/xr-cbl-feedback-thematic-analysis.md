@@ -57,3 +57,5 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Qualitative feedback grouped enhancement suggestions into valued aspects, platform changes, and changes to the red flags training](qualitative-feedback-three-categories-red-flag-training.md) — related
 - [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related
 - [Students' top perceived advantage of AR was clearer, more intuitive and vivid presentation (56.14%)](ar-obgy-top-advantage-vividness.md) — related
+- [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
+- [Two pilot-study students reported difficulty viewing small anatomical structures such as the pontine arteries](pilot-feedback-small-structure-visibility-difficulty.md) — related

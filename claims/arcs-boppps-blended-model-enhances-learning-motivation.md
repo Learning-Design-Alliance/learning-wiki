@@ -54,3 +54,4 @@ A randomized controlled trial with 275 fourth-year undergraduate dental students
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
+- [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related

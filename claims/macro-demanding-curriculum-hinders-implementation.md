@@ -50,3 +50,4 @@ The meta-synthesis found teachers complained about overloaded curricula regardin
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation](erwc-implementation-hindering-factors-qualitative.md) — related
 - [Misalignment between curricular change and high-stakes testing policy is a macro-level obstacle to adoption](macro-testing-policy-misalignment-hinders-adoption.md) — related
+- [Students want peer teaching programs to have allocated time, careful timing, and quality assurance of the teaching](peer-teaching-structure-timing-quality-assurance.md) — related

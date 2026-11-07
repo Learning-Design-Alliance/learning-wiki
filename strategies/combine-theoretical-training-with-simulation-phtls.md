@@ -62,6 +62,7 @@ The article recommends that standardized training programs such as PHTLS be comb
 - [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
 - [Implement mandatory structured in-service ECG training with simulation-based practice and rhythm-strip workshops for ICU nurses](mandatory-simulation-ecg-training-icu-nurses.md)
 - [Use standardized, simulation-based education with high volumes of normal IOC examples to build trainee IOC interpretation confidence and accuracy](simulation-based-ioc-interpretation-training.md)
+- [Structured stroke nurse training program with mandatory certification, annual training hours, and mixed educational formats](stroke-nurse-training-program-luh.md)
 
 ## Examples
 -

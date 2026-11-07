@@ -75,3 +75,5 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [ChatGPT-guided PBL residents reported higher teaching satisfaction and self-assessed teaching effectiveness than controls](chatgpt-pbl-higher-satisfaction-effectiveness.md) — related
 - [Symptom-focused CBL residents reported significantly higher satisfaction than controls across five competencies including clinical reasoning and documentation quality](limited-mouth-opening-cbl-higher-satisfaction-competencies.md) — related
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
+- [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
+- [NSTIS students reported significantly higher learning outcomes on enhancing learning interest and satisfying the need for relevant case information](nstis-higher-learning-interest-and-case-information.md) — related

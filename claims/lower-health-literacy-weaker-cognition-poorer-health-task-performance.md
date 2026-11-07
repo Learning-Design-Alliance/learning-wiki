@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-05
+source_checked: 2026-11-06
 sources:
   - id: wolf-2012
     resource: "https://doi.org/10.1007/s11606-012-2079-4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Lower health literacy and weaker fluid and crystallized abilities were associated with poorer performance on healthcare tasks spanning comprehending print, recalling spoken and multimedia information, dosing and organizing medication, and healthcare problem-solving. [→ Wolf 2012](#wolf-2012)

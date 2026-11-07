@@ -51,6 +51,7 @@ The article cites Hew's recommendation that "limiting the total duration of vide
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 - [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](third-party-preassignment-strategy.md)
+- [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 
 ## Examples
 -

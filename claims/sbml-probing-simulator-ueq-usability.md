@@ -55,3 +55,5 @@ Thai-version UEQ administered post-training to the 20 residents; results were be
 - [The EyelearnMR platform received positive User Experience Questionnaire evaluations for attractiveness, efficiency, dependability, stimulation, and novelty, with perspicuity neutral](eyelearnmr-positive-ueq-evaluations.md) — related
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
 - [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related
+- [Against the UEQ benchmark, attractiveness, novelty, perspicuity, and stimulation scored excellent and dependability and efficiency scored good](esnpnsd-ueq-benchmark-comparison.md) — related
+- [Nursing students rated the ESNPNSD positively on all six UEQ dimensions](esnpnsd-positive-ueq-scores-all-dimensions.md) — related

@@ -49,3 +49,4 @@ Single-group functional evaluation questionnaire completed by all 20 DMIS studen
 - [Medical students using the 5G digital microscopy interactive system earned significantly higher laboratory report scores than controls](dmis-higher-laboratory-report-scores.md) — related
 - [More DMIS students than controls named microscope technology as their biggest learning gain](dmis-microscope-technology-open-ended-gains.md) — related
 - [DMIS students rated course content and self-efficacy higher than controls after laboratory lectures](dmis-higher-course-content-self-efficacy-ratings.md) — related
+- [Participants unanimously endorsed using Aizhixing for students while reporting handpiece discomfort and overly deep standard cavity settings](questionnaire-support-and-caveats-aizhixing.md) — related

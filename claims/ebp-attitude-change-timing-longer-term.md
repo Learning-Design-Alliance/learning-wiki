@@ -56,3 +56,4 @@ Review synthesis across the five theory-based studies comparing immediate versus
 - [A statistically significant increase in medical students' self-reported EBM knowledge and attitudes was found after a 3-month single-intervention course, with EBM concept understanding rising from 2.20 to 3.17 (P<0.001)](nigeria-ebm-course-self-reported-knowledge-gains.md) — related
 - [Only intervention facilitators proactively discussed long-term benefits of the course with their students.](intervention-discussed-long-term-benefits.md) — related
 - [Poverty simulations improve average poverty attitudes among dental students immediately after participation](poverty-simulations-improve-average-poverty-attitudes.md) — related
+- [BCLS knowledge and skills scores rise over time in both groups after lecture and simulation training](bcls-scores-ascending-trend-both-groups.md) — a narrower finding that bears on this claim

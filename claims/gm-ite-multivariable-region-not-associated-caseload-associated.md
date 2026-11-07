@@ -54,3 +54,4 @@ Generalized linear models of GM-ITE total score with region of graduation, gende
 - [Longer daily self-study time and higher postgraduate year are associated with higher GM-ITE scores](self-study-time-pgy2-associated-with-gmite.md) — related
 - [Receiving teaching during the decision-making stage is associated with higher GM-ITE clinical scores among residents](decision-making-teaching-higher-gm-ite-scores.md) — related
 - [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related
+- [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related

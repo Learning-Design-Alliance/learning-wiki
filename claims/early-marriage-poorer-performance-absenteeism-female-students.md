@@ -49,3 +49,4 @@ Survey of female Haor students (N = 189 overall) compared early-married and unma
 - [Peer support for study positively predicts academic performance among Haor students](peer-support-predicts-haor-academic-performance.md) — related
 - [Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers](poor-performers-more-dims-and-mental-health-problems.md) — related
 - [Number of teachers is strongly associated with academic performance and absenteeism in Haor schools](teacher-shortage-associated-performance-absenteeism.md) — related
+- [Higher GPA, unmarried status and more positively perceived orientation programs are associated with higher readiness for practice](gpa-marital-status-orientation-predict-readiness.md) — related

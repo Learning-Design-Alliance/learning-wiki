@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 215 claims (141 show a difference, 48 mixed, 26 no difference) · 184 studies (90 causal, 43 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 38 of 184 report an effect size · 211 claims rest on one study
+> **Evidence** · 216 claims (142 show a difference, 48 mixed, 26 no difference) · 185 studies (91 causal, 43 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 38 of 185 report an effect size · 212 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -272,6 +272,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Lecture attendance was related to better academic performance and lower average opportunity cost, but unrelated to gender](../claims/attendance-selectivity-grades-opportunity-cost.md) [+M] — learners who differ on it differ in outcomes
 - [The blood-loss learning curve was not affected by the inclusion of new surgeons](../claims/rats-blood-loss-curve-unaffected-by-new-surgeons.md) [-M] — learners who differ on it differ in outcomes
 - [Female referees showed a preference for fewer game interruptions that did not consistently align with correct decisions](../claims/female-referees-fewer-interruption-preference.md) [~W] — learners who differ on it differ in outcomes
+- [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](../claims/social-robotic-vp-technical-and-user-related-limitations.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -53,3 +53,4 @@ Descriptive intercorrelation analysis in the online study (N = 425): "Self-asses
 - [Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance](predictors-of-bias-in-performance-self-assessment.md) — related
 - [Higher narcissism and higher task motivation predict more positive bias in self-assessed idea creativity](narcissism-motivation-predict-idea-bias.md) — related
 - [Higher narcissism and task motivation predict more positive self-assessed idea creativity](narcissism-motivation-predict-idea-self-assessment.md) — related
+- [Students' self-assessed assignment grades correlated moderately with instructor grades (r = 0.361, P < 0.001), with 60.6% of students self-assessing below the instructor grade](self-assessed-grades-moderate-correlation-instructor.md) — related

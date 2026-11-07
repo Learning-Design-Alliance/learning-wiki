@@ -63,3 +63,4 @@ Mini-CEX assessment after eight subspecialty rotations in the randomized trial. 
 - [SST residents achieve a higher total Mini-CEX score than controls, with advantages in all Mini-CEX items except 4-C and 6-A](sst-higher-mini-cex-scores.md) — related
 - [Residents in the combined Mini-CEX, CBL and mind-mapping group reported higher satisfaction with teaching than traditionally trained residents across all seven questionnaire items](higher-teaching-satisfaction-cbl-mindmap-minicex-group.md) — related
 - [Experimental-group residents' Mini-CEX scores on all six assessed competencies rose significantly from admission to two and four weeks of training](minicex-scores-improve-two-four-weeks-ultrasound.md) — related
+- [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related

@@ -51,3 +51,5 @@ Same randomized trial's live clinical assessment on pediatric patients aged 10�
 - [Simulation training's advantage is concentrated in the technically demanding views 5–11, with no significant difference on the first four basic mid-esophageal views](simulation-advantage-limited-to-demanding-views-5-11.md) — related
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
 - [A single VR training session before a tibial nailing synthetic-bone exercise significantly reduces completion time (about 5 minutes faster, P=.007)](vr-pretraining-faster-tibia-nailing.md) — related
+- [Simulator training substantially shortened the total time novices needed to complete the 16-view simulated TEE examination](tee-simulator-training-shortens-examination-time.md) — related
+- [In one uncontrolled pre-post study, the frequency of novice students passing the full 16-view simulated TEE examination without major errors rose from Test 1 to Test 2 after TEE simulator training](tee-simulator-training-increases-pass-rate.md) — related

@@ -57,3 +57,4 @@ Fidelity observation analysis: fourteen observations across both tutors rated ea
 - [Intervention fidelity was high, with 100% adherence to allocated topic time and 78% of students attending all five lectures](high-fidelity-attendance-metalinguistic-coursework.md) — related
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
 - [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — related
+- [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — reports the opposite

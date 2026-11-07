@@ -9,7 +9,6 @@ generated:
   at: 2026-10-21
 evidence_strength: mixed
 newest_evidence: 2017
-source_checked: 2026-11-05
 sources:
   - id: hu-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.09.004"
@@ -41,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One study found think-aloud participants showed better comprehension monitoring and test performance than silent readers, suggesting positive reactivity. [→ Hu 2017](#hu-2017)

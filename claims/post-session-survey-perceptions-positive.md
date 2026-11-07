@@ -50,3 +50,4 @@ Summary of a seven-item post-session survey with three open-ended items administ
 - [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related
 - [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](completers-rate-preparation-highly-90-percent.md) — related
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
+- [Participants rated the liver model positively and 93% deemed it helpful preparation for clinical practice](participants-rate-liver-model-helpful.md) — related

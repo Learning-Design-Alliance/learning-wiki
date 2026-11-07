@@ -50,3 +50,4 @@ Pilot reliability evaluation in which three blinded 10-year experienced ACLS-cer
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
+- [Two raters' total scores on the ten-item ACLS simulation rubric correlate 0.70 (p < 0.001) among pre-clinical medical students](acls-rubric-interrater-reliability-070.md) — related

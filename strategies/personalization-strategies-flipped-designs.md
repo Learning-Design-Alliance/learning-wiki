@@ -47,6 +47,7 @@ Because structural time reallocation alone did not raise perceived Personalizati
 - [Adopt the flipped classroom when sufficient teaching resources are available, and design distance courses progressively with clearly instructed in-class group activities](adopt-flipped-classroom-with-sufficient-resources.md)
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](flipped-classroom-instructional-redesign-strategy.md)
 - [Nurse educators adopt the flipped classroom with a comprehensive transition plan and e-modules for skill retention](fcm-adoption-transition-plan-strategy.md)
+- [Optimize teaching structure and expand case resources when integrating an academic HIS into case simulation](optimize-structure-and-resources-academic-his-simulation.md)
 
 ## Examples
 -

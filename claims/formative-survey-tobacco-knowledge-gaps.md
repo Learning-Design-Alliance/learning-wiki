@@ -48,3 +48,4 @@ Descriptive formative needs assessment of 106 clinicians using a 13-item instrum
 ## Related Claims
 - [Clinicians' self-reported confidence in managing tobacco use disorder rose from baseline to after a 13-day SMS microlearning series, with a statistically significant pre-post change, in a single-arm pre-post pilot](sms-microlearning-increased-tobacco-confidence-pilot.md) — related
 - [About 30% of surveyed trainees at a single academic center could not correctly identify the USPSTF-recommended age 45 to initiate colorectal cancer screening in average-risk patients](trainee-crc-screening-age-knowledge-gap.md) — related
+- [Epinephrine knowledge was incomplete: only 56% correctly identified it as the preferred initial treatment for severe reactions](epinephrine-initial-treatment-only-56-percent.md) — related

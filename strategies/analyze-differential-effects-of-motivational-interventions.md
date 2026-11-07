@@ -44,6 +44,7 @@ Beyond estimating average treatment effects, the article recommends examining co
 ## Related Strategies
 
 - [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
+- [Use major examination outcomes to assess how schools support doctors from different backgrounds, and pursue multi-specialty, intersectional DA research](use-exam-outcomes-to-assess-institutional-support-and-multispecialty-da-research.md)
 
 ## Examples
 -

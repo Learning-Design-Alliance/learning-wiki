@@ -72,3 +72,6 @@ Video-rated ANTS assessment across 40 teams. "Across all four ANTS categories—
 - [Remote AR simulation is noninferior to in-person simulation across all four BARS nontechnical behavior domains](remote-ar-noninferior-bars-domains.md) — related
 - [Residents demonstrate typical ANTS-rated non-technical skill performance (2.5–2.9 on a 1–4 scale) during a remote, international AR neonatal resuscitation simulation](remote-ar-nrp-simulation-ants-typical-performance.md) — related
 - [TPOT scores improved significantly across all five TeamSTEPPS domains, with greatest gains in team structure and leadership](ipstar-tpot-domain-gains.md) — reports the opposite
+- [Flipped classroom preparation before anesthesia crisis management simulation yields higher overall ANTS non-technical skills scores than conventional lecture](fc-higher-overall-ants-scores-anesthesia-simulation.md) — related
+- [Flipped classroom raises ANTS decision making, team-working and leadership, and task management scores, but not situation awareness](fc-ants-subscores-situation-awareness-null.md) — related
+- [Technical performance during the simulated cardiac arrest was low, with a mean of 16 of 42 points](technical-performance-16-of-42-points-during-simulation.md) — related

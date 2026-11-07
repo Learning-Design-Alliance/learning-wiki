@@ -9,7 +9,6 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-06
 sources:
   - id: zhang-guoyong-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1863553"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The meta-synthesis reports that the vast majority of nursing students felt excitement during VS teaching, and synthesises themes (not counts) of enjoyment, reduced fear and psychological burden, privacy and increased confidence, which it links to the fact that safe virtual settings let them make mistakes without harming patients and repeat practice privately after mistakes. [→ Zhang Guoyong 2026](#zhang-guoyong-2026)
@@ -79,3 +78,5 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
 - [Rwandan medical students perceive simulation as critical for acquiring procedural skills in a relaxed, no-stakes environment and for practicing rare procedures](simulation-procedural-skills-relaxed-no-stakes.md) — related
 - [DVRS students reported the simulator relieved procedural anxiety, honed operational skills, and boosted confidence for clinical practice](dvrs-anxiety-skills-confidence-ratings.md) — a narrower finding that bears on this claim
+- [Students reported that preparation and clear expectations before clinical sessions reduced anxiety, preferring concise, accessible resources over dense handbooks.](preparation-expectations-reduce-clinical-anxiety.md) — related
+- [Students reported that VR-based orientation to the clinic layout relieved anxiety when they had not yet been exposed to clinics, but offered little extra once they had clinical experience.](vr-orientation-useful-before-clinical-exposure.md) — related

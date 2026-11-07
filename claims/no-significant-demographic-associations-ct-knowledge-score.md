@@ -69,3 +69,4 @@ Secondary analysis of knowledge-score associations; experience (>10 years vs. �
 - [Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour](localiser-direction-knowledge-gaps-radiographers.md) — related
 - [Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers](moderate-knowledge-score-variability-early-career-radiographers.md) — reports the opposite
 - [Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers](vertical-below-isocentre-most-reported-ct-centring-error.md) — related
+- [Senior position and qualification obtained outside Saudi Arabia were associated with higher overall SCMR knowledge scores](seniority-and-foreign-qualification-higher-knowledge.md) — related

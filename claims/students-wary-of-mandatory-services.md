@@ -50,3 +50,5 @@ Across the 15 focus groups, participants with jobs and family responsibilities e
 - [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related
 - [Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them](students-report-prerequisites-block-course-access.md) — related
 - [Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools](task-time-management-gateway-math.md) — related
+- [Students hold mixed opinions on making peer teaching mandatory in the medical curriculum](mixed-opinions-mandatory-peer-teaching.md) — a narrower finding that bears on this claim
+- [Students want peer teaching programs to have allocated time, careful timing, and quality assurance of the teaching](peer-teaching-structure-timing-quality-assurance.md) — related

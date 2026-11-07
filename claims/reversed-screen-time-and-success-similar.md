@@ -68,3 +68,4 @@ Second-attempt comparisons after crossover in the same cadaver study. The articl
 - [Reversed screen orientation yields higher needle visibility scores than standard orientation in both the first and second attempts](reversed-screen-higher-needle-visibility.md) — related
 - [In the second attempt, complications are significantly higher in the reversed-orientation group than in the standard-orientation group](second-attempt-complications-higher-reversed-group.md) — reports the opposite
 - [In the second attempt, perceived procedural ease differs between groups, with more 'very easy' ratings in the standard-orientation group](second-attempt-perceived-ease-group-difference.md) — related
+- [Procedure timing improved for probe positioning but not consistently for time to successful puncture](timing-improves-start-to-touch-not-puncture-time.md) — related

@@ -49,3 +49,4 @@ During the six-month pilot, EM and neurology residents scored each patient indep
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [NIHSS certification for emergency medicine residents did not prolong door-to-CT, door-to-needle, or door-to-groin puncture times in a pre-/post-intervention comparison](em-resident-nihss-training-no-stroke-metric-delay.md) — related
+- [NIHSS certification is associated with higher stroke knowledge scores among nurses and with staying current with best practices, per the review's cited evidence](nihss-certification-enhances-nursing-practice.md) — related

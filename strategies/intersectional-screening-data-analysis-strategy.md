@@ -50,6 +50,7 @@ The article recommends that educators and policymakers analyze screening data at
 - [Apply a set of dos and don'ts when examining school performance data to decide school support options](dos-and-donts-school-performance-data-interpretation.md)
 - [Analyze differential effects of motivational interventions by testing interactions with multiple student characteristics](analyze-differential-effects-of-motivational-interventions.md)
 - [Combine published assessment tools with government data and/or teacher reports to more effectively identify students in need of additional support](combine-assessments-government-data-teacher-reports.md)
+- [Use major examination outcomes to assess how schools support doctors from different backgrounds, and pursue multi-specialty, intersectional DA research](use-exam-outcomes-to-assess-institutional-support-and-multispecialty-da-research.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ The review reports the one included qualitative study (Hameed et al.), which sur
 - [Teachers valued CulturAIEd's demographic integration, customization, and rubric feedback as highly efficient](culturaied-perceived-strengths-efficiency.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
 - [GPs hold mixed attitudes toward EBM: majority positive but a minority perceive limited value or threat](mixed-gp-attitudes-toward-ebm.md) — related
+- [Students hold mixed opinions on making peer teaching mandatory in the medical curriculum](mixed-opinions-mandatory-peer-teaching.md) — related

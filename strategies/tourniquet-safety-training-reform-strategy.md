@@ -50,6 +50,7 @@ The authors propose moving beyond generic calls for more training to specific, i
 
 - [Advance PMSC training through explicit competency definitions, structured workplace-based learning, competency-oriented assessment, national training modules, and faculty development.](strategy-advance-pmsc-cbme-framework.md)
 - [Stepwise integration of EPAs into prehospital emergency medicine training incorporating pediatric-specific EPAs, simulation-based refresher courses, and EPA-based assessment tools](stepwise-epa-integration-prehospital-training.md)
+- [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
 
 ## Examples
 -

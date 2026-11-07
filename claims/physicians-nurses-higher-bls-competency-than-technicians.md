@@ -72,3 +72,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Doctors outscore nurses on BLS knowledge/practice in Gaza hospitals](doctors-outscore-nurses-bls-gaza.md) — related
 - [ACLS knowledge and skill retention is poor, dropping below 40 percent in physicians and 14 percent in nurses at one year](acls-skill-retention-poor-one-year.md) — related
 - [BLS competency is significantly associated with education level and professional rank, with bachelor's-degree nurses and professional nurses scoring higher](bls-competency-education-rank-association.md) — related
+- [Working position and department policy, not age, nationality, experience or confidence, predicted consistent SCMR knowledge in multivariate logistic regression](position-and-policy-predict-consistent-scmr-knowledge.md) — related

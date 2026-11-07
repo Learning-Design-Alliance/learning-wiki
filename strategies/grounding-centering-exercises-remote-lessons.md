@@ -53,6 +53,7 @@ The brief recommends that educators "Begin interactions and lessons with groundi
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 - [Structure sensory-room lessons in stages: affirmation-based opening, relaxation, activation exercises, and reflection](sensory-room-lesson-stage-structure.md)
 - [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md)
+- [Screen students for elevated simulation anxiety with STAI and pupillometry, then support predisposed learners with pre-visit, presession-viewing, and breathing-relaxation interventions](anxiety-screening-and-support-strategy-simulation.md)
 
 ## Examples
 -

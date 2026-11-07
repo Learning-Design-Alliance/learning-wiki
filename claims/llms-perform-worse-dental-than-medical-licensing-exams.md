@@ -60,3 +60,4 @@ Comparison reported in the discussion section of this systematic review, contras
 - [GPT-4 performed significantly better on examinations from English-speaking countries (86% vs 80%, P=.02), while GPT-3.5 showed no such difference (P=.72)](gpt4-english-speaking-country-advantage.md) — related
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related
 - [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
+- [ChatGPT's reported accuracy on medical licensing examinations varies widely across countries, from 22% (France) to 73% (Italy)](chatgpt-medical-exam-accuracy-varies-by-country.md) — related

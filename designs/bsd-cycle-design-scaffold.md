@@ -42,6 +42,7 @@ The editorial describes the briefing–scenario–debriefing cycle as a widely u
 ## Related Designs
 
 - [The three-phase debriefing model (description, analysis, application) structuring the post-simulation discussions](three-phase-debriefing-model-description-analysis-application.md)
+- [Four-area web-based simulation lesson structure: pre-learning, pre-briefing, simulation, debriefing](four-area-web-sim-pfa-lesson-structure.md)
 
 ## Examples
 -

@@ -58,6 +58,7 @@ The article recommends integrating AI simulated patients into undergraduate curr
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Deploy screen-based simulation as an accessible training alternative when face-to-face clinical education is disrupted](screen-simulation-disrupted-education-alternative.md)
 - [Use AI-generated disease images as a standardized supplement to limited real clinical teaching materials](ai-generated-images-as-standardized-teaching-supplement.md)
+- [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
 
 ## Examples
 -

@@ -50,3 +50,5 @@ Quasi-experimental pretest–posttest study (Aliakbari et al. 2022, Iran) of an 
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](tabletop-plus-lecture-beats-lecture-alone.md) — related
 - [An immersive cinematic escape room approach improved nurses' disaster preparedness over time compared with traditional teaching](immersive-cinematic-escape-room-improved-preparedness.md) — related
 - [Scores improve over the three assessment stages in both groups, with a significant time-by-group interaction](mini-cex-logbook-time-group-interaction-significant.md) — related
+- [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](web-pfa-sim-raises-disaster-competencies.md) — related
+- [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related

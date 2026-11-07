@@ -50,6 +50,7 @@ Students and authors propose concrete, feasible adaptations rather than direct a
 
 - [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
+- [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 
 ## Examples
 -

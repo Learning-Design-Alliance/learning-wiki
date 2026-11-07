@@ -46,6 +46,7 @@ The article recommends enhancing nurses' spiritual care competency through "stru
 
 - [Hospitals and nursing educators should provide spiritual care education courses and integrate them into undergraduate nursing curricula](spiritual-care-education-courses-strategy.md)
 - [Incorporate palliative care into nursing curricula and provide regular palliative care training and continuing education for nurses](regular-palliative-care-training-and-curriculum-incorporation.md)
+- [Assess nurses' spiritual care competencies as a baseline before implementing tailored training programs](baseline-assessment-before-spiritual-care-training.md)
 
 ## Examples
 -

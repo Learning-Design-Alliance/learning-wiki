@@ -51,3 +51,4 @@ Bivariate latent change score model (Model 3) of self-concepts and expectations 
 - [Year 10 teacher and parent educational expectations have consistently positive effects on student expectations, academic self-concept, GPA, and age-26 outcomes](teacher-parent-expectations-positive-effects.md) — related
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — a broader claim this one bears on
 - [Children from economically vulnerable families show a steeper drop in academic self-concept from age 9 to 13 than non-vulnerable peers](ev-steeper-self-concept-drop-transition.md) — related
+- [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — related

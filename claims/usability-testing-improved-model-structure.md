@@ -52,3 +52,5 @@ Internal validation through model usability tests with the instructional design 
 - [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — related
 - [The IDR methodology and workshop model were iteratively developed and refined through use by a project team and at international conferences](idr-iterative-development-and-refinement.md) — related
 - [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](story-friends-iterative-revision-findings.md) — a narrower finding that bears on this claim
+- [Beta testing of the course led to design changes: dropping pre-briefing, focusing each session on one PEARLS element, and adding breakout-room individual feedback](beta-tests-shaped-sl-simulation-course-design.md) — related
+- [The developed web-based PFA program passed expert and user usability evaluations before trial deployment](web-pfa-program-usability-evaluation.md) — related

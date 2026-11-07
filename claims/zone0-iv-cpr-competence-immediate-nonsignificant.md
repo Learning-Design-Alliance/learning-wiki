@@ -52,3 +52,5 @@ Fisher exact test comparison immediately after the 4-hour zone 1 seminar in the 
 - [73% of experimental students achieved CPR competence during the self-directed zone 0 interactive-video phase alone](zone0-self-directed-competence-acquisition.md) — related
 - [Subjective confidence and safety do not differ significantly between training formats despite performance differences](ldhf-als-no-confidence-difference.md) — related
 - [More students in the segmented-interactive video group reached the competence level after the intervention (70.3% vs 55.6% in the continuous-video control group)](segmented-interactive-video-competence-level-descriptive-advantage.md) — related
+- [No significant difference in BCLS skills scores exists between groups immediately after training, before personalized video feedback is provided](no-immediate-skills-difference-before-pvf.md) — related
+- [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related

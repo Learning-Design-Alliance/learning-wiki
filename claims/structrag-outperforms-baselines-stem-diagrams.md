@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` StructRAG reached a macro-average question-level accuracy of 89.3% and a micro-averaged edge-level F1 of 93.0%, outperforming the OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated baselines. [→ Sun Y. 2026](#sun-y-2026)

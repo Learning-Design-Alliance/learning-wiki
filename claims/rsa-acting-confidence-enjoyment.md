@@ -53,3 +53,4 @@ Findings on the A (Act) stage: despite limited rehearsal time and nervousness, s
 - [All 24 students expressed positive attitudes towards specific aspects of RSA in completing extensive reading tasks](rsa-positive-student-perceptions.md) — related
 - [Most students perceived that RSA increased their English reading habit a lot, while some reported no increase](rsa-reading-habit-increase-perceptions.md) — related
 - [Teachers perceived that making students feel stressed during simulations is nonbeneficial for developing nursing students' critical thinking, favouring exciting and fun learning opportunities.](stress-free-motivating-climate-ct-nursing-sbl.md) — related
+- [Clinical instructors perceive SBE role-play as mitigating language barriers when teaching international students from non-English-speaking countries](sbe-language-barrier-mitigation.md) — related

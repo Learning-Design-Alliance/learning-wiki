@@ -71,6 +71,7 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Incorporate 3D-printed temporal bone models into surgical training programs to accelerate the learning curve](3d-printed-temporal-bone-training-programs.md)
 - [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
 - [Provide increased exposure to patients with dysphagia during SLT training to raise self-perceived competency](increase-dysphagia-patient-exposure-strategy.md)
+- [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 
 ## Examples
 -

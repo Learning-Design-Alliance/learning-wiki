@@ -212,6 +212,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](../strategies/blended-learning-pps-training-design.md)
 - [Blend flipped and traditional models, and supplement with online materials like videos and podcasts to address individual needs](../strategies/blend-flipped-traditional-and-supplementary-media.md)
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](../strategies/blended-learning-for-clinical-reasoning.md)
+- [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](../strategies/online-theory-face-to-face-practice-strategy.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

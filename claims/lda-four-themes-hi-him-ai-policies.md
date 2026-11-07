@@ -60,3 +60,4 @@ Unsupervised LDA topic modeling (topicmodels package in R) on the preprocessed c
 - [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related
 - [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related
 - [BERTopic clustering of medical documents produced highly distinct topics rated highly by medical experts](bertopic-clustering-high-quality-topics.md) — related
+- [Simulated personalized feedback generation covered 1,401 test participants with topic counts ranging from 34 to 243 depending on student cluster](ptm-feedback-simulation-1401-participants.md) — related

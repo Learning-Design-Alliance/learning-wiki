@@ -52,3 +52,4 @@ Across all tested LISREL models (Models 1, 2a, 2b, 3 variants) on the 697-studen
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related
 - [Learning outcomes and skill transfer/retention show a bidirectional but developmentally asymmetrical longitudinal relationship, with prior learning exerting the stronger forward influence](lo-str-bidirectional-asymmetrical-coupling.md) — related
 - [Associations between academic self-concept and parent expectations during the transition are bidirectional but asymmetric](bidirectional-self-concept-expectations-transition.md) — a narrower finding that bears on this claim
+- [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — a narrower finding that bears on this claim

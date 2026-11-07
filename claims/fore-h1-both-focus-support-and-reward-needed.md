@@ -47,7 +47,7 @@ The review's empirical support for Hypothesis 1 cites a study in which students 
 
 ## Related Claims
 - [Techniques yield learning gains only when they compensate for otherwise too-low focus support or reward (baseline-levels condition)](baseline-levels-condition-technique-effects.md) — related
-- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
+- [A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
 - [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — related
 - [Stronger reward manipulations are predicted to yield learning gains with higher likelihood (magnitude-of-change condition)](magnitude-of-change-condition.md) — related
 - [Cognitive-motivational techniques that increase both focus support and reward are hypothesized to be most effective for learning](fore-h3-cognitive-motivational-techniques-most-effective.md) — a narrower finding that bears on this claim

@@ -58,7 +58,9 @@ Pre-class preparation is the element in which learners engage with readings, vid
 - [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
+
 - Assigned reading with a prompt that must be used in the following class discussion.
+- [Release videos early in the course and attach them to mandatory seminars with group homework](../strategies/early-release-and-seminar-attachment-strategy.md)
 
 ## Key Sources
 - Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom: A survey of the research. In *2013 ASEE Annual Conference & Exposition Proceedings*. [https://doi.org/10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)

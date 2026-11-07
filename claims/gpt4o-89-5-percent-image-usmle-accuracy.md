@@ -53,3 +53,4 @@ Evaluation of all 38 publicly available image-based USMLE Step 1 and Step 2 CK s
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
 - [All four items GPT-4o answered incorrectly were also answered incorrectly by GPT-4](gpt4o-errors-subset-of-gpt4-errors.md) — related
+- [GPT-4o answered both image-based PNA questions correctly](gpt-4o-answered-image-questions-correctly.md) — related

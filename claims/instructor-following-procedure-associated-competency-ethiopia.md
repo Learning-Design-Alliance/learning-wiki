@@ -53,3 +53,4 @@ Random-effects pooling of five studies on instructor supervision during procedur
 - [Limited instructor feedback and inadequate clinical supervision were associated with clinical skill anxiety](feedback-and-supervision-associated-with-csa.md) — related
 - [Female sex, lack of prior clinical-skills exposure, and high academic stress were associated with clinical skill anxiety](sex-exposure-stress-associated-with-csa.md) — related
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related
+- [Students and instructors perceive SBE as an effective strategy for concurrent supervision, feedback, and assessment of clinical knowledge and skills](sbe-supervision-assessment-strategy.md) — related

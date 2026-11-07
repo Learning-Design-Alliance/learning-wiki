@@ -29,6 +29,7 @@ A 34-item five-point Likert self-report scale developed by Wu et al. to assess t
 ## Related Products and Programmes
 
 - [Vaccine Opposition Scale (VOS)](vaccine-opposition-scale-vos.md)
+- [Palliative Care Nurses' Core Competences (PCNCC) scale](palliative-care-nurses-core-competences-pcncc-scale.md)
 
 ## Key Sources
 - Zhang Jian-Wei, Yue Li-Hong, Wang Yan, Duan Jia-Yu, Shan Hai-Hong. (2026). Influence of self-efficacy and self-directed learning competence on core competence among nurses specializing in infectious diseases: a cross-sectional study. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2026.1775251

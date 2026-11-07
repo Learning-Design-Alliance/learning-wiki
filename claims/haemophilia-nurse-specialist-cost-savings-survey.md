@@ -48,3 +48,4 @@ Survey of UK NHS haemophilia nurse specialists using the Apollo nursing resource
 
 - [A systematic review of haemophilia comprehensive care suggests it reduced mortality, emergency and walk-in visits, admissions, length of stay and days missed from school or work](haemophilia-comprehensive-care-reduced-mortality-and-visits.md)
 - [Systematic reviews suggest nurse-led services achieve outcomes at least as good as traditional physician-led models, with some evidence of cost-effectiveness](nurse-led-services-outcomes-at-least-as-good.md) — a broader claim this one bears on
+- [Stroke unit care reduces mortality and improves home return and independent living compared to general medical wards, per the meta-analysis the review cites](stroke-unit-care-meta-analysis-outcomes.md) — related

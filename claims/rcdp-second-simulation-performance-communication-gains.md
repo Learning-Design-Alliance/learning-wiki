@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: kang-kyungja-yu-mi-2025
     resource: "https://doi.org/10.1038/s41598-025-97222-w"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Kang Kyungja; Yu Mi 2025: the intervention came bundled with another change (read from the study by two models, 2026-11-06)
 
 ## Subclaims

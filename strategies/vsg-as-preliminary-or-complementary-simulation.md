@@ -66,6 +66,8 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Integrate contextualized online materials with real or simulated clinical practice elements into traditional paramedic education](contextualized-online-plus-clinical-practice-mdc.md)
 - [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 - [Integrate e-learning and game-based approaches into nursing education to leverage the strengths of both methods](integrate-elearning-and-game-based-nursing-education.md)
+- [Embed the evolutive patient model in computer-based simulations and serious games for major incident management training, then assess teaching impact through randomized trials](embed-evolutive-patient-model-in-simulations.md)
+- [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
 
 ## Examples
 -

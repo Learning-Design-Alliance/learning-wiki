@@ -52,6 +52,7 @@ The review's forward-looking recommendation is that evaluation of technology-enh
 
 - [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
 - [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
+- [Recommendations for oral and maxillofacial surgery residency training: simulation-based skill modules, mandatory trainee-status disclosure with patient education, and stronger undergraduate basic clinical skills training](oms-residency-simulation-transparency-undergraduate-skills-strategy.md)
 
 ## Examples
 -

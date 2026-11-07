@@ -55,3 +55,4 @@ Questionnaire skills-mastery domain from the post-experiment survey of both clas
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related
 - [No difference between 3DP and lecture-based groups in self-reported mastery of basic knowledge](3dp-pbl-no-difference-basic-knowledge-mastery.md) — related
 - [Participation in the flipped classroom model does not significantly improve university students' self-directed learning skills](fcm-loc-no-sls-improvement.md) — related
+- [Students' self-perceived scientific literacy competency increases during the flipped classroom semester, but confidence in interpreting graphical results does not](self-perceived-sl-competency-increases.md) — related

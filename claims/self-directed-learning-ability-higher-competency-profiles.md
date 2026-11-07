@@ -53,3 +53,5 @@ Multivariable multinomial logistic regression with the low-level profile as refe
 - [Higher monthly night-shift frequency is associated with lower odds of low-competency rather than moderate-competency profile membership (OR = 0.887), an exploratory finding.](night-shift-frequency-exploratory-low-competency-association.md) — related
 - [Self-directed learning ability is positively associated with perceived clinical competence among nursing students](sdl-associated-with-perceived-clinical-competence-nursing.md) — related
 - [Self-directed learning competence is positively associated with core competence among infectious disease nurses](self-directed-learning-competence-core-competence-infectious-disease-nurses.md) — related
+- [Lower autonomous learning capacity significantly increases the odds of membership in the low and medium palliative care core competency groups](autonomous-learning-capacity-predicts-competency-subgroup.md) — related
+- [Professional title, position and work experience significantly predict membership in the medium palliative care core competency group](title-position-experience-predict-medium-competency-group.md) — related

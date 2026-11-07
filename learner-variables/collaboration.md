@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (125 show a difference, 23 mixed, 10 no difference) · 135 studies (50 causal, 28 review, 21 qualitative, 11 quant-synthesis, 10 design, 9 associational, 6 theoretical), `q1`–`q3` · 11 of 135 report an effect size · 158 claims rest on one study
+> **Evidence** · 160 claims (127 show a difference, 23 mixed, 10 no difference) · 137 studies (50 causal, 28 review, 23 qualitative, 11 quant-synthesis, 10 design, 9 associational, 6 theoretical), `q1`–`q3` · 11 of 137 report an effect size · 160 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -200,6 +200,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](../claims/escape-rooms-improve-healthcare-student-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [Qualitative theme: real-time sharing of digital resources in MHW enhanced peer collaboration and communication compared with classroom TBL](../claims/mhw-tbl-collaboration-theme.md) [+M] — measured as an outcome of the instruction studied
 - [An escape room intervention improved clinical reasoning and teamwork skills among fourth-year nursing students](../claims/escape-room-nursing-clinical-reasoning-teamwork.md) [+M] — measured as an outcome of the instruction studied
+- [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](../claims/sbe-multidisciplinary-teamwork-skills.md) [+M] — measured as an outcome of the instruction studied
+- [Interprofessional CPR training with MAES is perceived by nursing and medical students to enhance teamwork and nontechnical skill development](../claims/maes-ipe-enhances-teamwork-perceptions.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -49,3 +49,4 @@ Pearson correlation analyses within the cluster-RCT using self-reported time on 
 - [The Full group reported spending significantly more time on the e-modules than the Limited group despite equal outcomes](full-group-more-time-no-better-outcome.md) — related
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [No group difference appeared on any of the three subtest video cases used for follow-up assessment](no-subtest-video-group-differences-mse.md) — related
+- [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related

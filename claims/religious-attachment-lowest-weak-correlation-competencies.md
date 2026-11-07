@@ -48,3 +48,5 @@ Correlation analysis (Table 3) in the same survey shows religious attachment cor
 - [Spiritual health is positively correlated with core competencies of nursing intern students (r = 0.687)](spiritual-health-positively-correlated-nursing-intern-core-competencies.md) — a broader claim this one bears on
 - [Spiritual health is the strongest predictor of core competencies, explaining 42.9% of variance after controlling for demographic factors](spiritual-health-strongest-predictor-competencies-42-9-variance.md) — related
 - [Twelve factors are significantly associated with nurses' spiritual care competency (p < 0.01)](twelve-factors-influence-nurse-spiritual-care-competency.md) — related
+- [Ethical care competency is the highest-rated PCNCC dimension and spiritual care competency the lowest among ICU nurses](dimension-scores-ethical-highest-spiritual-lowest.md) — related
+- [Religiosity perceptions do not change after spiritual care simulation, while the Religiosity subscale stays flat (p = 0.4862)](religiosity-subscale-unchanged-after-simulation.md) — related

@@ -55,6 +55,7 @@ The review's forward-looking recommendation is to move from heterogeneous, mostl
 - [Establish standardized implementation frameworks and conduct multi-center longitudinal studies on VR communication training](standardized-implementation-frameworks-vr-communication.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
+- [Recommendations for oral and maxillofacial surgery residency training: simulation-based skill modules, mandatory trainee-status disclosure with patient education, and stronger undergraduate basic clinical skills training](oms-residency-simulation-transparency-undergraduate-skills-strategy.md)
 
 ## Examples
 -

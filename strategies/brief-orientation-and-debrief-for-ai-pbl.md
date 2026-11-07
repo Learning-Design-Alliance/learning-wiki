@@ -48,6 +48,7 @@ Because simulated group-process behaviors varied across sessions, the article re
 - [Frame genAI virtual patient experiences: prompt experimentation with AI capabilities and orient students to its limits](frame-genai-pbl-experience-experimentation-orientation.md)
 - [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](simulated-class-deliberate-practice-late-placement.md)
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
+- [Train faculty and orient students on PBL processes before and during PBL implementation](pbl-faculty-student-training-strategy.md)
 
 ## Examples
 -

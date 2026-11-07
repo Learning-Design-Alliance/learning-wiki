@@ -59,3 +59,4 @@ Cross-sectional survey of 605 registered clinical nurses recruited by convenienc
 - [High-competency nurses scored 1.8-fold higher in ethical care, 2.4-fold higher in clinical practice, and 2.0-fold higher in psychological self-adjustment than low-competency nurses.](high-vs-low-competency-dimension-fold-differences.md) — related
 - [Oncology nurses fall into three distinct latent profiles of palliative care core competency: low (27%), moderate (45%), and high (28%).](three-latent-profiles-palliative-care-competency-oncology-nurses.md) — related
 - [K-means clustering identifies three distinct ability profiles among young new farmers, with varying overlap across competency dimensions.](kmeans-clustering-ability-profiles.md) — related
+- [Latent profile analysis identifies three palliative care core competency subgroups among ICU nurses: low (21.6%), medium (47.2%) and high (31.2%)](lpa-three-palliative-competency-profiles.md) — related

@@ -53,3 +53,4 @@ Multiple regression on the full sample (final sample of 1198 participants) exami
 - [For teachers, higher privacy levels lowered confidence regarding an AI supporting student emotional health, indirectly reducing intention to use (Emotion-AI)](teachers-emotion-ai-privacy-confidence-mediated.md) — related
 - [For students, privacy (Answer-AI) and explainability (Emotion-AI) each positively influenced intention to use indirectly through perceived global utility](students-privacy-explainability-indirect-global-utility.md) — related
 - [For teachers, explainability (Correct-AI) and both agency and explainability (Answer-AI) influenced intention to use indirectly through global utility and perceived usefulness](teachers-explainability-agency-mediated-global-utility.md) — related
+- [Intention to use the ePHR decreased significantly in the overall sample but not within either age group](epa-coach-itu-decrease-overall-sample.md) — related

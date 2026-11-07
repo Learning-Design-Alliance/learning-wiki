@@ -48,3 +48,4 @@ Descriptive results (Table 2) on a 100-point scale from the randomized trial: Mi
 - [Operating room trainees assessed with the Mini-CEX score significantly higher than trainees assessed with the routine Logbook](mini-cex-higher-scores-than-logbook-operating-room-trainees.md) — related
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
 - [Scores improve over the three assessment stages in both groups, with a significant time-by-group interaction](mini-cex-logbook-time-group-interaction-significant.md) — related
+- [Both groups improved significantly in LS-CAT scores and operation error counts across the three tests over the training period](both-groups-improve-lscat-across-tests.md) — related

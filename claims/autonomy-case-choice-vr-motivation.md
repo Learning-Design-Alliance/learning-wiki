@@ -53,3 +53,4 @@ Interpretive finding from the interview analysis, reported in the Discussion. Fo
 - [Other-made choices produce similar or better motivation and performance than self-made choices for East Asian youth, contrary to Western choice findings](other-made-choices-beneficial-east-asian-youth.md) — reports the opposite
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
 - [Receptivity frequently intersects with freedom of action in tools affording learner creativity and exploration](receptivity-freedom-of-action-intersection.md) — related
+- [Students hold mixed opinions on making peer teaching mandatory in the medical curriculum](mixed-opinions-mandatory-peer-teaching.md) — related

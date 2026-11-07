@@ -25,7 +25,8 @@ A free web-based transesophageal echocardiography simulator developed and mainta
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [MrTEEmothy TEE simulator with EduTool](mrteemothy-tee-simulator-with-edutool.md)
 
 ## Key Sources
 - Ou Xinxu, Qiu Qianqi, Yang Xien, Gao Yu, Zhang Gaolong, Zhang Na, Liu Jianhua, Zhang Siyi, Wei Wei, Xu Yingyi. (2026). 3D models and simulations training improves TEE performance on pediatric patients with simple valvular congenital heart disease compared to traditional apprenticeship training: a clinical randomized controlled trial. BMC Anesthesiology. https://doi.org/10.1186/s12871-026-03769-0

@@ -50,3 +50,6 @@ Descriptive statistics from the cross-sectional survey (Table 1, n = 553) on the
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Readiness for clinical transition is the highest-rated SBL perception item (mean 4.53) while realism is the lowest (mean 3.81)](readiness-clinical-transition-highest-realism-lowest-sbl-items.md) — related
 - [All four stressor domains negatively and significantly predict first-year nursing students' readiness for clinical practice, together explaining 73.5% of its variance](stressors-negatively-predict-nursing-clinical-readiness.md) — related
+- [Most nurse interns are moderately ready for practice, with 22.3% at a low readiness level](nurse-interns-moderate-practice-readiness-level.md) — related
+- [Communication skills are nurse interns' strongest preparation area while applying the nursing process is their weakest](preparation-communication-strongest-nursing-process-weakest.md) — related
+- [Nurse interns feel most ready in clinical problem solving and least ready in trials and tribulations](readiness-domain-profile-clinical-problem-solving-highest.md) — related

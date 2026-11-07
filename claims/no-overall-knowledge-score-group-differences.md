@@ -50,3 +50,4 @@ Inferential analyses using Mann-Whitney U and Kruskal-Wallis tests across demogr
 - [No differences between groups in completion of the Sepsis 6 bundle components](vr-ip-sepsis6-completion-no-differences.md) — related
 - [Perceived autonomy, training, and dressing confidence showed no significant associations with years of experience or health area](no-competence-differences-experience-health-area.md) — related
 - [Knowledge scores rose from pre-test to post-test after the SDL package, in one uncontrolled pre-post study, with no significant difference in change by area of practice](no-practice-area-difference-sdl-ecg-knowledge-gain.md) — related
+- [Ward type did not differentiate general knowledge (p=0.993), but medical-ward nurses scored higher on basic concepts (p=0.031)](ward-type-null-general-knowledge-medical-ward-area-advantage.md) — related

@@ -91,3 +91,4 @@ Year-by-year analysis of the best-performing algorithm per study (Figure 8, RQ7)
 - [A non-fine-tuned pre-trained sentiment analysis model achieves moderate agreement with human coders of student open-ended answers](pretrained-sa-moderate-agreement.md) — a narrower finding that bears on this claim
 - [In the narrative synthesis, deep learning models classify surgeon skill levels from kinematic data with accuracy up to 95.4%](deep-learning-skill-classification-up-to-95-percent.md) — related
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related
+- [Two expert raters rating CPR cycles alone reached moderate agreement for Cycles 2-4 but poor agreement for Cycle 1, which the authors attribute to inconsistencies in an initial 'practice' cycle.](expert-rater-agreement-cpr-performance-cycles.md) — a narrower finding that bears on this claim

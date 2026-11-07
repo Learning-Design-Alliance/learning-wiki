@@ -49,6 +49,7 @@ The article encourages audiovisual playback during meta-debriefing because it "e
 - [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
 - [Run meta-debriefing clubs as communities of practice where debriefers critically review audiovisual footage of previous debriefings](meta-debriefing-club-community-of-practice.md)
 - [Future research agenda for meta-debriefing: context-specific frameworks, enablers and challenges, cultural influences, and meta-debriefer faculty development needs](meta-debriefing-future-research-agenda.md)
+- [Run workshops focused on enhancing trainees' self-efficacy and awareness of their autonomy and performance](workshops-enhancing-trainee-self-assessment-accuracy.md)
 
 ## Examples
 -

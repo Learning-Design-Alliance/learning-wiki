@@ -49,3 +49,4 @@ A post-hoc survey quantified pre- and post-learning time for both groups. The ar
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — related
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
+- [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — possibly the same claim (merge candidate)

@@ -49,3 +49,4 @@ Pilot study with six sixth- and eighth-semester medical students in an NKLM-base
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
 - [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Pilot OSCEs proved feasible despite high staffing demands and were favourable for student learning.](pj-osce-pilots-feasible-despite-staffing-demands.md) — related
+- [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related

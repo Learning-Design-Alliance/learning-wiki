@@ -50,3 +50,4 @@ Same LQG transfer simulation: contact metrics showed significant Complexity main
 - [Human trainees show no clear asymmetric transfer of motion scaling ratio, and scaling ratio effects are small relative to complexity effects](no-asymmetric-scaling-transfer-in-humans.md) — related
 - [Rotational path length does not reliably decrease over teleoperation training, suggesting continued exploration of joint-level strategies](rotational-path-length-no-training-reduction.md) — related
 - [Rail complexity affects retention and transfer in opposite directions: retention gains increase with complexity while transfer gains decrease, with no inverted-U](complexity-retention-transfer-dissociation.md) — related
+- [Random probe movements for ante/retroflexion fell from Test 1 to Test 2, while probe rotation showed a non-significant trend overall and fell in selected views, in one single-group pre-post study](tee-simulator-training-reduces-random-probe-movements.md) — related

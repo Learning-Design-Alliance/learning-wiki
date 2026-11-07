@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-06
 sources:
   - id: varman-sumantla-d-2021
     resource: "https://doi.org/10.3390/ijerph182010824"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In primary school settings, interventions using food preparation/cooking, taste-testing, games, role-playing, and gardening showed the greatest effects across behaviour, attitude, and knowledge outcomes. [→ Varman Sumantla D. 2021](#varman-sumantla-d-2021)
@@ -65,3 +66,4 @@ Review synthesis across 19 primary-school studies (18/25 of included studies). T
 - [Evidence that school gardening increases total fruit and vegetable intake is mixed: a large cluster-RCT found no significant overall effect, but higher gardening implementation level was associated with +81 g/day intake irrespective of allocation](school-gardening-fv-intake-mixed-implementation-dose.md) — related
 - [The TX Sprouts gardening-cooking-nutrition cluster-randomized trial improved diet quality, including the HEI-2015 Total Vegetables component and protein share, versus controls](tx-sprouts-improved-diet-quality-components.md) — a narrower finding that bears on this claim
 - [Web-based interventions combining self-monitoring, personalized feedback, environmental nudges, and behavioral prompts tended to produce stronger dietary changes than education alone, while BMI changes were generally absent or minimal](web-nutrition-interventions-combined-features-stronger-bmi-minimal.md) — related
+- [Caregivers perceived only minimal changes in children's healthy eating and physical activity knowledge, attitudes and behaviour](hl-perceived-impact-minimal.md) — related

@@ -51,3 +51,4 @@ Cross-sectional survey of 355 registered nurses using a 15-item multiple-choice 
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Presence of a sepsis screening tool showed no significant association with nurses' knowledge or confidence](screening-tool-no-knowledge-confidence-link.md) — related
 - [Care home managers show moderate palliative care knowledge, strong on psychosocial aspects but weak on biological and physical components](pcqn-manager-knowledge-gaps-physical-care.md) — related
+- [Specific knowledge gaps persist: only about half of nurses correctly identified sepsis blood-sampling procedure and the most common nosocomial infection](nurse-knowledge-gaps-sepsis-sampling-and-uti.md) — related

@@ -50,3 +50,4 @@ Between-group comparisons on the 20-item, five-subscale Aesthetics of Nursing Ca
 - [The intervention improved all three compassion competence subscales—communication, sensitivity, and insight—with large effect sizes](compassion-competence-subscales-improved.md) — a narrower finding that bears on this claim
 - [Human-machine collaboration enhances the humanistic care role of emergency nurses](hmc-enhances-nurses-humanistic-care-role.md) — related
 - [The framework prioritises a compassionate, respectful therapeutic relationship and addresses power imbalances with detained, marginalised patients](relationship-first-attitudes-in-inpatient-framework.md) — related
+- [Respectful and compassionate care competency did not show a statistically significant change from pre-test to post-test among nursing students in one group with no comparison group](rcc-training-no-significant-change-nursing-students.md) — related

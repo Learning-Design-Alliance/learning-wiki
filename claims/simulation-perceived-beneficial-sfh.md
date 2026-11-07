@@ -48,3 +48,4 @@ Descriptive survey (N = 184) of perceptions of simulation in SFH learning; resul
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](simucase-increases-assessment-confidence.md) — a broader claim this one bears on
 - [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in clinical decision-making and empowerment.](sim-handoff-training-increased-perceived-decision-making-confidence.md) — related
 - [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](gamified-security-games-confidence-understanding.md) — related
+- [Two further confidence items favored the simulator group only at the P<.10 level, while 19 survey questions showed no significant differences](hss-marginal-items-and-null-items.md) — related

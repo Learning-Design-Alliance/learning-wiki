@@ -58,3 +58,4 @@ In the same parallel RCT (n = 58), between-group comparison of the Knowledge Ass
 - [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — related
 - [Video-assisted teaching does not significantly reduce nursing students' state anxiety before ROM practice compared with traditional teaching alone](video-assisted-teaching-no-anxiety-difference-rom.md) — related
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
+- [Residents' confidence increased significantly after two rounds of simulator practice in both feedback and no-feedback groups, with no significant difference between groups](simulator-confidence-increases-both-groups.md) — related

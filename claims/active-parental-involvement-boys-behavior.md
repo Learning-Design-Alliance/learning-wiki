@@ -51,3 +51,4 @@ Multivariate repeated measures analysis of 205 pupils (average age 12.6) compari
 - [The initially developed SNS safety course increased awareness of contact risks but did not change attitudes or behavior](initial-sns-course-awareness-only.md) — related
 - [A parents' information evening improved parents' skills and prompted information-sharing, but reached only a minority of parents](parents-evening-partial-reach.md) — related
 - [Replacing the simulated worst-case profile with pupils' own SNS profiles added no measurable benefit](authentic-own-profile-no-added-value.md) — related
+- [Chinese parents show gendered involvement patterns: more educational trips, discussion, and control for daughters, more school contact for sons](gendered-forms-of-parental-involvement.md) — related

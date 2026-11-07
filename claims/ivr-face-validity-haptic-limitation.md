@@ -57,3 +57,4 @@ Face-validity Likert ratings collected only from the IVR group after the operati
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
 - [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related
+- [Experienced prehospital professionals rated the overall physiological parameters of all 9 simulated trauma patients as absolutely realistic (median 5, IQR 3-5)](humans-physiological-parameters-rated-realistic.md) — related

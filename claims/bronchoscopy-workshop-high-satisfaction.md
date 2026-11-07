@@ -53,3 +53,4 @@ Post-workshop satisfaction survey of the 53 participants (Table 4). The article 
 - [Participants report high satisfaction with both training modalities with no difference between groups](high-satisfaction-both-modalities-no-difference.md) — related
 - [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
+- [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related

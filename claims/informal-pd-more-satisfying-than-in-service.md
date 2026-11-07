@@ -65,3 +65,4 @@ A Digital Promise and Grunwald Associates (2015) survey of teachers, presented a
 - [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](teachers-not-yet-include-web20-tools-lack-training.md) — related
 - [Teachers comply well with MBSR training and report high satisfaction, though they view it as unsuitable as a universal requirement](mbsr-teacher-compliance-satisfaction.md) — related
 - [Nearly 90% of participants reported sharing their program knowledge with others through formal training, workshops, or informal mentoring and case discussions](therapy-intensive-knowledge-dissemination.md) — related
+- [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related

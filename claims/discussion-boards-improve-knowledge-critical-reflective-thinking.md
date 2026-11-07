@@ -54,3 +54,4 @@ Systematic review synthesis of seven studies on discussion boards. Two case stud
 - [Simulation improves critical thinking in nursing and medical students compared to traditional teaching](simulation-improves-critical-thinking-nursing-medical-students.md) — related
 - [Websites improve practical skills performance in physiotherapy education](websites-improve-practical-skills-physiotherapy.md) — related
 - [Group reflection and debriefing after VR simulation is perceived by students as the aspect providing the most learning benefits](group-reflection-debriefing-most-learning-benefit-students.md) — related
+- [Physiotherapists perceive supervisor-led group clinical supervision as an effective model for developing aquatic physiotherapy skills through reflective practice](group-supervision-perceived-effective-aquatic-skill-development.md) — a narrower finding that bears on this claim

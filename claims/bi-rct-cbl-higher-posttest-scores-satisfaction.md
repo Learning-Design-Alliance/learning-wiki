@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: vundum-jonathon-2025
     resource: "https://doi.org/10.1007/s13187-025-02651-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Chinese RCT reported statistically significant improvements in the experimental (CBL) group with respect to participant satisfaction and examination results, but confidence intervals for examination results crossed the null value. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)

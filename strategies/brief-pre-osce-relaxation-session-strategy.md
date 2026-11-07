@@ -49,6 +49,7 @@ The article describes a 30-minute preparation session combining an educational b
 - [Peer-led mock OSCE as a cost-effective strategy to reduce anxiety and support well-being before high-stakes clinical assessments](peer-led-mock-osce-strategy.md)
 - [Implement anxiety-coping programs and orientation sessions before OSCE examinations](pre-osce-anxiety-coping-orientation-strategy.md)
 - [Test Anxiety Reduction](test-anxiety-reduction.md)
+- [Screen students for elevated simulation anxiety with STAI and pupillometry, then support predisposed learners with pre-visit, presession-viewing, and breathing-relaxation interventions](anxiety-screening-and-support-strategy-simulation.md)
 
 ## Examples
 -

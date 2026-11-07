@@ -77,3 +77,5 @@ Table 4 proportions for three dimensions: 97.14% vs 54.29% for practical operati
 - [Intern satisfaction with teaching is significantly higher in the simulation group than the control group on all five measured aspects](intern-satisfaction-higher-simulation-group.md) — related
 - [Nursing students perceived the in-class flipped classroom as addressing limited self-operational practice time and enhancing learning efficiency and effectiveness](perceived-efficiency-limited-practice-time.md) — related
 - [Nursing students rated knowledge mastery, classroom atmosphere, and communication and collaboration as the top three aspects of learning satisfaction in the in-class flipped classroom](satisfaction-top-three-in-class-flipped.md) — related
+- [NSTIS students reported significantly higher learning outcomes on enhancing learning interest and satisfying the need for relevant case information](nstis-higher-learning-interest-and-case-information.md) — related
+- [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related

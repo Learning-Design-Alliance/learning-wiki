@@ -27,7 +27,8 @@ A 39-item, six-dimension online Likert self-report scale developed by Qiu Lanyin
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](../claims/palliative-communication-scale-cvi-091-content-validity.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Palliative Care Nurses' Core Competences (PCNCC) scale](palliative-care-nurses-core-competences-pcncc-scale.md)
 
 ## Key Sources
 - Qiu Lanying, Yang Xi, Ye Yingjun, Liang Guanmian, Hou Jianwen, Han Shuai, Wen Xiaoxue, Shen Xiaoying, Guo Yitong, Li Haoyang, Fan Dan, Xie Shuping, Fu Xiaowei. (2025). Construction and verification of reliability and validity of the communication skill assessment scale in cancer palliative care for healthcare staff. World Journal of Surgical Oncology. https://doi.org/10.1186/s12957-025-04002-x

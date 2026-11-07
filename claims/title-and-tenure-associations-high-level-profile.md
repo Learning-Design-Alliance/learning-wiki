@@ -53,3 +53,5 @@ Multivariable multinomial logistic regression (table 4) in the 605-nurse survey;
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — a broader claim this one bears on
 - [Work experience, supervisor title, and self-perceived achievement distinguish Profile 3 from Profile 4](profile3-predictors-experience-supervisor-achievement.md) — related
 - [Nurses' clinic communication competency differs significantly by age, gender, nursing years, professional title, and department](ncccs-demographic-differences-tertiary-nurses.md) — related
+- [Nurses with junior titles score higher on PED KAP than senior-title nurses](junior-title-higher-ped-kap.md) — related
+- [Professional title, position and work experience significantly predict membership in the medium palliative care core competency group](title-position-experience-predict-medium-competency-group.md) — related

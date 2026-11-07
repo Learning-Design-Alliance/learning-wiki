@@ -13,7 +13,7 @@ generated:
 # BOPPPS six-step teaching model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 26 claims (23 for, 3 mixed) · 13 studies (12 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 13 report an effect size · 26 claims rest on one study
+> **Evidence** · 30 claims (26 for, 4 mixed) · 14 studies (13 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 14 report an effect size · 30 claims rest on one study
 
 ## Description
 BOPPPS is a goal-oriented, student-centered teaching framework organized around bridge-in, objectives, pre-assessment, participatory learning, post-assessment, and summary, used by educators to structure lessons and courses.
@@ -37,6 +37,7 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 - **The BOPPPS teaching model: a six-component, student-centred course design framework**: The BOPPPS model, developed in Canada in the late 1970s and recommended by the Instruction Skills Workshop International Advisory Committee, "breaks down a whole teaching process into six interconnected components: Bridge-in, Objective, Pre-assessment, Participatory Learning, Post-assessment and Summary." It emphasizes a student-centreed, teacher-guided philosophy, with participatory learning as its foundation, using methods such as CBL, PBL, TBL and flipped classrooms. In this study it was implemented with cases retrieved from the Hospital Information System for medical imaging experimental teaching. (Yang Ziqing et al. (2025))
 - **BOPPPS six-step teaching model as a constructivist, student-centered closed-loop teaching framework**: BOPPPS is a six-step teaching model originating in the Instructional Skill Workshop at the University of British Columbia in 1978, comprising bridge-in (B), objective (O), pre-assessment (P), participatory learning (P), post-assessment (P), and summary (S). The article describes it as based on constructivism, forming "a complete teaching process and theoretical framework for the achievement of teaching objectives" that "forms a closed loop teaching unit" and "is student-centered". In this study it was implemented within an online-offline hybrid radiology course, with participatory learning incorporating flipped class, discovery learning and case-based learning. (Cheng Wei-Qin et al. (2025))
 - **Use structured six-step BOPPPS within a hybrid online-offline model to improve radiology outcomes for undergraduates**: The article recommends the hybrid BOPPPS model as an effective radiology teaching method for five-year pediatric undergraduates, concluding it "is deserving of recommendation". It structures each lesson around bridge-in, objectives, pre-assessment, participatory learning, post-assessment and summary, supported by pre-class online learning nodes and post-class online resources, so that teaching objectives, instruction and assessment remain constructively aligned. (Cheng Wei-Qin et al. (2025))
+- **BOPPPS-CBL model: structured six-phase framework integrated with case-based learning**: The BOPPPS-CBL model combines the bridge-in, objective, pre-assessment, participatory learning, post-assessment, and summary (BOPPPS) framework with case-based learning. The article states it "combines the strengths of both approaches: the structured, participatory nature of BOPPPS and the practical, case-driven focus of CBL," producing "a more systematic and engaging learning experience." Participatory learning is described as "the core section of the BOPPPS-CBL model, dominated by the resident physicians." (Fan J et al. (2025))
 
 ### Claims
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](../claims/blended-boppps-higher-total-scores.md) [+M]
@@ -65,6 +66,10 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 - [Hybrid BOPPPS group achieved modestly higher formative, final exam and comprehensive scores than the LBL group](../claims/boppps-higher-comprehensive-grades-radiology.md) [+M]
 - [Students rated BOPPPS higher than LBL on enthusiasm, language proficiency, diagnostic reasoning/interpretation and interaction after Bonferroni correction](../claims/boppps-higher-questionnaire-ratings-bonferroni.md) [+M]
 - [Self-learning ability improvement did not survive Bonferroni correction; study pressure did not differ between groups](../claims/boppps-self-learning-null-study-pressure-equal.md) [~M]
+- [BOPPPS-CBL teaching produces higher post-class chest pain test scores than lecture-based learning among resident physicians](../claims/boppps-cbl-higher-post-class-test-scores-residents.md) [+M]
+- [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](../claims/boppps-cbl-mini-cex-six-dimensions-higher.md) [+M]
+- [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](../claims/boppps-cbl-dops-five-dimensions-higher.md) [+M]
+- [A trial reports residents' satisfaction and self-adjustment as higher under BOPPPS-CBL than lecture-based learning, but its own table, scored 1 = best, shows most items favouring lecture](../claims/boppps-cbl-higher-satisfaction-self-adjustment.md) [~W]
 
 ## Related Products and Programmes
 
@@ -89,3 +94,4 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 - Luo Bin, Zhou Fangyao, Zheng Jiabin, Hu Weixian, Lv Zejian, Yang Zifeng, Feng Xingyu. (2025). Application of the flipped classroom combined with BOPPPS model in standardized residency training for gastrointestinal surgery. BMC Medical Education. https://doi.org/10.1186/s12909-025-07855-8
 - Yang Ziqing, Zhen Siyu, Pan Ben, Wei Hanyu, Li Qiang, Yue Junyan, Hu Ying, Liang Changhua. (2025). Investigating the use of the HIS-based BOPPPS teaching model in medical imaging experimental course instruction. BMC Medical Education. https://doi.org/10.1186/s12909-025-07607-8
 - Cheng Wei-Qin, He Ling, Cai Jin-Hua, Fan Xiao. (2025). Hybrid BOPPPS model in radiology education: a case study of pediatric undergraduates. BMC Medical Education, 25. https://doi.org/10.1186/s12909-025-07279-4
+- Fan J, Wang M, Lv Q, Li D, Jiang H, Fu G, Zhang W. (2025). Application of the BOPPPS-CBL model in emergency chest pain management teaching for resident physicians: a randomized comparison. BMC Medical Education. https://doi.org/10.1186/s12909-025-06939-9

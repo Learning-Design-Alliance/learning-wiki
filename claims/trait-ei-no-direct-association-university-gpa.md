@@ -73,3 +73,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Emotional intelligence does not significantly moderate the relationship between psychological well-being and academic self-efficacy](ei-no-moderation-pwb-ase.md) — related
 - [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](ei-predicts-emotions-and-achievement.md) — related
 - [Psychological well-being, academic self-efficacy, and emotional intelligence each significantly and positively predict CGPA among pre-service teachers](pwb-ase-ei-predict-cgpa-preservice-teachers.md) — reports the opposite
+- [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related

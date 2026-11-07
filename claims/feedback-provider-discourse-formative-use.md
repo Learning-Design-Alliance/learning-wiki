@@ -50,3 +50,4 @@ Discourse analysis of the 54-article archive; the feedback-provider discourse fr
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [Dual formative feedback operates bidirectionally at provider and organizational levels](ohl-mini-cex-dual-feedback.md) — related
 - [In the survey-filler discourse, patient involvement in trainee assessment is driven mainly by accreditation requirements and psychometric reliability concerns](survey-filler-discourse-accreditation-driven.md) — related
+- [Residents most often identified increased clinical patient reception as the most effective route to better diagnostic and treatment abilities, and preferred operating independently with the teacher observing and summarizing afterward](residents-prefer-independent-operation-with-post-hoc-teacher-summary.md) — related

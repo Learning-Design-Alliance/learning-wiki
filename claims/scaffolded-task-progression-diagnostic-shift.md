@@ -51,3 +51,4 @@ Thematic analysis of interviews and video recordings across the three task types
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related
+- [Experts recommended curriculum scaffolding with introductory phantom exposure in Year 1 and advanced hands-on planning in Year 2](year1-intro-year2-hands-on-scaffolding.md) — related

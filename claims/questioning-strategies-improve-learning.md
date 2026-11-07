@@ -8,7 +8,7 @@ generated:
 id: questioning-strategies-improve-learning
 evidence_strength: 
 newest_evidence: 1996
-source_checked: 2026-11-05
+source_checked: 2026-11-06
 sources:
   - id: redfield-rousseau-1981
     resource: "https://doi.org/10.3102/00346543051002237"
@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r?` · `q3` · `i1` small
-> **Currency** · newest study 1996 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 1996 · checked against its sources 2026-11-06 (automated, 3 of 3 entries) · not reviewed by a person
 
 Deliberate use of questions — posed before, during, or after instruction — improves learning by prompting retrieval, focusing attention, and stimulating elaboration. The scope of this claim covers teacher-posed and text-embedded questions across age groups and subject domains.
 

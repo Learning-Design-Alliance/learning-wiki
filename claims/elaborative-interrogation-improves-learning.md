@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r2`, 1 review `r?` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Elaborative interrogation — prompting learners to answer "why is this true?" or "why does this make sense?" about factual statements — supports learning by connecting new material to prior knowledge.
 

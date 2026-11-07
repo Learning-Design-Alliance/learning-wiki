@@ -50,3 +50,4 @@ Repeated-measures analysis showed the experimental group's scores immediately af
 - [Simroid robot training effects persisted at the second assessment, with significant differences in clinical examination and doctor-patient communication](simroid-robot-effects-persisted-second-assessment.md) — related
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
 - [Simroid robot training improved specific Mini-CEX domains at the first assessment, but not diagnosis or comprehensive ability](simroid-robot-improved-specific-domains-first-assessment.md) — related
+- [Both groups improved significantly in LS-CAT scores and operation error counts across the three tests over the training period](both-groups-improve-lscat-across-tests.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-23
+source_checked: 2026-11-06
 sources:
   - id: torbeyns-2015
     resource: "https://doi.org/10.1016/j.learninstruc.2014.03.002"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In 5 of 6 Country × Grade combinations (all except Chinese 8th graders), adding number line estimation to fraction arithmetic accuracy considerably increased explained variance in mathematics achievement. [→ Torbeyns 2015](#torbeyns-2015)

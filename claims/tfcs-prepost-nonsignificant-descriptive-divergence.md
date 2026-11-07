@@ -55,3 +55,4 @@ Paired samples t-tests on TFCS within each group of the quasi-experiment. The ar
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
 - [Patient-rated communication shows no significant change over time and no significant group × time difference in either simulation modality, though a nonsignificant large between-group effect favors the individual group descriptively](sbl-communication-no-change-group-trend.md) — related
+- [Within-group baseline-to-final Fair Grader 2000 score changes were not statistically significant in either residency group](fair-grader-within-group-change-not-significant.md) — a narrower finding that bears on this claim

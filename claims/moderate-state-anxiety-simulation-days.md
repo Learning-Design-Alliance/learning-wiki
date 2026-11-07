@@ -49,3 +49,5 @@ State anxiety measured immediately before each simulation with the STAI-S; the m
 - [Trait anxiety in the sample was elevated (mean 49.03 ± 12.05; 22.8% classified as high)](elevated-trait-anxiety-first-year-cohort.md) — related
 - [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — related
 - [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](non-learners-higher-state-anxiety-trait-unchanged.md) — related
+- [Changes in pupillary diameter across a high-fidelity simulation correlate with changes in state anxiety (STAI) in sixth-year medical students](pupillary-diameter-delta-correlates-stai-state-delta-simulation.md) — related
+- [Pupillary diameter rose from presimulation to postsimulation among the study’s participants, while anxiety and pupillary measures did not differ between trauma and anaphylactic shock scenarios](pupillary-diameter-increases-no-scenario-differences.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 414 claims (191 for, 195 mixed, 28 against) · 311 studies (99 associational, 73 design, 51 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 311 report an effect size · 407 claims rest on one study
+> **Evidence** · 415 claims (192 for, 195 mixed, 28 against) · 312 studies (99 associational, 74 design, 51 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 312 report an effect size · 408 claims rest on one study
 
 ## Conditional relationship
 
@@ -258,6 +258,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Each AI model generated 2–4 ethics MCQs (approximately 7–15% per model) that fell outside the ethics domain, assessing medical or legal knowledge instead](../claims/ai-ethics-mcqs-out-of-domain-7-15-percent.md) [+W] — attached 2026-11-05 from Obeid John et al. (2026), which proposed "Use AI to draft ethics MCQs only with expert oversight and refinement, not as a replacement for expert-created assessment content".
 - [The communal scale of the CD-SJT incrementally predicts OSCE Interaction performance beyond GPA, HAM-Nat, and gender in the high-stakes sample](../claims/cd-sjt-communion-incremental-validity-osce.md) [+W] — attached 2026-11-06 from Mielke et al. (2025), which proposed "Use construct-driven SJTs to supplement undergraduate medical admission with a theory-based assessment of social skills"; tests this page's relationship.
 - [The agentic scale of the CD-SJT was unrelated to OSCE performance in both samples](../claims/cd-sjt-agency-unrelated-osce.md) [~W] — attached 2026-11-06 from Mielke et al. (2025), which proposed "Use construct-driven SJTs to supplement undergraduate medical admission with a theory-based assessment of social skills"; tests this page's relationship.
+- [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](../claims/d-study-raters-items-phi-acls.md) [+W] — attached 2026-11-06 from Lertsakulbunlue et al. (2025), which proposed "Assign a unique set of raters to each student within a nested r:(p×i) design to enhance reliability and reduce assessment time under resource constraints"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

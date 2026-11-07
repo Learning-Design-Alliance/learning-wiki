@@ -69,3 +69,4 @@ Model-change statistics from the stepwise regression in Table 3. Model 2 added e
 - [Self-regulation of learning shows the strongest correlation with perceived academic success (r = .55) and the largest standardized regression coefficient (β = 0.294)](self-regulation-strongest-predictor-academic-success.md) — related
 - [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md) — related
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
+- [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — related

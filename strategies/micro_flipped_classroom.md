@@ -72,6 +72,7 @@ The micro flipped approach combines first exposure outside class with active lea
 - [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](third-party-preassignment-strategy.md)
 - [Flipped classroom: pre-class self-paced preparation followed by interactive problem-solving sessions](flipped-classroom-icu-overload-limiting.md)
 - [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
+- [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.

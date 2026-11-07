@@ -56,6 +56,7 @@ Ten ICU nurses were recruited as mentors, trained for one week by the research t
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
+- [Provide targeted, structured learning strategies — mentorship and peer learning — for ICU nurses with low autonomous learning capacity](targeted-strategies-low-autonomous-learning-nurses.md)
 
 ## Examples
 -

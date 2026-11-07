@@ -66,6 +66,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Incorporate immersive VR simulation into radiography education to build clinical preparedness](immersive-vr-simulation-radiography-education-strategy.md)
 - [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
+- [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
 
 ## Examples
 -

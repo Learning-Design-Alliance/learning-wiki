@@ -52,3 +52,4 @@ Baseline comparison of sex, age, entry-level theory, practical skills, and clini
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Baseline test scores did not differ significantly between the CBL-FC and LBL groups](cbl-fc-lbl-baseline-equivalence-untested.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
+- [Pre-class test scores did not differ between BOPPPS-CBL and LBL groups at baseline](boppps-cbl-lbl-equal-pre-class-scores.md) — related

@@ -51,3 +51,4 @@ One-way ANOVA across interest groups (high 50.9%, moderate 39.9%, low 9.2%) in t
 - [Locus of control correlates negatively with GPA among medical and nursing students (r = -0.272)](loc-negative-correlation-gpa.md) — related
 - [Nursing students score higher on SOC meaningfulness than medical students; male students score higher on meaningfulness than female students](meaningfulness-subscale-group-differences.md) — related
 - [Sense of coherence correlates positively with GPA among medical and nursing students (r = 0.519)](soc-positive-correlation-gpa-medical-nursing.md) — related
+- [Higher GPA rankings are associated with higher JHLES scores among Chinese medical students (p < 0.001)](gpa-ranking-associated-with-jhles-scores.md) — related

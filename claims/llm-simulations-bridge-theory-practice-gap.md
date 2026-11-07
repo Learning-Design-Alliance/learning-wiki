@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that LLM-generated simulations let students apply theoretical concepts safely in varied situations, including health-science innovation projects with ethical dilemmas and professional standards. [→ Martínez-Peláez 2025](#martinez-pelaez-2025)

@@ -66,3 +66,5 @@ Study of 67 neuropsychology students comparing a mobile AR application for brain
 - [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — related
 - [VR simulators for inferior alveolar nerve block training improve operation success rate, trainee satisfaction, accuracy and confidence](vr-ianb-training-success-confidence.md) — related
 - [Midwifery students reported significantly greater satisfaction with the gamified training method than with the traditional lecture method](gamification-greater-satisfaction-midwifery-students.md) — related
+- [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
+- [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related

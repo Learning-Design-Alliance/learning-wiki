@@ -74,3 +74,4 @@ Overall analysis of the same 220-item corpus across the three attempts. ChatGPT-
 - [Across all question types and languages, Doubao-1.5-pro achieved the highest accuracy (92.0% ± 1.3%) and ChatGPT-4o the lowest (82.8% ± 3.7%) among six LLMs benchmarked](doubao-highest-chatgpt4o-lowest-accuracy.md) — related
 - [No statistically significant differences between the two chatbots across ophthalmic subspecialties](no-chatbot-difference-by-subspecialty.md) — related
 - [No statistically significant interlingual variation for either chatbot answering the same questions in Turkish versus English](no-interlingual-variation-chatbot-ophthalmology-mcq.md) — related
+- [Asking \"Are you sure?\" reduced correct answers for both models; ChatGPT-3.5 Turbo's answer changes approached but did not reach significance](are-you-sure-prompt-reduced-correct-answers.md) — related

@@ -48,3 +48,4 @@ Likert-scale feedback questionnaire administered to the 15 residents at the end 
 - [Among residents, critical evaluation of diagnostic pitfalls rose from 30% in traditional sessions to 93.3% during the STH 'Black Hat' phase, measured within the same group](pbl-sth-critical-thinking-black-hat.md) — related
 - [Diagnostic accuracy rose from 40% before to 86.6% after PBL-STH teaching in one Oral Pathology resident group with no comparison group, assessing complex lymphoma cases](pbl-sth-diagnostic-accuracy-dlbcl.md) — related
 - [Peer engagement and collaboration were near-universal in PBL-STH sessions, versus 35% active contributors in traditional sessions](pbl-sth-peer-engagement-collaboration.md) — related
+- [Student and faculty satisfaction with PBL sessions after the intervention averaged 4.8 and 4.1 respectively on a five-point scale](pbl-intervention-satisfaction-ratings.md) — related

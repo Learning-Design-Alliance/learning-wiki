@@ -102,3 +102,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
 - [Higher academic achievement predicts higher academic self-concept over time](higher-grades-predict-higher-asc-longitudinally.md) — related
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
+- [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — related

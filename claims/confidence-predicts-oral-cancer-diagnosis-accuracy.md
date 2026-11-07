@@ -49,3 +49,5 @@ Cross-sectional analytical survey of 252 dentists and dental students diagnosing
 - [Diagnostic accuracy is higher for oral conditions with recognizable clinical features and lower for conditions with non-specific presentations](recognizable-features-higher-oral-diagnostic-accuracy.md) — related
 - [Confidence ratings across the seven oral disease cases are positively inter-correlated among dentists and dental students](inter-case-confidence-correlations-positive.md) — related
 - [Concise, focused case summaries are associated with ChatGPT-4 reaching the correct diagnosis](concise-summaries-associated-correct-diagnosis.md) — related
+- [Treating MIH patients and diagnostic confidence are significantly associated with perceiving a rise in MIH prevalence](mih-prevalence-perception-associations.md) — related
+- [Diagnostic confidence in MIH is significantly associated with dental specialisation among German dentists](mih-diagnostic-confidence-specialisation-association.md) — related

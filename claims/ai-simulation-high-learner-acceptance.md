@@ -68,3 +68,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — a narrower finding that bears on this claim
 - [Students report high acceptance of the virtual system: 98.9% improved comprehension, 89.3% willing to adopt it, and 97.2% overall satisfaction](high-satisfaction-and-willingness-virtual-simulation.md) — a narrower finding that bears on this claim
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
+- [Platform usability was rated high marginal (SUS 64.04) with no age-group difference, and chatbot usability was poor for older adults](epa-coach-usability-sus-cuq-ratings.md) — a narrower finding that bears on this claim

@@ -53,3 +53,4 @@ The review reports, citing Takase and Yoshida (2021), a meta-analysis of nursing
 - [Deep learning is positively correlated with teaching effect among undergraduate nursing students (r = 0.407)](deep-learning-correlates-teaching-effect-nursing.md) — related
 - [Deep learning strategy use correlates strongly and positively with academic achievement in undergraduate pharmacy students](deep-learning-strategies-correlate-achievement-pharmacy.md) — a narrower finding that bears on this claim
 - [Surface learning strategy use correlates negatively with academic achievement in undergraduate pharmacy students](surface-learning-negative-correlation-achievement.md) — a narrower finding that bears on this claim
+- [SL skill retention 4 months later is positively correlated with deep learning approach (r = 0.298) and negatively correlated with surface learning approach (r = −0.314)](learning-approach-predicts-sl-retention.md) — related

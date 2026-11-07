@@ -54,3 +54,4 @@ Analysis of the five training results and final test across 26 students (Table 1
 - [Blended-model students performed about twice as many suturing practice attempts as controls, and simulation attempts correlated with skills scores](doubled-practice-attempts-correlate-with-skills-scores.md) — related
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
 - [Medical students training MIS RYGB on a VR trainer in pairs reached proficiency with significantly fewer exercise repetitions than students training solo](pair-training-fewer-repetitions-rygb-proficiency.md) — related
+- [Result scores on the Aizhixing system tended to increase from earlier to later examinations after practice repetitions in one group with no comparison group, but the trend was not statistically significant](aizhixing-score-trend-not-significant.md) — related

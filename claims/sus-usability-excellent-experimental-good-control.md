@@ -57,3 +57,4 @@ SUS percentile ranks converted to adjective ratings for both groups (n=78 total)
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
+- [Platform usability was rated high marginal (SUS 64.04) with no age-group difference, and chatbot usability was poor for older adults](epa-coach-usability-sus-cuq-ratings.md) — related

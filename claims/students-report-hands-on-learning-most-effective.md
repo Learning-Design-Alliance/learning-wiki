@@ -70,3 +70,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Students who identify working with peers as helpful experience more group work, while those citing size or learning activities experience more lecture](practices-shape-perceived-helpfulness.md) — related
 - [Students in the high-tech group reported higher engagement and perceived value than low-tech students, who wanted more high-tech exposure](high-tech-simulation-qualitative-engagement.md) — related
 - [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related
+- [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — related

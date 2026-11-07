@@ -55,3 +55,6 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 - [Most medical students rate team competencies as very important for future practice and report high interest in interprofessionalism](students-rate-team-competencies-important-high-interest.md) — related
 - [Undergraduate dental students perceive that PBL strengthens communication and presentation skills needed for clinical practice](pbl-strengthens-communication-presentation-skills.md) — related
 - [FMSo residents frequently teach clinical examination and diagnosis skills but place less emphasis on professionalism, empathy, and family communication](residents-teach-clinical-skills-not-professionalism.md) — related
+- [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related
+- [Lecturers and clinical instructors perceive SBE as a gap-filler that relieves overloaded curricula and congested clinical sites in Malawian nursing and midwifery education](sbe-gap-filler-overloaded-curricula-malawi.md) — related
+- [Students perceive that frequent use of SBE would sharpen lecturers' and clinical instructors' own clinical skills and knowledge](sbe-improves-educator-skill-mastery.md) — related

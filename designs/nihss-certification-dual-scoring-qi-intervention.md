@@ -43,7 +43,8 @@ A six-month quality improvement intervention implemented April 2022 at Zuckerber
 - [Em Neurology Resident Nihss Substantial Agreement](../claims/em-neurology-resident-nihss-substantial-agreement.md) [+M]
 
 ## Related Designs
-- 
+
+- [Dual-use NIHSS documentation with standardized and screening checkboxes in electronic health records](nihss-dual-use-documentation-checkbox.md)
 
 ## Examples
 -

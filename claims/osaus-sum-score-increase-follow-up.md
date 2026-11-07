@@ -71,3 +71,4 @@ Statistician-blinded repeated measures analysis of the OSAUS scores (participant
 - [Lowest OSAUS item scores concerned technical performance (applied knowledge, image optimization, systematic examination), yet all seven items improved significantly at follow-up](osaus-item-scores-technical-items-lowest.md) — related
 - [Younger GPs and those with prior POCUS experience tended to score higher, while no clear relationship was found between number of performed scans and competence](osaus-scores-age-prior-experience-not-scan-count.md) — related
 - [Neither training modality produced measurable improvement beyond the initial workshop; both groups showed a small comparable decline in modified OSAUS performance](no-improvement-beyond-workshop-both-modalities.md) — related
+- [Tutor-rated OSAUS scores improved significantly for image recognition and both in-plane and out-of-plane US-FNA after model training](osaus-scores-improve-after-liver-model-training.md) — related

@@ -56,3 +56,5 @@ Retrospective cohort analysis of operative time as a continuous measure of techn
 - [Resection-phase telemetry shows time to complete mesopancreas dissection shortens materially across the RPD learning curve](mesopancreas-dissection-time-shortens-landmark-r.md) — related
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related
+- [ROC analysis identifies 20 cases as the cutoff point at which a trainee surgeon achieves proficiency in CT-navigated cup placement](twenty-case-cutoff-ct-navigation-cup-proficiency.md) — related
+- [Cup inclination accuracy improves significantly after 20 cases, while anteversion and 3D position differences do not change significantly](inclination-improves-after-20-cases-anteversion-does-not.md) — related

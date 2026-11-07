@@ -46,6 +46,7 @@ The course is underpinned by pedagogical principles including multimodal, experi
 ## Related Designs
 
 - [Exploring 3D Anatomy: a free open online course for three-dimensional spatial awareness](exploring-3d-anatomy-open-online-course.md)
+- [Social Cognitive Theory and experiential learning theory jointly underpin the Healthy Living program design](sct-el-alignment-hl-program.md)
 
 ## Examples
 -

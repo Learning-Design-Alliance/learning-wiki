@@ -26,7 +26,8 @@ Learning Activity Management System (LAMS) is a software platform for authoring,
 - [Students particularly value the IRAT and AES within the closing session for gauging their own knowledge and applying it to clinically pertinent scenarios.](../claims/students-value-irat-and-aes-in-closing-session.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [ILIAS](ilias.md)
 
 ## Key Sources
 - Drovandi Aaron, Sheader Elizabeth, Kingston Margaret. (2026). Integrated Team-Based Learning in a UK Undergraduate Medical Programme. The Clinical Teacher. https://doi.org/10.1111/tct.70470

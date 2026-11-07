@@ -61,3 +61,4 @@ Inductive coding of free-text postsimulation responses from the 62-participant c
 - [Students highlighted raised risk awareness and professional relevance as the main positive outcomes of the room of horror](roh-raised-risk-awareness-highlighted.md) — related
 - [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related
 - [The eCPR simulation was well received, with positive postsimulation feedback from all respondents](ecpr-simulation-positive-reception.md) — related
+- [Trainees rated the training highly, with 69% perceiving the simulation scenarios and debrief as the most useful aspects and the resuscitation scenario particularly valued](trainees-value-simulation-debrief-most.md) — related

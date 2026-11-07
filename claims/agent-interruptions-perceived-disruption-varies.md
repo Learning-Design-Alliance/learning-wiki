@@ -48,3 +48,4 @@ The editors report this as a secondary finding of the Tegos et al. conversationa
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant](qualitative-distress-companion-loss-emotionally-significant-use.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
+- [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](social-robotic-vp-technical-and-user-related-limitations.md) — possibly the same claim (merge candidate)

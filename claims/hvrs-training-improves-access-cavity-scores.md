@@ -59,3 +59,4 @@ Randomized controlled parallel-group study of 30 fourth-year dental students (15
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related
 - [Digital group students reported significantly greater clinical confidence in mastering cavity preparation than traditional group students](digital-group-greater-clinical-confidence.md) — related
 - [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related
+- [Repeated practice with the Aizhixing digital real-time evaluation system significantly reduced Class II cavity preparation operation time across four examinations](aizhixing-practice-reduces-operation-time.md) — related

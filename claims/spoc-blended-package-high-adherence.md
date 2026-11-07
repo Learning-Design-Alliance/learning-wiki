@@ -62,3 +62,5 @@ Intervention adherence assessed using platform-generated learning records and in
 - [All 32 certified perinatal professionals completed the self-directed NCPR-VR workflow (100% completion rate)](ncpr-vr-100-percent-completion.md) — related
 - [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related
 - [First-year medical students who completed an integrated blended-learning course scored higher on a video-based shoulder examination than students in a lecture-and-self-study control group](integrated-blended-learning-improves-shoulder-exam-performance.md) — related
+- [Study completion rate was higher in the e-learning group than in the video group](elearning-higher-completion-rate.md) — related
+- [A simulation-based training programme for urgent laryngectomy care is feasible, with 93% of accepted multidisciplinary healthcare professionals completing all activities](simulation-laryngectomy-training-feasible.md) — related

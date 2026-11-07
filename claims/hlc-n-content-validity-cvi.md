@@ -60,3 +60,4 @@ Content validity evaluation based on relevance ratings by the 16 Delphi experts.
 - [Expert content review using the Davis method removed five draft items with content validity indices below 0.80](scas-content-validity-davis-cvi-item-removal.md) — related
 - [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related
 - [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related
+- [Expert content validation rated all rubric items above 0.50 on the item-objective congruence index, ranging from 0.67 to 1.00](ioc-content-validity-acls-rubric.md) — related

@@ -53,3 +53,4 @@ Critical duration study (Experiment 4): stimuli shown for fixed durations, accur
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](vgp-improved-inference-auditory-task.md) — related
 - [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — related
 - [Junior 1, a regular video game player, showed the lowest hand motion values and greatest reduction in motion metrics, possibly reflecting dexterity transfer from gaming](video-gaming-dexterity-transfer-robotic-surgery.md) — related
+- [Video gaming experience is tentatively associated with greater fluoroscopy-time reduction in simulator training](video-gaming-experience-tentative-fluoroscopy-reduction-association.md) — related

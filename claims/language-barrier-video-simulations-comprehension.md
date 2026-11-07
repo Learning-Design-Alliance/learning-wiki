@@ -47,3 +47,4 @@ Theme 2, sub-theme 1 finding from interviews with 20 Arabic-speaking nursing stu
 ## Related Claims
 - [The language barrier in peer tutoring concerned academic English rather than spoken language or core content, especially for Arabic-medium-background tutees](academic-english-language-barrier-peer-tutoring.md) — related
 - [Systemic, cultural and resource barriers—patient availability, gender and consent constraints, faculty shortages and exam-focused study—impede clinical learning in the studied LMIC setting](lmic-systemic-barriers-clinical-teaching.md) — related
+- [Clinical instructors perceive SBE role-play as mitigating language barriers when teaching international students from non-English-speaking countries](sbe-language-barrier-mitigation.md) — reports the opposite

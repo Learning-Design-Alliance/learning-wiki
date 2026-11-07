@@ -49,3 +49,4 @@ Randomized controlled trial of 56 surgical interns comparing SDTS (n = 31) with 
 - [Traditional teaching outperforms SDTS on the more complex suture removal and dressing change OSCE](traditional-teaching-superior-suture-removal-osce.md) — related
 - [SDTS requires substantially less total training time than traditional teaching in both skill modules](sdts-shorter-training-duration.md) — related
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
+- [No significant difference between e-learning and video groups in satisfaction, perceived duration, or perceived difficulty](no-difference-satisfaction-duration-difficulty.md) — related

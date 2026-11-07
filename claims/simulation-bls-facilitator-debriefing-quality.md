@@ -61,3 +61,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
 - [Feedback via simulation debriefing acts as a mirroring tool that builds self-knowledge and ownership of actions](debrief-feedback-mirror-self-knowledge-ownership.md) — related
 - [High-quality case handbooks with clear learning outcomes and role-play facilitator training were highly valued supports for CBL facilitation](cbl-handbooks-and-role-play-training-valued.md) — related
+- [The ad hoc structure of group supervision sessions is perceived to limit reflective learning; participants want pre-determined structured content](adhoc-structure-limits-group-supervision-reflection.md) — related

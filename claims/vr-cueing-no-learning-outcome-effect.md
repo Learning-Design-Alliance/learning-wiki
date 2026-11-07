@@ -51,3 +51,4 @@ In the same 91-participant pre-registered between-subjects VR experiment, the kn
 - [The pedagogical agent cue reduced physical presence compared to no cueing and self-presence compared to both other conditions](pedagogical-agent-cue-reduces-presence.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — a broader claim this one bears on
 - [Neither immersion nor interactivity produced significant effects on transfer measures](no-immersion-interactivity-effect-on-transfer.md) — related
+- [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — related

@@ -50,3 +50,4 @@ Questionnaire of neurosurgical residents and experts using 5-point Likert items:
 - [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [XR-based training is associated with improved user performance in cranial neurosurgical simulation compared to non-XR conditions](xr-training-improves-neurosurgical-user-performance.md) — related
+- [A focus group of radiotherapy education experts favoured the end-to-end case study approach using an anthropomorphic phantom in simulation-based learning](focus-group-favors-end-to-end-phantom-sbl.md) — related

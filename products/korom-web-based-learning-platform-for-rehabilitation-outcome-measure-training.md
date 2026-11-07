@@ -26,7 +26,8 @@ KoROM is a web-based platform developed for rehabilitation outcome-measure train
 - [Websites improve practical skills performance in physiotherapy education](../claims/websites-improve-practical-skills-physiotherapy.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [RehAmpTT (Rehabilitation after Amputation Teaching Tool)](rehamptt-rehabilitation-after-amputation-teaching-tool.md)
 
 ## Key Sources
 - Lee Haesu, Woo Young Keun, Park Kyue-nam, Kim Sujin. (2026). Online versus offline Fugl-Meyer lower extremity training for physical therapy students: a randomized study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09634-5

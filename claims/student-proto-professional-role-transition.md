@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-06
 sources:
   - id: gray-2014
     resource: "https://doi.org/10.5204/jld.v7i1.153"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The informal SNS discussion about selecting professional tools was more akin to workplace design discourse than teacher-student talk, and the thread on selecting a professional domain name evidenced a bridge between learning and practice. [→ Gray 2014](#gray-2014)

@@ -69,3 +69,4 @@ Phase 1 paired t-test analysis of 7 fourth-year medical students' pre- and post-
 - [Students with more prior ultrasound experience show larger confidence gains from TEE simulator training](prior-ultrasound-experience-moderates-tee-confidence-gains.md) — related
 - [All participants successfully demonstrated TEE skills after simulator-based training](simulator-tee-training-skills-mastery.md) — related
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](high-fidelity-simulation-associated-with-superior-acquisition-retention.md) — a broader claim this one bears on
+- [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related

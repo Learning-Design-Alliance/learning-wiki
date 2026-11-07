@@ -51,3 +51,4 @@ Analysis of written student feedback collected at a Finnish university during th
 - [Likert-scale SET variables predict topic probabilities for most topics in both academic years](likert-scales-predict-topic-probabilities.md) — related
 - [Feedback questionnaire wording affects LDA topic results, more for emotional value than content](questionnaire-wording-affects-lda-topics.md) — related
 - Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid — related
+- [Simulated personalized feedback generation covered 1,401 test participants with topic counts ranging from 34 to 243 depending on student cluster](ptm-feedback-simulation-1401-participants.md) — related

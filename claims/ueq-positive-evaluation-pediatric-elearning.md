@@ -54,3 +54,4 @@ Formative evaluation with 13 participants (12 residents, 1 student) using the UE
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
 - [Kruskal-Wallis testing showed statistically significant differences between the three module categories for most survey items, driven by more strongly positive responses in the pediatric endocrinology module, but not for perceived improvement in performance](espe-cme-module-differences-kruskal-wallis.md) — related
 - [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related
+- [Nursing students rated the ESNPNSD positively on all six UEQ dimensions](esnpnsd-positive-ueq-scores-all-dimensions.md) — related

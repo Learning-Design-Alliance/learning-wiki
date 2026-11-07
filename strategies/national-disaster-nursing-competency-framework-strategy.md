@@ -55,6 +55,7 @@ The article recommends a package of policy and educational actions to strengthen
 - Formative Assessment
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Use realistic simulations, virtual technologies, and interprofessional exercises as core delivery methods for disaster preparedness training](simulation-virtual-interprofessional-core-delivery-strategy.md)
+- [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
 
 ## Examples
 -

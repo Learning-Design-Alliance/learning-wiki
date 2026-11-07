@@ -51,3 +51,4 @@ Semi-structured focus groups with four teachers after the workshops found unanim
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related
 - [The virtual learning resource was feasible and perceived as more engaging than traditional teaching in a 12-student pilot](vr-resource-feasibility-pilot-engagement.md) — related
+- [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](headset-added-little-over-360-video.md) — related

@@ -55,3 +55,4 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [Simulated patients failed more students than physician examiners in three stations, and inter-rater kappa was mostly non-significant](virtual-osce-sp-failures-kappa.md) — related
+- [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related

@@ -73,3 +73,4 @@ Same repeated-measures design; transfer items used disyllabic words not heard be
 - Study lead instructors did not differ from non-study-lead instructors in student retention performance — related
 - [No effects of visible instructor on learning outcomes across three field studies](no-visible-instructor-learning-effects.md) — a broader claim this one bears on
 - [Temporary instructor presence on lecture slides did not enhance retention or transfer learning outcomes across two preregistered experiments](temporary-instructor-presence-no-learning-benefit.md) — related
+- [No significant difference between e-learning and video groups in satisfaction, perceived duration, or perceived difficulty](no-difference-satisfaction-duration-difficulty.md) — related

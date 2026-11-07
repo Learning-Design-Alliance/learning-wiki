@@ -79,3 +79,4 @@ MANCOVA controlling for family SES and parent total words showed the child-sex e
 - [The authors interpret higher spatial language quality with daughters as possibly reflecting a perceived need to provide conceptual support](perceived-conceptual-support-daughters-interpretation.md) — related
 - [Parent spatial language is concurrently associated with child spatial language at 48 months, explaining substantial variance beyond controls](concurrent-parent-child-spatial-language-association.md) — related
 - [Parents used more spatial language at 24 months than at 48 months, an effect attributable to differences in overall talkativeness](parent-spatial-language-timepoint-talkativeness.md) — related
+- [Chinese parents show gendered involvement patterns: more educational trips, discussion, and control for daughters, more school contact for sons](gendered-forms-of-parental-involvement.md) — related

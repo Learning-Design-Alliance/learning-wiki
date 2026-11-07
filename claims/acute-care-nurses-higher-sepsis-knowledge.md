@@ -52,3 +52,4 @@ One-way ANOVA across clinical areas in the 355-nurse survey found significant di
 - [Overall knowledge scores did not differ significantly by sepsis training level or highest qualification, with differences only at item level](no-overall-knowledge-score-group-differences.md) — related
 - [Cardiac ICU nurses outperform general ICU nurses on specialist arrhythmia items](cardiac-icu-nurses-better-specialist-items.md) — related
 - [Knowledge scores rose from pre-test to post-test after the SDL package, in one uncontrolled pre-post study, with no significant difference in change by area of practice](no-practice-area-difference-sdl-ecg-knowledge-gain.md) — related
+- [Ward type did not differentiate general knowledge (p=0.993), but medical-ward nurses scored higher on basic concepts (p=0.031)](ward-type-null-general-knowledge-medical-ward-area-advantage.md) — reports the opposite

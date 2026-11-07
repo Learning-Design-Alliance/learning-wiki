@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an RCT of 102 health care professionals, the VSP intervention group demonstrated significantly improved posttest skills in alcohol screening and brief intervention compared to a no-training control, with moderate and small effect sizes. [→ Sten CW 2024](#sten-cw-2024)
@@ -93,3 +93,4 @@ RCT of 67 medical students comparing a VSP intervention group to a video module 
 - [Skills outcomes for digital education on guidelines are mixed: simulation modules outperform printed guidelines and no intervention, but video demonstration underperforms peer teaching](digital-education-guidelines-skills-mixed.md) — related
 - [Training produces only a non-significant increasing trend in diagnostic accuracy among students](training-accuracy-nonsignificant-trend.md) — related
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
+- [Previously NIHSS-trained health care professionals who followed an interactive e-learning module scored higher on a knowledge acquisition quiz than those who followed a didactic video](elearning-beats-video-nihss-acquisition.md) — related

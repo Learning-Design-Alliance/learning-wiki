@@ -52,3 +52,4 @@ Paired-samples t-test results from Wave 2 (all 40 students rating both methods).
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
 - [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](wave2-paired-lvo-advantages.md) — related
 - [After experiencing only live video observations, students rate nearly all aspects of the experience significantly positively except seeing and hearing everything in the classroom](wave3-lvo-ratings-significant-except-see-hear.md) — related
+- [Fusing pose information from multiple camera views makes the model's pose-related ratings more robust than single-view human judgements, which are limited by participant angle and initial posture.](multiview-fusion-robust-pose-ratings.md) — related

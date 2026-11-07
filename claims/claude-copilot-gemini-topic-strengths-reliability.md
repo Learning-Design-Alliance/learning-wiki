@@ -94,3 +94,4 @@ Benchmark results for Gemini 1.5 Flash across three attempts; answer coincidence
 - [LLM performance on KMLE varies by medical specialty, with relatively weak accuracy in medical law for all three models](kmle-specialty-variation-weak-medical-law.md) — related
 - [GPT-4o answers were highly consistent across attempts, whereas GPT-3.5's answers a year earlier were mostly unreliable](gpt-4o-answer-consistency-versus-gpt-3-5.md) — related
 - [LLM performance on anatomy MCQs varies significantly across anatomical topics, with Head & Neck and Abdomen highest and Upper Limb lowest](llm-anatomy-topic-performance-variation.md) — related
+- [ChatGPT-4o showed higher consistency in correct answer rates than students, with a narrow interquartile range versus wide variability among third-year students](chatgpt-4o-consistency-narrow-iqr-endodontic-accuracy.md) — related

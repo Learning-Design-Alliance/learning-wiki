@@ -50,6 +50,7 @@ The article recommends structured interventions in both academic and clinical se
 ## Related Strategies
 
 - [Design web-based metacognitive training with structural reflection, social interaction, and self-awareness activities](web-metacognitive-training-design-suggestions.md)
+- [Targeted interventions to enhance clinical preparation, plus mentorship and education–practice collaboration, to bolster nurse interns' readiness](enhance-clinical-preparation-interventions-nurse-interns.md)
 
 ## Examples
 -

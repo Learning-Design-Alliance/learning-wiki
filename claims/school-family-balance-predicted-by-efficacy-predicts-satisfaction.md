@@ -50,3 +50,4 @@ Structural model results from the 398-participant survey: the model accounted fo
 - [Family satisfaction fully mediates the relationship between school-family balance and life satisfaction among student parents](family-satisfaction-fully-mediates-balance-life-satisfaction.md) — related
 - [Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction](servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction.md) — related
 - [Family Group Conferences improved at-risk lower-secondary students' perceived parental involvement, relations with teachers, self-efficacy about learning and school satisfaction at one year](fgc-improves-student-wellbeing-outcomes-rct.md) — related
+- [No significant associations between GPA and relationship status, parental status, academic year, residence, self-esteem, competence, well-being, or life satisfaction](null-associations-gpa-demographic-psychosocial.md) — related

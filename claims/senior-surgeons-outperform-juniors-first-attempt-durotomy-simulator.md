@@ -52,3 +52,4 @@ Validation study of the simulator with 21 participants across training levels; s
 - [Construct validity evidence shows statistically significant proficiency differences favouring junior over senior groups across modalities, though junior and senior residents did not differ on some metrics](simulation-construct-validity-junior-senior-differences.md) — reports the opposite
 - [Senior trainees scored approximately 30–40% higher than juniors on technical performance measures in simulation studies](senior-junior-technical-performance-gap-simulation.md) — a broader claim this one bears on
 - [All training groups improved repair times with repeated exposure to the simulator](repeated-exposure-improves-durotomy-repair-times.md) — related
+- [Optimal number of procedures for a reproducible assessment is 10, 17, 15, and 17 for PGY 2, 3, 4, and 5 respectively, with senior years requiring more procedures](optimal-procedures-increase-by-pgy.md) — related

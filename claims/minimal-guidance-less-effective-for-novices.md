@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r?` · `q2`–`q4` · `i1` small
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 For learners who lack relevant prior knowledge, discovery- or inquiry-style approaches with minimal instructional support produce weaker learning than approaches that provide explicit structure, modeling, and worked examples.
 

@@ -50,3 +50,4 @@ Implementation-domain evaluation combining participant survey responses with obj
 - [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md) — related
 - [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
+- [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — reports the opposite

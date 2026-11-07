@@ -78,3 +78,4 @@ Authors' interpretation of the mismatch between survey-reported consensus and co
 - [Agreement between prompting strategies was moderate to substantial (Cohen's κ 0.518–0.632; Fleiss' κ = 0.571)](moderate-substantial-agreement-prompting-strategies.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related
+- [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related

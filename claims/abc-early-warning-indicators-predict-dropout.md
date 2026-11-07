@@ -86,3 +86,4 @@ The expert panel's synthesis statement in Recommendation 1, grounded in the pane
 - [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — related
 - [The transitional support intervention showed no significant treatment effect on attendance, discipline, or credit accrual](transitional-support-intervention-no-effect-behavioral-outcomes.md) — related
 - [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](learning-analytics-monitor-risk-optimize-curriculum.md) — related
+- [No factor showed a significant effect on early drop-out rate, and embedded questions showed only non-significant trends on other outcomes](null-early-dropout-and-nonsignificant-embedded-question-effects.md) — related

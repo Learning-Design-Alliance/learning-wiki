@@ -54,6 +54,7 @@ The authors recommend that "screen-based 360° contextual simulation videos may 
 - [Use facilitated interactive video as a scalable BLS training adjunct when simulation capacity is limited](facilitated-video-adjunct-when-simulation-capacity-limited.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Just-in-time training: stop-and-go simulation debriefing and over-the-shoulder clinical coaching](just-in-time-stop-and-go-over-the-shoulder.md)
+- [Deliver 360-video/VR orientation resources before first clinical exposure, timed to the pre-clinical years and in concise, accessible formats](timed-preclinical-360-video-delivery-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Multivariable logistic regression in the same 705-student cohort, adjusted for E
 - [Mid-training professionalism SJT scores are associated with lower odds of professionalism lapses in medical students (univariable)](nms-sjt-univariable-predicts-lapses.md) — related
 - [Pre-admission UCAT SJT scores are not statistically significantly predictive of professionalism lapses in medical students](ucat-sjt-not-predictive-of-lapses.md) — related
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](assessments-predictive-validity-later-clinical-performance.md) — a broader claim this one bears on
+- [Candidates who passed MRCP Part 1 at first sitting had significantly higher medical school performance (EPM) and SJT scores than those who failed](mrcp-part1-passers-higher-epm-sjt.md) — related

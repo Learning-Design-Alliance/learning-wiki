@@ -51,6 +51,7 @@ The review recommends that LLMs be positioned as supportive educational tools th
 - [Deploy healthcare LLMs as augmentative tools under human oversight rather than autonomous decision-makers](llm-augmentative-tools-human-oversight.md)
 - [Use LLMs cautiously in ophthalmology resident training, particularly for complex clinical decision-making cases](cautious-llm-use-in-resident-training-complex-cases.md)
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
+- [Guide medical students to use ChatGPT cautiously with cross-checking, disclosure, and teacher oversight](cautious-chatgpt-use-teacher-oversight-strategy.md)
 
 ## Examples
 -

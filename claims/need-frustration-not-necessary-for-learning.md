@@ -51,7 +51,7 @@ Narrative review argument synthesizing research on autonomous motivation, flow, 
 
 ## Related Claims
 - [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](effort-self-reports-not-valid-cognitive-requirements.md) — related
-- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
+- [A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

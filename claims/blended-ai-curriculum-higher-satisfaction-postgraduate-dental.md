@@ -52,3 +52,4 @@ Quasi-experimental comparison of two course sections (intervention n=26, control
 - [Qualitative themes linked intervention-group satisfaction to course clarity, active and collaborative learning, and research preparedness, and control-group dissatisfaction to workload and logistics](qualitative-themes-clarity-engagement-versus-workload-logistics.md) — related
 - [Gender differences in satisfaction were not statistically significant in either curriculum group](satisfaction-gender-differences-nonsignificant-both-groups.md) — related
 - [Total academic performance favored the blended AI-integrated curriculum group but the difference was not statistically significant](total-performance-nonsignificant-trend-blended-ai-curriculum.md) — related
+- [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related

@@ -50,6 +50,7 @@ The article enumerates prompting techniques used to improve LLM results without 
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
 - [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
+- [Improve LLM performance on TCM examinations by incorporating TCM texts into training, developing specialized TCM LLMs, and using chain-of-thought prompting](specialized-tcm-llm-training-and-chain-of-thought-strategy.md)
 
 ## Examples
 -

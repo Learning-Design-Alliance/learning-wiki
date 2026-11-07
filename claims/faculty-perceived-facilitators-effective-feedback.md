@@ -48,3 +48,4 @@ Content analysis of 16 faculty interviews at an Iranian medical university produ
 - [Faculty members experience five categories of barriers to effective feedback on their educational performance, including power imbalance, unstructured feedback, inappropriate content, recipient resistance, and giver-receiver conflict](faculty-perceived-barriers-effective-feedback.md) — related
 - [Psychological readiness of the feedback receiver is perceived as a prerequisite for translating feedback into improvement](receiver-psychological-readiness-prerequisite.md) — related
 - [Power asymmetry between feedback giver and receiver reduces trust and increases resistance to feedback among faculty](power-asymmetry-reduces-feedback-trust.md) — related
+- [The ad hoc structure of group supervision sessions is perceived to limit reflective learning; participants want pre-determined structured content](adhoc-structure-limits-group-supervision-reflection.md) — related
