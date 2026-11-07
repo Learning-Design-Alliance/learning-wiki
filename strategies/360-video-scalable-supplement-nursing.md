@@ -55,6 +55,8 @@ The authors recommend that "screen-based 360° contextual simulation videos may 
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Just-in-time training: stop-and-go simulation debriefing and over-the-shoulder clinical coaching](just-in-time-stop-and-go-over-the-shoulder.md)
 - [Deliver 360-video/VR orientation resources before first clinical exposure, timed to the pre-clinical years and in concise, accessible formats](timed-preclinical-360-video-delivery-strategy.md)
+- [Deliver a portion of clinical nursing skills instruction through mobile-based video learning that students can replay anytime](mobile-video-learning-for-clinical-skills-strategy.md)
+- [Deliver emergency simulation training at scale using 360-degree VR blended with in-person clinical placements](vr-simulation-scalable-blended-emergency-training.md)
 
 ## Examples
 -

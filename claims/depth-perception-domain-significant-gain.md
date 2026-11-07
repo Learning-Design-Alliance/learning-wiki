@@ -53,3 +53,4 @@ Secondary-endpoint analysis of individual GOALS domains in the FAS (n = 18), rep
 - [Simulation training showed no statistically significant differences on secondary operating-room endpoints (operation time, resident operating proportion, takeovers, conversion)](no-significant-secondary-endpoint-differences.md) — related
 - [Depth perception, bimanual dexterity, tissue handling, and efficiency scores rose from native to video-teaching sequences in one group measured before and after, with the largest rise in depth perception and the smallest in efficiency](coaching-improves-goals-subscores-depth-perception-largest.md) — related
 - [LSPPDM group scored higher on all five GOALS technical-skill dimensions in live-pig cholecystectomy](lsppdm-higher-goals-technical-scores.md) — reports the opposite
+- [All qualitative GOALS skill dimensions differ significantly across performance quartiles](qualitative-goals-dimensions-quartile-differences.md) — related

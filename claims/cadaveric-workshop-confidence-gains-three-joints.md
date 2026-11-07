@@ -71,3 +71,4 @@ Authors' interpretation in the Discussion of the pooled pre/post results, attrib
 - [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related
 - [Participants without prior ultrasound course experience showed greater knowledge gains (26.7 vs 20 points, p = 0.003) despite lower pre- and post-course scores](rush-mooc-novice-greater-gains.md) — related
 - [Current institutional access to ultrasound equipment is associated with higher confidence, with access rates varying by institution type, while residency institution type shows no association with confidence](ultrasound-equipment-access-confidence.md) — related
+- [Randomized cadaveric study: mentored cadaver practice after lecture and video doubles accurate subacromial injection rate versus lecture and video alone](cadaver-practice-improves-sai-accuracy.md) — related

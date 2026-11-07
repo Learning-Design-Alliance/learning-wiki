@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (76 show a difference, 22 mixed, 14 no difference) · 72 studies (26 causal, 18 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 72 report an effect size · 111 claims rest on one study
+> **Evidence** · 120 claims (84 show a difference, 22 mixed, 14 no difference) · 74 studies (26 causal, 20 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 74 report an effect size · 119 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -148,6 +148,14 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](../claims/ei-predicts-emotions-and-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Trait and ability EI mediate, at a low level, the link between entity ITEI and negative emotions and Portuguese grades](../claims/ei-mediation-of-entity-itei-effects.md) [~W] — learners who differ on it differ in outcomes
 - [Four serial mediation paths linked REDI to reduced high school behavior problems via preschool emotion knowledge, social competence, grade school social adjustment, and parent involvement.](../claims/redi-behavior-problems-serial-mediation.md) [+W] — measured as an outcome of the instruction studied
+- [Emotional intelligence is directly and positively related to academic achievement and psychological well-being in university students](../claims/ei-direct-achievement-wellbeing.md) [+W] — learners who differ on it differ in outcomes
+- [Emotional intelligence is positively and significantly linked with self-efficacy, motivation, and resilience among both undergraduate and postgraduate students](../claims/ei-positive-links-self-efficacy-motivation-resilience.md) [+W] — learners who differ on it differ in outcomes
+- [Residents' emotional intelligence is positively correlated with their humanistic care competence (r = 0.400)](../claims/ei-positive-correlation-resident-humanistic-care.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy, motivation, and resilience each mediate the relationship between emotional intelligence and academic achievement](../claims/ei-achievement-mediation-three-traits.md) [+W] — learners who differ on it differ in outcomes
+- [Self-efficacy, motivation, and resilience each mediate the relationship between emotional intelligence and psychological well-being](../claims/ei-wellbeing-mediation-three-traits.md) [+W] — learners who differ on it differ in outcomes
+- [Self-emotional appraisal is the emotional intelligence dimension most strongly correlated with humanistic care competence (r = 0.402)](../claims/self-emotional-appraisal-strongest-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Self-emotional appraisal, appraisal of others, emotional control, emotional use and school community work experience independently predict humanistic care competence](../claims/regression-predictors-resident-humanistic-care.md) [+W] — learners who differ on it differ in outcomes
+- [The courage dimension of humanistic care competence is negatively correlated with emotional intelligence (r = -0.248)](../claims/courage-dimension-negative-correlation-ei.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -56,3 +56,4 @@ Subgroup analysis of the knowledge-acquisition meta-analysis by assessment timin
 - [Meta-analysis of RCTs finds no significant effect of simulation training on factual knowledge about suicide](simulation-no-knowledge-effect-rct-meta.md) — related
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
 - [Follow-up testing six months after the programmes ended suggested the language impact may have increased over time, but this could not be established with confidence](neli-follow-up-impact-uncertain.md) — related
+- [Self-reported confidence gains from on-call simulation may not persist: at 6-month follow-up, confidence was lower than immediately after simulation](confidence-gains-decline-six-months-followup.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Prospective educational study of 14 trainees interpreting 200 prostate mpMRI cas
 - [Prior radiological experience has no significant impact on PI-RADSv2.1 or PI-QUALv2 learning, with only a minor effect on EPE grading](prior-radiological-experience-minimal-impact.md) — related
 - [Readout times decrease markedly in both specialties during feedback-based training, with the largest gains in the first 50 cases](readout-time-decreases-training.md) — related
 - [After 200 feedback-based cases, urology and radiology trainees reach similar final PI-RADSv2.1 agreement matching inter-expert agreement](similar-final-performance-across-specialties.md) — related
+- [Prostate segmentation accuracy is highest in the mid-gland and lower in the apex and base](segmentation-accuracy-varies-by-prostate-region.md) — related

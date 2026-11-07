@@ -49,3 +49,4 @@ Descriptive count comparison of adverse events during circulating nursing work a
 - [BOPPPS-integrated scenario simulation training increases circulating work quality scores of junior operating room nurses in a single-center pre-post study](boppps-simulation-improves-circulating-work-quality.md) — related
 - [Operating room nurses' total MDRPI knowledge scores rose from pre-test to post-test after hybrid PBL–simulation training in one uncontrolled pre-post study (Cohen's dz = 2.231)](pbl-simulation-training-increased-or-nurse-mdrpi-knowledge.md) — related
 - [After the intervention, no NPWT abnormal incidents were reported on the two wards as of June 2022, compared with four events in the preceding period](npwt-abnormal-incidents-declined-after-training.md) — related
+- [Nursing-related adverse events decreased significantly after implementation of the combined training system](informatization-training-reduced-adverse-nursing-events.md) — related

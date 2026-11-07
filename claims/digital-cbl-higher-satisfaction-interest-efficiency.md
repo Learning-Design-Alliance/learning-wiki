@@ -57,3 +57,4 @@ Satisfaction survey of both groups in the pilot study, scored on a 5-point scale
 - [Students in the CBL multimodal imaging group reported higher learning interest, study ability, clinical thinking and case analysis ability than traditional-group students](cbl-multimodal-higher-subjective-evaluations.md) — related
 - [Students in the 3D+CBL group rated the teaching higher than the CBL group on hip fundamentals, diagnostic and treatment-planning ability, interest, willingness to communicate, and satisfaction](3d-cbl-higher-questionnaire-ratings-ddh.md) — related
 - [LSPPDM trainees reported higher subjective perception of the course on four of six questionnaire dimensions](lsppdm-higher-subjective-perception.md) — related
+- [Teaching satisfaction did not differ significantly between O2O/PBL and LBT trainees across five surveyed aspects](o2o-pbl-teaching-satisfaction-no-difference-nephrology.md) — reports the opposite

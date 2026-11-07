@@ -48,7 +48,7 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 ## Related Claims
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — a broader claim this one bears on
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
-- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — a broader claim this one bears on
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](flipped-classroom-higher-student-satisfaction-medical-education.md) — a broader claim this one bears on
 - [Trainees report high satisfaction with flipped classroom combined with CBL but flag pre-class time burden](flipped-classroom-cbl-satisfaction-pre-class-time-burden.md) — related
 - [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
@@ -63,3 +63,4 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
 - [FC-TBL students expressed high satisfaction, with about 78% reporting sparked interest and over 74% willing to choose the model again](fc-tbl-high-satisfaction.md) — related
 - [Residents in the intervention group reported reduced residency examination pressure compared with the control group](peyton-flipped-reduced-exam-pressure.md) — related
+- [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related

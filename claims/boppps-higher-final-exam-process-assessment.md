@@ -75,3 +75,5 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [The HIS-based BOPPPS teaching model group scored significantly higher than the traditional teaching group on case reading and total end-of-term exam scores in both semesters](boppps-his-higher-case-reading-total-scores.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
 - [The “One Case to the End” model based on BOPPPS raises pediatric nursing students' academic performance compared with traditional teaching](one-case-boppps-improves-academic-performance.md) — related
+- [Blended learning produced higher post-test knowledge scores than traditional lecture in the evidence-based medicine course](blended-learning-higher-post-test-ebm.md) — related
+- [Undergraduate medical laboratory students taught with the BOPPPS-PBL model achieved significantly higher summative assessment scores than students taught with traditional methods](boppps-pbl-higher-summative-scores-hematology.md) — related

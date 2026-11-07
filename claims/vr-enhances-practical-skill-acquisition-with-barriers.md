@@ -129,3 +129,4 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — related
 - [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — a narrower finding that bears on this claim
 - [Ultrasound simulation training improves cognitive and psychomotor skills, provides continuous immediate feedback, and enables standardized reproducible assessment](simulation-benefits-ultrasound-training.md) — related
+- [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — related

@@ -140,3 +140,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Most students viewed ChatGPT positively as a teaching tool, while lack of interactivity was the most common drawback](chatgpt-positive-role-lack-of-interactivity.md) — related
 - [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related
 - [The sampled practice material contains potentially inaccurate or misleading radiation therapy information, for which the authors propose specific corrections](inaccurate-rt-content-nbme-practice-questions.md) — related
+- [ChatGPT-4 illness scripts contained specific factual and specificity deficiencies, including an incorrect infection route for varicella and inappropriate treatment for hyperventilation syndrome](chatgpt4-illness-script-specific-deficiencies.md) — related

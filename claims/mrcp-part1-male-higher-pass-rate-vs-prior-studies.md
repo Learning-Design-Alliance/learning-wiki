@@ -52,3 +52,4 @@ Univariable chi-squared comparison of first-sitting pass rates by sex in the 604
 - [Candidates who passed MRCP Part 1 at first sitting had significantly higher medical school performance (EPM) and SJT scores than those who failed](mrcp-part1-passers-higher-epm-sjt.md) — related
 - [Religion predicts first-attempt outcomes, with effects differing by examination format and reversing direction for some groups](religion-predicts-first-attempt-outcomes-format-dependent.md) — related
 - [First-time PANCE pass rates were similar between the MMI cohort (98%) and the two panel-interview cohorts (100%)](mmi-simulation-similar-pance-pass-rates.md) — related
+- [Sex differences in OSCE outcome appear in univariate analysis but are not significant in the path model, and SSC mitigates them](ssc-mitigates-sex-differences-osce.md) — related

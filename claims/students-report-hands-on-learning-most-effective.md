@@ -71,3 +71,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Students in the high-tech group reported higher engagement and perceived value than low-tech students, who wanted more high-tech exposure](high-tech-simulation-qualitative-engagement.md) — related
 - [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related
 - [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — related
+- [Students identified authentic cases, collaborative learning, feedback, worksheets, journal writing, and appropriate difficulty as beneficial, with time constraints and workload as challenges](focus-group-benefits-challenges-flipped-reasoning.md) — related

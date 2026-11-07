@@ -61,3 +61,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Critical thinking was
 - [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related
 - [AI-empowered scenario-based simulation teaching produced higher clinical critical thinking scores than traditional teaching](ai-scenario-simulation-higher-clinical-critical-thinking.md) — related
 - [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related
+- [A larger share of the combined-method group reported improved independent learning ability (88.46% vs 65.68%) and improved learning enthusiasm (89.42% vs 76.47%)](cbl-clinical-pathway-independent-learning-enthusiasm.md) — related

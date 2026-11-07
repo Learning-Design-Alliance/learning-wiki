@@ -68,3 +68,4 @@ Descriptive thematic analysis of focus group discussions conducted after the pos
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
 - [Focus group analysis of simulation participants yields four themes — learning (32.6%), self-efficacy (29%), simulation method (21.3%), and development (16.5%)](focus-group-four-themes-als-simulation.md) — related
 - [Students report learning outcomes across patient-related, behavioural, emotional, and error-handling dimensions of communication competence](simulation-learning-outcomes-themes.md) — related
+- [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related

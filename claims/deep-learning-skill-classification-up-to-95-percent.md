@@ -50,3 +50,5 @@ Narrative synthesis finding attributed to Wang et al. within the review's roboti
 - [Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs](dl-cnn-rnn-better-visual-cheating-detection.md) — related
 - [Deep learning models trained on JIGSAWS kinematic and video data achieve high accuracy in predicting surgeon skill level and mOSATS scores](deep-learning-high-accuracy-skill-prediction-jigsaws.md) — related
 - [The skill assessment network distinguishing novice from expert surgeons reached only 56% test accuracy, failing to achieve useful performance](skill-assessment-network-56-percent-accuracy-failed.md) — reports the opposite
+- [This is the first end-to-end trained approach classifying open surgery skill directly from video without hand-crafted feature extraction](first-end-to-end-video-skill-assessment-open-surgery.md) — related
+- [Deep learning models classify open suturing videos into three skill levels with up to 75% accuracy and 72% F1, comparable to individual human raters](video-models-three-level-open-suturing-skill-classification.md) — related

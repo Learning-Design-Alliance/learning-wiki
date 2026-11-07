@@ -53,3 +53,4 @@ Nationwide survey study of 2113 medical students from all 38 German medical scho
 - [Traditional interview scores show modest predictive validity: average observed correlation ra = .15 and average corrected validity rac = .29 across 106 published validity coefficients](interview-corrected-validity-029.md) — related
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [Including MCAT scores in admissions composites weakens prediction of clinical skills performance measured by OSCE scores](mcat-inclusion-reduces-osce-prediction.md) — related
+- [Casper shows weak but significant correlations with cognitive admission criteria including Abitur grade, TMS, and HAM-Nat logical reasoning, but not with science knowledge or arithmetic subtests](casper-german-pilot-discriminant-validity-cognitive.md) — related

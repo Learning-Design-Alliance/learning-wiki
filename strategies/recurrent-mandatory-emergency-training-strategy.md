@@ -49,6 +49,7 @@ Participants' free-text responses and the follow-up survey repeatedly recommende
 - [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
 - [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
 - [Stepwise integration of EPAs into prehospital emergency medicine training incorporating pediatric-specific EPAs, simulation-based refresher courses, and EPA-based assessment tools](stepwise-epa-integration-prehospital-training.md)
+- [Integrate simulation courses and structured sub-step assistance, including an Education Team-Time-Out, into emergency surgical training](simulation-and-substep-integration-emergency-surgery-training.md)
 
 ## Examples
 -

@@ -71,3 +71,5 @@ Table 4 data for the courage dimension of the CAI: t = 0.140, P = 0.899, d = 0.0
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](mini-cex-humanistic-care-ability-gains.md) — related
 - [The 7E instructional model improved empathy ability in nursing probation students across viewpoint acquisition, emotional care and transposition thinking](7e-model-empathy-nursing-students.md) — related
+- [Residents' humanistic care competence scores are low while emotional intelligence is at a medium level](low-humanistic-care-medium-ei-residents.md) — related
+- [Patience is the highest-scoring and courage the lowest-scoring dimension of residents' humanistic care competence](patience-highest-courage-lowest-dimension.md) — related

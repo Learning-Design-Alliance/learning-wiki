@@ -50,3 +50,4 @@ De-identified post-intervention survey completed by trial participants. "partici
 - [Adding 10 minutes of VR training to conventional training yields overall LP proficiency comparable to 30 minutes of purely conventional training in preclinical medical students](vr-supplemented-lp-training-comparable-overall-proficiency.md) — related
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [Student satisfaction was moderately and positively correlated with academic performance in both curriculum groups](satisfaction-performance-moderate-correlation-both-groups.md) — related
+- [Training interest is higher with the 12-hole clock model, while confidence rises and satisfaction, acceptance, and difficulty ratings are comparable between models](clock-model-higher-interest-comparable-satisfaction.md) — related

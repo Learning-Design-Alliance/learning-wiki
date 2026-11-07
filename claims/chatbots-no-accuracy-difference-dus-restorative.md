@@ -51,3 +51,4 @@ In silico cross-sectional comparison of eight chatbots each answering 188 restor
 - [Chatbot accuracy varies by content domain, with cavity preparation showing the greatest variability across models](chatbot-accuracy-varies-content-domain.md) — related
 - [ChatGPT-4o and Gemini Advanced show no statistically significant overall accuracy difference on DUS questions, both exceeding 80%](chatgpt4o-gemini-advanced-no-overall-accuracy-difference-dus.md) — related
 - [Prior studies report widely varying ChatGPT diagnostic accuracy in dentistry (11% to 99%), likely due to differences in question types and content](prior-chatgpt-dental-accuracy-studies-vary-11-to-99-percent.md) — related
+- [The three AI chatbots differ significantly in overall accuracy on the Italian CINECA entrance test for healthcare science degrees (p < 0.001)](ai-chatbots-accuracy-differ-cineca-entrance-test.md) — related

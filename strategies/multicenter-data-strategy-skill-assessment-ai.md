@@ -49,6 +49,7 @@ The authors recommend that future research adopt a multicenter approach to data 
 - [Prioritize predictive-validity research, benchmarking of existing tools, and integration of kinematic data and AI in surgical skill assessment](future-migs-assessment-kinematic-ai-benchmarking.md)
 - [Pursue AI-based and console-data evaluation platforms for assessing novice robotic surgical skill](ai-based-robotic-skill-evaluation-strategy.md)
 - [Future validation studies should build on existing assessment tools rather than develop new ones](validate-existing-tools-strategy.md)
+- [Develop AI algorithms to automatically annotate surgical gestures and provide targeted feedback, with substantial testing before clinical implementation](ai-automatic-gesture-annotation-targeted-feedback-strategy.md)
 
 ## Examples
 -

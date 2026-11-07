@@ -44,6 +44,7 @@ The review identifies areas ripe for further research: establishing viable study
 - [Prioritize longitudinal designs, detailed screen-time measures, and late-adolescent samples in future neuroimaging research](future-neuroimaging-longitudinal-detailed-measures.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 - [Use INS as an online marker of learning quality to trigger dynamically increased autonomy support during teaching](neurofeedback-guided-autonomy-support-teaching.md)
+- [Real-time HRV monitoring with individual thresholds to trigger expert support and prevent work-overload events](realtime-hrv-threshold-monitoring-strategy.md)
 
 ## Examples
 -

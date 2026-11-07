@@ -59,3 +59,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Learners' buy-in to a realistic, immersive educational experience ('being' rather than 'pretending') enables agentic engagement](being-not-pretending-enables-agentic-learning.md) — related
 - [Three themes emerged from qualitative analysis: prioritizing patient care; representing variability in anatomy and PFDs for realism; and consideration of implementation, cost, and accessibility](three-themes-patient-care-realism-cost-accessibility.md) — related
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
+- [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related

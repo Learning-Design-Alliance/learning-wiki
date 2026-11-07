@@ -64,6 +64,7 @@ Practice outside class multiplies opportunities for retrieval and skill consolid
 - [Interleaved Practice](interleaved-practice.md) — item-mixing variation that improves discrimination
 - [Flipped Classroom](flipped-classroom.md) — repositions take-home work as first exposure rather than consolidation
 - [Pair clicker questions with at-home follow-up reflections asking students to explain each statement](pair-clickers-with-at-home-reflection-explanations.md)
+- [Time-limited chapter tests with randomized item order and delayed answer release](tronclass-chapter-test-routine-strategy.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — free online math problem sets with immediate automated feedback; randomized controlled trials in Maine middle schools showed improved achievement when homework included instant feedback.

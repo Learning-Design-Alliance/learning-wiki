@@ -65,3 +65,4 @@ Reported contrast within the same data-collection account: the three schools com
 
 ## Related Claims
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](hero-elementary-game-loading-time-navigation-issues.md) — related
+- [The CA-PT is feasible to administer: 90% finished within two hours with no system performance issues](ca-pt-feasible-administration.md) — reports the opposite

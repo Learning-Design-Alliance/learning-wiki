@@ -55,3 +55,4 @@ Domain-specific analysis of 20-item BLS knowledge questionnaire responses from 2
 - [Syrian medical students show moderate CPR knowledge (mean 5.03/11) and MI symptom knowledge (mean 11.50/18) with the largest CPR gaps in AED timing and defibrillation parameters](syrian-medical-students-moderate-cpr-mi-knowledge-aed-gaps.md) — related
 - [Specific advanced hypothermia decision items showed low accuracy, ranging from 45% to 94% across the scenario's 16 questions](vr-scenario-item-accuracy-range-45-94.md) — related
 - [Gaza doctors and nurses show significant BLS knowledge gaps in resuscitation sequence, compression depth, advanced-airway ventilation and choking response](gaza-hcw-bls-knowledge-gaps.md) — related
+- [About half of newly licensed Italian physicians had adequate theoretical knowledge of CPR, well below their expected competence](half-of-new-physicians-adequate-cpr-theory.md) — related

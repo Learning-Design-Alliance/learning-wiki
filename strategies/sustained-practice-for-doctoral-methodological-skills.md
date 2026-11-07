@@ -52,6 +52,7 @@ The article recommends that doctoral programs support durable methodological cap
 - [Sustain engagement across the programme with system-level reforms, collaborative and experiential activities, and stimulating environments](sustain-engagement-system-level-strategies.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
+- [Integrate pedagogic-didactic competence, content knowledge and socio-emotional skills in authentic teaching practice within health education teacher education](integrated-authentic-practice-he-teacher-education.md)
 
 ## Examples
 -

@@ -66,6 +66,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Build eLearning-based CPD systems that are user-friendly, enjoyable, and habit-forming, supported by infrastructure and digital-literacy training](elcpd-uptake-design-strategy.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
+- [Provide competency-based in-service training through the CPD system for OBE-trained nurses and supervisors](cpd-in-service-cbe-training-for-obe-staff.md)
 
 ## Examples
 -

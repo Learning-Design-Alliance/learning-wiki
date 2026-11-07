@@ -59,3 +59,4 @@ Domain- and step-level comparisons reported in Tables 2 and 3 of the same cohort
 - [Prior surgical experience shows no significant advantage for basic robotic surgical skill acquisition](surgical-experience-no-gears-advantage.md) — possibly the same claim (merge candidate)
 - [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related
 - [Trainees and instructors shared similar views on the potential risk of procedures performed by inexperienced surgeons (correlation r = 0.956)](trainee-instructor-risk-ratings-highly-correlated.md) — related
+- [Dissection time, gallbladder removal time and total operative time differ significantly across performance quartiles](operative-time-quartile-differences.md) — related

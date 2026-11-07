@@ -44,7 +44,8 @@ To optimize retrieval practice, particularly with VSAQs whose initial retrieval 
 - [VSAQs are answered incorrectly more often than MCQs on practice tests, indicating lower initial retrieval success](../claims/vsaq-lower-initial-retrieval-success.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Run at least two formative VSAQ occasions rather than lengthening a single occasion, and have teachers review self-marked answers after each session](multiple-occasions-vsaq-formative-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,5 @@ Bootstrap mediation analysis (2000 samples) in the same 265-student study treate
 ## Related Claims
 - [Self-efficacy and learning engagement act as a significant chain mediator from social support to academic performance](chain-mediation-self-efficacy-learning-engagement.md) — related
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](emotion-regulation-mediation-peer-support-achievement.md) — related
+- [Learning engagement partially mediates the association between peer relationships and academic achievement](learning-engagement-partial-mediation-peer-achievement.md) — related
+- [Learning motivation partially mediates the association between peer relationships and academic achievement](learning-motivation-partial-mediation-peer-achievement.md) — related

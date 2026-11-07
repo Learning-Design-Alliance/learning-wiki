@@ -51,3 +51,4 @@ Cross-sectional survey of 2055 nurses in 80 hospitals across 5 Chinese provinces
 - [Nurses with master's or doctoral degrees scored significantly lower in infectious disease emergency response competence than nurses with diploma or associate degrees](higher-degree-lower-competence.md) — related
 - [Higher frequency of infectious disease emergency drills is associated with higher competence scores among Chinese nurses](drill-frequency-competence-association.md) — related
 - [Higher frequency of infectious disease training sessions is associated with higher competence scores, with the largest coefficient at 5-9 sessions](training-frequency-competence-association.md) — related
+- [Scenario simulation is reported as an effective strategy for training clinical skills in treating infectious diseases](scenario-simulation-effective-infectious-disease-training.md) — related

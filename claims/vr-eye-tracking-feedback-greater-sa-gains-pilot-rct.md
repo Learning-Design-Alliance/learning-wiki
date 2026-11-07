@@ -54,3 +54,4 @@ Pilot randomized pretest–posttest study of 35 medical interns (VR n=17, manneq
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
 - [In the M5 handover exercise, 71.2% of medical students successfully managed a prescribed interruption](m5-interruption-management-71-percent.md) — related
 - [Both VR simulator and mannequin-based simulation improve trainees' non-technical skills for critical incidents, with significant improvement in the VR group](vrs-vs-mbs-crisis-nontechnical-skills.md) — related
+- [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related

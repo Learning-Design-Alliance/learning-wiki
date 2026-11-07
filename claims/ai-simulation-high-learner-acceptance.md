@@ -70,3 +70,5 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
 - [Platform usability was rated high marginal (SUS 64.04) with no age-group difference, and chatbot usability was poor for older adults](epa-coach-usability-sus-cuq-ratings.md) — a narrower finding that bears on this claim
 - [First-semester medical students evaluate the IC-MD procedure positively, with acceptance scores ranging from 3.9 (quality of measurement) to 5.4 (controllability)](ic-md-participant-acceptance.md) — related
+- [Nursing students rate the VR oral health learning system as a good experience, and satisfaction does not differ by prior VR game experience](vr-system-satisfaction-sus.md) — related
+- [The VR trauma simulation is well accepted by medical students, with good usability, moderate immersion, balanced workload, and high satisfaction and technology acceptance.](vr-trauma-simulation-well-accepted.md) — related

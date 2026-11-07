@@ -47,3 +47,4 @@ Round 1 descriptive results from the 26-expert panel; all four categories exceed
 ## Related Claims
 - [Expert consensus was reached on four core competency domains for Eating Support Healthcare Aides: chewing/swallowing assessment, oral function and safe eating support, meal-type application, and nutritionally adequate meal preparation.](four-competency-domains-eating-support-aides.md) — related
 - [In Delphi round 2, all competency domains scored above 4.69 in mean importance with Consensus Deviation Index values between 0.06 and 0.10, meeting the pre-set consensus threshold.](round2-consensus-cdi-threshold-met.md) — related
+- [Third-round expert agreement was fair by Kendall's W (0.22), with most top-ranked competencies in the pedagogic and subject-specific didactic domain](fair-agreement-kendall-w-domain-distribution.md) — related

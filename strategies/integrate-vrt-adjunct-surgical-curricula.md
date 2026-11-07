@@ -58,6 +58,7 @@ The article concludes that virtual reality training could provide a useful train
 - [Integrate the MaiSurge model into gynecology residency curricula for continuous TLH training and skill assessment outside the operating room](maisurge-curriculum-integration-strategy.md)
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 - [Integrate ex vivo laparoscopic basic-skills simulation training at the beginning of surgical residency](ex-vivo-simulation-before-first-laparoscopic-procedure.md)
+- [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
 
 ## Examples
 -

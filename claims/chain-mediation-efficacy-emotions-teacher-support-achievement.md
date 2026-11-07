@@ -58,3 +58,4 @@ Chain mediation model in the same SEM analysis (n = 721), with the full chain me
 - [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — a broader claim this one bears on
 - [Academic self-efficacy mediates the relationship between teacher support and academic achievement](self-efficacy-mediation-teacher-support-achievement.md) — related
 - [Teacher support is directly and positively associated with academic achievement among university students](teacher-support-direct-effect-achievement.md) — related
+- [Learning motivation and learning engagement chain-mediate the peer relationship–achievement link, with the motivation pathway strongest](chain-mediation-motivation-engagement-strongest-pathway.md) — related

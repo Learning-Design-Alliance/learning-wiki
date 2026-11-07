@@ -47,3 +47,4 @@ Multivariable logistic regression (Table 5) adjusting for age, gender, departmen
 
 ## Related Claims
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
+- [Students reporting academic decline rated the effects of distance/mixed learning more negatively on exams, study hours, focus, and social relationships](distance-learning-perceived-worse-by-academic-decliners.md) — related

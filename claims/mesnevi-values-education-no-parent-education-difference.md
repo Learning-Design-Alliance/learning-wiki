@@ -49,3 +49,4 @@ Kruskal-Wallis H tests across mother's education levels (primary, high school, u
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Family variables relate to academic achievement, with parents' attitudes and behaviors (ES = .873) and parental expectations (ES = .865) showing large effects, and father's education level relating more strongly than mother's](family-variables-effects-academic-achievement-meta-review.md) — related
 - [Parents' educational level was not significantly related to post-training FLRA scores in the experiment group](parents-education-not-related-to-flra.md) — related
+- [Parental SES components differentially relate to parent-supported art participation and academic performance](parental-ses-components-vap2-academic.md) — related

@@ -49,6 +49,7 @@ Based on their findings, the researchers recommend that when using blended learn
 - [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
 - [Increase varied formative assessment practices in classrooms, especially those giving learners an active role (self-, peer-, and group-assessment)](increase-learner-active-role-formative-assessment.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Apply various modes of learning to enhance the development of nursing students' competence.](apply-various-modes-of-learning-nursing-competence.md)
 
 ## Examples
 -

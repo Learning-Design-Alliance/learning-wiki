@@ -52,6 +52,7 @@ The article's implementable recipe: students first complete a multiple-choice te
 - [Two Stage Quizzes](two-stage-quizzes.md)
 - [Two Stage Exams](two-stage-exams.md)
 - [Numbered Heads Together](numbered-heads-together.md)
+- [Team assignments graded by teachers plus anonymous peer scoring within and across teams](tbl-team-assignments-anonymous-peer-scoring.md)
 
 ## Examples
 -

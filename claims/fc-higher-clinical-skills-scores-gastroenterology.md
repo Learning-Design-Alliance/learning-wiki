@@ -47,7 +47,7 @@ In the same randomized trial, the clinical skills assessment evaluated core proc
 ## Related Claims
 - [Flipped classroom residents score higher on case analysis questions than traditional classroom residents (33.61 ± 2.61 vs. 31.43 ± 3.17, p = 0.010)](fc-higher-case-analysis-scores-gastroenterology.md) — related
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
-- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — a broader claim this one bears on
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related

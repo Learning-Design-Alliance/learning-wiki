@@ -76,3 +76,5 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
 - [Over nine in ten fresh health sciences undergraduates score above-average emotional intelligence, with the lowest dimension being regulation of emotion](fresh-health-sciences-undergraduates-high-ei-prevalence.md) — related
 - [In the high-grade group, e-learning performance correlates negatively with self-efficacy and positively with monitoring studying and emotional exhaustion](high-grade-group-correlations.md) — related
+- [Emotional intelligence is directly and positively related to academic achievement and psychological well-being in university students](ei-direct-achievement-wellbeing.md) — reports the opposite
+- [Self-efficacy for learning estimated by IRT was not significantly correlated with one-time exam scores or full-range GPA, but showed a weak positive correlation with GPA among students with positive SEL](sel-gpa-positive-range-correlation.md) — related

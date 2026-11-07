@@ -97,3 +97,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Communication is the competence that enables teachers to convey all other competences to their students, with nonverbal communication considered more effective than verbal](communication-conveys-other-competencies.md) — related
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — a narrower finding that bears on this claim
 - [Follow-up interviews reveal seven themes linking community-oriented PBL to readiness for home care visits, professional growth, and community engagement](pbl-interviews-seven-themes-community-care.md) — related
+- [Physiotherapy students report that group-based work during a simulation-based placement enhanced teamwork skills that transferred to subsequent practice placements](sbl-group-work-teamwork-transfer.md) — related

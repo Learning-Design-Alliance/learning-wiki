@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 425 claims (281 show a difference, 100 mixed, 44 no difference) · 302 studies (107 associational, 104 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 82 of 302 report an effect size · 413 claims rest on one study
+> **Evidence** · 427 claims (283 show a difference, 100 mixed, 44 no difference) · 304 studies (109 associational, 104 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 82 of 304 report an effect size · 415 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -475,6 +475,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Overplacing oneself above peers correlates with lower intrinsic motivation and identified regulation and higher amotivation](../claims/overplacement-negative-correlation-motivation.md) [+M] — measured as an outcome of the instruction studied
 - [Students under honors/pass/fail grading reported higher intrinsic motivation than students under A–F grading](../claims/honors-pass-fail-higher-intrinsic-motivation.md) [+M] — measured as an outcome of the instruction studied
 - [In medical students, motivation and personality contribute most to surgical training performance, with motivation explaining 8.4% and personality 4.5% of variance](../claims/students-motivation-personality-drive-surgical-training-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Student interest concentrated in emergency medicine, internal medicine and surgery, and interest was linked to better blended-teaching outcomes](../claims/content-interest-moderates-blended-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Writing more about the interest to learn ('interest to learn' move) predicts higher master grades](../claims/interest-to-learn-move-predicts-higher-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

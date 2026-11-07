@@ -54,3 +54,4 @@ Randomised controlled trial of 92 medical students reviewed within the systemati
 - [Simulation with patient-specific 3D-printed teeth improved crown preparation quality versus traditional patient care](3d-printed-teeth-simulation-crown-preparation.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
 - [After Holm adjustment, the VR group's advantage held specifically for slit lamp examination, eye B ultrasound, OCT examination, and fundus photography](vr-diagnostic-item-holm-confirmed-advantages.md) — related
+- [Eyesi training produced significantly higher fundus structure identification scores than traditional direct ophthalmoscope training](eyesi-higher-fundus-structure-identification-than-tdo.md) — related

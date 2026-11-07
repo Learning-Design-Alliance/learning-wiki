@@ -52,3 +52,4 @@ The review reports, citing Alharbi et al. (2024), a systematic review finding th
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
+- [Evidence for bootcamp benefits is limited by absent control groups, self-reported subjective measures and lack of long-term follow-up](bootcamp-evidence-limits-no-control-no-followup.md) — related

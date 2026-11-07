@@ -52,3 +52,4 @@ Quasi-experimental study with 90 NICU nurses. Repeated measures ANOVA across thr
 - [Both autonomy supportive and controlling teaching units produce significant pre-to-post learning gains](both-conditions-significant-learning-gains.md) — related
 - [Scores changed significantly across the three observations in both groups, with the experimental group improving and the control group declining over successive observations](divergent-trajectory-rlc-versus-control-repeated-measures.md) — reports the opposite
 - [Communication self-confidence improved significantly over time in both groups, with a significant group-by-time interaction favoring the experimental group](communication-confidence-time-effect-and-interaction.md) — related
+- [In the BLS E-learning experiment, knowledge score changes were significantly influenced by time, number of sessions, and their interactive effect](repeated-measures-anova-time-sessions-interaction-bls.md) — related

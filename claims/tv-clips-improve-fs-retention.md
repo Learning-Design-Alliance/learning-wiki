@@ -51,3 +51,4 @@ Independent-samples t-test on delayed posttest scores of 20 experimental and 20 
 - [Delayed-posttest retention scores did not significantly differ by digital storytelling, though experimental-group means were higher](digital-storytelling-math-delayed-posttest-no-significant-difference.md) — related
 - [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related
 - [Explicit instruction on academic formulaic sequences significantly improved EFL college learners' FS test performance from pretest to posttest.](explicit-fs-instruction-improves-fs-test-performance.md) — related
+- [Combining instructional video and self-study immediately before testing yields equally high scores regardless of sequence](immediate-video-self-study-combination-sequence-null.md) — related

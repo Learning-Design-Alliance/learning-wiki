@@ -65,3 +65,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
 - [Student and teacher interviews identified three themes: a new learning experience, enhanced clinical critical thinking, and suggestions for improvement](ai-scenario-simulation-interview-three-themes.md) — related
+- [Self-emotional appraisal, appraisal of others, emotional control, emotional use and school community work experience independently predict humanistic care competence](regression-predictors-resident-humanistic-care.md) — related

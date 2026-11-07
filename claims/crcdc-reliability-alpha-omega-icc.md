@@ -76,3 +76,4 @@ Temporal stability assessed using a test–retest design with 30 participants wh
 - [Internal consistency of the tool's three category scores is satisfactory, with Cronbach's α of 0.84 for positive and mixed videos and 0.91 for the negative video](fbat-internal-consistency-cronbach.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
+- [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related

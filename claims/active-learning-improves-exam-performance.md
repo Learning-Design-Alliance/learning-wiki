@@ -121,14 +121,14 @@ The article reports the 2014 Freeman et al. meta-analysis of 225 studies compari
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does replacing part of lecture with active learning raise exam scores and pass rates?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **13 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 kind not coded, 1 associational, 1 review), `q2`–`q4`, 6 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does replacing part of lecture with active learning raise exam scores and pass rates?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **13 distinct studies** (7 causal, 2 quant-synthesis, 2 theoretical, 1 associational, 1 review), `q2`–`q4`, 6 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Freeman et al. 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r2 | i2 · medium effect, 0.47 SD; i2; i? | this claim; [Students in traditional lecture STEM courses are 1.5 times more likely to fail than studen](lecturing-increases-stem-failure-rates.md) (supports); [The active-learning advantage is robust to publication bias and to variation in methodolog](active-learning-effect-robust-bias-and-rigor.md) (supports); [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) (supports) |
 | [Theobald et al. 2020](https://doi.org/10.1073/pnas.1916903117) | q3 · quant-synthesis · r3 | i1 · small effect, exam gap narrowed by 0.20 SD (−0.62 to −0.42) | this claim |
 | [Finkelstein 2026](https://doi.org/10.48550/arxiv.2510.01467) | q2 · theoretical · r2 | i? | this claim |
-| [Lebert 2024](https://doi.org/10.1111/nyas.15238) | q2 | i2 | this claim |
+| [Lebert 2024](https://doi.org/10.1111/nyas.15238) | q2 · theoretical · r2 | i2 | this claim |
 | [Deslauriers L. 2019](https://doi.org/10.1073/pnas.1821936116) | q3 · causal · r3 | i? | [Students in active classrooms scored higher on tests of learning than students in passive ](active-learning-higher-test-scores-than-lecture.md) (supports) |
 | [Özgür Tutal 2026](https://doi.org/10.1038/s41598-026-50770-1) | q2 · causal · r1 | i3 | [Prospective teachers taught with CCCT outperformed a lecture-based control group on academ](ccct-outperformed-lecture-achievement.md) (supports) |
 | Julia B. Smith 2001 | q2 · associational · r2 | i? | [Interactive instruction is positively associated with one-year achievement gains in readin](interactive-instruction-positive-achievement-gains-chicago.md) (supports) |

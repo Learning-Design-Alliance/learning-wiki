@@ -49,3 +49,4 @@ Training durations were logged through the SDTS backend for the experimental gro
 - [Modified Peyton training takes significantly less time than traditional Peyton training](modified-peyton-shorter-training-time.md) — related
 - [Traditional teaching outperforms SDTS on the more complex suture removal and dressing change OSCE](traditional-teaching-superior-suture-removal-osce.md) — related
 - [Students learning with module-plus-animation videos spent significantly less practice time than students using module-only videos](ma-group-shorter-practice-time-than-mv.md) — related
+- [The feedback group takes significantly longer total operative time than the control group](feedback-group-longer-operative-time.md) — related

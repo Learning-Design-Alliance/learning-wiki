@@ -60,3 +60,4 @@ Prospective educational intervention at a national residency training base: 30 r
 - [ePHR task completion times fell from pre-test to post-test in both age groups after one week of ePA Coach use, in a pre-post study with no comparison group](epa-coach-skill-time-reduction.md) — related
 - [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — related
 - [PGY 3–5 trainees suture faster initially but show lower improvement rates than PGY 1–2 trainees](pgy-experience-faster-times-lower-rtr.md) — related
+- [Medical students' task completion times on all four trained laparoscopic tasks decreased significantly from pre-test to post-test after a hands-on laparoscopic training workshop, in one uncontrolled pre-post study](laparoscopic-workshop-reduced-task-completion-times.md) — related

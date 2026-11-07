@@ -71,3 +71,4 @@ Variance component estimates (Table 3) showed participant × scenario variance (
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [Two raters' total scores on the ten-item ACLS simulation rubric correlate 0.70 (p < 0.001) among pre-clinical medical students](acls-rubric-interrater-reliability-070.md) — related
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
+- [Casper shows satisfactory internal consistency but only moderate interrater agreement and low test-retest reliability in the German pilot](casper-german-pilot-reliability-mixed.md) — related

@@ -80,3 +80,4 @@ Results for the five image-based questions (3 electrocardiograms, 2 CT scans), K
 - [GPT-4o answered both image-based PNA questions correctly](gpt-4o-answered-image-questions-correctly.md) — related
 - [GPT-4o shows a clear advantage in complex question formats, exceeding 85% accuracy on case analysis (A3/A4) and matching (B1) questions](gpt4o-advantage-complex-question-formats.md) — related
 - [Overall performance differed significantly among the four LLMs, with a post-hoc ordering of Claude 3.5 Sonnet > ChatGPT 4o > Llama-3 ≈ Gemini 1.5, while passed-exam counts did not differ significantly](significant-llm-performance-differences-oncology-exams-anova.md) — related
+- [A sensitivity analysis excluding not-applicable answers (e.g., image-based items) yielded results similar to the main accuracy comparison](cineca-accuracy-sensitivity-analysis-similar-results.md) — related

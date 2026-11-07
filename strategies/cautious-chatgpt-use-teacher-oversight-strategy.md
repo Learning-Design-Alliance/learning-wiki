@@ -55,6 +55,7 @@ The article's future-perspectives and discussion sections recommend careful, sup
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
 - [Integrate AI chatbots into dental education as supervised supplementary tools for exam preparation and formative self-assessment](supervised-chatbot-supplementary-dental-education.md)
+- [Use AI chatbots as supplementary, not primary, resources in entrance-exam preparation](chatbots-supplement-not-primary-exam-preparation.md)
 
 ## Examples
 -

@@ -79,3 +79,4 @@ Sub-group analysis of Gelinas-Phaneuf et al.'s VR tumour-resection simulator: "a
 - [More experienced surgeons rate knowledge of imaging anatomy and spatial perception as more important pre-operative general skills than trainees do](experience-level-differences-general-skill-importance-ratings.md) — reports the opposite
 - [LapSim simulator scores correlate with instructor GOALS assessments in junior residents but not senior residents](lapsim-correlates-junior-not-senior.md) — related
 - [The eight-station simulation-based assessment produced a significant difference in mean station score between junior (ST2–ST4) and senior (ST5–ST8) trainees](sim-assessment-junior-senior-score-difference.md) — reports the opposite
+- [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — reports the opposite

@@ -50,3 +50,5 @@ Randomised controlled trial at the Paris-Saclay simulation centre: 63 anaesthesi
 - [Observer-tool use shows no significant difference in team performance, satisfaction, or perceived impact on future professional life](observer-tool-no-secondary-outcome-differences.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [In situ simulation training did not further improve ANTS-rated non-technical skills and team interaction during actual postnatal stabilization, which were already high before training](ants-nontechnical-skills-no-improvement-in-situ-sbt.md) — related
+- [Observer tool use lowered student satisfaction and showed no benefit for non-technical skills or perceived improvement](observer-tool-lower-satisfaction-no-nts-benefit.md) — related
+- [Using an observer tool during CPR simulation did not improve medical students' global performance immediately after training](observer-tool-no-global-performance-benefit-cpr-simulation.md) — related

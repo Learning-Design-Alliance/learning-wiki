@@ -74,3 +74,5 @@ Authors' interpretation of two included studies' performance curves: surgeons' s
 - [During LEARNBOT biotissue simulation training, surgeons' OSATS scores improved significantly and reconstruction duration decreased with consecutive attempts](learnbot-osats-improvement-biotissue-training.md) — a narrower finding that bears on this claim
 - [EyeSi simulator training improves vitreoretinal task performance scores in ophthalmology trainees](eyesi-vitreoretinal-training-improves-task-scores.md) — a narrower finding that bears on this claim
 - [Repeated, feedback-guided rehearsal of one validation response improved its clarity and fluency and reduced its experienced difficulty across four attempts in one session](repeated-rehearsal-improves-validation-fluency.md) — related
+- [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — related
+- [VR training improves surgical performance and reduces the learning curve for complex procedures](vr-training-improves-surgical-performance.md) — related

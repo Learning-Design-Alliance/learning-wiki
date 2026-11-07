@@ -63,3 +63,4 @@ Anonymous dichotomous-response questionnaire developed for this study, pilot-tes
 - [Intern satisfaction with teaching is significantly higher in the simulation group than the control group on all five measured aspects](intern-satisfaction-higher-simulation-group.md) — related
 - [SPOC+PBL students reported higher satisfaction with teaching than LBL students across interest, participation, collaboration, interaction and clinical thinking dimensions](spoc-pbl-higher-teaching-satisfaction.md) — related
 - [Students in the combined PBL-CBL group showed higher team collaboration ability in group discussions than the traditional teaching group](pbl-cbl-higher-team-collaboration-rating.md) — related
+- [More students in the combined CBL and clinical pathway group reported improved learning interests, clinical skills, case analysis, communication, theoretical understanding, and clinical thinking (P < 0.05)](cbl-clinical-pathway-perceived-skill-improvements.md) — related

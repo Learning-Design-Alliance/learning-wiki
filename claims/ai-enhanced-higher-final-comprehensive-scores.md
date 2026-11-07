@@ -50,3 +50,4 @@ Same three-arm RCT; final comprehensive score combined a theoretical examination
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](bpbl-higher-academic-achievement-than-pbl-and-lecture.md) — related
 - [The AI-enhanced group showed significantly higher one-month knowledge retention than both comparison groups](ai-enhanced-higher-knowledge-retention.md) — related
 - [Questionnaire outcomes favored the AI-enhanced group on tutor recognition, blended acceptance, and autonomous learning habits, but not knowledge organization ability](questionnaire-outcomes-mixed-favoring-ai-enhanced.md) — related
+- [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related

@@ -69,3 +69,4 @@ Wilcoxon signed-rank tests in the same pilot RCT; VR errors fell from 14.65±7.7
 - [VR group showed numerically greater trauma-management error reduction than the mannequin group in exploratory comparison](vr-eye-tracking-greater-error-reduction-pilot.md) — related
 - [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — related
 - [VR training with eye-tracking heatmap feedback yields numerically greater situational awareness gains than mannequin-based training in a pilot RCT under simulated ED interruptions](vr-eye-tracking-feedback-greater-sa-gains-pilot-rct.md) — related
+- [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related

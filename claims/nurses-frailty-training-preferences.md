@@ -55,3 +55,4 @@ Descriptive analysis of an 11-item educational-needs questionnaire among the 558
 - [Paramedics' preferred online learning format depends on the format they most recently experienced](format-preference-follows-experienced-format.md) — related
 - [Most surveyed nurses lacked frailty education: only 41.8% knew the term frailty, 10.5% had frailty-care training, and 17.0% had studied relevant guidelines](nurses-frailty-education-gaps-survey.md) — related
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related
+- [Blended-teaching students reported positive perceptions, with a majority preferring it to traditional offline teaching and willing to adopt it in other courses](blended-teaching-positive-student-perceptions.md) — related

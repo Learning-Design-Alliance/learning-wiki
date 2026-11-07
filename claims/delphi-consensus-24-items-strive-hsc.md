@@ -58,3 +58,4 @@ Delphi consensus study of 30 invited heads of healthcare simulation centers in m
 - [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related
 - [A three-round modified Delphi consensus process with neurosurgical key opinion leaders produced a prioritised list of 47 procedural skills for simulation-based learning](delphi-consensus-47-neurosurgical-procedures-sbe.md) — related
 - [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related
+- [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](delphi-52-he-teacher-competencies-eight-domains.md) — related

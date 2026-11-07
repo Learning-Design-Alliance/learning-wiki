@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 269 claims (154 show a difference, 75 mixed, 40 no difference) · 215 studies (79 causal, 37 associational, 34 review, 24 theoretical, 20 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 35 of 215 report an effect size · 252 claims rest on one study
+> **Evidence** · 272 claims (156 show a difference, 76 mixed, 40 no difference) · 217 studies (81 causal, 37 associational, 34 review, 24 theoretical, 20 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 36 of 217 report an effect size · 255 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -317,6 +317,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Experienced PGY-3 residents outperform novices in pericardiocentesis at the 3-month assessment despite comparable puncture times](../claims/pgy3-outperform-novices-pericardiocentesis.md) [+M] — learners who differ on it differ in outcomes
 - [Platform difficulty supported a progression: the computer-based platform suited students with less rheumatology knowledge, the social robot those with consolidated theoretical background](../claims/vp-platform-difficulty-progression.md) [~M] — an instructional effect differs with it
 - [Bimanual dexterity differentiates intermediates from novices only in the first segment, and novices score slightly higher in the second segment](../claims/bimanual-dexterity-significant-only-first-segment.md) [~W] — learners who differ on it differ in outcomes
+- [Novices show learning progress in prostate MRI segmentation across feedback rounds but remain less accurate than residents](../claims/novice-segmentation-learning-progress.md) [+M] — learners who differ on it differ in outcomes
+- [Segmentation accuracy varies more among novices than among radiology residents, in the cases each group segmented](../claims/novice-inter-reader-variability-higher.md) [+M] — learners who differ on it differ in outcomes
+- [The difficult EMT learning strategy is more effective for residents earlier in training, with a significant cohort-by-PGY interaction on adaptive expertise](../claims/pgy-moderates-emt-adaptive-expertise.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

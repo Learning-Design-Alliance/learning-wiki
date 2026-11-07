@@ -50,3 +50,4 @@ In the same within-subjects ANOVA (n = 45), the final test format itself mattere
 - [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related
 - [After excluding the Dhok et al. (2023) outlier, students score significantly lower on VSAQs than MCQs](vsaq-scores-lower-than-mcq-outlier-removed.md) — a broader claim this one bears on
 - [Initial pooled analysis shows no statistically significant difference between VSAQ and MCQ scores but with extreme heterogeneity](vsaq-mcq-initial-pooled-no-difference-high-heterogeneity.md) — reports the opposite
+- [In ISF-VSAQ path analysis, the second-attempt self-reflected understanding level directly affects final MCQ score (β = 0.25, p = 0.033), while passing the VSAQ does not](understanding-level-predicts-mcq-not-vsaq-score.md) — related

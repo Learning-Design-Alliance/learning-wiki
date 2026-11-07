@@ -66,3 +66,4 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
 - [Postgraduate qualification was positively and health education specialisation negatively associated with teaching efficacy; female teachers scored higher on pedagogical knowledge](demographic-covariates-knowledge-efficacy.md) — reports the opposite
 - [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related
+- [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related

@@ -48,3 +48,5 @@ Cross-sectional survey of 31 general surgery residents across three programs (~3
 - [Only about one-third of residents believe FLS skills transfer to complex laparoscopic cases, with positivity declining as training advances](fls-skill-transferability-skepticism.md) — related
 - [Nearly half of surveyed residents practice only the five core FLS skills on the box trainer](residents-practice-only-fls-skills.md) — related
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
+- [Decreased number of exams taken is strongly associated with self-reported academic decline](fewer-exams-taken-associated-with-decline.md) — related
+- [Most surveyed residents reported laparoscopic skill improvement and endorsed continuing the at-home curriculum](residents-report-skill-improvement-at-home-laparoscopic-curriculum.md) — related

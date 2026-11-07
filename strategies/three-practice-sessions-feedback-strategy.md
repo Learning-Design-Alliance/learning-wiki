@@ -47,6 +47,7 @@ The article recommends structuring standardized assessment training around repea
 - [Train faculty and students in rubric use with calibration strategies to maximize agreement and self-assessment accuracy](rubric-calibration-training-strategy.md)
 - [Use LLM-based virtual patient simulations to provide on-demand, repeated standardized interview practice for rater training and calibration](virtual-patient-rater-training-strategy.md)
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
+- [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
 
 ## Examples
 -

@@ -95,3 +95,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Gender differences in statistics engagement favor female students in clinical application and method familiarity, with all comparisons significant at p < 0.05](gender-differences-statistics-engagement-medical-students.md) — related
 - [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — reports the opposite
+- [Discipline-level predictors differed: gender predicted anatomy scores, graduate type predicted physiology, social sciences and biochemistry scores](discipline-level-predictors-bsre.md) — related

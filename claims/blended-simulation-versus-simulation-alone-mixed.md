@@ -87,3 +87,4 @@ Systematic review (20 studies) of simulation-based training for nursing students
 - [Adding a virtual patient simulation to standard nursing training produces significantly greater improvement in confidence in asking about IPV than standard training alone](vp-simulation-greater-confidence-asking-about-ipv.md) — related
 - [The review reports SBME yields positive outcomes across oncology subspecialties, including communication skills, chemotherapy safety, and radiation oncology competencies](sbme-positive-outcomes-oncology-subspecialties.md) — a broader claim this one bears on
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
+- [A blended tutorial-plus-simulation induction outperforms a didactic lecture alone for on-call preparedness](blended-induction-superior-to-lecture-alone.md) — a narrower finding that bears on this claim

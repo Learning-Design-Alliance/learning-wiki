@@ -55,3 +55,4 @@ Pretest-posttest descriptive results in the quasi-experiment: experimental avera
 - [SBSM students outperformed both control groups and district/state averages on FITNESSGRAM passing](sbsm-students-outperformed-controls-fitnessgram.md) — related
 - [The RS group scored significantly lower on grammar posttests](rs-group-significantly-lower-grammar-posttest.md) — related
 - [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — related
+- [Both teaching approaches raised mean knowledge scores above the 70% sufficiency threshold, but only the game group's mean skill score did](both-methods-knowledge-above-threshold-only-game-skills.md) — related

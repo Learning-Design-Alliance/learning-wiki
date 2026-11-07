@@ -59,7 +59,7 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — a broader claim this one bears on
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Flipped classrooms yield higher skill scores than traditional lectures in Chinese clinical practice students (pooled SMD = 7.91)](flipped-classroom-higher-skill-scores-clinical-practice.md) — a narrower finding that bears on this claim
-- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related
 - [Evidence on flipped-classroom effectiveness is inconsistent across disciplines, with some studies showing no gains in satisfaction, motivation, or exam results](flipped-classroom-evidence-inconsistent.md) — related
@@ -80,3 +80,4 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
 - [Students in the flipped classroom group scored higher on the final theory exam than lecture-group students (8.2 ± 0.7 vs 7.0 ± 0.8)](flipped-classroom-higher-theory-exam-scores-endodontics.md) — related
 - [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — a narrower finding that bears on this claim
+- [Blended learning produced higher knowledge gain than traditional lecture in an evidence-based medicine course for medical postgraduates](blended-learning-higher-knowledge-gain-ebm-course.md) — related

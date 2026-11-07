@@ -51,3 +51,4 @@ Qualitative analysis of Theme 5 reflections: students expressed intentions such 
 - [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — related
 - [Medical students’ reflections in the e-learning course addressed all key communication topics conveyed in the course](reflections-recalled-course-content-communication.md) — related
 - [Students report learning outcomes across patient-related, behavioural, emotional, and error-handling dimensions of communication competence](simulation-learning-outcomes-themes.md) — related
+- [After the communication course, dental students paid significantly more attention to asking open-ended questions of patients](open-ended-questions-attention-increased-after-training.md) — related

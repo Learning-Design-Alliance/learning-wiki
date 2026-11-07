@@ -59,3 +59,5 @@ Independent-samples t test comparing overall course scores between the BOPPPS bl
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [The BOPPPS-Rain Classroom group showed markedly higher classroom participation than the traditional lecture group](boppps-rain-classroom-higher-class-participation.md) — related
 - [BOPPPS-plus-scenario-simulation teaching was associated with significantly higher summative assessment and total scores than traditional lecture-based instruction](boppps-simulation-higher-summative-total-scores.md) — related
+- [Blended learning produced higher post-test knowledge scores than traditional lecture in the evidence-based medicine course](blended-learning-higher-post-test-ebm.md) — related
+- [Undergraduate medical laboratory students taught with the BOPPPS-PBL model achieved significantly higher summative assessment scores than students taught with traditional methods](boppps-pbl-higher-summative-scores-hematology.md) — related

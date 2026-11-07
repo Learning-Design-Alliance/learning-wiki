@@ -50,6 +50,7 @@ The strategy is to use a realistic, procedure-specific, electrosurgery-capable u
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
+- [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Authors' interpretive conclusion in the Conclusions section, resting on three st
 - [Implementation fidelity to the SLMS model was mixed, with regular team meetings at only one of three treatment schools](slms-mixed-implementation-fidelity.md) — a narrower finding that bears on this claim
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — a narrower finding that bears on this claim
 - [Many treatment-school teachers interpreted the intervention as “one more thing,” reducing motivation except among a bought-in minority](slms-one-more-thing-teacher-interpretation.md) — related
+- [Only 59% of observer tools were fully completed, possibly limiting the intervention's effect](observer-tool-moderate-compliance-59-percent.md) — related

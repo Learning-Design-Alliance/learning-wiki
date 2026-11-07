@@ -56,3 +56,4 @@ The review reports Coffey et al.'s survey percentages on high-fidelity simulatio
 - [Students in the REPs-VS group rated gains in learning needs identification, clinical reasoning, and communication highly, with 98.3% agreeing the platform enhanced their understanding](reps-vs-perceptions-knowledge-skills.md) — related
 - [Student perception of the simulated patient cases was overwhelmingly positive, with 96.70% agreeing the cases developed clinical skills](simulated-cases-positive-perceptions.md) — related
 - [Students unanimously rated working with standardized clients as beneficial and a valuable learning experience, developing communication skills and a sense of reality](standardized-clients-valuable-realistic-learning.md) — related
+- [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related

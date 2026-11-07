@@ -49,3 +49,4 @@ Prediction statistics analysis of fine-tuned PLMs on the NCTE test split. For De
 - [Fine-tuned PLMs outperform prompted LLMs in rubric-based teaching quality scoring accuracy, while LLMs better preserve score variability](plms-outperform-llms-qof-scoring-accuracy.md) — related
 - [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](llama-prediction-range-compression.md) — related
 - [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related
+- [Probabilistic surprise question accuracy collapses in the mid-range of the confidence spectrum (54.5% for 40%–60% answers) but reaches 89.9% at the extremes](probabilistic-sq-midrange-coin-flip-accuracy.md) — related

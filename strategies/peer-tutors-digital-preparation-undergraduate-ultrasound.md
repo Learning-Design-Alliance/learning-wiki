@@ -48,6 +48,7 @@ A delivery recipe for undergraduate ultrasound courses: peer tutors enable longe
 - [Integrate voluntary handheld ultrasound practice into undergraduate eFAST curricula alongside digital self-study](integrate-handheld-ultrasound-practice-undergraduate-curriculum.md)
 - [Scale simulator-based POCUS training to large cohorts through blended strategies](blended-scaling-pocus-training-large-cohorts.md)
 - [Integrate e-learning as pre-course preparation within blended-learning FOCUS training curricula](elearning-precourse-blended-focus-strategy.md)
+- [Deliver pre-class content and practical-session videos through messaging platforms (Eitaa and Telegram) to enable non-attendance preparation](messaging-platform-preclass-content-strategy.md)
 
 ## Examples
 -

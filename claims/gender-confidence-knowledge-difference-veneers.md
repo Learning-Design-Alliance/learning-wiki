@@ -58,3 +58,4 @@ Independent samples t-test on subjective scores among 134 interns (83 female, 51
 - [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related
 - [Male residents reported significantly higher interest in oral and maxillofacial surgery and higher self-assessed clinical abilities than female residents, with no gender difference in self-assessed theoretical knowledge](male-residents-higher-interest-and-clinical-self-assessment.md) — related
 - [Patients' distrust and residents' lack of confidence were the primary factors limiting resident trainees' clinical reception in oral and maxillofacial surgery outpatient clinics](resident-reception-barriers-distrust-and-confidence.md) — related
+- [Female students awarded tutors a significantly higher mean performance ranking than male students](female-students-higher-tutor-performance-ranking.md) — related

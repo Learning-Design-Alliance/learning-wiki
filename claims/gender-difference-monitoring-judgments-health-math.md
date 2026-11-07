@@ -58,3 +58,4 @@ Regression on pretest monitoring judgments in the 1,177-participant sample: accu
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
 - [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](women-higher-reactive-test-anxiety-anatomy-lab.md) — related
 - [No significant gender difference in scenario scores before or after training.](no-gender-difference-trauma-scenario-scores.md) — related
+- [Women had higher qualification rates than men in scenario-simulation COVID-19 clinical skills training, with a 27% lower unqualified rate after adjustment](women-higher-qualification-rate-covid-simulation-training.md) — related

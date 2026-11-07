@@ -49,3 +49,4 @@ Conceptual content analysis of free-text responses to 14 study-specific question
 - [Students' pre-intervention apprehension that virtual learning would feel unrealistic was largely reversed after completing the module](realism-apprehension-reversed-post-intervention.md) — related
 - [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related
 - [Post-intervention, a majority of students preferred the virtual learning module over traditional teaching and VR headset over desktop delivery](post-intervention-preference-vl-and-vr.md) — related
+- [Video review found students commonly jumped straight to fixing the patient's problem before using other de-escalation techniques, with some inappropriately promising alprazolam](students-jump-to-quick-fix-alprazolam.md) — related

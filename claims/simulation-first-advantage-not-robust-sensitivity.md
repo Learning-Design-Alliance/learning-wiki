@@ -50,3 +50,4 @@ Sensitivity analysis of the randomized crossover trial excluding participants wi
 - [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — related
 - [After both training sessions, robotic novices who started with robotic simulation scored higher on the modified OSATS for robotic hepaticojejunostomy than novices who started with suture-pads](simulation-first-higher-osats-after-both-trainings.md) — reports the opposite
 - [After a single training session, robotic suturing performance did not differ between novices trained with SimNow simulation alone versus suture-pad alone](single-training-no-osats-difference-first-exam.md) — related
+- [Performance scores are comparable after the first LC, with the feedback advantage emerging from the second LC onward](feedback-advantage-emerges-after-first-lc.md) — related

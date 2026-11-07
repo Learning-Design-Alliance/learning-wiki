@@ -50,3 +50,5 @@ Randomised controlled trial of 34 medical students reviewed within the systemati
 - [Plastic cannister designs are the most common direct ophthalmoscopy simulation model in the literature](plastic-cannister-most-common-do-simulation-model.md) — related
 - [Candidates receiving additional musculoskeletal training (lectures, workshops, video, spaced education, or SCIM) scored higher or similar on OSCEs compared with controls](additional-msk-training-osce-higher-or-similar.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
+- [Eyesi training produced significantly higher fundus structure identification scores than traditional direct ophthalmoscope training](eyesi-higher-fundus-structure-identification-than-tdo.md) — related
+- [Participants judged the Eyesi's simulated fundus images largely consistent with the real fundus](eyesi-images-perceived-as-realistic.md) — related

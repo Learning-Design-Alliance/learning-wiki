@@ -57,3 +57,4 @@ Descriptive survey of 193 respondents (54.3% of 350 students) using a four-point
 - [Students' self-assessment of performance broadly aligned with examination outcomes but showed a tendency toward underestimation](whisper-exam-self-assessment-underestimation.md) — related
 - [VDT use was associated with reduced cadaveric dissection-related anxiety, including lower pre-exam STAI scores](vdt-reduces-dissection-anxiety-stai.md) — related
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
+- [Friendly Feedback lowers course-related anxiety relative to weekly pass/fail testing throughout most of the dissection course](friendly-feedback-lowers-course-related-anxiety.md) — related

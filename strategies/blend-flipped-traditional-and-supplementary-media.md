@@ -44,6 +44,7 @@ Based on the finding that some students value live in-person lectures, the autho
 ## Related Strategies
 
 - [Flipped Learning](flipped-learning.md)
+- [Optimization strategies for hybrid teaching: varied online instruction styles, curriculum reorganization, an online teaching library, and emerging technologies](hybrid-teaching-optimization-strategies-physiology.md)
 
 ## Examples
 -

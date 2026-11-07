@@ -45,6 +45,7 @@ The 2025 ETR recommends a broader, structured set of assessment tools to evaluat
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 - [Develop a standardised and accredited training pathway from undergraduate through to postgraduate level for CEP competency](standardised-undergraduate-postgraduate-cep-pathway.md)
 - [Assess clinical thinking with both a thinking-skills scale and a professional knowledge examination](dual-assessment-ctses-and-knowledge-test.md)
+- [Combine Mini-CEX and DOPS workplace assessments with feedback at repeated time points during community outpatient training](minicex-dops-combined-repeated-feedback-strategy.md)
 
 ## Examples
 -

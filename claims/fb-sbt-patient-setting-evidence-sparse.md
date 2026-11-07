@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-07
 sources:
   - id: gerretsen-eveline-cf-msc-2023
     resource: "https://doi.org/10.1016/j.chest.2023.05.012"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only four studies measured behavioral outcomes in the patient setting; two reported significant (modified) BSTAT improvements, and procedure-time effects were conflicting. [→ Gerretsen Eveline C.F. MSc 2023](#gerretsen-eveline-cf-msc-2023)

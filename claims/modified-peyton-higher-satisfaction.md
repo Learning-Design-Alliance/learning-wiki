@@ -61,3 +61,5 @@ One-month 5-point Likert satisfaction questionnaire in the RCT; Table 6 reports 
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
 - [Residents in the Peyton's four-step and flipped classroom group reported greater improvement in learning interest than control group residents](peyton-flipped-greater-learning-interest.md) — related
 - [The combined Peyton's four-step and flipped classroom intervention produced higher clinical case analysis scores than traditional teaching](peyton-flipped-higher-case-analysis-scores.md) — related
+- [Teaching satisfaction did not differ significantly between O2O/PBL and LBT trainees across five surveyed aspects](o2o-pbl-teaching-satisfaction-no-difference-nephrology.md) — reports the opposite
+- [Residents taught with the refined Peyton method reported higher teaching satisfaction across surveyed items than traditionally taught residents](refined-peyton-higher-teaching-satisfaction.md) — possibly the same claim (merge candidate)

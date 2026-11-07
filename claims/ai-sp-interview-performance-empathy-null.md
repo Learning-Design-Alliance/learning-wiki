@@ -90,3 +90,4 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [Personal simulations are perceived to substantially develop interns' communication skills, including empathy, listening, and coping with patient resistance](personal-simulations-develop-communication-skills.md) — related
 - [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related
 - [Blinded raters scored higher in Communication and Examination skills at post-test than pre-test in standardized patient encounters, in one uncontrolled pre-post study](sp-encounter-skills-significant-improvement.md) — related
+- [Training with standardized patients improves diagnostic accuracy, patient interaction skills, and overall clinical performance](standardized-patients-improve-diagnostic-accuracy.md) — a broader claim this one bears on

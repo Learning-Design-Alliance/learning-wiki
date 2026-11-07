@@ -91,3 +91,5 @@ The review attributes longitudinal findings to named recent investigations: Baug
 - [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](sbe-supports-knowledge-skills-acquisition.md) — related
 - [Students rate themselves significantly more positively than trainers on several communication sub-skills, with effect sizes from small to very high](students-overrate-communication-subskills.md) — related
 - [Acquired ultrasound skills decay without repeated practice, supporting longitudinal curricula and periodic re-assessment](ultrasound-skill-decay-longitudinal-curriculum.md) — related
+- [Evidence for bootcamp benefits is limited by absent control groups, self-reported subjective measures and lack of long-term follow-up](bootcamp-evidence-limits-no-control-no-followup.md) — related
+- [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related

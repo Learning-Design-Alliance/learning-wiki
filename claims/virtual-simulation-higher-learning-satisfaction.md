@@ -49,3 +49,4 @@ Learning satisfaction measured by a 10-question questionnaire (100 points total)
 - [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
 - [Teaching satisfaction after training is significantly higher among nurses trained with ultrasound simulation than among traditionally taught nurses](simulation-training-higher-teaching-satisfaction-icu-nurses.md) — related
 - [Students taught with flipped learning reported significantly higher satisfaction with the education method than traditionally taught students](flipped-learning-higher-satisfaction-patient-safety.md) — related
+- [Monthly patient satisfaction was higher for nurses trained with the combined procedural-pathway and information-management system](informatization-training-higher-patient-satisfaction.md) — related

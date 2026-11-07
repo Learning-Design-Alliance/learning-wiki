@@ -49,3 +49,4 @@ Time-use comparison from the questionnaire of the two groups of 16 students; Tab
 - [ChatGPT-guided PBL shifted study time toward pre-class preparation without increasing total learning time](chatgpt-pbl-shifts-study-time-total-unchanged.md) — related
 - [Students adopting a preparation-oriented log-data approach earned significantly higher course marks and spent more online time than assessment-oriented students](preparation-oriented-approach-higher-marks.md) — related
 - [Log data identify two flipped-classroom clusters, an assessment-oriented approach (higher post-lecture quiz proportion) and a preparation-oriented approach (higher pre-lecture activity proportions)](log-data-preparation-assessment-clusters.md) — related
+- [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — related

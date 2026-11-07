@@ -51,3 +51,4 @@ Because the two text-only models cannot process images, the examination's two im
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
 - [ChatGPT-4o mini outperformed the average human candidate on part 2 of the 2023 PNA, while ChatGPT-3.5 Turbo scored significantly below humans on part 1](chatgpt-4o-mini-outperformed-human-pna-candidates.md) — related
 - [ChatGPT-4o mini achieved 65% (48/74) accuracy on the 2023 Portuguese PNA medical examination, surpassing ChatGPT-3.5 Turbo's 54% (40/74)](chatgpt-4o-mini-65-percent-pna-surpasses-35-turbo.md) — related
+- [A sensitivity analysis excluding not-applicable answers (e.g., image-based items) yielded results similar to the main accuracy comparison](cineca-accuracy-sensitivity-analysis-similar-results.md) — related

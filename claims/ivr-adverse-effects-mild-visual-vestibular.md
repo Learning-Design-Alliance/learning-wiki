@@ -64,3 +64,4 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
 - [3D vision increases difficulty focusing only in the first training session, with no other visual or physical side effects](3d-difficulty-focusing-first-session-only.md) — related
+- [Simulator sickness shows significant gender differences in VR trauma simulation acceptance, with women more susceptible to nausea and dizziness.](vr-simulator-sickness-gender-differences.md) — a narrower finding that bears on this claim

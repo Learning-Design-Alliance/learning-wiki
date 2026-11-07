@@ -68,3 +68,4 @@ The review attributes to a Dawe et al. (2014) systematic review the conclusion t
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related
 - [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — related
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — reports the opposite
+- [Meta-analytic evidence cited by the review finds simulation-trained medical students outperformed traditionally trained peers in technical and non-technical skills assessments](meta-analysis-sbt-outperforms-traditional-training.md) — a broader claim this one bears on

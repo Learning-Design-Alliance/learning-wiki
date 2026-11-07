@@ -57,3 +57,5 @@ Prospective randomized controlled trial; 121 fourth-year medical students random
 - [SOM-PBL produces no significant improvement in procedural skills compared with traditional teaching](som-pbl-no-procedural-skills-gain.md) — related
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
 - [Quiz scores did not significantly change from before to after video review in the traditional teaching group](video-review-no-significant-further-gain.md) — related
+- [Student satisfaction with the online BLS course did not differ between spaced and massed learning groups](no-satisfaction-difference-spaced-massed-bls.md) — related
+- [Fourth-year medical students' overall communication performance did not differ significantly across classroom, clinical and OSCE settings](overall-communication-performance-no-difference-across-settings.md) — related

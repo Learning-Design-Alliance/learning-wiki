@@ -62,3 +62,4 @@ Safety outcome from the feasibility study (n = 32), with SSQ administered before
 - [Students rated the VRAM software highly usable and safe, with minimal VR-induced symptoms](vram-usability-vrnq-ratings.md) — related
 - [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related
 - [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related
+- [Simulator sickness shows significant gender differences in VR trauma simulation acceptance, with women more susceptible to nausea and dizziness.](vr-simulator-sickness-gender-differences.md) — related

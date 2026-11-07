@@ -47,3 +47,4 @@ Perceptual comparison item in the teacher questionnaire (n=53 dermatologists wit
 ## Related Claims
 - [Students rated the DCBL model superior to LBL and PBL for learning interest, understanding, and diagnostic-treatment ability in perception surveys](dcbl-student-comparison-lbl-pbl.md) — related
 - [Surveyed dermatology teachers showed high acceptance of the DCBL model, with 98.1% expecting enhanced learning outcomes and 100% willing to adopt it](dcbl-teacher-acceptance-expectations.md) — related
+- [Teachers rated the TCLEBL class significantly higher than the LBL class on all five feedback items](tclebl-teacher-satisfaction-higher-than-lbl.md) — related

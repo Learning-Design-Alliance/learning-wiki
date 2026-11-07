@@ -55,3 +55,6 @@ Group-comparison analysis (Table 2) of the 54 participants (39 female, 15 male) 
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — reports the opposite
 - [Female physicians rate all six competency domains higher than male physicians](female-physicians-higher-competency-domain-scores.md) — related
 - [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related
+- [Casper performance favors female participants and participants without a migration background, with native language explaining the migration-background effect](casper-german-pilot-subgroup-differences.md) — related
+- [Men rate their emergency surgical self-competence significantly higher than women across indication, laparoscopic and open surgery items](gender-differences-emergency-surgery-self-assessed-competence.md) — related
+- [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related

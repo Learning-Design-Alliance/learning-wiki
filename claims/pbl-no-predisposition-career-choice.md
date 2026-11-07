@@ -71,3 +71,4 @@ Retrospective cohort study using Canadian Resident Matching Service data over 19
 - [One study found significantly fewer PBL graduates working in primary care, with the authors suggesting medical school admission as a confounding factor](tolnai-fewer-pbl-primary-care.md) — reports the opposite
 - [The article states that general practice internships can positively influence students' interest in primary care careers, with teaching quality a significant factor](gp-internships-influence-primary-care-career-interest.md) — related
 - [A two-week otolaryngology simulation and human factors module did not significantly increase medical students' interest in surgical or otolaryngology careers](simulation-module-no-career-interest-change.md) — related
+- [Participation in the at-home laparoscopic curriculum did not significantly differ by specialty or training level](at-home-laparoscopic-participation-no-specialty-level-difference.md) — related

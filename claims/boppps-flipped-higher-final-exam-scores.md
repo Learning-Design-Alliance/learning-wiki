@@ -77,3 +77,4 @@ Descriptive distribution analysis of final grades across the 2021–2024 academi
 - [Experimental group achieved superior theoretical and practical assessment scores compared to control group](flipped-boppps-superior-final-assessment-scores.md) — related
 - [The flipped classroom significantly increased English test scores versus traditional teaching](flipped-classroom-raises-english-test-scores.md) — a narrower finding that bears on this claim
 - [The “One Case to the End” model based on BOPPPS raises pediatric nursing students' academic performance compared with traditional teaching](one-case-boppps-improves-academic-performance.md) — related
+- [After the BOPPPS-PBL reform, the proportion of high-scoring students in the final evaluation significantly increased compared with the control group](boppps-pbl-high-scorer-proportion-increased.md) — related

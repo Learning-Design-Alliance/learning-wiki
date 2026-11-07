@@ -57,3 +57,4 @@ Test–retest reliability analysis with the scale readministered to 165 students
 - [The 43-item Korean HLCs shows strong internal consistency and test-retest reliability](korean-hlc-reliability-strong.md) — related
 - [TBL-SAI-TR scores correlate strongly with self-directed learning scores, supporting criterion validity](tbl-sai-tr-criterion-validity-self-directed-learning.md) — related
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
+- [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related

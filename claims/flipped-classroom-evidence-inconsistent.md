@@ -46,7 +46,7 @@ Narrative review of background studies in the Introduction. The review attribute
 
 ## Related Claims
 - [Flipped classroom interventions show no reliable average gain in student satisfaction after bias correction](flipped-classroom-no-satisfaction-gain.md) — related
-- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias](flipped-classroom-small-positive-learning-effect.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related

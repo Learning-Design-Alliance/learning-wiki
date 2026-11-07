@@ -53,3 +53,4 @@ Systematic review validity appraisal using a Messick-adapted scoring system (eac
 - [Procedure-specific assessment tools hold greater educational potential than readily available global tools, though few provide benchmark scores](procedure-specific-tools-educational-potential.md) — related
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
+- [APM and surgical gesture assessment methods are, as of now, only available to a limited extent in the clinical setting](apm-gestures-limited-clinical-availability.md) — related

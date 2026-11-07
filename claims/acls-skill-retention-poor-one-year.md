@@ -48,3 +48,4 @@ Narrative review attributing this retention finding to cited studies [3–5]. Th
 - [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — reports the opposite
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — related
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
+- [Nurses were less likely than physicians to be unqualified after scenario-simulation training](nurses-less-likely-unqualified-than-physicians.md) — related

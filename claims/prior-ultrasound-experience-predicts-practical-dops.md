@@ -47,3 +47,4 @@ Multivariable linear regression on study and control group 2 test results, with 
 ## Related Claims
 - [Having previously performed an echocardiography significantly influences post-test theory scores](prior-echocardiography-influences-posttest.md) — reports the opposite
 - [Dynamic group allocation, prior experience above 30 ultrasound examinations, and internal medicine employment predict theory test performance](predictors-ultrasound-theory-test-performance.md) — reports the opposite
+- [Prior ultrasound experience predicted early theoretical performance but its influence was no longer measurable after the tailored curriculum](prior-experience-influence-fades-after-curriculum.md) — reports the opposite

@@ -64,3 +64,4 @@ Table 1 of the cluster-randomized trial reports baseline prerequisite (Human Ana
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — related
 - [Students in the PBL-online group had significantly higher grade point averages in their internship semester than the traditional group, but the two groups were not equivalent at baseline](pbl-online-group-gpa-difference.md) — related
 - [Test-enhanced learning produced no significant difference on the end-of-year neuroanesthesia exam of first-year residents](tel-no-effect-end-of-year-neuroanesthesia-exam.md) — related
+- [Students taught with Tronclass plus team-based learning scored higher on the Mid-term than the previous cohort](tronclass-tbl-cohort-higher-midterm-grades.md) — related

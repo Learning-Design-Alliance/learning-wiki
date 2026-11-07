@@ -50,3 +50,5 @@ Multicenter prospective randomized two-arm single-blind trial at 11 German surgi
 - [The GOALS domain depth perception improved significantly more after simulation training, while the other four domains did not differ significantly](depth-perception-domain-significant-gain.md) — a narrower finding that bears on this claim
 - [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — a broader claim this one bears on
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
+- [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — reports the opposite
+- [Surgical residents who practiced sufficiently improved laparoscopic small bowel length measurement accuracy significantly in an ex vivo model](sufficient-exvivo-practice-improves-bowel-measurement-accuracy.md) — related

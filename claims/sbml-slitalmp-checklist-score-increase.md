@@ -53,3 +53,4 @@ Pre-post pilot study of 15 board-certified emergency physicians at two instituti
 - [Reliance on ophthalmology consultation did not change after the SBML curriculum](sbml-slitalmp-consultation-reliance-unchanged.md) — related
 - [Self-reported confidence progressively increased across the four training steps, from median 2 after the video to median 4 after final evaluation](sbml-probing-confidence-progression.md) — related
 - [The in-person RCDP session with an ophthalmologist was the most valued curriculum component, while asynchronous materials were least valued](sbml-slitalmp-in-person-session-most-valued.md) — related
+- [Median major checklist steps missed on infant LP fell from 5 to 1 after the just-in-time video intervention](jit-video-reduced-missed-lp-steps.md) — related

@@ -47,6 +47,7 @@ The article recommends that training rotas be designed with protected time for s
 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
+- [Extend clinical simulation laboratory operating hours, including after-hours and weekend opening, to improve student access for SSL](extend-simulation-lab-operating-hours.md)
 
 ## Examples
 -

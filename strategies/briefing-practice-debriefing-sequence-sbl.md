@@ -57,6 +57,7 @@ The article prescribes a session sequence: a pre-simulation briefing that explai
 - [Structure VDT practical sessions as paired 2-hour table sessions with general training followed by student-led clinical application](vdt-hands-on-session-structure.md)
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](demonstrate-group-practice-report-revision-simulation-session.md)
 - [Briefing practices facilitators use to establish a safe simulation learning environment](simulation-briefing-safety-practices.md)
+- [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 
 ## Examples
 -

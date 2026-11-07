@@ -49,3 +49,4 @@ Quasi-experimental non-equivalent control-group study with two treatment groups 
 - [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
+- [Both high and low baseline-ability groups improved significantly, with larger raw gains in the low group but no statistically significant between-group difference](low-group-gained-more-than-high-group-dti.md) — related

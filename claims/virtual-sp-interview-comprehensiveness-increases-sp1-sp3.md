@@ -49,3 +49,4 @@ Within-group analysis of DoctorU platform virtual standardized patient interview
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Student responses to the AI chatbot standardized patient experience were bimodal, with 65% agreeing it helped practice interview skills while 35% disagreed](ai-chatbot-sp-bimodal-acceptability.md) — related
+- [Lecturer-rated performance showed no significant difference between students’ first and second simulated patient consultations](no-significant-difference-first-second-simulated-encounters.md) — reports the opposite

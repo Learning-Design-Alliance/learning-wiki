@@ -53,3 +53,4 @@ One-way ANOVAs across four feedback conditions (n = 6 novices per condition) wit
 - [Novices show longer fixation durations on the adult box trainer than on the pediatric box trainer during peg transfer training](longer-fixation-durations-adult-than-pediatric-trainer.md) — related
 - [Novices spent on average 8.04% of training time attending to the mixed-reality feedback screen](novices-attend-feedback-screen-8-percent.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
+- [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — related

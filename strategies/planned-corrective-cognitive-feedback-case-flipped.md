@@ -42,6 +42,7 @@ Because clinician availability constrains feedback delivery, the article recomme
 - [Rubric Based Feedback](rubric-based-feedback.md)
 - [Revision Cycles](revision-cycles.md)
 - [Process Writing Workshop](process-writing-workshop.md)
+- [Present the professor's completed worksheet after group presentations as cognitive feedback by comparison](completed-worksheet-cognitive-feedback-strategy.md)
 
 ## Examples
 -

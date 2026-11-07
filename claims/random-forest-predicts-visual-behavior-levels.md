@@ -72,3 +72,4 @@ Gini (impurity) importance was computed in the Random Forest model to rank predi
 - [Fixation on not-moving objects was lower for more-skilled novices, contradicting the expected looking-ahead pattern](not-moving-object-fixation-contradicts-hypothesis.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — a broader claim this one bears on
 - [Eye-tracking and mental workload metrics differentiate novice proficiency groups and distinguish them from expert performance in laparoscopic peg transfer training](eye-tracking-metrics-differentiate-laparoscopic-proficiency-groups.md) — related
+- [Novice and proficient suturing skill classes are easier for models and raters to classify than the intermediate class](intermediate-skill-class-hardest-to-classify.md) — related

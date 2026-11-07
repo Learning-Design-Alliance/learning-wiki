@@ -50,3 +50,4 @@ Secondary outcome of the randomized trial: duration from patient setup to first 
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
 - [Needle passes and procedure time favoured the ultrasound-guided phase but did not reach statistical significance](needle-passes-and-time-favour-us-non-significant.md) — related
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
+- [The duration of successful lumbar punctures does not differ significantly between the bioimpedance and conventional needles](no-significant-duration-difference-bioimpedance-needle.md) — related

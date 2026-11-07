@@ -87,3 +87,5 @@ Group comparison in the N = 70 study: participants with ≥ 6 months healthcare 
 - [The most accurate scorer showed no gender disparity but a small significant language-background disparity favoring foreign-language speakers](language-bias-favors-foreign-speakers-roberta-svm.md) — related
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
 - [Systematic linguistic differences exist between demographic groups in PISA text responses, including response length, lexical diversity, and out-of-vocabulary tokens](linguistic-group-differences-pisa-responses.md) — related
+- [German medical school applicants evaluate the open-ended online SJT Casper favorably, rating it fair and less stressful than other exams](casper-german-pilot-acceptable-test-takers.md) — related
+- [Casper performance favors female participants and participants without a migration background, with native language explaining the migration-background effect](casper-german-pilot-subgroup-differences.md) — related

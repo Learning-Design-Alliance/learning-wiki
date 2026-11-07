@@ -84,3 +84,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Residents in the scaffolded case-based learning group report maximal teaching satisfaction compared with the lecture-based group](scaffolded-cbd-teaching-satisfaction.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
 - [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related
+- [A larger share of the combined-method group reported improved independent learning ability (88.46% vs 65.68%) and improved learning enthusiasm (89.42% vs 76.47%)](cbl-clinical-pathway-independent-learning-enthusiasm.md) — related

@@ -44,6 +44,7 @@ The article recommends that future evaluations of serious-game add-ons use time-
 ## Related Strategies
 
 - [Use controlled designs with larger samples to confirm preclinical psychomotor training effects](controlled-designs-for-preclinical-psychomotor-training-research.md)
+- [Use serious games with unlimited-time access for teaching assessment of distressing clinical content](serious-game-strategy-distressing-clinical-content.md)
 
 ## Examples
 -

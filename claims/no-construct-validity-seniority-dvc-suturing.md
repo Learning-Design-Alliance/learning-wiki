@@ -51,3 +51,4 @@ Construct validity test comparing three seniority groups on the RARP suturing ta
 - [Weisser et al. 3D-printed pediatric MIS curriculum: expert surgeons outperformed residents on all tasks with high interrater reliability](susiped1-experts-outperform-residents.md) — related
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related
+- [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — possibly the same claim (merge candidate)

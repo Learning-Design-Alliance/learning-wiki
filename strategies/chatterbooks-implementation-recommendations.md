@@ -49,6 +49,7 @@ The report's key conclusions set out what would need to change for future implem
 - [Dialogic Reading](dialogic_reading.md)
 - [Pilot multi-component interventions before trial and choose outcome tests that capture the targeted skill](pilot-multicomponent-interventions-and-align-outcome-test.md)
 - [Implement ReflectED as a whole-school programme and allow more than one year for it to become embedded](reflected-whole-school-implementation-strategy.md)
+- [Schedule laparoscopic skills training during working hours with motivational structures such as competitions, rewards and mandatory requirements](train-during-working-hours-with-incentives-strategy.md)
 
 ## Examples
 -

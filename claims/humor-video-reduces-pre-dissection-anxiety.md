@@ -47,3 +47,4 @@ General linear model with post-treatment STAI-S anxiety as dependent variable, t
 ## Related Claims
 - [Disgust and anxiety during dissection are negatively associated with motivation, interest and achievement (as reported in prior work cited by the article)](disgust-anxiety-hinder-dissection-learning.md) — related
 - [Humorous video clips prior to a fish dissection reduce state disgust compared to a life-history control video](humor-video-reduces-pre-dissection-disgust.md) — related
+- [Friendly Feedback lowers course-related anxiety relative to weekly pass/fail testing throughout most of the dissection course](friendly-feedback-lowers-course-related-anxiety.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: supriya-k-2024
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11440740/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Regression coefficient estimates for Black/African American students in Model 2 for Courses 1 and 3 were negative, indicating the disparity in total exam scores between Black and white students increased after optional exam retakes. [→ Supriya K. 2024](#supriya-k-2024)

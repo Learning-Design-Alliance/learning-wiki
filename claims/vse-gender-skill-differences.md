@@ -50,3 +50,4 @@ Secondary subgroup analysis of operational skill scores within the experimental 
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
 - [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](vse-higher-operational-skill-scores.md) — related
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
+- [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related

@@ -57,3 +57,4 @@ Mann–Whitney comparisons of blinded GOALS domain ratings in the same 71-partic
 - [Depth perception, bimanual dexterity, tissue handling, and efficiency scores rose from native to video-teaching sequences in one group measured before and after, with the largest rise in depth perception and the smallest in efficiency](coaching-improves-goals-subscores-depth-perception-largest.md) — related
 - [LSPPDM group scored higher on all five GOALS technical-skill dimensions in live-pig cholecystectomy](lsppdm-higher-goals-technical-scores.md) — related
 - [Tissue handling and decision making were common areas for improvement for both training groups](tissue-handling-decision-making-common-weak-areas.md) — related
+- [All qualitative GOALS skill dimensions differ significantly across performance quartiles](qualitative-goals-dimensions-quartile-differences.md) — related

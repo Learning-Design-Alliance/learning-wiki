@@ -93,3 +93,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](pbl-cbl-higher-student-satisfaction-questionnaire.md) — related
 - [Students in the combined PBL-CBL group showed higher team collaboration ability in group discussions than the traditional teaching group](pbl-cbl-higher-team-collaboration-rating.md) — related
 - [Students perceived PBL as more effective than TBL for knowledge acquisition, teamwork support, and higher marks](pbl-perceived-more-effective-learning-tbl-nu-survey.md) — related
+- [Medical postgraduate students rated the TCLEBL model significantly higher than LBL on eight satisfaction dimensions including interactivity, knowledge mastery, and perceived research-ability gains](tclebl-student-satisfaction-higher-than-lbl.md) — related

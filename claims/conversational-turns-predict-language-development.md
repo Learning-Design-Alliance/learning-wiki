@@ -114,3 +114,4 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Reliable dynamic-video social feedback produces more widespread cortical activation, better positive/negative feedback differentiation, and greater impact on word learning than symbolic feedback](dynamic-social-feedback-boosts-word-learning.md) — related
 - [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — related
 - [Family income is the strongest positive predictor of good academic performance among Haor secondary students](family-income-strongest-predictor-haor-academic-performance.md) — related
+- [Children's SES substantially predicts academic performance in the Guizhou sample](ses-predicts-academic-performance-china.md) — related

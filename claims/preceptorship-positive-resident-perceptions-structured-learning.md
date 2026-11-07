@@ -49,3 +49,4 @@ End-of-program questionnaire with 21 intervention-group residents, analyzed desc
 - [Structured preceptorship improved SCT clinical reasoning scores in only one of 14 pediatric topics (hematology & oncology)](preceptorship-sct-hematology-oncology-only-topic-improved.md) — related
 - [Preceptorship implementation was suboptimal: most sessions were short and fewer than two meetings per week](preceptorship-suboptimal-implementation-short-infrequent-sessions.md) — related
 - [The main barrier to preceptorship was limited time and irregular preceptor schedules, reported by 71.4% of participants](preceptorship-barrier-limited-time-irregular-schedules.md) — related
+- [Students reported positive motivation and engagement during the CA-PT despite its perceived difficulty](ca-pt-motivation-engagement-positive.md) — related

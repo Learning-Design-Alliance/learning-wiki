@@ -45,7 +45,8 @@ The authors initially established "system-oriented curricula" for 16 outstanding
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](../claims/nma-subgroup-cbl-clinical-pbl-basic.md) [+W]
 
 ## Related Strategies
-- 
+
+- [PBL-case fusion teaching via a problem chain around real clinical hematological disease cases](pbl-case-fusion-problem-chain-strategy.md)
 
 ## Examples
 -

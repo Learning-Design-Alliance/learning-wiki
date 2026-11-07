@@ -92,3 +92,4 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](pgi-moderation-growth-mindset-performance.md) — a narrower finding that bears on this claim
 - [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](modest-mindset-math-correlations.md) — a narrower finding that bears on this claim
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related
+- [Self-efficacy shows the highest correlation with achievement (r = 0.555) among the measured beliefs, with performance goals ahead of learning goals](self-efficacy-highest-belief-correlation-grades.md) — related

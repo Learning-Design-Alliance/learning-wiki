@@ -70,3 +70,4 @@ Linear regression within the immersion group predicting English midterm exam sco
 - [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — related
 - [No correlation found between foreign language classroom anxiety and maths performance](flca-no-correlation-maths-performance.md) — related
 - [No difference in FLCA levels between immersion and non-immersion program students](flca-no-difference-immersion-non-immersion.md) — related
+- [Written knowledge-test scores explain only a small share of overall OSCE score variability in both groups (11% comparator, 14% intervention)](written-test-score-small-share-osce-variance.md) — related

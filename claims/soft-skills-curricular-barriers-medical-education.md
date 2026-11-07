@@ -84,3 +84,5 @@ The review's second barrier category states institutions "may lack the necessary
 - [The most frequently mentioned barrier to implementing RaT curricula is balancing workload on faculty and residents](rat-implementation-barriers-workload.md) — related
 - [Faculty report that treatment workload and revenue priorities in Iranian teaching hospitals overshadow teaching, and that faculty teaching performance is not monitored or rewarded.](education-service-integration-poor-iran.md) — related
 - [Faculty identify administrative workload as a primary barrier to intrinsic motivation and teaching innovation](administrative-workload-barrier-faculty-innovation.md) — related
+- [Residents' motivation to train with the PLET was poor in both groups, driven by workload and time constraints](poor-motivation-workload-time-constraints-plet.md) — related
+- [Professional pressures — time constraints, workload and vast scope of knowledge — hindered registrars' revisitation of basic science knowledge](professional-pressure-hinders-knowledge-revisitation.md) — related

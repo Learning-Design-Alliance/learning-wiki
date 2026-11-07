@@ -50,3 +50,4 @@ Delphi coordination results: "The Kendall's coefficient of agreement (W) values 
 - [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related
 - [A two-round modified Delphi consultation achieved high expert authority and acceptable second-round consensus on three VSP interview scripts](delphi-consensus-vsp-interview-scripts.md) — related
 - [Fuzzy Delphi evaluation with 50 respondents yields defuzzification values confirming moderate expert agreement on the model's usability](fdm-evaluation-usability-defuzzification-values.md) — related
+- [Third-round expert agreement was fair by Kendall's W (0.22), with most top-ranked competencies in the pedagogic and subject-specific didactic domain](fair-agreement-kendall-w-domain-distribution.md) — related

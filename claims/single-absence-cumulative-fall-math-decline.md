@@ -53,3 +53,4 @@ Equation 2 models fall-to-fall growth with lagged absences as a continuous varia
 - [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — a broader claim this one bears on
 - [Prior-year absence effects on starting achievement are much smaller in reading than mathematics and non-significant in most grade levels](reading-effects-smaller-nonsignificant-most-grades.md) — related
 - [The proportion of students attending class regularly increased linearly with classroom SES, while irregular attendance decreased](regular-attendance-increases-with-ses.md) — related
+- [Consistently moderate authorised absences, never exceeding the 10% chronic-absence threshold, still significantly depress GCSE achievement](moderate-authorised-absences-below-chronic-threshold-harm-achievement.md) — related

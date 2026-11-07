@@ -53,3 +53,4 @@ Contrasting Groups' Method applied to the plotted total-score distributions of 1
 - [A contrasting groups' method sets a 70% pass/fail score with one false positive and no false negatives](contrasting-groups-pass-fail-70-camera-navigation.md) — related
 - [A contrasting-groups discriminatory standard of 6.15 points yields one false positive and one false negative](contrasting-groups-standard-615-consequences.md) — related
 - [A composite fluoroscopy score on the iVR simulator discriminates novices from experienced surgeons with a very large effect size (partial eta squared = 0.54)](ivr-fluoroscopy-composite-score-discriminates-experience.md) — related
+- [The contrasting groups method yields a 91% pass/fail cutoff, which the authors judged too low and raised to the expert average of 96%](contrasting-groups-cutoff-91-raised-to-expert-average-96.md) — related

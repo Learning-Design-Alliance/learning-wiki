@@ -52,6 +52,7 @@ Before implementation, facilitators underwent a two-week training program coveri
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
+- [Train and standardize instructors in the RCDP methodology before delivering learner sessions](instructor-qualification-standardization-for-rcdp.md)
 
 ## Examples
 -

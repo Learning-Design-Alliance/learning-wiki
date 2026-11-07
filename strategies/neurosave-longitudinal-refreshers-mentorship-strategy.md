@@ -53,6 +53,7 @@ Because retention at follow-up was variable, the article recommends that a singl
 - [Schedule top-up or refresher sessions after short SBE workshops to maintain knowledge gains](top-up-sessions-maintain-sbe-gains.md)
 - [Continue offering monthly optional anatomy workshops and add a formative anatomy readiness exam before Step 1](monthly-anatomy-workshops-readiness-exam-strategy.md)
 - [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
+- [Sustain framework use with rotation-start references, embedded evaluation prompts, and ongoing self-feedback](sustain-narrative-framework-with-references-and-self-feedback.md)
 
 ## Examples
 -

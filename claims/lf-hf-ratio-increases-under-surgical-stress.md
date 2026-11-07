@@ -48,3 +48,5 @@ Review synthesis of frequency-domain HRV findings; the LF/HF ratio was the most 
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — related
 - [HRV time-domain metrics (SDNN, RMSSD, AVNN) decrease significantly during surgical procedures under stress](hrv-time-metrics-decrease-under-surgical-stress.md) — related
 - [Stress biomarker and self-report measures show negative correlations with simulation performance across outcome categories](stress-measures-negative-correlation-performance.md) — related
+- [Beginners show higher high-frequency HRV components and lower LF/HF ratio than experts during simulated angiographies](beginners-higher-hf-components-lower-lfhf-than-experts.md) — a narrower finding that bears on this claim
+- [Expert and beginner neurointerventionalists differ in HRV metrics during simulated cerebral angiographies, with experts showing decreased short-term HRV](experts-show-decreased-hrv-during-simulated-neuroangiography.md) — related

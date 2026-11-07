@@ -53,3 +53,4 @@ Focus group theme on structure and processes: while tailored ad hoc content suit
 - [Physiotherapists perceive supervisor-led group clinical supervision as an effective model for developing aquatic physiotherapy skills through reflective practice](group-supervision-perceived-effective-aquatic-skill-development.md) — related
 - [Group supervision is valued because aquatic physiotherapy is a specialised area practised infrequently, leaving little other dedicated reflection time](specialised-infrequent-practice-drives-supervision-value.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
+- [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related

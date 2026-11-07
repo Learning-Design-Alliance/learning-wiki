@@ -50,6 +50,7 @@ The article describes a concrete two-stage classroom recipe. In stage one, stude
 ## Related Strategies
 
 - [Before Photovoice assignments, integrate ethics training, scaffold teamwork skills, provide standardized consent templates for photographing minors, and align projects with learning outcomes and assessment rubrics](photovoice-implementation-recommendations.md)
+- [Team assignments graded by teachers plus anonymous peer scoring within and across teams](tbl-team-assignments-anonymous-peer-scoring.md)
 
 ## Examples
 -

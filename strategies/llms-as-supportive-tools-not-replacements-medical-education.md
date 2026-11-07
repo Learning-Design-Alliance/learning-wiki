@@ -53,6 +53,7 @@ The review recommends that LLMs be positioned as supportive educational tools th
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 - [Guide medical students to use ChatGPT cautiously with cross-checking, disclosure, and teacher oversight](cautious-chatgpt-use-teacher-oversight-strategy.md)
 - [Use LLMs as a supplementary educational tool in dental education and exam preparation, with reliability evaluated per specialty](llm-supplementary-dental-education-strategy.md)
+- [Use AI chatbots as supplementary, not primary, resources in entrance-exam preparation](chatbots-supplement-not-primary-exam-preparation.md)
 
 ## Examples
 -

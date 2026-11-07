@@ -57,3 +57,4 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 - [Transportation into the discourse accounted for long-term retention of the material but not for the initial advantage of the story over the textbook](transportation-mediation-of-retention.md) — related
 - [Both experimental and control classes scored significantly higher on the second conditional quiz than the first](both-classes-improved-conditional-quiz-scores.md) — related
 - [Delay between learning and testing reduces accuracy only after one day, and equally across learning strategies](one-day-delay-reduces-accuracy-equally.md) — related
+- [Combining instructional video and self-study immediately before testing yields equally high scores regardless of sequence](immediate-video-self-study-combination-sequence-null.md) — related

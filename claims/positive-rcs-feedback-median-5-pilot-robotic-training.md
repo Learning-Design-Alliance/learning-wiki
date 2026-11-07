@@ -47,3 +47,4 @@ Descriptive evaluation using the RCS-developed Participant Feedback Questionnair
 ## Related Claims
 - [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
+- [Participant feedback was uniformly positive and a six-month survey provides weak evidence of skill retention and long-term impact](participant-feedback-and-six-month-retention-survey.md) — related

@@ -61,3 +61,4 @@ Paired-samples t-tests within each group showed significant pre- to post-test ga
 - [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related
 - [Flipped classroom students reported significantly higher understanding of humanistic goals and medical ethics than lecture students](flipped-classroom-humanistic-ethics-understanding-gains.md) — related
 - [Scores rose significantly from pre-test to post-test in both groups, with a larger mean gain in the flipped classroom group](within-group-pre-post-gains-both-methods.md) — possibly the same claim (merge candidate)
+- [The flipped classroom group showed a significant pre-to-post improvement in practical performance scores while the lecture group's improvement was not significant](flipped-classroom-practical-performance-gain.md) — reports the opposite

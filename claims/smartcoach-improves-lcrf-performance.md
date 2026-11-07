@@ -68,3 +68,4 @@ Mann-Whitney U between-group comparison at LC5 in the same RCT. The article prin
 - [AI-assisted coaching shows no significant differences versus self-learning in overall surgical efficiency or intraoperative adverse events](smartcoach-no-efficiency-or-iae-difference.md) — related
 - [Coached surgeons report improved CVS understanding and compliance and high satisfaction with the AI coaching program](smartcoach-satisfaction-and-cvs-perception.md) — related
 - [Coaching benefits were consistent across age, gender and overall laparoscopic experience, but weaker in participants with bariatric laparoscopic experience](coaching-effect-weaker-with-laparoscopic-experience.md) — related
+- [The feedback group achieves the critical view of safety more often than the control group across all four laparoscopic cholecystectomies](cvs-annotation-increases-cvs-achievement.md) — related

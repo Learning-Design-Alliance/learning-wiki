@@ -91,6 +91,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
+- [Employ varied gonioscopy teaching formats in residency, including small-group practice-guided meetings with dry and wet labs, case presentations, hands-on clinic time, and live-video tutoring](varied-gonioscopy-teaching-formats-strategy.md)
 
 ## Examples
 -

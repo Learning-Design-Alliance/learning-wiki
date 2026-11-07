@@ -52,3 +52,4 @@ The multivariable logistic regression table of the census study (n = 426) report
 - [Fear of making mistakes was the strongest determinant of clinical skill anxiety](fear-of-mistakes-strongest-csa-determinant.md) — related
 - [Limited instructor feedback and inadequate clinical supervision were associated with clinical skill anxiety](feedback-and-supervision-associated-with-csa.md) — related
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](instructor-following-procedure-associated-competency-ethiopia.md) — related
+- [Lack of prior experience wearing protective clothing in isolation wards was the strongest determinant of failing qualification](prior-protective-clothing-experience-predicts-qualification.md) — related

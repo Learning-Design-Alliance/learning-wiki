@@ -53,3 +53,4 @@ Per-landmark analysis of the same trial (Table 4) found no group difference for 
 - [Simulation-trained residents complete the 11-view pediatric TEE protocol significantly faster than apprenticeship-trained residents](simulation-training-shorter-tee-examination-duration.md) — related
 - [In one uncontrolled pre-post study, the frequency of novice students passing the full 16-view simulated TEE examination without major errors rose from Test 1 to Test 2 after TEE simulator training](tee-simulator-training-increases-pass-rate.md) — related
 - [Simulator training substantially shortened the total time novices needed to complete the 16-view simulated TEE examination](tee-simulator-training-shortens-examination-time.md) — related
+- [Blended teaching's advantage was smaller for practice-demanding skills (CPR, puncture operations) than for content-rich, simpler skills](blended-teaming-advantage-smaller-practice-demanding-skills.md) — related

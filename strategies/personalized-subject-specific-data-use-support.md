@@ -53,6 +53,7 @@ Based on the finding that data use depends on both teacher characteristics and s
 - [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
 - [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 - [Adapt Higher Education professional learning models to centre disciplinary culture when developing teachers' digital and pedagogical capabilities](he-professional-learning-centre-disciplinary-culture.md)
+- [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
 
 ## Examples
 -

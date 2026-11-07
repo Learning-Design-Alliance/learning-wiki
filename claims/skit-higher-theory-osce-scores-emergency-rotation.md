@@ -56,3 +56,4 @@ Cohort-allocated controlled educational study of 36 rotating residents (18 per g
 - [SKIT improves triage accuracy but not significantly the reasonableness of emergency management plans](skit-triage-accuracy-management-plan-decision-making.md) — related
 - [Adding Kahoot and TikTok to traditional teaching raised final exam scores by 12.9% in a radiation oncology course for third-year medical students](kahoot-tiktok-raised-radiotherapy-exam-scores.md) — related
 - [Medical students trained with gamification achieve significantly higher OSCE skill scores than students in the routine in-person rotation](gamification-raises-osce-skill-scores.md) — related
+- [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related

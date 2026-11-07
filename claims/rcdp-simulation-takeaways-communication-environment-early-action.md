@@ -50,3 +50,4 @@ Qualitative thematic summary of open-ended postparticipation survey responses on
 - [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) — related
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) — related
 - [Trainees rated the training highly, with 69% perceiving the simulation scenarios and debrief as the most useful aspects and the resuscitation scenario particularly valued](trainees-value-simulation-debrief-most.md) — related
+- [Manual handling and hospital-equipment training during the simulation placement prepared students for neurological practice placements](sbl-generic-skills-manual-handling.md) — related

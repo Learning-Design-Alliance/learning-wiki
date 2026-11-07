@@ -59,6 +59,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
+- [Deliver a portion of clinical nursing skills instruction through mobile-based video learning that students can replay anytime](mobile-video-learning-for-clinical-skills-strategy.md)
 
 ## Examples
 -

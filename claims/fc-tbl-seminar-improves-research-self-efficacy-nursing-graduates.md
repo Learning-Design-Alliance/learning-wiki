@@ -48,3 +48,4 @@ Paired-samples t-tests in the same 124-student single-group study showed total s
 - [The FC-TBL seminar improved all five research self-efficacy dimensions, including collective research efficacy and theoretical research application](fc-tbl-seminar-improves-all-self-efficacy-dimensions.md) — related
 - [Total research competence scores rose from pretest to posttest among graduate nursing students in a single-group quasi-experiment after an FC-TBL-based literature seminar course](fc-tbl-seminar-improves-research-competence-nursing-graduates.md) — related
 - [Self-reported perceived collective efficacy for group learning rose significantly from pre-test to post-test after a TBL course, in one uncontrolled pre-post study](tbl-improves-perceived-collective-efficacy.md) — related
+- [Total SDL ability scores increased after a pediatric nursing course taught with Tronclass combined with team-based learning](tronclass-tbl-increased-sdl-ability-pre-post.md) — related

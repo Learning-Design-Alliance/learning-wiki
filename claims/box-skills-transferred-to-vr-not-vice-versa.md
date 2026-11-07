@@ -53,3 +53,4 @@ Inference drawn in the discussion from the randomized study's between-group post
 - [Box trainer training produced pronounced improvements across all performance domains, particularly in precision and error reduction](box-trainer-error-reduction-gains.md) — related
 - [Box-trainer training improved veterinary novices' scores on all box laparoscopic tasks from pretraining to post-training assessment](box-training-improved-all-box-task-scores.md) — related
 - [Veterinary novices' VR laparoscopic task scores were higher after VR-trainer training than before it for most, but not all, tasks, in a within-group pre-test to post-test comparison](vr-training-improved-most-vr-task-scores.md) — related
+- [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — related

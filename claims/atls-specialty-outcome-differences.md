@@ -70,3 +70,4 @@ Specialty comparison in the same cohort (Table 2). OMFS univariate OR for succes
 - [Age, pre-test scores, and refresher-course attendance significantly predicted ATLS success among physicians](atls-success-predictors-age-pretest-refresher.md) — related
 - [Not using the ATLS manual for study and using the 10th edition were associated with course failure](atls-manual-use-and-edition-associated-with-outcome.md) — related
 - [Post hoc analysis: the three-way interaction of perceived risk, trauma-surgeon specialty, and self-assessment significantly predicted amotivation, with specialty-specific simple slopes](risk-specialty-self-assessment-amotivation-interaction.md) — related
+- [Surveyed German general and visceral surgeons report very little expertise in interventions required after abdominal trauma, with highly significant trainee–specialist differences](little-expertise-abdominal-trauma-interventions.md) — related

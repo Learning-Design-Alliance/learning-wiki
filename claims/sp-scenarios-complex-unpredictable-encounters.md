@@ -76,3 +76,4 @@ Participant quote framing simulation as practice for adapting communication appr
 - [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related
 - [Students emphasise feedback after simulations as crucial, with feedback from professional actors offering the patient's viewpoint especially valued](actor-simulation-feedback-crucial.md) — related
 - [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — related
+- [SPs maintained agitation throughout the inpatient case but de-escalated much quicker in the outpatient case, and SPs reported difficulty sustaining high agitation](sp-agitation-maintenance-varied-by-case.md) — a narrower finding that bears on this claim

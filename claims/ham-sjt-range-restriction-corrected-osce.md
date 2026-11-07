@@ -51,3 +51,4 @@ Correlational analysis in the high-stakes sample (nHS = 160) with a Thorndike's 
 - [The communal scale of the CD-SJT is positively related to OSCE Interaction performance in the high-stakes admission sample (r = .20)](cd-sjt-communion-predicts-osce-interaction-high-stakes.md) — related
 - [Average HAM-SJT performance increased drastically in high-stakes years when the test counted toward selection (d = 0.92)](ham-sjt-performance-increases-high-stakes.md) — related
 - [No SJT scale correlated significantly with OSCE performance in the low-stakes sample](sjt-osce-null-low-stakes.md) — related
+- [Casper correlates with the German closed-ended SJT (HAM-SJT) but not with OSCE communication station performance](casper-german-pilot-convergent-validity-ham-sjt.md) — reports the opposite

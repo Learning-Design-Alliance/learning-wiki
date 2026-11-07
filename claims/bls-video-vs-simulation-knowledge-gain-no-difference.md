@@ -50,3 +50,4 @@ Mann–Whitney U comparison of knowledge gain between the video and simulation g
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
 - [Within both training groups, knowledge scores rose significantly from pre-test to post-test, with very large within-group effect sizes](bls-prepost-knowledge-gain-both-groups.md) — related
 - [The CRI-HT gain difference between baseline subgroups is not statistically significant](aisp-cri-ht-subgroup-gain-not-significant.md) — related
+- [Observer tool use improved theoretical knowledge scores on an end-of-day MCQ](observer-tool-improves-cpr-knowledge-mcq.md) — related

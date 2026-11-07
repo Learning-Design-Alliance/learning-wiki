@@ -39,6 +39,7 @@ Education Corps embeds implementation infrastructure around tutoring: school-bas
 ## Related Strategies
 
 - [Identify below-grade-level readers each fall and provide tutoring across the full school year](fall-identification-yearlong-tutoring-strategy.md)
+- [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
 
 ## Examples
 -

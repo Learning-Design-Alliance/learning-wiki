@@ -51,3 +51,4 @@ Theme 5 from the interviews. Students said the current 6-hour lab sessions were 
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [Participants identify inadequate skills-laboratory time and space, and recommend simulation centres in training institutions and simulation corners in health facilities](sbe-infrastructure-simulation-centres-corners.md) — related
 - [Students and instructors perceive SBE as an effective strategy for concurrent supervision, feedback, and assessment of clinical knowledge and skills](sbe-supervision-assessment-strategy.md) — related
+- [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related

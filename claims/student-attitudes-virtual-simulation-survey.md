@@ -58,3 +58,5 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [59% of students reported the courses exceeded or greatly exceeded their expectations, while only 4% reported expectations were not met](el-courses-exceeded-student-expectations.md) — related
 - [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
+- [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related
+- [Participants rated RCDP training positively: 95.7% responded, 97% agreed the theme was important for daily practice, and 78% judged repetition more effective than traditional simulation](positive-learner-reaction-to-rcdp-pediatric-cpr-training.md) — related

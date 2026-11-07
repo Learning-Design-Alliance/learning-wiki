@@ -59,8 +59,10 @@ Movement integrated into instruction supports attention and on-task behavior, pa
 6. Offer non-movement alternatives for every activity so participation is genuinely optional.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — structured unstructured-play time that complements in-lesson movement
 - [Brain Breaks](brain-breaks.md) — short activity pauses; integrated movement differs by tying activity to the task itself
+- [Multi-channel activation of students before and during class](oamas-multi-channel-activation-strategy.md)
 
 ## Examples
 - **[Physical Activity Across the Curriculum (PAAC)](https://pubmed.ncbi.nlm.nih.gov/16697515/)** — elementary teachers deliver academic lessons through movement (e.g., jumping while counting, acting out vocabulary); multi-year trials showed feasibility at scale without sacrificing instructional time.

@@ -56,3 +56,4 @@ Simulation measurement of effect sizes from MAB-collected data for normally dist
 - Studies using a no-input control group yield significantly smaller effect sizes, protecting against overestimation — related
 - [In simulation, ignoring local dependence overestimates reliability, and the overestimation grows with the size of the testlet effect (17.0%-21.8% decrease under the larger testlet effect vs. 4.8%-7.4% under the small)](ignored-local-dependence-overestimates-reliability-simulation.md) — related
 - [A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%](mab-prompt-selection-reduces-aes-costs.md) — related
+- [Prognostic errors are direction-dependent: survival is overestimated for patients surviving under 9 months and underestimated for those surviving longer](overestimation-under-9-months-underestimation-beyond.md) — related

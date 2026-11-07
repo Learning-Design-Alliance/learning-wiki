@@ -51,3 +51,4 @@ Four subthemes from the interviews; novices reported nervousness affecting perfo
 - [Radar charts after feedback helped novice nurses identify strengths, weaknesses and track progress across clinical domains](mini-cex-dops-radar-charts-progress-tracking.md) — related
 - [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related
 - [Educators perceived mini-CEX and DOPS as giving a more accurate representation of novice nurses' clinical abilities than written examinations](mini-cex-dops-true-reflection-abilities.md) — related
+- [Most residents reported positive perceptions of the Mini-CEX plus DOPS evaluation mode, with 85% support and 15% reporting increased learning burden](resident-feedback-supports-minicex-dops-mode.md) — related

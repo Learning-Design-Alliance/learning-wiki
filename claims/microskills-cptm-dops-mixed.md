@@ -71,3 +71,4 @@ The humanistic literacy DOPS domain showed "no statistically significant differe
 - [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related
 - [CDIO-based clinical skills teaching significantly improved obstetric procedural skills across all 12 DOPS evaluation items (P < 0.001)](cdio-improves-dops-procedural-skills-obstetrics.md) — related
 - [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](boppps-cbl-dops-five-dimensions-higher.md) — related
+- [The improvement in theoretical and skill test scores over the internship was significantly greater in the combined CBL and clinical pathway group than in the traditional teaching group](cbl-clinical-pathway-greater-score-improvement.md) — related

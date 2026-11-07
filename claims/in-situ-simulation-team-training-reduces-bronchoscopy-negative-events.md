@@ -51,3 +51,4 @@ Prospective pre-post interventional education study with real-world data collect
 - [After team simulation training, patients report being less awake during bronchoscopy, with no change in other patient-reported outcomes](patients-less-awake-after-team-simulation-training.md) — related
 - [Nurses report higher perceived stress than physicians during critical bronchoscopy scenarios, and nurses' self-rated stress exceeds physicians' ratings of it](nurses-higher-perceived-stress-bronchoscopy-scenarios.md) — related
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — related
+- [Nursing-related adverse events decreased significantly after implementation of the combined training system](informatization-training-reduced-adverse-nursing-events.md) — related

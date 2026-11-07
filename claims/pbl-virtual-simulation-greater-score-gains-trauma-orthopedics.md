@@ -75,3 +75,4 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Deliberate practice yields significantly higher OSCE scores than conventional lecture in trauma training for pre-clinical medical students](deliberate-practice-higher-osce-trauma-training.md) — related
 - [Within the experimental group, theory examination scores improved significantly from before to after REPs-VS learning](reps-vs-within-group-theory-gain.md) — related
 - [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related
+- [Mobile-based learning produces greater post-test knowledge gains than conventional education in nursing students learning operating theatre procedures](mbl-greater-knowledge-gains-than-conventional-ot-procedures.md) — possibly the same claim (merge candidate)

@@ -49,3 +49,4 @@ Questionnaire Part 3 on validity used 8 Likert items. Q7 (interest) mean 3.55, Q
 - [Students using WeChat public account based mobile learning achieved significantly higher mid-term literature test scores than control group students](wechat-mobile-learning-higher-midterm-scores.md) — related
 - [Most students held a positive impression of and adapted well to the WeChat public account based mobile learning mode](wechat-mobile-learning-positive-impression.md) — related
 - [Students viewed WeChat mobile learning as a supplement to, not a substitute for, traditional classroom teaching](wechat-mobile-learning-supplement-not-substitute.md) — related
+- [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related

@@ -80,3 +80,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related
 - [No significant relationship between student gender and teachers' WCF strategy use](no-gender-bias-in-wcf-strategies.md) — related
 - [Teaching method was significantly associated with pass/fail rates and participation in activities, but not with gender distribution](chi-square-pass-fail-participation-gender.md) — related
+- [Self-reported competence was significantly associated with campus and year of study, but not with age or gender.](namibia-competence-campus-year-association.md) — related

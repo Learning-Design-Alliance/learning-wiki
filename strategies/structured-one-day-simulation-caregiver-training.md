@@ -70,6 +70,8 @@ The article describes a specific instructional sequence for caregiver emergency-
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](demonstrate-group-practice-report-revision-simulation-session.md)
 - [Protocolize the prebriefing with a fiction contract, a preplanned written briefing script, and a case-design checklist](protocolized-prebriefing-fiction-contract.md)
 - [Train all NIBS trainees in a seven-step seizure response protocol and in distinguishing seizures from syncope](nibs-seizure-response-protocol-training.md)
+- [Assess CPR competence with mannequin performance trials using real-time feedback devices, before and after training](mannequin-feedback-based-cpr-assessment-strategy.md)
+- [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 
 ## Examples
 -

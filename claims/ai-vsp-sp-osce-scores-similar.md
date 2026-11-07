@@ -57,3 +57,4 @@ End-of-course OSCE history-taking station in the RCT: "6.5 ± 1.5 for the AI-VSP
 - [Most VSP-trained students reported the training benefited history collection, condition analysis, diagnosis, treatment, and clinical thinking abilities](cl-vsp-student-satisfaction-clinical-thinking.md) — related
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
 - [No significant difference between SP-trained and control students in clinical judgement, medical record writing, or overall capabilities](no-significant-gain-clinical-judgement-medical-record.md) — related
+- [Fourth-year medical students' overall communication performance did not differ significantly across classroom, clinical and OSCE settings](overall-communication-performance-no-difference-across-settings.md) — related

@@ -50,3 +50,4 @@ Regression result from the 2055-nurse cross-sectional survey; the master/doctor 
 - [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related
 - [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related
 - [Chinese nurses' mean infectious disease emergency response competence score is 141.75 (SD 20.09), a moderate to above-average level after COVID-19 restrictions were lifted](nurse-competence-mean-141-75-post-covid.md) — related
+- [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — reports the opposite

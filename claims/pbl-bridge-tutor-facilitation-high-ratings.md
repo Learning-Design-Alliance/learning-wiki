@@ -47,3 +47,5 @@ Tutor evaluation questionnaire using a 5-point Likert scale across seven cohorts
 ## Related Claims
 - [Longitudinal follow-up during clinical training showed students most strongly endorsed the course's role in improving their ability to apply basic science to explain clinical phenomena (4.73) and better preparing them for clinical transition (4.67).](pbl-bridge-longitudinal-apply-basic-science-clinical.md) — related
 - [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0](coi-presence-uneven-profile-mba.md) — related
+- [Students' lowest ratings fell in the intra-personal behavior category, indicating a need for further PBL faculty development](intra-personal-behavior-lowest-rated-category.md) — related
+- [Students rated PBL tutors' mean performance ranking above halfway on a 10-point scale, with most tutors ranked in the sufficient range](pbl-tutor-mean-performance-ranking-above-halfway.md) — related

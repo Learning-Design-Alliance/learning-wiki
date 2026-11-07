@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 269 claims (193 show a difference, 44 mixed, 32 no difference) · 183 studies (80 causal, 50 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 49 of 183 report an effect size · 263 claims rest on one study
+> **Evidence** · 272 claims (195 show a difference, 44 mixed, 33 no difference) · 186 studies (81 causal, 52 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 49 of 186 report an effect size · 266 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -304,6 +304,9 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Students' interest directly after the lesson is positively related to their interest six weeks later](../claims/post-lesson-interest-predicts-six-week-interest.md) [+M] — learners who differ on it differ in outcomes
 - [TSESE, NVI and enthusiastic teaching show no significant direct or longitudinal effects on student interest once baseline interest is controlled](../claims/no-direct-effects-on-interest-controlling-baseline.md) [-M] — measured as an outcome of the instruction studied
 - [Enjoyment positively mediates the relationship between teacher caring behavior and English academic performance](../claims/enjoyment-positive-mediation-tcb-eap.md) [+M] — learners who differ on it differ in outcomes
+- [Student interest concentrated in emergency medicine, internal medicine and surgery, and interest was linked to better blended-teaching outcomes](../claims/content-interest-moderates-blended-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [The simulation scenario (cardiac arrest vs life-threatening asthma) has no significant impact on subjective engagement or enjoyment](../claims/scenario-type-no-effect-subjective-engagement-enjoyment.md) [-M] — measured as an outcome of the instruction studied
+- [Writing more about the interest to learn ('interest to learn' move) predicts higher master grades](../claims/interest-to-learn-move-predicts-higher-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

@@ -62,3 +62,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [The PA-only intervention was associated with significantly lower end-of-year academic scores compared to placebo](kazifya-pa-only-lower-end-of-year-scores.md) — reports the opposite
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite
+- [Age, BMI, and median working time showed no significant association with qualification rates](age-bmi-working-time-null-qualification.md) — related

@@ -70,3 +70,4 @@ In the same focus group analysis, students contrasted case-based learning where 
 - [Students perceive that contextualizing physiology in clinical cases improves conceptual clarity, retention and understanding of abstract mechanisms](cbl-perceived-conceptual-clarity-retention.md) — related
 - [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — related
 - [Students perceived time allocations in the virtual rotation as appropriate, with most reporting daily or weekly use of prespecified resources](virtual-rotation-time-and-resource-perceptions-favorable.md) — related
+- [Students reported that the flipped classroom with clinical scenarios helped them remember material longer and achieve deeper understanding of basic and clinical science concepts](flipped-scenario-deeper-understanding-student-report.md) — related

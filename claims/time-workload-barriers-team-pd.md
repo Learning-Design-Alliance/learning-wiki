@@ -50,3 +50,4 @@ Organizational-level theme in the review's synthesis, supported by multiple stud
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
+- [Professional pressures — time constraints, workload and vast scope of knowledge — hindered registrars' revisitation of basic science knowledge](professional-pressure-hinders-knowledge-revisitation.md) — related

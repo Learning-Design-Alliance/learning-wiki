@@ -49,3 +49,4 @@ In the prespecified subgroup analysis for the CRI-HT outcome, the low-performer 
 - [Interaction between group assignment and baseline scores is not statistically significant, though high-baseline students show a trend of larger gains](baseline-heterogeneity-nonsignificant-interaction-trend.md) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
 - [Between-group difference in BLS knowledge gain is not statistically significant, with a numerically higher gain in the video group](bls-video-vs-simulation-knowledge-gain-no-difference.md) — related
+- [Both high and low baseline-ability groups improved significantly, with larger raw gains in the low group but no statistically significant between-group difference](low-group-gained-more-than-high-group-dti.md) — related

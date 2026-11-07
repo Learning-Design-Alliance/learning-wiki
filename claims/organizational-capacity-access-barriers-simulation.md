@@ -91,3 +91,4 @@ Interview finding from the restricted-access sub-theme; however, the article rep
 - [Rwandan medical students recommend integrating simulation into the curriculum with early procedural skills training to improve patient outcomes](students-recommend-curriculum-integration-early-simulation.md) — related
 - [Educators identify curriculum problems including poor subject integration, late clinical exposure, and outdated content, and report that faculty development changed their teaching](curriculum-integration-faculty-development-theme.md) — related
 - [Resource constraints — insufficient time, limited simulation lab space, and too few qualified instructors — are barriers to Sim-IPE](sim-ipe-resource-barriers.md) — related
+- [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related

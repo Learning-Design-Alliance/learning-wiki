@@ -52,3 +52,4 @@ True experimental study randomizing 90 fourth-year medical students into three e
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related
 - [Simulation-trained medical students obtain higher tutor-rated practical patient-education scores than students trained with real patients or with theory alone](simulation-training-higher-practical-patient-education-scores.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — related
+- [Sandwich feedback-based training produces higher observed perioperative performance (DOPS) than traditional training](sandwich-feedback-higher-dops-performance.md) — related

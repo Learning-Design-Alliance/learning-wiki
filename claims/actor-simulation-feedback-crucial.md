@@ -67,3 +67,4 @@ Same qualitative dataset. Students found it "challenging to provide constructive
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
 - [Facilitators consider positive feedback crucial for learning and deliberately foster positive aspects of simulation performance](facilitators-foster-positive-feedback.md) — related
 - [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — related
+- [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related

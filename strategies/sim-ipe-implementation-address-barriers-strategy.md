@@ -51,7 +51,8 @@ The authors conclude that implementing simulation-enhanced interprofessional edu
 - [Professional hierarchy and low student confidence are key barriers to interprofessional education](../claims/hierarchy-and-confidence-barriers-ipe.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt tabletop and virtual formats, and interprofessional participation, to address resource burden and the absence of IPE in on-call simulation](tabletop-and-ipe-innovation-for-on-call-simulation.md)
 
 ## Examples
 -

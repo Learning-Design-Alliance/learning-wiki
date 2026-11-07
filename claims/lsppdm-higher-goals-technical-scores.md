@@ -52,3 +52,4 @@ GOALS technical-skill ratings in live-pig laparoscopic cholecystectomy, blindly 
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
 - [LSPPDM group scored higher on the laparoscopic theoretical knowledge assessment](lsppdm-higher-theoretical-knowledge-scores.md) — related
 - [LSPPDM-based laparoscopic training improved technical and non-technical skills versus traditional training](lsppdm-improves-laparoscopic-training-outcomes.md) — a broader claim this one bears on
+- [All qualitative GOALS skill dimensions differ significantly across performance quartiles](qualitative-goals-dimensions-quartile-differences.md) — related

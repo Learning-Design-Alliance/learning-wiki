@@ -59,10 +59,12 @@ Creative check-ins leverage the fact that emotion and cognition are inseparable 
 6. Vary question type across the term (whimsical, reflective, content-linked) to prevent ritualization.
 
 ## Related Strategies
+
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a gamified variant that builds emotional vocabulary through the same opening routine
 - [Activate Background Knowledge](activate_background_knowledge.md) — content-linked check-ins double as prior-knowledge activation
 - [Active Listening](active-listening.md) — the instructor stance that makes check-in responses feel heard rather than collected
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a deeper, individualized follow-on channel for what check-ins surface
+- [Multi-channel activation of students before and during class](oamas-multi-channel-activation-strategy.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — the "Morning Meeting" greeting and sharing rounds institutionalize a daily creative check-in in elementary classrooms; teachers rotate question formats to keep novelty. [https://www.responsiveclassroom.org](https://www.responsiveclassroom.org)

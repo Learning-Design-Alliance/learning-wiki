@@ -57,6 +57,7 @@ The article's implementable session recipe: an orientation introducing the study
 - [Team-based, bilingual VR training session format combining orientation, remote-facilitated simulation, and debriefing](team-based-bilingual-vr-session-format.md)
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
+- [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 
 ## Examples
 -

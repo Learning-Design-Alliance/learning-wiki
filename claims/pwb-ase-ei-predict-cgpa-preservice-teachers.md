@@ -91,3 +91,4 @@ Same CGPA outcome model of the 660-participant survey; the article reports "EI a
 - [Emotional intelligence negatively predicts academic self-efficacy among Ghanaian pre-service teachers, contrary to prior literature](ei-negatively-predicts-ase-preservice.md) — related
 - [Psychological well-being significantly and positively predicts academic self-efficacy among pre-service teachers](pwb-predicts-ase-preservice-teachers.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — reports the opposite
+- [Emotional intelligence is directly and positively related to academic achievement and psychological well-being in university students](ei-direct-achievement-wellbeing.md) — related

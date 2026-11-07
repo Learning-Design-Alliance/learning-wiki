@@ -72,3 +72,4 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related
 - [Processing speed fully mediates the relation between inattention symptom severity and working memory performance in children with ADHD](ps-fully-mediatates-inattention-wm.md) — related
 - [Mindfulness affects academic achievement indirectly through the mediating role of adaptability (Sobel T = 7.551)](adaptability-mediates-mindfulness-achievement.md) — related
+- [Prior academic performance directly affects both OSCE performance and clerkship performance](academic-performance-predicts-osce-and-clerkship.md) — related

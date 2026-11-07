@@ -75,3 +75,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Working position and department policy, not age, nationality, experience or confidence, predicted consistent SCMR knowledge in multivariate logistic regression](position-and-policy-predict-consistent-scmr-knowledge.md) — related
 - [In the Polish cohort, age was positively associated with clinical preparedness and physicians scored higher than nurses/midwives](here-poland-age-profession-predictors.md) — related
 - [Nurse educators showed better research knowledge and skills than clinical nurses (89.6% vs 58.9% with better knowledge)](educator-clinician-ebp-knowledge-gap-ghana.md) — related
+- [Nurses were less likely than physicians to be unqualified after scenario-simulation training](nurses-less-likely-unqualified-than-physicians.md) — related

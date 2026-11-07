@@ -44,6 +44,7 @@ The article recommends that school systems act on the persistence of absence eff
 ## Related Strategies
 
 - [Use school climate surveys, suspension rates, and chronic absenteeism as accountability indicators of school supports for SEL](climate-suspension-absenteeism-accountability-indicators.md)
+- [Tailor attendance interventions to pupils' specific absence trajectory patterns rather than uniform attendance-threshold policies](trajectory-tailored-attendance-interventions.md)
 
 ## Examples
 -

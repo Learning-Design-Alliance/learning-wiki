@@ -50,3 +50,4 @@ Between-class path from the multilevel path analysis of 507 students in 28 class
 
 ## Related Claims
 - [At the class level, aggregated perceived teacher fixed mindset predicts test anxiety and aggregated perceived teacher expectations predict self-efficacy and persistence](class-level-perceived-teacher-beliefs-predict-class-outcomes.md) — related
+- [Growth mindset and control beliefs show no significant association with examination anxiety, contrary to theoretical expectations](mindset-control-no-anxiety-association.md) — related

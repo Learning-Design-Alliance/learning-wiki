@@ -67,6 +67,8 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 - [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 - [Add direct observation of the learner's simulated encounter before the coaching session](direct-observation-before-coaching-strategy.md)
+- [Integrate structured feedback and video debriefing with CVS annotation into preclinical and clinical surgical training](integrate-cvs-annotation-debriefing-into-surgical-training.md)
+- [Identify specific scenarios, learner populations and domains where VR surpasses or enhances traditional trauma training before integrating it into curricula](targeted-vr-integration-trauma-curricula-strategy.md)
 
 ## Examples
 -

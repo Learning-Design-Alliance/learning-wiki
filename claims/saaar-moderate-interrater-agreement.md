@@ -50,3 +50,4 @@ Interrater analysis of the first evaluation round, in which faculty independentl
 - [The SAAAR behavioral marker format showed excellent test-retest reliability (Spearman's ρ = 0.952)](saaar-excellent-test-retest-reliability.md) — related
 - [The SAAAR behavioral marker format showed high internal consistency (McDonald's ω = 0.928)](saaar-high-internal-consistency.md) — related
 - [In a simulation-based pilot, residents' SAAAR scores improved significantly from pretraining to posttraining across all four domains](saaar-prepost-improvements-all-domains.md) — related
+- [Casper shows satisfactory internal consistency but only moderate interrater agreement and low test-retest reliability in the German pilot](casper-german-pilot-reliability-mixed.md) — related

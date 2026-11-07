@@ -49,3 +49,4 @@ Pilot assessment of 13 trainees (6 junior ST1–ST4, 7 senior ST5–ST8) across 
 - [Five of eight stations individually differentiated junior from senior trainees](sim-assessment-station-level-discrimination.md) — a narrower finding that bears on this claim
 - [Construct validity evidence shows statistically significant proficiency differences favouring junior over senior groups across modalities, though junior and senior residents did not differ on some metrics](simulation-construct-validity-junior-senior-differences.md) — reports the opposite
 - [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — related
+- [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — reports the opposite

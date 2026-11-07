@@ -57,3 +57,6 @@ Student-level paths from the multilevel path analysis of 507 students in 28 clas
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Students' fixed mindsets mediate the links between socializers' beliefs and students' math motivation and behavioural outcomes at the student level](student-mindsets-mediate-socializer-belief-effects.md) — related
 - [Learning engagement dimensions correlate negatively with learning anxiety and positively with academic self-efficacy](engagement-anxiety-negative-correlations.md) — related
+- [Growth mindset and control beliefs show no significant association with examination anxiety, contrary to theoretical expectations](mindset-control-no-anxiety-association.md) — reports the opposite
+- [Self-efficacy shows the highest correlation with achievement (r = 0.555) among the measured beliefs, with performance goals ahead of learning goals](self-efficacy-highest-belief-correlation-grades.md) — related
+- [Supported techniques show higher associations with self-efficacy, growth mindset, control beliefs and learning goals than unsupported techniques, but low elaboration relates to more exam anxiety](supported-techniques-beliefs-associations.md) — related

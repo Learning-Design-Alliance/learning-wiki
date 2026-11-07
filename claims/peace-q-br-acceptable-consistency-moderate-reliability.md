@@ -49,3 +49,4 @@ Test-retest validation study: 102 residents completed the questionnaire and 39 w
 - [Medical residents scored below 70% on 10 of 33 PEACE-Q Br items, concentrated in the Oncologic Pain and Opioid Side Effects domains](residents-below-70-percent-pain-opioid-items.md) — related
 - [Medical residents in clinical specialties scored higher on the PEACE-Q Br than residents in surgical or mixed specialties](clinical-specialty-residents-higher-peace-q-scores.md) — related
 - [Greater recent palliative care patient contact and confidence in prescribing morphine were associated with higher PEACE-Q Br performance in specific domains](palliative-care-exposure-associated-higher-knowledge.md) — related
+- [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related

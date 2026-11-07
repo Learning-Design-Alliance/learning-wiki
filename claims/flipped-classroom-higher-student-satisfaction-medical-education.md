@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).
-description: Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).
+title: "Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07"
+description: "Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07"
 id: flipped-classroom-higher-student-satisfaction-medical-education
 status: review
 generated:
@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-11-01
+source_checked: 2026-11-07
 sources:
   - id: de-azevedo-cardoso-t-2025
     resource: "https://doi.org/10.2196/60757"
@@ -21,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).
+# Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` Across 27 studies with 5,842 participants, flipped classroom instruction produced significantly higher student satisfaction scores than traditional instruction (SMD 0.82, 95% CI 0.45-1.19, P<.001). [→ de Azevedo Cardoso T 2025](#de-azevedo-cardoso-t-2025)
+`q3 i2` Across 27 observational and randomised studies with 5,842 participants, students in flipped classrooms reported significantly higher satisfaction than students taught traditionally (SMD 0.82, 95% CI 0.45-1.19, P<.001; RCTs alone 0.69), but heterogeneity was very high (I² = 97.8%) and the trim-and-fill adjustment for publication bias attenuated the estimate to SMD 0.07 (95% CI −0.40 to 0.54; P = .76). [→ de Azevedo Cardoso T 2025](#de-azevedo-cardoso-t-2025)
 
 ## Evidence
 
@@ -38,7 +38,7 @@ de Azevedo Cardoso T, Aung H H, Yeh W-Y, Ozdamli F, Ignjatovic A, Spaic D, Bukum
 
 `q3 · i2` · `quant-synthesis · r2`
 
-Meta-analysis of 27 studies (5,842 participants) reporting student satisfaction scores. The pooled SMD of 0.82 (95% CI 0.45-1.19) indicates a large effect favoring the flipped classroom, with the FC group outperforming approximately 72% of control individuals.
+Meta-analysis of 27 studies (5,842 participants) reporting student satisfaction scores. The pooled SMD of 0.82 (95% CI 0.45-1.19) favours the flipped classroom (observational studies 0.87, RCTs 0.69), with I² = 97.8% and borderline evidence of publication bias (P = .051); the trim-and-fill analysis attenuated it to SMD 0.07 (95% CI −0.40 to 0.54; P = .76).
 
 > "The results of the meta-analysis overall effect showed higher students’ satisfaction scores for an FC in contrast to the control group (SMD 0.82, 95% CI 0.45-1.19; P<.001"
 
@@ -64,3 +64,4 @@ Meta-analysis of 27 studies (5,842 participants) reporting student satisfaction 
 - [Students rated the flipped classroom more positively than the traditional classroom, but the satisfaction difference was not statistically significant](fc-satisfaction-higher-not-significant.md) — reports the opposite
 - [Residents in the integrated-teaching group report higher overall satisfaction with instructors, driven by skill training and bedside teaching](integrated-teaching-higher-instructor-satisfaction.md) — related
 - [Flipped classroom residents reported significantly higher overall satisfaction with teaching than lecture-based residents](fc-higher-overall-teaching-satisfaction.md) — a narrower finding that bears on this claim
+- [Blended learning produced higher knowledge gain than traditional lecture in an evidence-based medicine course for medical postgraduates](blended-learning-higher-knowledge-gain-ebm-course.md) — related

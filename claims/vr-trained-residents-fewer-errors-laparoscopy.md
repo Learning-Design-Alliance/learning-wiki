@@ -52,3 +52,4 @@ The review reports a randomized controlled trial comparing VR-trained and non-VR
 - [The VR group required longer total training time and fewer calendar days than the box group](vr-group-longer-training-time-fewer-days.md) — related
 - [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related
 - [Digital laparoscopy training on a low-cost simulator produces no significant difference in overall task errors compared with in-person training in laparoscopic novices](digital-in-person-laparoscopy-training-equal-errors-novices.md) — related
+- [VR training improves surgical performance and reduces the learning curve for complex procedures](vr-training-improves-surgical-performance.md) — a broader claim this one bears on

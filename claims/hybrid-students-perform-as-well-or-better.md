@@ -66,3 +66,4 @@ Programme outcomes comparison under the Product component of the CIPP evaluation
 ## Related Claims
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
+- [Final examination scores of Pharmacy and Clinical Pharmacy students in 2022 were significantly lower than in 2020 and 2021 under the hybrid Physiology teaching model](2022-exam-scores-lower-than-2020-2021-hybrid-physiology.md) — related

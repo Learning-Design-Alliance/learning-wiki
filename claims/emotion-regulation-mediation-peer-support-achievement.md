@@ -57,3 +57,5 @@ Bias-corrected bootstrapping with 5,000 resamples in the SEM analysis (Table 7).
 - [Motivational regulation strategies mediate the relationship between perceived peer support provisions and academic achievement, with all observed mediating effects being total effects](mrs-mediate-peer-support-achievement.md) — related
 - [Peer support does not mediate the relationship between motivational regulation strategies and achievement in the tested alternative models](peer-support-not-mediator-alternative-models.md) — related
 - [Learning engagement partially mediates the relationship between social support and academic performance](learning-engagement-partial-mediation-social-support-academic.md) — related
+- [Learning motivation and learning engagement chain-mediate the peer relationship–achievement link, with the motivation pathway strongest](chain-mediation-motivation-engagement-strongest-pathway.md) — related
+- [Learning motivation partially mediates the association between peer relationships and academic achievement](learning-motivation-partial-mediation-peer-achievement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Assess performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 17 studies (5 review, 4 quant-synthesis, 3 causal, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 17 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 18 studies (5 review, 4 quant-synthesis, 3 causal, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 6 of 18 report an effect size · 7 claims rest on one study
 
 ## Description
 Assessing performance is the instructional event in which learners demonstrate what they can do and the instructor or system evaluates that demonstration against criteria. It functions both as a measurement of mastery and as a learning event in its own right — the act of retrieving and producing performance strengthens memory and reveals gaps that instruction has not closed.
@@ -57,6 +57,7 @@ Performance assessment is most effective when criteria are transparent and feedb
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](../claims/numeracy-measurable-54-months-three-competencies.md) [~W]
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](../claims/checklists-valid-but-ceiling-effect-novice-formative.md) [~W]
 - [Integrating dynamic and standardized assessments produces positive washback and higher task-intrinsic motivation](../claims/integrated-assessment-positive-washback-motivation.md) [+W]
+- [Pass/fail levels based on both automated performance metrics and surgical gestures fully distinguish novice from experienced robotic surgeons in simulated RARP, with 100% sensitivity and specificity](../claims/apm-and-gestures-fully-distinguish-novices-experienced-simulated-rarp.md) [+W] — attached 2026-11-07 from Olsen RG et al. (2024), which proposed "Five-category surgical gesture taxonomy for annotating simulated robot-assisted radical prostatectomy videos".
 
 ## The evidence by question
 

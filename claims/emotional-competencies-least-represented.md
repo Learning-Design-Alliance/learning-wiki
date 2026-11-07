@@ -50,3 +50,4 @@ Documentary analysis found Theme 4 least frequent. The study also reports Theme 
 - [Students conceptualize EI as the foundation of leadership development and leadership readiness, including patient-centered leadership](ei-leadership-readiness-foundation.md) — related
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related
 - [Teamwork and interprofessional communication is the most frequently represented communication competency theme in the formal curriculum, comprising 46.9% of identified quotes](teamwork-most-frequent-communication-theme.md) — related
+- [Physicians' lifelong learning attention focuses on medical knowledge and clinical/procedural skills, with less articulation of interpersonal, emotional, and professionalism domains](clinical-skills-dominate-lifelong-learning-content.md) — possibly the same claim (merge candidate)

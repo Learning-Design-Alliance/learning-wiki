@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 166 claims (101 for, 61 mixed, 4 against) · 104 studies (57 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 35 of 104 report an effect size · 158 claims rest on one study
+> **Evidence** · 167 claims (102 for, 61 mixed, 4 against) · 105 studies (58 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 35 of 105 report an effect size · 159 claims rest on one study
 
 ## Conditional relationship
 
@@ -207,6 +207,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Teachers viewed the flipped classroom favourably overall but raised workload and student-preparation concerns, with experienced flipped teachers more receptive](../claims/fc-teacher-perception-workload-resistance.md) [~W] — attached 2026-11-07 from Onódi Zsófia et al. (2025), which proposed "Blend conventional frontal teaching with interactive methods and lighter preparation resources when introducing flipped classrooms".
 - [Undergraduate nursing students taught with a flipped teaching strategy scored significantly higher in the therapeutic communication course than students taught traditionally, though the article characterizes the magnitude of the difference as very small](../claims/flipped-teaching-higher-course-scores-nursing.md) [+W] — attached 2026-11-07 from Andargeery Shaherah Yousef et al. (2024), which proposed "Integrate flipped teaching into nursing curricula to improve education quality and student performance"; tests this page's relationship.
 - [Intervention-group students perceived a moderate level of effectiveness of the flipped teaching classroom, rating logical thinking and application of knowledge highest](../claims/flipped-teaching-moderate-perceived-effectiveness.md) [+W] — attached 2026-11-07 from Andargeery Shaherah Yousef et al. (2024), which proposed "Integrate flipped teaching into nursing curricula to improve education quality and student performance".
+- [Medical students taught with a flipped classroom using clinical scenarios and educational technology scored significantly higher on theoretical post-tests than students taught with subject-based lectures](../claims/flipped-classroom-clinical-scenarios-higher-theory-posttest.md) [+W] — attached 2026-11-07 from Seidi Masoumeh et al. (2024), which proposed "Use flipped classroom with clinical scenarios and educational technology as a complementary method for theoretical and practical lessons where facilities or time are limited"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

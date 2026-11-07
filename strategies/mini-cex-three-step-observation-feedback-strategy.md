@@ -48,6 +48,7 @@ The article recommends implementing the Mini-CEX tool as an assessment and teach
 - [Three-week staged SBAR plus mini-CEX clinical teaching sequence with one-on-one mentoring](three-week-sbar-minicex-teaching-sequence.md)
 - [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
+- [Combine Mini-CEX and DOPS workplace assessments with feedback at repeated time points during community outpatient training](minicex-dops-combined-repeated-feedback-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ In the same RCT, independent-samples t-tests compared theoretical knowledge, pra
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — a broader claim this one bears on
 - [Hybrid BOPPPS group achieved modestly higher formative, final exam and comprehensive scores than the LBL group](boppps-higher-comprehensive-grades-radiology.md) — related
+- [Experimental-group nurses achieved higher total nurse competency, professional knowledge, and professional skills scores, with no significant difference in professional abilities or psychological traits](procedural-pathways-competency-gains-mixed-across-dimensions.md) — related

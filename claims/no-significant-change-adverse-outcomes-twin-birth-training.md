@@ -48,3 +48,4 @@ Retrospective multicenter pre/post comparison of 278 twin pregnancies. Adverse m
 - [The meditation app showed no evidence of elevated adverse events, with lower odds of symptom worsening at post-test](hmp-no-elevated-adverse-events.md) — related
 - [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](simulation-plus-teamtraining-reduced-adverse-outcomes.md) — related
 - [Vaginal twin birth rates increased significantly after training interventions, from 9.2% to 40.8% overall](vaginal-twin-birth-rate-increased-after-training-interventions.md) — related
+- [Global adverse event rates did not change significantly across the project periods, and the study could not establish an effect of training on obstetric complication rates](adverse-event-rates-no-significant-change.md) — related

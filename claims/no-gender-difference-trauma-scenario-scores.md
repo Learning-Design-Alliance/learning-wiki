@@ -49,3 +49,4 @@ Secondary analysis (Table 5) comparing scenario-level mean scores of female and 
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
 - [Differential course placement gave young men and women different grading category weights, with young women more often in honors and geometry](differential-course-placement-created-different-category-weights.md) — related
+- [Women had higher qualification rates than men in scenario-simulation COVID-19 clinical skills training, with a 27% lower unqualified rate after adjustment](women-higher-qualification-rate-covid-simulation-training.md) — reports the opposite

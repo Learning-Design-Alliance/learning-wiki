@@ -57,6 +57,7 @@ The review's synthesis found that "Educational programs incorporating realistic 
 ## Related Strategies
 
 - [Build disaster nursing preparedness through a national competency framework, mandatory disaster modules, scenario-based simulation and leadership development](national-disaster-nursing-competency-framework-strategy.md)
+- [Adopt tabletop and virtual formats, and interprofessional participation, to address resource burden and the absence of IPE in on-call simulation](tabletop-and-ipe-innovation-for-on-call-simulation.md)
 
 ## Examples
 -

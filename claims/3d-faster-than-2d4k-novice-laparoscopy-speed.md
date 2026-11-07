@@ -48,3 +48,4 @@ Randomized parallel-group teaching intervention with 19 novices per arm performi
 - [Viewing mode (3D vs. 2D-4 K) does not significantly affect task failure rates of laparoscopic novices on tasks 1 and 2](viewing-mode-no-significant-failure-rate-difference-novices.md) — related
 - [After crossover to the non-familiar viewing mode, 3D-trained and 2D-4 K-trained novices do not differ significantly in time or success rate on a precision transfer task](crossover-nonfamiliar-system-no-performance-difference.md) — related
 - [Weekly videogaming experience of more than one hour is not associated with significantly different task completion times in laparoscopy novices](videogaming-experience-no-significant-laparoscopy-time-difference.md) — related
+- [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — related

@@ -47,6 +47,7 @@ To reduce test–retest effects and capture deeper outcomes, the authors recomme
 ## Related Strategies
 
 - [Kirkpatrick four-level evaluation of simulation training outcomes](kirkpatrick-four-level-sbl-evaluation.md)
+- [Use Kirkpatrick's Four-Level Model to evaluate simulation-based training programs](kirkpatrick-evaluation-sbt-programs.md)
 
 ## Examples
 -

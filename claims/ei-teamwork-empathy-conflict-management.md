@@ -57,3 +57,4 @@ Thematic analysis of student interviews on group-based learning; participants de
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — related
 - [Response competency is a multidimensional construct combining technical skills with psychological resilience, collaboration, leadership, communication, and professional identity](response-competency-multidimensional-construct.md) — related
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
+- [Physicians' lifelong learning attention focuses on medical knowledge and clinical/procedural skills, with less articulation of interpersonal, emotional, and professionalism domains](clinical-skills-dominate-lifelong-learning-content.md) — related

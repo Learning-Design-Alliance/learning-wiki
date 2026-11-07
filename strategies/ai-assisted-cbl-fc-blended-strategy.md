@@ -65,6 +65,8 @@ The article implements a blended instructional model in which foundational conte
 - [Use multiple teaching methodologies — case- or team-based learning, flipped classrooms, simulation, augmented reality, and interactive virtual patients — to build TDI competence](multiple-teaching-methods-tdi-confidence.md)
 - [Apply Dong et al.'s five flipped-classroom recommendations step-by-step when integrating flipped simulation into PAL simulation courses](flipped-simulation-five-recommendations-strategy.md)
 - [Blend identical pre-class theory teaching with group-based virtual simulation case practice in the internship class](vr-internship-class-group-case-strategy.md)
+- [Use blended learning with 'internet plus' and flipped classroom in evidence-based medicine teaching](internet-plus-fc-strategy-ebm-teaching.md)
+- [Deliver pre-class content and practical-session videos through messaging platforms (Eitaa and Telegram) to enable non-attendance preparation](messaging-platform-preclass-content-strategy.md)
 
 ## Examples
 -

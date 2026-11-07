@@ -82,3 +82,5 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [BOPPPS group reported significantly higher overall course satisfaction and perceived teaching effectiveness than the LBL group](boppps-higher-satisfaction-effectiveness.md) — related
 - [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related
 - [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](pbl-cbl-higher-student-satisfaction-questionnaire.md) — related
+- [Blended learning produced higher self-evaluated scientific-problem-solving improvement than traditional lecture, with Q2 marginal](blended-learning-higher-self-evaluation-ebm.md) — related
+- [Medical postgraduate students rated the TCLEBL model significantly higher than LBL on eight satisfaction dimensions including interactivity, knowledge mastery, and perceived research-ability gains](tclebl-student-satisfaction-higher-than-lbl.md) — related

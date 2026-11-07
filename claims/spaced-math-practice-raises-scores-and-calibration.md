@@ -53,3 +53,4 @@ The overconfidence finding matters for design because learners who mass their pr
 - [Learners judge massed-presented items as more likely to be recalled than distributed-presented items, although their recall is worse](judgments-overconfidence-massed-items.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
+- [Spaced E-learning produced higher BLS knowledge scores than massed E-learning at immediate, two-week and one-month post-tests in nursing students](spaced-elearning-higher-bls-knowledge-than-massed.md) — related

@@ -52,3 +52,5 @@ Cross-sectional online survey of 273 Young-IFSO members (surgeons aged ≤45) fr
 - [Although 65.0% of early-career bariatric surgeons currently perform endoscopies, annual procedural volumes remain low](low-endoscopic-practice-volume-young-surgeons.md) — related
 - [Endoscopic bariatric therapies are available and recommended by about half of respondents but performed by fewer than 25%, with performance declining for newer procedures (IGB 34.6%, ESG 12.5%, TORe 8.1%)](ebt-availability-performance-gap.md) — related
 - [Only 7.9% of Italian surgical residents report receiving formal communication training during residency, despite 91% rating it as crucial](surgical-residents-formal-communication-training-gap.md) — related
+- [About 90% of surveyed surgeons consider emergency surgery an indispensable basic skill, yet fewer than 30% report sufficient learning opportunities in everyday clinical practice](emergency-surgery-core-competence-but-few-learning-opportunities.md) — related
+- [Half of surveyed residents received no specialized GBT examination and 43% no formal GBT courses during residency training](gbt-training-assessment-curriculum-gaps.md) — related

@@ -53,3 +53,4 @@ Stratified randomized controlled trial of 97 clerks (EBM-BOPPPS n = 47, BOPPPS n
 - [EBM-BOPPPS clerks reported higher perceived learning burden and stress, with qualitative comments about difficulty keeping up](ebm-boppps-learning-burden-stress.md) — related
 - [After the EBM-BOPPPS clerkship, clerks' preferred learning resources shifted toward evidence-based guidelines and away from general search engines](resource-preference-shift-evidence-based-guidelines.md) — related
 - [A non-study-related internal medicine assessment showed no between-group differences, arguing against a Hawthorne effect explanation](internal-medicine-control-hawthorne-effect.md) — related
+- [Prior academic performance directly affects both OSCE performance and clerkship performance](academic-performance-predicts-osce-and-clerkship.md) — related
