@@ -1,7 +1,7 @@
 # The source sweep driver
 
 The sweep reads every article the screening passed (`eval/screening/`, see
-`scripts/screen_sources.py`) in batches of 80, through `scripts/run_scrape_batch.py`. These scripts
+`scripts/screen_sources.py`) in batches of 120 (`SWEEP_TAKE` overrides; 80 until 2026-11-07, raised so the whole-wiki steps run once per 120 articles), through `scripts/run_scrape_batch.py`. These scripts
 run it one batch at a time and stop after each batch for triage. They were committed on 2026-11-04,
 after a container reset wiped the scratch copies along with the ignored queues and caches.
 
