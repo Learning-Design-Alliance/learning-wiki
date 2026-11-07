@@ -74,3 +74,4 @@ A narrative review reporting Richter et al. (2022): direct instruction was more 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
 - Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions — related
 - [Children's inhibitory control moderates the association between parental number talk and children's math achievement, with a positive association only at higher inhibitory control](number-talk-inhibitory-control-interaction-math.md) — related
+- [Domain-specific and conceptual declarative knowledge is the individual characteristic most consistently related to adaptive expertise](domain-knowledge-main-individual-characteristic-adaptive-expertise.md) — related

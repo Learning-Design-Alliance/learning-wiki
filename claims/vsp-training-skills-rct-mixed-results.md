@@ -94,3 +94,4 @@ RCT of 67 medical students comparing a VSP intervention group to a video module 
 - [Training produces only a non-significant increasing trend in diagnostic accuracy among students](training-accuracy-nonsignificant-trend.md) — related
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
 - [Previously NIHSS-trained health care professionals who followed an interactive e-learning module scored higher on a knowledge acquisition quiz than those who followed a didactic video](elearning-beats-video-nihss-acquisition.md) — related
+- [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related

@@ -54,3 +54,4 @@ Thematic analysis (Thomas's five-step procedure; two researchers coded subsets u
 - [Two educational modalities were identified: face-to-face classes using PowerPoint presentations and online training accessible 24/7 via institutional websites.](two-educational-modalities-face-to-face-and-online.md) — related
 - [Blended learning poses challenges for students and institutions, including unrealistic expectations, isolation, and technology and support issues](blended-learning-challenges-students-institutions.md) — related
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related
+- [Focus group participants reported post-pandemic communication difficulties and psychological impacts, though two reported improved communication](focus-group-post-pandemic-communication-difficulties.md) — related

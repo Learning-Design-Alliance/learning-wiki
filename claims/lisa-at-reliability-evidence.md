@@ -60,3 +60,4 @@ Internal-structure analysis of the first simulation round (33 participants, two 
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [The complete VR TTE test shows high internal consistency reliability (alpha = .88) and consistent performer performance (ICC r(35) = .81)](vr-tte-test-reliability-alpha-icc.md) — related

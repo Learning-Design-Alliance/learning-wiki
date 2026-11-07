@@ -53,3 +53,4 @@ Descriptive and between-group comparison in a register-linked cohort of 12,029 S
 - [Families of children with ADHD or autism report lower closeness, higher conflict, and lower parental educational attainment than other families](ndd-families-lower-closeness-higher-conflict.md) — related
 - [No evidence that family factors predict achievement differently for students with versus without ADHD or autism (no interaction effects)](no-ndd-family-interaction-achievement.md) — related
 - [ADHD symptoms and depressive symptoms are the only variables remaining significantly correlated with APS after correction across all 26 comparisons](adhd-depression-survive-correction-aps.md) — related
+- [ADHD is the diagnosed mental disorder most strongly associated with ineligibility for upper secondary education among both male and female students in Sweden](adhd-strongest-ineligibility-association-sweden.md) — related

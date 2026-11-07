@@ -54,3 +54,4 @@ Descriptive dose–response analysis in ADHD probands relating the number of cur
 - [Adult onset of ADHD is rare and most people exceeding the symptom threshold for diagnosis are, on closer examination, false positives](adult-onset-adhd-rare-false-positives.md) — related
 - [ODD and anxiety co-morbidity predict more severe sensory processing problems in children with ADHD](odd-anxiety-predict-severe-sensory-problems.md) — related
 - [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related
+- [Comorbidity explains much of the apparent association between individual mental disorder diagnoses and educational outcomes, as fully adjusted associations are greatly attenuated](comorbidity-attenuates-diagnosis-associations.md) — related

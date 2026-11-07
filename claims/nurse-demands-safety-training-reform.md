@@ -50,3 +50,4 @@ Theme 3 of the interview study. Participants said memorized protocols "fail" in 
 - [Nurses identify observation of patients and environment as the most critical means of preventing psychiatric adverse events](observation-critical-means-preventing-adverse-events.md) — related
 - [Psychiatric nurses conceptualize patient safety competency as comprising self-protection, understanding patients, observation, communication, nurse–patient relationships, and adverse event handling](psychiatric-nurse-safety-competency-connotation.md) — related
 - [Lack of prior experience wearing protective clothing in isolation wards was the strongest determinant of failing qualification](prior-protective-clothing-experience-predicts-qualification.md) — related
+- [Participants judged hands-on workshops, especially the operative porcine laboratory, the most educational and memorable course formats](porcine-lab-hands-on-workshops-most-educational.md) — related

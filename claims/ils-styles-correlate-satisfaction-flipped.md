@@ -49,3 +49,4 @@ Spearman correlations between ILS dimensions and satisfaction in the flipped gro
 ## Related Claims
 - [Active processors score higher than reflective processors in both formats, and sequential learners score higher in the flipped classroom](learning-style-wirebending-score-differences.md) — related
 - [In the face-to-face classroom, sensing and verbal learning styles correlate positively with student satisfaction](sensing-verbal-styles-satisfaction-face-to-face.md) — related
+- [Satisfaction factors correlate: online learning satisfaction correlates with classroom learning, learning effect, but not learning difficulty](satisfaction-factor-correlations-bl.md) — related

@@ -42,6 +42,7 @@ In the implementation phase, the project found that programs sometimes struggled
 - [In co-design meetings, position community members as experts and create space for challenging ideas, including adapting survey questions to community feedback.](position-community-experts-challenging-ideas-meetings.md)
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 - [Discovery-phase data collection: surveys, listening sessions, and project inventories to map the current system](discovery-phase-data-collection-tools.md)
+- [Use thematic analysis of implementers' reasons to anticipate facilitators and barriers when planning RaT programs](rat-implementation-reasons-barriers-strategy.md)
 
 ## Examples
 -

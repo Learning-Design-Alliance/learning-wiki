@@ -47,6 +47,7 @@ The article recommends a multicomponent capacity-building strategy for PHC worke
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 - [Expand sarcopenia coverage in medical curricula, add primary-care guidelines, and provide equipment support for screening and diagnosis](sarcopenia-curriculum-guideline-equipment-strategy.md)
 - [Provide competency-based in-service training through the CPD system for OBE-trained nurses and supervisors](cpd-in-service-cbe-training-for-obe-staff.md)
+- [Implement scientific and comprehensive pain management and control educational programs for emergency nurses and health workers](comprehensive-pain-management-education-programs.md)
 
 ## Examples
 -

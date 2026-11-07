@@ -131,6 +131,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use simulated patients in the early study period and integrate real patients gradually as communication skills develop](sp-early-rp-gradual-integration-strategy.md)
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
 - [Use short, gamified low-cost simulation tasks as an introductory pre-clinical training method before real laparoscopic exposure](gamified-low-cost-simulation-before-real-laparoscopy.md)
+- [Combine real SPs for doctor-patient communication with virtual scenarios for clinical examination](hybrid-sp-virtual-scenario-osce-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 431 claims (284 show a difference, 102 mixed, 45 no difference) · 306 studies (110 associational, 105 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 82 of 306 report an effect size · 419 claims rest on one study
+> **Evidence** · 437 claims (289 show a difference, 103 mixed, 45 no difference) · 310 studies (112 associational, 106 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 84 of 310 report an effect size · 425 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -481,6 +481,12 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [A warm demeanor in a fixed mindset teacher does not support students' growth mindset effects; warm versus firm fixed mindset teachers did not differ in the mindset–choice link](../claims/warm-demeanor-not-sufficient-for-mindset-effects.md) [-M] — an instructional effect differs with it
 - [Both growth mindset messages and structural opportunities matter: the mindset–choice link is strongest when both are growth-aligned, weakest when both are fixed, and intermediate when they are misaligned](../claims/messages-and-opportunities-jointly-moderate-mindset.md) [~M] — an instructional effect differs with it
 - [Students' growth mindset beliefs predict learning-oriented assignment choices when a hypothetical teacher provides growth mindset messages and opportunities, but not when the teacher is depicted with fixed mindset practices](../claims/teacher-mindset-practices-moderate-mindset-choice-link.md) [~M] — learners who differ on it differ in outcomes
+- [A values-aligned intervention increases teachers' intentions to use growth mindset–supportive practices and their growth mindset beliefs relative to control](../claims/values-aligned-intervention-raises-teacher-practice-intentions-and-beliefs.md) [+W] — measured as an outcome of the instruction studied
+- [Academic performance correlates positively with intrinsic knowledge motivation, intrinsic achievement motivation, and self-efficacy](../claims/performance-correlates-intrinsic-motivation-self-efficacy.md) [+W] — learners who differ on it differ in outcomes
+- [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](../claims/amotivation-correlates-burnout-intrinsic-motivation.md) [+M] — learners who differ on it differ in outcomes
+- [Expectancy difference scores reverse as contingencies change in both groups, but only the Instructed Group's expectations varied significantly by phase](../claims/expectancy-reversals-larger-in-instructed-group.md) [~M] — measured as an outcome of the instruction studied
+- [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](../claims/self-efficacy-achievement-amotivation-predict-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Technology access and e-learning motivation jointly explain 30.4% of variance in nursing students' satisfaction with e-learning, with motivation the stronger predictor](../claims/tech-access-motivation-explain-satisfaction-variance-nursing.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

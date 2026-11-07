@@ -71,3 +71,4 @@ ANCOVA controlling for years of education confirmed the results "did not differ 
 - [Paramedics' preferred online learning format depends on the format they most recently experienced](format-preference-follows-experienced-format.md) — related
 - [Higher perceived pressure/tension and, unexpectedly, higher perceived competence predict poorer post-training test results](pressure-and-competence-predict-test-results.md) — related
 - [No significant difference between e-learning and video groups in satisfaction, perceived duration, or perceived difficulty](no-difference-satisfaction-duration-difficulty.md) — related
+- [Remote asynchronous feedback through Lapp produces no significant differences in competency levels compared with in-person synchronous feedback](lapp-remote-asynchronous-feedback-no-competency-difference.md) — a narrower finding that bears on this claim

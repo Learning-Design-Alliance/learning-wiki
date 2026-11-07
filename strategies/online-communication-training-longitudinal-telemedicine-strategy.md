@@ -49,7 +49,8 @@ The article's Fazit für die Praxis recommends that communication trainings in o
 - [Recruitment and retention exceeded expectations, supporting feasibility of virtually delivered telemedicine skills training](../claims/virtual-recruitment-retention-feasible.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
 
 ## Examples
 -

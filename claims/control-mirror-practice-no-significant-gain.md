@@ -49,3 +49,4 @@ Within-group paired t-test in the Control group, which observed a dentognathic m
 - [Mirror training using Mirrosistant improves dental students' SIMODONT mirror-operation scores compared with control training](mirrosistant-training-improves-simodont-mirror-scores.md) — related
 - [Mirrosistant training shortens dental students' total and handpiece working time in SIMODONT mirror operation](mirrosistant-reduces-operation-time.md) — related
 - [Within the Experimental group, SIMODONT mirror-operation scores rose significantly from the 1st to the 2nd examination in a within-group pre-test–post-test comparison](mirrosistant-within-group-score-gain.md) — related
+- [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related

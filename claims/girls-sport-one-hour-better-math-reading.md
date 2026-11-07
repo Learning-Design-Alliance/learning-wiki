@@ -48,3 +48,6 @@ The review attributes this finding to Carlson et al.: sport-participating girls 
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
 - [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related
+- [Sports participation frequency is positively associated with Chinese grades in Chinese primary school children, with the highest odds at 3 or more times per week](sports-participation-chinese-grades-positive-association.md) — related
+- [Associations between sports participation and grades are stronger for boys than girls, and girls showed no significant dose relationship in Chinese and math](sports-participation-grades-sex-differences.md) — reports the opposite
+- [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related

@@ -49,6 +49,7 @@ A concrete recipe set the article offers for institutions seeking to improve stu
 - [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
 - [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
+- [Emphasize sleep hygiene as a regulating factor for academic performance in emergency remote teaching](sleep-hygiene-emergency-remote-teaching-strategy.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The authors recommend that Ukrainian higher education institutions implement mea
 
 - [Multi-level institutional response to problematic internet use: digital wellbeing policies, psychoeducational curriculum programs, peer-led initiatives, and screening services](ia-multi-level-institutional-response-strategy.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
+- [Use the UNI to screen students and target psychosocial support services](uni-screening-targeted-support-strategy.md)
 
 ## Examples
 -

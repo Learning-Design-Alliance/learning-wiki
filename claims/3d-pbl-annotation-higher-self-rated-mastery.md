@@ -49,3 +49,4 @@ Post-intervention questionnaire (120 responses, 100% response rate, 10-point sca
 - [Students taught with 3D-PBL-annotation teaching score significantly higher on subjective case-analysis questions than students taught by traditional lectures](3d-pbl-annotation-higher-case-analysis-scores.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
 - [No difference between 3DP and lecture-based groups in self-reported mastery of basic knowledge](3dp-pbl-no-difference-basic-knowledge-mastery.md) — related
+- [Spinal surgery trainees taught with PBL plus 3D visualization self-rated their professional knowledge higher than traditionally taught trainees](pbl-3dv-higher-self-rated-professional-knowledge.md) — possibly the same claim (merge candidate)

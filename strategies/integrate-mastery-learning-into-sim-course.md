@@ -51,6 +51,7 @@ The authors recommend that simulation courses with fixed module time adopt maste
 - [Segment trainees by initial level and add consolidation modules in the final training phase](segment-by-initial-level-consolidation-phase.md)
 - [Provide additional guidance tools such as intraoperative fluoroscopy during a trainee's first 20 CT-navigated THA cases](additional-tools-first-20-navigated-cases.md)
 - [Use interruptible simulation in a safe environment so errors can be pointed out and corrected during practice](interruptible-safe-environment-simulation-strategy.md)
+- [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 
 ## Examples
 -

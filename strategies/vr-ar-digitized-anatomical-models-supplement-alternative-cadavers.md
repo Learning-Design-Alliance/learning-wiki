@@ -60,6 +60,7 @@ The review recommends incorporating digital anatomical models into the curriculu
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Incorporate 3DPAMs into anatomy teaching early in medical school, prioritizing complex anatomical areas](incorporate-3dpams-early-complex-anatomy.md)
 - [Augmented Reality (AR) for Medical Education and Training](augmented-reality-ar-for-medical-education-and-training.md)
+- [Introduce anatomy learning involving 3D mental rotation of anatomical structures and combined 2D pictures with 3D models to support low-spatial-ability dental students](3d-mental-rotation-anatomy-module-strategy.md)
 
 ## Examples
 -

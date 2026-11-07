@@ -54,3 +54,4 @@ In the same randomized controlled trial, the State Anxiety Inventory was adminis
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related
 - [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related
 - [First-year nursing students report higher satisfaction with traditional skill demonstration than with video-assisted teaching](demonstration-higher-satisfaction-than-video.md) — related
+- [Interactive educational video is as effective as traditional demonstration for nursing students' skill competency in oral medication administration](interactive-video-as-effective-as-demonstration-skill.md) — related

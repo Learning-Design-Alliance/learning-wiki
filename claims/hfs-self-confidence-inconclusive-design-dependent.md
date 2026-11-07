@@ -82,3 +82,4 @@ Subgroup analysis by study design of the self-confidence meta-analysis. The revi
 - [High-fidelity simulation yields higher student satisfaction and self-confidence in learning than low-fidelity models](hfs-3d-printer-moulage-higher-satisfaction-selfconfidence.md) — reports the opposite
 - [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](video-based-climate-program-large-effects-students.md) — related
 - [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — related
+- [Educational interventions including reflective learning, peer counselling and attribution training can improve nursing students' professional self-concept](self-concept-interventions-effective.md) — related

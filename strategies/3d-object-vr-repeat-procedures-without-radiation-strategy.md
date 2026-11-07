@@ -48,6 +48,7 @@ For procedures involving radiation exposure or limited instructor availability, 
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
+- [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ A mandatory electronic course evaluation survey administered at the end of the c
 - [Students from nursing, pharmacy, and physical therapy expressed slightly higher satisfaction than other programs](program-differences-satisfaction.md) — related
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
+- [Participants rated satisfaction with the e-PBL program content 3.5 out of 5](e-pbl-satisfaction-3-5-of-5.md) — related

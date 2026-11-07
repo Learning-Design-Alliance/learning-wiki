@@ -57,3 +57,4 @@ Same experimental comparative study; the local Mistral 7B model was deployed via
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [Both LLMs showed high interrater reliability on orthopedic MCQs (ChatGPT κ=0.81; DeepSeek κ=0.78)](llm-interrater-reliability-orthopedic-mcqs-kappa.md) — related
+- [Inter-rater agreement on five POCUS clinical-competence checklist items is fair to moderate (κ = 0.32 to 0.55)](pocus-checklist-fair-moderate-rater-agreement.md) — related

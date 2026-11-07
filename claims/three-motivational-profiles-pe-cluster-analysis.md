@@ -53,3 +53,4 @@ Across two studies of high school physical education students, cluster analysis 
 - [Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported](mixed-motivation-certificate-not-supported.md) — related
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
 - [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related
+- [K-means clustering identifies adaptive, average, and non-adaptive motivation–burnout–performance profiles](cluster-profiles-motivation-burnout-performance.md) — related

@@ -52,6 +52,7 @@ The article recommends that critical care nursing programmes add obstetric emerg
 - [Operationalise workplace-based learning within national obstetric emergency training programmes, embedding learning visibly into real clinical settings alongside simulation](operationalise-wpbl-in-oe-training-programmes.md)
 - [Align simulation topics with students' clinical interests and enhance feedback processes such as video feedback](align-simulation-topics-clinical-interests-video-feedback.md)
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
+- [Incorporate simulation-based multidisciplinary team training with feedback and reflection in trauma and emergency care masterclasses](simulation-multidisciplinary-team-training-trauma-masterclasses.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ The article recommends that clinical reasoning practice with virtual patients be
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
+- [Conduct virtual patients as a collaborative interactive activity within a lecture rather than as an independent session after the lecture](collaborative-vps-within-lecture-strategy.md)
 
 ## Examples
 -

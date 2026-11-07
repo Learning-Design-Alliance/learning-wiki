@@ -57,3 +57,4 @@ Descriptive analysis of an anonymous Qualtrics survey of 66 students (19 pre-cli
 - [Discussion section attendance significantly increases agreement with 10 of 19 sense of belonging items](attendance-predicts-belonging.md) — related
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
 - [Attending offline CBL classes is associated with significantly higher self-confidence, particularly in collaboration, communication, and critical thinking](offline-cbl-attendance-higher-self-confidence.md) — related
+- [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related

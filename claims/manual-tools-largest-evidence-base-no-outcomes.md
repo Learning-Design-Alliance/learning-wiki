@@ -72,3 +72,4 @@ In the manual-tools synthesis section, the review reports that relations-to-othe
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
 - [Reliability and validity evidence for patient safety assessment tools is modest: internal structure reported for 22 tools, content validity for 14, and correlations with other assessments for only eight](modest-validity-evidence-safety-tools.md) — related
 - [Department chairs judge operating-room exposure sufficient but doubt independent readiness at certification and criticize the surgical catalog](chairs-views-or-exposure-versus-independent-readiness.md) — related
+- [Logbooks alone do not deliver sufficient reliability or validity for accreditation purposes and do not correlate with educational outcomes](logbooks-alone-insufficient-for-accreditation.md) — related

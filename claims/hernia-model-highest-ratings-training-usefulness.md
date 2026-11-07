@@ -49,3 +49,5 @@ Results of the post-training Likert questionnaire (Table 2) completed by 28 surg
 - [Students and oral surgeons at every experience level agreed that combining model practice with clinical experience is the best preparation and that the model cannot replace clinical experience](combination-model-and-clinic-best-model-cannot-replace-clinic.md) — related
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
 - [Most participating surgeons had limited TAPP herniorrhaphy experience, and a majority reported high laparoscopic volume](participant-experience-profile-hernia-model-evaluation.md) — related
+- [Trainees who have practised on simulators enter the operating room more self-assured, and expert mentors spend less time teaching basic skills](simulation-confidence-and-mentor-time-benefits.md) — related
+- [Surgeons rate the simulation model as educationally beneficial, immersive and realistic, and overwhelmingly agree more complication-management training is needed](surgeon-questionnaire-support-for-pcr-simulation-model.md) — related

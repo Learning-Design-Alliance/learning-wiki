@@ -50,3 +50,4 @@ Randomized, blinded case-control study of 26 psychiatry residents; videos of sim
 - [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
 - [SNAPPS is reported as superior to the One-Minute Preceptor model in enhancing clinical reasoning](snapps-superior-omp-clinical-reasoning.md) — related
+- [In 21 of 24 studies reviewed in 2009, residents showed significant enhancement of teaching performance after specific training](rat-training-significant-teaching-performance-21-of-24.md) — a broader claim this one bears on

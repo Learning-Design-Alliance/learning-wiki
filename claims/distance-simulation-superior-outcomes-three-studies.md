@@ -111,3 +111,4 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — related
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
 - [Robotic simulation training improves surgical skill acquisition, with progressive competency-based training raising competence rates in junior residents](robotic-simulation-competency-training.md) — related
+- [Participants held positive perceptions of virtual classroom training, with all respondents reporting additional educational benefit over the FRS curriculum](positive-perceptions-of-vct-sessions.md) — related

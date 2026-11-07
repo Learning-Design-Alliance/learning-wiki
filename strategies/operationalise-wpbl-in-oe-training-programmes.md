@@ -47,6 +47,7 @@ The review's top policy recommendation in table 4 is to "Explore approaches to o
 - [Simulation Based Training](simulation-based-training.md)
 - [Incorporate obstetric emergency simulation modules with structured personalised feedback into critical care nursing programmes](obstetric-emergency-simulation-personalised-feedback-critical-care.md)
 - [Restructure clinical environments to combine outcomes-oriented formal CPD with informal, social workplace learning](combine-formal-cpd-informal-social-workplace-learning.md)
+- [Implement simulation-based team training as a nationwide programme open to all stroke centres, inviting whole logistics-pathway teams](nationwide-simulation-training-rollout-strategy.md)
 
 ## Examples
 -

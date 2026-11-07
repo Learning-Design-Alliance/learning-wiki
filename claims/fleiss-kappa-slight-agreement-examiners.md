@@ -50,3 +50,4 @@ Fleiss-kappa analysis in the ten-examiner video-rating study; experienced examin
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - [A ten-examiner majority-rule verdict is robust across experienced and most-confident subgroups](majority-rule-gold-standard-robust.md) — related
 - [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — a narrower finding that bears on this claim
+- [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related

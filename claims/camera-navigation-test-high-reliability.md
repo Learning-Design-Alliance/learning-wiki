@@ -54,3 +54,4 @@ Internal structure analysis across the eight simulator metrics in each of two te
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [All evaluated performance criteria on the camera navigation exercise show high pairwise Pearson correlation, with p below 0.001 for all paired correlations](endotrainer-criteria-high-correlation.md) — related
 - [The VR assessment shows high interscenario reliability (Cronbach α of 0.82) adequate for summative assessment](vr-assessment-cronbach-alpha-082.md) — related
+- [The complete VR TTE test shows high internal consistency reliability (alpha = .88) and consistent performer performance (ICC r(35) = .81)](vr-tte-test-reliability-alpha-icc.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: apara-teleireoluwa-2024
     resource: "https://doi.org/10.1136/bmjpo-2024-002941"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants agreed that disclosure that the manikin would or may die was not required in the prebrief or predefined learning objectives. [→ Apara Teleireoluwa 2024](#apara-teleireoluwa-2024)

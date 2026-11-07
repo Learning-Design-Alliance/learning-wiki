@@ -51,3 +51,4 @@ Self-reported social media use among the 17 intervention participants across bas
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Fear of childbirth decreased immediately after wearable birth simulation across all groups, then rose again during follow-up](simulation-temporarily-reduced-childbirth-fear.md) — related
+- [Maximum scores declined after primary intervention except in fluidity and speed, which rose significantly](max-scores-decline-except-fluidity-speed.md) — related

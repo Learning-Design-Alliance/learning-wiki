@@ -54,3 +54,4 @@ Synthesis across all 34 simulators in the systematic review using an adapted McG
 - [Evidence for technology-enhanced basic robotic skills training is concentrated at Kirkpatrick level 2, with no studies reporting transfer to operative behaviour or patient outcomes](kirkpatrick-level2-only-evidence-base.md) — related
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
+- [The simulation model achieved Level 1 (internal acceptability) and Level 2 (contained effects) on McGaghie's translational outcomes framework](mcgaghie-level-1-and-2-achieved.md) — related

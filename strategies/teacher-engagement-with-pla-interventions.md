@@ -57,6 +57,7 @@ The article's central recommendation is that teachers be engaged with predictive
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
 - [Pedagogical nudges triggered by WBA analytics to encourage engagement](wba-analytics-pedagogical-nudges.md)
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
+- [Predict and warn students at risk to assist teacher management and prevent selective ignoring](achievement-prediction-early-warning-strategy.md)
 
 ## Examples
 -

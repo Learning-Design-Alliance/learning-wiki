@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 255 claims (174 show a difference, 50 mixed, 31 no difference) · 186 studies (59 causal, 44 review, 43 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 49 of 186 report an effect size · 248 claims rest on one study
+> **Evidence** · 263 claims (177 show a difference, 54 mixed, 32 no difference) · 189 studies (59 causal, 46 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 50 of 189 report an effect size · 256 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -297,6 +297,14 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Medical students with high empathy tend to prefer people-oriented specialties, though findings are mixed](../claims/high-empathy-people-oriented-specialty-preference-mixed.md) [~M] — learners who differ on it differ in outcomes
 - [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](../claims/pri-e-student-ability-development-ratings.md) [+M] — measured as an outcome of the instruction studied
 - [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](../claims/role-reversal-empathy-mechanism-claim.md) [+W] — measured as an outcome of the instruction studied
+- [Depression negatively predicts later peer relationships, and peer relationships positively predict later academic performance, in Chinese adolescents](../claims/depression-lowers-peer-relationships-which-raise-academic-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Emotional experience, social belonging, and higher-order thinking serially mediate technology acceptance and blended learning satisfaction](../claims/serial-mediation-emotion-belonging-higher-order-thinking.md) [+M] — learners who differ on it differ in outcomes
+- [For highly physically active female adolescents, the indirect effect of depression on academic performance through peer relationships is non-significant, while it remains significant for highly active male adolescents](../claims/high-pa-females-offset-indirect-effect-depression-academic-performance.md) [~M] — learners who differ on it differ in outcomes
+- [For low-physical-activity adolescents of both genders, depression has a significant negative indirect effect on academic performance through peer relationships](../claims/low-pa-indirect-effect-significant-both-genders.md) [~M] — learners who differ on it differ in outcomes
+- [In Chinese adolescents, the impact of peer relationships on academic performance is moderated by a three-way interaction of physical activity and gender](../claims/pa-gender-three-way-moderates-peer-relationship-academic-performance.md) [~W] — learners who differ on it differ in outcomes
+- [Positive peer relationships predict academic resilience in grades 6 and 11 but not grade 9](../claims/peer-relationships-predict-resilience.md) [~M] — learners who differ on it differ in outcomes
+- [Technology acceptance, emotional experience, social belonging, and higher-order thinking are each significantly positively correlated with blended learning satisfaction](../claims/blended-satisfaction-constructs-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [The moderated mediation effect through the depression-to-peer-relationship path (Model A) was not statistically significant](../claims/moderated-mediation-depression-peer-path-not-significant.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

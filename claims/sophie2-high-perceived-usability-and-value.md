@@ -66,3 +66,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
 - [Most trainees found the automated SHAP-based feedback easy to understand and were satisfied with the assessment, with GOALS scores rated most informative](automated-feedback-acceptability-questionnaire.md) — related
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
+- [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related

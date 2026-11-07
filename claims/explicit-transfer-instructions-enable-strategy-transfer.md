@@ -57,3 +57,4 @@ The review reports a study (Cavallini et al., 2010) in which older adults traine
 - [Instruction in methods of study improved school children's work when the instruction was specific to the tasks being undertaken](study-methods-instruction-improves-work.md) — related
 - [Strategy training enables transfer of strategies to other curriculum subjects](strategy-training-transfers-across-subjects.md) — a narrower finding that bears on this claim
 - [Experimental-group participants who practiced with BlindAid were more successful in 73% of real-space orientation tasks, especially perspective-taking and reverse tasks](blindaid-experimental-more-successful-orientation-tasks.md) — related
+- [Psychological skill training is suggested by preliminary evidence as a possible way to improve academic performance in young athletes, but more evidence is needed](psychological-skill-training-young-athletes-preliminary.md) — related

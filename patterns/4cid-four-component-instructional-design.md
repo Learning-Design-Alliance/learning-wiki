@@ -37,7 +37,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (14 for, 13 mixed, 1 against) · 29 studies (12 causal, 6 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (15 for, 13 mixed, 1 against) · 30 studies (12 causal, 6 theoretical, 4 review, 4 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 4 of 30 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -114,6 +114,7 @@ Every claim this page cited before the rewrite has been read against the model a
 - [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../claims/theory-agents-problem-centered-activation-advantage.md) [~W]
 - [Four interrelated components are essential in blueprints for complex learning](../claims/four-components-essential-complex-learning-blueprints.md) [+W] — attached 2026-10-15 from van Merriënboer et al. (2002), which proposed "Training blueprint structure for complex learning with associated instructional methods".
 - [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](../claims/real-life-tasks-high-intrinsic-load-need-management.md) [+W] — attached 2026-10-15 from van Merriënboer et al. (2005), which proposed "Use real-life tasks as the driving force for complex learning".
+- [The stepwise ramp let critical team skills be taught and reinforced in a manageable way, with leadership skills easier in smaller team structures before commanding larger teams in later cycles.](../claims/stepwise-complexity-eases-leadership-skill-teaching.md) [+W] — attached 2026-11-07 from Meshel Alexander MD et al. (2023), which proposed "Escalating-complexity layering pattern: each simulation cycle adds team members and resources on top of the previous level".
 
 ## Illustrative design instance and observation record
 

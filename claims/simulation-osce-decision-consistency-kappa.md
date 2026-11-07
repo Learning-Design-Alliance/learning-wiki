@@ -49,3 +49,4 @@ Decision-consistency and cut-score analysis reported in Results (Table 4), suppo
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
 - [Simulation scores significantly predict clinical practicum performance (R² = 0.42, p < 0.01), supporting the extrapolation inference](simulation-predicts-practicum-performance.md) — related
+- [The POCUS assessment tool's scores were not reliable enough to support generalization or extrapolation and require modification and retesting](pocus-tool-requires-modification-before-use.md) — related

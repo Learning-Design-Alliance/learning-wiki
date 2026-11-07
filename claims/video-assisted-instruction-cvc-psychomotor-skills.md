@@ -51,3 +51,5 @@ Cluster-allocated randomised controlled trial at Atatürk University Faculty of 
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [Video-assisted teaching added to traditional instruction produces higher ROM exercise practice skill scores in first-year nursing students one week after training](video-assisted-teaching-higher-rom-practice-skill-scores.md) — related
 - [First-year nursing students report higher satisfaction with traditional skill demonstration than with video-assisted teaching](demonstration-higher-satisfaction-than-video.md) — related
+- [Interactive educational video is as effective as traditional demonstration for nursing students' knowledge of oral medication administration](interactive-video-as-effective-as-demonstration-knowledge.md) — related
+- [Interactive educational video is as effective as traditional demonstration for nursing students' skill competency in oral medication administration](interactive-video-as-effective-as-demonstration-skill.md) — related

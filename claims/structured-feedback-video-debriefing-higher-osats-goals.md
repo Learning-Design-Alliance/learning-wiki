@@ -50,3 +50,4 @@ Randomized controlled study of 80 medical students randomized to feedback (n = 4
 - [The feedback group has fewer complications despite performing more difficult laparoscopic cholecystectomies](video-debriefing-fewer-complications-despite-difficulty.md) — related
 - [Surgical residents who practiced sufficiently improved laparoscopic small bowel length measurement accuracy significantly in an ex vivo model](sufficient-exvivo-practice-improves-bowel-measurement-accuracy.md) — related
 - [Most feedback-group trainees subjectively report that Go/No-Go zone and CVS annotation plus structured feedback improved their technical skills, operative performance, and confidence](trainees-perceive-annotation-feedback-helpful.md) — related
+- [Technical skills (OSATS) scores rose non-significantly from pre-test to post-test after the same intervention, in one single-group pre-post study with no comparison group](osats-gains-non-significant-nts-specificity.md) — related

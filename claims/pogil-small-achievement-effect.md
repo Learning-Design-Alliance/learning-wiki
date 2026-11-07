@@ -49,3 +49,4 @@ Random-effects meta-analysis of 20 studies (Npogil = 2599, Ncontrol = 5277) usin
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](pogil-effect-smaller-in-chemistry.md) — a narrower finding that bears on this claim
 - [POGIL's pass-rate advantage holds across class sizes and regardless of reported instructor training, though small-class estimates rest on very few studies](pogil-pass-rate-moderators.md) — related
 - [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](pogil-confirms-freeman-meta-analysis.md) — related
+- [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related

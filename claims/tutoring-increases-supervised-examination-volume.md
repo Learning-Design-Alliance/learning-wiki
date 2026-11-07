@@ -50,3 +50,4 @@ Examination counts over the 6-month intervention period in the randomized trial:
 - [Success on the primary outcome appears higher for residents in POCUS-favourable clinical rotations, but the unfavourable-rotation difference is not significant](favourable-rotation-subgroup-primary-outcome.md) — related
 - [Structured tutoring improves self-assessed heart ultrasound competency at 6 months, but the self-assessed lung competency difference is not statistically significant](tutoring-self-assessed-heart-competency.md) — related
 - [Tutored residents obtain higher-quality echocardiographic images and more interpretable cardiac findings, with no significant difference for lung ultrasound](tutoring-improves-echocardiography-image-quality-not-lung.md) — related
+- [PGY-1 e-learning users performed more clinical FAST examinations than PGY-2 residents despite the PGY-2 having more PoCUS experience](elearning-users-more-fast-exams-than-pgy2.md) — related

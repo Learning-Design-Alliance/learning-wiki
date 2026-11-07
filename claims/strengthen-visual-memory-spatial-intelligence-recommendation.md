@@ -48,3 +48,4 @@ Authors' interpretive recommendation in the Conclusion, not a tested result of t
 - [Visual memory and spatial intelligence are significant regression predictors of anatomy scores, with visual memory the better predictor in medicine and spatial intelligence in dentistry](regression-predictors-anatomy-scores-discipline-specific.md) — related
 - [Visual memory and spatial intelligence scores are weakly positively correlated in both medical and dental students](visual-memory-spatial-intelligence-weak-positive-correlation.md) — related
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
+- [The authors conclude spatial ability may not be the only factor predicting dental students' academic performance, and low-spatial-ability students may need supplementary techniques](spatial-ability-not-only-performance-predictor.md) — related

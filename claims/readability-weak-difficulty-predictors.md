@@ -54,3 +54,4 @@ The review reports, citing Yaneva et al. (2019), that readability measures under
 - [The Dale-Chall and Flesch readability formulas appear most efficient at discriminating less from more readable materials](dale-chall-flesch-most-efficient-formulas.md) — related
 - [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](readability-formulas-miss-content-readability.md) — a broader claim this one bears on
 - [AI assistance was typically positive in tone and of college-level reading difficulty](ai-assistance-positive-tone-college-reading-difficulty.md) — related
+- [Participants found the true/false quizzes relatively easy but the detailed descriptions difficult because they contained many technical words, and sentences were too long](ebm-elearning-quizzes-easy-explanations-technical-words-difficult.md) — related

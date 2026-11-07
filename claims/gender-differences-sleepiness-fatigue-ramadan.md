@@ -48,3 +48,4 @@ Mann-Whitney U comparison in the 922-student survey (Table 3); the article notes
 ## Related Claims
 - [Most fasting medical students report fasting-related sleep disruptions and moderate daytime sleepiness](fasting-sleep-disruptions-prevalence-iraqi-students.md) — related
 - [Headache, stress/anxiety, and fasting-affected sleep are associated with markedly higher sleepiness and fatigue during fasting](fasting-symptoms-associated-sleepiness-fatigue.md) — related
+- [Female students report significantly higher sleep disturbance, depressive symptoms, and anxiety than male students](female-students-higher-sleep-depression-anxiety.md) — related

@@ -94,3 +94,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [Baseline OSCE scores on the generative AI platform did not differ between the podcast and control groups](ai-osce-baseline-scores-equivalent-groups.md) — related
 - [Free practice of physical examinations raises OSCE physical examination scores by about five percentage points, enough for a grade jump](physical-exam-free-practice-grade-jump.md) — related
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
+- [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related

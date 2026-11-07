@@ -55,3 +55,4 @@ Analysis of the same group's continued dialogue, where students distinguished re
 - [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](personal-experiences-as-classroom-learning-resources.md) — related
 - [Academic emotions exhibit distinct bodily signatures, with positive emotions producing widespread activation and negative emotions differing by type](academic-emotion-bsm-signatures.md) — related
 - [Working with sensitive family topics in VR can feel intense and overwhelming, requiring teacher preparation for emotional reactions](vr-sensitive-topics-intensity-reactions.md) — related
+- [Working post-graduate nursing students' reactions to forced e-learning shifted from a predominantly emotional reaction to a more rational, analytic and realistic one over six months](emotional-to-rational-reaction-shift-forced-elearning.md) — related

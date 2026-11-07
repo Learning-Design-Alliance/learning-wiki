@@ -44,6 +44,7 @@ The authors state that their "findings of wide variation in individual final-pro
 
 - [Screen for and monitor children at risk of nonresponse to universal SWPBIS and target nonresponders for more intensive tiered interventions](screen-and-target-swpbis-nonresponders.md)
 - [Integrate the VR camera navigation test into mastery learning programs so trainees practice until reaching the pass/fail standard](mastery-learning-camera-navigation-simulation-strategy.md)
+- [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 
 ## Examples
 -

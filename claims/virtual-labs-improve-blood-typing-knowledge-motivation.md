@@ -56,3 +56,4 @@ Quasi-experimental study of first-year medical students in Indonesia using virtu
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
 - [Students' best virtual simulation scores are significantly higher than their initial scores](cataract-vsim-best-scores-higher-than-initial.md) — related
 - [Simulation-based biochemistry teaching yields significantly greater theoretical knowledge gains than traditional practical instruction](simulation-greater-theoretical-knowledge-gains-biochemistry.md) — related
+- [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related

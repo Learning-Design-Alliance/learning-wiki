@@ -50,6 +50,7 @@ The authors recommend that teacher educators explicitly focus students' thinking
 - [Explicit Discussions About Perspectives](explicit_discussions_about_perspectives.md)
 - [Social Awareness - Model Empathy and Explain](social_awareness_-_model_empathy_and_explain.md)
 - [Racial Equity in PBL - Focus Projects on Issues of Justice](racial_equity_in_pbl_-_focus_projects_on_issues_of_justice.md)
+- [Use guided experiential learning in authentic care settings to build students' commitment to social justice and health equity](guided-experiential-learning-social-justice-strategy.md)
 
 ## Examples
 -

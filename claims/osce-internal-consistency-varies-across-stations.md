@@ -51,3 +51,4 @@ Internal-consistency analysis of station scores from 36 students in the 15-stati
 - [OSCE scores across three virtual-patient stations show low reliability (Cronbach's alpha 0.415)](vp-low-reliability-osce.md) — related
 - [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — related
 - [The OSCE performance measure showed acceptable internal consistency (Cronbach's alpha = 0.858)](osce-performance-measure-cronbach-alpha-0858.md) — related
+- [The basic thoracic ultrasound OSCE shows high internal consistency reliability (Cronbach's alpha 0.87 across practical stations)](osce-tus-internal-consistency-alpha-087.md) — related

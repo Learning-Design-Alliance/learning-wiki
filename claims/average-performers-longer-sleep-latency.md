@@ -50,3 +50,4 @@ Independent t-test of MCTQ sleep latency between 54 Excellent and 48 Average per
 - [High-scoring students show lower night-to-night variability (MAD) of sleep efficiency, sleep onset latency, and total sleep time](lower-mad-se-sol-tst-high-scorers.md) — related
 - [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](excellent-performers-earlier-sleep-schedules.md) — related
 - [Total sleep time is significantly shorter on weekdays than weekends in both score groups, with no group difference](tst-shorter-weekdays-weekend-extension.md) — related
+- [91.1% of students reported longer sleep onset latency during the pandemic, characterizing a discontinuous sleep cycle](delayed-sleep-onset-91-percent-pandemic.md) — related

@@ -48,6 +48,7 @@ The authors' forward-looking recommendation: "Because confidence improves with e
 - [Interprofessional co-teaching team pairing expert midwives with an obstetrician-gynecologist for suturing instruction](interprofessional-suturing-coteaching-team.md)
 - [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
+- [Organise interprofessional simulation training in recurring yearly or half-yearly episodes to retain learned abilities](yearly-or-half-yearly-ipe-simulation-episodes.md)
 
 ## Examples
 -

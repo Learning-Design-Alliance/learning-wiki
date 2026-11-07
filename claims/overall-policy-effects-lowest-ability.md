@@ -58,3 +58,4 @@ Difference-in-difference interrupted time-series (Table 3) comparing affected sc
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
 - [Course dropout was linked to lower SES, lower high school GPA, lower participation in preparatory math courses, and less adaptive initial motivations](course-dropout-correlates-gateway-math.md) — related
 - [The intervention showed a selective protective effect against deterioration of math grades at 1-year follow-up (d = .36), driven by math rather than GPA overall.](explore-your-brain-protective-math-grade-effect.md) — related
+- [The intervention increased rates of earning college credit graded by professors blind to the intervention, including in majority low-SES classrooms](college-credit-outcome-rules-out-lenient-grading.md) — related

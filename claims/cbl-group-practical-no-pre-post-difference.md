@@ -47,3 +47,4 @@ Pre- versus post-course comparison reported in the Results section and Fig. 3, w
 ## Related Claims
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
 - [The two groups did not differ significantly on pre-course theory, practical or total scores before the DDH teaching intervention](no-pre-course-score-difference-ddh-groups.md) — related
+- [Pre-class theoretical and clinical practice scores did not differ significantly between the traditional and 3D printing + PBL groups](3d-printing-pbl-no-pre-class-score-difference.md) — related

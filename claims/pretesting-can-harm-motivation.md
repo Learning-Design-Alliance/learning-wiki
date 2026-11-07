@@ -90,3 +90,4 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 - [Monitoring drop-out rates at specific pages identified difficult text, and revising those pages lowered drop-out rates back to normal](dropout-monitoring-guided-text-revision.md) — related
 - Assessment does not have to be high-stakes to motivate students to perform — related
 - [Pre-test scores for perceived competence were lower among the intervention group than among the comparison groups, suggesting self-selection](lq-self-selection-lower-pretest-competence.md) — related
+- [Participant-level factors affecting MOOC completion include learners' motivation and engagement, background knowledge and skills, and time-management skills](mooc-participant-level-effectiveness-factors.md) — related

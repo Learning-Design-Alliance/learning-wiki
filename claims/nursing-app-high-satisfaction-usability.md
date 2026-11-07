@@ -56,3 +56,4 @@ Self-report satisfaction questionnaire completed by the 60 intervention-group st
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
+- [Physicians rate the PallPan palliative care e-learning tool as highly feasible, satisfying, and useful for their work](pallpan-elearning-high-feasibility-ratings-physicians.md) — related

@@ -108,3 +108,4 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 - [Case comparisons produced significantly higher learning gains than single cases for organic chemistry students with low prior knowledge (attributed to Kranz et al., under review)](case-comparisons-higher-learning-gain-low-prior-knowledge.md) — related
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
 - [Experimental-group pupils outperformed control-group pupils at the non-specific transfer level](hypertext-text-non-specific-transfer-advantage.md) — related
+- [General-mechanism theories of cognitive training (brain plasticity, primitive elements, learning to learn) are incorrect with respect to far transfer](general-mechanism-theories-refuted.md) — related

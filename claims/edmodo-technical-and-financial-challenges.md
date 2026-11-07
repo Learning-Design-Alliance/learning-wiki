@@ -57,3 +57,4 @@ Descriptive analysis of the six-item challenges scale completed by the 21 experi
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
 - [Experimental students' perceptions of Edmodo were highly positive, ranking pedagogical purposes highest and social interaction lowest](highly-positive-student-perceptions-of-edmodo.md) — related
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
+- [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related

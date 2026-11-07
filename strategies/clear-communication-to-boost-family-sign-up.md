@@ -46,6 +46,7 @@ A recruitment recommendation drawn from the trial's process findings: "To increa
 - [Use strengths-based, nonpunitive framing in recruitment and family engagement for attendance programs](strengths-based-nonpunitive-family-engagement.md)
 - [Recruit early in the spring, communicate clearly with parents, keep enrollment open, and require commitment to clear program expectations](early-parent-communication-open-enrollment-summer-edtech.md)
 - [Schools use proactive outreach, flexible tailoring for elevated hyperactivity, and family feedback on intervention acceptability](proactive-outreach-and-tailored-family-engagement.md)
+- [Future evaluations of the e-learning should reduce participant time-burden and boost retention through incentives, multiple reminders, gatekeeper support, and workplace-embedded designs](reduce-time-burden-boost-retention-health-professional-trials.md)
 
 ## Examples
 -

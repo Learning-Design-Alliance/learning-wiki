@@ -50,3 +50,4 @@ Two-way repeated measures ANOVA with time and POCUS application as within-subjec
 - [First trimester ultrasound showed the least improvement in competency while cardiac and lung applications improved most consistently](first-trimester-least-competency-improvement.md) — reports the opposite
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Communication self-confidence improved significantly over time in both groups, with a significant group-by-time interaction favoring the experimental group](communication-confidence-time-effect-and-interaction.md) — related
+- [Both study groups demonstrated significantly improved proficiency over time on two-way ANOVA, with no significant time-by-group interaction](proficiency-improved-over-time-no-interaction.md) — related

@@ -53,3 +53,4 @@ PLS-SEM analysis of the 301-response Brazilian survey; the satisfaction model ex
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
 - [Positive interaction with classmates and instructor determined e-learning satisfaction in a reviewed three-year study](interaction-determines-e-learning-satisfaction.md) — related
 - [Service quality shows no significant effect on use, satisfaction, or individual impact in this sample](service-quality-null-effect-brazilian-elearning.md) — related
+- [Four factors—perceived usefulness, perceived ease of use, system & technical dimension, and instructor characteristics—explain 59.9% of pharmacy students' e-learning satisfaction variance in the Vietnamese COVID-19 survey](four-factors-explain-elearning-satisfaction-vietnam-pharmacy.md) — related

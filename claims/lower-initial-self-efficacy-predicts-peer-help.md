@@ -52,3 +52,4 @@ The abstract summarizes the mixed-effects logistic model of Getting Help from Pe
 - [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](higher-initial-self-efficacy-predicts-accomplishing-it.md) — related
 - [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](infrequent-experiences-descriptive-self-efficacy-patterns.md) — related
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related
+- [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related

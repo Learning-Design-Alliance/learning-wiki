@@ -62,3 +62,4 @@ Descriptive synthesis of software-based platform RCTs (desktop VR, web-based sim
 - [Virtual patient platform plus mind mapping improves reported learning efficiency versus conventional teaching](dxr-mindmap-learning-efficiency.md) — related
 - [VRNET virtual reality-based neurological examination training yields higher neurological physical examination scores than standardized patients](vrnet-higher-npe-scores-than-standardized-patients.md) — a narrower finding that bears on this claim
 - [Training with standardized patients improves diagnostic accuracy, patient interaction skills, and overall clinical performance](standardized-patients-improve-diagnostic-accuracy.md) — related
+- [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — a narrower finding that bears on this claim

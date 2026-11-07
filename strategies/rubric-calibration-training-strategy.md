@@ -60,6 +60,7 @@ The review recommends that "Faculty and student training in rubric use is essent
 - [Calibration and implementation pathways for analytic rubrics in clinical dental courses](rubric-calibration-implementation-pathways-dental-clinics.md)
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
+- [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
 
 ## Examples
 -

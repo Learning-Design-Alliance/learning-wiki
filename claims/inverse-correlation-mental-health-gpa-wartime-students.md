@@ -63,3 +63,5 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [Positive emotions and motivation are positively associated with medical students' academic achievement, while negative emotions show small negative correlations](positive-emotions-motivation-academic-achievement-medical-students.md) — related
 - [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — reports the opposite
 - [Age, suspension history, and later academic year correlate negatively with dental students' GPA](age-suspension-year-negative-correlation-dental-gpa.md) — related
+- [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
+- [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related

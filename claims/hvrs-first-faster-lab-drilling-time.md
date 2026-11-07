@@ -47,3 +47,5 @@ Procedural timing analysis in the randomised pilot, with simulator-recorded dril
 ## Related Claims
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [A single VR training session before a tibial nailing synthetic-bone exercise significantly reduces completion time (about 5 minutes faster, P=.007)](vr-pretraining-faster-tibia-nailing.md) — a broader claim this one bears on
+- [Augmenting conventional pre-clinical simulation with HVRS training produced no significant differences in pulpotomy performance scores, instructor prompts, or procedural time compared with conventional simulation alone](hvrs-augmentation-no-performance-difference-pulpotomy.md) — reports the opposite
+- [The null performance effect of HVRS augmentation is bounded by the pilot's small sample, single procedure, and participants' prior experience with both simulators](hvrs-pilot-study-limitations.md) — related

@@ -51,3 +51,4 @@ Pearson correlation analysis on final MCE and virtual SBA scores among the 81 co
 - [Virtual simulation-based assessment scores do not differ significantly between post-graduate year 1 and year 2 residents (6.15 vs 6.48 on a 10-point scale)](virtual-sba-no-pgy-difference.md) — related
 - [Simulation scores correlate moderately with OSCE scores (r = 0.45, p < 0.01), supporting the generalization inference](simulation-osce-moderate-correlation.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
+- [Formative scores correlated weakly positively with summative scores (r = 0.29, p < 0.01)](formative-summative-weak-correlation.md) — related

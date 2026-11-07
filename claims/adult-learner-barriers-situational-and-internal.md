@@ -59,3 +59,4 @@ The first design principle, citing Darkenwald and Valentine (1985), reports that
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related
 - [Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways](identity-barriers-learning-while-parenting-language-credentials.md) — a narrower finding that bears on this claim
 - [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](pph-workshop-increases-dietitians-pro-environmental-confidence.md) — a narrower finding that bears on this claim
+- [Nursing students' professional self-concept is shaped by both internal individual factors and external environmental factors](self-concept-individual-environmental-factors.md) — related

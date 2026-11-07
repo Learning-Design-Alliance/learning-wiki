@@ -52,3 +52,4 @@ End-of-rotation questionnaire with Likert five-level scoring completed by the tr
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [AI-assisted CBL+FC residents report greater improvements in learning motivation, clinical reasoning, self-directed learning, and perceived course effectiveness](ai-assisted-cbl-fc-higher-satisfaction-motivation.md) — related
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — related
+- [In a train-the-trainer pilot, participants could immediately use MAAS 2.0 and rated it 1.4 on a 1–6 scale](maas-2-0-pilot-train-the-trainer-rating-1-4.md) — related

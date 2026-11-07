@@ -51,6 +51,7 @@ The review discusses that cognitive stimulation is a particularly important dete
 - [Leverage cognitive strengths of low-SES children via group work, real-world application, and oral/narrative learning and assessment](leverage-hidden-talents-low-ses.md)
 - [Use knowledge of the specific points and lengths of exposure where children are susceptible to contextual effects to structure interventions aimed at reducing learning inequities](target-interventions-using-temporal-susceptibility-knowledge.md)
 - [Interventions targeting educational expectations in low SES families and schools may help bridge the achievement gap](educational-expectations-interventions-achievement-gap.md)
+- [Target academic interventions at children with CKD from low-SES families using tutoring, progress monitoring, and proactive school–health communication](academic-interventions-low-ses-ckd-children-strategy.md)
 
 ## Examples
 -

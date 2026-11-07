@@ -57,3 +57,4 @@ Individual interviews with the five facilitators of the SIMMed training cycle. F
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training](vl-shared-view-supports-instructor-feedback.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
+- [Audit team satisfaction with communication during feedback sessions rose from pre-test to post-test after training, in one group with no comparison group](feedback-satisfaction-increased-after-training.md) — related

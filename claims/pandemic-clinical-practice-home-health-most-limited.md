@@ -51,3 +51,4 @@ Pandemic-cohort survey (n=303) of final-year students at five Chugoku-area insti
 - [All-on-site training in adult nursing and home health nursing was associated with increased subjective attainment of many nursing skills during the pandemic](on-site-training-linked-to-increased-attainment.md) — related
 - [The proportion of nursing skills experienced in clinical practice fell from 74.2% (23 of 31 skills) before the pandemic to 54.8% (17 of 31) during it](pandemic-nursing-skills-experience-decline.md) — related
 - [Subjective nursing skills attainable without help fell from 67.7% (21 of 31 skills) before the pandemic to 41.9% (13 of 31) during it](pandemic-subjective-skills-attainment-decline.md) — related
+- [During COVID-19, 66.7% of students had off-site neonatal practicum and practicum dissatisfaction was 4.4 times higher than pre-pandemic levels reported by prior work](covid-shifted-neonatal-practicum-offsite-raised-dissatisfaction.md) — related

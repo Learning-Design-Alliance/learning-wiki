@@ -65,6 +65,7 @@ Anticipating obstacles is most effective when it is tied to specific response pl
 - [Use premortem analysis before implementing a reform to surface success factors and roadblocks](premortem-analysis-before-reform.md)
 - [Plan for possible points of infrastructuring, including breakdowns and anticipation work](plan-points-of-infrastructuring.md)
 - [Use a systematic design method with problem anticipation to reduce trial-and-error workload and frustration](systematic-design-method-reduce-trial-error.md)
+- [Use thematic analysis of implementers' reasons to anticipate facilitators and barriers when planning RaT programs](rat-implementation-reasons-barriers-strategy.md)
 
 ## Examples
 - **MCII in schools**: Oettingen's mental-contrasting curricula have students name their wish, visualize the best outcome, identify their biggest internal obstacle, and write an if-then plan — improving effort and grades relative to positive-thinking-only controls.

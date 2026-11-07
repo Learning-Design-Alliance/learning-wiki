@@ -52,6 +52,7 @@ The article translates its findings on protective psychosocial factors into prac
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Use knowledge of salient psychosocial determinants to design curricula that identify struggling students early and foster adaptability and self-efficacy before and during placements](psychosocial-determinants-inform-placement-curriculum.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
+- [Institutions and supervisors should improve doctoral students' well-being and engagement rather than using fear and stress as motivators](support-based-doctoral-supervision-strategy.md)
 
 ## Examples
 -

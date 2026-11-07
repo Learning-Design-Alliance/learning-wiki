@@ -57,6 +57,7 @@ The article recommends that implementation of m-learning in developing countries
 - [Tailor SEL assessment and intervention programmes to the cultural context of Arab communities in Israel](culturally-tailored-sel-arab-communities.md)
 - [Contextualise international digital-health competency frameworks for India and deliver them through modularised blended learning for working professionals](contextualised-blended-competency-frameworks-india.md)
 - [Tailor university ChatGPT adoption policies to local context, including student age and academic performance](tailor-chatgpt-policies-age-gpa-context.md)
+- [Implement active learning grassroots-style in developing-country universities using open educational resources, local context-rich editing, and students' smartphones](grassroots-active-learning-open-resources-smartphones-strategy.md)
 
 ## Examples
 -

@@ -85,3 +85,4 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Students taught with the virtual simulation platform reported higher satisfaction with learning outcomes across all surveyed items than MOOC students](virtual-simulation-higher-satisfaction-than-mooc.md) — related
 - [80% of digital-group students strongly endorse the use of digital-human simulation for echocardiography teaching](digital-human-high-acceptance.md) — related
 - [Interns and trainees rated the disease-teaching application positively, with overall scores above 4 of 5 across satisfaction, efficiency, learning, usability and scientific-educational domains](positive-student-evaluation-med-app-five-domains.md) — possibly the same claim (merge candidate)
+- [Lapp received mostly positive usability ratings from the remote-feedback group, with some reported navigation problems](lapp-positive-usability-survey-navigation-problems.md) — related

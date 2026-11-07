@@ -48,3 +48,5 @@ Descriptive results from the 16-item NLN Educational Practices Questionnaire com
 - [Simulation design and educational practice scores increase with academic year, with first-year students lowest and fourth-year students highest](scores-increase-with-academic-year.md) — related
 - [Students rate SWSP higher than RCDP on the collaboration factor of the Educational Practices Questionnaire](swsp-higher-collaboration-factor.md) — related
 - [Older students report statistically higher simulation design and educational practice scores than younger students](older-students-higher-sds-epq-scores.md) — related
+- [Polish nursing students rated collaboration items highest among EPQ educational practices, with the overall scale mean at M = 4.3](collaboration-highest-rated-epq-practice.md) — reports the opposite
+- [The lowest-rated EPQ-PO items concerned receiving timely guidance during simulation and discussing ideas with the instructor (both M = 4.1)](lowest-rated-epq-items-guidance.md) — related

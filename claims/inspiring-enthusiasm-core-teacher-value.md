@@ -46,4 +46,4 @@ A confirmatory survey with a nationally representative sample of 965 high school
 
 
 ## Related Claims
--
+- [Teachers overwhelmingly rank inspiring student enthusiasm for learning as the most important characteristic for earning professional respect](inspiring-enthusiasm-top-teacher-value.md) — possibly the same claim (merge candidate)

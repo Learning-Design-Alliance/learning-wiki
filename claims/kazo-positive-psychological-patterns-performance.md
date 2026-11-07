@@ -49,3 +49,4 @@ Authors' concluding interpretation (type e) of the descriptive survey findings; 
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — a broader claim this one bears on
 - [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related
 - [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — a broader claim this one bears on
+- [Academic performance correlates positively with intrinsic knowledge motivation, intrinsic achievement motivation, and self-efficacy](performance-correlates-intrinsic-motivation-self-efficacy.md) — related

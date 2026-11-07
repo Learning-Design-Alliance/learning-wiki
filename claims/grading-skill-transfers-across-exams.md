@@ -52,3 +52,4 @@ Cross-exam transfer evaluation of per-exam LoRA adapters on held-out students of
 - [Transfer between two specific datasets is asymmetric: Sangodiah-trained models transfer unusually well to Gani questions](sangodiah-gani-asymmetric-transfer.md) — related
 - [A short strict-grader preamble knocks 14 of 17 open-weights LLM graders out of the graded band on a computer-vision exam, with three stopping grading outright](llm-grader-strict-persona-collapse.md) — related
 - [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — related
+- [The retention-versus-transfer performance difference between learner groups is stable across exams after the first exam](transfer-advantage-stable-across-exams-after-exam-one.md) — related

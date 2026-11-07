@@ -51,3 +51,4 @@ Secondary correlational analysis of the same randomized experiment's post-test s
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Learning motivation and learning attitude are significantly positively correlated after HoloPatient-based simulation (r = .59–.78)](motivation-attitude-positive-correlation-holopatient.md) — related
 - [A moderate positive but non-significant correlation between post-module four confidence and final competency (r = 0.585, p = 0.059)](confidence-competency-correlation-pocus.md) — related
+- [After playing, motivation correlates with self-efficacy in preclinical students and with beliefs in the Clinical group](cdpc-domain-correlations-post-game.md) — related

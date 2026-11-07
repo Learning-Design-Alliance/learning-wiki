@@ -61,3 +61,6 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
 - [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
 - [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — related
+- [Inter-rater agreement on five POCUS clinical-competence checklist items is fair to moderate (κ = 0.32 to 0.55)](pocus-checklist-fair-moderate-rater-agreement.md) — related
+- [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related
+- [SP and examiner scores differ significantly on the total score and three of ten rubric items in the dental OSCE station](wilcoxon-sp-examiner-score-differences-osce-items.md) — related

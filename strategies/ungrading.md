@@ -58,9 +58,11 @@ Ungrading aligns with the evidence that grades function as controlling, ego-invo
 5. Determine the final grade collaboratively from a portfolio or learning narrative, using [coaching](../elements/coaching.md) conversations rather than unilateral judgment where possible
 
 ## Related Strategies
+
 - Specifications grading — a structured variant that preserves transparency while removing quality-based scoring
 - Portfolio assessment — the evidentiary backbone of most ungrading implementations
 - Mastery learning — shares the assumption that evaluation should signal current status and permit retry, not rank
+- [De-emphasize high-stakes assessments and use specifications (mastery) grading to reduce instructor workload and clarify assignment relevance](deemphasize-high-stakes-specifications-grading-strategy.md)
 
 ## Examples
 - **Susan Blum's edited volume *Ungrading* (2017, West Virginia University Press)** — fifteen instructor case studies across disciplines and institution types, including STEM large-enrollment adaptations

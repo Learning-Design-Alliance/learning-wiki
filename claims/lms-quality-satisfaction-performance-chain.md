@@ -49,3 +49,4 @@ PLS-SEM paths in the 432-student KNUST survey: "The LMS quality significantly pr
 - [AI literacy strongly predicts LMS quality among non-STEM students (β = .814, p < .001)](ai-literacy-predicts-lms-quality-knust.md) — related
 - [LMS quality did not significantly influence academic performance and did not independently mediate the AI literacy–performance relationship](lms-quality-no-direct-effect-no-independent-mediation.md) — reports the opposite
 - [The sequential pathway from AI literacy through LMS quality and blended-learning satisfaction to academic performance is significant (β = .263, p < .001)](sequential-mediation-pathway-significant.md) — related
+- [Technology acceptance of the LMS is directly and positively related to blended learning satisfaction among university students](tech-acceptance-direct-positive-learning-satisfaction.md) — related

@@ -48,6 +48,7 @@ The review suggests that exploring the effectiveness of interventions targeting 
 - [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md)
 - [Prefer subsidizing targeted summer programs or low-income families' program tuition over modified year-round school calendars](subsidize-targeted-summer-programs-low-income.md)
 - [Promoting teacher–student relationships for children from low SES backgrounds may be a promising intervention avenue](teacher-student-relationships-low-ses-intervention.md)
+- [Target academic interventions at children with CKD from low-SES families using tutoring, progress monitoring, and proactive school–health communication](academic-interventions-low-ses-ckd-children-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Category-level ICC analysis of the four evaluators' scores for the two portfolio
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Overall inter-examiner agreement on grades and pass-fail classifications is slight, with Fleiss kappa of 0.07 and 0.14](fleiss-kappa-slight-agreement-examiners.md) — a broader claim this one bears on
+- [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related

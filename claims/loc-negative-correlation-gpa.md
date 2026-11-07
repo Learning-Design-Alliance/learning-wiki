@@ -50,3 +50,4 @@ Pearson correlation analysis in the same cross-sectional sample of 348 students.
 - [LOC and interest in the major lose predictive significance for GPA after controlling for SOC in multivariate models](loc-interest-nonsignificant-after-soc-control.md) — related
 - [Sense of coherence correlates positively with GPA among medical and nursing students (r = 0.519)](soc-positive-correlation-gpa-medical-nursing.md) — related
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
+- [Self-reported locus of control scores rose from pre-test to post-test after the e-learning programme in one single-group pre-post study, with nurses holding inconsistent views about control over their actions](rlo-elearning-no-locus-control-change.md) — related

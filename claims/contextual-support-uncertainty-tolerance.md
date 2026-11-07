@@ -68,3 +68,4 @@ Observed case excerpt (Sarah's case) from the ethnography: unable to locate a mo
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](srl-clinical-strategies-diverse-multifactor.md) — a broader claim this one bears on
 - [Residents use clinical team members other than the official supervisor as unofficial sources of supervision](clinical-team-as-supervision-substitute.md) — related
 - [Uncertainty, often triggered when residents' workflows were disrupted, led residents to checking behaviour and abandonment of adaptive practices](uncertainty-disruptions-checking-abandonment.md) — related
+- [Supportive supervisor behaviour, co-worker support and a team learning climate are common environment characteristics related to adaptive expertise](supportive-environment-team-learning-climate-adaptive-expertise.md) — related

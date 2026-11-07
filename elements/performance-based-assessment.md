@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (18 for, 7 mixed) · 19 studies (8 design, 6 causal, 3 associational, 2 review), `q1`–`q4` · 1 of 19 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (19 for, 7 mixed) · 20 studies (8 design, 6 causal, 4 associational, 2 review), `q1`–`q4` · 1 of 20 report an effect size · 26 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -67,6 +67,7 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [The automatic CPR assessment system shows lower error than human raters on hand, arm and shoulder position items but higher error on compression depth and rate, which depend on human-object interaction the model does not capture.](../claims/aqa-pose-items-outperform-depth-rate-items.md) [+W] — attached 2026-11-06 from Constable et al. (2025), which proposed "Multiview spatial-temporal graph convolutional network framework for Automatic Action Quality Assessment of CPR".
 - [Teams' research competency performance in the escape room averaged 336 ± 137.1 raw, 38.8 ± 20.9 negative, and 298 ± 150.1 final scores](../claims/morad-escape-team-competency-scores.md) [+W] — attached 2026-11-07 from Mirshahi Arvin et al. (2025), which proposed "Validated research competency checklist and game evaluation checklist for escape room assessment".
 - [In a single-center pre/post study, surgeon assessments of radiology reports showed gains and non-improvement from pre-test to post-test, while participant survey confidence rose](../claims/surgeon-feedback-beats-surveys-for-educational-evaluation.md) [+W] — attached 2026-11-07 from Malouf William T. et al. (2024), which proposed "Blinded referring-clinician report-grading assessment with surgeon-radiologist answer keys and Likert rubric".
+- [Standard patients and examiners show moderate scoring consistency (ICC 0.718) on total scores in a dental OSCE communication station](../claims/sp-examiner-moderate-consistency-icc-0718-dental-osce.md) [+W] — attached 2026-11-07 from Zhu Feng et al. (2023), which proposed "Doctor-patient communication and clinical examination SP station of the dental OSCE with a 10-item rating scale".
 
 ## Related Elements
 

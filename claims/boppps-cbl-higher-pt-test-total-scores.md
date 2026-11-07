@@ -58,3 +58,4 @@ Randomized comparison of 74 fourth-year students (37 per group) during a one-wee
 - [The “One Case to the End” model based on BOPPPS raises pediatric nursing students' academic performance compared with traditional teaching](one-case-boppps-improves-academic-performance.md) — related
 - [Fourth-year dental undergraduates taught with the REPs-VS platform scored significantly higher on the post-intervention theory examination than peers taught traditionally, from a comparable baseline](reps-vs-higher-theory-exam-scores.md) — a narrower finding that bears on this claim
 - [Adopting CBL combined with BOPPPS raises teachers' Personal Teaching Efficiency and Sense of Teaching Efficiency scores](cbl-boppps-raises-teacher-teaching-efficacy.md) — related
+- [Microteaching combined with the BOPPPS model increases student participation, interest and academic performance over traditional teaching in dental materials science](microteaching-boppps-dental-materials.md) — related

@@ -55,3 +55,4 @@ In its drawbacks and challenges section, the review states that web-based simula
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
 - [Students rated video and audio transmission quality, connection stability, case comprehensibility and interaction options consistently good to very good](e-visite-technical-quality-ratings.md) — related
+- [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related

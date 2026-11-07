@@ -49,3 +49,4 @@ From the SEM measurement model of the latent EF construct indicated by five pare
 - [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — related
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](working-memory-strongest-component-association-ecls-k.md) — related
 - [EF and ToM each show substantial longitudinal stability from 3 to 5 years](ef-tom-longitudinal-stability.md) — related
+- [Working memory is the strongest predictor within the executive function latent construct, followed by inhibitory control](working-memory-strongest-ef-predictor.md) — related

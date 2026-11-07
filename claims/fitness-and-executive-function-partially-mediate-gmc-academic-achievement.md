@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: fernández-sánchez-antonio-ruiz-hermosa-abel-redondo-tébar-andrés-díez-fernández-ana-martínez-vizcaíno-vicente-visier-alfonso-maría-eugenia-sánchez-lópez-mairena-2025
     resource: "https://doi.org/10.1371/journal.pone.0314948"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both fitness and executive function partially mediated the relationship between gross motor competence and academic achievement in the total sample. [→ Fernández-Sánchez Antonio; Ruiz-Hermosa Abel; Redondo-Tébar Andrés; Díez-Fernández Ana; Martínez-Vizcaíno Vicente; Visier-Alfonso María Eugenia; Sánchez-López Mairena 2025](#fernandez-sanchez-antonio-ruiz-hermosa-abel-redondo-tebar-andres-diez-fernandez-ana-martinez-vizcaino-vicente-visier-alfonso-maria-eugenia-sanchez-lopez-mairena-2025)
@@ -54,3 +55,5 @@ Cross-sectional study of 562 Spanish schoolchildren aged 9-11 using serial multi
 - [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — related
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related
+- [In the total sample of children, executive functions partially mediate the positive association between gross motor competence and academic achievement](efs-partially-mediate-gmc-aa-total-sample.md) — possibly the same claim (merge candidate)
+- [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related

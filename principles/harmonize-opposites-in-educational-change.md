@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (42 for, 12 mixed, 2 against) · 46 studies (17 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 46 report an effect size · 54 claims rest on one study
+> **Evidence** · 58 claims (44 for, 12 mixed, 2 against) · 47 studies (18 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 47 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,8 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Blended reading and writing strategy training produces higher quality source-based essays than reading-only, writing-only, or control conditions](../claims/blended-strategy-training-improves-source-based-essay-quality.md) [+W] — attached 2026-11-04 from Weston-Sementelli et al. (2016), which proposed "Combine reading comprehension and writing strategy instruction to improve source-based writing performance"; tests this page's relationship.
 - [The balanced 50/50 PT/CL group reported increased training interest and lower subjective task challenge than the predominantly PT or CL groups](../claims/balanced-group-higher-interest-lower-challenge.md) [+W] — attached 2026-11-06 from Cizmic Amila et al. (2025), which proposed "Balance practical training and cognitive learning in roughly equal proportions when designing MIS training for novices"; tests this page's relationship.
 - [Gamification in a flipped learning environment produced higher knowledge-evaluation scores than gamification, flipped class and lecture methods in nursing students learning health assessment](../claims/gamification-flipped-environment-higher-knowledge-scores.md) [+W] — attached 2026-11-07 from Ghafouri Raziyeh et al. (2024), which proposed "Integrate complementary teaching methods according to situation, time, cost and available resources"; tests this page's relationship.
+- [Operational inlay-preparation scores on extracted teeth were significantly higher for combined-training groups (J-V, V-J) than for virtual-only or jaw-only groups, with no significant difference between Groups J and V](../claims/combined-training-higher-operational-scores.md) [+W] — attached 2026-11-07 from Sheng Jie et al. (2022), which proposed "Combine virtual simulation system training with jaw model training in preclinical inlay preparation teaching, sequencing the virtual system first"; tests this page's relationship.
+- [Combined virtual-simulation and jaw-model training yields higher second theoretical examination scores than either method alone, with Group V-J best](../claims/combined-training-higher-second-theoretical-scores.md) [+W] — attached 2026-11-07 from Sheng Jie et al. (2022), which proposed "Combine virtual simulation system training with jaw model training in preclinical inlay preparation teaching, sequencing the virtual system first"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

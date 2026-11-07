@@ -53,6 +53,7 @@ The article recommends that educators seeking to enhance three-dimensional spati
 - [Combine glasses-free 3D displays with 3D-printed physical models to compensate for the lack of tactile feedback in digital anatomy learning](combine-glasses-free-3d-displays-with-3d-printed-models.md)
 - [Enhance simulation-based methods with detailed visual materials and real-life examples to teach complex observational skills](enhance-simulation-visual-materials-observational-skills.md)
 - [Use a mixture of dissection, plastic models, and 3D software in anatomy teaching](mixture-of-anatomy-teaching-modalities-strategy.md)
+- [Introduce anatomy learning involving 3D mental rotation of anatomical structures and combined 2D pictures with 3D models to support low-spatial-ability dental students](3d-mental-rotation-anatomy-module-strategy.md)
 
 ## Examples
 -

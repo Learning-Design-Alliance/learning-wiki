@@ -54,3 +54,4 @@ Random-effects meta-analysis of eight comparative studies pooling standardised m
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md) — related
 - [Access to a dedicated Google Sites ECG-learning platform added to conventional teaching improves post-rotation ECG interpretation test scores among pre-graduate medical students.](google-sites-ecg-platform-improves-interpretation-scores.md) — a narrower finding that bears on this claim
 - [Access to a structured Google Sites learning pathway increases consistent use of the faculty-recommended nine-step ECG interpretation worksheet.](google-sites-increases-worksheet-use.md) — related
+- [Residents who teach acquire the material they teach more effectively than through self-study or lectures](teaching-enhances-residents-own-learning.md) — related

@@ -69,3 +69,4 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [TA+CBL teaching rounds yield higher overall critical thinking ability scores than CBL-only rounds](ta-cbl-rounds-higher-critical-thinking-total.md) — related
 - [A larger share of the combined-method group reported improved independent learning ability (88.46% vs 65.68%) and improved learning enthusiasm (89.42% vs 76.47%)](cbl-clinical-pathway-independent-learning-enthusiasm.md) — related
 - [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](dops-higher-critical-thinking-three-months.md) — related
+- [The e-PBL program improved systematicity and self-confidence but not healthy skepticism, intellectual eagerness/curiosity, or intellectual fairness subscales](e-pbl-subscales-mixed-gains.md) — reports the opposite

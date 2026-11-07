@@ -48,3 +48,4 @@ Wilcoxon signed rank test comparing NASA-TLX mental demand between ETS (low-fide
 - [Perceived combat readiness of the ship is higher in the high-fidelity setting and decreases between the first and second scenario parts.](higher-combat-readiness-high-fidelity-sbt.md) — related
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
+- [Perceived mental workload (NASA-TLX) was significantly higher at baseline for high-fidelity simulation than for procedural simulation](nasa-tlx-higher-hf-than-ps-simulation.md) — reports the opposite

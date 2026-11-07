@@ -66,3 +66,4 @@ Item analysis of four test sessions in a crossover study that enrolled all 120 f
 - [7.7% of orthopedic MCQs produced completely false responses from both LLMs, suggesting item construction flaws](mcqs-failed-by-both-llms-suggest-item-flaws.md) — related
 - [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
+- [Summative examination quality was equivalent between the two academic years in difficulty, discrimination, and minimal passing level](equivalent-exam-quality-between-years.md) — related

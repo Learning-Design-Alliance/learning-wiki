@@ -53,3 +53,4 @@ Mixed-design ANOVA on video cognitive load found no significant main effects, in
 - [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md) — related
 - [Limited camera views and poor sound quality are the two main weaknesses of live video observation](lvo-weaknesses-limited-view-poor-sound.md) — related
 - [Fusing pose information from multiple camera views makes the model's pose-related ratings more robust than single-view human judgements, which are limited by participant angle and initial posture.](multiview-fusion-robust-pose-ratings.md) — related
+- [Poor-quality video production increases learners' cognitive load and decreases learning gains](poor-video-quality-increases-cognitive-load.md) — related

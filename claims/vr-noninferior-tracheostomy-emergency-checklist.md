@@ -49,3 +49,4 @@ Randomized trial of 19 critical care fellows (10 VR, 9 small group) assessed 6-8
 - [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](vr-small-group-no-case-level-difference.md) — a narrower finding that bears on this claim
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](vr-confidence-gains-all-pcs-items.md) — related
+- [Simulation assessment improvements in nasal packing and tracheostomy care were confined to the hands-on-trained groups](simulation-gain-limited-to-trained-scenario.md) — related

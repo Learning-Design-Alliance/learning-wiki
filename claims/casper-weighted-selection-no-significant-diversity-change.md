@@ -50,3 +50,4 @@ Chi-square comparison (N = 179 per group) of demographic and degree composition 
 - [Casper, but not GPA, correlates significantly with OSCE 510, OSCE 540, and multiple fieldwork competencies in placements 2 and 3](casper-significant-correlations-gpa-none.md) — related
 - [Regression tree and non-linear optimization analyses identify Casper as the dominant admission metric, with optimal weights of 0.84 for Casper and 0.16 for GPA](casper-dominant-admission-weight-0-84.md) — related
 - [Casper performance favors female participants and participants without a migration background, with native language explaining the migration-background effect](casper-german-pilot-subgroup-differences.md) — related
+- [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related

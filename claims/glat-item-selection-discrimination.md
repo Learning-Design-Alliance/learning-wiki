@@ -70,3 +70,4 @@ The article reports the retained items' difficulty spread and that discriminatio
 - [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — related
 - [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related
 - [Item difficulty ranged broadly (completion rates 0.05–0.90) and discrimination ranged 0.14–0.60, with UI-related and navigation-heavy tasks showing particularly good discrimination](specific-ic-item-difficulty-discrimination-range.md) — related
+- [Discriminative power peaks for questions of moderate difficulty (0.4–0.7) and declines at both extremes in both groups](discrimination-peaks-moderate-difficulty.md) — related

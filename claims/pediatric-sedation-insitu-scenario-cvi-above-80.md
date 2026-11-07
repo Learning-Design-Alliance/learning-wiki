@@ -53,3 +53,4 @@ Content-validation stage of a descriptive study: 12 experts (eight women, four m
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
 - [Expert judges rated all items of the two infusion-therapy simulation scenarios with Modified Kappa values above 0.74 (N=11)](infusion-scenarios-mkc-above-074-judges.md) — related
 - [Pediatric sedation simulation participants rated the scenarios as clinically relevant, comfort-improving, and the debrief as valuable and safe, with means above 4 on a 5-point Likert scale](sedation-simulation-likert-ratings-favorable.md) — related
+- [Expert judges rated every item of the postvention simulation scenario at CVI 0.90 or higher, exceeding the 0.80 acceptance criterion](postvention-scenario-cvi-all-items-090-or-higher.md) — related

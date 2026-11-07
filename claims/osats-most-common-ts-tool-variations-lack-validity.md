@@ -51,3 +51,4 @@ Synthesis of assessment tools used across included studies, charted per publicat
 - Among correlation-testing studies, leadership and decision making (n=14 each) were the most common NTS tested, and surgical performance (n=27) the most common TS correlated with NTS — related
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
 - [Among 203 included studies assessing both technical and non-technical skills, only 46 tested for a correlation, and 40 of those found a positive correlation](46-of-203-studies-tested-ts-nts-correlation-40-positive.md) — related
+- [Technical skills (OSATS) scores rose non-significantly from pre-test to post-test after the same intervention, in one single-group pre-post study with no comparison group](osats-gains-non-significant-nts-specificity.md) — related

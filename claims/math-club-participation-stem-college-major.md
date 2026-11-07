@@ -54,3 +54,4 @@ Logistic regression and propensity-matched models predicting STEM major selectio
 - [Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science](ubms-increases-odds-math-science-major.md) — related
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related
 - [Research participation is significantly positively associated with job competency among public health students after propensity score matching](research-participation-associated-with-job-competency-public-health-students.md) — related
+- [Propensity score matching confirms the negative association of low self-esteem with math achievement across three matching strategies](psm-low-self-esteem-math-robustness.md) — related

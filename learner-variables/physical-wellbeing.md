@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (115 show a difference, 39 mixed, 23 no difference) · 97 studies (36 causal, 23 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 97 report an effect size · 173 claims rest on one study
+> **Evidence** · 179 claims (116 show a difference, 40 mixed, 23 no difference) · 98 studies (36 causal, 24 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 98 report an effect size · 175 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -214,6 +214,8 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [A 12-week classroom-based physical activity break program significantly improves physical fitness on standing long jump, Harvard step, push-up and sit-and-reach tests](../claims/active-breaks-improve-physical-fitness.md) [+M] — measured as an outcome of the instruction studied
 - [A 2-hour after-school outdoor physical activity program significantly improves overall physical fitness scores compared with free after-school time](../claims/after-school-physical-activity-improves-physical-fitness.md) [+M] — measured as an outcome of the instruction studied
 - [In a pilot RCT, oral health behaviour motivation, oral care self-efficacy, and oral health-related QoL showed no clear between-group differences at three months](../claims/no-clear-group-differences-motivation-selfefficacy-qol.md) [-M] — measured as an outcome of the instruction studied
+- [Physical activity and sleep duration interact in relation to adolescent academic achievement, such that the sleep–grades association is not uniform across activity levels](../claims/physical-activity-sleep-interaction-grades.md) [~M] — learners who differ on it differ in outcomes
+- [Physical activity shows a curvilinear association with adolescent academic achievement, with grades plateauing at five or more days per week of activity](../claims/physical-activity-curvilinear-adolescent-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

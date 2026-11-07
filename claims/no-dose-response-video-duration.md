@@ -57,3 +57,4 @@ Meta-regression and moderation analyses of absolute and relative intervention le
 - [VBC session length of over 20 minutes is likely optimal, with shorter sessions more often failing to show significant benefit](vbc-session-length-over-20-minutes.md) — a narrower finding that bears on this claim
 - [Gains were achieved with a relatively small tutoring dose: about 27 sessions averaging 25–45 minutes, roughly 15–19 hours across one school year](tutoring-dose-27-sessions-15-19-hours.md) — related
 - [Dosage of SM interventions varied extensively, with median session length 45 minutes, six sessions, across twelve weeks](sm-intervention-dosage-variability.md) — related
+- [Educational videos of 5 to 20 minutes are appropriate, with 6 to 9 minutes suggested as ideal for maximizing learning gains while minimizing inattention](video-length-5-20-minutes.md) — related

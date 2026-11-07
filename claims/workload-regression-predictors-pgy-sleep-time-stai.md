@@ -70,3 +70,4 @@ Multiple regression on 76 live OR cases showed significant contributions of PGY 
 - [No significant workload benefit of haptic-feedback training appears in the first three live OR procedures](no-haptic-benefit-first-three-or-cases.md) — related
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related
 - [Uterine volume was not associated with operative time, and trained residents reduced operative time despite resecting larger uteri](uterine-volume-not-associated-operative-time.md) — related
+- [Cortisol AUCg was positively related to STAI-Y score in both simulation groups, but not to NASA-TLX, sex, or (in PS) session time](cortisol-aucg-related-to-stai-y-both-groups.md) — related

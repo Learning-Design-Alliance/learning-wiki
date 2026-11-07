@@ -54,3 +54,4 @@ Self-report survey on a 5-point Likert scale administered via WeChat to the 86 e
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
 - [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
+- [Students report high satisfaction with both interactive video and traditional demonstration approaches](high-satisfaction-both-video-and-demonstration.md) — related

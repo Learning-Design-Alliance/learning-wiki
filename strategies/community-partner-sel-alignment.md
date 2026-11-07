@@ -40,6 +40,7 @@ The page recommends integrating SEL across the school day and out-of-school time
 
 - [Build authentic school-family partnerships to reinforce students' social and emotional development](school-family-partnerships-for-sel.md)
 - [Deliberately bridge student experience data work across tools, initiatives, and partner organizations](bridge-student-experience-data-across-initiatives.md)
+- [Facilitate dual careers among young elite athletes through coordinated support from institutions, staff and families](dual-career-support-young-elite-athletes.md)
 
 ## Examples
 -

@@ -51,3 +51,5 @@ Narrative review attributing this to Macnamara and Burgoyne (2023a): their meta-
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Prior meta-analyses report mixed effects of growth mindset interventions on achievement, with estimates ranging from a non-significant d = 0.05 to d = 0.14](growth-mindset-intervention-meta-analyses-mixed.md) — a broader claim this one bears on
 - [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — a broader claim this one bears on
+- [Cognitive training produces no far-transfer effect once publication bias and control-group type are corrected for](cognitive-training-far-transfer-null.md) — a broader claim this one bears on
+- [Publication bias is small in the cognitive-training literature, but two laboratories report anomalous effect sizes](publication-bias-and-lab-anomalies.md) — related

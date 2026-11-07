@@ -50,3 +50,4 @@ Bootstrap conditional indirect effects from moderated mediation Model 5 on the 8
 - [Parent-child relationship moderates the direct negative association between video game playing and academic achievement, which is significant only for high-quality relationships](parent-child-relationship-moderates-direct-video-game-achievement-link.md) — related
 - [Self-educational expectation partially mediates the negative link between video game playing and academic achievement](self-educational-expectation-mediation-video-games-achievement.md) — related
 - [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related
+- [The association between hope for the future and game-playing time is marginal and not significant after Bonferroni correction](hope-for-future-marginal-gaming-association.md) — related

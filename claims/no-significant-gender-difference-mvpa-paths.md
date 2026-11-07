@@ -48,3 +48,4 @@ Satorra–Bentler scaled chi-square difference tests in the MVPA model showed th
 - [Higher in-school MVPA is associated with higher GPA among boys, with no significant association among girls](mvpa-gpa-boys-positive.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — a broader claim this one bears on
 - [More positive classroom peer relations are associated with lower in-school MVPA among girls, with no significant association among boys](peer-relations-negative-mvpa-girls.md) — reports the opposite
+- [None of the cross-lagged withdrawal–achievement effects was significant in girls, and gender differences were significant for specific paths](no-crosslagged-effects-girls.md) — related

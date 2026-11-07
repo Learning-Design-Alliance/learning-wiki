@@ -124,3 +124,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [The clinical EVT team leader facilitates collaboration inconsistently, in contrast with leadership behaviour observed in simulation](evt-leader-inconsistent-clinical-presence.md) — related
 - [The local team gradually gained expertise and skills from the visiting missions, which also arranged external training for institute staff](skill-transfer-through-visiting-missions.md) — related
 - [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related
+- [The stepwise ramp let critical team skills be taught and reinforced in a manageable way, with leadership skills easier in smaller team structures before commanding larger teams in later cycles.](stepwise-complexity-eases-leadership-skill-teaching.md) — related

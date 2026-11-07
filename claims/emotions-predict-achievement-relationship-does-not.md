@@ -53,3 +53,4 @@ Cross-lagged panel model (Model 1) with achievement from student records (Swiss 
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
 - [Anxiety negatively predicts subsequent mathematics test performance in primary school students when emotions are modeled simultaneously](anxiety-negative-predicts-math-performance-primary.md) — related
 - [Academic performance improved significantly over the one-year interval while mental health scores showed no significant change](academic-gains-stable-mental-health-over-year.md) — related
+- [Depression negatively predicts later peer relationships, and peer relationships positively predict later academic performance, in Chinese adolescents](depression-lowers-peer-relationships-which-raise-academic-performance.md) — related

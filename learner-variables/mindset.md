@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (58 show a difference, 35 mixed, 8 no difference) · 46 studies (23 associational, 11 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 46 report an effect size · 99 claims rest on one study
+> **Evidence** · 102 claims (59 show a difference, 35 mixed, 8 no difference) · 47 studies (23 associational, 12 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 14 of 47 report an effect size · 100 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -132,6 +132,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Both growth mindset messages and structural opportunities matter: the mindset–choice link is strongest when both are growth-aligned, weakest when both are fixed, and intermediate when they are misaligned](../claims/messages-and-opportunities-jointly-moderate-mindset.md) [~W] — an instructional effect differs with it
 - [Students' growth mindset beliefs predict learning-oriented assignment choices when a hypothetical teacher provides growth mindset messages and opportunities, but not when the teacher is depicted with fixed mindset practices](../claims/teacher-mindset-practices-moderate-mindset-choice-link.md) [~W] — learners who differ on it differ in outcomes
 - [The fixed-versus-growth mindset teacher moderation of the mindset–choice link replicated for comfort with academic risk-taking across all four studies, with slight differences in simple effects in a few cases](../claims/mindset-moderation-academic-risk-taking.md) [~W] — an instructional effect differs with it
+- [A values-aligned intervention increases teachers' intentions to use growth mindset–supportive practices and their growth mindset beliefs relative to control](../claims/values-aligned-intervention-raises-teacher-practice-intentions-and-beliefs.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

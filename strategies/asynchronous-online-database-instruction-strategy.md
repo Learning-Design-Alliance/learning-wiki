@@ -43,7 +43,8 @@ The study supports moving database instruction online: both an interactive tutor
 - [Undergraduate students who have not received library instruction generally lack basic database research skills, scoring about 51% on the post-test](../claims/uninstructed-students-lack-database-skills.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Pair live online tutorials with asynchronous tools — case reports, model answers and tutorial recordings — for consolidation and reflection](synchronous-asynchronous-case-learning-tools.md)
 
 ## Examples
 -

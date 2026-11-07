@@ -54,6 +54,7 @@ The article proposes blended learning as a response to the logistical challenges
 - [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
 - [Use a practical role-play unit with standardized drama patients plus an online theory module for one-time communication training](drama-patient-roleplay-communication-training-strategy.md)
 - [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
+- [Diversify learners' virtual clinical exposure with alternative virtual learning experiences such as virtual patients and virtual OSCEs](alternative-virtual-learning-experiences-vc.md)
 
 ## Examples
 -

@@ -78,3 +78,5 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Students perceived TBL as requiring more individual preparation and effort and more lecturer involvement than PBL](tbl-perceived-needing-preparation-and-facilitation.md) — related
 - [Student preference for TBL over traditional lectures improved significantly after the intervention but remained one of the lowest-rated survey items](tbl-preference-improved-but-still-low.md) — a narrower finding that bears on this claim
 - [For community health and clinical medicine topics students prefer community postings and bedside teaching over PBL or lectures](chs-icm-prefer-community-bedside-teaching.md) — related
+- [Blended PbL students report course satisfaction, CbL attitudes and ILIAS familiarity comparable to conventional PbL students](bpbl-comparable-course-evaluation.md) — related
+- [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — related

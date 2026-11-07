@@ -42,6 +42,7 @@ The review recommends a two-layer validation strategy: expert judges with specia
 - [Standardize educational video production methodologies and conduct further studies on process organization](standardize-educational-video-production-methodologies.md)
 - [Use validated global rating scales with trained, expert raters and consensus sessions when generating ground truth for surgical AI skill assessment](trained-rater-consensus-sessions-ai-ground-truth.md)
 - [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
+- [Storyboard the video before recording, pairing a word-for-word script with representative images](storyboard-before-recording-strategy.md)
 
 ## Examples
 -

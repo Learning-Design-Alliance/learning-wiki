@@ -50,3 +50,4 @@ Pilot study of seven fellows performing 35 echocardiograms on 32 ICU patients af
 - [Fellow LVOT diameter measurements correlate only moderately with cardiologist-reported values (r = 0.51), notably weaker than VTI](fellow-lvot-diameter-moderate-correlation.md) — related
 - [Fellows' clinically stratified VTI judgments agreed with cardiologists in 80% of cases (κ = 0.379), with 91% sensitivity but only 43% specificity for abnormal VTI](fellow-vti-clinical-agreement-sensitivity-specificity.md) — related
 - [Fellows required an average of 4.5 training sessions (about 90 minutes of individualized bedside instruction) to reach the mastery learning standard, and 7 of 11 recruited fellows met it](mastery-learning-sessions-to-mps-echocardiography.md) — related
+- [CCUS examinations by trained fellows reveal unexpected findings in about a third of documented cases and raise fellows' subjective confidence in patient care](ccus-unexpected-findings-and-confidence.md) — related

@@ -73,3 +73,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — a narrower finding that bears on this claim
 - [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](non-mlm-group-below-national-average-gain.md) — related
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — possibly the same claim (merge candidate)
+- [Active learning improved mean course performance by 9% (g = 0.48) across five physics and astronomy courses in a MENA university](active-learning-mena-mean-gain-g048.md) — a narrower finding that bears on this claim

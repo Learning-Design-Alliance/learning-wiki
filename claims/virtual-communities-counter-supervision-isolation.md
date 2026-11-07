@@ -70,3 +70,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](virtual-physical-environments-different-competencies.md) — related
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
 - [Remote psychotherapy supervision showed comparable skill quality to face-to-face supervision but was less preferred](remote-psychotherapy-supervision-comparable-quality-less-preferred.md) — related
+- [Students came to see that online teaching needs new figures and tools that facilitate communication and aggregation, particularly a supportive tutor figure](online-teaching-needs-supportive-tutor-figure.md) — related

@@ -50,3 +50,4 @@ Self-report survey item in the COSTRUIRE study of 189 Italian surgical trainees.
 - [Over 70% of surgical trainees who communicated difficult diagnoses would have preferred to handle the conversation differently](trainees-prefer-different-communication-approach.md) — related
 - [Surgical trainees who received formal communication training during medical school report the highest self-perceived communication competence](formal-training-associated-highest-self-competence.md) — related
 - [Informal observation of mentors is the sole source of communication training for 73.9% of surgical trainees](informal-observation-sole-communication-training-source.md) — related
+- [UK respiratory trainees report low rates of direct supervision and real-time image review during thoracic ultrasound training](uk-tus-trainees-lack-direct-supervision.md) — related

@@ -55,3 +55,4 @@ In the SGFS qualitative data on affective support, students said working "with t
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
 - [Facilitator role management — psychological safety awareness, structure, and managing dominant voices — conditions whether CBL supports active learning](facilitator-role-management-cbl-active-learning.md) — related
+- [Students came to see that online teaching needs new figures and tools that facilitate communication and aggregation, particularly a supportive tutor figure](online-teaching-needs-supportive-tutor-figure.md) — related

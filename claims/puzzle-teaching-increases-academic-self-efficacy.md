@@ -49,3 +49,4 @@ Dependent-groups t-tests in the RCT showed a significant self-efficacy increase 
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' academic self-efficacy, with large within-group effects sustained at one-month follow-up](gbl-improves-academic-self-efficacy-nursing.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
 - [Puzzle-based teaching substantially increases nursing students' knowledge test scores compared with lecture-only instruction](puzzle-teaching-increases-nursing-knowledge.md) — related
+- [Crossword puzzle game-based learning improves comprehension, keyword recall and learning attitude in dental materials science](crossword-puzzle-game-based-dental-materials.md) — related

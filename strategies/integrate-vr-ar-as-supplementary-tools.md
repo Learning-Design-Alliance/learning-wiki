@@ -72,6 +72,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
 - [Use interactive streamed bedside teaching as a supplement to, not a replacement for, conventional face-to-face teaching](e-visite-supplement-not-replacement-strategy.md)
 - [Incorporate VR simulation into VATS training programs as an integrative tool alongside clinical experience](vr-simulation-integrative-vats-training-strategy.md)
+- [Use HVRS as an adjunct to, not a replacement for, conventional mannequin-based pre-clinical paediatric dentistry simulation](hvrs-as-adjunct-to-conventional-simulation-strategy.md)
 
 ## Examples
 -

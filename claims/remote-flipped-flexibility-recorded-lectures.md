@@ -51,3 +51,4 @@ Focus group study of 20 Bachelor of Pharmacy students in 8 groups over 2 rounds;
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — a broader claim this one bears on
 - [Desire to learn and curiosity, anywhere-anytime viewing, doing practice, and occupational relevance were the most prominent motivation-increasing factors](flipped-classroom-motivation-factors.md) — related
 - [Prolonged remote flipped learning produced initial disorientation, then fatigue, isolation, and a desire to return to campus](prolonged-remote-learning-fatigue-isolation.md) — related
+- [Students perceived advantages of e-learning for quality of educational life, including flexibility, economic savings, time savings and improved didactic continuity through recorded content](elearning-advantages-flexibility-savings-didactic-continuity.md) — related

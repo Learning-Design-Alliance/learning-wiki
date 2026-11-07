@@ -49,6 +49,7 @@ The article recommends experimentally testing interventions that vary the framin
 
 - [Treat trust calibration as an explicit educational objective of ML education, pursued through ICE-T's three facets](trust-calibration-as-explicit-educational-objective.md)
 - [Embed AI literacy as a credit-bearing module and design adaptive systems with transparent, user-controllable recommendation interfaces](embed-ai-literacy-and-controllable-adaptive-interfaces.md)
+- [Persuasive messaging to faculty that reframes virtual care as a complement and addresses attitude, control and norms](persuasive-messaging-vc-faculty.md)
 
 ## Examples
 -

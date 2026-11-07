@@ -48,3 +48,4 @@ Descriptive cost comparison from the article's discussion of training economics.
 - [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — related
 - [Three surgeon developers confirmed that the entire laparoscopic right hemicolectomy procedure was feasible on the COLOMASTER simulator](colomaster-entire-procedure-feasible-developer-testing.md) — related
 - [The blended UBE course was delivered at a fraction of typical commercial training cost](blended-ube-course-low-cost-efficiency.md) — related
+- [Cadaver-based colonoscopy simulation is presented as a low-cost alternative to commercial endoscopy simulators, whose high cost and low accessibility hinder training](cadaver-simulator-cost-advantage.md) — related

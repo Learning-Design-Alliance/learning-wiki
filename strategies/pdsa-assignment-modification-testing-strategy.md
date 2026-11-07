@@ -41,6 +41,7 @@ The paper recommends organizing improvement work as Plan-Do-Study-Act cycles in 
 - [Five recommendations for integrating Improvement Science with SEERNet](five-recommendations-seernet-improvement-integration.md)
 - [Action Research](action-research.md)
 - [Lesson Study](lesson-study.md)
+- [Use a Plan-Do-Study-Act ramp to build simulation complexity stepwise, repeating a cycle when objectives are unmet before escalating.](pdsa-ramp-simulation-complexity-strategy.md)
 
 ## Examples
 -

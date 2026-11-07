@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (81 show a difference, 27 mixed, 18 no difference) · 78 studies (33 causal, 24 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 20 of 78 report an effect size · 125 claims rest on one study
+> **Evidence** · 130 claims (83 show a difference, 28 mixed, 19 no difference) · 80 studies (33 causal, 26 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 21 of 80 report an effect size · 129 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -162,6 +162,10 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Visual memory and spatial intelligence are significant regression predictors of anatomy scores, with visual memory the better predictor in medicine and spatial intelligence in dentistry](../claims/regression-predictors-anatomy-scores-discipline-specific.md) [+M] — learners who differ on it differ in outcomes
 - [Visual memory scores correlate positively with anatomy course scores in medical students across neuroanatomy, special senses, and head-and-neck courses](../claims/visual-memory-correlates-anatomy-scores-medical-students.md) [+M] — learners who differ on it differ in outcomes
 - [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](../claims/mrt-no-correlation-suturing-improvement.md) [-M] — learners who differ on it differ in outcomes
+- [Among 1st- and 2nd-year dental students pooled, males scored higher on spatial tests while females scored higher in gross anatomy](../claims/females-higher-anatomy-males-higher-spatial-pooled.md) [-M] — learners who differ on it differ in outcomes
+- [Preschool fluid abilities (visual-spatial skills, short-term memory) predict crystallized abilities, supporting the mediation sequence](../claims/fluid-abilities-predict-crystallized-factor.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial ability test scores correlated weakly but significantly with gross anatomy scores in the pooled female group, with no correlation in the male group](../claims/weak-spatial-anatomy-correlation-females-only.md) [~M] — learners who differ on it differ in outcomes
+- [The authors conclude spatial ability may not be the only factor predicting dental students' academic performance, and low-spatial-ability students may need supplementary techniques](../claims/spatial-ability-not-only-performance-predictor.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

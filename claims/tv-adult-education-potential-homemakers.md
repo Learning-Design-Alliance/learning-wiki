@@ -47,3 +47,4 @@ Interview data from the USDA sewing study audience. The digest reports "98% want
 
 ## Related Claims
 - [In the sewing telecast series, most homemaker viewers learned new things and practice use increased with the number of programs viewed](sewing-tv-learning-and-dose-response.md) — related
+- [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — possibly the same claim (merge candidate)

@@ -69,3 +69,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [Dietetic students in PBL perceived stronger thinking, problem-solving, communication and collaborative-learning skills than didactically taught students](pbl-dietetic-students-perceived-skill-gains.md) — related
 - [Staff rated PRI-E higher for student ability development and teacher-student bonds, with no difference in teaching load](pri-e-staff-ratings-bonds.md) — related
 - [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](pri-e-student-ability-development-ratings.md) — related
+- [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](pbl-develops-critical-thinking-communication-iuhpe-competencies.md) — related

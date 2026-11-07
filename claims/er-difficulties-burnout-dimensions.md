@@ -53,3 +53,4 @@ Pooled random-effects correlations between ER difficulties and the three burnout
 - [Greater perceived stress is associated with greater emotion dysregulation in teachers](stress-correlates-emotion-dysregulation-teachers.md) — related
 - [Physicians' teaching-related self-efficacy did not correlate significantly with emotional exhaustion](teaching-self-efficacy-emotional-exhaustion-null.md) — related
 - [In the high-grade group, e-learning performance correlates negatively with self-efficacy and positively with monitoring studying and emotional exhaustion](high-grade-group-correlations.md) — related
+- [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](amotivation-correlates-burnout-intrinsic-motivation.md) — related

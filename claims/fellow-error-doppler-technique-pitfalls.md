@@ -50,3 +50,4 @@ Image-level review of the Doppler windows and spectral analyses for each fellow 
 - [After a brief mastery learning intervention, critical care fellows' LVOT VTI measurements correlate strongly with cardiologist-reported values (r = 0.73)](fellow-lvot-vti-strong-correlation-cardiologist.md) — related
 - [Fellow LVOT diameter measurements correlate only moderately with cardiologist-reported values (r = 0.51), notably weaker than VTI](fellow-lvot-diameter-moderate-correlation.md) — related
 - [Fellows' clinically stratified VTI judgments agreed with cardiologists in 80% of cases (κ = 0.379), with 91% sensitivity but only 43% specificity for abnormal VTI](fellow-vti-clinical-agreement-sensitivity-specificity.md) — related
+- [CCUS examinations by trained fellows reveal unexpected findings in about a third of documented cases and raise fellows' subjective confidence in patient care](ccus-unexpected-findings-and-confidence.md) — related

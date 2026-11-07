@@ -56,3 +56,4 @@ Expert rating study of the Bespoke corpus: 25 domain-matched reviewers each scor
 - [96.9% of participating experts reported the video-assessment-remediation workflow provides a more effective learning experience than instructional videos alone](969-percent-experts-prefer-remediation-workflow.md) — related
 - [MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs](mooc-adoption-small-segment-institutions.md) — related
 - [Student-produced science popularisation videos reach good-to-excellent quality, with content organisation scoring lowest](student-video-quality-good-to-excellent-organisation-lowest.md) — related
+- [Ninety-four percent of the local hospital audience reported a good to very good learning experience from the video-lecture program](local-audience-positive-learning-experience-94-percent.md) — related

@@ -57,3 +57,4 @@ Challenge identified in the I-PREP statewide scan. The combination of multiple r
 - [The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources](intervention-value-depends-stakeholder-vantage-point.md) — related
 - [Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus](managerial-skills-deemphasized-worry.md) — related
 - [External challenges to Assessment Centers include inflexible copied foreign models, unstable organizational placement, and political influences on appointments](external-organizational-political-ac-challenges.md) — related
+- [How to create opportunities for the internship and placement period in online health-professions education remains an open question requiring further research](online-internship-placement-remains-open-question.md) — related

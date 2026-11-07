@@ -45,7 +45,8 @@ The authors' forward-looking recommendation is to broaden PBL implementation and
 - [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](../claims/pbl-improves-solution-quality-malaysian-undergraduates.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Improve fully online PBL by clarifying instructions, strengthening the group process and adding synchronous tutor contact](online-pbl-support-strategy.md)
 
 ## Examples
 -

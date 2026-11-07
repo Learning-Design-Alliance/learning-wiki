@@ -49,3 +49,4 @@ Pearson product-moment correlations across the full cohort (N = 612 M1, 584 prec
 - [Concentration, Motivation, and Time Management predict performance more strongly for female than male medical students despite showing no gender difference in scores](concentration-motivation-time-management-stronger-female-predictors.md) — related
 - [Anxiety explains more performance variation for female than male medical students, particularly on USMLE Step 1](anxiety-explains-more-female-performance-variation.md) — related
 - [Seven of ten LASSI scales show significant mean-score differences between male and female medical students](gender-differences-seven-lassi-scales-medical-students.md) — related
+- [Preadmission academic variables correlate moderately with preclerkship and USMLE Step 1 performance, and the two outcomes correlate strongly with each other (r = 0.75)](preadmission-variables-correlate-with-outcomes.md) — related

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (84 show a difference, 41 mixed, 20 no difference) · 60 studies (26 associational, 19 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 20 of 60 report an effect size · 143 claims rest on one study
+> **Evidence** · 146 claims (85 show a difference, 41 mixed, 20 no difference) · 61 studies (27 associational, 19 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 20 of 61 report an effect size · 144 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -180,6 +180,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Students' perceptions of parent and teacher achievement goals frequently diverge, and parent performance goals correlate negatively with achievement](../claims/goal-perception-discrepancies-descriptives.md) [+M] — learners who differ on it differ in outcomes
 - [When perceived parent and teacher achievement goals are incongruent, teachers' goals have the stronger impact on students' academic performance](../claims/teacher-goals-dominate-incongruence.md) [~M] — learners who differ on it differ in outcomes
 - [Lay theory factors plus demographics predict 13–25% of outcome variance, with performance-avoid goals an exception at 4%](../claims/sem-variance-explained-lay-theories.md) [~M] — learners who differ on it differ in outcomes
+- [Identity motivation and performance-approach goal orientation each increase the likelihood of academic resilience among disadvantaged students](../claims/identity-motivation-performance-approach-predict-resilience.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

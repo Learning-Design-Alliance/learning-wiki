@@ -53,3 +53,4 @@ Chi-square analysis of OSCE outcome in Table 5 shows a significant sex differenc
 - [Male sex showed higher first-sitting pass rates in this cohort, contrasting with earlier MRCP studies that found no difference or the reverse direction](mrcp-part1-male-higher-pass-rate-vs-prior-studies.md) — related
 - [SSC participation is associated with higher clerkship performance, but SSC outcome itself is not](ssc-participation-clerkship-performance.md) — related
 - [Female at-risk students had higher odds of passing than male students, but the gender effect became insignificant when advising was included in the model](gender-effect-passing-multicollinearity.md) — related
+- [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related

@@ -50,3 +50,4 @@ Post-test comparison of the lowest-scoring band in the experimental class, repor
 - [Final-test score distributions concentrated differently by group: the ChatGPT class peaked at interval 79-83 (32.26% of students) while the control class peaked at 56-61 (25.81%)](frequency-distribution-experimental-79-83-control-56-61.md) — related
 - [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
 - [Intervention students are more likely to move up one or more performance-level categories from pre-test to post-test than control students](ct-intervention-increases-category-mobility.md) — related
+- [Active learning narrowed the performance gap between top-75% and lowest-25% students by 16.56% (from 38.64 to 32.24 points)](active-learning-mena-performance-gap-narrowed.md) — related

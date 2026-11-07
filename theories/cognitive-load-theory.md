@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 137 claims (91 for, 35 mixed, 11 against) · 113 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 21 of 113 report an effect size · 125 claims rest on one study
+> **Evidence** · 138 claims (92 for, 35 mixed, 11 against) · 114 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 3 associational, 3 design, 1 qualitative), `q1`–`q4` · 21 of 114 report an effect size · 126 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -208,6 +208,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](../claims/working-memory-exhaustion-restored-by-break.md) [+W] — attached 2026-11-05 from Paridon H (2026), which proposed "Extended CLT model for clinical practice: schema construction and automation reduce intrinsic and extraneous load for experienced medical professionals"; tests this page's relationship.
 - [Virtual tasks that deviated from real-world procedures increased task burden, causing fixation on technical actions that impeded the simulation's core learning objectives](../claims/vr-task-burden-from-deviant-procedures.md) [+W] — attached 2026-11-06 from Loeb Daniel et al. (2025), which proposed "A blended constructivism and cognitive load theory framework for understanding how simulation modality influences participant attention and behavior".
 - [Immersive VR chest tube training shows a theoretically favourable cognitive load profile: low extraneous load, high germane load](../claims/immersive-vr-cognitive-load-profile-favourable.md) [+W] — attached 2026-11-06 from Tokuno Junko et al. (2025), which proposed "Cognitive load theory's three load types as a framework for evaluating technology-based learning tools".
+- [Poor-quality video production increases learners' cognitive load and decreases learning gains](../claims/poor-video-quality-increases-cognitive-load.md) [+W] — attached 2026-11-07 from Krumm Ilana Roberts MD et al. (2021), which proposed "Dual-channel processing and cognitive load theory as the basis for educational video design".
 
 ## The evidence by question
 

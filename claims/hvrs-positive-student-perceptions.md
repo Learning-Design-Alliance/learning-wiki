@@ -63,3 +63,5 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Perceptions of VR training do not differ significantly between preclinical and clinical dental students](vr-perception-similar-across-cohorts.md) — related
 - [Most VR-group students reported satisfaction with the course and improved security and confidence in clinical diagnosis](vr-students-satisfaction-confidence-survey.md) — related
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related
+- [Students reported that HVRS training improved their psychomotor skills and confidence, and cited unlimited repetitions and better visualization as main benefits](hvrs-perceived-skill-confidence-benefits.md) — related
+- [The null performance effect of HVRS augmentation is bounded by the pilot's small sample, single procedure, and participants' prior experience with both simulators](hvrs-pilot-study-limitations.md) — related

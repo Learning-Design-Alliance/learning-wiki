@@ -46,6 +46,7 @@ Once the EWS identifies at-risk students, school directors, homeroom teachers, P
 ## Related Strategies
 
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
+- [Predict and warn students at risk to assist teacher management and prevent selective ignoring](achievement-prediction-early-warning-strategy.md)
 
 ## Examples
 -

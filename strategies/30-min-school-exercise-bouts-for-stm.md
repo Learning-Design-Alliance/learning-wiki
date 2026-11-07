@@ -43,6 +43,7 @@ The authors recommend using ordinary school physical-education activities as cos
 ## Related Strategies
 
 - [Prescribe intensive, multi-component physical activity integrated into regular classes to maximize learning outcomes](evidence-based-exercise-programs-school-strategy.md)
+- [Allocate school-aged children to cognitively challenging physical activities such as tag games, team games, or coordinative exercises](cognitively-challenging-physical-activities-recommendation.md)
 
 ## Examples
 -

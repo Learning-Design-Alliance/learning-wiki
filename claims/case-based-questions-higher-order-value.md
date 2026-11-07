@@ -49,3 +49,4 @@ Background section claim: the article reports, citing Cunnington et al. 1997, Ab
 - [Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful](rule-space-classifies-architecture-examinees-solve-strongest.md) — related
 - [Prior automatic MCQ generation approaches produce structurally simple questions (at most two stem entities) testing mainly recall](prior-aqg-simple-recall-questions.md) — related
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — possibly the same claim (merge candidate)
+- [Case-based MCQ maintain discriminative power across academic levels while factual questions discriminate less in high scorers](case-based-mcq-maintain-discrimination.md) — related

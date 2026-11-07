@@ -69,3 +69,4 @@ The review reports, citing Pels (1998) and Phalet and Schönpflug (2001b), that 
 - [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md)
 - [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — related
 - [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
+- [Family composition, parental SES, school type, and school location consistently predict immigrant youths' college graduation and academic aspirations](contextual-covariates-predict-immigrant-college-graduation.md) — related

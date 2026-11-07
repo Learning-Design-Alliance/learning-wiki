@@ -51,3 +51,4 @@ This is the review's thematic synthesis (Theme 1) of 32 studies spanning surveys
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
 - [EI development occurred informally through experience rather than structured curricular mechanisms, revealing an institutional gap](ei-institutional-gap-informal-development.md) — related
 - [A majority (60%) of surveyed emergency medicine program directors report no structured and longitudinal ECG curriculum](majority-pds-report-no-structured-ecg-curriculum.md) — a narrower finding that bears on this claim
+- [Brazil has almost no formal residents-as-teachers experience, with only one identified study](brazil-lacks-formal-rat-programs.md) — related

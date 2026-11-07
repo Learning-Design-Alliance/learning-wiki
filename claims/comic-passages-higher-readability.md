@@ -48,3 +48,4 @@ The author's inference drawn from the study results in line with prior research 
 - [Comic materials reduce abstraction and present text patterns sequentially through framed pictures](comics-reduce-abstraction-sequential-presentation.md) — related
 - [The normal child is a moderate reader who uses comics as a means of (digest text breaks off)](normal-child-moderate-comic-reader.md) — related
 - [Comic pictures may help struggling readers reach good readers' pace through greater picture use](comic-pictures-help-struggling-readers.md) — related
+- [Participants found the true/false quizzes relatively easy but the detailed descriptions difficult because they contained many technical words, and sentences were too long](ebm-elearning-quizzes-easy-explanations-technical-words-difficult.md) — related

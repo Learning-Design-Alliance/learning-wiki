@@ -61,6 +61,7 @@ The article recommends building nutritional competency through a layered educati
 - [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
 - [Interprofessional learning formats connecting dental students with nursing and geriatric care programmes](interprofessional-learning-formats-dop-oral-care.md)
 - [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
+- [Include mental health content and clinical learning experiences in undergraduate children's nursing curricula, and use co-designed e-learning for continuing professional development](mental-health-content-nursing-curricula-elearning-cpd.md)
 
 ## Examples
 -

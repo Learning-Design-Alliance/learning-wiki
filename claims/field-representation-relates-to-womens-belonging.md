@@ -54,3 +54,4 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
+- [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related

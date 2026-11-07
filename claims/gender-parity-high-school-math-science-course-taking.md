@@ -57,3 +57,4 @@ Descriptive analysis of 2000 high school transcript data (Figure 2) reported in 
 - [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related
 - [Opportunity gaps in prior chemistry coursework are present among introductory biology students, with historically underserved students reporting less high school chemistry](opportunity-gaps-chemistry-coursework-intro-biology.md) — related
 - [Opportunity gaps in incoming chemistry content knowledge are present: prequiz scores varied widely and were predicted by coursework, PEER/first-generation status, and gender](prequiz-opportunity-gaps-chemistry-knowledge.md) — related
+- [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related

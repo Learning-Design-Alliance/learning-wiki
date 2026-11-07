@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (80 show a difference, 24 mixed, 9 no difference) · 88 studies (34 associational, 16 causal, 13 review, 8 qualitative, 7 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 7 of 88 report an effect size · 108 claims rest on one study
+> **Evidence** · 115 claims (82 show a difference, 24 mixed, 9 no difference) · 90 studies (35 associational, 16 causal, 14 review, 8 qualitative, 7 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 90 report an effect size · 110 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -157,6 +157,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](../claims/remote-skill-based-learning-challenges-pharmacy.md) [+M] — measured as an outcome of the instruction studied
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](../claims/connectivity-problems-assessment-anxiety-remote.md) [+W] — learners who differ on it differ in outcomes
 - [Podiatric medical students with Osmosis access showed no statistically significant difference in final exam scores compared to a prior cohort without access](../claims/osmosis-access-no-significant-final-exam-difference.md) [-M] — learners who differ on it differ in outcomes
+- [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](../claims/mooc-technology-access-barrier.md) [+M] — learners who differ on it differ in outcomes
+- [Technology access shows a moderate positive correlation with nursing students' satisfaction with e-learning](../claims/tech-access-correlates-satisfaction-nursing.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

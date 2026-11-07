@@ -51,3 +51,5 @@ Survival analysis of participation in the Bazaar Collaborative Reflection chats 
 - [This issue's MOOC study is reported to demonstrate that an intervention delivered outside chat activities promotes student participation in chat-based collaborative activities](mooc-outside-intervention-promotes-chat-participation.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
 - [Students used the synchronous chat room far more than other communication tools, while discussion forum use was relatively low](chat-room-dominant-communication-tool-usage.md) — related
+- [Course-level factors increasing MOOC effectiveness include discussion forums, multiple resources and delivery systems, interactivity, and teacher communication and support](mooc-course-level-effectiveness-factors.md) — related
+- [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related

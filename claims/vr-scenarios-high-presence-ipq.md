@@ -49,3 +49,4 @@ Post-scenario questionnaire data from the 59 participants using the Igroup Prese
 - [Intervention-group students reported moderate presence in the VSP, highest for spatial presence and lowest for perceived realism](moderate-presence-ipq-vsp.md) — related
 - [Sense of presence in the 3D mode was moderate (involvement, realism, and spatial presence below 5 out of 7) with no differences between groups, attributed to a static virtual world](rineo-3d-presence-moderate-static-world.md) — related
 - [Prior VR experience had no statistically significant impact on survey scores except a sense of virtual presence (IPQ, p < 0.05)](prior-vr-experience-null-except-presence.md) — related
+- [Intermediate and experienced operators differ on practical and overall scores but not on theoretical scores](osce-tus-intermediate-experienced-practical-only-difference.md) — related

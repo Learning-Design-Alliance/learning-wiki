@@ -46,3 +46,4 @@ Repeated measures ANOVA in the same 61-student experiment; the omnibus three-way
 
 ## Related Claims
 - [Boys hold significantly higher self-efficacy than girls in science inquiry at every measurement point, though the gap narrows during training](boys-higher-self-efficacy-science-inquiry.md) — related
+- [Self-efficacy is higher in girls and amotivation higher in boys among primary students](gender-differences-self-efficacy-amotivation-primary.md) — related

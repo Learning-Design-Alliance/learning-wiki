@@ -50,3 +50,4 @@ Descriptive Kirkpatrick level-1 (reaction) results from the end-of-program quest
 - [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related
 - [Progressive simulation-based laparoscopic training raised residents' suture test performance from 29% to 43% to 88% across three test points with significant differences between all mean scores](simulation-training-raises-laparoscopic-performance-29-43-88.md) — related
 - [Participants reported positive impressions of the training program and increased involvement in transanal surgery cases afterwards](tes-training-positive-participant-feedback.md) — related
+- [Residents reported high satisfaction with the COVID-19-adapted simulation activity](high-satisfaction-covid-simulation.md) — related

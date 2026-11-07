@@ -46,6 +46,7 @@ The article prescribes a concrete adaptation recipe for implementing DL2F in Phi
 - [Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy](sl-home-language-assessment-differentiation.md)
 - [Culturally Responsive Curriculum Scorecards](culturally_responsive_curriculum_scorecards.md)
 - [Implement CBL across diverse disciplines, community practices, and special projects, adapting it to contextual and policy factors](cbl-context-adaptive-implementation-strategy.md)
+- [Implement active learning grassroots-style in developing-country universities using open educational resources, local context-rich editing, and students' smartphones](grassroots-active-learning-open-resources-smartphones-strategy.md)
 
 ## Examples
 -

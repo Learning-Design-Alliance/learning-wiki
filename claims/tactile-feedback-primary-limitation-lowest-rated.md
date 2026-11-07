@@ -56,3 +56,4 @@ Descriptive analysis of tactile-aspect questionnaire items among the 23 expert o
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related
 - [Trainees with fewer than ten cerclage procedures reported higher satisfaction with the simulator than experts](trainees-rate-simulator-higher-than-experts.md) — related
+- [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — related

@@ -64,3 +64,4 @@ Among 11 studies assessing knowledge or skills outcomes, the review reports that
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
 - [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](video-assisted-instruction-cvc-psychomotor-skills.md) — related
 - [Literature offers no consensus on whether video demonstration or standardized patient teaching is better for psychomotor skills, motivating direct comparison](no-consensus-vd-vs-sp-psychomotor-teaching.md) — related
+- [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related

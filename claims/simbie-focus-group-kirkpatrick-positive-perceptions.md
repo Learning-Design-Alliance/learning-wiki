@@ -55,3 +55,4 @@ Qualitative thematic analysis of 60-90 minute focus groups (5 disciplines per gr
 - [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](pharmacy-students-knowledge-and-communication-skill-gains.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Team CPR training significantly improves skill confidence and active participation (Kirkpatrick behavior level)](cpr-training-improves-confidence-participation.md) — related
+- [Engaging the teaching team early is essential for curricular uptake of virtual gaming simulation](teaching-team-engagement-essential-vgs-uptake.md) — related

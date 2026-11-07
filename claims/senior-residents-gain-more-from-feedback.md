@@ -49,3 +49,4 @@ Prefeedback–postfeedback paired comparison of median LapSim scores from the re
 - [Median procedure time fell from before to after instructor feedback in one uncontrolled pre-post study; senior residents' time fell by nearly 40%, while junior residents' time was similar before and after](procedure-time-drops-after-feedback-seniors.md) — related
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
+- [Residents who are better teachers show greater knowledge of taught material and higher laparoscopic skills](better-teacher-residents-greater-knowledge-skills.md) — related

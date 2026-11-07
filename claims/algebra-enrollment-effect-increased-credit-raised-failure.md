@@ -76,3 +76,4 @@ Null finding from the same enrollment-effect models: ninth-grade math test score
 - [Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores](english-enrollment-effect-increased-credit-no-adverse.md) — related
 - [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
+- [The intervention increased rates of earning college credit graded by professors blind to the intervention, including in majority low-SES classrooms](college-credit-outcome-rules-out-lenient-grading.md) — related

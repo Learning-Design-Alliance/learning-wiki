@@ -69,3 +69,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — related
 - [The authors report role reversal cultivates flexible problem-solving compared with one-way traditional teaching](role-reversal-flexible-problem-solving-claim.md) — related
 - [Nursing students used self-centered learning strategies, including exploration, evidence use, audio-visual resources, note-taking, and individual role playing, to facilitate pandemic e-learning](self-centered-elearning-strategies-nursing-students.md) — related
+- [After validation, the scenario was improved with small changes from the specialists' considerations, including target-audience definition and standardization of the term simulated patient](postvention-scenario-revisions-from-judge-suggestions.md) — related

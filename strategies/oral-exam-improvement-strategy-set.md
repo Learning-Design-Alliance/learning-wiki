@@ -55,6 +55,7 @@ The review groups proposed solutions into examiner training and calibration, que
 - [Calibration and implementation pathways for analytic rubrics in clinical dental courses](rubric-calibration-implementation-pathways-dental-clinics.md)
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
 - [Multidimensional rater-improvement strategy combining expert training, monitoring and evaluation, quality assurance mechanisms, and item banking](ugmle-multidimensional-rater-improvement-strategy.md)
+- [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ For the 2005 Puerto Rico NAEP administration, the report describes enhancements 
 - [Integrate Puerto Rico into the national NAEP sample in future administrations](integrate-puerto-rico-national-naep-sample.md)
 - [Adapt English-language KEA administration so students may respond in Spanish or English, with bilingual directions and Spanish-adapted rather than merely translated prompts](linguistic-adaptations-spanish-english-kea-administration.md)
 - [Five-step cross-cultural adaptation procedure: forward translation, back-translation, expert committee review, pre-test, and test-retest](five-step-questionnaire-cross-cultural-adaptation.md)
+- [Translate and culturally adapt an assessment instrument following the ISPOR Task Force process with originator approval](ispor-translation-cultural-adaptation-strategy.md)
 
 ## Examples
 -

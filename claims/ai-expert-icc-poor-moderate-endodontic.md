@@ -51,3 +51,4 @@ Reliability analysis of the pilot study's 32 postoperative radiographs scored in
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Cohen's kappa indicates consistently low AI–expert agreement across all five endodontic criteria (all κ < 0.4; one criterion negative)](ai-expert-kappa-low-agreement.md) — related
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — related
+- [Item-level scoring consistency is poor for several subjective rubric items, with ICCs near or below 0.4](poor-item-level-icc-subjective-osce-items.md) — related

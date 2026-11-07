@@ -56,6 +56,7 @@ The article recommends that, given demonstrated variation in SWPBIS responsivene
 - [Whole-class Tier 1 strategy instruction with intensified small-group follow-up for nonresponders](tier1-whole-class-strategy-instruction-with-intensification.md)
 - [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
 - [Use personalized mastery-learning programs given wide individual variation in performance](mastery-learning-for-surgical-trainees-wide-variation.md)
+- [Pair the individual e-learning program with school-wide organizational responses such as screening meetings to identify children in need of support](school-wide-screening-meetings-strategy.md)
 
 ## Examples
 -

@@ -100,3 +100,4 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Group supervision is perceived as an adjunct to, not a substitute for, direct supervision for aquatic physiotherapy skill development](group-supervision-adjunct-not-substitute-direct-supervision.md) — a narrower finding that bears on this claim
 - [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — related
 - [An immersive VR PCNL simulator outperformed conventional VR in ratings but did not differ from a porcine physical model](immersive-vr-pcnl-vs-porcine-ratings.md) — a narrower finding that bears on this claim
+- [Participants judged hands-on workshops, especially the operative porcine laboratory, the most educational and memorable course formats](porcine-lab-hands-on-workshops-most-educational.md) — related

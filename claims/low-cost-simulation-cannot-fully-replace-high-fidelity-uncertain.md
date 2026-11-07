@@ -49,3 +49,4 @@ This is the review authors' interpretive statement in the Discussion, not a test
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [Low- and high-fidelity simulation settings do not produce different results regarding situation awareness.](no-sa-difference-between-fidelity-settings.md) — a narrower finding that bears on this claim
+- [Open questions remain on whether VGS improves clinical practice or can replace clinical hours](vgs-clinical-practice-effectiveness-unknown.md) — related

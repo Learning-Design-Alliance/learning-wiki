@@ -53,3 +53,6 @@ Cohort analysis using penalized splines in generalized additive models with gene
 - [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related
+- [Adherence to physical activity and sleep guidelines may not be necessary for optimal adolescent academic achievement; amounts slightly below recommendations may suffice](guideline-adherence-not-required-optimal-grades.md) — related
+- [Physical activity and sleep duration interact in relation to adolescent academic achievement, such that the sleep–grades association is not uniform across activity levels](physical-activity-sleep-interaction-grades.md) — related
+- [Sleep duration shows a curvilinear association with adolescent academic achievement, with optimal grades at 7–9 hours per night rather than the recommended 8–10](sleep-duration-curvilinear-adolescent-grades.md) — related

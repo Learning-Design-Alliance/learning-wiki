@@ -55,3 +55,5 @@ Contrasting Groups' Method applied to the plotted total-score distributions of 1
 - [A composite fluoroscopy score on the iVR simulator discriminates novices from experienced surgeons with a very large effect size (partial eta squared = 0.54)](ivr-fluoroscopy-composite-score-discriminates-experience.md) — related
 - [The contrasting groups method yields a 91% pass/fail cutoff, which the authors judged too low and raised to the expert average of 96%](contrasting-groups-cutoff-91-raised-to-expert-average-96.md) — related
 - [Contrasting groups' standard setting establishes a pass-or-fail score of 19 points, with 19% false positives among novices and 5% false negatives among experienced students](vr-contrasting-groups-pass-score-19.md) — related
+- [A contrasting-groups pass/fail score of 71 points on the OSCE produced no false positives or false negatives](osce-tus-pass-fail-71-no-false-classifications.md) — related
+- [A contrasting-groups pass/fail score of 48/50 points produced no false positives or false negatives](vr-tte-test-pass-fail-score-48.md) — related

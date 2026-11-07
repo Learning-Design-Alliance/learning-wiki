@@ -53,3 +53,4 @@ In the exploratory Spearman's correlation analysis, "no significant correlation 
 - [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related
 - [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
+- [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — a narrower finding that bears on this claim

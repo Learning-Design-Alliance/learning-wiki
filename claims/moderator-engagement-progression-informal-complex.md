@@ -49,3 +49,4 @@ Qualitative theme observed consistently across the cycles of the CFC Learning Hu
 - [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
 - [Moderators fostered participation through personalized prompts, affirming language, welcoming tone, and balanced encouragement frequency](moderator-participation-encouragement-techniques.md) — related
 - [The CRI:SIS intervention was iteratively adapted 22 times over 12 months in response to evolving COVID-19 guidelines](crisis-iterative-guideline-adaptations.md) — related
+- [A conversational, first-person script style increases engagement and attention compared with a formal presentation style](conversational-script-style-engagement.md) — related

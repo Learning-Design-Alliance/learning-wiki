@@ -48,6 +48,7 @@ The article recommends that competency-based curricula include direct observatio
 ## Related Strategies
 
 - [Stepwise integration of EPAs into prehospital emergency medicine training incorporating pediatric-specific EPAs, simulation-based refresher courses, and EPA-based assessment tools](stepwise-epa-integration-prehospital-training.md)
+- [Add the HiNTS bedside oculomotor examination for vertigo patients and implement it in clinical routine through simulation training](hints-examination-implementation-via-simulation-strategy.md)
 
 ## Examples
 -

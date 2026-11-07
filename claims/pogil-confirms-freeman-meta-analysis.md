@@ -49,3 +49,6 @@ Side-by-side comparison (Table 3) of the present POGIL-only meta-analysis agains
 - [Students in POGIL classrooms have roughly twice the odds of passing a course as students in standard lecture classrooms (OR = 2.02)](pogil-doubles-course-pass-odds.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [POGIL instruction produces a small but statistically significant improvement in student achievement outcomes compared to standard lecture (g = 0.29)](pogil-small-achievement-effect.md) — related
+- [Active learning reduced the failure rate by 66% overall, with students on average 2.98 times more likely to fail under traditional teaching](active-learning-mena-failure-rate-reduction.md) — related
+- [MENA students showed a considerably larger failure-rate reduction (36% greater) than reported in developed-country meta-analyses under comparable active-learning approaches](active-learning-mena-greater-failure-reduction-than-developed-countries.md) — related
+- [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related

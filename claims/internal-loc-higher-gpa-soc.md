@@ -52,3 +52,4 @@ Independent t-test comparison in the cross-sectional sample of 348 students (41.
 - [Nursing students score higher on SOC meaningfulness than medical students; male students score higher on meaningfulness than female students](meaningfulness-subscale-group-differences.md) — related
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [Higher GPA rankings are associated with higher JHLES scores among Chinese medical students (p < 0.001)](gpa-ranking-associated-with-jhles-scores.md) — related
+- [Self-reported locus of control scores rose from pre-test to post-test after the e-learning programme in one single-group pre-post study, with nurses holding inconsistent views about control over their actions](rlo-elearning-no-locus-control-change.md) — related

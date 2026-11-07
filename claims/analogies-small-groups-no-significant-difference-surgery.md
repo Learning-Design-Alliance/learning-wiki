@@ -70,3 +70,4 @@ The same cross-sectional study's final evaluation used clinical cases with multi
 - [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](ai-pbl-cbl-improves-knowledge-acquisition.md) — related
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](pbl-small-significant-advantage-dental.md) — related
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
+- [Online long case examination grade distributions were similar across student groups despite differing levels of prior clinical experience](similar-grades-despite-differing-clinical-experience.md) — related

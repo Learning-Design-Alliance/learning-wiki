@@ -45,7 +45,8 @@ The editors' strategic implication recommends that "Head Start and school progra
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](../claims/getting-ready-replication-relationships.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adjust learning environments to support withdrawn children's participation](learning-environment-adjustments-withdrawn-children.md)
 
 ## Examples
 -

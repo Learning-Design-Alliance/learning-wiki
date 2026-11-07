@@ -53,3 +53,4 @@ Spearman correlations of knowledge, skill and ITU mean differences with total us
 - [Older adults logged into the platform significantly more often than young-old adults during the intervention week](epa-coach-usage-logins-older-adults.md) — related
 - [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](interaction-metrics-weakly-correlated-task-performance.md) — related
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
+- [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — a narrower finding that bears on this claim

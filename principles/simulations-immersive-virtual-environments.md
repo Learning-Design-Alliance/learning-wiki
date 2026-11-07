@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 486 claims (299 for, 162 mixed, 25 against) · 305 studies (123 causal, 80 review, 39 quant-synthesis, 26 design, 25 qualitative, 9 theoretical, 3 associational), `q1`–`q4` · 59 of 305 report an effect size · 481 claims rest on one study
+> **Evidence** · 488 claims (301 for, 162 mixed, 25 against) · 307 studies (124 causal, 80 review, 39 quant-synthesis, 26 design, 25 qualitative, 9 theoretical, 3 associational), `q1`–`q4` · 59 of 307 report an effect size · 483 claims rest on one study
 
 ## Conditional relationship
 
@@ -484,6 +484,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](../claims/oasis-simulator-satisfaction-and-anatomical-fidelity.md) [+W] — attached 2026-11-07 from Knobel Roxana et al. (2018), which proposed "Simplified, low-cost simulation can achieve surgical training objectives without ultra-realism".
 - [After 12 hours of simulator-based training, novices complete all 23 second-trimester standard planes significantly faster than Ob/Gyn physicians](../claims/sim-ut-novices-faster-than-physicians-12-hours.md) [+W] — attached 2026-11-07 from Freundt Paula et al. (2023), which proposed "Train ultrasound novices in simulated settings until proficiency before clinical training, as a safe and learner-centered route to quality assurance"; tests this page's relationship.
 - [After six weeks of simulator training, novices' speed no longer differs significantly from DEGUM experts for 20 of 23 standard planes, though experts remain faster overall](../claims/sim-ut-novices-approach-expert-speed-20-of-23-planes.md) [~W] — attached 2026-11-07 from Freundt Paula et al. (2023), which proposed "Train ultrasound novices in simulated settings until proficiency before clinical training, as a safe and learner-centered route to quality assurance"; tests this page's relationship.
+- [Simulation training enhances psychomotor skills and supports the transition from classroom learning to clinical practice in obstetrics and gynaecology](../claims/simulation-enhances-psychomotor-skills-obgyn.md) [+W] — attached 2026-11-07 from Zimmerman Erin et al. (2021), which proposed "Expand simulation-based training across the obstetrics and gynaecology curriculum, from basic tool handling to subspecialty skills"; tests this page's relationship.
+- [Nursing students with high‐fidelity simulation exposure scored higher combined midterm and final OSCE results than students without HFS exposure](../claims/hfs-exposure-higher-combined-osce-results.md) [+W] — attached 2026-11-07 from Guerrero et al. (2023), which proposed "Supplement nursing clinical training with repeated high‐fidelity simulation exposure to enhance OSCE performance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -70,3 +70,4 @@ Wilcoxon signed-rank tests for the experimental group (n=28) comparing pre-test 
 - [Well-structured PS instruction improved learners' PS perceptions on PSI total, Problem Solving Confidence and Approach-Avoidance Style, but not Personal Control](ps-instruction-improved-psi-perceptions.md) — related
 - [Improvement spans all problem-solving subcategories: personal control, avoidance/approach, and confidence](psi-subcategories-all-improved-high-tech.md) — related
 - [Among the three problem-solving components, only problem-solving confidence changed significantly after simulation-based training](problem-solving-confidence-only-component-changed.md) — related
+- [The PBL step-by-step process from problem to solution is credited by the authors with improving learners' systematicity and self-confidence](pbl-stepwise-process-systematicity-self-confidence.md) — related

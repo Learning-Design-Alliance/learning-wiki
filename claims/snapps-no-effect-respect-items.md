@@ -49,3 +49,4 @@ Null finding from the item-level analyses of the randomized case-control study a
 - [A 45-minute SNAPPS lecture significantly improves psychiatry residents' case-discussion teaching scores across outpatient, ward, and emergency settings](snapps-lecture-improves-resident-teaching-scores.md) — related
 - [At 6- to 12-week follow-up physiotherapists were highly competent in three HCS but showed lower competence in SMARTER goal-setting](mecc-hcs-smarter-goal-setting-lower-competence.md) — related
 - [Sample characteristics (immigrant/minority status, L2 status, age) show no significant moderator effects, and several program and delivery features are also nonsignificant](flp-nonsignificant-moderators.md) — related
+- [More noncontent interactions (encouragement, listening to feedback, being polite) predict lower course achievement](noncontent-interactions-predict-lower-achievement.md) — related

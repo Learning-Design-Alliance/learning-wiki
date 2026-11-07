@@ -54,3 +54,5 @@ Direct-path coefficients (Table 4, paths b1–b4) from the path analysis of 261 
 - [Health-related quality of life indirectly improves academic success via intrinsic motivation alone and via burnout plus intrinsic motivation serially](hrqol-indirect-effects-via-burnout-intrinsic-motivation.md) — related
 - [Higher health-related quality of life correlates strongly negatively with academic burnout, and motivation dimensions correlate positively with academic success](hrqol-burnout-motivation-correlations-nursing.md) — related
 - [Self-efficacy has no significant direct effect on English learning performance; its effect is indirect through burnout](self-efficacy-effect-on-performance-mediated-by-burnout.md) — related
+- [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](amotivation-correlates-burnout-intrinsic-motivation.md) — related
+- [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — reports the opposite

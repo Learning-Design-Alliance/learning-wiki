@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 28 studies (16 causal, 5 associational, 4 theoretical, 1 quant-synthesis, 1 review, 1 design), `q1`–`q3` · 8 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (17 for, 11 mixed, 1 against) · 29 studies (17 causal, 5 associational, 4 theoretical, 1 quant-synthesis, 1 review, 1 design), `q1`–`q3` · 8 of 29 report an effect size · 28 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies ([Hidi & Renninger, 2006](https://doi.org/10.1207/s15326985ep4102_4); Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -80,6 +80,8 @@ The model is widely cited but only partially validated: it has received limited 
 - [The WeChat mobile learning mode helped students learn literature in interest stimulation, ability improvement, and content learning](../claims/wechat-mobile-learning-literature-benefits.md) [+W]
 - [Nine class groups showed positive growth in intrinsic motivational dimensions of Curiosity, Involvement, and Importance; teachers of these groups expressed the importance of reading in everyday life.](../claims/intrinsic-dimensions-growth-importance-reading.md) [~W]
 - [Triggered interest predicts test achievement only when learners have prior experience with the task domain (CPT), not in the MPT or computer-based environment](../claims/triggered-interest-predicts-achievement-only-with-prior-experience.md) [+W] — attached 2026-11-05 from Kehle et al. (2025), which proposed "Three-phase process model of situational interest and subjective effort across the learning process".
+- [Situational interest declines significantly during independent VPs sessions after a lecture, with the lowest score at the end of the session](../claims/independent-vps-si-declines-after-lecture.md) [+W] — attached 2026-11-07 from Fuoad Sura Ali et al. (2022), which proposed "Knowledge-deprivation and trigger-maintenance accounts of situational interest development during learning sessions".
+- [Collaborative VPs sessions show no significant change in situational interest across time points, and interest was higher than in lecture and independent VPs sessions at 10, 30 and 40 minutes but not at 20](../claims/collaborative-vps-si-stable-higher.md) [~W] — attached 2026-11-07 from Fuoad Sura Ali et al. (2022), which proposed "Knowledge-deprivation and trigger-maintenance accounts of situational interest development during learning sessions".
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

@@ -49,3 +49,4 @@ Bootstrapping mediation analysis (5,000 samples) within the SEM of 357 Chinese f
 - [Controlled motivation does not predict self-efficacy but has a small direct positive effect on innovative teaching](controlled-motivation-small-direct-effect-innovation.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
 - [Students' autonomy need satisfaction fully mediates the effect of teacher autonomy support on autonomous motivation and positive academic emotions, but does not mediate the effect on negative emotions](autonomy-need-satisfaction-full-mediation.md) — related
+- [E-learning motivation partially mediates the relationship between technology access and satisfaction with e-learning (proportion mediated 31.2%)](elearning-motivation-partially-mediate-tech-access-satisfaction.md) — related

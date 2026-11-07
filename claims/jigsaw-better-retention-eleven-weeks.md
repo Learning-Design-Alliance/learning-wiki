@@ -55,3 +55,4 @@ The same quasi-experiment administered swtAT as a retention test after 11 weeks 
 - [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](learning-cycle-higher-retention-8-months.md) — related
 - [No statistically significant difference in retention of course content among flipped classroom, jigsaw, and lecture groups six weeks after the intervention](no-retention-difference-three-methods.md) — reports the opposite
 - [Integrating jigsaw teaching into SRL cycle instruction improves nursing students' total self-regulated learning ability more than traditional lecture teaching](jigsaw-srl-instruction-raises-srl-ability-nursing.md) — related
+- [Group discussion (case-oriented small group discussion and Jigsaw) improves perceptions and retention versus lectures in dental materials science](group-discussion-jigsaw-dental-materials.md) — possibly the same claim (merge candidate)

@@ -57,3 +57,4 @@ The author's own daily diary study (Browman et al., 2025) tracked university stu
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
 - [Lower-SES and racially minoritized students use less campus space and fewer public spaces, which is associated with lower belonging](lower-ses-students-use-less-campus-public-space.md) — related
+- [Professional self-concept impacts nursing students' mental health, academic performance and professional values](self-concept-effects-mental-health-academic-values.md) — related

@@ -50,3 +50,4 @@ Sex-specific serial multiple mediation analysis in a cross-sectional study of 29
 - [Speed and agility show very weak-to-weak positive associations with mathematics performance, with strong review-level evidence](speed-agility-positive-mathematics-association.md) — related
 - [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — a broader claim this one bears on
 - [Mental health difficulties partially mediate (8–25%) the association between cardiorespiratory fitness and academic performance in children](mental-health-partially-mediates-crf-academic-performance.md) — related
+- [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related

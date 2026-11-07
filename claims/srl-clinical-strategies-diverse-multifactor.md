@@ -55,3 +55,4 @@ Systematic review of 18 included studies (10 observational, six qualitative, two
 - [Levels of resident supervision are shaped by social norms for self-entrustment, situational complexity, and entrustment-based discussions](factors-influencing-supervision-levels-residents.md) — related
 - [EPAs interact with workplace learning factors in both helping and hindering ways across learning goals, study, debriefing, motivation, case mix, and supervisors](epa-helping-hindering-factors.md) — related
 - [Contextual support—including supervisors performing uncertainty and allowing residents to be uncertain—mediated residents' tolerance of uncertainty and adaptive practices](contextual-support-uncertainty-tolerance.md) — a narrower finding that bears on this claim
+- [Nursing students' professional self-concept is shaped by both internal individual factors and external environmental factors](self-concept-individual-environmental-factors.md) — related

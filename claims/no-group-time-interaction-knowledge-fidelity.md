@@ -50,3 +50,4 @@ Mixed-model ANOVA on the 20-item pressure-injury knowledge test in the randomize
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — a broader claim this one bears on
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
+- [Both E-book app and conventional lecture training significantly improved nurses' pressure-injury knowledge, attitudes, and confidence within groups](both-formats-improved-pi-outcomes.md) — related

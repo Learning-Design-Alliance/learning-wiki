@@ -50,3 +50,4 @@ SEM mediation analyses of six geocoded neighbourhood composites (occupancy, heal
 - [Environmental mediation of polygenic score effects on achievement is nearly exclusively observed between families, consistent with passive gene-environment correlation](mediation-between-family-passive-rge.md) — related
 - [Beyond SES, other family environments such as harsh parenting and chaos and the supportive home environment remain significant mediators of PGS effects, albeit attenuated, in two-mediator models](non-ses-environments-remain-significant-mediators.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
+- [Exposure to neighbourhood poverty is negatively associated with educational attainment, with the strongest standardised effect during adolescence](poverty-exposure-negative-education-netherlands.md) — related

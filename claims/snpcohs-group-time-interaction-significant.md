@@ -53,3 +53,4 @@ Two-way repeated measures ANOVA across 3 time points for 60 NPs. Table 2 reports
 - [No significant instruction-by-time interaction was found on the discourse completion test](dct-no-interaction-instruction-time.md) — related
 - [The EmMa course showed no significant effect on early childhood teachers' mathematical content knowledge](emma-no-effect-mck.md) — related
 - [In the BLS E-learning experiment, knowledge score changes were significantly influenced by time, number of sessions, and their interactive effect](repeated-measures-anova-time-sessions-interaction-bls.md) — related
+- [Both study groups demonstrated significantly improved proficiency over time on two-way ANOVA, with no significant time-by-group interaction](proficiency-improved-over-time-no-interaction.md) — reports the opposite

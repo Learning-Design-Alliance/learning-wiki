@@ -49,3 +49,4 @@ RI-CLPM analysis of the Quebec Longitudinal Study of Child Development (n = 1,63
 - [Boys' academic motivation does not predict subsequent gaming (no reverse-direction effect)](motivation-does-not-predict-subsequent-gaming-boys.md) — related
 - [Boys spent significantly more time gaming while girls reported higher academic motivation across ages 7-10](sex-differences-gaming-time-and-motivation-levels.md) — related
 - [No gaming-motivation cross-lagged associations were found for girls](no-gaming-motivation-association-girls.md) — related
+- [Among boys, greater social withdrawal at age 10 predicts lower academic achievement at age 12](boys-withdrawal-predicts-lower-achievement.md) — related

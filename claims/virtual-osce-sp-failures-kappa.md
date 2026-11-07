@@ -47,3 +47,5 @@ Internal-structure analysis of the 27-student virtual OSCE comparing physician e
 ## Related Claims
 - [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
+- [SP assessors detect communication details that examiners neglect, such as interruptions and lack of empathy](sps-detect-communication-details-examiners-neglect.md) — related
+- [SP and examiner scores differ significantly on the total score and three of ten rubric items in the dental OSCE station](wilcoxon-sp-examiner-score-differences-osce-items.md) — related

@@ -66,3 +66,4 @@ The review reports cost figures: a cadaver lab session at "$1,268.20 per residen
 ## Related Claims
 - [Online simulation training costs as little as 29% of mannequin-based simulation training with no quantitative difference in learning](online-simulation-29-percent-cost.md) — a narrower finding that bears on this claim
 - [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](anatomage-vr-engagement-34-percent.md) — related
+- [Virtual simulation cost one third of manikin-based simulation with no significant learning difference (cited cost-utility analysis)](virtual-simulation-one-third-cost-manikin.md) — possibly the same claim (merge candidate)

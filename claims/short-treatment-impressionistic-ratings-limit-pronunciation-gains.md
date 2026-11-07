@@ -50,3 +50,4 @@ Authors' interpretation offered in the discussion, not a tested result: they als
 - [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related
 - [The authors interpret the weaker individual-level effects as possibly due to the informative-only format, short duration, and highly educated sample](authors-explanations-weak-individual-effects.md) — related
 - [The only clearly negative result found no significant differences on oral skills between gamified treatment and control groups](gamification-french-oral-skills-no-significant-difference.md) — related
+- [The null result may reflect that residents already engage in reflective reasoning naturally, or that the taught procedure was learned but not adopted at test](explanations-for-null-reflection-transfer.md) — related

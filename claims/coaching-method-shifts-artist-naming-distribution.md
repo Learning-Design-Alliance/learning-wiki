@@ -48,3 +48,4 @@ Survey results (Table 1, Figure 1) from the Kazan Federal University quasi-exper
 - [Coaching-method students mentioned more artists at least once and mentioned artists more repeatedly than control students](coaching-method-breadth-and-repetition-of-artist-mentions.md) — related
 - [Coaching-method instruction roughly doubles the average number of artists students can name in History of Visual Arts (15.5 vs 7.8 per student)](coaching-method-doubles-artists-recalled.md) — related
 - [Figure 1 shows an upward intercept shift in post-implementation proficiency for City Connects students relative to comparison students](city-connects-rd-intercept-shift-figure1.md) — related
+- [Post-test RSI distribution shifted upward relative to pre-test (median 0.28 vs 0.22), with nearly all post-test upper-quartile points above the pre-test upper whisker](rsi-post-test-distribution-shift-upward.md) — related

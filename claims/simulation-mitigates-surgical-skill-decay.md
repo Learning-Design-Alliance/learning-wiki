@@ -49,3 +49,4 @@ Review narrative on simulation formats ("box simulators to VR as well as cadaver
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
 - [The article reports that microsurgical wet laboratories have been shown to improve surgical competency and reduce the rate of post-course posterior capsular rupture.](wet-labs-improve-competency-reduce-pcr.md) — related
 - [Improved one-year ratings cannot be attributed to SBPT retention because superimposed clinical training likely masked skill decay](delayed-gains-confounded-by-clerkship-training.md) — related
+- [Simulation has been shown to prevent skills decay and teach new technical skills to novice learners who delayed training initiation](simulation-prevents-skills-decay-novices.md) — related

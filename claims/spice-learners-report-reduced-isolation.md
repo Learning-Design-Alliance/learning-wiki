@@ -56,3 +56,4 @@ Qualitative case-study reporting of learner experience, illustrated with student
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - Since the RSU 3 Virtual Learning Center went live in 2012, SPICE has seen an increase of more than 1,000 percent in learner hours and more than 254 percent in students served — related
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related
+- [Students came to see that online teaching needs new figures and tools that facilitate communication and aggregation, particularly a supportive tutor figure](online-teaching-needs-supportive-tutor-figure.md) — related

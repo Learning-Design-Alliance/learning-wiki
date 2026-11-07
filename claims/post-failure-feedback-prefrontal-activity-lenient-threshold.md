@@ -47,3 +47,4 @@ A 2 (retrieval outcome) × 2 (test) ANOVA on feedback-event BOLD signal. The pre
 ## Related Claims
 - [The first successful retrieval elicits strongest activity in bilateral ventral striatum and fronto-striatal regions, with marked reduction over subsequent successful retrievals](first-successful-retrieval-ventral-striatum-activity-reduction.md) — related
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
+- [Prefrontal regions (VMPFC/OFC, DLPFC, DMPFC, sgACC) negatively mediate current cue effects on subjective pain, with no group moderation of mediation paths](prefrontal-negative-mediation-of-cue-effects-on-pain.md) — related

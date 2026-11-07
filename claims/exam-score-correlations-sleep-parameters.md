@@ -53,3 +53,4 @@ Pearson correlation analysis across the 33 participants between final exam score
 - [Students with higher final exam scores show significantly higher actigraphy sleep efficiency and shorter sleep onset latency than lower-scoring peers](higher-exam-scores-higher-se-shorter-sol-actigraphy.md) — a narrower finding that bears on this claim
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — related
+- [91.1% of students reported longer sleep onset latency during the pandemic, characterizing a discontinuous sleep cycle](delayed-sleep-onset-91-percent-pandemic.md) — related

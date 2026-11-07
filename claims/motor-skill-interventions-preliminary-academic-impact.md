@@ -49,3 +49,4 @@ The review's critical narrative synthesis of four experimental studies (one clus
 - [Total fine motor scores show a significant very weak-to-weak positive association with reading performance, with strong review-level evidence](total-fine-motor-scores-reading-association.md)
 - [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
 - [Total fine motor scores are significantly and positively associated with mathematics performance in school-aged children, with strong review-level evidence](total-fine-motor-scores-positive-mathematics-association.md) — related
+- [Psychological skill training is suggested by preliminary evidence as a possible way to improve academic performance in young athletes, but more evidence is needed](psychological-skill-training-young-athletes-preliminary.md) — related

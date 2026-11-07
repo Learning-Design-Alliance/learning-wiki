@@ -74,3 +74,4 @@ Between-group comparison of gain scores in the same pre-test–post-test study f
 - [Prior UBE experience moderates e-learning knowledge gains but not simulator skill gains](prior-experience-moderates-elearning-not-simulator-gains.md) — related
 - [Within both the traditional lecture and digital-human ultrasound simulation groups, immediate post-test echocardiography knowledge scores rose from pre-test to post-test 1 in one study](both-methods-improve-echo-posttest1-scores.md) — related
 - [Improvements after MR simulator training were seen in both experienced and non-experienced participants.](mr-training-improved-experienced-and-novice.md) — possibly the same claim (merge candidate)
+- [No significant difference in CSA gains between physicians with more and less than 10 years of work experience](no-csa-gain-difference-by-work-experience.md) — related

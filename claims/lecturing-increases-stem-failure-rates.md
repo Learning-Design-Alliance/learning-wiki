@@ -54,3 +54,6 @@ Random-effects meta-analysis of 67 independent comparisons of failure rates (usu
 - [MetaLight calculates multiple effect size types from continuous or binary two-group data](metalight-effect-size-calculations.md) — related
 - [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](pogil-confirms-freeman-meta-analysis.md) — related
 - [Students in POGIL classrooms have roughly twice the odds of passing a course as students in standard lecture classrooms (OR = 2.02)](pogil-doubles-course-pass-odds.md) — a narrower finding that bears on this claim
+- [Active learning reduced the failure rate by 66% overall, with students on average 2.98 times more likely to fail under traditional teaching](active-learning-mena-failure-rate-reduction.md) — related
+- [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — possibly the same claim (merge candidate)
+- [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related

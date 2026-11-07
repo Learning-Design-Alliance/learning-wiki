@@ -56,3 +56,4 @@ Narrative review citing Albert et al. (2020): the article reports executive func
 - [Cognitive stimulation mediates the association between SES and executive function, language ability, and academic achievement](cognitive-stimulation-mediation-ses-cognition.md) — related
 - [SES is a powerful predictor of executive function, language ability, and academic achievement](ses-predictor-ef-language-achievement.md) — related
 - [Family Rewards reduced current poverty and hardship and increased receipt of preventive healthcare but did not improve school outcomes overall for elementary, middle, or high school students](family-rewards-early-findings-no-overall-school-impact.md) — related
+- [Grade-8 academic commitment mediates the effects of grade-7 parental support for college education and educational expectations on grade-9 educational performance, but not the effect of family SES](grade8-commitment-mediation-grade9-performance.md) — related

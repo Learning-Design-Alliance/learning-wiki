@@ -55,3 +55,4 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
 - [All 51 students agreed the simulator trained motor coordination and 2D perception, improved understanding, consolidated learning, and should be used before real surgery](unanimous-student-endorsement-of-simulator-skills-training.md) — related
+- [Physicians rate the PallPan palliative care e-learning tool as highly feasible, satisfying, and useful for their work](pallpan-elearning-high-feasibility-ratings-physicians.md) — related

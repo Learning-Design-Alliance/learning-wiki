@@ -53,3 +53,4 @@ Thematic analysis of semi-structured focus group interviews with 34 Round 1 pilo
 - [Gamification improves engagement and learning in diabetes education, with strongest results in board and escape games and smaller gains for digital games](gamification-board-escape-games-strongest.md) — related
 - [A narrative review identifies four main outcome areas of VR, gamification, and escape rooms in medical and nursing education from 25 reviewed studies](vr-gamification-escape-rooms-four-outcome-areas-review.md) — a broader claim this one bears on
 - [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related
+- [Focus group study found students appreciated, engaged with, and learned from VGS and wanted more experiences](focus-group-students-engaged-learned-vgs.md) — related

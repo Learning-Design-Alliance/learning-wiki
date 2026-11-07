@@ -66,3 +66,4 @@ Distribution of the 31 studies' effect sizes by Cohen's classification and direc
 ## Related Claims
 - [Individual study effect sizes for AR in education ranged from 0.116 to 1.968 in favor of the study groups, with 11 of 15 studies statistically significant](ar-study-effect-sizes-range-significance.md) — related
 - [Control groups taught with traditional methods in Turkish geometry and numbers theses show a large average pretest-posttest gain of about 0.83 standard deviations](traditional-methods-control-group-gain-083-sd.md) — related
+- [Learning gains are statistically significant for 23 of 24 questionnaire items, with item 24 (dealing with own mortality) showing no significant gain](significant-gains-23-of-24-items.md) — a narrower finding that bears on this claim

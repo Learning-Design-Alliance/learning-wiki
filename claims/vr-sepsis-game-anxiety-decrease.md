@@ -50,3 +50,5 @@ The review reports this two-stage sequential mixed-methods feasibility study, in
 - [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related
 - [Neonatal resuscitation VR gamification showed no significant anxiety improvement over simulation and control groups](neonatal-resuscitation-vr-no-significant-anxiety-gain.md) — related
 - [AI-based virtual reality sepsis training shows no significant performance difference from human-controlled virtual reality training](ai-versus-human-control-vr-sepsis-null.md) — related
+- [Self-confidence showed small improvements on most NASC-CDM items after e-learning, with no overall mean change and some items declining](rlo-elearning-confidence-item-gains.md) — related
+- [Anxiety scores of children's nurses showed a small increase after the e-learning programme, with mixed results across NASC-CDM items](rlo-elearning-small-anxiety-increase.md) — related

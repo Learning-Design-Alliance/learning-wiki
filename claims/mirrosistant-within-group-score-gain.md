@@ -49,3 +49,4 @@ Within-group pre-post comparison in the Experimental group using the Wilcoxon ra
 - [Control-group SIMODONT scores were slightly but not significantly higher from the first to the second examination after practice with a dental mirror and dentognathic model](control-mirror-practice-no-significant-gain.md) — related
 - [Mirror training using Mirrosistant improves dental students' SIMODONT mirror-operation scores compared with control training](mirrosistant-training-improves-simodont-mirror-scores.md) — related
 - [Dental students report positive perceptions of Mirrosistant training, especially improved direction and distance perception](student-positive-perceptions-mirrosistant.md) — related
+- [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related

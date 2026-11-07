@@ -52,3 +52,4 @@ This quote is from the abstract summary of themes; the results theme describes h
 - [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related
 - [Lack of curriculum integration and unharmonized timetables are key structural barriers to implementing Sim-IPE](sim-ipe-curriculum-scheduling-barriers.md) — related
 - [Resource constraints — insufficient time, limited simulation lab space, and too few qualified instructors — are barriers to Sim-IPE](sim-ipe-resource-barriers.md) — related
+- [Focus groups identified four themes of interprofessional learning: awareness of perspective and expertise, growing communication and collaboration competence, professional identity, and reduced hierarchy](four-qualitative-ipe-simulation-themes.md) — related

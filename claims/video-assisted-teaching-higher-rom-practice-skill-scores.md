@@ -53,3 +53,4 @@ Randomized controlled trial: 36 video-group and 36 control-group students were e
 - [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related
 - [First-year nursing students report higher satisfaction with traditional skill demonstration than with video-assisted teaching](demonstration-higher-satisfaction-than-video.md) — related
 - [Video-assisted teaching and skill demonstration produce equivalent post-test knowledge of surgical aseptic technique in first-year nursing students](video-vs-demonstration-equivalent-aseptic-knowledge.md) — related
+- [Interactive educational video is as effective as traditional demonstration for nursing students' skill competency in oral medication administration](interactive-video-as-effective-as-demonstration-skill.md) — related

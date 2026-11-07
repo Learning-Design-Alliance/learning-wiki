@@ -50,6 +50,7 @@ Prenatal clinicians identified existing institutional structures that could be l
 
 - [Develop prenatal-specific, practice-oriented TIC training content with role-specific skills](prenatal-specific-tic-content-strategy.md)
 - [Leverage trauma champions and peer education to disseminate TIC principles](trauma-champions-peer-education-strategy.md)
+- [Pair the individual e-learning program with school-wide organizational responses such as screening meetings to identify children in need of support](school-wide-screening-meetings-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ Closed-question survey of the 30 completers on preferred length of digital educa
 - [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — reports the opposite
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — reports the opposite
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — reports the opposite
+- [Educational videos of 5 to 20 minutes are appropriate, with 6 to 9 minutes suggested as ideal for maximizing learning gains while minimizing inattention](video-length-5-20-minutes.md) — related
+- [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — reports the opposite

@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 261 claims (138 for, 104 mixed, 19 against) · 143 studies (44 causal, 36 review, 20 design, 16 quant-synthesis, 16 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 143 report an effect size · 256 claims rest on one study
+> **Evidence** · 262 claims (138 for, 105 mixed, 19 against) · 144 studies (44 causal, 36 review, 20 design, 16 quant-synthesis, 16 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 144 report an effect size · 257 claims rest on one study
 
 ## Description and scope
 
@@ -189,6 +189,7 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Role-playing KTAS education does not improve overall triage competency more than lectures, but improves its expert assessment and communication sub-factors](../claims/role-playing-no-overall-triage-competency-gain.md) [~W] — attached 2026-11-07 from Seo Yon Hee (2024), which proposed "Role-playing triage program pattern: rotating patient, triage nurse, ED administrator, and facilitator roles with peer feedback, debriefing, and reflection"; tests this page's relationship.
 - [Students emphasise feedback after simulations as crucial, with feedback from professional actors offering the patient's viewpoint especially valued](../claims/actor-simulation-feedback-crucial.md) [+W] — attached 2026-11-07 from Antila Asta Kristiina et al. (2024), which proposed "Small-group actor simulation with structured reflective debriefing for communication skills".
 - [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](../claims/student-critical-perspectives-simulations.md) [~W] — attached 2026-11-07 from Antila Asta Kristiina et al. (2024), which proposed "Small-group actor simulation with structured reflective debriefing for communication skills".
+- [Parasympathetic activity shows no change with repetition during peer‐discussion phases of the simulation](../claims/no-hf-change-repeated-peer-discussion.md) [~W] — attached 2026-11-07 from Nakayama et al. (2023), which proposed "Phased peer‐learning simulation cycle alternating individual patient observation with peer discussion".
 
 ## Illustrative design instance and observation record
 

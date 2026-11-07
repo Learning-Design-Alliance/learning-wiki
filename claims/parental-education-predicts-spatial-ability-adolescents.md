@@ -47,3 +47,4 @@ Regression analysis of the cognitive sample (N=302) using the paper folding task
 ## Related Claims
 - [Family income positively predicts spatial ability in high school students](family-income-predicts-spatial-ability-adolescents.md) — related
 - [Tentative longitudinal interaction: mother spatial language quantity at 24 months relates negatively to boys' but positively to girls' later spatial language quality](gender-mother-quantity-longitudinal-interaction.md) — related
+- [Socioeconomic and prior-achievement covariates predict later numeracy and literacy achievement](covariates-predict-numeracy-literacy-achievement.md) — related

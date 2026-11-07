@@ -46,6 +46,7 @@ The brief's discussion of pandemic responses points to virtual engagement as a w
 - [Use employer-based earn-and-learn apprenticeship as a workforce training pathway outside traditional construction occupations](earn-and-learn-apprenticeship-nontraditional-occupations.md)
 - [Permit teachers to adapt and integrate programme materials in their own way in future trials, and consider remote delivery of training and support when scaling](teacher-adaptation-and-remote-training-at-scale.md)
 - [Use adaptive approaches and support systems, including virtual interprofessional experiences, to buffer disruptions to clinical education](adaptive-support-systems-pandemic-clinical-education-strategy.md)
+- [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
 
 ## Examples
 -

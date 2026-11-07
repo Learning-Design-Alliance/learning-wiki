@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: ruslin-muhammad-2026
     resource: "https://doi.org/10.1186/s12909-026-09739-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Dental students receiving IR training for pulpotomy achieved higher scores than a control group receiving conventional training. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)
@@ -77,3 +78,4 @@ The review reports Fu et al.'s 90-minute dental scaling comparison of virtual si
 - [Final-year dental students report high self-perceived confidence in routine pediatric procedures such as fissure sealant application and oral hygiene instruction.](final-year-dental-students-high-confidence-routine-pediatric-procedures.md) — related
 - [VR-based acupuncture training was associated with higher practical skills assessment scores than conventional instruction](vr-acupuncture-higher-practical-skills.md) — a narrower finding that bears on this claim
 - [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related
+- [Augmenting conventional pre-clinical simulation with HVRS training produced no significant differences in pulpotomy performance scores, instructor prompts, or procedural time compared with conventional simulation alone](hvrs-augmentation-no-performance-difference-pulpotomy.md) — related

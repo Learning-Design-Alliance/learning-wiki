@@ -57,3 +57,4 @@ Pearson correlation analysis of pre-game and post-game questionnaire scales in t
 - [Pre- and post-test scores are positively correlated in the whole sample (r=0.63, p<0.01) and in the middle school subsample (r=0.63, p<0.01)](pre-post-test-correlation-computational-fluency.md) — related
 - [Test scores and studio art production scores showed moderate positive correlations at all three measurement points](test-production-moderate-correlations.md) — related
 - [Deep learning strategy use correlates strongly and positively with academic achievement in undergraduate pharmacy students](deep-learning-strategies-correlate-achievement-pharmacy.md) — related
+- [After playing, motivation correlates with self-efficacy in preclinical students and with beliefs in the Clinical group](cdpc-domain-correlations-post-game.md) — related

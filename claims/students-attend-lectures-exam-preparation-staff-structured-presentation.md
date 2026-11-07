@@ -51,3 +51,4 @@ Cross-sectional questionnaire study; Table 4 reports 261 (65.7%) Bulgarian stude
 - [Bulgarian students more frequently reported that preparation provided was sufficient for examinations compared with international students](bulgarian-students-report-sufficient-preparation-more-often.md) — related
 - [More than half of students reported not receiving an individualized educational approach, in contrast to academic staff perceptions](students-report-no-individualized-approach-staff-discrepancy.md) — related
 - [Pilot students reported the MiLeMed microlearning app as a valuable complement to obstetrics teaching and supportive of exam preparation](milemed-pilot-positive-feedback.md) — related
+- [Residents who teach acquire the material they teach more effectively than through self-study or lectures](teaching-enhances-residents-own-learning.md) — related

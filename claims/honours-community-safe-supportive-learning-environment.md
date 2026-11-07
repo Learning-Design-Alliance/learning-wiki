@@ -70,3 +70,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Near-peers' high social congruence has ambiguous effects: it enables a safe climate but makes leading discussions and sustaining productive tension harder](ambiguous-effects-of-social-congruence-in-npt.md) — related
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related
 - [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related
+- [Students came to see that online teaching needs new figures and tools that facilitate communication and aggregation, particularly a supportive tutor figure](online-teaching-needs-supportive-tutor-figure.md) — related

@@ -48,3 +48,4 @@ Self-reported survey data from 62 of 73 students on how many of the nine vodcast
 - [Female students previewed significantly fewer vodcasts than male students before lectures.](gender-difference-in-vodcast-previewing.md) — related
 - [The majority of students perceived vodcasts as improving understanding of lecture material both as preview and revision tools.](positive-student-perceptions-of-vodcasts-preview-and-revision.md) — related
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
+- [Blended PbL students attend fewer lectures on site but watch more lecture videos than conventional PbL students](bpbl-shifts-lecture-attendance-to-videos.md) — related

@@ -64,3 +64,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related
 - [Most experimental-group students liked the blended design and found it fun, but minorities reported virtual simulation training and the PAL app were not helpful](positive-student-attitudes-smart-classroom-design.md) — related
 - [Most surveyed TCM students want better clinical skill training and are willing to try VSP-TCM](prequestionnaire-student-demand-vsp-tcm.md) — related
+- [Most students held positive attitudes toward the virtual simulation system but found its operation training more difficult than jaw-model training](student-attitudes-virtual-simulation-system.md) — related

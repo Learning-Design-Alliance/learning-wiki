@@ -53,3 +53,4 @@ Multiple linear regression with GPA as dependent variable and depression, anxiet
 - [Medical students' academic performance in 2023, after 18 months of war, was significantly lower than in the pre-war 2019 cohort across all years of study](gpa-decline-2023-versus-2019-wartime-medical-students.md) — related
 - [Anxiety can have a positive, statistically significant association with medical students' academic performance when manageable](anxiety-positive-effect-academic-performance-medical-students.md) — related
 - [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](depression-anxiety-negative-academic-performance-medical-students.md) — related
+- [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related

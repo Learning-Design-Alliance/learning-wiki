@@ -61,3 +61,5 @@ The review's synthesis of brain-game studies, including Gates et al.'s review of
 - [Working memory training in older adults improved trained tasks and transferred to non-trained working memory measures](working-memory-training-transfers-untrained-tasks.md) — related
 - [Daily 20-minute use of Nintendo DS handheld game consoles with Dr Kawashima's Brain Training produced significantly greater improvement in mental-maths automaticity than traditional classroom instruction over a 10-week term](hgc-brain-training-improves-mental-maths-automaticity.md) — related
 - [The authors argue that improvements in working memory and processing speed from MPH do not translate into better exam performance](cognitive-gains-do-not-translate-to-exam-performance.md) — a narrower finding that bears on this claim
+- [General-mechanism theories of cognitive training (brain plasticity, primitive elements, learning to learn) are incorrect with respect to far transfer](general-mechanism-theories-refuted.md) — related
+- [Placebo effects on far transfer occur in working memory training (about 0.15–0.20 SMD) but not in video-game training](placebo-effects-wm-training.md) — related

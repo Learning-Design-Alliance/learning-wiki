@@ -54,3 +54,4 @@ Results of three critical-thinking and problem-solving Likert prompts from the c
 - [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — a broader claim this one bears on
 - [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
+- [Interviewed masterclass participants reported increased confidence and broader application of skills in novel work situations, indicating adaptive expertise](masterclass-interviews-adaptive-expertise.md) — related

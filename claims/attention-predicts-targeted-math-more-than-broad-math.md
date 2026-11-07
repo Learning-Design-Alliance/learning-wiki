@@ -90,3 +90,7 @@ Follow-up pairwise comparison for math measures in the same sample: the attentio
 - [Sustained attention positively predicts broad statewide standardized test scores in math and ELA](sustained-attention-predicts-broad-standardized-test-scores.md) — related
 - [Sustained attention positively predicts math fluency assessed in group-based school settings](sustained-attention-predicts-school-based-math-fluency.md) — related
 - [Sustained attention positively predicts reading comprehension assessed in group-based school settings](sustained-attention-predicts-school-based-reading-comprehension.md) — related
+- [Assessment type and subject interact in how strongly sustained attention predicts academic performance](assessment-type-subject-interaction-attention.md) — possibly the same claim (merge candidate)
+- [Attention is equally predictive of targeted and broad reading measures](attention-equally-predictive-targeted-and-broad-reading.md) — possibly the same claim (merge candidate)
+- [Sustained attention is more predictive of targeted than broad math scores](attention-more-predictive-targeted-than-broad-math.md) — possibly the same claim (merge candidate)
+- [Sustained attention positively predicts targeted math fluency and reading comprehension assessed in group-based school settings](sustained-attention-predicts-targeted-math-reading-school-settings.md) — related

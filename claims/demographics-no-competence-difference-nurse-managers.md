@@ -63,3 +63,4 @@ Bivariate non-parametric comparisons (Mann–Whitney U, Kruskal–Wallis) across
 - [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — possibly the same claim (merge candidate)
 - [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — a narrower finding that bears on this claim
 - [Teaching-skill gains were unrelated to sociodemographic variables including gender, residency year, prior teaching experience, and undergraduate methodology](snapps-gains-independent-of-demographics.md) — related
+- [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related

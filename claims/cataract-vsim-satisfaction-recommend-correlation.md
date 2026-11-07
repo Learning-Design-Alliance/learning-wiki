@@ -49,3 +49,4 @@ Exploratory Spearman's rank correlation analysis in the study of 31 students fou
 - [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md) — related
 - [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](resilience-satisfaction-correlations.md) — related
 - [Ratings of user-friendliness, input identification, and interaction correlate strongly and positively with overall learning efficacy and experience ratings](usability-aspects-correlate-with-efficacy-experience.md) — related
+- [Satisfaction factors correlate: online learning satisfaction correlates with classroom learning, learning effect, but not learning difficulty](satisfaction-factor-correlations-bl.md) — related

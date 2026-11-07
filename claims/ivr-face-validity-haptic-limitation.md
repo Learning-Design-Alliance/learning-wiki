@@ -59,3 +59,4 @@ Face-validity Likert ratings collected only from the IVR group after the operati
 - [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related
 - [Experienced prehospital professionals rated the overall physiological parameters of all 9 simulated trauma patients as absolutely realistic (median 5, IQR 3-5)](humans-physiological-parameters-rated-realistic.md) — related
 - [The simulator shows face validity: overall realism rated 4.57/5 with no significant expert–novice differences](tp-simulator-face-validity-realism-ratings.md) — related
+- [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — a narrower finding that bears on this claim

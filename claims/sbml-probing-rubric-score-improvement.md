@@ -52,3 +52,4 @@ Pre–post comparison in the same 20 residents using a 40-point performance rubr
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
 - [Rubric-assessed PBL tutorial performance improves significantly between core time 1 and core time 2 (r=0.516)](rubric-performance-improves-across-pbl-sessions.md) — related
 - [Emergency physicians' slit-lamp exam checklist scores increased significantly from pre- to post-SBML curriculum (median 12.0 to 19.0)](sbml-slitalmp-checklist-score-increase.md) — related
+- [A one-week intensive trabeculectomy simulation course produces a large, sustained increase in residents' simulated surgical competency scores](simulation-course-sustained-trabeculectomy-competency-gain.md) — related

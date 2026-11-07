@@ -61,3 +61,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Odds of avoiding interaction during online lectures are higher with unsatisfactory platform atmosphere, slow instructor response, not feeling safe, opposite-sex students, poor internet, and fear of negative comments](adjusted-predictors-of-interaction-avoidance-online-lectures.md) — related
 - [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
 - [In situ SBTT provides an experience of coping after an initial failed scenario, which participants saw as significant for transfer of learning](sbtt-second-scenario-coping-experience.md) — related
+- [Focus group participants reported post-pandemic communication difficulties and psychological impacts, though two reported improved communication](focus-group-post-pandemic-communication-difficulties.md) — related

@@ -49,3 +49,4 @@ Postsession survey of 32 learners. The article reports 94% (30 of 32) improved c
 
 ## Related Claims
 - [The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs](post-rosc-simulation-increased-confidence.md) — related
+- [Ninety-four percent of the local hospital audience reported a good to very good learning experience from the video-lecture program](local-audience-positive-learning-experience-94-percent.md) — related

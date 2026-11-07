@@ -40,6 +40,7 @@ For designing implementable practices, the article recommends engaging community
 
 - [Use premortem analysis before implementing a reform to surface success factors and roadblocks](premortem-analysis-before-reform.md)
 - [Pair rapid evidence synthesis with community co-development to speed usable implementation plans](rapid-evidence-synthesis-with-community-codevelopment.md)
+- [Use thematic analysis of implementers' reasons to anticipate facilitators and barriers when planning RaT programs](rat-implementation-reasons-barriers-strategy.md)
 
 ## Examples
 -

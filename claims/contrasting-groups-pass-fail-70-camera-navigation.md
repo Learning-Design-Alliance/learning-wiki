@@ -52,3 +52,4 @@ Standard-setting analysis of the composite score in the validation trial, using 
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
 - [A contrasting-groups discriminatory standard of 6.15 points yields one false positive and one false negative](contrasting-groups-standard-615-consequences.md) — related
 - [Contrasting groups' standard setting establishes a pass-or-fail score of 19 points, with 19% false positives among novices and 5% false negatives among experienced students](vr-contrasting-groups-pass-score-19.md) — related
+- [A contrasting-groups pass/fail score of 71 points on the OSCE produced no false positives or false negatives](osce-tus-pass-fail-71-no-false-classifications.md) — related

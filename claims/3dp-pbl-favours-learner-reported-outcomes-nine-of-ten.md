@@ -51,3 +51,4 @@ Self-report questionnaire with ten five-point Likert dimensions administered aft
 - [The 3DP group retained more knowledge at 4 weeks, scoring significantly higher on the delayed post-course test than the lecture-based control group](3dp-pbl-higher-delayed-4-week-test-scores.md) — related
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
+- [Interns in the 3D printing + PBL group rated teaching outcomes significantly higher than the traditional group across nine survey dimensions](3d-printing-pbl-higher-survey-scores-nine-dimensions.md) — related

@@ -48,6 +48,7 @@ A replicable procedure for adapting a validated assessment instrument to a new l
 
 - [Adapt translated assessments to the target jurisdiction's linguistic and cultural characteristics, and revise administration scripts and timing to fit test-takers unfamiliar with the format.](adapt-translated-assessment-translation-and-administration.md)
 - [Culturally adapt shared decision-making interventions by attending to language, communication style, relationship-building, fear, and visual design — beyond direct translation](culturally-adapt-sdm-beyond-translation.md)
+- [Translate and culturally adapt an assessment instrument following the ISPOR Task Force process with originator approval](ispor-translation-cultural-adaptation-strategy.md)
 
 ## Examples
 -

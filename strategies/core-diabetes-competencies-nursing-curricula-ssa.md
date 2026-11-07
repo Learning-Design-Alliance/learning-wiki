@@ -53,6 +53,7 @@ The review recommends strengthening diabetes training for frontline nurses, embe
 - [Standardize core competencies and expand programs beyond high-income regions to strengthen academic global surgery](ags-standardize-competencies-expand-beyond-hics.md)
 - [Incorporate palliative care into nursing curricula and provide regular palliative care training and continuing education for nurses](regular-palliative-care-training-and-curriculum-incorporation.md)
 - [Embed the Long COVID core competencies in training and professional development to standardize practices and improve patient outcomes](embed-competencies-in-long-covid-training.md)
+- [Include mental health content and clinical learning experiences in undergraduate children's nursing curricula, and use co-designed e-learning for continuing professional development](mental-health-content-nursing-curricula-elearning-cpd.md)
 
 ## Examples
 -

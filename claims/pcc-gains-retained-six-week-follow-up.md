@@ -53,3 +53,4 @@ McNemar tests on pre-test versus 6-week retention-test benchmark attainment show
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
+- [Confidence in operating a syringe pump declines substantially in the two weeks after e-Learning-based device training, regardless of learning method](confidence-declines-after-device-training.md) — related

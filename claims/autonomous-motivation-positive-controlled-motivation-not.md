@@ -59,3 +59,5 @@ Review synthesis of seven studies evaluating motivational variables among medica
 - [Neither intervention produced significant gains on most motivation components or on the reunion and comparison meanings of addition](math-routines-null-effects-other-components.md) — a narrower finding that bears on this claim
 - [Higher health-related quality of life correlates strongly negatively with academic burnout, and motivation dimensions correlate positively with academic success](hrqol-burnout-motivation-correlations-nursing.md) — reports the opposite
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — reports the opposite
+- [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — related
+- [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — a narrower finding that bears on this claim

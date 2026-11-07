@@ -54,3 +54,5 @@ An anonymous survey of the 31 SDTS participants assessed agreement with feedback
 - [Most interns are dissatisfied with ECG training feedback and 97.3% want more training, but supervisor feedback was not a significant independent predictor of competency](intern-dissatisfaction-ecg-training-feedback-null-predictor.md) — reports the opposite
 - [Students and instructors perceive SBE as an effective strategy for concurrent supervision, feedback, and assessment of clinical knowledge and skills](sbe-supervision-assessment-strategy.md) — related
 - [Nurses enjoyed the asynchronous self-directed training, with no one reporting dissatisfaction with self-directed learning or learning without an instructor](nurses-enjoy-asynchronous-self-directed-training.md) — related
+- [Students report high satisfaction with both interactive video and traditional demonstration approaches](high-satisfaction-both-video-and-demonstration.md) — related
+- [Residents who prepared and gave supervised video lectures all reported learning a lot from it, and most advisors valued teaching a colleague](resident-presentation-preparation-benefits.md) — related

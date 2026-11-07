@@ -61,3 +61,4 @@ Randomized two-group trial of 100 nursing undergraduates (n=50 per group) compar
 - [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — related
 - [Blended teaching produced higher total OSCE scores than traditional offline teaching in a clinical skills training course](blended-teaching-higher-osce-total-clinical-skills.md) — related
 - [Undergraduate medical laboratory students taught with the BOPPPS-PBL model achieved significantly higher summative assessment scores than students taught with traditional methods](boppps-pbl-higher-summative-scores-hematology.md) — related
+- [Interns taught with 3D printing + PBL achieved significantly higher post-class theoretical examination scores than interns taught with traditional methods](3d-printing-pbl-higher-post-class-theoretical-scores.md) — related

@@ -48,6 +48,7 @@ The authors propose that "Future implementations could explore embedding simple,
 - [Summaries and Recaps](summaries_and_recaps.md)
 - [In-class Study Skills intervention: a short small-group discussion on spaced studying and self-testing, with pre-test writing prompts and reminders](ss-spaced-studying-self-testing-small-group-intervention.md)
 - [Deliver online course content in multiple shorter sessions with end-of-session recaps](multiple-shorter-sessions-with-recaps-strategy.md)
+- [Future evaluations of the e-learning should reduce participant time-burden and boost retention through incentives, multiple reminders, gatekeeper support, and workplace-embedded designs](reduce-time-burden-boost-retention-health-professional-trials.md)
 
 ## Examples
 -

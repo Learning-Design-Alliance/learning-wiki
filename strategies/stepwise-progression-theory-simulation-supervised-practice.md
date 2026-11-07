@@ -65,6 +65,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Five-step structured training pathway for a surgical team adopting LASPME](five-step-laspme-team-training-pathway.md)
 - [Incorporate simulator training into cardiovascular surgery curricula with independent resident access](incorporate-simulator-training-cardiovascular-curriculum.md)
 - [Integrate simulation courses and structured sub-step assistance, including an Education Team-Time-Out, into emergency surgical training](simulation-and-substep-integration-emergency-surgery-training.md)
+- [Formally integrate intensive simulation-based surgical education into ophthalmology residency programmes as a complement to conventional teaching](formal-integration-sbse-ophthalmology-residency.md)
 
 ## Examples
 -

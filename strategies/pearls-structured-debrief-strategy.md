@@ -53,6 +53,7 @@ After each simulation case, a faculty facilitator leads a structured debrief bas
 - [Pause & Discuss: student-controlled pausing of simulation for team clinical reasoning](pause-and-discuss-simulation-strategy.md)
 - [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
 - [Video-based structured debriefing with a plus-delta approach immediately after each simulation scenario](video-plus-delta-debriefing-strategy.md)
+- [Use a two-step debriefing process: immediate written self-debrief followed by a large group debrief](two-step-self-then-group-debrief-vgs.md)
 
 ## Examples
 -

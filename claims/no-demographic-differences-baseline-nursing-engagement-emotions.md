@@ -57,3 +57,4 @@ Baseline demographic comparisons in the 65-student cohort tested five demographi
 - [Scholarship recipients show higher baseline learning engagement and positive emotions than non-recipients](scholarship-recipients-higher-baseline-engagement-positive-emotions.md) — related
 - [Baseline characteristics did not differ significantly between the TA+CBL and CBL-only groups before the teaching rounds](ta-cbl-baseline-equivalence.md) — related
 - [Teaching-skill gains were unrelated to sociodemographic variables including gender, residency year, prior teaching experience, and undergraduate methodology](snapps-gains-independent-of-demographics.md) — related
+- [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related

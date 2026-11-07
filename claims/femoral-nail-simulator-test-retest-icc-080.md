@@ -55,3 +55,4 @@ Reliability analysis of participants' last 2 simulator trials using the 2-way mi
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
+- [The complete VR TTE test shows high internal consistency reliability (alpha = .88) and consistent performer performance (ICC r(35) = .81)](vr-tte-test-reliability-alpha-icc.md) — related

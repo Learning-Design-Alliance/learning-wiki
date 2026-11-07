@@ -50,3 +50,4 @@ Bootstrapped mediation test within the SEM of the 529-student survey. The indire
 - [Achievement motivation directly predicts sustainable university education outcomes (β = 0.28)](achievement-motivation-direct-effect-sustainable-education.md) — related
 - [Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway](se-mov-partial-mediation-tuga-sdl.md) — related
 - [Successful intelligence independently predicts sustainable education outcomes (β = 0.31)](successful-intelligence-predicts-sustainable-education.md) — related
+- [E-learning motivation partially mediates the relationship between technology access and satisfaction with e-learning (proportion mediated 31.2%)](elearning-motivation-partially-mediate-tech-access-satisfaction.md) — related

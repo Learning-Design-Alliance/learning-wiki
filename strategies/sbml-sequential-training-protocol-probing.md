@@ -73,6 +73,8 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Four-step graduated practical training sequence from trainer demonstration to learner performance with real-time feedback](four-step-graduated-echo-simulator-practice-sequence.md)
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 - [Deliver ultrasound-guided aspiration training as a 15-minute orientation video followed by a 20-minute one-on-one workshop and a 5-minute independent skills test](video-workshop-skills-test-sequence-strategy.md)
+- [Supervise cadaver-based colonoscopy training with skilled endoscopist feedback and debriefing, since the model lacks objective performance metrics](cadaver-colonoscopy-supervised-debriefing-strategy.md)
+- [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 
 ## Examples
 -

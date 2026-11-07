@@ -57,6 +57,7 @@ The article's implementable recipe is to run "2 weekly lessons of sciences of th
 
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
+- [Advise three 90-minute weekly low-aerobic-intensity swimming sessions for students whose ADHD is negatively impacting learning and class engagement](three-90min-weekly-swimming-sessions-adhd-support.md)
 
 ## Examples
 -

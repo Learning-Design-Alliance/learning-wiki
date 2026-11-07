@@ -59,3 +59,4 @@ Prospective randomized controlled trial; 121 fourth-year medical students random
 - [Quiz scores did not significantly change from before to after video review in the traditional teaching group](video-review-no-significant-further-gain.md) — related
 - [Student satisfaction with the online BLS course did not differ between spaced and massed learning groups](no-satisfaction-difference-spaced-massed-bls.md) — related
 - [Fourth-year medical students' overall communication performance did not differ significantly across classroom, clinical and OSCE settings](overall-communication-performance-no-difference-across-settings.md) — related
+- [Using videos in addition to traditional teaching materials improves performance and decreases procedure time in procedural training](videos-plus-traditional-teaching-improve-performance.md) — related

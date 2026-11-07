@@ -53,3 +53,4 @@ Randomized assessor-blinded parallel-group trial in 32 fifth-year medical studen
 - [Safety-control skill declines significantly over the year after BLS training, and chest compression depth deteriorates and becomes too deep](safety-control-and-compression-depth-decline-over-time.md) — related
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
 - [The additional practice group showed better short-term retention of COVID-19 protective measures, with the advantage disappearing over time](additional-practice-short-term-protective-equipment-retention.md) — related
+- [The retention-versus-transfer performance difference between learner groups is stable across exams after the first exam](transfer-advantage-stable-across-exams-after-exam-one.md) — related

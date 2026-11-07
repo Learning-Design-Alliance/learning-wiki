@@ -48,3 +48,4 @@ PROCESS macro Model 4 mediation analysis with 5,000 bootstrap samples, controlli
 - [Career adapt-abilities significantly and negatively predict AI anxiety among English majors](career-adapt-abilities-negatively-predict-ai-anxiety-english-majors.md) — related
 - [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related
 - [Digital informal learning partially mediates the relationship between digital competence and academic performance](dil-partial-mediator-competence-performance.md) — related
+- [Professional self-concept mediates relationships between learning interactions and outcomes](self-concept-mediation-effects.md) — related

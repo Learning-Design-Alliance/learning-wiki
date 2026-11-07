@@ -97,6 +97,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Choose between online and face-to-face delivery based on the specific requirements of the course, and continuously review educational practices](choose-format-by-course-requirements.md)
 - [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](online-theory-face-to-face-practice-strategy.md)
 - [Choose or blend asynchronous and synchronous e-learning based on skills targeted, student and teacher preferences, and organisational needs rather than performance alone](blend-sync-async-by-needs-and-preferences.md)
+- [Offer interactive E-book apps for nurses' self-paced in-service education](ebook-app-self-paced-in-service-education-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

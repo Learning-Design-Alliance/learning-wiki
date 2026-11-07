@@ -54,6 +54,7 @@ The authors recommend that "A hybrid model combining virtual and in-person compo
 - [Phased adoption pathway: practice pilots, mock OSCEs with A/B comparisons, then limited high-stakes use](phased-ai-osce-adoption-pathway.md)
 - [Use virtual patients for formative practice rather than as an independent summative assessment tool until validity evidence strengthens](vp-formative-first-strategy.md)
 - [Combine initial in-person training with subsequent digital at-home training to satisfy trainee preferences while retaining digital flexibility](initial-in-person-then-digital-training-combination.md)
+- [Combine real SPs for doctor-patient communication with virtual scenarios for clinical examination](hybrid-sp-virtual-scenario-osce-strategy.md)
 
 ## Examples
 -

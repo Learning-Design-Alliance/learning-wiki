@@ -55,6 +55,7 @@ The article recommends concrete tactics for raising the reliability of simulatio
 - [Pilot calibration interventions targeting social/communication self-assessment: facilitated video review with checklists, vignette calibration with expert anchors, and pre- to post-feedback self-ratings](osce-calibration-intervention-strategies.md)
 - [Multidimensional rater-improvement strategy combining expert training, monitoring and evaluation, quality assurance mechanisms, and item banking](ugmle-multidimensional-rater-improvement-strategy.md)
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
+- [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
 
 ## Examples
 -

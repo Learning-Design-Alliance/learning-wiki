@@ -54,3 +54,4 @@ Review of human neuroimaging findings on advice-taking decisions. The review not
 - [A computational model combining informed and non-informed advice-taking with individual learning (Model 5) best predicts participants' choices](winning-mixture-model-advice-taking.md) — related
 - [Encoding L2 words through simulated social interaction activates bilateral posterior STS and right IPL, with delayed-test performance correlating with right TPJ, hippocampus, and motor activity](social-encoding-fmri-sts-tpj-hippocampus.md) — related
 - [Bilateral TPJ and middle and dorsal MPFC track learners' posterior belief in the correct answer during teaching decisions](tpj-mpfc-track-learner-posterior-belief.md) — related
+- [Prefrontal regions (VMPFC/OFC, DLPFC, DMPFC, sgACC) negatively mediate current cue effects on subjective pain, with no group moderation of mediation paths](prefrontal-negative-mediation-of-cue-effects-on-pain.md) — related

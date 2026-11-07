@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 255 claims (175 show a difference, 57 mixed, 23 no difference) · 156 studies (57 associational, 51 causal, 16 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 38 of 156 report an effect size · 252 claims rest on one study
+> **Evidence** · 256 claims (176 show a difference, 57 mixed, 23 no difference) · 157 studies (58 associational, 51 causal, 16 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 38 of 157 report an effect size · 253 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -290,6 +290,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Online class-related enjoyment is significantly positively correlated with academic achievement among college students](../claims/online-enjoyment-correlates-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Variable practice raises perceived mental demand, frustration, and task complexity at the first session, but lower task complexity by the final session](../claims/variable-practice-sim-tlx-cognitive-load-pattern.md) [+M] — measured as an outcome of the instruction studied
 - [Teacher mindset-practice moderation extends to secondary outcomes in study 1 (achievement goals, felt respect, anticipated shame), which showed the same interaction effects as the assignment-choice measure](../claims/mindset-moderation-secondary-outcomes-study1.md) [+M] — measured as an outcome of the instruction studied
+- [Positive academic emotions increase the likelihood of academic resilience among disadvantaged students in all three grades](../claims/positive-academic-emotions-predict-resilience.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

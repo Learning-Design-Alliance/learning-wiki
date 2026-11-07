@@ -47,3 +47,4 @@ Causal-precedence LCM (Model E) on the BURN11 dataset. The article reports "a si
 ## Related Claims
 
 - [Fluid abilities (Gf) significantly predicted the rate of learning, whereas crystallized abilities (Gc) significantly predicted final learning performance in a one-week instructional process](gf-rate-gc-final-level-learning.md) — related
+- [The reverse mediation model, with fluid abilities as mediator, fits the data poorly and is theoretically unlikely](reverse-mediation-model-rejected.md) — a narrower finding that bears on this claim
