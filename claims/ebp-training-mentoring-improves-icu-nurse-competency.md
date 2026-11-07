@@ -53,3 +53,4 @@ Pre-post quasi-experimental study of 52 ICU nurses at Dhaka Medical College Hosp
 - [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related
 - [Skill and motivation/work engagement scores plateaued during the implementation phase after EBP training](skill-motivation-plateau-during-implementation.md) — related
 - [A 40-hour EBP training program produces statistically significant posttest improvements in all five HS-EBP competency domains relative to no intervention in hospital nurses](40-hour-ebp-training-improves-all-five-hs-ebp-domains.md) — related
+- [The web-based EBP training program significantly improved nurses' self-reported EBP skills scores](web-based-ebp-training-improved-nurse-skills.md) — related

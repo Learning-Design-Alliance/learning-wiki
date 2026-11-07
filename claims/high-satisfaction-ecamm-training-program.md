@@ -66,3 +66,4 @@ Learning-motivation survey presented as a chord diagram across four domains (enh
 ## Related Claims
 - [A 4-day ECAMM-based training program improved malaria microscopy diagnostic accuracy among 24 public health microscopists in Hunan Province, reaching near-perfect accuracy by the fourth assessment round](ecamm-4-day-training-improves-malaria-microscopy-accuracy.md) — related
 - [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related
+- [Participant satisfaction with the tournament was overwhelmingly high in both editions](pharmacotrophy-high-satisfaction.md) — related

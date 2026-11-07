@@ -77,3 +77,4 @@ Primary outcome domain C in the within-participants comparison of 20 students; W
 - [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — reports the opposite
 - [The simulator receives particularly high ratings for visual realism (mean 4.14) and educational interest (mean 4.48)](high-visual-realism-and-educational-interest-ratings.md) — reports the opposite
 - [Students report significantly higher enjoyment of VR simulation than desktop simulation, but subjective engagement does not differ significantly](vr-enjoyment-significant-engagement-not-significant.md) — related
+- [An immersive VR PCNL simulator outperformed conventional VR in ratings but did not differ from a porcine physical model](immersive-vr-pcnl-vs-porcine-ratings.md) — reports the opposite

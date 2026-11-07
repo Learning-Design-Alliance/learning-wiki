@@ -50,3 +50,4 @@ The article reports, citing two prior studies [14, 33], that "lack of time (66�
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
+- [Lack of resources relevant to faculty lectures was the most frequently cited reason for not using e-learning resources](lack-of-relevant-resources-top-reason-non-use.md) — related

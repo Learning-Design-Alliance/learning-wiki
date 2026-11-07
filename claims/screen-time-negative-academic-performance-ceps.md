@@ -52,3 +52,4 @@ Multiple linear regression analysis of 17,150 CEPS students with Chinese, mathem
 - [Screen time effects vary across academic subjects, with mathematics most affected](screen-time-subject-heterogeneity-mathematics-most-affected.md) — a narrower finding that bears on this claim
 - [School children's screen time is negatively associated with academic performance](screen-time-negatively-associated-academic-performance.md) — related
 - [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related
+- [Grade 7 mental unwellness negatively predicts Grade 8 academic performance in Chinese, mathematics, and English after controlling for prior performance and demographics](mental-unwellness-predicts-lower-academic-performance-china.md) — related

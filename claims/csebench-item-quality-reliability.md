@@ -70,3 +70,4 @@ Reliability analysis of the two large-scale diagnostic forms. The article report
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
 - [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
+- [Students' entrepreneurial-intention attributes differ across three pocket-money groups, though the discriminant model shows low discrimination power](pocket-money-groups-entrepreneurial-intention-profiles.md) — related

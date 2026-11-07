@@ -75,3 +75,5 @@ In the individual domain × measure comparisons, grades exceeded test scores wit
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
 - [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](openness-predicts-standardized-tests-most.md) — related
 - [CBM scores correlated with standardized test scores but teacher grades did not correlate with either measure](cbm-correlates-with-standardized-not-grades.md) — related
+- [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](big-five-conscientiousness-openness-act-correlations.md) — related
+- [SEB skills show larger average correlations with ACT composite scores than Big Five personality traits in high school students](seb-skills-stronger-act-correlations-than-traits.md) — related

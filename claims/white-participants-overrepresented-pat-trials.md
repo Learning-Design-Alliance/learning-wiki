@@ -47,3 +47,4 @@ The article reports, citing Hughes and Garcia-Romeu (2024), that a systematic re
 
 ## Related Claims
 - [Stereotypical attributions to struggle reproduce dominant discourse that excludes minoritized populations from computer science](attributions-reinforce-exclusionary-cs-stereotypes.md) — related
+- [Non-White individuals were overrepresented among coaching referrals (21/27, 78%), a disparity the authors flag for closer evaluation](nonwhite-overrepresentation-coaching-referrals.md) — related

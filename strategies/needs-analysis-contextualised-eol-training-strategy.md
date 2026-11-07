@@ -49,6 +49,7 @@ The article recommends that nurse educators begin with a local needs assessment,
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
 - [Use needs assessment, flexible modalities, and protected time to implement palliative care education for clinical nurses](needs-assessment-flexible-modalities-pc-education-strategy.md)
+- [Deliver a multifaceted education package combining formal training sessions, knowledge assessment, and patient education pamphlets](psd-multifaceted-education-package-strategy.md)
 
 ## Examples
 -

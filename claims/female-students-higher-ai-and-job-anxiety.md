@@ -84,3 +84,5 @@ Same gender t-test analysis; for positive AI attitudes the test was non-signific
 - [AI attitudes improve in all groups with no significant between-group differences](ai-attitudes-improve-all-groups-no-between-group-difference.md) — related
 - [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — related
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
+- [Seven of ten LASSI scales show significant mean-score differences between male and female medical students](gender-differences-seven-lassi-scales-medical-students.md) — related
+- [Males score higher on Anxiety, Information Processing, Selecting Main Ideas, Self-Testing, and Test Strategies, while females score higher on Attitude and Using Academic Resources](males-higher-anxiety-test-strategies-females-higher-attitude-resources.md) — reports the opposite

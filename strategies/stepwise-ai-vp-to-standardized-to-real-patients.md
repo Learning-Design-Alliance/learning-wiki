@@ -58,6 +58,7 @@ The review proposes a progressive training pathway in which learners begin clini
 - [Stepwise blended learning: train clinical reasoning with the AI chatbot first, then practice procedural and communication skills through PRP or standardized patients, with structured debriefing](stepwise-blended-chatbot-then-prp-osce-strategy.md)
 - [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 - [Use simulated patients in the early study period and integrate real patients gradually as communication skills develop](sp-early-rp-gradual-integration-strategy.md)
+- [Use standardized-patient simulations and digital learning games to train health professionals to avoid medical jargon and communicate in plain language](simulation-games-train-plain-language-jargon-awareness.md)
 
 ## Examples
 -

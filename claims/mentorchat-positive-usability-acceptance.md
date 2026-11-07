@@ -72,3 +72,4 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Students rated the cartooning activity highly for engagement, learning and understanding, with average scores of 4.8, 4.5 and 4.2 on a 5-point scale](cartooning-high-engagement-learning-ratings.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
+- [Participants report high engagement and satisfaction with the course but mixed technical experiences](sci-pa-elearning-engagement-satisfaction-technical-issues.md) — related

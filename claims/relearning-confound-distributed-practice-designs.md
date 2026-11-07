@@ -60,3 +60,4 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
 - [Short-interval (2.5-minute) spaced practice outperformed massed practice on a laparoscopic transfer task in Mackay et al.](mackay-short-interval-spaced-outperformed-massed.md) — related
 - [Prior trials reported short-term benefits of BLS practical examinations, but this trial's null result may reflect methodological differences](testing-effect-in-bls-unclear-beyond-six-months.md) — related
+- [The amount of instructor feedback requested does not differ between short- and long-interval training schedules during training or retention](instructor-feedback-requested-no-group-difference.md) — related

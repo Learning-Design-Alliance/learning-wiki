@@ -65,3 +65,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Nursing students report that role-play and video simulations fostered empathy, enhanced communication, and built confidence in a safe practice environment](role-play-video-simulation-empathy-confidence.md) — possibly the same claim (merge candidate)
 - [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
+- [Students judged the simulation scenarios well-crafted, recognizable, and flexible enough to empathize fully](euthanasia-scenarios-recognizable-flexible.md) — related

@@ -45,6 +45,7 @@ The article recommends that future evaluations actively involve domain experts s
 - [Include an explicit intended-impact target in NLP evaluation and use noise-robust designs rather than only point estimates](intended-impact-evaluation-strategy.md)
 - [Human-in-the-loop generative pipeline for synthetic classroom training data with domain-expert validation](generative-synthetic-classroom-data-pipeline-strategy.md)
 - [Engage the AI in Education community actively with the public and key stakeholders to mitigate the in-credible AI effect](aied-public-engagement-strategy.md)
+- [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
 
 ## Examples
 -

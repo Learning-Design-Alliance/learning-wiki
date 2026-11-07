@@ -61,3 +61,5 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Two pilot-study students reported difficulty viewing small anatomical structures such as the pontine arteries](pilot-feedback-small-structure-visibility-difficulty.md) — related
 - [Resident feedback identifies expanded training scope, more practice time, and better scheduling as the top improvement requests](resident-feedback-curriculum-improvements.md) — related
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
+- [Students uniformly agreed the CBL session improved understanding, integrated anatomy content, and was well organized](cbl-session-survey-agreement-understanding-integration.md) — related
+- [Students reported that the narrated cases created a perception of reality and supported learning the story organization](mobile-vp-qualitative-realism-story-organization.md) — related

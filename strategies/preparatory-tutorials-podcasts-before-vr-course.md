@@ -50,6 +50,7 @@ Before the VR simulation, students complete a hands-on VR tutorial practising al
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
+- [Provide a video-based hardware demonstration for students to watch before a VR session](video-based-vr-hardware-demonstration-before-session.md)
 
 ## Examples
 -

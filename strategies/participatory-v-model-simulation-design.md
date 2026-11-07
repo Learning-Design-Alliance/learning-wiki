@@ -48,6 +48,7 @@ The development approach engages clinical end-users throughout an iterative prot
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 - [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
+- [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
 
 ## Examples
 -

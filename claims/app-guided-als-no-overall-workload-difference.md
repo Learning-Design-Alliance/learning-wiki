@@ -49,3 +49,4 @@ Randomized simulation-based feasibility trial with 40 interprofessional teams (8
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
+- [No difference in perceived workload between Visual Clot and ROTEM temograms in high-fidelity simulation](visual-clot-no-workload-difference-simulation.md) — related

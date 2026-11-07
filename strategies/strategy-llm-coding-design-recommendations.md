@@ -41,7 +41,8 @@ From the experiment results, the authors propose design recommendations for deve
 - [Undecidable labels before discussion predict accuracy gains from AI agent discussions, but persistent undecidable labels after discussion signal smaller gains](../claims/claim-undecidable-labels-signal-discussion-gains.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Augment complex diagnostic test result presentations with intuitive, easy-to-understand visualizations](augment-complex-test-results-intuitive-visualization-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,5 @@ Multiple regression of competency scores on age, education, total work experienc
 - [Among ICU nurses, scores for skills, knowledge, practice, motivation and work engagement for VAP prevention rose from pre-test to post-test after EBP training with mentoring, in one uncontrolled pre-post study (all p < 0.001)](ebp-training-mentoring-improves-icu-nurse-competency.md) — related
 - [A 40-hour EBP training program produces statistically significant posttest improvements in all five HS-EBP competency domains relative to no intervention in hospital nurses](40-hour-ebp-training-improves-all-five-hs-ebp-domains.md) — related
 - [After the intervention, the CAT score gap between mentees and high-performing same-class mentors narrowed and was no longer statistically significant](mentee-mentor-cat-gap-narrowed-post-intervention.md) — related
+- [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](ebp-skills-age-workplace-experience-differences.md) — related
+- [The web-based EBP training program significantly improved nurses' self-reported EBP skills scores](web-based-ebp-training-improved-nurse-skills.md) — related

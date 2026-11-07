@@ -54,3 +54,4 @@ Survey participants overwhelmingly endorsed active learning (72% strongly agree,
 - [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — related
 - [Structural and institutional constraints — time limitations, large class sizes, and dense curricular content — restrict implementation of active learning in nursing education](structural-institutional-constraints-active-learning-nursing.md) — possibly the same claim (merge candidate)
 - [Pre-clinical medical students overwhelmingly agree active learning is important but define it narrowly as active recall](medical-students-narrow-active-recall-definition.md) — related
+- [A group size of twenty students per CBL session is the most cited barrier, endorsed by 54.4% of students](cbl-twenty-student-group-size-barrier.md) — related

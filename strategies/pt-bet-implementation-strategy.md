@@ -57,6 +57,7 @@ The article recommends that structured peer teaching formats such as PT-BET can 
 - [Scenario Based Training](scenario-based-training.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Implement teaching-focused workplace-based peer teaching placements with mentorship, repetition, and role modeling](anatomy-ems-implementation-recommendations.md)
+- [Increase practice questions, simulated examinations, and peer tutoring to strengthen test strategies](practice-questions-simulated-exams-peer-tutoring-strategy.md)
 
 ## Examples
 -

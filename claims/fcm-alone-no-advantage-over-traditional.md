@@ -54,3 +54,4 @@ Null comparison from the four-group quasi-experiment, discussed by the authors a
 - [Students taught with a flipped classroom model in live online classes show significantly higher delayed post-test retention than traditionally taught peers](fcm-loc-higher-delayed-retention.md) — related
 - [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Students taught with gamification (in a flipped learning environment or alone) were more satisfied than students taught by flipped class or lecture](gamification-methods-higher-satisfaction.md) — related
+- [Nursing students taught with the flipped classroom model improved more in overall self-directed learning readiness than students taught with the conventional teaching method (p=0.030)](fcm-greater-sdlr-gain-than-ctm.md) — related

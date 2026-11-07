@@ -59,3 +59,5 @@ Fine-tuning experiment evaluating 120 stacking combinations by F1-score during t
 - [Log-file features are suitable for recognising perceived task-difficulty per task, with SVM the best single classifier (25.24% average test error).](svm-best-single-classifier-task-difficulty.md) — related
 - [SVM classifier on sentence embeddings classifies comment correctness with F1 = 0.914 and Cohen's K = 0.764](svm-embeddings-classify-comments-f1-0914.md) — related
 - [The review reports that a log-file ensemble approach for perceived task-difficulty recognition outperforms classical ensemble methods](logfile-ensemble-outperforms-classical-ensembles.md) — related
+- [Ensemble models generalize better than individual learners on held-out test samples for predicting academic achievement](ensemble-generalization-test-samples.md) — related
+- [Ensemble learning models (XGB, RF, Stacking) achieve higher cross-validated accuracy than individual learners (SVM, DT, LR, LDA) in predicting primary school students' academic achievement](ensemble-outperforms-individual-learners-training-accuracy.md) — related

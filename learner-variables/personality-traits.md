@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 124 claims (80 show a difference, 29 mixed, 15 no difference) · 61 studies (29 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 18 of 61 report an effect size · 124 claims rest on one study
+> **Evidence** · 129 claims (85 show a difference, 29 mixed, 15 no difference) · 63 studies (31 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 19 of 63 report an effect size · 129 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -159,6 +159,11 @@ Personality traits are relatively stable individual differences, most often meas
 - [In medical students, motivation and personality contribute most to surgical training performance, with motivation explaining 8.4% and personality 4.5% of variance](../claims/students-motivation-personality-drive-surgical-training-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Machine-learning SHAP analysis identifies age and extraversion as the most important single predictors for students, and learning-based memory and motor response capabilities for physicians](../claims/shap-single-variable-importance-students-physicians.md) [+M] — learners who differ on it differ in outcomes
 - [The authors interpret Stroop Test error counts as possibly reflecting the conscientiousness students bring to their studies](../claims/stroop-errors-conscientiousness-interpretation.md) [~W] — learners who differ on it differ in outcomes
+- [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](../claims/big-five-conscientiousness-openness-act-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Entrepreneurial intention significantly predicts personality traits, and personality traits significantly predict student academic performance](../claims/ei-predicts-traits-traits-predict-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Personality traits significantly mediate the relationship between entrepreneurial intention and student academic performance among university students](../claims/personality-traits-mediate-ei-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [SEB skills add incremental validity over Big Five traits in predicting ACT scores, and traits add a smaller increment over skills](../claims/seb-skills-incremental-validity-over-traits-act.md) [+M] — learners who differ on it differ in outcomes
+- [SEB skills show larger average correlations with ACT composite scores than Big Five personality traits in high school students](../claims/seb-skills-stronger-act-correlations-than-traits.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

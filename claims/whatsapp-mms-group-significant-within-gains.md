@@ -51,3 +51,4 @@ Paired-samples t-test within the experimental group receiving weekly WhatsApp MM
 - [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](whatsapp-support-greater-success-gains.md) — related
 - [The experimental group's performance scores improved significantly from pretest to posttest over the application year](experimental-group-prepost-gain.md) — related
 - [Mobile voice-based WhatsApp chat use produces greater speaking proficiency gains than traditional instruction alone in B1 ESL learners](whatsapp-voice-chat-improves-speaking-proficiency.md) — related
+- [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](mobile-vp-interaction-achievement-gains.md) — related

@@ -63,3 +63,5 @@ FDR-controlled (0.25) correlations between change in anxiety and academic perfor
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
 - [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related
 - [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — reports the opposite
+- [Anxiety explains more performance variation for female than male medical students, particularly on USMLE Step 1](anxiety-explains-more-female-performance-variation.md) — related
+- [Concentration, Motivation, and Time Management predict performance more strongly for female than male medical students despite showing no gender difference in scores](concentration-motivation-time-management-stronger-female-predictors.md) — related

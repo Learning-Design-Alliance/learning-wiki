@@ -57,3 +57,4 @@ In the first consensus iteration, participants evaluated each proposed competenc
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
 - [A French Delphi panel selected 24 technical skills and 20 non-technical skills to be taught as a priority through simulation during emergency medicine residency](delphi-selected-24-ts-20-nts-priority-simulation-em-residency.md) — related
+- [A three-round modified Delphi process led Taiwanese experts to consensus on 42 of 62 health literacy competencies (12 knowledge, 9 attitude, 21 skill items)](delphi-taiwan-consensus-42-of-62-competencies.md) — related

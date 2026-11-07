@@ -60,3 +60,4 @@ Survey of 120 complete responses distributed via AAC&U's member directory to fac
 - Determinants related to organizational context, implementation processes, and external conditions were reported less frequently than intervention and individual characteristics — related
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [None of the participating nursing faculty received institutionally structured training in soft skills pedagogy, leaving teaching dependent on individual initiative](no-institutional-soft-skills-training-faculty.md) — related
+- [Most surveyed faculty predicted e-learning would be used more in medical education, but fewer than 30% felt they received adequate institutional support](faculty-predict-increasing-e-learning-use-inadequate-support.md) — related

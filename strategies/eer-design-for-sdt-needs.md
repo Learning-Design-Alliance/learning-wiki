@@ -49,6 +49,7 @@ The review recommends designing EERs to support competence, autonomy, and relate
 ## Related Strategies
 
 - [Design running programs to support autonomy, competence and relatedness needs](sdt-aligned-running-program-design.md)
+- [Support basic psychological needs and mindfulness through family education sessions and school conditions](family-education-sessions-needs-mindfulness.md)
 
 ## Examples
 -

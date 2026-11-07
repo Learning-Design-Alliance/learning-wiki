@@ -49,3 +49,4 @@ One-year post-training DOPS assessment of both cohorts on 11 items scored out of
 - [Residents taught with the refined Peyton method reported higher teaching satisfaction across surveyed items than traditionally taught residents](refined-peyton-higher-teaching-satisfaction.md) — related
 - [The refined Peyton group achieved a higher first-time pass rate on the practical skills component of the National Medical Licensing Examination than the traditional teaching group](refined-peyton-higher-nmle-first-time-pass-rate.md) — related
 - [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related
+- [The RCDP group exhibits significantly greater skill decay over one year than the traditional teaching group](rcdp-greater-skill-decay-than-ttm.md) — related

@@ -51,6 +51,7 @@ Rapid cycle deliberate practice (RCDP) is a simulation technique in which "learn
 ## Related Strategies
 
 - [Use recorded practice with expert video review and re-practice to improve practical CPR skills](video-feedback-practice-review-repractice-strategy.md)
+- [Trial a combined debriefing strategy alternating RCDP practice cycles with interval reflective debriefing sessions](rcdp-with-interval-trd-strategy.md)
 
 ## Examples
 -

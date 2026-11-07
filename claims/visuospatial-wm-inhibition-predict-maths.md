@@ -63,3 +63,4 @@ Simultaneous multiple regression on the 24-child sample using averaged visuo-spa
 - [Working-memory task type moderates MLD deficits: processing speed and updating yield larger effects than inhibition, independent of numerical content](wm-task-type-moderates-mld-deficit.md) — related
 - [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](arithmetic-model-correlates-visuospatial-wm.md) — related
 - [Children's executive function scores are negatively associated with their Chinese and mathematics achievement, with inhibition control a stronger predictor than working memory](ef-negative-association-chinese-math-achievement-chinese-schoolchildren.md) — related
+- [Visuospatial WM independently predicts all five specific mathematical components, while verbal WM independently predicts only algebra](vswm-predicts-all-components-verbal-wm-algebra-only.md) — a broader claim this one bears on

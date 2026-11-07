@@ -57,3 +57,4 @@ Narrative comparison in Section 3.2.2 of models whose participants were limited 
 - [School-based substance use interventions with an explicit theoretical foundation are associated with more robust outcomes than atheorised models, which more often showed fluctuating outcomes](theory-grounded-substance-prevention-more-robust-outcomes.md) — related
 - [Health topics of school health-education interventions shifted over four decades and varied by region](health-topic-trends-over-decades.md) — related
 - [A single-group pretest–posttest study found no significant effect of VSP training on attitudes toward individuals with substance abuse disorders but a significant increase in perceived competence](vsp-training-attitudes-null-competence-gain.md) — related
+- [Gamification-based training shifts male adolescents toward a significantly more negative attitude toward substances, sustained one month](gamification-training-negative-substance-attitude.md) — related

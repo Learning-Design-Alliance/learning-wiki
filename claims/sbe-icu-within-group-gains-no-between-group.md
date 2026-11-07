@@ -100,3 +100,5 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [The self-efficacy gain does not extend to shared decision-making confidence, where groups showed no significant difference](self-efficacy-shared-decision-making-null-item.md) — related
 - [Live-streaming participants self-trained more often during the week yet did not acquire the same posttest score increase](ls-more-self-training-not-more-gain.md) — related
 - [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related
+- [In children aged 3–7 years, the confidence benefit appeared only in the combined videos group, with no between-group differences](age-3-7-subgroup-confidence-gain-combined-only.md) — related
+- [Knowledge gains from high-fidelity simulation training were more durable over two years than gains from interactive video-case training](hfs-better-two-year-knowledge-retention.md) — related

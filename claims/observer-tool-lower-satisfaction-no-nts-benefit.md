@@ -49,3 +49,4 @@ Secondary outcomes in the RCT: satisfaction (/10) differed significantly (p = 0.
 - [Observer-tool use shows no significant difference in team performance, satisfaction, or perceived impact on future professional life](observer-tool-no-secondary-outcome-differences.md) — related
 - [The decision-making sub-item of the ANTS score was significantly better in the observer-tool group than in the control group](observer-tool-decision-making-better.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
+- [Observer tools may be more effective when technical and non-technical skills are trained together, per the reviewed literature](observer-tools-mixed-skills-training-context.md) — related

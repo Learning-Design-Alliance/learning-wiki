@@ -68,3 +68,4 @@ Modelled total-cost comparison at the largest cohort size, showing total PBP cos
 - [Full PBP robotic training costs nearly 100% more per trainee than apprenticeship training for 12 trainees but becomes cheaper as cohort size grows](pbp-per-trainee-cost-cohort-size.md) — possibly the same claim (merge candidate)
 - [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — related
 - [The riAniMO approach was cost-saving, training 322 more HCPs and saving €61.7 per participant versus standard BLSD retraining](rianimo-cost-savings-per-participant.md) — related
+- [Cost per trainee depends strongly on trainee volume: development and validation costs fall below about 10% of total costs with more than 50 trainees](cost-per-trainee-volume-sensitivity-analysis.md) — related

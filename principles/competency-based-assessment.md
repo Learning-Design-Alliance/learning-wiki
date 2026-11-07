@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (24 for, 37 mixed, 2 against) · 63 studies (15 design, 13 causal, 11 review, 11 associational, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 63 report an effect size · 58 claims rest on one study
+> **Evidence** · 64 claims (24 for, 38 mixed, 2 against) · 64 studies (15 design, 14 causal, 11 review, 11 associational, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 64 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [Expert consensus metrics for circular stapling anastomosis comprise three procedural phases, 36 steps, 42 errors and 39 critical errors with unanimous Delphi agreement](../claims/circular-stapling-anastomosis-metrics-consensus.md) [+W] — attached 2026-11-07 from Tou S et al. (2025), which proposed "Use validated performance metrics as the foundation for structured training in circular stapling anastomosis".
 - [MCQ scores correlated moderately with observed bHIT ability while video interpretation did not, so neither can substitute for direct observation](../claims/indirect-assessment-does-not-substitute-bhit-observation.md) [+M] — attached 2026-11-07 from Lelli Danny A. et al. (2024), which proposed "Critical technical skills should be evaluated by directly observed assessment rather than assumed present after indirect assessment"; tests this page's relationship.
 - [The contrasting groups method yields a 91% pass/fail cutoff, which the authors judged too low and raised to the expert average of 96%](../claims/contrasting-groups-cutoff-91-raised-to-expert-average-96.md) [+W] — attached 2026-11-07 from Gustafsson A et al. (2024), which proposed "Set simulation-based mastery pass/fail standards at the experts' average performance rather than the contrasting-groups intersection".
+- [DOPS-based assessment yields no statistically significant difference in PI skill operation scores compared with traditional assessment](../claims/dops-no-difference-pi-skill-operation-scores.md) [~W] — attached 2026-11-07 from Zhang W et al. (2024), which proposed "Implement DOPS assessments repeatedly and train assessors before adoption to realize its benefits in specialized nursing skill evaluation".
 
 ## Objective and learner-valued goal
 

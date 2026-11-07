@@ -55,3 +55,4 @@ t-test comparison of attitudes mean scores of male (n=46) and female (n=29) SS2 
 - [Among students taught Basic Technology via field trip, male and female post-test performance did not differ in the authors' conclusion, though the article also reports a significant difference](field-trip-gender-no-difference-basic-technology.md) — related
 - [No significant difference in interest between male and female students taught electrochemistry with Round-robin](round-robin-electrochemistry-interest-no-gender-difference.md) — related
 - [Female students increased their attitudes toward physical education classes more than male students.](female-students-greater-attitude-increase.md) — related
+- [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related

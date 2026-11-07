@@ -53,3 +53,4 @@ Subgroup OLS regressions across 12 sub-samples (Supplementary Table 1; Table 2 m
 - [Roommate commensality in a semester is significantly positively correlated with end-of-semester average scores among first-year college students](roommate-commensality-correlated-semester-scores.md) — related
 - [The link between commensality and academic performance is stronger in the second semester than the first, suggesting it intensifies over time](commensality-link-intensifies-over-time.md) — related
 - [Commensality with the most physically distant peers (same class, different floor or building) shows the strongest positive link to academic performance, contrary to the propinquity effect](third-category-commensality-strongest-link.md) — related
+- [Parenting style's association with academic performance is almost identical for male and female students, with no significant gender difference in performance](no-gender-difference-parenting-performance.md) — related

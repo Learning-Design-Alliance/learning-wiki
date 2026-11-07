@@ -82,6 +82,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
 - [Incorporate the HMSS into health management teaching curricula as a supplement to traditional teaching](incorporate-hmss-as-supplement-to-traditional-teaching.md)
 - [Integrate simulation-based ultrasound training into peer-teaching programs rather than treating them as rivals](integrate-simut-into-peer-teaching-programs.md)
+- [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
 
 ## Examples
 -

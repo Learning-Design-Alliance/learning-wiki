@@ -52,3 +52,4 @@ Final block of the hierarchical linear regression (n = 89) in the cross-sectiona
 - [Screen time correlates negatively with assessment scores and depression correlates negatively with academic integrity](screen-time-depression-correlate-academic-outcomes-ghana.md) — related
 - [Depression predicts increased assessment dishonesty, amplified among students with high non-academic screen time](depression-predicts-assessment-dishonesty-screen-time-moderation.md) — related
 - [Neither ADHD symptoms alone nor combined with comorbid symptoms significantly predict first-semester GPA; only depressive symptoms show a significant independent contribution](no-adhd-comorbidity-prediction-first-semester-gpa.md) — related
+- [The overall hierarchical regression model is statistically significant, F(5, 442) = 128.848](hierarchical-model-omnibus-significant.md) — related

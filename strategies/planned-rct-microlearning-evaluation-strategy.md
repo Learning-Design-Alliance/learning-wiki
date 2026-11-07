@@ -49,6 +49,7 @@ The authors recommend that future work evaluate educational effectiveness throug
 - [Conduct well-designed long-term randomized controlled trials of PBL in oral radiology](long-term-rcts-pbl-oral-radiology.md)
 - [Conduct well-blinded randomized controlled trials of high-fidelity computer-based simulations, including evaluations at behaviour and results levels and of affective-domain outcomes](robust-rct-high-fidelity-orthodontic-simulation-research.md)
 - [Use controlled designs with larger samples to confirm preclinical psychomotor training effects](controlled-designs-for-preclinical-psychomotor-training-research.md)
+- [Future research should run interventional comparisons of traditional versus electronic education in common diseases with larger medical student samples](larger-interventional-mlearning-studies-recommendation.md)
 
 ## Examples
 -

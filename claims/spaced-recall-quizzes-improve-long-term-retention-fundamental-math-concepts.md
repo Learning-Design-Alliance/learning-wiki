@@ -55,3 +55,4 @@ Randomized classroom experiment in 17 sections of a precalculus course at USMAPS
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](spacing-increases-calculus-retention.md) — related
+- [Full engagement with weekly Smartwork active-learning quizzes is associated with significantly higher marks on class test, exam, coursework and overall module performance](full-engagement-smartwork-higher-performance-all-assessments.md) — related

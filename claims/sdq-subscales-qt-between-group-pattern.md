@@ -68,3 +68,4 @@ Table 2 between-group results: prosocial behavior F = .24, partial eta-squared .
 - [The Quiet Time protocol was feasible and acceptable in the primary school setting, with participants enjoying the meditation practice](qt-feasibility-acceptability-primary-school.md) — related
 - [The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition](qt-meditation-reduces-sdq-difficulties.md) — related
 - [After the waiting-list classes received Quiet Time, their emotional and behavioral difficulties stabilized or improved despite end-of-year exam stress](qt-waiting-list-crossover-stabilization.md) — related
+- [The karate intervention produced no significant benefits on total psychosocial difficulties or most SDQ subscales](karate-intervention-no-psychosocial-benefits.md) — related

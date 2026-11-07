@@ -72,3 +72,4 @@ Direct path estimated in the same CB-SEM path analysis with bias-corrected boots
 - [ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester](debate-and-pi-increase-esl-wtc.md) — related
 - [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related
 - [Self-efficacy strongly and positively predicts Chinese EFL learners’ classroom engagement](self-efficacy-predicts-efl-classroom-engagement.md) — related
+- [Past English learning performance is positively related to self-efficacy among management students](past-english-performance-positively-predicts-self-efficacy.md) — related

@@ -55,3 +55,4 @@ UEQ analysis across all dimensions showed significant differences favouring the 
 - [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related
 - [Digital case planning via Orthotrainer yielded a significantly higher lateral cephalometric (LCR) landmarking success rate than analogue case planning](orthotrainer-lcr-landmarking-superiority.md) — related
 - [No significant differences in UEQ dimension scores were found across the three student cohort groups](esnpnsd-ueq-no-differences-three-groups.md) — reports the opposite
+- [Interns and trainees rated the disease-teaching application positively, with overall scores above 4 of 5 across satisfaction, efficiency, learning, usability and scientific-educational domains](positive-student-evaluation-med-app-five-domains.md) — related

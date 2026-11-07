@@ -49,3 +49,4 @@ Secondary outcomes in the randomised trial (OT+ n = 33, OT- n = 30): satisfactio
 - [At Kirkpatrick Level 1, satisfaction, perceptions, anxiety, and learning flow did not differ significantly between roles, but emotional arousal favored active participants](level-1-reactions-emotional-arousal-advantage.md) — related
 - [The decision-making sub-item of the ANTS score was significantly better in the observer-tool group than in the control group](observer-tool-decision-making-better.md) — related
 - [Observer tool use lowered student satisfaction and showed no benefit for non-technical skills or perceived improvement](observer-tool-lower-satisfaction-no-nts-benefit.md) — related
+- [Observer tools may be more effective when technical and non-technical skills are trained together, per the reviewed literature](observer-tools-mixed-skills-training-context.md) — related

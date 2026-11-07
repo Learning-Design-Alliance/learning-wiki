@@ -48,3 +48,4 @@ Table 2 rows from the descriptive evaluation (n = 43): seminar deepening 38 posi
 - [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](group-processing-skills-transferable-to-other-contexts.md) — related
 - [Embodied Nerf-gun activities increased students' self-reported understanding of, and ability to explain, key neural communication concepts in a pre-post seminar design](embodied-nerf-activities-increase-self-reported-understanding-neural-communication.md) — related
 - [Students rated the redesigned blended learning radiotherapy module positively across design, skills acquisition, seminar, and internship items](positive-student-evaluation-blended-radiotherapy-module.md) — a broader claim this one bears on
+- [Students found the preparatory online learning module useful background for the euthanasia simulation](online-module-useful-background-euthanasia.md) — related

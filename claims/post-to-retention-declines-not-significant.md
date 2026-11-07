@@ -53,3 +53,4 @@ McNemar tests comparing post-test and retention-test benchmark attainment in the
 - [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — reports the opposite
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
+- [Retention of clinical reasoning skills one month after the exercise does not differ between virtual-patient and standardized-patient training, though scores slightly decline from posttest](vp-sp-retention-one-month-no-difference.md) — related

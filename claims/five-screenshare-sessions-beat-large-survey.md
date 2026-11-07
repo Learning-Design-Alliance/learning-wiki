@@ -49,3 +49,4 @@ Practitioner assertion in the field note's Test with Real People phase, offered 
 - [High-fidelity prototype evaluation found the form-like structure frustrating; a guided progressive-disclosure design replaced it](form-like-structure-frustration-guided-progression.md) — related
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](drag-and-drop-notebook-scaffolding-redesign.md) — related
+- [The CBL session prompted students to evaluate and adapt their study techniques in preparation](cbl-session-prompts-study-technique-evaluation.md) — related

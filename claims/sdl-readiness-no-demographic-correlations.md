@@ -63,3 +63,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Age, gender, job position, and hospital type did not significantly predict nurses' warfarin-related knowledge scores](demographics-not-significant-warfarin-knowledge-predictors.md) — related
 - [SDL readiness shows no significant differences by gender, living condition, or presence of a doctor in the immediate family](no-sdl-differences-gender-living-family-doctor.md) — related
 - [Age, marital status, educational level, and professional title did not significantly affect PCC competence in the multiple regression](demographics-nonsignificant-in-regression.md) — related
+- [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related

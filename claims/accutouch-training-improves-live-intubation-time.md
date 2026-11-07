@@ -60,3 +60,4 @@ Review synthesis of Rowe (2002), a predictive-validity evaluation of the AccuTou
 - [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related
 - [VR bronchoscopy simulator training improves medical staff intubation skills and reduces complications](vr-bronoscopy-intubation-skills.md) — a broader claim this one bears on
 - [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related
+- [Simulator-based learning curves do not translate directly to clinical performance, and prior studies report shorter mastery times for simpler ultrasound procedures](simulator-learning-curves-do-not-translate-directly-to-clinical-performance.md) — reports the opposite

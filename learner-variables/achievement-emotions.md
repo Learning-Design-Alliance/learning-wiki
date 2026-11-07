@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 251 claims (171 show a difference, 57 mixed, 23 no difference) · 152 studies (56 associational, 49 causal, 16 review, 12 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 37 of 152 report an effect size · 248 claims rest on one study
+> **Evidence** · 254 claims (174 show a difference, 57 mixed, 23 no difference) · 155 studies (57 associational, 50 causal, 16 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 38 of 155 report an effect size · 251 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -286,6 +286,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Teacher support, academic self-efficacy, academic emotions and academic achievement are all strongly positively correlated](../claims/teacher-support-efficacy-emotions-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Frustration is the NASA-TLX component that differs by format, associated with the online examination](../claims/frustration-drives-online-examination-workload-difference.md) [+M] — measured as an outcome of the instruction studied
 - [The simulation scenario (cardiac arrest vs life-threatening asthma) has no significant impact on subjective engagement or enjoyment](../claims/scenario-type-no-effect-subjective-engagement-enjoyment.md) [-M] — measured as an outcome of the instruction studied
+- [Frustrations with group work, especially unequal participation, recurred in every year group](../claims/groupwork-unequal-participation-frustration.md) [+M] — measured as an outcome of the instruction studied
+- [Online class-related enjoyment is significantly positively correlated with academic achievement among college students](../claims/online-enjoyment-correlates-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Variable practice raises perceived mental demand, frustration, and task complexity at the first session, but lower task complexity by the final session](../claims/variable-practice-sim-tlx-cognitive-load-pattern.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

@@ -61,3 +61,4 @@ Learning curves were generated using the cumulative sum (CUSUM) method based on 
 - [Robotic simulation training improves surgical skill acquisition, with progressive competency-based training raising competence rates in junior residents](robotic-simulation-competency-training.md) — related
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
 - [In one uncontrolled pre-post study, LapSim scores rose from pre-test to post-test after instructor feedback among senior residents performing complex laparoscopic procedures and junior residents performing basic tasks, with a larger rise for seniors](senior-residents-gain-more-from-feedback.md) — related
+- [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related

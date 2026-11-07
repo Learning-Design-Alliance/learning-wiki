@@ -73,3 +73,4 @@ The review describes a didactic-plus-hands-on skills session study (Mohaghegh et
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [Students reported high educational satisfaction and motivation after the workshop, with 78.6% reporting increased interest in nephrology](high-satisfaction-and-nephrology-interest-after-workshop.md) — related
 - [Flipped classroom increases learning interest (pooled RR 1.42) but this pooled estimate shows significant publication bias](fc-learning-interest-rr-142-with-publication-bias.md) — related
+- [Low-cost physical simulators embedded in a urological emergency curriculum produced statistically significant performance improvements](urologic-emergency-physical-simulation-curriculum-gains.md) — related

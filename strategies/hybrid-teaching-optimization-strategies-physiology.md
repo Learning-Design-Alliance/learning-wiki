@@ -43,6 +43,7 @@ Based on their findings that live-lecture preference aligned with offline choice
 - [Enrich live online lectures with visuals, varied instructor communication, and interactive structures to sustain attention and positive emotion](enrich-live-online-lectures-visuals-interaction.md)
 - [Combine online and offline teaching (blended learning) to maximize benefits in undergraduate medical education](blended-learning-ume-recommendation.md)
 - [Blend flipped and traditional models, and supplement with online materials like videos and podcasts to address individual needs](blend-flipped-traditional-and-supplementary-media.md)
+- [Recommend individualised eLearning educational plans matched to students’ demands and needs](individualised-elearning-plans-student-needs.md)
 
 ## Examples
 -

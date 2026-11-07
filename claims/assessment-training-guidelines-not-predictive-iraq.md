@@ -49,3 +49,5 @@ Null findings from the binary logistic regression models for both outcomes in th
 - [Educators with more than five years of teaching experience show significantly lower odds of grading leniency than those with five years or less](teaching-experience-predicts-lower-grading-leniency-iraq.md) — related
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — related
 - [About 38% of Iraqi medical and health sciences educators report passing students who, in their professional judgment, should have failed](iraq-ftf-38-percent-prevalence.md) — related
+- [Assessors reporting higher discomfort in clinical performance assessment are significantly more likely to self-report failure to fail](assessor-discomfort-associated-with-failure-to-fail.md) — related
+- [A minority of dermatology assessors self-report failure to fail (12.5%) or grade inflation (18%) in the previous 12 months](dermatology-assessors-self-report-failure-to-fail-and-grade-inflation.md) — related

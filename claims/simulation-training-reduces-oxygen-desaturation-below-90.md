@@ -46,3 +46,4 @@ Chi-square/Fisher's exact analysis of prospectively recorded predefined events i
 
 ## Related Claims
 - [The incidence of any negative event during bronchoscopy fell from 62% to 41% from before to after in-situ simulation-based team training, in one pre-post study with no comparison group](in-situ-simulation-team-training-reduces-bronchoscopy-negative-events.md) — a broader claim this one bears on
+- [Mean desaturation duration fell from pre-training to immediately after training and remained lower at 6 months in difficult airway scenarios, in one uncontrolled pre-post study; authors suggested patient-prognosis implications](simulation-training-reduces-desaturation-duration.md) — related

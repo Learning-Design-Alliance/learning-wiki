@@ -48,3 +48,5 @@ Repeated measures ANOVA comparing RCDP and PSD arms across scenarios 1, 3, and 4
 - [Simulated pediatric CPR performance deteriorated after a 5-6-week washout in both groups](cpr-performance-decay-after-5-week-washout.md) — related
 - [Time to initiation of chest compressions decreased significantly from baseline to post-training in both RCDP and PSD groups](rcdp-psd-both-improve-time-to-chest-compressions.md) — related
 - [Secondary task times (e.g., time to defibrillation) improved then decayed, with no between-group differences; compression quality showed no group differences](secondary-outcomes-no-group-differences.md) — related
+- [Other timed ACLS actions (first pulse check, compressions, defibrillation, epinephrine, antiarrhythmic) did not differ significantly between RCDP and IS groups, though trends favored RCDP](rcdp-other-timed-acls-metrics-null.md) — related
+- [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related

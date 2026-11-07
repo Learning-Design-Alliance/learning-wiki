@@ -47,3 +47,4 @@ Within-group paired t tests in a pilot pre–post study of 20 undergraduate dent
 ## Related Claims
 - [Within-group pre-test to post-test results: VR's Understanding scores rose, with the largest observed immediate gain (Hedges' g = 1.54); CI's scores also rose significantly, while CI + VR's did not change significantly](vr-largest-understanding-gain.md) — related
 - [Both VR and mannequin simulation situational-awareness scores rose significantly from pre-test to post-test within each group](both-modalities-improved-sa-within-groups.md) — related
+- [Within both the traditional lecture and digital-human ultrasound simulation groups, immediate post-test echocardiography knowledge scores rose from pre-test to post-test 1 in one study](both-methods-improve-echo-posttest1-scores.md) — related

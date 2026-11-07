@@ -49,3 +49,4 @@ Descriptive analysis of the ChatGPT group by prior ChatGPT familiarity. The arti
 - [Real-life frequency of ADAS use is positively related to ADAS activation accuracy, with ChatGPT-trained new and occasional users outperforming their conventional counterparts](adas-use-frequency-accuracy-relationship.md) — related
 - [ChatGPT-based training produced significantly higher ADAS activation accuracy than conventional video-and-manual training for the LKA, CA and ACC functions](chatgpt-training-higher-adas-accuracy-than-conventional.md) — related
 - [The ChatGPT group outperformed the video-based group on the LKA function, achieving 92% accuracy versus 71%](chatgpt-group-lka-92-versus-video-71.md) — related
+- [Older age was significantly associated with lower ChatGPT usage scores (r = −0.18)](older-age-lower-chatgpt-usage.md) — related

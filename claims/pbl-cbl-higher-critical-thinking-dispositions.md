@@ -65,3 +65,4 @@ Anonymous questionnaire based on the California Critical Thinking Disposition In
 - [CBL-PBL training improves critical, systematic, and evidence-based thinking domains more than LBL](cbl-pbl-improves-all-ctses-domains.md) — related
 - [Critical thinking skills scores rose from pretest to posttest after simulation-based training among Vietnamese nursing students in a single-group pre-post study; the change was not statistically significant](simulation-training-no-critical-thinking-change-vietnam.md) — related
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
+- [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](dops-higher-critical-thinking-three-months.md) — related

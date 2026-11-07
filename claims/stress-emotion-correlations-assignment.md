@@ -72,3 +72,4 @@ Correlation analysis (Table 3) showed "positive correlations between students' P
 - [Stronger positive emotions are associated with more overconfident predictions, and stronger negative emotions (anxiety, shame, hopelessness) with more underconfident predictions](emotions-prediction-accuracy-over-underconfidence.md) — related
 - [Students also use achievement emotions as cues when making postdictions about their comprehension](emotions-as-cues-postdictions.md) — related
 - [Perceived stress was negatively associated with final course grade (P < 0.05) but unrelated to either assignment grade measure](perceived-stress-negative-final-grade.md) — related
+- [Teachers experienced both stress (attributed to the pandemic) and pride (attributed to active involvement) during the co-design process](pal-codesign-teacher-emotions-pride-stress.md) — related

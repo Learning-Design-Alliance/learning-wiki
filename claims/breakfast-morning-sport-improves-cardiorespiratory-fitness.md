@@ -47,3 +47,5 @@ Repeated-measures ANOVA (Group × Time) in the 16-week quasi-experimental study.
 ## Related Claims
 - [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md) — related
 - [Improvements in cardiorespiratory fitness, breakfast habits, and working memory were positively correlated with improvements in school engagement and academic achievement within the experimental group](fitness-breakfast-working-memory-correlate-engagement-achievement.md) — related
+- [Sex, body mass index, muscle strength, cardiorespiratory function, inhibition, working memory, and shifting are key factors collaboratively influencing primary school students' academic achievement, with shifting rated most important by most algorithms](ef-fitness-demographics-key-factors-academic-achievement.md) — related
+- [A 1-year school-based karate intervention improved cardiorespiratory fitness more than traditional PE lessons](karate-intervention-improves-cardiorespiratory-fitness.md) — related

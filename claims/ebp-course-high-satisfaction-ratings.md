@@ -60,3 +60,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Trainees reported high course satisfaction, with a total average score of 45.08 (SD ± 5.41) on a 10–50 scale](high-satisfaction-critical-care-course.md) — related
 - [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related
 - [Nursing students exposed to mobile-based learning rate it highly satisfactory](mbl-high-satisfaction-nursing-students.md) — related
+- [Nurses received the web-based EBP training program positively, rating its information as meaningful, practicable, and accessible](nurse-acceptability-web-based-ebp-program.md) — related

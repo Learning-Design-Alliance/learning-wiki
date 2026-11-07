@@ -74,3 +74,4 @@ Descriptive questionnaire results in the same pilot; Table 2 prints Q3 means of 
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Student perception of the simulated patient cases was overwhelmingly positive, with 96.70% agreeing the cases developed clinical skills](simulated-cases-positive-perceptions.md) — related
 - [The VR trauma simulation is well accepted by medical students, with good usability, moderate immersion, balanced workload, and high satisfaction and technology acceptance.](vr-trauma-simulation-well-accepted.md) — related
+- [Pilot nurses gave the tested scenarios a total Educational Practices Questionnaire agreement score of 4.96 (SD=0.08) and importance score of 4.56 (SD=0.07)](epq-total-scores-pilot-nurses.md) — related

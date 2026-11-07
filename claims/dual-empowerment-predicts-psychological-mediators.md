@@ -56,3 +56,4 @@ T2 structural mediation model (N = 216) testing H5–H7; the article reports DE 
 - [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](protective-psychosocial-factors-positive-association-medical-students.md) — related
 - [Self-efficacy, resilience, optimism, and responsibility each positively predict student engagement among Chinese undergraduates](psycap-dimensions-positive-predictors-engagement-chinese-undergraduates.md) — related
 - [In one uncontrolled pre-post study, self-reported creative self-efficacy and psychological empowerment responses fell overall from pretest to posttest but rose significantly from pretest to posttest in 2023](hcd-workshop-gains-year-interaction.md) — related
+- [Academic motivation significantly and positively predicts students' mental well-being (β = 0.317)](acm-positive-predicts-mental-wellbeing.md) — related

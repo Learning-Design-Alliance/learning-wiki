@@ -50,3 +50,4 @@ Item analysis in a cross-sectional study of 29 senior dental students across fou
 - [Student performance differs by question format, highest in SAQs and lowest in EMQs](performance-highest-saqs-lowest-emqs.md) — related
 - [GPA and gender effects on performance vary by question format](gpa-gender-effects-vary-by-format.md) — related
 - [Performance differences among formats hold in most courses but not orthodontics](format-performance-differs-by-course.md) — related
+- [Perceived difficulty of online question types differed, with puzzle questions rated significantly more difficult than other formats](pharmacotrophy-question-difficulty-puzzles.md) — related

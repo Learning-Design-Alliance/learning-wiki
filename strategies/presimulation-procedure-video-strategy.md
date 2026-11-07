@@ -50,6 +50,8 @@ Before the simulation session, both groups were instructed on the methodology an
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
 - [Brief video orientation plus one-on-one hands-on cadaver workshop followed by an independent skills test](video-plus-one-on-one-cadaver-workshop-strategy.md)
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
+- [Provide a video-based hardware demonstration for students to watch before a VR session](video-based-vr-hardware-demonstration-before-session.md)
+- [Combine instructional video viewing with hands-on practice on a 3D-printed procedure-specific model before live performance](video-plus-3d-printed-model-training-strategy.md)
 
 ## Examples
 -

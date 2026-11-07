@@ -53,3 +53,4 @@ Binary logistic regression models (general and specific) estimated on the 108-wo
 - [UAP correlates positively and significantly but low with academic motivation (r = 0.453) and psychological capital (r = 0.406)](uap-low-positive-correlations-motivation-psycap.md) — related
 - [Among 108 female doctoral students, 36% show low psychological capital, 34% medium academic motivation, and 37% high university academic performance](female-doctoral-students-levels-psycap-motivation-uap.md) — related
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
+- [High GPA is positively associated with prior online-learning experience, autonomy, competence, and intrinsic motivation, and negatively with amotivation](logistic-regression-gpa-predictors.md) — related

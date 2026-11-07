@@ -44,6 +44,7 @@ Wholetheme teaching structures instruction around an overarching theme so studen
 ## Related Strategies
 
 - [Interdisciplinary Unit Built on a Student's Household Knowledge](household-knowledge-interdisciplinary-thematic-unit.md)
+- [Organize PRI-E presentation topics thematically and add basic-knowledge review and testing to offset exam weaknesses](pri-e-topic-organization-and-review-testing-strategy.md)
 
 ## Examples
 -

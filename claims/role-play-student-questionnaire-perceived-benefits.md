@@ -53,3 +53,4 @@ Feedback questionnaire given to observation-group students only (n=25) after the
 - [Students reported high confidence gains in history-taking, differential diagnosis, and management planning from AIVP](aivp-survey-confidence-gains.md) — related
 - [Educator observations found that AI role-play facilitated peer discussion, highlighted gaps in history-taking, and promoted peer learning in dental tutorials](ai-roleplay-peer-discussion-gaps-observations.md) — related
 - [Medical students' confidence in obtaining patient consent rose significantly from pre-test to post-test within the CST group](cst-raises-consent-confidence.md) — related
+- [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related

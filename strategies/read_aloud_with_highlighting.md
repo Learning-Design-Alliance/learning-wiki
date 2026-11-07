@@ -60,9 +60,11 @@ Simultaneous audio and visual presentation of text supports learners whose decod
 5. Fade support as decoding improves, shifting to silent reading with the read aloud available on demand.
 
 ## Related Strategies
+
 - [Audiobooks](../elements/audiobooks.md) — audio-only counterpart; lacks the visual anchoring that supports decoding
 - [Annotating](../principles/annotating.md) — active engagement layered on top of supported reading
 - [Chunking](../principles/chunking.md) — segmenting text into readable units complements sentence-level highlighting
+- [Provide university accommodations and comprehension support for students with poor reading comprehension](university-reading-accommodations-strategy.md)
 
 ## Examples
 - **Microsoft Edge Immersive Reader** — read aloud with word highlighting, syllable splitting, and picture dictionary; widely used in schools.

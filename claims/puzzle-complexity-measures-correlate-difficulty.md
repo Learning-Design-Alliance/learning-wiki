@@ -48,3 +48,4 @@ The article reports that "simple complexity measures (size, length of solution) 
 ## Related Claims
 - [MUSE tasks form coherent but non-redundant capability groups, with Jigsaw Puzzle a distinct compositional capability](muse-tasks-non-redundant-capability-groups.md) — related
 - [Shallow complexity measures for word problems correlate only weakly with difficulty](shallow-complexity-weakly-correlate-difficulty.md) — a narrower finding that bears on this claim
+- [Perceived difficulty of online question types differed, with puzzle questions rated significantly more difficult than other formats](pharmacotrophy-question-difficulty-puzzles.md) — related

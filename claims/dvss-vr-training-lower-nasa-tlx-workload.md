@@ -52,3 +52,5 @@ NASA TLX self-assessments collected between tasks in the randomized controlled s
 - [Perceived mental workload does not differ between 3D VR and 2D video acclimatisation groups](nasa-tlx-no-difference-3d-vr.md) — related
 - [Experts report higher self-assessed performance and lower perceived negative workload than residents on the NASA-TLX](experts-higher-self-assessed-performance-lower-negative-workload.md) — related
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related
+- [IVR-trained participants performed tasks independently more frequently and required less physical assistance than e-learning participants](ivr-independent-performance-physical-assistance.md) — related
+- [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — a narrower finding that bears on this claim

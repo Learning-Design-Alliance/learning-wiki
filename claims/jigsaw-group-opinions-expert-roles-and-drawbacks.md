@@ -53,3 +53,4 @@ We got bored as we conducted some of the experiments in the previous laboratory 
 - [Students most frequently cited increased course success as the jigsaw technique's main advantage](student-reported-jigsaw-advantages-success-and-cooperation.md) — related
 - [Students also reported disadvantages of the jigsaw technique, most often that it is time consuming and boring](student-reported-jigsaw-disadvantages-time-consuming.md) — related
 - [Students in jigsaw learning groups report that teaching others helps them learn more and retain knowledge longer.](teaching-others-enhances-learning-retention-jigsaw.md) — related
+- [Students report uneven workload within PBL groups and insufficient time allocated per topic](pbl-group-workload-and-time-limitations.md) — related

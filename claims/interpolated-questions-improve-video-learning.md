@@ -69,3 +69,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Students performed significantly better on comprehension questions after live lecture than after pre-recorded lecture](live-lecture-better-comprehension-questions.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [More students in the segmented-interactive video group reached the competence level after the intervention (70.3% vs 55.6% in the continuous-video control group)](segmented-interactive-video-competence-level-descriptive-advantage.md) — a narrower finding that bears on this claim
+- [Students most often reported that recorded lectures, supportive multimedia, and an easy-to-use platform enhanced their subject understanding in eLearning](recorded-lectures-multimedia-enhance-understanding.md) — related

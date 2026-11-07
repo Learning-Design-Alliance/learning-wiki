@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (43 for, 22 mixed, 2 against) · 79 studies (45 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 79 report an effect size · 57 claims rest on one study
+> **Evidence** · 69 claims (45 for, 22 mixed, 2 against) · 81 studies (46 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 81 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [After 6 weeks of simulation-based training, ultrasound novices complete the fetal echocardiography standard-plane protocol faster than Ob/Gyn physicians and are no longer significantly slower than experts](../claims/fesim2-students-faster-than-physicians-not-slower-than-experts-6-weeks.md) [+W] — attached 2026-11-07 from Janzing Paul et al. (2023), which proposed "Structure simulation-based ultrasound training as scaffolded practice with aids that can be switched off for examination-like testing".
 - [An instructional video as a stand-alone first exposure yields higher practical skill scores than unsupervised self-study in last-year medical students](../claims/instructional-video-standalone-beats-self-study-first-exposure.md) [+W] — attached 2026-11-07 from Ott Thomas et al. (2024), which proposed "Combine an instructional video with immediate hands-on self-study to optimise practical skill acquisition, irrespective of sequence".
 - [Medical students' task completion times on all four trained laparoscopic tasks decreased significantly from pre-test to post-test after a hands-on laparoscopic training workshop, in one uncontrolled pre-post study](../claims/laparoscopic-workshop-reduced-task-completion-times.md) [+W] — attached 2026-11-07 from Chen Pin-Chun et al. (2024), which proposed "Workshop session structure: live demonstration, unassisted timed baseline attempt, about one hour of directed practice with feedback, then an unassisted timed final attempt".
+- [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](../claims/simulation-ascites-puncture-three-month-skill-retention.md) [+W] — attached 2026-11-07 from Hammami Aya et al. (2024), which proposed "Four-stage learning sequence for procedural simulation: demonstration without comment, commented demonstration, learner explanation, then learner performance with real-time feedback".
+- [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](../claims/rcdp-shortens-cpr-pause-duration-vs-is.md) [+W] — attached 2026-11-07 from Raper Jaron D. MD et al. (2024), which proposed "Use RCDP for algorithmic, procedurally demanding skills such as ACLS-based resuscitation".
 
 ## Objective and learner-valued goal
 

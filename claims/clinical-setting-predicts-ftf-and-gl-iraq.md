@@ -51,3 +51,4 @@ Binary logistic regression in the Results on predictors of both outcomes among s
 - [About 38% of Iraqi medical and health sciences educators report passing students who, in their professional judgment, should have failed](iraq-ftf-38-percent-prevalence.md) — related
 - [About two-thirds of Iraqi medical and health sciences educators report awarding extra marks beyond what was warranted](iraq-grading-leniency-67-percent-prevalence.md) — related
 - [Grade incentives in formative assessments were associated with student performance in one group with no comparison group (odds ratio 6.19)](grade-incentives-fa-strongest-remediation-predictor-or-6-19.md) — related
+- [A minority of dermatology assessors self-report failure to fail (12.5%) or grade inflation (18%) in the previous 12 months](dermatology-assessors-self-report-failure-to-fail-and-grade-inflation.md) — related

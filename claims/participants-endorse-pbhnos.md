@@ -89,3 +89,4 @@ Third item of the same questionnaire; 78.03% (f=32) answered Yes. The article co
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [All pre-service teachers planned to teach environmental education, but only the experimental group specified concrete student-centered methods and outdoor activities](future-teaching-plans-methods-specified-experimental-only.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
+- [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related

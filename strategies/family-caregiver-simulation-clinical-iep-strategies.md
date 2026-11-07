@@ -45,6 +45,7 @@ The article recommends specific educational strategies: simulations that include
 - [Redesign the geriatric curriculum to comprehensively cover interdisciplinary teamwork and patient/caregiver-centered competencies](redesign-geriatric-curriculum-teamwork-caregiver-competencies.md)
 - [Make family caregivers explicit in existing nursing content rather than adding new material](make-family-caregivers-explicit-strategy.md)
 - [Interprofessional learning formats connecting dental students with nursing and geriatric care programmes](interprofessional-learning-formats-dop-oral-care.md)
+- [Combine clinical simulation with complementary strategies and deliver it during hospitalization to prepare caregivers for discharge](simulation-plus-complementary-strategies-discharge-strategy.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ Exercise-level analysis of force logs from the robotic system data log in the sa
 - [Surgeons using force feedback report a significant reduction in mental demand over time, with no significant between-cohort differences in SURG-TLX ratings](ffb-reduces-mental-demand-over-time.md) — related
 - [Subjective gentleness ratings correlate negatively with objectively measured force on tissue during robotic suturing](gentleness-negatively-correlated-with-force.md) — related
 - [Surgical novices, but not surgeons, show significantly lower forces with continuous vibration feedback (F2) in the peg transfer task](novice-force-reduction-peg-transfer.md) — a narrower finding that bears on this claim
+- [Real-time AI feedback improves safety-related learning outcomes: lower bleeding risk, lower tissue injury risk, and less bipolar force than expert instruction](icems-improves-safety-learning-outcomes.md) — related

@@ -52,3 +52,4 @@ Paired pre/post 10-item quiz evaluation with 49 learners completing matched quiz
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](simulated-mdt-cbl-improves-trainee-confidence.md) — related
 - [Post-session quiz scores were significantly higher than pre-session quiz scores in all five analyzed anatomy workshops](anatomy-workshops-raise-post-quiz-scores.md) — related
 - [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](trainee-feedback-knowledge-confidence-gains.md) — related
+- [Postsession quiz scores improved significantly after the integrated CBL session (p < .001)](cbl-session-significant-quiz-score-improvement.md) — related

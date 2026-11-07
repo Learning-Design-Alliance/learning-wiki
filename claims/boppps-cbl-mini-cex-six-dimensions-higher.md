@@ -78,3 +78,4 @@ Null result within the same randomized trial's Mini-CEX assessment: physical exa
 - [The PBL-ChatGPT group scored significantly higher than the traditional teaching group on the Mini-CEX clinical judgment domain](pbl-chatgpt-higher-mini-cex-clinical-judgment.md) — related
 - [CBL combined with BOPPPS improved four of five modified Mini-CEX clinical-thinking dimensions; for medical history writing the article's text reports no significant difference but its table prints p = 0.002](cbl-boppps-mini-cex-clinical-thinking-dimensions.md) — related
 - [Adopting CBL combined with BOPPPS raises teachers' Personal Teaching Efficiency and Sense of Teaching Efficiency scores](cbl-boppps-raises-teacher-teaching-efficacy.md) — related
+- [The ADDIE-based flipped classroom group outperformed the traditional-teaching group on all seven Mini-CEX clinical competence domains](addie-flipped-classroom-mini-cex-all-domains-neurology-residents.md) — related

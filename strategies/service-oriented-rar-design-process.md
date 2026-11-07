@@ -44,6 +44,7 @@ The report recommends that states draw from "principles of continuous improvemen
 - [Pilot statewide roster verification systems before full implementation](pilot-statewide-rv-systems-before-implementation.md)
 - [Design the review process to track and monitor resource allocation methods over time, adapt to changing needs, and share promising practices with other states.](track-monitor-share-rar-promising-practices.md)
 - [Consult online students directly during the needs analysis phase of orientation resource design](consult-students-in-needs-analysis.md)
+- [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
 
 ## Examples
 -

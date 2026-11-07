@@ -54,3 +54,4 @@ SEM direct-effect estimates in Table 3 show EI→Academic Achievement of 0.330**
 - [Psychological well-being, academic self-efficacy, and emotional intelligence each significantly and positively predict CGPA among pre-service teachers](pwb-ase-ei-predict-cgpa-preservice-teachers.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — reports the opposite
 - [Emotional intelligence does not significantly moderate the relationship between psychological well-being and academic self-efficacy](ei-no-moderation-pwb-ase.md) — related
+- [Academic engagement and study processes each have a statistically significant positive effect on the GPA of physical education and sport university students](engagement-and-study-process-predict-gpa-pes-students.md) — related

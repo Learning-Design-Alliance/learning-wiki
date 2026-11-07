@@ -74,3 +74,4 @@ The review reports moderators of the Tae-Kwon-Do effect: age and gender, with th
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
 - [Music interventions show moderately strong evidence for EF change including inhibitory control, possibly stronger with greater intensity and longevity](music-interventions-preschool-ef-efficacy.md) — related
+- [A 1-year school-based karate intervention improved balance in children aged 7–8 years compared with traditional PE lessons](karate-intervention-improves-balance.md) — related

@@ -57,3 +57,4 @@ Exploratory comparison of NASA TLX global change scores in the randomized trial 
 - [Self-directed AI training produced no additional perceived cognitive workload compared with expert tutor instruction on the NASA-TLX](ai-training-no-extra-cognitive-workload-nasa-tlx.md) — related
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
 - [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](ar-us-junior-trainees-lower-effort-frustration.md) — related
+- [No difference in perceived workload between Visual Clot and ROTEM temograms in high-fidelity simulation](visual-clot-no-workload-difference-simulation.md) — related

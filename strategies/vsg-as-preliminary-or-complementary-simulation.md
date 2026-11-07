@@ -71,6 +71,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 - [Use serious games with unlimited-time access for teaching assessment of distressing clinical content](serious-game-strategy-distressing-clinical-content.md)
 - [Deliver emergency simulation training at scale using 360-degree VR blended with in-person clinical placements](vr-simulation-scalable-blended-emergency-training.md)
+- [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
 
 ## Examples
 -

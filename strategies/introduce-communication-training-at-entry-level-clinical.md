@@ -47,6 +47,7 @@ The authors recommend positioning targeted communication skills training with si
 ## Related Strategies
 
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Use standardized-patient simulations and digital learning games to train health professionals to avoid medical jargon and communicate in plain language](simulation-games-train-plain-language-jargon-awareness.md)
 
 ## Examples
 -

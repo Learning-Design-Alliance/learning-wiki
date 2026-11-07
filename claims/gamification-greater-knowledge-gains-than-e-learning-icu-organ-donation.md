@@ -48,3 +48,4 @@ Three-group pre-post trial of 45 ICU nurses (15 per group) assigned by hospital-
 - [Gamification-based training produced greater attitude gains than e-learning and control, with attitudes stable one month later](gamification-greater-attitude-gains-than-e-learning-icu-organ-donation.md) — related
 - [Both e-learning and gamification significantly improved nurses' knowledge scores from pre- to post-intervention](both-interventions-improved-knowledge-significantly.md) — related
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
+- [Gamification-based addiction-prevention training raised male adolescents' scores on a self-report academic achievement questionnaire, compared with an untrained control group](gamification-training-increases-academic-achievement.md) — related

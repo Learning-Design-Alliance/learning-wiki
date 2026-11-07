@@ -47,3 +47,4 @@ Independent-samples t-test comparing urban (n = 747, M = 3.80, SD = 0.49) and ru
 ## Related Claims
 - [Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion](rural-urban-no-significant-difference-tecta-credential-outcomes.md) — related
 - [High- and low-performing students did not differ significantly on the midterm-exam ENA network dimensions despite detected network differences](midterm-ena-no-significant-difference.md) — related
+- [No statistically significant difference in nurses' VP-case CPD scores between urban and rural workplaces across all four illness areas](no-urban-rural-difference-vp-case-scores.md) — related

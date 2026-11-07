@@ -51,3 +51,4 @@ Likert-scale feedback survey (5-point, agree/neutral/disagree groupings, Fig. 6)
 - [Learners rated the CBL module highly, with 100% reporting learning objectives were met and 93.5% endorsing anticipated practice change](cbl-pediatric-meningitis-learner-ratings.md) — related
 - [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related
 - [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](ar-obgy-satisfaction-no-difference.md) — related
+- [Students uniformly agreed the CBL session improved understanding, integrated anatomy content, and was well organized](cbl-session-survey-agreement-understanding-integration.md) — related

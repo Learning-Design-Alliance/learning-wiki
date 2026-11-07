@@ -59,3 +59,4 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 - [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](students-support-vr-supplement-not-replacement.md) — possibly the same claim (merge candidate)
 - [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — related
 - [Most students wanted more laboratory time and to try other modalities, with cross-modality preferences favoring the alternative they had not experienced](students-want-more-lab-time-and-other-modalities.md) — related
+- [Students want anatomy concepts taught through both PBL and lectures](anatomy-preferred-via-both-pbl-and-lectures.md) — related

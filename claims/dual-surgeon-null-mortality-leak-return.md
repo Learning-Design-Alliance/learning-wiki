@@ -48,3 +48,4 @@ Results section of the prospective audit versus historic control reporting three
 - [Lymph node yield was significantly higher under dual surgeon operating (17 vs 13 nodes)](dual-surgeon-higher-lymph-node-yield.md) — related
 - [Under the dual surgeon approach, 87% of colorectal cancer procedures were done laparoscopically versus 23.6% in the historic control, with a non-significant reduction in conversions](dual-surgeon-increased-laparoscopic-rates.md) — related
 - [Dual surgeon operating in a rural centre was associated with significantly lower overall complications, wound infections, blood loss and length of stay than historic single-surgeon practice](dual-surgeon-reduced-complications-blood-loss-stay.md) — related
+- [Certification eligibility requires auditable key performance indicators: FNA/B diagnostic adequacy above 85%, photo documentation in over 90% of procedures, and a 30-day complication rate under 5%](eus-certification-kpi-thresholds.md) — related

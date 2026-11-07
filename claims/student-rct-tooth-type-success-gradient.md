@@ -51,3 +51,5 @@ Weighted pooled success rates by tooth type from the three‐study meta‐analys
 - [Student clinic success rates do not differ significantly from those reported for experienced clinicians and residents](student-outcomes-comparable-specialist-practice.md) — related
 - [Root canal treatment by undergraduate students succeeds more often in teeth with vital pulps (87.8%) than necrotic pulps (65.6%)](student-rct-vital-vs-necrotic-success.md) — related
 - [Self-confidence in molar endodontics decreases across educational stages while confidence in anterior and premolar teeth increases](dental-confidence-molars-decrease-anterior-premolars-increase.md) — related
+- [Most students preferred rotary instrumentation over manual, but 26.4% did not feel confident to perform molar RCT without supervision](student-preference-rotary-confidence-gap.md) — related
+- [The technical quality of molar root canal treatment provided by undergraduate dental students is generally insufficient, with only 39.6% of treatments deemed sufficient](ug-student-molar-rct-quality-insufficient.md) — related

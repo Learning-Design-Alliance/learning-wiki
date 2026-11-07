@@ -66,3 +66,5 @@ Qualitative interview finding: educators sometimes jump into PBL without compreh
 ## Related Claims
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
+- [Case scenario-related barriers — ambiguous cases, equal time allocation across cases, and poor alignment of PBL cases with class lectures — hinder PBL implementation](dbu-pbl-case-related-barriers.md) — related
+- [Tutor-related barriers including lack of motivation, work overload from a shortage of trained tutors, and lack of PBL training and experience impede PBL implementation](dbu-pbl-tutor-related-barriers.md) — related

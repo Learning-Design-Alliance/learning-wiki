@@ -53,3 +53,4 @@ The article's literature review reports, citing Clément et al. 2003 and Compton
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [Gameplay increased participants' willingness to communicate in English](gameplay-increased-willingness-to-communicate.md) — related
+- [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related

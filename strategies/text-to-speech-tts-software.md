@@ -105,6 +105,7 @@ TTS bypasses decoding bottlenecks so learners can devote working memory to compr
 - Multisensory presentation — TTS as one channel in a multimodal design
 - Universal Design for Learning — TTS as a standard multiple-means-of-representation option
 - [Use TTS as an out-of-class pedagogical tool accompanied by explicit instruction and oral practice](tts-out-of-class-tool-with-explicit-instruction-and-oral-practice.md)
+- [Provide university accommodations and comprehension support for students with poor reading comprehension](university-reading-accommodations-strategy.md)
 
 ## Examples
 - **[Learning Ally](https://learningally.org)** and **[Bookshare](https://www.bookshare.org)** — accessible libraries serving students with print disabilities, combining human-narrated and TTS audio with synchronized text.

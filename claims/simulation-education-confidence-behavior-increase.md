@@ -55,3 +55,4 @@ Chi-Square comparison of confidence, skills, and behavioral awareness items afte
 - [The PBL-KAP-AI spiral health education model improves quality of life in breast cancer patients more than conventional health education](pbl-kap-ai-improves-quality-of-life-breast-cancer.md) — related
 - [Perceived susceptibility and seriousness of breast cancer did not differ by teaching method, remaining parallel across groups after the intervention and at follow-up](susceptibility-seriousness-parallel-across-teaching-methods.md) — related
 - [Knowledge and belief gains decayed from immediate post-test to 4-week follow-up regardless of teaching condition](post-test-to-follow-up-decay-regardless-of-condition.md) — related
+- [Simulation-based training combined with education supported self-monitoring of continuous drainage, with most mastectomy patients keeping the system patent (study A6)](drainage-self-monitoring-patency-a6.md) — related

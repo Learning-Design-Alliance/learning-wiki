@@ -43,6 +43,7 @@ The article's third design guideline calls for clear visual aids such as familia
 - [Multiple Representations Visual Representations](multiple_representations-visual_representations.md)
 - [Multisensory Teaching](multisensory-teaching.md)
 - [Multiple Modalities for Perceiving Information](multiple_modalities_for_perceiving_information.md)
+- [Augment complex diagnostic test result presentations with intuitive, easy-to-understand visualizations](augment-complex-test-results-intuitive-visualization-strategy.md)
 
 ## Examples
 -

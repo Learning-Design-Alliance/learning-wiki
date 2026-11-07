@@ -49,3 +49,4 @@ Descriptive analysis of the post-training questionnaire (5-point Likert scale) c
 - [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
+- [Clinical simulation for caregiver training was usually combined with complementary strategies such as dialogued classes, conversation circles and audiovisual resources](simulation-combined-with-complementary-strategies-caregivers.md) — related

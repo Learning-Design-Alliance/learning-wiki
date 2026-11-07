@@ -97,3 +97,4 @@ Regressions predicting perceived task difficulty by relative item difficulty sep
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related
 - [Teachers' mathematical questioning ability falls short on the non-routine and open-ended question indicators in both learning conditions](questioning-ability-weak-on-non-routine-open-ended.md) — related
 - [The number of cast ARS votes did not correlate with MCQ difficulty level](no-correlation-vote-count-mcq-difficulty.md) — related
+- [Perceived difficulty of online question types differed, with puzzle questions rated significantly more difficult than other formats](pharmacotrophy-question-difficulty-puzzles.md) — related

@@ -50,6 +50,7 @@ The article recommends that simulation-based education not merely be available b
 - [Integrate simulation-based education into Malawian nursing and midwifery education via simulation centres and corners to alleviate clinical-teaching challenges](integrate-sbe-malawian-nursing-education.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
+- [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 
 ## Examples
 -

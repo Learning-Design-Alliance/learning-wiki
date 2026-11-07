@@ -67,3 +67,6 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Blinded dual-rater scoring of the modified Welling Scale shows substantial inter‐rater reliability (overall ICC 0.822)](welling-scale-dual-rater-relicability-icc-0822.md) — a narrower finding that bears on this claim
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — a narrower finding that bears on this claim
 - [The assessment showed high inter-station reliability and acceptable inter-rater reliability, but 14 stations would be required for absolute (Phi ≥ 0.8) reliability](sim-assessment-reliability-alpha-icc-generalizability.md) — related
+- [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
+- [Participants rate all otoscopy training sessions positively and perceive high learning improvement regardless of training modality](positive-ratings-all-otoscopy-training-modalities.md) — related
+- [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related

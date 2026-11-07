@@ -73,3 +73,4 @@ Aggregated adjusted mathematics regression results; the article reports openness
 - [Conscientiousness correlates more strongly with grades than with standardized test scores, across both language and STEM domains](conscientiousness-grades-vs-test-scores.md) — related
 - [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — a broader claim this one bears on
 - [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — related
+- [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](big-five-conscientiousness-openness-act-correlations.md) — related

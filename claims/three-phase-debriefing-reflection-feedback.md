@@ -77,3 +77,5 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Familiar instructors who knew participants' clinical context were perceived to improve learning outcomes compared with unknown instructors](familiar-instructors-improve-relevance-learning.md) — related
 - [All responding students agreed that reflecting on and discussing the simulation in the debrief enhanced their learning](debrief-enhanced-learning-unanimous.md) — possibly the same claim (merge candidate)
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — a broader claim this one bears on
+- [Debriefing is a critical component of learning in simulation-based education, consistent with prior randomized trials of observer versus active roles](debriefing-critical-component-simulation-learning.md) — related
+- [RCDP trainees report higher satisfaction with debriefing and reflection, driving a higher overall SSE score, while confidence in independent operation does not differ](rcdp-higher-debriefing-reflection-satisfaction.md) — related

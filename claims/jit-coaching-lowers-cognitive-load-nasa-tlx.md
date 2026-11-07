@@ -50,3 +50,4 @@ Secondary outcome measured with the unweighted NASA-TLX completed immediately af
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [Just-in-time expert coaching on a manikin within one hour of clinical care increases first attempt success of infant intubation by inexperienced clinicians](just-in-time-coaching-improves-first-attempt-infant-intubation.md) — related
 - [Spaghetti knotting training lowers perceived mental demand, temporal demand and effort workload more than conventional knotting training](spaghetti-knotting-lower-nasa-tlx-workload.md) — related
+- [Variable practice raises perceived mental demand, frustration, and task complexity at the first session, but lower task complexity by the final session](variable-practice-sim-tlx-cognitive-load-pattern.md) — related

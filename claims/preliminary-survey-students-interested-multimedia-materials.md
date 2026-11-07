@@ -48,3 +48,4 @@ Preliminary research by Ampa (2015) with two groups of undergraduates at Muhamma
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](pbl-questionnaire-positive-outcomes-radiology.md) — related
 - [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](prior-knowledge-predicts-interactive-behavior.md) — related
 - [Students rated the interactive multimedia listening materials 'Good' overall, with a mean quality score of 79.00](multimedia-materials-rated-good-mean-79.md) — related
+- [Students most often reported that recorded lectures, supportive multimedia, and an easy-to-use platform enhanced their subject understanding in eLearning](recorded-lectures-multimedia-enhance-understanding.md) — related

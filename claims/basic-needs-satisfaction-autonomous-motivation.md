@@ -62,3 +62,5 @@ Meta-analysis reported in the self-determination theory section "confirmed that 
 - [Autonomous motivation is the strongest positive predictor of hedonic teacher wellbeing (ρ = .83)](autonomous-motivation-strongest-hedonic-predictor.md) — related
 - [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related
 - [No significant association of regulation type, sex, age, or mentoring style with form completion or competence](no-association-regulation-mentoring-completion-competence.md) — related
+- [Basic psychological needs positively predict college students' mindfulness](bpn-predict-mindfulness-chinese-college.md) — related
+- [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](moderate-needs-identity-descriptives.md) — related

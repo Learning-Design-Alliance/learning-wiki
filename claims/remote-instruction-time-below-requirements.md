@@ -50,3 +50,4 @@ Survey-based estimate from the discussion section: teachers reported an average 
 
 ## Related Claims
 - [During remote learning, students at all grade levels spent about four hours per day in synchronous online instruction regardless of district requirements](four-hour-synchronous-remote-instruction-threshold.md) — related
+- [Two-thirds of students (65.5%) reported being unable to interact with colleagues and teachers during online sessions](online-sessions-lack-interaction-65-percent.md) — related

@@ -64,3 +64,4 @@ Single-group pre-post study of 25 third-year medical students completing a one-w
 - [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related
 - [Among low-baseline-performing students, preceptor feedback yields a pronounced improvement in patient–physician interaction scores](low-performers-preceptor-feedback-improves-ppi.md) — related
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
+- [A six-week microlearning and simulation-based virtual consultation module significantly improved senior medical students' virtual consultation skills from pre-test to post-test](vc-module-significant-pre-post-skill-improvement.md) — related

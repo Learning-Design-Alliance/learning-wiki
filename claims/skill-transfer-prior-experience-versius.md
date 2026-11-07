@@ -52,3 +52,4 @@ Authors' interpretation of the prospective four-surgeon cohort: two surgeons wit
 - [Intermediate-level trainees exhibit reduced performance when transferring between robotic platforms (GEARS −2.9)](intermediates-reduced-scores-platform-transfer.md) — related
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
 - [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — related
+- [IVR headset training produces better (lower) overall set-up scores than e-learning for robot-naive learners in operating room configuration of the CMR Versius](ivr-beats-e-learning-robot-setup-overall-score.md) — related

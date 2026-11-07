@@ -45,7 +45,7 @@ The authors recommend integrating interactive, case-based e-learning modules int
 - [Final-year dental students' overall OSRI scores rose from pre-test to post-test across all four DPR assessments after interactive e-learning modules, in one uncontrolled pre-post study](../claims/osri-overall-score-improvement-elearning.md) [+M]
 - [Dental students' pathology diagnosis on DPRs rose from pre-test to post-test after e-learning modules in one uncontrolled pre-post study, though complex odontoma remained challenging for some](../claims/pathology-diagnosis-improvement-dpr.md) [+W]
 - [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](../claims/positive-student-perceptions-elearning-modules.md) [+W]
-- [In one uncontrolled pre-post study, dental students' use of complex medical jargon fell from before to after the virtual dental clinic module, while straightforward language with patients rose](../claims/vdc-communication-jargon-reduction.md) [+W]
+- [In one uncontrolled pre-post study of two e-learning modules, dental students used less complex jargon and more straightforward language in OSCE role-play with examiners as simulated patients](../claims/vdc-communication-jargon-reduction.md) [+W]
 
 ## Related Strategies
 

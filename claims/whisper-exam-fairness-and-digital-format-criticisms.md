@@ -55,3 +55,5 @@ Thematic categorization of optional free-text comments from 80 of 190 students (
 - [Qualitative feedback raised concerns about perceived lack of experience for certain tasks, such as complex endodontic treatment and communication skills](qualitative-concerns-experience-epas.md) — related
 - [Opponents of CSA raised eleven categories of concerns, including sufficiency of the written exam, scoring-rubric difficulty, and academic workload](csa-opposition-eleven-concern-categories.md) — related
 - [Subjective assessment and lack of continuous evaluation undermine PBL](subjective-assessment-and-no-continuous-evaluation-pbl.md) — related
+- [Free-text comments from online-course students indicate high acceptance, citing contact maintenance and telemedicine practice as benefits and technical disruptions and difficulty evaluating nonverbal communication as drawbacks](online-format-student-comments-acceptance-critique.md) — related
+- [Students perceived peer assessment as a fair way of assessing intervention reports and presentations](peer-assessment-perceived-fair.md) — related

@@ -60,3 +60,4 @@ Differential item and test functioning analyses across seven teacher characteris
 - [Differential item functioning appeared for home language (item 16) and teaching subject (items 2 and 3), but differential test functioning showed no overall group benefit](ctck-dif-dtf-results.md) — possibly the same claim (merge candidate)
 - [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — related
 - [Expert sensitivity review attributed most DIF-flagged items to poor item writing or unclear images](sensitivity-review-item-flaws-unclear-images.md) — related
+- [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related

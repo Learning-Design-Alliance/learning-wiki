@@ -53,3 +53,4 @@ Fleiss' Kappa analysis of diagnostic consistency among the two student cohorts o
 - [The three LLMs showed fair inter-model agreement on the AAMC SJT, agreeing most strongly on incorrect answers](llm-fair-agreement-same-errors-aamc-sjt.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related

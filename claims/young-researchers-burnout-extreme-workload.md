@@ -48,3 +48,4 @@ The commentary reports, citing Boone et al. (2022), a latent profile analysis of
 ## Related Claims
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
 - [Qualitative survey themes describe 'Pedagogical Burnout': faculty report detection policing displaces teaching, casts them as 'Digital Prosecutors', and fuels an unwinnable arms race](pedagogical-burnout-detection-policing.md) — related
+- [Workload is positively related to learning burnout, and workload increases track burnout increases](workload-positively-related-to-learning-burnout.md) — related

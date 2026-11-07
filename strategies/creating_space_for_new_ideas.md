@@ -83,6 +83,7 @@ Innovation in schools is fundamentally a team learning problem, and team learnin
 - [Support tertiary educators to dialogue safely with colleagues about student feedback and teaching failure](collegial-dialogue-teaching-failure-strategy.md)
 - [Enable leadership to nurture adaptive space for LA-related innovations and navigate existing resources to encourage change](enable-leadership-adaptive-space-la-innovation.md)
 - [Innovation educators should foster risk-taking, tolerance of failure, and a judgment-free space for novel ideas](safe-space-risk-taking-innovation-educators.md)
+- [Implement GME coaching with coaches outside the learner's department to promote psychological safety and surface undisclosed concerns](cross-departmental-gme-coaching-strategy.md)
 
 ## Examples
 - **Networked Improvement Communities (Carnegie Foundation)** — Bryk et al.'s model in which schools across a network run rapid PDSA cycles on shared problems, with failures documented as learning for the whole network ([Carnegie Foundation](https://www.carnegiefoundation.org))

@@ -54,3 +54,4 @@ Quasi-experimental one-group pretest–posttest study (Al‐Qbelat et al. 2022, 
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
 - [Structured digital-based education improved nursing students' disaster literacy and disaster preparedness beliefs](structured-digital-education-improved-disaster-literacy.md) — related
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related
+- [Both PTEBL and traditional Stop the Bleed courses significantly increase self-reported willingness to help in a trauma emergency, with no between-group difference](stb-courses-increase-willingness-to-help.md) — related

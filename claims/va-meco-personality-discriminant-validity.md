@@ -52,3 +52,4 @@ Correlational analysis in the N = 395 survey using the BFI-K. The article report
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
 - [NM competence is positively correlated with total empathy score (r=0.229), with no correlation found with the four personality trait dimensions](nm-competence-correlates-empathy-not-personality.md) — related
+- [BESSI SEB skills show discriminant validity from Big Five traits: convergent correlations average .59 while discriminant correlations average .27](bessi-discriminant-validity-from-big-five.md) — related

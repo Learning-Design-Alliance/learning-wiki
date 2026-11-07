@@ -56,6 +56,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
 - [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
 - [Participatory, V-model systems-engineering design process with end-user engagement](participatory-v-model-simulation-design.md)
+- [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
 
 ## Examples
 -

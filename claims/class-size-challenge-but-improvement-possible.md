@@ -66,3 +66,4 @@ Despite class size challenges, a strong majority of survey participants believed
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related
 - [Faculty perceive institutional reward structures as valuing research over teaching, with focus on research in promotion and tenure the third most cited challenge.](institutional-reward-structures-favour-research.md) — related
+- [A group size of twenty students per CBL session is the most cited barrier, endorsed by 54.4% of students](cbl-twenty-student-group-size-barrier.md) — related

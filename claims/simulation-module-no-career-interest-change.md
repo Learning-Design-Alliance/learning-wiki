@@ -50,3 +50,4 @@ Pre/post questionnaire analysis of 47 medical students completing the two-week m
 - [A 2-hour near-peer otolaryngology bootcamp significantly improves medical students' knowledge quiz scores](near-peer-bootcamp-knowledge-quiz-gain.md) — related
 - [The article states that general practice internships can positively influence students' interest in primary care careers, with teaching quality a significant factor](gp-internships-influence-primary-care-career-interest.md) — related
 - [PBL-based medical curricula do not predispose students to a career in a specific specialty, with 7 of 11 studies showing no significant difference in career choice between PBL and non-PBL graduates](pbl-no-predisposition-career-choice.md) — related
+- [Perceived quality of case-based e-learning correlated significantly with motivation to complete cases and interest in otorhinolaryngology](elearning-quality-correlates-motivation-interest.md) — related

@@ -56,3 +56,4 @@ Grouped retrospective pre-post self-assessment survey distributed at the worksho
 - [Perceived knowledge and skills in student assessment topics increase significantly immediately after the faculty development workshops](fd-workshops-significant-perceived-knowledge-gains.md) — related
 - [The retrospective design without a control group or basal assessment cannot determine causality between Full Code use and knowledge acquisition](full-code-causality-not-established.md) — related
 - [Diagnostic Thinking Inventory for Optometry scores improved significantly after studying for the Clinical Diagnosis Assessment](dti-o-significant-improvement-after-cda.md) — related
+- [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — related

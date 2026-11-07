@@ -49,3 +49,4 @@ Phase 1 quasi-experimental comparison of a VRS group (n=47) and a traditional-te
 - [VRS teaching produced significantly higher posttest learning attention than traditional teaching, with no between-group differences in overall motivation or relevance and satisfaction](vrs-higher-learning-attention-posttest.md) — related
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related
 - [Learning attitudes toward caring for patients with infectious diseases did not differ significantly between the VRS and control groups at either time point](vrs-no-attitude-difference-between-groups.md) — related
+- [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](mobile-vp-interaction-achievement-gains.md) — related

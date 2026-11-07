@@ -55,3 +55,4 @@ Thematic analysis of four focus group discussions with 30 second-year MBBS stude
 - [The most notable motivational consequences of virtual CBL sessions are perceived applicability and interestingness of basic sciences](cbl-motivational-consequences-applicability-interestingness.md) — related
 - [Preclinical medical students at Najran University enjoyed PBL and were more motivated to join it than TBL](pbl-more-enjoyed-and-motivating-than-tbl-nu-survey.md) — a narrower finding that bears on this claim
 - [Virtual case-based learning sessions significantly increase medical students' motivation to learn basic sciences](virtual-cbl-increases-basic-science-motivation.md) — related
+- [Perceived quality of case-based e-learning correlated significantly with motivation to complete cases and interest in otorhinolaryngology](elearning-quality-correlates-motivation-interest.md) — related

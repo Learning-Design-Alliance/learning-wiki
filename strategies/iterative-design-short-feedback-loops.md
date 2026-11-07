@@ -50,6 +50,7 @@ The guide recommends working closely with users during development through itera
 - [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](design-thinking-reimagining-school-safety.md)
 - [Mitigate authoring tool investment risk with early-and-often user feedback and a theoretical understanding of users and tasks](early-often-usability-risk-mitigation.md)
 - [Participatory, V-model systems-engineering design process with end-user engagement](participatory-v-model-simulation-design.md)
+- [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
 
 ## Examples
 -

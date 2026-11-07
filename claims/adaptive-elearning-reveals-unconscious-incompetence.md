@@ -50,3 +50,5 @@ Descriptive analysis of the adaptive platform's 45 probes assessing existing kno
 - [Influence-function diagnostics identify steps 3–8 of the Big-L peg-solitaire board as the most consequential region, with the lowest-β participants showing substantially larger absolute influence values there](rlmm-influence-diagnostics-big-l-steps-3-8.md) — related
 - [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — related
 - [Two-module simulator training significantly increases neurosurgeons' self-assessed manual/technical UBE skills](simulator-training-increases-perceived-ube-skills.md) — related
+- [Providers showed substantial unconscious incompetence at baseline: median 32% of responses were confident but incorrect, exceeding the 20%–30% best-practice guideline](aesnc-baseline-unconscious-incompetence-32-percent.md) — related
+- [Among providers who completed initial aESNC learning, conscious competence increased by 42 percentage points on average](aesnc-conscious-competence-gain-42-points.md) — related

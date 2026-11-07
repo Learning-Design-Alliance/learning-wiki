@@ -56,3 +56,4 @@ Cross-sectional survey of EM residency program directors; barriers reported in t
 - [Implementing a VR simulation curriculum requires extensive upfront resource investment, including equipment costs, cocreation time, and ongoing software maintenance](vr-curriculum-resource-investment-barriers.md) — possibly the same claim (merge candidate)
 - [Resource constraints — insufficient time, limited simulation lab space, and too few qualified instructors — are barriers to Sim-IPE](sim-ipe-resource-barriers.md) — possibly the same claim (merge candidate)
 - [Reported barriers to simulation-based education implementation are lack of time, lack of teacher training, and cost of equipment and/or space](sbe-implementation-barriers-time-training-cost.md) — related
+- [Faculty reluctance to share e-learning resources stems mainly from lack of institutional support and concerns about ownership and intellectual property](faculty-sharing-barriers-support-ownership-ip.md) — related

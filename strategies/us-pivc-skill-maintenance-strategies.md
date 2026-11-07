@@ -58,6 +58,7 @@ To ensure skill retention beyond the initial course, the article's maintenance d
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 - [Provide ongoing objective feedback and structured, supervised POCUS training to maintain emergency physicians' competencies](ongoing-objective-feedback-pocus-training.md)
 - [Sustain framework use with rotation-start references, embedded evaluation prompts, and ongoing self-feedback](sustain-narrative-framework-with-references-and-self-feedback.md)
+- [Combine clinical simulation with complementary strategies and deliver it during hospitalization to prepare caregivers for discharge](simulation-plus-complementary-strategies-discharge-strategy.md)
 
 ## Examples
 -

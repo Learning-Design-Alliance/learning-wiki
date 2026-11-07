@@ -53,3 +53,4 @@ Narrative discussion attributing this null finding to Sumanasekera et al.; the a
 - [Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) — related
 - [When relevant knowledge can be drawn upon, age trends in performance can reverse, with older adults outperforming younger adults on crossword puzzles](knowledge-relevance-reverses-age-trends.md) — related
 - [JCC faculty used crossword puzzles and forums on the college's EMES electronic platform, and rated the language labs satisfactory](jcc-faculty-emes-crossword-forum-language-labs.md) — related
+- [Perceived difficulty of online question types differed, with puzzle questions rated significantly more difficult than other formats](pharmacotrophy-question-difficulty-puzzles.md) — related

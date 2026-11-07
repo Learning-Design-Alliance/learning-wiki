@@ -49,3 +49,4 @@ The authors' discussion of the WHOBARS performance data from the quasi-experimen
 - [Game-based learning improved observed patient safety performance at two weeks (p = 0.04) but the difference was no longer significant at two months (p = 0.63), with a moderate effect (partial η² = 0.034)](gbl-performance-short-term-only.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — a broader claim this one bears on
 - [Game-based training with precision teaching improved disaster knowledge and behavioral fluency more than case-based training, with no significant fluency decline at one month](game-based-precision-teaching-improved-fluency.md) — related
+- [The proficiency-based training program is resistant to skills decay over 3-5 weeks for both training approaches](proficiency-based-training-resistant-skills-decay.md) — related

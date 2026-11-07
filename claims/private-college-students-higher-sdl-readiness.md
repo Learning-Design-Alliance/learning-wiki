@@ -70,3 +70,4 @@ Chi-square crosstabulation of SDL readiness level by medical college setting in 
 - [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related
 - [Non-freshmen, only children, and students with high-school class-official experience report higher self-directed learning ability](demographic-factors-higher-sdl-nursing.md) — related
 - [SDL and SRL are developmental processes: senior students show more self-directed and self-regulated learning across several reviewed studies](sdl-srl-developmental-processes-pbl.md) — related
+- [Perceptions of e-learning did not differ significantly between public and private medical institute students](no-perception-difference-public-private-institutes.md) — related

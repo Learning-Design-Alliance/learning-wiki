@@ -76,3 +76,4 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 - [EBM-BOPPPS and BOPPPS groups showed no significant difference in foundational neurology MCQ scores](ebm-boppps-mcq-no-difference.md) — related
 - [FC-TBL students achieved significantly higher molecular biology laboratory exam scores than LBL students](fc-tbl-higher-lab-exam-scores.md) — a narrower finding that bears on this claim
 - [FC-TBL students outperformed LBL students in four subsequent molecular-biology-related courses in the seventh and eighth semesters](fc-tbl-improves-subsequent-course-outcomes.md) — related
+- [Neurology residents taught with an ADDIE-based flipped classroom scored significantly higher on theoretical knowledge and clinical skills assessments than residents taught with traditional PBL/CBL/LBL methods](addie-flipped-classroom-higher-theory-skill-scores-neurology-residents.md) — a narrower finding that bears on this claim

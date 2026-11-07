@@ -50,6 +50,7 @@ To address foreseeable hurdles, the article recommends building a dynamic case b
 
 - [Tutor facilitation through four dynamic roles during group inquiry](tutor-four-role-dynamic-facilitation.md)
 - [Continuously optimize BOPPPS-simulation training by refining objectives, personalizing scenario difficulty, and tracking long-term outcomes](optimize-boppps-training-objectives-difficulty-tracking.md)
+- [Prepare standardized PBL cases ahead of time and store them in a PBL case bank](standardized-pbl-case-bank-strategy.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Review attributes this negative result to the Dupont et al. study of cycling des
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
 - [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — related
+- [Leisure-time physical activity, but not PA breaks, is associated with fewer self-reported attention difficulties during home studying](ltpa-reduces-daily-attention-difficulties.md) — related

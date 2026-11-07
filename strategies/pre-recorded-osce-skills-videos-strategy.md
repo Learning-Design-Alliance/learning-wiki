@@ -52,6 +52,7 @@ The article recommends providing students with step-by-step pre-recorded demonst
 - [Video Based Modeling](video-based-modeling.md)
 - [Video Based Instruction](video-based-instruction.md)
 - [Deliver a portion of clinical nursing skills instruction through mobile-based video learning that students can replay anytime](mobile-video-learning-for-clinical-skills-strategy.md)
+- [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
 
 ## Examples
 -

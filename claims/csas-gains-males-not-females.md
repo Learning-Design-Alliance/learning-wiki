@@ -53,3 +53,4 @@ Subgroup paired t-tests reported in Table 3: males (n = 66) improved significant
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
 - [Male physics students show significant anxiety–tripartite-network connectivity correlations at pre- and post-instruction, while female students show none](male-specific-anxiety-network-connectivity.md) — related
 - [Communication skills attitudes improved after an SRL-based curriculum](csas-improvement-after-srl-communication-curriculum.md) — related
+- [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related

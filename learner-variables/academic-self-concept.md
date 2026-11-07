@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 167 claims (116 show a difference, 37 mixed, 14 no difference) · 89 studies (45 associational, 25 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 24 of 89 report an effect size · 164 claims rest on one study
+> **Evidence** · 170 claims (119 show a difference, 37 mixed, 14 no difference) · 92 studies (47 associational, 26 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 24 of 92 report an effect size · 167 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -202,6 +202,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Adolescents' academic self-concept decreases over 1.5 years in mid-adolescence](../claims/asc-declines-over-1-5-years-mid-adolescence.md) [+W] — measured as an outcome of the instruction studied
 - [Higher academic achievement predicts higher academic self-concept over time](../claims/higher-grades-predict-higher-asc-longitudinally.md) [+W] — measured as an outcome of the instruction studied
 - [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](../claims/pbl-cbl-higher-student-satisfaction-questionnaire.md) [+W] — measured as an outcome of the instruction studied
+- [Both PA breaks and leisure-time physical activity are positively associated with daily perceived study ability](../claims/pa-breaks-ltpa-study-ability.md) [+M] — measured as an outcome of the instruction studied
+- [Most clerkship students perceive that CBL improved their clinical reasoning ability](../claims/cbl-perceived-clinical-reasoning-gain.md) [+M] — measured as an outcome of the instruction studied
+- [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](../claims/mobile-vp-qualitative-confidence-case-solving.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

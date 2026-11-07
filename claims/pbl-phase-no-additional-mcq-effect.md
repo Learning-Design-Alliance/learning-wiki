@@ -47,3 +47,4 @@ Wilcoxon signed-rank test comparing phase-wise MCQ score gains in the same 118-s
 ## Related Claims
 - [Objective AI knowledge scores rose from pretest to posttest among Japanese medical students after a 1-day PBL program on AI ethics, in a single-group pre-post study](pbl-ai-ethics-mcq-knowledge-gain.md) — related
 - [Medical students taught with PA-PBL added to lectures scored significantly higher than lecture-only controls on the final examination total score and on knowledge-recall MCQs, case-based MCQs, and MEQs](pa-pbl-higher-final-exam-scores-than-lecture.md) — reports the opposite
+- [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — related

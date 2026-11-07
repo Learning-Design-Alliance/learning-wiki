@@ -51,3 +51,4 @@ ITT ANCOVA on SDQ parent-rated problem behavior change scores from the pre-regis
 - [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](zirkus-empathico-followup-sleeper-empathy.md) — related
 - [Training group showed larger P3 amplitudes to happy versus neutral and angry faces post-training; early ERP components were unaffected](zirkus-empathico-p3-happy-faces-erp.md) — related
 - [The Tips by Text intervention did not produce significant improvements in children's socioemotional outcomes (SDQ) relative to control](tips-by-text-no-socioemotional-improvement.md) — related
+- [A 1-year school-based karate intervention reduced conduct problems in children aged 7–8 years compared with traditional PE lessons](karate-intervention-reduces-conduct-problems.md) — related

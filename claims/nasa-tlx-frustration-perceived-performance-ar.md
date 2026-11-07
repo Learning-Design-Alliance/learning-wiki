@@ -79,3 +79,4 @@ NASA TLX final score results (Figure 9): the average workload score achieved by 
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
 - [Across all trainees, NASA-TLX scores were lower with AR-US than S-US in most dimensions except performance, without statistical significance](ar-us-nasa-tlx-lower-most-dimensions-nonsignificant.md) — related
 - [Frustration is the NASA-TLX component that differs by format, associated with the online examination](frustration-drives-online-examination-workload-difference.md) — related
+- [Variable practice raises perceived mental demand, frustration, and task complexity at the first session, but lower task complexity by the final session](variable-practice-sim-tlx-cognitive-load-pattern.md) — related

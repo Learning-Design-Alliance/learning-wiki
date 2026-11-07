@@ -69,3 +69,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Across the preclinical-to-clinical transition students become faster while cleaning quality declines — a speed–accuracy trade-off independent of training schedule](speed-accuracy-tradeoff-clinical-transition.md) — a narrower finding that bears on this claim
 - [Reasoning-enabled LLM modes improved accuracy but required excessively long generation times, creating a speed-accuracy trade-off](llm-reasoning-speed-accuracy-tradeoff-dental-exam.md) — a narrower finding that bears on this claim
 - [The additional practice group showed better short-term retention of COVID-19 protective measures, with the advantage disappearing over time](additional-practice-short-term-protective-equipment-retention.md) — related
+- [Variable practice yields higher transfer to a procedural task (salpingectomy) than self-directed training](variable-practice-higher-transfer-procedural-task.md) — related

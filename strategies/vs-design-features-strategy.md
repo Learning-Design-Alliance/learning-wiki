@@ -53,6 +53,7 @@ The article's discussion derives design recommendations from its subgroup and li
 - [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
 - [Add a self-assessment mode without real-time instructions to immersive VR procedural training modules](vr-self-assessment-mode-no-instructions.md)
 - [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](mixed-learning-mode-vr-plus-tactile.md)
+- [Improve VR simulation realism by adding dynamic elements, animated avatars, and improved rendering](vr-realism-dynamic-avatars-rendering-strategy.md)
 
 ## Examples
 -

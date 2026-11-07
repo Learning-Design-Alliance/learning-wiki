@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (58 show a difference, 15 mixed, 9 no difference) · 52 studies (27 causal, 15 associational, 5 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 52 report an effect size · 80 claims rest on one study
+> **Evidence** · 85 claims (61 show a difference, 15 mixed, 9 no difference) · 53 studies (27 causal, 16 associational, 5 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 53 report an effect size · 83 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -119,6 +119,9 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Daily exposure to a non-English language is associated with higher Calculation and Math Fluency scores, with early gaps narrowing by around Grade 4](../claims/non-english-exposure-math-fluency-calculation.md) [~M] — measured as an outcome of the instruction studied
 - [Blended learning produces higher posttest medication dosage calculation scores than video-based e-learning alone among paramedic students](../claims/bl-beats-vbl-mdc-posttest-paramedic.md) [+M] — measured as an outcome of the instruction studied
 - [Both video-based e-learning and blended learning improve paramedic students' medication dosage calculation skills from pretest to posttest](../claims/both-vbl-and-bl-improve-mdc-skills.md) [+M] — measured as an outcome of the instruction studied
+- [Basic arithmetic skills remain significantly associated with mathematics achievement in secondary school, explaining 56% of variance](../claims/arithmetic-skills-56-percent-variance-secondary.md) [+M] — learners who differ on it differ in outcomes
+- [Inhibition is indirectly associated with mathematics achievement via number fact knowledge and calculation skills but not via algebra or geometry, with no remaining direct effect](../claims/inhibition-indirect-only-via-arithmetic-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](../claims/wm-indirect-effects-via-four-math-components.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

@@ -80,3 +80,5 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related
 - [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](sex-difference-competence-significant-except-core-skills.md) — reports the opposite
 - [Age, marital status, educational level, and professional title did not significantly affect PCC competence in the multiple regression](demographics-nonsignificant-in-regression.md) — reports the opposite
+- [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related
+- [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](ebp-skills-age-workplace-experience-differences.md) — related

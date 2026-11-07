@@ -48,3 +48,4 @@ Round 2 testing after a 5-6-week washout in the same randomized study (15 groups
 - [Secondary task times (e.g., time to defibrillation) improved then decayed, with no between-group differences; compression quality showed no group differences](secondary-outcomes-no-group-differences.md) — related
 - [Time to initiation of chest compressions decreased significantly from baseline to post-training in both RCDP and PSD groups](rcdp-psd-both-improve-time-to-chest-compressions.md) — related
 - [No significant differences between RCDP and PSD on time to chest compressions: no interaction or group effects](no-rcdp-psd-difference-primary-outcome.md) — related
+- [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related

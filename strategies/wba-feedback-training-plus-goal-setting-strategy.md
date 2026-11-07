@@ -54,6 +54,7 @@ The article's actionable implementation steps for workplace-based assessment pro
 - [Implement the Mini-CEX as a three-step direct-observation assessment with feedback at one-week intervals during surgery clerkships](mini-cex-three-step-observation-feedback-strategy.md)
 - [Use direct workplace observation with immediate feedback to evaluate and reinforce faculty supervision performance](direct-observation-feedback-strategy.md)
 - [Combine Mini-CEX and DOPS workplace assessments with feedback at repeated time points during community outpatient training](minicex-dops-combined-repeated-feedback-strategy.md)
+- [Participatory supervisor and learner training on WBA purpose and feedback, within a trainee-focused relationship-centred teaching style](participatory-supervisor-learner-wba-training-strategy.md)
 
 ## Examples
 -

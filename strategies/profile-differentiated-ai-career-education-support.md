@@ -55,6 +55,7 @@ The article recommends that universities replace uniform AI-literacy programs wi
 - [Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption](differentiated-genai-integration-strategy.md)
 - [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 - [Shift toward resilience-sensitive differentiated support rather than blanket universal support](resilience-sensitive-differentiated-support.md)
+- [Tailor university ChatGPT adoption policies to local context, including student age and academic performance](tailor-chatgpt-policies-age-gpa-context.md)
 
 ## Examples
 -

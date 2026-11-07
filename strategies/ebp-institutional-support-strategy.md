@@ -65,6 +65,7 @@ The article recommends that EBP educational interventions be embedded in institu
 - [Use needs assessment, flexible modalities, and protected time to implement palliative care education for clinical nurses](needs-assessment-flexible-modalities-pc-education-strategy.md)
 - [Implement workplace and curricular EBP training programs targeting question formulation, literature search, retrieval and critical appraisal](ebp-training-programs-workplace-curricula-ghana.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
+- [Adopt web-based training as continuing professional education to build nurses' EBP competencies](web-based-training-continuing-education-ebp-strategy.md)
 
 ## Examples
 -

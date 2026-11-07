@@ -56,3 +56,4 @@ Reliability analysis of a random subset of 10 videos independently evaluated by 
 - [Simulator-generated analytic scores correlate moderately and significantly with blinded human OSATS assessments of single surgical knot performance](simulator-analytic-scores-correlate-osats.md) — related
 - [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — related
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
+- [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related

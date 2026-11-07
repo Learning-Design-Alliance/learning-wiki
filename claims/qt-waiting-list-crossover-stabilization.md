@@ -49,3 +49,4 @@ Repeated-measures GLM with post-hoc contrasts on the 38 waiting-list students ac
 - [The Quiet Time protocol was feasible and acceptable in the primary school setting, with participants enjoying the meditation practice](qt-feasibility-acceptability-primary-school.md) — related
 - [The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition](qt-meditation-reduces-sdq-difficulties.md) — related
 - [SDQ total difficulties and external symptoms showed the largest between-group improvements after Quiet Time, while prosocial behavior and internal symptoms did not differ significantly](sdq-subscales-qt-between-group-pattern.md) — related
+- [The karate intervention produced no significant benefits on total psychosocial difficulties or most SDQ subscales](karate-intervention-no-psychosocial-benefits.md) — related

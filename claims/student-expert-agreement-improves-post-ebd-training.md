@@ -57,3 +57,4 @@ Prospective cohort study measuring inter-operator agreement between students and
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — related
 - [Agreement rose from κ 0.24 to 0.36 for psychomotor agitation or retardation and from κ 0.29 to 0.59 for sleep–wake cycle disturbance in one uncontrolled pre-post study, though the former remained only fair](icdsc-psychomotor-sleep-item-improvement.md) — related
+- [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related

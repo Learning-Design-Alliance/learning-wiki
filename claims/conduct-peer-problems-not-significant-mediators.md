@@ -46,3 +46,4 @@ In the same mediation analyses (Table 3), conduct problems and peer problems sho
 
 ## Related Claims
 - [Mental health difficulties partially mediate (8–25%) the association between cardiorespiratory fitness and academic performance in children](mental-health-partially-mediates-crf-academic-performance.md) — a broader claim this one bears on
+- [Improvements in physical fitness were not associated with improvements in academic achievement or conduct problems](fitness-gains-not-associated-with-academic-gains.md) — related

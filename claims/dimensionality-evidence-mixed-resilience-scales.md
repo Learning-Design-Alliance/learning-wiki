@@ -76,3 +76,4 @@ Exploratory Welch tests comparing reported global fit indices by dimensionality 
 - [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — a narrower finding that bears on this claim
 - [Unidimensionality of the MID competency scale was rejected](mid-competency-instrument-unidimensionality-rejected.md) — related
 - [The two-parameter logistic model showed acceptable to excellent fit for all three course assessments](2pl-model-fit-preclinical-exams.md) — related
+- [The AGS should be scored as a total score, not as determination, resilience, and focus factor scores](ags-total-score-not-factor-scores.md) — a narrower finding that bears on this claim

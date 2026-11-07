@@ -62,3 +62,5 @@ SUS questionnaire completed by the eight HL-group students after tutorials. The 
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
 - [Nursing students rate the VR oral health learning system as a good experience, and satisfaction does not differ by prior VR game experience](vr-system-satisfaction-sus.md) — related
 - [The VR trauma simulation is well accepted by medical students, with good usability, moderate immersion, balanced workload, and high satisfaction and technology acceptance.](vr-trauma-simulation-well-accepted.md) — related
+- [In 3D mode, RiNeo MR showed good to excellent SUS usability and UEQ scores above 1 on all scales, with a trend toward residents rating attractiveness higher (p = 0.067)](rineo-3d-usability-user-experience.md) — related
+- [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related

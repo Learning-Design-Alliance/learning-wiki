@@ -47,3 +47,4 @@ Meta-analysis result reported in the article's Results: the AI group's extraneou
 ## Related Claims
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — related
+- [Real-time AI instruction produces significantly higher extraneous cognitive load than in-person expert instruction, with no group differences in intrinsic or germane load](icems-higher-extraneous-cognitive-load.md) — possibly the same claim (merge candidate)

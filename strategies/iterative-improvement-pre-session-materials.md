@@ -51,6 +51,7 @@ The article recommends using assessment results to target improvements of pre-se
 - [Use design-based implementation research with educator co-design and iterative pre-post testing cycles to develop a usable, feasible classroom intervention.](dbir-iterative-co-design-process.md)
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
 - [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](iterative-review-dops-portfolio-authenticity.md)
+- [Use questionnaire-driven iteration between flipped sessions to adjust difficulty and teacher scaffolding](questionnaire-driven-iteration-between-flipped-sessions.md)
 
 ## Examples
 -

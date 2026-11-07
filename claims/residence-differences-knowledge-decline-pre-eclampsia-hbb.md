@@ -48,3 +48,4 @@ One-way ANOVA comparing knowledge decline by residence among 210 providers. Tabl
 - [Pre-eclampsia knowledge decline differed significantly by professional education level, with certificate holders declining more than diploma and degree holders](education-level-pre-eclampsia-knowledge-decline.md) — related
 - [Knowledge scores declined significantly across all four assessed HMS/HBS domains after training](hms-hbs-knowledge-decline-all-four-domains.md) — related
 - [Rural providers showed significantly greater skills declines in manual removal of the placenta and active management of the third stage of labor](rural-providers-greater-skills-decline-mrp-amtsl.md) — related
+- [No statistically significant difference in nurses' VP-case CPD scores between urban and rural workplaces across all four illness areas](no-urban-rural-difference-vp-case-scores.md) — related

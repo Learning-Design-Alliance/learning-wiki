@@ -48,3 +48,4 @@ Mixed-methods needs assessment: literature review (24 topics), semi-structured i
 - [Item generation for the CRCDCS combined a deductive systematic literature review (21 studies yielding 10 items) with inductive conventional content analysis of semi-structured interviews with 15 ICU nurses (yielding 20 items, 7 subcategories, and 3 principal categories).](crcdc-item-generation-deductive-inductive.md) — related
 - [A modified Delphi needs assessment with 26 stakeholders identified areas of convergence and divergence that informed the core competencies](delphi-needs-assessment-long-covid-competencies.md) — related
 - [Trained nurses outperformed untrained nurses on every one of the 21 approved educational topics](trained-nurses-higher-all-21-topics.md) — related
+- [A two-step needs assessment (faculty nomination then intern prioritization) identified 15 common diseases for the mobile curriculum](faculty-intern-needs-assessment-15-diseases.md) — related

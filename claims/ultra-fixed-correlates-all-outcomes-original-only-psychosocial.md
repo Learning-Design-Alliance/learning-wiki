@@ -54,3 +54,4 @@ Latent factor correlations from a survey of 1537 science and math undergraduates
 - [The original mindset measure and the ULTrA fixed factor are related but not redundant measures of fixed mindset (r = 0.48)](original-measure-ultra-related-not-redundant.md) — related
 - [The original mindset measure fails to detect relationships between mindset and academic outcomes (intent to persist, course grade) that the ULTrA fixed factor detects](ultra-detects-academic-outcomes-original-fails.md) — possibly the same claim (merge candidate)
 - [The ULTrA fixed factor predicts more variance in every studied outcome than the original mindset measure, and adds variance explained above and beyond it](ultra-predicts-more-variance-all-outcomes.md) — related
+- [Growth and fixed mindset correlate with psychosocial and academic outcomes more strongly than universality and brilliance beliefs](mindset-larger-correlations-outcomes.md) — related

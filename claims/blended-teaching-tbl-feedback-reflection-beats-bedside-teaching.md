@@ -53,3 +53,4 @@ The review reports this from Gong et al.'s study (reference [70]): a blended int
 - [Effects of TBL on clinical decision-making and clinical reasoning are mixed across studies and seminar topics](tbl-clinical-decision-making-mixed-effects.md) — related
 - [Reflection-in-action is associated with significant discussion score gains when discussion ability is the learning objective](reflection-in-action-discussion-gains.md) — related
 - [Faculty endorsed a multimodal, scaffolded teaching structure—skills lab, tutorials, case-based learning, wards and outpatient departments—while favouring a bedside-heavy time split](multimodal-clinical-teaching-structure-faculty-preferences.md) — related
+- [Most students in the electronic ward round cohort reported a subjective knowledge gain from the streamed bedside teaching](e-visite-subjective-knowledge-gain.md) — related

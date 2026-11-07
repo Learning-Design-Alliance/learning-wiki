@@ -47,3 +47,4 @@ Six multiple-choice knowledge test (60 points total) administered pre and post i
 ## Related Claims
 - [After the A-SPIRE session, medical students' familiarity with and perceived importance of precision science communication significantly improved (P < 0.05)](a-spire-improves-understanding-precision-science-communication.md) — related
 - [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](mastery-learning-score-distribution-shift-chemistry.md) — related
+- [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related

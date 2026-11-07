@@ -75,3 +75,4 @@ Second invariance step for the student model. Because "the metric and the scalar
 - [The same bifactor DL structure holds for primary and secondary students under partial measurement invariance, permitting comparison of performance levels across cohorts](dl-structure-invariant-across-cohorts.md) — related
 - [The EF measurement model showed configural and metric but not full scalar invariance across gender](ef-scale-configural-metric-invariance-only.md) — related
 - [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related
+- [The AGS shows scalar measurement invariance across gender among Chinese early adolescents](ags-scalar-invariance-gender.md) — related

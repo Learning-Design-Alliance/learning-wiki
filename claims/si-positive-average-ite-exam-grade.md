@@ -49,3 +49,4 @@ ITE analysis of the Fall 2013 STAT 119 offering, where 17% of students voluntari
 - [Underrepresented minority students in the course showed significantly positive individualized treatment effects from supplemental instruction](si-urm-subgroup-positive-ite.md) — a narrower finding that bears on this claim
 - [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md) — related
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
+- [Each repeated enrollment in the emergency module adds on average 0.88 points to the final exam score](repeated-module-enrollment-raises-exam-score.md) — related

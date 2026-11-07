@@ -49,3 +49,4 @@ Cross-sectional survey of 529 undergraduates from multiple Saudi faculties, anal
 - [Achievement motivation directly predicts sustainable university education outcomes (β = 0.28)](achievement-motivation-direct-effect-sustainable-education.md) — related
 - [Achievement motivation, major satisfaction, and successful intelligence contribute independently to sustainable education: all tested interaction effects are non-significant](independent-effects-no-significant-interactions.md) — related
 - [Successful intelligence independently predicts sustainable education outcomes (β = 0.31)](successful-intelligence-predicts-sustainable-education.md) — related
+- [Academic motivation significantly and positively predicts sustainable learning (β = 0.205)](acm-positive-predicts-sustainable-learning.md) — related

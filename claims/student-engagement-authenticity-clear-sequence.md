@@ -67,3 +67,5 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Group communication problems among students were a paramount challenge in the redesigned course, exacerbated by group size and lack of prior experience.](group-communication-challenge-pbl-redesign.md) — related
 - [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related
 - [Survey respondents held largely positive perceptions of the PPES course, valuing its clear presentation, authenticity and preparation for rotations and the OSCE](ppes-survey-positive-perceptions.md) — related
+- [Students reported that the narrated cases created a perception of reality and supported learning the story organization](mobile-vp-qualitative-realism-story-organization.md) — related
+- [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related

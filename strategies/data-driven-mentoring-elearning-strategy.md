@@ -50,6 +50,7 @@ The article's concluding recommendations for improving clinical skills of CDSA u
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
+- [Offer eLearning to practices with detected cold chain breaches and add reinforcement strategies for sustained improvement](elearning-offer-on-cold-chain-breach-detection.md)
 
 ## Examples
 -

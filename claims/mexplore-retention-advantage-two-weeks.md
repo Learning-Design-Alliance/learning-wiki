@@ -52,3 +52,4 @@ Follow-up test 2 weeks after the initial user study, answered from recall withou
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
 - [The advantage of the modified-plus-abstract pictured letters method persisted on a follow-up test administered after two weeks without intervention](pictured-letters-mnemonics-follow-up-retention.md) — related
+- [GBL benefits on diagnostic accuracy persisted at one-month follow-up for both GBL groups compared with control](gbl-one-month-persistence.md) — related

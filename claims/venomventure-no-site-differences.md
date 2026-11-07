@@ -50,3 +50,4 @@ Kruskal-Wallis test on raw pre/post change scores across one rural library, one 
 - [Post-game engagement in follow-up activities did not affect retention of quiz gains among follow-up respondents.](venomventure-postgame-engagement-null.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Knowledge quiz scores increased from pre to post within every age group, with a large effect in the 9–13 target group.](venomventure-learning-all-age-groups.md) — related
+- [No statistically significant difference in nurses' VP-case CPD scores between urban and rural workplaces across all four illness areas](no-urban-rural-difference-vp-case-scores.md) — related

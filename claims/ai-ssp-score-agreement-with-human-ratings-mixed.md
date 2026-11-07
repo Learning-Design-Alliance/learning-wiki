@@ -59,3 +59,4 @@ Review-level synthesis of the studies' score accuracy and reliability evaluation
 - [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — related
 - [Teachers' scores for identical LLM-generated clinical cases differed significantly, with a tiered distribution linked to teaching experience](inter-rater-discrepancies-llm-case-scoring.md) — related
 - [Alignment of LLM recommendations with individual student data showed more variability than clarity or actionability ratings](llm-recommendation-alignment-variable.md) — related
+- [Self-assessment of theoretical and practical competences agreed with externally assessed exam results at moderate rates (64.3–82.5%), differing only slightly between courses](self-external-assessment-agreement-dental-propaedeutics.md) — related

@@ -50,3 +50,4 @@ Review synthesis of two studies (Oliveira et al.; Carter et al.) comparing profe
 - [Systematic reviews suggest nurse-led services achieve outcomes at least as good as traditional physician-led models, with some evidence of cost-effectiveness](nurse-led-services-outcomes-at-least-as-good.md) — related
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
 - [Nurses were less likely than physicians to be unqualified after scenario-simulation training](nurses-less-likely-unqualified-than-physicians.md) — related
+- [Ultrasound-guided PIV attempts by trained nurses succeeded more often than anatomy-based attempts (77.4% vs 35.9%)](us-guided-piv-higher-success-than-anatomy.md) — related

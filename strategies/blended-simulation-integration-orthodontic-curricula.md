@@ -70,6 +70,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Adapt the 5CardsGame format to other healthcare education contexts, including digital versions for remote and self-paced practice](5cardsgame-adaptation-strategy.md)
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
+- [Hybrid shoulder dystocia training combining theoretical instruction, simulation and 360°-VR](hybrid-vr-shoulder-dystocia-training-strategy.md)
 
 ## Examples
 -

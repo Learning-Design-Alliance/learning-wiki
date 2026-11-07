@@ -61,3 +61,4 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — possibly the same claim (merge candidate)
 - [After in situ simulation training, the frequency of the teamwork event evaluation of plans increased significantly during real postnatal stabilization and resuscitation](evaluation-of-plans-teamwork-event-increased.md) — related
 - [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](total-teamwork-events-nonsignificant-increase.md) — related
+- [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — related

@@ -50,3 +50,4 @@ Retention analysis in the same prospective cohort: at M2, held 107–161 days af
 - [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — related
 - [Novice learners may require more training sessions and more time to retain non-technical skills trained by simulation](novice-residents-need-more-simulation-sessions-for-retention.md) — related
 - [Team communication, stress management, and task management were not significantly associated with high technical performance](team-communication-stress-task-management-not-associated-technical-performance.md) — related
+- [Non-technical skill gains from simulated crisis scenarios with debriefing are retained for at least two months](debriefing-skill-gains-retained-two-months.md) — related

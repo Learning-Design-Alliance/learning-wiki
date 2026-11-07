@@ -48,3 +48,4 @@ Paired comparison of the experimental group's PÖÖ1 and PÖÖ2 means (3.72 vs 6
 - [The experimental group learning idioms via the mobile application outside classroom hours achieved significant within-group gains](whatsapp-mms-group-significant-within-gains.md) — related
 - [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
+- [Experimental-group students gained far more within-group achievement than control students (d = 1.215 vs d = .464)](mobile-vp-within-group-effect-sizes.md) — related

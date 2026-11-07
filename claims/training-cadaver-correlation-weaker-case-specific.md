@@ -48,3 +48,4 @@ Pearson correlation with Fisher's z transformation in the RCT; the GM group corr
 - [Novice trainees who trained on case-specific 3D-printed temporal bone models scored lower in subsequent cadaveric mastoidectomy than those who trained on generic-anatomy models](case-specific-3d-printed-training-lower-cadaver-transfer-novices.md) — related
 - [The case-specific model group outperformed the generic-anatomy group on the first 3D-printed training procedure, but scores were similar on the second procedure](first-training-procedure-advantage-case-specific-models.md) — related
 - [A significant group–cadaver interaction indicates the effect of case-specific training varied across cadaver specimens](group-cadaver-interaction-anatomy-moderation.md) — related
+- [Adding cochlear implant VR simulation training to mastoidectomy VR training did not significantly improve cadaver dissection performance](ci-vr-training-no-significant-cadaver-transfer.md) — related

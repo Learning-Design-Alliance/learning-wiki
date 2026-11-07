@@ -59,3 +59,4 @@ Parallel-group randomized controlled study over five fall semesters (2020–2024
 - [Blended teaching (recalling plus lecturing) leads to better learning outcomes than lecturing alone in real classroom teaching](blended-teaching-better-outcomes-than-lecturing-alone.md) — related
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
 - [Blended learning improves knowledge in four communication domains but not in communication structure](blended-domain-gains-structure-null.md) — related
+- [Flipped learning did not produce a significantly greater knowledge gain than traditional lectures in the haematology course, though the increase was significant within the flipped group](flipped-learning-knowledge-gain-not-significant-haematology.md) — reports the opposite

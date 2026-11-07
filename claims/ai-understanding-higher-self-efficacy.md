@@ -55,3 +55,4 @@ The paper attributes to Bećirović et al. the finding that students with better
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
+- [Past English learning performance is positively related to self-efficacy among management students](past-english-performance-positively-predicts-self-efficacy.md) — related

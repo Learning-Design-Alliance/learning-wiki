@@ -50,3 +50,4 @@ A student interview quote within the Quality Learning theme illustrates that aft
 - [Interleaved practice produces better long-term retention than repetitive practice via offline gains at 6 h and 24 h](ip-better-retention-than-rp.md) — related
 - [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](pmd-tdcs-no-early-6h-consolidation.md) — related
 - [Anodal tDCS at left PMd, but not right PMd, during repetitive practice produces sleep-related offline gain similar to interleaved practice](left-pmd-tdcs-sleep-related-offline-gain.md) — related
+- [Teachers perceive that combining movement with academic content consolidates learning, particularly for practice-friendly concepts such as multiplication tables](pal-movement-academic-consolidates-learning-perceived.md) — related

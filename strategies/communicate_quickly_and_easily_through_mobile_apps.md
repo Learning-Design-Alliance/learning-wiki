@@ -70,6 +70,7 @@ Frequent, low-cost communication increases parental awareness of student work an
 - [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
 - [Add explicit parental interview, data sharing, and weekly progress sharing steps to existing field-based assignments](explicit-parent-interview-data-sharing-steps.md)
 - [Weekly need-based e-mentoring messages via LINE combined with weekly in-class self-evaluations](line-e-mentoring-with-in-class-self-evaluation.md)
+- [Internet-based application for post-discharge adherence reminders and health education](app-based-followup-adherence-support-strategy.md)
 
 ## Related Elements
 - [Check-in](../elements/check-in.md) — the recurring touchpoint the app operationalizes

@@ -62,3 +62,4 @@ In the cohort 1 randomized experiment, treatment teachers reported significantly
 - [Class teachers reported that some pupils' confidence and social skills improved during the programme](asp-teachers-reported-confidence-social-skills-gains.md) — related
 - [The prior RCT found no treatment effects on recess social interactions or academic skills](schoolmax-no-effect-recess-academic-outcomes.md) — related
 - [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — related
+- [Students and teachers perceive increased physical activity inside and outside the classroom and reduced screen time, but observed no changes in children's physical fitness](pal-perceived-pa-gains-no-fitness-change.md) — related

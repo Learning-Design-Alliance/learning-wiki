@@ -65,3 +65,4 @@ Qualitative interview finding from a few participants under the PBL-strategy the
 
 ## Related Claims
 - [Subjective assessment and lack of continuous evaluation undermine PBL](subjective-assessment-and-no-continuous-evaluation-pbl.md) — related
+- [Case scenario-related barriers — ambiguous cases, equal time allocation across cases, and poor alignment of PBL cases with class lectures — hinder PBL implementation](dbu-pbl-case-related-barriers.md) — possibly the same claim (merge candidate)

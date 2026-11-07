@@ -47,6 +47,7 @@ The article recommends that ethical policy for AI in online education be tailore
 - [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Use survey evidence on student AI task boundaries to ground evidence-based school policy discussions rather than speculation about AI-driven cheating](student-ai-boundary-survey-evidence-for-policy.md)
+- [Tailor university ChatGPT adoption policies to local context, including student age and academic performance](tailor-chatgpt-policies-age-gpa-context.md)
 
 ## Examples
 -

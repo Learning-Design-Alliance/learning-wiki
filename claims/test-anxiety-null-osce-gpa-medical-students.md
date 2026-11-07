@@ -54,3 +54,4 @@ The review reports Kim's (2016) cross-sectional study of 101 third- and fourth-y
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — reports the opposite
 - [Anxiety is negatively correlated with physics course grade and GPA in sex-specific patterns at pre- and post-instruction](anxiety-negative-correlation-academic-performance.md) — reports the opposite
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — reports the opposite
+- [Age, suspension history, and later academic year correlate negatively with dental students' GPA](age-suspension-year-negative-correlation-dental-gpa.md) — related

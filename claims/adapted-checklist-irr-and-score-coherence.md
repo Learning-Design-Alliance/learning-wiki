@@ -57,3 +57,4 @@ Reliability analysis within the same RCT: two trained raters scored each session
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
 - [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related
 - [Student knot-tying attempts scored with an adapted OSATS tool showed high median scores and good interrater reliability between two blinded surgeon assessors](adapted-osats-good-interrater-reliability.md) — related
+- [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related

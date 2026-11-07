@@ -56,3 +56,4 @@ Binary logistic regression on survey data from 189 secondary students in 10 rand
 - [Academic anxiety mediates between one-tenth and one-fifth of the social class test gap across social class indicators, anxiety forms, and school domains](anxiety-mediation-social-class-test-gap.md) — related
 - [Family income and parental education show regionally specific positive relationships with children's cortical surface area, strongest at the lowest SES levels](ses-cortical-surface-area-strongest-at-low-ses.md) — related
 - [National income inequality strengthens the economically based social class test gap (family economic capital)](income-inequality-strengthens-economically-based-gap.md) — related
+- [Family capital positively and significantly predicts academic achievement in geography among Chinese high-school students](family-capital-predicts-geography-achievement.md) — a narrower finding that bears on this claim

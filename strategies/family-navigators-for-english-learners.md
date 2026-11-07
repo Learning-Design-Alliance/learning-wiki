@@ -45,6 +45,7 @@ The guide recommends assigning a "navigator" to each family, particularly for st
 - [Remove language and participation barriers by communicating with families in multiple languages through varied channels with interpreters available](multilingual-communication-channels-el-families.md)
 - [Partner with immigrant-serving community-based organizations to engage linguistically diverse families and sustain feedback loops](partner-community-based-organizations-el-family-engagement.md)
 - [Combine socioeconomic opportunity improvements, immigrant family mental-health support, and school-based support for immigrant children to narrow the performance gap](multi-level-support-second-generation-immigrant-students.md)
+- [Support basic psychological needs and mindfulness through family education sessions and school conditions](family-education-sessions-needs-mindfulness.md)
 
 ## Examples
 -

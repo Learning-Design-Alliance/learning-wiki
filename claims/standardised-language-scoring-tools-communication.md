@@ -52,3 +52,4 @@ Interview finding from the qualitative cross-case analysis; an RN describes how 
 - [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — related
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — possibly the same claim (merge candidate)
 - [Nursing students' self-rated handover confidence scores rose from pre-test to post-test after ISBAR-structured handover simulation teaching, in one uncontrolled pre-post study](isbar-simulation-improves-handover-confidence.md) — related
+- [In post-scenario self-assessments, ABCDE primary survey was performed in 18 of 21 scenarios but history-taking and handover schemes were applied only partly and communication aids mostly unused](abcde-used-history-schemes-incomplete.md) — related

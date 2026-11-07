@@ -58,3 +58,4 @@ Synthesis of the Time dimension in the scoping review; cited examples include Lo
 - [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — related
 - [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — a narrower finding that bears on this claim
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — a narrower finding that bears on this claim
+- [Final simulator performances of mastery-attaining trainees differed significantly from the expert pretest benchmark (Mann-Whitney U tests)](trainee-final-scores-differ-from-expert-pretest-mann-whitney.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Online survey of instructors at nine of 10 piloting institutions; 39 courseware-
 - [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](ngcc-impact-moderators-context.md) — related
 - [Instructors found the heat map better aligned with sections they believed students found interesting (4.4) than difficult (3.6)](heat-map-alignment-interesting-vs-difficult.md) — related
 - [Most students in the experimental group reported positive perceptions of the examination-aligned blended teaching model](student-satisfaction-blended-exam-aligned.md) — related
+- [Engaged students report positive perceptions of Smartwork quizzes, with about 78% believing the quizzes helped them perform better in class tests](student-feedback-smartwork-quizzes-positive.md) — related

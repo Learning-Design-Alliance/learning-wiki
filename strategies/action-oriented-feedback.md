@@ -84,6 +84,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.](identify-beneficial-actions-and-timing-for-scaffolds.md)
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
 - [Use generative AI for immediate, personalised feedback on drafts to support self-regulation through assessment](genai-personalised-draft-feedback-srl.md)
+- [Introduce a two-step peer assessment process so students can act on feedback between assessments](two-step-peer-assessment-process.md)
 
 ## Examples
 - **Draft–revise cycles in writing workshop** — teacher comments on a draft each end with one concrete revision ("split this run-on into two sentences; make the second one your evidence"), and class time is reserved for acting on them.

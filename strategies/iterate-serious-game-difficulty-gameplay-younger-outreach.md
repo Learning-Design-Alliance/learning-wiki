@@ -45,7 +45,8 @@ Based on survey feedback, the authors recommend two forward-looking actions: fut
 - [Players rate the NICU serious game highly on story empathy, knowledge acquisition, and perceived effectiveness of serious games for learning](../claims/nicu-serious-game-high-educational-usefulness-ratings.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Iterate PAL programs toward interactive, teacher-configurable serious games with home and cross-grade variants](pal-future-serious-game-iteration-strategy.md)
 
 ## Examples
 -

@@ -47,7 +47,8 @@ The authors advocate that future simulation training programs for shoulder dysto
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](../claims/prior-evidence-simulation-improves-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Hybrid shoulder dystocia training combining theoretical instruction, simulation and 360°-VR](hybrid-vr-shoulder-dystocia-training-strategy.md)
 
 ## Examples
 -

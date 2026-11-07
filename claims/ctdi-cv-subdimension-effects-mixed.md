@@ -80,3 +80,4 @@ Same randomized study; Table 2 shows critical thinking self-confidence d = 0.21,
 - [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
+- [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](dops-higher-critical-thinking-three-months.md) — related

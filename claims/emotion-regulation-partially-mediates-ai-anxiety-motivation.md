@@ -74,3 +74,4 @@ Authors' conclusion from the mediation models (Table 2, Figure 1): the direct as
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — a narrower finding that bears on this claim
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — related
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](emotion-regulation-mediation-peer-support-achievement.md) — related
+- [Reading anxiety does not mediate the relationship between reading ability and academic achievement in university students](no-mediation-reading-anxiety-achievement.md) — related

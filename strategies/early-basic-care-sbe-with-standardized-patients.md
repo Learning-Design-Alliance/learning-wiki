@@ -55,6 +55,7 @@ The authors recommend integrating simulation-based experiences centered on basic
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](simulation-case-based-delirium-training.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Use standardized-patient simulations and digital learning games to train health professionals to avoid medical jargon and communicate in plain language](simulation-games-train-plain-language-jargon-awareness.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Survey analysis using the validated Mayo High Performance Teamwork Scale (16 que
 - [The SAAAR behavioral marker format showed high internal consistency (McDonald's ω = 0.928)](saaar-high-internal-consistency.md) — related
 - [In a simulation-based pilot, residents' SAAAR scores improved significantly from pretraining to posttraining across all four domains](saaar-prepost-improvements-all-domains.md) — related
 - [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related
+- [High-fidelity simulation training produced higher team skills scores than interactive video-case training on the Mayo High Performance Teamwork Scale](hfs-higher-team-skills-score.md) — related

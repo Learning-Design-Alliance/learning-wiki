@@ -52,3 +52,4 @@ Randomized 3×2 between-subjects experiment with 258 grade 11–12 students; lin
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related
 - [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](model-answers-self-assessment-interaction-regulation.md) — related
 - [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](exp2-feedback-correct-answers-no-gain.md) — related
+- [Learners' belief in the correct answer rose from before to after as they received more examples from teachers, in one single-group pre-post study with no comparison group](learner-belief-increases-with-more-examples.md) — related

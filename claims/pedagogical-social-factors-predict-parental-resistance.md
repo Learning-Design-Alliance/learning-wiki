@@ -50,3 +50,4 @@ Three-step linear regression (Table 7, n=220): the resistance factors "explained
 - [Pedagogical resistance is rated lowest of the four resistance factors at every parental resistance level, while social and economic factors are rated highest](pedagogical-resistance-factor-rated-lowest.md) — related
 - [Authoritative parenting is associated with better social-emotional and academic school readiness in Mexican and Dominican American students](authoritative-parenting-latino-school-readiness.md) — related
 - [About two-thirds of surveyed parents resist educational smartphone use in schools, and more than half of them actively resist](two-thirds-parents-resist-school-smartphone-use.md) — related
+- [Family SES, authoritative parenting, permissive parenting, and their SES interactions are significant predictors jointly explaining 59.3% of variance in academic performance](regression-five-predictors-59-percent-variance.md) — related

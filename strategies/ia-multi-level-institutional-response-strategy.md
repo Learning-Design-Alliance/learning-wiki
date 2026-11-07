@@ -53,6 +53,7 @@ The review recommends that interventions "extend beyond general awareness and in
 - [Institutional interventions on emotional regulation and learning strategies to mitigate digital hoarding's effects](emotional-regulation-learning-strategies-interventions-dh.md)
 - [Institutional screening, prevention and gender-oriented mental health support for students in wartime universities](wartime-student-mental-health-screening-strategy.md)
 - [Multi-stakeholder strategies for managing children's screen time](screen-time-management-strategies-children.md)
+- [Adopt gamification-based training as a cost-effective approach to preventing adolescent addiction](gamification-based-adolescent-addiction-prevention-strategy.md)
 
 ## Examples
 -

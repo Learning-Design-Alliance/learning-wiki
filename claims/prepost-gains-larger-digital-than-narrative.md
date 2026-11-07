@@ -73,3 +73,4 @@ Applied communication skills domain from the same pre-post questionnaire (n = 6)
 - [Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group](lowest-baseline-strongest-gains-digital-competencies.md) — possibly the same claim (merge candidate)
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — a broader claim this one bears on
 - [Physicians rated management competencies highest and communication competencies lowest among the six domains](domain-importance-ranking-management-highest.md) — related
+- [Students in the online communication training reported a significantly larger pre/post gain in self-assessed communication skills than the face-to-face group](online-group-double-self-assessed-gain.md) — related

@@ -49,3 +49,4 @@ Post-intervention IPQ self-reports from the nine intervention-group participants
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
 - [More connectivity failures during VSP interviews were associated with lower student ratings](connectivity-failures-lower-vsp-ratings.md) — related
+- [Sense of presence in the 3D mode was moderate (involvement, realism, and spatial presence below 5 out of 7) with no differences between groups, attributed to a static virtual world](rineo-3d-presence-moderate-static-world.md) — related

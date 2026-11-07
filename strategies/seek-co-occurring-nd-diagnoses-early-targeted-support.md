@@ -46,6 +46,7 @@ The article recommends that schools and clinicians look beyond a presenting cond
 ## Related Strategies
 
 - [Implement proactive inclusive support: early identification, flexible assessment design, structured mentoring, and increased staff awareness](proactive-inclusive-support-spld-medical-education.md)
+- [Systematic screening for gaming disorder among students with ADHD and vice versa, with gender-sensitive interventions](systematic-gd-adhd-mutual-screening-strategy.md)
 
 ## Examples
 -

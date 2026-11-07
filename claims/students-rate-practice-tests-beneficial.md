@@ -48,3 +48,4 @@ Self-report digital questionnaire administered after the final test in the same 
 - [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — related
 - [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related
 - [Evidence on practice effects of VSAQs versus MCQs is mixed, with no consistent advantage for either format](vsaq-practice-effects-mixed-inconclusive.md) — related
+- [Students perceive that CBL helped retention and retrieval of information (item mean 4.3/5)](cbl-perceived-retention-retrieval-gain.md) — related

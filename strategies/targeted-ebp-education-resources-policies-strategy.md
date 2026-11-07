@@ -55,6 +55,7 @@ Based on its findings, the article recommends targeted strategies such as educat
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Multi-level strategy for strengthening EBM implementation: individual workshops and protected time, institutional access and culture, and system-level public awareness](multi-level-ebm-implementation-strategy.md)
+- [Adopt web-based training as continuing professional education to build nurses' EBP competencies](web-based-training-continuing-education-ebp-strategy.md)
 
 ## Examples
 -

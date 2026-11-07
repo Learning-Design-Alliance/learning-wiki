@@ -39,7 +39,7 @@ The article developed two e-learning modules using the ADDIE model, built in Art
 
 ### Claims
 - [Osri Overall Score Improvement Elearning](../claims/osri-overall-score-improvement-elearning.md) [+M]
-- [Vdc Communication Jargon Reduction](../claims/vdc-communication-jargon-reduction.md) [+M]
+- [Vdc Communication Jargon Reduction](../claims/vdc-communication-jargon-reduction.md) [+W]
 
 ## Related Designs
 - 

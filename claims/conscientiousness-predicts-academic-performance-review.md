@@ -56,3 +56,4 @@ Narrative review reporting, citing Spielmann et al. (2022), that "conscientiousn
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — possibly the same claim (merge candidate)
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — a narrower finding that bears on this claim
+- [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](big-five-conscientiousness-openness-act-correlations.md) — a narrower finding that bears on this claim

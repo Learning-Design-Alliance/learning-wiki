@@ -48,3 +48,4 @@ Randomized controlled study of 16 groups of pediatric residents; video-recorded 
 - [Simulated pediatric CPR performance deteriorated after a 5-6-week washout in both groups](cpr-performance-decay-after-5-week-washout.md) — related
 - [No significant differences between RCDP and PSD on time to chest compressions: no interaction or group effects](no-rcdp-psd-difference-primary-outcome.md) — related
 - [Secondary task times (e.g., time to defibrillation) improved then decayed, with no between-group differences; compression quality showed no group differences](secondary-outcomes-no-group-differences.md) — related
+- [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related

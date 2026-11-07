@@ -69,3 +69,4 @@ Table 2 statistics for the first four PTA dimensions, with printed "Effect size 
 - [Residents taught with BOPPPS combined with flipped classroom show significantly higher self-directed learning readiness (SDLRS) than traditionally taught residents](boppps-flipped-higher-sdlrs-self-directed-learning.md) — related
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
+- [ADDIE-based flipped classroom training improved neurology residents' critical thinking scores significantly more than traditional teaching](addie-flipped-classroom-critical-thinking-neurology-residents.md) — related

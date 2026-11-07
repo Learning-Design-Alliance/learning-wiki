@@ -56,3 +56,4 @@ Questionnaire surveys administered after PBL teaching in the included studies, r
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
 - [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related
 - [Step-by-step teaching improves work attitude, team spirit and analytical ability, but not expression or communication skills, in postgraduate reproductive ultrasound trainees](sbs-mixed-effects-clinical-competence-subdomains.md) — related
+- [PBL group work on the module exhibited development of leadership, communication, and independent learning skills](pbl-groupwork-develops-leadership-communication-independent-learning.md) — related

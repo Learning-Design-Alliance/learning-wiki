@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 61 claims (30 for, 30 mixed, 1 against) · 45 studies (12 causal, 11 associational, 6 quant-synthesis, 6 qualitative, 5 design, 3 review, 2 theoretical), `q1`–`q4` · 10 of 45 report an effect size · 58 claims rest on one study
+> **Evidence** · 62 claims (31 for, 30 mixed, 1 against) · 46 studies (12 causal, 12 associational, 6 quant-synthesis, 6 qualitative, 5 design, 3 review, 2 theoretical), `q1`–`q4` · 10 of 46 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,7 @@ Claims this page cites that do not change the model above, each read against it 
 - [A blended online peer assisted learning community at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](../claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md) [+W] — read 2026-10-19: a descriptive report of one blended course that asserts the effect without data or comparison; a blended course, so nearer [Blended Learning](blended-learning.md), and it changes no choice here.
 - [CoI-based online instruction produced significantly higher teaching presence perceptions than direct instruction](../claims/coi-instruction-higher-teaching-presence.md) [+M] — attached 2026-11-02 from Aktı-Aslan et al. (2021), which proposed "Presence-stratified teaching strategy set for CoI-based online courses"; tests this page's relationship.
 - [CoI-based online instruction did not significantly change social presence perceptions compared with direct instruction](../claims/coi-instruction-no-social-presence-difference.md) [~M] — attached 2026-11-02 from Aktı-Aslan et al. (2021), which proposed "Presence-stratified teaching strategy set for CoI-based online courses"; tests this page's relationship.
+- [Two-thirds of students (65.5%) reported being unable to interact with colleagues and teachers during online sessions](../claims/online-sessions-lack-interaction-65-percent.md) [+W] — attached 2026-11-07 from Abbas Uzair et al. (2024), which proposed "Design online learning in low-resource settings around the barriers students actually face: connectivity, electricity, interaction and course structure".
 
 ## Illustrative design instance and observation record
 

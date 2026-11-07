@@ -48,3 +48,4 @@ Cross-sectional online questionnaire survey of 1,016 Chinese college students (e
 - [Mobile phone dependence mediates the relationship between time management and study engagement](mobile-phone-dependence-mediates-time-management-study-engagement.md) — related
 - [Self-control and mobile phone dependence chain-mediate the relationship between time management and study engagement](chain-mediation-self-control-mobile-phone-dependence.md) — related
 - [Self-directed learning correlates negatively with mobile phone addiction (r=-0.294) and alexithymia (r=-0.383), while mobile phone addiction correlates positively with alexithymia (r=0.339)](sdl-negative-correlations-phone-addiction-alexithymia.md) — related
+- [School motivation correlates positively with learning engagement among college students](school-motivation-correlates-learning-engagement.md) — related

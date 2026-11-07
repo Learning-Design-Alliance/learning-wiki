@@ -48,3 +48,4 @@ Reliability analysis of the rater-blinded controlled trial: two trained, blinded
 ## Related Claims
 - [On the MaiSurge model, expert gynecologists achieve significantly higher modified H-OSATS and general OSATS scores than novices performing a total laparoscopic hysterectomy](maisurge-differentiates-experts-novices-hosats.md) — related
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
+- [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related

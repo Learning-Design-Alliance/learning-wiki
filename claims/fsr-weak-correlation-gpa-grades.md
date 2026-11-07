@@ -48,3 +48,4 @@ Table 6 disaggregation: GPA effect sizes (k = 79 from 22 samples) pooled at r = 
 - [Perceived faculty-student relationships show a small but statistically significant positive correlation with postsecondary students' academic outcomes (r = .18)](fsr-positive-correlation-academic-outcomes-meta-analysis.md) — related
 - [FSRs correlate more strongly with persistence (r = .33) than with achievement outcomes in postsecondary settings](fsr-strongest-correlation-persistence.md) — related
 - [Outcome type significantly moderates the FSR–outcome association, with persistence showing stronger correlations than achievement](outcome-type-moderator-fsr-association.md) — related
+- [Achievement and aptitude test scores show significant but weaker positive correlations with dental students' GPA](test-scores-weaker-positive-correlation-dental-gpa.md) — a narrower finding that bears on this claim

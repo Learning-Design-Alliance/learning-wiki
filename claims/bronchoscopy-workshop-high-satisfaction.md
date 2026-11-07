@@ -55,3 +55,4 @@ Post-workshop satisfaction survey of the 53 participants (Table 4). The article 
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
 - [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related
+- [Participant satisfaction with the tournament was overwhelmingly high in both editions](pharmacotrophy-high-satisfaction.md) — related

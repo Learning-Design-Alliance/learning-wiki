@@ -48,3 +48,4 @@ Pre/post 24-item multiple-choice knowledge test in the same quasi-experimental s
 - [Both high-fidelity simulation and case-based discussion increased medical students' self-confidence, with no significant difference between groups](hfs-cbd-equal-self-confidence-gains.md) — related
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related
+- [Knowledge gains from high-fidelity simulation training were more durable over two years than gains from interactive video-case training](hfs-better-two-year-knowledge-retention.md) — related

@@ -51,3 +51,4 @@ Baseline (pre-intervention) survey and assessment comparison between the residen
 - [Procedural checklist competence after simulation training does not differ significantly between residents and practicing clinicians](pudendal-block-checklist-no-difference-residents-clinicians.md) — related
 - [Clinicians who had completed residency training scored significantly higher on the final Fair Grader 2000 assessment than those still in residency](fair-grader-completed-vs-ongoing-final-scores.md) — related
 - [Baseline Fair Grader 2000 scores below 60 points were concentrated among clinicians still in residency training](baseline-scores-below-60-ongoing-residency.md) — related
+- [Initial post-GBL performance did not differ significantly by practitioner type, though practicing clinicians scored lowest](gbl-practitioner-type-differences.md) — reports the opposite

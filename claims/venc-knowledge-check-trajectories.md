@@ -72,3 +72,4 @@ Six-month ENC 2 knowledge-check results for the cohort, showing stable median sc
 - [BVM ventilation performance at 6 months is higher with increasing self-reported app use, and self-reported activity correlates only modestly with logged app activity](venc-dose-response-self-reported-use.md) — related
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
 - [Manikin-measured ventilation time is stable from immediately after the course to 6 months, while appropriate ventilation rates show no significant change](venc-manikin-ventilation-stable.md) — related
+- [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related

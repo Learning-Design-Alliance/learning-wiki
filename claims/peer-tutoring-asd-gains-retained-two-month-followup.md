@@ -61,3 +61,4 @@ Wilcoxon test for related pairs on the experimental group's scores from post mea
 - [Advantages of scaffolded case-based learning persist and widen at Week 8, including significant knowledge retention differences](scaffolded-cbd-week8-retention.md) — related
 - [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
+- [Non-technical skill gains from simulated crisis scenarios with debriefing are retained for at least two months](debriefing-skill-gains-retained-two-months.md) — related

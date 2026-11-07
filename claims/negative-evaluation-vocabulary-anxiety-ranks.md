@@ -56,3 +56,4 @@ Same Shiraz questionnaire survey (n=154); Table 1 reports fear of being negative
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor](teacher-self-disclosure-normalizes-mistakes.md) — related
 - [EFL learners rank speaking as the skill most urgently needing improvement, with pragmatic routines the top speaking sub-skill](efl-learners-rank-speaking-and-pragmatic-routines-top-needs.md) — related
+- [Before the flipped classes, students reported specific learning pain points including fear of public speaking, unfamiliarity with the method, and PPT-making difficulty](dt-flipped-pre-survey-pain-points.md) — related

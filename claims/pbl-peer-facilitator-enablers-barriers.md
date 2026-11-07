@@ -92,3 +92,5 @@ Participant-reported barrier within team dynamics sub-theme; the article also no
 - [Students perceived the problematization methodology as enabling student-centered problem-solving and transforming their perceptions of their problem-solving abilities.](problematization-methodology-student-centered-problem-solving-perceptions.md) — related
 - [Qualified listening within the action research process made dental students feel heard and valued and surfaced problems that would otherwise remain unnoticed.](qualified-listening-fostered-trust-and-surfaced-overlooked-issues.md) — related
 - [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related
+- [Frustrations with group work, especially unequal participation, recurred in every year group](groupwork-unequal-participation-frustration.md) — related
+- [Students report uneven workload within PBL groups and insufficient time allocated per topic](pbl-group-workload-and-time-limitations.md) — related

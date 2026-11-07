@@ -66,3 +66,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Operative times of both trainer and trainee decreased significantly from the first 10 to the last 10 cases of the observation period (both p < 0.001)](mie-operative-time-decreased-first-vs-last-10-cases.md) — related
 - [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — related
 - [Procedures rated difficult take significantly longer than non-difficult procedures, while trainee experience shows no significant operating-time difference](difficult-procedures-longer-operating-time.md) — reports the opposite
+- [All residents completed step 3 operating-room requirements, performing a median of 12 console procedures within six months](rostrac-step3-console-procedures.md) — related

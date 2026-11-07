@@ -51,3 +51,5 @@ Pearson correlation analysis in the N = 395 validation survey using the IRI empa
 - [VA-MeCo scores show only low positive correlations with intelligence, supporting discriminant validity against cognitive ability](va-meco-low-intelligence-correlations.md) — related
 - [IC-MD ratings show convergent validity with simulation patients' perceptions of the consultation (r = .57) but no significant association with emotional intelligence measures after correction for multiple testing](ic-md-convergent-validity-prad-not-ei.md) — related
 - [NM competence is positively correlated with total empathy score (r=0.229), with no correlation found with the four personality trait dimensions](nm-competence-correlates-empathy-not-personality.md) — related
+- [Empathy is unrelated to medical students' academic performance](empathy-unrelated-academic-performance-medical-students.md) — related
+- [Medical students with high empathy tend to prefer people-oriented specialties, though findings are mixed](high-empathy-people-oriented-specialty-preference-mixed.md) — related

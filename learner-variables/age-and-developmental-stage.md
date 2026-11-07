@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 240 claims (154 show a difference, 55 mixed, 31 no difference) · 196 studies (77 associational, 46 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 30 of 196 report an effect size · 238 claims rest on one study
+> **Evidence** · 241 claims (155 show a difference, 55 mixed, 31 no difference) · 197 studies (78 associational, 46 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 31 of 197 report an effect size · 239 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -272,6 +272,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older adults logged into the platform significantly more often than young-old adults during the intervention week](../claims/epa-coach-usage-logins-older-adults.md) [+M] — learners who differ on it differ in outcomes
 - [Older students report statistically higher simulation design and educational practice scores than younger students](../claims/older-students-higher-sds-epq-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Non-cognitive skills predict academic achievement beyond cognitive ability at every stage of compulsory education, with self-reported prediction increasing from β = 0.10 at age 9 to β = 0.58 at age 16](../claims/ncs-predict-achievement-beyond-cognition.md) [+W] — an instructional effect differs with it
+- [Older age was significantly associated with lower ChatGPT usage scores (r = −0.18)](../claims/older-age-lower-chatgpt-usage.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

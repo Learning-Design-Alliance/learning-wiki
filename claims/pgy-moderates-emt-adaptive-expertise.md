@@ -70,3 +70,4 @@ One-way ANOVA within the difficult EMT cohort stratified by PGY; PGY 1 scored hi
 - [Difficult error management training improves adaptive expertise on novel head CT cases among emergency medicine residents, outperforming both easy EMT and error avoidance training](difficult-emt-improves-adaptive-expertise-head-ct.md) — related
 - [The number of errors made during training mediates EMT's effect on adaptive expertise, explaining 87.2% of the difficult EMT strategy's effect](errors-mediate-emt-adaptive-expertise.md) — related
 - [PGY 1 residents made more training errors than higher PGYs, and errors partially mediated PGY level's effect on adaptive expertise (40.9%)](pgy1-errors-mediate-seniority-reversal.md) — related
+- [PGY-1 residents in Danish emergency departments fluidly engaged in both adaptive and routine practices, with adaptive practices occurring under some conditions and absent in others](residents-fluid-routine-adaptive-practices.md) — related

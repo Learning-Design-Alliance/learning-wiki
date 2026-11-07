@@ -55,3 +55,4 @@ Cross-sectional multiple linear regression on 175 CEPS middle school students, a
 - [School children's screen time is negatively associated with academic performance](screen-time-negatively-associated-academic-performance.md) — a broader claim this one bears on
 - [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — related
+- [Grade 7 mental unwellness negatively predicts Grade 8 academic performance in Chinese, mathematics, and English after controlling for prior performance and demographics](mental-unwellness-predicts-lower-academic-performance-china.md) — related

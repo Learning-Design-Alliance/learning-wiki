@@ -79,3 +79,4 @@ Same qualitative study, Theme 1. Participants reported that the standardized pat
 - [Qualitative feedback indicated NSTIS students acquired HIS operational skills and experienced clinical immersion rather than role immersion](nstis-qualitative-his-skills-and-clinical-immersion.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
+- [Students judged the simulation scenarios well-crafted, recognizable, and flexible enough to empathize fully](euthanasia-scenarios-recognizable-flexible.md) — related

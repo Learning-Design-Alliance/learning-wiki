@@ -46,7 +46,8 @@ The authors recommend that findings on elevated conflict and reduced closeness i
 - [No evidence that family factors predict achievement differently for students with versus without ADHD or autism (no interaction effects)](../claims/no-ndd-family-interaction-achievement.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Support basic psychological needs and mindfulness through family education sessions and school conditions](family-education-sessions-needs-mindfulness.md)
 
 ## Examples
 -

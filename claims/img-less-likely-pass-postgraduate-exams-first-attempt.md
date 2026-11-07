@@ -53,3 +53,4 @@ Multivariate logistic regression on 69,595 written and 38,485 clinical first att
 - [Working less than full-time is associated with higher odds of passing postgraduate medical examinations at first attempt](ltft-working-higher-pass-odds.md) — related
 - [Lesbian, gay and homosexual candidates are significantly less likely than heterosexual candidates to pass written and clinical examinations at first attempt](lgb-candidates-lower-first-attempt-pass-odds.md) — related
 - [Prior academic attainment predicts success at postgraduate medical written and clinical examinations](prior-attainment-predicts-postgraduate-exam-success.md) — related
+- [First-attempt pass rates differed between TPK and ZPDT (theoretical 29% vs. 8% failure; practical 44% vs. 29%), with final failure rates converging after repeat exams](first-attempt-fail-rates-tpk-zpdt.md) — related

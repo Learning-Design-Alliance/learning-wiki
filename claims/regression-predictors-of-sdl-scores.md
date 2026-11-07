@@ -48,3 +48,4 @@ Multiple linear regression (backward method) in the Findings section of the cros
 - [Healthcare work experience shows a significant inverse relationship with clinical competence scores, contrary to prior findings](work-experience-inverse-relationship-clinical-competence.md) — related
 - [Self-directed learning total score correlates weakly but significantly and directly with clinical competence total score among third- and fourth-year nursing students](sdl-weak-significant-direct-correlation-clinical-competence.md) — related
 - [Self-directed learning competence is positively associated with core competence among infectious disease nurses](self-directed-learning-competence-core-competence-infectious-disease-nurses.md) — related
+- [Field satisfaction is associated with higher academic success (β = 9.797, P = 0.001)](field-satisfaction-associated-academic-success.md) — related

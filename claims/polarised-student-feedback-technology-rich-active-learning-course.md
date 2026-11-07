@@ -69,3 +69,4 @@ Snapshot from the ALPP sharing session comparing the team's feedback with other 
 - [In a blended first-year engineering course, sub-groups of students (n > 200) reported qualitatively different approaches to inquiry and use of online learning technologies.](blended-course-qualitatively-different-approaches-subgroups.md) — related
 - [Higher and lower Moodle scorers viewed flipped learning as almost equally valuable, but higher scorers talked more positively about how the course was delivered](moodle-score-flipped-attitude-delivery.md) — related
 - [Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students](online-heavy-models-first-year-challenge.md) — related
+- [Iterative redesign between flipped sessions, informed by questionnaire feedback, shifted student perceptions toward a more supportive teacher role and higher participation](dt-iteration-between-sessions-improved-student-feedback.md) — related

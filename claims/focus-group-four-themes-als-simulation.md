@@ -52,3 +52,4 @@ Qualitative content analysis of online focus group interviews with 11 students (
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [Qualitative interviews identified three themes: positive feedback and experience, limitations of the STP, and applicability of the training](stp-qualitative-themes-experience-limitations-applicability.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
+- [Interview participants identified unsuitable teaching approaches, low engagement, and boredom as the main weaknesses of virtual education](virtual-education-weakness-engagement-boredom.md) — related

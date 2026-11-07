@@ -54,3 +54,4 @@ The review attributes to Booth (2012) the conclusion that "trust is among the ke
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
+- [Organizational culture, communication and motivational efforts are identified as organizational behaviour factors in department chair performance improvement](dc-organizational-culture-communication-motivation.md) — related

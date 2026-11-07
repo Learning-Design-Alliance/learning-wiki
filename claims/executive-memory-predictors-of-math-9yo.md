@@ -61,3 +61,4 @@ Simultaneous multiple regression (M1) in 98 9-year-olds with normal reading skil
 - [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](dd-visuospatial-stm-wm-impairment.md) — related
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
 - [High verbal comprehension, general reasoning, and spatial orientation characterize superior film learners](mental-abilities-superior-film-learning.md) — related
+- [Visuospatial WM independently predicts all five specific mathematical components, while verbal WM independently predicts only algebra](vswm-predicts-all-components-verbal-wm-algebra-only.md) — related

@@ -54,7 +54,9 @@ A concrete implementation recipe the article tested: combine problem-based learn
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](../claims/fc-satisfaction-and-implementation-challenges.md) [~W]
 
 ## Related Strategies
+
 - Problem Learning Objective Validation Triad
+- [Implement PBL as five-to-six-member student groups researching real-life wave problems and presenting solutions](pbl-group-problem-presentation-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Student questionnaire (10-point VAS) comparing the TCLEBL group (n = 21) with th
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
 - [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
+- [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](pri-e-student-ability-development-ratings.md) — related

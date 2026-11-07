@@ -70,3 +70,4 @@ Same survey and mediation model; the article reports perceived risk negatively a
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
 - [Positive and negative AI perceptions are strongly negatively co-related within individuals (τ = −0.819), refuting an ambivalent-attitude reading of aggregate frequencies](perception-polarisation-tau-negative-0819.md) — related
 - [AI-related fear shows a differentiated pattern: positive direct association with AI use but negative association with pedagogical AI competence and negative indirect effect](ai-fear-differentiated-direct-indirect-pattern.md) — related
+- [Older age was significantly associated with lower ChatGPT usage scores (r = −0.18)](older-age-lower-chatgpt-usage.md) — related

@@ -46,7 +46,8 @@ The article suggests organizations use 360° VR videos where traditional instruc
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](../claims/immersive-lessons-small-advantage-presence-not-sufficient.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use immersive VR headset training as a feasible, accessible option for robotic set-up training in resource-limited settings](ivr-resource-limited-robotic-setup-training-strategy.md)
 
 ## Examples
 -

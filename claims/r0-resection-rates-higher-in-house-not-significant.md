@@ -49,3 +49,4 @@ Resection status was assessed after the first excision attempt in the randomized
 - [LEEP scores improved over five attempts on both simulators, but only the in-house simulator retained statistically significant pairwise gains after correction](leep-learning-progression-in-house-only-significant-pairwise.md) — related
 - [Medical students training on the in-house 3D-printed LLETZ simulator achieved significantly better LEEP scores than those on the commercial simulator by the fifth attempt](in-house-lletz-simulator-better-leep-score-attempt-5.md) — related
 - [Residents rated the in-house simulator more favorably than the commercial model, with a statistically significant difference only in confidence handling electrosurgery](residents-favor-in-house-simulator-subjective-feedback.md) — related
+- [No significant between-group differences in composite score on the realistic brain tumor resection transfer task](icems-no-transfer-difference-realistic-task.md) — related

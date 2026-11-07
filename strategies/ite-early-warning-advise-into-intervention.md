@@ -48,6 +48,7 @@ The article recommends using ITE predictions early in a course to identify and a
 ## Related Strategies
 
 - [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
+- [Establish an academic early warning system for primary school students using ensemble learning methods](ensemble-learning-academic-early-warning-system.md)
 
 ## Examples
 -

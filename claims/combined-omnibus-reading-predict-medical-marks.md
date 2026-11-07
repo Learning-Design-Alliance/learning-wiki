@@ -47,3 +47,4 @@ Correlational analysis of 93 tested applicants, of whom 69 entered; 50 full-work
 ## Related Claims
 - [The mental tests were a better indication of medical school ability than the applicants' prior academic records](tests-beat-academic-records-prognosis.md) — related
 - [Reading-test time scores correlate equivocally with academic marks, unlike raw association time](reading-time-equivocal-raw-time-positive.md) — related
+- [Poorer reading comprehension, but not word-recognition speed or history of reading difficulties, is associated with lower university academic achievement](comprehension-not-decoding-predicts-wam.md) — related

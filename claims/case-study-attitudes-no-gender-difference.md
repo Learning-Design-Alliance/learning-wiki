@@ -48,3 +48,4 @@ Gender comparison within the experimental group (17 female, 13 male) on post-att
 - [Within the experimental group, environmental attitudes improved significantly from pre-test to post-test after case-study instruction](experimental-group-pre-post-attitude-gain.md) — related
 - [Case-study-based teaching in 6th-grade social studies produces higher post-test environmental attitudes than existing-curriculum teaching](case-study-teaching-higher-environmental-attitudes.md) — related
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
+- [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related

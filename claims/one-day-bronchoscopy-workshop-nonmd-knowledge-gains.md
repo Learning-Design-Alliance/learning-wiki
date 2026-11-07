@@ -51,3 +51,4 @@ Pre-test/post-test analysis of 15 non-MDs (respiratory therapists and nurses) us
 - [Delegates who stayed for extra practice all successfully navigated the bronchoscope to specified bronchopulmonary segments](bronchoscopy-workshop-informal-skill-assessment.md) — related
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — related
 - [Newly employed respiratory therapists show critical competency gaps (over 300%) in ECMO and lung ultrasound relative to mandatory-competency standards](critical-competency-gaps-ecmo-lung-ultrasound-rt.md) — related
+- [Vaccine storage knowledge scores rose from 5.6 to 9.8 of 11 correct answers among physicians and practice assistants after KeepCoool participation, in one single-group pre-post study with no comparison group](keepcoool-knowledge-score-increase.md) — related

@@ -52,3 +52,4 @@ Secondary endpoint asked at the end of the competency test in the randomised tri
 - [Self-taught mindfulness training may be a useful option for teachers who cannot access or commit to an instructor-led program, provided they engage with mindfulness practice](self-taught-mt-fallback-when-access-limited.md) — related
 - [Video-supported self-directed learning was feasible across professions, education levels, and experience levels in anaesthesia](self-directed-video-feasible-interprofessional.md) — related
 - [Video-supported self-directed learning is noninferior to instructor-led workshop training for passing a practical assessment on a new anaesthesia workstation](self-directed-video-noninferior-anaesthesia-workstation.md) — related
+- [Nurses enjoyed the asynchronous self-directed training, with no one reporting dissatisfaction with self-directed learning or learning without an instructor](nurses-enjoy-asynchronous-self-directed-training.md) — reports the opposite

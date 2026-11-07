@@ -49,3 +49,4 @@ Descriptive and correlation analysis (Table 2, N = 363) provides preliminary sup
 - [Critical thinking positively predicts academic competence among Chinese college students](critical-thinking-predicts-academic-competence-chinese-college.md) — related
 - [Critical thinking positively predicts academic engagement, an effect the authors grade as large](critical-thinking-predicts-academic-engagement.md) — related
 - [Academic engagement partially mediates the pathway from critical thinking to academic competence](academic-engagement-partially-mediates-ct-competence.md) — related
+- [School motivation correlates positively with learning engagement among college students](school-motivation-correlates-learning-engagement.md) — related

@@ -52,3 +52,4 @@ Task 2 distributional analysis of psychometric scores by prompting mode. The art
 - [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related
 - [Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans](response-prompting-styles-increase-variance.md) — related
 - [Censoring appears to affect negative-valence ratings of mathematics-related cues between model variants](censoring-affects-llm-math-valence-ratings.md) — related
+- [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related

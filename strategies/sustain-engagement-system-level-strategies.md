@@ -50,6 +50,7 @@ Because engagement declined steeply after initially high levels, the article rec
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 - [Implement student-support mechanisms and embed well-being in the medical curriculum to sustain strength of motivation](student-support-mechanisms-sustain-motivation.md)
+- [Emphasize pre-session preparation and distribute active methodologies across the curriculum to sustain WSLA effectiveness](emphasize-preparation-and-distribute-active-methods-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ NASA-TLX cognitive workload questionnaire completed after each exercise in the r
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
 - [Participants rate both digital and in-person laparoscopy training positively and similarly, but a majority across both groups would still prefer to be trained in-person](training-modality-satisfaction-high-preference-in-person.md) — related
+- [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related

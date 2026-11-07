@@ -54,6 +54,7 @@ The review recommends designing AR physics applications in line with Mayer's cog
 - [Illustrate Through Multiple Media](illustrate_through_multiple_media.md)
 - [Multiple Representations Visual Representations](multiple_representations-visual_representations.md)
 - [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](multimedia-and-homework-for-5e-phases.md)
+- [Augment complex diagnostic test result presentations with intuitive, easy-to-understand visualizations](augment-complex-test-results-intuitive-visualization-strategy.md)
 
 ## Examples
 -

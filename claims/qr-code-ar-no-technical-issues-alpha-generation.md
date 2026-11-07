@@ -51,3 +51,4 @@ The article reports, in its abstract, that "students did not face any technical 
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
+- [Despite generational familiarity with technology, students uniformly requested more familiarization with VR hardware and free exploration before managing a virtual patient](students-requested-vr-hardware-familiarization.md) — related

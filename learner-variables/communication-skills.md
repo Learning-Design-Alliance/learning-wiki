@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (115 show a difference, 30 mixed, 24 no difference) · 140 studies (54 causal, 26 review, 21 associational, 20 quant-synthesis, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 22 of 140 report an effect size · 166 claims rest on one study
+> **Evidence** · 171 claims (115 show a difference, 32 mixed, 24 no difference) · 141 studies (54 causal, 26 review, 22 associational, 20 quant-synthesis, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 22 of 141 report an effect size · 168 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -210,6 +210,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [A larger share of the combined-method group reported improved doctor–patient communication skills (82.69% vs 56.86%)](../claims/cbl-clinical-pathway-communication-skills-improved.md) [+M] — measured as an outcome of the instruction studied
 - [Dental students’ communication skills rose significantly from pre-test to post-test after targeted communication training followed by simulated patient encounters, in one uncontrolled pre-post study](../claims/targeted-training-simulated-patients-improved-communication-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Virtual care placements uniquely developed niche communication skills, including virtual group facilitation and virtual client communication](../claims/virtual-care-niche-communication-competencies.md) [+M] — measured as an outcome of the instruction studied
+- [Mother-child communication buffers the negative unwellness–Chinese relationship and father-child communication buffers the unwellness–English relationship; no moderation for mathematics](../claims/parent-child-communication-buffers-unwellness.md) [~M] — an instructional effect differs with it
+- [Only mother-child communication is positively associated with performance in all three subjects; father-child communication and non-academic activity involvement show no association](../claims/mother-child-communication-main-effect.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

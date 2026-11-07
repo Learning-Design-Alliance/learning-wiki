@@ -49,4 +49,4 @@ LMM analyses in the randomized N = 87 study showed a significant main effect of 
 - [Perceived insecurity varies across patient cases in VP training, with the suicidal-tendencies case eliciting the highest insecurity](insecurity-varies-by-patient-case-vp.md) — related
 - [AI-enabled virtual patient simulation training improves perceived psychotherapeutic competence over four sessions](vp-simulation-improves-perceived-psychotherapeutic-competence.md) — related
 - [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — related
-- [In one uncontrolled pre-post study, dental students' use of complex medical jargon fell from before to after the virtual dental clinic module, while straightforward language with patients rose](vdc-communication-jargon-reduction.md) — related
+- [In one uncontrolled pre-post study of two e-learning modules, dental students used less complex jargon and more straightforward language in OSCE role-play with examiners as simulated patients](vdc-communication-jargon-reduction.md) — related

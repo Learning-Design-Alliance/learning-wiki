@@ -52,3 +52,4 @@ In the same RCT, the delayed test administered four weeks after the course to as
 - [Students taught with the Learning Together technique retained significantly more psychology knowledge on a delayed test than lecture-taught students](learning-together-greater-knowledge-retention.md) — related
 - [Parole users retained more vocabulary twelve weeks after instruction than control students](parole-software-improves-vocabulary-retention.md) — related
 - [No difference between 3DP and lecture-based groups in self-reported mastery of basic knowledge](3dp-pbl-no-difference-basic-knowledge-mastery.md) — related
+- [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — reports the opposite

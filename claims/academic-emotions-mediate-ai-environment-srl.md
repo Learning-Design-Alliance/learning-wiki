@@ -82,3 +82,4 @@ The structural model retained a significant direct path after including the thre
 - [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related
 - [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](boredom-negative-mediation-tcb-eap.md) — related
 - [Enjoyment positively mediates the relationship between teacher caring behavior and English academic performance](enjoyment-positive-mediation-tcb-eap.md) — related
+- [Online class-related enjoyment is significantly positively correlated with academic achievement among college students](online-enjoyment-correlates-academic-achievement.md) — related

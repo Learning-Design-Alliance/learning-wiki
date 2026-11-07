@@ -54,3 +54,4 @@ Cross-sectional follow-up comparison among the 42 of 88 participants who returne
 - [No significant performance differences between students trained every 3 months and every 6 months](no-difference-3-versus-6-month-cpr-training.md) — related
 - [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
 - [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related
+- [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](simulation-ascites-puncture-three-month-skill-retention.md) — related

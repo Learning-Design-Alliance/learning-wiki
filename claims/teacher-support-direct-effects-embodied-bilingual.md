@@ -51,3 +51,5 @@ SEM analysis of questionnaire data from 518 university students in bilingual Tai
 - [Teacher support indirectly relates to psychological well-being through the chain basic psychological needs → learning motivation, with a small supplementary effect](chain-mediation-teacher-support-wellbeing.md) — related
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
+- [Academic motivation significantly and positively predicts students' mental well-being (β = 0.317)](acm-positive-predicts-mental-wellbeing.md) — related
+- [Basic psychological needs positively predict college students' mindfulness](bpn-predict-mindfulness-chinese-college.md) — related

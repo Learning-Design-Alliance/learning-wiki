@@ -53,3 +53,4 @@ Self-directed learning measured after training with a Shanxi University of Tradi
 - [PBL-FC teaching produces significantly higher total self-directed learning ability scores than traditional lecture-based teaching in ophthalmology undergraduates](pbl-fc-higher-total-self-directed-learning.md) — related
 - [Hemodialysis nurses trained with flipped classroom scored significantly higher on objective, subjective, and overall theoretical knowledge than nurses trained with lecture-based learning](fc-beats-lbl-hemodialysis-theoretical-knowledge.md) — related
 - [SDL improvement held in learning motivation, planning and implementation, and self-management, but not in interpersonal communication](sdl-dimensions-mixed-oamas.md) — related
+- [ADDIE-based flipped classroom training improved neurology residents' self-directed learning ability scores significantly more than traditional teaching](addie-flipped-classroom-self-directed-learning-neurology-residents.md) — related

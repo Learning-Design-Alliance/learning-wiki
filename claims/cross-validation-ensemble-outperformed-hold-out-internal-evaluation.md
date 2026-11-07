@@ -48,3 +48,4 @@ The article reports that "Our models were more accurate in the test set (mean QW
 ## Related Claims
 - [Finetuned DeBERTa-v3-large models achieved human-like agreement on nine of ten NAEP math constructed response items in the held-out test set](deberta-human-like-agreement-nine-of-ten-naep-math-items.md) — related
 - [A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)](soft-voting-ensemble-behavioral-attrition-f1.md) — related
+- [Ensemble models generalize better than individual learners on held-out test samples for predicting academic achievement](ensemble-generalization-test-samples.md) — related

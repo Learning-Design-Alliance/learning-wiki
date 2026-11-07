@@ -74,3 +74,4 @@ Same subgroup analysis: readiness improved in both sectors, with smaller statist
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
 - [A 30-minute pre-OSCE HPOT session of relaxation, breathing and positive reinforcement significantly reduces medical students' pre-exam anxiety](hpot-reduces-pre-osce-anxiety.md) — related
 - [Self-assessed pediatric emergency knowledge and skills increased significantly in both medical and nursing staff from before preparation to after the team training day](blended-emergency-training-self-assessed-gains-t3.md) — related
+- [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related

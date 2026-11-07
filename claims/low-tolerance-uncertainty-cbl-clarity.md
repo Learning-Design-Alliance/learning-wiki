@@ -49,3 +49,4 @@ Learning point from the SGFS data: students requested the facilitator's answer s
 - [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related
 - [Learners in the dual-layer DALMOOC experienced uncertainty and discomfort transitioning from instructor-driven to self-regulated learning, and found the distributed structure confusing](dalmooc-learners-uncertain-in-self-regulated-transition.md) — a broader claim this one bears on
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
+- [Residents' perceived expectation to perform as experts on par with experienced colleagues lowered their tolerance of uncertainty and hindered adaptive practices](expert-role-expectation-lowers-uncertainty-tolerance.md) — related

@@ -89,3 +89,4 @@ Null result from the same SEM analysis: the PS-only indirect pathway to reading 
 - [Processing speed affects math achievement directly and both reading and math indirectly through working memory](ps-direct-math-indirect-wm-academic-effects.md) — related
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
+- [Reading anxiety does not mediate the relationship between reading ability and academic achievement in university students](no-mediation-reading-anxiety-achievement.md) — related

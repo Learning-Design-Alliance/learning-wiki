@@ -75,6 +75,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
 - [Key considerations and proposed strategies for better CBL implementation in applied physiology](cbl-implementation-improvement-strategies-applied-physiology.md)
 - [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
+- [Emphasize pre-session preparation and distribute active methodologies across the curriculum to sustain WSLA effectiveness](emphasize-preparation-and-distribute-active-methods-strategy.md)
 
 ## Examples
 -

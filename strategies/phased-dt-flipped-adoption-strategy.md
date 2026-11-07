@@ -49,6 +49,7 @@ The article's closing recommendations give educators an adoption pathway for the
 - [Teacher training and preparation recommendations for implementing the flipped classroom strategy](fcrs-teacher-training-and-tool-preparation-strategy.md)
 - [Four-step implementation recommendations for the FCM-MFCS blended model](fcm-mfcs-implementation-recommendations.md)
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
+- [Encourage teachers to use the flipped classroom model when teaching courses students perform badly in, while attending to self-control readiness](encourage-fcm-for-weakly-performed-courses.md)
 
 ## Examples
 -

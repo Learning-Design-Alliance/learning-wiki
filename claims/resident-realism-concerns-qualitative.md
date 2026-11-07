@@ -50,3 +50,4 @@ Thematic analysis of open-ended resident feedback collected alongside the struct
 - [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [Resident feedback identifies expanded training scope, more practice time, and better scheduling as the top improvement requests](resident-feedback-curriculum-improvements.md) — related
+- [Fresh frozen cadaver use in the SIMULATE ureteroscopy curriculum showed no statistically significant performance advantage over non-cadaver cohorts](ffc-no-performance-advantage-simulate.md) — related

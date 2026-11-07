@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 81 claims (48 for, 28 mixed, 5 against) · 45 studies (28 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 15 of 45 report an effect size · 80 claims rest on one study
+> **Evidence** · 84 claims (51 for, 28 mixed, 5 against) · 47 studies (29 causal, 12 quant-synthesis, 3 review, 2 design, 1 associational), `q1`–`q4` · 15 of 47 report an effect size · 83 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -105,6 +105,9 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Students taught with flipped learning reported significantly higher satisfaction with the education method than traditionally taught students](../claims/flipped-learning-higher-satisfaction-patient-safety.md) [+W] — attached 2026-11-07 from Budak Vildan et al. (2025), which proposed "Six-week WHO-based flipped patient safety training program delivered via Microsoft Moodle".
 - [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](../claims/flipped-classroom-higher-posttest-scores-gondar.md) [+W] — attached 2026-11-07 from Mengesha Assefa Kebad et al. (2024), which proposed "Two-part flipped classroom module with online pre-class materials and in-class case-based activities"; tests this page's relationship.
 - [Flipped classroom students reported significantly higher engagement than traditional lecture students](../claims/flipped-classroom-higher-engagement-gondar.md) [+W] — attached 2026-11-07 from Mengesha Assefa Kebad et al. (2024), which proposed "Two-part flipped classroom module with online pre-class materials and in-class case-based activities"; tests this page's relationship.
+- [Test scores on flipped-taught chapters (respiratory and female reproductive systems) were significantly higher for the 2021 design-thinking flipped cohort than for the 2020 cohort](../claims/dt-flipped-chapter-test-scores-significantly-improved.md) [+W] — attached 2026-11-07 from Guo Yan et al. (2024), which proposed "O-PIRTAS six-step flipped classroom model"; tests this page's relationship.
+- [In a 10-week haematology course, the flipped learning group showed a significantly greater increase in self-efficacy than the traditional lecture group](../claims/flipped-learning-self-efficacy-increase-haematology.md) [+M] — attached 2026-11-07 from Algarni Abdulrahman Abdulrahman (2024), which proposed "Flipped haematology course built on Merrill's First Principles of Instruction with Blackboard-delivered video lectures, quizzes, and in-class group problem-solving".
+- [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](../claims/flipped-learning-positive-perceptions-haematology.md) [+M] — attached 2026-11-07 from Algarni Abdulrahman Abdulrahman (2024), which proposed "Flipped haematology course built on Merrill's First Principles of Instruction with Blackboard-delivered video lectures, quizzes, and in-class group problem-solving".
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

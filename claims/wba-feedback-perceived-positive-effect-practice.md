@@ -47,3 +47,4 @@ Systematic review synthesis of 15 prospective, non-comparative descriptive or ob
 ## Related Claims
 - [Feedback usefulness from multisource feedback is enhanced by increasing its specificity, and specific, patient-sourced feedback on communication skills is most consistently used](msf-feedback-specificity-enhances-usefulness.md) — related
 - [Mini-CEX shows a positive effect of feedback and perceived positive educational impact, with most specialists recording strengths, improvement areas and agreed actions](mini-cex-positive-feedback-effect-educational-impact.md) — related
+- [WBAs partially or sufficiently enhanced feedback and provided actionable steps to improve competency in South African specialist training](wba-actionable-feedback-competency.md) — a narrower finding that bears on this claim

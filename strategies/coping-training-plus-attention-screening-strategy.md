@@ -58,6 +58,7 @@ The article recommends that low-resource universities support achievement throug
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
 - [Organize mindfulness and adaptability courses and workshops for university students, especially new students](mindfulness-adaptability-workshops-strategy.md)
+- [Screen poor readers entering higher education for reading-specific anxieties rather than general well-being alone](screen-reading-anxiety-higher-education.md)
 
 ## Examples
 -

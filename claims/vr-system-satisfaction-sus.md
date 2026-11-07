@@ -52,3 +52,4 @@ Descriptive analysis of the Chinese-version System Usability Scale completed by 
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
 - [One round of VR-based geriatric oral health simulation training improves nursing students' knowledge and self-efficacy more than no training](vr-training-round1-knowledge-self-efficacy.md) — related
+- [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related

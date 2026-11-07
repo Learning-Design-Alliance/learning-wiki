@@ -46,6 +46,7 @@ The review's implication section recommends that, given the inevitable rise of o
 ## Related Strategies
 
 - [Future research should evaluate the impact of different variables on e-learning satisfaction, compare online teaching approaches, and investigate e-learning limitations and obstacles](future-research-elearning-satisfaction-variables-and-obstacles.md)
+- [Improve the distance education learning environment and raise student satisfaction to enhance academic outcomes](improve-distance-environment-satisfaction-strategy.md)
 
 ## Examples
 -

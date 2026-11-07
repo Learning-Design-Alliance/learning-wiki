@@ -86,3 +86,5 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [Authors position SKIT as excelling at non-technical skills while high-fidelity simulation outperforms it for fine procedural skills](skit-versus-hfs-vr-positioning.md) — related
 - [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](pal-simulation-pgy-cpe-significant-gains.md) — reports the opposite
 - [Both high-fidelity simulation and case-based discussion increased theoretical knowledge scores, with no significant difference between groups](hfs-cbd-equal-knowledge-gains.md) — related
+- [Student satisfaction was higher for high-fidelity simulation training than for interactive video-case training](hfs-higher-student-satisfaction.md) — reports the opposite
+- [High-fidelity simulation training produced higher team skills scores than interactive video-case training on the Mayo High Performance Teamwork Scale](hfs-higher-team-skills-score.md) — related

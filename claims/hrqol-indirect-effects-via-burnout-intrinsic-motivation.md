@@ -54,3 +54,4 @@ Indirect-effect estimates (Table 4) from the path analysis of 261 nursing studen
 - [Health-related quality of life reduces academic burnout and amotivation and raises intrinsic motivation, but not extrinsic motivation, in nursing students](hrqol-burnout-motivation-direct-paths-nursing.md) — related
 - [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — related
+- [Learning burnout is negatively related to English learning performance](burnout-negatively-related-to-english-performance.md) — related

@@ -53,6 +53,7 @@ The article recommends that doctoral programs support durable methodological cap
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
 - [Integrate pedagogic-didactic competence, content knowledge and socio-emotional skills in authentic teaching practice within health education teacher education](integrated-authentic-practice-he-teacher-education.md)
+- [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
 
 ## Examples
 -

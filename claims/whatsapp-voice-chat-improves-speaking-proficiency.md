@@ -51,3 +51,4 @@ Repeated-measures ANOVA comparing 40 experimental and 40 control Spanish B1 stud
 - [Students in a blended course with weekly WhatsApp-mediated learning activities achieved significantly higher post-test scores than students in a fully in-class control group](whatsapp-blended-achievement-gains.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [Negotiations are the most common language-related episodes in mobile voice chat, with phonetic triggers most abundant](negotiations-most-common-lres-mobile-voice-chat.md) — related
+- [Posttest achievement scores of the mobile-application group were significantly higher than the control group (t(50) = 4.09, p < .001, d = 1.135)](mobile-vp-posttest-ttest-difference.md) — related

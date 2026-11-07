@@ -50,6 +50,7 @@ Based on the finding that less experienced nurses gained most from the SDL packa
 - [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
 - [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 - [Run brief, frequent reversed-classroom ECG workshops during cardiology internships, with students selecting, presenting and discussing real patient ECGs under cardiologist supervision](five-minute-reversed-classroom-ecg-workshops.md)
+- [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 
 ## Examples
 -

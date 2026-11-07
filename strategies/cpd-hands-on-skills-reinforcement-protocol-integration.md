@@ -67,6 +67,8 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
 - [Provide competency-based in-service training through the CPD system for OBE-trained nurses and supervisors](cpd-in-service-cbe-training-for-obe-staff.md)
+- [Offer eLearning to practices with detected cold chain breaches and add reinforcement strategies for sustained improvement](elearning-offer-on-cold-chain-breach-detection.md)
+- [Incorporate virtual patient cases into continuous professional development of nurses at primary health centers](vp-cases-cpd-primary-health-nurses-strategy.md)
 
 ## Examples
 -
