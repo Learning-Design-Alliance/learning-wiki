@@ -47,6 +47,7 @@ The review recommends that future research establish a standard definition for b
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 - [Standardize EA wording and align activities with competency-based curricula through stakeholder consultation](standardize-ea-wording-cbme-alignment.md)
 - [Strengthen English language preparation and consider holistic admission tools in English-medium medical admissions](strengthen-english-preparation-holistic-admission-tools.md)
+- [Use validated admission competency criteria to design admission-evaluation methodologies and align curriculum with graduation competencies](admission-competency-criteria-inform-assessment-and-curriculum.md)
 
 ## Examples
 -

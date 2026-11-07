@@ -49,3 +49,4 @@ Descriptive comparison of chat logs per condition (Table 5): control 3.959 words
 - [American and Chinese users showed distinct messaging use patterns: fun-oriented short exchanges in the US versus informing and long in-depth chats in China](cross-site-messaging-use-patterns-differ.md) — related
 - [Socratic-mode participants progressively disengaged from the chatbot: message counts declined after question 5 and EEG engagement fell to its lowest value at question 10](socratic-mode-progressive-disengagement.md) — related
 - [Interacting with Clair had no significant effect on secondary-school students' post-test knowledge acquisition](clair-no-effect-knowledge-acquisition.md) — related
+- [Feedback and control groups were comparable at baseline in conversation length and sociodemographics before the feedback intervention](baseline-comparability-chat-transcript-word-count.md) — related

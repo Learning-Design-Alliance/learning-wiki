@@ -68,3 +68,4 @@ Same SEM analysis (Table 5, Figure 2). Paths from knowledge and self-efficacy to
 - [ICU nurses' delirium knowledge, self-efficacy and clinical reasoning competency are each negatively correlated with delirium care difficulties](icu-nurse-delirium-variables-negatively-correlated-difficulties.md) — related
 - [Demographics plus knowledge, self-efficacy and clinical reasoning explain 33.5% of variance in delirium care difficulties in multiple regression](regression-explains-33-5-percent-difficulties-variance.md) — related
 - [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related
+- [The hypothesized SEM explained 38% of variance in nurses' patient safety competency with good model fit](sem-explained-38-percent-competency-variance.md) — related

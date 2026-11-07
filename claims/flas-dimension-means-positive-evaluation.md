@@ -50,3 +50,4 @@ Descriptive analysis of FLAS dimension scores for 432 nursing students after the
 - [In multiple regression, academic year significantly predicted only the materials/organisation dimension, age only lecturer performance, and gender no dimension](regression-year-d1-age-d2-gender-null.md) — related
 - [Third-year nursing students rated the flipped classroom significantly higher than first-year students on the FLAS total scale and all three dimensions, with small effect sizes](third-year-students-rate-flas-higher-than-first-year.md) — related
 - [Probability of failing is higher under traditional methodology](traditional-methodology-higher-failure-probability.md) — related
+- [Students rated lecturer's work highest and comparison with traditional classes lowest among FLAS dimensions](flas-dimension-means-lecturer-highest-comparison-lowest.md) — possibly the same claim (merge candidate)

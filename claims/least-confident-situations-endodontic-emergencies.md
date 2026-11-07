@@ -72,3 +72,4 @@ Radar-chart analysis of technical-skill items (Figure 4) by year of study. The l
 - [VR simulators for inferior alveolar nerve block training improve operation success rate, trainee satisfaction, accuracy and confidence](vr-ianb-training-success-confidence.md) — related
 - [VR simulation improves anesthesia technical skills training across airway management, spinal/epidural anesthesia, nerve block skills, and pain management](vr-improves-anesthesia-technical-training.md) — related
 - [Lecturers uniquely reported that students prioritize technical skills over communication skills even in non-life-threatening situations, and that balancing interprofessional groups with varying experience is challenging](lecturers-students-prioritize-technical-skills.md) — related
+- [Students reported increased confidence across technical and non-technical skills, highest for dental dam placement and lowest for endodontic therapy](simulated-cases-confidence-item-ratings.md) — related

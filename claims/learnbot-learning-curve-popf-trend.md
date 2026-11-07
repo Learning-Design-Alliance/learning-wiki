@@ -58,3 +58,4 @@ Case-mix adjusted learning-curve estimation using generalized additive mixed mod
 - [Major complications occurred only after the learning phase, and phase differences in severe complications and anastomotic leakage were not statistically significant](complications-after-proficiency-phase.md) — related
 - [The blood-loss learning curve was not affected by the inclusion of new surgeons](rats-blood-loss-curve-unaffected-by-new-surgeons.md) — related
 - [The trainee's learning curve for major complications was completed after 55 consecutive cases under risk adjustment](mie-trainee-major-complications-lc-55-cases.md) — related
+- [No intraoperative or short-term postoperative complications and no conversions to open laparotomy occurred, so CUSUM analysis of complication and conversion rates was not feasible](rscp-no-complications-cusum-not-available.md) — related

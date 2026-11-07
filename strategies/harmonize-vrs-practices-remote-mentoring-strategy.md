@@ -49,6 +49,7 @@ The article recommends harmonizing VRS practices and assessment methods internat
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 - [Deploy the VR simulator as a tiered training and remote/team-based education platform across experience levels](tiered-remote-team-vr-training-strategy.md)
+- [Use simultaneous remote coaching to reduce regional disparities in surgical education where instructors are scarce](remote-coaching-reduce-regional-disparities-strategy.md)
 
 ## Examples
 -

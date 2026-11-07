@@ -52,3 +52,4 @@ t-test comparison of perceived simulation design (Table 2) in the same cross-sec
 - [Second-year students and male students report higher gerontological nursing competence than first-year and female students respectively](grade-and-gender-competence-differences.md) — related
 - [Psychological safety and simulation design features remain significant predictors of satisfaction within both gender subgroups, with predictors explaining more variance among male students](subgroup-predictors-consistent-across-genders.md) — related
 - [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related
+- [Male and female participants showed no difference in Overall Score on the simulator](no-gender-difference-overall-score.md) — related

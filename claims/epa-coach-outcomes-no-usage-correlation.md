@@ -52,3 +52,4 @@ Spearman correlations of knowledge, skill and ITU mean differences with total us
 - [No significant differences between young-old and older adults in knowledge or skill gains](epa-coach-no-age-group-differences.md) — related
 - [Older adults logged into the platform significantly more often than young-old adults during the intervention week](epa-coach-usage-logins-older-adults.md) — related
 - [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](interaction-metrics-weakly-correlated-task-performance.md) — related
+- [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related

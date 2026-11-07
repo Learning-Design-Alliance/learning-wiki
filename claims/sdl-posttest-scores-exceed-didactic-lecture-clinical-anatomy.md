@@ -67,3 +67,4 @@ On day 2 the batches crossed over: "MBBS Batch A (n = 62), SDL was 7.66 ± 0.95"
 
 ## Related Claims
 - [Knowledge retention measured 4 weeks after instruction is higher for topics learned through self-directed learning than for topics learned through didactic lecture](sdl-four-week-retention-exceeds-didactic-lecture.md) — related
+- [First-year medical students reported broad interest in monthly, workshop-style anatomy review sessions using MCQ-format questions](student-interest-monthly-workshop-mcq-format.md) — related

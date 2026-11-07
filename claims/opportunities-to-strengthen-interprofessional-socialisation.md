@@ -50,3 +50,4 @@ Interpretive description analysis of the same 17 interviews. Educators suggested
 - [Work environment contexts strongly influenced whether healthcare educators identified as interprofessional, uniprofessional or dual in their educator role](dual-identity-work-environment-influences-educator-identity.md) — related
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Structural and institutional constraints — time limitations, large class sizes, and dense curricular content — restrict implementation of active learning in nursing education](structural-institutional-constraints-active-learning-nursing.md) — related
+- [Departmental and individual faculty support facilitates Sim-IPE, but the absence of formal administrative policies hinders it](sim-ipe-support-and-policy-gap.md) — related

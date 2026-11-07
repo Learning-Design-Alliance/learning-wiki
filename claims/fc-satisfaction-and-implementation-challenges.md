@@ -61,3 +61,5 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related
 - [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — related
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
+- [FC-TBL students expressed high satisfaction, with about 78% reporting sparked interest and over 74% willing to choose the model again](fc-tbl-high-satisfaction.md) — related
+- [Residents in the intervention group reported reduced residency examination pressure compared with the control group](peyton-flipped-reduced-exam-pressure.md) — related

@@ -70,3 +70,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Students in the CBL multimodal imaging group reported higher learning interest, study ability, clinical thinking and case analysis ability than traditional-group students](cbl-multimodal-higher-subjective-evaluations.md) — related
 - [Face-to-face students rate learning motivation, clinical thinking, communication and teamwork higher, while self-learning skills and basic knowledge mastery do not differ](self-evaluation-f2f-vs-online-neurosurgery.md) — related
 - [Students taught with flipped learning reported significantly higher satisfaction with the education method than traditionally taught students](flipped-learning-higher-satisfaction-patient-safety.md) — related
+- [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related

@@ -87,3 +87,5 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [Translated and adapted questionnaires showed good reliability for SRIS, PCS and CS but weak separation of SRQ-L-PJ regulation subscales](questionnaire-psychometrics-german-fyms.md) — related
 - [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](acls-rubric-cronbach-alpha-076.md) — related
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
+- [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related
+- [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related

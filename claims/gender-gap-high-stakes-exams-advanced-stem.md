@@ -57,3 +57,4 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Students with minoritized identities earned lower overall lab grades regardless of group formation: women lower than men, URM students lower than non-URM, and first-generation students lower than continuing-generation](demographic-disparities-overall-lab-grades.md) — related
+- [SETs are significantly associated with instructor gender and grade expectation but generally not with final exam performance](sets-gender-grade-expectation-not-effectiveness.md) — related

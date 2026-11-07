@@ -58,3 +58,4 @@ Same adjusted binary logistic regression model on the 400-dentist survey, with e
 - [Prior BLS training is independently associated with higher BLS knowledge/practice scores among Gaza healthcare workers](prior-bls-training-higher-scores-gaza.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [Interns who experienced real patient CPR had higher skill confidence and skill test scores than those who did not](real-cpr-experience-higher-confidence-skill.md) — related
+- [In a multivariate logistic model, SS knowledge is predicted by experience (OR = 0.373), a master's degree (OR = 27.451), and SS training (OR = 25.293)](soft-skills-knowledge-multivariate-predictors.md) — related

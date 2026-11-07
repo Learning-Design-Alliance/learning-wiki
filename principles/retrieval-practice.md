@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 158 claims (72 for, 76 mixed, 10 against) · 82 studies (41 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 25 of 82 report an effect size · 151 claims rest on one study
+> **Evidence** · 159 claims (72 for, 77 mixed, 10 against) · 83 studies (42 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 26 of 83 report an effect size · 152 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](../claims/quiz-question-number-does-not-moderate-testing-effect.md) [~W] — attached 2026-11-06 from Glodowski et al. (2025), which proposed "Use relatively short quizzes to support college student success at a favorable cost-to-benefit ratio".
 - [Administering quizzes significantly improves college students' exam performance in a behavior-analytic course, replicating the testing effect](../claims/quizzes-improve-exam-performance-behavior-analytic-replication.md) [+W] — attached 2026-11-06 from Glodowski et al. (2025), which proposed "Use relatively short quizzes to support college student success at a favorable cost-to-benefit ratio"; tests this page's relationship.
 - [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](../claims/measured-self-testing-predicts-course-score.md) [+W] — attached 2026-11-07 from Hazlett et al. (2025), which proposed "Provide structured, feedback-rich practice opportunities in courseware, linked to learning objectives, to support adoption of effective strategies"; tests this page's relationship.
+- [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](../claims/no-practice-format-effect-on-retention-vsaq-mcq.md) [~W] — attached 2026-11-07 from van Wijk EV et al. (2024), which proposed "Choose VSAQs or MCQs for practice testing based on diagnostic purpose, since neither format shows a retention advantage for lower-order skills".
 
 ## Objective and learner-valued goal
 
@@ -297,6 +298,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - A language app revisits previously learned vocabulary with delayed recall items and immediate corrective feedback rather than only offering rereading.
 - [EISEL](../products/eisel.md)
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](../strategies/frequent-low-stakes-cumulative-testing-strategy.md)
+- [Balance retrieval effort and retrieval success by adding feedback, repeated spaced retrieval, and hybrid question formats to VSAQ practice](../strategies/balance-retrieval-effort-success-strategies.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

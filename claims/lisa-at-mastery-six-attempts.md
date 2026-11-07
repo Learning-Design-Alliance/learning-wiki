@@ -48,3 +48,4 @@ Learning-curve analysis of 23 novices practising in a second round with one minu
 - [The modified LISA-AT score discriminates between novices and experts performing LISA in simulation, with novices scoring significantly lower (median 29 vs 39 of 40)](lisa-at-discriminates-novices-experts.md) — related
 - [After reaching the minimum passing score, novices' laryngoscopy skill and laryngoscopy time remain significantly different from experts (36 s vs 20 s, p < 0.001)](lisa-at-laryngoscopy-gap-persists.md) — related
 - [Simulation-based LISA training to the minimum passing score costs a median of USD 68 per novice using trained investigators as onsite raters](lisa-simulation-training-cost.md) — related
+- [Fellows required an average of 4.5 training sessions (about 90 minutes of individualized bedside instruction) to reach the mastery learning standard, and 7 of 11 recruited fellows met it](mastery-learning-sessions-to-mps-echocardiography.md) — related

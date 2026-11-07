@@ -51,6 +51,7 @@ Because retention at follow-up was variable, the article recommends that a singl
 - [Offer recurring evidence-based suturing workshops, including through ACNM state affiliates, to support confidence and skill retention](recurring-suturing-workshops-recommendation.md)
 - [Use cadaveric workshops to compensate for missed prior ultrasound course attendance when allocating educational resources](cadaveric-course-compensation-resource-allocation-strategy.md)
 - [Schedule top-up or refresher sessions after short SBE workshops to maintain knowledge gains](top-up-sessions-maintain-sbe-gains.md)
+- [Continue offering monthly optional anatomy workshops and add a formative anatomy readiness exam before Step 1](monthly-anatomy-workshops-readiness-exam-strategy.md)
 
 ## Examples
 -

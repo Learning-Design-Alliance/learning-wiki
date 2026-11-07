@@ -56,3 +56,5 @@ Cross-sectional paper-pencil survey of 192 completed questionnaires (97.46% resp
 - [First-year surgery residents were highly satisfied with the homemade CVCD TIVAP simulator, with a mean overall rating of 8.7 of 10 (n = 28)](residents-high-satisfaction-homemade-tivap-simulator.md) — related
 - [Students' ratings of the importance of simulation training and human factors training rose significantly from pre-test to post-test after the module, in one uncontrolled pre-post study](simulation-module-improved-simulation-human-factors-ratings.md) — related
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
+- [First-week genetic counseling students report very high overall satisfaction (mean 95.9%) with simulation-based learning with standardized clients](first-week-gc-simulation-high-satisfaction.md) — related
+- [Learners are less satisfied with VPS than with IPS for resuscitation training](vps-lower-satisfaction-than-ips.md) — related

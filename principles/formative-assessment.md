@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (36 for, 22 mixed) · 63 studies (20 causal, 14 review, 13 quant-synthesis, 6 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 63 report an effect size · 46 claims rest on one study
+> **Evidence** · 59 claims (36 for, 23 mixed) · 64 studies (21 causal, 14 review, 13 quant-synthesis, 6 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 64 report an effect size · 47 claims rest on one study
 
 ## Description
 
@@ -147,6 +147,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Daily assessments improved final exam performance on five of eight topics](../claims/daily-assessments-improved-final-exam-topics.md) [+W] — attached 2026-11-03 from Bush et al. (2011), which proposed "Replace daily homework with frequent low-stakes daily assessments to improve performance"; tests this page's relationship.
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](../claims/pre-class-tests-increase-stress-anxiety.md) [~W] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Frame pre-class tests as formative learning tools with extended windows, reliable technology, and aligned content".
 - [84.0% of students preferred to maintain or increase pre-class test frequency](../claims/pre-class-tests-high-acceptance-frequency-preference.md) [+W] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Frame pre-class tests as formative learning tools with extended windows, reliable technology, and aligned content".
+- [Third formative assessment scores rose from pre-test to post-test, with no significant difference from summative examination scores after remediation, in one single-group pre-post study](../claims/post-remediation-gains-sustained-third-fa-to-sa.md) [~W] — attached 2026-11-07 from Hegde Shreelaxmi V. et al. (2024), which proposed "Identify underperforming students early in the curriculum and provide tailored remediation to enhance exam performance".
 
 ## Source verification and open tests
 
@@ -289,6 +290,10 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](../claims/structured-hapa-feedback-form-outperforms-unstructured.md) [+W]
 - [Prior smaller studies of the QfL learner response strategy reported positive effects on maths and grammar](../claims/qfl-prior-studies-positive-effects.md) [~W]
 - [Prior reviews of formative assessment effectiveness report widely different estimates, ranging from 0.40-0.70 standard deviations to 0.20](../claims/formative-assessment-effect-estimates-vary-across-reviews.md) [~W]
+
+## Examples
+
+- [Attach grade incentives to formative assessments within remediation to boost engagement and performance](../strategies/grade-incentives-in-formative-assessments-remediation-strategy.md)
 
 ## Key Sources
 

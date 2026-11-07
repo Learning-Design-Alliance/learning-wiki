@@ -46,6 +46,7 @@ The authors advise that because immersion in IBL "may not be effective for stude
 ## Related Strategies
 
 - [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
+- [Family education programs should help parents reflect on and shift childrearing beliefs toward progressive orientations](family-programs-shift-beliefs-progressive.md)
 
 ## Examples
 -

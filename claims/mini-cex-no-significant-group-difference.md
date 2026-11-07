@@ -54,3 +54,4 @@ Single post-test (T2) Mini-CEX assessment by a blinded independent evaluator in 
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — reports the opposite
 - [Maternal attachment retest scores do not differ significantly between the simulator and video groups](retest-maternal-attachment-no-significant-difference.md) — related
 - [Operating room trainees assessed with the Mini-CEX score significantly higher than trainees assessed with the routine Logbook](mini-cex-higher-scores-than-logbook-operating-room-trainees.md) — related
+- [The PBL-ChatGPT group scored significantly higher than the traditional teaching group on the Mini-CEX overall clinical competence domain](pbl-chatgpt-higher-mini-cex-overall-clinical-competence.md) — related

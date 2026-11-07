@@ -63,3 +63,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [In-depth interviews identified clinical relevance, case-based scenarios, models, visualization, and facilitator interaction as key perceived strengths of the simulation-based intervention](interview-themes-simulation-strengths.md) — related
 - [Students in the experimental group reported high satisfaction with the BOPPPS-based “One Case to the End” reform](one-case-boppps-high-student-satisfaction.md) — related
 - [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related
+- [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related

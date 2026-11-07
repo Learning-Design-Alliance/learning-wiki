@@ -69,3 +69,4 @@ Participation analysis across the three iterations of the CSC among University o
 - [Mapping the Calgary Simulation Curriculum's sessions to RCPSC Entrustable Professional Activities demonstrated content validity across Foundations and Core stages of training](csc-content-validity-epa-mapping.md) — related
 - [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
+- [Resident feedback identifies expanded training scope, more practice time, and better scheduling as the top improvement requests](resident-feedback-curriculum-improvements.md) — related

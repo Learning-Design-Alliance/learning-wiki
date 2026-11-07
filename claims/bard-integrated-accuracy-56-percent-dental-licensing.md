@@ -50,3 +50,4 @@ Meta-analysis of 3 studies testing Bard on dental licensing examinations using a
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — reports the opposite
 - [Large language models achieve a pooled accuracy of 63.69% (95% CI 60.26%-67.06%) in answering dental examination questions](llm-pooled-accuracy-dental-exam-63-69.md) — a broader claim this one bears on
 - [GPT-3.5 achieves an integrated accuracy of 54% on dental licensing examinations](gpt-3-5-integrated-accuracy-54-percent-dental-licensing.md) — related
+- [GPT-4o and GPT-4 significantly outperform GPT-3.5 and Google Bard on overall accuracy across four medical licensing examinations](gpt4o-gpt4-outperform-gpt35-bard-medical-licensing-exams.md) — related

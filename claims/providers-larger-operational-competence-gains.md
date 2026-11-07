@@ -47,3 +47,4 @@ Between-group ANOVA/Welch comparisons of retrospective learning gains by experie
 ## Related Claims
 - [Team communication and decision-making gains show no significant differences across departments, experience levels, professions, or prior simulation exposure](communication-decision-gains-uniform-subgroups.md) — related
 - [Retrospective self-assessed CRM-related competencies improve significantly after in-situ ATLS®-based trauma team training, with a small mean gain relative to the scale range](in-situ-trauma-simulation-crm-self-assessed-gains.md) — related
+- [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — related

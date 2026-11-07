@@ -71,6 +71,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
 - [Supplement game-based learning with reinforcement strategies such as periodic refresher sessions and adaptive difficulty to sustain patient safety competency](gbl-reinforcement-refresher-strategy.md)
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
+- [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
 
 ## Examples
 -

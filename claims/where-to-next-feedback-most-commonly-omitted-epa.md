@@ -49,3 +49,4 @@ Domain-level scoring of the same 748-observation sample (Table 2). "273 (36.5%) 
 - [In the 2022–2023 academic year, 164 third-year students completed 15,240 EPA observations, from which a random sample of 748 (approximately 5%) was analysed](epa-observations-volume-15240-sample-748.md) — related
 - [Inter-rater reliability of EFeCT scoring improved from moderate (ICC 0.67) to excellent (ICC 0.96) after consensus calibration, with an overall ICC of 0.66 across the full sample](efect-inter-rater-reliability-consensus-calibration.md) — related
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — a broader claim this one bears on
+- [App-based EPA assessments stimulated a feedback process in 57% of assessments, with a learning goal documented in 96% of those](app-epa-assessments-stimulate-feedback-learning-goals.md) — related

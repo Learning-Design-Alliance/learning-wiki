@@ -51,3 +51,4 @@ Chi-square tests in the 121-student cross-sectional survey found no statisticall
 - [University entrance score is significantly associated with pre-OSCE state anxiety level](entrance-score-associated-state-anxiety.md) — related
 - [Combining work and study is significantly associated with higher pre-OSCE anxiety levels](work-study-balance-associated-anxiety.md) — related
 - [Trait anxiety shows a similar sociodemographic pattern to state anxiety before the OSCE](trait-anxiety-similar-pattern-state-anxiety.md) — related
+- [Gender and accommodation type showed no statistically significant relationship with summative assessment marks](no-gender-accommodation-association-summative-marks.md) — related

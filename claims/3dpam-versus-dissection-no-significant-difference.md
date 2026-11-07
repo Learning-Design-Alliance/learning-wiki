@@ -51,3 +51,4 @@ The review reports, citing O'Reilly et al., a comparison of one hour of 3DPAM le
 - [3DPAM pedagogical effectiveness appears best for complex anatomical areas and for students early in their medical studies](3dpam-effectiveness-best-complex-areas-early-students.md) — a broader claim this one bears on
 - [Groups using 3DPAMs achieved significantly better test results than groups using dry bones, with one mixed result on MCQs](3dpam-better-test-results-than-dry-bones.md) — related
 - [Meta-analyses report better post-test results for 3DPAM instruction, especially for complex anatomical structures and medical students](meta-analyses-favour-3dpam-post-test-results.md) — a broader claim this one bears on
+- [Dissection shows only slightly better or equal learning effects compared with prosection or digital learning tools, though mostly short-term recall is tested](dissection-only-slightly-better-or-equal-learning-effects.md) — a broader claim this one bears on

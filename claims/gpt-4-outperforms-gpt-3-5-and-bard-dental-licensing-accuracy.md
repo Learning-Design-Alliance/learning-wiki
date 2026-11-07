@@ -57,3 +57,4 @@ Meta-analysis of 7 studies testing GPT-4 on dental licensing examinations using 
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
 - [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related
 - [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
+- [GPT-4o and GPT-4 significantly outperform GPT-3.5 and Google Bard on overall accuracy across four medical licensing examinations](gpt4o-gpt4-outperform-gpt35-bard-medical-licensing-exams.md) — related

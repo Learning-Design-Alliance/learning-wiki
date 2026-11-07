@@ -70,3 +70,4 @@ The weekly self-report implementation status survey showed the median time spent
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related
 - [Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users](epsrl-increases-learning-motivation-time-and-speed.md) — related
 - [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](se-prompts-increase-time-per-problem.md) — related
+- [Self-paced VPS repetition is modest in practice: learners complete about 2 attempts per scenario in roughly 45 minutes despite a 70-minute allowance](vps-modest-time-on-task-attempts.md) — related

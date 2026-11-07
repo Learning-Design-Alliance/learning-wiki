@@ -50,3 +50,5 @@ Multivariate logistic regression among 399 public primary school children found 
 - [Maternal literacy and education are associated with better academic performance of first-cycle primary school children in North Shoa Zone, Ethiopia](maternal-education-associated-academic-performance-ethiopia.md) — related
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related
 - [Minimum dietary diversity is associated with approximately three times better academic performance in Ethiopian primary school children](dietary-diversity-associated-academic-performance-ethiopia.md) — related
+- [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
+- [Students aged 16–18 are more likely to achieve good academic performance than those aged 14–15](older-adolescents-better-academic-performance.md) — related

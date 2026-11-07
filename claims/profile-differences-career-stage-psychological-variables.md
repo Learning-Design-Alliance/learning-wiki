@@ -78,3 +78,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — reports the opposite
 - [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — reports the opposite
 - [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related
+- [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](sex-difference-competence-significant-except-core-skills.md) — reports the opposite

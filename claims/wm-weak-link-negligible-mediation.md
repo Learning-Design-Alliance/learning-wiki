@@ -72,3 +72,4 @@ Meta-analytic mediation (meta-path analysis) using two strategies: random-effect
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — reports the opposite
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — reports the opposite
+- [Working memory significantly mediates the SES-educational achievement association, accounting for 39% of the total effect](working-memory-mediation-ses-achievement.md) — related

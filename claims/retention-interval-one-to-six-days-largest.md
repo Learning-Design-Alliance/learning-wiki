@@ -53,3 +53,4 @@ Moderator analysis of retention interval (Table 4): <1 day k = 117 (g = 0.56), 1
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
 - [Retrieval interval length may moderate the testing effect in mathematics: restricting to intervals over one day raises the effect to g = 0.378 (exploratory).](retrieval-interval-moderator-testing-mathematics.md) — related
 - [Longer retention intervals between pre- and post-test weaken the effect of mental simulation](ms-retention-interval-negative.md) — related
+- [Final test scores were significantly lower than practice test scores over retention intervals of three to six weeks in a single-group pre-test/post-test study with no comparison group](final-test-lower-than-practice-scores.md) — related

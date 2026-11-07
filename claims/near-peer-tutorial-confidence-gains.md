@@ -50,3 +50,4 @@ Post-hoc survey of 17 students (73.9% of participants) using five-point Likert-s
 - [Statistically significant item-level OSCE gains occur in shoulder and elbow palpation, shoulder active and passive range of motion, patient comfort, and examination organisation after a near-peer tutorial](near-peer-tutorial-significant-osce-item-gains.md) — related
 - [Student confidence in laparoscopic skills improved significantly after practice, with no difference between near-peer-taught and self-taught groups](confidence-improves-independent-of-group.md) — related
 - [Most graduating medical students (57%) feel very confident in a teaching role, having mainly developed teaching skills through informal near-peer mentorship](informal-near-peer-development-confidence.md) — related
+- [3D printed bone models created opportunities for peer teaching, instructor modeling, and self-discovery during a clinical skills laboratory](3d-printed-models-classroom-interactivity.md) — related

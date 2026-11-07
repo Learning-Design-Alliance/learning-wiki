@@ -49,3 +49,4 @@ Descriptive survey (n = 100) with 6‐point Likert ratings; EPA 1 had the highes
 - [Qualitative feedback raised concerns about perceived lack of experience for certain tasks, such as complex endodontic treatment and communication skills](qualitative-concerns-experience-epas.md) — related
 - [The orthodontic treatment EPA (EPA 13) received the lowest rating of the 21 EPAs, with a mean of 2.4 on the 6‐point scale](orthodontic-epa-lowest-rated.md) — a narrower finding that bears on this claim
 - [EPAs on comprehensive treatment planning, prognosis assessment, and oral care for special‐needs patients received lower ratings](lower-rated-epas-planning-prognosis-special-needs.md) — related
+- [Students reported increased confidence across technical and non-technical skills, highest for dental dam placement and lowest for endodontic therapy](simulated-cases-confidence-item-ratings.md) — related

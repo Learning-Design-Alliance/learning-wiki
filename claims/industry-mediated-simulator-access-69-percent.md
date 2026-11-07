@@ -47,3 +47,4 @@ The statement reports from the EHRA survey that "access is largely mediated by m
 
 ## Related Claims
 - [In the 2024 EHRA survey, only 18% of respondents had institutional access to EP simulators and only 20% reported formal curricular inclusion, yet over 80% rated simulation as useful or very useful](ehra-2024-survey-low-simulator-access-high-perceived-usefulness.md) — related
+- [The guidelines claim academic, industry-independent courses provide richer, more generalizable NIBS training than device-specific workshops](academic-independent-nibs-courses-generalizable.md) — related

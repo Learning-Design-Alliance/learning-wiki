@@ -51,3 +51,4 @@ Correlational analysis with academic performance indexed by the average of final
 - [SVA daily usage and reliance on algorithmic recommendations negatively predict working memory only in the younger cohort (12-13-year-olds)](sva-use-negative-working-memory-younger-cohort-only.md) — a narrower finding that bears on this claim
 - [SVA daily usage and recommender reliance negatively predict verbal ability only in the younger cohort](sva-use-negative-verbal-ability-younger-cohort-only.md) — a narrower finding that bears on this claim
 - [Younger adolescents show stronger negative effects of SVA use on cognitive functioning and academic performance than older adolescents](younger-adolescents-more-susceptible-sva-effects.md) — a broader claim this one bears on
+- [Higher short video usage among elementary school students is associated with lower academic performance](short-video-usage-negative-academic-performance.md) — possibly the same claim (merge candidate)

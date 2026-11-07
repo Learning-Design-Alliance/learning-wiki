@@ -60,3 +60,4 @@ Focus-group theme from the 10-participant qualitative pilot. Typed-response subt
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](simucase-increases-assessment-confidence.md) — related
 - [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — related
 - [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](socratic-test-pilot-beyond-recall.md) — related
+- [The absence of a clear assessment mechanism and academic recognition for simulation participation risks reduced student motivation and attendance](sim-ipe-assessment-mechanism-barrier.md) — related

@@ -49,3 +49,4 @@ Open-ended questionnaire comments and structured feedback from both Slovak- and 
 - [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](pilot-response-time-insufficient-problem-posing-test.md) — related
 - [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related
 - [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — related
+- [A minority of students (3.9%, n = 4) found the first-week simulation too challenging, and some found the pre-brief too short](minority-found-simulation-too-challenging-prebrief-short.md) — related

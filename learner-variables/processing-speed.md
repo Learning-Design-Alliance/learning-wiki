@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (50 show a difference, 26 mixed, 8 no difference) · 60 studies (26 causal, 20 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 17 of 60 report an effect size · 84 claims rest on one study
+> **Evidence** · 85 claims (50 show a difference, 26 mixed, 9 no difference) · 61 studies (26 causal, 21 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 17 of 61 report an effect size · 85 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -120,6 +120,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Faster reaction time on the 2-back working memory task is associated with better GPA](../claims/faster-2back-reaction-time-better-gpa.md) [+W] — learners who differ on it differ in outcomes
 - [All three childhood cognitive measures (global EF, processing speed, working memory) significantly predicted adult math scores, and these predictive relations were not moderated by ADHD diagnosis](../claims/childhood-cognitive-predictors-adult-math-regressions.md) [+M] — learners who differ on it differ in outcomes
 - [Cognitive activity training significantly improved reading speed in refugee children while controls showed no change](../claims/cat-improves-reading-speed.md) [+M] — measured as an outcome of the instruction studied
+- [Processing speed does not significantly mediate the association between socioeconomic status and educational achievement](../claims/processing-speed-not-mediator-ses-achievement.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

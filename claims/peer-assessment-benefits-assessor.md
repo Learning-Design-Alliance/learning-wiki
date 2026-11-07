@@ -124,3 +124,4 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Holding participants accountable for critique quality (not evaluation accuracy) improves review outcomes](accountability-for-critique-quality-improves-reviews.md) — related
 - [Back-evaluation of reviews increases reviewer motivation, transparency, and feedback quality](back-evaluation-increases-reviewer-motivation.md) — related
 - [The educational value of EPAAs depended primarily on the quality of the feedback discussion](epaa-educational-value-depends-on-feedback-quality.md) — related
+- [The act of giving peer feedback has greater impact on student learning gain than the mark or feedback received from a peer assessor](giving-peer-feedback-outweighs-receiving.md) — related

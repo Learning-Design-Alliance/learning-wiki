@@ -59,3 +59,4 @@ Platform usage tracking in the crossover RCT measured AI-group time on task, sho
 - [A carefully engineered AI tutor produced more than twice the learning of a strong active-learning class, in less time (Kestin et al., 2025, as reported)](engineered-ai-tutor-doubled-learning-vs-active-learning.md) — a broader claim this one bears on
 - [An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day](intelligent-reading-tutor-time-efficiency-over-human-tutoring.md) — related
 - [Time spent on tasks, days to hand in, and words in forums were the variables most related to final marks.](time-task-days-handin-word-forum-related-to-marks.md) — related
+- [Self-paced VPS repetition is modest in practice: learners complete about 2 attempts per scenario in roughly 45 minutes despite a 70-minute allowance](vps-modest-time-on-task-attempts.md) — related

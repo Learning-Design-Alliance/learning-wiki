@@ -49,6 +49,7 @@ As a forward-looking recommendation for patient safety, the authors propose: "it
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
+- [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
 
 ## Examples
 -

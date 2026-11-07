@@ -52,6 +52,7 @@ The authors recommend increasing the effectiveness of modeling examples by stimu
 - [Directly teach students when, why, and how to elaborate on new information](directly-teach-elaborative-processing-strategies.md)
 - [Implement a structured PFB template and foresee multiple practice occasions when involving students as assessors and assessees](structured-pfb-template-multiple-practice-occasions.md)
 - [Train assessors in giving optimal feedback and administering assessments to improve feedback quality](assessor-training-optimal-feedback-administration.md)
+- [Train the trainers in learning-promoting feedback approaches, supported by quality circle meetings sharing standards of good outpatient care](trainer-training-learning-focused-feedback-culture.md)
 
 ## Examples
 -

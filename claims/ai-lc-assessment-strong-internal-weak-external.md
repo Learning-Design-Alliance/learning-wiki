@@ -94,3 +94,4 @@ The discussion notes that "AI-based CVS detection systems are the only tools to 
 - [Educational utility was not explicitly assessed for most tools, and no studies reported data on educational impact](educational-utility-not-assessed-no-impact-data.md) — related
 - [Reliability and validity evidence for patient safety assessment tools is modest: internal structure reported for 22 tools, content validity for 14, and correlations with other assessments for only eight](modest-validity-evidence-safety-tools.md) — related
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
+- [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](smartcoach-improves-cvs-achievement.md) — related

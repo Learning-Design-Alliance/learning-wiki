@@ -52,6 +52,7 @@ The article recommends action at programme, individual and organizational levels
 ## Related Strategies
 
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
+- [Train the trainers in learning-promoting feedback approaches, supported by quality circle meetings sharing standards of good outpatient care](trainer-training-learning-focused-feedback-culture.md)
 
 ## Examples
 -

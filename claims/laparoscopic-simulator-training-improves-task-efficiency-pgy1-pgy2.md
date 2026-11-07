@@ -59,3 +59,4 @@ Prospective educational intervention at a national residency training base: 30 r
 - [In one single-group pre-post study, CPMDRs' task completion times fell from pre-test to post-test across all five evaluated laparoscopic tasks (P < 0.001)](progressive-laparoscopic-training-reduced-task-times.md) — related
 - [ePHR task completion times fell from pre-test to post-test in both age groups after one week of ePA Coach use, in a pre-post study with no comparison group](epa-coach-skill-time-reduction.md) — related
 - [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — related
+- [PGY 3–5 trainees suture faster initially but show lower improvement rates than PGY 1–2 trainees](pgy-experience-faster-times-lower-rtr.md) — related

@@ -55,3 +55,4 @@ Kirkpatrick Level 1 (Reaction) evaluation: 122 course evaluations on a five-poin
 - [Participants rate the RCDP resuscitation simulation as very or extremely helpful, with a mean helpfulness score of 4.8 on a 5-point Likert scale](rcdp-resuscitation-simulation-rated-highly-helpful.md) — related
 - [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
+- [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related

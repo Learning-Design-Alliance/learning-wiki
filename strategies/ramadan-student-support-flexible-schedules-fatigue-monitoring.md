@@ -48,6 +48,7 @@ The article recommends that universities adapt policies during religious observa
 
 - [Combine sleep hygiene education and physical activity promotion in campus student support programs](campus-sleep-hygiene-pa-combined-strategy.md)
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
+- [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
 
 ## Examples
 -

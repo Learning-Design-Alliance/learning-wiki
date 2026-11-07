@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: kridipaka-s-2026
     resource: "https://doi.org/10.1186/s12909-026-09511-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` After a one-week AISP practice phase, mean OSCE scores increased from 67.9 to 90.4 (d = 1.93, p < 0.001). [→ Kridipaka S 2026](#kridipaka-s-2026)

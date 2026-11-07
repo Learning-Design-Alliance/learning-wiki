@@ -71,3 +71,5 @@ Item classification counts from the same item-level analysis: 6 (20.0%) GenAI-as
 - [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](genai-mcq-lower-reliability.md) — related
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
 - [Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination](integrated-curriculum-higher-item-difficulty.md) — related
+- [Combining difficulty and discrimination thresholds, 33 of the 50 SJT items were identified as valid](sjt-33-items-identified-valid.md) — related
+- [Most SJT items show positive corrected point-biserial discrimination, with 72% at 0.10 or higher](sjt-items-point-biserial-discrimination-mostly-positive.md) — related

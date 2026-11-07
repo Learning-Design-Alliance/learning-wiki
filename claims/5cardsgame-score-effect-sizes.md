@@ -49,3 +49,4 @@ Bonferroni follow-up comparisons after repeated measures ANOVA in the 36-student
 - [First-pass recall accuracy rises while trials-to-criterion and exposure duration fall across the three weekly relearning sessions](relearning-session-gains-recall-trials-exposure.md) — related
 - [Escape room-based teaching produces significant knowledge gain (Cohen's d = 1.29) among undergraduate medical students on a pre-post assessment](escape-room-knowledge-gain-medical.md) — related
 - [Both online and offline FMA-LE training groups significantly improved overall scoring accuracy from first practice to final test](fma-le-scoring-accuracy-improves-with-training.md) — related
+- [Trainees' suture ligation times fell across three remote training sessions in a single-group pre-post study](suture-time-improves-across-sessions.md) — related

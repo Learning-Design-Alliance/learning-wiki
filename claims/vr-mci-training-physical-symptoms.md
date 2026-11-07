@@ -53,3 +53,4 @@ Summative content analysis of open-ended questionnaire answers on physical sympt
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
+- [Cybersickness (dizziness and headaches) occurs more frequently with VR or image-rich MR than with standard MR, favouring MR and shorter, well-designed HMD sessions](cybersickness-more-frequent-vr-than-standard-mr.md) — a broader claim this one bears on

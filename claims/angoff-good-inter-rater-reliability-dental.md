@@ -54,3 +54,4 @@ The review's synthesis of reliability findings across included primary studies r
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Reliability of the modified Angoff procedure increases as the number of raters increases for both faculty and LLM panels](angoff-reliability-increases-with-rater-number.md) — a narrower finding that bears on this claim
 - [The pediatric SCT instrument with aggregate scoring showed good-to-excellent inter-rater reliability and acceptable internal consistency](sct-aggregate-scoring-reliability-pediatric-topics.md) — related
+- [Two independent Angoff panels from different Swedish universities rate licensure exam items consistently (ρ ≥ 0.70) with no significant differences](angoff-inter-panel-consistency-across-institutions.md) — a narrower finding that bears on this claim

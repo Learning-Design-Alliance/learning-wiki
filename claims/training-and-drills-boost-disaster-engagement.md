@@ -53,3 +53,4 @@ Mann–Whitney and Kruskal–Wallis comparisons on the roles and responsibilitie
 - [Nurses' engagement in disaster management roles is low, scoring below the hypothesised median except among leaders and frequent drill participants](nurses-disaster-engagement-low.md) — related
 - [Slovenian nurses rate disaster nursing core competencies as significantly more important than the scale's hypothesised midpoint](slovenian-nurses-rate-disaster-competencies-high.md) — related
 - [Nurses report high barriers to developing disaster competencies, scoring significantly above the scale's hypothesised midpoint](barriers-disaster-competency-development-high.md) — related
+- [Higher frequency of infectious disease emergency drills is associated with higher competence scores among Chinese nurses](drill-frequency-competence-association.md) — related

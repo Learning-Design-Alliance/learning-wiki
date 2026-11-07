@@ -52,3 +52,4 @@ In the exploratory Spearman's correlation analysis, "no significant correlation 
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
 - [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related
 - [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related
+- [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related

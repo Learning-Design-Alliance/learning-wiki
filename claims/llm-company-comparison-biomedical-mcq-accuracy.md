@@ -79,3 +79,4 @@ Random‐effects proportional meta‐analysis comparing newer LLM models from co
 - [Eight LLMs differ significantly in overall accuracy on DUS oral pathology multiple-choice questions, with ChatGPT o1 highest (96/100) and Copilot lowest (61/100)](llm-accuracy-differences-dus-oral-pathology.md) — related
 - [LLM performance differs significantly on knowledge-based oral pathology questions (p < 0.001), with ChatGPT o1 and Deepseek highest](llm-knowledge-based-question-performance.md) — related
 - [ChatGPT can complete multiple-choice exams to a very high standard, across disciplines and including image- and data-based questions](chatgpt-high-performance-mcq-exams.md) — related
+- [GPT-4o achieves the highest accuracy on USMLE-style MCQs (90.4%), outperforming GPT-4 (81.1%) and GPT-3.5 (60.0%)](gpt-4o-90-percent-usmle-mcq-accuracy-outperforms-predecessors.md) — related

@@ -57,3 +57,4 @@ Randomized two-group trial of 100 nursing undergraduates (n=50 per group) compar
 - [Undergraduate students taught with the Sim + LBL hybrid model achieved higher total post-class test scores than students taught with traditional LBL in dermatology and venereology](sim-lbl-higher-total-post-class-scores.md) — related
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
+- [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — possibly the same claim (merge candidate)

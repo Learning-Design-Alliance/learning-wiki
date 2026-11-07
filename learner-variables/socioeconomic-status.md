@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 259 claims (139 show a difference, 62 mixed, 58 no difference) · 197 studies (87 associational, 76 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 33 of 197 report an effect size · 258 claims rest on one study
+> **Evidence** · 263 claims (140 show a difference, 63 mixed, 60 no difference) · 199 studies (89 associational, 76 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 33 of 199 report an effect size · 262 claims rest on one study
 
 ## How to read this page
 
@@ -344,6 +344,10 @@ A learner's economic and social position: family income or poverty (often measur
 - [Effects of parental education, neighborhood socioeconomic status, and parental mental disorders on school performance were smaller among second-generation immigrant than non-immigrant children (diminished returns)](../claims/diminished-returns-second-generation-school-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Non-economic and economic disadvantages are the top hindering factors for medical students' pursuit of a teaching career](../claims/demotivators-teaching-non-economic-economic.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Parental education, neighborhood socioeconomic status and parental mental disorders partly explain the school-performance gap between non-immigrant and second-generation immigrant children, with a residual gap remaining](../claims/factors-explain-school-gap-immigrant-children.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Executive functions significantly mediate the association between socioeconomic status and educational achievement in a deprived, ethnically diverse birth cohort](../claims/ef-mediate-ses-educational-achievement-bib.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Inhibition does not significantly mediate the association between socioeconomic status and educational achievement](../claims/inhibition-not-mediator-ses-achievement.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Processing speed does not significantly mediate the association between socioeconomic status and educational achievement](../claims/processing-speed-not-mediator-ses-achievement.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The association between village heads' education and adolescent academic performance is stronger for girls and low-income families and is not significant for middle-income families](../claims/village-head-education-heterogeneity-gender-income.md) [~W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

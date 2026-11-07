@@ -67,3 +67,4 @@ ANCOVA on post-test EAS with RT as covariate in the same quasi-experimental stud
 - [At pre-test the control group scored significantly higher on the achievement test, while EI and environmental attitudes were comparable across groups](pretest-aat-difference-favoring-control.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — reports the opposite
 - [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related
+- [ANCOVA with pre-test as covariate confirms significant post-intervention increases in total attitude score and subscales 2 and 3](ancova-conflict-attitude-adjusted.md) — related

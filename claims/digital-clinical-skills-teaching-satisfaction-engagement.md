@@ -58,3 +58,4 @@ Narrative synthesis of satisfaction findings across the 27 included studies. The
 - [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related
 - [Satisfaction and engagement with the simulations predicted post-test knowledge and attitude outcomes](vct-satisfaction-engagement-predictors.md) — related
 - [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — related
+- [Dissection shows only slightly better or equal learning effects compared with prosection or digital learning tools, though mostly short-term recall is tested](dissection-only-slightly-better-or-equal-learning-effects.md) — related

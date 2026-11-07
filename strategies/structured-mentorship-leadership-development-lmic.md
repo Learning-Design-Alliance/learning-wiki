@@ -49,6 +49,7 @@ The article recommends formal training initiatives, "such as structured mentorsh
 - [Build supportive organizational structures — clear career pathways, mentorship programs, and leadership development — to enhance nurses' EBHC competence](organizational-structures-care-pathways-mentorship-leadership-ebhc.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
+- [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 
 ## Examples
 -

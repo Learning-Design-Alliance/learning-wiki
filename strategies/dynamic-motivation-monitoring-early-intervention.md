@@ -51,6 +51,7 @@ Given the mediating role of learning motivation, the article recommends continuo
 - [Incorporate paternalistic leadership training into residency supervisor qualification and development systems](leadership-training-supervisor-development-srt.md)
 - [Foster a supportive organizational climate through a university-department-supervisor tri-level linkage](tri-level-organizational-climate-support.md)
 - [Apply the instrument from the beginning of SCI as continuous diagnostic assessment rather than only for final grading](iafee-ecs-continuous-use-from-sci-start.md)
+- [Create a task-oriented motivational climate focused on the learning process to protect mental health and favour academic performance](task-climate-process-focus-strategy.md)
 
 ## Examples
 -

@@ -67,3 +67,5 @@ Descriptive violin-plot results of self-reported confidence (100 mm VAS) stratif
 - [Taller students were more likely to achieve the 800 N peak thrust force, with height remaining significant in multivariable models](height-associated-800n-peak-force-competence.md) — related
 - [Male and later-year students show higher competence in fast time-to-peak force, and males in achieving the 800 N peak thrust force, with no other strong competence associations](sex-year-competence-time-to-peak-800n.md) — related
 - [Time spent practising in the force-sensing table laboratory increased students' confidence but did not translate into higher competence in SMT force–time characteristics](fstt-practice-time-confidence-not-competence.md) — related
+- [Chiropractic students are confident in delivering 200N and 400N impulse forces but their confidence decreases for 800N forces](confidence-decreases-800n-impulse-force-students.md) — related
+- [Students modulate 200N and 400N impulse forces close to target but have difficulty accurately modulating 800N forces](performance-difficulty-800n-target-force.md) — related

@@ -52,6 +52,7 @@ The authors recommend organising EBM instruction around the five steps (Ask, Acq
 - [Incorporate puzzle-based blended learning into undergraduate EBM curricula, particularly for complex clinical reasoning and evidence appraisal skills](puzzle-blended-learning-ebm-curriculum-strategy.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
+- [Implement workplace and curricular EBP training programs targeting question formulation, literature search, retrieval and critical appraisal](ebp-training-programs-workplace-curricula-ghana.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Reliability analysis of a random subset of 10 videos independently evaluated by 
 - [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related
 - [Blinded scoring of MaiSurge performances shows excellent interrater reliability for the modified H-OSATS score and good reliability for the general OSATS score](maisurge-hosats-interrater-reliability-icc.md) — related
 - [Simulator-generated analytic scores correlate moderately and significantly with blinded human OSATS assessments of single surgical knot performance](simulator-analytic-scores-correlate-osats.md) — related
+- [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — related

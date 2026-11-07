@@ -69,3 +69,4 @@ Same logistic regression analysis of competence outcomes; the article reports "t
 - [Taller students were more likely to achieve the 800 N peak thrust force, with height remaining significant in multivariable models](height-associated-800n-peak-force-competence.md) — related
 - [Male chiropractic students report higher confidence in performing SMT force–time characteristics than female students, especially at higher target forces](male-students-higher-smt-confidence.md) — related
 - [Upper-year chiropractic students are generally more confident than first-year students in performing SMT force–time characteristics](upper-year-students-higher-smt-confidence.md) — related
+- [Higher confidence is positively associated with better ability to modulate SMT force–time characteristics, especially preload, time to peak force, and 800N impulse force](confidence-positively-associated-force-modulation-ability.md) — related

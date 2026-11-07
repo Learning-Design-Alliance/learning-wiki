@@ -13,7 +13,7 @@ generated:
 # DocSimulator generative AI-powered virtual OSCE platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 8 studies (3 causal, 3 review, 1 associational, 1 qualitative), `q2`–`q3` · 2 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 9 studies (4 causal, 3 review, 1 associational, 1 qualitative), `q2`–`q3` · 3 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 DocSimulator is a GPT-powered online virtual OSCE platform developed for undergraduate medical students to practise clinical reasoning, decision-making, and communication through simulated patient scenarios and receive criteria-based competency feedback.

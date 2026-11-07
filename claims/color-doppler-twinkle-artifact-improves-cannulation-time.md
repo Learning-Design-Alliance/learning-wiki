@@ -46,3 +46,4 @@ The review reports on Gardecki et al.'s comparison of teaching with color Dopple
 
 ## Related Claims
 - [Ultrasound guidance improves PVC placement outcomes versus conventional methods primarily in DIVA patients](ultrasound-guidance-improves-pvc-outcomes-diva.md) — related
+- [Prior ultrasound residents showed three recurring educational challenges in thyroid and cervical lymph node examination](three-challenges-thyroid-lymph-node-ultrasound-training.md) — related

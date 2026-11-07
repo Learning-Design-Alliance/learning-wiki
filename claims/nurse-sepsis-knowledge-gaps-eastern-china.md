@@ -53,3 +53,6 @@ Cross-sectional survey of 355 registered nurses using a 15-item multiple-choice 
 - [Care home managers show moderate palliative care knowledge, strong on psychosocial aspects but weak on biological and physical components](pcqn-manager-knowledge-gaps-physical-care.md) — related
 - [Specific knowledge gaps persist: only about half of nurses correctly identified sepsis blood-sampling procedure and the most common nosocomial infection](nurse-knowledge-gaps-sepsis-sampling-and-uti.md) — related
 - [Jamaican healthcare students showed major gaps in septic-shock recognition and sepsis mortality knowledge, with only about 7% knowing the correct annual mortality rate](septic-shock-and-mortality-knowledge-gaps.md) — related
+- [ICU nurses report targeted knowledge gaps in sepsis risk factors, screening tools, and infection-prevention strategies](icu-nurse-sepsis-knowledge-gaps.md) — related
+- [Most ICU nurses believe early sepsis detection saves lives and that their care can improve sepsis outcomes](icu-nurses-believe-early-sepsis-detection-saves-lives.md) — related
+- [Perceived barriers and facilitators differ between sepsis recognition and sepsis management](recognition-vs-management-barriers.md) — related

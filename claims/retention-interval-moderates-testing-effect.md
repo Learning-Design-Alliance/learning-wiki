@@ -75,3 +75,4 @@ Meta-analytic review of testing versus restudy (159 effect sizes from 61 studies
 - [Retrieval interval length may moderate the testing effect in mathematics: restricting to intervals over one day raises the effect to g = 0.378 (exploratory).](retrieval-interval-moderator-testing-mathematics.md) — related
 - [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](testing-effect-disappears-coherent-text-reappears-scrambled.md) — related
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — related
+- [Final test scores were significantly lower than practice test scores over retention intervals of three to six weeks in a single-group pre-test/post-test study with no comparison group](final-test-lower-than-practice-scores.md) — related

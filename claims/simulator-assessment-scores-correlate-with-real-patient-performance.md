@@ -53,3 +53,4 @@ Secondary-outcome correlation analysis across all 22 participants in the RCT (Ta
 - [Virtual simulation performance scores correlate strongly with post-training practical performance (r = 0.73)](vs-score-correlates-practical-performance.md) — related
 - [Experts and residents support early objective simulation-based assessment in years 2-3 as a safeguard and learning accelerator](early-simulation-assessment-years-2-3-support.md) — a narrower finding that bears on this claim
 - [Simulation scores correlate moderately with OSCE scores (r = 0.45, p < 0.01), supporting the generalization inference](simulation-osce-moderate-correlation.md) — related
+- [Transvaginal ultrasound simulator training improved image quality scores and patient satisfaction, but students who practiced on real patients outperformed simulator-only students](transvaginal-simulator-training-benefits-and-limits.md) — related

@@ -51,3 +51,4 @@ Thematic analysis of open-ended survey responses following Braun and Clarke, fro
 - [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related
 - [Qualitative feedback from 20.5% of post-course survey respondents yielded five themes, with recommendations for scenario-based videos, more challenging quizzes, and offline resources](rush-mooc-qualitative-themes.md) — related
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
+- [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related

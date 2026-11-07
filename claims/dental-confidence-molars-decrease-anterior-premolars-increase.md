@@ -49,3 +49,4 @@ Longitudinal tooth-type analysis in the same 98-student cohort (Friedman test). 
 - [Dental students' self-confidence declines during clinical internship for rubber dam application, flare-up management, and non-vital bleaching](dental-confidence-declines-rubber-dam-flareup-bleaching.md) — related
 - [Dental students' self-confidence in preparatory endodontic procedures (patient history taking, diagnosis, anesthesia) increases significantly across educational stages](dental-confidence-preparatory-procedures-increase-longitudinal.md) — related
 - [Anterior and pre‐molar teeth show higher student treatment success rates (82.2% and 79.4%) than molars (68.7%)](student-rct-tooth-type-success-gradient.md) — related
+- [Students reported increased confidence across technical and non-technical skills, highest for dental dam placement and lowest for endodontic therapy](simulated-cases-confidence-item-ratings.md) — reports the opposite

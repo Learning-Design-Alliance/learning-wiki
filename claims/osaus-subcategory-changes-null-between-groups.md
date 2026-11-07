@@ -50,3 +50,4 @@ Exploratory two-sample t-tests on OSAUS subcategory changes in the randomized tr
 - [Serious video game training is statistically non-inferior to mannequin-based simulator training for basic cardiac POCUS hand-eye coordination skills in medical novices](serious-game-noninferior-simulator-cardiac-pocus.md) — related
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — related
 - [Lowest OSAUS item scores concerned technical performance (applied knowledge, image optimization, systematic examination), yet all seven items improved significantly at follow-up](osaus-item-scores-technical-items-lowest.md) — related
+- [The simulator-trained group reports a significantly higher subjective competency gain in pathology recognition than the human-trained group](fatesim-subjective-pathology-gain-higher-simulator-group.md) — related

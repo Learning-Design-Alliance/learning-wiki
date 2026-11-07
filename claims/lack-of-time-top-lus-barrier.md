@@ -49,3 +49,4 @@ Six-month follow-up survey completed by 81 of 122 physicians; among the 16 non-c
 - [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related
 - [Physicians under 40 years had a higher LUS certification rate than those 40 or older](younger-physicians-higher-lus-certification.md) — related
 - [Lack of training is the most significant perceived barrier to POCUS practice, and dedicated practice with an ultrasound machine is the most preferred proficiency intervention](lack-of-training-top-pocus-barrier.md) — related
+- [No significant differences in diagnostic performance between physicians with POCUS certification or trainer experience and those without formal training](pocus-certification-no-performance-difference.md) — related

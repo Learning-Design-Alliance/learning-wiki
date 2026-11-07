@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/four-stage-online-pbl-successful-transition-case-study.md
+---
+
+# Revision history: [claims/four-stage-online-pbl-successful-transition-case-study](../claims/four-stage-online-pbl-successful-transition-case-study.md)
+
+### 2026-11-07 · ingest · process:wiki-ingest
+Ingested from pmc-11589408 (The pivot to online teaching: an opportunity to create effective problem-based learning environments for dietetic education.) via eval_harness.py + ingest_extractions.py

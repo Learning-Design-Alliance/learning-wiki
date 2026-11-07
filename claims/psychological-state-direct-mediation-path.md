@@ -51,3 +51,4 @@ Bootstrap-mediated indirect effect from the serial multiple mediation model in t
 - [Psychological state has the highest direct effect on exam outcome among all predictors (B = 0.442)](psychological-state-highest-direct-predictor.md) — related
 - [Support resources positively predict psychological state but do not mediate the foundation–success relationship](support-resources-covariate-not-mediator.md) — related
 - [School climate and academic motivation chain-mediate the effect of academic self-concept on psychological truancy](chain-mediation-climate-motivation-truancy.md) — related
+- [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related

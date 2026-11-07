@@ -53,3 +53,4 @@ Qualitative and descriptive findings from the console phase of the 30-resident s
 - [Force feedback significantly shortens operational time for ex vivo and selected dry-model robotic suturing exercises, with no significant overall difference](ffb-shortens-operational-time-selected-exercises.md) — related
 - [Force feedback improves RACE tissue-trauma ratings, signifying less tissue trauma in robotic-assisted suturing](ffb-improves-race-tissue-trauma-ratings.md) — related
 - [Force feedback significantly reduces suturing errors, particularly suture breaks and suture fray, in robotic-assisted suturing](ffb-reduces-suturing-errors-breaks-fray.md) — related
+- [Error frequency differs significantly across suturing gestures and error types, with pulling the needle out of tissue and poor instrument control most frequent](error-distribution-gesture-type-rarp.md) — related

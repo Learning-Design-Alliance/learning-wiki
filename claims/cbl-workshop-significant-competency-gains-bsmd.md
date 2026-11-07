@@ -55,3 +55,4 @@ Grouped retrospective pre-post self-assessment survey distributed at the worksho
 - [Among residents, critical evaluation of diagnostic pitfalls rose from 30% in traditional sessions to 93.3% during the STH 'Black Hat' phase, measured within the same group](pbl-sth-critical-thinking-black-hat.md) — related
 - [Perceived knowledge and skills in student assessment topics increase significantly immediately after the faculty development workshops](fd-workshops-significant-perceived-knowledge-gains.md) — related
 - [The retrospective design without a control group or basal assessment cannot determine causality between Full Code use and knowledge acquisition](full-code-causality-not-established.md) — related
+- [Diagnostic Thinking Inventory for Optometry scores improved significantly after studying for the Clinical Diagnosis Assessment](dti-o-significant-improvement-after-cda.md) — related

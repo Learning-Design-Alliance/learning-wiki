@@ -53,6 +53,7 @@ The article distils facilitators' accounts of what supported effective facilitat
 - [Implement CBL with institutional faculty support, clinician facilitators, authentic multimodal cases, preparation incentives and a safe group environment while avoiding behaviour-only assessment](cbl-implementation-strategy-realist-review.md)
 - [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
+- [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
 
 ## Examples
 -

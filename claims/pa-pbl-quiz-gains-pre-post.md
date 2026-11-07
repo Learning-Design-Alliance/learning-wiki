@@ -53,3 +53,4 @@ Within-group pre-post comparison using the Wilcoxon signed-rank test on identica
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
 - [Peer tutors and non-tutor participants in PA-PBL showed no statistically significant difference in examination performance](pa-pbl-tutor-nontutor-no-difference.md) — related
+- [Post-session quiz scores were significantly higher than pre-session quiz scores in all five analyzed anatomy workshops](anatomy-workshops-raise-post-quiz-scores.md) — related

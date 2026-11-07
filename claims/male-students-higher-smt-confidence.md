@@ -50,3 +50,6 @@ Cross-sectional study of 149 chiropractic students performing SMT on a force-sen
 - [Upper-year chiropractic students are generally more confident than first-year students in performing SMT force–time characteristics](upper-year-students-higher-smt-confidence.md) — related
 - [Male and later-year students show higher competence in fast time-to-peak force, and males in achieving the 800 N peak thrust force, with no other strong competence associations](sex-year-competence-time-to-peak-800n.md) — related
 - [Women report greater stress and lower confidence than men in managing endodontic emergencies](women-more-stressed-less-confident-endodontic-emergencies.md) — related
+- [Chiropractic students are confident in delivering 200N and 400N impulse forces but their confidence decreases for 800N forces](confidence-decreases-800n-impulse-force-students.md) — related
+- [Students' confidence in SMT force modulation may be built on factors other than force–time modulation ability, such as body anthropometrics](confidence-may-rest-on-non-force-factors.md) — related
+- [Higher confidence is positively associated with better ability to modulate SMT force–time characteristics, especially preload, time to peak force, and 800N impulse force](confidence-positively-associated-force-modulation-ability.md) — related

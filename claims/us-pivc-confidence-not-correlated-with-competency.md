@@ -50,3 +50,5 @@ Secondary correlational analysis using Spearman's rank correlation between post-
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
 - [Structured US-PIVC simulation training produces statistically significant pre-to-post confidence improvements across all measured learning outcomes, with large effect sizes (r = 0.63–0.87).](us-pivc-training-large-confidence-gains.md) — related
 - [Students' self-evaluations of suturing techniques correlate positively with their post-course test scores](self-evaluation-correlates-with-post-test.md) — related
+- [No overestimation effect was detected: physicians did not rate their POCUS competencies higher than their actual loop performance](pocus-no-overestimation.md) — related
+- [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related

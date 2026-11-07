@@ -68,3 +68,6 @@ Qualitative thematic analysis of open-ended responses independently coded by two
 - [Students hold mixed perceptions of whether EPA observations support clinical development](mixed-student-perceptions-epa-clinical-development.md) — related
 - [New dental-specific themes include practical guidance, a safe training environment, resident–patient relationships, career education and comprehensive treatment planning](new-dental-specific-teacher-themes.md) — related
 - [Post-workshop reflections from graduate nursing students yielded three themes: awakening creativity and empowerment, valuing HCD skills, and reviewing the intervention experience](hcd-workshop-qualitative-themes.md) — related
+- [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
+- [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
+- [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related

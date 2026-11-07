@@ -54,3 +54,4 @@ Internal consistency analysis in the Results section, computed separately for ea
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
 - [Internal consistency of ANTStr scores is high for both raters (Cronbach's alpha 0.83–0.94)](antstr-internal-consistency-cronbach-alpha.md) — related
+- [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related

@@ -55,6 +55,7 @@ The review's authors recommend leveraging classic African board games as afforda
 
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Provide in-service training equipping mathematics teachers with game- and poem-based teaching skills](in-service-training-games-poems-math-teachers.md)
+- [Adopt low-cost, non-digital board games as adjuncts for complex biomedical topics](board-games-as-adjunct-for-complex-topics.md)
 
 ## Examples
 -

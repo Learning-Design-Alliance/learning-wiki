@@ -52,3 +52,4 @@ Blinded expert assessment of image quality on a 6-point scale during the same ev
 - [Real-time AI guidance improved novices' acquisition of the Apical-4-chamber and Apical-5-chamber views after a short cardiac ultrasound course](ai-guidance-improved-a4c-a5c-views.md) — related
 - [No statistically significant differences between AI-enhanced and non-AI groups on the other individual echocardiography views](ai-guidance-no-gain-other-echocardiography-views.md) — related
 - [Real-time AI guidance did not significantly improve the overall Cardiac US Score in novices after a short cardiac ultrasound course](ai-guidance-no-overall-cardiac-us-score-gain.md) — related
+- [Fellow image quality matched technicians for PLAX and A5C views but was significantly worse for the A3C view](fellow-image-quality-a3c-worse.md) — related

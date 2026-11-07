@@ -69,6 +69,7 @@ The review recommends that future research adopt more rigorous methodologies, in
 - [Future evaluative research protocols should include avoidance of involuntary hospital admissions as a key outcome and use both PROMs and PREMs](proms-prems-involuntary-admission-evaluation.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
+- [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Same single-centre pre/post study; the article reports third-year residents' "mo
 
 ## Related Claims
 - [Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation](snapps-improves-mcq-scores-pathology-residents.md) — related
+- [Score improvement varied by training level: second-year residents improved most while third-year residents scored highest and improved least](training-level-differences-module-gains.md) — reports the opposite

@@ -55,3 +55,4 @@ Quasi-experimental comparison of 70 third-year and 80 fifth-year dental students
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
 - [ChatGPT can complete multiple-choice exams to a very high standard, across disciplines and including image- and data-based questions](chatgpt-high-performance-mcq-exams.md) — a broader claim this one bears on
+- [GPT-4o significantly outperforms GPT-4 in diagnostics (92.7% vs 83.5%), and both beat GPT-3.5 (65.2%)](gpt-4o-diagnostics-accuracy-beats-gpt-4-and-gpt-3-5.md) — related

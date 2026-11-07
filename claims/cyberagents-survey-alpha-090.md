@@ -97,3 +97,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](acls-rubric-cronbach-alpha-076.md) — related
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — related
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
+- [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related

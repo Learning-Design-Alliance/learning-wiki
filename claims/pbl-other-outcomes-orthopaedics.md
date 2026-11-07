@@ -73,3 +73,4 @@ Table 2 pooled results favouring PBL: literature retrieval ability OR=9.38 (6 st
 - [PBL teaching yields higher procedural skill and clinical skill scores than traditional teaching in orthopaedics education](pbl-higher-skill-scores-orthopaedics.md) — related
 - [Students report higher teaching interest and satisfaction in PBL than in traditional teaching in orthopaedics education](pbl-higher-interest-satisfaction-orthopaedics.md) — related
 - [PBL teaching yields higher knowledge scores than traditional teaching in orthopaedics education](pbl-higher-knowledge-scores-orthopaedics.md) — reports the opposite
+- [Online PBL is as effective as traditional face-to-face PBL, with no significant difference in knowledge outcomes or assignment grades](online-pbl-equivalent-to-face-to-face-pbl.md) — related

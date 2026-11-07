@@ -95,3 +95,6 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related
 - [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
 - [Mean performance scores showed no statistically significant difference between virtual and in-person assessment formats in a small comparison of students who completed both](virtual-equivalent-in-person-spanish-assessment.md) — related
+- [Students perceived 3D printed bone models as better than 2D images or a single skeleton and reported deeper learning and increased confidence](3d-printed-models-perceived-deeper-learning.md) — related
+- [AR/VR and digital tools in anatomy learning show consistently high student acceptance and better 3D understanding, but effects on knowledge gain vary widely across studies](arvr-anatomy-high-acceptance-mixed-knowledge-gain.md) — related
+- [A short PBL-VR training session significantly increased both apparel spatial visualization and fit correction skills](pbl-vr-improves-spatial-visualization-fit-correction.md) — related

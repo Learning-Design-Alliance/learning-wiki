@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-07
 recheck_by: 2028
 sources:
   - id: laughlin-jacob-l-bs-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Structured rubrics have been validated to reliably distinguish between different levels of surgical expertise and are widely regarded as the standard approaches to surgical skill assessment. [→ Laughlin Jacob L. BS 2025](#laughlin-jacob-l-bs-2025)
@@ -51,3 +52,4 @@ Narrative review of the survey articles reports that structured rubrics includin
 - [Deep learning models trained on JIGSAWS kinematic and video data achieve high accuracy in predicting surgeon skill level and mOSATS scores](deep-learning-high-accuracy-skill-prediction-jigsaws.md) — related
 - [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) — related
 - [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — related
+- [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — a narrower finding that bears on this claim

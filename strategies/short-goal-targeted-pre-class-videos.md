@@ -59,6 +59,7 @@ For the pre-class preparation topic, the article recommends that teachers produc
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 - [Segment recorded lectures into shorter videos with embedded interaction](segmented-short-lecture-videos-strategy.md)
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
+- [Post pre-class online review materials for forgotten prerequisite knowledge (e.g., neuroanatomy) to free class time](preclass-online-review-of-prerequisite-knowledge.md)
 
 ## Examples
 -

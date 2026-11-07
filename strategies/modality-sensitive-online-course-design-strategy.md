@@ -42,6 +42,7 @@ The article recommends designing online learning environments around each modali
 ## Related Strategies
 
 - [When applying empathic design, consider delivery mode (synchronous and asynchronous), four dimensions of learner engagement, and three features of learning context](empathic-design-engagement-and-context-considerations.md)
+- [Consider ice-breakers, asynchronous content, netiquette and teaching presence when designing blended PBL](blended-pbl-design-factors-strategy.md)
 
 ## Examples
 -

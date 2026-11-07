@@ -49,3 +49,4 @@ Structured post-task surveys with 18 teachers and 214 students in grades 6–12 
 - Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related
 - [In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension](collearn-usability-survey-4-of-5.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
+- [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related

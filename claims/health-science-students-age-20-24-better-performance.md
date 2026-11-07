@@ -48,3 +48,4 @@ Cross-sectional study at Hawassa University (n = 659) reviewed in the synthesis:
 - [Lower academic achievement is associated with higher odds of mental distress among Ethiopian university students](mental-distress-associated-lower-gpa-ethiopia.md) — related
 - [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related
 - [Good sleep quality is associated with better academic achievement among Ethiopian university students](sleep-quality-associated-academic-achievement-ethiopia.md) — related
+- [Students aged 16–18 are more likely to achieve good academic performance than those aged 14–15](older-adolescents-better-academic-performance.md) — related

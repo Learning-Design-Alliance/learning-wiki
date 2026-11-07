@@ -72,3 +72,4 @@ Averaged two-way mixed ICC analysis comparing novice self-assessments with peer-
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Self-assessment overestimates ultrasound skills relative to external examination, while meta-analyses show moderate self-assessment accuracy overall](self-assessment-overestimates-ultrasound-skills.md) — related
 - [Healthcare professionals who rate themselves as very knowledgeable tend to overestimate their actual Alzheimer's disease knowledge](self-rated-ad-knowledge-overestimation.md) — a narrower finding that bears on this claim
+- [No standardized method exists for assessing ultrasound knowledge or examination performance, and self-assessment reliance risks skill overestimation](no-standardized-ultrasound-assessment.md) — related

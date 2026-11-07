@@ -48,3 +48,4 @@ Cohort subgroup analysis reported in Results comparing BVM ventilation scores ac
 - [In-person WHO ENC training significantly improves nurses' and midwives' BVM ventilation, knowledge-check and case-scenario scores immediately after the course](enc-inperson-training-immediate-gains-nigeria.md) — related
 - [With virtual simulation practice, performance on BVM ventilation and ENC case scenarios A and B continues to improve from immediately after training to 6 months, rather than declining](venc-sixmonth-further-gains.md) — related
 - [Manikin-measured ventilation time is stable from immediately after the course to 6 months, while appropriate ventilation rates show no significant change](venc-manikin-ventilation-stable.md) — related
+- [Training load needed for ventilation rate varies by profession: midwives and pediatricians were predicted to succeed without training while anesthetists needed 36 cases](ventilation-rate-threshold-varies-by-profession.md) — related

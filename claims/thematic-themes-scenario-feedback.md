@@ -55,3 +55,4 @@ Qualitative thematic analysis of open-ended focus group interviews with students
 - [Qualitative feedback from 20.5% of post-course survey respondents yielded five themes, with recommendations for scenario-based videos, more challenging quizzes, and offline resources](rush-mooc-qualitative-themes.md) — related
 - [Open-ended feedback themes highlighted course quality, instructor teaching, hands-on experience, and requests for advanced and refresher sessions](pocus-course-feedback-themes.md) — related
 - [In-depth interviews identified clinical relevance, case-based scenarios, models, visualization, and facilitator interaction as key perceived strengths of the simulation-based intervention](interview-themes-simulation-strengths.md) — related
+- [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related

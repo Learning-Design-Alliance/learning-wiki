@@ -50,3 +50,4 @@ Open-ended questionnaire item on whether TTs would recommend their US: 98% of ex
 - [Cooperating teachers who experienced the Clinical Supervision Model rated their university supervisors significantly higher than cooperating teachers under the traditional system](csm-higher-ct-supervisor-satisfaction.md) — related
 - [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — related
 - [Residents perceive supervision as suboptimal when feedback is delayed, time is lacking, communication is ambivalent, or decision-making is opaque](suboptimal-supervision-resident-perceptions.md) — related
+- [Physician trainees trained at practices following the PaedCompenda curriculum developed a distinctly more positive perception of supervision and feedback as a teaching and learning method](paedcompenda-trainees-more-positive-feedback-perception.md) — related

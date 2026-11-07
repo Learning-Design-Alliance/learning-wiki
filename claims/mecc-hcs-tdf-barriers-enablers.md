@@ -52,3 +52,4 @@ TDF survey at 6-month follow-up (n = 11) with nine domains scored on 7-point sca
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](memory-habit-barriers-contextual.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related
+- [Only about half of ICU nurses find it easy to identify priority sepsis interventions by order urgency](difficulty-prioritizing-sepsis-orders.md) — related

@@ -48,6 +48,7 @@ The article recommends leveraging the linguistic flexibility of large language m
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Translanguaging](translanguaging.md)
 - [Leverage the Native Language](leverage_the_native_language.md)
+- [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
 
 ## Examples
 -

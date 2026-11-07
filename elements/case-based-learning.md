@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (19 for, 4 mixed, 2 against) · 32 studies (17 causal, 6 review, 4 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (21 for, 4 mixed, 2 against) · 33 studies (18 causal, 6 review, 4 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 21 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -72,6 +72,8 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [The “One Case to the End” model based on BOPPPS raises pediatric nursing students' academic performance compared with traditional teaching](../claims/one-case-boppps-improves-academic-performance.md) [+M] — attached 2026-11-07 from Xiao Xuejun et al. (2025), which proposed "Clinical case library of over 30 cases in three pediatric nursing modules"; tests this page's relationship.
 - [Case-based learning improves residents' perceived consequences of research misconduct in all measured aspects, while traditional lecture improves only four of seven aspects](../claims/cbl-improves-all-perceived-consequences-lecture-only-four.md) [+W] — attached 2026-11-07 from Chen Lulin et al. (2025), which proposed "CBL course on research misconduct with two escalating cases, small mixed-year groups, readiness assessment, and structured discussion".
 - [Agreement rates endorsing research misconduct behaviors decreased significantly for all listed behaviors in the CBL group but for only four behaviors in the traditional-lecture group](../claims/cbl-decreases-all-misconduct-agreement-rates-lecture-only-four.md) [+W] — attached 2026-11-07 from Chen Lulin et al. (2025), which proposed "CBL course on research misconduct with two escalating cases, small mixed-year groups, readiness assessment, and structured discussion".
+- [Average posttest scores improved across all four pediatric pulmonary e-learning modules, with gains ranging from 9% to 21%](../claims/posttest-gains-across-four-pulmonary-modules.md) [+M] — attached 2026-11-07 from Vaziri Sanaz MD et al. (2024), which proposed "Four interactive case-based e-learning modules on pediatric pulmonary topics built in Articulate Rise 360"; tests this page's relationship.
+- [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](../claims/trainee-feedback-knowledge-confidence-gains.md) [+W] — attached 2026-11-07 from Vaziri Sanaz MD et al. (2024), which proposed "Four interactive case-based e-learning modules on pediatric pulmonary topics built in Articulate Rise 360".
 
 ## The evidence by question
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]

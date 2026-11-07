@@ -51,3 +51,4 @@ Consensus open-coding of free-text questionnaire responses from the 2021 OSCE co
 - [Majorities of students rated both modified OSCEs as safe, well-coordinated and fair, but roughly half reported face masks impeded communication with patients](modified-osce-student-satisfaction-masks-communication.md) — related
 - [Spidergram learning-outcome data showed safety practice marks higher in 2020 and communication skills marks higher in 2021](spidergram-safety-communication-year-differences.md) — related
 - [Students reported the virtual OSCE felt less stressful and a majority recommended keeping virtual telehealth stations in future OSCEs](virtual-osce-student-feedback-telehealth-stations.md) — related
+- [Applicant free-response feedback about the simulation-based MMI yielded four themes: showcasing strengths and passion, feelings of fairness, accessing program faculty, and impacts on certainty](mmi-simulation-applicant-experience-themes.md) — related

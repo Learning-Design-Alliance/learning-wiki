@@ -71,3 +71,4 @@ Error-type analyses with Bonferroni corrections in the same randomized study. "s
 - [Time pressure increases errors in health-professional performance, with mastery only partially compensating](time-pressure-increases-clinical-errors.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [The suture-and-knot console exercise was the only task not completed by all participants, with difficulties attributed to the lack of tactile and haptic feedback](knot-tying-exercise-haptic-feedback-limitation.md) — related
+- [Error frequency differs significantly across suturing gestures and error types, with pulling the needle out of tissue and poor instrument control most frequent](error-distribution-gesture-type-rarp.md) — related

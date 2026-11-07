@@ -72,3 +72,4 @@ Thematic synthesis codes 14 studies to authentic interaction simulation, reporti
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
 - [Students preferred online simulation approaches that provide clear instruction, correction and caring feedback](students-prefer-clear-instruction-correction-caring-feedback.md) — related
 - [Meaning-oriented approaches providing rich, authentic input with high involvement load tend to be more successful in FL learning](meaning-oriented-rich-input-involvement-load.md) — related
+- [Feedback on videotaped patient consultations is reported to increase trainees' powers of perception and support adaptive, case-tailored application of expertise](video-based-feedback-perception-adaptive-expertise.md) — related

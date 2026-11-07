@@ -49,3 +49,4 @@ Figure 4 reports per-subcategory pre-post difference scores for the two matched 
 - [High-tech simulations improve technological problem-solving ability more than low-tech simulations](high-tech-simulation-improves-problem-solving.md) — a broader claim this one bears on
 - [Well-structured PS instruction improved learners' PS perceptions on PSI total, Problem Solving Confidence and Approach-Avoidance Style, but not Personal Control](ps-instruction-improved-psi-perceptions.md) — reports the opposite
 - [Gains in problem-solving self-confidence and self-control persist at retention test, but avoidance and total inventory scores regress](cartoon-pbl-retention-subdimensions.md) — related
+- [The simulator-trained group reports a significantly higher subjective competency gain in pathology recognition than the human-trained group](fatesim-subjective-pathology-gain-higher-simulator-group.md) — related

@@ -47,6 +47,8 @@ Based on the finding that less experienced nurses gained most from the SDL packa
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Implement mandatory structured in-service ECG training with simulation-based practice and rhythm-strip workshops for ICU nurses](mandatory-simulation-ecg-training-icu-nurses.md)
+- [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
+- [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 
 ## Examples
 -

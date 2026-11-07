@@ -48,3 +48,4 @@ The author's stated reliability judgment in the RELIABILITY section: class graph
 ## Related Claims
 - [The test yields an analytical diagnosis of classes and individuals, illustrated by a pupil profile identifying specific abilities needing improvement](test-diagnostic-individual-profile-ls.md) — a narrower finding that bears on this claim
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — a broader claim this one bears on
+- [At least 7–10 SETs per teacher are needed for reliable ratings, making SET feedback in small programs infrequent and unreliable](seven-to-ten-sets-needed-reliable-ratings.md) — related

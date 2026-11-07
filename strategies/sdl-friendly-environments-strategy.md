@@ -54,6 +54,8 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
 - [Implement structured mentorship programs and formal leadership development initiatives for healthcare professionals in LMIC settings](structured-mentorship-leadership-development-lmic.md)
 - [Multi-level strategy for strengthening EBM implementation: individual workshops and protected time, institutional access and culture, and system-level public awareness](multi-level-ebm-implementation-strategy.md)
+- [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
+- [Implement faculty development programs, continuous formative assessment, and curriculum reform to support student-centred learning](faculty-development-continuous-assessment-strategy.md)
 
 ## Examples
 -

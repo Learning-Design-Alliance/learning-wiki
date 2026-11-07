@@ -74,3 +74,4 @@ Cross-subject comparison from the same decomposition analysis, reported in the R
 - [Socioeconomic status significantly moderated the growth mindset–math achievement association in 33 of 74 countries, with no consistent direction](ses-moderates-mindset-33-of-74.md) — related
 - [In 26 countries growth mindsets benefited higher-SES students more, while in 7 countries they benefited lower-SES students more](ses-moderation-direction-split-26-7.md) — related
 - [Student SES has a moderate positive effect on mathematics achievement (B = 0.18) and science achievement (B = 0.20) across 54 countries and six TIMSS cycles](student-ses-positive-effect-math-science.md) — related
+- [The total effect of SES on educational achievement is positive, with the direct effect representing the majority (58-61%) of it](ses-total-direct-effect-achievement.md) — related

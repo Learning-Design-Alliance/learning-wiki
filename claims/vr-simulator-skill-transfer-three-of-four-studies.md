@@ -55,3 +55,4 @@ Summary of five skill-transfer studies (113 participants) with heterogeneous des
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
 - [The review attributes to prior literature that simulation-based surgical training improves technical skills, reduces operative time, and enhances patient safety](surgical-simulation-attributed-benefits.md) — related
 - [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — related
+- [Simulation training is associated with reduced surgical errors and improved team performance, but translation to patient-level outcomes remains unproven](simulation-clinical-outcomes-intermediate-only.md) — related

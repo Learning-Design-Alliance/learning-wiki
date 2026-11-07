@@ -71,3 +71,4 @@ Post hoc contrasts between indirect effects in the same bootstrap analysis. The 
 - [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related
 - [Teamwork, work skills and educational motivation each significantly predict critical thinking in the full regression (β=.44, .23, .03; R-sq=.3465)](teamwork-skills-motivation-predict-critical-thinking.md) — related
 - [Greater teamwork is positively and significantly correlated with critical thinking in secondary school students (r=.532, p<.001)](teamwork-correlated-critical-thinking-secondary.md) — related
+- [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related

@@ -50,3 +50,4 @@ Model 4 with random slopes compared against fixed-effects models using LOO cross
 ## Related Claims
 - [After high-confidence errors, resolving the discrepancy with additional information produced enjoyment, while failure to resolve it produced frustration](discrepancy-resolution-drives-enjoyment-or-frustration.md) — related
 - [Epistemic emotions showed no significant carry-over (autoregressive) stability from one course session to the next, except boredom after session type was included.](no-carry-over-effect-epistemic-emotions-sessions.md) — related
+- [High inter- and intra-individual variability of NIBS outcomes motivates uniform training guidelines](nibs-variability-motivates-training-guidelines.md) — a narrower finding that bears on this claim

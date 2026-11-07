@@ -51,3 +51,4 @@ The review's synthesis of its included comparisons states that "In seven studies
 - [Groups using 3DPAMs achieved significantly better test results than groups using dry bones, with one mixed result on MCQs](3dpam-better-test-results-than-dry-bones.md) — reports the opposite
 - [Meta-analyses report better post-test results for 3DPAM instruction, especially for complex anatomical structures and medical students](meta-analyses-favour-3dpam-post-test-results.md) — reports the opposite
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — related
+- [Dissection shows only slightly better or equal learning effects compared with prosection or digital learning tools, though mostly short-term recall is tested](dissection-only-slightly-better-or-equal-learning-effects.md) — related

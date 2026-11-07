@@ -52,3 +52,4 @@ Randomized control trial (n=41 undergraduate and postgraduate students) on the M
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — related
 - [Distributed preclinical practice is associated with higher plaque-removal effectiveness than massed block training in dental students](distributed-preclinical-training-higher-esp.md) — a narrower finding that bears on this claim
 - [Error scores on the Fine Dissection task did not improve significantly in any group, suggesting error metrics are more resistant to change over short training intervals](fine-dissection-error-scores-not-improved.md) — related
+- [Gamified simulation training increased practice frequency and laparoscopic performance, per the review's cited study](gamified-simulation-laparoscopic-practice-performance.md) — related

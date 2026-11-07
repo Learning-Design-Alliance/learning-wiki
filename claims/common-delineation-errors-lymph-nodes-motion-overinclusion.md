@@ -87,3 +87,4 @@ Frequency analysis of breast cancer delineation errors (Fig. 4a): regional lymph
 - [Trainees show variable delineation skills, with greatest difficulty in anatomically complex regions such as the head and neck](delineation-skill-variability-complex-regions.md) — related
 - [Enhanced CT was the predominant simulation imaging method (70% of cases), with multiple image fusion used more often for head and neck tumors](enhanced-ct-predominant-simulation-imaging.md) — related
 - [The competition highlighted a disconnection between theoretical knowledge and clinical application among young clinicians](theory-practice-disconnection-young-clinicians.md) — a broader claim this one bears on
+- [Prior ultrasound residents showed three recurring educational challenges in thyroid and cervical lymph node examination](three-challenges-thyroid-lymph-node-ultrasound-training.md) — related

@@ -93,3 +93,5 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
 - [The scale shows robust reliability: Cronbach's alpha 0.96, Spearman-Brown 0.86, and composite reliability coefficients above 0.60](gp-depression-scale-reliability-alpha-0-96.md) — related
+- [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related
+- [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related

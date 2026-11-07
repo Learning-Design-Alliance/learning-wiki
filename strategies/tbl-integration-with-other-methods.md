@@ -61,6 +61,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
 - [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
 - [Use multiple teaching methodologies — case- or team-based learning, flipped classrooms, simulation, augmented reality, and interactive virtual patients — to build TDI competence](multiple-teaching-methods-tdi-confidence.md)
+- [Educators should flexibly use PBL alone or combined with other methods, matched to teaching content and the learning situation, rather than adopting one mode universally](flexibly-match-pbl-to-content-and-learners.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Cross-sectional study with clinical nutritional assessment (weight and height me
 - [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](underweight-lower-academic-scores-ethiopia.md) — reports the opposite
 - [Nutrition and WASH exposures show a pooled positive association with academic performance among Ethiopian schoolchildren (pooled effect size 2.05) with very high heterogeneity](pooled-nutrition-wash-academic-performance-ethiopia-2-05.md) — a broader claim this one bears on
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — reports the opposite
+- [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related

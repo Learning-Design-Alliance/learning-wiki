@@ -60,3 +60,4 @@ Scoping review synthesis comparing supervised surgery studies with VRS studies. 
 - [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — related
 - [The authors report that VR surgical training may improve operator performance and reduce surgical complication rates relative to animal and cadaver model outcomes, while impact on clinical competency remains controversial](vr-training-performance-and-controversy.md) — related
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — related
+- [Intraoperative complication rates do not differ significantly between 3D and traditional microscope surgeries by novice surgeons.](3d-hud-complication-rates-comparable.md) — related

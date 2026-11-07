@@ -63,3 +63,4 @@ Reliability analysis of ratings by two trained inter-raters using an 11-band ana
 - [Both computer-based and paper-based versions of the achievement test show high split-half reliability coefficients](high-reliability-both-test-modes.md) — related
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [Rubric-based scoring in the PROMPTa study showed strong intra-rater and moderate-to-strong inter-rater reliability](prompta-rater-reliability-estimates.md) — related
+- [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related

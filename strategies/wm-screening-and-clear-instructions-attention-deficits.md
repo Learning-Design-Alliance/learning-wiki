@@ -49,6 +49,7 @@ The article draws practical implications from its findings: measures of WM capac
 ## Related Strategies
 
 - [Accommodate slower processing speed in academic interventions for children with ADHD, alongside existing WM-focused approaches](accommodate-processing-speed-adhd-interventions.md)
+- [Support children with working memory difficulties in the classroom through approaches other than WM training, including teacher training about WM](classroom-support-working-memory-difficulties.md)
 
 ## Examples
 -

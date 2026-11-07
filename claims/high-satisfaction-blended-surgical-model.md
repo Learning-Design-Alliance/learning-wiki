@@ -50,3 +50,4 @@ Post-course Likert questionnaire of the 60 experimental-group students only (Cro
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
 - [Teachers report significantly higher satisfaction with the MOOC-HFS blended model across all questionnaire items](mooc-hfs-higher-teacher-satisfaction.md) — related
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
+- [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related

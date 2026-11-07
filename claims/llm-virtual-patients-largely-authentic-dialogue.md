@@ -57,3 +57,4 @@ Interaction-level Dialogue Authenticity Scale ratings of 16 transcripts (8 group
 - [Experienced prehospital professionals rated the overall physiological parameters of all 9 simulated trauma patients as absolutely realistic (median 5, IQR 3-5)](humans-physiological-parameters-rated-realistic.md) — related
 - [Medical students perceive an LLM-driven social robotic virtual patient platform as more authentic than a computer-based semilinear virtual patient platform](social-robotic-vp-perceived-more-authentic-than-computer-based.md) — related
 - [Resident-persona dialogues rated higher than poor-medical-student persona for authenticity and experience](resident-persona-outperforms-poor-student-persona.md) — related
+- [Medical students perceive an LLM-enhanced social robotic virtual patient platform as more authentic and engaging than a conventional computer-based virtual patient platform](social-robotic-vp-perceived-more-authentic.md) — related

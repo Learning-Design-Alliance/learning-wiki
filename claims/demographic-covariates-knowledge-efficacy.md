@@ -49,3 +49,4 @@ Covariate results from the LMMs in the quasi-experimental study; the quote repor
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — related
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
+- [Female medical and dental educators score higher on student-centred teaching than male educators in Karachi, Pakistan](female-educators-higher-student-centric-scores-pakistan.md) — related

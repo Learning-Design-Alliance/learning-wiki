@@ -69,3 +69,5 @@ Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test 
 - [PUC-FC students outperformed FC and LBL students on case analysis questions and total theoretical scores, with no difference on basic knowledge questions](puc-fc-case-analysis-advantage.md) — a narrower finding that bears on this claim
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — reports the opposite
 - [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related
+- [FC-TBL students outperformed LBL students in four subsequent molecular-biology-related courses in the seventh and eighth semesters](fc-tbl-improves-subsequent-course-outcomes.md) — a narrower finding that bears on this claim
+- [Seven months after the course, FC-TBL and LBL students showed no significant difference in retention of basic molecular biology concepts, though FC-TBL scores were marginally higher](fc-tbl-no-retention-advantage-seven-months.md) — related

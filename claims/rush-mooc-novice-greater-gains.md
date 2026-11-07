@@ -55,3 +55,5 @@ Mann-Whitney U comparison of quiz-score gains between participants without versu
 - [Years of musculoskeletal ultrasound experience correlate positively with pre- and post-course self-reported confidence but negatively with self-reported confidence improvement](usg-experience-confidence-correlations.md) — related
 - [Weekly ultrasound-guided injection volume correlates moderately with pre-course confidence, weakly with post-course confidence, and negatively with confidence improvement](weekly-injection-volume-confidence-correlations.md) — related
 - [Baseline skill differences by prior helicopter boarding experience largely disappear after the course, except impact-protection positioning](metra-course-experience-subgroup-differences.md) — related
+- [Prior UBE experience moderates e-learning knowledge gains but not simulator skill gains](prior-experience-moderates-elearning-not-simulator-gains.md) — reports the opposite
+- [A competency-based ultrasound curriculum significantly improves ultrasound image interpretation scores among non-ultrasound-specialty residents](ultrasound-curriculum-improves-interpretation-scores.md) — related

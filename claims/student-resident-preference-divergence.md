@@ -49,3 +49,4 @@ Comparative preference items from the study questionnaire in the same crossover 
 - [Exploratory subgroup analysis found no cataract performance difference between systems among students but higher conventional-microscope scores among residents](subgroup-cataract-students-residents.md) — related
 - [No significant sequence effect was observed; participants starting with the 3D system achieved comparable overall scores to those starting conventionally](no-sequence-effect-crossover.md) — related
 - [Participants rated the 3D heads-up system superior for control, instrument handling, movement precision, comfort and instructor interaction](subjective-ratings-favour-3d-system.md) — related
+- [All surveyed novice surgeons rate the 3D heads-up display as better than conventional microscopy for peripheral field, image quality, and depth perception, and report easy transition between systems.](surgeon-survey-3d-hud-visualization-and-transition.md) — related

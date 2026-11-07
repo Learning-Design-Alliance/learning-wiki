@@ -69,3 +69,5 @@ Same crossover study, vitrectomy module; paired comparison found no significant 
 - [Exploratory subgroup analysis found no cataract performance difference between systems among students but higher conventional-microscope scores among residents](subgroup-cataract-students-residents.md) — related
 - [No significant sequence effect was observed; participants starting with the 3D system achieved comparable overall scores to those starting conventionally](no-sequence-effect-crossover.md) — related
 - [Increased use of microscopes (26.3%) and navigation systems (31.6%) was reported by a minority, with no change for the majority](cadaver-course-modest-navigation-microscope-adoption.md) — related
+- [Novice surgeons achieve significantly higher phacoemulsification competency scores when operating on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-higher-novice-surgical-competency-scores.md) — related
+- [Novice surgeons complete phacoemulsification surgeries significantly faster on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-shorter-novice-surgical-duration.md) — related

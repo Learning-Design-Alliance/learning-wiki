@@ -109,3 +109,4 @@ The comparison between PGY-3 and PGY-2 residents on the rating scale showed no s
 - [The rate of improvement in laparoscopic task completion time differs significantly by training level, with a significant Training Level × Time interaction driven primarily by gains in PGY-1 and PGY-2 residents.](training-level-by-time-interaction-modulates-simulation-impact.md) — related
 - [Residents who watched a video of the simulated procedure before simulation scored higher on global performance, execution and quality than residents who did not](presimulation-video-higher-appendectomy-performance.md) — related
 - [Virtual simulation-based assessment scores do not differ significantly between post-graduate year 1 and year 2 residents (6.15 vs 6.48 on a 10-point scale)](virtual-sba-no-pgy-difference.md) — reports the opposite
+- [PGY 3–5 trainees suture faster initially but show lower improvement rates than PGY 1–2 trainees](pgy-experience-faster-times-lower-rtr.md) — related

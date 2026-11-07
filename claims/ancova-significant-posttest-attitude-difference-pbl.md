@@ -67,3 +67,4 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [Project based learning has a positive effect on students' attitudes towards classification of organisms](pbl-positive-attitude-classification.md) — possibly the same claim (merge candidate)
 - [Communication skills attitudes improved after an SRL-based curriculum](csas-improvement-after-srl-communication-curriculum.md) — related
 - [Professional attitudes toward physiotherapy did not change under any instructional model](no-attitude-change-any-instructional-model.md) — related
+- [ANCOVA with pre-test as covariate confirms significant post-intervention increases in total attitude score and subscales 2 and 3](ancova-conflict-attitude-adjusted.md) — related

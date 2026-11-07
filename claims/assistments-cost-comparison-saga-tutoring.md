@@ -60,3 +60,4 @@ The authors' benchmark comparison in the discussion, citing Guryan et al. (2023)
 - A recent meta-analysis of 14 types of educational interventions found high-impact tutoring the most effective at improving student achievement — related
 - [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](tft-student-long-term-outcome-goal.md) — related
 - [Teacher time imposes no incremental cost for ASSISTments above business-as-usual instruction](assistments-no-incremental-teacher-time-cost.md) — related
+- [The blended UBE course was delivered at a fraction of typical commercial training cost](blended-ube-course-low-cost-efficiency.md) — related

@@ -53,3 +53,4 @@ Systematic review synthesis of six comparative studies of peer- versus faculty-l
 - [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — related
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related
+- [Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge](peer-tutors-comparable-outcomes-ultrasound.md) — a narrower finding that bears on this claim

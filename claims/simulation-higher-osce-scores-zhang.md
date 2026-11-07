@@ -70,3 +70,4 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [Fourth-year medical students assigned to an OSCE preparation podcast scored significantly higher on post-intervention nephrology OSCE stations than controls](osce-podcast-higher-post-osce-score.md) — related
 - [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
 - [Deliberate practice yields significantly higher OSCE scores than conventional lecture in trauma training for pre-clinical medical students](deliberate-practice-higher-osce-trauma-training.md) — a narrower finding that bears on this claim
+- [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related

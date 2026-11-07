@@ -51,3 +51,4 @@ Independent-sample t-tests and chi-square crosstabulations across demographic gr
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
 - [Gender, marital status, living status, and chronic disease show no significant association with older volunteers' competency needs](null-demographic-factors-older-volunteer-needs.md) — related
 - [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related
+- [Gender and accommodation type showed no statistically significant relationship with summative assessment marks](no-gender-accommodation-association-summative-marks.md) — related

@@ -54,3 +54,4 @@ Bonferroni-corrected Welch ANOVA of five general-skill importance ratings across
 - [Younger surgeons report significantly more VR simulation training than senior counterparts, while cadaveric training remains the most commonly received](younger-surgeons-more-vr-simulation-exposure.md) — related
 - [IVR and control groups do not differ in attending-surgeon interventions, verbal answers to composite questions, or safety cessations](ivr-null-surgeon-intervention-questions-safety.md) — related
 - [AI and surgeons performed similarly on eight MCQ questions; the AI scored higher on anatomical/technical questions and surgeons scored higher on two practical-scenario questions](ai-versus-surgeon-question-level-pattern-vns.md) — related
+- [Anatomy teaching hours fell from over 800 hours around 1930 to about 200 hours today, and clinicians increasingly report inadequate anatomical knowledge of students](anatomy-hours-reduced-800-to-200-clinician-complaints.md) — related

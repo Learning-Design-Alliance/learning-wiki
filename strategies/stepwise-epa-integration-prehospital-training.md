@@ -50,6 +50,7 @@ To address barriers including limited training resources, time constraints, and 
 - [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
 - [Implement targeted structural reforms for tourniquet safety training: standardized national training modules, mandatory simulation-based certification, competency reassessment, institutional protocols, and interdisciplinary safety checklists](tourniquet-safety-training-reform-strategy.md)
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
+- [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article recommends that PBL "should be appropriately applied according to th
 
 - [Use a combined teaching model mixing PBL with lecture-based and digital teaching, adapted to the local setting](combined-pbl-lbl-digital-teaching-model.md)
 - [Exercise caution when selecting a single teaching method; consider disciplinary characteristics and student demographics, and weigh combined approaches](caution-single-method-selection-neurology.md)
+- [Educators should flexibly use PBL alone or combined with other methods, matched to teaching content and the learning situation, rather than adopting one mode universally](flexibly-match-pbl-to-content-and-learners.md)
 
 ## Examples
 -

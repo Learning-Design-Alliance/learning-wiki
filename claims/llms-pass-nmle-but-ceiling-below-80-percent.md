@@ -71,3 +71,4 @@ The authors' discussion of the performance ceiling identifies three factors: emp
 - [GPT-4 exceeds pass marks on India NEET-PG and UK PLAB 1 but falls below pass on clinical reasoning and procedural items](gpt4-neetpg-plab-pass-clinical-reasoning-below.md) — related
 - [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related
 - [GPT-4 and GPT-4o accuracy exceeds the NMLE passing threshold and the typical national pass rate](gpt4-gpt4o-exceed-nmle-passing-threshold.md) — a narrower finding that bears on this claim
+- [All four LLMs showed a decline in accuracy on the Chinese-language NMLE, with GPT-4, GPT-3.5 and Bard failing to reach the 70% accuracy threshold](llm-accuracy-declines-on-chinese-nmle.md) — related

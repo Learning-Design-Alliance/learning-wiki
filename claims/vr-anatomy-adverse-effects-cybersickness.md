@@ -62,3 +62,4 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related
 - [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — reports the opposite
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
+- [Cybersickness (dizziness and headaches) occurs more frequently with VR or image-rich MR than with standard MR, favouring MR and shorter, well-designed HMD sessions](cybersickness-more-frequent-vr-than-standard-mr.md) — a broader claim this one bears on

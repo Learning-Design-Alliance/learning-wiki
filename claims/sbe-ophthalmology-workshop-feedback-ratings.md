@@ -51,3 +51,5 @@ Immediate post-workshop Likert feedback survey (Kirkpatrick level 1) in the pilo
 - [More than 80 percent of boot camp participants gave favorable ratings to all aspects of the training](boot-camp-favorable-trainee-ratings.md) — related
 - [A short simulation-based ophthalmology workshop immediately improves medical students' ophthalmology knowledge, confidence, and interest in the specialty](sbe-ophthalmology-workshop-immediate-gains.md) — related
 - [Students receiving simulation-based education rate the teaching higher than traditionally taught students for learning interest, imaging thinking, teamwork, and communication skills](sbe-higher-ratings-nontechnical-domains.md) — related
+- [Course evaluations for the workshop were positive for all six questions, with mean scores of 4.8–5.0 on a 5-point Likert scale](workshop-course-evaluations-positive-4-8-to-5-0.md) — possibly the same claim (merge candidate)
+- [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related

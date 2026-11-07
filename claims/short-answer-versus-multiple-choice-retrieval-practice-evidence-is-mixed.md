@@ -157,3 +157,5 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 - [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related
 - [Question-generation strategy produces significantly better overall reading comprehension performance than conventional instruction](question-generation-significant-overall-effect-reading-comprehension.md) — related
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related
+- [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — related

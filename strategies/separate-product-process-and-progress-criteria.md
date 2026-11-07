@@ -65,6 +65,7 @@ Blending non-achievement factors into achievement grades distorts the grade's me
 - [Mastery Learning](mastery-learning.md) — product grades aligned to mastery rather than averaging
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 - [Implement peer assessment in absorbable steps with clarified criteria and quality training](staged-peer-assessment-implementation.md)
+- [Use element-weighted rubrics and social moderation to standardise interpretation of marking criteria](rubric-elemental-weighting-social-moderation.md)
 
 ## Related Elements
 - [Rubrics](../elements/rubrics.md) — the instrument that makes each criterion explicit and gradable

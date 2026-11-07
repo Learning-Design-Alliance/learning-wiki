@@ -51,3 +51,4 @@ In the same hierarchical multiple regression (Table 4 is headed N = 187, althoug
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — related
 - [Peer grading behaviors do not significantly predict project performance for assessors or assessees](peer-grading-not-significant-predictor.md) — related
+- [The act of giving peer feedback has greater impact on student learning gain than the mark or feedback received from a peer assessor](giving-peer-feedback-outweighs-receiving.md) — a broader claim this one bears on

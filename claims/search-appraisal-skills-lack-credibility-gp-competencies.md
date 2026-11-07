@@ -48,3 +48,4 @@ Methodological finding from the systematic review's synthesis process. The revie
 - [GPs prefer pre-appraised evidence sources over independently searching and appraising primary research](gps-prefer-pre-appraised-evidence-sources.md) — related
 - [Direct observation found GPs rarely engaged in the traditional five-step EBM process, relying instead on 'mindlines'](gps-rely-on-mindlines-not-five-step-ebm.md) — related
 - [Self-reported frequent engagement with traditional EBM steps is low among UK GPs](low-self-reported-ebm-activity-uk-gps.md) — related
+- [About 30% of Ghanaian nurses rated their ability to formulate research questions, search literature, and critically appraise research as fair or poor, while 75% had only fair composite research knowledge and skills](ghana-nurses-fair-poor-research-skills-thirty-percent.md) — related

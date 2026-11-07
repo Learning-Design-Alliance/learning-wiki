@@ -58,3 +58,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
 - [The most frequently mentioned barrier to implementing RaT curricula is balancing workload on faculty and residents](rat-implementation-barriers-workload.md) — related
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
+- [91.8% of interns using ultrasound experienced barriers, most commonly insufficient scanning routine (70.5%), lack of supervision (46.7%) and insufficient knowledge (41.4%)](intern-ultrasound-use-barriers-scanning-routine-supervision.md) — related

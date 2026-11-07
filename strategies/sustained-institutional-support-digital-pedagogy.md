@@ -54,6 +54,7 @@ The article's concluding recommendation is that one-time training is insufficien
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 - [Implementation supports for BIM: faculty training, hierarchical small groups with contribution tracking, and shared case resources](bim-implementation-support-strategies.md)
 - [Structured cross-disciplinary faculty training, leadership resource allocation, and dedicated administrative support to overcome interdisciplinary implementation barriers](faculty-training-resources-admin-support-interdisciplinary.md)
+- [Implement faculty development programs, continuous formative assessment, and curriculum reform to support student-centred learning](faculty-development-continuous-assessment-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Qualitative meta-summary of a scoping review that screened 469 unique abstracts 
 - [Raters of a videotaped fracture-scenario OSCE showed high internal consistency but only moderate inter-rater reliability across subspecialties and seniority levels](videotaped-osce-rater-reliability.md) — related
 - [The Modified Angoff method was acceptable for setting different pass marks for senior and junior residents on the same OSCE](modified-angoff-different-pass-marks.md) — related
 - [Improvement in Orthopaedic In-Training Examination scores showed no significant correlation with OSCE scores](oite-improvement-no-osce-correlation.md) — related
+- [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related

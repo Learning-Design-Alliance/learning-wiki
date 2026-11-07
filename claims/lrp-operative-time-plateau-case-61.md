@@ -73,3 +73,4 @@ CUSUM analysis of operative time showed a visual peak at Case 40 (maximum 576.7 
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
 - [The LASPME learning curve divides into three proficiency stages, with the preliminary stage ending around the 91st procedure and proficiency reached around the 125th](laspme-three-stage-learning-curve-91-125.md) — related
+- [The ChatGPT group showed the steepest cumulative learning curves for both theoretical knowledge (slope 13.02) and skills (slope 0.62) among the three training groups](chatgpt-group-steepest-learning-curves.md) — related

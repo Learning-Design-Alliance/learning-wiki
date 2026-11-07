@@ -57,3 +57,4 @@ Subgroup analyses were performed according to discipline, item type, and learner
 - [Students' self-assessment of performance broadly aligned with examination outcomes but showed a tendency toward underestimation](whisper-exam-self-assessment-underestimation.md) — related
 - [Role-dependent rating differences: faculty emphasize Importance, residents prioritize Feasibility, postgraduates rate Clarity slightly higher](role-dependent-rating-differences-three-groups.md) — related
 - [No students failed the virtual OSCE or their clerkship, with cut-scores set by the Borderline Regression Method and an Angoff process](virtual-osce-no-failures-brm-angoff.md) — related
+- [Passing participants' median scores did not reach the Angoff median in several disciplines, indicating residual knowledge gaps](participants-below-angoff-median-knowledge-gaps.md) — related

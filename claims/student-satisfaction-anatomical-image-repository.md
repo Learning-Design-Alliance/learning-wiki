@@ -51,3 +51,4 @@ Anonymous satisfaction survey of 54 students (60% of quiz participants; 30% of a
 - [Thematic analysis of open-ended feedback found students valued interactive 3D models, concise case presentation, and clinical context, while requesting labeled structures, step-by-step platform guidance, videos, technical fixes, and embedded quizzes](xr-cbl-feedback-thematic-analysis.md) — related
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related
+- [Treatment-group students rated Osmosis above the textbook for information retention, concept learning, and test-score improvement](osmosis-rated-above-textbook-perceptions.md) — related

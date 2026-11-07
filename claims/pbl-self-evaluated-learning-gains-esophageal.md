@@ -53,3 +53,4 @@ Self-evaluation questionnaire (0–10 Likert) in the same cohort. PBL interns re
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [AI-supported PBL produced significantly greater gains in AI self-efficacy than traditional PBL, with a very large between-group effect (Cohen's d = 1.78)](ai-pbl-greater-ai-self-efficacy-gains.md) — related
+- [Dietetic students in PBL perceived stronger thinking, problem-solving, communication and collaborative-learning skills than didactically taught students](pbl-dietetic-students-perceived-skill-gains.md) — related

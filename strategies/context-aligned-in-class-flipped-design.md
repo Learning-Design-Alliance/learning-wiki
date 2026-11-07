@@ -49,6 +49,7 @@ The article recommends that instructional design align with the learning context
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
 - [Learning Cycles](learning-cycles.md)
+- [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 
 ## Examples
 -

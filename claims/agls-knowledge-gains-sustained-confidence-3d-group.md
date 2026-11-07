@@ -57,3 +57,4 @@ The review's Table 2 summarizes an empirical study by Lisk et al. evaluating the
 - [Self-reported confidence in knowledge increased in both groups after dramatization](dramatization-increases-student-confidence.md) — related
 - [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](fsph-3d-model-improves-tumor-screening-knowledge.md) — related
 - [63.9% of students reported increased confidence in neuroanatomy over time despite low baseline confidence](pre-class-tests-confidence-growth-over-time.md) — related
+- [Students perceived 3D printed bone models as better than 2D images or a single skeleton and reported deeper learning and increased confidence](3d-printed-models-perceived-deeper-learning.md) — related

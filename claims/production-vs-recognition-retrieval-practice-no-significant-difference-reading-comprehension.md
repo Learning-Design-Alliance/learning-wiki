@@ -61,3 +61,7 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 - [Evidence on practice effects of VSAQs versus MCQs is mixed, with no consistent advantage for either format](vsaq-practice-effects-mixed-inconclusive.md) — related
 - [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related
 - [Multiple-choice reading test scores failed to significantly improve at all proficiency levels after the intervention](reading-test-no-significant-improvement.md) — related
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related
+- [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — a narrower finding that bears on this claim
+- [Most students (68.9%) found the practice tests beneficial for learning, with no perceived difference between VSAQ- and MCQ-practiced content](students-rate-practice-tests-beneficial.md) — related
+- [VSAQs are answered incorrectly more often than MCQs on practice tests, indicating lower initial retrieval success](vsaq-lower-initial-retrieval-success.md) — related

@@ -52,3 +52,4 @@ Before-after assessments of 70 nurses and midwives in Lagos before and immediate
 - [BVM ventilation performance at 6 months is higher with increasing self-reported app use, and self-reported activity correlates only modestly with logged app activity](venc-dose-response-self-reported-use.md) — related
 - [Knowledge-check trajectories differ: ENC 1 knowledge scores decline by 6 months while remaining above pretraining, and ENC 2 knowledge scores stay stable](venc-knowledge-check-trajectories.md) — related
 - [Both video-based and simulation-based training significantly improve paediatric BLS knowledge immediately after training](video-and-simulation-improve-bls-knowledge-immediately.md) — related
+- [Training load needed for ventilation rate varies by profession: midwives and pediatricians were predicted to succeed without training while anesthetists needed 36 cases](ventilation-rate-threshold-varies-by-profession.md) — related

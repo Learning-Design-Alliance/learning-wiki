@@ -56,3 +56,4 @@ K-means cluster analysis on the three approaches-to-learning scales in the surve
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
 - [Dissonant combinations of regulation and processing strategies impair performance, and dissonance produces affective strain](dissonance-in-learning-patterns.md) — related
 - [Interest profiles combine homogeneous and heterogeneous patterns across the six dimensions](interest-profiles-homogeneous-and-heterogeneous-patterns.md) — related
+- [Low-grade students' e-learning performance correlates with deep approach and organized studying](low-grade-approach-correlations.md) — related

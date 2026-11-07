@@ -50,3 +50,5 @@ Cross-sectional survey analysis found "no meaningful link between the presence o
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Acute-care nurses (ED/UCC, ICU/HDU) demonstrate significantly higher sepsis knowledge than general ward nurses](acute-care-nurses-higher-sepsis-knowledge.md) — related
 - [Higher education, senior job grade, and acute-care employment independently predict sepsis knowledge (R² = 0.156)](education-grade-setting-predict-sepsis-knowledge.md) — related
+- [ICU nurses report targeted knowledge gaps in sepsis risk factors, screening tools, and infection-prevention strategies](icu-nurse-sepsis-knowledge-gaps.md) — related
+- [Most ICU nurses believe early sepsis detection saves lives and that their care can improve sepsis outcomes](icu-nurses-believe-early-sepsis-detection-saves-lives.md) — related

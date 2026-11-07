@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: fang-eric-kin-meng-2026
     resource: "https://doi.org/10.1186/s12909-026-10028-w"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Feedback reported as beneficial was immediate, personalized, actionable and transparent, but only 52.6% (n = 51) of studies reported incorporating feedback as a feature, with no temporal association by publication era. [→ Fang Eric Kin Meng 2026](#fang-eric-kin-meng-2026)

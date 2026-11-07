@@ -49,3 +49,4 @@ Post-hoc construct-validity correlation within the EBM-BOPPPS group (n = 47) bet
 - [EBM-BOPPPS clerks achieved significantly higher total OSCE scores than standalone BOPPPS clerks in a neurology clerkship RCT](ebm-boppps-higher-total-osce-neurology-clerkship.md) — related
 - [EBM-BOPPPS clerks outperformed BOPPPS clerks on the OSCE Physical Interview station, but the Clinical Judgment advantage did not survive correction](ebm-boppps-physical-interview-station-advantage.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — a broader claim this one bears on
+- [CDA3 correlates with OSCE Procedural stations but not with OSCE Communication stations](cda3-osce-procedural-not-communication.md) — related

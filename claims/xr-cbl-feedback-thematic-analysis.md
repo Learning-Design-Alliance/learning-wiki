@@ -59,3 +59,5 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Students' top perceived advantage of AR was clearer, more intuitive and vivid presentation (56.14%)](ar-obgy-top-advantage-vividness.md) — related
 - [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
 - [Two pilot-study students reported difficulty viewing small anatomical structures such as the pontine arteries](pilot-feedback-small-structure-visibility-difficulty.md) — related
+- [Resident feedback identifies expanded training scope, more practice time, and better scheduling as the top improvement requests](resident-feedback-curriculum-improvements.md) — related
+- [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related

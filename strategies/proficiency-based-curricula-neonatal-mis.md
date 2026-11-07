@@ -57,6 +57,7 @@ The review recommends integrating cost-effective simulation into pediatric MIS t
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 - [Provide focused all-day procedure-specific training covering the entire surgical pathway before surgeons adopt a low-volume procedure](focused-all-day-procedure-specific-training-strategy.md)
 - [Structured MIE training pathway: simulator training, progression through bariatric and minimally invasive gastrectomy, supervised case progression, and risk-based patient selection](structured-mie-training-pathway-strategy.md)
+- [Use sequential adaptive e-learning plus simulator training to establish novel minimally invasive surgical techniques](sequential-elearning-simulator-for-novel-mis-techniques.md)
 
 ## Examples
 -

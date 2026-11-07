@@ -101,3 +101,4 @@ The chapter reports Rohrer et al. (2010), where "this retrieval practice activit
 - [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related
 - [No intervention benefits on source references in students' written conclusions (far transfer question)](sourcing-intervention-no-far-transfer-benefit.md) — related
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — related
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — a narrower finding that bears on this claim

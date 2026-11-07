@@ -70,3 +70,4 @@ Interview data on feedback during lesson planning: all experimental-group partic
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
 - [Treatment teachers received more class observations and feedback from mentors than control teachers](cti-more-mentor-observations-feedback.md) — related
 - [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — related
+- [Hospital-based post-graduate feedback experiences were predominantly problematic or absent, and trainees developed coping strategies that cemented non-acceptance of supervision and feedback](hospital-feedback-problematic-coping-strategies.md) — related

@@ -78,3 +78,4 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — related
 - [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — related
 - [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related
+- [VR simulator training improves laparoscopic surgical speed and accuracy compared with traditional training, per the review's cited study](vr-laparoscopic-training-speed-accuracy-review.md) — related

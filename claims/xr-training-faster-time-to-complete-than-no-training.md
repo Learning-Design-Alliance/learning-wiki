@@ -56,3 +56,4 @@ Meta-analysis of randomized and prospective studies comparing XR training to no 
 - [Time to visualize the PLAX view is longer in the XR training group than the standard group](xr-training-slower-plax-acquisition.md) — related
 - [Image quality scores are slightly higher in the XR training group compared to the standard group](xr-training-higher-image-quality.md) — related
 - [By the end of the study the competition group completed tasks significantly faster than the independent-training group, though overall completion times did not differ significantly](competition-faster-task-completion-end.md) — related
+- [Novice learners taught virtually complete the MISTELS peg transfer task faster than face-to-face-taught learners (11.25 vs 16.88 min; P=0.015)](online-group-faster-peg-transfer.md) — related

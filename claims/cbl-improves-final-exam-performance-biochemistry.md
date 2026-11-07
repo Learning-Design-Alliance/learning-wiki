@@ -51,3 +51,4 @@ Final exam comparison (worth 40% of the final grade, ~95% same questions) betwee
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [In a randomized controlled trial, SI-PASS participation did not significantly improve final exam performance compared to a waiting-list control group](si-pass-rct-no-performance-effect.md) — reports the opposite
+- [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — related

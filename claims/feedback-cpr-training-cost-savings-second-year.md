@@ -47,3 +47,4 @@ A simulated cost analysis for training 500 students per year, based on the study
 ## Related Claims
 - [Among fifth- and sixth-year medical students, overall CPR performance, compression depth, and compression rate were higher after practice with a feedback-equipped CPR simulator than at baseline practice without feedback, with change measured within one group from pre-test to post-test](feedback-cpr-simulator-improves-performance-baseline.md) — related
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
+- [The riAniMO approach was cost-saving, training 322 more HCPs and saving €61.7 per participant versus standard BLSD retraining](rianimo-cost-savings-per-participant.md) — related

@@ -52,3 +52,4 @@ Descriptive analysis of Spring 2025 interaction logs from the ten institutions a
 - [Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool](equity-in-how-not-how-much-genai-use.md) — related
 - [Cumulative engagement showed staircase growth with deadline-driven peaks of 348 events on April 4th and 205 events around April 9th](cumulative-engagement-staircase-deadline-peaks.md) — related
 - [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related
+- [Newly developed digital learning tools increase student motivation, enjoyment and engagement, but participation is usually voluntary and skewed toward senior students](digital-tools-increase-motivation-engagement-voluntary-participation.md) — related

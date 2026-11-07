@@ -66,3 +66,6 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [New dental-specific themes include practical guidance, a safe training environment, resident–patient relationships, career education and comprehensive treatment planning](new-dental-specific-teacher-themes.md) — related
 - [Trainee focus groups identified that simulation training built a stronger, more confident team and created a space for communication and decision-making](ecmo-sim-qualitative-confidence-themes.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
+- [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
+- [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
+- [Students saw virtual patients as a safe, standardised complement to clinical rotations that guarantees exposure to representative diagnoses](vp-potential-safe-standardised-rotation-complement.md) — related

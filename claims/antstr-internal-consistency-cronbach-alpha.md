@@ -52,3 +52,4 @@ Internal consistency analysis of ANTStr scores assigned by each of two independe
 - [Internal consistency of the tool's three category scores is satisfactory, with Cronbach's α of 0.84 for positive and mixed videos and 0.91 for the negative video](fbat-internal-consistency-cronbach.md) — related
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
+- [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related

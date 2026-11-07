@@ -74,3 +74,5 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
 - [Practical workshops are the most preferred EBM learning modality among Palestinian medical students, though preference does not differ significantly by training status](practical-workshops-preferred-ebm-modality.md) — related
 - [EBM-BOPPPS and BOPPPS groups showed no significant difference in foundational neurology MCQ scores](ebm-boppps-mcq-no-difference.md) — related
+- [FC-TBL students achieved significantly higher molecular biology laboratory exam scores than LBL students](fc-tbl-higher-lab-exam-scores.md) — a narrower finding that bears on this claim
+- [FC-TBL students outperformed LBL students in four subsequent molecular-biology-related courses in the seventh and eighth semesters](fc-tbl-improves-subsequent-course-outcomes.md) — related

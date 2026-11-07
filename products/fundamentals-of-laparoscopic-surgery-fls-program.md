@@ -30,3 +30,4 @@ A SAGES- and American College of Surgeons-sponsored programme combining box-trai
 
 ## Key Sources
 - Falco Gabrielle, Dunaway Alex, Ranney Stephen, Sweeney William, Taylor Zachary, Dyke Christopher. (2025). We're talking about practice: examining the shifting role of FLS in surgical education. Surgical Endoscopy. https://doi.org/10.1007/s00464-025-12414-9
+- Shahrezaei Aidin; Sohani Maryam; Taherkhani Soroush; Zarghami Seyed Yahya. (2024). The impact of surgical simulation and training technologies on general surgery education. BMC Medical Education. https://doi.org/10.1186/s12909-024-06299-w

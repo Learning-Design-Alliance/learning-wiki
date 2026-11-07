@@ -59,3 +59,4 @@ K-means clustering on Phase 0 LMS trace data from 94 students, using the Ye and 
 - [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related
 - [Exploratory cluster analysis identifies two student profiles differing in neuroticism/self-efficacy, comfort, and learning success](cluster-analysis-two-student-profiles.md) — related
 - [Log data identify two flipped-classroom clusters, an assessment-oriented approach (higher post-lecture quiz proportion) and a preparation-oriented approach (higher pre-lecture activity proportions)](log-data-preparation-assessment-clusters.md) — related
+- [Physicians could not be grouped into distinct learner clusters by motivation, self-assessment, and risk perception in the POCUS context](pocus-no-learner-clusters.md) — related

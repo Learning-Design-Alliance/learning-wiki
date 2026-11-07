@@ -76,3 +76,4 @@ Same Cheung et al. comparison reported in the review: AI generation of 50 MCQs t
 - [ChatGPT generated usable MCQs roughly five times faster than educator panels but with a 44% rejection rate](chatgpt-mcq-generation-speed-rejection-tradeoff.md) — possibly the same claim (merge candidate)
 - [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related
 - [ChatGPT responded significantly faster than DeepSeek on orthopedic MCQs (10.40 vs 34.42 seconds, P<.001)](chatgpt-faster-response-time-than-deepseek-mcqs.md) — related
+- [ChatGPT responses during training achieved 100% relevance but only 50% completeness and 60% accuracy, with a 15.9 s average response time](chatgpt-response-quality-metrics.md) — related

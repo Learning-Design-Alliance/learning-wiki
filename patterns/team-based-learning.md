@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 109 claims (72 for, 33 mixed, 4 against) · 54 studies (17 quant-synthesis, 16 causal, 8 review, 6 design, 5 associational, 2 theoretical), `q1`–`q4` · 16 of 54 report an effect size · 101 claims rest on one study
+> **Evidence** · 111 claims (74 for, 33 mixed, 4 against) · 55 studies (17 causal, 17 quant-synthesis, 8 review, 6 design, 5 associational, 2 theoretical), `q1`–`q4` · 17 of 55 report an effect size · 103 claims rest on one study
 
 ## Description and scope
 
@@ -124,6 +124,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students report positive accountability, preference for TBL over lectures, and satisfaction on the TBL-SAI after the course](../claims/tbl-sai-positive-student-assessment.md) [+W] — attached 2026-11-06 from Ngoc Lan Duong Thi et al. (2025), which proposed "Use team-based learning as an active-learning strategy suited to large student-to-faculty ratios".
 - [Script concordance test performance rose significantly from pre-test to post-test in fourth-year medical students in one uncontrolled pre-post study of a team-based learning course on clinical symptoms](../claims/sct-performance-improves-after-tbl-clinical-reasoning.md) [+W] — attached 2026-11-07 from Ishizuka K et al. (2025), which proposed "TBL course pattern: three-phase 240-minute units combining pre-class preparation, readiness assurance, and application exercises"; tests this page's relationship.
 - [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](../claims/self-assessed-clinical-reasoning-competency-improves-tbl.md) [+W] — attached 2026-11-07 from Ishizuka K et al. (2025), which proposed "TBL course pattern: three-phase 240-minute units combining pre-class preparation, readiness assurance, and application exercises"; tests this page's relationship.
+- [FC-TBL students achieved significantly higher molecular biology laboratory exam scores than LBL students](../claims/fc-tbl-higher-lab-exam-scores.md) [+W] — attached 2026-11-07 from Qu Meng et al. (2024), which proposed "FC-TBL laboratory course pattern: pre-class self-study with iRAT, in-class tRAT and team experiments, post-class discussion"; tests this page's relationship.
+- [FC-TBL students expressed high satisfaction, with about 78% reporting sparked interest and over 74% willing to choose the model again](../claims/fc-tbl-high-satisfaction.md) [+W] — attached 2026-11-07 from Qu Meng et al. (2024), which proposed "FC-TBL laboratory course pattern: pre-class self-study with iRAT, in-class tRAT and team experiments, post-class discussion".
 
 ## Illustrative design instance and observation record
 

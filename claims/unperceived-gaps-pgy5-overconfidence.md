@@ -49,3 +49,4 @@ PGY-5 subgroup of the resident survey. The authors interpret this as possible ov
 - [Residents report low self-perceived autonomy for bifascicular block, failure to capture, Brugada pattern, and acute MI with bundle branch block](low-resident-autonomy-critical-ecg-diagnoses.md) — related
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related
+- [Pediatric residents rarely correctly diagnose life-threatening emergent ECG conditions, with correct rates from 42.1% for long QTc syndrome down to 4.2% for hyperkalemia](pediatric-residents-low-emergent-ecg-diagnosis-accuracy.md) — related

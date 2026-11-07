@@ -48,3 +48,4 @@ Self-reported comfort and confidence items in the cross-sectional questionnaire 
 ## Related Claims
 - [Most pediatric residents in two Addis Ababa teaching hospitals hold positive perceptions of pediatric POCUS and its integration into residency training](ethiopian-pediatric-residents-positive-pocus-perception.md) — related
 - [Monthly or weekly POCUS use is associated with good POCUS knowledge compared to never or rarely using it](pocus-use-frequency-associated-with-knowledge.md) — related
+- [Formal ultrasound training is less integrated during internship: 44.2% received formal training while 68.5% had to pursue it independently](internship-ultrasound-training-less-integrated-44-2-percent.md) — related

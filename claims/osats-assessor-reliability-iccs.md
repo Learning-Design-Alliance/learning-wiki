@@ -55,3 +55,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related
 - [Peer and teacher ratings of PtBL video presentations correlate substantially (r = 0.73), supporting criterion-related validity](peer-teacher-rating-correlation-ptbl.md) — related
+- [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — related

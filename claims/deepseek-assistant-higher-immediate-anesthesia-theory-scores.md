@@ -57,3 +57,5 @@ Stratified randomized controlled trial with 24 participants per group (12 underg
 - [ChatGPT-guided PBL residents scored significantly higher on the clinical practice assessment than traditionally taught residents](chatgpt-pbl-higher-clinical-practice-score.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
+- [Both PBL-ChatGPT and traditionally taught urology interns significantly improved their theoretical knowledge exam scores from before to three days after the course](pbl-chatgpt-and-traditional-both-improve-theory-exam-scores.md) — related
+- [Urology interns taught with ChatGPT-assisted PBL scored significantly higher on the post-course theoretical exam than interns taught with traditional teaching](pbl-chatgpt-higher-post-course-theory-exam-than-traditional.md) — related

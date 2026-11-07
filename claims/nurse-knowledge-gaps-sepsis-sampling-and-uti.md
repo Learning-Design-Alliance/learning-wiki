@@ -51,3 +51,5 @@ Item-level results from the survey's microbiology/diagnostics area (Table 9). Th
 - [Shorter time since the last training is associated with higher general knowledge of nosocomial infections and higher self-assessed knowledge](recent-training-linked-to-higher-nosocomial-knowledge.md) — related
 - [Holding a specialization raises the odds of sufficient nosocomial-infection knowledge, while medical high-school and vocational education lower them](specialization-and-education-predict-nosocomial-knowledge.md) — related
 - [Registered nurses show moderate sepsis knowledge with major gaps in early clinical sign recognition and septic shock management](nurse-sepsis-knowledge-gaps-eastern-china.md) — related
+- [ICU nurses report targeted knowledge gaps in sepsis risk factors, screening tools, and infection-prevention strategies](icu-nurse-sepsis-knowledge-gaps.md) — related
+- [Perceived barriers and facilitators differ between sepsis recognition and sepsis management](recognition-vs-management-barriers.md) — related

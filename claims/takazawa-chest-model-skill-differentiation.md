@@ -56,3 +56,4 @@ Study in which 53 surgeons each performed an endoscopic intracorporeal suturing 
 - [Residents trained on a high-fidelity 3D-printed lung model scored higher on a posttraining thoracic anatomy test than residents trained on an FLS box trainer](lung-model-higher-posttraining-anatomy-scores.md) — related
 - [Novices' visual attention did not differ between pediatric and adult box trainers](no-visual-attention-difference-pediatric-adult-trainers.md) — related
 - [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related
+- [Skill and error scores did not differ across surgeon seniority groups, so construct validity was not established for the simpler suturing task](no-construct-validity-seniority-dvc-suturing.md) — related

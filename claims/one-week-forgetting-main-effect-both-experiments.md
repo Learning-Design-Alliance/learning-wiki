@@ -70,3 +70,4 @@ Experiment 2 main effect of retention interval: 54% versus 45% recall, "F(1, 60)
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](time-based-forgetting-occurs-regardless-of-presentation-method.md) — a broader claim this one bears on
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [Final test scores were significantly lower than practice test scores over retention intervals of three to six weeks in a single-group pre-test/post-test study with no comparison group](final-test-lower-than-practice-scores.md) — related

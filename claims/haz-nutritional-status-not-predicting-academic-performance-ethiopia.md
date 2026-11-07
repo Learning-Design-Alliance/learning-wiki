@@ -53,3 +53,5 @@ Cross-sectional logistic regression analysis of 399 urban primary school childre
 - [Minimum dietary diversity is associated with approximately three times better academic performance in Ethiopian primary school children](dietary-diversity-associated-academic-performance-ethiopia.md) — reports the opposite
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — reports the opposite
 - [Maternal literacy and education are associated with better academic performance of first-cycle primary school children in North Shoa Zone, Ethiopia](maternal-education-associated-academic-performance-ethiopia.md) — related
+- [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related
+- [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related

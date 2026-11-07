@@ -59,3 +59,5 @@ One-month 5-point Likert satisfaction questionnaire in the RCT; Table 6 reports 
 - [Residents in the integrated-teaching group report higher overall satisfaction with instructors, driven by skill training and bedside teaching](integrated-teaching-higher-instructor-satisfaction.md) — related
 - [PBL-trained kidney transplantation trainees report higher satisfaction with training than traditionally trained trainees](pbl-higher-trainee-satisfaction-kidney-transplant.md) — related
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
+- [Residents in the Peyton's four-step and flipped classroom group reported greater improvement in learning interest than control group residents](peyton-flipped-greater-learning-interest.md) — related
+- [The combined Peyton's four-step and flipped classroom intervention produced higher clinical case analysis scores than traditional teaching](peyton-flipped-higher-case-analysis-scores.md) — related

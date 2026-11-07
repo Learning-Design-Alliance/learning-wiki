@@ -69,3 +69,4 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [The study's two-dimensional self-confidence scale shows high internal consistency (Cronbach's alpha > 0.80) across all three measurement time points](endodontic-confidence-scale-high-internal-consistency.md) — related
 - [The CKAPQ measurement model shows adequate construct validity, with composite reliability 0.729–0.848 and AVE 0.516–0.669 exceeding discriminant MSV values](ckapq-construct-validity-cr-ave.md) — related
 - [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](acls-rubric-cronbach-alpha-076.md) — related
+- [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related

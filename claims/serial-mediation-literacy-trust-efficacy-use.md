@@ -83,3 +83,4 @@ Same SEM, mediation analysis section: total indirect effect "0.28, 95% CI (0.21,
 - [The modality effect on inference-based questions is serially mediated by personal references and comprehensiveness of explanations](serial-mediation-social-presence-comprehensiveness.md) — related
 - [Digital informal learning partially mediates the relationship between digital competence and academic performance](dil-partial-mediator-competence-performance.md) — related
 - [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related
+- [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related

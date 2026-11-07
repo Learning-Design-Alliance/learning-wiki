@@ -70,3 +70,5 @@ Survey-reported median confidence ratings for specific vaginal surgeries among t
 - [Residents' vaginal surgery experience in the past 12 months was largely limited to obstetric procedures rather than gynecologic ones](ghana-residents-vaginal-experience-largely-obstetric.md) — related
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
 - [Tele-mentoring programs in Rwanda and Ghana improved cardiac surgery outcomes](tele-mentoring-rwanda-ghana-cardiac-outcomes.md) — related
+- [71% of surveyed surgeons believe trainees should be competent in vaginal hysterectomy before completing general obstetrics and gynaecology training, an expectation the article reports is not consistently met](vh-competency-before-completion-expectation.md) — related
+- [Most surveyed surgeons self-report vaginal hysterectomy proficiency, yet two-thirds perform 30 or fewer annually and 45% report a decline over the last decade](vh-high-self-proficiency-declining-volume.md) — related

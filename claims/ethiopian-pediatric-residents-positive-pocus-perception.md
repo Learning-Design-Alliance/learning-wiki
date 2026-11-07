@@ -49,3 +49,4 @@ Cross-sectional survey of 97 pediatric residents at TASH and SPHMMC using an onl
 - [Pediatric residents report poor comfort and confidence with POCUS practice and image interpretation](pediatric-residents-poor-pocus-comfort-confidence.md) — related
 - [POCUS knowledge scores are low overall and improve by residency year, with Year 1 residents scoring worst](pocus-knowledge-low-increases-by-residency-year.md) — related
 - [Lack of training is the most significant perceived barrier to POCUS practice, and dedicated practice with an ultrasound machine is the most preferred proficiency intervention](lack-of-training-top-pocus-barrier.md) — related
+- [Most pediatric residents report insufficient ECG training and lack confidence in their ECG readings](residents-report-insufficient-ecg-training-low-confidence.md) — related

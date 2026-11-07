@@ -70,3 +70,4 @@ Subgroup analysis of virtual versus non-virtual formats. Only two studies met in
 - [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](ivr-debriefing-knowledge-subgroup-trend.md) — related
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related
 - Most included studies used quasi-experimental pretest/posttest designs, and online delivery was the predominant mode of instruction — related
+- [Satisfaction with first-week simulation was similar for face-to-face (96.2%) and virtual (95.8%) delivery](simulation-satisfaction-similar-face-to-face-virtual.md) — related

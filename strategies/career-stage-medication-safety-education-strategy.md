@@ -56,6 +56,7 @@ The article's discussion translates its five themes into design recommendations:
 ## Related Strategies
 
 - [Use experiential learning cycles to structure continuing health education for chronic disease management](experiential-learning-cycle-continuing-health-education.md)
+- [Differentiate safety education content and teaching methods for novice versus experienced nurses](differentiate-safety-education-novice-experienced-nurses.md)
 
 ## Examples
 -

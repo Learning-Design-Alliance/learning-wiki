@@ -57,3 +57,4 @@ Subgroup comparison within the review: most of the 16 included studies were retr
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — a narrower finding that bears on this claim
 - [Simulation-based CRM training may translate to improved patient outcomes, including decreased mortality, based on a small number of studies](simulation-crm-training-patient-outcomes.md) — related
 - [Having an HBB trained provider at birth is not significantly associated with lower in-facility neonatal mortality](trained-provider-no-significant-mortality-reduction.md) — a narrower finding that bears on this claim
+- [A mortality reduction from trauma training appeared only in the severe-injury subgroup, not overall](ttt-mortality-reduction-severe-injuries-subgroup.md) — related

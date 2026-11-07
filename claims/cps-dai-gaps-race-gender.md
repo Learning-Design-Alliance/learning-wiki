@@ -68,3 +68,4 @@ Descriptive subgroup analysis of the milestone rates composing the Bachelor's DA
 - [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) — related
 - [CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders](cps-bachelors-dai-rose-7-points.md) — related
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — related
+- [Non-white biosciences students in the UK gained higher-class degrees at rates between 9.8% and 21.4% lower than white students in 2019/2020](biosciences-ethnicity-awarding-gap-uk-2019-20.md) — related

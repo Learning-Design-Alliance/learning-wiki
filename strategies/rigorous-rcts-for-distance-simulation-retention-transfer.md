@@ -58,6 +58,7 @@ Based on the evidence gaps it identifies, the review recommends that future work
 - [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
 - [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 - [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
+- [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 
 ## Examples
 -

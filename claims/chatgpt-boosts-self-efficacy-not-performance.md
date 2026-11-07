@@ -76,3 +76,4 @@ Exploratory correlation analysis of Table 3 from the same experiment. The articl
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
 - [The six experts rated their creative self-efficacy high on the CSE scale (M = 3.7, SD = 0.2, α = 0.74)](expert-creative-self-efficacy-high.md) — related
+- [Overestimation of performance correlates positively with external regulation (r = 0.36)](overestimation-external-regulation-correlation.md) — related

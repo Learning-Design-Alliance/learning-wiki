@@ -59,3 +59,4 @@ Benchmark of 119 pediatric dentistry MCQs from the DUS administered to 17 LLM co
 - [Pairwise chi-square comparisons found no significant difference only between Grok and ChatGPT 4.5, while all other model pairs differed significantly](pairwise-llm-comparisons-grok-chatgpt45-nonsignificant.md) — related
 - [GPT-4o significantly lags the other four LLMs on dentistry questions, while in clinical medicine no significant pairwise differences were detected](cdle-dentistry-gpt4o-lags-subjects.md) — related
 - [Prior studies report widely varying ChatGPT diagnostic accuracy in dentistry (11% to 99%), likely due to differences in question types and content](prior-chatgpt-dental-accuracy-studies-vary-11-to-99-percent.md) — related
+- [GPT-4o significantly outperforms GPT-4 in diagnostics (92.7% vs 83.5%), and both beat GPT-3.5 (65.2%)](gpt-4o-diagnostics-accuracy-beats-gpt-4-and-gpt-3-5.md) — related

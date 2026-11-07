@@ -49,3 +49,4 @@ Randomized controlled trial sub-analysis of specific view scores in the proficie
 - [Novices trained with real-time AI guidance completed the cardiac ultrasound proficiency exam more slowly than non-AI peers](ai-guidance-slower-exam-completion.md) — related
 - [Tutored residents obtain higher-quality echocardiographic images and more interpretable cardiac findings, with no significant difference for lung ultrasound](tutoring-improves-echocardiography-image-quality-not-lung.md) — related
 - [No statistically significant differences between AI-enhanced and non-AI groups on the other individual echocardiography views](ai-guidance-no-gain-other-echocardiography-views.md) — related
+- [Fellow image quality matched technicians for PLAX and A5C views but was significantly worse for the A3C view](fellow-image-quality-a3c-worse.md) — related

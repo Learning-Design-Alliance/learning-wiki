@@ -55,3 +55,5 @@ Meta‐regression (maximum‐likelihood, random effects) on the pooled all‐dis
 - [Any type of prompt significantly improved performance for both GPT-3.5 (68% vs 54%, P=.03) and GPT-4 (85% vs 79%, P<.01)](prompts-improve-chatgpt-exam-accuracy.md) — related
 - [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — related
 - [Current LLMs answer USMLE-style anatomy MCQs with an average accuracy of 76.8%, far above GPT-3.5's 44.4% a year earlier and above random guessing](current-llms-anatomy-mcq-76-8-percent-accuracy.md) — related
+- [GPT-4o significantly outperforms GPT-4 in diagnostics (92.7% vs 83.5%), and both beat GPT-3.5 (65.2%)](gpt-4o-diagnostics-accuracy-beats-gpt-4-and-gpt-3-5.md) — a narrower finding that bears on this claim
+- [GPT-4o significantly outperforms GPT-4 in management (88.8% vs 77.0%), and both beat GPT-3.5 (57.9%)](gpt-4o-management-accuracy-beats-gpt-4-and-gpt-3-5.md) — a narrower finding that bears on this claim

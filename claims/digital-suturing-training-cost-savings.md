@@ -50,3 +50,4 @@ The review attributes this cost analysis to Nathan et al. (2022), a randomised t
 - [One study found OCDE cost-effective versus face-to-face learning when intervention cost is Can $200 or less, and no trial evaluated adverse effects](ocde-cost-effectiveness-can200-no-adverse-effect-trials.md)
 - [The effect of offline computer-based digital education on medical doctors' knowledge gain compared with face-to-face learning is uncertain (very low grade evidence)](ocde-vs-face-to-face-knowledge-uncertain.md) — related
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
+- [The riAniMO approach was cost-saving, training 322 more HCPs and saving €61.7 per participant versus standard BLSD retraining](rianimo-cost-savings-per-participant.md) — related

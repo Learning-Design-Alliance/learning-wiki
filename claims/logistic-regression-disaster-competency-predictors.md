@@ -68,3 +68,4 @@ Drill participation coefficient from the same logistic regression (Wald = 13.305
 - [Workplace-organised training and frequent emergency-drill participation are associated with higher engagement in disaster management roles](training-and-drills-boost-disaster-engagement.md) — related
 - [Length of employment, resuscitation experience, and participation in public health emergency drills are significantly associated with emergency response competence](experience-resuscitation-drills-predict-emergency-competence.md) — related
 - [Nurses' engagement in disaster management roles is low, scoring below the hypothesised median except among leaders and frequent drill participants](nurses-disaster-engagement-low.md) — related
+- [Each additional training session reduces the ventilation failure score by 2% and increases the chance of a high global competence score by approximately 3%](each-session-improves-competence-score.md) — a narrower finding that bears on this claim

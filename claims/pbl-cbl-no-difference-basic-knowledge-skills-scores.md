@@ -56,3 +56,5 @@ In the same quasi-experimental study, post-class basic knowledge scores showed "
 - [The PBL-CBL group outperformed the traditional group on every post-course test section: basic knowledge, clinical case analysis, and operation practice](pbl-cbl-better-all-test-sections.md) — reports the opposite
 - [BOPPPS-CBL and traditional teaching produce no significant differences on the Pt-test knowledge sections A, B, and C](boppps-cbl-no-difference-knowledge-sections-abc.md) — related
 - [CBL multimodal teaching did not weaken single-mode image analysis or basic knowledge performance relative to traditional teaching](cbl-multimodal-no-difference-basic-and-single-mode.md) — related
+- [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — reports the opposite
+- [Online PBL is as effective as traditional face-to-face PBL, with no significant difference in knowledge outcomes or assignment grades](online-pbl-equivalent-to-face-to-face-pbl.md) — related

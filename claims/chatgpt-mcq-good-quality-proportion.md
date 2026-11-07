@@ -56,3 +56,4 @@ Cross-tabulation of difficulty and discrimination indices against established th
 - [Item difficulty ranged broadly (completion rates 0.05–0.90) and discrimination ranged 0.14–0.60, with UI-related and navigation-heavy tasks showing particularly good discrimination](specific-ic-item-difficulty-discrimination-range.md) — related
 - [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related
 - [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related
+- [Combining difficulty and discrimination thresholds, 33 of the 50 SJT items were identified as valid](sjt-33-items-identified-valid.md) — related

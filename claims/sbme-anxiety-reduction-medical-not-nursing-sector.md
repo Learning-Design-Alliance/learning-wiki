@@ -73,3 +73,4 @@ Same subgroup analysis: readiness improved in both sectors, with smaller statist
 - [Post-intervention self-reported state anxiety (STAI) did not significantly differ between the simulation-intervention and control groups](stai-no-difference-post-simulation.md) — related
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
 - [A 30-minute pre-OSCE HPOT session of relaxation, breathing and positive reinforcement significantly reduces medical students' pre-exam anxiety](hpot-reduces-pre-osce-anxiety.md) — related
+- [Self-assessed pediatric emergency knowledge and skills increased significantly in both medical and nursing staff from before preparation to after the team training day](blended-emergency-training-self-assessed-gains-t3.md) — related

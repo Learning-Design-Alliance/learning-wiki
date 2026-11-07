@@ -71,3 +71,4 @@ Theme 2 of the reflexive thematic analysis of 16 interviews. Participants stated
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [The online STP significantly improved Saudi physiotherapists' knowledge of stroke assessment, goal-setting, self-management and telerehabilitation, but not patient education or discharge planning](stp-significant-knowledge-gains-selective-domains.md) — related
 - [The STP was highly acceptable and satisfying: the online format was rated 9.12/10 and 69.2% of participants were very satisfied](stp-high-satisfaction-acceptability.md) — related
+- [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related

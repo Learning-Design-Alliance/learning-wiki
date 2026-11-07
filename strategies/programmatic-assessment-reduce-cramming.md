@@ -47,6 +47,7 @@ This strategy responds to the article's finding that exam proximity, not intenti
 - [Cramming](cramming.md)
 - [Exam Wrappers](exam-wrappers.md)
 - [Distributed Practice (Spaced Learning)](distributed-practice-spaced-learning.md)
+- [Embed formative assessment in a programmatic assessment continuum of stakes rather than a formative/summative divide](programmatic-assessment-continuum-of-stakes.md)
 
 ## Examples
 -

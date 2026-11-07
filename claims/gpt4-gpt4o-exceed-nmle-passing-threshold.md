@@ -48,3 +48,4 @@ Interpretive comparison in the Discussion of the measured model accuracies again
 ## Related Claims
 - [All tested LLMs exceeded the NMLE passing threshold yet stayed below 80% accuracy across all units and years](llms-pass-nmle-but-ceiling-below-80-percent.md) — a broader claim this one bears on
 - [GPT-4 performed comparably to average human NMLE examinees, DeepSeek slightly exceeded them, and no tested LLM reached the top-10% human threshold](llm-nmle-performance-versus-human-examinees.md) — related
+- [All four LLMs showed a decline in accuracy on the Chinese-language NMLE, with GPT-4, GPT-3.5 and Bard failing to reach the 70% accuracy threshold](llm-accuracy-declines-on-chinese-nmle.md) — related

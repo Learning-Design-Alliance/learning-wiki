@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (18 for, 17 mixed, 3 against) · 34 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 7 of 34 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 35 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -89,6 +89,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students taught the mole concept with mastery learning instructional strategy performed better (mean score 15.50) than controls taught conventionally (mean score 7.04) in a quasi-experimental Nigerian study.](../claims/mastery-learning-better-mole-concept-achievement-nigeria.md) [+W] — attached 2026-11-02 from Bashirat T. Lamidi et al. (2015), which proposed "Teachers should consider using mastery learning instructional strategy for chemistry instruction to improve the performance of their students in chemistry examinations."; tests this page's relationship.
 - [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](../claims/students-differ-in-initial-knowledge-not-learning-rate.md) [+M] — added 2026-11-05 from Koedinger et al. (2023): with practice and feedback held to the same kind of opportunity, students who start lower need more opportunities rather than learning more slowly; not yet read against the model above.
 - [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](../claims/practice-opportunities-needed-after-verbal-instruction.md) [+M] — added 2026-11-05 from Koedinger et al. (2023); not yet read against the model above.
+- [Fellows required an average of 4.5 training sessions (about 90 minutes of individualized bedside instruction) to reach the mastery learning standard, and 7 of 11 recruited fellows met it](../claims/mastery-learning-sessions-to-mps-echocardiography.md) [+W] — attached 2026-11-07 from Talan Jordan et al. (2024), which proposed "Use a mastery learning model with a minimum passing standard and fading instructor support to teach advanced point-of-care echocardiographic measurement skills".
 
 ## Objective and learner-valued goal
 

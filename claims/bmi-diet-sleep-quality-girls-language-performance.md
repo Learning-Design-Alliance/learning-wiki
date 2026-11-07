@@ -56,3 +56,4 @@ Sex-stratified fully adjusted logistic regression for high language grades in th
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Sex does not moderate sleep–outcome associations](sex-no-moderation-sleep.md) — reports the opposite
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
+- [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — reports the opposite

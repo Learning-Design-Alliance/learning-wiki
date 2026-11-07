@@ -50,3 +50,4 @@ Study of 16 groups of college students (n = 77) using an immersive astronomy sim
 - [The variance explained by the T/ONA model increased as additional modalities were incorporated, from 0.139 with verbal and simulation features to 0.156 when gesture data were added.](variance-explained-increased-with-additional-modalities.md) — related
 - [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — related
 - [Mann–Whitney U-test results show statistically significant differences in mean T/ONA scores between high- and low-learning groups.](mann-whitney-significant-differences-tona-scores.md)
+- [3D printed models served as an additional modality helping learners connect knowledge across different sources and knowledge types](3d-printed-models-connecting-knowledge.md) — related

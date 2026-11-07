@@ -43,6 +43,7 @@ Tip 8 recommends building feedback loops into AI-based assessment: AI models can
 - [Incorporate pre-delivery LLM-based evaluation approaches into GenAI-powered personalised SRL scaffolding systems to mitigate hallucinations](pre-delivery-llm-evaluation-mitigate-hallucinations.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Combine AI-based feedback on early drafts with human feedback on later drafts, and teach students to evaluate AI feedback critically](combine-ai-early-draft-human-later-draft-feedback.md)
+- [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
 
 ## Examples
 -

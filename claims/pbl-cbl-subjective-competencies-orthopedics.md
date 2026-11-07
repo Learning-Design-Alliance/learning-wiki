@@ -133,3 +133,8 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
 - [Students in the CBL multimodal imaging group reported higher learning interest, study ability, clinical thinking and case analysis ability than traditional-group students](cbl-multimodal-higher-subjective-evaluations.md) — related
 - [Face-to-face students rate learning motivation, clinical thinking, communication and teamwork higher, while self-learning skills and basic knowledge mastery do not differ](self-evaluation-f2f-vs-online-neurosurgery.md) — related
+- [CBL-PBL training improves critical, systematic, and evidence-based thinking domains more than LBL](cbl-pbl-improves-all-ctses-domains.md) — related
+- [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related
+- [Before the cardiac surgery internship, the PBL-online and traditional groups showed no significant differences in self-learning ability scale scores](pbl-online-no-pre-internship-difference.md) — related
+- [Student self-assessment scores were high across CBL cases but declined significantly in the final case, with cooperation and communication falling most](self-assessment-declined-final-cbl-case.md) — related
+- [SPOC+PBL students reported higher satisfaction with teaching than LBL students across interest, participation, collaboration, interaction and clinical thinking dimensions](spoc-pbl-higher-teaching-satisfaction.md) — related

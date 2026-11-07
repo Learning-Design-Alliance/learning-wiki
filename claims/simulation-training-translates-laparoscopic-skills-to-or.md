@@ -57,3 +57,4 @@ Systematic review of randomized controlled trials examining simulation-based lap
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — a narrower finding that bears on this claim
 - [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — a narrower finding that bears on this claim
 - [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](box-skills-transferred-to-vr-not-vice-versa.md) — a narrower finding that bears on this claim
+- [Simulation-based surgical skills are retained for extended periods and transfer to the operating room, per the review's cited studies](simulation-skill-retention-and-or-transfer.md) — related

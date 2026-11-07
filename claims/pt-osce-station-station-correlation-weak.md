@@ -57,3 +57,4 @@ Random effects meta-analysis of Pearson correlations between OSCE station scores
 - [The OSCE score advantage of the vertically integrated program is concentrated in station 2 (management and communication) and in the safe management and communication/follow-up domains.](osce-advantage-station2-safe-management-communication.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
 - [Overall OSCE internal consistency is acceptable but varies widely across stations](osce-internal-consistency-varies-across-stations.md) — related
+- [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related

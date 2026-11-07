@@ -51,3 +51,4 @@ Phenomenological analysis of debriefing data, performed by a senior surgical att
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Interviews with intervention-group interns yield 9 core themes in four clusters about how situational simulation with CBL supported learning](qualitative-nine-themes-four-clusters-simulation-cbl.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
+- [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related

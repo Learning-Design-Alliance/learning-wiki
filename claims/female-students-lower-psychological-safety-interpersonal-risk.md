@@ -50,3 +50,4 @@ Two-tailed t-tests comparing 207 female and 36 male students' post-assessment su
 ## Related Claims
 - [Psychological safety and simulation design features remain significant predictors of satisfaction within both gender subgroups, with predictors explaining more variance among male students](subgroup-predictors-consistent-across-genders.md) — related
 - [Male nursing students report lower perceived simulation fidelity than female students, despite no overall gender difference in perceived design features](male-students-lower-perceived-fidelity.md) — related
+- [Male and female participants showed no difference in Overall Score on the simulator](no-gender-difference-overall-score.md) — related

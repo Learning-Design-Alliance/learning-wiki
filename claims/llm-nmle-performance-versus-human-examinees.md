@@ -74,3 +74,4 @@ The human benchmark comparison shows top-decile examinees scored above 510 point
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
 - [GPT-4 achieved 43.9% accuracy on the 2022 Taiwanese TCM licensing examination, below two human TCM resident doctors (70% and 78.4%) and below the 60% pass threshold](gpt4-43-9-accuracy-tcm-licensing-below-humans.md) — related
 - [GPT-4 and GPT-4o accuracy exceeds the NMLE passing threshold and the typical national pass rate](gpt4-gpt4o-exceed-nmle-passing-threshold.md) — related
+- [All four LLMs showed a decline in accuracy on the Chinese-language NMLE, with GPT-4, GPT-3.5 and Bard failing to reach the 70% accuracy threshold](llm-accuracy-declines-on-chinese-nmle.md) — related

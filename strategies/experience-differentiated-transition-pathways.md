@@ -50,6 +50,7 @@ The authors recommend that "transition curricula may benefit from differentiated
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
+- [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 
 ## Examples
 -

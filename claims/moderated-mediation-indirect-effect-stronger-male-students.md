@@ -80,3 +80,5 @@ Index of moderated mediation test from the same PROCESS Model 14 analysis. The i
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](emotion-regulation-mediation-peer-support-achievement.md) — related
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
 - [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related
+- [Anxiety relates negatively to average mark in both gender submodels, with a larger negative coefficient for males](anxiety-negative-average-mark.md) — related
+- [Male students show stronger causal effects of motivational climate on anxiety and average mark than female students](male-stronger-climate-effects.md) — related

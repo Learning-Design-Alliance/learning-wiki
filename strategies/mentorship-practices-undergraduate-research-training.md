@@ -52,6 +52,7 @@ To increase the effectiveness of mentorship, the article recommends that mentors
 - [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
 - [Multi-component institutional support to encourage specialty trainees' research engagement](multicomponent-support-encourage-trainee-research.md)
+- [Build supportive classroom and home environments and use constructive feedback to strengthen self-efficacy and engagement](supportive-environment-feedback-self-efficacy-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Severity-level logistic regression (Fig. 3) categorizing the ten SCL-90 factors 
 - [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — a broader claim this one bears on
 - [Mental health varies by year of study: fourth-year students of both genders scored lowest, with female peaks in year one and male peaks in year three](scl90-by-year-of-study.md) — related
+- [Among Chinese vocational-college freshmen, worse mental health (higher SCL-90) significantly negatively predicts academic achievement](mental-health-negatively-predicts-achievement-freshmen.md) — related

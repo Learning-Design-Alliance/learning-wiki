@@ -48,3 +48,4 @@ Objective competency assessment at the end of the simulation session, scored 1�
 - [The US-PIVC course showed high demand among final-year medical students, with all 126 places booked and a 78% attendance rate.](us-pivc-course-high-demand-reach.md) — related
 - [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — related
 - [Structured US-PIVC simulation training produces statistically significant pre-to-post confidence improvements across all measured learning outcomes, with large effect sizes (r = 0.63–0.87).](us-pivc-training-large-confidence-gains.md) — related
+- [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related

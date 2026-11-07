@@ -69,3 +69,4 @@ Country-level mediated interaction results (Fig. 2, right panel) from the same d
 - [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
 - [The direct effect of SES on achievement dominates: the controlled direct effect accounts for about 98% of the total SES effect in math](ses-direct-effect-dominates-pisa-decomposition.md) — related
 - [In 26 countries growth mindsets benefited higher-SES students more, while in 7 countries they benefited lower-SES students more](ses-moderation-direction-split-26-7.md) — related
+- [The total effect of SES on educational achievement is positive, with the direct effect representing the majority (58-61%) of it](ses-total-direct-effect-achievement.md) — related

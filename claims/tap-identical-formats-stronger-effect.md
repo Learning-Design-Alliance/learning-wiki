@@ -55,3 +55,4 @@ Moderator analysis of transfer-appropriate processing (Table 2): identical forma
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — reports the opposite
 - [The Kansas Reading Tests' use of arithmetical, physical and practical problems taps mental processes scarcely comparable to ordinary reading comprehension](kansas-reading-tests-problem-solving-incomparable.md) — related
 - [Transfer from mini-game practice to spoken production is smaller than transfer to written tasks](spoken-transfer-weaker-than-written-transfer.md) — related
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — reports the opposite

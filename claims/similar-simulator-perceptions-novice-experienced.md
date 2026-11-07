@@ -53,3 +53,4 @@ Five-point Likert scale survey of simulator utility and realism stratified by gr
 - [Mann-Whitney U tests found no significant difference between human SP and AI chatbot groups on any survey question](no-significant-difference-human-vs-ai-sp-acceptability.md) — related
 - [Experimental and control groups did not differ significantly in TQM perceptions before the training](tqm-pretest-no-group-difference.md) — related
 - [Student perceived-gain responses did not differ significantly between the community-engaged course and the simulated incubator capstone course](no-significant-difference-between-two-el-courses.md) — related
+- [Simulator-trained students rate realism and overall learning experience worse, and both groups accept simulators as a supplement but not a replacement for human training](fatesim-realism-supplement-not-replacement-attitudes.md) — reports the opposite

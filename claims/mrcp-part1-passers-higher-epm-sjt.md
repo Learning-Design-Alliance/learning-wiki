@@ -50,3 +50,4 @@ Univariable comparisons in the 6040-graduate cohort show passers had higher EPM 
 - [First-sitting MRCP Part 1 pass rates are univariably associated with age, sex, ethnicity, graduate status, parental occupation and school type](mrcp-part1-univariable-sociodemographic-associations.md) — related
 - [Male sex showed higher first-sitting pass rates in this cohort, contrasting with earlier MRCP studies that found no difference or the reverse direction](mrcp-part1-male-higher-pass-rate-vs-prior-studies.md) — related
 - [Mid-training professionalism SJT scores remain an independent predictor of professionalism lapses after adjusting for academic and cognitive performance](nms-sjt-independent-predicts-lapses.md) — related
+- [Resident doctors scored higher than medical students on the pilot SJT (descriptive means 307 vs 246)](sjt-residents-score-higher-than-students-descriptive.md) — related

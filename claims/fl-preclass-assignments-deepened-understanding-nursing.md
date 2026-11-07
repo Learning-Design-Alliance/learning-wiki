@@ -52,3 +52,4 @@ Qualitative content analysis of semi-structured interviews with eight third-year
 - [Pre-service teachers reported coming to class prepared and completing assignments in class as the flipped classroom's main positive aspects](fc-positive-aspects-participant-opinions.md) — related
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
+- [The article reports that FL implementation success depends on pre-class material quality, student readiness, and instructor facilitation ability](fl-success-depends-on-materials-readiness-facilitation.md) — related

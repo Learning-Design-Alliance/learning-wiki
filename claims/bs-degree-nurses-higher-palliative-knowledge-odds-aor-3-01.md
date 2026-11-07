@@ -52,3 +52,4 @@ Meta-analysis of educational status as a factor associated with nurses' palliati
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
 - [Personnel with a bachelor's degree scored significantly higher than associate-degree holders in managing complicated child delivery](bachelor-degree-higher-ccd-score.md) — related
 - [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — reports the opposite
+- [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — reports the opposite

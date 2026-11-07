@@ -49,3 +49,5 @@ Regression analysis of confidence in 149 chiropractic students across 200 N, 400
 - [Male chiropractic students report higher confidence in performing SMT force–time characteristics than female students, especially at higher target forces](male-students-higher-smt-confidence.md) — related
 - [Male and later-year students show higher competence in fast time-to-peak force, and males in achieving the 800 N peak thrust force, with no other strong competence associations](sex-year-competence-time-to-peak-800n.md) — related
 - [Second-year students and male students report higher gerontological nursing competence than first-year and female students respectively](grade-and-gender-competence-differences.md) — related
+- [The confidence–performance association is not moderated by year of study or time spent in the FSTT laboratory](confidence-performance-association-not-moderated-by-experience.md) — related
+- [Higher confidence is positively associated with better ability to modulate SMT force–time characteristics, especially preload, time to peak force, and 800N impulse force](confidence-positively-associated-force-modulation-ability.md) — related

@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (30 for, 18 mixed, 2 against) · 56 studies (15 causal, 10 review, 9 associational, 8 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 56 report an effect size · 44 claims rest on one study
+> **Evidence** · 51 claims (31 for, 18 mixed, 2 against) · 57 studies (15 causal, 10 review, 9 associational, 8 theoretical, 5 quant-synthesis, 5 qualitative, 5 design), `q1`–`q4` · 5 of 57 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [Checklist scores correlated positively with GRS but not with total procedure time](../claims/checklist-grs-correlation-afio.md) [~W] — attached 2026-11-04 from Haas D et al. (2026), which proposed "Use multimodal assessment combining GRS, checklist, and simulator metrics rather than checklists alone".
 - [GRS identifies station-level failures that checklist scores do not capture in a high-stakes OSCE](../claims/grs-discriminates-station-failures-checklists-miss.md) [+W] — attached 2026-11-05 from Ibrahim Olayinka Rasheed et al. (2026), which proposed "Combine checklists and GRS in high-stakes OSCE scoring to capture both critical steps and overall competence"; tests this page's relationship.
 - [Students rate their own empathy higher than standardized patients rate them](../claims/students-rate-empathy-higher-than-sps.md) [+W] — attached 2026-11-05 from Induru Vikranth et al. (2025), which proposed "Use multisource feedback (self, standardized patient, faculty) when assessing communication skills".
+- [The vOSCE is judged unable to formally assess 8% of DCN competencies, and 3% (notably physical examinations) cannot be assessed via either method](../claims/vosce-and-osce-assessment-boundaries-dcn.md) [+W] — attached 2026-11-07 from Comparison of the adequacies of the OSCE and vOSCE to assess the competencies required und, which proposed "Use the vOSCE as a complement to other assessment methodologies, not as the sole means of assessing competencies".
 
 ## Objective and learner-valued goal
 

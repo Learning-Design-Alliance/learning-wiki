@@ -54,6 +54,7 @@ The authors recommend rebalancing CPR education away from theory-dominant format
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md)
 - [Improve active bioinformatics lessons by balancing theory with practice, clarifying tasks, providing detailed software tutorials, and running a regular feedback loop](balance-theory-practice-clear-tasks-feedback-loop-strategy.md)
+- [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
 
 ## Examples
 -

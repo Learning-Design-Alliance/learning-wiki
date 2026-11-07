@@ -47,3 +47,4 @@ Study-specific five-point Likert questionnaire completed by all 32 participants 
 ## Related Claims
 - [Overall simulator task scores did not differ significantly between the 3D heads-up display and the conventional microscope in novice trainees](overall-simulator-scores-comparable-3d-vs-conventional.md) — related
 - [Students tended to prefer the 3D system while residents more often preferred the conventional microscope, a non-significant difference](student-resident-preference-divergence.md) — related
+- [All surveyed novice surgeons rate the 3D heads-up display as better than conventional microscopy for peripheral field, image quality, and depth perception, and report easy transition between systems.](surgeon-survey-3d-hud-visualization-and-transition.md) — related

@@ -53,3 +53,4 @@ Descriptive post-test survey of 170 computing students at two U.S. institutions 
 - [Human-made teaching videos produce a statistically significant but small advantage over AI-generated videos in participants' learning experience ratings](human-made-videos-small-advantage-learning-experience.md) — related
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](student-perceptions-online-caries-module.md) — related
 - [Participants rated video-based instruction as significantly more helpful than presentation-based instruction](video-rated-more-helpful-than-presentation.md) — related
+- [Treatment-group students rated Osmosis above the textbook for information retention, concept learning, and test-score improvement](osmosis-rated-above-textbook-perceptions.md) — related

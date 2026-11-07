@@ -49,6 +49,7 @@ Based on the trial's satisfaction and feedback findings, the authors recommend a
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 - [Blend e-delivered theoretical content with face-to-face practice to develop student teachers' teaching skills](blend-elearning-with-classroom-practice-strategy.md)
 - [Blended Learning](blended_learning.md)
+- [Use sequential adaptive e-learning plus simulator training to establish novel minimally invasive surgical techniques](sequential-elearning-simulator-for-novel-mis-techniques.md)
 
 ## Examples
 -

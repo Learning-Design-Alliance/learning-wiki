@@ -68,6 +68,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
 - [Deploy screen-based simulation as an accessible training alternative when face-to-face clinical education is disrupted](screen-simulation-disrupted-education-alternative.md)
 - [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
+- [Conduct virtual patient clinical reasoning training in dyads or small groups of two to three students rather than individually](vp-training-in-dyads-small-groups.md)
 
 ## Examples
 -

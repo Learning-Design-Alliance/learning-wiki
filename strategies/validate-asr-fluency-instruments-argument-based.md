@@ -46,7 +46,8 @@ The article demonstrates a validation recipe for automatic reading fluency asses
 - [SERDA-derived scores classify children into DMT and AVI proficiency classes with moderate to good accuracy and items discriminate moderately well or better](../claims/serda-scores-predict-proficiency-classes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Gather extrapolation and implication evidence, and formally measure content validity, in subsequent SJT evaluations](sjt-next-phase-extrapolation-implication-evidence-strategy.md)
 
 ## Examples
 -

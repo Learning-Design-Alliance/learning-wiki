@@ -51,3 +51,4 @@ Repeated-measures analysis showed the experimental group's scores immediately af
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
 - [Simroid robot training improved specific Mini-CEX domains at the first assessment, but not diagnosis or comprehensive ability](simroid-robot-improved-specific-domains-first-assessment.md) — related
 - [Both groups improved significantly in LS-CAT scores and operation error counts across the three tests over the training period](both-groups-improve-lscat-across-tests.md) — related
+- [Both groups improved with internship duration, but the SP group's advantage narrowed over time while remaining ahead](performance-improves-with-internship-duration-gap-narrows.md) — related

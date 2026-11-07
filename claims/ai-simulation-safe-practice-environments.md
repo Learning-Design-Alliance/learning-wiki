@@ -116,3 +116,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](shared-competence-base-group-learning-clinobsmunicipality.md) — related
 - [Mental practice for strategy rehearsal or task execution was reported to increase self-confidence and reduce anxiety](mental-practice-confidence-anxiety.md) — related
 - [The REPs-VS group reported significantly higher self-directed learning skill, confidence in future patient encounters, and reduced performance stress than the traditional group](reps-vs-confidence-and-stress-attitudes.md) — related
+- [Students saw virtual patients as a safe, standardised complement to clinical rotations that guarantees exposure to representative diagnoses](vp-potential-safe-standardised-rotation-complement.md) — related

@@ -52,3 +52,4 @@ Management competency results from the same three-timepoint study of 91 interns;
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — a broader claim this one bears on
 - [Prescription competency improved after the lecture but returned to nearly baseline level at two-month follow-up](prescription-competency-decays-to-baseline.md) — related
 - [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — related
+- [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related

@@ -49,3 +49,4 @@ Phase 2 thematic analysis of interviews with eight academics. One informant summ
 - [Academics reported a lack of integration and collaboration among dental specialties in DMT education](dmt-lack-integration-among-specialties.md) — related
 - [Interviewed academics unanimously reported that DMT training is mostly theoretical, with insufficient hands-on practice limiting students' clinical preparedness](dmt-training-insufficient-hands-on-practice-barrier.md) — related
 - [Across four Southeast Asian dental schools, 31 subjects contained DMT content, but only one course was dedicated to dental traumatology](sea-dmt-content-31-subjects-one-dedicated-course.md) — related
+- [Educators identify curriculum problems including poor subject integration, late clinical exposure, and outdated content, and report that faculty development changed their teaching](curriculum-integration-faculty-development-theme.md) — related

@@ -49,3 +49,4 @@ Open-ended self-reflection questionnaires completed by 129 elementary school stu
 - [Teachers found user-generated microgames acceptable for short serious gaming sessions despite limitations to one player with basic interfaces](teachers-found-microgames-acceptable-despite-limits.md) — related
 - [Teachers designed microgame-based learning with varied microgames and debriefing methods but shared similar scenarios, inserting microgame-based learning into the middle of the main session](teachers-designed-varied-microgames-similar-middle-scenarios.md) — related
 - [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](user-experience-challenges-srl-recommenders.md) — a broader claim this one bears on
+- [A minority of students (3.9%, n = 4) found the first-week simulation too challenging, and some found the pre-brief too short](minority-found-simulation-too-challenging-prebrief-short.md) — related

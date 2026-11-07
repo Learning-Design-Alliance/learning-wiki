@@ -55,3 +55,4 @@ Descriptive comparisons among the sampled students showed men reported "a signi�
 - [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](women-higher-reactive-test-anxiety-anatomy-lab.md) — related
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — reports the opposite
 - [Men scored higher than women on academic hope subscales and academic motivation in this sample](men-higher-hope-descriptives.md) — related
+- [Gender and the gender × pre-test interaction significantly predicted ASVT post-test scores, with women improving more at low spatial skill levels](gender-interaction-asvt-women-greater-low-spatial-gains.md) — related

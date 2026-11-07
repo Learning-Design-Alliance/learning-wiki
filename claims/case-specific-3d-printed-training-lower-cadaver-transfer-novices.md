@@ -52,3 +52,4 @@ Randomized controlled trial of 22 novice ORL residents randomized 1:1 to case-sp
 - [Groups using 3DPAMs achieved significantly better test results than groups using dry bones, with one mixed result on MCQs](3dpam-better-test-results-than-dry-bones.md) — related
 - [Meta-analyses report better post-test results for 3DPAM instruction, especially for complex anatomical structures and medical students](meta-analyses-favour-3dpam-post-test-results.md) — related
 - [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — related
+- [After one drilling session, AR‐trained novices scored 19.5 on the Welling Scale, above the novice group score of 13.9 reported by Frithioff et al.](ar-group-19-5-exceeds-frithioff-novice-13-9.md) — related

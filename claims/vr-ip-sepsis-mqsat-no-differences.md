@@ -48,3 +48,4 @@ Primary analysis of the four-arm randomized comparative pilot at Great Western H
 - [Blinded mQSAT reviewers showed only slight-to-moderate interrater agreement, suggesting assessment tools need cross-modality validation](mqsat-cross-modality-interrater-reliability.md) — related
 - [No statistically significant differences between groups in recognition of septic shock](vr-ip-septic-shock-recognition-no-differences.md) — related
 - [Students who completed only VR simulation prior to assessment were more likely to recognize the need for critical care than IP-only students](vr-only-critical-care-recognition-advantage.md) — related
+- [No significant VPS–IPS difference in checklist items involving non-cognitive (psychomotor/affective) domains for either scenario](vps-ips-no-difference-not-only-cognitive-items.md) — related

@@ -51,3 +51,4 @@ Retrospective questionnaire analysis of routine educational data from 238 partic
 - [Self-assessed gains are Kirkpatrick level 2 perceptions, not evidence of behavioral change or durable effects](kirkpatrick-level2-limit-self-assessment.md) — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — a broader claim this one bears on
 - [A single-day in situ simulation training significantly increases total teamwork-related shared mental model similarity in interprofessional trauma teams](simulation-training-increases-total-smm-similarity-trauma-teams.md) — related
+- [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — related

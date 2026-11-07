@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 254 claims (134 for, 101 mixed, 19 against) · 140 studies (42 causal, 36 review, 20 design, 16 quant-synthesis, 15 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 140 report an effect size · 249 claims rest on one study
+> **Evidence** · 256 claims (135 for, 102 mixed, 19 against) · 141 studies (43 causal, 36 review, 20 design, 16 quant-synthesis, 15 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 141 report an effect size · 251 claims rest on one study
 
 ## Description and scope
 
@@ -182,6 +182,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Detailed role representation and joint rehearsal permitted a high degree of standardisation of SP roles, even over long periods](../claims/detailed-role-scripts-role-standardisation.md) [+W] — attached 2026-11-06 from Götze K et al. (2025), which proposed "Use SP-supported role-play to build complex communication skills that cannot be reliably built through listening or interactive learning alone".
 - [Well-trained laypersons cope comparably with SP requirements in ACP facilitator training, and openness to death and dying is central to SP eligibility](../claims/sp-eligibility-laypersons-comparable-actors.md) [+W] — attached 2026-11-06 from Götze K et al. (2025), which proposed "Run SP-supported ACP training in small groups of at most four participants with one SP and one qualified ACP coach per group".
 - [The ChatGPT version of the chatbot handles irrelevant and multi-intent questions, supports multiple languages, and simulates personalities and education levels, unlike the Dialogflow version](../claims/chatgpt-version-more-flexible-than-dialogflow.md) [+W] — attached 2026-11-07 from Chan Kwan Yin et al. (2025), which proposed "Scripted role-play prompt pattern: prefix, patient-history body, and suffix that keeps ChatGPT in character".
+- [Knowledge, skills, and self-efficacy in patient-centered communication rose significantly from pre-test to post-test within both standardized patient simulation and role-play groups](../claims/both-methods-improve-pcc-components-pre-post.md) [+W] — attached 2026-11-07 from Cortés-Rodríguez et al. (2024), which proposed "Peer role-play rotation pattern: small groups cycling nurse, patient, and observer roles across case studies with structured feedback"; tests this page's relationship.
+- [Standardized patient simulation and role-play show no statistically significant difference in nursing students' acquisition of patient-centered communication competence in older people care](../claims/no-difference-standardized-patient-simulation-role-play-pcc.md) [~W] — attached 2026-11-07 from Cortés-Rodríguez et al. (2024), which proposed "Incorporate both standardized patient simulation and role-play into nursing curricula for patient-centered communication in older people care".
 
 ## Illustrative design instance and observation record
 

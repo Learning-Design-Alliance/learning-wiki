@@ -51,3 +51,4 @@ The review reports the one included qualitative study (Hameed et al.), which sur
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
 - [GPs hold mixed attitudes toward EBM: majority positive but a minority perceive limited value or threat](mixed-gp-attitudes-toward-ebm.md) — related
 - [Students hold mixed opinions on making peer teaching mandatory in the medical curriculum](mixed-opinions-mandatory-peer-teaching.md) — related
+- [AI-assisted coaching shows no significant differences versus self-learning in overall surgical efficiency or intraoperative adverse events](smartcoach-no-efficiency-or-iae-difference.md) — related

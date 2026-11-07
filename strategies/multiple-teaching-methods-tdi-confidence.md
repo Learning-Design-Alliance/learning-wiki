@@ -50,6 +50,7 @@ The article recommends diversifying TDI teaching beyond traditional classroom: "
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Incorporate interactive learning methods such as team-based learning into e-learning for lower-performing students](team-based-learning-for-low-grades-e-learning.md)
 
 ## Examples
 -

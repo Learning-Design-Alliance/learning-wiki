@@ -55,3 +55,4 @@ Generalized linear models of GM-ITE total score with region of graduation, gende
 - [Receiving teaching during the decision-making stage is associated with higher GM-ITE clinical scores among residents](decision-making-teaching-higher-gm-ite-scores.md) — related
 - [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
+- [Univariable analysis associated correct CSV-IE answers with emergency outpatient volume, PGY-2, general medicine rotation, longer internal medicine rotation, night shifts, and moderate duty hours](univariable-factors-csv-ie-correct-answer.md) — related

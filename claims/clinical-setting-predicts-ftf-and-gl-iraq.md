@@ -50,3 +50,4 @@ Binary logistic regression in the Results on predictors of both outcomes among s
 - [Educators with more than five years of teaching experience show significantly lower odds of grading leniency than those with five years or less](teaching-experience-predicts-lower-grading-leniency-iraq.md) — related
 - [About 38% of Iraqi medical and health sciences educators report passing students who, in their professional judgment, should have failed](iraq-ftf-38-percent-prevalence.md) — related
 - [About two-thirds of Iraqi medical and health sciences educators report awarding extra marks beyond what was warranted](iraq-grading-leniency-67-percent-prevalence.md) — related
+- [Grade incentives in formative assessments were associated with student performance in one group with no comparison group (odds ratio 6.19)](grade-incentives-fa-strongest-remediation-predictor-or-6-19.md) — related

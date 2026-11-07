@@ -50,6 +50,7 @@ Because simulated group-process behaviors varied across sessions, the article re
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
 - [Train faculty and orient students on PBL processes before and during PBL implementation](pbl-faculty-student-training-strategy.md)
 - [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](faculty-development-and-orientation-for-tbl.md)
+- [Conduct virtual patient clinical reasoning training in dyads or small groups of two to three students rather than individually](vp-training-in-dyads-small-groups.md)
 
 ## Examples
 -

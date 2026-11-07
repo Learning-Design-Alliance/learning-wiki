@@ -55,3 +55,4 @@ Temporal analysis (Figure 8) normalizing each assistance instance into five bins
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related
 - [Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance](primary-aoi-followup-rate-no-difference.md) — related
 - [GazeTutor successfully reoriented learners' attentional patterns towards the interface](gazetutor-reoriented-attention.md) — related
+- [Students did not perceive teacher support as more adaptive when teachers saw a live gaze display](gaze-display-no-perceived-adaptivity-effect.md) — related

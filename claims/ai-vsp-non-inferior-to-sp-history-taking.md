@@ -64,3 +64,5 @@ Randomized controlled trial of 67 third-year medical students in Vietnam, random
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
 - [VRNET virtual reality-based neurological examination training yields higher neurological physical examination scores than standardized patients](vrnet-higher-npe-scores-than-standardized-patients.md) — related
 - [No significant difference was found between the OLP-only and OLP+VCI groups in scored SP encounter skills](no-group-difference-olp-versus-olp-vci.md) — related
+- [No significant difference between SP-trained and control students in clinical judgement, medical record writing, or overall capabilities](no-significant-gain-clinical-judgement-medical-record.md) — related
+- [Within the SP group, specific reception skills improved significantly between the training day and two weeks later](sp-group-specific-skill-gains-first-two-weeks.md) — a narrower finding that bears on this claim

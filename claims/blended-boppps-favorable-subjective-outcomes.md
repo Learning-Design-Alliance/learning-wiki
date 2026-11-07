@@ -80,3 +80,4 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [RFETM students reported significantly higher questionnaire scores than TETM students for innovation ability, scientific research ideas, and learning interest](rfetm-questionnaire-scores-significantly-higher.md) — related
 - [Blended learning positively impacts satisfaction and engagement of medical imaging students, per the authors' overall interpretation](blended-learning-positive-impact-medical-imaging-students.md) — related
 - [BOPPPS group reported significantly higher overall course satisfaction and perceived teaching effectiveness than the LBL group](boppps-higher-satisfaction-effectiveness.md) — related
+- [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related

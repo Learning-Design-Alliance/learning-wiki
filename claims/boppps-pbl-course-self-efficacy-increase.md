@@ -55,3 +55,4 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 - [Nursing interns randomised to PBL combined with comparative nursing rounds scored higher on a health education ability questionnaire than traditionally taught interns (P = 0.003)](pbl-higher-health-education-ability-nursing-interns.md) — related
 - [SBLE significantly increases perceived efficacy among nursing students](sble-increases-perceived-efficacy-nursing-students.md) — related
 - [Self-reported perceived collective efficacy for group learning rose significantly from pre-test to post-test after a TBL course, in one uncontrolled pre-post study](tbl-improves-perceived-collective-efficacy.md) — related
+- [Self-efficacy and the combined self-efficacy/self-esteem score rose significantly from pre-test to post-test, but self-esteem alone did not change significantly, in one uncontrolled pre-post study](self-efficacy-rose-self-esteem-not-significant.md) — related

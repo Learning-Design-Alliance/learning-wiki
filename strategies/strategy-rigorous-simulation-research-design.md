@@ -63,6 +63,7 @@ The review recommends that future research strengthen study designs through adeq
 - [Continuously optimize BOPPPS-simulation training by refining objectives, personalizing scenario difficulty, and tracking long-term outcomes](optimize-boppps-training-objectives-difficulty-tracking.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
+- [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 
 ## Examples
 -

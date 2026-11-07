@@ -72,6 +72,8 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Sequence a basics lecture before simulation practice to manage cognitive load](basics-lecture-before-simulation-cognitive-load.md)
 - [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 - [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](mixed-learning-mode-vr-plus-tactile.md)
+- [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
+- [Prepare backup head-mounted displays and on-site technical knowledge for VR simulation sessions, and develop scenarios through co-creative processes with end-users](vr-simi-backup-hmd-cocreative-scenario-development-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Random-effects meta-analysis of six RCTs comparing VR simulator training with tr
 - [IMR-SS trainees achieve significantly higher pedicle screw placement completion rates than digital-textbook trainees in an unassisted assessment session](imr-ss-higher-completion-rate-assessment.md) — a narrower finding that bears on this claim
 - [No control-group trainee experiences pedicle breach while breaches occur in a quarter of control trainees during exercise](imr-ss-no-pedicle-breaches.md) — related
 - [Pre-training lumbar pedicle screw placement accuracy (75.94%) significantly exceeds atlantoaxial, subaxial cervical, and thoracic accuracy](pre-training-lumbar-accuracy-highest-region.md) — related
+- [VR simulator training improves laparoscopic surgical speed and accuracy compared with traditional training, per the review's cited study](vr-laparoscopic-training-speed-accuracy-review.md) — related

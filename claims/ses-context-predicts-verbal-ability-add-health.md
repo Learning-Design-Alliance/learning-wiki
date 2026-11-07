@@ -55,3 +55,4 @@ Multilevel (3-level) models of Wave-1 and Wave-3 verbal ability in the combined 
 - [A positive G×E interaction between the education PGS and SES indicates a favorable SES environment enhances the effect of offspring genome](gene-environment-interaction-ses-pgs.md) — related
 - [Parental education, but not family income, predicts STEM GPA in high school students](parental-education-predicts-stem-gpa.md) — related
 - [AA-group students more often have mothers with a bachelor's degree or higher, but this association disappears in the multivariate model](mother-education-association-disappears-multivariate.md) — related
+- [Socioeconomic conditions (father's education, mother's occupation) indirectly affect GMKT performance via psychological/personality features and BMI, with no significant direct effect](socioeconomic-indirect-gmkt-pathway.md) — related

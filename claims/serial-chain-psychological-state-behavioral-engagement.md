@@ -52,3 +52,4 @@ Serial (chained) indirect effect from the same mediation model. The article iden
 - [The direct effect of academic foundation on exam success accounts for 67.2% of the total effect (B = 0.178)](academic-foundation-direct-effect-67-percent.md) — related
 - [Academic boredom and behavioural engagement sequentially (chain) mediate the link between EFL PsyCap and EFL achievement](chain-mediation-boredom-engagement.md) — related
 - [School climate and academic motivation chain-mediate the effect of academic self-concept on psychological truancy](chain-mediation-climate-motivation-truancy.md) — a narrower finding that bears on this claim
+- [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related

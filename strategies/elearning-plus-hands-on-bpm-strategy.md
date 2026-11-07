@@ -46,6 +46,7 @@ The article recommends combining e-learning with hands-on training rather than t
 - [Use structured formative supports such as guided self-assessment checklists, benchmark examples, and mid-course feedback to scaffold novice self-evaluation in ultrasound training](structured-formative-support-self-assessment-ultrasound.md)
 - [Include self-measured blood pressure (SMBP) education in BPM curricula](include-smbp-education-strategy.md)
 - [Reinforce central OSCE modules and build integrated teaching modules around strongly connected skills](reinforce-central-modules-integrated-skill-teaching.md)
+- [Incorporate pathological findings and additional practice into pre-clerkship ultrasound training](add-pathology-and-practice-to-pocus-curriculum-strategy.md)
 
 ## Examples
 -

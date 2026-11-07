@@ -51,3 +51,4 @@ Post-training anonymous questionnaire (60 of 65 recovered, Cronbach's α = 0.891
 - [Trainee feedback on the programme was highly positive, with a median score of 5 (IQR 0.75) across questionnaire sections](positive-rcs-feedback-median-5-pilot-robotic-training.md) — related
 - [Residents rated the mirror simulation program highly for perceived benefit and interest, averaging 3.87 and 4.08 out of 5](mirror-sim-benefit-interest-ratings.md) — related
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
+- [Trainees reported high course satisfaction, with a total average score of 45.08 (SD ± 5.41) on a 10–50 scale](high-satisfaction-critical-care-course.md) — related

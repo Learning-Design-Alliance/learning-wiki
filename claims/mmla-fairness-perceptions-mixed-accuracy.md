@@ -69,3 +69,4 @@ Interview theme on flawed or incomplete data: missing data and technology flaws,
 - [Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio](mmla-tiered-data-access-preferences.md) — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [Perceptions of the group simulation assessment's fairness varied, with concerns about grading subjectivity, uneven group participation and emotional intensity](fairness-perceptions-varied-grading-subjectivity.md) — related
+- [Applicant free-response feedback about the simulation-based MMI yielded four themes: showcasing strengths and passion, feelings of fairness, accessing program faculty, and impacts on certainty](mmi-simulation-applicant-experience-themes.md) — related

@@ -55,3 +55,5 @@ Meta-analysis of two studies measuring subjective workload with the NASA Task Lo
 - [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — reports the opposite
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
+- [Just-in-time coaching significantly lowered trainee cognitive load on the mental demand, temporal demand, effort, and frustration NASA-TLX domains](jit-coaching-lowers-cognitive-load-nasa-tlx.md) — related
+- [Spaghetti knotting training lowers perceived mental demand, temporal demand and effort workload more than conventional knotting training](spaghetti-knotting-lower-nasa-tlx-workload.md) — related

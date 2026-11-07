@@ -52,3 +52,4 @@ Experiment 2, a 2x2 repeated-measures ANOVA on recall score with Session (Post-t
 - [At the 28-day retention interval, both descriptive and component reactivations outperform both controls, with relative gains of 58.8–67.2% for images and over 100% for details](reactivation-benefits-largest-at-28-days.md) — related
 - [Descriptive reactivations significantly improve free recall of images compared with distractor and no-reactivation controls](descriptive-reactivation-mitigates-forgetting-images.md) — related
 - [Only descriptive reactivation improves memory precision (correct details per recalled image)](descriptive-reactivation-improves-memory-precision.md) — related
+- [Final test scores were significantly lower than practice test scores over retention intervals of three to six weeks in a single-group pre-test/post-test study with no comparison group](final-test-lower-than-practice-scores.md) — related

@@ -58,3 +58,4 @@ Follow-up scores were available for 118 of the 198 participants (mean attendance
 - [Control group participants who completed the posttest showed little change in comprehensibility or fluency ratings](control-group-little-change-ratings.md) — related
 - [The comprehension advantage of the intervention group emerged only at the 12-week follow-up, suggesting a prolonged effect past the intervention](delayed-comprehension-emergence.md) — related
 - [SPOKES showed no statistically significant effects on WRMT-R literacy outcomes at six- and twelve-month follow-up for the whole sample](spokes-no-followup-literacy-effect.md) — related
+- [Third formative assessment scores rose from pre-test to post-test, with no significant difference from summative examination scores after remediation, in one single-group pre-post study](post-remediation-gains-sustained-third-fa-to-sa.md) — related

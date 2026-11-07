@@ -56,3 +56,4 @@ Qualitative thematic analysis of 936 comments from 28 videos (nG1=56, nG2=306, n
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related
 - [YouTube is the most used online video platform overall, but reliance shifts toward specialized platforms as students enter clinical years](youtube-dominant-shift-to-specialized-platforms.md) — related
+- [Students' most important lessons concerned consolidation of counseling skills (59.8% of comments), reflective practice (28.3%), and insight into clinical placement (12%)](key-learning-consolidation-reflection-placement-preparation.md) — related
