@@ -19,8 +19,9 @@ already use (2026-10-24): the first two characters of the candidate's slug
 `eval/candidates/decisions/<xx>.ndjson`. Every line for one candidate lands in one shard in the
 order written, so the loaders' "first line wins" and "latest line wins" mean what they did; only
 the order of different candidates relative to each other changes, and nothing settles by it.
-Verified on the live ledger before the single files were removed: both loaders return identical
-dicts and every shard holds its lines in their original order (numbers below);
+Verified on the live ledger before the single files were removed (21,743 candidate lines and
+85,385 decision lines, 586 shards each, the largest 3.8 MB): both loaders return identical
+dicts and every shard holds its lines in their original order;
 `settle_candidates.py --report` prints the same lines, re-ordered. `merge_main.py` and
 `.gitattributes` treat the shards as append-only, as they did the single decisions file (the
 candidates file had been missing from both).

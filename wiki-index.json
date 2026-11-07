@@ -1631,7 +1631,7 @@
 "wwc-seven-recommendations-preschool-readiness":"product/wwc-seven-recommendation-framework-for-preparing-young-children-for-school"
 }
 },
-"note":"Resolution table for learning-design-spec: every content page's id, kind and title, plus every retired slug that still resolves. Built by scripts/build_wiki_index.py; committed because the consuming repo has no wiki checkout.",
+"note":"Resolution table for learning-design-spec: every content page's id, kind and title, plus every retired slug that still resolves. Built by scripts/build_wiki_index.py; committed because the consuming repo has no wiki checkout. The same page records are in wiki-index/<kind>/<xx>.ndjson (first two characters of the id); read them there: `pages` will leave this file, which is nearing GitHub's 100 MB file limit.",
 "okf_version":"0.2",
 "pages":[
 {
