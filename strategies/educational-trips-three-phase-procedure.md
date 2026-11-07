@@ -47,6 +47,7 @@ The article details an implementable field-trip recipe: before the trip the teac
 ## Related Strategies
 
 - [Field Trips](field_trips.md)
+- [Ensure supervisor quality through preparation, observation, feedback and post-event evaluation](gp-supervisor-quality-assurance-strategy.md)
 
 ## Examples
 -

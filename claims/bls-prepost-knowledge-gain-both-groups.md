@@ -51,3 +51,4 @@ Wilcoxon signed-rank within-group pre–post comparisons in the randomized trial
 - [Between-group difference in BLS knowledge gain is not statistically significant, with a numerically higher gain in the video group](bls-video-vs-simulation-knowledge-gain-no-difference.md) — related
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
 - [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — a narrower finding that bears on this claim
+- [In the simulation group, quiz scores increased significantly after both the lecture and simulator practice](simulation-group-significant-gains-lecture-and-practice.md) — related

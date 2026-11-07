@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 310 claims (233 show a difference, 43 mixed, 34 no difference) · 247 studies (82 causal, 79 associational, 33 review, 22 qualitative, 13 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 51 of 247 report an effect size · 306 claims rest on one study
+> **Evidence** · 311 claims (234 show a difference, 43 mixed, 34 no difference) · 248 studies (82 causal, 80 associational, 33 review, 22 qualitative, 13 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 51 of 248 report an effect size · 307 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -341,6 +341,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](../claims/pal-simulation-pgy-cpe-significant-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Before training, self-efficacy in telenursing was predicted by awareness and knowledge; improvement in self-efficacy was predicted by change in perceived required skills and attitudes](../claims/self-efficacy-predictors-shift-after-training.md) [+M] — measured as an outcome of the instruction studied
 - [Patients' distrust and residents' lack of confidence were the primary factors limiting resident trainees' clinical reception in oral and maxillofacial surgery outpatient clinics](../claims/resident-reception-barriers-distrust-and-confidence.md) [+M] — learners who differ on it differ in outcomes
+- [More hours of IPV-and-disability training are associated with higher self-perceived competence among service providers, with the highest competence among those with more than 20 hours of training](../claims/ipv-disability-training-hours-higher-self-perceived-competence.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

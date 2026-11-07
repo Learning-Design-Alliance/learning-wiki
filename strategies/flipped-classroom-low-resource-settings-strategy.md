@@ -54,6 +54,7 @@ The article's conclusions recommend concrete steps for low-resource settings: "i
 - [Adopt mastery learning and peer-assisted learning models to maximize ultrasound training effectiveness in resource-limited settings](mastery-peer-assisted-ultrasound-resource-limited.md)
 - [Build low-cost 3D anatomy models using open-source files, Blender, and Sketchfab to maximize accessibility](open-source-blender-sketchfab-3d-model-strategy.md)
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
+- [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 
 ## Examples
 -

@@ -90,3 +90,4 @@ The review attributes longitudinal findings to named recent investigations: Baug
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related
 - [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](sbe-supports-knowledge-skills-acquisition.md) — related
 - [Students rate themselves significantly more positively than trainers on several communication sub-skills, with effect sizes from small to very high](students-overrate-communication-subskills.md) — related
+- [Acquired ultrasound skills decay without repeated practice, supporting longitudinal curricula and periodic re-assessment](ultrasound-skill-decay-longitudinal-curriculum.md) — related

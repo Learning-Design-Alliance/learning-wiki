@@ -51,3 +51,4 @@ Conceptual synthesis claim in the Equity pillar, drawing on the engagement liter
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
 - [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md) — related
 - [Learning analytics can reliably record certain behaviors but cannot necessarily validate inferences about what learners know or are motivated to learn](trace-data-reliability-vs-validity-inference.md) — related
+- [Associations between programme engagement and self-efficacy/mindset do not permit causal inference, and effects on academic outcomes were not measured](at-evaluation-no-causal-inference.md) — related

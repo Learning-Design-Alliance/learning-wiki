@@ -54,3 +54,4 @@ Survey comparison of trained (n = 47) vs untrained nurses; the study reports "si
 - [Overall knowledge scores did not differ significantly by sepsis training level or highest qualification, with differences only at item level](no-overall-knowledge-score-group-differences.md) — related
 - [Recent/up-to-date sepsis training, belief in pre-hospital care's importance, and belief in pre-notification value predict diagnostic confidence (R² = 0.657)](sepsis-diagnostic-confidence-regression-predictors.md) — related
 - [No differences between groups in completion of the Sepsis 6 bundle components](vr-ip-sepsis6-completion-no-differences.md) — related
+- [Students who received formal sepsis training had higher correct knowledge and correct practice scores and lower incorrect practice scores than untrained students](sepsis-training-associated-higher-scores.md) — related

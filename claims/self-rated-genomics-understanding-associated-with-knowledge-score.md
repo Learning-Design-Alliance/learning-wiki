@@ -69,3 +69,4 @@ Second T-test in the same survey: nurses rating their understanding of the genet
 - [Nurses report poor understanding of ethical issues and equity in genomics, with equity rated poor by 84.8%](nurses-report-poor-understanding-of-genomic-ethics-and-equity.md) — related
 - [Understanding of ethical issues and understanding of equity in genomics are statistically significantly associated (p < .001)](understanding-genomic-ethics-associated-with-understanding-equity.md) — related
 - [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related
+- [Students with higher computer skills report statistically higher SDS and EPQ scores than students with lower-rated skills](computer-skills-associated-with-higher-sds-epq.md) — related

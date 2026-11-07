@@ -58,3 +58,4 @@ The review attributes to cited literature that teacher empathy "can reduce stude
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
+- [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](shared-competence-base-group-learning-clinobsmunicipality.md) — related

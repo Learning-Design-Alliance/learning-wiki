@@ -47,3 +47,4 @@ Randomized controlled trial of 81 emergency physicians across 324 shifts at two 
 ## Related Claims
 - [Post-intervention self-reported state anxiety (STAI) did not significantly differ between the simulation-intervention and control groups](stai-no-difference-post-simulation.md) — related
 - [The CRI:SIS intervention was iteratively adapted 22 times over 12 months in response to evolving COVID-19 guidelines](crisis-iterative-guideline-adaptations.md) — related
+- [Nurses report higher perceived stress than physicians during critical bronchoscopy scenarios, and nurses' self-rated stress exceeds physicians' ratings of it](nurses-higher-perceived-stress-bronchoscopy-scenarios.md) — related

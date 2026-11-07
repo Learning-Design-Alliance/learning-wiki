@@ -224,3 +224,5 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Students' perceptions of teacher expectations negatively predict fixed mindset and test anxiety and positively predict self-efficacy and persistence in math](perceived-teacher-expectations-predict-student-outcomes.md) — a narrower finding that bears on this claim
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related
 - [Increased self-reported internal focus negatively predicts event-level goal achievement and self-efficacy](internal-focus-negative-achievement-efficacy.md) — related
+- [Associations between programme engagement and self-efficacy/mindset do not permit causal inference, and effects on academic outcomes were not measured](at-evaluation-no-causal-inference.md) — related
+- [Programme outcome and experience ratings were moderately associated with self-efficacy, while only learning-from-success-and-failure and goal-thinking items were weakly associated with mindset](self-efficacy-outcome-associations.md) — related

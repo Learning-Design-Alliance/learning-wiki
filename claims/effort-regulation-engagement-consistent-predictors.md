@@ -52,3 +52,4 @@ Multiple regression analysis (Table 5) regressing each strategy on self-control,
 - [Students' strategy use formed mixed constellations: organisation and elaboration correlated strongly (r = 0.64), and effective strategies were also positively related to less effective ones such as rehearsal](mixed-strategy-constellations.md) — related
 - [Students self-reported less cramming and more class preparation in the JiTT course than in their non-JiTT courses, except students receiving D or F grades](jitt-improves-study-habits-self-report.md) — related
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
+- [Students in an introductory genetics course report self-testing more than any other study strategy (79%), ahead of rereading notes (68%)](students-report-self-testing-most-common-strategy.md) — related

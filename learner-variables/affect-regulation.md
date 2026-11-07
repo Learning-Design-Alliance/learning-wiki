@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 303 claims (215 show a difference, 57 mixed, 31 no difference) · 195 studies (69 associational, 54 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 195 report an effect size · 295 claims rest on one study
+> **Evidence** · 304 claims (215 show a difference, 57 mixed, 32 no difference) · 196 studies (70 associational, 54 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 196 report an effect size · 296 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -343,6 +343,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Perceived stress is negatively related to psychological well-being among Chinese LGBTQ+ college students](../claims/perceived-stress-negative-wellbeing-lgbtq-china.md) [+M] — learners who differ on it differ in outcomes
 - [Proactive coping moderates (buffers) the negative relationship between perceived stress and psychological well-being](../claims/proactive-coping-buffers-stress-wellbeing.md) [~M] — an instructional effect differs with it
 - [Most participants with elevated pre-simulation anxiety scores fell below the elevated-anxiety cut-off at 3 months](../claims/elevated-anxiety-participants-below-cutoff-at-3-months.md) [+M] — measured as an outcome of the instruction studied
+- [Clinical training environment is not associated with stress or confidence in managing endodontic emergencies](../claims/training-site-not-associated-stress-confidence-endodontic-emergencies.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

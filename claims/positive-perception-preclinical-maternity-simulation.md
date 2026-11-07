@@ -63,3 +63,6 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Nursing students report positive learning attitudes following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-positive-learning-attitude.md) — a narrower finding that bears on this claim
 - [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related
 - [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related
+- [Nursing students rate support, objectives and information, and fidelity as the highest-rated simulation design dimensions](jordan-students-rate-support-objectives-fidelity-highest-sds.md) — related
+- [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
+- [Realism ratings for prophylactic and emergency cerclage scenarios are positive but lower than overall effectiveness](wccs-realism-ratings-scenarios.md) — related

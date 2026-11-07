@@ -50,3 +50,4 @@ Learning-curve analysis of the first 10 training attempts (Z-scores standardizin
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — a broader claim this one bears on
 - [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
+- [Offline haptic VR practice scores improved across six weekly sessions, with several procedural items reaching a plateau after 2 to 4 practice sessions](offline-haptic-practice-plateau-two-to-four-sessions.md) — related

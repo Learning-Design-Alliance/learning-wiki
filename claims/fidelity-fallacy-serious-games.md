@@ -106,3 +106,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [No significant Group × Time interaction in theoretical knowledge: knowledge gains occurred similarly in high- and medium-fidelity groups](no-group-time-interaction-knowledge-fidelity.md) — a narrower finding that bears on this claim
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — reports the opposite
 - [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — a narrower finding that bears on this claim
+- [Serious-game assessment is rated more realistic than clinical case-MCQ assessment by medical students](sg-assessment-rated-more-realistic.md) — related

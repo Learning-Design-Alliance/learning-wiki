@@ -47,3 +47,4 @@ Bootstrapping procedure with 5,000 resamples testing mediation in the SEM. The a
 ## Related Claims
 - [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
 - [Academic self-efficacy and academic buoyancy partially mediate the effects of teacher support and parental involvement on mathematics performance](ase-ab-partial-mediation-support-math.md) — related
+- [Self-control mediates the relationship between time management and study engagement](self-control-mediates-time-management-study-engagement.md) — related

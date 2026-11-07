@@ -91,3 +91,4 @@ Format-acceptance item in the same gender breakdown of the N=50 survey. Female p
 - [Female students showed stronger motivation toward e-learning resources and training than male students](female-students-stronger-elearning-motivation.md) — related
 - [Female psychology students rated GAI-based virtual simulated patients significantly higher than male students](female-students-rate-vsp-higher.md) — related
 - [Preferences for visual, written, or board-exam-oriented e-learning resources did not differ significantly by gender, year, GPA bracket, background, or research participation](no-demographic-differences-elearning-preferences.md) — related
+- [Male and female students differed significantly in pre-class resource preferences, pre-class knowledge mastery, and perceived learning burden](gender-differences-resources-mastery-burden.md) — related

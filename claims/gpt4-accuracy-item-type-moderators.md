@@ -57,3 +57,4 @@ Narrative synthesis of performance moderators across 19 examination studies in t
 - [State-of-the-art LLMs matched the top-performing third of expert psychiatrists on the same SSD vignettes](llms-match-top-third-expert-diagnosticians.md) — related
 - [GPT-4 made errors on recall-type image-based questions whereas GPT-4o did not, and both models' error rates were higher on Step 2 CK items](gpt4-recall-errors-step2ck-higher-error-rate.md) — a narrower finding that bears on this claim
 - [Medical students report weak statistical mastery, with most struggling to select correct methods and a third having misused statistical methods in research](weak-statistical-mastery-and-misuse-medical-students.md) — related
+- [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — related

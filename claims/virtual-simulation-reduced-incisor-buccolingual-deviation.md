@@ -50,3 +50,4 @@ Pilot RCT comparing Group A (traditional) and Group B (virtual simulation) brack
 - [Virtual simulation training reduced incisor mesiodistal bracket placement deviation compared with traditional training in a pilot RCT](virtual-simulation-reduced-incisor-mesiodistal-deviation.md) — related
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](vs-less-effective-procedural-skills-nursing.md) — reports the opposite
+- [Post-training bracket bonding scores improved by approximately 50% over pre-training baseline in a before-and-after study of 26 orthodontic postgraduates](vr-bracket-bonding-training-50-percent-gain.md) — related

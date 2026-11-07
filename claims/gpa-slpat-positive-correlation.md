@@ -47,3 +47,4 @@ Correlational analysis of the same quasi-experimental sample: Pearson correlatio
 ## Related Claims
 - [The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)](involvement-stronger-with-global-achievement-indicators.md) — a broader claim this one bears on
 - [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](jigsaw-lab-higher-physics-achievement-than-confirmatory.md) — related
+- [GPA is strongly positively correlated with knowledge gain across all three teaching methods (r = 0.708)](gpa-strong-positive-correlation-knowledge-gain.md) — related

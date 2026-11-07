@@ -49,3 +49,4 @@ ANOVA comparing average student Predicted Grade (from a regression on UW GPA and
 - [High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect](high-structure-reduces-failure-intro-biology.md) — related
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
 - [Drop rates did not vary with course structure except for an increase in the final high-enrollment quarter](drop-rate-stable-except-autumn-2009.md) — related
+- [In preintervention quarters, PEER students received lower first-exam scores than their classmates in introductory biology](peer-students-lower-first-exam-scores.md) — related

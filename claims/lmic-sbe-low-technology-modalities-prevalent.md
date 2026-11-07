@@ -51,3 +51,4 @@ Descriptive statistics from the review's tabulation of modalities across the 97 
 - [Reporting of LMIC SBE initiatives is typically insufficient to judge against reporting standards, with minimal detail on design, prebriefing, debriefing, and educational factors](sbe-lmic-insufficient-reporting-essential-features.md) — related
 - [Standardized SBE programs were more likely to improve outcomes than independent programs in LMICs (78% vs. 71%)](standardized-programs-more-likely-improvement-than-independent.md) — related
 - [High-fidelity mannequins were the most used simulation method in trauma training courses (51.4%)](trauma-simulation-high-fidelity-mannequin-most-used.md) — a narrower finding that bears on this claim
+- [Simulation-based medical education is underutilized in LMICs across all medical subspecialties](sbme-underutilized-in-lmics.md) — related

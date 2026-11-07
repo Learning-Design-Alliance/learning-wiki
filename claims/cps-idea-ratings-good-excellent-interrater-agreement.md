@@ -58,3 +58,5 @@ Psychometric analysis in Study 2, in which two postgraduate raters who received 
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — a narrower finding that bears on this claim
 - [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
+- [A 3-point subjective Accuracy scoring system for free-text ECG interpretations shows fair-to-good to excellent inter-rater agreement across four evaluators of different training levels](pecg-accuracy-score-interrater-agreement-validated.md) — related
+- [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related

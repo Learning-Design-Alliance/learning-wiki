@@ -51,3 +51,4 @@ In this RCT, total test time did not differ significantly, but "the time to visu
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — related
 - [XR-based POCUS training is non-inferior to standard training for TAPSE measurement accuracy](xr-training-non-inferior-tapse.md) — related
 - [Extended reality training shows no statistically significant difference in time to complete compared to dry lab training](xr-vs-dry-lab-time-to-complete-no-significant-difference.md) — related
+- [Novices trained with real-time AI guidance completed the cardiac ultrasound proficiency exam more slowly than non-AI peers](ai-guidance-slower-exam-completion.md) — related

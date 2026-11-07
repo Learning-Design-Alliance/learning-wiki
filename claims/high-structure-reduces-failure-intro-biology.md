@@ -55,3 +55,4 @@ A generalized linear mixed-model analysis across six quarters of Biology 180, wi
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [Student academic ability varied across quarters but not systematically with changes in course structure](student-ability-varied-not-with-structure.md) — related
 - [Drop rates did not vary with course structure except for an increase in the final high-enrollment quarter](drop-rate-stable-except-autumn-2009.md) — related
+- [In preintervention quarters, PEER students received lower first-exam scores than their classmates in introductory biology](peer-students-lower-first-exam-scores.md) — related

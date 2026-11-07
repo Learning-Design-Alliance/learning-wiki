@@ -54,6 +54,7 @@ The article describes a three-part instructional design that optimises cognitive
 - [Structured/Segmented Instruction](structured-segmented-instruction.md)
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Simulation Based Training](simulation-based-training.md)
+- [Sequence a basics lecture before simulation practice to manage cognitive load](basics-lecture-before-simulation-cognitive-load.md)
 
 ## Examples
 -

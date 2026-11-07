@@ -50,3 +50,4 @@ Nonparametric comparison of the 2026 survey responses (n=20) between the human S
 - [Students rated AI-generated and instructor-created lecture slides as similar in quality in a real course](students-rate-ai-slides-similar-quality.md) — related
 - [Students perceived instructor feedback as significantly more useful than AI-generated feedback, with no significant differences on fairness, developmental value or encouragement](instructor-feedback-perceived-more-useful-than-ai-feedback.md) — related
 - [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](similar-simulator-perceptions-novice-experienced.md) — related
+- [Student perceived-gain responses did not differ significantly between the community-engaged course and the simulated incubator capstone course](no-significant-difference-between-two-el-courses.md) — related

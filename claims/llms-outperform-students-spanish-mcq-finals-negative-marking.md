@@ -52,3 +52,4 @@ Descriptive aggregation across four course finals at Miguel Hernández Universit
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [GPT-4 exceeds pass marks on India NEET-PG and UK PLAB 1 but falls below pass on clinical reasoning and procedural items](gpt4-neetpg-plab-pass-clinical-reasoning-below.md) — related
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
+- [Students in both Intermediate and Advanced Medical Spanish courses achieved high aggregate performance scores at or above 80%, with mean scores differing between the two course levels (p = .0001)](high-aggregate-scores-medical-spanish-assessment.md) — related

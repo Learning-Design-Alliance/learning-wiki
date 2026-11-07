@@ -54,3 +54,4 @@ Experimental study of 60 fourth-year and internship nursing students randomized 
 - [High-fidelity simulation improved auscultation performance in the intervention group, with no statistical or clinical differences between groups (Menon et al. pilot study)](high-fidelity-simulation-auscultation-pilot.md) — reports the opposite
 - [Low-fidelity otoscopy simulation raises anatomical knowledge scores by 32% over control instruction](otoscopy-simulation-knowledge-gain.md) — related
 - [Nurses who completed a tailored 72-hour training program scored significantly higher on overall clinical performance than untrained nurses in cardiac surgery wards](tailored-training-higher-nurse-clinical-performance.md) — related
+- [ICU nurses trained with ultrasound simulation achieve significantly higher theoretical test scores than nurses taught with the classic method](simulation-training-higher-theoretical-scores-icu-nurses.md) — a narrower finding that bears on this claim

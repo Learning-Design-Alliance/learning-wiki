@@ -52,3 +52,4 @@ Pearson correlation analysis in the Findings section of a cross-sectional descri
 - [Narrative competence correlates positively with self-directed learning (r = 0.603), nursing professional values (r = 0.504), and digital literacy (r = 0.460)](narrative-competence-bivariate-correlations-sdl-npv-dl.md) — related
 - [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related
 - [A chatbot-based self-directed learning program for mechanical ventilation nursing raises nursing students' clinical reasoning competency more than video lectures alone](chatbot-sdl-raises-clinical-reasoning-competency.md) — related
+- [Full Code simulation scores correlate positively but weakly with final course grades in clinical medicine and surgery courses (overall r = 0.30)](full-code-score-correlates-with-course-grade.md) — related

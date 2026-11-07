@@ -79,3 +79,4 @@ Table 4 proportions for three dimensions: 97.14% vs 54.29% for practical operati
 - [Nursing students rated knowledge mastery, classroom atmosphere, and communication and collaboration as the top three aspects of learning satisfaction in the in-class flipped classroom](satisfaction-top-three-in-class-flipped.md) — related
 - [NSTIS students reported significantly higher learning outcomes on enhancing learning interest and satisfying the need for relevant case information](nstis-higher-learning-interest-and-case-information.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
+- [Most experimental students reported the design-thinking flipped classroom enhanced knowledge comprehension and comprehensive abilities without increasing learning burden](dt-flipped-perceived-gains-no-burden.md) — related

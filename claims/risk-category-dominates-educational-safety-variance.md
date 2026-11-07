@@ -52,3 +52,4 @@ Binomial GLM fitted with conversation-level attack success as the binary outcome
 - [Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)](category-difficulty-dominates-model-differences-academiclaw.md) — related
 - [Adaptive multi-turn interactions substantially amplify LLM vulnerabilities to conventional safety risks in educational contexts](dynamic-multi-turn-amplifies-conventional-risks.md) — related
 - [Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses](taxonomy-augmented-guardrails-education-specific-risks.md) — related
+- [A small set of latent factors (3–4) predicts individual error patterns far better than graph-type or question-type decompositions](latent-factors-outperform-design-categories.md) — related

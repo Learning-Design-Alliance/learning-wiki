@@ -52,3 +52,4 @@ The review reports, from Lo et al.'s clinical trial of an assisted bracket navig
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [Virtual simulation training reduced incisor mesiodistal bracket placement deviation compared with traditional training in a pilot RCT](virtual-simulation-reduced-incisor-mesiodistal-deviation.md) — related
+- [Bracket positioning accuracy rose from before to after virtual training, most for upper and lower anterior teeth, in one uncontrolled pre-post study](bracket-position-accuracy-anterior-teeth.md) — related

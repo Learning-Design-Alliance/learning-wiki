@@ -57,3 +57,4 @@ Analysis of eSpark log data on 2078 completed quests from September 10 to May 6.
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](rapid-guessing-mastery-feedback-loop.md) — related
 - [Mastery learning is feasible for USG-PVC training without extra time, and overtraining beyond mastery criteria does not improve performance](mastery-learning-feasible-usg-pvc-no-extra-time.md) — related
 - [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](mastery-learning-score-distribution-shift-chemistry.md) — related
+- [Student chemistry content knowledge scores rose from first attempts to highest attempts in one group with no comparison group, with median scores of 95% versus 74%](postquiz-scores-improve-mastery.md) — related

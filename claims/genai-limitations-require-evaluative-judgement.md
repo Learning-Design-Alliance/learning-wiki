@@ -75,3 +75,4 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related
 - [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — related
 - [During the debrief, most students reported noticing wrong turns but very few spoke up, illustrating authoritative bias, bandwagon effect and halo effect first-hand](deliberate-getting-lost-evoked-biases-first-hand.md) — related
+- [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — a narrower finding that bears on this claim

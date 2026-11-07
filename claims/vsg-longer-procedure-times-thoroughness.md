@@ -47,3 +47,4 @@ OSCE timing analysis in the RCT (Table 4): post-test catheter removal was longer
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [Participants in the game-based training condition took more time to respond during training than participants in the non-game-based condition](game-based-training-slower-response-duration.md) — related
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
+- [Novices trained with real-time AI guidance completed the cardiac ultrasound proficiency exam more slowly than non-AI peers](ai-guidance-slower-exam-completion.md) — related

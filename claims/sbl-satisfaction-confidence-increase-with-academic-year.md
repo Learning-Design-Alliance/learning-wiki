@@ -50,3 +50,4 @@ Post-simulation descriptive statistics and Kruskal–Wallis comparisons across a
 - [Students' perceptions of mandatory attendance are significantly below neutral and decline across academic years](attendance-perceptions-below-neutral-decline-by-year.md) — related
 - [The focus-on-students effect was not robust: significant in the ANOVA but not in non-parametric tests](focus-on-students-effect-not-robust.md) — related
 - [Confidence, risk-recognition and trauma-management scores differed significantly across study years, with senior students (Year VI) outperforming earlier years](study-year-differences-senior-students-higher.md) — related
+- [Simulation design and educational practice scores increase with academic year, with first-year students lowest and fourth-year students highest](scores-increase-with-academic-year.md) — possibly the same claim (merge candidate)

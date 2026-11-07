@@ -53,3 +53,4 @@ Comparative cross-sectional analysis of 1,504 text-based multiple-choice questio
 - [Across all question types and languages, Doubao-1.5-pro achieved the highest accuracy (92.0% ± 1.3%) and ChatGPT-4o the lowest (82.8% ± 3.7%) among six LLMs benchmarked](doubao-highest-chatgpt4o-lowest-accuracy.md) — related
 - [Discipline-specific accuracy differences favor ChatGPT-4o in Prosthetic Dentistry and Dentomaxillofacial Radiology and Gemini Advanced in Pediatric Dentistry](discipline-specific-llm-accuracy-differences-dus.md) — a narrower finding that bears on this claim
 - [Incorrect chatbot responses concentrate in clinical dental sciences rather than fundamental medical sciences](llm-errors-concentrate-clinical-dental-sciences-dus.md) — related
+- [ChatGPT and Gemini produced questions of comparable technical accuracy (84.3% vs 83.8%) and equal retention rates](chatgpt-gemini-comparable-question-accuracy.md) — related

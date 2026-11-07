@@ -97,3 +97,4 @@ The review's synthesis of 42 empirical studies reports the tally of grading comp
 - [Three LLMs showed inconsistent systematic bias on multimodal OSPE grading: Claude over-scored by +2.5 points (proportional), Gemini under-scored by −5.0 and ChatGPT by −10.0 points (non-proportional)](llm-ospe-systematic-bias-bland-altman.md) — related
 - [AI assistance enabled grading of 88% of 3,080 short-answer answers across 271 students in four courses](ai-assisted-grading-scale-3080-saq-answers.md) — related
 - [AI-assisted grading does not significantly differ from human grading in short-answer score discrimination in the pooled sample](ai-grading-pooled-discrimination-null.md) — related
+- [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related

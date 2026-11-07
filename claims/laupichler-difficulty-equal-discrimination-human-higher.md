@@ -50,4 +50,4 @@ Second-hand citation: the review reports this result from a paper by Laupichler 
 - [All 12 cases had excellent discriminatory ability (item analysis: 0.31–0.84)](foi-test-all-12-cases-excellent-discrimination.md) — related
 - [After removing poorly performing questions, physical specimens showed higher point biserial discriminatory capacity than VR, though both exceeded the accepted threshold](point-biserial-physical-higher-than-vr.md) — related
 - [The AI-generated and human-designed examinations showed comparable split-half reliability and difficulty distributions](ai-exam-comparable-reliability-difficulty.md) — related
-- [The AI-generated examination showed significantly lower item discrimination than the human-designed examination (0.35 vs. 0.49)](ai-exam-lower-discrimination.md) — possibly the same claim (merge candidate)
+- [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — possibly the same claim (merge candidate)

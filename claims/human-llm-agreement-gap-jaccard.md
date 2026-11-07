@@ -111,3 +111,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - Multi-label classification of open-ended course feedback was challenging even for expert human annotators who developed the label set, with average inter-rater Jaccard similarity of 81.24% — related
 - The three human experts showed significantly high Pearson and Spearman correlations in their individual novelty scores before consensus scoring — related
 - [GPT-4-Turbo as an LLM Judge reliably selects better scaffolds and mitigates hallucination errors, while weaker LLM Judges do not](gpt4-turbo-judge-mitigates-hallucinations-weaker-judges-do-not.md) — related
+- [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related

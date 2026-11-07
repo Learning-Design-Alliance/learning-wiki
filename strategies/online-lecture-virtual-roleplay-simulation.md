@@ -45,6 +45,7 @@ The review describes combining online lectures with virtual role-play or simulat
 - [Games](games.md)
 - [Use asynchronous pre-work to improve learner engagement and preparation before virtual education sessions](asynchronous-prework-before-virtual-education.md)
 - [Combined lecture plus simulated video-scenario sessions for teaching non-technical skills](lecture-plus-video-scenario-nts-training-strategy.md)
+- [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
 
 ## Examples
 -

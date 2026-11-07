@@ -49,3 +49,4 @@ The article's literature review notes that the relationship between observable t
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related
 - [Course-level sample truncation can produce M-bias that helps explain difficult-to-interpret negative associations between LMS behaviour and student success](m-bias-gasevic-2016-lms-behaviour.md) — related
+- [Associations between programme engagement and self-efficacy/mindset do not permit causal inference, and effects on academic outcomes were not measured](at-evaluation-no-causal-inference.md) — related

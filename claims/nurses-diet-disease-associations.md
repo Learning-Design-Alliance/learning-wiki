@@ -48,3 +48,4 @@ Descriptive analysis of open‐ended clinical nutrition questions (Q11–Q15) wi
 ## Related Claims
 - [Four oral diseases are associated with food choices, dietary behaviors, and/or nutrient intakes](four-oral-diseases-diet-nutrient-associated.md) — related
 - [Popular or fad diets restrict food choices and are often energy- and nutrient-deficient](popular-fad-diets-nutrient-deficient.md) — related
+- [Nurses show strong knowledge of non-interfering foods but notable gaps for vitamin K-rich leafy greens and green tea, and overestimate interactions for carrots and fats](warfarin-food-interaction-knowledge-gaps-leafy-greens.md) — related

@@ -60,3 +60,5 @@ The review's synthesis of two included studies (Ohta et al., retrospective cohor
 - [Telesimulation is a viable alternative to in-person simulation for improving clinician access to pediatric feeding training](telesimulation-viable-access-alternative-pediatric-feeding.md) — related
 - [VR simulation's capacity to facilitate distance learning and expand access to education was a significant driver of use behavior](vr-distance-learning-expands-access.md) — related
 - [Simulation training improves clinicians' clinical reasoning for infant feeding, with significant change maintained at 4-week follow-up regardless of modality](simulation-clinical-reasoning-gains-infant-feeding.md) — related
+- [Telesimulation achieves enhanced self-reported knowledge and confidence in line with in-person simulation](telesimulation-knowledge-confidence-in-line-with-in-person.md) — a narrower finding that bears on this claim
+- [Telesimulation develops cognitive and communication skills but does not facilitate hands-on procedural practice](telesimulation-scope-cognitive-not-procedural.md) — related

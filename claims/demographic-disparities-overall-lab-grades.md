@@ -72,3 +72,5 @@ The same overall-lab-grade models showed URM students scoring "3.17 points less"
 - [In the fall semester course, group formation strategy (maximally heterogeneous vs. random) had no detectable effect on students' lab report grades](fall-lab-report-grade-null-group-formation.md) — related
 - [Group formation method did not impact students' overall lab grades in either course](no-difference-heterogeneous-vs-random-biology-lab.md) — related
 - [In the spring semester only, maximally heterogeneous group assignment eliminated a racial disparity in lab report grades present under random assignment, but this result was not robust](spring-heterogeneous-groups-eliminated-urm-report-grade-gap.md) — reports the opposite
+- [Opportunity gaps in prior chemistry coursework are present among introductory biology students, with historically underserved students reporting less high school chemistry](opportunity-gaps-chemistry-coursework-intro-biology.md) — related
+- [Women participated in the case-study course more than men regardless of allocation group](women-participate-more-than-men-case-study.md) — related

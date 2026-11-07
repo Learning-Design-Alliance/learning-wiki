@@ -199,6 +199,7 @@ Following the information on the corrected item, unaided performance on a new it
 - The [feedback element](../elements/feedback.md) and the [formative assessment pattern](../patterns/formative-assessment.md) and [mastery learning pattern](../patterns/mastery-learning.md) carry loops as reusable components and policies.
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
 - [Identify feedback loops in your organization by sourcing, evaluating, and validating case studies](../strategies/identify-feedback-loops-process.md)
+- [Use scale results to give GPs individualised feedback reports and design targeted continuing education on identified competency gaps](../strategies/gp-depression-scale-feedback-driven-continuing-education-strategy.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

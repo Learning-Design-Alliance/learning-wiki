@@ -112,3 +112,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Both groups shifted from information-collection strategies toward retrieval-based strategies as the exam approached](strategy-use-shifts-toward-retrieval-near-exam.md) — related
 - [Group studiers and solo studiers differ in time spent on listening, rereading, and watching non-course videos, but not on high-impact strategies](group-solo-studiers-strategy-time-differences.md) — related
 - [On a short-answer comprehension test, only multiple-choice practice, not true—false practice, significantly beat rereading (Experiment 2)](mc-only-beats-rereading-on-short-answer.md) — a narrower finding that bears on this claim
+- [Students in an introductory genetics course report self-testing more than any other study strategy (79%), ahead of rereading notes (68%)](students-report-self-testing-most-common-strategy.md) — related

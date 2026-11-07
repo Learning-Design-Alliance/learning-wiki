@@ -59,3 +59,4 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
 - [Self-directed AI training produced no additional perceived cognitive workload compared with expert tutor instruction on the NASA-TLX](ai-training-no-extra-cognitive-workload-nasa-tlx.md) — related
 - [Mental demand is experienced as higher in the low-fidelity simulation setting during the second part of the scenario.](higher-mental-demand-low-fidelity-sbt.md) — related
+- [Experts report higher self-assessed performance and lower perceived negative workload than residents on the NASA-TLX](experts-higher-self-assessed-performance-lower-negative-workload.md) — reports the opposite

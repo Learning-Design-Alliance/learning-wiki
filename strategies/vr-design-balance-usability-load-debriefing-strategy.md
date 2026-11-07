@@ -65,6 +65,7 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Administer the cognitive load self-report tool after simulation debriefing to identify excessive strain and adapt simulation teaching](cognitive-load-tool-informs-simulation-teaching-adaptation.md)
 - [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
+- [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 
 ## Examples
 -

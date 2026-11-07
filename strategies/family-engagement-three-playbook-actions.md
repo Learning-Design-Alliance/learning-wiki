@@ -43,6 +43,7 @@ The playbook recommends three implementable family actions: (1) build a communit
 - [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md)
 - [Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture](parent-lsc-principal-partnership-strategy.md)
 - [Head teachers should involve parents through meetings, report card attendance, and joint improvement plans](head-teacher-parental-involvement-practices.md)
+- [Enhance study engagement through time management education, tools, self-monitoring and home-school collaboration](time-management-education-engagement-strategy.md)
 
 ## Examples
 -

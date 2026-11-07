@@ -52,6 +52,8 @@ The article recommends structured off-the-job training via dry laboratories to r
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [On-the-Job Training (OJT)](on-the-job-training-ojt.md)
+- [Provide all medical students with opportunities to learn surgical skills in dry laboratory training to foster interest in surgery](dry-lab-opportunities-foster-surgical-interest.md)
+- [Use non-organic silicone materials for accessible, reproducible tendon repair simulation](non-organic-materials-tendon-simulation-strategy.md)
 
 ## Examples
 -

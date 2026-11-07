@@ -62,3 +62,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses](in-situ-set-improves-first-aid-junior-nurses.md) — related
 - [By September 2025, 88.89% of participants had progressed to the level of clinical experts, a substantial increase compared with the baseline rate of 2.78% before retraining.](retraining-increases-advancement-to-clinical-nurse-specialist.md) — related
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
+- [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related

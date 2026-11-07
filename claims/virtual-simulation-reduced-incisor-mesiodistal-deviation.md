@@ -52,3 +52,4 @@ Pilot RCT: 20 orthodontically inexperienced dental interns randomized to traditi
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — a broader claim this one bears on
 - [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
+- [Bracket positioning accuracy rose from before to after virtual training, most for upper and lower anterior teeth, in one uncontrolled pre-post study](bracket-position-accuracy-anterior-teeth.md) — related

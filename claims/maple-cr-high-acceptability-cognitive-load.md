@@ -73,3 +73,4 @@ Questionnaire items Q13-Q15 on perceived mental effort, information overload, an
 - [Supporting user interaction and control in the indicator implementation process positively affects transparency, trust, satisfaction, and acceptance in LA](ssla-user-control-improves-transparency-trust-acceptance.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Medical interns using MAPLE-CR achieved higher posttest clinical reasoning knowledge scores than controls completing case-matched self-study](maple-cr-higher-posttest-than-self-study.md) — related
+- [First-semester medical students evaluate the IC-MD procedure positively, with acceptance scores ranging from 3.9 (quality of measurement) to 5.4 (controllability)](ic-md-participant-acceptance.md) — related

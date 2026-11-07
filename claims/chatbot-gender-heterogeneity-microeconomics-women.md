@@ -59,3 +59,4 @@ Subgroup ITT analysis in the Microeconomics RCT (915 randomized students) with f
 - [The tutored group also obtained significantly higher final (indicative exam) grades than the non-tutored group after the 11-week intervention](peer-tutoring-final-grade-advantage.md) — related
 - [ITS program completers earned an average final course grade of 2.18 on a 4.0 scale (SD = 1.388, N = 39)](its-completers-average-course-grade-2-18.md) — related
 - [No significant gender difference in scenario scores before or after training.](no-gender-difference-trauma-scenario-scores.md) — related
+- [Women participated in the case-study course more than men regardless of allocation group](women-participate-more-than-men-case-study.md) — related

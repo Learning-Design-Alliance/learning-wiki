@@ -68,3 +68,4 @@ Authors' interpretation of the non-monotonic blink-rate pattern across training 
 - [Attending ophthalmologists show significantly shorter fixation durations than PGY2 residents when reading fundus images](attendings-shorter-fixation-durations-fundus-reading.md) — related
 - [Average saccade length decreases progressively with ophthalmology experience, with attendings' saccades significantly shorter than PGY2s'](saccade-length-decreases-with-experience.md) — related
 - [Diagnostic accuracy on fundus images increases significantly with ophthalmology training level, from 53.33% in PGY2s to 96.00% in attendings](fundus-diagnostic-accuracy-increases-with-experience.md) — related
+- [Experts show fewer and longer fixations than residents during ECG interpretation, indicating more targeted visual search](experts-fewer-longer-fixations-ecg.md) — related

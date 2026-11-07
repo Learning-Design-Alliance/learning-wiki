@@ -61,3 +61,4 @@ A multiphase mixed-method study used a modified Delphi technique with 24 nationa
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
 - [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
+- [A two-round modified Delphi process with an integrated workshop produced consensus on 97 of 120 formulated competencies for a delirium e-learning curriculum](delphi-consensus-97-of-120-delirium-competencies.md) — related

@@ -56,3 +56,4 @@ Author interpretation from the discussion section, tracing undermined coherence 
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — reports the opposite
 - [Iterative persona refinement against reference answers achieved over 90% VSP response accuracy](vsp-persona-response-accuracy-over-90.md) — related
 - [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](llm-cooperates-with-trainer-but-breaks-instructions.md) — related
+- [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related

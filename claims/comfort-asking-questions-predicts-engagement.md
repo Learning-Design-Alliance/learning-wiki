@@ -54,3 +54,4 @@ Agreement: Felt comfortable asking questions in class 0.22 0.02 ***"
 - [Pre-med aspiration, excitement about learning, and competitiveness each predict higher engagement; gender, race, and most pre-college measures do not](motivation-and-background-predictors-engagement.md) — related
 - [Viewing STEM courses as competitive was associated with impostorship and, in turn, lower engagement and grades, especially for first-generation students](competitive-stem-courses-impostorship.md) — related
 - [PBL students experienced the dynamic interplay of lecture and group work as providing security and comfort, and highlighted realistic project tasks as motivating](pbl-lecture-groupwork-security.md) — related
+- [Most students in a hybrid PA programme agreed that live online classes, questions, and breakout rooms encouraged engagement, but only half felt connected to other class members](hybrid-pa-survey-connection-engagement.md) — related

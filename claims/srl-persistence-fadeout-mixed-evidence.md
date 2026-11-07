@@ -54,3 +54,4 @@ The review reports, citing de Boer et al. (2018), that among 48 long-term studie
 - [Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence](long-run-effects-null-seven-studies.md) — related
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related
 - [No included study reported long-term follow-up, leaving durability of OSS effects unclear](oss-no-long-term-follow-up.md) — related
+- [Intervention effects on student math progress persisted without fadeout through the 8-week post-intervention period](nudge-effects-persist-8-weeks.md) — a narrower finding that bears on this claim

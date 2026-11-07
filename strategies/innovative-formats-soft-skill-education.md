@@ -44,6 +44,7 @@ Beyond CPR technique practice, the article states continuing education strategie
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 - [Zoom Family Hours](zoom_family_hours.md)
 - [Structure remote MR tutorials as baseline assessment, metrics-based feedback and deliberate practice, preceded by device familiarisation training](hololens-familiarisation-plus-metrics-feedback-deliberate-practice.md)
+- [Adapt the 5CardsGame format to other healthcare education contexts, including digital versions for remote and self-paced practice](5cardsgame-adaptation-strategy.md)
 
 ## Examples
 -

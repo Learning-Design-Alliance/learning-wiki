@@ -56,3 +56,4 @@ Randomized controlled trial reported in the review: 40 surgical trainees with fe
 - [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — a broader claim this one bears on
 - [Speed and accuracy are the technical skills most adversely affected by time out of training, shown quantitatively in robotic VR studies](speed-and-accuracy-most-affected-surgical-skills.md) — reports the opposite
 - [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related
+- [All medical students significantly improved endoscopic forceps time-trial performance from the first to the second half of two-week dry laboratory training](all-students-improved-forceps-skills-repeated-practice.md) — related

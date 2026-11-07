@@ -54,3 +54,4 @@ Qualitative thematic analysis of 60-90 minute focus groups (5 disciplines per gr
 - [Positive learner attitudes were measured after only one supervised application and may decline with repeated or mandatory use](attitudes-after-one-supervised-use.md) — related
 - [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](pharmacy-students-knowledge-and-communication-skill-gains.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
+- [Team CPR training significantly improves skill confidence and active participation (Kirkpatrick behavior level)](cpr-training-improves-confidence-participation.md) — related

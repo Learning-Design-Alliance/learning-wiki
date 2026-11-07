@@ -48,3 +48,4 @@ Joint display integration identified this as a divergence. Qualitative subtheme 
 - [Divergence between high self-reported competence and constraints on enactment: cognitive workload, interruptions, and reporting climate](divergence-competence-enactment-workload-reporting-climate.md) — a broader claim this one bears on
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Low psychological readiness and fear of complications cause hesitancy and referral preferences among junior staff administering MgSO4](low-confidence-mgso4-hesitancy.md) — related
+- [Junior nurses hesitate to seek guidance from senior colleagues and physicians about medication procedures, creating error risk](junior-nurse-communication-hesitation-medication-errors.md) — related

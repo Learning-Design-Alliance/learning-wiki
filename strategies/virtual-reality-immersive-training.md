@@ -118,6 +118,7 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Scaffolded guidance fading in VR surgical rehearsal: visible ideal-target guidance for the first five evaluated attempts, then deactivated](vr-guidance-fading-attempts.md)
 - [Enhance VR-based simulation debriefing with automated checklists, multiplayer platforms, and hybrid feedback approaches](vr-simulation-feedback-enhancement-strategy.md)
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](vr-complementary-continuing-emergency-training-strategy.md)
+- [Favor hands-on simulation over VR when cost, intuitiveness, and eye strain matter](hands-on-over-vr-cost-intuitiveness-eye-strain.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

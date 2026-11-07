@@ -48,3 +48,4 @@ Multivariable linear regression on complete cases (n = 88) adjusting for gender,
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Oncology nurses in a Northern Italian tertiary hospital show moderate nutritional knowledge, with a mean score of 20.0 ± 1.9 out of 30 on a validated questionnaire where lower scores indicate better knowledge](oncology-nurses-moderate-nutrition-knowledge.md) — related
+- [Age, gender, job position, and hospital type did not significantly predict nurses' warfarin-related knowledge scores](demographics-not-significant-warfarin-knowledge-predictors.md) — related

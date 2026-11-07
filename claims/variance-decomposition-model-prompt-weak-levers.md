@@ -65,3 +65,4 @@ Fully crossed random-effects variance decomposition (Table 1) of squared misalig
 - Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error — related
 - [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](mixed-effects-model-significant-main-and-interaction-effects.md) — related
 - [Higher GAI temperature setting (0.9) was associated with higher student ratings of virtual simulated patients, with a small effect](gai-temperature-0-9-higher-ratings.md) — related
+- [A small set of latent factors (3–4) predicts individual error patterns far better than graph-type or question-type decompositions](latent-factors-outperform-design-categories.md) — related

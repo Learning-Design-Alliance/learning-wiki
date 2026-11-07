@@ -51,3 +51,4 @@ Retrospective cross-sectional comparison of annual report marks of 134 children 
 - [Musical training remains a significant predictor of overall marks in multiple regression with income and grade, which have higher partial correlations](music-predictor-multiple-regression-school-marks.md) — a broader claim this one bears on
 - [The association between musical training and school performance appears general and non-specific across subjects, with no evidence for special links to single domains](music-school-association-non-specific-no-special-links.md) — related
 - [Third-grade students receiving music-mathematics integrated lessons scored significantly higher on posttest mathematics achievement than non-music control students](music-math-lessons-posttest-achievement-advantage.md) — related
+- [Prior musical training correlates strongly with MBEA scores (r≈0.89)](prior-music-training-strong-correlation-mbea.md) — related

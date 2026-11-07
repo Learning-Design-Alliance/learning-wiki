@@ -61,3 +61,4 @@ Theme 2 of the reflexive thematic analysis; students said “The quality of the 
 - [KFQ-based TBL cases push students toward choosing wisely and committing to decisions as a parallel to real-life patient care](kfq-tbl-choosing-wisely-commitment-decisions.md) — a narrower finding that bears on this claim
 - [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
 - [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
+- [Familiar instructors who knew participants' clinical context were perceived to improve learning outcomes compared with unknown instructors](familiar-instructors-improve-relevance-learning.md) — related

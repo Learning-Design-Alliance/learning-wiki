@@ -71,3 +71,4 @@ Mediation testing used bias-corrected bootstrapped standard errors with 1000 dra
 - [Partnered student parents report higher school and family satisfaction, and part-time enrolment is associated with higher family satisfaction](partner-status-enrolment-subgroup-satisfaction-differences.md) — related
 - [The corrected article examines the association between parental internalizing disorders and child school performance](parental-internalizing-disorders-child-school-performance-correction.md) — related
 - [No significant associations between GPA and relationship status, parental status, academic year, residence, self-esteem, competence, well-being, or life satisfaction](null-associations-gpa-demographic-psychosocial.md) — related
+- [Graduate-entry students showed higher self-efficacy and more positive tutor-relationship responses than school-leavers](graduate-entry-higher-self-efficacy.md) — related

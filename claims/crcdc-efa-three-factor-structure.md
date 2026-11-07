@@ -89,3 +89,4 @@ Factor loadings examined across all 19 items in the rotated pattern matrix. Find
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
 - [Exploratory factor analysis of the gamified test yields a 2-factor solution matching the cognitive-abilities versus personality-characteristics distinction, with conformity loading on neither factor](gba-two-factor-structure-cognitive-personality.md) — related
+- [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related

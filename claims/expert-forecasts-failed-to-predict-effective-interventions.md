@@ -49,3 +49,4 @@ Forecasting component of the fitness-chain megastudy: the article reports that "
 - [The top-performing exercise intervention offered microrewards for returning to the gym after a missed workout](microrewards-after-missed-workout-top-intervention.md) — related
 - [Only 8% of the exercise interventions induced behaviour change that was significant and measurable after the four-week intervention](megastudy-only-8-percent-persistent-behaviour-change.md) — related
 - [Among interventions that increased exercise during the intervention, carry-over effects were proportionally similar to previous research](megastudy-carryover-effects-similar-to-previous-research.md) — related
+- [Forecasts of intervention efficacy by scientists, platform staff, and teachers were overly optimistic by a factor of 30 or more, though rank orders correlated across forecasters](nudge-efficacy-forecasts-overly-optimistic.md) — related

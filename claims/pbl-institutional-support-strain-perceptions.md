@@ -69,3 +69,4 @@ Participant-reported institutional barrier; the article notes participants wishe
 - [Undergraduate dental students perceive peer collaboration and facilitator guidance as key enablers of agency, while uneven participation and inconsistent facilitation are barriers](pbl-peer-facilitator-enablers-barriers.md) — related
 - [Undergraduate dental students perceive that the time-bound weekly PBL cycle compels short-term goal setting and planning, though workload makes self-regulation challenging for some](pbl-weekly-cycle-goal-setting-self-regulation-variability.md) — related
 - [Undergraduate dental students perceive that PBL strengthens communication and presentation skills needed for clinical practice](pbl-strengthens-communication-presentation-skills.md) — related
+- [Students perceived traditional grading practices as harmful to motivation and well-being](traditional-grading-harms-motivation-wellbeing.md) — a broader claim this one bears on

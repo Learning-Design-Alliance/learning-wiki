@@ -52,3 +52,4 @@ Meta-analysis of longer follow-up periods from the same 205-study corpus; the po
 - [No included study reported long-term follow-up, leaving durability of OSS effects unclear](oss-no-long-term-follow-up.md) — related
 - [Outcomes measured immediately after the intervention show larger ITS effects than end-of-year measurement](its-larger-effects-immediate-measurement.md) — related
 - [Fadeout of early mathematics intervention effects: treatment effects fade but remain significant at kindergarten follow-up](fadeout-early-math-intervention-effects-persist-but-diminish.md) — a narrower finding that bears on this claim
+- [Intervention effects on student math progress persisted without fadeout through the 8-week post-intervention period](nudge-effects-persist-8-weeks.md) — a narrower finding that bears on this claim

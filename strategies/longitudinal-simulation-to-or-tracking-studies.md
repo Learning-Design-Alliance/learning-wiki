@@ -57,6 +57,7 @@ The review recommends that future research prioritize longitudinal designs conne
 - [Adopt performance analytics and tele-simulation to individualize simulation learning and extend access across campuses](performance-analytics-tele-simulation-strategy.md)
 - [Implement process-oriented procedural training programs and then assess transfer of the approach to real-world clinical settings](assess-transfer-process-oriented-training-clinical-settings.md)
 - [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
+- [Test surgical simulators with novices and track learning-curve metrics before clinical translation](novice-testing-learning-curve-metrics-strategy.md)
 
 ## Examples
 -

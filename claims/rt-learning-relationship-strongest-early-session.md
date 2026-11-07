@@ -66,3 +66,4 @@ Slice-specific regressions with Benjamini–Hochberg adjustment predicting learn
 - [Later time-point of cognitive testing is associated with faster reaction times, with significantly slower RT in the morning](testing-time-point-associated-rt.md) — related
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — related
 - [Many studied instructional variables were unrelated to student achievement](many-instructional-variables-unrelated-achievement.md) — related
+- [Higher first-test scores correlated with faster first-test completion (r = -0.547), and scores correlated across tests](5cardsgame-score-time-correlations.md) — related

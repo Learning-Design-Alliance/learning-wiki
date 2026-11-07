@@ -52,3 +52,4 @@ Linear mixed-effects model covariate analysis of perceived cognitive load (Paas 
 - [Dynamic movement patterns are associated with better visual attention performance on classroom disruptions than immobile and anchored patterns](dynamic-movement-better-visual-attention.md) — related
 - [Expert teachers fixate more on struggling, underestimating, and uninterested students during individual seatwork, while novices show longer fixations on strong and overestimating students](expert-gaze-attends-to-support-needed-profiles.md) — related
 - [Classroom management self-efficacy and perceived cognitive load correlate with visual attention measures](self-efficacy-cognitive-load-correlate-attention.md) — related
+- [Experts show fewer and longer fixations than residents during ECG interpretation, indicating more targeted visual search](experts-fewer-longer-fixations-ecg.md) — related

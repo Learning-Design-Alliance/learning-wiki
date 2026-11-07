@@ -42,7 +42,8 @@ The study assigned schools an index score using principal components analysis wi
 - [After one intervention year, fourth- and fifth-grade math achievement was no higher in Using Data treatment schools than in control schools](../claims/using-data-no-year1-math-achievement-effect.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Stratified block randomization balancing high and low scorers across teaching-intervention groups](stratified-block-randomization-high-low-scorers-strategy.md)
 
 ## Examples
 -

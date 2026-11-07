@@ -69,3 +69,4 @@ Schuirmann TOST procedure with margin Δ = 0.5 on PPOS scores from 109 post-inte
 - [Students report higher satisfaction with role-play than with linear virtual patients](roleplay-higher-satisfaction-than-virtual-patients.md) — related
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
 - [Adding peer role-play and peer assessment does not change technical procedural proficiency: no significant difference between cohorts in procedural steps and key points](peer-roleplay-technical-proficiency-comparable.md) — related
+- [Mean performance scores showed no statistically significant difference between virtual and in-person assessment formats in a small comparison of students who completed both](virtual-equivalent-in-person-spanish-assessment.md) — related

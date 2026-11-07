@@ -49,3 +49,4 @@ Discussion-section cross-study comparison, not a head-to-head test within this s
 - [Both chatbots achieve above-90% accuracy on fundamental medical sciences questions with no significant difference between models or sub-disciplines](llms-fundamental-medical-sciences-dus-high-accuracy.md) — related
 - [Reliability patterns were discipline-specific: Gemini ranked highest in reliability in embryology but only moderate in histology](llm-reliability-discipline-specific-patterns.md) — related
 - [Five LLMs showed comparable, exceptionally high accuracy (collective mean 91.1%) on text-based medical histology MCQs](llm-mean-accuracy-91-1-histology-mcqs.md) — related
+- [On average, four LLM chatbots answered 81.1% of medical biochemistry MCQs correctly, 8.3% above the medical students' average (P=.02)](chatbots-8-3-percent-above-students-biochemistry-mcqs.md) — related

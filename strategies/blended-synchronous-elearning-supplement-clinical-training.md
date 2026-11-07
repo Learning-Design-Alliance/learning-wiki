@@ -48,6 +48,7 @@ The authors recommend that "practice based training can be supplemented by synch
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](llm-supplement-theoretical-learning-ot.md)
+- [Blend video-based instruction with hands-on skill demonstration in nursing skills education](blend-video-with-hands-on-demonstration.md)
 
 ## Examples
 -

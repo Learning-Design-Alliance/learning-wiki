@@ -49,3 +49,4 @@ End-of-rotation assessment of 68 trainees (control n = 35, experimental n = 33) 
 - [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related
 - [BOPPPS-flipped classroom reform is linked to significantly higher final examination scores and a distribution shift toward higher grade intervals](boppps-flipped-higher-final-exam-scores.md) — related
 - [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](fc-higher-clinical-skills-scores-gastroenterology.md) — related
+- [The “One Case to the End” model based on BOPPPS raises pediatric nursing students' academic performance compared with traditional teaching](one-case-boppps-improves-academic-performance.md) — related

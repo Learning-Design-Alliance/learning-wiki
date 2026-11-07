@@ -52,3 +52,4 @@ Study 2 recalibrated Grades 4–7 items with target-plus-two-adjacent-grade samp
 - [For items aligned to multiple target grades, difficulty estimates from different on-grade calibration samples differ negligibly, at most 0.1 logit on average](map-growth-multi-grade-items-negligible-differences.md) — related
 - [At least 90% of reading and science items and about 80% of math items show difficulty differences within 0.3 logits between on-grade and all-grade calibration](map-growth-most-items-within-03-logit-ongrade-calibration.md) — related
 - [Calibration sample size differences did not affect the size of on-grade versus all-grade item difficulty estimate differences](map-growth-sample-size-did-not-affect-difficulty-differences.md) — related
+- [Representative and university samples differ in mean accuracy but yield convergent estimates of item difficulty (ρ = 0.96)](sample-groups-differ-in-mean-but-not-item-difficulty.md) — a narrower finding that bears on this claim

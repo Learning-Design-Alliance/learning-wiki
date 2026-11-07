@@ -98,3 +98,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Students most often cite learning-focused activities, peer work, and access to instructional support as helpful, and content/IA problems, poor environments, and modality as unhelpful](helpful-unhelpful-section-themes.md) — related
 - [Students in in-person sections report more helpful and fewer unhelpful aspects than students in remote sections](in-person-more-helpful-perceptions.md) — related
 - [Peer instructors dominate simulator-based training for students while physicians most often name physicians as instructors, with few external instructors reported](peer-instructors-dominate-student-sbt.md) — related
+- [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](hybrid-student-social-isolation.md) — related

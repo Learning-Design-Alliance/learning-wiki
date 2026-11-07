@@ -50,3 +50,4 @@ Thematic analysis of one-hour end-of-semester interviews with seven undergraduat
 - [Coaching helped students manage daily stress and enhanced their sense of well-being and self-control](coaching-enhanced-well-being-stress-management.md) — related
 - [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related
 - [Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being](coaching-improves-self-awareness-self-management-wellbeing-adhd-ld.md) — related
+- [Students attributed improved wellbeing and time management to the programme's coaching-style one-to-one conversations](coaching-linked-wellbeing-gains.md) — related

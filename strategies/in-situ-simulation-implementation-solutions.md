@@ -49,7 +49,8 @@ The article documents six challenges to running in situ interprofessional simula
 - [A single-day in situ simulation training significantly increases total teamwork-related shared mental model similarity in interprofessional trauma teams](../claims/simulation-training-increases-total-smm-similarity-trauma-teams.md) [+W]
 
 ## Related Strategies
-- 
+
+- [In-situ simulation case with three consecutive crisis elements and GAS-model debriefing for bronchoscopy team training](in-situ-bronchoscopy-crisis-simulation-case-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Descriptive gender comparison within the eight-week experiment, reported in Resu
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](gender-difference-online-srl-females.md) — related
 - [Pre-service clinical teachers who viewed videotapes of their teaching with guided feedback provided more total feedback to students than teachers in a seminar-only group and a control group across eight teaching episodes](video-review-guided-feedback-increases-clinical-teacher-feedback.md) — related
 - [Female students previewed significantly fewer vodcasts than male students before lectures.](gender-difference-in-vodcast-previewing.md) — related
+- [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — related

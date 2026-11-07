@@ -53,3 +53,4 @@ Controlled comparison of 38 experimental versus 38 control students in a randomi
 - [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
 - [The HIS-based BOPPPS teaching model group scored significantly higher than the traditional teaching group on case reading and total end-of-term exam scores in both semesters](boppps-his-higher-case-reading-total-scores.md) — related
+- [VR group's total teaching quality score was significantly higher than the control group's](vr-group-higher-total-teaching-quality-score.md) — related

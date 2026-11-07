@@ -71,3 +71,4 @@ Between-groups anxiety comparison in the same trial showed no significant differ
 - [Simulation substantially increases self-perceived confidence in infant feeding, with comparable gains in telesimulation and in-person modalities](simulation-confidence-gains-modality-comparable.md) — related
 - [Telesimulation is a viable alternative to in-person simulation for improving clinician access to pediatric feeding training](telesimulation-viable-access-alternative-pediatric-feeding.md) — related
 - [Telesimulation produces clinical reasoning improvements comparable to in-person simulation, with a numerically greater but non-significant change in the telesimulation group](telesimulation-comparable-clinical-reasoning-in-person.md) — related
+- [Telesimulation achieves enhanced self-reported knowledge and confidence in line with in-person simulation](telesimulation-knowledge-confidence-in-line-with-in-person.md) — related

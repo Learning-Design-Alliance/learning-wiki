@@ -48,3 +48,4 @@ Patient-reported secondary outcome on 0–10 Likert scales in the randomized tri
 - [Simulator training showed no significant effects on adenoma detection rate, polyp detection rate, or patient pain scores](mikoto-no-detection-outcome-effects.md) — reports the opposite
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
 - [No adverse events or patient-related procedural complications occurred in either training group during live TEE training and assessment](no-adverse-events-during-live-tee-training-assessment.md) — related
+- [After team simulation training, patients report being less awake during bronchoscopy, with no change in other patient-reported outcomes](patients-less-awake-after-team-simulation-training.md) — related

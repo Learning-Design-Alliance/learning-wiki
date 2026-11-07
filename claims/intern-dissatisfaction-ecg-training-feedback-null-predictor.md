@@ -49,3 +49,4 @@ Multivariable regression finding on the 220-intern dataset, alongside survey des
 - [ECG competency varies significantly across Ethiopian training institutions, from 7.1% at JUMC to 32.7% at SPHMMC](institutional-variation-ecg-competency-ethiopia.md) — related
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — reports the opposite
 - [94.5% of surveyed nursing interns were relatively satisfied with teaching quality and 95.5% with their preceptors after certification implementation](intern-satisfaction-94-5-teaching-quality.md) — reports the opposite
+- [Supervisors were satisfied with equipment and working with students but 90.9% reported insufficient preparation time](supervisors-satisfied-but-underprepared.md) — related

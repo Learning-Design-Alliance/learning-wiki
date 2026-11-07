@@ -86,3 +86,4 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 - [Less surgical experience is associated with overestimation of abilities](less-experience-overestimation.md) — related
 - [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related
 - [Agreement between self- and peer-assessment on the CHOLE-VOP is moderate overall but poor for novices, who tend to overestimate their performance, and good for intermediate users](self-peer-assessment-agreement-varies-by-experience.md) — a narrower finding that bears on this claim
+- [Self-assessment overestimates ultrasound skills relative to external examination, while meta-analyses show moderate self-assessment accuracy overall](self-assessment-overestimates-ultrasound-skills.md) — related

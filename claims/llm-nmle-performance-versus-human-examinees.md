@@ -73,3 +73,4 @@ The human benchmark comparison shows top-decile examinees scored above 510 point
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
 - [GPT-4 achieved 43.9% accuracy on the 2022 Taiwanese TCM licensing examination, below two human TCM resident doctors (70% and 78.4%) and below the 60% pass threshold](gpt4-43-9-accuracy-tcm-licensing-below-humans.md) — related
+- [GPT-4 and GPT-4o accuracy exceeds the NMLE passing threshold and the typical national pass rate](gpt4-gpt4o-exceed-nmle-passing-threshold.md) — related

@@ -53,3 +53,4 @@ Quantitative descriptive component: a researcher-developed 10-item, 5-point Like
 - [Students reported practical barriers including discomfort photographing in public, difficulty photographing children, unequal group participation, and time management difficulties](photovoice-tbl-practical-barriers.md) — related
 - [Students collectively submitted 108 photographs capturing community-level factors affecting child health such as play, injury and safety, child labor, air pollution, and nutrition](photovoice-108-photographs-child-health-factors.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [91% of students reported improved confidence working in a team and 90% reported teamwork developed interpersonal skills](el-teamwork-confidence-gains-91-percent.md) — related

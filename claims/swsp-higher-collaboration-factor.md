@@ -48,3 +48,4 @@ Mann-Whitney U comparison of Educational Practices Questionnaire responses from 
 - [Students rate RCDP higher than SWSP on active learning, diverse ways of learning, and high expectations in the Educational Practices Questionnaire](rcdp-higher-educational-practices-factors.md) — related
 - [Students rate RCDP higher than SWSP on the Simulation Design Scale overall, including the support and problem-solving factors](rcdp-higher-simulation-design-scale.md) — related
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related
+- [Active learning is the highest-rated educational practice, while diverse ways of learning is the lowest](active-learning-highest-epq-dimension.md) — related

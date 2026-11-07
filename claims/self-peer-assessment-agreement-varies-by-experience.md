@@ -70,3 +70,4 @@ Averaged two-way mixed ICC analysis comparing novice self-assessments with peer-
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — a broader claim this one bears on
 - [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — a broader claim this one bears on
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
+- [Self-assessment overestimates ultrasound skills relative to external examination, while meta-analyses show moderate self-assessment accuracy overall](self-assessment-overestimates-ultrasound-skills.md) — related

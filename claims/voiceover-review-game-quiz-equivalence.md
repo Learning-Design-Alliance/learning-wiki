@@ -52,3 +52,5 @@ Multiyear randomized study of 123 first- and second-year medical students random
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
 - [Accuracy differs significantly among the three intervention groups on the quiz, with graded values across groups](puzzle-intervention-groups-graded-quiz-accuracy.md) — related
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related
+- [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
+- [Quiz scores did not significantly change from before to after video review in the traditional teaching group](video-review-no-significant-further-gain.md) — related

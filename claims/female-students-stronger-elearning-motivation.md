@@ -53,3 +53,4 @@ Motivation section of the survey: female students were significantly more likely
 - [Male students were significantly more likely than female students to report English proficiency and course relevance as barriers to e-resource use](gender-barriers-english-proficiency.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — related
+- [Male and female students differed significantly in pre-class resource preferences, pre-class knowledge mastery, and perceived learning burden](gender-differences-resources-mastery-burden.md) — related

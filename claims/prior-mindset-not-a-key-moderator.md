@@ -53,3 +53,4 @@ In the NSLM secondary analysis, prior fixed vs. growth mindset was not an import
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
 - [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](moma-masters-student-mindset-achievement-effects.md) — related
 - [Blocked navigation events predict a substantially lower intervention effect for affected students.](blocked-navigation-predicts-lower-intervention-effect.md)
+- [Students from a widening participation background tended to show higher growth mindset than non-WP students, a non-significant trend the authors attribute to pre-course factors](wp-students-higher-mindset-trend.md) — related

@@ -68,3 +68,4 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — reports the opposite
 - [Male and female students taught algebra with problem-based learning show no statistically significant difference in achievement scores](pbl-no-gender-achievement-difference.md) — related
 - [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — reports the opposite
+- [Female students outperformed males in the live lecture condition, but not in the flipped conditions](gender-difference-live-lecture-gains.md) — related

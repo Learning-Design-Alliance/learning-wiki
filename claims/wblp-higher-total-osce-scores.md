@@ -52,3 +52,4 @@ In the same retrospective cohort, the 6-station formative OSCE total was compare
 - [WBLP students show the largest performance gap in procedural skills (bone marrow aspiration and thoracentesis), with gains also in history taking, clinical reasoning, and physical examination](wblp-largest-gap-procedural-skills-station.md) — a narrower finding that bears on this claim
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
 - [No significant difference between WBLP and control students in CPR performance at the OSCE](wblp-no-cpr-performance-difference.md) — related
+- [OSCE and DOPS represent the gold standard for assessing student ultrasound competence according to current research](osce-dops-gold-standard-ultrasound-assessment.md) — related

@@ -48,3 +48,4 @@ Pilot RCT vertical (Y-axis) deviation analysis across incisor, canine, and premo
 - [Virtual simulation training reduced incisor mesiodistal bracket placement deviation compared with traditional training in a pilot RCT](virtual-simulation-reduced-incisor-mesiodistal-deviation.md) — related
 - [Virtual simulation training reduced incisor buccolingual bracket deviation by approximately 32.69% compared with traditional training](virtual-simulation-reduced-incisor-buccolingual-deviation.md) — related
 - [Vertical and transverse occlusion classification and OPG dental-status evaluation showed no significant differences between modalities](orthotrainer-vertical-transverse-opg-no-differences.md) — related
+- [Bracket positioning accuracy rose from before to after virtual training, most for upper and lower anterior teeth, in one uncontrolled pre-post study](bracket-position-accuracy-anterior-teeth.md) — related

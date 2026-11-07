@@ -59,3 +59,4 @@ Qualitative analysis of SME feedback on FN cases from the expert evaluation. SME
 - [Common LLM error patterns are multiple-option selection, image misdiagnosis, and action prioritization failures](llm-error-patterns-jnme.md) — related
 - [Agreement between GPT-4's answers and human-curated answers based on its explanations was low (κ=0.504), with frequent answer-explanation mismatches](gpt4-answer-explanation-consistency-low-kappa.md) — related
 - [Most GPT-4 errors on TCM examination questions stemmed from misunderstanding of TCM concepts (55.3%), not misreading questions](gpt4-tcm-errors-concept-misunderstanding-55-3.md) — related
+- [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related

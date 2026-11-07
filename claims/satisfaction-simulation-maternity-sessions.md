@@ -50,3 +50,4 @@ Satisfaction Likert-scale questionnaire (Table 1, n = 64) completed at the end o
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
 - [Over 96% of novice trainees agree simulator training should precede actual surgery for arthroscopy beginners, and over 94% would recommend arthroscopy simulator training to colleagues, with no disagreements in either group](novices-endorse-arthroscopy-simulator-training-before-surgery.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
+- [Most VR-group students reported satisfaction with the course and improved security and confidence in clinical diagnosis](vr-students-satisfaction-confidence-survey.md) — related

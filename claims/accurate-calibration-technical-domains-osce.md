@@ -48,3 +48,4 @@ Planned paired-samples t-tests in the same OSCE cohort found no significant diff
 - [Gender and prior healthcare training show no association with self-other discrepancies in any domain in this first-year cohort](gender-prior-training-no-calibration-association.md) — related
 - [Self-other rating differences vary across competency domains in first-year nursing OSCEs, with the largest discrepancy in social/communication skills (Rating Type × Domain interaction η²ₚ = 0.416)](osce-rating-type-domain-interaction-nursing.md) — related
 - [First-year nursing students strongly overestimate their social/communication skills relative to examiner ratings (mean difference −0.141, d = 0.99)](nursing-students-overestimate-communication-osce.md) — related
+- [Self-assessment overestimates ultrasound skills relative to external examination, while meta-analyses show moderate self-assessment accuracy overall](self-assessment-overestimates-ultrasound-skills.md) — related

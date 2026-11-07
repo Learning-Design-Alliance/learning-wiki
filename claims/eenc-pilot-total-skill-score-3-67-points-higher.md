@@ -50,3 +50,4 @@ Intention-to-treat linear mixed effects analysis of the pilot cluster-randomised
 - [Providers and facilitators viewed the digital EENC training intervention positively, with facilitators valuing remote supportive supervision over on-site visits](eenc-digital-training-positive-acceptability-fgd.md) — related
 - [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
 - [The proportion of providers achieving chest rise within one minute of birth was low in both arms at endline (10.0% intervention, 0.0% control), down from baseline](chest-rise-within-one-minute-low-both-arms-endline.md) — related
+- [After adjusting for age, endline knowledge and skills scores exceed baseline by large adjusted mean differences (AβC = 11.7 and 13.9 of 22)](adjusted-regression-pph-knowledge-skills-gains.md) — related

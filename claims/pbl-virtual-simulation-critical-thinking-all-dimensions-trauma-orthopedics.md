@@ -63,3 +63,4 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [SBAR combined with mini-CEX significantly improves clinical thinking ability, including critical, systematic and evidence-based thinking dimensions](sbar-minicex-clinical-thinking-improved.md) — related
 - [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](productive-failure-debriefing-improves-critical-thinking.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related
+- [The “One Case to the End” model based on BOPPPS raises nursing students' critical thinking across all seven CTS dimensions](one-case-boppps-raises-critical-thinking.md) — possibly the same claim (merge candidate)

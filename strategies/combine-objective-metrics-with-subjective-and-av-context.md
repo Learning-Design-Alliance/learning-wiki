@@ -56,6 +56,7 @@ The review recommends that future studies pair digital metrics with concurrent v
 - [Use performance thresholds that meaningfully measure surgeon performance alongside standardized terminology when assessing surgical learning curves](meaningful-thresholds-standardized-terminology-learning-curves.md)
 - [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
 - [Combine subjective scores, simulator metrics and EEG-based cognitive-load measures for multi-perspective skill assessment](multi-perspective-surgical-skill-assessment-strategy.md)
+- [Test surgical simulators with novices and track learning-curve metrics before clinical translation](novice-testing-learning-curve-metrics-strategy.md)
 
 ## Examples
 -

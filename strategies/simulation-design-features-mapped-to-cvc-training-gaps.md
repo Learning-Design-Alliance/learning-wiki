@@ -53,6 +53,7 @@ Building on participants' perspectives, the article's Table 1 pairs each identif
 
 - [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
+- [Use scale results to give GPs individualised feedback reports and design targeted continuing education on identified competency gaps](gp-depression-scale-feedback-driven-continuing-education-strategy.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Prospective single-cohort questionnaire study of a three-day cadaver course; pos
 
 ## Related Claims
 - [Cadaveric hands-on training and expert guidance were indicated as the most valued aspects of the course](cadaver-hands-on-training-most-valued-aspect.md) — related
+- [59% of students reported the courses exceeded or greatly exceeded their expectations, while only 4% reported expectations were not met](el-courses-exceeded-student-expectations.md) — related

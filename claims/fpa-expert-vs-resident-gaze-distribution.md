@@ -48,3 +48,4 @@ Percentage of cumulative fixation time per AOI across the two sessions, shown in
 - [The expert leader established eye contact with team members more frequently during direct orders](fpa-expert-eye-contact-during-direct-orders.md) — related
 - [Both leaders spent approximately 80% of scenario time fixating on predefined relevant areas](fpa-leaders-80-percent-fixation-relevant-areas.md) — related
 - [Gaze-overlay review during debriefing revealed residents' failures to verify critical information, indicating projection and comprehension failures](gaze-overlay-debriefing-reveals-sa-failures.md) — related
+- [Experts show fewer and longer fixations than residents during ECG interpretation, indicating more targeted visual search](experts-fewer-longer-fixations-ecg.md) — related

@@ -55,3 +55,4 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
 - [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related
 - [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related
+- [Residents report satisfaction above 4 points across all eight evaluated aspects of peer-assisted learning under the LSPPDM mode](high-satisfaction-pal-lsppdm-residents.md) — possibly the same claim (merge candidate)

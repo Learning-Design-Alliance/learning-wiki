@@ -66,3 +66,4 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - [Exploratory factor analysis with 350 ICU nurses identified a three-factor structure (AECR, PCER, ROPR) explaining 57.34% of variance, with all 19 items loading strongly (0.633–0.853) and no substantial cross-loadings.](crcdc-efa-three-factor-structure.md) — related
 - [Item refinement reduced the scale from 45 to 36 items through NGT and pilot testing](hspncs-item-refinement-process.md) — related
 - [Exploratory factor analysis of the gamified test yields a 2-factor solution matching the cognitive-abilities versus personality-characteristics distinction, with conformity loading on neither factor](gba-two-factor-structure-cognitive-personality.md) — related
+- [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related

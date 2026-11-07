@@ -52,3 +52,5 @@ Quasi-experimental waitlist-controlled study of 32 German teachers (intervention
 - [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
 - [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](mbsr-improves-self-regulation-competences.md) — related
 - [MBSR training produces large between-group increases in teachers' trait mindfulness at post-test and 3-month follow-up](mbsr-large-mindfulness-gains-teachers.md) — possibly the same claim (merge candidate)
+- [The CBT-MBSR program significantly increased mindfulness among TVET students relative to waitlist control, continuing to rise at follow-up](cbt-mbsr-increased-mindfulness-tvet.md) — related
+- [A 14-week CBT-MBSR program substantially reduced academic test anxiety among TVET students compared with a waitlist control, with effects sustained at two-month follow-up](cbt-mbsr-reduced-test-anxiety-tvet-rct.md) — a narrower finding that bears on this claim

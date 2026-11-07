@@ -56,3 +56,4 @@ The review reports, citing Hausmann et al. (2007), an experimental study finding
 - [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](underrepresented-students-fewer-belonging-affordances.md) — related
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
 - [Racism in public schools drives African American families toward homeschooling](racism-drives-african-american-homeschooling.md) — related
+- [Peer-to-peer meetings between hybrid and on-campus students and twice-monthly on-campus days fostered students' sense of integration and inclusion](peer-to-peer-meetings-foster-integration.md) — related

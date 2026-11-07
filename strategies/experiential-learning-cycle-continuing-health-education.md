@@ -44,7 +44,8 @@ The article recommends structuring continuing health education around Kolb's fou
 - [The e-learning platform mapped onto the four stages of the Kolb experiential learning cycle within a blended learning design](../claims/kolb-cycle-blended-elearning-mapping.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design medication safety continuing education around career-stage needs, self-reflection, communication training, and RCA practice](career-stage-medication-safety-education-strategy.md)
 
 ## Examples
 -

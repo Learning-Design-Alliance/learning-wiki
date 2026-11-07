@@ -94,3 +94,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Learning with 3D anatomy materials on a glasses-free 3D display does not significantly improve mean understanding of spatial arrangement compared with a 2D display](glasses-free-3d-display-no-mean-gain-advantage.md) — related
 - [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related
 - [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
+- [Mean performance scores showed no statistically significant difference between virtual and in-person assessment formats in a small comparison of students who completed both](virtual-equivalent-in-person-spanish-assessment.md) — related

@@ -66,3 +66,4 @@ Participants were asked to report adverse events and near-miss cases associated 
 ## Related Claims
 - [A tailored three-month POCUS program brought office-based GPs to 68.9%–82.3% of maximum OSAUS score across 10 applications at program end](gp-osaus-competence-post-course-tailored-program.md) — related
 - [Younger GPs and those with prior POCUS experience tended to score higher, while no clear relationship was found between number of performed scans and competence](osaus-scores-age-prior-experience-not-scan-count.md) — related
+- [Hybrid POCUS certification program participants' self-reported confidence improved significantly from pre-program to post-program](pocus-confidence-improved-hybrid-certification.md) — related

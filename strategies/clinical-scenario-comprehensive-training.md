@@ -49,6 +49,7 @@ The article recommends that Chinese dental specialty teaching adopt "clinical sc
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 - [Use combined training modules integrating extracted teeth, artificial/simulative teeth, and phantom bodies in endodontic preclinical curricula](combined-endodontic-training-modules-strategy.md)
+- [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 
 ## Examples
 -

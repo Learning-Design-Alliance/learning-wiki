@@ -52,3 +52,4 @@ Exploratory factor analysis with Promax rotation on intern competency scores (Ka
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — related
+- [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related

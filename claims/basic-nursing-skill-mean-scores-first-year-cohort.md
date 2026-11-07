@@ -47,3 +47,4 @@ Descriptive statistics from the cross-sectional study (N = 123) reporting checkl
 
 ## Related Claims
 - [Fine motor hand-function subtests correlate positively, though weakly, with specific basic nursing skills (nasogastric drug administration, blood collection, sterile glove wearing, subcutaneous injection) in first-year nursing students](hand-function-correlates-specific-nursing-skills-first-year.md) — related
+- [Competence performance decreases across later admission years, with admission year an independent predictor (β = −0.237)](admission-year-negative-competence-trend.md) — related

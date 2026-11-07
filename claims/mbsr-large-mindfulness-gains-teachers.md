@@ -49,3 +49,4 @@ Quasi-experimental waitlist-controlled study of 32 German teachers (intervention
 - [MBSR training significantly increases trait mindfulness (mindful presence and acceptance) in teachers versus waitlist control](mbsr-increases-teacher-trait-mindfulness.md) — possibly the same claim (merge candidate)
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — related
 - [Changes in mindfulness at post-test fully mediate training effects on most self-regulation outcomes at 3-month follow-up](mindfulness-mediation-selfregulation-followup.md) — related
+- [The CBT-MBSR program significantly increased mindfulness among TVET students relative to waitlist control, continuing to rise at follow-up](cbt-mbsr-increased-mindfulness-tvet.md) — related

@@ -91,3 +91,4 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges](har-outperforms-llm-judge-acceptance-alignment.md) — related
 - [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — related
 - [Ranking and pairwise comparison reduce graders' cognitive load relative to numeric scoring, with limits when submissions are similar or numerous](ranking-reduces-grader-cognitive-load.md) — related
+- [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related

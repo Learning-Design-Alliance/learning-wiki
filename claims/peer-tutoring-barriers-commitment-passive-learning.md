@@ -69,3 +69,4 @@ Lack of punctuality and commitment subtheme from tutor interviews; the tutor als
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — related
 - [Peer tutoring enhanced tutees' understanding of complex subjects, exam performance and study strategies in a UAE undergraduate nursing program](peer-tutoring-tutee-academic-gains-nursing-uae.md) — related
+- [Most first-year medical student participants in the Academic Tutoring programme reported changing their study habits, including adopting active strategies and abandoning passive ones](at-programme-reported-study-habit-changes.md) — related

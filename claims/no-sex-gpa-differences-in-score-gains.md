@@ -53,3 +53,4 @@ Secondary analyses using the Mann-Whitney U test (sex) and Kruskal-Wallis test (
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
 - [In one uncontrolled pre-post study, dental interns' overall competency scores for common orofacial conditions rose from 78% to 91% after a one-hour interactive online lecture and remained 8.5% above baseline at two months](one-hour-lecture-raises-intern-orofacial-competency.md) — related
 - [No significant difference was found in the occurrence of sharp object injuries between male and female dental students](no-sex-difference-sharp-object-injuries.md) — related
+- [Lower-GPA ('Satisfactory') students performed worse in the live lecture setting, with trends favoring flipped formats for lower-GPA subgroups](satisfactory-gpa-students-worse-live-lecture.md) — related

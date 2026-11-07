@@ -50,3 +50,4 @@ Time-based-effects theme from the two-round focus groups: entering students expr
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — related
 - [Remote flipped classrooms give pharmacy students time flexibility to engage with recorded lectures and revisit content at their convenience](remote-flipped-flexibility-recorded-lectures.md) — related
 - [Students reported usability and technological limitations including headaches, visual fatigue, gesture misinterpretation and restricted field of view](hololens-usability-limitations-cybersickness-gestures.md) — related
+- [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](hybrid-student-social-isolation.md) — related

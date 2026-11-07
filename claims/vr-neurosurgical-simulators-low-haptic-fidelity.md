@@ -80,3 +80,4 @@ Sub-group analysis of Alaraj et al.'s ITACS immersive VR aneurysm-clipping simul
 - [Tactile feedback is the simulator's primary area for improvement, with gingival detachment realism rated lowest (mean 3.17)](tactile-feedback-primary-limitation-lowest-rated.md) — a narrower finding that bears on this claim
 - [Most fellows rate VRFF-SSTS helpful and support its integration into residency programs, but rate its haptic feedback inferior to the sawbone model](fellows-rate-vrff-ssts-helpful-haptics-inferior.md) — related
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
+- [The authors attribute the model's benefit to tactile and visual feedback that promotes active learning](tactile-visual-feedback-active-learning-interpretation.md) — related

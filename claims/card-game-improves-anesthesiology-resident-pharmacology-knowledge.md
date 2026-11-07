@@ -161,3 +161,4 @@ This was a single-group, cross-sectional observational pilot (19 residents) with
 - [Inhibition performance improved significantly from pretest to posttest within the situational training game condition](situational-games-within-group-inhibition-gain.md) — related
 - [Card game responses are equitable across most awarding-gap factors, with mixed POLAR4 findings](card-games-equitable-across-awarding-gap-factors.md) — related
 - [Medical students who played weekly open-access pharmacology games showed significant pretest-to-posttest score improvement, while control students did not](pharmacology-games-significant-posttest-gain.md) — related
+- [Card-selection accuracy rose across three test sessions among surgical technologist students who played the 5CardsGame, in one single-group pre-post study with no comparison group](5cardsgame-score-increase-three-tests.md) — a narrower finding that bears on this claim

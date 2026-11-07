@@ -54,3 +54,4 @@ Descriptive gender comparison of usage and performance metrics from the applicat
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](male-outperform-female-tblt-vocabulary.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
+- [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — related

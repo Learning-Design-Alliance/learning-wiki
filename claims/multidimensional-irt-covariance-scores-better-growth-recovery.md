@@ -62,3 +62,4 @@ A series of simulation and empirical studies compared growth parameter recovery 
 - [Meaningful longitudinal linking depends on the construct not changing across measurement occasions](construct-stability-assumption-longitudinal-linking.md) — related
 - [Little of the existing IRT scaling and linking expertise from large-scale educational assessment is applied to scaling psychological and social-emotional survey constructs](scaling-expertise-gap-sel-constructs.md) — related
 - [Summing all test scores into one general-intelligence rating manufactures the appearance of a general factor](score-summing-manufactures-general-factor.md) — related
+- [A small set of latent factors (3–4) predicts individual error patterns far better than graph-type or question-type decompositions](latent-factors-outperform-design-categories.md) — related

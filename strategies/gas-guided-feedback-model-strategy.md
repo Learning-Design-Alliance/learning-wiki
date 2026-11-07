@@ -48,6 +48,7 @@ A structured post-simulation feedback recipe recommended by the Best Practice St
 ## Related Strategies
 
 - [Debriefing](debriefing.md)
+- [Use the GAS (Gather, Analyze, Summarize) structured debriefing model after simulated emergency scenarios](gas-structured-debriefing-model.md)
 
 ## Examples
 -

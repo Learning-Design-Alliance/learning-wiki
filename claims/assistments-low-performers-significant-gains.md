@@ -64,3 +64,4 @@ Subgroup analysis of the quasi-experimental study's 1,626 low-performing student
 - [Interaction between group assignment and baseline scores is not statistically significant, though high-baseline students show a trend of larger gains](baseline-heterogeneity-nonsignificant-interaction-trend.md) — related
 - [Lower-baseline students show larger OSCE gains after AISP practice, narrowing the performance gap](aisp-cortex-catch-up-effect-low-performers.md) — related
 - [The CRI-HT gain difference between baseline subgroups is not statistically significant](aisp-cri-ht-subgroup-gain-not-significant.md) — related
+- [Lower-GPA ('Satisfactory') students performed worse in the live lecture setting, with trends favoring flipped formats for lower-GPA subgroups](satisfactory-gpa-students-worse-live-lecture.md) — related

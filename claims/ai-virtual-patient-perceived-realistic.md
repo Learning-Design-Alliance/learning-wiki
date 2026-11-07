@@ -55,3 +55,4 @@ Descriptive perception-of-AI-performance results from questionnaire 2 (Table 5).
 - [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](llm-cooperates-with-trainer-but-breaks-instructions.md) — related
 - [Among 20 undergraduates, 95% agreed LLM-generated cases enriched learning resources and 80% reported improved interdisciplinary integration and learning efficiency](student-perceptions-llm-cases-benefits.md) — related
 - [Conversation length with virtual patients increased significantly after VITAL-COMS training in both scenarios](vital-coms-conversation-length-increase.md) — related
+- [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related

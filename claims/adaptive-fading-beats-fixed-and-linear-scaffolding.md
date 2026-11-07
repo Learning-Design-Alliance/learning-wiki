@@ -59,3 +59,4 @@ Scaffolding strategy effectiveness analysis comparing Fixed High (constant σt =
 - [Adaptive fading adjusted to discourse quality is reported as more effective than fixed fading regimes for developing internal script components, but long-term evidence is lacking](adaptive-fading-beats-fixed-regimes-short-term.md) — related
 - [Self-selected scaffolding customization yields higher effects than fixed time interval and performance-adapted customization](self-selected-customization-highest-effect.md) — related
 - [Spaced simulation reinforcement showed selective benefits: some psychomotor measures improved while written knowledge and time to shock did not](spaced-simulation-reinforcement-selective-benefits.md) — a narrower finding that bears on this claim
+- [Acquired ultrasound skills decay without repeated practice, supporting longitudinal curricula and periodic re-assessment](ultrasound-skill-decay-longitudinal-curriculum.md) — related

@@ -53,3 +53,4 @@ Randomized controlled pre-test/post-test study with 55 engineering students (28 
 - [Training with tablet-delivered graduated prompts increased grade-2 children's series completion accuracy more than control practice](graduated-prompts-tablet-training-accuracy.md) — related
 - [Graduated prompts training also increased the number of transformations children applied correctly, indicating progression in task-solving strategies](graduated-prompts-training-transformations.md) — related
 - [The experimental group's gains were not sustained: at post-test 2 its problem recognition was lower than both the control group and its own post-test 1, and problem-solving showed no significant change](intervention-effect-not-sustained-without-continued-implementation.md) — related
+- [Handwashing knowledge scores increased more in the video group over time, though the group-by-time interaction was not significant](handwashing-knowledge-gain-video-group.md) — related

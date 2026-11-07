@@ -74,3 +74,4 @@ Same 2-day course (103 participants): accuracy of posterior and anterior leaflet
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related
 - [Better mean performance in the Basic module is associated with shorter suturing time and a higher final Suture Score](basic-module-score-predicts-suturing-proficiency.md) — related
 - [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related
+- [All medical students significantly improved endoscopic forceps time-trial performance from the first to the second half of two-week dry laboratory training](all-students-improved-forceps-skills-repeated-practice.md) — related

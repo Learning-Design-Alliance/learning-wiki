@@ -52,3 +52,4 @@ Content analysis of focus group interviews (26 participants), 57 reflective jour
 - [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — related
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
+- [Standardised scoring tools (ABCDE, NEWS, ISBAR) created a common language that participants experienced as strengthening clinical communication and confidence across service levels](standardised-language-scoring-tools-communication.md) — related

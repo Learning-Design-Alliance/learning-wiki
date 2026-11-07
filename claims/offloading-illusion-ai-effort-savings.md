@@ -58,3 +58,4 @@ Study 2 completion/prediction samples measured subjective mental effort with the
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](thinking-aversion-predicts-speedup-illusion.md) — related
 - [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — related
 - [The heuristic feasibility estimation used during planning can produce false negatives by overestimating displacement time](heuristic-feasibility-false-negatives.md) — related
+- [81% of students accurately report their self-testing; high-completion non-reporters underperform equally-completing accurate reporters](self-testing-report-accuracy-and-performance.md) — related

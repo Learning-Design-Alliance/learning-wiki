@@ -65,3 +65,4 @@ Review synthesis of implementation issues across the 13 included studies. The re
 - [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related
 - [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related
 - [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](social-robotic-vp-technical-and-user-related-limitations.md) — a narrower finding that bears on this claim
+- [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related

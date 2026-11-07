@@ -73,3 +73,4 @@ Total Simulation Design Scale score comparison in the same study (intervention n
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related
 - [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — reports the opposite
+- [Nursing students rate support, objectives and information, and fidelity as the highest-rated simulation design dimensions](jordan-students-rate-support-objectives-fidelity-highest-sds.md) — related

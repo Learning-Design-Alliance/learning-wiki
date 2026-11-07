@@ -47,6 +47,7 @@ Because regulation of cognition developed more slowly than knowledge under exper
 - [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
 - [Teach conflict resolution experientially over an extended period with opportunities to practice skills](extended-experiential-conflict-training-strategy.md)
 - [Professional development on WCF should be practical, context-sensitive training rather than theoretical lectures](context-sensitive-wcf-teacher-development.md)
+- [Extend self-practice time and delay testing to strengthen AI-guided ultrasound training research](extended-self-practice-and-delayed-testing-for-ai-ultrasound-training.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ Because "the high cost of LTM equipment limits scalability in low-income areas",
 - [Address resource constraints and design quality when implementing virtual laboratories in low- and middle-income contexts](virtual-lab-implementation-resource-constrained-contexts.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
+- [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 
 ## Examples
 -

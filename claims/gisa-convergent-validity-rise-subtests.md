@@ -51,3 +51,4 @@ Validity evidence reported by Sabatini et al. (2014) and cited in this abstract'
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
 - [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related
+- [Scores on the GGR and VLAT data visualization literacy assessments are moderately correlated (ρ = 0.56)](vlat-ggr-moderate-score-correlation.md) — related

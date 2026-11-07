@@ -50,3 +50,4 @@ Thematic analysis of reflective essays from all 29 participants using NVivo 14, 
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
+- [New dental-specific themes include practical guidance, a safe training environment, resident–patient relationships, career education and comprehensive treatment planning](new-dental-specific-teacher-themes.md) — related

@@ -75,3 +75,4 @@ Difficulty-range classification against thresholds P≤.25, .25<P<.75, and P≥.
 - [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related
 - [AI-generated X-type questions were easier than human-designed X-type questions (difficulty 0.77 vs. 0.62)](ai-x-type-questions-easier.md) — related
 - [Item difficulty and discrimination indices do not differ significantly by school of origin in a Brazilian cross-institutional progress test](no-psychometric-index-differences-by-item-origin-school.md) — related
+- [AI-generated questions showed significantly lower discrimination indices than traditional board examination questions despite similar difficulty](ai-exam-lower-discrimination.md) — related

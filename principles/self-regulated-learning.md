@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 187 claims (79 for, 97 mixed, 11 against) · 127 studies (45 causal, 25 review, 21 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 127 report an effect size · 176 claims rest on one study
+> **Evidence** · 188 claims (80 for, 97 mixed, 11 against) · 128 studies (45 causal, 25 review, 22 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 128 report an effect size · 177 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](../claims/metacognitive-instruction-increases-monitoring-assessment-not-planning.md) [~W] — attached 2026-11-03 from Habibian (2015), which proposed "Three-phase metacognitive knowledge framework for strategy instruction design"; tests this page's relationship.
 - [Frequency and intensity dimensions show no significant adjusted association with GPA, unlike regulatory difficulty](../claims/frequency-intensity-no-significant-gpa-association.md) [~W] — attached 2026-11-04 from Dong Minghua et al. (2026), which proposed "Focus on digital self-regulation rather than exposure duration alone in research and educational practice".
 - [Self-assessment and expert evaluation scores correlate strongly on a suture exercise](../claims/sa-ee-strong-correlation-suture.md) [+W] — attached 2026-11-04 from Riquin Élise et al. (2026), which proposed "Introduce formative self-assessment grids during medical studies to calibrate perceived technical skill".
+- [Study time and study strategies interactively predict daily goal achievement: on days with better planning, monitoring and concentration and less procrastination, less time is needed to reach a high goal level](../claims/study-strategies-compensate-study-time-goal-achievement.md) [+W] — attached 2026-11-07 from Theobald (2025), which proposed "Teach students effective study strategies to promote goal achievement in less time and counteract negative affect".
 
 ## Objective and learner-valued goal
 

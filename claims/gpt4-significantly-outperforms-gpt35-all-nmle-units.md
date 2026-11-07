@@ -66,3 +66,4 @@ Unit-level chi-square tests on each unit's questions; GPT-3.5's relative advanta
 ## Related Claims
 - [GPT-4 and DeepSeek performed comparably on the NMLE, and both far exceeded GPT-3.5](gpt4-and-deepseek-comparable-both-beat-gpt35.md) — a broader claim this one bears on
 - [GPT-4 performed comparably to average human NMLE examinees, DeepSeek slightly exceeded them, and no tested LLM reached the top-10% human threshold](llm-nmle-performance-versus-human-examinees.md) — related
+- [GPT-4o achieves significantly higher overall accuracy than GPT-4 and GPT-3.5 on the 2020 and 2021 Chinese NMLE](gpt4o-highest-accuracy-chinese-nmle.md) — related

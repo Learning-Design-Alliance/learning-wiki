@@ -56,3 +56,4 @@ Prospective randomized controlled trial; 121 fourth-year medical students random
 - [Mentored simulation training with a 3D-printed coronary simulator produced higher procedural efficacy scores than conventional video training in final-year medical students](simulation-training-higher-ica-efficacy-score.md) — related
 - [SOM-PBL produces no significant improvement in procedural skills compared with traditional teaching](som-pbl-no-procedural-skills-gain.md) — related
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
+- [Quiz scores did not significantly change from before to after video review in the traditional teaching group](video-review-no-significant-further-gain.md) — related

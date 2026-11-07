@@ -98,6 +98,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 - [Institutions should actively disseminate exemplar prompts and provide secure platforms, faculty development, and quality-assurance mechanisms](institutional-responsibilities-genai-item-writing.md)
 - [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
+- [Design hybrid learning models that integrate LLMs with critical reflection, and establish secondary validation mechanisms for AI-driven clinical decisions](hybrid-llm-learning-secondary-validation-strategy.md)
 
 ## Examples
 -

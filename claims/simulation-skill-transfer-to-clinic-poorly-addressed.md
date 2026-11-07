@@ -69,3 +69,4 @@ Table 2 records, for study after study, "No follow-up cohort" or "No follow-up,"
 - [Simulation dominates the literature on obstetric emergency knowledge-building, but evidence for sustained behaviour change and clinical impact remains limited](simulation-dominates-oe-training-limited-clinical-impact.md) — related
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — reports the opposite
 - [Simulator-based training was more effective than traditional training at improving obstetric ultrasound performance, with large ANCOVA effect sizes](simulator-training-outperforms-traditional-training-obstetric-ultrasound.md) — related
+- [Acquired ultrasound skills decay without repeated practice, supporting longitudinal curricula and periodic re-assessment](ultrasound-skill-decay-longitudinal-curriculum.md) — related

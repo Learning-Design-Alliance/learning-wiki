@@ -74,3 +74,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — related
 - [The HIS-based BOPPPS teaching model group scored significantly higher than the traditional teaching group on case reading and total end-of-term exam scores in both semesters](boppps-his-higher-case-reading-total-scores.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
+- [The “One Case to the End” model based on BOPPPS raises pediatric nursing students' academic performance compared with traditional teaching](one-case-boppps-improves-academic-performance.md) — related

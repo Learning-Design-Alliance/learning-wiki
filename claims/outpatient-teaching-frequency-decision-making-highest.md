@@ -47,3 +47,4 @@ Cross-sectional questionnaire of 4,662 Japanese residents taking the 2022 GM-ITE
 ## Related Claims
 - [Receiving teaching during the decision-making stage is associated with higher GM-ITE clinical scores among residents](decision-making-teaching-higher-gm-ite-scores.md) — related
 - [Residents rate outpatient teaching as useful at every training stage, with the highest perceived usefulness during the decision-making stage](teaching-usefulness-high-all-stages-highest-decision-making.md) — related
+- [Japanese CTDRs' perceptions of good clinical teachers yield 376 statements across 44 themes, with 'Provides advice at the level of CTDRs' most frequently mentioned](ctdr-good-clinical-teacher-44-themes.md) — related

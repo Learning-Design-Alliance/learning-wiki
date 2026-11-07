@@ -66,3 +66,4 @@ Exploratory ANOVA of the pupillary response to seeing the correct answer (0.5–
 ## Related Claims
 - [Higher curiosity is associated with larger pupil dilation during anticipation of the correct answer](curiosity-pupil-dilation-anticipation.md) — related
 - [Generating a prediction before seeing the answer leads more facts to receive high-curiosity ratings than generating a relevant example](prediction-condition-more-high-curiosity-facts.md) — related
+- [Experts show lower pupil dilation changes than residents during ECG interpretation, indicating lower cognitive load](experts-lower-pupil-dilation-cognitive-load.md) — related

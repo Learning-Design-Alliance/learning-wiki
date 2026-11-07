@@ -62,3 +62,4 @@ Inductive coding of free-text postsimulation responses from the 62-participant c
 - [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related
 - [The eCPR simulation was well received, with positive postsimulation feedback from all respondents](ecpr-simulation-positive-reception.md) — related
 - [Trainees rated the training highly, with 69% perceiving the simulation scenarios and debrief as the most useful aspects and the resuscitation scenario particularly valued](trainees-value-simulation-debrief-most.md) — related
+- [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related

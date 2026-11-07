@@ -51,3 +51,4 @@ Independent-samples t-tests in the same randomized trial (40 nursing students) c
 - [Video-assisted teaching added to traditional instruction produces higher ROM exercise practice skill scores in first-year nursing students one week after training](video-assisted-teaching-higher-rom-practice-skill-scores.md) — related
 - [Video-assisted teaching does not significantly reduce nursing students' state anxiety before ROM practice compared with traditional teaching alone](video-assisted-teaching-no-anxiety-difference-rom.md) — related
 - [Immediately after zone 1 training, competence did not differ significantly between groups despite 100% vs 84% competence](zone0-iv-cpr-competence-immediate-nonsignificant.md) — related
+- [Video-assisted teaching and skill demonstration produce equivalent post-test knowledge of surgical aseptic technique in first-year nursing students](video-vs-demonstration-equivalent-aseptic-knowledge.md) — related

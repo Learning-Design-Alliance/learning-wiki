@@ -96,3 +96,4 @@ The article reports eye-tracking research (Wolff et al. 2016) showing novices' s
 - [Comparing novice and expert activation signatures can guide optimisation of an intervention](novice-expert-signature-optimisation.md) — related
 - [Expert evaluation supported the VR classroom's vividness and the expert validity of the classroom events' likely interpretations](ivr-pvas-expert-evaluation-vividness-validity.md) — related
 - [Video-based evaluation changed teacher self-reports and retention but did not improve student achievement](video-evaluation-no-student-achievement-gain.md) — related
+- [Experts show fewer and longer fixations than residents during ECG interpretation, indicating more targeted visual search](experts-fewer-longer-fixations-ecg.md) — related

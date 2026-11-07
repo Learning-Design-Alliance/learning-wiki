@@ -49,3 +49,4 @@ Linear mixed-effects model on the randomized trial's repeated scoring-accuracy m
 - [Online and offline FMA-LE training produce no significant difference in scoring accuracy among novice physical therapy students](online-offline-fma-le-scoring-no-difference.md) — related
 - [Scoring accuracy reaches its peak by the third practice session, with no further significant gains afterward](third-practice-session-learning-threshold.md) — related
 - [Online FMA-LE training is limited by unverifiable engagement and unequal lecture-review access, and results do not generalize beyond video-based scoring](online-fma-training-limitations-video-only.md) — related
+- [Scores rose from first to second session and from second to third session in one uncontrolled pre-post study; first-to-second d = 0.89 and second-to-third d = 1.07](5cardsgame-score-effect-sizes.md) — related

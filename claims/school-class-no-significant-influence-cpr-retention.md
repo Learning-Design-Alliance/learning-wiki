@@ -48,3 +48,4 @@ ANOVA on 966 observations found F-cal .29 vs F-crit 6.67 (P = .188), leading to 
 - [Age does not significantly influence CPR skills retention in secondary school students](age-no-significant-influence-cpr-retention.md) — related
 - [Gender does not significantly influence CPR skills retention in secondary school students](gender-no-significant-influence-cpr-retention.md) — related
 - [Nigerian secondary school students retain statistically significant CPR skills six weeks after conventional CPR training](nigerian-secondary-students-retain-cpr-skills-six-weeks.md) — related
+- [Regression analysis found intervention type, education level, and resuscitation observation significantly influenced knowledge, and education type, education level, age, and gender influenced CPR performance skills](regression-predictors-of-cpr-knowledge-and-performance.md) — related

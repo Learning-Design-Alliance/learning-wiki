@@ -48,6 +48,7 @@ The review recommends identifying the eight competencies as the foundation for p
 ## Related Strategies
 
 - [Strengthen core microteaching competencies — structured teaching, learner engagement, reflection, feedback, and role modelling — through faculty development](faculty-development-microteaching-competencies.md)
+- [Use CTDR-derived teacher characteristics to develop faculty development programs and evaluation criteria for supervising dentists](fd-programs-from-ctdr-teacher-characteristics.md)
 
 ## Examples
 -
