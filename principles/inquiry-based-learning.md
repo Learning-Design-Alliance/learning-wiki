@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (55 for, 34 mixed, 10 against) · 99 studies (39 causal, 20 quant-synthesis, 12 review, 10 theoretical, 7 qualitative, 7 design, 4 associational), `q1`–`q4` · 25 of 99 report an effect size · 85 claims rest on one study
+> **Evidence** · 99 claims (55 for, 34 mixed, 10 against) · 100 studies (39 causal, 20 quant-synthesis, 12 review, 11 theoretical, 7 qualitative, 7 design, 4 associational), `q1`–`q4` · 26 of 100 report an effect size · 85 claims rest on one study
 
 ## Conditional relationship
 

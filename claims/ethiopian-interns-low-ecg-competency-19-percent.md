@@ -52,3 +52,4 @@ Cross-sectional survey of 220 interns at four randomly selected Ethiopian medica
 - [Interns with emergency department rotations during clinical years have significantly higher odds of ECG competency (AOR = 3.87)](ed-rotation-clinical-years-predicts-ecg-competency.md) — related
 - [High self-reported confidence in ECG interpretation strongly predicts actual competency (AOR up to 9.10)](self-confidence-predicts-ecg-competency.md) — related
 - [Emergency department rotations during internship are independently associated with ECG competency (AOR = 4.07)](ed-rotation-internship-predicts-ecg-competency.md) — related
+- [French medical students report low confidence in ECG interpretation, especially in emergency situations, and low satisfaction with current ECG teaching](low-confidence-ecg-interpretation-medical-students.md) — related

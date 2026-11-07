@@ -74,3 +74,5 @@ Participant quote framing simulation as practice for adapting communication appr
 - [Faculty and students view simulation as a valuable structured, risk-free precursor to real patient encounters that cannot fully replace bedside learning](simulation-valued-but-insufficient-lmic-clinical-skills.md) — related
 - [Clinical instructors perceive SBE role-play as mitigating language barriers when teaching international students from non-English-speaking countries](sbe-language-barrier-mitigation.md) — related
 - [Cases based on or aligned with real patient cases increased student engagement through authenticity](real-patient-case-authenticity-engagement.md) — related
+- [Students emphasise feedback after simulations as crucial, with feedback from professional actors offering the patient's viewpoint especially valued](actor-simulation-feedback-crucial.md) — related
+- [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — related

@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: active-learning-improves-exam-performance
-aliases: [active-learning-raises-stem-exam-performance-047-sd, active-engagement-higher-learning-gains-than-lecture]
+aliases: [active-learning-raises-stem-exam-performance-047-sd, active-engagement-higher-learning-gains-than-lecture, active-learning-stem-freeman-meta-analysis-gains]
 evidence_strength:
 newest_evidence: 2026
 sources:
@@ -36,13 +36,21 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 2
+  - id: lebert-2024
+    resource: "https://doi.org/10.1111/nyas.15238"
+    title: "Lebert, A., & Vilarroya, Ó. (2024). The links between experiential learning and 4E cognition. Ann NY Acad Sci, 1541, 37–52. https://doi.org/10.1111/nyas.15238"
+    author: "Lebert, A., & Vilarroya, Ó"
+    q: 2
+    i: 2
+    kind: theoretical
+    rigour: 2
 ---
 
 # Active Learning Improves Exam Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 quant-synthesis `r2`–`r3`, 1 theoretical `r2` · `q2`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2026 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 4 studies · 2 quant-synthesis `r2`–`r3`, 2 theoretical `r2` · `q2`–`q4` · `i1`–`i2`
+> **Currency** · newest study 2026 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 Students taught through active-learning approaches (e.g., in-class problem-solving, discussion, peer instruction) tend to perform better on examinations than students taught through traditional lecture alone.
 
@@ -55,6 +63,10 @@ Students taught through active-learning approaches (e.g., in-class problem-solvi
 `q4 i2` Across 158 independent comparisons, student performance on identical or equivalent examinations, concept inventories, and other assessments increased by a weighted standardized mean difference of 0.47 under active learning versus lecturing. [→ Freeman S 2014](#freeman-et-al-2014)
 
 `q2 i?` Environments that proactively engage students show demonstratively higher learning gains than traditional one-way lecture environments, per the consensus study the article cites. [→ Finkelstein 2026](#finkelstein-2026)
+
+`q2 i2` The Freeman et al. meta-analysis of 225 studies found student performance on examinations and concept inventories increased by a printed effect size of 0.47 SD under active learning versus traditional lecturing, with about 6% higher average examination scores and traditional-lecture students 1.5 times more likely to fail. [→ Lebert 2024](#lebert-2024)
+
+`q2 i?` Effects appeared across all class sizes, with the greatest effects in small (n ≤ 50) classes. [→ Lebert 2024](#lebert-2024)
 
 ## Evidence
 
@@ -96,16 +108,27 @@ The article reports this as a summary of a recent National Academies consensus s
 
 > "Decades of evidence and foundational theories of learning note that learning is an active process (not the absorption of information), and environments that proactively engage students show demonstratively higher learning gains than our traditional, one-way, lecture environments."
 
+### Lebert 2024
+
+Lebert, A., & Vilarroya, Ó. (2024). The links between experiential learning and 4E cognition. Ann NY Acad Sci, 1541, 37–52. https://doi.org/10.1111/nyas.15238
+
+`q2 · i2` · `theoretical · r2`
+
+The article reports the 2014 Freeman et al. meta-analysis of 225 studies comparing undergraduate STEM courses under traditional lecturing versus active learning. It found a printed effect size of "increased by 0.47 SD under active learning" (medium) and failure likelihood 1.5 times higher under lecturing.
+
+> "The authors found that student performance on examinations and concept inventories increased by 0.47 SD under active learning. The results indicated that average examination scores were improved by about 6% in active learning sections, and that students in classes with traditional lecturing were 1.5 times more likely to fail than were students in classes with active learning."
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does replacing part of lecture with active learning raise exam scores and pass rates?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **12 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 associational, 1 review), `q2`–`q4`, 5 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does replacing part of lecture with active learning raise exam scores and pass rates?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **13 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 kind not coded, 1 associational, 1 review), `q2`–`q4`, 6 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Freeman et al. 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r2 | i2 · medium effect, 0.47 SD; i2; i? | this claim; [Students in traditional lecture STEM courses are 1.5 times more likely to fail than studen](lecturing-increases-stem-failure-rates.md) (supports); [The active-learning advantage is robust to publication bias and to variation in methodolog](active-learning-effect-robust-bias-and-rigor.md) (supports); [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) (supports) |
 | [Theobald et al. 2020](https://doi.org/10.1073/pnas.1916903117) | q3 · quant-synthesis · r3 | i1 · small effect, exam gap narrowed by 0.20 SD (−0.62 to −0.42) | this claim |
 | [Finkelstein 2026](https://doi.org/10.48550/arxiv.2510.01467) | q2 · theoretical · r2 | i? | this claim |
+| [Lebert 2024](https://doi.org/10.1111/nyas.15238) | q2 | i2 | this claim |
 | [Deslauriers L. 2019](https://doi.org/10.1073/pnas.1821936116) | q3 · causal · r3 | i? | [Students in active classrooms scored higher on tests of learning than students in passive ](active-learning-higher-test-scores-than-lecture.md) (supports) |
 | [Özgür Tutal 2026](https://doi.org/10.1038/s41598-026-50770-1) | q2 · causal · r1 | i3 | [Prospective teachers taught with CCCT outperformed a lecture-based control group on academ](ccct-outperformed-lecture-achievement.md) (supports) |
 | Julia B. Smith 2001 | q2 · associational · r2 | i? | [Interactive instruction is positively associated with one-year achievement gains in readin](interactive-instruction-positive-achievement-gains-chicago.md) (supports) |

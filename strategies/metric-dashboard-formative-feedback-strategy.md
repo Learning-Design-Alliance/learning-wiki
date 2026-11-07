@@ -47,6 +47,7 @@ The article recommends referencing dashboards that display individual data on ma
 ## Related Strategies
 
 - [Learning Dashboards](learning-dashboards.md)
+- [Use objective process metrics such as motion smoothness and bimanual dexterity to identify specific areas for skill development](process-metrics-identify-skill-development-areas.md)
 
 ## Examples
 -

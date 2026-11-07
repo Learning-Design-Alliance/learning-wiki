@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: wang-yujia-2026
     resource: "https://doi.org/10.1186/s12909-026-08714-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On five-point Likert-scale surveys, the experimental group gave more favorable ratings across self-reported learning enthusiasm, perceived comprehension, student-teacher interaction, satisfaction, and interest in nephrology, with significant differences indicated by the Mann-Whitney U test. [→ Wang Yujia 2026](#wang-yujia-2026)

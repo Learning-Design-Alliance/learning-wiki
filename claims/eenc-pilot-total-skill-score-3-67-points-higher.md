@@ -51,3 +51,4 @@ Intention-to-treat linear mixed effects analysis of the pilot cluster-randomised
 - [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
 - [The proportion of providers achieving chest rise within one minute of birth was low in both arms at endline (10.0% intervention, 0.0% control), down from baseline](chest-rise-within-one-minute-low-both-arms-endline.md) — related
 - [After adjusting for age, endline knowledge and skills scores exceed baseline by large adjusted mean differences (AβC = 11.7 and 13.9 of 22)](adjusted-regression-pph-knowledge-skills-gains.md) — related
+- [No conclusive difference in theoretical knowledge between face-to-face and remote students in a hybrid chest physiotherapy seminar](hybrid-no-conclusive-difference-theoretical-knowledge.md) — related

@@ -57,3 +57,5 @@ Internal-structure analysis of the first simulation round (33 participants, two 
 - [Internal consistency of ANTStr scores is high for both raters (Cronbach's alpha 0.83–0.94)](antstr-internal-consistency-cronbach-alpha.md) — related
 - [The five-scenario IC-MD achieves satisfactory inter-rater reliability (ICC = 0.627) and generalizability (Eρ² = 0.642), though participant × scenario variance exceeds participant variance](ic-md-reliability-generalizability.md) — related
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
+- [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
+- [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related

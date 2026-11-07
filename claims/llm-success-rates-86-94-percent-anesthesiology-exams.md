@@ -55,3 +55,4 @@ Computational comparative study of 437 MCQs (1748 queries) from IADE, EDAIC, and
 - [Proprietary LLM architectures showed consistently higher mean accuracy than open-source architectures on the EBHS examination, with GPT-5 Pro the leading model at 85% accuracy.](proprietary-llms-outperform-open-source-ebhs.md) — related
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [GPT-4 performed comparably to average human NMLE examinees, DeepSeek slightly exceeded them, and no tested LLM reached the top-10% human threshold](llm-nmle-performance-versus-human-examinees.md) — related
+- [GPT-4 exceeds Korean residents' passing criteria but falls below the >95% reliability threshold recommended for educational tools](gpt4-below-95-percent-educational-tool-threshold.md) — a narrower finding that bears on this claim

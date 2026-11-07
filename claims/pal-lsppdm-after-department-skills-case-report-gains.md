@@ -49,3 +49,4 @@ Half-year after-department examination comparison of the same two cohorts, repor
 - [Residents report satisfaction above 4 points across all eight evaluated aspects of peer-assisted learning under the LSPPDM mode](high-satisfaction-pal-lsppdm-residents.md) — related
 - [Peer mutual evaluation scores are significantly higher than teacher ratings of the same skill videos](peer-evaluation-scores-exceed-teacher-ratings.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
+- [LSPPDM group scored higher on the laparoscopic theoretical knowledge assessment](lsppdm-higher-theoretical-knowledge-scores.md) — related

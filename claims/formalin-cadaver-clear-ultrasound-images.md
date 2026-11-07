@@ -51,3 +51,4 @@ Observational imaging result shown in Fig. 1 panels B and C, depicting sonograph
 - [Participants overwhelmingly rated formalin-embalmed cadaver simulation training as useful preparation for performing ultrasound-guided procedures on patients](trainees-rate-cadaver-simulation-useful.md) — related
 - [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — related
 - [Higher instructor-rated global rating scale scores on several procedure categories were associated with participants rating the cadaver simulation training as more useful](grs-scores-linked-to-perceived-usefulness.md) — related
+- [Synthetic cysts in formalin-embalmed cadaver tissue produced clear, realistic ultrasound images with excellent needle visualization](cadaver-synthetic-cyst-ultrasound-image-quality.md) — related

@@ -55,6 +55,7 @@ The article's practical implications recommend that vocational instructors adopt
 - [Use virtual simulation resources to prepare students before high-risk or complex experiments](virtual-simulation-prelearning-before-complex-experiments.md)
 - [Recommend weekly blended MOOC-HFS sessions during internship training, prioritizing procedural topics such as corneal refractive surgery](weekly-blended-mooc-hfs-internship-frequency-strategy.md)
 - [Blend video-based instruction with hands-on skill demonstration in nursing skills education](blend-video-with-hands-on-demonstration.md)
+- [Use an animated training video demonstrating the guided-surgery workflow to prepare inexperienced operators before hands-on performance](animated-video-tutorial-novice-surgical-training.md)
 
 ## Examples
 -

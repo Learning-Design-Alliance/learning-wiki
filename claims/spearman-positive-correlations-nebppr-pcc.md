@@ -52,3 +52,4 @@ Spearman rank-order correlation analysis in the same cross-sectional survey (n =
 - [Students' Ethics and Professional Responsibility competence shows moderate correlations with patients' Assurance and Interpersonal Relationships](ethics-competence-moderate-correlations-patient-trust.md) — related
 - [Nursing students rate their overall competence slightly below the scale midpoint while patients rate the care received well below its midpoint, suggesting a perceptual gap](student-competence-patient-care-perceptual-gap.md) — related
 - [Total competence score correlates strongly with total care perception (r = 0.812), with Assurance and Interpersonal Relationships showing the strongest subscale correlations](total-competence-total-care-perception-correlation.md) — related
+- [PCC competence is strongly positively correlated with empathy among surgical nurses (r = 0.700)](pcc-competence-empathy-correlation.md) — related

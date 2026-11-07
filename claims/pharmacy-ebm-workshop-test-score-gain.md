@@ -54,3 +54,4 @@ Pre-post evaluation of a one-day multifaceted EBM workshop for pharmacy students
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — reports the opposite
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
+- [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](reversed-classroom-workshops-beat-lecture-ecg.md) — related

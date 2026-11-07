@@ -68,3 +68,5 @@ Structural model results from the 265-student sample comparing the two paths int
 ## Related Claims
 - [Learning engagement partially mediates the relationship between social support and academic performance](learning-engagement-partial-mediation-social-support-academic.md) — related
 - [Mathematics anxiety and learning engagement jointly exert a serial (chain) mediating role between teacher support and mathematics achievement.](serial-mediation-anxiety-engagement-teacher-support-achievement.md) — related
+- [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related
+- [General self-efficacy and learning engagement chain-mediate the effect of professional identity on academic achievement](chain-mediation-self-efficacy-learning-engagement-nursing.md) — related

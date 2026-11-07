@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 241 claims (164 show a difference, 47 mixed, 30 no difference) · 179 studies (57 causal, 43 review, 39 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 47 of 179 report an effect size · 234 claims rest on one study
+> **Evidence** · 243 claims (166 show a difference, 47 mixed, 30 no difference) · 181 studies (57 causal, 43 review, 41 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 49 of 181 report an effect size · 236 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -283,6 +283,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Inclusive education efficacy mediates the relationship between empathy and attitudes toward inclusive education](../claims/inclusive-efficacy-mediation-empathy-attitudes.md) [+M] — learners who differ on it differ in outcomes
 - [Pre-service teachers' empathy positively predicts their attitudes toward inclusive education](../claims/empathy-predicts-attitudes-inclusive-education.md) [+M] — learners who differ on it differ in outcomes
 - [Teaching motivation mediates the relationship between empathy and attitudes toward inclusive education](../claims/teaching-motivation-mediation-empathy-attitudes.md) [+M] — learners who differ on it differ in outcomes
+- [PCC competence is strongly positively correlated with empathy among surgical nurses (r = 0.700)](../claims/pcc-competence-empathy-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Resilience and work stress are significantly associated with competency, with interpersonal and communication skills showing the strongest associations](../claims/stress-resilience-competency-correlations-ics-strongest.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

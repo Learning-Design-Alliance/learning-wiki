@@ -51,3 +51,4 @@ Summative content analysis of an open-ended questionnaire question answered afte
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
 - [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
 - [HFS participants reported higher overall satisfaction, tutor guidance, and authenticity than VR participants, though both groups were highly satisfied](hfs-higher-satisfaction-authenticity.md) — related
+- [Over 90% of virtual simulation students expressed satisfaction with the platform, rating realism, knowledge coverage, system smoothness and evaluation criteria above 4.5](students-view-virtual-simulation-as-future-teaching-trend.md) — related

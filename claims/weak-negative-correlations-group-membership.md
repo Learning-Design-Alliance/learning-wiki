@@ -54,3 +54,4 @@ Correlational analysis preceding the ANOVAs in the same quasi-experiment. The ar
 - [Students' conceptual understanding and motivation correlate moderately (score correlation 0.46) when learning the Solar System with PhET simulation](phet-understanding-motivation-correlation.md) — related
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — related
+- [Perceived subject difficulty across the MED4 curriculum correlates negatively with exam scores](perceived-subject-difficulty-negatively-correlates-with-exam-scores.md) — related

@@ -57,3 +57,4 @@ Bootstrapped serial mediation test (5,000 resamples) in the hypothesized model (
 - [Academic boredom and behavioural engagement sequentially (chain) mediate the link between EFL PsyCap and EFL achievement](chain-mediation-boredom-engagement.md) — related
 - [Motivational regulation strategies mediate the relationship between perceived peer support provisions and academic achievement, with all observed mediating effects being total effects](mrs-mediate-peer-support-achievement.md) — related
 - [Peer support does not mediate the relationship between motivational regulation strategies and achievement in the tested alternative models](peer-support-not-mediator-alternative-models.md) — related
+- [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related

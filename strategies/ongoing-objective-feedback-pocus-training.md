@@ -48,6 +48,7 @@ The article recommends that emergency physicians continue to receive objective f
 - [Schedule periodic refresher modules to maintain point-of-care EEG skills after initial e-learning](periodic-refresher-modules-poceeg-skills.md)
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 - [Integrate ongoing hands-on POCUS training into pediatric residency curricula to build resident competence and confidence](hands-on-pocus-training-integration-pediatric-residency.md)
+- [Provide an ongoing remote image-uploading gateway so experts can continue supporting trained non-cardiologists after formal training ends](remote-image-uploading-gateway-support.md)
 
 ## Examples
 -

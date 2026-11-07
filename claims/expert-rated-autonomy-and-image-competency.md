@@ -49,3 +49,4 @@ Blinded expert assessment three months after the 6-month intervention, using ada
 - [Structured tutoring raises the median number of supervised POCUS examinations performed over 6 months (27 vs 0)](tutoring-increases-supervised-examination-volume.md) — related
 - [Structured tutoring improves self-assessed heart ultrasound competency at 6 months, but the self-assessed lung competency difference is not statistically significant](tutoring-self-assessed-heart-competency.md) — related
 - [Structured POCUS tutoring with scheduled supervision increases the proportion of residents completing at least 25 supervised examinations at 6 months (70% vs 0%)](structured-pocus-tutoring-25-examinations-primary-outcome.md) — related
+- [All mannequin-based practical parameters of echocardiographic view acquisition improved significantly after training, with median view-obtaining time at or under 10 seconds](mannequin-practice-parameters-improved-after-sim-training.md) — related

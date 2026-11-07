@@ -51,3 +51,4 @@ SEM mediation analysis (AMOS, Model 4 PROCESS, 5,000 bootstrap resamples) on the
 - [Online presence significantly positively predicts positive online academic emotions and significantly negatively predicts negative online academic emotions in blended learning](online-predicts-academic-emotions-blended.md) — related
 - [Deep learning partially mediates the relationship between online real-time teaching interaction and teaching effect (indirect effect 0.165, 36.344% of total effect)](deep-learning-partially-mediation-interaction-teaching-effect.md) — related
 - [Positive academic emotions mediate most of the association between autonomy-supportive teaching and agentic engagement](pae-mediate-ast-agentic-engagement.md) — related
+- [Academic emotions mediate the relationship between teacher support and academic achievement](academic-emotions-mediation-teacher-support-achievement.md) — related

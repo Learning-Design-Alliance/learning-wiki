@@ -48,3 +48,4 @@ Theme 4 'Theory and practice abilities gaps' plus the 'More practice time in sim
 - [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
 - [Male nursing students saw maternity simulation as preparation for realistic situations and as essential to integrating theory into clinical practice](simulation-preparation-realistic-situations-theory-integration.md) — related
 - [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — related
+- [The anticipated OSCE motivates voluntary Skills Lab practice, with effects depending on task complexity and type](osce-anticipation-motivates-practice.md) — related

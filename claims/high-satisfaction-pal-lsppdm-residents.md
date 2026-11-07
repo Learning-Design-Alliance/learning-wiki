@@ -49,3 +49,4 @@ Satisfaction questionnaire completed by 60 Grade 2023 residents (Cronbach 0.920,
 - [Students in the BOPPPS-simulation group reported higher teaching satisfaction across all five surveyed domains](boppps-simulation-higher-teaching-satisfaction.md) — related
 - [Peer-assisted learning under the LSPPDM mode improves half-year after-department skills and case-report scores but not theory scores](pal-lsppdm-after-department-skills-case-report-gains.md) — related
 - [Peer-assisted learning under the LSPPDM mode yields significantly higher basic clinical skills course total scores than traditional teaching](pal-lsppdm-higher-clinical-skills-course-scores.md) — related
+- [LSPPDM trainees reported higher subjective perception of the course on four of six questionnaire dimensions](lsppdm-higher-subjective-perception.md) — related

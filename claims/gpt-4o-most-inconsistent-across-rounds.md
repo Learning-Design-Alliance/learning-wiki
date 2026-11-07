@@ -52,3 +52,4 @@ Descriptive analysis of within-chatbot response changes between Day-0 and Month-
 - [GPT-4o mini performed significantly worse than the other three AI chatbots at both time points](gpt-4o-mini-significantly-worse-than-other-chatbots.md) — related
 - [GPT-4's March and June 2023 versions showed no notable overall difference on the English exams, but differed on individual questions](gpt4-march-june-versions-comparable-overall.md) — related
 - [Agreement between GPT-4's answers and human-curated answers based on its explanations was low (κ=0.504), with frequent answer-explanation mismatches](gpt4-answer-explanation-consistency-low-kappa.md) — related
+- [GPT-4 self-agreement between Korean and English versions is 72.6%, with correct answers derived only from English in 14.1% of cases](gpt4-self-agreement-korean-english-72-6-percent.md) — related

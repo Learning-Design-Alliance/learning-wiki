@@ -50,3 +50,5 @@ Subgroup analysis within the SDTS arm compared self-, peer-, and instructor-feed
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [Video-based peer feedback produces higher post-training scores than video-based expert feedback for wound dressing change with suture removal](vpf-superior-wound-dressing-change.md) — related
 - [Both video-based peer feedback and video-based expert feedback significantly improve first-year surgical residents' OSCE performance across three fundamental clinical skills](vpf-vef-significant-pre-post-improvement.md) — related
+- [Peer-relatedness scores did not differ significantly among instructors across teaching profiles](peer-relatedness-no-instructor-differences.md) — related
+- [Precepted video review and video review with supervised peer discussion produce equivalent post-remediation OSCE scores and self-efficacy gains](precepted-review-equals-peer-discussion-osce-gains.md) — related

@@ -48,3 +48,5 @@ Voluntary pre/post self-rating survey (20 questions, 5-point Likert, CBOS-derive
 - [Confidence rose significantly in all five CBOS competency areas, each with a large effect size (r ≈ .84–.88)](tbl-sbl-clinic-confidence-cbos-subdomains.md) — possibly the same claim (merge candidate)
 - [The voluntary survey subgroup (n = 25) also showed a significant knowledge gain from IRAT to TRAT (r = .85)](tbl-sbl-clinic-knowledge-gain-subgroup.md) — related
 - [Final-year SLP students' knowledge of infant feeding observation skills rose significantly from pre-test to post-test after the integrated TBL-SBL clinic, in one group with no comparison group (n = 40)](tbl-sbl-clinic-knowledge-gain-whole-class.md) — related
+- [A mannequin-based dysphagia simulation lab significantly improves third-year speech-language therapy students' overall pre-post ratings of attitudes and perceived confidence](simulation-improves-dysphagia-confidence-ratings.md) — related
+- [Six of eight survey items improve significantly from pre- to post-simulation, with the highest post-rating on feeling competent to assess dysphagia](six-of-eight-items-significant.md) — related

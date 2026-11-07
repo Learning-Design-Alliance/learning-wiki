@@ -75,3 +75,4 @@ Figure 3 (absolute and relative changes of overall scores) and its describing te
 - [Self-reported attitudes towards mental disorders did not change significantly from before to after the full curriculum in one uncontrolled pre-post study.](mali-elearning-attitudes-unchanged.md) — related
 - [Immersive LAST simulation showed no change in residents' perceived comfort with diagnosing and managing uncommon conditions generally or with interdisciplinary teamwork](last-simulation-no-change-uncommon-conditions-teamwork.md) — related
 - [Adaptive e-learning significantly increases neurosurgeons' self-assessed perceived knowledge of UBE](adaptive-elearning-increases-perceived-ube-knowledge.md) — a narrower finding that bears on this claim
+- [SATMAS improved students' confidence in assessing and managing trauma patients](satmas-confidence-gains.md) — related

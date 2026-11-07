@@ -53,3 +53,4 @@ Correlation analysis across ten evaluation dimensions over seven frontier models
 - [Content knowledge and pedagogical knowledge dissociate in frontier LLMs; Claude-Opus-4.5 shows a 19.8 percentage point gap (66.3% content vs. 86.1% pedagogical)](content-pedagogical-knowledge-dissociation-llms.md) — related
 - [Stronger problem-solving capability predicts lower misconception faithfulness: flip rate under generic feedback correlates negatively with SFS (Pearson r = -0.94, p = 0.002)](model-capability-negatively-correlates-sfs.md) — related
 - [LLMs performed better on the knowledge-oriented Professional Practice section than the application-oriented Practical Skills section](knowledge-application-section-gap-nnle.md) — related
+- [Knowledge and skills scores correlated strongly with attitude scores](knowledge-attitude-correlation.md) — reports the opposite

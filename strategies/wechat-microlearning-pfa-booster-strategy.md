@@ -50,6 +50,7 @@ Facing the observed decline in skills at the 2-month follow-up, the authors reco
 - [Add post-training support measures and competency-refresh strategies to sustain effects and enable real-world implementation of change-agent actions](post-training-support-measures-ca-role.md)
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
 - [Repeat simulation training 6 months after initial training to sustain PPH knowledge and skills](repeat-simulation-training-six-months-pph.md)
+- [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 
 ## Examples
 -

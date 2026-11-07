@@ -74,3 +74,4 @@ Same bootstrapped mediation analysis: the two simple-mediation pathways had conf
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
 - [Psychological state alone mediates the academic foundation–exam success relationship (21.9% of total effect)](psychological-state-direct-mediation-path.md) — related
 - [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — related
+- [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related

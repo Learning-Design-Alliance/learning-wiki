@@ -47,3 +47,4 @@ Stepwise backward multiple regression model-fitting (AIC-based, replicating EYE-
 ## Related Claims
 - [High self-reported confidence in ECG interpretation strongly predicts actual competency (AOR up to 9.10)](self-confidence-predicts-ecg-competency.md) — related
 - [Interns with emergency department rotations during clinical years have significantly higher odds of ECG competency (AOR = 3.87)](ed-rotation-clinical-years-predicts-ecg-competency.md) — related
+- [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related

@@ -63,6 +63,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Provide focused all-day procedure-specific training covering the entire surgical pathway before surgeons adopt a low-volume procedure](focused-all-day-procedure-specific-training-strategy.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 - [Five-step structured training pathway for a surgical team adopting LASPME](five-step-laspme-team-training-pathway.md)
+- [Incorporate simulator training into cardiovascular surgery curricula with independent resident access](incorporate-simulator-training-cardiovascular-curriculum.md)
 
 ## Examples
 -

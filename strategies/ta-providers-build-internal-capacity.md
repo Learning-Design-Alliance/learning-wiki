@@ -47,6 +47,7 @@ This strategy directs external providers and districts to design partnerships so
 - [Build agency analytic capacity by hiring technically skilled staff, partnering with vendors, and providing data-use training](build-analytic-capacity-hiring-vendors-training.md)
 - [Provide schools with resources, technical assistance, and well-validated measurement tools to support SEL](state-support-and-technical-assistance-for-sel.md)
 - [Design curriculum with decreasing levels of support across semesters to foster transfer](decreasing-support-across-semesters-strategy.md)
+- [Provide an ongoing remote image-uploading gateway so experts can continue supporting trained non-cardiologists after formal training ends](remote-image-uploading-gateway-support.md)
 
 ## Examples
 -

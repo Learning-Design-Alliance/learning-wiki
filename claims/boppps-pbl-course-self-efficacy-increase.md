@@ -56,3 +56,5 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 - [SBLE significantly increases perceived efficacy among nursing students](sble-increases-perceived-efficacy-nursing-students.md) — related
 - [Self-reported perceived collective efficacy for group learning rose significantly from pre-test to post-test after a TBL course, in one uncontrolled pre-post study](tbl-improves-perceived-collective-efficacy.md) — related
 - [Self-efficacy and the combined self-efficacy/self-esteem score rose significantly from pre-test to post-test, but self-esteem alone did not change significantly, in one uncontrolled pre-post study](self-efficacy-rose-self-esteem-not-significant.md) — related
+- [Undergraduate MSUS course participants' self-rated ultrasound competency rose significantly from course start to end within the course group during a blended-learning course](msus-course-self-perceived-competency-gain.md) — related
+- [Self-efficacy improved from before to after intervention in all groups but did not differ significantly between the four teaching methods](self-efficacy-gains-no-group-difference.md) — related

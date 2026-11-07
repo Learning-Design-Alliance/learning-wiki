@@ -73,3 +73,4 @@ Confirmatory factor analysis on the second half of the Study 1 sample (N = 375) 
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
 - [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related
 - [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related
+- [Rasch analysis did not support unidimensionality of the LBCS knowledge and skills dimension](lbcs-rasch-unidimensionality-not-supported.md) — related

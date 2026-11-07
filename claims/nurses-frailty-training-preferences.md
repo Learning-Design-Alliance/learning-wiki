@@ -54,3 +54,4 @@ Descriptive analysis of an 11-item educational-needs questionnaire among the 558
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](students-prefer-blended-teaching-orthodontics.md) — related
 - [Paramedics' preferred online learning format depends on the format they most recently experienced](format-preference-follows-experienced-format.md) — related
 - [Most surveyed nurses lacked frailty education: only 41.8% knew the term frailty, 10.5% had frailty-care training, and 17.0% had studied relevant guidelines](nurses-frailty-education-gaps-survey.md) — related
+- [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related

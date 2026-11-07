@@ -51,6 +51,7 @@ The article documents six challenges to running in situ interprofessional simula
 ## Related Strategies
 
 - [In-situ simulation case with three consecutive crisis elements and GAS-model debriefing for bronchoscopy team training](in-situ-bronchoscopy-crisis-simulation-case-strategy.md)
+- [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Descriptive feasibility questionnaire results: while a majority (74%, 95% CI 59%
 - [Weight-related communication skills scores rose from pre-test to post-test among health care professionals in one uncontrolled pre-post study of VITAL-COMS training](vital-coms-improved-self-assessed-communication-skills.md) — related
 - [Training modality preferences differ by proficiency level: juniors favor box-trainers and theory, intermediates perfused organs and box-trainers, seniors perfused and ex vivo organs](level-stratified-training-modality-preferences.md) — related
 - [Students' disliked features of the digital stories clustered on scenario quality, voicing, and level suitability](students-disliked-story-scenario-and-voicing-features.md) — related
+- [Most students wanted more laboratory time and to try other modalities, with cross-modality preferences favoring the alternative they had not experienced](students-want-more-lab-time-and-other-modalities.md) — related

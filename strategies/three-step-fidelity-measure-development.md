@@ -50,6 +50,7 @@ The article presents a replicable process: "(1) identifying key components, (2) 
 
 - [Assess fidelity separately for instructional components and include student application when evaluating strategy instruction](component-level-fidelity-scores-with-student-application.md)
 - [Replicate an intervention with the same teachers to isolate teacher experience, and embed fidelity measurement to identify critical program components](replication-with-fidelity-component-strategy.md)
+- [Assess local TBL implementation fidelity and target interventions at missing standard steps and components to improve the student TBL experience](assess-and-target-tbl-implementation-gaps.md)
 
 ## Examples
 -

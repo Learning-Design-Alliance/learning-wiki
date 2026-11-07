@@ -58,3 +58,4 @@ Multivariable multinomial logistic regression (table 4) in the 605-nurse survey;
 - [Neither years of experience managing invasive mechanical ventilation nor professional title is associated with the ability to identify asynchrony waveforms](experience-and-title-not-associated-with-recognition.md) — related
 - [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — reports the opposite
 - [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — reports the opposite
+- [Age, marital status, educational level, and professional title did not significantly affect PCC competence in the multiple regression](demographics-nonsignificant-in-regression.md) — reports the opposite

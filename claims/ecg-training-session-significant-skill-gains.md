@@ -47,3 +47,6 @@ Within the EYE-ECG2 RCT (N=94), paired t-tests across all participants showed pr
 ## Related Claims
 - [The synchronised EYE-ECG2 video produced a moderate but nonsignificant tendency toward better ECG interpretation performance than training as usual](eye-ecg2-video-nonsignificant-tendency.md) — related
 - [Students' motivation and restedness declined significantly over the course of the online training session](motivation-restedness-decline-over-session.md) — related
+- [Medical students' ECG interpretation scores rose from pre-test to post-test across all three outcome scores within the participating group after completing the online ECG training session](ecg-online-training-significant-pre-post-gains.md) — related
+- [The 9-minute EYE-ECG eye-tracking video with CRR commentary produced a small, statistically non-significant additional skill gain compared to training as usual](eye-ecg-video-small-nonsignificant-advantage.md) — a narrower finding that bears on this claim
+- [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related

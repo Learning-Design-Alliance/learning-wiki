@@ -46,3 +46,4 @@ Multivariate linear regression on post-test scores across both groups. The unsta
 
 ## Related Claims
 - [Dynamic group allocation, prior experience above 30 ultrasound examinations, and internal medicine employment predict theory test performance](predictors-ultrasound-theory-test-performance.md) — related
+- [The number of previously performed ultrasound examinations significantly influenced practical test results, while no defined factor significantly influenced theory test results](prior-ultrasound-experience-predicts-practical-dops.md) — reports the opposite

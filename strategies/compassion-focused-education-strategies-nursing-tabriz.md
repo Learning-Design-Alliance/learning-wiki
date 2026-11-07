@@ -52,6 +52,7 @@ The article recommends that nursing education deliberately cultivate compassion,
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Integrate relational and technical competencies in nursing education frameworks to address the assessment gap](integrate-relational-and-technical-competencies-nursing-education.md)
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
+- [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
 
 ## Examples
 -

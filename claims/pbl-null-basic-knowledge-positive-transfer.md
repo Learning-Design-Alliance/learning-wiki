@@ -79,3 +79,4 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 - [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](pbl-virtual-simulation-improves-theory-and-skills.md) — reports the opposite
 - [PBL is not statistically superior to conventional teaching for problem-solving in first-year students (p = 0.47), with the pooled effect tending toward conventional teaching](pbl-not-superior-problem-solving.md) — related
 - [Postgraduate nursing students in the PBL course reported a multi-layered sense of accomplishment spanning knowledge gains, emotional satisfaction, and professional identity development](pbl-sense-of-accomplishment-nursing.md) — related
+- [Performance on clinical case 1 predicted basic and relative scores but not the conservative score, an unexpected finding the authors attribute to order effects or content saliency](clinical-case-1-predicts-bs-rs-not-cs.md) — related

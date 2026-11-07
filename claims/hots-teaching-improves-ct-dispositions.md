@@ -69,3 +69,4 @@ Disposition outcomes measured with critical thinking assessment instruments in t
 - [All critical thinking subscales except inquisitiveness improved after DBSS; inquisitiveness showed no significant change](dbss-cctdi-subscales-except-inquisitiveness-improve.md) — related
 - [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — related
 - [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related
+- [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related

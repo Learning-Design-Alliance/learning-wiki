@@ -69,3 +69,4 @@ Exercise-level analysis of force logs from the robotic system data log in the sa
 - [Force feedback significantly shortens operational time for ex vivo and selected dry-model robotic suturing exercises, with no significant overall difference](ffb-shortens-operational-time-selected-exercises.md) — related
 - [Force feedback significantly reduces suturing errors, particularly suture breaks and suture fray, in robotic-assisted suturing](ffb-reduces-suturing-errors-breaks-fray.md) — related
 - [Surgeons using force feedback report a significant reduction in mental demand over time, with no significant between-cohort differences in SURG-TLX ratings](ffb-reduces-mental-demand-over-time.md) — related
+- [Subjective gentleness ratings correlate negatively with objectively measured force on tissue during robotic suturing](gentleness-negatively-correlated-with-force.md) — related

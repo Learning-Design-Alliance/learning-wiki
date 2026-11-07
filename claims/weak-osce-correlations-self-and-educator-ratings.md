@@ -52,3 +52,4 @@ Spearman rank correlation analysis relating the 2023–2024 final OSCE (six stat
 - [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related
 - [OSCE score correlates positively with yearly average score, though the association is weak](osce-score-correlates-yearly-average.md) — related
 - [CDA3 correlates with OSCE Procedural stations but not with OSCE Communication stations](cda3-osce-procedural-not-communication.md) — related
+- [First-year DPT student SCT scores show no significant correlation with academic records including GPA, OSCE, benchmark exam, and course grades](sct-scores-uncorrelated-academic-records-dpt.md) — related

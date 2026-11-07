@@ -68,3 +68,4 @@ Paired-samples t-test of pre/post ITBS science standard scores for 199 compariso
 - [Students with disabilities in SWH classrooms significantly outperformed comparison-group peers on post-intervention ITBS science scores](swh-posttest-outperforms-comparison-swd.md) — related
 - [Treatment and comparison groups showed no significant difference on pre-intervention ITBS science scores](swh-pretest-equivalence-no-significant-difference.md) — related
 - [Both groups showed significant growth from pre-test to post-test on all four assessments](both-groups-significant-growth-all-assessments.md) — a broader claim this one bears on
+- [Scores rose significantly from pre-test to post-test in both groups, with a larger mean gain in the flipped classroom group](within-group-pre-post-gains-both-methods.md) — related

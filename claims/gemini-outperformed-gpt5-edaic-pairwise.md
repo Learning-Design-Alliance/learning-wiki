@@ -56,3 +56,4 @@ EDAIC analysis of 219 questions answered by 4 LLMs, using Friedman and Wilcoxon 
 - [Four reasoning-enhanced LLMs exceed 95% accuracy on the JNME, with Gemini 2.5 Pro highest at 97.2% and no significant pairwise differences](four-llms-exceed-95-jnme-2026.md) — related
 - [Pairwise chi-square comparisons found no significant difference only between Grok and ChatGPT 4.5, while all other model pairs differed significantly](pairwise-llm-comparisons-grok-chatgpt45-nonsignificant.md) — related
 - [LLM performance does not differ significantly between 2019 and 2025 exam questions despite training-cutoff differences](no-performance-difference-exam-year.md) — related
+- [GPT-4 significantly outperforms GPT-3.5 and CLOVA X on Korean anesthesiology in-training examination questions, while GPT-3.5 and CLOVA X do not differ](gpt4-outperforms-gpt35-clovax-korean-anesthesiology-exam.md) — related

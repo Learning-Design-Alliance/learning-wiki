@@ -49,3 +49,4 @@ Discussion of the RCT (n = 124) reports the history taking and medical record wr
 - [Students rate SDH-integrated CBL higher on content relevance, thinking training, and competence relevance, and lower perceived artificial integration](sdh-cbl-satisfaction-organic-integration.md) — related
 - [SDH-integrated CBL improves surgical interns' social factor identification and analysis (d = 1.39) versus CBL alone](sdh-integrated-cbl-improves-social-factor-analysis.md) — related
 - [SDH integration does not compromise theoretical knowledge, physical examination, or diagnostic analysis versus CBL alone](sdh-integration-preserves-core-clinical-knowledge.md) — related
+- [CBL/FC students report more positive perceptions of clinical skill gains than LBT students in both grades](cbl-fc-positive-skill-perceptions.md) — related

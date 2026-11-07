@@ -52,6 +52,7 @@ The article's recommendations section advises instructors to "consider using the
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 - [Teacher training and preparation recommendations for implementing the flipped classroom strategy](fcrs-teacher-training-and-tool-preparation-strategy.md)
 - [Adopt flexible, competency-based attendance policies and flipped classrooms for senior medical students](flexible-attendance-flipped-classroom-senior-students.md)
+- [Invest in high-quality prescripted vodcasts and consider combining vodcasts with live teaching (e.g., flipped classroom)](high-quality-vodcasts-flipped-combination.md)
 
 ## Examples
 -

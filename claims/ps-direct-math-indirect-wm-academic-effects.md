@@ -74,3 +74,4 @@ A second SEM modeled PS effects on WIAT Numerical Operations. The indirect effec
 - [In children with ADHD, the relation between inattention symptom severity and achievement in reading, mathematics and spelling is statistically mediated serially through processing speed and working memory](inattention-achievement-serial-mediation-ps-wm.md) — related
 - [Processing speed fully mediates the relation between inattention symptom severity and working memory performance in children with ADHD](ps-fully-mediatates-inattention-wm.md) — related
 - [Processing speed is a single mediator of the relation between inattention symptom severity and mathematics and spelling performance, but not reading performance](ps-single-mediator-math-spelling-not-reading.md) — related
+- [Mindfulness affects academic achievement indirectly through the mediating role of adaptability (Sobel T = 7.551)](adaptability-mediates-mindfulness-achievement.md) — related

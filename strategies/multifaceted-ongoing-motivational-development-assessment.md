@@ -47,6 +47,7 @@ The article recommends a "multi-faceted, ongoing assessment strategy" combining 
 - [Include self and collaborative reflection in future PBL research and practice to evaluate students’ own learning and progress](pbl-self-collaborative-reflection-emphasis.md)
 - [Future cooperative learning studies should be longitudinal and qualitative, using attitude questionnaires, interviews, and objective computerized pronunciation measures](longitudinal-qualitative-cl-research-instruments.md)
 - [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
+- [Combine COPUS observation with an SDT-based survey to monitor progress toward active learning](combine-copus-sdt-survey-monitoring.md)
 
 ## Examples
 -

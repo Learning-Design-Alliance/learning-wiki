@@ -47,3 +47,4 @@ Self-report Likert questionnaire at the end of the wiki assignment. The results 
 ## Related Claims
 - [Students perceived the PFB request as useful for formulating feedback, with request and content conditions rating it significantly more useful than the combination condition](students-perceive-pfb-request-useful.md) — related
 - [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
+- [Students perceived benefits from both assessor and assessed roles, with global means of 4.15 and 4.18 on a 1–5 scale](assessor-assessed-role-benefits-similar.md) — related

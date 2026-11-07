@@ -49,3 +49,4 @@ Randomized controlled open-label simulation trial in 64 fifth-year medical stude
 - [Mental imagery reduces procedural complications and the number of skin punctures in simulated PVC insertion](mental-imagery-complications-punctures-pvc.md) — related
 - [Mental imagery produces a greater improvement in adapted Mental Imagery Questionnaire score than workshop participation alone](mental-imagery-miq-score-improvement.md) — related
 - [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related
+- [Voluntary free practice of peripheral venous catheter placement yields a significant positive treatment effect of almost ten percentage points on OSCE performance](pvc-free-practice-att-ten-points.md) — related

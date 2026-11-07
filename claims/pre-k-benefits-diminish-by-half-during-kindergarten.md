@@ -57,3 +57,4 @@ In the county-wide study of 2,581 low-income children, the abstract reports that
 - [Academic convergence between preschool and informal-care groups occurs almost entirely in kindergarten and first grade](academic-convergence-concentrated-in-early-elementary.md) — related
 - [Differences in children's social skills account for roughly 10–20% of the convergence in academic test scores](social-skills-explain-test-score-convergence.md) — related
 - [Head Start impacts at the end of preschool were concentrated on language and literacy for 4-year-olds and on cognitive, social-emotional, health, and parenting outcomes for 3-year-olds, but faded by kindergarten and first grade](head-start-early-advantages-fade-by-kindergarten.md) — related
+- [The authors interpret the diminishing PLTS effect as reflecting greater use of diverse external study resources and students' adaptation to medical school](plts-effect-wanes-as-students-adapt.md) — related

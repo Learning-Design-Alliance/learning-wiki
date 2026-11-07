@@ -56,3 +56,4 @@ ANOVA of task completion times in the same 41-participant simulation study showe
 - [VSG students took longer on some procedures at post-test, which the authors interpret as more thorough execution rather than reduced performance](vsg-longer-procedure-times-thoroughness.md) — related
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
 - [GRS summed scores and final competency ratings effectively discriminate between experience levels in the simulated cholecystectomy module](chole-vop-grs-final-rating-discriminate-levels.md) — related
+- [Intermediate microsurgeons complete task segments faster than novices, significantly in the first three segments](intermediates-faster-completion-time-microsurgery.md) — related

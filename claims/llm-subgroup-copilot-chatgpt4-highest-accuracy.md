@@ -74,3 +74,4 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [ChatGPT-4o outperformed both third-year and fifth-year dental students in diagnostic accuracy on endodontic multiple-choice questions with radiographic and clinical images](chatgpt-4o-outperforms-dental-students-endodontic-diagnosis.md) — related
 - [ChatGPT can complete multiple-choice exams to a very high standard, across disciplines and including image- and data-based questions](chatgpt-high-performance-mcq-exams.md) — related
 - [GPT-4o and GPT-4 significantly outperform GPT-3.5 and Google Bard on overall accuracy across four medical licensing examinations](gpt4o-gpt4-outperform-gpt35-bard-medical-licensing-exams.md) — related
+- [ChatGPT 4.0 significantly outperforms ChatGPT 3.5 and Google Bard in accuracy on English NCLEX-RN practice MCQs](chatgpt-4-highest-accuracy-english-nclex-rn-mcqs.md) — a narrower finding that bears on this claim

@@ -68,3 +68,4 @@ Chi-squared test of independence on dichotomised knowledge (adequate vs. inadequ
 - [Less experienced nurses (< 10 years) and untrained nurses are more likely to report insufficient preparedness](less-experienced-nurses-insufficient-preparedness.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — a broader claim this one bears on
 - [PHTLS training is the strongest independent predictor of passing the knowledge test after adjustment](phtls-training-strongest-predictor-passing.md) — a broader claim this one bears on
+- [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related

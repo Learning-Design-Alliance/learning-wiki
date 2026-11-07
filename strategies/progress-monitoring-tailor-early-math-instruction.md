@@ -46,6 +46,7 @@ The guide's third recommendation is a concrete assessment routine: "Use introduc
 - [Use cognitive-sensing feedback on attention and learning progress to tailor instruction to individual learners](cognitive-sensing-feedback-tailor-instruction.md)
 - [Dedicate time each day to math and integrate math instruction throughout the school day](daily-dedicated-and-integrated-math-time.md)
 - [Use AI tools to support assessment, feedback and monitoring of learner progress](ai-supported-assessment-and-feedback-strategies.md)
+- [Use video-recorded think-aloud case reports to diagnose knowledge gaps and tailor teaching strategies](video-transcription-diagnosis-strategy.md)
 
 ## Examples
 -

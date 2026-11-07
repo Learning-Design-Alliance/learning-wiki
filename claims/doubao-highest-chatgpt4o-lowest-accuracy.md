@@ -58,3 +58,4 @@ Benchmark evaluation of six LLMs answering 198 bilingual licensing-exam question
 - [GPT-4.1 achieved the highest accuracy among GPT-4.1, GPT-4o and GPT-4 on Taiwan plastic surgery board questions, but no model reached accuracy sufficient for independent clinical education use](gpt41-highest-accuracy-but-below-clinical-education-threshold.md) — related
 - [ChatGPT-4o achieves higher final-attempt accuracy than Gemini 1.5 Pro on ophthalmology MCQs, significantly in English but not in Turkish](chatgpt4o-outperforms-gemini-ophthalmology-mcq-final-attempt.md) — related
 - [GPT-4o achieves significantly higher overall accuracy than GPT-4 and GPT-3.5 on the 2020 and 2021 Chinese NMLE](gpt4o-highest-accuracy-chinese-nmle.md) — related
+- [ChatGPT 4.0 had the most uniquely correct and fewest uniquely incorrect responses among the three LLMs across both languages](chatgpt-4-most-unique-correct-responses-venn.md) — related

@@ -52,3 +52,4 @@ Acceptability comparison in the trial of 206 teachers, measuring expectancy at w
 - [The instructor-led mindfulness arm, compared with the self-taught arm, indirectly improved teacher outcomes by enhancing mindfulness and self-compassion as mediating factors](instructor-led-mediated-by-mindfulness-self-compassion.md) — related
 - [Learners feel a stronger social connection with positive instructors than with negative instructors.](positive-instructors-social-connection-video.md) — related
 - [Majorities in both arms preferred traditional teacher-led workshops over the self-directed video format, with the instructor-led arm preferring it more](learners-prefer-traditional-instructor-led-workshop.md) — related
+- [Most pilot participants preferred virtual delivery of the microaggression workshops despite the authors' initial expectation that in-person formats would build community best](virtual-delivery-preferred-for-dei-workshops.md) — related

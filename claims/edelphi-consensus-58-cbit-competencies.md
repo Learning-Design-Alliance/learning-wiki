@@ -60,3 +60,4 @@ Three-round e-Delphi study (March–May 2024) with an international expert panel
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
 - [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related
+- [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related

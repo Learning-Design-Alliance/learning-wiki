@@ -46,3 +46,4 @@ The same 3-way ANCOVA on post-test scores tested the stream variable. Scientific
 
 ## Related Claims
 - [Computer-assisted teaching of the passive voice produced significantly higher post-test achievement than traditional instruction among Jordanian first-secondary EFL pupils](call-passive-voice-beats-traditional-jordan.md) — related
+- [Grade level moderates performance: Grade 4 students score higher on knowledge tests while Grade 5 students score higher on case scenarios regardless of teaching method](grade-moderates-knowledge-versus-case-performance.md) — related

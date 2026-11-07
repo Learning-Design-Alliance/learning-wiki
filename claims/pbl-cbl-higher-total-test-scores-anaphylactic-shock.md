@@ -58,3 +58,4 @@ Randomized two-group trial of 100 nursing undergraduates (n=50 per group) compar
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — possibly the same claim (merge candidate)
+- [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — related

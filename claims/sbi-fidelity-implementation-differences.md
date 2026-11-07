@@ -48,3 +48,4 @@ Fidelity analysis of one videotaped lesson per classroom, rated 0-3 by two of fo
 - [Fidelity checks confirmed program differentiation: SBI elements were implemented substantially more in treatment classrooms while general instructional quality was similar](sbi-fidelity-program-differentiation.md) — possibly the same claim (merge candidate)
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
 - [Teacher experience with SBI did not significantly affect fidelity of implementation, as both experienced and novice implementers achieved similar fidelity scores](sbi-teacher-experience-no-fidelity-effect.md) — related
+- [The same instructional practice can produce different student motivation outcomes depending on the instructor, underscoring fidelity to evidence-based methods](practice-fidelity-varies-motivation-outcomes.md) — related

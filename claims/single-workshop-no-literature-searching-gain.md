@@ -53,3 +53,4 @@ Randomised controlled trial of a single 2-hour workshop in EBM literature search
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — reports the opposite
 - [A two-hour workshop alone increased learn unit and ROI performance in only half of the participating teachers](workshop-alone-insufficient-half-teachers.md) — related
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
+- [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](reversed-classroom-workshops-beat-lecture-ecg.md) — related

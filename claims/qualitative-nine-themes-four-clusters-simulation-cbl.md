@@ -54,3 +54,4 @@ Qualitative arm of the mixed-methods sequential explanatory design: semi-structu
 - [Qualitative analysis of 492 participant quotes suggests the observed behavioral changes resulted from sense-making emerging from five themes about the training experience](vr-training-sense-making-five-themes.md) — related
 - [Inductive analysis of 24 empathy canvases identified 32 learning gains and 18 pain points across self-awareness, teamwork, learning efficiency, and comprehensive ability](empathy-canvas-gains-pain-points-four-dimensions.md) — related
 - [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related
+- [Focus group analysis of simulation participants yields four themes — learning (32.6%), self-efficacy (29%), simulation method (21.3%), and development (16.5%)](focus-group-four-themes-als-simulation.md) — related

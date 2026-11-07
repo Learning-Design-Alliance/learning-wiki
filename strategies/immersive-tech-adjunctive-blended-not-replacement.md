@@ -83,6 +83,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Offer immersive VR patient safety education as a scalable alternative to live mock simulation for operating room teams](scalable-vr-patient-safety-education-strategy.md)
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
+- [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 
 ## Examples
 -

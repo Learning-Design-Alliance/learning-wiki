@@ -49,3 +49,4 @@ Hierarchical multiple regression analyses on the TMS and HAM-Nat samples control
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
 - [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — reports the opposite
 - [The standardized M1 licensing examination is predicted more accurately than the preclinical grade point average (PCGPA)](m1-predicted-better-than-pcgpa.md) — related
+- [Adding Casper to GPA improves prediction of OSCE and fieldwork performance over GPA alone (change in R2 = 3.2%) in one occupational therapy cohort](casper-incremental-validity-over-gpa-osce-fieldwork.md) — a narrower finding that bears on this claim

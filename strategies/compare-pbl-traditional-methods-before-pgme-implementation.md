@@ -61,6 +61,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [Compare discovery-based activities to a lecture on identical content to isolate the benefit of direct manipulation](compare-daa-to-lecture-same-content.md)
 - [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
+- [Future flipped classroom research should use larger multi-site samples, standardized facilitator training, and mixed-methods data collection](flipped-classroom-future-research-recommendations.md)
 
 ## Examples
 -

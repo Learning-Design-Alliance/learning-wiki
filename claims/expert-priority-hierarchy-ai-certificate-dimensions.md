@@ -56,3 +56,4 @@ AHP analysis of structured pairwise comparisons from 18 domain experts across Ch
 - [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related
 - [Adaptation and management (47.83%) is the most addressed intercultural competence dimension, with cultural adaptability the most frequent competence (n=7)](adaptation-management-dominant-competence-dimension.md) — related
 - [Among the six first-level indicators, clinical nursing knowledge and skills received the highest importance score (5.00 ± 0.00)](clinical-nursing-knowledge-skills-highest-importance.md) — related
+- [AHP weighting assigns the highest weight to professional theoretical knowledge (0.2168) and the lowest to professional development ability (0.1649), with consistency ratio 0.0013](ahp-weights-primary-indicators-clinical-nutritionists.md) — related

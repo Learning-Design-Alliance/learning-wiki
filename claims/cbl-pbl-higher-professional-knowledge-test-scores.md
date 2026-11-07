@@ -53,3 +53,4 @@ RCT outcome measured with two equal-difficulty examination papers built on Bloom
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — reports the opposite
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
+- [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — related

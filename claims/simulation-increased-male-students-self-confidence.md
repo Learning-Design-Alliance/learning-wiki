@@ -50,3 +50,4 @@ Theme 1 subtheme 'Increased self-confidence' from the qualitative interviews and
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
 - [Male nursing students reported a theory-practice gap and insufficient simulation lab time before OSCE examinations](theory-practice-gap-insufficient-simulation-lab-time.md) — related
+- [Students attribute increased confidence to making mistakes and receiving immediate feedback in the simulation lab](mistakes-feedback-build-confidence-sle.md) — related

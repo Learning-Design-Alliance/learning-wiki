@@ -49,3 +49,4 @@ Semistructured interviews with 18 undergraduates (13 statistics, 5 neurobiology)
 - [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](quiz-retakes-increase-relatedness.md) — related
 - [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](retake-participation-and-improvement-quantitative.md) — related
 - [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](positive-student-perceptions-oral-retest.md) — related
+- [Students overwhelmingly liked optional exam retakes and perceived them as helping their learning, with most retakers reporting substantial study effort](retakes-popular-perceived-learning-benefit.md) — related

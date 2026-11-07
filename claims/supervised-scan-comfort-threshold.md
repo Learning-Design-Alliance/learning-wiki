@@ -47,3 +47,4 @@ Follow-up survey perceptions of the training format; "61% of respondents reporte
 ## Related Claims
 - [Half of trained emergency physicians achieved LUS certification after a short training programme](half-certification-short-lus-training.md) — related
 - [Among physicians completing certification, most achieved high theoretical and practical scores, supporting short training feasibility](short-lus-training-feasible-when-completed.md) — related
+- [In one uncontrolled pre-post study, PCPs' comfort with lung ultrasound rose from 10 to 54% and grasp of its capabilities and limitations rose from 27.5 to 84%](pcp-lus-comfort-and-understanding-gain.md) — related

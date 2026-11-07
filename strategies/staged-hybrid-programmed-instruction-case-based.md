@@ -54,6 +54,7 @@ In the discussion the authors recommend sequencing behaviourist and cognitive ap
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
+- [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
 
 ## Examples
 -

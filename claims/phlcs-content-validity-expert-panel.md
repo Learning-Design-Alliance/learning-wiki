@@ -53,3 +53,5 @@ Content validity index assessment by six experts in healthcare decision-making, 
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
+- [The validation panel comprised 12 health professionals with at least six years of experience, rating the scenario on six Pasquali criteria](delphi-panel-twelve-experts-pasquali-criteria.md) — related
+- [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related

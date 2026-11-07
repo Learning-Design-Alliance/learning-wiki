@@ -57,3 +57,4 @@ Dichotomous course feedback items from the same study; the article reports "87.1
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
 - [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
 - [Students strongly favored the jigsaw peer learning module, with 93% rating it good or excellent and 94% endorsing regular use](student-feedback-favors-jigsaw.md) — related
+- [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related

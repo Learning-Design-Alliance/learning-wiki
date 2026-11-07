@@ -45,7 +45,8 @@ The article recommends that anatomy curriculum directors gather their own learne
 - [Medical students prefer viewing anatomy on pinned cadavers over digital images during practical exams](../claims/students-prefer-pinned-cadavers-over-digital-images-practical-exams.md) [+W]
 
 ## Related Strategies
-- 
+
+- [When adding tests to a postgraduate rotation, gather learner preferences on number of questions, duration, and repetitions to inform test design](learner-informed-mcq-test-parameters.md)
 
 ## Examples
 -

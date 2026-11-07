@@ -12,7 +12,7 @@ generated:
 # Game Based Review
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 17 studies (9 quant-synthesis, 4 causal, 2 review, 2 theoretical), `q1`–`q4` · 8 of 17 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 18 studies (9 quant-synthesis, 4 causal, 3 theoretical, 2 review), `q1`–`q4` · 9 of 18 report an effect size
 
 ## Description
 Game based review re-packages previously taught content into competitive or cooperative game formats — quiz games, board races, digital platforms, escape-room puzzles — so that learners repeatedly retrieve and apply material in a low-stakes, motivating context. The game structure supplies rules, feedback, and pacing; the content supplies the retrieval demands. It is a review strategy, not a first-teaching strategy: the learning target must already have been introduced.

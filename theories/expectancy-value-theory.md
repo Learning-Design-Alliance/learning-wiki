@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 60 claims (36 for, 23 mixed, 1 against) · 45 studies (21 causal, 10 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 13 of 45 report an effect size · 59 claims rest on one study
+> **Evidence** · 61 claims (37 for, 23 mixed, 1 against) · 46 studies (21 causal, 11 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 13 of 46 report an effect size · 60 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -119,6 +119,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Perceived educational value and anticipation of anaphylaxis correlate weakly but significantly with objective VR performance](../claims/perceived-value-anticipation-correlate-performance.md) [+W]
 - [Topic-related interest, but not importance, utility, or self-efficacy, predicted task-related enjoyment while secondary students learned with an ITS](../claims/interest-predicts-task-enjoyment-its.md) [~W] — attached 2026-11-04 from Chevalère et al. (2023), which proposed "Control-value theory sequence applied to ITS learning: partial correlational support but difficult causal establishment".
 - [Students who did not consult formative PT feedback more often considered the test unimportant, and students who did not prepare cited unimportance far more often in the formative group than the summative group (27% vs 1%)](../claims/perceived-unimportance-drives-non-use-formative-pt.md) [+W] — attached 2026-11-07 from van Wijk et al. (2024), which proposed "Expectancy-Value Theory as a framework for test-taking motivation and feedback use".
+- [TSRQ is positively associated with control and value appraisals in EFL learning](../claims/tsrq-positively-associated-with-control-value-appraisals.md) [+W] — attached 2026-11-07 from Wu Qiong (2026), which proposed "Control-value theory extended with TSRQ as a distal social-contextual antecedent of achievement emotions".
 
 ## Related Theories
 

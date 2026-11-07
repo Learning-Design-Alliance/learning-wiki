@@ -49,3 +49,4 @@ Cross-sectional SEM analysis of 702 high school students in Yancheng, China, usi
 - [Enjoyment positively mediates the relationship between teacher caring behavior and English academic performance](enjoyment-positive-mediation-tcb-eap.md) — related
 - [Teacher caring behavior correlates positively with enjoyment and English performance, and negatively with anxiety and boredom](tcb-emotion-performance-correlations.md) — related
 - [Social support directly and positively predicts English academic achievement among Chinese secondary school students](social-support-predicts-english-achievement.md) — related
+- [Teacher support is directly and positively associated with academic achievement among university students](teacher-support-direct-effect-achievement.md) — related

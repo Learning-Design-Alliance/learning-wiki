@@ -53,3 +53,4 @@ Random effects meta-analysis of 38 PER studies reporting mean FCI scores by gend
 - [Two non-NA studies found female students outperformed male students on the FCI, contrasting the overall pattern](non-na-female-superiority-fci-studies.md) — reports the opposite
 - [Study location (NA vs non-NA) significantly moderates the FCI gender gap, with wider gaps in NA-based studies](study-location-moderates-fci-gender-gap.md) — related
 - [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](gender-difference-clinical-surgical-knowledge-syria.md) — related
+- [Female trainees using AR-US identified insertion-site anatomy and located the IJV faster than male trainees using AR-US](ar-us-female-faster-anatomy-identification.md) — related

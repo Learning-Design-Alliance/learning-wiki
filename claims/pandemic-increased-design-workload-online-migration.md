@@ -53,3 +53,4 @@ The authors assert, without presenting evidence, that "the current pandemic has 
 - [During emergency remote teaching, teachers' professional learning was opportunistic rather than planned, with no clear duration](ert-learning-opportunistic-unplanned.md) — related
 - [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related
 - [Wikipedia assignments required minimal adaptation during the COVID-19 transition to distance learning](wikipedia-assignments-covid-distance-learning.md) — reports the opposite
+- [COVID-19 pandemic restrictions on collaborative learning may have contributed to unrealistic self-assessment by removing opportunities for social comparison](covid-collaborative-learning-restriction-self-assessment.md) — related

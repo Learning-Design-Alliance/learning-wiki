@@ -50,6 +50,7 @@ The article recommends including e-learning formats in certified ultrasound trai
 
 - [Blended Learning](../patterns/blended-learning.md)
 - [Integrate voluntary handheld ultrasound practice into undergraduate eFAST curricula alongside digital self-study](integrate-handheld-ultrasound-practice-undergraduate-curriculum.md)
+- [Use peer tutors and a deliberately planned digital preparation phase when delivering ultrasound training to undergraduates](peer-tutors-digital-preparation-undergraduate-ultrasound.md)
 
 ## Examples
 -

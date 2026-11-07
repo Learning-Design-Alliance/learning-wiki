@@ -68,3 +68,5 @@ Narrative attribution in the discussion: the article reports, citing reference 2
 - [Neither age nor acute-versus-chronic study design moderates the effect of resistance training on academic outcomes](age-and-design-do-not-moderate-resistance-training-effect.md) — related
 - [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — related
 - [The article hypothesizes cognitive mechanisms linking physical activity to academic achievement but offers no direct test of them](physical-activity-cognitive-mechanisms-hypothesized.md) — related
+- [Participation in organized PA/sports at ages 5.5 and 8 years is associated with higher executive function, and at age 8 years with higher academic achievement](organized-sports-favorable-executive-function-academic.md) — a narrower finding that bears on this claim
+- [Higher outdoor active play at age 8 years is favorably associated with executive function and academic achievement, whereas high indoor active play is unfavorably associated](outdoor-play-favorable-indoor-play-unfavorable.md) — related

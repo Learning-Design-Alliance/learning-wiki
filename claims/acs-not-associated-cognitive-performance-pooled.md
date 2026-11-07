@@ -56,3 +56,4 @@ Meta-analysis (DerSimonian and Laird random-effects) of studies comparing active
 - [Longer duration of active commuting relates to better cognitive performance in a dose–response pattern among girls](acs-duration-dose-response-cognition.md) — reports the opposite
 - [Active commuting to school shows a positive association with at least one cognitive measure in a majority of reviewed studies, though findings are inconsistent across measures](acs-positive-cognition-association-majority-of-studies.md) — reports the opposite
 - [Commuting time has a negative but statistically negligible impact on students' after-school study time.](commuting-time-negligible-study-time.md) — related
+- [Active commuting to school and sitting playing board/card games show no association with executive function or academic achievement](active-commuting-board-games-null-associations.md) — possibly the same claim (merge candidate)

@@ -50,3 +50,4 @@ Observational rating study of the 25 most-viewed YouTube robotic ventral rectope
 - [Adherence of the most-viewed robotic ventral rectopexy videos to LAP-VEGaS and consensus reporting guidelines is low](low-guideline-adherence-surgical-videos.md) — related
 - [Senior surgeons rate online surgical videos as lower quality and lower educational utility than fellows and trainees do](seniors-rate-videos-more-critically.md) — related
 - [Agreement on GEARS surgical-performance domains is poor for force control, tissue handling, autonomy, and robot control, and marginal for depth perception, bimanual skill, and efficiency](gears-domain-agreement-poor.md) — related
+- [Inter-rater agreement between the two senior surgeon assessors on stage-one pass-or-fail decisions reached 100%](stals-tablt-inter-rater-agreement-100-percent.md) — related

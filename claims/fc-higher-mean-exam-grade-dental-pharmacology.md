@@ -57,3 +57,4 @@ Retrospective cohort comparison of exam results: 97 FC students (2021–2022) ve
 - [Flipped classroom seminars improved immediate topic-specific test performance in three of four pharmacology topics compared with conventional teaching](fc-immediate-test-gains-three-topics.md) — related
 - [Pre-seminar preparation did not clearly determine flipped-classroom test gains, and unprepared students were noninferior to conventional students](fc-preparation-noninferior-unprepared.md) — related
 - [Six months after flipped seminars, students retained more topic knowledge than conventionally taught students](fc-six-month-long-term-retention.md) — related
+- [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — related

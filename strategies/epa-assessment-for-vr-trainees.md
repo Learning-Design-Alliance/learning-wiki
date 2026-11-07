@@ -50,6 +50,7 @@ As a forward-looking recommendation for patient safety, the authors propose: "it
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
+- [Use non-compensatory, patient-safety standard setting when competence across index procedures is individually required](patient-safety-non-compensatory-standard-setting.md)
 
 ## Examples
 -

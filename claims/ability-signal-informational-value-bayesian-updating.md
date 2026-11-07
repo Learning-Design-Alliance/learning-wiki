@@ -53,3 +53,4 @@ Survey-based analysis of students in the Oakland Unified School District. The da
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
 - [Oakland Unified high school participation in Linked Learning career pathways rose from 49% in 2014 to 87.7% in 2020–21](linked-learning-pathway-participation-growth.md) — related
 - [Bayesian plan recognition worked poorly in a goal-free interface because students often had no recognizable plan](plan-recognition-fails-goal-free-interface.md) — related
+- [Students who failed the oral exam were excluded because they received immediate notification of non-passing status and could not make an independent self-assessment](failed-students-excluded-independent-self-assessment.md) — related

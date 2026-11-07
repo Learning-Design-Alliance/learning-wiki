@@ -52,3 +52,4 @@ Attitude items in the questionnaire survey of 502 students (Table 4). Large majo
 - [Dental students demonstrate average knowledge of TDI management with significant deficiencies in avulsion of permanent teeth.](dental-students-average-tadi-knowledge-avulsion-deficiency.md) — related
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
 - [Traditional classroom is the dominant source of TDI learning, and half of students are dissatisfied with it for clinical preparation](traditional-classroom-dominant-tdi-learning-source.md) — related
+- [Baseline survey of course completers confirmed deficiencies in undergraduate trauma teaching exposure](satmas-baseline-teaching-deficiency.md) — related

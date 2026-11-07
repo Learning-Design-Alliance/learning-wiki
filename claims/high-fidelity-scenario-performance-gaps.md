@@ -49,3 +49,4 @@ Observation of six residents in high-fidelity SimMOM scenarios (two per session)
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
 - [Intraoperative calls for help were infrequent in resident-led cases](resident-imn-low-call-for-help-rate.md) — related
+- [Half of teams did not use suprapubic pressure at all, and no team performed the Gaskin or Zavanelli maneuver](suprapubic-pressure-omitted-gaskin-zavanelli-not-performed.md) — related

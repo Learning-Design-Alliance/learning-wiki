@@ -50,3 +50,4 @@ Unadjusted χ² and adjusted logistic regression across 557 deliveries at 26 Mig
 - [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — related
 - [Cultural beliefs about suctioning and tilting newborns conflict with HBB-trained resuscitation practice and can delay appropriate care](cultural-beliefs-delay-neonatal-resuscitation.md) — related
 - [HBB training revealed existing malpractices and improved newborn care practices, including continuous resuscitation until death is certain](hbb-training-revealed-malpractices-improved-care.md) — related
+- [Use of stimulation, suction, and bag-mask ventilation increased from baseline to the intervention period and decreased afterward](resuscitation-interventions-increased-during-campaign.md) — related

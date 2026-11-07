@@ -57,3 +57,4 @@ Narrative synthesis of questionnaire results across the included studies; the ar
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
 - [In preliminary research, 79.06% of surveyed students reported interest in the multimedia materials and considered them helpful for learning listening skills](preliminary-survey-students-interested-multimedia-materials.md) — related
+- [Step-by-step teaching improves work attitude, team spirit and analytical ability, but not expression or communication skills, in postgraduate reproductive ultrasound trainees](sbs-mixed-effects-clinical-competence-subdomains.md) — related

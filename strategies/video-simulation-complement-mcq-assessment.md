@@ -52,6 +52,7 @@ The authors recommend adding video-based simulations to text-based MCQ examinati
 
 - [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 - [Use CSV-IE modules alongside MCQ-based assessments as complementary feedback for curriculum development](csv-ie-complementary-feedback-strategy.md)
+- [Combine SCTs with traditional knowledge-based assessments to capture clinical reasoning alongside lower-level knowledge outcomes](combine-sct-with-knowledge-based-assessments.md)
 
 ## Examples
 -

@@ -88,3 +88,5 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
 - [Simulation-based training yields higher resident satisfaction and self-confidence ratings](simulation-training-higher-satisfaction-neonatal-residents.md) — reports the opposite
 - [The self-serve training model significantly increases procedural confidence of novice ophthalmology residents but does not significantly improve skill assessment scores](self-serve-model-raises-confidence-not-skill-scores.md) — related
+- [Both high-fidelity simulation and case-based discussion increased theoretical knowledge scores, with no significant difference between groups](hfs-cbd-equal-knowledge-gains.md) — related
+- [Both high-fidelity simulation and case-based discussion increased medical students' self-confidence, with no significant difference between groups](hfs-cbd-equal-self-confidence-gains.md) — related

@@ -1,0 +1,69 @@
+---
+type: claim
+title: Third-year medical students taught with the 3-D skills model at a formative OSCE achieved significantly higher summative OSCE station pass rates than the rest of the year cohort, with a higher median grade banding of educational significance.
+description: Third-year medical students taught with the 3-D skills model at a formative OSCE achieved significantly higher summative OSCE station pass rates than the rest of the year cohort, with a higher median grade banding of...
+id: cl-3d-skills-summative-osce-improvement
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-07
+evidence_strength: moderate
+newest_evidence: 2024
+sources:
+  - id: robertson-c-2024
+    resource: "https://doi.org/10.1186/s12909-024-05943-9"
+    title: "Robertson C., Noonan Z., Boyle J.G. (2024). A case-controlled trial evaluating the summative performance of the 3-D skills Model. BMC Medical Education 24:954. https://doi.org/10.1186/s12909-024-05943-9"
+    author: Robertson C., Noonan Z., Boyle J.G.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+  - id: robertson-c-2024-2
+    resource: "https://doi.org/10.1186/s12909-024-05943-9"
+    title: "Robertson C., Noonan Z., Boyle J.G. (2024). A case-controlled trial evaluating the summative performance of the 3-D skills Model. BMC Medical Education 24:954. https://doi.org/10.1186/s12909-024-05943-9"
+    author: Robertson C., Noonan Z., Boyle J.G.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Third-year medical students taught with the 3-D skills model at a formative OSCE achieved significantly higher summative OSCE station pass rates than the rest of the year cohort, with a higher median grade banding of educational significance.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Students receiving 3-D skills teaching at a formative OSCE achieved significantly higher summative station pass rates than the rest of the year cohort, with a median of 12/12 stations passed versus 11/12, a difference the article calls both statistically and educationally significant. [→ Robertson C. 2024](#robertson-c-2024)
+
+## Evidence
+
+### Robertson C. 2024
+
+Robertson C., Noonan Z., Boyle J.G. (2024). A case-controlled trial evaluating the summative performance of the 3-D skills Model. BMC Medical Education 24:954. https://doi.org/10.1186/s12909-024-05943-9
+
+`q2 · i?` · `causal · r2`
+
+Summative results analysis of a case-controlled trial comparing formative OSCE attendees against the year cohort. Post-hoc Dunn-Bonferroni testing found the mean ranks comparing the "3-D skills cohort to the other year 3 students" significant (P < 0.01).
+
+> "The Post-Hoc Dunn’s test using the Bonferroni corrected alpha of 0.017 indicated that the mean ranks comparing the 3-D skills cohort to the other year 3 students and the unguided practice cohort to the other year 3 students were significant(P < 0.01)."
+
+### Robertson C. 2024 (2)
+
+Robertson C., Noonan Z., Boyle J.G. (2024). A case-controlled trial evaluating the summative performance of the 3-D skills Model. BMC Medical Education 24:954. https://doi.org/10.1186/s12909-024-05943-9
+
+`q2 · i?` · `causal · r2`
+
+Grade-correlation analysis in the results section maps summative grades to stations passed, indicating the 3-D skills cohort median of "12/12 stations passed" versus the rest of year 3 at "11/12 stations passed" would be both statistically and educationally significant.
+
+> "This suggests the differences between median grade for the 3-D skills cohort (12/12 stations passed) and the rest of year 3 (11/12 stations passed) would be both statistically and educationally significant."
+
+## Discussion
+
+
+## Related Claims
+- [Unguided practice at a formative OSCE was associated with statistically higher summative OSCE station pass rates than non-attendance, but the cohort's median matched non-attendees and the gain did not reach educational significance.](cl-unguided-practice-summative-gain-not-educationally-significant.md) — related
+- [Summative OSCE stations passed differed significantly across the three groups: 3-D skills attendees, unguided practice attendees, and year 3 students who did not attend.](cl-kruskal-wallis-three-group-summative-difference.md) — related
+- [Summative OSCE scores were numerically higher in the peer-led mock OSCE group but did not reach statistical significance](mock-osce-osce-performance-non-significant-trend.md) — related
+- [The summative OSCE difference between the 3-D skills cohort and the unguided practice cohort did not reach statistical significance.](cl-3d-vs-unguided-summative-difference-not-significant.md) — related

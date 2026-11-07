@@ -52,3 +52,4 @@ Weekday isotemporal substitution analysis (n=1644) of 20-minute reallocations be
 - [Simulated reallocations of time into sleep from any other behaviour set are associated with lower age-16 academic attainment among adolescents assessed at age 14](sleep-reallocation-lower-attainment8.md) — related
 - [Media-use reallocations show a mixed pattern of association with age-16 attainment, depending on the behaviour set time is taken from](media-reallocation-mixed-attainment8.md) — related
 - [Age-14 time-use composition is significantly associated with Attainment 8 in both weekday and weekend analyses](timeuse-composition-attainment8-association.md) — a broader claim this one bears on
+- [Higher MVPA relative to remaining movement behaviors at age 5.5 years is associated with lower academic achievement, and reallocating MVPA time to sleep predicts higher academic achievement](mvpa-academic-achievement-negative-sleep-reallocation-favorable.md) — reports the opposite

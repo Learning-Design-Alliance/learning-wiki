@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (112 show a difference, 32 mixed, 14 no difference) · 96 studies (26 associational, 23 review, 17 qualitative, 12 causal, 7 quant-synthesis, 7 design, 4 theoretical), `q1`–`q4` · 10 of 96 report an effect size · 158 claims rest on one study
+> **Evidence** · 161 claims (115 show a difference, 32 mixed, 14 no difference) · 97 studies (27 associational, 23 review, 17 qualitative, 12 causal, 7 quant-synthesis, 7 design, 4 theoretical), `q1`–`q4` · 10 of 97 report an effect size · 161 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -194,6 +194,9 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Safety control is positively associated with patient safety competency](../claims/safety-control-associated-patient-safety-competency.md) [+M] — learners who differ on it differ in outcomes
 - [Safety education does not directly influence patient safety competency or safety control](../claims/safety-education-no-direct-effect-competency-control.md) [-M] — measured as an outcome of the instruction studied
 - [Safety education frequency is positively associated with perception of patient safety culture among clinical nurses](../claims/safety-education-frequency-associated-safety-culture-perception.md) [+M] — measured as an outcome of the instruction studied
+- [Mentors perceive trainees' acquisition of psychological safety competencies during clinical internships as moderate to low, with skills weakest](../claims/mentor-rated-psychological-safety-competency-acquisition-moderate-low.md) [+M] — measured as an outcome of the instruction studied
+- [Mentors rate psychological safety competencies as highly significant despite low trainee acquisition](../claims/high-significance-low-acquisition-gap.md) [+M] — measured as an outcome of the instruction studied
+- [The lowest-acquired psychological safety competencies concern assertively warning professionals about unsafe behavior, managing their negative reaction, and supporting second victims](../claims/lowest-acquired-competencies-warning-and-second-victim-support.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

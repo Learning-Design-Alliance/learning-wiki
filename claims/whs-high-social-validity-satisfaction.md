@@ -60,3 +60,4 @@ Social validity data collected at posttest from intervention teachers using a si
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
+- [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related

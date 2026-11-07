@@ -49,3 +49,4 @@ Narrative review reports conflicting findings: Bostwick & Alexander (n=516) foun
 - [Clerkship timing within the academic year influences shelf exam performance](clerkship-timing-influences-shelf-scores.md) — related
 - [Clinical exposure and performance are not consistently associated with shelf exam scores](clinical-exposure-inconsistent-shelf-scores.md) — related
 - [Shortened pre-clinical curriculum is associated with lower shelf exam scores](shortened-preclinical-curriculum-lower-shelf-scores.md) — related
+- [Delayed clinical training after the virtual rotation did not improve shelf exam scores — the EADC cohort scored numerically lower than the EBC cohort](delayed-clinical-training-did-not-raise-shelf-scores.md) — related

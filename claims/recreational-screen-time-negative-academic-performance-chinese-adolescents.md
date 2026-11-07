@@ -54,3 +54,4 @@ Cross-sectional multiple linear regression on 175 CEPS middle school students, a
 - [Internet/game time is more detrimental to mathematics, English and overall performance than television time, showing heterogeneity by screen exposure type](screen-type-heterogeneity-internet-games-worse.md) — a narrower finding that bears on this claim
 - [School children's screen time is negatively associated with academic performance](screen-time-negatively-associated-academic-performance.md) — a broader claim this one bears on
 - [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related
+- [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — related

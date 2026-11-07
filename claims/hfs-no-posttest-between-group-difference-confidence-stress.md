@@ -51,3 +51,4 @@ Between-group independent-samples t-tests at posttest (two weeks after intervent
 - [Psychological support self-confidence increased significantly only in the simulation group, while the control group showed no significant change](hfs-psychological-support-increase-simulation-only.md) — related
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
 - [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](simulation-no-between-group-anxiety-stress-reduction.md) — possibly the same claim (merge candidate)
+- [Both high-fidelity simulation and case-based discussion increased medical students' self-confidence, with no significant difference between groups](hfs-cbd-equal-self-confidence-gains.md) — related

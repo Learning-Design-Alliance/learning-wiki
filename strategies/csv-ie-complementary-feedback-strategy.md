@@ -46,6 +46,7 @@ The article recommends pairing the CSV-IE with the GM-ITE so that the two provid
 ## Related Strategies
 
 - [Integrate video-based simulations into traditional MCQ examinations to assess non-verbal cue recognition and diagnostic competence](video-simulation-complement-mcq-assessment.md)
+- [Combine SCTs with traditional knowledge-based assessments to capture clinical reasoning alongside lower-level knowledge outcomes](combine-sct-with-knowledge-based-assessments.md)
 
 ## Examples
 -

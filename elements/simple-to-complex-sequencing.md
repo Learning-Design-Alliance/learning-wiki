@@ -97,6 +97,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](../strategies/staggered-learning-approach-ius-training.md)
 - [Select simple, typical, important authentic cases and sequence them from simple to complex, starting text-based before immersive modalities](../strategies/sequenced-authentic-whole-task-cases-flipped-learning.md)
 - [Sequence DP training from emotion regulation and foundational skills to higher-order skills](../strategies/dp-emotion-regulation-first-sequencing.md)
+- [Sequence microaggression curricula from foundational naming skills toward more complex debriefing skills](../strategies/foundational-to-complex-microaggression-sequencing.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

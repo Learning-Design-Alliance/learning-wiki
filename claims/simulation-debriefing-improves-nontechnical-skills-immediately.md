@@ -47,3 +47,4 @@ Prospective single-group cohort study of 85 pediatric medicine and nursing resid
 ## Related Claims
 - [Teams' global non-technical performance improved after the first training day but did not improve further at the delayed third simulation](global-nontechnical-performance-gain-not-retained.md) — related
 - [After a 107–161 day interval, resident teams retained leadership and teamwork from simulation training, but not task management or global non-technical performance](nontechnical-skill-retention-partial-after-months.md) — related
+- [Team communication, stress management, and task management were not significantly associated with high technical performance](team-communication-stress-task-management-not-associated-technical-performance.md) — related

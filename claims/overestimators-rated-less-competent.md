@@ -52,3 +52,4 @@ Comparison of expert evaluation scores between overestimation and underestimatio
 - [Trainee surgeons' self-assessment scores are lower than expert evaluation scores on a suture exercise](sa-lower-than-ee-suture-scores.md) — related
 - [Teletherapy experts nonetheless self-report being less skilful in teletherapy than in-person therapy, indicating self-assessment bias](experts-underestimate-teletherapy-skills.md) — related
 - [Healthcare professionals who rate themselves as very knowledgeable tend to overestimate their actual Alzheimer's disease knowledge](self-rated-ad-knowledge-overestimation.md) — related
+- [Most first-semester medical students misjudge their oral anatomy exam performance: 35.5% overestimate, 46.0% underestimate, and only 18.5% assess themselves accurately](self-assessment-accuracy-distribution-first-semester.md) — related

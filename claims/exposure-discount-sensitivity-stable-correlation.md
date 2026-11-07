@@ -52,3 +52,4 @@ Four-level sensitivity analysis of the exposure-discount coefficient on the 79-p
 - [The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course](longitudinal-dsa-review-ruler-tracking.md) — related
 - [LLM-generated difficulty ratings show only moderate rank alignment with empirical student performance on basic arithmetic items](llm-difficulty-moderate-rank-alignment-arithmetic.md) — related
 - [Group-level knowledge scores correlate perfectly and negatively with self-perceived competence across six profession × training strata](knowledge-confidence-spearman-negative-strata.md) — related
+- [Perceived subject difficulty across the MED4 curriculum correlates negatively with exam scores](perceived-subject-difficulty-negatively-correlates-with-exam-scores.md) — related

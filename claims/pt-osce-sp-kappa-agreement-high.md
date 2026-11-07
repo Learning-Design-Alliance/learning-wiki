@@ -70,3 +70,4 @@ Random effects meta-analysis of kappa coefficients for intra-rater reliability o
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [Inter-rater reliability was high for both Team OSCE (Kappa 0.80 pre, 0.76 post) and TPOT (ICC 0.94 pre, 0.93 post)](ipstar-interrater-reliability.md) — related
+- [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related

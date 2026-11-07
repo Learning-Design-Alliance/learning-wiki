@@ -12,7 +12,7 @@ generated:
 # Discussion-Oriented Flipped Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 theoretical), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 3 causal, 2 theoretical), `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 In a discussion-oriented flipped classroom, first exposure to new content is moved out of class — typically as curated video lectures or other pre-class materials — while in-class time is restructured around facilitated discussion, debate, and collaborative analysis of that content. The variant differs from a general [Flipped Classroom](../principles/flipped-learning.md) in that the class-time activity is primarily dialogic rather than problem-solving: students arrive with baseline knowledge and use discussion to interrogate, apply, and extend it.

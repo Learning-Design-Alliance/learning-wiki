@@ -57,3 +57,4 @@ Bonferroni post hoc analysis of learning scores in the three-group quasi-experim
 - [A large-class flipped classroom with design thinking produced no statistically significant difference in classroom quiz scores versus traditional large-class teaching](dt-flipped-classroom-no-quiz-score-difference.md) — possibly the same claim (merge candidate)
 - [No statistically significant difference in knowledge gains between live, flipped video, and interactive flipped methods (η² = 0.009)](no-between-group-difference-three-teaching-methods.md) — related
 - [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related
+- [CBL/FC and lecture-based teaching produce similar general knowledge test scores in nephrology bedside teaching](cbl-fc-no-knowledge-test-advantage.md) — related

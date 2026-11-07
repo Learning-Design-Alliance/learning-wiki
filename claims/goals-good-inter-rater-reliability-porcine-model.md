@@ -53,3 +53,4 @@ Reliability analysis using ICC(2,k) with a two-way random-effects model across f
 - [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
 - [Blinded GOALS assessment of videotaped cholecystectomies has moderate reliability (ICC(A,3) = 0.84 for consensus ratings)](goals-video-assessment-moderate-reliability.md) — related
+- [Blinded GOALS rating of the bleeding-exercise videos showed moderate-to-good inter-rater reliability (ICC = 0.72)](goals-bleeding-exercise-icc-moderate-good.md) — related

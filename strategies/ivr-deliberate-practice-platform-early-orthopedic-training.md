@@ -17,7 +17,7 @@ sources:
 # Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 design), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 design), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors recommend integrating the simulator into early orthopedic training "as a structured platform for deliberate practice and assessment, with the potential for performance data to guide individualized feedback and progression toward clinical readiness, pending confirmation from longitudinal training studies". They chose iVR simulation as the educational strategy in a six-step curriculum development approach because it supports deliberate practice, directed self-regulated learning, and automated objective assessment and feedback.
@@ -57,6 +57,8 @@ The authors recommend integrating the simulator into early orthopedic training "
 - [Integrate AOI-dependent eye-tracking and motion metrics into training sessions for real-time formative feedback and personalized training](eye-tracking-real-time-formative-feedback-laparoscopic-training.md)
 - [Structured return-to-work simulation bootcamp for surgeons returning after time out of training](return-to-work-surgical-bootcamp-strategy.md)
 - [Enhance lacrimal irrigation simulation training with force-sensitive gloves, longitudinal validation, and motion analytics](future-enhanced-simulation-validation-motion-analytics.md)
+- [Use particularly challenging procedural steps as the basis for targeted simulation-based training enabling deliberate practice](challenging-steps-drive-simulation-training-strategy.md)
+- [Include all five consensus-defined fluoroscopic views in a simulation-based curriculum, even those that fail to discriminate experience levels](include-all-five-delphi-views-in-curriculum.md)
 
 ## Examples
 -

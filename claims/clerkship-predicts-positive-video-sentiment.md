@@ -47,3 +47,4 @@ Chi-square tests of participant characteristics against manually categorised fee
 ## Related Claims
 - [Student feedback on the EYE-ECG2 video was largely positive or neutral, with 74% of intervention students responding](student-feedback-mostly-positive-neutral.md) — related
 - [The synchronised EYE-ECG2 video produced a moderate but nonsignificant tendency toward better ECG interpretation performance than training as usual](eye-ecg2-video-nonsignificant-tendency.md) — related
+- [A prior cardiological clerkship conferred only a small advantage (3.23%) on the basic score, and judging learning materials as easier was associated with reduced performance](clerkship-small-advantage-easier-materials-lower-performance.md) — related

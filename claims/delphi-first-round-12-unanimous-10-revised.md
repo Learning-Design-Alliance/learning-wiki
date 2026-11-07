@@ -56,3 +56,4 @@ In the first consensus iteration, participants evaluated each proposed competenc
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
+- [A French Delphi panel selected 24 technical skills and 20 non-technical skills to be taught as a priority through simulation during emergency medicine residency](delphi-selected-24-ts-20-nts-priority-simulation-em-residency.md) — related

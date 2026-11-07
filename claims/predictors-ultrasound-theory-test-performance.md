@@ -50,3 +50,4 @@ Multivariate linear regression analysis of the trial's test results with group a
 - [Within the internist subgroup, dynamic-image training outperformed static-image training on overall and pathology scores](internist-subgroup-dynamic-image-advantage.md) — related
 - [Having previously performed an echocardiography significantly influences post-test theory scores](prior-echocardiography-influences-posttest.md) — related
 - [Ultrasound simulator pathology training is highly valued, but respondents in no group agree that simulator training alone suffices to learn examination techniques](ultrasound-pathology-valued-alone-insufficient.md) — related
+- [The number of previously performed ultrasound examinations significantly influenced practical test results, while no defined factor significantly influenced theory test results](prior-ultrasound-experience-predicts-practical-dops.md) — reports the opposite

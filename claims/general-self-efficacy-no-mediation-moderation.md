@@ -52,3 +52,4 @@ Final regression model (Table 2, N = 828) of the chain mediation analysis. The a
 - [Smartphone addiction correlates negatively with academic resilience, self-efficacy and achievement, and positively with cognitive test anxiety](smartphone-addiction-correlation-pattern-secondary-students.md) — related
 - [Smartphone addiction has a negative, statistically significant direct and total effect on academic achievement in secondary school students](smartphone-addiction-negative-direct-effect-achievement.md) — related
 - [Objective effort does not mediate the motivation–achievement relationship: motivation is not associated with effort, nor effort with achievement](no-effort-mediation-motivation-achievement.md) — related
+- [General self-efficacy mediates the relationship between professional identity and academic achievement in nursing students](self-efficacy-mediate-professional-identity-academic-achievement.md) — reports the opposite

@@ -48,3 +48,4 @@ The article reports that teachers "increased their expertise (in Mathematics, pr
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
+- [Both performance groups felt peer assessment motivated their learning and mutual professional development](peer-assessment-motivates-mutual-learning.md) — related

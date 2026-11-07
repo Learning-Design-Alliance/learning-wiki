@@ -61,3 +61,5 @@ FDR-controlled (0.25) correlations between change in anxiety and academic perfor
 - [Anxiety and loneliness show moderate negative correlations with GPA among physiotherapy students](anxiety-loneliness-moderate-negative-gpa-correlations-physiotherapy.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
+- [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related
+- [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — reports the opposite

@@ -71,3 +71,4 @@ Sensitivity analysis restricting the OSATS to its significant elements. The "adj
 - [Most data-driven assessment tools in laparoscopic training focus on instrument handling, with only three studies evaluating tissue handling skills](most-tools-instrument-handling-few-tissue.md) — related
 - [The OSATS learning curve for robotic gastroenterostomy shows a turning point after 34 procedures, with lower grade B/C DGE after the turning point](osats-rge-learning-curve-turning-point-34.md) — related
 - [OSATS scores showed no predictive value for postoperative pancreatic fistula, postoperative pancreatic hemorrhage, or complications of Clavien-Dindo grade 3 or higher after robotic pancreatoduodenectomy](osats-rge-no-prediction-other-complications.md) — related
+- [Subjective gentleness ratings correlate negatively with objectively measured force on tissue during robotic suturing](gentleness-negatively-correlated-with-force.md) — related

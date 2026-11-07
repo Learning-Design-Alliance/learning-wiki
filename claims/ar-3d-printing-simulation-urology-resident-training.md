@@ -54,3 +54,4 @@ Narrative review synthesis reporting the reviewed meta-analysis (Xiong et al.) f
 - [AR-assisted training improves OSATS Global scores in novice laparoscopic learners](ar-training-improves-osats-global-laparoscopic.md) — a narrower finding that bears on this claim
 - [Only one included study assessed predictive validity, showing a curriculum including body donor lab sessions improved real-patient laparoscopic performance over conventional training](single-predictive-validity-study-palter.md) — a broader claim this one bears on
 - [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — a broader claim this one bears on
+- [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related

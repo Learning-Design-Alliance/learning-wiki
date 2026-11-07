@@ -47,6 +47,7 @@ The article proposes a structured integration framework in which AI systems firs
 - [Hybrid pedagogical framework: AI-generated cases refined through expert review and supplemented with curated imaging data](hybrid-ai-expert-case-generation-framework.md)
 - [Generative-AI-assisted content creation with domain-expert validation for adaptive tutoring systems](genai-assisted-content-creation-expert-validation.md)
 - [Start AI-based MCQ generation from a test blueprint specifying topic and cognitive domain](blueprint-first-ai-mcq-generation.md)
+- [Use ChatGPT to break case scripts into scenes, prompt Midjourney for animation, and generate and place question-bank items in scenario simulation videos](chatgpt-midjourney-scenario-video-production-strategy.md)
 
 ## Examples
 -

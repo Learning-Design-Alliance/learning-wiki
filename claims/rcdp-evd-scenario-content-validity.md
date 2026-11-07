@@ -60,3 +60,4 @@ Content assessment by seven nurse reviewers via an online Likert-scale form, ana
 - [A high-fidelity PACU pain-control simulation scenario reached adequate content validity after two expert review stages (S-CVI/UA 85; S-CVI/Ave 0.98)](pacu-pain-scenario-content-validated.md) — related
 - [Expert content review using the Davis method removed five draft items with content validity indices below 0.80](scas-content-validity-davis-cvi-item-removal.md) — related
 - [The clinical simulation scenario reached 100% expert agreement on all items after a second Delphi round in which four modified items improved their Content Validity Index](simulation-scenario-cvi-improvement-second-round.md) — related
+- [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related

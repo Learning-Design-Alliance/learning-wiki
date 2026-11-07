@@ -54,6 +54,7 @@ Based on the path-model findings, the article recommends that educators prioriti
 
 - [Embed structured self-regulation and time management supports in higher education instruction, advising, and first-year curricula](embed-sr-tm-supports-higher-education.md)
 - [Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students](relational-resources-low-efficacy-students.md)
+- [Foster non-cognitive skills as an avenue for educational intervention, particularly in later school years](foster-noncognitive-skills-intervention-strategy.md)
 
 ## Examples
 -

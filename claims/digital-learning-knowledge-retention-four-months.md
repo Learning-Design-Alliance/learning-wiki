@@ -62,3 +62,4 @@ Narrative synthesis of retention findings, attributed by the review to Azman et 
 - [Diagnostic accuracy gains from perceptual learning are retained three months after training ends](plm-accuracy-gains-retained-three-months.md) — a narrower finding that bears on this claim
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
+- [Self-reported confidence in performing and teaching the slit-lamp exam increased significantly after the SBML curriculum and remained elevated at two months](sbml-slitalmp-confidence-increase.md) — a narrower finding that bears on this claim

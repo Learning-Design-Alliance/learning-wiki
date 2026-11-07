@@ -56,6 +56,7 @@ The article recommends that universities move beyond curriculum delivery to fost
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Structure educational environments to facilitate role model identification and embed role models in a broader social network](structure-environments-for-role-model-identification.md)
 - [Foster supportive classroom environments and monitor academic emotions to improve English learning outcomes](supportive-classroom-emotion-monitoring-strategy.md)
+- [Strengthen teacher support, academic self-efficacy and positive academic emotions to raise university students' achievement](support-efficacy-emotions-enhancement-strategies.md)
 
 ## Examples
 -

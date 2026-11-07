@@ -51,3 +51,4 @@ Likelihood-ratio model comparison in ConQuest on the 128-item competence test (1
 - [The six-process structure of inductive reasoning fits fifth graders' figurative-test data better than a unidimensional model](six-process-model-fits-better-than-unidimensional.md) — related
 - [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
+- [Rasch analysis did not support unidimensionality of the LBCS knowledge and skills dimension](lbcs-rasch-unidimensionality-not-supported.md) — related

@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (47 for, 40 mixed, 3 against) · 63 studies (35 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 63 report an effect size · 82 claims rest on one study
+> **Evidence** · 91 claims (48 for, 40 mixed, 3 against) · 64 studies (36 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 64 report an effect size · 83 claims rest on one study
 
 ## Description
 
@@ -183,6 +183,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice](../claims/spaced-math-practice-raises-scores-and-calibration.md) [+M] — added 2026-11-05 from Emeny, Hartwig and Rohrer (2021), two Year 7 classroom experiments; entry written from the abstract; not yet read against the model above.
 - [Distributing mathematics practice over three days instead of one helped seventh graders at one and six weeks, but third graders only at one week](../claims/distributed-math-practice-grade3-grade7-classroom.md) [~M] — added 2026-11-05 from Barzagar Nazari and Ebersbach (2019), 213 third and seventh graders; for third graders the data supported a benefit only at one week; entry written from the abstract; not yet read against the model above.
 - [Repeated mental imagery based on a cognitive aid improves the non-technical skills of novice anesthesia residents in simulated cardiopulmonary resuscitation at 6 months](../claims/mental-imagery-cognitive-aid-improves-nontechnical-skills-cpr-simulation.md) [+W] — attached 2026-11-06 from Levy Manon et al. (2025), which proposed "Structure mental imagery training of a cognitive aid as relaxation before, guided imagery, and refocusing after, repeated at gradually increasing intervals".
+- [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](../claims/reversed-classroom-workshops-beat-lecture-ecg.md) [+W] — attached 2026-11-07 from Chaumont Corentin et al. (2024), which proposed "Combine spaced repetition with reversed pedagogy (students teaching others) when teaching complex interpretive skills like ECG analysis"; tests this page's relationship.
 
 ## Source verification and open tests
 

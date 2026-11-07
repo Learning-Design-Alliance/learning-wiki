@@ -71,3 +71,4 @@ Test-retest reliability was assessed with 46 nurses across two administrations s
 - [The scale shows robust reliability: Cronbach's alpha 0.96, Spearman-Brown 0.86, and composite reliability coefficients above 0.60](gp-depression-scale-reliability-alpha-0-96.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
+- [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related

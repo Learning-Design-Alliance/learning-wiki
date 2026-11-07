@@ -63,3 +63,4 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
 - [Pass/fail decisions from simulation and OSCE show substantial consistency (Cohen's kappa = 0.67), and a simulation cut-score of 75 aligns with OSCE and practicum outcomes](simulation-osce-decision-consistency-kappa.md) — related
+- [Inter-rater agreement between the two senior surgeon assessors on stage-one pass-or-fail decisions reached 100%](stals-tablt-inter-rater-agreement-100-percent.md) — related

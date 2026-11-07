@@ -49,3 +49,4 @@ Second-round reassessment of the same five models on the identical 150 MCQs ten 
 - [ChatGPT-4 achieved the highest accuracy of the five tested AI models on standardised dental MCQs, at 91.3% in both testing sessions](chatgpt-4-highest-accuracy-dental-mcqs-91-3.md) — related
 - [ChatGPT-4 and Grok XI answered the highest proportion of dental MCQs correctly overall, with top scores ranging from 89.3% to 92.7% across sessions](top-llm-scores-89-93-to-92-7-dental-mcqs.md) — related
 - [ChatGPT-4, Grok XI and Gemini showed strong test-retest consistency (kappa 0.869–0.916), whereas Qwen 2.5 (0.650) and DeepSeek-V3 (0.735) fluctuated more between sessions](llm-test-retest-consistency-dental-mcqs.md) — related
+- [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related

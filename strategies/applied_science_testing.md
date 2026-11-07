@@ -12,7 +12,7 @@ generated:
 # Applied Science Testing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 8 studies (4 causal, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (4 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 6 of 9 report an effect size
 
 ## Description
 Applied science testing engages learners in using scientific principles and procedures to evaluate real-world materials and products — for example, testing the solubility of different packing materials or comparing the quality and price of plastic kitchen wraps. Learners design or follow test protocols, collect data, and justify evaluative conclusions, treating everyday products as objects of scientific inquiry.

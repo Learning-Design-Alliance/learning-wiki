@@ -52,6 +52,7 @@ The authors position the system as supporting deliberate practice — repeated, 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Provide intensive early supervision to build mental representation, then transition learners to self-directed practice with automated feedback](early-intensive-supervision-then-self-directed-practice.md)
 - [Use AI-powered virtual patients for deliberate, psychologically safe communication practice with automated personalized feedback](ai-virtual-patient-deliberate-practice-strategy.md)
+- [Use particularly challenging procedural steps as the basis for targeted simulation-based training enabling deliberate practice](challenging-steps-drive-simulation-training-strategy.md)
 
 ## Examples
 -

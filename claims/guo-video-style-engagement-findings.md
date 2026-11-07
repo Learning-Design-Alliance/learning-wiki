@@ -75,3 +75,4 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 - [In one included study, students' perception scores were better for the direct classroom course than the online sessions](classroom-perceptions-beat-online-sessions-one-study.md) — related
 - [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](classroom-learning-more-comprehensive-than-recorded-video.md) — related
 - [75% of recent studies report a direct relation between Open Teaching and MOOC, dependent on MOOC design](mooc-open-teaching-relation-design-dependent.md) — related
+- [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related

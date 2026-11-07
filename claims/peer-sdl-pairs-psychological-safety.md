@@ -55,3 +55,4 @@ Thematic analysis of interviews with 21 healthcare professionals, clinical educa
 - [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related
 - [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](four-relational-components-coaching-partnership.md) — related
 - [Repeated SDL skills training increases the approval rate of care tasks among healthcare professionals.](repeated-sdl-training-increases-approval-rate.md) — related
+- [Both performance groups felt peer assessment motivated their learning and mutual professional development](peer-assessment-motivates-mutual-learning.md) — related

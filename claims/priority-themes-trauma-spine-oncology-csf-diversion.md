@@ -47,3 +47,4 @@ In the discussion of the three-round Delphi needs assessment with KOLs, the auth
 ## Related Claims
 - [A three-round modified Delphi consensus process with neurosurgical key opinion leaders produced a prioritised list of 47 procedural skills for simulation-based learning](delphi-consensus-47-neurosurgical-procedures-sbe.md) — a broader claim this one bears on
 - [Patient positioning with pinning and flap design, ICP probe insertion, and EVD insertion were ranked the three highest-priority procedural skills for neurosurgical SBE](top-three-neurosurgical-sbe-skills-positioning-icp-evd.md) — a narrower finding that bears on this claim
+- [The Delphi panel selected 15 situations as starting points for priority use in emergency medicine residency simulation scenarios](delphi-selected-15-ssps-priority-simulation-scenarios.md) — related

@@ -71,3 +71,4 @@ Authors' interpretation from review of performance data and captured videos: nov
 ## Related Claims
 - [A composite total simulator score on an expert-informed iVR simulator significantly discriminated between novice and experienced orthopedic surgeons after a single procedure (Cohen's d = 4.2)](ivr-total-score-discriminates-novices-experienced-drf.md) — a narrower finding that bears on this claim
 - [After excluding one construct-irrelevant metric, the remaining 31 simulator metrics showed acceptable internal consistency (standardized Cronbach's alpha = 0.79)](internal-consistency-alpha-079-31-metrics.md) — related
+- [A composite fluoroscopy score on the iVR simulator discriminates novices from experienced surgeons with a very large effect size (partial eta squared = 0.54)](ivr-fluoroscopy-composite-score-discriminates-experience.md) — related

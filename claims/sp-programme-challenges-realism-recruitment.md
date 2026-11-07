@@ -48,3 +48,4 @@ In the thematic analysis, an SP participant explained that student familiarity u
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Stakeholders perceive the SP programme as a safe, standardised educational strategy that addresses ethical, cultural and exposure barriers of practising on real patients](stakeholders-perceive-sp-programme-safe-standardised.md) — related
+- [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](student-critical-perspectives-simulations.md) — related

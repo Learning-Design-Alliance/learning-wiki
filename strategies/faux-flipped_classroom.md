@@ -12,7 +12,7 @@ generated:
 # Faux-Flipped Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q2`–`q4` · 6 of 13 report an effect size
+> **Evidence** · 4 claims (4 for) · 14 studies (7 quant-synthesis, 3 causal, 2 review, 2 theoretical), `q2`–`q4` · 7 of 14 report an effect size
 
 ## Description
 The faux-flipped classroom adapts the [Flipped Classroom](../principles/flipped-learning.md) model for young learners. Instead of sending instructional videos home as homework, students watch short teacher-created videos *during* class — often in a station-rotation or small-group structure — and the teacher then circulates to provide one-to-one guidance, feedback, and coaching on practice. The "faux" label reflects that the out-of-class/in-class inversion is softened: the goal is not homework replacement per se but freeing the teacher's attention for individualized support while students still have access to direct instruction.

@@ -69,6 +69,10 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 - [Structured three-day intensive suturing course progressing from daily single-knot practice to a final anastomosis task](three-day-intensive-suturing-course-progression.md)
+- [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
+- [Four-step graduated practical training sequence from trainer demonstration to learner performance with real-time feedback](four-step-graduated-echo-simulator-practice-sequence.md)
+- [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
+- [Deliver ultrasound-guided aspiration training as a 15-minute orientation video followed by a 20-minute one-on-one workshop and a 5-minute independent skills test](video-workshop-skills-test-sequence-strategy.md)
 
 ## Examples
 -

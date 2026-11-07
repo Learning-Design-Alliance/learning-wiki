@@ -49,3 +49,5 @@ Summative OSCE scores (five stations, checklist-scored 0–10, faculty examiners
 - [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related
 - [State anxiety showed no significant correlation with summative OSCE performance](no-correlation-state-anxiety-osce-performance.md) — related
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
+- [Third-year medical students taught with the 3-D skills model at a formative OSCE achieved significantly higher summative OSCE station pass rates than the rest of the year cohort, with a higher median grade banding of educational significance.](cl-3d-skills-summative-osce-improvement.md) — related
+- [A multidisciplinary discussion-group workshop on breaking bad news is associated with a significantly higher summative OSCE score than conventional university teaching](discussion-group-workshop-higher-osce-breaking-bad-news.md) — related

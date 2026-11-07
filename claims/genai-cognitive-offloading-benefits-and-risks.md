@@ -56,3 +56,4 @@ The article attributes this cognitive offloading argument to Atchley et al. (202
 - [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — related
 - [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](genai-higher-order-thinking-mixed.md) — related
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related
+- [Cognitive offloading — using physical external elements to reduce task cognitive demand — improves performance in perception, memory, mathematical thinking, and spatial reasoning](cognitive-offloading-improves-performance-extended-mind.md) — related

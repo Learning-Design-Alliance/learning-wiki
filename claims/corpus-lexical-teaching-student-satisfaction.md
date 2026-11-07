@@ -50,3 +50,4 @@ Qualitative open-ended interviews conducted by the researcher after the posttest
 - [Educators reported high satisfaction with Story Friends, but some found repeated listens and scheduling challenging](story-friends-social-validity-teachers.md) — related
 - [Both video and text/image groups reported satisfaction with the materials and activities in class](both-groups-satisfied-with-materials-and-activities.md) — related
 - [95% of experimental-learning participants showed sufficient or high levels of lexical skills and speech abilities at course end in a one-group pre-test-to-post-test study with no comparison group](95-percent-sufficient-high-lexical-levels.md) — related
+- [Experimental-group students were more satisfied with teaching scene, individual participation, and teaching content, but not with course discussion, group cooperation, or teacher style](ai-scenario-simulation-selective-satisfaction-gains.md) — related

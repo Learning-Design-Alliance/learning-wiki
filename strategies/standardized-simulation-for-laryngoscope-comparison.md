@@ -51,7 +51,8 @@ The authors recommend standardized simulated patients as the setting for compari
 - [With a direct laryngoscope, experts direct their gaze farther than novices during the laryngoscope insertion phase](../claims/direct-laryngoscope-experts-gaze-farther-laryngoscope-insertion.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
 
 ## Examples
 -

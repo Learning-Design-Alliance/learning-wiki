@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 24 studies (13 causal, 6 review, 4 quant-synthesis, 1 design), `q2`–`q4` · 4 of 24 report an effect size · 22 claims rest on one study
+> **Evidence** · 26 claims (15 for, 10 mixed, 1 against) · 25 studies (14 causal, 6 review, 4 quant-synthesis, 1 design), `q2`–`q4` · 4 of 25 report an effect size · 24 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -45,6 +45,8 @@ Spaced learning is the element in which practice or review is distributed over t
 - [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](../claims/counting-days-benefits-lower-gpa-students.md) [~W]
 - [For the untrained ITD task, the 1–3 h lapse manifested as uniform performance at naïve levels with stable within-session performance](../claims/itd-lapse-uniform-naive-level-performance.md) [~W]
 - [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](../claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md) [+W]
+- [Spaced training produces a significantly higher total suturing score than concentrated training immediately after training](../claims/spaced-training-higher-posttraining-total-score-suturing.md) [+W] — attached 2026-11-07 from Yan Xinjian et al. (2024), which proposed "Spaced training protocol of three 40-minute sessions with 20-minute active breaks for cosmetic suturing instruction"; tests this page's relationship.
+- [At three-month follow-up, the spaced training group scores significantly higher than the concentrated group on total score and all three subscales](../claims/spaced-training-higher-followup-all-scores.md) [+W] — attached 2026-11-07 from Yan Xinjian et al. (2024), which proposed "Spaced training protocol of three 40-minute sessions with 20-minute active breaks for cosmetic suturing instruction"; tests this page's relationship.
 
 ## The evidence by question
 - *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]

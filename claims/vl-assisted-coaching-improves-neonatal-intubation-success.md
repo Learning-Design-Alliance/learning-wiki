@@ -90,3 +90,4 @@ RCT randomising 49 neonatal learners with under one year of intubation experienc
 - [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related
 - [Instructor assessment found similar screening technique across groups except that the test group more often provided instructions and screened according to protocol](hss-instructor-technique-assessment.md) — related
 - [The first attempt success benefit of just-in-time coaching was significant among residents but not among fellows or student registered nurse anesthetists](jit-coaching-resident-subgroup-benefit.md) — related
+- [Trainee autonomy scores did not significantly change from pre-test to post-test in one uncontrolled pre-post study of structured video-assisted coaching during the short course timeframe](coaching-no-autonomy-improvement.md) — related

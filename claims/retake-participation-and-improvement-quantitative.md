@@ -69,3 +69,4 @@ Wilcoxon signed rank tests compared retake and initial quiz scores across offeri
 - [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](quiz-retakes-increase-relatedness.md) — related
 - [Quiz retakes and low-stakes assessments increased students' sense of autonomy over grade outcomes and study decisions](quiz-retakes-increase-autonomy.md) — related
 - [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](positive-student-perceptions-oral-retest.md) — related
+- [Students overwhelmingly liked optional exam retakes and perceived them as helping their learning, with most retakers reporting substantial study effort](retakes-popular-perceived-learning-benefit.md) — related

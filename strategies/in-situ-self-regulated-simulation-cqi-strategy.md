@@ -54,6 +54,7 @@ The article recommends sustaining clinical skills through frequent self-regulate
 - [Embed simulation-based training in integrated packages and consider on-site delivery in low-resource settings](integrated-package-onsite-training-low-resource-settings.md)
 - [Integrate hands-on telenursing simulation training into nursing curricula and continuing education](integrate-telenursing-training-curricula-strategy.md)
 - [Encourage at least weekly virtual simulation practice until competence, then at least monthly for retention](venc-monthly-practice-frequency-strategy.md)
+- [The Golden Minute Campaign: a multifaceted data-guided QI/simulation intervention combining trained local-champion facilitators, monthly scenario team training, clinical debriefings, and clinical data feedback loops](golden-minute-campaign-qi-simulation-intervention.md)
 
 ## Examples
 -

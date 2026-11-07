@@ -72,6 +72,7 @@ The article recommends that GAI-based teaching be adopted as a complement to, no
 - [Incorporate artificial intelligence and high-technology simulation methods into future oncology simulation research and practice](ai-enhanced-future-oncology-simulation.md)
 - [Multifaceted integration of simulator-based training into medical curricula with adaptive, learner-group-specific teaching methods and qualified supervision](adaptive-sbt-curriculum-integration-strategy.md)
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
+- [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 
 ## Examples
 -

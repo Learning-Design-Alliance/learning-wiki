@@ -51,3 +51,4 @@ Agree/Disagree/Undecided items completed by all 109 satisfaction-sample particip
 - [After a single 90-minute training session, novices trained on a high-fidelity VR arthroscopy simulator show no significant skill-acquisition advantage over novices trained on a low-fidelity benchtop simulator](single-session-no-fidelity-skill-acquisition-difference-arthroscopy.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
+- [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — possibly the same claim (merge candidate)

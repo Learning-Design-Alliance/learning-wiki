@@ -62,6 +62,7 @@ The article recommends a staged approach to simulation training for paediatric s
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 - [Adopt practical training scenario simulation teaching in teaching-hospital internships while managing preparation burden via standardized case templates or digital platforms](adopt-scenario-simulation-manage-preparation-burden.md)
 - [Phased co-production and cascade training model for developing and implementing new nursing education content](phased-coproduction-cascade-training-strategy.md)
+- [Adopt simulation-based training in nursing education, particularly high-fidelity simulations, to develop students' essential skills](adopt-simulation-based-training-nursing-education-strategy.md)
 
 ## Examples
 -

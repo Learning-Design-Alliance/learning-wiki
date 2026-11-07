@@ -13,7 +13,7 @@ generated:
 # Literacy Centers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 21 studies (10 quant-synthesis, 4 review, 4 theoretical, 3 causal), `q1`–`q4` · 9 of 21 report an effect size
+> **Evidence** · 7 claims (6 for, 1 mixed) · 22 studies (10 quant-synthesis, 5 theoretical, 4 review, 3 causal), `q1`–`q4` · 10 of 22 report an effect size
 
 ## Description
 Literacy centers are designated areas in the classroom where students work independently or collaboratively on meaningful literacy tasks — such as word work, listening, writing, or independent reading — to practice and extend skills taught during core instruction. The structure frees the teacher to deliver uninterrupted small-group reading instruction, enabling greater scaffolding and strategic coaching for the group at the table. Centers typically rotate on a schedule, with students moving between stations individually or in small groups.

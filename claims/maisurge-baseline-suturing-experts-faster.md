@@ -54,3 +54,5 @@ Baseline task of the controlled trial: before the TLH simulation, all participan
 - [FVS task-level scores distinguished experience level for one-handed knot tying and plication suturing but not for all five tasks](fvs-task-level-novice-experienced-differences-ghana.md) — related
 - [Ob/Gyn residents in the Ghanaian program reported uniformly low confidence in performing vaginal hysterectomy and other vaginal surgeries](ghana-residents-low-confidence-vaginal-surgery.md) — related
 - [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — related
+- [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
+- [LSPPDM group completed basic laparoscopic model tasks faster, with fewer failures and higher scores](lsppdm-better-basic-laparoscopic-skills.md) — related

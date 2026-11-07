@@ -52,3 +52,4 @@ Finding reported in the review's Table 1 for Sodergren et al. (2011), a study of
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [AR-assisted training improves GOALS Global scores in novice laparoscopic learners](ar-training-improves-goals-global-laparoscopic.md) — related
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](vsa-predicts-mis-simulator-performance-novices.md) — related
+- [Digital laparoscopy training on a low-cost simulator produces no significant difference in overall task errors compared with in-person training in laparoscopic novices](digital-in-person-laparoscopy-training-equal-errors-novices.md) — related

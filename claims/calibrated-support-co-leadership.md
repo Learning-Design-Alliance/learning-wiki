@@ -123,3 +123,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related
 - [The clinical EVT team leader facilitates collaboration inconsistently, in contrast with leadership behaviour observed in simulation](evt-leader-inconsistent-clinical-presence.md) — related
 - [The local team gradually gained expertise and skills from the visiting missions, which also arranged external training for institute staff](skill-transfer-through-visiting-missions.md) — related
+- [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related

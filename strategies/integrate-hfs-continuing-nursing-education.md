@@ -54,6 +54,7 @@ The review concludes that HFS training can be used in ongoing training for pract
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 - [Integrate ATLS-based simulation programs into nursing curricula](integrate-atls-simulation-into-nursing-curricula.md)
 - [Systematically integrate high-fidelity simulation into maternal-newborn courses with faculty development and gender-inclusive support](systematic-hfs-integration-maternal-newborn-courses.md)
+- [Adopt simulation-based training in nursing education, particularly high-fidelity simulations, to develop students' essential skills](adopt-simulation-based-training-nursing-education-strategy.md)
 
 ## Examples
 -

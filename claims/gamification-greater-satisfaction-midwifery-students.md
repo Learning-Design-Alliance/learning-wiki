@@ -52,3 +52,4 @@ Satisfaction was measured four months after the intervention with a 16-question 
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
+- [Students taught with gamification (in a flipped learning environment or alone) were more satisfied than students taught by flipped class or lecture](gamification-methods-higher-satisfaction.md) — a broader claim this one bears on

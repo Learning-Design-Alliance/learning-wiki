@@ -51,3 +51,4 @@ Quasi-experimental cluster design comparing 31 experienced (Cohort 1) and 42 nov
 - [Teacher satisfaction with SBI did not differ significantly between experienced and novice implementer cohorts](sbi-teacher-satisfaction-no-difference.md) — related
 - [Fidelity checks confirmed program differentiation: SBI elements were implemented substantially more in treatment classrooms while general instructional quality was similar](sbi-fidelity-program-differentiation.md) — related
 - [Treatment teachers implemented proportional problem solving instruction with substantially higher fidelity to SBI practices than control teachers](sbi-fidelity-implementation-differences.md) — related
+- [The same instructional practice can produce different student motivation outcomes depending on the instructor, underscoring fidelity to evidence-based methods](practice-fidelity-varies-motivation-outcomes.md) — related

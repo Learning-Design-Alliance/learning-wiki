@@ -12,7 +12,7 @@ generated:
 # Multiple Writing Surfaces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 9 studies (5 causal, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 10 studies (5 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Multiple writing surfaces involve providing learners with a variety of spaces where they can write and express their ideas — walls, tables, windows, portable whiteboards, or adhesive dry-erase films. The strategy makes writing a public, movable, and shared activity rather than a private one confined to notebooks, supporting brainstorming, collaborative problem-solving, and visible thinking. Because work is externalized on shared surfaces, it can be compared, annotated, revised, and discussed by the whole group.

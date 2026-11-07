@@ -55,3 +55,4 @@ Quasi-experimental study using Champion's revised Health Belief Model Scale (63 
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
 - [The PBL-KAP-AI model improves health beliefs in breast cancer patients more than conventional health education](pbl-kap-ai-improves-health-beliefs.md) — related
 - [Simulation-based breast health education significantly increased confidence, skills, and behavioral awareness related to breast cancer among Afghan refugee women compared to the control group](simulation-education-confidence-behavior-increase.md) — related
+- [Participants improved across all 7 eHealth literacy subscales, with the largest gains in using technology to process health information and understanding health concepts and language](ehlq-seven-subscales-improved.md) — related

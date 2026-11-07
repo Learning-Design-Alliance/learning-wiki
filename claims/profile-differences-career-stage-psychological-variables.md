@@ -79,3 +79,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — reports the opposite
 - [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related
 - [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](sex-difference-competence-significant-except-core-skills.md) — reports the opposite
+- [Age, marital status, educational level, and professional title did not significantly affect PCC competence in the multiple regression](demographics-nonsignificant-in-regression.md) — reports the opposite

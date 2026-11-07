@@ -66,3 +66,4 @@ Same Mann–Whitney comparisons for exercise 3 (anastomosis suture): no signific
 ## Related Claims
 - [Novice students grasp and place a 9.0 needle significantly faster with a microscope than with the Symani robotic system](microscope-faster-needle-grasp-placement-than-symani.md) — related
 - [Inexperienced students can adequately perform simulated microsurgical steps with both microscope and robot without prior training](novices-complete-microsurgery-simulation-both-systems.md) — related
+- [Recent microsurgical suture volume and prior robotic exposure shaped the learning curve: more microscope sutures predicted faster mean time, more loupe sutures predicted larger improvement, and prior robotic experience predicted a less steep improvement](suture-volume-and-robotic-exposure-shape-learning-curve.md) — related

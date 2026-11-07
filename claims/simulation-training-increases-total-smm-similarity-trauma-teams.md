@@ -52,3 +52,4 @@ Cluster-randomized multicenter pre–post study of 29 trauma teams (186 particip
 - [Teamwork ability and clinical thinking ability scores rose from pretraining to day 1 after simulation and day 30 of clinical practice in one single-group pre-post study (Kirkpatrick learning level)](cpr-training-improves-teamwork-clinical-thinking.md) — related
 - [Reported pre/post time-to-CT data suggest a larger benefit from in-situ than off-site simulation training, an untested observation](in-situ-simulation-larger-time-to-ct-benefit.md) — related
 - [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
+- [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](total-teamwork-events-nonsignificant-increase.md) — related

@@ -53,3 +53,4 @@ Descriptive synthesis of the 23 included studies (17 medicine, 3 pharmacy, 2 nur
 - [ChatGPT accuracy on health licensing examinations is highest in pharmacy and lowest in nursing](chatgpt-accuracy-field-order-pharmacy-nursing.md) — related
 - [ChatGPT's reported accuracy on medical licensing examinations varies widely across countries, from 22% (France) to 73% (Italy)](chatgpt-medical-exam-accuracy-varies-by-country.md) — related
 - [Prior studies report widely varying ChatGPT diagnostic accuracy in dentistry (11% to 99%), likely due to differences in question types and content](prior-chatgpt-dental-accuracy-studies-vary-11-to-99-percent.md) — related
+- [GPT-4 answers higher-order anesthesiology questions significantly better than first-order questions; clinical-case inclusion shows no significant difference](gpt4-higher-order-versus-first-order-questions.md) — related

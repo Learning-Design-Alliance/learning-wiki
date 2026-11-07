@@ -13,7 +13,7 @@ generated:
 # Pre-recorded Instructional Video
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 17 studies (7 causal, 6 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 5 of 17 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 18 studies (7 causal, 6 quant-synthesis, 3 review, 2 theoretical), `q2`–`q4` · 6 of 18 report an effect size
 
 ## Description
 Pre-recorded instructional video delivers [Direct Instruction](../elements/direct-instruction.md), [Demonstration](../elements/demonstration.md), or explanation asynchronously: the instructor records content in advance and publishes it through a hosting platform (e.g., YouTube, Canvas, Panopto). Learners can pause, rewind, and rewatch at will, and synchronous sessions can be repurposed for [Practice](../elements/practice.md) and interaction rather than one-way transmission.
@@ -88,6 +88,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 - [Offer mentor PD as an online asynchronous MOOC to fit teachers' working conditions](asynchronous-mooc-mentor-pd-access.md)
+- [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

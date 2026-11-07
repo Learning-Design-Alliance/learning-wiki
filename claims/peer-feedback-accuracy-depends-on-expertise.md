@@ -140,3 +140,4 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Peer ratings of programming assignments correlated significantly with instructor ratings, with students more accurate on objective than subjective judgements](sitthiworachart-peer-ratings-objective-judgements.md) — related
 - [Most studies used online peer feedback to improve students' task performance](peer-feedback-function-task-performance-dominant.md) — related
 - [Students' self-assessed assignment grades correlated moderately with instructor grades (r = 0.361, P < 0.001), with 60.6% of students self-assessing below the instructor grade](self-assessed-grades-moderate-correlation-instructor.md) — related
+- [Students at all performance levels sought peer feedback on their own, facilitated by prior knowledge of learning objectives, though lower performers preferred tutor feedback](feedback-seeking-objectives-and-tutor-preference.md) — related

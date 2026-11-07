@@ -55,3 +55,4 @@ Bootstrap mediation analysis in the SEM study of 566 Chinese EFL students confir
 - [Positive academic emotions strongly predict agentic engagement](pae-predict-agentic-engagement.md) — related
 - [Students' autonomy need satisfaction fully mediates the effect of teacher autonomy support on autonomous motivation and positive academic emotions, but does not mediate the effect on negative emotions](autonomy-need-satisfaction-full-mediation.md) — related
 - [Positive-low arousal academic emotions (calmness and relaxation) partially mediate the relationship between online presence and learning performance](positive-low-arousal-emotions-partially-mediate-presence-performance.md) — related
+- [Academic emotions mediate the relationship between teacher support and academic achievement](academic-emotions-mediation-teacher-support-achievement.md) — related

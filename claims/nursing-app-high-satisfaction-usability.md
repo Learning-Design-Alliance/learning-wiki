@@ -52,3 +52,5 @@ Self-report satisfaction questionnaire completed by the 60 intervention-group st
 - [Most trainees found the automated SHAP-based feedback easy to understand and were satisfied with the assessment, with GOALS scores rated most informative](automated-feedback-acceptability-questionnaire.md) — related
 - [DVRS students rated the simulator as user-friendly, with clear automatic scoring and timely, effective feedback](dvrs-students-rate-usability-and-feedback-positively.md) — related
 - [Final-year nursing students rated the Nik's story virtual simulation highly on usability, engagement, and impact on learning, and most would recommend its continued use](niks-story-high-usability-engagement-impact.md) — related
+- [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related
+- [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related

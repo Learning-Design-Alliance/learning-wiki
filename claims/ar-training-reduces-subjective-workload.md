@@ -57,3 +57,5 @@ Meta-analysis of two studies measuring subjective workload with the NASA Task Lo
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
 - [Just-in-time coaching significantly lowered trainee cognitive load on the mental demand, temporal demand, effort, and frustration NASA-TLX domains](jit-coaching-lowers-cognitive-load-nasa-tlx.md) — related
 - [Spaghetti knotting training lowers perceived mental demand, temporal demand and effort workload more than conventional knotting training](spaghetti-knotting-lower-nasa-tlx-workload.md) — related
+- [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](ar-us-junior-trainees-lower-effort-frustration.md) — a narrower finding that bears on this claim
+- [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — a narrower finding that bears on this claim

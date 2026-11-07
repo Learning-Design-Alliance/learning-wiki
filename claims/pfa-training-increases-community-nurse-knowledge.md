@@ -70,3 +70,4 @@ Between-group comparison at the 2-month follow-up in the same quasi-experiment. 
 - [Within the intervention group, PFA knowledge scores increase significantly from baseline to post-training (r = 0.56) and remain significantly above baseline at 2 months](pfa-within-group-knowledge-gains.md) — related
 - [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](pfa-training-improved-student-self-efficacy-preparedness.md) — related
 - [RAPID-PFA training improved nursing students' perceived competencies, disaster preparedness, helping capacity, and self-efficacy with effects maintained at follow-up](rapid-pfa-improved-student-competencies-maintained.md) — related
+- [The experiential learning program improves patient health engagement at the immediate posttest, but the difference is no longer significant 3 months later](elt-ehealth-program-patient-engagement-mixed.md) — related

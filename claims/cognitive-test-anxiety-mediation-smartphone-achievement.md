@@ -56,3 +56,4 @@ Bootstrapped indirect-effect analysis in the 828-student chain mediation model. 
 - [General self-efficacy neither mediated nor moderated the smartphone addiction–academic achievement relationship](general-self-efficacy-no-mediation-moderation.md) — related
 - [Smartphone addiction has a negative, statistically significant direct and total effect on academic achievement in secondary school students](smartphone-addiction-negative-direct-effect-achievement.md) — related
 - [Smartphone addiction correlates negatively with academic resilience, self-efficacy and achievement, and positively with cognitive test anxiety](smartphone-addiction-correlation-pattern-secondary-students.md) — related
+- [SOBOSM is negatively associated with educational achievement, directly and via heightened social media use and addiction](sobosm-negative-association-grades.md) — related

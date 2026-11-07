@@ -65,6 +65,8 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
 - [Implement psychological support programs, foster intrinsic motivation, integrate psychological assessments, establish support networks, and make tailored curricular adjustments for women doctoral students](psychological-support-programs-women-doctoral-strategy.md)
 - [Integrate same-class peer mentorship into medical curricula as a cost-effective support for academically underperforming students in resource-limited settings](same-class-peer-mentorship-strategy-resource-limited-medical-education.md)
+- [Future interventions should prioritise anxiety-reduction strategies and emotionally supportive learning environments informed by Control-Value Theory](anxiety-reduction-emotionally-supportive-environment-strategy.md)
+- [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ The article recommends that "the future of SEL initiatives should focus on the n
 
 - [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
 - [Co-construct definitions of active learning with students and train staff in practices that reduce anxiety and disengagement](co-construct-active-learning-with-students.md)
+- [Future interventions should prioritise anxiety-reduction strategies and emotionally supportive learning environments informed by Control-Value Theory](anxiety-reduction-emotionally-supportive-environment-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Performance study of a consecutive sample of text-based multiple-choice question
 - [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
 - [ChatGPT-3.5's Arabic-language performance did not differ significantly across the four OBGYN exam subjects](chatgpt-arabic-performance-uniform-across-obgyn-subjects.md) — related
 - [The authors report that ChatGPT-3.5 cannot be considered a reliable primary tool for Arabic-language medical exam preparation at the time of writing](chatgpt-not-reliable-arabic-exam-preparation.md) — related
+- [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related

@@ -50,3 +50,4 @@ Descriptive analysis of a Qualtrics Likert-scale survey completed by 25 students
 - [Intervention improves information gathering, hypothesis generation, and differential diagnosis but not treatment planning](genai-cbl-reasoning-dimensions.md) — related
 - [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — related
 - [Tool learning objectives were heterogeneous: 42% targeted anamnesis/history-taking interviews, 42% taught general communication skills, and 8% covered giving bad news](heterogeneous-learning-objectives-virtual-tools.md) — related
+- [SATMAS improved students' confidence in assessing and managing trauma patients](satmas-confidence-gains.md) — related

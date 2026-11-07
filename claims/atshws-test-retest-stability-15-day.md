@@ -52,3 +52,4 @@ Test-retest reliability analysis with 30 participants re-assessed after a 15-day
 - [The CRCDCS demonstrated satisfactory internal consistency (α = 0.876; ω = 0.861) and test–retest reliability (ICC = 0.85, 95% CI: 0.82–0.91).](crcdc-reliability-alpha-omega-icc.md) — related
 - [The 43-item Korean HLCs shows strong internal consistency and test-retest reliability](korean-hlc-reliability-strong.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
+- [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related

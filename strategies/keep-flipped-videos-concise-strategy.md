@@ -46,6 +46,7 @@ The authors recommend that teachers new to flipped learning "make an extra effor
 - [Use short introductory vodcasts (10-15 minutes) as a preview tool to reduce the time burden on students in compressed curricula.](short-introductory-vodcasts-preview-strategy.md)
 - [Segment recorded lectures into shorter videos with embedded interaction](segmented-short-lecture-videos-strategy.md)
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
+- [Invest in high-quality prescripted vodcasts and consider combining vodcasts with live teaching (e.g., flipped classroom)](high-quality-vodcasts-flipped-combination.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ A 12-item 5-point Likert satisfaction questionnaire (Cronbach's alpha 0.93) was 
 - [The jigsaw method produced significantly higher learning scores than both flipped classroom and lecture-based teaching in nursing students](jigsaw-higher-learning-scores-than-fc-and-lbt.md) — related
 - [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related
 - [Nurses in the flipped classroom group reported substantially higher satisfaction with the teaching method, its effectiveness, and the overall educational experience than the lecture-based group](fc-higher-satisfaction-hemodialysis-training.md) — related
+- [Flipped classroom students reported significantly higher satisfaction than traditional lecture students](flipped-classroom-higher-satisfaction-gondar.md) — related

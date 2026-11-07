@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (26 for, 24 mixed, 1 against) · 46 studies (18 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 46 report an effect size · 47 claims rest on one study
+> **Evidence** · 54 claims (29 for, 24 mixed, 1 against) · 48 studies (20 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 48 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,9 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [A structured microskill stepwise progression model improves end-of-rotation tooth extraction competence compared with traditional apprenticeship-based teaching.](../claims/microskill-stepwise-progression-improves-tooth-extraction-competence.md) [+M] — attached 2026-11-04 from Wu Zongxi et al. (2026), which proposed "Nine-stage deconstruction of tooth extraction into sequential microskills of increasing complexity"; tests this page's relationship.
 - [Reinforcement-learning sequencing policies beat baseline sequencing in about half of controlled studies, mostly in constrained tasks and against weak baselines](../claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) [~M] — attached 2026-11-05 from Doroudi, Aleven & Brunskill (2019), a review of data-driven adaptive ordering; it bears on whether an order learned from data beats a designed one, and for interdependent content no reviewed study found that it did.
 - [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](../claims/randomised-case-order-attenuates-case1-effect.md) [+W] — attached 2026-11-06 from Scherff Aline D. et al. (2025), which proposed "Sequence ECG training materials deliberately, placing critical content early because a strong start in the training session plays a key role in skill improvements"; tests this page's relationship.
+- [After both training sessions, robotic novices who started with robotic simulation scored higher on the modified OSATS for robotic hepaticojejunostomy than novices who started with suture-pads](../claims/simulation-first-higher-osats-after-both-trainings.md) [+W] — attached 2026-11-07 from Menso Julia E. et al. (2024), which proposed "Sequence robotic suturing curricula to start with robotic simulation followed by suture-pad dry-lab training"; tests this page's relationship.
+- [Step-by-step teaching yields significantly higher theoretical examination and skills assessment scores than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-theory-and-skills-scores-reproductive-ultrasound.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Three-phase, stage-gated step-by-step training program for reproductive ultrasound (theory, practice, clinical application)"; tests this page's relationship.
+- [Step-by-step teaching yields a significantly higher total clinical competence score than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-total-clinical-competence-score.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Three-phase, stage-gated step-by-step training program for reproductive ultrasound (theory, practice, clinical application)"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -229,6 +232,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Introduce authentic listening materials to lower-level learners by simplifying the task, grading the text, and staging the listening](../strategies/task-simplification-grading-staging-authentic-listening.md)
 - [Emergence theory as a framework for teaching compromise skills](../designs/emergence-theory-curriculum-framework.md)
 - [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](../strategies/mind-mapping-overview-preview-inview-review.md)
+- [Sequence microaggression curricula from foundational naming skills toward more complex debriefing skills](../strategies/foundational-to-complex-microaggression-sequencing.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

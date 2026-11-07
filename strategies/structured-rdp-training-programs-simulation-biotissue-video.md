@@ -60,6 +60,7 @@ The authors advocate structured training programs such as the University of Pitt
 ## Related Strategies
 
 - [Structured return-to-work simulation bootcamp for surgeons returning after time out of training](return-to-work-surgical-bootcamp-strategy.md)
+- [Maintain trainee exposure to open and reconstructive procedures using real cases, simulation-based and cadaveric education, and video libraries despite declining open case volume](maintain-open-reconstructive-exposure-simulation-cadaver-video.md)
 
 ## Examples
 -

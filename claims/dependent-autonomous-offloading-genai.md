@@ -70,3 +70,4 @@ The review reports, citing Zhu et al. (2026), a three-wave study of 589 universi
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
 - [Student-centered teaching strategies promote autonomy and critical thinking in higher education](student-centered-strategies-promote-autonomy-critical-thinking.md) — related
 - [The authors report interactive testing lowers critical thinking and formal notation while increasing motivation and cognitive development](interactive-testing-lowers-critical-thinking-raises-motivation.md) — related
+- [Students of instructors with interactive-lecture and student-centred teaching profiles reported significantly higher perceived competence than students of didactic instructors, while autonomy support differed less consistently](active-learning-profiles-higher-competence-autonomy.md) — related

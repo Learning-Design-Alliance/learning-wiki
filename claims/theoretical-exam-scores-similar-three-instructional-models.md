@@ -53,3 +53,5 @@ ANOVA on the 20-item multiple-choice theoretical exam in the three-arm randomize
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
 - [Three of the 20 theoretical-learning questionnaire items showed no significant difference between groups, and observation and feedback times did not differ](null-items-and-equal-observation-time-cdio-pbl-study.md) — related
+- [No conclusive difference in theoretical knowledge between face-to-face and remote students in a hybrid chest physiotherapy seminar](hybrid-no-conclusive-difference-theoretical-knowledge.md) — related
+- [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related

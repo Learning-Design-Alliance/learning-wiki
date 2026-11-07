@@ -47,3 +47,4 @@ Delphi-AHP consultation with 18 experts produced the final model weights reporte
 ## Related Claims
 - [The article identifies EHR proficiency (weight 0.0757) and crisis intervention ability (weight 0.0199) among the model's critical operational competencies](mobile-nurse-ehr-and-crisis-intervention-weights.md) — related
 - [AHP weighting placed skill highest (0.405) among first-level dimensions, with implicit competencies (self-concept, trait, motivation) jointly carrying 53% of total weight](ahp-weights-skill-highest-implicit-53-percent.md) — related
+- [AHP weighting assigns the highest weight to professional theoretical knowledge (0.2168) and the lowest to professional development ability (0.1649), with consistency ratio 0.0013](ahp-weights-primary-indicators-clinical-nutritionists.md) — related

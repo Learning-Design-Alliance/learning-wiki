@@ -68,3 +68,4 @@ Post-hoc comparisons in the same trial found no significant IMMS difference betw
 - [Conventional instruction produced higher cognitive load than digital-only and hybrid instruction](conventional-instruction-higher-cognitive-load-than-digital.md) — related
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
+- [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related

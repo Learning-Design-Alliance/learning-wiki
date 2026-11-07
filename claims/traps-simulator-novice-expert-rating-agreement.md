@@ -67,3 +67,4 @@ Reliability analysis of the model-evaluation survey items demonstrated "a high d
 ## Related Claims
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [After excluding one construct-irrelevant metric, the remaining 31 simulator metrics showed acceptable internal consistency (standardized Cronbach's alpha = 0.79)](internal-consistency-alpha-079-31-metrics.md) — related
+- [Trainees and instructors shared similar views on the potential risk of procedures performed by inexperienced surgeons (correlation r = 0.956)](trainee-instructor-risk-ratings-highly-correlated.md) — related

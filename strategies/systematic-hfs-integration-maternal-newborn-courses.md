@@ -52,6 +52,7 @@ The article recommends that nursing programs "systematically integrate HFS into 
 ## Related Strategies
 
 - [Integrate high-fidelity simulation into continuing nursing education and professional development programs](integrate-hfs-continuing-nursing-education.md)
+- [Adopt simulation-based training in nursing education, particularly high-fidelity simulations, to develop students' essential skills](adopt-simulation-based-training-nursing-education-strategy.md)
 
 ## Examples
 -

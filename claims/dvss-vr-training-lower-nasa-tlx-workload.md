@@ -51,3 +51,4 @@ NASA TLX self-assessments collected between tasks in the randomized controlled s
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Perceived mental workload does not differ between 3D VR and 2D video acclimatisation groups](nasa-tlx-no-difference-3d-vr.md) — related
 - [Experts report higher self-assessed performance and lower perceived negative workload than residents on the NASA-TLX](experts-higher-self-assessed-performance-lower-negative-workload.md) — related
+- [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related

@@ -49,3 +49,4 @@ Rater-agreement analysis in the Ratings section of Methods, using weighted Cohen
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related
 - [A multiview pose-estimation deep learning model assesses overall CPR performance quality with mean absolute error comparable to expert human raters, with margins typically below 1 point on a 4-point item scale.](aqa-stgcn-mae-comparable-to-expert-raters.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
+- [Students' ALS self-efficacy perceptions show low concordance with observer-assessed CPR performance (Kappa < 0.2)](low-concordance-self-efficacy-performance-als.md) — related

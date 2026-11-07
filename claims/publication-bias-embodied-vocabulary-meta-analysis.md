@@ -68,3 +68,4 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - Publication bias is present in studies of theoretical scores comparing 3D + PBL with LBL — related
 - [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related
 - Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — reports the opposite
+- [Embodiment effects on learning are prevalent but heterogeneous: a review reports effects in 36 of 49 studies with median effect size of d = 0.51, alongside prevalent null or mixed results](embodiment-effects-learning-mixed-review.md) — related

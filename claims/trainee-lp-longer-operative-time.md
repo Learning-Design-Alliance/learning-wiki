@@ -54,3 +54,4 @@ In the same retrospective cohort (n=77; operative time reported for n=71), Table
 - [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](porcine-model-training-reduces-operative-time-consultants.md) — related
 - [Supervised trainee-performed laparoscopic pyloromyotomy shows no significant increase in surgery-related complications compared with specialist-performed cases](trainee-lp-no-complication-increase.md) — related
 - [Median operative duration of TT cases was 65 minutes, comparable to published attending-supervised and consultant times](tt-operative-duration-65-minutes.md) — related
+- [Procedures rated difficult take significantly longer than non-difficult procedures, while trainee experience shows no significant operating-time difference](difficult-procedures-longer-operating-time.md) — related

@@ -53,6 +53,7 @@ Following the chain mediation logic, the article recommends mentorship programs 
 - [Mutual-selection matching of interns to kindergartens using P-O fit assessments](mutual-selection-po-fit-matching-internships.md)
 - [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 - [Integrate structured mentorship and reflective coaching alongside technical competency programs to support psychological outcomes](sccdp-mentorship-coaching-supplement-strategy.md)
+- [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 
 ## Examples
 -

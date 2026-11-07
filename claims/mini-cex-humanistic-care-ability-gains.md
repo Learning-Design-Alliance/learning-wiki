@@ -52,3 +52,4 @@ In the quasi-experimental study, humanistic care competence was measured with th
 - [Humanistic care-integrated Mini-CEX teaching does not improve operational/practical skills assessment scores over conventional teaching](mini-cex-humanistic-care-no-operational-skills-gain.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [In the same RCT, the experimental group scored higher than the control group on all seven dimensions of critical thinking ability (all P < 0.05)](pbl-virtual-simulation-critical-thinking-all-dimensions-trauma-orthopedics.md) — related
+- [The 7E instructional model improved empathy ability in nursing probation students across viewpoint acquisition, emotional care and transposition thinking](7e-model-empathy-nursing-students.md) — related

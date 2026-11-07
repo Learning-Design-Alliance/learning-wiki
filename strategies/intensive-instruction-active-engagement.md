@@ -12,7 +12,7 @@ generated:
 # Intensive Instruction/Active Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 16 studies (7 quant-synthesis, 5 causal, 2 review, 2 theoretical), `q2`–`q4` · 7 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Intensive instruction pairs substantial allocated learning time with a high rate of active learner responses — answering, generating, practicing, discussing — rather than listening or watching. The underlying claim is that learning is a function of both engaged time and the quality of engagement: students learn more when they apply focused, sustained effort to the content itself, in frequent sessions, with feedback [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S].

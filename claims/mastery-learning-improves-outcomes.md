@@ -109,3 +109,4 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 - [Mastery learning is feasible for USG-PVC training without extra time, and overtraining beyond mastery criteria does not improve performance](mastery-learning-feasible-usg-pvc-no-extra-time.md) — a narrower finding that bears on this claim
 - [WBES-based supportive education produced more students achieving mastery learning across all RBT cognitive process levels than traditional supportive education](wbes-mastery-learning-all-levels.md) — a narrower finding that bears on this claim
 - [Mastery learning shows an effect size of ES = 0.58, with effects of .94 in elementary, .72 in high school, and .65 in college](mastery-learning-effect-size-levels.md) — related
+- [Active learning benefits college humanities and social science students, with larger effects in smaller classes (≤20 students) and upper-level courses](active-learning-humanities-kozamitis-moderators.md) — related

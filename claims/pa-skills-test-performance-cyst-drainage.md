@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: piburn-b-2025
     resource: "https://doi.org/10.1097/JPA.0000000000000681"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Piburn B 2025: no comparison group (read from the study by two models, 2026-11-05)
 
 ## Subclaims
@@ -50,3 +51,4 @@ Instructor-administered objective skills assessment after a 20-minute supervised
 - [PA students' self-rated confidence in performing ultrasound-guided cyst drainage was significantly higher after cadaver-based simulation training across all assessed procedure aspects, in a one-group pre-test/post-test study with no comparison group](pa-cadaver-simulation-increases-procedure-confidence.md) — related
 - [Higher global rating scale scores are associated with shorter procedure times and fewer needle attempts in PA students' ultrasound-guided cyst drainage](grs-scores-associated-with-faster-fewer-attempts.md) — related
 - [PA students outperform first-year medical students on selected GRS categories and procedure time after the same cadaver cyst-draining simulation, attributed to prior clinical and ultrasound exposure](pa-students-outperform-medical-students-grs.md) — related
+- [After a 20-minute one-on-one workshop, first-year medical students independently drained a synthetic cyst in a formalin-embalmed cadaver in a mean of 161.5 seconds with 1.9 attempts, and 28 of 30 passed the 5-minute skills test](cadaver-synthetic-cyst-skills-test-performance.md) — related

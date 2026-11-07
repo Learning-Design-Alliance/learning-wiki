@@ -60,6 +60,7 @@ The authors recommend that "nursing education institutions should commit to deve
 - [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
 - [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
+- [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
 
 ## Examples
 -

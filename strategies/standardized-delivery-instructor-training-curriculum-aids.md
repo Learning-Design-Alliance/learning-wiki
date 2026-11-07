@@ -53,6 +53,7 @@ To ensure consistent teaching delivery across groups, the authors implemented th
 - [Adapt case-based learning delivery for resource-limited preclinical settings: simplify cases, phase complexity, standardize facilitation, add low-cost visual aids](context-sensitive-cbl-adaptation-strategy.md)
 - [Use non-expert instructors to deliver simulator feedback to broaden delivery options](non-expert-feedback-delivery-strategy.md)
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
+- [Deliver case-based learning inside a BOPPPS framework by sending real cases and questions to students before class, quizzing, discussing cases, testing, and having students build mind maps](cbl-boppps-case-delivery-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (111 show a difference, 24 mixed, 12 no difference) · 112 studies (41 associational, 18 qualitative, 17 causal, 17 review, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 15 of 112 report an effect size · 147 claims rest on one study
+> **Evidence** · 151 claims (115 show a difference, 24 mixed, 12 no difference) · 113 studies (42 associational, 18 qualitative, 17 causal, 17 review, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 15 of 113 report an effect size · 151 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -183,6 +183,10 @@ Social supports are the people available to help a learner if needed, and the le
 - [Self-efficacy and learning engagement act as a significant chain mediator from social support to academic performance](../claims/chain-mediation-self-efficacy-learning-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [Social support explains 14% of variance in self-efficacy and, with self-efficacy, 26% in learning engagement; the full model explains 47% of variance in academic performance](../claims/variance-explained-structural-model-social-support.md) [+M] — learners who differ on it differ in outcomes
 - [Social support is positively and directly associated with academic performance among Chinese middle school adolescents](../claims/social-support-direct-academic-performance-adolescents.md) [+M] — learners who differ on it differ in outcomes
+- [Academic emotions mediate the relationship between teacher support and academic achievement](../claims/academic-emotions-mediation-teacher-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Academic self-efficacy mediates the relationship between teacher support and academic achievement](../claims/self-efficacy-mediation-teacher-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher support is directly and positively associated with academic achievement among university students](../claims/teacher-support-direct-effect-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher support, academic self-efficacy, academic emotions and academic achievement are all strongly positively correlated](../claims/teacher-support-efficacy-emotions-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

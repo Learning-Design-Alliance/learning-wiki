@@ -53,6 +53,7 @@ The article recommends concrete tactics for raising the reliability of simulatio
 - [Calibration training and moderation to ensure reliable rubric-based portfolio review](calibration-training-moderation-portfolio-review.md)
 - [Provide at least three repeated practice sessions with expert-answer feedback when training novice raters on standardized assessment scoring](three-practice-sessions-feedback-strategy.md)
 - [Pilot calibration interventions targeting social/communication self-assessment: facilitated video review with checklists, vignette calibration with expert anchors, and pre- to post-feedback self-ratings](osce-calibration-intervention-strategies.md)
+- [Multidimensional rater-improvement strategy combining expert training, monitoring and evaluation, quality assurance mechanisms, and item banking](ugmle-multidimensional-rater-improvement-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Objective assessments in the RCT (n = 124) showed no significant group differenc
 - [SDH-integrated CBL improves history taking and medical record writing versus CBL alone (d = 0.54–0.60)](sdh-integrated-cbl-improves-history-taking-documentation.md) — related
 - [SDH-integrated CBL improves surgical interns' social factor identification and analysis (d = 1.39) versus CBL alone](sdh-integrated-cbl-improves-social-factor-analysis.md) — related
 - [Students rate SDH-integrated CBL higher on content relevance, thinking training, and competence relevance, and lower perceived artificial integration](sdh-cbl-satisfaction-organic-integration.md) — related
+- [CBL/FC students report more positive perceptions of clinical skill gains than LBT students in both grades](cbl-fc-positive-skill-perceptions.md) — related

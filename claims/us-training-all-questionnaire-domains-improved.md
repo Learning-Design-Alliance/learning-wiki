@@ -56,3 +56,4 @@ Wilcoxon signed-rank tests on all five questionnaire items from 30 participants.
 - [Remote HoloLens 2 cannulation tutorials produced competency improvements similar to in-person tutorials, with both groups improving significantly](hololens-remote-cannulation-tutorials-similar-gains-in-person.md) — related
 - [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related
 - [Confidence rose significantly in all five CBOS competency areas, each with a large effect size (r ≈ .84–.88)](tbl-sbl-clinic-confidence-cbos-subdomains.md) — related
+- [Students reported positive subjective learning gains across questionnaire domains after the HMSS course, with the skills domain highest at 16 to 22%](hmss-positive-csa-gains-skills-highest.md) — related

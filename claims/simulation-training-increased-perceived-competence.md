@@ -60,3 +60,5 @@ Wilcoxon signed-rank tests on self-reported perceived competence (15 items, Cron
 - [Self-assessed knowledge of urgent laryngectomy care increased significantly post-training across all individual items and in composite knowledge score](simulation-training-knowledge-gains-significant.md) — related
 - [Self-assessed confidence in managing urgent laryngectomy care improved post-training but the composite gain did not reach statistical significance](confidence-gains-not-significant-post-simulation.md) — related
 - [Subjective competence in brain death diagnosis increased significantly after the VR simulation](subjective-competence-gain-after-vr-simulation.md) — a narrower finding that bears on this claim
+- [SATMAS improved students' confidence in assessing and managing trauma patients](satmas-confidence-gains.md) — related
+- [Six of eight survey items improve significantly from pre- to post-simulation, with the highest post-rating on feeling competent to assess dysphagia](six-of-eight-items-significant.md) — related

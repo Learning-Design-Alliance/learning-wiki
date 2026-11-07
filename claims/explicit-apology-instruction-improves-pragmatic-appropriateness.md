@@ -71,3 +71,4 @@ Independent-samples t-tests comparing post-test DCT scores between experimental 
 - [Iranian translation students are not successful in comprehending interlanguage pragmatic features prior to instruction](translation-students-lack-ilp-comprehension.md) — a narrower finding that bears on this claim
 - [Explicit instruction of refusals significantly improves Iranian EFL learners' pragmatic performance of refusals](explicit-refusal-instruction-improves-pragmatic-performance.md) — related
 - [Explicit comparison of L1 and L2 complaints and apologies through the interview project was followed by more appropriate strategies in the posttest](l1-l2-comparison-improves-strategy-use.md) — related
+- [The apologizing workshop produced the most noticeable pre/post gains, with most participants agreeing they could recognize harm and apologize in person, in public, and electronically](apologizing-workshop-largest-gains.md) — related

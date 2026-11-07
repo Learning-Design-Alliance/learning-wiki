@@ -80,3 +80,6 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Final-year nursing students rated the Nik's story virtual simulation highly on usability, engagement, and impact on learning, and most would recommend its continued use](niks-story-high-usability-engagement-impact.md) — related
 - [Participants report high satisfaction and perceived utility for the MeTra simulator and the new basic course overall](metra-course-high-satisfaction.md) — related
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
+- [Over 90% of virtual simulation students expressed satisfaction with the platform, rating realism, knowledge coverage, system smoothness and evaluation criteria above 4.5](students-view-virtual-simulation-as-future-teaching-trend.md) — related
+- [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
+- [Students taught with the virtual simulation platform reported higher satisfaction with learning outcomes across all surveyed items than MOOC students](virtual-simulation-higher-satisfaction-than-mooc.md) — related

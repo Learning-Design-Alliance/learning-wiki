@@ -49,3 +49,4 @@ Network meta-analysis of 41 studies involving 3,301 students reporting experimen
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — reports the opposite
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [PUC-FC students scored highest on all three practical skill examinations (full crown preparation, pit and fissure sealing, intraoral suture)](puc-fc-skill-exam-advantage.md) — a narrower finding that bears on this claim
+- [Residents ranked case discussion with supervisors as the most learning-enhancing method in neuroanesthesia and self-testing as the least](case-discussion-ranked-top-learning-method-neuroanesthesia.md) — related

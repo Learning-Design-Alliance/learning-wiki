@@ -48,3 +48,4 @@ Questionnaire survey of the experimental class with a 100% response rate (150 qu
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
 - [Trainees report high satisfaction with flipped classroom combined with CBL but flag pre-class time burden](flipped-classroom-cbl-satisfaction-pre-class-time-burden.md) — related
+- [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related

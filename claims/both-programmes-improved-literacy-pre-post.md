@@ -53,3 +53,4 @@ Within-group comparison of the first (pre) and second (post) skill assessment te
 - [First- and second-grade students' multiple-choice understanding of particle behavior improved significantly after seven STEP mixed-reality sessions.](step-mc-prepost-gains.md) — related
 - [Students' skill mastery for all five attributes improved during gameplay in The Nomads, with all quantiles differing significantly between halves](ccm-attribute-mastery-improved-during-gameplay.md) — related
 - [Educational games instruction produced significantly higher literacy skill assessment scores than TIP instruction among Saudi kindergarten children after eight weeks](educational-games-outperform-tip-kindergarten-literacy-saudi.md) — related
+- [Participants improved across all 7 eHealth literacy subscales, with the largest gains in using technology to process health information and understanding health concepts and language](ehlq-seven-subscales-improved.md) — related

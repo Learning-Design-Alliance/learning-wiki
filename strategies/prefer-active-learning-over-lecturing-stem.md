@@ -17,7 +17,7 @@ sources:
 # Adopt active learning as the default in regular undergraduate STEM classrooms and shift research away from lecturing controls
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (8 for) · 3 studies (2 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 4 studies (2 quant-synthesis, 2 theoretical), `q2`–`q4` · 3 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 Based on the meta-analytic evidence, the authors recommend abandoning traditional lecturing in favor of active learning in regular STEM classrooms, and they question "the continued use of traditional lecturing as a control in research studies." They propose second-generation research using educational psychology and cognitive science to test which type of active learning best suits particular topics or student populations, and combining in-class innovations with required out-of-class exercises.

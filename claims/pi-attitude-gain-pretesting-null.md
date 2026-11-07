@@ -59,3 +59,4 @@ Descriptive analysis (means, standard deviations, mean gains) of SADQ scores in 
 - [Control group students receiving only the standard science curriculum showed no significant change in attitude across pretest, posttest and monitoring test](control-group-no-attitude-change.md) — related
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related
 - [The non-pretested Advance Organizer group (E2) scored significantly higher than the pretested one (E1) on the post-test](e2-outperformed-e1-posttest.md) — related
+- [The 7E instructional model improved positive attitudes toward communication skills but did not significantly change negative attitudes](7e-model-positive-communication-attitudes.md) — related

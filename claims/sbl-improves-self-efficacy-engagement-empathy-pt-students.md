@@ -55,3 +55,4 @@ Quasi-experimental pre-post comparison of 409 physiotherapy students using Mann�
 - [Clinical teachers function as mentors and professional exemplars whose modelled conduct transmits empathy, professionalism and clinical reasoning to students](clinical-teachers-as-mentors-and-exemplars.md) — related
 - [Empathy scores on the Jefferson Scale for Empathy did not significantly change from pre-test to post-test after MAGIC, in one uncontrolled pre-post study](magic-no-empathy-change-jse.md) — related
 - [Respectful and compassionate care competency did not show a statistically significant change from pre-test to post-test among nursing students in one group with no comparison group](rcc-training-no-significant-change-nursing-students.md) — related
+- [PCC competence is strongly positively correlated with empathy among surgical nurses (r = 0.700)](pcc-competence-empathy-correlation.md) — related

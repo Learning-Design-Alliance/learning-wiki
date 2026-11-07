@@ -51,3 +51,5 @@ Paired t-tests of providers' standardised HBB OSCE B simulation scores at 4 and 
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — related
 - [77% of healthcare providers retained simulated neonatal resuscitation skills one year after in situ low-dose high-frequency simulation training](ldhf-simulation-one-year-skills-retention-77-percent.md) — related
 - [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — related
+- [Among first-year MBBS students, mean DOPS skill scores were comparable at one month but worse at six months and one year than immediately after BLS training, in a single-group pre-post study](bls-skill-retention-one-month-decay-six-months-one-year.md) — related
+- [The proportion of resuscitations provided by midwives increased throughout the study, while recent NeoNatalie Live training among providers declined sharply after the campaign](midwife-led-resuscitation-increased-recent-training-declined.md) — related

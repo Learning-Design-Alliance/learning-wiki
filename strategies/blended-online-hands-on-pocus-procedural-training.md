@@ -51,6 +51,7 @@ The article outlines a structured, competency-based training framework combining
 - [Adopt a 'bolus and drip' longitudinal training paradigm combining structured didactic material with frequent practical scanning sessions](bolus-and-drip-pocus-training-strategy.md)
 - [Combine background theory, video demonstrations, and simulator training in an integrated endoscopy curriculum (GATE model)](gate-integrated-endoscopy-training-concept.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Use an animated training video demonstrating the guided-surgery workflow to prepare inexperienced operators before hands-on performance](animated-video-tutorial-novice-surgical-training.md)
 
 ## Examples
 -

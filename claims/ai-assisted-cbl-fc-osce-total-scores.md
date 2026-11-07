@@ -82,3 +82,6 @@ Station-level results show significant advantages for the AI-assisted group on m
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [Fourth-year medical students assigned to an OSCE preparation podcast scored significantly higher on post-intervention nephrology OSCE stations than controls](osce-podcast-higher-post-osce-score.md) — a narrower finding that bears on this claim
 - [Baseline OSCE scores on the generative AI platform did not differ between the podcast and control groups](ai-osce-baseline-scores-equivalent-groups.md) — related
+- [CBL/FC students report more positive perceptions of clinical skill gains than LBT students in both grades](cbl-fc-positive-skill-perceptions.md) — related
+- [Medical students taught with combined CBL/FC outperform lecture-based peers on clinical case scenarios in nephrology bedside teaching](cbl-fc-superior-clinical-case-scenario-nephrology.md) — related
+- [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related

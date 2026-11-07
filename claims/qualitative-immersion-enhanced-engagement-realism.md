@@ -93,3 +93,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Students rated the case-based VR simulation highly acceptable: 95% affirmed it simulated real-patient scenarios, and all 40 reported making real-life doctor decisions and finding it interesting and useful](vr-pelvic-trauma-student-acceptability-ratings.md) — related
 - [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
+- [Focus group analysis of simulation participants yields four themes — learning (32.6%), self-efficacy (29%), simulation method (21.3%), and development (16.5%)](focus-group-four-themes-als-simulation.md) — related

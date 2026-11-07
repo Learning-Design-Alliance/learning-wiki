@@ -71,3 +71,4 @@ Null result for the Situation awareness subcategory in the same ANTS rating of t
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
 - [The decision-making sub-item of the ANTS score was significantly better in the observer-tool group than in the control group](observer-tool-decision-making-better.md) — related
+- [LSPPDM group scored higher on most NOTSS non-technical skills, with no difference in situation awareness](lsppdm-higher-notss-scores.md) — related

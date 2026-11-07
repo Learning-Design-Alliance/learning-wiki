@@ -81,3 +81,4 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - [The oral prosody test showed high test-retest reliability, with a correlation coefficient of 94% between assessment occasions](prosody-test-retest-reliability-94.md) — related
 - [The listening comprehension test measured ten sub-skills with high criterion validity and test-retest reliability](listening-comprehension-test-ten-skills-validity-reliability.md) — related
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — a narrower finding that bears on this claim
+- [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related

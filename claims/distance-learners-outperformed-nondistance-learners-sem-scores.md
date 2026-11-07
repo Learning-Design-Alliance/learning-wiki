@@ -47,3 +47,4 @@ Independent-samples 2-tailed t tests comparing SEM scores of 1699 distance learn
 ## Related Claims
 - [Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student](adequacy-gap-associated-outcomes.md) — related
 - [Radiology residents who received distance learning during the COVID-19 lockdown reported higher self-assessed competencies after adjustment for participant characteristics](distance-learning-higher-self-assessed-competency-radiology-residents.md) — possibly the same claim (merge candidate)
+- [Chinese radiology residents' competency averages at ACGME milestone level 2, below the level-4 training-qualification standard](low-competency-level-2-acgme-milestones-radiology-residents.md) — related

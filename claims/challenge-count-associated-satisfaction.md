@@ -59,3 +59,4 @@ Analysts built a nine-point scale summing major problems plus points for frequen
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
 - [Post-shift satisfaction was lower for STEM courses than for non-STEM courses, a gap that predated the shift](stem-less-satisfied-than-non-stem-post-shift.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
+- [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related

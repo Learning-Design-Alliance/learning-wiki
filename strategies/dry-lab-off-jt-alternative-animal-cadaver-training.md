@@ -54,6 +54,7 @@ The article recommends structured off-the-job training via dry laboratories to r
 - [On-the-Job Training (OJT)](on-the-job-training-ojt.md)
 - [Provide all medical students with opportunities to learn surgical skills in dry laboratory training to foster interest in surgery](dry-lab-opportunities-foster-surgical-interest.md)
 - [Use non-organic silicone materials for accessible, reproducible tendon repair simulation](non-organic-materials-tendon-simulation-strategy.md)
+- [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
 
 ## Examples
 -

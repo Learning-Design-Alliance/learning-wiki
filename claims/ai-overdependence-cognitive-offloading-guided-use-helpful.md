@@ -60,3 +60,4 @@ Systematic literature review of studies on AI ethics in education and academic m
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related
 - [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](genai-delegation-erodes-epistemic-agency.md) — related
 - [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — related
+- [Cognitive offloading — using physical external elements to reduce task cognitive demand — improves performance in perception, memory, mathematical thinking, and spatial reasoning](cognitive-offloading-improves-performance-extended-mind.md) — related

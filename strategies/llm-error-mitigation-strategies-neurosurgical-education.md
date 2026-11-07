@@ -54,6 +54,7 @@ Given the models' limitations on image-based and interpretative questions, the a
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 - [Provide expert-written image hints and human oversight when using multimodal LLMs for image-based medical learning or decision support](expert-image-hints-with-human-oversight-strategy.md)
+- [Equip future AI exam-preparation models with consistently updated clinical resources such as UpToDate instead of static textbooks](updated-clinical-resources-for-ai-exam-training.md)
 
 ## Examples
 -

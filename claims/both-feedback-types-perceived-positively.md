@@ -50,3 +50,4 @@ Descriptive statistics from the perception survey (17 instructor, 16 AI students
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — related
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related
 - [Post-test feedback was perceived as fairer and produced more positive affect than immediate feedback and than performance-based feedback](post-test-feedback-higher-fairness-positive-affect.md) — related
+- [Students at all performance levels sought peer feedback on their own, facilitated by prior knowledge of learning objectives, though lower performers preferred tutor feedback](feedback-seeking-objectives-and-tutor-preference.md) — related

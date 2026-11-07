@@ -67,3 +67,5 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Novice surgeons using force feedback apply significantly less force to tissue during robotic-assisted suturing tasks](ffb-reduces-applied-force-robotic-suturing.md) — related
 - [Force feedback significantly reduces suturing errors, particularly suture breaks and suture fray, in robotic-assisted suturing](ffb-reduces-suturing-errors-breaks-fray.md) — related
 - [Error frequency differs significantly across suturing gestures and error types, with pulling the needle out of tissue and poor instrument control most frequent](error-distribution-gesture-type-rarp.md) — related
+- [Subjective gentleness ratings correlate negatively with objectively measured force on tissue during robotic suturing](gentleness-negatively-correlated-with-force.md) — related
+- [Recent microsurgical suture volume and prior robotic exposure shaped the learning curve: more microscope sutures predicted faster mean time, more loupe sutures predicted larger improvement, and prior robotic experience predicted a less steep improvement](suture-volume-and-robotic-exposure-shape-learning-curve.md) — related

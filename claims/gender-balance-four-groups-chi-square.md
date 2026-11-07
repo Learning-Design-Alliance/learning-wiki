@@ -47,3 +47,4 @@ Baseline demographic comparison across the four groups of the Solomon four-group
 ## Related Claims
 - [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
 - [Gender showed no significant effect on achievement, and the group-by-gender interaction was not significant](no-gender-effect-oav-achievement.md) — related
+- [Teaching method was significantly associated with pass/fail rates and participation in activities, but not with gender distribution](chi-square-pass-fail-participation-gender.md) — related

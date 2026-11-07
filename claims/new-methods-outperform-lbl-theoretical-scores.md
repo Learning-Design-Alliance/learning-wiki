@@ -87,3 +87,4 @@ In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions ea
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
 - [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related
 - [PBL combined with SP yields higher practical exam and overall scores than LBL combined with SP in orthopedic resident training](pbl-sp-higher-practical-overall-exam-scores-orthopedic-residents.md) — related
+- [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Temporal trend analysis of annual trainee first-operator proportions in the nati
 - [In the matched all-mitral cohort, in-hospital mortality, return to theatre and postoperative dialysis were higher in consultant-performed cases than trainee cases](mitral-matched-outcomes-consultant-higher-adverse.md) — related
 - [In the UK national cohort, trainees performed 18.7% of isolated AVR and 9.8% of isolated mitral operations, with mitral repair lowest at 8.1%](trainee-exposure-avr-mitral-national-proportions.md) — related
 - [Provider-level variation accounted for 59.6% (AVR), 57.1% (MVr) and 44.8% (MVR) of residual variation in trainee first-operator status, with volume associations differing by procedure](provider-variation-trainee-first-operator-vpc.md) — related
+- [Dissection performance was stable across cohort years, whereas 3D-software scores declined in later years relative to 2019](dissection-stable-across-years-3d-declined.md) — related

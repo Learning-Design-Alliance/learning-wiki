@@ -56,3 +56,4 @@ Between-group independent t-test comparison in a two-group pre-test–post-test 
 - [Traditionally taught control students showed no significant pre-to-post gains in patient preparation or drug preparation skills](control-group-limited-skill-gains.md) — related
 - [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
+- [Nursing students taught with the 7E instructional model during clinical probation earned higher theoretical knowledge, practical skills and total course scores than students taught with traditional teaching](7e-model-higher-course-grades-nursing-probation.md) — related

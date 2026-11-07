@@ -51,3 +51,4 @@ Delphi-style expert validation of the scenario: round-1 CVI values below 100% (c
 - [A modified Delphi process with 14 panelists achieved 100% agreement on a metrics set of 5 steps, 20 errors, 1 failure-to-progress definition and 4 critical errors for the SP anastomosis task](sp-anastomosis-delphi-metrics-consensus.md) — related
 - [A handmade low-tech thoracentesis simulator costing US$18 per unit was judged suitable by all three expert judges in the first evaluation round](thoracentesis-simulator-validated-low-cost-us18.md) — related
 - [Competencies revised in the workshop achieved very high agreement in the second Delphi round](workshop-revised-competencies-high-second-round-agreement.md) — related
+- [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related

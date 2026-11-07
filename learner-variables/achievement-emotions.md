@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 243 claims (165 show a difference, 57 mixed, 21 no difference) · 147 studies (54 associational, 47 causal, 15 review, 12 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 36 of 147 report an effect size · 240 claims rest on one study
+> **Evidence** · 249 claims (170 show a difference, 57 mixed, 22 no difference) · 150 studies (55 associational, 48 causal, 16 review, 12 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 37 of 150 report an effect size · 246 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -278,6 +278,12 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Self-efficacy, computer anxiety, and enjoyment collectively explained 91% of variance in perceived ease of use, with enjoyment the strongest predictor (β = 0.78)](../claims/enjoyment-strongest-predictor-perceived-ease-of-use.md) [+W] — learners who differ on it differ in outcomes
 - [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](../claims/progressive-learning-experience-confusion-to-problem-solving.md) [+W] — measured as an outcome of the instruction studied
 - [While working on the assignment, positive learning-related emotions (enjoyment, hope, pride) were negatively correlated with perceived stress, and anger, anxiety, shame and hopelessness were positively correlated (P < 0.05), with no relationship for boredom](../claims/stress-emotion-correlations-assignment.md) [~M] — learners who differ on it differ in outcomes
+- [Academic emotions mediate the relationship between teacher support and academic achievement](../claims/academic-emotions-mediation-teacher-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](../claims/chain-mediation-efficacy-emotions-teacher-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](../claims/ar-us-junior-trainees-lower-effort-frustration.md) [+M] — measured as an outcome of the instruction studied
+- [Positive emotions and motivation are positively associated with medical students' academic achievement, while negative emotions show small negative correlations](../claims/positive-emotions-motivation-academic-achievement-medical-students.md) [+M] — learners who differ on it differ in outcomes
+- [Shame did not have a statistically significant effect on medical students' learning or performance outcomes](../claims/shame-no-effect-medical-student-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Teacher support, academic self-efficacy, academic emotions and academic achievement are all strongly positively correlated](../claims/teacher-support-efficacy-emotions-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -54,3 +54,6 @@ Mann–Whitney comparisons of blinded GOALS domain ratings in the same 71-partic
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related
 - [The GOALS domain depth perception improved significantly more after simulation training, while the other four domains did not differ significantly](depth-perception-domain-significant-gain.md) — reports the opposite
+- [Depth perception, bimanual dexterity, tissue handling, and efficiency scores rose from native to video-teaching sequences in one group measured before and after, with the largest rise in depth perception and the smallest in efficiency](coaching-improves-goals-subscores-depth-perception-largest.md) — related
+- [LSPPDM group scored higher on all five GOALS technical-skill dimensions in live-pig cholecystectomy](lsppdm-higher-goals-technical-scores.md) — related
+- [Tissue handling and decision making were common areas for improvement for both training groups](tissue-handling-decision-making-common-weak-areas.md) — related

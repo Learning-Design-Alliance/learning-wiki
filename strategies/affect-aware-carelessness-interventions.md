@@ -44,7 +44,8 @@ Because carelessness is concentrated among highly engaged, generally successful 
 - [Carelessness is positively correlated with engaged concentration in both tutor conditions](../claims/carelessness-positive-engaged-concentration.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use error rates from simple-rule tests such as the Stroop Test to identify students' conscientiousness and concentration weaknesses and address them through tailored teaching](stroop-error-insights-tailored-teaching.md)
 
 ## Examples
 -

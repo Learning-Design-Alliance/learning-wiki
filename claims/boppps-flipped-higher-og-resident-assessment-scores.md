@@ -88,3 +88,4 @@ Table 1 row printing Cohen's d for the three between-group comparisons: "Effect 
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
+- [Medical students taught with combined PBL-CBL demonstrated stronger practical operation and clinical decision-making abilities in clinical skill assessment than traditionally taught students](pbl-cbl-stronger-clinical-skill-assessment.md) — related

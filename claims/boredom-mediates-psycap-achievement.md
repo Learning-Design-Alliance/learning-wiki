@@ -53,3 +53,4 @@ Bootstrap mediation test (5000 resamples, 95% bias-corrected CIs) in the SEM of 
 - [EFL PsyCap is negatively associated with academic boredom and positively with behavioural engagement, and boredom negatively predicts engagement and achievement](psycap-boredom-engagement-paths.md) — related
 - [EFL PsyCap positively predicts EFL achievement among Chinese secondary EFL learners](efl-psycap-predicts-achievement.md) — related
 - [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](boredom-negative-mediation-tcb-eap.md) — related
+- [Academic emotions mediate the relationship between teacher support and academic achievement](academic-emotions-mediation-teacher-support-achievement.md) — related

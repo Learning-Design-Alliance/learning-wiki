@@ -50,3 +50,4 @@ Single-centre survey of 21 FY2 doctors at King's College Hospital (Saifuddin & B
 - [Foundation and SHO doctors working in UK general EDs lack confidence in managing ophthalmic emergencies](foundation-sho-doctors-lack-confidence-ophthalmic-emergencies.md) — related
 - [Most ED doctors receive no formal ophthalmology training in the ED and many believe more teaching would improve their confidence](no-formal-ophthalmology-training-in-ed.md) — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — a broader claim this one bears on
+- [Baseline survey of course completers confirmed deficiencies in undergraduate trauma teaching exposure](satmas-baseline-teaching-deficiency.md) — related

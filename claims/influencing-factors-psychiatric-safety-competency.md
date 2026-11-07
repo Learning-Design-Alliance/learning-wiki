@@ -53,3 +53,4 @@ Theme 2 of the interview study (subthemes: manpower resources, leadership, teamw
 - [Nurses identify observation of patients and environment as the most critical means of preventing psychiatric adverse events](observation-critical-means-preventing-adverse-events.md) — related
 - [Nurses report being discouraged from voluntarily reporting medication errors by blame-oriented cultures and cumbersome procedures](barriers-voluntary-medication-error-reporting.md) — related
 - [A climate of mistrust, blame and lack of management understanding undermines midwives' motivation despite their commitment to patient survival](mistrust-blame-undermine-midwife-motivation.md) — related
+- [Mentors' improvement proposals concentrate on training, safety culture and climate, and individual attitudes](mentor-proposals-training-culture-attitudes-dominant.md) — related

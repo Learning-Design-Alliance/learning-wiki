@@ -50,3 +50,4 @@ The review's Discussion section reports the interprofessional composition of the
 - [Simulation-based learning experiences are being used to teach palliative and end-of-life communication skills to nursing students and clinicians](sble-teach-palliative-eol-communication-nursing.md)
 - [Assessed collaborative behaviors in ISBTT rarely cover all four IPEC domains, with values and ethics almost never assessed](isbtt-outcomes-rarely-cover-all-ipec-domains.md)
 - [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](debriefing-central-sble-palliative-communication.md) — related
+- [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related

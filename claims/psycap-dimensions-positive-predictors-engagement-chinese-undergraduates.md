@@ -50,3 +50,4 @@ Random-coefficient HLM of 3,388 students nested in classes, with gender as contr
 - [Conscientiousness, self-esteem, openness, and self-control each positively predict self-directed learning among Chinese medical undergraduates, with conscientiousness showing the largest effect](personality-traits-positive-predict-sdl-medical-undergraduates.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [Psychological capital significantly and positively predicts competency in interdisciplinary teaching, with self-efficacy the most influential dimension](psycap-predicts-cit-self-efficacy.md) — related
+- [Resilience is positively associated with competency among Chinese radiology residents](resilience-positive-competency-radiology-residents.md) — a narrower finding that bears on this claim

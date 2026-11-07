@@ -48,3 +48,4 @@ Rater-agreement analysis of three experienced MIS surgeons rating randomized, bl
 ## Related Claims
 - [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](goals-good-inter-rater-reliability-porcine-model.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
+- [Blinded GOALS rating of the bleeding-exercise videos showed moderate-to-good inter-rater reliability (ICC = 0.72)](goals-bleeding-exercise-icc-moderate-good.md) — related

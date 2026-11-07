@@ -51,6 +51,7 @@ The authors propose progressively including immersive VR simulation in continuin
 - [Use VR simulation as a complementary, not competing, component of hazardous-drug spill-management training](vr-complementary-hazardous-drug-training.md)
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Provide structured, VR-specific orientation and training sessions before learners engage in complex clinical tasks in VR](structured-vr-specific-orientation-before-complex-tasks.md)
+- [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 
 ## Examples
 -

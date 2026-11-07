@@ -67,3 +67,4 @@ Narrative review assertion attributed to the included primary studies (Moliterno
 - [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — related
 - [In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
 - [Authors position SKIT as excelling at non-technical skills while high-fidelity simulation outperforms it for fine procedural skills](skit-versus-hfs-vr-positioning.md) — related
+- [High-fidelity simulation outperformed case-based discussion on simulation checklist performance in clinical reasoning, communication, attitude, and leadership, with large effect sizes](hfs-beats-cbd-simulation-checklist-large-effects.md) — a narrower finding that bears on this claim

@@ -46,6 +46,7 @@ The authors recommend that future primary research on PBL be conducted "at sever
 - [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
 - [Medical schools should frequently evaluate students' perceptions of the educational environment and adapt methods flexibly](frequent-environment-evaluation-flexible-methods.md)
 - [Run preparatory pre-activities to adapt students and teachers before PBL treatment](pbl-pre-activities-adaptation.md)
+- [Future flipped classroom research should use larger multi-site samples, standardized facilitator training, and mixed-methods data collection](flipped-classroom-future-research-recommendations.md)
 
 ## Examples
 -

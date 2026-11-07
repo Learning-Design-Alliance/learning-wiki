@@ -76,3 +76,4 @@ Test–retest assessment with 81 nurses re-completing the HLC-N after a two-week
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
 - [The CCDNS-DRN shows high internal consistency and two-week test–retest stability](ccdns-drn-reliability-coefficients.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
+- [The scale shows high internal consistency, with total Cronbach's α of 0.984 and dimension coefficients from 0.947 to 0.978](scale-cronbach-alpha-high-internal-consistency.md) — related

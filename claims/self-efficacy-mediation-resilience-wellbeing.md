@@ -68,3 +68,4 @@ Bias-corrected percentile bootstrap test (5,000 samples, 95% CI) confirmed indir
 - [Teacher pedagogical competence mediates the relationship between teacher resilience and professional well-being](pedagogical-competence-mediation-resilience-wellbeing.md) — related
 - [Resilience, professional well-being and pedagogical competence are significantly positively intercorrelated among early childhood teachers](resilience-wellbeing-competence-correlations.md) — related
 - [Early childhood teachers' resilience significantly and positively predicts their professional well-being](teacher-resilience-positively-predicts-professional-wellbeing.md) — a broader claim this one bears on
+- [General self-efficacy mediates the relationship between professional identity and academic achievement in nursing students](self-efficacy-mediate-professional-identity-academic-achievement.md) — related

@@ -81,3 +81,6 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [GPT-4o significantly outperforms GPT-4 in diagnostics (92.7% vs 83.5%), and both beat GPT-3.5 (65.2%)](gpt-4o-diagnostics-accuracy-beats-gpt-4-and-gpt-3-5.md) — a narrower finding that bears on this claim
 - [GPT-4o significantly outperforms GPT-4 in management (88.8% vs 77.0%), and both beat GPT-3.5 (57.9%)](gpt-4o-management-accuracy-beats-gpt-4-and-gpt-3-5.md) — a narrower finding that bears on this claim
 - [On USMLE imaging-based questions, GPT-4o and GPT-4 did not differ significantly from each other but both outperformed Google Bard](gpt4o-gpt4-outperform-bard-imaging-questions.md) — related
+- [ChatGPT 4.0 significantly outperforms ChatGPT 3.5 and Google Bard in accuracy on English NCLEX-RN practice MCQs](chatgpt-4-highest-accuracy-english-nclex-rn-mcqs.md) — a narrower finding that bears on this claim
+- [ChatGPT 4.0 significantly outperforms ChatGPT 3.5 on Chinese NNLE theoretical and practical MCQs](chatgpt-4-outperforms-35-chinese-nnle-mcqs.md) — a narrower finding that bears on this claim
+- [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related

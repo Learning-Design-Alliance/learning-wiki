@@ -51,6 +51,7 @@ The authors' forward-looking recommendations for simulation-based procedural tra
 - [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
 - [Incorporate the validated sensorised glove into structured obstetric training curricula after staged refinement and validation](staged-sensorised-glove-training-curriculum-strategy.md)
 - [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
+- [Implement SBML as a teaching modality for procedural-based training and cross-discipline education initiatives](sbml-procedural-cross-discipline-strategy.md)
 
 ## Examples
 -

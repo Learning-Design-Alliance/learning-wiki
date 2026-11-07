@@ -95,3 +95,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Male and female students differed significantly in pre-class resource preferences, pre-class knowledge mastery, and perceived learning burden](gender-differences-resources-mastery-burden.md) — related
 - [Faculty knowledge and attitude gains were not significantly correlated with academic rank or educational level, and did not differ by gender](no-rank-gender-differences-in-gains.md) — related
 - [Knowledge scores rose from pre-test to post-test after the STP, with significantly larger gains among female participants, 30-39-year-olds, and physiotherapists with 6-10 years' experience in a single-group pre-post study](stp-knowledge-gain-demographic-moderators.md) — reports the opposite
+- [No significant gender differences in examination performance within any of the three teaching-modality groups](no-gender-difference-anatomy-modality-groups.md) — related

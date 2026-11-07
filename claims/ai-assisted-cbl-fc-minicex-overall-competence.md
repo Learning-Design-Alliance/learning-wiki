@@ -73,3 +73,5 @@ The article reports significant between-group differences on medical interviewin
 - [SOM-PBL improves clinical reasoning performance overall and specifically diagnostic cognitive rigor, but not integrative history analysis or time-critical decision-making](som-pbl-clinical-reasoning-gains.md) — related
 - [Clinical competence measured by Mini-CEX did not differ significantly between AI-PBL and traditional PBL groups despite numerically higher scores in the AI-PBL group](mini-cex-no-significant-group-difference.md) — reports the opposite
 - [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related
+- [CBL combined with BOPPPS improved four of five modified Mini-CEX clinical-thinking dimensions; for medical history writing the article's text reports no significant difference but its table prints p = 0.002](cbl-boppps-mini-cex-clinical-thinking-dimensions.md) — related
+- [CBL/FC students report more positive perceptions of clinical skill gains than LBT students in both grades](cbl-fc-positive-skill-perceptions.md) — related

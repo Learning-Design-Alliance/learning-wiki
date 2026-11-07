@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (36 for, 22 mixed, 2 against) · 73 studies (39 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 73 report an effect size · 50 claims rest on one study
+> **Evidence** · 63 claims (39 for, 22 mixed, 2 against) · 75 studies (41 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 75 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,9 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Following structured educational and organisational interventions, CCP success at endotracheal intubation within two attempts in out-of-hospital cardiac arrest improved by 7.9% points from 2019 to 2024 (χ2 = 4.205, p = 0.040), reaching 97.7% in 2024](../claims/ccp-eti-two-attempt-success-improved-after-education-programme.md) [~W] — attached 2026-11-06 from Appelboam Thomas et al. (2025), which proposed "Require a high-volume supervised intubation threshold with a maintained logbook before independent pre-hospital intubation practice".
 - [At the mid-training (second) test, residents trained with combined progressive and imagery training had significantly lower (better) LS-CAT scores and fewer operation errors than residents trained with traditional whole-action practice](../claims/progressive-imagery-training-better-lscat-second-test.md) [+W] — attached 2026-11-06 from Lin Wenxue et al. (2025), which proposed "Progressive-plus-imagery laparoscopic suturing training pattern: six decomposed steps practiced sequentially with brief guided imagery before each step and before continuous practice"; tests this page's relationship.
 - [At the final (third) test the combined-method group retained significantly fewer operation errors and better tissue-handling scores, but LS-CAT total scores and suturing time no longer differed between groups](../claims/progressive-imagery-training-third-test-errors-tissue-handling.md) [~W] — attached 2026-11-06 from Lin Wenxue et al. (2025), which proposed "Progressive-plus-imagery laparoscopic suturing training pattern: six decomposed steps practiced sequentially with brief guided imagery before each step and before continuous practice"; tests this page's relationship.
+- [In one uncontrolled pre-post study, LapSim scores rose from pre-test to post-test after instructor feedback among senior residents performing complex laparoscopic procedures and junior residents performing basic tasks, with a larger rise for seniors](../claims/senior-residents-gain-more-from-feedback.md) [+W] — attached 2026-11-07 from Tee Yu-San et al. (2024), which proposed "Pair step-by-step simulation-based training with instructor feedback in later, complex stages; allow self-directed practice in early basic-skill stages".
+- [Step-by-step teaching yields significantly higher theoretical examination and skills assessment scores than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-theory-and-skills-scores-reproductive-ultrasound.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Adopt step-by-step (SBS) training as the basis for postgraduate reproductive vaginal ultrasound education"; tests this page's relationship.
+- [Step-by-step teaching yields a significantly higher total clinical competence score than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-total-clinical-competence-score.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Adopt step-by-step (SBS) training as the basis for postgraduate reproductive vaginal ultrasound education"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -202,6 +205,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Simulation-first framework: acquire foundational procedural skills on simulation models before clinical practice](../strategies/simulation-first-foundational-skills-before-clinical.md)
 - [Use brief instructor-guided relaxation and visualization imagery sessions immediately before practicing decomposed surgical skill steps](../strategies/guided-imagery-before-decomposed-step-practice.md)
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](../strategies/demonstrate-group-practice-report-revision-simulation-session.md)
+- [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](../strategies/peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 
 ### Illustrative
 

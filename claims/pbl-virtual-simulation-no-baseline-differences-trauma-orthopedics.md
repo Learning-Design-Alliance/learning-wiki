@@ -73,3 +73,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — a narrower finding that bears on this claim
 - [Baseline clinical skill performance did not differ between the randomized groups, while baseline knowledge did and was controlled in the analysis](baseline-differences-knowledge-controlled-skill-equivalent.md) — reports the opposite
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — related
+- [No statistically significant difference in pre-course theoretical test scores between the virtual simulation and MOOC groups](no-pretest-difference-virtual-simulation-mooc-groups.md) — a narrower finding that bears on this claim

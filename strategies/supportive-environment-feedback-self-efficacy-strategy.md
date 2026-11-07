@@ -51,6 +51,9 @@ The article's practical-implications section recommends that teachers "create an
 
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Create inclusive, supportive, process-oriented sports environments that prioritize participation experience over competition for adolescents with high BMI](inclusive-supportive-sports-environments-high-bmi.md)
+- [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
+- [Strengthen teacher support, academic self-efficacy and positive academic emotions to raise university students' achievement](support-efficacy-emotions-enhancement-strategies.md)
+- [Implement teacher training to enhance supportive teaching practices and strengthen students' academic self-efficacy](teacher-training-supportive-practices-self-efficacy.md)
 
 ## Examples
 -

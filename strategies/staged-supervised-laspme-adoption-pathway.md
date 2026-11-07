@@ -54,6 +54,7 @@ In the discussion the authors recommend how surgeons learning this procedure sho
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
 - [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
+- [Maintain trainee exposure to open and reconstructive procedures using real cases, simulation-based and cadaveric education, and video libraries despite declining open case volume](maintain-open-reconstructive-exposure-simulation-cadaver-video.md)
 
 ## Examples
 -

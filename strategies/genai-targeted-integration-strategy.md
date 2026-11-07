@@ -47,6 +47,7 @@ Based on its findings, the study proposes that Gen-AI "should be systematically 
 ## Related Strategies
 
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
+- [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Bootstrap mediation analysis (2000 resamples, Amos 24.0) of the survey of 265 mi
 - [Social support explains 14% of variance in self-efficacy and, with self-efficacy, 26% in learning engagement; the full model explains 47% of variance in academic performance](variance-explained-structural-model-social-support.md) — related
 - [Social support directly and positively predicts English academic achievement among Chinese secondary school students](social-support-predicts-english-achievement.md) — a narrower finding that bears on this claim
 - [Perceived teacher support has a significant positive direct effect on middle school students' mathematics performance after controlling for gender and age](teacher-support-direct-effect-math-performance.md) — related
+- [Teacher support is directly and positively associated with academic achievement among university students](teacher-support-direct-effect-achievement.md) — related

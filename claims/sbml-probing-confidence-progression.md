@@ -53,3 +53,4 @@ Confidence was rated on a 0–4 Likert scale at each of four training stages (Ta
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](ubridge-confidence-gains-pre-post.md) — related
 - [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](ai-lab-manual-design-increased-confidence-troubleshooting.md) — related
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
+- [Emergency physicians' slit-lamp exam checklist scores increased significantly from pre- to post-SBML curriculum (median 12.0 to 19.0)](sbml-slitalmp-checklist-score-increase.md) — related

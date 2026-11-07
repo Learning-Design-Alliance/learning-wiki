@@ -67,3 +67,4 @@ Dependent-groups t-tests within each group of 15 students: experimental group pr
 - [Students in the digital writing workshop significantly increased their use of story elements in their stories](digital-workshop-increases-story-elements-use.md) — related
 - [Contrary to expectations, the digital writing workshop significantly decreased fourth-graders' writing motivation while control-group motivation did not change](digital-writing-workshop-decreases-writing-motivation.md) — related
 - [Reciprocal teaching produced significantly greater expository text comprehension gains than regular curriculum instruction in fourth graders over 11 weeks](reciprocal-teaching-expository-comprehension-gains.md) — related
+- [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](reversed-classroom-workshops-beat-lecture-ecg.md) — related

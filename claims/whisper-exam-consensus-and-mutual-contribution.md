@@ -53,3 +53,4 @@ Descriptive survey results on perceived benefit and contribution (n = 191 respon
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related
 - [Students perceived teamwork in the whisper exam as constructive and enjoyable, with nearly all respondents rating interaction as constructive](whisper-exam-teamwork-constructive-enjoyable.md) — related
 - [Co-learning with peers in TBL helps students identify knowledge gaps and practise establishing consensus](co-learning-peers-knowledge-gaps-consensus.md) — related
+- [Residents who took the intervention MCQ tests reported a perceived educational benefit from testing](residents-perceived-benefit-from-mcq-testing.md) — related

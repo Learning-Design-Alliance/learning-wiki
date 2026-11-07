@@ -50,3 +50,4 @@ Multivariable logistic regression on the 220-intern cross-sectional dataset iden
 - [Only 19.1% of Ethiopian medical interns across four institutions meet the ≥80% ECG interpretation competency threshold](ethiopian-interns-low-ecg-competency-19-percent.md) — related
 - [ECG competency varies significantly across Ethiopian training institutions, from 7.1% at JUMC to 32.7% at SPHMMC](institutional-variation-ecg-competency-ethiopia.md) — related
 - [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](randomised-case-order-attenuates-case1-effect.md) — related
+- [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related

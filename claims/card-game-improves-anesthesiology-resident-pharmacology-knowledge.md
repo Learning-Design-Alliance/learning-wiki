@@ -162,3 +162,4 @@ This was a single-group, cross-sectional observational pilot (19 residents) with
 - [Card game responses are equitable across most awarding-gap factors, with mixed POLAR4 findings](card-games-equitable-across-awarding-gap-factors.md) — related
 - [Medical students who played weekly open-access pharmacology games showed significant pretest-to-posttest score improvement, while control students did not](pharmacology-games-significant-posttest-gain.md) — related
 - [Card-selection accuracy rose across three test sessions among surgical technologist students who played the 5CardsGame, in one single-group pre-post study with no comparison group](5cardsgame-score-increase-three-tests.md) — a narrower finding that bears on this claim
+- [Repeated MCQ test-enhanced learning produced no significant difference in delayed basic-science assessment scores among first-year anesthesiology residents](tel-mcq-no-effect-basic-science-neuroanesthesia.md) — related

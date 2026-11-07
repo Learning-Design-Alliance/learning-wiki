@@ -49,3 +49,4 @@ Randomised trial of 31 medical students (16 3D, 15 2D) trained on the Medtronic 
 - [3D monitors show no overall advantage over 2D on error metrics in robotic simulation, except wire collisions in one exercise](3d-no-advantage-error-metrics-except-wire-collisions.md) — related
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — related
 - [3D VR acclimatisation shortens simulator completion time and reduces instrument path length versus 2D video](3d-vr-reduces-path-length-and-time.md) — related
+- [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related

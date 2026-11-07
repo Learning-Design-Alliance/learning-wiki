@@ -55,3 +55,4 @@ Meta-analysis of 39 studies of LLMs answering dental examination questions, usin
 - [ChatGPT accuracy on health licensing examinations is highest in pharmacy and lowest in nursing](chatgpt-accuracy-field-order-pharmacy-nursing.md) — related
 - [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related
 - [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related
+- [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related

@@ -68,3 +68,4 @@ Topic-level correlation analysis (Table 6) in the same sample; the article state
 - [Overall cholangiogram quiz scores and interpretation confidence increase with surgical training level](ioc-quiz-scores-confidence-increase-with-training-level.md) — related
 - [More frequent IOC use correlates with better cholangiogram quiz performance](ioc-use-frequency-correlates-quiz-performance.md) — related
 - [PGY1-3 residents perform worse than attendings on bile duct injury recognition questions](pgy1-3-worse-than-attendings-bdi-recognition.md) — related
+- [Baseline self-confidence in ECG interpretation does not correlate with baseline ECG exam performance](no-correlation-confidence-ecg-exam-score.md) — reports the opposite

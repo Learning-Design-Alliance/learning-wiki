@@ -57,3 +57,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Students rate hologram-based AR anatomy learning positively, with high willingness to use it again for theoretical and practical learning](positive-user-experience-and-willingness-to-reuse-ar.md) — a narrower finding that bears on this claim
 - [59% of students reported the courses exceeded or greatly exceeded their expectations, while only 4% reported expectations were not met](el-courses-exceeded-student-expectations.md) — related
 - [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
+- [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related

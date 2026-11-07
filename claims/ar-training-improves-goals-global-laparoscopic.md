@@ -50,3 +50,4 @@ Meta-analysis (generic inverse variance in RevMan 5.4) of three studies reportin
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — related
 - [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related
+- [Structured video-assisted coaching improves laparoscopic performance in a simulated bleeding exercise, while simple repetition does not](video-assisted-coaching-improves-bleeding-exercise-performance.md) — related

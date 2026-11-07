@@ -48,3 +48,4 @@ Non-randomized comparison of 25 fourth-year elective participants with 25 fifth-
 - [Pass rates on the course test were far higher among elective participants (96% in Course I, 100% in Course II) than among mandatory-curriculum-only controls (4% and 71%)](pbl-elective-higher-pass-rates-osteoporosis-test.md) — related
 - [Students who completed the fracture-focused Elective Osteoporosis Course II scored on average 3.5 points higher than sixth-year controls who completed only the mandatory curriculum](pbl-elective-osteoporosis-course-ii-higher-test-scores.md) — related
 - [Applying Bayes' theorem, the authors compute a 96% conditional probability of passing the Course I test given elective attendance and 99% for Course II](bayes-conditional-pass-probability-elective-attendance.md) — related
+- [Students completing the flexible compulsory dental basic research course had higher second-year GPA than elective-course students](cdbrc-higher-gpa-than-elective.md) — related

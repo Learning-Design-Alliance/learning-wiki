@@ -51,3 +51,4 @@ Correlational analysis of 25 freshmen and 32 seniors at Newcomb College taking a
 - [Students in different course groups (B.A., Education, Art and Music) differed in aesthetic judgment types and in test-class-average correlations](course-groups-differ-aesthetic-judgments-test-correlations.md)
 - [Correlations among the brief tests were low and internally inconsistent: K and M correlated only .32 while M correlated .42 with the information test and K only .18](low-inconsistent-inter-test-correlations.md) — related
 - [College seniors improved over their freshman standing on mental tests, with the largest gains in range of information (44.7%) and class standing (19%) and smaller gains in attention, learning speed, and association](college-senior-freshman-test-gains.md) — related
+- [Stroop Effect shows no statistically significant correlation with university students' grade averages](stroop-effect-grade-average-null-correlation.md) — related

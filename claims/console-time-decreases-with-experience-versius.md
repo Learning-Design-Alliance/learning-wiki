@@ -65,3 +65,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Assignment of experienced surgical assistants was associated with low malfunction rates during program expansion, highlighting assistant-level proficiency](assistant-proficiency-associated-with-low-malfunction-rate.md) — related
 - [Operative times of both trainer and trainee decreased significantly from the first 10 to the last 10 cases of the observation period (both p < 0.001)](mie-operative-time-decreased-first-vs-last-10-cases.md) — related
 - [Proctoring significantly enhanced surgical skills and reduced operating times in robot-assisted laparoscopic gynecology](proctoring-enhanced-skills-reduced-operating-times.md) — related
+- [Procedures rated difficult take significantly longer than non-difficult procedures, while trainee experience shows no significant operating-time difference](difficult-procedures-longer-operating-time.md) — reports the opposite

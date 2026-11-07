@@ -51,6 +51,7 @@ The article recommends that hospitals "Formalize clinical peer‐mentorship prog
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Implement sepsis care bundles and formal sepsis training modules during healthcare student training](sepsis-care-bundles-during-training-strategy.md)
+- [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 
 ## Examples
 -

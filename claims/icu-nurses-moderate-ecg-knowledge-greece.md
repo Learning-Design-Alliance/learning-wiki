@@ -52,3 +52,4 @@ Cross-sectional web-based survey of 100 ICU nurses in Greece (October 2024–Feb
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related
 - [Less experienced nurses (< 10 years) and untrained nurses are more likely to report insufficient preparedness](less-experienced-nurses-insufficient-preparedness.md) — related
 - [Nurses' ECG arrhythmia interpretation knowledge rose significantly from pre-test to post-test after a self-directed e-learning package in cardiology units, in one uncontrolled pre-test/post-test study](sdl-package-improves-nurse-ecg-arrhythmia-interpretation.md) — related
+- [French medical students report low confidence in ECG interpretation, especially in emergency situations, and low satisfaction with current ECG teaching](low-confidence-ecg-interpretation-medical-students.md) — related

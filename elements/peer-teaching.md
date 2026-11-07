@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (13 for, 6 mixed) · 16 studies (8 causal, 3 associational, 2 quant-synthesis, 2 qualitative, 1 review), `q1`–`q4` · 1 of 16 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (14 for, 6 mixed) · 17 studies (8 causal, 4 associational, 2 quant-synthesis, 2 qualitative, 1 review), `q1`–`q4` · 1 of 17 report an effect size · 19 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -71,6 +71,7 @@ Peer teaching works because explaining to another person demands deeper processi
 - [Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles](../claims/tutor-skill-development-peer-tutoring-nursing.md) [+W] — attached 2026-11-05 from Dias Jacqueline Maria et al. (2025), which proposed "University of Sharjah peer tutoring program for undergraduate nursing students"; tests this page's relationship.
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](../claims/tutee-initial-hesitancy-eases-peer-tutoring.md) [~W] — attached 2026-11-05 from Dias Jacqueline Maria et al. (2025), which proposed "University of Sharjah peer tutoring program for undergraduate nursing students".
 - [Junior doctor tutors reported high enjoyment and strong overall benefit from participating in the near-peer teaching program](../claims/junior-doctor-tutors-enjoyment-benefit-high.md) [+W] — attached 2026-11-07 from Medveczky D et al. (2025), which proposed "Near-Peer Medical Teaching (NPMT) program: a flexible junior-doctor-led near-peer teaching program with an online repository of consultant-reviewed lesson plans and an annual teaching skills workshop".
+- [First-year medical students who attended at least five peer-led teaching sessions scored significantly higher on the first basic-sciences NBME exam than non-attendees, by 4.28% on average](../claims/plts-attendees-higher-basic-science-exam-428-percent.md) [+W] — attached 2026-11-07 from Aharonian K et al. (2024), which proposed "Peer-led teaching sessions (High-Yield Review sessions) with second-year medical students as instructors"; tests this page's relationship.
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

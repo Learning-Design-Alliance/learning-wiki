@@ -52,3 +52,4 @@ Two-stage OLS regression on posttest scores of 501 nurses; Model 1 demographics 
 - [The mediation model accounts for 51.0% of the variance in perceived clinical competence](model-explains-51-percent-variance-clinical-competence.md) — related
 - [Student leadership experience and number of communication skills training sessions, but not other demographics, associate with communication competence subscales](leadership-and-training-associated-communication-competence.md) — a narrower finding that bears on this claim
 - [Spiritual health is the strongest predictor of core competencies, explaining 42.9% of variance after controlling for demographic factors](spiritual-health-strongest-predictor-competencies-42-9-variance.md) — related
+- [Selected demographic factors did not significantly explain course grades, and models poorly explained BCI normalized change scores.](demographics-not-explain-grades-bci.md) — a narrower finding that bears on this claim

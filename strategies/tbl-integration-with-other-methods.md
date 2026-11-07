@@ -62,6 +62,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
 - [Use multiple teaching methodologies — case- or team-based learning, flipped classrooms, simulation, augmented reality, and interactive virtual patients — to build TDI competence](multiple-teaching-methods-tdi-confidence.md)
 - [Educators should flexibly use PBL alone or combined with other methods, matched to teaching content and the learning situation, rather than adopting one mode universally](flexibly-match-pbl-to-content-and-learners.md)
+- [Integrate student-active teaching methods such as TBL and formative assignments into preclinical curricula](integrate-active-learning-tbl-formative-assignments-medical-curricula.md)
 
 ## Examples
 -

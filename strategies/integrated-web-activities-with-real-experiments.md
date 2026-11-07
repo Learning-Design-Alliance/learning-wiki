@@ -51,6 +51,7 @@ The article's discussion recommends that web-assisted activities and simulations
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Integrate interactive digital tools into large-enrollment courses to teach conceptually demanding content where lab access is limited](digital-tools-for-large-enrollment-conceptually-dense-content.md)
 - [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
+- [Combine initial in-person training with subsequent digital at-home training to satisfy trainee preferences while retaining digital flexibility](initial-in-person-then-digital-training-combination.md)
 
 ## Examples
 -

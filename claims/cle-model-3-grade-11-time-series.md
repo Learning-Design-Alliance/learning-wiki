@@ -50,3 +50,4 @@ Latest replicated study of CLE model 3 described in section 4.5: a one experimen
 - [CLE Model III instruction significantly improves English creative writing ability in eleventh-grade Thai students](cle-model-iii-improves-creative-writing.md) — possibly the same claim (merge candidate)
 - [English reading ability scores rose significantly from pre-test to post-test in one uncontrolled pre-post study of eleventh-grade Thai students after CLE Model III instruction](cle-model-iii-improves-reading-ability.md) — related
 - [Students report significantly higher satisfaction after learning through CLE Model III](cle-model-iii-increases-student-satisfaction.md) — possibly the same claim (merge candidate)
+- [The short-term formative impact of the 3-D skills model was replicated with a larger sample, showing high student satisfaction, improved confidence and a mean increase of ~15% in checklist scores.](cl-3d-skills-short-term-formative-replication.md) — related

@@ -55,6 +55,7 @@ The authors recommend that to maximise Mini-CEX's impact, "institutions must add
 - [Standardise scoring and use cross-evaluation to reduce mini-CEX/DOPS subjectivity](mini-cex-dops-standardisation-strategy.md)
 - [Implement the Mini-CEX as a three-step direct-observation assessment with feedback at one-week intervals during surgery clerkships](mini-cex-three-step-observation-feedback-strategy.md)
 - [Multi-level strategy for strengthening EBM implementation: individual workshops and protected time, institutional access and culture, and system-level public awareness](multi-level-ebm-implementation-strategy.md)
+- [Integrate the 3-D skills formative assessment into the main curriculum and pair it with formative tools such as the Mini-CEX](strategy-3d-skills-curriculum-integration-mini-cex.md)
 
 ## Examples
 -

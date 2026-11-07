@@ -49,3 +49,4 @@ Comparative study of 67 fourth-year dental students assigned by stratified rando
 - [Students in the P-I-T-D-S flipped classroom reported significantly higher satisfaction than traditional-lecture students across nearly all questionnaire items](pitds-flipped-higher-satisfaction.md) — related
 - [Flipped classroom students report more positive perceptions of resources, effort, and overall learning environment on the AEEMI](flipped-classroom-positive-aeemi-perceptions.md) — related
 - [Flipped and face-to-face classrooms produce no significant difference in overall orthodontic wire-bending scores](flipped-vs-face-to-face-no-score-difference-wirebending.md) — related
+- [Flipped classroom students reported significantly higher satisfaction than traditional lecture students](flipped-classroom-higher-satisfaction-gondar.md) — related

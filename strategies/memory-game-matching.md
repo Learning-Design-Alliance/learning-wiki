@@ -12,7 +12,7 @@ generated:
 # Memory Game (Matching)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 18 studies (9 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 18 report an effect size
+> **Evidence** · 5 claims (5 for) · 19 studies (9 quant-synthesis, 5 causal, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 8 of 19 report an effect size
 
 ## Description
 A memory game in which learners turn over pairs of face-down word cards, attempting to find matching pairs. Each successful match triggers an elaboration step — the learner says the word aloud and uses it in a sentence drawn from a familiar context, such as a song or shared text. The game combines repeated exposure, [active recall](../elements/practice.md), and contextualized production in a low-stakes, playful format.

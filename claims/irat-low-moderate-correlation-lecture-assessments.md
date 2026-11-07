@@ -49,3 +49,4 @@ Correlational analysis of score data from 69 students in a pharmacy calculations
 - [TRAT scores correlate only very low-to-low with lecture assessment scores, with significance limited to a few topics](trat-weak-correlation-lecture-assessments.md) — related
 - [IRAT performance shows a stronger association with final exam performance than TRAT performance does](irat-stronger-final-exam-association-than-trat.md) — related
 - [IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity](if-at-exam-scores-correlate-with-cr-quiz-scores.md) — related
+- [Preclass preparation, measured as average iRAT performance, was the only significant predictor of exam performance in each course unit.](irat-preparation-predicts-exam-performance.md) — related

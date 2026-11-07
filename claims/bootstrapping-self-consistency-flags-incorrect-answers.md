@@ -59,3 +59,5 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [Concise, focused case summaries are associated with ChatGPT-4 reaching the correct diagnosis](concise-summaries-associated-correct-diagnosis.md) — related
 - [Temperature settings (0.3, 0.6, 1.3) did not significantly affect GPT-4o accuracy on EUNACOM questions](temperature-no-effect-eunacom-accuracy.md) — related
 - [LLMs can self-correct errors within a single session but revert to the original incorrect responses when the same questions are re-entered in a new session](llm-self-correction-does-not-persist-across-sessions.md) — related
+- [ChatGPT 4.0 had the most uniquely correct and fewest uniquely incorrect responses among the three LLMs across both languages](chatgpt-4-most-unique-correct-responses-venn.md) — related
+- [GPT-4 self-agreement between Korean and English versions is 72.6%, with correct answers derived only from English in 14.1% of cases](gpt4-self-agreement-korean-english-72-6-percent.md) — related

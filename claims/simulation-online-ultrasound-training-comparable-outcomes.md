@@ -52,3 +52,4 @@ Prospective randomized blinded trial with 68 physiotherapy students (n=34 per gr
 - [Procedure times were similar between simulation and traditional groups across most nerve block approaches](procedure-times-similar-most-approaches.md) — related
 - [On the non-randomized circulation topic, the 182 students taught on site answered the exam questions significantly better than the 16 students taught online](circulation-topic-onsite-outperformed-online.md) — related
 - [ICU nurses trained with ultrasound simulation achieve significantly higher theoretical test scores than nurses taught with the classic method](simulation-training-higher-theoretical-scores-icu-nurses.md) — related
+- [Physiotherapy students attending a hybrid chest physiotherapy seminar face-to-face achieved higher total scores than remote students](hybrid-face-to-face-higher-total-score-chest-physiotherapy.md) — related

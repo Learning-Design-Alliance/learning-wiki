@@ -51,3 +51,4 @@ Non-randomized controlled trial (Table 3) with 18 credentialed gynaecological su
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — related
 - [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related
 - [In one uncontrolled pre-post study, the volume of simulated blood lost while controlling haemorrhage fell from pre-test to post-test after training with the task simulator and rose at three months but remained below baseline](task-simulator-reduces-blood-volume-lost.md) — related
+- [The simulation-first advantage on OSATS was not robust in sensitivity and multivariate analyses adjusting for baseline robotic experience](simulation-first-advantage-not-robust-sensitivity.md) — related

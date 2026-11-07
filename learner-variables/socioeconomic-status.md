@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 263 claims (140 show a difference, 63 mixed, 60 no difference) · 199 studies (89 associational, 76 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 33 of 199 report an effect size · 262 claims rest on one study
+> **Evidence** · 266 claims (143 show a difference, 63 mixed, 60 no difference) · 200 studies (89 associational, 77 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 33 of 200 report an effect size · 265 claims rest on one study
 
 ## How to read this page
 
@@ -348,6 +348,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Inhibition does not significantly mediate the association between socioeconomic status and educational achievement](../claims/inhibition-not-mediator-ses-achievement.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Processing speed does not significantly mediate the association between socioeconomic status and educational achievement](../claims/processing-speed-not-mediator-ses-achievement.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The association between village heads' education and adolescent academic performance is stronger for girls and low-income families and is not significant for middle-income families](../claims/village-head-education-heterogeneity-gender-income.md) [~W] — an instructional effect differs by group
+- [Racial/ethnic and socioeconomic score disparities increased from before to after optional exam retakes in one group with no comparison group; differences in participation were also reported](../claims/retakes-exacerbate-score-disparities.md) [+M] — an instructional effect differs by group
+- [Pell-eligible, Black, Latinx, International students, and students working jobs received lower scores on first exam attempts than reference groups](../claims/first-attempt-score-disparities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Students who worked a job, especially more than 20 h a week, were less likely to retake exams even when retakes were offered during class time or online](../claims/working-students-less-likely-retake.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

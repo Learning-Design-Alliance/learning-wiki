@@ -58,6 +58,10 @@ The article describes a standardized simulation-based training protocol structur
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 - [Structured three-day intensive suturing course progressing from daily single-knot practice to a final anastomosis task](three-day-intensive-suturing-course-progression.md)
 - [Use sequential adaptive e-learning plus simulator training to establish novel minimally invasive surgical techniques](sequential-elearning-simulator-for-novel-mis-techniques.md)
+- [Use particularly challenging procedural steps as the basis for targeted simulation-based training enabling deliberate practice](challenging-steps-drive-simulation-training-strategy.md)
+- [Four-step graduated practical training sequence from trainer demonstration to learner performance with real-time feedback](four-step-graduated-echo-simulator-practice-sequence.md)
+- [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
+- [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 
 ## Examples
 -
