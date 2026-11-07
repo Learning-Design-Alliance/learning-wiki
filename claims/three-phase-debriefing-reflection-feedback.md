@@ -70,3 +70,7 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Self-operating IVR scenarios offer scalability and resource efficiency, but their rigidity reduces debriefer engagement](self-operating-ivr-scenarios-rigidity-reduces-debriefer-engagement.md) — related
 - [Debriefing and reflection are absent from LTT courses, and participants did not report on these known benefits of simulation training](ltt-debriefing-absent.md) — related
 - [Feedback via simulation debriefing acts as a mirroring tool that builds self-knowledge and ownership of actions](debrief-feedback-mirror-self-knowledge-ownership.md) — related
+- [The ad hoc structure of group supervision sessions is perceived to limit reflective learning; participants want pre-determined structured content](adhoc-structure-limits-group-supervision-reflection.md) — related
+- [Objective Structured Assessment of Debriefing scores rose over five standardized-learner simulation sessions in one group with no comparison group](sl-simulation-osad-scores-improved.md) — related
+- [Trainees rated the training highly, with 69% perceiving the simulation scenarios and debrief as the most useful aspects and the resuscitation scenario particularly valued](trainees-value-simulation-debrief-most.md) — related
+- [The authors argue SL simulation via video conference is a flexible debriefer-training model adaptable across expertise levels and professions, enabling deliberate hands-on practice regardless of distance or time](sl-simulation-flexible-distance-independent-training.md) — related

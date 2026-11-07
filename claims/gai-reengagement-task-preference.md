@@ -48,3 +48,4 @@ Exploratory single-choice items (EA1, EA3) in the classroom experiment. Similar 
 ## Related Claims
 - [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](aida-preferred-24-7-context-specific-feedback.md) — related
 - [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
+- [Most students in the podcast group found the OSCE preparation podcast useful and would use it again](osce-podcast-high-satisfaction-and-reuse.md) — related

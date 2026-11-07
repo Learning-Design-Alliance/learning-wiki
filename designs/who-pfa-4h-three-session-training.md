@@ -44,7 +44,8 @@ The article describes a Psychological First Aid training program developed from 
 - [Pfa Training Improves Skills Not Retained](../claims/pfa-training-improves-skills-not-retained.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four-area web-based simulation lesson structure: pre-learning, pre-briefing, simulation, debriefing](four-area-web-sim-pfa-lesson-structure.md)
 
 ## Examples
 -

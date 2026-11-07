@@ -54,3 +54,4 @@ Mann-Whitney U and Kruskal-Wallis comparisons of perception domains across gende
 - [No GPA difference between male and female older learners, or across faculties](no-gender-faculty-gpa-difference-older-learners.md) — related
 - [Higher GPT usage frequency is associated with more positive student perceptions, with significant differences between high and low usage groups](usage-frequency-associated-with-positive-perceptions-gpt-companion.md) — related
 - [Skill acquisition in the experimental group did not differ significantly by sex, academic year, or university major](no-demographic-differences-skill-acquisition.md) — related
+- [Preferences for visual, written, or board-exam-oriented e-learning resources did not differ significantly by gender, year, GPA bracket, background, or research participation](no-demographic-differences-elearning-preferences.md) — related

@@ -48,3 +48,4 @@ Cross‐sectional online survey of 108 UK HCPC‐registered MSK physiotherapists
 - [MSK physiotherapists recognise conventional DCM symptoms well but unconventional symptoms poorly](dcm-symptom-awareness-conventional-vs-unconventional.md) — related
 - [Most MSK physiotherapists report DCM was not covered, or coverage not recalled, in undergraduate training, and most want further DCM training](dcm-undergraduate-education-gap-and-training-demand.md) — related
 - [Clinical tests used most often broadly match the most sensitive and specific tests, except the Tromner test is little known or used](dcm-clinical-test-use-tromner-exception.md) — related
+- [Instructor assessment found similar screening technique across groups except that the test group more often provided instructions and screened according to protocol](hss-instructor-technique-assessment.md) — related

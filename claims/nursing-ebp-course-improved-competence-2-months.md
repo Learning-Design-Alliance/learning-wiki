@@ -70,3 +70,4 @@ Same quasi-experimental nursing study; the review reports attitude scores improv
 - [Theory-based EBP teaching produced significant knowledge gains in two nursing studies and one medical-study summative assessment](theory-based-ebp-teaching-knowledge-gains.md) — related
 - [EBP interventions significantly increased nursing students' EBP efficacy scores from a mean of 2.30 ('a little confident') to 3.05 ('confident')](nursing-ebp-efficacy-scores-increased.md) — a narrower finding that bears on this claim
 - [A multifaceted EBM course for pharmacy students significantly improved overall EBM test scores (11.4 vs. 12.6, P<0.0001)](pharmacy-ebm-workshop-test-score-gain.md) — related
+- [Nursing students' self-rated health literacy knowledge, skills and attitudes were significantly higher two weeks after a one-week integrated education programme, in a single-group pre-post study](health-literacy-training-improves-nursing-student-competencies-tanzania.md) — related

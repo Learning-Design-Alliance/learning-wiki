@@ -57,3 +57,5 @@ Parallel-group randomized controlled study over five fall semesters (2020–2024
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
 - [VSO blended teaching significantly improves comprehensive practical performance in a clinical microbiology laboratory course compared with traditional video-based teaching](vso-improves-comprehensive-practical-performance.md) — related
 - [Blended teaching (recalling plus lecturing) leads to better learning outcomes than lecturing alone in real classroom teaching](blended-teaching-better-outcomes-than-lecturing-alone.md) — related
+- [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
+- [Blended learning improves knowledge in four communication domains but not in communication structure](blended-domain-gains-structure-null.md) — related

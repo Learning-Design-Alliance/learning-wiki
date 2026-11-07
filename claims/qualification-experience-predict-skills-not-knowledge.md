@@ -80,3 +80,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Nurses aged 51–60 and those with more than 10 years of experience had significantly better nutritional knowledge than the youngest reference groups in multivariable regression](age-experience-predict-nutrition-knowledge.md) — related
 - [Length of employment, resuscitation experience, and participation in public health emergency drills are significantly associated with emergency response competence](experience-resuscitation-drills-predict-emergency-competence.md) — related
 - [Nurses with more than 15 years of emergency-care experience perceive fewer barriers than less-experienced colleagues](experience-reduces-perceived-barriers.md) — related
+- [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — related

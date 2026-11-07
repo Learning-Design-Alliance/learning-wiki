@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Students who compose texts collaboratively — co-planning, co-drafting, and co-revising with peers — produce written products of higher quality than students writing alone. The claim concerns the quality of the written product, not (yet) gains in individual writing ability.
 

@@ -56,6 +56,8 @@ The article recommends integrating AI models into dental education and clinical 
 - [Design human-LLM collaborative systems in which LLMs assist diagnostic reasoning while human experts oversee complex decisions](human-llm-collaborative-diagnostic-reasoning-strategy.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
+- [Use multimodal AI chatbots such as ChatGPT-4o as diagnostic support tools in dental education, particularly endodontics](multimodal-ai-chatbot-diagnostic-support-dental-education.md)
+- [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
 
 ## Examples
 -

@@ -69,3 +69,5 @@ Results-section finding on group supervision. Interviewees described peer intera
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Training provides a foundation for facilitator competence, but subsequent substantially self-directed learning also plays an important part in development](training-foundation-plus-self-directed-learning-facilitators.md) — related
 - [High-quality case handbooks with clear learning outcomes and role-play facilitator training were highly valued supports for CBL facilitation](cbl-handbooks-and-role-play-training-valued.md) — related
+- [Group supervision is valued because aquatic physiotherapy is a specialised area practised infrequently, leaving little other dedicated reflection time](specialised-infrequent-practice-drives-supervision-value.md) — related
+- [Physiotherapists perceive supervisor-led group clinical supervision as an effective model for developing aquatic physiotherapy skills through reflective practice](group-supervision-perceived-effective-aquatic-skill-development.md) — related

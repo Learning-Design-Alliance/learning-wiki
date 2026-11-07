@@ -54,6 +54,7 @@ The article recommends using AR to integrate simulated fluoroscopic imaging so u
 - [Augmented Reality (AR) for Medical Education and Training](augmented-reality-ar-for-medical-education-and-training.md)
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
 - [Increase radiology education emphasis in the medical curriculum](radiology-education-curriculum-emphasis.md)
+- [Provide additional guidance tools such as intraoperative fluoroscopy during a trainee's first 20 CT-navigated THA cases](additional-tools-first-20-navigated-cases.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Questionnaire administered only to the experimental group (n=24 responses), anal
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related
+- [Students ranked lectures with storytelling among the most helpful learning resources and mentioned the story positively in evaluations](storytelling-ranked-top-learning-resource.md) — related

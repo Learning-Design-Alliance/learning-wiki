@@ -50,3 +50,4 @@ Before-after study of 19 interventional radiologists and residents at three Norw
 - [VR simulator training reduced performance variability, with significantly lower posttest variance for most measured parameters](vr-training-reduces-simulator-performance-variance.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Concentrated high-duration virtual reality training (>30 h over several weeks) was associated with reduced complication rates, while spaced-out simulator sessions were not](concentrated-vrs-training-reduces-complications.md) — related
+- [Median virtual fluoroscopy time decreased from 19.3 min to 9.3 min after five repeated VR endovascular simulator training sessions among medical students in a single-group pre-post study](vr-simulator-training-reduces-virtual-fluoroscopy-time.md) — related

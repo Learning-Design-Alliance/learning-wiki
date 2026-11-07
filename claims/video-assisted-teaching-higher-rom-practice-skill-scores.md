@@ -49,3 +49,5 @@ Randomized controlled trial: 36 video-group and 36 control-group students were e
 - [Video-assisted teaching does not significantly reduce nursing students' state anxiety before ROM practice compared with traditional teaching alone](video-assisted-teaching-no-anxiety-difference-rom.md) — related
 - [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](video-assisted-instruction-cvc-psychomotor-skills.md) — related
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
+- [Personalized video feedback produces higher BCLS skills scores one week and one month after training than in-person feedback alone](pvf-higher-bcls-skills-one-week-one-month.md) — a narrower finding that bears on this claim
+- [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related

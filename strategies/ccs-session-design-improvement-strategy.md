@@ -48,6 +48,7 @@ The article's forward-looking design recommendations for community care simulati
 - [Design simulation scenarios that explicitly address psychological support and system knowledge, and use repeated sessions to affect stress](scenario-psychological-support-repeated-sessions-strategy.md)
 - [Engage observers as active learners throughout the post-simulation debrief, seeking their input before the performing participant](observer-engagement-during-debriefing.md)
 - [Staged pre-briefing preparation before a simulation scenario (written material, online class, laboratory practice)](staged-pre-briefing-preparation-sequence.md)
+- [Structure group supervision content in advance and pair it with direct, pool-based supervision for novices](structured-group-supervision-with-direct-complement-strategy.md)
 
 ## Examples
 -

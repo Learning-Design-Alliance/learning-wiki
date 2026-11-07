@@ -53,3 +53,4 @@ Program evaluation of the 2025 cohort's preassessment and postassessment (design
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
 - [Correct rates on fundamental physiology questions increased significantly from Quiz 1 to Quiz 2 during interprofessional OFST](ofst-quiz-fundamental-correct-rate-increase.md) — related
 - [One year after the workshops, more than 90% of respondents attribute high importance of participation to their work in student assessment](one-year-late-effects-high-importance-assessment.md) — related
+- [Pre-post knowledge survey scores varied across years, with scores for only questions 4 and 7 consistently rising from pre-test to post-test in one group with no comparison group](knowledge-survey-gains-inconsistent.md) — related

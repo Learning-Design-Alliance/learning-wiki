@@ -49,3 +49,4 @@ Dependent samples t-test for Control Group I on the attitude scale (pre-test X =
 - [Using infographics in geography lessons improves students' attitudes towards the geography lesson relative to usual instruction](infographics-improve-geography-attitudes.md) — related
 - [ToGRA subscale gains favored the treatment group on careers, enjoyment and leisure, with enjoyment showing the greatest change](togra-subscales-enjoyment-greatest-change.md) — related
 - [Experimental-group semester grades rose while control-group grades declined over the semester, with a significant between-group post-test difference](3d-simulation-semester-grade-gains.md) — related
+- [Student self-reported negative-emotion responses about metabolism decreased and positive responses increased from week 4 to week 16 in a course using an illustrated story, in one uncontrolled pre-post study](storytelling-improved-metabolism-attitudes.md) — related

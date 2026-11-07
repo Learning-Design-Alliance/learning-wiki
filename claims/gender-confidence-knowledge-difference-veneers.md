@@ -56,3 +56,5 @@ Independent samples t-test on subjective scores among 134 interns (83 female, 51
 - [Male interns scored higher than female interns on oral disease diagnostic performance (p = 0.003), a difference the authors urge interpreting cautiously](male-interns-higher-oral-diagnosis-scores-p003.md) — related
 - [OSPE benefit scores differ by gender (females higher, P = .004) while OSCE benefit scores do not](gender-difference-ospe-benefit-score.md) — related
 - [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related
+- [Male residents reported significantly higher interest in oral and maxillofacial surgery and higher self-assessed clinical abilities than female residents, with no gender difference in self-assessed theoretical knowledge](male-residents-higher-interest-and-clinical-self-assessment.md) — related
+- [Patients' distrust and residents' lack of confidence were the primary factors limiting resident trainees' clinical reception in oral and maxillofacial surgery outpatient clinics](resident-reception-barriers-distrust-and-confidence.md) — related

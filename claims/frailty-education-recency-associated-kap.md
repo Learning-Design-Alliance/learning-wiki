@@ -50,3 +50,6 @@ Multivariable linear mixed-effects model with a random intercept for hospital an
 - [Geriatric nurse specialist certification is independently associated with higher frailty knowledge but not with overall KAP, attitude, or practice](geriatric-certification-knowledge-only.md) — related
 - [Nurses in southwestern China show moderately high frailty-management KAP, with attitude scoring highest and practice lowest relative to its maximum](nurses-frailty-kap-attitude-high-practice-low.md) — related
 - [Recent sepsis training was associated with higher confidence but not higher knowledge scores](recent-training-confidence-not-knowledge.md) — related
+- [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — related
+- [Age, organizational support, familiarity with relevant guidelines, familiarity with the term frailty, and department significantly predict nurses' frailty-management KAP total score (adjusted R2 = 0.264)](frailty-kap-predictors-age-support-guidelines-department.md) — related
+- [Most surveyed nurses lacked frailty education: only 41.8% knew the term frailty, 10.5% had frailty-care training, and 17.0% had studied relevant guidelines](nurses-frailty-education-gaps-survey.md) — related

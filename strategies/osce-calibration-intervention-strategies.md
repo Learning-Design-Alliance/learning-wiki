@@ -51,6 +51,7 @@ The article recommends feasible, theory-aligned steps to improve social-domain c
 
 - [Train faculty and students in rubric use with calibration strategies to maximize agreement and self-assessment accuracy](rubric-calibration-training-strategy.md)
 - [Combine examiner training, scoring standardization, multiple examiners, and feedback mechanisms to improve oral examination quality](oral-exam-improvement-strategy-set.md)
+- [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
 
 ## Examples
 -

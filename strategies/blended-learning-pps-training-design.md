@@ -46,6 +46,7 @@ The review's evaluative synthesis found blended learning delivery was well recei
 - [Blend e-delivered theoretical content with face-to-face practice to develop student teachers' teaching skills](blend-elearning-with-classroom-practice-strategy.md)
 - [Deliver communication skills training in an interactive classroom setting with practice using simulated clients](interactive-classroom-simulated-clients-communication-training.md)
 - [Use a practical role-play unit with standardized drama patients plus an online theory module for one-time communication training](drama-patient-roleplay-communication-training-strategy.md)
+- [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](online-theory-face-to-face-practice-strategy.md)
 
 ## Examples
 -

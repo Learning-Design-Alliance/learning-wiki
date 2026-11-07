@@ -54,3 +54,6 @@ Quasi-experimental pretest–posttest study (Mtiraoui et al. 2025) of a 6-hour i
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
 - [PFA training improves community nurses' self-reported PFA skills immediately after training, but the skills advantage is not retained at 2 months](pfa-training-improves-skills-not-retained.md) — related
 - [A 4-hour WHO-based PFA training program significantly increases community nurses' PFA knowledge immediately after training, with a smaller but sustained advantage at 2 months](pfa-training-increases-community-nurse-knowledge.md) — related
+- [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related
+- [The web-based PFA simulation program improves nurses' self-leadership capacity more than e-book self-learning (medium effect)](web-pfa-sim-improves-self-leadership.md) — related
+- [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](web-pfa-sim-raises-disaster-competencies.md) — related

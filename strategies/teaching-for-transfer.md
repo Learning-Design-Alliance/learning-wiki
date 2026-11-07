@@ -64,6 +64,7 @@ Transfer does not happen automatically; near transfer is common but far transfer
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — transfer depends on retrieving relevant prior learning at the right moment
 - [Case-Based Learning](case-based-learning.md) — the multiple-case structure that supports schema abstraction
 - [Foster mindful transfer by systematically saturating instruction with attention to transfer](saturate-instruction-with-attention-to-transfer.md)
+- [Explicitly train students to transfer story-based contextualization to novel situations before exams](condition-story-based-contextual-transfer.md)
 
 ## Examples
 - **Gick & Holyoak's radiation problem studies** — learners who read a fortress-and-general story and were explicitly prompted to use it solved Duncker's tumor problem at far higher rates than those who read the story without a transfer prompt; the canonical demonstration that analogical transfer requires prompting.

@@ -58,3 +58,4 @@ Analysis of five Facebook groups in an HCI/d Master's program found student-crea
 - [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related
 - [Communities of practice emerged as vital to sustaining GHD capacity, with peer learning, mentorship, and tacit knowledge-sharing complementing formal training](communities-of-practice-sustain-ghd-capacity.md) — related
 - [Medical professionalism is discussed as learned through role models as part of the informal curriculum, with acceptable professional behavior mainly identified through observation](professionalism-learned-through-role-models-observation.md) — related
+- [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related

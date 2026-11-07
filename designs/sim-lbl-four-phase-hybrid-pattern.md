@@ -49,6 +49,7 @@ A lesson-level instructional pattern combining scenario-based simulation with le
 ## Related Designs
 
 - [Four-week progressive scaffolded case-based curriculum: foundations, planning, simulation, then evaluation](four-week-scaffolded-cbd-curriculum.md)
+- [End-to-end case study simulation pattern spanning the radiotherapy patient pathway within a single module](end-to-end-case-study-phantom-module-pattern.md)
 
 ## Examples
 -

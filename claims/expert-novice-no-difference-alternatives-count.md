@@ -50,3 +50,4 @@ T-test on the same 37-teacher sample found no significant group difference in al
 ## Related Claims
 - [Expert and novice teachers do not differ significantly in the number of classroom events they notice when reflecting on their own MET video footage](expert-novice-no-difference-noticed-events-met.md) — related
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — related
+- [Novice residents mention far fewer procedural considerations than experts during TAD insertion, with only four of 15 expert themes mentioned by more than 50% of residents](residents-mention-four-of-fifteen-expert-tad-themes.md) — reports the opposite

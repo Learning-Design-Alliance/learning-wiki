@@ -110,3 +110,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](professional-credibility-enables-agentic-learning.md) — related
 - [Uncertainty in simulation was seen to increase cognitive load but was not always viewed as aversive, offering an opportunity to learn](uncertainty-cognitive-load-and-learning-opportunity.md) — related
 - [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — related
+- [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — related

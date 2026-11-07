@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Corrective feedback here is a teacher's or interlocutor's response to a learner's error in the target language (recasts, prompts, explicit correction and similar moves). The claim is about feedback as a whole; which type works best is a separate question (see Related Claims).
 

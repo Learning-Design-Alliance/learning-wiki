@@ -55,6 +55,7 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
 - [Incorporate management, leadership opportunities, and career mentoring into training programmes so consultant skills are learnt during training](consultant-skills-during-training.md)
 - [Implement structured mentorship programs and formal leadership development initiatives for healthcare professionals in LMIC settings](structured-mentorship-leadership-development-lmic.md)
+- [Targeted interventions to enhance clinical preparation, plus mentorship and education–practice collaboration, to bolster nurse interns' readiness](enhance-clinical-preparation-interventions-nurse-interns.md)
 
 ## Examples
 -

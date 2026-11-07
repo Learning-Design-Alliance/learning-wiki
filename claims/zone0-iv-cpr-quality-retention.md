@@ -50,3 +50,6 @@ Mann-Whitney U comparisons of total CPR quality scores in the pilot randomized t
 - [Immediately after zone 1 training, competence did not differ significantly between groups despite 100% vs 84% competence](zone0-iv-cpr-competence-immediate-nonsignificant.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
+- [CPR self-efficacy significantly improved 3 months after simulation-based training among professional caregivers](cpr-self-efficacy-improved-3-months-after-simulation-training.md) — related
+- [No significant difference in BCLS skills scores exists between groups immediately after training, before personalized video feedback is provided](no-immediate-skills-difference-before-pvf.md) — related
+- [Personalized video feedback produces higher BCLS skills scores one week and one month after training than in-person feedback alone](pvf-higher-bcls-skills-one-week-one-month.md) — related

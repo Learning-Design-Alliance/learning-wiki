@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Reading Literary Fiction Improves Theory Of Mind -->
 
 Kidd & Castano (2013) reported that reading a short passage of literary fiction — as distinct from popular fiction or non-fiction — temporarily improved performance on theory-of-mind (ToM) tasks, the ability to infer others' mental states. A three-lab replication with 792 adults (Panero et al. 2016) found no such advantage on the main outcome, and a meta-analysis of 14 experiments (Dodell-Feder & Tamir 2018) found fiction reading improved social-cognitive performance by g = .15–.16, below the conventional threshold for a small effect. What the evidence supports is a very small average effect of fiction reading, not a reliable effect of a single literary passage; no study recorded here measures empathy or lasting change.

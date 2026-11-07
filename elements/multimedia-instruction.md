@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 100 claims (61 for, 36 mixed, 3 against) · 83 studies (60 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 design), `q1`–`q4` · 19 of 83 report an effect size · 94 claims rest on one study
+> **Evidence** · 102 claims (62 for, 37 mixed, 3 against) · 84 studies (61 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 design), `q1`–`q4` · 19 of 84 report an effect size · 96 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -136,6 +136,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Participants rated video-based instruction as significantly more helpful than presentation-based instruction](../claims/video-rated-more-helpful-than-presentation.md) [~W]
 - [Presentation-based instruction produced significantly lower median fluoroscopy time than video-based instruction for the Vertebralis catheter task](../claims/presentation-group-less-fluoroscopy-time-vertebralis.md) [~W]
 - [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](../claims/video-assisted-instruction-cvc-psychomotor-skills.md) [+W] — attached 2026-11-04 from Koç Gamze et al. (2026), which proposed "Three training videos for central venous catheter care (10 min total)"; tests this page's relationship.
+- [On the post-course suturing test, the module-plus-animation group did not differ significantly from traditional teaching, but both outperformed the module-video group](../claims/post-test-ma-equals-te-both-beat-mv.md) [~W] — attached 2026-11-06 from Cheng Meng et al. (2025), which proposed "A surgical video curriculum combining modular demonstrations with animated simulations for 12 suturing techniques"; tests this page's relationship.
+- [Module-plus-animation video produces significantly higher self-evaluation score improvements than both traditional teaching and module-only video for six of twelve suturing techniques](../claims/ma-video-higher-self-eval-improvement-six-sutures.md) [+W] — attached 2026-11-06 from Cheng Meng et al. (2025), which proposed "A surgical video curriculum combining modular demonstrations with animated simulations for 12 suturing techniques"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

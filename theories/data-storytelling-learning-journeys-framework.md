@@ -43,7 +43,8 @@ The paper organizes its argument around the metaphor of learning theories as sto
 - 
 
 ## Examples
--
+
+- [Minimal-integration illustrated hero's-journey story woven through an existing lecture sequence](../designs/illustrated-heros-journey-story-pattern.md)
 
 ## Key Sources
 - Bernacki, M.L., and Plumley, R.D. (2026, February). CLICKSTREAM: Essential educational infrastructure to promote student learning and educational theory development. Digital Promise. https://doi.org/10.51388/20.500.12265/285

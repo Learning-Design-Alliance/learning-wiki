@@ -45,7 +45,8 @@ A one-day, 8-hour in-person course training EMS providers in POCUS fundamentals 
 - [Pocus Course High Satisfaction Ratings](../claims/pocus-course-high-satisfaction-ratings.md) [+M]
 
 ## Related Designs
-- 
+
+- [One-day PMH training program for primary care physicians (four modules with PHQ-9/GAD-7 hands-on practice and case vignettes)](telangana-one-day-pmh-training-program-pcps.md)
 
 ## Examples
 -

@@ -45,7 +45,8 @@ The article recommends that "Nurse educators, infection control teams and hospit
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](../claims/repeated-education-increased-mdro-knowledge-icu-nurses.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Multimodal infection-prevention training combining theory with clinical practice, delivered by qualified internal experts with employer-supported time](multimodal-nosocomial-training-strategy.md)
 
 ## Examples
 -

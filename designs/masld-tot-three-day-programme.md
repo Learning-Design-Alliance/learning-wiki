@@ -41,7 +41,8 @@ A three-day Training of Trainers session consisting of six modules, with approxi
 - [Modest Absolute Post Test Scores](../claims/modest-absolute-post-test-scores.md) [~M]
 
 ## Related Designs
-- 
+
+- [One-day PMH training program for primary care physicians (four modules with PHQ-9/GAD-7 hands-on practice and case vignettes)](telangana-one-day-pmh-training-program-pcps.md)
 
 ## Examples
 -

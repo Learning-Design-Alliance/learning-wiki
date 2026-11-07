@@ -59,3 +59,4 @@ Same RCT; clinical thinking exam worth 100 points using a novel case not previou
 - [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](cbl-fc-higher-post-test-scores-pulmonary-imaging.md) — related
 - [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](cbl-fc-improves-application-and-diagnostic-reasoning.md) — related
 - [Radiology residents in the flipped classroom group scored significantly higher on the practical examination than lecture-based residents](fc-higher-practical-exam-radiology-residents.md) — related
+- [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related

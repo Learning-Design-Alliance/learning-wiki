@@ -50,3 +50,4 @@ Descriptive results from the cross-sectional survey of 208 valid responses from 
 - [Self-efficacy is positively associated with most clinical communication subdomains among nursing interns](self-efficacy-positive-communication-subdomains.md) — related
 - [Self-efficacy partially mediates the relationship between externally oriented thinking and clinical communication competence](self-efficacy-partial-mediator-eot-communication.md) — related
 - [Among these nursing undergraduates, mean SDL score was 90.19 ± 10.10, mean MPAI score 40.12 ± 11.10, mean TAS-20 score 51.32 ± 8.59, and 11.8% were identified with alexithymia](sdl-mpai-tas20-descriptive-levels-nursing-undergraduates.md) — related
+- [Communication skills are nurse interns' strongest preparation area while applying the nursing process is their weakest](preparation-communication-strongest-nursing-process-weakest.md) — related

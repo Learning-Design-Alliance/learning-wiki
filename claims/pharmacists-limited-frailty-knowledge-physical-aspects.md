@@ -51,3 +51,4 @@ The review reports this from Faulkner et al. [67], a UK qualitative study (n = 1
 - [Physicians and pharmacists have knowledge gaps in recognizing mental frailty in older adults](knowledge-gaps-mental-frailty-primary-care.md) — a broader claim this one bears on
 - [Frailty education is most effective when it combines practical strategies with online and face-to-face demonstrations or mentoring](blended-practical-frailty-education-effective.md) — related
 - [Short targeted workshops improve frailty screening use, knowledge, self-confidence, and attitudes](short-workshops-improve-frailty-screening-knowledge.md) — related
+- [The weakest frailty-management practices were assessing frailty in geriatric patients and promptly reporting frailty status to physicians](weakest-practices-frailty-assessment-physician-reporting.md) — related

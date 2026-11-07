@@ -9,7 +9,6 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-06
 sources:
   - id: khodabandeh-2016
     resource: "https://doi.org/10.5539/elt.v9n3p139"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test Kruskal-Wallis tests showed significant omnibus differences among the four groups; the post-test means show fewer errors in the explicit and task-based groups, but no pairwise tests are reported. [→ Khodabandeh 2016](#khodabandeh-2016)

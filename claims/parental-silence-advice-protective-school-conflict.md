@@ -51,3 +51,4 @@ Thematic analysis of the 12 interviews found that "All 12 participants mentioned
 - [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](developmental-shift-meaning-of-blackness.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Students who learned mindfulness-based conflict resolution strategies used them outside school with siblings and friends](mindfulness-conflict-resolution-transfer-out-of-school.md) — related
+- [Chinese parents show gendered involvement patterns: more educational trips, discussion, and control for daughters, more school contact for sons](gendered-forms-of-parental-involvement.md) — related

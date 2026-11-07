@@ -50,3 +50,4 @@ A generalizability-theory decision study (reported in Appendix 5) projected how 
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — related
 - [Rating-scale format differences in ultrasound OSCE scores are concentrated in anatomically complex stations (retroperitoneum, hepatic veins), with series interaction non-significant](scale-difference-station-specific-ultrasound-osce.md) — related
 - [The generic rating scale attributes significantly lower performance scores than the extended scale in abdominal ultrasound OSCEs](generic-scale-lower-scores-ultrasound-osce.md) — related
+- [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](d-study-raters-items-phi-acls.md) — related

@@ -52,7 +52,8 @@ The article recommends translating its determinants findings into curriculum des
 - [A systematic review of 32 longitudinal studies identified 96 personal risk and protective factors for psychosocial transition success, consolidated into 16 salient elements across five higher-order domains](../claims/96-factors-consolidated-16-elements-five-domains.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
 
 ## Examples
 -

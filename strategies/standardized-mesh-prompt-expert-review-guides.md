@@ -46,7 +46,8 @@ The article's pipeline is replicable as a recipe: for each incorrect answer, ext
 - [Students receiving ChatGPT-4o personalized feedback rate it higher than control students rate correct/incorrect feedback on clarity, usefulness, motivation and satisfaction](../claims/satisfaction-higher-personalized-feedback.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Transfer the feedback method to new settings by anchoring MeSH terms in the local curriculum and using diverse question and participant samples](transfer-feedback-method-curriculum-anchoring-strategy.md)
 
 ## Examples
 -

@@ -66,6 +66,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](daily-repeated-vr-practice-then-final-test.md)
 - [Two-video-tutorial training session followed by hands-on practice and blinded scored assessment for basic daVinci Xi skills](video-tutorial-plus-practice-davinci-xi-training.md)
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
+- [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 
 ## Examples
 -

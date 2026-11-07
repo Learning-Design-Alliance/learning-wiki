@@ -71,3 +71,4 @@ Secondary analyses testing whether gender, prior disassembling experience, and m
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related
 - [A DAA activity is rated significantly more motivating than a lecture on perceived sense of learning, enjoyment, and helpfulness](daa-more-motivating-than-lecture.md) — related
 - [Demographics and prior tourniquet experience do not significantly impact post-training outcomes](prior-experience-no-effect-on-post-training-scores.md) — related
+- [Prior experience, gender, age, and preferred orientation showed no significant influence on the learning curve, though men benefited more from training in clinical yield](no-experience-influence-on-learning-curve-male-benefit.md) — related

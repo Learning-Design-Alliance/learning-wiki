@@ -72,3 +72,4 @@ The review attributes peer-feedback hesitation to Burgess et al. and Lerchenfeld
 - [Participant feedback yielded four central themes: engagement, clinical reasoning development, collaborative learning, and professional relevance](cbcl-feedback-four-themes-radiology-residency.md) — related
 - [Students found peer evaluation the most challenging aspect of TBL, citing difficulty of honest review and relationship-dependent fairness.](tbl-peer-evaluation-challenge.md) — related
 - [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related
+- [Students want peer-teacher training to include evidence-based educational theory and contextualized practical teaching experience with feedback](desired-training-content-theory-practice-feedback.md) — related

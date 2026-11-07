@@ -49,3 +49,4 @@ A McNemar test comparing paired dichotomous responses found "χ2 (1, N = 49) = 5
 - [Males significantly favored writing interactive stories over traditional stories at school, while females showed no significant difference.](males-favor-interactive-females-no-difference.md) — related
 - [Students perceived non-traditional letter writing as helpful for learning, enjoyable, and superior to traditional writing](students-perceive-letter-writing-helpful-enjoyable.md) — related
 - [Technology-enhanced stories yield a small but significant additional benefit over traditional story presentations for story comprehension and expressive vocabulary in young children](technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary.md) — related
+- [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related

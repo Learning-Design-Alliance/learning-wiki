@@ -42,7 +42,7 @@ newest_evidence: 2004
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 quant-synthesis `r2`, 1 review `r?`, 1 theoretical `r2` · `q1`–`q4` · `i2` medium
-> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2004 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- title before 2026-10-15: Autonomy support increases intrinsic motivation, engagement, and persistence in learning. -->
 
 When learners experience meaningful choice, volition, and internal causality — rather than external control — they show greater intrinsic motivation, deeper engagement, and longer persistence. The mechanism is not choice for its own sake but perceived self-determination: the sense that one is acting from one's own values rather than external pressure.
@@ -167,7 +167,7 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — a narrower finding that bears on this claim
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related
 - [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — a narrower finding that bears on this claim
-- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — a narrower finding that bears on this claim
+- [A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting](well-designed-games-foster-practice-and-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [Meaningful choice about learning tasks increases interest, but only under boundary conditions](meaningful-choice-increases-interest-limited.md) — related
 - [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — related
 - [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related

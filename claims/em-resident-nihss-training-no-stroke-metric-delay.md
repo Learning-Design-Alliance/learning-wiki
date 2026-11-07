@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: roces-matthew-md-2025
     resource: "https://doi.org/10.5811/westjem.39671"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Median door-to-CT, door-to-needle, and door-to-groin puncture times showed no statistically significant difference between the pre- and post-intervention periods after NIHSS certification was implemented for EM residents. [→ Roces Matthew MD 2025](#roces-matthew-md-2025)
@@ -48,3 +49,4 @@ Prospective observational comparison of 369 ischemic stroke patients (247 pre-in
 - [Median door-to-groin puncture times exceeded the AHA 90-minute goal in both the pre- and post-intervention periods](door-to-groin-puncture-exceeded-aha-goal.md) — related
 - [Proportions of patients meeting door-to-CT and door-to-needle targets did not differ significantly between pre- and post-intervention periods](stroke-metric-goal-proportions-no-difference.md) — related
 - [EM and neurology residents showed substantial agreement on NIHSS scores during the dual-scoring pilot](em-neurology-resident-nihss-substantial-agreement.md) — related
+- [NIHSS certification is associated with higher stroke knowledge scores among nurses and with staying current with best practices, per the review's cited evidence](nihss-certification-enhances-nursing-practice.md) — related

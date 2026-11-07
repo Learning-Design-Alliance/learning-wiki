@@ -49,3 +49,4 @@ Single-arm exploratory feasibility study of 32 already-certified perinatal healt
 - [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
 - [NCPR-VR showed moderate usability (median SUS 65.0) with midwives scoring lower than physicians and nurses](ncpr-vr-sus-moderate-usability.md) — related
 - [VR-based neonatal resuscitation training is feasible and positively received by healthcare providers in Vietnam, with 100% recommending it and 86% rating it more realistic than traditional methods](vr-neonatal-resuscitation-training-feasible-vietnam.md) — related
+- [A simulation-based training programme for urgent laryngectomy care is feasible, with 93% of accepted multidisciplinary healthcare professionals completing all activities](simulation-laryngectomy-training-feasible.md) — related

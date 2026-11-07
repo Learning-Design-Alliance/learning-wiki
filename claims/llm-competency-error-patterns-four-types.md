@@ -9,7 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-05
+source_checked: 2026-11-06
 recheck_by: 2029
 sources:
   - id: zhen-xu-2026
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Design limits** · Zhen Xu 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims

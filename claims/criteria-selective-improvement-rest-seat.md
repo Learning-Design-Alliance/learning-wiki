@@ -52,3 +52,5 @@ Mixed-effects models of the six component scores in the same 80-student study sh
 - [Overall occlusal rest seat preparation scores improved significantly across three repeated practice sessions in both training groups](overall-scores-improve-across-repeated-rest-seat-sessions.md) — a broader claim this one bears on
 - [Digital feedback improves accuracy across multiple tooth preparation dimensions, particularly taper angle and finish line standardization](digital-feedback-multi-dimension-accuracy-taper-finish-line.md) — related
 - [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — related
+- [Accuracy of incision length rose significantly from before to after training, but accuracy of angle did not, in one single-group pre-post study](length-accuracy-improved-angle-not.md) — related
+- [A 30-minute sandwich-mode MLE simulation course significantly improved mean incision length, angle and distance parameters across 82 perinatal care providers](mle-simulation-improves-three-parameters.md) — related

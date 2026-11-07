@@ -53,3 +53,6 @@ Univariate analysis (t-tests or one-way ANOVA) of general characteristics and co
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related
 - [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — related
+- [Position and palliative care-related education or training, along with work experience, autonomous learning capacity and job satisfaction, show significant bivariate differences in core competency](bivariate-differences-position-training-learning-satisfaction.md) — related
+- [Latent profile analysis identifies three palliative care core competency subgroups among ICU nurses: low (21.6%), medium (47.2%) and high (31.2%)](lpa-three-palliative-competency-profiles.md) — related
+- [ICU nurses' palliative care core competency is at a lower-middle level, with a mean PCNCC total score of 58.96 (SD 21.56)](icu-nurses-palliative-core-competency-lower-middle-mean.md) — related

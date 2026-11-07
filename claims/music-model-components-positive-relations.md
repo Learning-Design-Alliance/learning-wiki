@@ -46,3 +46,4 @@ The review reports, citing Jones et al. (2025), a meta-analysis of MUSIC model s
 
 ## Related Claims
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related
+- [Care bundles implemented as a cohesive set yield better outcomes than their components applied individually, per evidence the review cites](care-bundles-cohesive-set-better-outcomes.md) — related

@@ -49,6 +49,7 @@ The authors recommend that simulation courses with fixed module time adopt maste
 - [Mastery Based Progression](mastery-based-progression.md)
 - [Integrate the VR camera navigation test into mastery learning programs so trainees practice until reaching the pass/fail standard](mastery-learning-camera-navigation-simulation-strategy.md)
 - [Segment trainees by initial level and add consolidation modules in the final training phase](segment-by-initial-level-consolidation-phase.md)
+- [Provide additional guidance tools such as intraoperative fluoroscopy during a trainee's first 20 CT-navigated THA cases](additional-tools-first-20-navigated-cases.md)
 
 ## Examples
 -

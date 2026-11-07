@@ -53,6 +53,7 @@ The authors recommend that when seminar time is insufficient for cartooning, ins
 - Cartooning Seminar Design Pattern
 - [Guide and time generative learning activities to overcome barriers to sense-making](guide-and-time-glas-strategy.md)
 - [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
+- [Release videos early in the course and attach them to mandatory seminars with group homework](early-release-and-seminar-attachment-strategy.md)
 
 ## Examples
 -

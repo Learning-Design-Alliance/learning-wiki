@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i1` small
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 When learners generate and answer their own questions during reading or study, their comprehension of the material improves relative to reading alone. The mechanism is generally understood as generative processing: posing questions forces learners to identify main ideas, connect them to prior knowledge, and monitor their own understanding.
 

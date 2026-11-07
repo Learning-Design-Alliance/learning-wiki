@@ -53,3 +53,4 @@ Trait anxiety measured weeks before the first simulation with the STAI-T among 5
 - [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
 - [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related
+- [Most participants with elevated pre-simulation anxiety scores fell below the elevated-anxiety cut-off at 3 months](elevated-anxiety-participants-below-cutoff-at-3-months.md) — related

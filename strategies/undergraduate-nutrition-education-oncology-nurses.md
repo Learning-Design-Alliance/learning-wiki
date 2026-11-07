@@ -60,6 +60,7 @@ The article recommends building nutritional competency through a layered educati
 - [Incorporate nutrition-related content into health professional programmes according to field-specific needs](field-specific-nutrition-content-incorporation.md)
 - [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
 - [Interprofessional learning formats connecting dental students with nursing and geriatric care programmes](interprofessional-learning-formats-dop-oral-care.md)
+- [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
 
 ## Examples
 -

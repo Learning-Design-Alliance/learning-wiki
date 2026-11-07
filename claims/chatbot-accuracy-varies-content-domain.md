@@ -51,3 +51,4 @@ Subgroup analysis of accuracy by content domain across the 188-question DUS benc
 - [Sensitivity and specificity of Three Tier screening tools vary widely, and no studies report language-domain-only accuracy](screening-sensitivity-specificity-vary-widely.md) — related
 - [Eight AI chatbots show no statistically significant difference in overall accuracy answering DUS restorative dentistry questions](chatbots-no-accuracy-difference-dus-restorative.md) — related
 - [Incorrect chatbot responses concentrate in clinical dental sciences rather than fundamental medical sciences](llm-errors-concentrate-clinical-dental-sciences-dus.md) — related
+- [Prior studies report widely varying ChatGPT diagnostic accuracy in dentistry (11% to 99%), likely due to differences in question types and content](prior-chatgpt-dental-accuracy-studies-vary-11-to-99-percent.md) — a narrower finding that bears on this claim

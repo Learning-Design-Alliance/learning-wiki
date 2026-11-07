@@ -87,3 +87,5 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
 - [A narrative review identifies four main outcome areas of VR, gamification, and escape rooms in medical and nursing education from 25 reviewed studies](vr-gamification-escape-rooms-four-outcome-areas-review.md) — a broader claim this one bears on
 - [Satisfaction gains concentrate in theoretical understanding, difficult airway management confidence and clinical decision-making](apnea-duration-satisfaction-domain-gains.md) — related
+- [Immersive LAST simulation showed no change in residents' perceived comfort with diagnosing and managing uncommon conditions generally or with interdisciplinary teamwork](last-simulation-no-change-uncommon-conditions-teamwork.md) — related
+- [Qualitative feedback indicated NSTIS students acquired HIS operational skills and experienced clinical immersion rather than role immersion](nstis-qualitative-his-skills-and-clinical-immersion.md) — related

@@ -52,3 +52,4 @@ Phenomenological qualitative study of 24 clinical students and 8 lecturers using
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
+- [Students reported that VR-based orientation to the clinic layout relieved anxiety when they had not yet been exposed to clinics, but offered little extra once they had clinical experience.](vr-orientation-useful-before-clinical-exposure.md) — related

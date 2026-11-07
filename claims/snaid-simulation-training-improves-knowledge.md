@@ -52,3 +52,4 @@ Quasi-experimental one-group pretest-posttest study of 156 military personnel at
 - [Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device](snaid-simulation-training-improves-procedural-checklist.md) — related
 - [Turret position moderates post-training outcomes: turret 9 shows better skill and confidence, while turret 12 shows better comfort](snaid-turret-position-moderates-outcomes.md) — related
 - [Turret position moderates specific checklist items at post-test, favoring turret 12](snaid-turret-position-checklist-items.md) — related
+- [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related

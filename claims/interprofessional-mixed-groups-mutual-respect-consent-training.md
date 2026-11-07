@@ -75,3 +75,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — related
 - [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](simulation-improved-communication-teamwork-male-students.md) — related
 - [Leadership's role in developing healthcare non-technical skills in Balkan clinics is captured by four themes: role definition, communication and teamwork, readiness for change, and leadership competency development](four-themes-leadership-nts-balkan.md) — related
+- [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related

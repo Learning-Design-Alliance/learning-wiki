@@ -53,3 +53,4 @@ Independent t-test of PSS scores between 54 Excellent and 48 Average performers.
 - [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](excellent-performers-earlier-sleep-schedules.md) — related
 - [Greater perceived stress is associated with greater emotion dysregulation in teachers](stress-correlates-emotion-dysregulation-teachers.md) — related
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — related
+- [Perceived stress was negatively associated with final course grade (P < 0.05) but unrelated to either assignment grade measure](perceived-stress-negative-final-grade.md) — related

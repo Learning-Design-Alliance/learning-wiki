@@ -68,3 +68,4 @@ Participation analysis across the three iterations of the CSC among University o
 - [A proportion of residents reported being unaware of predefined session learning objectives despite their existence, most prominently in the NF/SPAL and ND sessions](residents-unaware-learning-objectives.md) — related
 - [Mapping the Calgary Simulation Curriculum's sessions to RCPSC Entrustable Professional Activities demonstrated content validity across Foundations and Core stages of training](csc-content-validity-epa-mapping.md) — related
 - [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related
+- [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related

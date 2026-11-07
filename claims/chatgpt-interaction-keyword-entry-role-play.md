@@ -46,3 +46,4 @@ Analysis of saved ChatGPT chat histories from 9 of 13 courses (4 could not be sa
 
 ## Related Claims
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [ChatGPT 4.0-extracted MeSH terms from PTM questions largely match the NLM MeSH thesaurus and are judged content-related in manual checks](chatgpt-mesh-extraction-high-thesaurus-match.md) — related

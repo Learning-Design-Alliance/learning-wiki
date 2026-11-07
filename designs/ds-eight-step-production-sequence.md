@@ -41,7 +41,8 @@ The article prescribes a reusable lesson/unit sequence for DS-integrated writing
 - [Ds Integrated Writing Instruction Interaction Advantage](../claims/ds-integrated-writing-instruction-interaction-advantage.md) [+M]
 
 ## Related Designs
-- 
+
+- [Minimal-integration illustrated hero's-journey story woven through an existing lecture sequence](illustrated-heros-journey-story-pattern.md)
 
 ## Examples
 -

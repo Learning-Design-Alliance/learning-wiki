@@ -64,6 +64,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
 - [Embed simulation tools into official curricula as standardized preclinical modules and pursue multi-institutional validation](curricular-integration-of-rpd-simulation.md)
 - [Build disaster nursing preparedness through a national competency framework, mandatory disaster modules, scenario-based simulation and leadership development](national-disaster-nursing-competency-framework-strategy.md)
+- [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 
 ## Examples
 -

@@ -76,3 +76,4 @@ Review reports, attributing to Grande-de-Prado et al. (2020), a gender differenc
 - [Training factors, including prior computer training and in-service training, are associated with leaders' digital competence](training-associated-leaders-digital-competence.md) — a narrower finding that bears on this claim
 - [Gender differences in prior disassembly experience and perceived competence did not affect DAA learning or transfer outcomes](daa-gender-experience-null-moderators.md) — related
 - [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — a narrower finding that bears on this claim
+- [Prior experience, gender, age, and preferred orientation showed no significant influence on the learning curve, though men benefited more from training in clinical yield](no-experience-influence-on-learning-curve-male-benefit.md) — related

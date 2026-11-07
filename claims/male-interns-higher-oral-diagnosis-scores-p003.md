@@ -49,3 +49,5 @@ Group comparison via independent t-test among 66 medical interns (36 male, 30 fe
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
 - [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related
 - [Performance differences remained significant after controlling for age and GPA, and no gender effects were observed](gjump-effects-robust-to-gpa-age-gender.md) — reports the opposite
+- [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
+- [Male residents reported significantly higher interest in oral and maxillofacial surgery and higher self-assessed clinical abilities than female residents, with no gender difference in self-assessed theoretical knowledge](male-residents-higher-interest-and-clinical-self-assessment.md) — related

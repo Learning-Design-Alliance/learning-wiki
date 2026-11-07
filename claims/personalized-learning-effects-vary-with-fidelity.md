@@ -111,3 +111,4 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Implementation fidelity and dosage of PATHS were unrelated to academic outcomes in this trial](paths-fidelity-dosage-unrelated.md) — a narrower finding that bears on this claim
 - [Implementation of Paired Reading varied across schools but variations appeared unlikely to have affected dosage](paired-reading-implementation-variation-dosage-unaffected.md) — related
 - [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — related
+- [Care bundles implemented as a cohesive set yield better outcomes than their components applied individually, per evidence the review cites](care-bundles-cohesive-set-better-outcomes.md) — related

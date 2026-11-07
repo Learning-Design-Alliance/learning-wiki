@@ -42,6 +42,7 @@ The OTIL lessons are online listening lessons implemented on the Moodle learning
 ## Related Designs
 
 - [Polemic web forum tasks on ICT use in a Moodle blended setting](polemic-web-forum-ict-tasks-moodle.md)
+- [Interactive video-based online learning module on medical communication (OpenOlat web-based training)](openolat-video-communication-module.md)
 
 ## Examples
 -

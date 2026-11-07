@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a Mexican primary school, the share of students reaching basic proficiency in language rose from 17% to 55% and satisfactory-or-excellent language results from 6% to 23% after two academic years of DLG implementation. [→ Ruiz-Eugenio 2023](#ruiz-eugenio-2023)

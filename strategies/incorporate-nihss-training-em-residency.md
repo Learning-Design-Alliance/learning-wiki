@@ -44,7 +44,8 @@ The article recommends that NIHSS training be established within emergency medic
 - [Proportions of patients meeting door-to-CT and door-to-needle targets did not differ significantly between pre- and post-intervention periods](../claims/stroke-metric-goal-proportions-no-difference.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Structured stroke nurse training program with mandatory certification, annual training hours, and mixed educational formats](stroke-nurse-training-program-luh.md)
 
 ## Examples
 -

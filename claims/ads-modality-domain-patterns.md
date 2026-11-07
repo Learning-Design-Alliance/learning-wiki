@@ -86,3 +86,4 @@ Narrative synthesis: generative AI and chatbot-based virtual patients "more comm
 - [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — related
 - [By 2024 more than one-third of simulation sessions used VR and AI tools, and students reported engagement and scenario recall gains of over 30% compared with non-electronic learning](vr-ai-simulation-engagement-recall.md) — related
 - [Early student evaluation after initial pre-clinical haptics training suggested enhanced satisfaction and improved confidence, based on immediate findings only](early-haptics-training-satisfaction-confidence.md) — related
+- [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — related

@@ -52,7 +52,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 4 quant-synthesis `r?` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 <!-- title before 2026-10-15: Parent Involvement Improves Achievement -->
 
@@ -196,3 +196,4 @@ Most figures were read from the authors' accepted manuscript, which this wiki ca
 - [Parents in the intervention implemented reading strategies far more than control parents, who seldom used them spontaneously](parent-strategy-implementation-fidelity-summer-reading.md) — related
 - [Parents' school involvement and perceptions of teacher responsiveness are related to children's academic and social competence in pre-kindergarten](parent-involvement-teacher-responsiveness-prek-competence.md) — a narrower finding that bears on this claim
 - [Parental involvement has a significant positive direct effect on middle school students' mathematics performance](parental-involvement-direct-effect-math-performance.md) — a narrower finding that bears on this claim
+- [Autonomy-supportive parental involvement in Grade 7 (educational trips, education discussion, school contact) positively predicts Grade 8 academic performance](autonomy-supportive-involvement-predicts-performance.md) — a narrower finding that bears on this claim

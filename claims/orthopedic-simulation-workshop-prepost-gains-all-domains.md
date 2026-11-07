@@ -57,3 +57,5 @@ Prospective single-arm pre–post interventional study of 70 medical students ac
 - [Participants in a structured clinical gap year program report significant pre-to-post improvement in self-rated confidence across all eight ACGME-aligned competency domains](scgy-significant-competency-confidence-gains.md) — related
 - [Structured US-PIVC simulation training produces statistically significant pre-to-post confidence improvements across all measured learning outcomes, with large effect sizes (r = 0.63–0.87).](us-pivc-training-large-confidence-gains.md) — related
 - [Confidence rose significantly in all five CBOS competency areas, each with a large effect size (r ≈ .84–.88)](tbl-sbl-clinic-confidence-cbos-subdomains.md) — related
+- [A one-hour BMAT simulation program significantly improves medical students' self-evaluation, self-confidence, interest, and knowledge (p≤0.001)](bmat-simulation-improves-student-self-report-and-knowledge.md) — related
+- [Students' self-rated competency scores across all 12 suturing techniques rose from 1.85 to 3.84 after the course, in one uncontrolled pre-post study](self-rated-competency-improved-median-1-85-to-3-84.md) — related

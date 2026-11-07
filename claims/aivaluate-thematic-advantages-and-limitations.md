@@ -68,3 +68,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
 - [Nursing students raised concerns about group formation, teaching pace, evaluation methods, and off-task risk during self-directed study](concerns-grouping-pace-evaluation-self-discipline.md) — related
+- [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](social-robotic-vp-technical-and-user-related-limitations.md) — related

@@ -86,3 +86,4 @@ The review reports, citing multiple studies, that using XR without considering i
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — related
 - [Umbrella review by Tene et al. found no significant association between immersive technologies and improvements in medical education and training versus traditional methods](immersive-technologies-no-significant-association-umbrella-review.md) — related
+- [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — a narrower finding that bears on this claim

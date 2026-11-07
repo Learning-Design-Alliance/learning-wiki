@@ -50,3 +50,4 @@ Mann–Whitney U tests compared female (n = 32) and male (n = 14) students. Init
 - [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related
 - [No significant gender differences were found across most variables, except procedural risk recognition, where male participants reported higher confidence](gender-differences-only-risk-recognition.md) — related
 - [Analytic rubric scores for all-ceramic crown preparation show no significant gender difference in overall performance](no-gender-difference-overall-rubric-score-crown-preparation.md) — related
+- [Composite is the dominant restorative material for MIH, with material choice associated with diagnostic confidence and workplace](mih-restorative-material-choices.md) — related

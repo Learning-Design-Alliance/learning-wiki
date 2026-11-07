@@ -57,6 +57,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Renew BLS certification more frequently and tailor emergency training to dental settings](renew-bls-and-tailor-dental-emergency-training.md)
 - [Decentralise BLS training at scale with periodic retraining and certification tracking in performance management](decentralised-bls-training-retraining-strategy.md)
 - [Repeat simulation training 6 months after initial training to sustain PPH knowledge and skills](repeat-simulation-training-six-months-pph.md)
+- [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ One-way ANOVA (alpha 5%) in a quasi-experiment, posttest-only control group desi
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [Students learning with the software showed higher learning motivation at post-test than students taught by traditional method](motion-vector-software-raises-learning-motivation.md) — related
 - [Learner activity and participation increased under the REACT strategy compared with the previous learning model](react-increases-participation-geography.md) — related
+- [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related

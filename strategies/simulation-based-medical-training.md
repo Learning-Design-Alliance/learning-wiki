@@ -86,6 +86,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Mental skills training (mental imagery rehearsal of procedural steps) as a component of training for high-stakes clinical procedures](mental-skills-training-rehearses-procedural-steps.md)
 - [Blend peer-assisted learning with scenario simulation: role-assigned team simulation with peer feedback and instructor-led debriefing for trauma first aid training](peer-assisted-scenario-simulation-blended-training.md)
 - [Deliver sensitive-conversation training as a blend of simulation practice with facilitator-led and role-play elements](blend-simulation-with-facilitated-roleplay-strategy.md)
+- [Use low-cost task simulators within high-fidelity scenarios as a first step in a train-the-trainer cascade for bleeding control](train-the-trainer-cascade-bleeding-control.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

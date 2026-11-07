@@ -72,3 +72,4 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [VSP training produced significantly greater improvement in medical history-taking ability than traditional teaching](cl-vsp-greater-history-taking-gains.md) — related
 - [VSP training produced significantly greater improvement in total virtual clinical reasoning training system test scores than traditional teaching](cl-vsp-greater-vsp-system-total-score-gains.md) — related
 - [Nursing students' patient and injury assessment skills, including emotional, nutritional and history-taking items, rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study](simulation-improves-wound-patient-assessment-skills.md) — related
+- [Medical students perceive an LLM-driven social robotic virtual patient platform as more authentic than a computer-based semilinear virtual patient platform](social-robotic-vp-perceived-more-authentic-than-computer-based.md) — related

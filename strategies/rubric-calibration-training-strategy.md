@@ -58,6 +58,7 @@ The review recommends that "Faculty and student training in rubric use is essent
 - [Pilot calibration interventions targeting social/communication self-assessment: facilitated video review with checklists, vignette calibration with expert anchors, and pre- to post-feedback self-ratings](osce-calibration-intervention-strategies.md)
 - [Use standardized checklists to improve the quality of peer feedback in video-based skill training](standardized-checklists-peer-feedback-quality.md)
 - [Calibration and implementation pathways for analytic rubrics in clinical dental courses](rubric-calibration-implementation-pathways-dental-clinics.md)
+- [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
 
 ## Examples
 -

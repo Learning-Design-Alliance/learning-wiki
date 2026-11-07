@@ -48,6 +48,7 @@ Based on their null results and the literature, the authors recommend that "futu
 
 - [Embed simulation-based training in integrated packages and consider on-site delivery in low-resource settings](integrated-package-onsite-training-low-resource-settings.md)
 - [Include all provider types, simulation, legible ACP materials, and one-to-one field coaching in future care-home ACP training](future-acp-training-program-characteristics.md)
+- [Advocate regular simulation training for the whole delivery team, including senior staff](whole-team-regular-simulation-training.md)
 
 ## Examples
 -

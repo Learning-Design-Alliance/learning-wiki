@@ -51,3 +51,4 @@ Bootstrapped mediation analysis in the same SEM of 398 student parents. The scho
 - [Partnered student parents report higher school and family satisfaction, and part-time enrolment is associated with higher family satisfaction](partner-status-enrolment-subgroup-satisfaction-differences.md) — related
 - [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) — related
 - [Student engagement fully mediates the relationships between lecturer charismatic leadership/technology use and learning performance](engagement-fully-mediates-performance.md) — related
+- [No significant associations between GPA and relationship status, parental status, academic year, residence, self-esteem, competence, well-being, or life satisfaction](null-associations-gpa-demographic-psychosocial.md) — related

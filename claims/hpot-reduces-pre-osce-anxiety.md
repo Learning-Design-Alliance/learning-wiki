@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: massalou-damien-2025
     resource: "https://doi.org/10.36834/cmej.77739"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pre-exam anxiety decreased significantly for students in the HPOT group, with median VAS falling from 6 to 4 after relaxation (p = 0.001). [→ Massalou Damien 2025](#massalou-damien-2025)

@@ -66,3 +66,4 @@ Thematic synthesis of the review's VR simulation theme, drawing on a systematic 
 - [Blinded consultant-rated technical skill does not differ between haptic VR-trained and traditionally trained students on a SawBone hemiarthroplasty](haptic-vr-technical-skill-rating-null.md) — reports the opposite
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
+- [At the mid-training (second) test, residents trained with combined progressive and imagery training had significantly lower (better) LS-CAT scores and fewer operation errors than residents trained with traditional whole-action practice](progressive-imagery-training-better-lscat-second-test.md) — related

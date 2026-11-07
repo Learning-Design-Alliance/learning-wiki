@@ -54,6 +54,7 @@ The article recommends pairing stress-management support with structured physica
 - [Physical Activity & Recess](physical-activity-recess.md)
 - [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
 - [Monitor and support mental health of medical undergraduates in research training](monitor-mental-health-research-trainees.md)
+- [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
 
 ## Examples
 -

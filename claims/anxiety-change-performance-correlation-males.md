@@ -58,3 +58,6 @@ FDR-controlled (0.25) correlations between change in anxiety and academic perfor
 - [No GPA difference between male and female older learners, or across faculties](no-gender-faculty-gpa-difference-older-learners.md) — related
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Time Management correlates with first-semester GPA and pre-clerkship GPA across four cohorts](time-management-correlates-gpa-medical-students.md) — related
+- [Anxiety and loneliness show moderate negative correlations with GPA among physiotherapy students](anxiety-loneliness-moderate-negative-gpa-correlations-physiotherapy.md) — related
+- [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
+- [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related

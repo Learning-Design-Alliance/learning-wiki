@@ -52,3 +52,4 @@ Qualitative content analysis (SWOT-directed, Graneheim & Lundman coding) of inte
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
 - [Participants reported that the internship model's main weaknesses were using students as instruments, increased fatigue, and drift from principled scientific performance](anesthesia-internship-weaknesses-instrument-fatigue.md) — related
 - [Nursing students reported enhanced academic self-efficacy and professional identity after the in-class flipped classroom](enhanced-self-efficacy-and-professional-identity.md) — related
+- [Novice clinicians report significantly greater confidence and anxiety changes than experienced clinicians, while experienced clinicians show a greater but non-significant clinical reasoning change](novices-greater-confidence-gains-experienced-greater-reasoning-change.md) — related

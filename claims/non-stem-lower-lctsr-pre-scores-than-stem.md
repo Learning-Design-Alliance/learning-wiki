@@ -51,3 +51,5 @@ Observational comparison of pre-instruction LCTSR scores: the authors' non-STEM 
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Courses for elementary education and non-science majors show greater belief shifts than calculus-based courses](student-population-belief-shifts.md) — related
+- [In Physical Science, elementary education majors earned lower grades than business and STEM majors but higher grades than all other major types](eled-physical-science-grades-lower-than-stem.md) — related
+- [Elementary education majors entered with lower ACT scores but higher high school GPAs than students in other major types](eled-lower-act-higher-hs-gpa-than-other-majors.md) — related

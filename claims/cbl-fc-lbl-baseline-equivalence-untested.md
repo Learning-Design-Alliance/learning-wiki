@@ -50,3 +50,4 @@ Baseline 30-item single-choice test administered three days before the intervent
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
 - [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](cbl-fc-improves-application-and-diagnostic-reasoning.md) — related
+- [Pre-class test scores did not differ between BOPPPS-CBL and LBL groups at baseline](boppps-cbl-lbl-equal-pre-class-scores.md) — related

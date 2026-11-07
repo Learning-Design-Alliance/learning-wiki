@@ -70,3 +70,5 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — related
 - [CoPilot Pro achieved the highest accuracy rate on periodontology exam questions both on Day-0 (73.6%) and after one month (75.2%)](copilot-pro-highest-accuracy-periodontology-questions.md) — related
 - [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related
+- [ChatGPT-4o mini achieved 65% (48/74) accuracy on the 2023 Portuguese PNA medical examination, surpassing ChatGPT-3.5 Turbo's 54% (40/74)](chatgpt-4o-mini-65-percent-pna-surpasses-35-turbo.md) — related
+- [ChatGPT-4o outperformed both third-year and fifth-year dental students in diagnostic accuracy on endodontic multiple-choice questions with radiographic and clinical images](chatgpt-4o-outperforms-dental-students-endodontic-diagnosis.md) — related

@@ -50,6 +50,7 @@ The article describes a teaching pattern that "divides the teaching process into
 
 - [BOPPPS-PBL integrated teaching model: BOPPPS structure scaffolding PBL within the participatory learning phase](boppps-pbl-integrated-model.md)
 - [Cyclic experiential cognitive chain replacing the linear BOPPPS sequence, building a three-dimensional disease-anatomy-operation schema](modified-boppps-cyclic-cognitive-chain.md)
+- [Six-phase BOPPPS-CBL lesson structure for clinical case teaching](boppps-cbl-six-phase-lesson-structure.md)
 
 ## Examples
 -

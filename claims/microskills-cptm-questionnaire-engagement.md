@@ -79,3 +79,4 @@ Resource utilization showed "no statistically significant difference", which the
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
 - [Over 80% of students rated the HIS-based BOPPPS model positively on learning efficiency, interest, clinical thinking ability, and course satisfaction](boppps-his-positive-student-evaluations.md) — related
 - [Scaffolded case-based learning yields higher self-directed learning capacity than lecture-based teaching at Week 4, driven by resource utilization and reflective learning](scaffolded-cbd-self-directed-learning-week4.md) — related
+- [Students in the CBL multimodal imaging group reported higher learning interest, study ability, clinical thinking and case analysis ability than traditional-group students](cbl-multimodal-higher-subjective-evaluations.md) — related

@@ -53,6 +53,7 @@ The article recommends structured, mandatory in-service ECG education tailored t
 - [Implement mandatory structured ED rotations plus simulation-based, ward-based ECG training to build competence and confidence](structured-ed-rotations-simulation-ecg-training-strategy.md)
 - [Implement mandatory, flexible, and financially supported CPD programs in public dental services with peer learning and monitoring](mandatory-flexible-supported-pds-cpd-strategy.md)
 - [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
+- [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: amari-shoichiro-2026
     resource: "https://doi.org/10.1007/s10916-026-02423-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` UEQ rated "Excellent" for Attractiveness, Stimulation, and Novelty; IPQ Involvement was "Unsatisfactory" and Experienced Realism only "Satisfactory". [→ Amari Shoichiro 2026](#amari-shoichiro-2026)
@@ -53,3 +54,4 @@ Descriptive UEQ and IPQ results from the feasibility study (n = 32), scored per 
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
 - [Users rate the CAE Vimedix simulator's physical characteristics and image sharpness positively but rate realism and direct transferability of its display to real conditions lower](vimedix-realism-transferability-lower-ratings.md) — related
+- [Nursing students rated the ESNPNSD positively on all six UEQ dimensions](esnpnsd-positive-ueq-scores-all-dimensions.md) — related

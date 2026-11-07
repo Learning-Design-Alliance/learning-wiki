@@ -49,3 +49,4 @@ Thematic analysis of semi-structured interviews and focus groups with 25 stakeho
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
 - [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
 - [Clinical placements are identified as the most important source of knowledge and skill attainment for student clinical exercise physiologists](clinical-placements-optimal-cep-competency.md) — related
+- [Students favoured practical, hands-on experience over lecture-based tutorials and saw simulation, including VR, as a safe way to practise without consequences for real patients.](practical-experience-preferred-over-lectures.md) — related

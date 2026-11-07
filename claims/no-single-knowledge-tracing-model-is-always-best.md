@@ -71,3 +71,4 @@ Narrative review citing Pavlik et al.; the survey reports they "empirically veri
 - [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.](individualized-bkt-reduces-questions-needed-for-mastery.md) — related
 - [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses.](bkt-overestimates-accuracy-after-a-day-elapses.md) — related
 - [Corbett and Anderson's original individualization attempts produced mixed results](corbett-anderson-individualization-mixed-results.md) — related
+- [Pre-post knowledge survey scores varied across years, with scores for only questions 4 and 7 consistently rising from pre-test to post-test in one group with no comparison group](knowledge-survey-gains-inconsistent.md) — related

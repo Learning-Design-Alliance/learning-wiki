@@ -65,3 +65,5 @@ Random-effects meta-analysis of 36 studies (2,404 records screened) evaluating L
 - [LLMs solve single-response medical multiple-choice questions significantly better than multiple-response questions](single-response-mcq-solved-better-than-multiple.md) — a narrower finding that bears on this claim
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — a narrower finding that bears on this claim
 - [LLM performance does not differ significantly between 2019 and 2025 exam questions despite training-cutoff differences](no-performance-difference-exam-year.md) — a narrower finding that bears on this claim
+- [ChatGPT's reported accuracy on medical licensing examinations varies widely across countries, from 22% (France) to 73% (Italy)](chatgpt-medical-exam-accuracy-varies-by-country.md) — related
+- [Prior studies report widely varying ChatGPT diagnostic accuracy in dentistry (11% to 99%), likely due to differences in question types and content](prior-chatgpt-dental-accuracy-studies-vary-11-to-99-percent.md) — related

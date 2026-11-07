@@ -56,3 +56,4 @@ Subgroup meta-analyses of flipped-classroom design features (Table 3 and text). 
 - [Flipped classroom effects are larger when instructors use quizzes at the start of in-class sessions](in-class-quiz-moderator-flipped-classroom-effect.md) — related
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
 - [Before-class online quizzes were used to ensure preparation and to launch class discussion](pre-class-quizzes-launch-discussion.md) — related
+- [Videos under 5 minutes have higher audience retention and higher response rates to embedded questions in a flipped undergraduate medical classroom](videos-under-5-minutes-higher-retention-and-question-response.md) — related

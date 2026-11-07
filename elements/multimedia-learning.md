@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 55 claims (40 for, 15 mixed) · 53 studies (31 causal, 7 review, 6 quant-synthesis, 5 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 53 report an effect size · 50 claims rest on one study
+> **Evidence** · 57 claims (40 for, 17 mixed) · 54 studies (31 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 54 report an effect size · 52 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -91,6 +91,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](../claims/3d-model-higher-confidence-visualization-enjoyment.md) [+W] — attached 2026-11-04 from Safir AH et al. (2026), which proposed "Annotated, interactive 3D musculoskeletal anatomy model built in Blender from open-source files and hosted on Sketchfab".
 - [Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video](../claims/segmented-interactive-video-technical-component-significant.md) [+W] — attached 2026-11-04 from Hamzah Nurul Rimadhayanti et al. (2026), which proposed "Segmented-interactive venipuncture video built in H5P with overlays, quizzes, and guided narration".
 - [Students learning venipuncture with a segmented-interactive video scored significantly higher on the communication component than students using a continuous video](../claims/segmented-interactive-video-communication-component-significant.md) [+W] — attached 2026-11-04 from Hamzah Nurul Rimadhayanti et al. (2026), which proposed "Segmented-interactive venipuncture video built in H5P with overlays, quizzes, and guided narration".
+- [Students reported that VR-based orientation to the clinic layout relieved anxiety when they had not yet been exposed to clinics, but offered little extra once they had clinical experience.](../claims/vr-orientation-useful-before-clinical-exposure.md) [~W] — attached 2026-11-06 from Nabeela C et al. (2025), which proposed "Interactive annotated 360-video of the periodontology clinic with linked learning-resource buttons".
+- [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](../claims/headset-added-little-over-360-video.md) [~W] — attached 2026-11-06 from Nabeela C et al. (2025), which proposed "Interactive annotated 360-video of the periodontology clinic with linked learning-resource buttons".
 
 ## The evidence by question
 

@@ -57,3 +57,4 @@ Prospective educational intervention at a national residency training base: 30 r
 - [After 12 months of AI-enhanced platform training, obstetrics and gynecology residents improved significantly across all four competency dimensions, with the largest gains in clinical reasoning and clinical skills](ai-progressive-training-four-dimension-competency-gains.md) — related
 - [Coached simulation sessions are rare across all training levels, and practice rates decline substantially after PGY-3](minimal-coached-simulation-sessions.md) — related
 - [In one single-group pre-post study, CPMDRs' task completion times fell from pre-test to post-test across all five evaluated laparoscopic tasks (P < 0.001)](progressive-laparoscopic-training-reduced-task-times.md) — related
+- [ePHR task completion times fell from pre-test to post-test in both age groups after one week of ePA Coach use, in a pre-post study with no comparison group](epa-coach-skill-time-reduction.md) — related

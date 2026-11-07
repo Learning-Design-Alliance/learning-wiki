@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: an-2022
     resource: "https://doi.org/10.1007/s11423-022-10134-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On a retrospective pre-post survey, participating inservice teachers reported significantly higher self-efficacy in robotics (g = 0.69), problem-solving strategy use (g = 0.77), and confidence in robotics knowledge (g = 1.80) and teaching (g = 1.64) after the LBD-grounded online course; the rise in collaborative working was not significant (p = .085, g = 0.48). [→ An 2022](#an-2022)

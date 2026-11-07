@@ -51,3 +51,4 @@ Supplementary offline checks on the same OULAD d-14 test split compare stronger 
 - [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related
 - [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — related
 - [A reduced model using only the six top-ranked predictors maintains relatively similar MD prediction performance (AUC .776)](six-predictor-md-model-auc-776.md) — related
+- [A seven-variable nomogram predicting low JHLES probability shows modest discrimination (AUC = 0.627) and adequate calibration](nomogram-predicting-low-jhles-auc-0-627.md) — related

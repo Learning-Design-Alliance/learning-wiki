@@ -51,6 +51,7 @@ The article's quality improvement program pairs individual VR simulator task-tra
 
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
+- [Advocate regular simulation training for the whole delivery team, including senior staff](whole-team-regular-simulation-training.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ The authors' interpretive argument in the Discussion, contrasting VDT practice w
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — related
 - [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
+- [Students favoured practical, hands-on experience over lecture-based tutorials and saw simulation, including VR, as a safe way to practise without consequences for real patients.](practical-experience-preferred-over-lectures.md) — related

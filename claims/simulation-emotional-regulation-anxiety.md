@@ -57,3 +57,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [First clinical simulation encounters with standardized patients evoke intense initial emotions in first-year nursing students, chiefly nervousness and fear of error](first-sp-simulation-evokes-intense-initial-emotions.md) — related
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — related
 - [Male nursing students felt anxiety and stress during simulation due to cultural, religious and evaluative factors](simulation-anxiety-stress-cultural-evaluative-factors.md) — related
+- [After blended learning, students more often respond to emotional patient vignettes with patient-centered techniques and less often with space-reducing responses](blended-vignette-patient-centered-responses.md) — related

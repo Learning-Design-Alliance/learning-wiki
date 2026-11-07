@@ -51,3 +51,4 @@ Descriptive analysis of the second questionnaire item answered by the experiment
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
+- [Student self-reported negative-emotion responses about metabolism decreased and positive responses increased from week 4 to week 16 in a course using an illustrated story, in one uncontrolled pre-post study](storytelling-improved-metabolism-attitudes.md) — related

@@ -48,3 +48,4 @@ Survey item on simulator location. "Twenty-one respondents (12%) had to travel t
 ## Related Claims
 - [EyeSi is the most frequently used ophthalmic virtual reality simulator worldwide, followed by HelpMeSee](eyesi-most-used-ophthalmic-vrs-survey.md) — related
 - [A quarter of surveyed surgeons trained at centers where VRS is a mandatory prerequisite for patient access, and a majority favor a surgical license](vrs-surgical-license-mandatory-patient-access.md) — related
+- [VR simulation's capacity to facilitate distance learning and expand access to education was a significant driver of use behavior](vr-distance-learning-expands-access.md) — related

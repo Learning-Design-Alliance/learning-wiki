@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r3` · `q2`–`q3` · n=not established from abstract
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Deliberate Practice Improves Performance -->
 
 Individual differences in accumulated deliberate practice (structured, effortful practice on well-defined subskills at the edge of current ability, with feedback and repetition) are correlated with individual differences in performance, but explain far less of them than originally proposed, and much less in education and the professions than in games, music and sports. The one meta-analysis recorded here (Macnamara et al. 2014) relates practice accumulation to performance across studies; it is not an experiment, so it does not show that deliberate practice causes larger gains than repetition or experience. The second entry (Wedlock & Binnie 2025) reports the same education figure second-hand.
@@ -128,3 +128,4 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 - [Memory improves with practice in the field where it is exercised](memory-improves-with-practice-in-exercised-field.md) — related
 - [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related
 - [Mastery learning is feasible for USG-PVC training without extra time, and overtraining beyond mastery criteria does not improve performance](mastery-learning-feasible-usg-pvc-no-extra-time.md) — related
+- [The authors argue SL simulation via video conference is a flexible debriefer-training model adaptable across expertise levels and professions, enabling deliberate hands-on practice regardless of distance or time](sl-simulation-flexible-distance-independent-training.md) — a narrower finding that bears on this claim

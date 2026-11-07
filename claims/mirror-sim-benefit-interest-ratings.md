@@ -48,3 +48,4 @@ Descriptive post-simulation survey ratings from all 24 participants; these are m
 - [In situ mirror simulation significantly increases PGY-3 resident confidence in flexible, patient-tailored cardiopulmonary arrest skills such as interpreting end-tidal CO2, ruling out reversible causes, and post-resuscitative care](mirror-sim-confidence-flexible-skills.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related
+- [Residents rated the TAD insertion simulator positively as a learning tool, with an average rating of 4.30 out of 5](tad-simulator-positive-acceptance-rating.md) — related

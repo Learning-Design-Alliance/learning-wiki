@@ -49,3 +49,4 @@ Self-report survey of 109 MBP teachers recruited via social media and training o
 - [Online MBP course fees vary widely, with over a third of teachers offering courses free of charge](online-mbp-fees-variable-many-free.md) — related
 - [240 voluntary participants completed the full app session, predominantly female and mostly aged 21-30](240-participants-completed-app-session.md) — related
 - [Graduates were predominantly female (84.87%) and mostly nurses (58.16%)](graduate-demographics-female-nurse-predominance.md) — related
+- [US anatomy teachers are predominantly white, slightly more often female, and mostly hold academic doctoral degrees](us-anatomy-teacher-demographics-2025-survey.md) — related

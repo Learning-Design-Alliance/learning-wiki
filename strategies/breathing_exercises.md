@@ -66,6 +66,8 @@ Slow, controlled breathing reliably shifts autonomic state — increasing parasy
 - [Use exhale-dominant and inhale-dominant breathing to tune alertness to the calm-alert range for learning](breathing-techniques-tune-alertness.md)
 - [Teach elevator breathing and guided relaxation in short school-based sessions over five weeks](school-based-elevator-breathing-guided-relaxation-strategy.md)
 - [Deep slow breathing (including the 4-7-8 method) as a pre-procedure stress-management technique for trainees performing time-critical procedures](deep-slow-breathing-attenuates-procedural-stress.md)
+- [Use brief instructor-guided relaxation and visualization imagery sessions immediately before practicing decomposed surgical skill steps](guided-imagery-before-decomposed-step-practice.md)
+- [Screen students for elevated simulation anxiety with STAI and pupillometry, then support predisposed learners with pre-visit, presession-viewing, and breathing-relaxation interventions](anxiety-screening-and-support-strategy-simulation.md)
 
 ## Examples
 - **MindUP** (The Goldie Hawn Foundation) — a school-based curriculum in which a daily three-minute "brain break" breathing practice anchors each lesson across K–8 classrooms. https://mindup.org

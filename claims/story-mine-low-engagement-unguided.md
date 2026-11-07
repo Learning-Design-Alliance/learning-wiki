@@ -52,3 +52,4 @@ Feasibility analysis using module export data in the pilot RCT: mean active logi
 - [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related
 - [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related
 - [Proactive engagement support (pre-session walkthrough calls and login monitoring) produced successful session logins](proactive-engagement-support-logins.md) — related
+- [Older adults logged into the platform significantly more often than young-old adults during the intervention week](epa-coach-usage-logins-older-adults.md) — related

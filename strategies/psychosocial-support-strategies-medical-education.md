@@ -62,6 +62,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Combine active and experiential learning with coping-skill training, reflective practices, and peer support to address the emotional burden of palliative care education](palliative-coping-support-strategy.md)
 - [Foster deep learning approaches in teacher education through problem-based learning, peer mentoring, and self-efficacy training](pbl-mentoring-selfefficacy-teacher-candidates-strategy.md)
 - [Integrate happiness training into teacher professional development programs to reduce burnout and support teaching effectiveness](integrate-happiness-training-teacher-professional-development.md)
+- [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
 
 ## Examples
 -

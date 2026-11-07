@@ -61,3 +61,4 @@ Subgroup comparisons from the survey between teachers classified as potential ea
 - [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
 - [Student-teachers are most motivated by helping others and skill development, with resource design, organisation and teaching skills the most cited transferable skills](student-teacher-motivations-and-skills.md) — related
 - [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](intrinsic-motivation-full-participation.md) — related
+- [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — related

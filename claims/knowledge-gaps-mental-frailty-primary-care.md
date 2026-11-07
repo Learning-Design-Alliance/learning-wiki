@@ -50,3 +50,4 @@ Scoping review following PRISMA-ScR of 20 sources (2014–2025), thematically an
 - [Terminology and definitions of mental frailty are inconsistent and validated primary-care identification tools are lacking](inconsistent-terminology-mental-frailty-no-validated-tools.md) — related
 - [Pharmacists have limited frailty knowledge, recognizing mainly physical aspects](pharmacists-limited-frailty-knowledge-physical-aspects.md) — a narrower finding that bears on this claim
 - [The 2025 ETR expands the geriatric medicine knowledge base, including frailty identification tools, validated prescribing tools, and integrated care frameworks](etr2025-expanded-knowledge-base.md) — related
+- [The weakest frailty-management practices were assessing frailty in geriatric patients and promptly reporting frailty status to physicians](weakest-practices-frailty-assessment-physician-reporting.md) — related

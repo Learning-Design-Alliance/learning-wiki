@@ -50,6 +50,7 @@ This pattern operationalizes the six BOPPPS stages on the Rain Classroom platfor
 ## Related Designs
 
 - [BOPPPS-based pre-anesthesia care workshop with pre-class preparation, scenario-based participatory learning, and real-time feedback](boppps-pre-anesthesia-workshop-design.md)
+- [Six-phase BOPPPS-CBL lesson structure for clinical case teaching](boppps-cbl-six-phase-lesson-structure.md)
 
 ## Examples
 -

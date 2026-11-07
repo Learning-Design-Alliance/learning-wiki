@@ -62,3 +62,6 @@ Multi-cohort quasi-experiment with historical control (2023 LBL n=21; 2024/2025 
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — a narrower finding that bears on this claim
+- [BOPPPS-CBL teaching produces higher post-class chest pain test scores than lecture-based learning among resident physicians](boppps-cbl-higher-post-class-test-scores-residents.md) — related
+- [Primary care physicians' knowledge of when to refer perinatal patients to a psychiatrist rose from mean 1.90 pre-test to 3.13 post-test after training, in one uncontrolled pre-post study.](pmh-training-improves-referral-knowledge.md) — related
+- [Pre-class test scores did not differ between BOPPPS-CBL and LBL groups at baseline](boppps-cbl-lbl-equal-pre-class-scores.md) — related

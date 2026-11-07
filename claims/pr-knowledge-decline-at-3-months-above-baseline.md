@@ -65,3 +65,4 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [Guess rates fell after training and rose again at 3 months, while self-reported confidence improved across groups](guess-rates-confidence-shift-after-elearning.md) — related
 - [EEG total score gains declined by the 3-month retention test but remained above pretest levels](poceeg-skill-retention-declines-but-persists-3-months.md) — possibly the same claim (merge candidate)
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
+- [Training with the task simulator significantly increases nursing students' perceived self-efficacy in haemorrhage control, with a decline but retention above baseline at three months](task-simulator-increases-self-efficacy.md) — related

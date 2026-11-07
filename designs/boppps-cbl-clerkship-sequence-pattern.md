@@ -40,7 +40,8 @@ This pattern operationalizes BOPPPS combined with CBL across a one-week clinical
 - [Boppps Cbl Higher Pt Test Total Scores](../claims/boppps-cbl-higher-pt-test-total-scores.md) [+M]
 
 ## Related Designs
-- 
+
+- [Six-phase BOPPPS-CBL lesson structure for clinical case teaching](boppps-cbl-six-phase-lesson-structure.md)
 
 ## Examples
 -

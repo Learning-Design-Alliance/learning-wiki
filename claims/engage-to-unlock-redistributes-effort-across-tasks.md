@@ -61,3 +61,4 @@ In the controlled four-condition Prolific experiment (N=398), planned interactio
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
 - [Increasing narration speed by up to 1.8 times has no negative impact on learning and reduces instruction time](narration-speed-up-to-1-8x-no-learning-cost.md) — related
 - [ChatGPT-guided PBL shifted study time toward pre-class preparation without increasing total learning time](chatgpt-pbl-shifts-study-time-total-unchanged.md) — related
+- [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — a narrower finding that bears on this claim

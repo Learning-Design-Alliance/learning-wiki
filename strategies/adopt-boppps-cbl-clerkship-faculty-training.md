@@ -51,6 +51,7 @@ The article recommends that educators adopt the combined BOPPPS-CBL approach in 
 - [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
 - [When implementing DwGJ-based simulation with CBL, structure teaching hours and expand trained instructor capacity](dwgj-cbl-implementation-recommendations.md)
+- [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 
 ## Examples
 -

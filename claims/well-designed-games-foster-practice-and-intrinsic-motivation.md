@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.
-description: Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to o...
+title: "A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting"
+description: "A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting"
 id: well-designed-games-foster-practice-and-intrinsic-motivation
 status: review
 generated:
@@ -9,7 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-11-05
+source_checked: 2026-11-07
 sources:
   - id: huber-2024
     resource: "https://doi.org/10.1007/s10648-024-09868-z"
@@ -29,15 +29,15 @@ sources:
     rigour: 2
 ---
 
-# Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.
+# A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
-> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Well-designed games can promote both the persistence needed for practice and the quality of engagement that fosters deep learning, drawing on SDT-based research showing autonomy, competence, and relatedness satisfactions affect intrinsic motivation and sustained engagement. [→ Huber 2024](#huber-2024)
-`q1 i?` In well-designed games where basic psychological needs are met, the option to outsource cognitive efforts to LLMs becomes less tempting, and games may even foster motivation to use LLMs to engage deeper with content. [→ Huber 2024 (2)](#huber-2024-2)
+`q1 i?` The authors speculate, without data, that in well-designed games where basic psychological needs are met the option to outsource cognitive effort to LLMs might become less tempting, and that games might foster motivation to use LLMs to engage more deeply with content. [→ Huber 2024 (2)](#huber-2024-2)
 
 ## Evidence
 
@@ -57,7 +57,7 @@ Huber, S. E., Kiili, K., Nebel, S., Ryan, R. M., Sailer, M., & Ninaus, M. (2024)
 
 `q1 · i?` · `theoretical · r2`
 
-Authors' interpretation in the section on games as a culture medium: intrinsic interest fostered by games may protect novices from over-reliance on LLMs, giving them "a flavor of that kind of intrinsic interest" that protects domain experts. No data reported.
+Authors' interpretation in the section on games as a culture medium: game environments might give novices "a flavor of that kind of intrinsic interest" that, in the authors' account, protects domain experts from over-reliance on LLMs. This is presented as a possibility, not a finding; no data reported.
 
 > "When within well-designed games, in which the basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward (Ryan & Rigby, 2020), the option to outsource cognitive efforts to LLMs becomes less tempting."
 

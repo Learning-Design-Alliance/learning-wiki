@@ -45,6 +45,7 @@ The article recommends that schools and hospitals design targeted interventions 
 ## Related Strategies
 
 - [Hospitals and nursing educators should provide spiritual care education courses and integrate them into undergraduate nursing curricula](spiritual-care-education-courses-strategy.md)
+- [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
 
 ## Examples
 -

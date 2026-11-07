@@ -44,6 +44,8 @@ The course pairs roughly ten hours of self-paced online study with two interacti
 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Deliver RGR instruction via incremental self-paced online professional development completed before and after instruction begins](rgr-incremental-online-pd-strategy.md)
+- [Release videos early in the course and attach them to mandatory seminars with group homework](early-release-and-seminar-attachment-strategy.md)
+- [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
 
 ## Examples
 -

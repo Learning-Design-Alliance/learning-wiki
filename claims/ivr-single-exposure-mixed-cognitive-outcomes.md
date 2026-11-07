@@ -72,3 +72,4 @@ The article attributes to Christopoulos et al. (2022) a retention advantage for 
 - [360° VR videos can serve as an effective self-directed learning tool, with children learning comparably without an instructor](360-vr-self-directed-learning.md) — related
 - [Children learning water-safety content via 360° VR videos, traditional video, or posters show similar learning gains, with 95% improving knowledge and retaining it at one and eight weeks](360-vr-water-safety-learning-gains-retention.md) — related
 - [Teachers perceive 360° VR videos as engaging, feasible, and useful for explaining concepts difficult to demonstrate traditionally](teacher-focus-groups-vr-engagement.md) — related
+- [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](headset-added-little-over-360-video.md) — related

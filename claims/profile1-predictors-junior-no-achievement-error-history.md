@@ -51,3 +51,4 @@ Multivariable logistic regression comparing Profile 1 (low competence) with Prof
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [In the adjusted model, intermediate professional title is positively associated with the high-level profile while short nursing tenure is negatively associated with it](title-and-tenure-associations-high-level-profile.md) — related
 - [Higher critical thinking scores predict membership in higher medication safety competence profiles](critical-thinking-predicts-medication-safety-competence-profile.md) — related
+- [Nurses with junior titles score higher on PED KAP than senior-title nurses](junior-title-higher-ped-kap.md) — related

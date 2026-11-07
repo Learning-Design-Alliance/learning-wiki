@@ -51,3 +51,4 @@ Multivariate linear regression in the 90-student study, controlling for gender, 
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — reports the opposite
 - [\"Learning, Thinking & Conveying\" training with experiential learning yields significantly higher theoretical exam performance than routine mentoring in undergraduate nursing students on emergency department rotations](ltc-experiential-training-higher-theoretical-exam-nursing.md) — related
+- [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related

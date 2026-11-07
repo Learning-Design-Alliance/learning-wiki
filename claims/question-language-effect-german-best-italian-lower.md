@@ -49,3 +49,4 @@ Generalized estimating equation analysis of model accuracy by input question lan
 - [ChatGPT accuracy varies substantially across countries and specialties, from 73% on Italian to 22% on French examinations](chatgpt-accuracy-varies-across-countries-and-specialties.md) — related
 - [English prompts generally yield better LLM accuracy than language-matched prompts, but top models perform comparably with language-matched prompts](english-prompt-advantage-top-models-comparable.md) — related
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — related
+- [ChatGPT's reported accuracy on medical licensing examinations varies widely across countries, from 22% (France) to 73% (Italy)](chatgpt-medical-exam-accuracy-varies-by-country.md) — reports the opposite

@@ -48,3 +48,4 @@ Anonymous questionnaire survey at the end of the academic year; all 117 distribu
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Using HIS resources in imaging teaching lets students dynamically display and post-process images and access complete clinical data, improving perceived teaching quality](his-resources-benefits-imaging-teaching.md) — related
+- [Students in the CBL multimodal imaging group reported higher learning interest, study ability, clinical thinking and case analysis ability than traditional-group students](cbl-multimodal-higher-subjective-evaluations.md) — related

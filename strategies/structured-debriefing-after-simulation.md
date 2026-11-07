@@ -52,6 +52,7 @@ The authors used the PEARLS (Promoting Excellence And Reflective Learning in Sim
 - [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
 - [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
 - [Three-phase debriefing (reaction, analysis, summary) with formative critical-actions feedback](three-phase-debriefing-ecpr-simulation-strategy.md)
+- [Use ONA-derived network visualizations to target debriefing on communication bottlenecks and assessment-to-action transitions](ona-informed-debriefing-strategy.md)
 
 ## Examples
 -

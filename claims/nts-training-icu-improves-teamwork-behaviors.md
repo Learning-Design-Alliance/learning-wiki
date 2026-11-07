@@ -63,3 +63,4 @@ Systematic review of 14 studies (11 before-and-after, one RCT, one quasi-experim
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
 - [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
 - [Training significantly improved self-efficacy in situation awareness and in communication and teamwork, but not task management](splints-training-component-specific-self-efficacy.md) — a narrower finding that bears on this claim
+- [Debriefing deltas revealed a lack of leadership and gaps in ALS protocol knowledge that delayed critical tasks, alongside strong teamwork, communication, and technical performance](debriefing-deltas-leadership-als-protocol-gaps.md) — a narrower finding that bears on this claim

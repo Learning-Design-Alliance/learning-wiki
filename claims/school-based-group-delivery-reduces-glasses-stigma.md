@@ -47,3 +47,4 @@ Thematic finding across adult and child focus groups; a parent described her dau
 ## Related Claims
 - [Participants perceived that receiving corrective lenses improved classroom attention, task persistence, and willingness to practice academic skills](corrective-lenses-improve-school-function.md) — related
 - [Providing free vision services on the school campus was perceived to remove financial and logistical barriers to obtaining corrective lenses](free-school-based-services-remove-access-barriers.md) — related
+- [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — related

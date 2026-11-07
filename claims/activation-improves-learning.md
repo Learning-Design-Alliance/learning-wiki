@@ -9,7 +9,7 @@ id: activation-improves-learning
 aliases: [activation]
 evidence_strength:
 newest_evidence: 2025
-source_checked: 2026-11-05
+source_checked: 2026-11-06
 sources:
   - id: luiten-et-al-1980
     resource: "https://doi.org/10.3102/00028312017002211"
@@ -44,7 +44,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
-> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 3 of 3 entries) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Activation Improves Learning -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): Activating learners' relevant prior knowledge before or during instruction improves comprehension and retention of new material. The claim covers deliberate pre-instructional activities — pre-questions, brainstorming, analogies, advance organizers — that surface what learners already know so new material can be connected to it. -->

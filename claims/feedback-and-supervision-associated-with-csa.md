@@ -50,3 +50,4 @@ The multivariable logistic regression table of the census study (n = 426) report
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](instructor-following-procedure-associated-competency-ethiopia.md) — related
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — related
 - [Female sex, lack of prior clinical-skills exposure, and high academic stress were associated with clinical skill anxiety](sex-exposure-stress-associated-with-csa.md) — related
+- [Students and instructors perceive SBE as an effective strategy for concurrent supervision, feedback, and assessment of clinical knowledge and skills](sbe-supervision-assessment-strategy.md) — related

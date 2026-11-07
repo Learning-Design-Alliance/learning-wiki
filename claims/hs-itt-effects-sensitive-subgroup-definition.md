@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: shapiro-and-weiland-2019
     resource: "https://doi.org/10.3102/0162373718820307"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The IEP definition produced consistently larger and positive ITT effects (SD = 0.31–0.92) on cognitive outcomes, except third-grade receptive vocabulary (SD = −0.09), than the doctor report and all-of-the-above definitions, though the IEP estimates are the least precise and in most cases not statistically significantly different from the other two. [→ Shapiro and Weiland 2019](#shapiro-and-weiland-2019)

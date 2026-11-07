@@ -53,3 +53,4 @@ Secondary outcome in the RCT, assessed with a 5-point Likert scale measuring enj
 - [Students taught with a standardized patient reported marginally more engaging, effective, and confidence-building learning experiences than students taught by video demonstration](sp-feedback-more-engaging-and-confidence-building.md) — related
 - [Students training with AI-VSPs give more positive and fewer negative feedback comments than traditional SP students](ai-vsp-more-positive-feedback-comments.md) — related
 - [Satisfaction did not differ significantly between pre-class and post-class groups, except a marginal advantage for the pre-class group on one item](pre-post-satisfaction-no-significant-differences.md) — related
+- [No significant difference between e-learning and video groups in satisfaction, perceived duration, or perceived difficulty](no-difference-satisfaction-duration-difficulty.md) — related

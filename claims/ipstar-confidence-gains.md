@@ -53,3 +53,4 @@ Paired Likert survey (n = 72, Wilcoxon signed rank test) administered before and
 - [Participants gave strong endorsement to IP-STAR, with median feedback scores above 4 across content, collaboration, skill development and educational value](ipstar-positive-feedback.md) — related
 - [Satisfaction gains concentrate in theoretical understanding, difficult airway management confidence and clinical decision-making](apnea-duration-satisfaction-domain-gains.md) — related
 - [RCDP pediatric resuscitation simulation significantly increases multidisciplinary staff self-reported confidence in providing high-quality CPR and managing airway, breathing, and circulation in the first 3 minutes of a code](rcdp-simulation-increases-first-responder-confidence.md) — related
+- [Students perceive interprofessional CPR training as more aligned with real-world work dynamics than discipline-separate training](ipe-cpr-training-real-world-readiness.md) — related

@@ -97,3 +97,5 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](residents-performance-2d-3d-vr-no-difference.md) — related
 - [VR lecture rated more enjoyable, more effective, and less boring than slideshow lecture](vr-lecture-enjoyment-effectiveness-boredom.md) — a narrower finding that bears on this claim
 - [Students highly accepted the VR anatomy software 3D Organon for learning anatomy, with enjoyment the highest-rated GETAMEL variable (μ = 1.9)](high-acceptance-3d-organon-enjoyment-highest.md) — related
+- [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related
+- [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — related

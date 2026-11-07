@@ -53,6 +53,7 @@ This strategy combines e-learning tools — computers, internet lessons, lecture
 - [Blended Learning](blended_learning.md)
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
+- [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](online-theory-face-to-face-practice-strategy.md)
 
 ## Examples
 -

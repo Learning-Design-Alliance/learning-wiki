@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ipe-cpr-training-real-world-readiness.md
+---
+
+# Revision history: [claims/ipe-cpr-training-real-world-readiness](../claims/ipe-cpr-training-real-world-readiness.md)
+
+### 2026-11-06 · ingest · process:wiki-ingest
+Ingested from pmc-11925266 (Enhancing Cardiopulmonary Resuscitation Training: An Interprofessional Approach With Undergraduate Medicine and Nursing Students Using Self-Learning Methodology in Simulated Environments (MAES)-A Qualitative Study.) via eval_harness.py + ingest_extractions.py

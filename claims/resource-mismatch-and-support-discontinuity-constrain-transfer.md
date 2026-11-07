@@ -130,3 +130,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Poor educator knowledge, unfavorable attitudes, and lack of careful planning impede PBL](educator-knowledge-attitude-planning-barriers-pbl.md) — related
 - [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
+- [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — related
+- [Participants identify inadequate skills-laboratory time and space, and recommend simulation centres in training institutions and simulation corners in health facilities](sbe-infrastructure-simulation-centres-corners.md) — related

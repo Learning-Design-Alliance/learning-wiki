@@ -59,6 +59,7 @@ The review's forward-looking recommendations for integrating simulation into vas
 - [Require adequately powered studies of skill retention and transfer before recommending major investment in cadaveric simulation](adequately-powered-studies-before-cadaveric-investment.md)
 - [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 - [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
+- [Recommendations for oral and maxillofacial surgery residency training: simulation-based skill modules, mandatory trainee-status disclosure with patient education, and stronger undergraduate basic clinical skills training](oms-residency-simulation-transparency-undergraduate-skills-strategy.md)
 
 ## Examples
 -

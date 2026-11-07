@@ -51,3 +51,4 @@ Therapeutic themes from the LED analysis were addressing personal loss, emotiona
 - [Playing Spiritfarer has the potential to impact gamers' outlook, knowledge, and behaviors, especially in relation to grief, empathy, and managing loss](spiritfarer-impacts-outlook-knowledge-behaviors.md) — a broader claim this one bears on
 - [Players formed personal connections with Spiritfarer characters, often because spirits reminded them of real loved ones](spiritfarer-personal-connection-characters.md) — related
 - [Players typically had strong emotional responses to Spiritfarer, often describing catharsis, though some found responses too strong and stopped playing](spiritfarer-strong-emotional-responses.md) — related
+- [Students' conceptualization of spirituality after simulation centers on life, peace, freedom, love, and self-knowledge](student-spirituality-themes-peace-freedom-love.md) — related

@@ -50,3 +50,4 @@ The review reports, citing Friedlander et al. (2023), a survey study from New Ze
 - [All students in the experimental group succeeded in building the 3D inguinal canal model under teacher supervision in less than 15 minutes](inguinal-model-built-under-15-minutes.md) — related
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
 - [Non-clinician facilitators' lack of case expertise initially undermined confidence, but confidence improved with facilitating experience](non-clinician-cbl-confidence-expertise-concerns.md) — related
+- [Novice clinicians report significantly greater confidence and anxiety changes than experienced clinicians, while experienced clinicians show a greater but non-significant clinical reasoning change](novices-greater-confidence-gains-experienced-greater-reasoning-change.md) — related

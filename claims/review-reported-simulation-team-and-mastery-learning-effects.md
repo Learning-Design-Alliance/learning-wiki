@@ -49,3 +49,4 @@ Narrative review section attributing these findings to cited prior studies (e.g.
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [Time constraints imposed on responding teams may not negatively impact activating-team patient care before team arrival, based on simulated scenario performance](response-time-constraints-may-not-harm-activating-team-care.md) — related
 - [Teamwork is valued as essential in simulated basic-care scenarios, but students experienced coordination and role-definition difficulties, especially at the start](teamwork-valued-but-coordination-difficulties.md) — a narrower finding that bears on this claim
+- [Technical performance during the simulated cardiac arrest was low, with a mean of 16 of 42 points](technical-performance-16-of-42-points-during-simulation.md) — related

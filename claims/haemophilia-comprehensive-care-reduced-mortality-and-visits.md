@@ -48,3 +48,4 @@ The article reports a systematic review of comprehensive care models in haemophi
 
 - [A UK NHS survey estimated each haemophilia nurse specialist's work was associated with minimum annual savings of £83,000 in avoided emergency visits and £50,000–£100,000 in replaced consultant appointments](haemophilia-nurse-specialist-cost-savings-survey.md)
 - [Systematic reviews suggest nurse-led services achieve outcomes at least as good as traditional physician-led models, with some evidence of cost-effectiveness](nurse-led-services-outcomes-at-least-as-good.md)
+- [Stroke unit care reduces mortality and improves home return and independent living compared to general medical wards, per the meta-analysis the review cites](stroke-unit-care-meta-analysis-outcomes.md) — related

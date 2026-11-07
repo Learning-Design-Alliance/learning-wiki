@@ -42,7 +42,8 @@ A clinical skills boot camp within the Connecticut Area Health Education Center 
 - [Boot Camp Favorable Trainee Ratings](../claims/boot-camp-favorable-trainee-ratings.md) [+M]
 
 ## Related Designs
-- 
+
+- [One-day PMH training program for primary care physicians (four modules with PHQ-9/GAD-7 hands-on practice and case vignettes)](telangana-one-day-pmh-training-program-pcps.md)
 
 ## Examples
 -

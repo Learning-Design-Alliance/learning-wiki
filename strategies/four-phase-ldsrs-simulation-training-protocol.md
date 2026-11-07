@@ -52,6 +52,8 @@ The article describes a standardized simulation-based training protocol structur
 - [Use real-time feedback and repeated practice in preclinical surgical simulation training](real-time-feedback-repeated-practice-surgical-simulation.md)
 - [Sequence efficient training so cadets observe expert action videos before instruction and simulator practice, then self-record practice videos for comparison](expert-video-replay-then-practice-sequence.md)
 - [Combine a briefing with a simulation scenario and individual expert feedback when training staff on a new medical device](briefing-plus-simulation-with-feedback-for-device-training.md)
+- [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
+- [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
 
 ## Examples
 -

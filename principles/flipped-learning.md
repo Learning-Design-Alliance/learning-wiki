@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 153 claims (92 for, 57 mixed, 4 against) · 98 studies (52 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 33 of 98 report an effect size · 145 claims rest on one study
+> **Evidence** · 156 claims (94 for, 58 mixed, 4 against) · 99 studies (53 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 33 of 99 report an effect size · 148 claims rest on one study
 
 ## Conditional relationship
 
@@ -194,6 +194,9 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Radiology residents in the flipped classroom group scored significantly higher on the practical examination than lecture-based residents](../claims/fc-higher-practical-exam-radiology-residents.md) [+W] — attached 2026-11-06 from Hou Weishu et al. (2025), which proposed "Layered three-stage flipped classroom design progressing from lower to higher cognitive levels"; tests this page's relationship.
 - [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](../claims/fc-residents-self-reported-learning-ability-gains.md) [+W] — attached 2026-11-06 from Hou Weishu et al. (2025), which proposed "Layered three-stage flipped classroom design progressing from lower to higher cognitive levels".
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](../claims/fc-vs-lbt-no-learning-difference.md) [~W] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Flipped classroom session structure with pre-class LMS content, pretest, case-based discussion, and peer question exchange"; tests this page's relationship.
+- [Flipped classroom preparation before anesthesia crisis management simulation yields higher overall ANTS non-technical skills scores than conventional lecture](../claims/fc-higher-overall-ants-scores-anesthesia-simulation.md) [+W] — attached 2026-11-06 from Wang Yun et al. (2025), which proposed "Integrate flipped classroom activities into pre-simulation preparation to strengthen anesthesia crisis management simulation outcomes"; tests this page's relationship.
+- [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](../claims/fc-higher-post-training-theoretical-scores.md) [+W] — attached 2026-11-06 from Wang Yun et al. (2025), which proposed "Integrate flipped classroom activities into pre-simulation preparation to strengthen anesthesia crisis management simulation outcomes"; tests this page's relationship.
+- [Flipped classroom residents more often recognize acute pulmonary embolism and provide circulatory support with heparin during crisis simulation, with no group differences on the other four checkpoints](../claims/fc-crisis-response-checkpoints-partial.md) [~W] — attached 2026-11-06 from Wang Yun et al. (2025), which proposed "Integrate flipped classroom activities into pre-simulation preparation to strengthen anesthesia crisis management simulation outcomes"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

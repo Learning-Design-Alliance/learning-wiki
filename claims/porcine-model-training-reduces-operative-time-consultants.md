@@ -60,3 +60,4 @@ Retrospective pre/post comparison of procedures by the same six surgeons at one 
 - [RCDP training with an ex vivo porcine intussusception model produces higher post-training theoretical and practical assessment scores than traditional teaching methods in radiology residents](rcdp-exvivo-model-higher-air-enema-scores.md) — related
 - [Training on 3D-printed LRYGB models transfers to porcine organ models: trained residents performed comparably to untrained intermediates](3d-training-transfers-to-porcine-models.md) — related
 - [In one single-group pre-post study, CPMDRs' task completion times fell from pre-test to post-test across all five evaluated laparoscopic tasks (P < 0.001)](progressive-laparoscopic-training-reduced-task-times.md) — related
+- [ePHR task completion times fell from pre-test to post-test in both age groups after one week of ePA Coach use, in a pre-post study with no comparison group](epa-coach-skill-time-reduction.md) — related

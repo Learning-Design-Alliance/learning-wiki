@@ -89,6 +89,7 @@ Retrieval practice produces substantially stronger long-term retention than rest
 - [Lecturers should implement online practice tests with automatically generated individual corrective item feedback and encourage steady participation](implement-online-practice-tests-with-corrective-feedback.md)
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 - [Incorporate learner-recommended external question banks and apps alongside instructor-curated OLRs](incorporate-learner-recommended-olrs.md)
+- [Iterate the app with automatic zoom for small structures and longitudinally saved, personalized quiz content](brain-app-iteration-zoom-personalized-quizzes.md)
 
 ## Examples
 - **[Team-Based Learning](https://www.teambasedlearning.org)** — Readiness Assurance Tests given at the start of each unit include items from all prior units, so earlier content is re-retrieved throughout the course.

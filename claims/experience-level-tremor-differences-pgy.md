@@ -49,3 +49,4 @@ Experience-level analysis from the mixed-effects model over all nine residents g
 - [Video+AR training reduced task-specific tremor bandwidth power but produced no significant reduction in the physiological tremor bandwidth](bandwidth-specific-tremor-reductions-video-ar.md) — related
 - [Video plus augmented-reality training significantly reduced total and peak wrist tremor power in neurosurgical residents over two weeks of simulator training](video-ar-training-reduces-wrist-tremor-power.md) — related
 - [Peak frequency of full-bandwidth wrist tremor significantly increased by 81% in the Video+AR training group between Day 0 and Day 14](peak-frequency-increase-video-ar-group.md) — related
+- [Optimal number of procedures for a reproducible assessment is 10, 17, 15, and 17 for PGY 2, 3, 4, and 5 respectively, with senior years requiring more procedures](optimal-procedures-increase-by-pgy.md) — related

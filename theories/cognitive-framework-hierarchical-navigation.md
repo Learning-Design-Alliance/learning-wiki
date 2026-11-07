@@ -44,6 +44,7 @@ The article proposes a cognitive framework in which navigating a taxonomy-based 
 ## Examples
 
 - [Use resource types as subdivisions of their associated contexts rather than as separate facets](../strategies/resource-types-as-subdivisions-of-associated-contexts.md)
+- [Limb type, then three consecutive rehabilitation phases, then nine focus topics: the navigation structure of RehAmpTT](../designs/limb-phase-topic-navigation-structure.md)
 
 ## Key Sources
 - Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html

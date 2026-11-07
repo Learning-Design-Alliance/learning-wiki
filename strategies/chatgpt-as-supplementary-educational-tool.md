@@ -47,6 +47,7 @@ The review's included studies repeatedly characterize ChatGPT as a supplementary
 ## Related Strategies
 
 - [Verify ChatGPT outputs against reliable resources and do not rely on it solely for high-stakes exam study](verify-chatgpt-outputs-high-stakes-exams.md)
+- [Balance exam-oriented paid resources with support for broad-based clinical knowledge](balance-exam-resources-with-broad-clinical-learning.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ This strategy trains children in two brief relaxation techniques: elevator breat
 ## Related Strategies
 
 - [Breathing Exercises](breathing_exercises.md)
+- [Screen students for elevated simulation anxiety with STAI and pupillometry, then support predisposed learners with pre-visit, presession-viewing, and breathing-relaxation interventions](anxiety-screening-and-support-strategy-simulation.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Descriptive comparison of Table 1 totals across the one-month interval; the arti
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
 - [Claude, Copilot, and Gemini showed model-specific topic strengths and weaknesses and lower cross-attempt reliability than GPT-4o](claude-copilot-gemini-topic-strengths-reliability.md) — related
 - [GPT-4o showed the highest accuracy (92.9%) on anatomy MCQs, followed by Claude, Copilot, and Gemini](gpt-4o-highest-anatomy-mcq-accuracy.md) — related
+- [Asking \"Are you sure?\" reduced correct answers for both models; ChatGPT-3.5 Turbo's answer changes approached but did not reach significance](are-you-sure-prompt-reduced-correct-answers.md) — related

@@ -95,6 +95,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 - [Use the ADDIE model to redesign an underused lecture-based course into a blended digital format meeting five quality criteria](addie-based-blended-redesign-strategy.md)
 - [Choose between online and face-to-face delivery based on the specific requirements of the course, and continuously review educational practices](choose-format-by-course-requirements.md)
+- [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](online-theory-face-to-face-practice-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

@@ -47,3 +47,4 @@ Same DVRS-group questionnaire (61 respondents, Cronbach's Alpha 0.952, KMO 0.710
 ## Related Claims
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — a broader claim this one bears on
 - [In the same RCT, the experimental group showed greater score gains than the control group in both written examination (22.24 ± 5.20 vs. 10.64 ± 5.96) and practical operation (21.80 ± 4.71 vs. 12.12 ± 4.79) outcomes](pbl-virtual-simulation-greater-score-gains-trauma-orthopedics.md) — related
+- [Students reported that preparation and clear expectations before clinical sessions reduced anxiety, preferring concise, accessible resources over dense handbooks.](preparation-expectations-reduce-clinical-anxiety.md) — related

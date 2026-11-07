@@ -51,3 +51,4 @@ Subgroup analysis by question source reported in the Discussion as a check on po
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — related
 - [In in-training residency exams, ChatGPT-4.0 achieved 72.2% accuracy compared to 57.7% for ChatGPT-3.5](chatgpt-4-residency-exam-accuracy-722-percent.md) — related
 - [ChatGPT accuracy varies substantially across countries and specialties, from 73% on Italian to 22% on French examinations](chatgpt-accuracy-varies-across-countries-and-specialties.md) — related
+- [ChatGPT's reported accuracy on medical licensing examinations varies widely across countries, from 22% (France) to 73% (Italy)](chatgpt-medical-exam-accuracy-varies-by-country.md) — related

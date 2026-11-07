@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 35 claims (26 show a difference, 7 mixed, 2 no difference) · 19 studies (11 causal, 3 review, 2 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q2`–`q3` · 2 of 19 report an effect size · 35 claims rest on one study
+> **Evidence** · 37 claims (26 show a difference, 9 mixed, 2 no difference) · 20 studies (12 causal, 3 review, 2 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q2`–`q3` · 2 of 20 report an effect size · 37 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -73,6 +73,8 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Within generating, students proposed hypotheses, managed discordant information, and determined final diagnoses, with wide variation in data use](../claims/generating-hypotheses-discordant-data-final-diagnoses.md) [~M] — measured as an outcome of the instruction studied
 - [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations](../claims/constructivist-teaching-efm-aspect-gains.md) [~M] — measured as an outcome of the instruction studied
 - [Midwives' overall fetal monitoring interpretation scores rose from 62.35 to 71.36 after constructivist teaching in a single-group pre-post study with no comparison group](../claims/constructivist-teaching-raises-midwife-efm-scores.md) [+M] — measured as an outcome of the instruction studied
+- [Individual TOSLS skill categories improve significantly during a flipped classroom semester, with gains from 12.1% to 22.0%, while creating graphs and quantitative problem-solving gains do not reach significance](../claims/flipped-classroom-tosls-category-gains.md) [~M] — measured as an outcome of the instruction studied
+- [Students' self-perceived scientific literacy competency increases during the flipped classroom semester, but confidence in interpreting graphical results does not](../claims/self-perceived-sl-competency-increases.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

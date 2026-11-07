@@ -72,3 +72,4 @@ The review's cross-study synthesis, drawing on Blonsky et al. (multicenter RCT, 
 - [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — related
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — a broader claim this one bears on
 - [Most dental students judge VR and manikin training equally helpful for consolidating theoretical knowledge](both-methods-equal-knowledge-consolidation.md) — related
+- [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — related

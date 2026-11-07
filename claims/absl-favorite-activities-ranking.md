@@ -52,3 +52,4 @@ Interview question on favorite activities (Table 14), from the 10 interviewed st
 - [Students reported difficulties with the ABSL implementation, most commonly problems in the discussion process and difficulties creating arguments in concept cartoon and migration story activities](absl-student-views-difficulties.md) — reports the opposite
 - [Students' written opinions indicated they enjoyed concept-cartoon lessons, attended more, and came to believe they could understand mathematics](student-opinions-concept-cartoon-lessons.md) — related
 - [Students reported that ABSL activities helped them understand subjects better, learn permanently, become more active, and increased their interest and attitudes towards social studies](absl-student-views-positive-outcomes.md) — related
+- [Students ranked lectures with storytelling among the most helpful learning resources and mentioned the story positively in evaluations](storytelling-ranked-top-learning-resource.md) — related

@@ -49,3 +49,5 @@ Descriptive analysis of the 32-item Palliative Care Nurse Core Competency Questi
 - [High-competency nurses scored 1.8-fold higher in ethical care, 2.4-fold higher in clinical practice, and 2.0-fold higher in psychological self-adjustment than low-competency nurses.](high-vs-low-competency-dimension-fold-differences.md) — related
 - [Univariate analyses show core competency total scores differ by sex, hospital classification, palliative care working duration, training experience, and recent bereavement.](univariate-competency-differences-demographics.md) — related
 - [Oncology nurses fall into three distinct latent profiles of palliative care core competency: low (27%), moderate (45%), and high (28%).](three-latent-profiles-palliative-care-competency-oncology-nurses.md) — related
+- [Ethical care competency is the highest-rated PCNCC dimension and spiritual care competency the lowest among ICU nurses](dimension-scores-ethical-highest-spiritual-lowest.md) — related
+- [ICU nurses' palliative care core competency is at a lower-middle level, with a mean PCNCC total score of 58.96 (SD 21.56)](icu-nurses-palliative-core-competency-lower-middle-mean.md) — related

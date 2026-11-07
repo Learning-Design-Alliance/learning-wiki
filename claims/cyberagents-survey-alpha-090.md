@@ -94,3 +94,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related
 - [The purpose-built 19-item questionnaire showed excellent internal consistency (Cronbach's Alpha = 0.910) but lacked formal validation](purpose-built-questionnaire-alpha-0910.md) — related
 - [Translated and adapted questionnaires showed good reliability for SRIS, PCS and CS but weak separation of SRQ-L-PJ regulation subscales](questionnaire-psychometrics-german-fyms.md) — related
+- [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](acls-rubric-cronbach-alpha-076.md) — related

@@ -48,3 +48,4 @@ Randomized controlled trial of 54 maternity healthcare providers in Bukavu, DR C
 - [At 6 months, the simulation group reported significantly higher confidence than the theory-only group in diagnosis, management, transfusion and teamwork, except uterotonic use where confidence was higher in the theory-trained group](confidence-higher-in-simulation-group-at-six-months.md) — related
 - [Simulation training added roughly a 12-percentage-point knowledge gain in the intervention group, from 66.7% to 79.2% mean MCQ correct](simulation-added-twelve-point-mcq-gain.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
+- [At baseline, about 30% of the nurses did not feel prepared to manage postpartum hemorrhage despite most having prior PPH training and about 91% having previously managed a case](nurses-unprepared-baseline-pph.md) — related

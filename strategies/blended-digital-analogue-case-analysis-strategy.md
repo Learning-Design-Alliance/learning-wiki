@@ -51,6 +51,7 @@ Based on the trial findings of equivalent diagnostic outcomes, higher digital us
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Blended Learning](blended_learning.md)
 - [Integrate interactive e-learning modules into dental curricula while combining them with practical demonstrations](integrate-elearning-with-practical-demonstrations.md)
+- [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Cross-sectional single-arm pilot study of 28 healthcare providers at the NICU of
 - [Participants rated NCPR-VR highly useful and were willing to recommend it (median 5 of 5 on both)](ncpr-vr-usefulness-recommend-medians.md) — related
 - [Usefulness ratings of VR neonatal resuscitation training did not differ significantly by professional role or by years of NICU experience](vr-usefulness-no-subgroup-differences-role-experience.md) — related
 - [Undergraduate medical students rate VR anatomy scenarios as accurate and realistic compared to the traditional anatomy lab](vr-anatomy-scenarios-rated-accurate-realistic.md) — related
+- [Pilot survey of 12 anatomy students rated the app highly useful, immersive, and conducive to learning](pilot-survey-brain-app-high-usability-ratings.md) — related

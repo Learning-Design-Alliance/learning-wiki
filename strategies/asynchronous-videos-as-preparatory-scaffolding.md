@@ -55,6 +55,8 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Integrate repeated, scheduled video viewing into preclinical curricula and add supervised hands-on practice for interdental brush sizing](repeated-video-viewing-curriculum-integration-strategy.md)
 - [Sequence efficient training so cadets observe expert action videos before instruction and simulator practice, then self-record practice videos for comparison](expert-video-replay-then-practice-sequence.md)
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
+- [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
+- [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
 
 ## Examples
 -

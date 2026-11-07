@@ -95,3 +95,4 @@ ANOVA across majors (English, Journalism, Education, Arabic, Others) in the expe
 - [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related
 - [Vocational ability scores differ significantly across academic backgrounds, with each discipline showing distinct strengths and weaknesses.](vocational-ability-differs-by-discipline.md) — related
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
+- [Preferences for visual, written, or board-exam-oriented e-learning resources did not differ significantly by gender, year, GPA bracket, background, or research participation](no-demographic-differences-elearning-preferences.md) — related

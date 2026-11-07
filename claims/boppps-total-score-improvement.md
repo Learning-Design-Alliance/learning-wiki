@@ -55,3 +55,4 @@ Composite outcome analysis in the quasi-experiment: knowledge (0–15) and skill
 - [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — related
 - [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
+- [BOPPPS-CBL teaching produces higher post-class chest pain test scores than lecture-based learning among resident physicians](boppps-cbl-higher-post-class-test-scores-residents.md) — related

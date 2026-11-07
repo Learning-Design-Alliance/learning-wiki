@@ -57,3 +57,4 @@ The review reports barriers identified in included studies, quoting that "Barrie
 - [Time constraints, patient expectations, and lack of relevant evidence are widely reported barriers to EBM in general practice](barriers-to-ebm-in-general-practice.md) — related
 - [Lack of time and institutional resource constraints are reported as major barriers to EBP competence among TCM specialist nurses, in both grassroots and tertiary hospitals](time-and-resource-barriers-tcm-nurse-ebp.md) — related
 - [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related
+- [National audit data reveal large adherence gaps in fundamental stroke nursing practices such as fever treatment, insulin timing, and swallow screening](stroke-nursing-adherence-gaps-audit.md) — related

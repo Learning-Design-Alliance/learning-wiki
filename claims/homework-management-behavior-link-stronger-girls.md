@@ -53,3 +53,4 @@ Multigroup SEM with nfemale = 257 and nmale = 268; chi-square difference tests c
 - [The homework management–homework behavior link is stronger for grades 7–8 than for grades 5–6](homework-management-behavior-link-stronger-older-grades.md) — related
 - [Students who use homework management skills at a high level are more likely to complete their homework](homework-management-predicts-completion.md) — a broader claim this one bears on
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
+- [Gender moderates only the path from prior academic performance to later behavioral control, which is significant for boys but not girls](gender-moderates-performance-to-control-path.md) — related

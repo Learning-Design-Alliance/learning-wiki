@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: feola-2016
     resource: "https://doi.org/10.13189/ujer.2016.040929"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By the end of the course, which included self-evaluation sections administered to each learner, the author reports that students "achieved the ability to monitor the process useful for the solution of a problem, to check out the strategies adopted and correct them"; no separate pre-post result is reported for self-regulation, and in this one-group study with several activities the self-evaluation sections cannot be isolated as the cause. [→ Feola 2016](#feola-2016)

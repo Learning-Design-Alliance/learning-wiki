@@ -68,7 +68,7 @@ Among the 63 subjects, "All subjects advancingin.Modal Level after treatmentdid 
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Snyder 1975 | q2 · causal · r2 | i?; i1 | this claim; [External disequilibrium level systematically influences subsequent changes in internal dis](external-disequilibrium-shapes-internal-mixture-changes.md) (qualifies); [Higher internal disequilibrium is associated with more regressive (minus) changes as well ](high-mixture-increases-regressive-changes.md) (qualifies) |
+| Snyder 1975 | q2 · causal · r2 | i?; i1 | this claim; [In one spatial-reasoning experiment, discrepant external conditions were followed by trend](external-disequilibrium-shapes-internal-mixture-changes.md) (qualifies); [Higher internal disequilibrium is associated with more regressive (minus) changes as well ](high-mixture-increases-regressive-changes.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

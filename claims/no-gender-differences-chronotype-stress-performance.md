@@ -73,3 +73,4 @@ Chi-square test of gender against chronotype category among all 148 participants
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — reports the opposite
 - [Average performers report higher perceived stress than Excellent performers](average-performers-higher-perceived-stress.md) — related
 - [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related
+- [Perceived stress was negatively associated with final course grade (P < 0.05) but unrelated to either assignment grade measure](perceived-stress-negative-final-grade.md) — related

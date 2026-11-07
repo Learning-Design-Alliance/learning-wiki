@@ -72,3 +72,4 @@ Same multivariate linear regression analysis: increasing IWATE difficulty score 
 - [Comparing the first 15 RPDs per center with subsequent procedures, operative time decreased while bile leakage grade B/C increased and most other outcomes did not significantly differ](learnbot-first15-versus-later-outcomes.md) — related
 - [Both centers reached pre-defined institutional proficiency in robotic liver surgery at comparable case volumes (case 124 at UMCU and case 133 at KUH)](institutional-proficiency-124-133-cases.md) — related
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — reports the opposite
+- [Case complexity handled during the robotic liver resection learning curve increases significantly, with the Iwate difficulty score rising across the series](iwate-difficulty-score-rises-across-learning-curve.md) — related

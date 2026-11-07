@@ -57,6 +57,8 @@ The article recommends pairing nurse-patient communication skills instruction wi
 
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
 - [Reduce mobile phone addiction as a modifiable behavioral target to enhance nursing students' self-directed learning](reduce-mobile-phone-addiction-to-enhance-sdl.md)
+- [Targeted interventions to enhance clinical preparation, plus mentorship and education–practice collaboration, to bolster nurse interns' readiness](enhance-clinical-preparation-interventions-nurse-interns.md)
+- [Run workshops focused on enhancing trainees' self-efficacy and awareness of their autonomy and performance](workshops-enhancing-trainee-self-assessment-accuracy.md)
 
 ## Examples
 -

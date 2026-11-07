@@ -53,3 +53,4 @@ Narrative synthesis (no meta-analysis) of the three included studies, appraised 
 - [Case-based discussions show evidence of reasoning and learning occurring and are perceived as useful for teaching and learning by oncology registrars and consultants](cbd-evidence-of-reasoning-and-learning-perceived-useful.md) — related
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](simulated-mdt-cbl-improves-trainee-confidence.md) — related
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
+- [A focus group of radiotherapy education experts favoured the end-to-end case study approach using an anthropomorphic phantom in simulation-based learning](focus-group-favors-end-to-end-phantom-sbl.md) — related

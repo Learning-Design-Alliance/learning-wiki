@@ -47,6 +47,7 @@ Beyond undergraduate curricula, the authors recommend post-qualification provisi
 
 - [Revise Dental Curriculum Cancer Complications Practical Visits](revise-dental-curriculum-cancer-complications-practical-visits.md)
 - [Targeted continuing professional development and specialist shadowing to address cognitive errors in oral cancer recognition](targeted-cpd-oral-cancer-recognition.md)
+- [Develop updated MIH courses for dentists aligned with international guidelines](updated-mih-courses-international-guidelines.md)
 
 ## Examples
 -

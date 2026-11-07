@@ -29,6 +29,7 @@ A Meta Quest 3 and edge-cloud-based virtual-reality platform developed by Ronghu
 ## Related Products and Programmes
 
 - [PainEaseVR](paineasevr.md)
+- [Hearing Screening Simulator (HSS)](hearing-screening-simulator-hss.md)
 
 ## Key Sources
 - Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian. (2026). Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy. arXiv. https://arxiv.org/abs/2608.08163

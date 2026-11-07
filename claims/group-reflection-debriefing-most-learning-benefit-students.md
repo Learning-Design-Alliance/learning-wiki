@@ -51,3 +51,4 @@ Descriptive questionnaire findings on the reflection phase. The article reports 
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — possibly the same claim (merge candidate)
 - [Learner reactions to IVR technical aspects consume more debriefing time than in mannequin-based simulation; debriefers suggest allocating dedicated feedback channels](ivr-technical-discussions-consume-debriefing-time.md) — related
 - [Debriefing and reflection are absent from LTT courses, and participants did not report on these known benefits of simulation training](ltt-debriefing-absent.md) — related
+- [Trainees rated the training highly, with 69% perceiving the simulation scenarios and debrief as the most useful aspects and the resuscitation scenario particularly valued](trainees-value-simulation-debrief-most.md) — related

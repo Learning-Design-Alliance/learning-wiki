@@ -49,6 +49,8 @@ This pattern describes the flexible online course design the article built on co
 ## Related Designs
 
 - [XERTE-built Solar System Educational Resource with interactive multimedia activities](xerte-solar-system-educational-resource.md)
+- [Three-step online module pattern: animated theory videos, interactive video practice, gamified assessment](three-step-video-module-pattern.md)
+- [Limb type, then three consecutive rehabilitation phases, then nine focus topics: the navigation structure of RehAmpTT](limb-phase-topic-navigation-structure.md)
 
 ## Related Patterns
 

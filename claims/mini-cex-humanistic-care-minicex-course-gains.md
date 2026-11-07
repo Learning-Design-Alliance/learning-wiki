@@ -53,3 +53,4 @@ In the quasi-experimental study, Mini-CEX assessments (seven domains, 9-point sc
 - [Humanistic care-integrated Mini-CEX teaching does not improve operational/practical skills assessment scores over conventional teaching](mini-cex-humanistic-care-no-operational-skills-gain.md) — reports the opposite
 - [Humanistic care-integrated Mini-CEX teaching improves self-directed learning ability in nursing students](mini-cex-humanistic-care-sdl-gains.md) — related
 - [Blended PBL-CBL-seminar chairside teaching improves Mini-CEX clinical competence scores versus LBL in fourth-year dental students](blended-pbl-cbl-seminar-improves-mini-cex-scores.md) — related
+- [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related

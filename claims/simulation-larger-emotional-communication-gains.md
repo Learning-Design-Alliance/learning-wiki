@@ -52,3 +52,4 @@ Domain-specific Year × Time comparisons (Table 4) in the quasi-experimental coh
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
 - [Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying](role-play-discussion-built-knowledge-empathy.md) — a broader claim this one bears on
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — a broader claim this one bears on
+- [After blended learning, students more often respond to emotional patient vignettes with patient-centered techniques and less often with space-reducing responses](blended-vignette-patient-centered-responses.md) — related

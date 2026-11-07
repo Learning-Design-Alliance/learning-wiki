@@ -50,3 +50,4 @@ Meta-analysis of four experiential learning studies reporting seven nutritional 
 ## Related Claims
 - [Cooking, taste-testing, games, role-playing, and gardening had the greatest effects on nutrition outcomes in primary school children](cooking-taste-testing-games-role-playing-gardening-effective-primary-school.md) — related
 - [Experiential learning activities improve children's knowledge, attitudes, and behaviors towards healthy eating](experiential-learning-improves-children-healthy-eating-outcomes.md) — a broader claim this one bears on
+- [Caregivers perceived only minimal changes in children's healthy eating and physical activity knowledge, attitudes and behaviour](hl-perceived-impact-minimal.md) — related

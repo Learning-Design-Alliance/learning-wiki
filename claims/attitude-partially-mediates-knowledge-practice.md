@@ -53,3 +53,4 @@ Structural equation modelling of KAP survey data under the KAP theoretical frame
 - [Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported](mediation-of-ai-tpack-effects-on-innovation-behavior.md) — related
 - [Experiential learning partially mediates the relationship between creative thinking and organizational maturity](experiential-learning-partially-mediates-creative-thinking-maturity.md) — related
 - [Knowledge, attitude and practice scores for enteral nutrition are positively correlated](positive-kap-correlations-enteral-nutrition.md) — related
+- [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — possibly the same claim (merge candidate)

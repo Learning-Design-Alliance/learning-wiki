@@ -50,3 +50,4 @@ Parallel-group cluster-RCT (intention-to-treat) with 190 students completing at 
 - [Female students achieved higher MSE accuracy than male students across intervention groups](sex-difference-mse-accuracy-females-higher.md) — related
 - [Candidates receiving additional musculoskeletal training (lectures, workshops, video, spaced education, or SCIM) scored higher or similar on OSCEs compared with controls](additional-msk-training-osce-higher-or-similar.md) — a broader claim this one bears on
 - [No group difference appeared on any of the three subtest video cases used for follow-up assessment](no-subtest-video-group-differences-mse.md) — related
+- [NSTIS use did not significantly improve case workshop scores compared with printed materials](nstis-no-workshop-score-improvement.md) — related

@@ -67,6 +67,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Teach diagnostic restraint through explicit alarm-versus-functional instruction, case-based reasoning practice, bedside modeling of positive diagnosis, and restraint-rewarding assessment](teach-positive-diagnosis-and-restraint-strategy.md)
 - [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
 - [Deploy screen-based simulation as an accessible training alternative when face-to-face clinical education is disrupted](screen-simulation-disrupted-education-alternative.md)
+- [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
 
 ## Examples
 -

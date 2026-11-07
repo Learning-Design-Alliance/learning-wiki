@@ -99,3 +99,5 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
 - [SPOC+EIL improves ability-analysis and total written scores but not basic knowledge scores relative to LBL](spoc-eil-ability-scores-not-basic-knowledge.md) — related
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
+- [CBL multimodal imaging teaching produced higher final theoretical examination and case analysis scores than traditional teaching](cbl-multimodal-higher-final-theory-and-case-analysis.md) — related
+- [A larger proportion of CBL multimodal students reached the top score ranges on image analysis, final theory and case analysis examinations](cbl-multimodal-higher-proportion-top-score-ranges.md) — related

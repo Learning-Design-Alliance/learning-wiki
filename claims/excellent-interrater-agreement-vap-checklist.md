@@ -58,3 +58,4 @@ Reliability analysis of the two-observer scoring in the same quasi-experiment; t
 - [Two independent observers show high agreement when scoring the ATSHWS (total-score ICC 0.951)](atshws-inter-observer-reliability-icc-0-951.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
+- [Blind expert grading found that 22 of 26 students' scores rose from pre-test to post-test after simulator training, while 2 were neutral and 2 fell, in one group with no comparison group](expert-graded-improvement-majority-of-novices.md) — related

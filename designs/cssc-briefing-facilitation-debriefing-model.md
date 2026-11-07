@@ -48,6 +48,7 @@ CSSC is a simulation-based in-service training program for ANE management delive
 
 - [Psychiatric emergency simulation program: co-designed scenarios, small groups, psychological-safety briefing, and PEARLS debriefing](psychiatric-emergency-simulation-program-design.md)
 - [Structured arterial puncture training program combining theoretical instruction, simulator practice, and debriefing](structured-arterial-puncture-training-program.md)
+- [Four-area web-based simulation lesson structure: pre-learning, pre-briefing, simulation, debriefing](four-area-web-sim-pfa-lesson-structure.md)
 
 ## Examples
 -

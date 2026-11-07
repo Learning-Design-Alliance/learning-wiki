@@ -25,7 +25,8 @@ Touch Surgery is a mobile surgical simulation application developed by Touch Sur
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [SIMPL (System for Improving and Measuring Procedure Learning)](simpl-system-for-improving-and-measuring-procedure-learning.md)
 
 ## Key Sources
 - Anyinkeng A, Mesfin GS, Taryim M, Efuetlateh J, Tsion H, Ahmed AK. (2025). The role of remote and virtual surgical training in expanding cardiothoracic surgical capacity in low-resource regions. BMC Surgery. https://doi.org/10.1186/s12893-025-03142-x

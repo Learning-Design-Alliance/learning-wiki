@@ -51,3 +51,4 @@ In the prospective cohort study, FLUS specialists rated image quality of all rec
 - [GPs interpreted FLUS pathology presence with moderate agreement with a specialist reference (78% agreement, kappa 0.56), tending to report more pathology](gp-flus-interpretation-moderate-agreement-kappa-056.md) — related
 - [GPs reported increased diagnostic confidence after FLUS in 75.8% of patients](gps-increased-diagnostic-confidence-after-flus-75-8-percent.md) — related
 - [GPs perceived that FLUS changed tentative diagnosis and/or treatment and/or visitation plans in 32% of patients](gps-perceived-flus-management-impact-32-percent.md) — related
+- [Tutored residents obtain higher-quality echocardiographic images and more interpretable cardiac findings, with no significant difference for lung ultrasound](tutoring-improves-echocardiography-image-quality-not-lung.md) — related

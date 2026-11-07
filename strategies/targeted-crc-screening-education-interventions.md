@@ -47,6 +47,7 @@ The article recommends focused education to close trainee knowledge gaps in colo
 ## Related Strategies
 
 - [Incorporate internet and widely used smartphone applications into future EBP teaching to foster online interactive learning and engagement](technology-enhanced-ebp-teaching-strategy.md)
+- [Run workshops focused on enhancing trainees' self-efficacy and awareness of their autonomy and performance](workshops-enhancing-trainee-self-assessment-accuracy.md)
 
 ## Examples
 -

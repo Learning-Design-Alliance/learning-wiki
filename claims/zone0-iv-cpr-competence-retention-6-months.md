@@ -52,3 +52,5 @@ Pilot randomized educational trial of 52 nursing students randomized 2:1 to SimZ
 - [73% of experimental students achieved CPR competence during the self-directed zone 0 interactive-video phase alone](zone0-self-directed-competence-acquisition.md) — related
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
 - [SDL alone is insufficient for CPR training; instructor presence is needed for quality assurance.](sdl-insufficient-cpr-training.md) — related
+- [CPR self-efficacy significantly improved 3 months after simulation-based training among professional caregivers](cpr-self-efficacy-improved-3-months-after-simulation-training.md) — related
+- [Knowledge retention at 1 month was higher after the interactive e-learning module than after the didactic video](elearning-nihss-retention-one-month.md) — related

@@ -105,3 +105,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related
 - [Each simulation group achieves significantly better cavity depth than the extracted-teeth control group, with no significant differences among the three simulation groups](simulation-groups-beat-control-on-depth-pairwise.md) — related
 - [Most dental students judge VR and manikin training equally helpful for consolidating theoretical knowledge](both-methods-equal-knowledge-consolidation.md) — related
+- [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — related

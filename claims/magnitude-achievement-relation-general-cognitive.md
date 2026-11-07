@@ -9,7 +9,6 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-23
 sources:
   - id: torbeyns-2015
     resource: "https://doi.org/10.1016/j.learninstruc.2014.03.002"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In all three countries, fraction magnitude understanding was the best predictor of mathematics achievement scores, even after controlling for variation in fraction arithmetic skill. [→ Torbeyns 2015](#torbeyns-2015)

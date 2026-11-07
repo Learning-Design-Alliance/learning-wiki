@@ -50,6 +50,7 @@ The article recommends combining continuing professional education with organiza
 
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
+- [Develop updated MIH courses for dentists aligned with international guidelines](updated-mih-courses-international-guidelines.md)
 
 ## Examples
 -

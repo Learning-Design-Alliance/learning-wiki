@@ -52,3 +52,4 @@ Retrospective computational study of 2993 failed-submission states from 215 stud
 - [Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing](retrospective-prediction-high-divergence-questions-auc-077.md) — related
 - [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related
 - [Prior failure of at least one subject is associated with higher probability of adequate academic performance](prior-failure-higher-adequate-performance-medical-students.md) — related
+- [A seven-variable nomogram predicting low JHLES probability shows modest discrimination (AUC = 0.627) and adequate calibration](nomogram-predicting-low-jhles-auc-0-627.md) — related

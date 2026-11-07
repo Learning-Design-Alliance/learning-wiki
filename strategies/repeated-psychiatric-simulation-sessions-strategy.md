@@ -52,6 +52,7 @@ A recommendation, grounded in participant feedback and author argument, to provi
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Simulation-based safety training plus institutionalized safety case conferences for psychiatric nurses](simulation-training-safety-case-conferences.md)
 - [Extend simulator-assisted breastfeeding training to hospitals, NICUs, and antenatal classes](extend-simulator-breastfeeding-training-clinical-settings.md)
+- [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 
 ## Examples
 -

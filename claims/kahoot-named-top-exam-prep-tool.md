@@ -49,3 +49,4 @@ Thematic and word-frequency analysis of questionnaire responses using an online 
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — possibly the same claim (merge candidate)
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Students reported that news about people in difficulty — especially a poor Turkish child sending 1 lira to Pakistan after the earthquake — attracted the most attention in the unit](student-attention-elements-global-education-unit.md) — related
+- [Students ranked lectures with storytelling among the most helpful learning resources and mentioned the story positively in evaluations](storytelling-ranked-top-learning-resource.md) — related

@@ -77,3 +77,4 @@ Same questionnaire: sense-of-burden scores were 2.85 ± 1.37 (LBL) vs 2.90 ± 1.
 - [Students in a SPOC+EIL course show higher in-class and postclass engagement and interaction than students in lecture-based learning](spoc-eil-higher-engagement-than-lbl.md) — related
 - [SPOC+EIL improves ability-analysis and total written scores but not basic knowledge scores relative to LBL](spoc-eil-ability-scores-not-basic-knowledge.md) — related
 - [Students taught with SPOC+EIL score higher on the dental adhesion operation test than LBL students](spoc-eil-operation-test-higher.md) — related
+- [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related

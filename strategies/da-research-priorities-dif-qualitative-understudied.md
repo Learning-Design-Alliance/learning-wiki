@@ -46,7 +46,8 @@ The review recommends that the surgical community address gaps in differential a
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](../claims/socioeconomic-age-background-attainment-gaps.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use major examination outcomes to assess how schools support doctors from different backgrounds, and pursue multi-specialty, intersectional DA research](use-exam-outcomes-to-assess-institutional-support-and-multispecialty-da-research.md)
 
 ## Examples
 -

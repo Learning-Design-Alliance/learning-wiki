@@ -70,3 +70,4 @@ The humanistic literacy DOPS domain showed "no statistically significant differe
 - [Structured reflective sessions significantly improve procedural skills (DOPS) of operating room technology students](reflective-sessions-improve-dops-skills.md) — related
 - [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related
 - [CDIO-based clinical skills teaching significantly improved obstetric procedural skills across all 12 DOPS evaluation items (P < 0.001)](cdio-improves-dops-procedural-skills-obstetrics.md) — related
+- [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](boppps-cbl-dops-five-dimensions-higher.md) — related

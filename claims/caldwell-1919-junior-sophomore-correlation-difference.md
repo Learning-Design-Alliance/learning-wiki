@@ -55,3 +55,4 @@ Within the same 48-student correlational study, Table II reports Juniors' IQ-gra
 - [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related
 - [The Rosanoff High Standard Frequency Test, but not writing-speed measures, diverges sharply between high-discrepancy and control students](rosanoff-frequency-test-diverges-between-discrepancy-groups.md) — related
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related
+- [Learning-guide generation is meaningful only for performance clusters 0, 1 and 3, because drop-out clusters 2 and 4 omit most responses](learning-guides-limited-to-performance-clusters.md) — related

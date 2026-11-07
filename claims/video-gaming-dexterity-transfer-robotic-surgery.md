@@ -52,3 +52,4 @@ Observational finding from the prospective cohort's hand motion volumetry data. 
 - [In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts](fixed-duration-faster-accuracy-rise-vgp.md) — related
 - [According to a probabilistic population neural model, VGPs make better use of the evidence, with log odds 19% higher than NVGPs in the motion task](vgp-better-posterior-log-odds-motion.md) — related
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](vgp-improved-inference-auditory-task.md) — related
+- [Video gaming experience is tentatively associated with greater fluoroscopy-time reduction in simulator training](video-gaming-experience-tentative-fluoroscopy-reduction-association.md) — a broader claim this one bears on

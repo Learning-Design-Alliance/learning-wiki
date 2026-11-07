@@ -50,6 +50,7 @@ The active experimentation stage uses "structured debriefing based on Ko and Cho
 
 - [Debriefing](debriefing.md)
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
+- [Structured five-stage debriefing after simulated PPH care, moving through emotional, descriptive, evaluative, analytical and conclusive stages](five-stage-structured-debriefing-pph-simulation.md)
 
 ## Examples
 -

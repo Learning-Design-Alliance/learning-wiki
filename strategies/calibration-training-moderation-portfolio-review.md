@@ -45,6 +45,7 @@ A reader-capacity strategy in which the admissions director hires, trains, and c
 - [Peer and Self-Assessment](peer_and_self-assessment.md)
 - [Use a two-step calibration and independent review process with standardized training for peer reviewers](poet-o-two-step-calibration-independent-review.md)
 - [Institutional implementation recommendations for peer evaluation using the POET-O](poet-o-implementation-recommendations.md)
+- [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
 
 ## Examples
 -

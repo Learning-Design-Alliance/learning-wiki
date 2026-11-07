@@ -49,3 +49,4 @@ Descriptive Likert results (Q4–Q7) from the same 25-participant post-training 
 - [Trainees report increased confidence as aesthetic practitioners and increased motivation to learn injection techniques after 3D simulation training](3d-simulation-app-confidence-motivation-perceptions.md) — related
 - [Simulation-based training enhances short-term diagnostic accuracy, treatment planning, and practical skills in orthodontic education](simulation-short-term-clinical-skills-orthodontics.md) — a broader claim this one bears on
 - [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — related
+- [Participants report increased interest in interventional radiology and perceived skill gains after simulator training](simulator-training-increases-ir-interest-and-perceived-skills.md) — related

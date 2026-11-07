@@ -49,6 +49,7 @@ The article recommends prompting strategies that make LLMs show their reasoning 
 ## Related Strategies
 
 - [Incorporate pre-delivery LLM-based evaluation approaches into GenAI-powered personalised SRL scaffolding systems to mitigate hallucinations](pre-delivery-llm-evaluation-mitigate-hallucinations.md)
+- [Improve LLM performance on TCM examinations by incorporating TCM texts into training, developing specialized TCM LLMs, and using chain-of-thought prompting](specialized-tcm-llm-training-and-chain-of-thought-strategy.md)
 
 ## Examples
 -

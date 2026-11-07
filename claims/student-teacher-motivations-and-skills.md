@@ -48,3 +48,4 @@ Descriptive survey data from the 31 respondents who had taught within MedED (Tab
 ## Related Claims
 - [Medical students who attend a student-led peer teaching society report improved knowledge, confidence, motivation and sense of community](meded-attendance-reported-academic-and-community-benefits.md) — related
 - [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
+- [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — a broader claim this one bears on

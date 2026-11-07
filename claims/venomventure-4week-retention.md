@@ -59,3 +59,4 @@ Sign-test analysis of 66 Phase 1 follow-up respondents found pre-to-follow-up qu
 - [Learning gains did not differ significantly across the four data collection sites or by rural/urban and library/museum setting.](venomventure-no-site-differences.md) — related
 - [Knowledge differences between IVR and textbook groups were no longer statistically significant four weeks after the intervention](ivr-knowledge-advantage-not-maintained-at-4-weeks.md) — related
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
+- [Knowledge retention at 1 month was higher after the interactive e-learning module than after the didactic video](elearning-nihss-retention-one-month.md) — related

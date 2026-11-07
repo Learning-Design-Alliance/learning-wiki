@@ -10,7 +10,6 @@ generated:
   at: 2026-10-15
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-11-06
 sources:
   - id: kasneci-2023
     resource: "https://doi.org/10.1016/j.lindif.2023.102274"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r2` · `q2`–`q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

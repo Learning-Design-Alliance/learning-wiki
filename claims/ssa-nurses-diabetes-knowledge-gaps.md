@@ -51,3 +51,4 @@ The review's synthesis of 20 included studies, reported descriptively, found tha
 - [Facilitators of nurses' diabetes knowledge acquisition include experience, refresher nutrition courses and NCD training](facilitators-nurse-diabetes-knowledge-ssa.md) — related
 - [Barriers to nurses' diabetes knowledge acquisition include lack of guidelines, inadequate staffing, salary and training resources](barriers-nurse-diabetes-knowledge-ssa.md) — related
 - [Nurses with 1–5 years of experience scored higher on diabetes knowledge than more experienced nurses in one Nigerian study](early-career-nurses-higher-diabetes-knowledge.md) — related
+- [National audit data reveal large adherence gaps in fundamental stroke nursing practices such as fever treatment, insulin timing, and swallow screening](stroke-nursing-adherence-gaps-audit.md) — related

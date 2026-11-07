@@ -51,3 +51,4 @@ Randomized controlled trial of 58 fourth-year dental students randomized to blen
 - [Blended PBL-CBL-seminar chairside teaching improves DOPS procedural skill scores versus LBL, except technique and seeking assistance](blended-pbl-cbl-seminar-improves-dops-scores.md) — related
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves Mini-CEX scores and comprehensive course performance but not the personal traits dimension](mini-cex-humanistic-care-minicex-course-gains.md) — related
+- [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related

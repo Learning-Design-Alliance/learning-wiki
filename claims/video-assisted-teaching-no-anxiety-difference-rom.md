@@ -52,3 +52,4 @@ In the same randomized controlled trial, the State Anxiety Inventory was adminis
 - [Video-assisted teaching added to traditional instruction produces higher ROM exercise practice skill scores in first-year nursing students one week after training](video-assisted-teaching-higher-rom-practice-skill-scores.md) — related
 - [Simulation-assisted application does not significantly change nursing students' state or trait anxiety compared with clinical practice alone](simulation-no-anxiety-change-nursing-students.md) — related
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related
+- [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related

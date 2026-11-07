@@ -58,3 +58,4 @@ Randomized controlled trial of 50 residents (n=25 per group) at a single centre.
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related
 - [Symptom-focused CBL and conventional CBL produce no significant difference in dental residents’ theoretical knowledge of TMD](limited-mouth-opening-cbl-no-theoretical-knowledge-difference.md) — related
+- [BOPPPS-CBL teaching produces higher post-class chest pain test scores than lecture-based learning among resident physicians](boppps-cbl-higher-post-class-test-scores-residents.md) — related

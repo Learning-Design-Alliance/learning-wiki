@@ -73,3 +73,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — related
 - [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — related
 - [The HIS-based BOPPPS teaching model group scored significantly higher than the traditional teaching group on case reading and total end-of-term exam scores in both semesters](boppps-his-higher-case-reading-total-scores.md) — related
+- [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related

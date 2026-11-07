@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: zeng-yanglin-2025
     resource: "https://doi.org/10.1186/s12909-025-07963-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students trained with colored teeth and digital evaluation scored significantly higher on the standard-tooth preparation exam than students trained traditionally. [→ Zeng Yanglin 2025](#zeng-yanglin-2025)
@@ -50,3 +51,4 @@ Quasi-experimental comparison of two academic-year cohorts (traditional n = 231,
 - [Novice dental students overestimated their cavity preparation quality: peer evaluation deemed most work acceptable while digital evaluation showed low compliance on most parameters](novices-overestimate-preparation-quality-peer-vs-digital.md) — related
 - [Digital feedback improves accuracy across multiple tooth preparation dimensions, particularly taper angle and finish line standardization](digital-feedback-multi-dimension-accuracy-taper-finish-line.md) — related
 - [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — reports the opposite
+- [Repeated practice with the Aizhixing digital real-time evaluation system significantly reduced Class II cavity preparation operation time across four examinations](aizhixing-practice-reduces-operation-time.md) — related

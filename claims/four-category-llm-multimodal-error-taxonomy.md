@@ -96,3 +96,4 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — related
 - [Ten JNEOT questions were answered incorrectly by all four LLMs, six of them visually-based](ten-questions-incorrect-by-all-llms.md) — related
 - [Unsupported medical claims are significantly more prevalent in the Understanding domain than other domains (Cramér's V = 0.382), the only error type significant after correction](unsupported-claims-prevalent-understanding-domain.md) — related
+- [Most GPT-4 errors on TCM examination questions stemmed from misunderstanding of TCM concepts (55.3%), not misreading questions](gpt4-tcm-errors-concept-misunderstanding-55-3.md) — a narrower finding that bears on this claim

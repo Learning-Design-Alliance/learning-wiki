@@ -47,3 +47,4 @@ The review reports, citing Borghans et al. (2016), Brookhart et al. (2016), and 
 ## Related Claims
 - [K-2 assessment and latent scores predict third grade ELA grades with correlations from 0.52 to 0.63 in pre-pandemic cohorts](k2-scores-predict-third-grade-ela-grades.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
+- [Students' self-assessed assignment grades correlated moderately with instructor grades (r = 0.361, P < 0.001), with 60.6% of students self-assessing below the instructor grade](self-assessed-grades-moderate-correlation-instructor.md) — related

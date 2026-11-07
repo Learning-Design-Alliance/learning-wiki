@@ -54,3 +54,4 @@ Within-group pre/post comparison in the VR-trained subgroup (n = 22) using a 15-
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
 - [Time to complete the VR chest tube simulation decreases progressively across four trials (14.7 to 5.3 minutes)](vr-simulation-learning-curve-time-decrease.md) — related
 - [Both groups improved theoretical knowledge significantly from baseline, with no statistically significant difference between the online-only and VR groups](online-module-knowledge-gains-no-vr-difference.md) — related
+- [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related

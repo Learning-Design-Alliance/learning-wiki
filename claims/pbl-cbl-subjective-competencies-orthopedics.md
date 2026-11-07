@@ -131,3 +131,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [RFETM students reported significantly higher questionnaire scores than TETM students for innovation ability, scientific research ideas, and learning interest](rfetm-questionnaire-scores-significantly-higher.md) — related
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
+- [Students in the CBL multimodal imaging group reported higher learning interest, study ability, clinical thinking and case analysis ability than traditional-group students](cbl-multimodal-higher-subjective-evaluations.md) — related

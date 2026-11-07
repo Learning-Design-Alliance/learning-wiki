@@ -51,6 +51,7 @@ The article proposes age-stratified, tiered training for mobile nurses. "For jun
 
 - [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Embed the evolutive patient model in computer-based simulations and serious games for major incident management training, then assess teaching impact through randomized trials](embed-evolutive-patient-model-in-simulations.md)
 
 ## Examples
 -

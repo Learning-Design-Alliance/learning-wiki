@@ -45,6 +45,7 @@ The article recommends that meta-debriefers use published debriefing frameworks 
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
 - [Use a structured debrief based on PEARLS covering teamwork, communication, and clinical reasoning](pearls-structured-debrief-strategy.md)
+- [Use ONA-derived network visualizations to target debriefing on communication bottlenecks and assessment-to-action transitions](ona-informed-debriefing-strategy.md)
 
 ## Examples
 -

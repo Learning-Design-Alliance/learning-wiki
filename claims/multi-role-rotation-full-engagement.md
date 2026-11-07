@@ -54,3 +54,4 @@ Process data reported for the Participatory Learning phase: nurses rotated throu
 - [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related
 - [Completion rates varied widely across the 22 key clinical tasks, with oxygen titration, fluid administration, and requesting bloodwork achieved by all participants and calling for help achieved in under 60% of cases](rcdp-task-completion-variation-checklist.md) — related
 - [The inaugural student-led CBL workshop achieved 100% attendance among its 30 participants](cbl-workshop-full-attendance-feasibility.md) — related
+- [A simulation-based training programme for urgent laryngectomy care is feasible, with 93% of accepted multidisciplinary healthcare professionals completing all activities](simulation-laryngectomy-training-feasible.md) — related

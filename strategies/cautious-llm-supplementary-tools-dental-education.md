@@ -63,6 +63,7 @@ The review recommends that, given pooled LLM accuracy of about 64%, dental educa
 - [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 - [Use controlled feedback mechanisms in chatbot-based exam practice to promote critical thinking and iterative learning](controlled-feedback-chatbot-exam-practice.md)
+- [Use multimodal AI chatbots such as ChatGPT-4o as diagnostic support tools in dental education, particularly endodontics](multimodal-ai-chatbot-diagnostic-support-dental-education.md)
 
 ## Examples
 -

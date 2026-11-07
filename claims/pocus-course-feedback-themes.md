@@ -47,3 +47,4 @@ Thematic analysis of open-ended evaluation responses from the 122 course evaluat
 ## Related Claims
 - [Students identified hands-on learning, debriefing and facilitator continuity as the key beneficial features of the pre-foundation simulation course](simulation-course-features-hands-on-debriefing-continuity.md) — related
 - [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related
+- [Test-group students reported that the simulator's hands-on experience was easy to use, useful, and increased their confidence in performing hearing screenings](hss-qualitative-hands-on-confidence.md) — related

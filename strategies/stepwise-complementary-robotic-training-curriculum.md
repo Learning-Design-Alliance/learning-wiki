@@ -88,6 +88,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
 - [Integrate robotic surgery training into the education of young professionals](integrate-robotics-into-surgical-curriculum.md)
 - [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
+- [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
 
 ## Examples
 -

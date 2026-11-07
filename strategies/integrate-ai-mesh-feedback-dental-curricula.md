@@ -44,7 +44,8 @@ Based on the trial results, the authors recommend that "academic institutions co
 - [Both feedback conditions improve radiographic diagnostic scores from pre-test to post-test, with the larger within-group gain in the personalized-feedback group](../claims/both-groups-pre-post-improvement-radiographic.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Transfer the feedback method to new settings by anchoring MeSH terms in the local curriculum and using diverse question and participant samples](transfer-feedback-method-curriculum-anchoring-strategy.md)
 
 ## Examples
 -

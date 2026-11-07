@@ -82,3 +82,4 @@ In the same interview study, the most cited barrier to delivery was "A lack of t
 - [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related
 - [Implementation fidelity problems, including missing audio devices and insufficient lab monitoring, compromised the blended learning intervention](blended-implementation-fidelity-compromised-outcomes.md) — related
 - [Dosage of SM interventions varied extensively, with median session length 45 minutes, six sessions, across twelve weeks](sm-intervention-dosage-variability.md) — related
+- [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — related

@@ -53,3 +53,4 @@ Wilcoxon signed-rank test on Group A's (n = 20) 5-point Likert confidence rating
 - [Simulation-based training reduces self-reported anxiety among novice neurology trainees measured by both a general VAS scale and the STAI-6](sbme-reduces-anxiety-neurology-trainees.md) — a broader claim this one bears on
 - [Novice trainees systematically underestimate their own laparoscopic error counts relative to AEDS-recorded errors](novices-underestimate-laparoscopic-errors-versus-aeds-recorded.md) — related
 - [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — possibly the same claim (merge candidate)
+- [Residents' confidence increased significantly after two rounds of simulator practice in both feedback and no-feedback groups, with no significant difference between groups](simulator-confidence-increases-both-groups.md) — related

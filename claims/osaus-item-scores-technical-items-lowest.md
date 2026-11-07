@@ -52,3 +52,4 @@ Item-level OSAUS analysis across the 10 applications for the 18 GPs; the lowest 
 - [Younger GPs and those with prior POCUS experience tended to score higher, while no clear relationship was found between number of performed scans and competence](osaus-scores-age-prior-experience-not-scan-count.md) — related
 - [No between-group differences in changes on any modified OSAUS subcategory, including image optimization](osaus-subcategory-changes-null-between-groups.md) — related
 - [Neither training modality produced measurable improvement beyond the initial workshop; both groups showed a small comparable decline in modified OSAUS performance](no-improvement-beyond-workshop-both-modalities.md) — related
+- [Tutor-rated OSAUS scores improved significantly for image recognition and both in-plane and out-of-plane US-FNA after model training](osaus-scores-improve-after-liver-model-training.md) — related

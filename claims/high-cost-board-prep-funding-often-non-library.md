@@ -48,3 +48,4 @@ Phase one survey with parallel funding items (Q1a library-funded, Q2a non-librar
 ## Related Claims
 - [All responding COM libraries provide at least one dedicated board exam prep resource, with TrueLearn COMLEX Level 1 the most commonly funded resource overall](com-libraries-provide-board-prep-resources-truelearn-most-common.md) — related
 - [Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget](library-expertise-essential-regardless-of-funding-source.md) — related
+- [Medical students most commonly use paid e-learning resources to complement school exams and lectures rather than for board exams alone](medical-students-paid-elearning-use-purposes.md) — related

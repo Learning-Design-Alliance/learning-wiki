@@ -49,7 +49,8 @@ The article proposes an organizing framework in which the Mini-CEX competency-ba
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](../claims/online-pbl-cbl-minicex-overall-competence-gain.md) [+W]
 
 ## Related Designs
-- 
+
+- [End-to-end case study simulation pattern spanning the radiotherapy patient pathway within a single module](end-to-end-case-study-phantom-module-pattern.md)
 
 ## Examples
 -

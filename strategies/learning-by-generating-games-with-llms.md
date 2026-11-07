@@ -41,7 +41,7 @@ The article proposes that students learn educational content by designing and ma
 
 ## Claims
 
-- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](../claims/well-designed-games-foster-practice-and-intrinsic-motivation.md) [+W]
+- [A perspective piece argues that well-designed games can promote persistence in practice and high-quality engagement, and speculates that where basic needs are met, outsourcing cognitive effort to LLMs may become less tempting](../claims/well-designed-games-foster-practice-and-intrinsic-motivation.md) [+W]
 - [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](../claims/llm-over-reliance-deskilling-risk.md) [-W]
 - [Educational game adoption is hindered along socio-cultural, educational, and technological dimensions, including social rejection, limited accessibility to games and technology, and high development costs.](../claims/barriers-to-educational-games-three-dimensions.md) [-W]
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](../claims/prompt-optimization-improves-accuracy-expertise-still-needed.md) [~W]

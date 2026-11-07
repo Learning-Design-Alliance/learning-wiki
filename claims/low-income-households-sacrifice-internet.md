@@ -50,3 +50,4 @@ The article reports findings from a Public Interest Advocacy Centre study on com
 - [Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults](laissez-faire-digital-policy-gaps.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Medical students perceive paid e-learning resources as highly expensive and most access them through non-payment workarounds](paid-elearning-cost-burden-and-access-workarounds.md) — related

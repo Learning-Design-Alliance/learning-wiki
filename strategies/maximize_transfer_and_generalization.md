@@ -90,6 +90,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - [Foster mindful transfer by systematically saturating instruction with attention to transfer](saturate-instruction-with-attention-to-transfer.md)
 - [Support transfer of implicit game-based CT knowledge into explicit, usable knowledge](support-implicit-to-explicit-ct-transfer.md)
 - [Promote transfer through varied examples, over-learning, generalization, similarity and common components](five-strategies-promoting-transfer.md)
+- [Explicitly train students to transfer story-based contextualization to novel situations before exams](condition-story-based-contextual-transfer.md)
 
 ## Examples
 - **Gick & Holyoak's radiation problem** — learners who first compared two analogous stories (the fortress and the general) were far more likely to solve Duncker's radiation problem than those given the stories without comparison prompts ()

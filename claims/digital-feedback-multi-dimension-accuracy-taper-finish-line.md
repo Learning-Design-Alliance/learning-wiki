@@ -53,3 +53,4 @@ Authors' interpretation in the Discussion of the randomized trial's post hoc res
 - [Shape, width, length and smoothness improved significantly across sessions while depth and angle did not](criteria-selective-improvement-rest-seat.md) — related
 - [Preclinical dental students improve significantly in tooth volume loss, procedural error scores, and task completion time after either VR or phantom head training](pre-post-improvement-vr-ph-endodontics.md) — related
 - [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — reports the opposite
+- [Repeated practice with the Aizhixing digital real-time evaluation system significantly reduced Class II cavity preparation operation time across four examinations](aizhixing-practice-reduces-operation-time.md) — related

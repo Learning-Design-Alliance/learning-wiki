@@ -56,3 +56,5 @@ Review synthesis of six preschool studies (children 0–5 years). The discussion
 - [Educational games significantly improve self-help for wearing clothes in 8-12-year-old educable mentally retarded girls](educational-games-improve-self-help-dressing.md) — related
 - [Directed educational games significantly improve overall social skills of 8-12-year-old educable mentally retarded girls compared with conventional class instruction](educational-games-improve-social-skills-mentally-retarded-girls.md) — related
 - [Educational games significantly improve socialization skill of 8-12-year-old educable mentally retarded girls](educational-games-improve-socialization-skill.md) — related
+- [Children were highly engaged in and enjoyed the HL activities, with participation increasing in 60% of observed sessions](hl-activities-engagement-enjoyment.md) — related
+- [Caregivers perceived only minimal changes in children's healthy eating and physical activity knowledge, attitudes and behaviour](hl-perceived-impact-minimal.md) — related

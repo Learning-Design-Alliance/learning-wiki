@@ -130,3 +130,4 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [Lack of training and instructor motivation were the most commonly reported barriers to using e-learning resources](training-motivation-barriers-e-resources.md) — related
 - [Cost of procuring artificial teeth is perceived as a disadvantage to applicability (57.5%) and would influence training-model choice (56%)](artificial-teeth-cost-disadvantage-perception.md) — a narrower finding that bears on this claim
 - [Hospital administrators face both controllable challenges (cost, data security, EMR implementation) and uncontrollable challenges (technology and management acceptance) in using HIT](ha-hit-challenges-controllable-uncontrollable.md) — related
+- [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — related

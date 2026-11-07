@@ -68,3 +68,4 @@ Descriptive correlational analysis (Table 1) of T1 parental variables with achie
 - [Adolescents perceiving higher parental autonomy support are more likely to select higher-achieving friends](autonomy-support-selects-high-achieving-friends.md) — related
 - [Chinese adolescents' academic achievement becomes increasingly similar to their friends' achievement over time](friendship-influence-academic-achievement-chinese-adolescents.md) — related
 - [Friendship selection reinforces academic similarity: adolescents befriend similarly achieving peers, high achievers receive more nominations](achievement-homophily-friendship-selection.md) — related
+- [Parental behavioral control in Grade 7 negatively predicts Grade 8 academic performance in Chinese early adolescents](behavioral-control-negatively-predicts-performance.md) — reports the opposite

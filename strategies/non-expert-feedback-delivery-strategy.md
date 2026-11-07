@@ -42,7 +42,8 @@ The review reports that in a three-armed RCT of simulated renal artery angioplas
 - [Non-expert delivered feedback is as effective as expert feedback on most outcomes in endovascular simulator training](../claims/non-expert-feedback-comparable-expert.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 
 ## Examples
 -

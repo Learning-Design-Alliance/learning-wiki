@@ -73,3 +73,4 @@ Follow-up study by the same author using the same OSCE with orthopedic residents
 - [Practising physical therapists outperformed physical therapy students on a single-station simulated OSCE, supporting known-groups construct validity](pt-osce-known-groups-validity-practising-vs-students.md) — related
 - [Construct validity evidence shows statistically significant proficiency differences favouring junior over senior groups across modalities, though junior and senior residents did not differ on some metrics](simulation-construct-validity-junior-senior-differences.md) — reports the opposite
 - [The FVS system showed internal consistency of task scores (Cronbach's α = 0.781) in the Ghanaian setting](fvs-internal-consistency-cronbach-ghana.md) — related
+- [Optimal number of procedures for a reproducible assessment is 10, 17, 15, and 17 for PGY 2, 3, 4, and 5 respectively, with senior years requiring more procedures](optimal-procedures-increase-by-pgy.md) — related

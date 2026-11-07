@@ -53,3 +53,4 @@ Baseline comparison in the retrospective controlled study found "no significant 
 - [Junior pediatric surgeons who received SPS plus online CBL had significantly lower SAS scores than the control group at 1 month after on-call initiation](sps-cbl-lower-sas-one-month.md) — related
 - [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related
 - [At baseline, observed safety behaviors averaged slightly above \"acceptable\" (overall 2.2 on a 0-3 scale) with no significant difference between the future intervention and control groups](baseline-tents-average-2-2-no-group-difference.md) — related
+- [At 3 months, trait anxiety was lower in trained participants than controls but without reaching statistical significance](trait-anxiety-controls-vs-participants-3-months-not-significant.md) — related

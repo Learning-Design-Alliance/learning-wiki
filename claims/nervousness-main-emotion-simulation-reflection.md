@@ -52,3 +52,4 @@ Qualitative finding from reflexive thematic analysis of discussion posts in both
 - [Student interviews yielded three themes: emotions, feelings of being a doctor, and interactions with simulated participants](student-interview-themes-communication-curriculum.md) — related
 - [Emotion was the rarest essay theme, raised ambivalently by a minority of students](emotion-rarest-essay-theme.md) — reports the opposite
 - [SLT student reflections are mostly similar across telehealth and in-person simulation formats, differing in four subthemes (two in client-centred communication, one in working collaboratively, one in therapeutic approaches)](reflection-similar-telehealth-in-person-four-differing-subthemes.md) — a broader claim this one bears on
+- [Students' conceptualization of spirituality after simulation centers on life, peace, freedom, love, and self-knowledge](student-spirituality-themes-peace-freedom-love.md) — related

@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Dual Coding Improves Learning -->
 
 Pairing text with corresponding pictures or graphics improves learning from it: a meta-analysis of 39 experiments found a small-to-moderate benefit for reading comprehension (g = 0.39), and a narrative review concludes that carefully constructed illustrations improve text-dependent outcomes. The usual explanation, that verbal and visual processing create two memory traces rather than one ([dual coding theory](../theories/dual-coding-theory.md)), is contested: Higdon et al. (2025) found the picture-superiority effect in memory followed physical distinctiveness instead. The evidence recorded here measures comprehension and text-dependent performance more than recall as such.

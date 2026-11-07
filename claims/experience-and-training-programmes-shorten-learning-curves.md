@@ -74,4 +74,6 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — related
 - [RATS was performed in 71% of surveyed UK and ROI trainees' units, but only 16% of those units had a structured training programme in place](rats-performed-71-percent-units-only-16-percent-structured-programme.md) — related
 - [83% of respondents agreed that more robotic training is required before the completion of training](83-percent-respondents-more-robotic-training-required.md) — related
+- [Approximately 65 robotic liver resections are needed for a surgeon already experienced in open and laparoscopic liver surgery to attain full mastery](65-cases-to-full-mastery-robotic-liver-resection.md) — related
+- [A surgeon's robotic liver resection learning curve divides into four phases: Competency (cases 1–20), Proficiency (21–30), Early Mastery (31–65), and Full Mastery (66–100)](four-phase-robotic-liver-learning-curve.md) — a narrower finding that bears on this claim
 

@@ -74,3 +74,5 @@ Tutee interview data in the hesitancy and emotional issues subtheme; participant
 - [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — related
 - [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — related
 - [Barriers to engaging in active learning include time constraints, exhaustion, group dynamics with unfamiliar peers, fear of negative evaluation, and poor session management](barriers-time-safety-group-dynamics.md) — related
+- [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
+- [Students reported that preparation and clear expectations before clinical sessions reduced anxiety, preferring concise, accessible resources over dense handbooks.](preparation-expectations-reduce-clinical-anxiety.md) — related

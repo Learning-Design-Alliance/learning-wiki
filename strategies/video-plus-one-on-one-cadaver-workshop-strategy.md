@@ -54,6 +54,7 @@ A compact training sequence in which learners first view a 15-minute instruction
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Integrate cadaver-based ultrasound-guided procedure simulation workshops into PA curricula as low-stress, repeatable practice before live-patient training](integrate-cadaver-us-simulation-into-pa-curricula.md)
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
+- [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 
 ## Examples
 -

@@ -43,7 +43,8 @@ Based on the functional-demand survey, the authors recommend that online teachin
 - [Flexibility in using fragmented time and platform ease of use received the highest student ratings (both 8.3), while perceived video quality received the lowest (7.1)](../claims/usability-items-highest-rated-video-quality-lowest.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Optimize teaching structure and expand case resources when integrating an academic HIS into case simulation](optimize-structure-and-resources-academic-his-simulation.md)
 
 ## Examples
 -

@@ -79,3 +79,6 @@ Station-level results show significant advantages for the AI-assisted group on m
 - [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related
 - [Medical students in an e-learning-based flipped classroom plus simulation training score significantly higher on a six-station emergency OSCE total score than students in classic classroom teaching with identical simulation training](flipped-classroom-higher-emergency-osce-total-score.md) — related
 - [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related
+- [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
+- [Fourth-year medical students assigned to an OSCE preparation podcast scored significantly higher on post-intervention nephrology OSCE stations than controls](osce-podcast-higher-post-osce-score.md) — a narrower finding that bears on this claim
+- [Baseline OSCE scores on the generative AI platform did not differ between the podcast and control groups](ai-osce-baseline-scores-equivalent-groups.md) — related
