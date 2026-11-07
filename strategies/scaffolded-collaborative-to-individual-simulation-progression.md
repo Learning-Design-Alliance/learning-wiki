@@ -60,6 +60,7 @@ The article recommends that collaborative simulation "should not be restricted t
 - [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
 - [Introduce targeted communication skills training early in clinical training rather than waiting until the internship phase](introduce-communication-training-at-entry-level-clinical.md)
 - [Use simulated patients in the early study period and integrate real patients gradually as communication skills develop](sp-early-rp-gradual-integration-strategy.md)
+- [Use short, gamified low-cost simulation tasks as an introductory pre-clinical training method before real laparoscopic exposure](gamified-low-cost-simulation-before-real-laparoscopy.md)
 
 ## Examples
 -

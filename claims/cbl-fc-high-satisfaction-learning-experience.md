@@ -63,3 +63,5 @@ Self-administered 5-point Likert questionnaire completed by the CBL-FC group onl
 - [Nursing students rated knowledge mastery, classroom atmosphere, and communication and collaboration as the top three aspects of learning satisfaction in the in-class flipped classroom](satisfaction-top-three-in-class-flipped.md) — related
 - [Nurses in the flipped classroom group reported substantially higher satisfaction with the teaching method, its effectiveness, and the overall educational experience than the lecture-based group](fc-higher-satisfaction-hemodialysis-training.md) — related
 - [Flipped classroom students reported higher satisfaction with the teaching model and course duration and higher learning interest](flipped-classroom-satisfaction-interest-gains.md) — related
+- [MPH students reported high overall satisfaction with the FC+CBL format in Introduction to Environmental Health Science](mph-high-satisfaction-fc-cbl-environmental-health.md) — related
+- [All FC+CBL students perceived blended learning as beneficial for the course](mph-unanimous-blended-learning-beneficial.md) — related

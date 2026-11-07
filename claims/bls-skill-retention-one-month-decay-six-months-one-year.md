@@ -53,3 +53,4 @@ Longitudinal DOPS re-assessment of 100 students at 1 month, 6 months and 1 year 
 - [77% of healthcare providers retained simulated neonatal resuscitation skills one year after in situ low-dose high-frequency simulation training](ldhf-simulation-one-year-skills-retention-77-percent.md) — related
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — reports the opposite
 - [BLS training significantly improves first-year MBBS students' BLS knowledge scores (p < 0.001)](bls-training-improves-mbbs-knowledge-scores.md) — related
+- [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — related

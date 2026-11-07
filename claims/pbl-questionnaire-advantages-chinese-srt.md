@@ -95,3 +95,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [Students perceived PBL as more effective than TBL for knowledge acquisition, teamwork support, and higher marks](pbl-perceived-more-effective-learning-tbl-nu-survey.md) — related
 - [Medical postgraduate students rated the TCLEBL model significantly higher than LBL on eight satisfaction dimensions including interactivity, knowledge mastery, and perceived research-ability gains](tclebl-student-satisfaction-higher-than-lbl.md) — related
 - [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](pri-e-student-ability-development-ratings.md) — related
+- [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related

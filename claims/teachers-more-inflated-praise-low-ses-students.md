@@ -53,3 +53,4 @@ Preregistered within-subjects online experiment with 106 primary school teachers
 - [Teachers deliver more inflated praise to low-SES children after success, and observers perceive praised children as less smart](teacher-inflated-praise-low-ses-less-smart.md) — a narrower finding that bears on this claim
 - [Teachers attribute low-SES students' successes more to effort, but not less to ability, than high-SES students' successes](teachers-attribute-low-ses-success-to-effort.md) — related
 - [Children perceive students receiving inflated praise as less smart than equally performing students receiving modest praise or no praise](children-perceive-inflated-praised-students-less-smart.md) — related
+- [Teachers grade an identical piece of work more harshly when it is attributed to a lower-SES student](ses-bias-teacher-grading-experiment.md) — related

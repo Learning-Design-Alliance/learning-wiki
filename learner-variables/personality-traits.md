@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (85 show a difference, 29 mixed, 15 no difference) · 63 studies (31 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 19 of 63 report an effect size · 129 claims rest on one study
+> **Evidence** · 132 claims (85 show a difference, 30 mixed, 17 no difference) · 64 studies (32 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 19 of 64 report an effect size · 132 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -164,6 +164,9 @@ Personality traits are relatively stable individual differences, most often meas
 - [Personality traits significantly mediate the relationship between entrepreneurial intention and student academic performance among university students](../claims/personality-traits-mediate-ei-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [SEB skills add incremental validity over Big Five traits in predicting ACT scores, and traits add a smaller increment over skills](../claims/seb-skills-incremental-validity-over-traits-act.md) [+M] — learners who differ on it differ in outcomes
 - [SEB skills show larger average correlations with ACT composite scores than Big Five personality traits in high school students](../claims/seb-skills-stronger-act-correlations-than-traits.md) [+M] — learners who differ on it differ in outcomes
+- [Grit does not moderate the relationship between depressive symptoms and GPA](../claims/grit-does-not-moderate-depression-gpa.md) [-M] — an instructional effect differs with it
+- [Grit is related to GPA only at low levels of social desirability](../claims/grit-gpa-only-at-low-social-desirability.md) [~M] — learners who differ on it differ in outcomes
+- [Grit's positive relationship with GPA is non-significant when depressive symptoms and social desirability are included in the model](../claims/grit-gpa-non-significant-with-covariates.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

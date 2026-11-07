@@ -71,3 +71,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Students judged the simulation scenarios well-crafted, recognizable, and flexible enough to empathize fully](euthanasia-scenarios-recognizable-flexible.md) — related
 - [Pediatric sedation simulation participants rated the scenarios as clinically relevant, comfort-improving, and the debrief as valuable and safe, with means above 4 on a 5-point Likert scale](sedation-simulation-likert-ratings-favorable.md) — related
+- [Most participants (69%) did not feel immersed in the simulation, yet the authors argue immersion is not required for specific surgical-skill training](oasis-simulator-low-immersion-acceptable.md) — related

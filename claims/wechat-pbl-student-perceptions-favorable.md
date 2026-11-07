@@ -61,3 +61,4 @@ Questionnaire (adapted from the Course Experience Questionnaire and Study Proces
 - [Before the cardiac surgery internship, the PBL-online and traditional groups showed no significant differences in self-learning ability scale scores](pbl-online-no-pre-internship-difference.md) — related
 - [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](pbl-cbl-higher-student-satisfaction-questionnaire.md) — related
 - [Most clerkship students perceive that CBL improved their clinical reasoning ability](cbl-perceived-clinical-reasoning-gain.md) — related
+- [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related

@@ -40,6 +40,7 @@ The R15CC team deliberately cultivated meaningful and trusting relationships amo
 
 - [Community Building](community-building.md)
 - [Prepare the Ground](prepare_the_ground.md)
+- [Run icebreaking activities before formal team activities to build trust and intimacy among newly formed teams](icebreaking-before-team-activities-strategy.md)
 
 ## Examples
 -

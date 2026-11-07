@@ -70,3 +70,4 @@ Figure 3 caption reporting the paired t-test on percentage assessment outcomes (
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [90% of PBL-STH residents recalled key diagnostic details at two-week post-session testing](pbl-sth-two-week-knowledge-retention.md) — related
+- [No statistically significant difference in practical pathology and practical semiology scores between e-learning and in-person education](no-significant-difference-practical-courses-e-learning.md) — reports the opposite

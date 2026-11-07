@@ -56,6 +56,7 @@ The article's recommendation for closing enteral nutrition knowledge gaps is str
 - [Target warfarin education through structured programs, interactive e-learning modules, regular workshops, and case-based training](warfarin-targeted-education-strategy.md)
 - [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
 - [Deliver a multifaceted education package combining formal training sessions, knowledge assessment, and patient education pamphlets](psd-multifaceted-education-package-strategy.md)
+- [Provide ongoing in-service training and age-tailored programs to strengthen nurses' infection-prevention knowledge](ongoing-age-tailored-nci-in-service-training-strategy.md)
 
 ## Examples
 -

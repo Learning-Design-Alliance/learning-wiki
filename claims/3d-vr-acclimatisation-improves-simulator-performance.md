@@ -55,3 +55,5 @@ Feasibility RCT in which 18 novice robotic surgeons were randomised 1:1 to 3D VR
 - [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](residents-performance-2d-3d-vr-no-difference.md) — related
 - [Surgical novices training with 3D monitors on an open-console robotic simulator consistently outperform the 2D group on efficiency parameters](3d-monitors-outperform-2d-efficiency-hugo-ras.md) — related
 - [3D monitors show no overall advantage over 2D on error metrics in robotic simulation, except wire collisions in one exercise](3d-no-advantage-error-metrics-except-wire-collisions.md) — reports the opposite
+- [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
+- [Video-prepared trainees committed fewer penalties, particularly instrument collisions and out-of-view instruments](educational-video-lowers-robotic-simulation-penalty-score.md) — related

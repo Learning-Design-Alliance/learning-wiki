@@ -50,3 +50,4 @@ Multivariate regression analysis of the trinational resident survey (F[5,415] = 
 - [Implemented simulation training is independently associated with higher resident confidence in obstetric procedures and preparedness](simulation-training-boosts-obstetric-confidence.md) — related
 - [Receiving regular feedback on practical and surgical skills positively influences residents' confidence and preparedness](regular-feedback-raises-procedure-confidence.md) — related
 - [Female OBGYN residents work part-time significantly more often and fewer weekly hours than male residents](female-residents-part-time-workload-gap.md) — related
+- [Prior vocational education, prior obstetric emergency experience, and gender showed no significant influence on simulation performance](no-significant-influence-prior-experience-gender-simulation.md) — related

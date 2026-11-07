@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 189 claims (80 for, 98 mixed, 11 against) · 129 studies (46 causal, 25 review, 22 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 129 report an effect size · 178 claims rest on one study
+> **Evidence** · 191 claims (82 for, 98 mixed, 11 against) · 130 studies (46 causal, 25 review, 23 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 130 report an effect size · 180 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,8 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Self-assessment and expert evaluation scores correlate strongly on a suture exercise](../claims/sa-ee-strong-correlation-suture.md) [+W] — attached 2026-11-04 from Riquin Élise et al. (2026), which proposed "Introduce formative self-assessment grids during medical studies to calibrate perceived technical skill".
 - [Study time and study strategies interactively predict daily goal achievement: on days with better planning, monitoring and concentration and less procrastination, less time is needed to reach a high goal level](../claims/study-strategies-compensate-study-time-goal-achievement.md) [+W] — attached 2026-11-07 from Theobald (2025), which proposed "Teach students effective study strategies to promote goal achievement in less time and counteract negative affect".
 - [The self-assessment group showed a smaller improvement delta in time, distance or composite score than the other groups for most suturing tasks](../claims/self-assessment-group-smaller-improvement-delta.md) [~W] — attached 2026-11-07 from Hillemans Vera et al. (2024), which proposed "Use reflection before practice with a self-assessment form before suturing training and tests to raise students' starting skill level"; tests this page's relationship.
+- [Metacognitive strategy use positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/metacognition-predicts-elementary-literacy-math.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Elementary classrooms should give students supported opportunities to plan, monitor, and evaluate their learning".
+- [Effort regulation positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/effort-regulation-predicts-elementary-achievement.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Elementary classrooms should give students supported opportunities to plan, monitor, and evaluate their learning".
 
 ## Objective and learner-valued goal
 

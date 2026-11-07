@@ -64,3 +64,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
 - [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
 - [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related
+- [In situ simulation for staff managing critically ill COVID-19 patients can identify safety issues and optimise workflow](in-situ-simulation-covid-icu-safety-workflow.md) — related

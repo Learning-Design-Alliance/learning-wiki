@@ -63,3 +63,4 @@ Post-intervention sub-score comparison in the same quasi-randomized study: singl
 - [CBL multimodal teaching did not weaken single-mode image analysis or basic knowledge performance relative to traditional teaching](cbl-multimodal-no-difference-basic-and-single-mode.md) — related
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — reports the opposite
 - [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — reports the opposite
+- [FC+CBL students scored higher on design questions than traditional-method students in Introduction to Environmental Health Science](fc-cbl-higher-design-question-scores-mph.md) — related

@@ -50,3 +50,4 @@ Online survey after a flipped 'clinical reasoning method' course at one Korean m
 - [Students identified authentic cases, collaborative learning, feedback, worksheets, journal writing, and appropriate difficulty as beneficial, with time constraints and workload as challenges](focus-group-benefits-challenges-flipped-reasoning.md) — related
 - [Students perceive case-based learning as developing early clinical reasoning and critical thinking in the preclinical years](cbl-perceived-clinical-reasoning-development.md) — a broader claim this one bears on
 - [Professors rated the flipped clinical reasoning course positively, with a mean of 3.43 out of 4](professors-positive-response-flipped-clinical-reasoning.md) — related
+- [Students rated the flipped classroom positively, emphasizing clinical-case activities and teacher involvement, with video-viewing time the main weakness](fc-neurosurgery-student-satisfaction.md) — related

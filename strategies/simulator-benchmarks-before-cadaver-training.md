@@ -54,6 +54,8 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Provide animal-based simulation training before performing actual endoscopic surgeries](animal-simulation-before-actual-surgery-strategy.md)
 - [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
+- [Mentored robotic training pathway combining simulator, dry-lab and wet-lab sessions, hands-on courses, and first-assistant experience before independent rTAPP](mentored-robotic-training-pathway-rtapp.md)
+- [Include video-based SA training with interposed questions as one component of a multimodal laparoscopic training curriculum](video-sa-training-multimodal-curriculum-strategy.md)
 
 ## Examples
 -

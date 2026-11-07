@@ -70,3 +70,4 @@ Null results from the demographics analysis (Table 6): age T-tests also non-sign
 - [Nurses report poor understanding of ethical issues and equity in genomics, with equity rated poor by 84.8%](nurses-report-poor-understanding-of-genomic-ethics-and-equity.md) — related
 - [Finnish nurses self-assess their understanding of genomics as poor while their actual Knowledge Score is relatively good (mean 9.12/12)](nurses-self-assess-genomics-poor-despite-good-knowledge-score.md) — related
 - [Nurses who rate their genomics understanding as excellent/good score significantly higher on the Knowledge Score than those rating it poor](self-rated-genomics-understanding-associated-with-knowledge-score.md) — related
+- [Sex, level of education and years of working experience showed no significant association with nurses' knowledge of NCI preventive measures](sex-education-experience-no-knowledge-association.md) — related

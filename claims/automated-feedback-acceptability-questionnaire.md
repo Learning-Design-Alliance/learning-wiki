@@ -66,3 +66,5 @@ Multiple-choice comparative utility items (Q3 most helpful, Q4 least helpful) qu
 ## Related Claims
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
+- [Feedback on 4 AI-selected competencies in a simulated surgical curriculum was associated with significant performance changes in 52 metrics not observed in controls](ai-curriculum-unintended-metric-changes.md) — related
+- [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related

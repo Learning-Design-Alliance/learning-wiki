@@ -52,3 +52,4 @@ Across the three included RCTs, error scores improved in the feedback groups ver
 - [Non-expert delivered feedback is as effective as expert feedback on most outcomes in endovascular simulator training](non-expert-feedback-comparable-expert.md) — related
 - [Feedback based on intraoperative surgical performance improves surgical performance across live and simulated procedures](intraoperative-feedback-improves-surgical-performance.md) — a broader claim this one bears on
 - [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — related
+- [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related

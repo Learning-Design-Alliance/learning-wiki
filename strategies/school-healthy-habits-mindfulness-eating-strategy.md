@@ -47,7 +47,8 @@ The article closes with four school-level suggestions arising from its findings:
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](../claims/breakfast-consumption-associated-academic-performance-ethiopia.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Promote healthy dietary habits and mental well-being among university students as a lever for academic success](promote-healthy-habits-mental-wellbeing-university.md)
 
 ## Examples
 -

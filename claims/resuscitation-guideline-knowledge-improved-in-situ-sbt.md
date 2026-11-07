@@ -50,3 +50,4 @@ Pre-post knowledge test with the European Resuscitation Council Newborn Life Sup
 - [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](total-teamwork-events-nonsignificant-increase.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
+- [Senior pediatric residents' overall neonatal resuscitation MCQ scores rose from pre-test to post-test after team-based simulation training, in one single-group pre-post study](team-simulation-increases-nrp-knowledge.md) — related

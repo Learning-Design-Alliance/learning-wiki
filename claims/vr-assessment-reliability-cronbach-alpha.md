@@ -48,3 +48,4 @@ Reliability analysis reported in the Results section: Cronbach's α of 0.79 for 
 ## Related Claims
 - [Twenty-eight studies of the Eyesi cataract training modules collectively demonstrated all five sources of validity evidence, with strong data for each parameter except response processes.](eyesi-cataract-all-five-validity-sources-28-studies.md) — related
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md) — related
+- [The VR assessment shows high interscenario reliability (Cronbach α of 0.82) adequate for summative assessment](vr-assessment-cronbach-alpha-082.md) — related

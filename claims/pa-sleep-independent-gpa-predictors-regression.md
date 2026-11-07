@@ -63,3 +63,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite
 - [Age, BMI, and median working time showed no significant association with qualification rates](age-bmi-working-time-null-qualification.md) — related
+- [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — reports the opposite

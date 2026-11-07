@@ -64,6 +64,7 @@ The article recommends adopting RCDP in nursing education because it provides im
 - [Organise SP role-play as microteaching with frequent coach-initiated interruptions instead of a long simulation with wrap-up feedback](microteaching-interruptions-acp-role-play.md)
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
 - [Trial a combined debriefing strategy alternating RCDP practice cycles with interval reflective debriefing sessions](rcdp-with-interval-trd-strategy.md)
+- [Use interruptible simulation in a safe environment so errors can be pointed out and corrected during practice](interruptible-safe-environment-simulation-strategy.md)
 
 ## Examples
 -

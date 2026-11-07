@@ -57,6 +57,7 @@ After the simulation, the entire teaching session is reviewed on video with resi
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
 - [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 - [Guided reflection sessions built on video-recorded teaching with smart-ring arousal episodes (critical incident technique and stimulated recall)](arousal-episode-guided-reflection-strategy.md)
+- [Video-based structured debriefing with a plus-delta approach immediately after each simulation scenario](video-plus-delta-debriefing-strategy.md)
 
 ## Examples
 -

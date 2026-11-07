@@ -81,3 +81,4 @@ ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, me
 - [No statistically significant post-test difference between male and female students within the Prezi experimental group](no-gender-difference-prezi-group-posttest.md) — a narrower finding that bears on this claim
 - [No significant gender differences in overall chemistry achievement or retention](no-gender-difference-achievement-retention.md) — related
 - [No significant gender difference in achievement among students taught with interactive whiteboard](iwb-gender-friendly-achievement.md) — related
+- [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related

@@ -55,6 +55,7 @@ A specific implementable teaching recipe for clinical rotations: teams of 8–10
 
 - [Structure PBL sessions around case-specific 3D-printed models with teacher-facilitated group inquiry and self- and peer-assessment](3dp-integrated-pbl-session-structure-strategy.md)
 - [Implement an ACS case teaching session combining pre-class self-study, small-group PBL, and simulated MDT role discussion](acs-pbl-mdt-flipped-session-strategy.md)
+- [Implement a two-stage integrated PBL process: pre-class preparation, in-class group case discussion, self-study, and next-class group reporting](integrated-pbl-session-implementation-strategy.md)
 
 ## Examples
 -

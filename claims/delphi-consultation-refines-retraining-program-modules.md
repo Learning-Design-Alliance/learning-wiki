@@ -79,3 +79,4 @@ Delphi expert consultation with 22 experts refined the preliminary framework of 
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
 - [Two Delphi rounds with 15 experts produced high authority and consensus coefficients for the EVD KAP item pool](evd-kap-delphi-expert-consensus.md) — related
 - [Third-round expert agreement was fair by Kendall's W (0.22), with most top-ranked competencies in the pedagogic and subject-specific didactic domain](fair-agreement-kendall-w-domain-distribution.md) — related
+- [Content validity: expert consensus identified six essential TP biopsy skills, with zone identification rated most important by 100% of respondents](tp-biopsy-essential-skills-content-validity.md) — related

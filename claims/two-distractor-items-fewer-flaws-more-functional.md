@@ -48,3 +48,5 @@ In the randomized exam comparison, flaws were assessed with the 19-item Tarrant 
 - [Factual MCQs are significantly more likely to be easy than clinical case-based MCQs, and absence of low-functioning distractors is inversely associated with item ease](factual-questions-easier-lfd-absence-inverse-ease.md) — related
 - [No variable emerged as an independent predictor of composite high-quality (preferred) MCQ status, though absence of low-functioning distractors showed a trend](no-independent-predictors-preferred-questions.md) — related
 - [Reducing MCQ distractors from three to two does not compromise item difficulty, discriminative power, or overall quality in second-year medical exams](two-vs-three-distractors-no-psychometric-difference.md) — related
+- [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
+- [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related

@@ -52,3 +52,4 @@ Descriptive survey results (Fig. 5): "90.3% (n = 28) of respondents reported tha
 - [Simulated laparoscopic practice decreases after completion of the FLS examination among general surgery residents](simulated-practice-decreases-after-fls-completion.md) — related
 - [Most early-career bariatric surgeons want formal endoscopy training but most have never attended a formal upper endoscopy course](endoscopy-course-interest-participation-gap.md) — related
 - [Most surveyed residents reported laparoscopic skill improvement and endorsed continuing the at-home curriculum](residents-report-skill-improvement-at-home-laparoscopic-curriculum.md) — related
+- [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related

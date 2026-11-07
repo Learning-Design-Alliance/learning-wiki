@@ -59,3 +59,4 @@ Bardin's content analysis of free narratives on simulation days (Table 3) identi
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — related
 - [First simulation experiences with standardized patients strengthen practical self-confidence and contribute to professional identity development in novice nursing students](simulation-builds-self-confidence-and-professional-identity.md) — related
 - [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
+- [The advance directive relieved participants of the decision to let the patient die but also evoked uncertainty and ambivalence](advance-directive-relieves-and-burdens.md) — related

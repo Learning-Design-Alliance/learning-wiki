@@ -52,3 +52,4 @@ Self-confidence questionnaire responses (Table S2) collected after preclinical t
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related
 - [Pair-trained students reported higher confidence in their performance but perceived the procedure as less challenging than solo-trained students](qcm-confidence-challenge-pair-training.md) — related
+- [Skills requiring haptic awareness and manual dexterity struggle to build student confidence without in-person practice](haptic-skills-require-in-person-practice.md) — related

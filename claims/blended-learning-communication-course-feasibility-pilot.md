@@ -50,3 +50,5 @@ Pilot study with six sixth- and eighth-semester medical students in an NKLM-base
 - [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Pilot OSCEs proved feasible despite high staffing demands and were favourable for student learning.](pj-osce-pilots-feasible-despite-staffing-demands.md) — related
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
+- [Engagement with interactive H5P online activities was low relative to formative MCQs, with 30% completion of case study activities and 65% of weekly MCQs in 22/23](h5p-online-engagement-lower-than-mcqs.md) — related
+- [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — a narrower finding that bears on this claim

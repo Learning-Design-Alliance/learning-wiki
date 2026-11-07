@@ -52,6 +52,7 @@ Based on their pilot's limitations, the authors recommend more comprehensive and
 - [Integrate GTA teaching as part of a broader multi-modality strategy, with hybrid GTA–manikin models, co-produced standards, and longitudinal, patient-inclusive evaluation](gta-implementation-strategy-hybrid-and-coproduction.md)
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 - [Structure MDT-CBL as three modules: preparatory self-study, traditional CBL application, and consolidation by a specialist team](three-module-mdt-cbl-structure.md)
+- [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
 
 ## Examples
 -

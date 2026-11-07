@@ -56,3 +56,4 @@ Post-course theoretical examination in the randomized controlled educational tri
 - [DwGJ residents reported higher course satisfaction and perceived learning outcomes, while ratings of instructors' teaching attitudes did not differ between groups](dwgj-higher-satisfaction-instructor-ratings-null.md) — related
 - [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related
 - [Students taught DDH with 3D-printed models plus CBL scored higher on post-course practical skills than students taught with conventional CBL alone](3d-cbl-higher-post-course-practical-skills-ddh.md) — related
+- [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related

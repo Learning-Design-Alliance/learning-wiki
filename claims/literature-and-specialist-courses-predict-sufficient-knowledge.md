@@ -50,3 +50,4 @@ Second logistic regression model on knowledge sources in the same 635-nurse surv
 - [Specific knowledge gaps persist: only about half of nurses correctly identified sepsis blood-sampling procedure and the most common nosocomial infection](nurse-knowledge-gaps-sepsis-sampling-and-uti.md) — related
 - [About two-thirds of surveyed nurses (65.98%) reached a sufficient level of knowledge about nosocomial infections, with sufficiency cut at 14 of 20 points](nurses-65-98-percent-sufficient-nosocomial-knowledge.md) — related
 - [Holding a specialization raises the odds of sufficient nosocomial-infection knowledge, while medical high-school and vocational education lower them](specialization-and-education-predict-nosocomial-knowledge.md) — related
+- [Attendance at in-service training or workshops is associated with roughly tenfold higher odds of knowledge of nosocomial infection preventive measures among Ghanaian nurses](in-service-training-nci-knowledge-odds.md) — related

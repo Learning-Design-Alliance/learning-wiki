@@ -50,3 +50,4 @@ Post-intervention IPQ self-reports from the nine intervention-group participants
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
 - [More connectivity failures during VSP interviews were associated with lower student ratings](connectivity-failures-lower-vsp-ratings.md) — related
 - [Sense of presence in the 3D mode was moderate (involvement, realism, and spatial presence below 5 out of 7) with no differences between groups, attributed to a static virtual world](rineo-3d-presence-moderate-static-world.md) — related
+- [Participants experience the VR emergency scenarios with a high degree of presence (mean IPQ general presence 6.0 of 7) without differences between experience groups](vr-scenarios-high-presence-ipq.md) — related

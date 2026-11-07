@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 40 claims (17 for, 16 mixed, 7 against) · 40 studies (20 causal, 6 review, 4 quant-synthesis, 4 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 7 of 40 report an effect size · 35 claims rest on one study
+> **Evidence** · 41 claims (17 for, 17 mixed, 7 against) · 41 studies (21 causal, 6 review, 4 quant-synthesis, 4 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 7 of 41 report an effect size · 36 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -86,6 +86,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Middle school students completed a larger percentage of assigned videos than high school students](../claims/rmep-middle-school-higher-video-completion.md) [~W]
 - [Most teachers initially did not assign online videos, with 61 percent assigning none during fall 2014](../claims/rmep-low-teacher-video-adoption-year-2.md) [-W]
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](../claims/spoc-blended-package-high-adherence.md) [~W]
+- [Students rated the flipped classroom positively, emphasizing clinical-case activities and teacher involvement, with video-viewing time the main weakness](../claims/fc-neurosurgery-student-satisfaction.md) [~W] — attached 2026-11-07 from Gutiérrez-González R et al. (2023), which proposed "Edpuzzle platform for pre-class video-recorded lectures with embedded quizzes".
 
 ## The evidence by question
 - *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]

@@ -55,3 +55,4 @@ Review of 3 studies measuring suturing, cutting, and cautery skills, finding "si
 - [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — reports the opposite
 - [Physical simulator training improved suturing and knot-tying performance versus conventional methods in a cited randomized controlled trial](physical-simulator-suturing-knot-tying-rct.md) — a narrower finding that bears on this claim
 - [LSPPDM group completed basic laparoscopic model tasks faster, with fewer failures and higher scores](lsppdm-better-basic-laparoscopic-skills.md) — related
+- [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — a narrower finding that bears on this claim

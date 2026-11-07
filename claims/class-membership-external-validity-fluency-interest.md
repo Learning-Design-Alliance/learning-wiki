@@ -49,3 +49,4 @@ Post-hoc validity ANOVAs using class membership as the grouping variable found s
 - [Adolescents' math and L1 self-concept and interest development across Grades 7–9 is best described by a single homogeneous trajectory profile](one-class-motivational-trajectory-grades-7-9.md) — related
 - [Metacognition profile classifications differ between second and fourth graders](grade-level-differences-metacognition-profiles.md) — related
 - [No statistically significant mean differences by sleep health class on literacy, mathematics, or executive functioning after covariate adjustment](no-sleep-class-differences-literacy-math-ef.md) — related
+- [School language achievement differs largely across the three motivation–metacognition profiles after adjusting for covariates](achievement-differs-large-across-mmsr-profiles.md) — related

@@ -68,3 +68,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Realism ratings for prophylactic and emergency cerclage scenarios are positive but lower than overall effectiveness](wccs-realism-ratings-scenarios.md) — related
 - [Students rated the VR-based station similarly to the physical station on most perception items, but showed significant hesitancy toward broader future use of VR in assessments](vrs-acceptance-hesitancy-future-use.md) — related
 - [Pilot nurses gave the tested scenarios a total Educational Practices Questionnaire agreement score of 4.96 (SD=0.08) and importance score of 4.56 (SD=0.07)](epq-total-scores-pilot-nurses.md) — related
+- [High-fidelity simulator realism was rated higher but participant comfort lower than the low-cost simulator, without affecting overall perceived efficacy](hf-realism-higher-comfort-lower-than-lc.md) — related

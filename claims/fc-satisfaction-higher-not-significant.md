@@ -51,3 +51,4 @@ Anonymous end-of-year Qualtrics survey with a trichotomous scale (good, satisfac
 - [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](fc-higher-pass-rate-dental-pharmacology.md) — related
 - [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](fc-comparable-multiple-choice-performance.md) — related
 - [Dental students in a flipped classroom report significantly higher satisfaction with training than students in a face-to-face classroom](flipped-classroom-higher-satisfaction-wirebending.md) — reports the opposite
+- [Dropout rate, pass rate, academic achievement and correct-answer rate favoured the flipped classroom but did not reach statistical significance](fc-neurosurgery-secondary-outcomes-not-significant.md) — related

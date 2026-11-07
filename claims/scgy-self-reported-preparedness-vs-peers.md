@@ -49,3 +49,4 @@ Survey item on perceived preparedness relative to peers, reported among the 22 p
 - [scGY participants rank the structured clinical gap year as more valuable than shadowing or volunteering for pre-clinical preparation](scgy-ranked-above-shadowing-volunteering.md) — related
 - [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — related
 - [Participants in a structured clinical gap year program report significant pre-to-post improvement in self-rated confidence across all eight ACGME-aligned competency domains](scgy-significant-competency-confidence-gains.md) — related
+- [Senior medical students rated the pilot robotic training as valuable and increasing preparedness for surgical sub-internships and surgical training](students-rate-robotic-training-valuable-preparedness.md) — related

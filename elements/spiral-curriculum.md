@@ -48,7 +48,9 @@ Spiral curriculum is the element in which important ideas are revisited repeated
 - [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
+
 - Revisiting proportional reasoning across grades with increasing abstraction and application.
+- [Implement structured cognitive tools such as PEST repeatedly across training using a spiral curriculum with spaced repetition and successive deepening](../strategies/spiral-curriculum-repeated-pest-implementation.md)
 
 ## Key Sources
 - Bruner, J. S. (1960). *The process of education*. Harvard University Press.

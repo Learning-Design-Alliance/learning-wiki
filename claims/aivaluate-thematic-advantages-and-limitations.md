@@ -69,3 +69,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
 - [Nursing students raised concerns about group formation, teaching pace, evaluation methods, and off-task risk during self-directed study](concerns-grouping-pace-evaluation-self-discipline.md) — related
 - [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](social-robotic-vp-technical-and-user-related-limitations.md) — related
+- [Lecturer presence was experienced positively by synchronous students while asynchronous students reported reduced social pressure despite missing the personal contact](lecturer-presence-social-pressure-theme.md) — related

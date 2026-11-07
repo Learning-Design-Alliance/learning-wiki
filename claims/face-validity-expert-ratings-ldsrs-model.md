@@ -57,3 +57,4 @@ Expert evaluation by ten laparoscopic surgeons using a 15-item questionnaire wit
 - [Domain correlations suggest coherent construct validity, with realism–skill-replication r = 0.85 and effectiveness–engagement r = 0.79](vr-simulator-domain-correlations-construct-validity.md) — related
 - [Surgeons gave the model their highest ratings for training usefulness, including resident preparation before the operating room](hernia-model-highest-ratings-training-usefulness.md) — related
 - [Surgeons rated the 3D hernia model as easy to use, realistic, and anatomically representative](surgeons-rate-hernia-3d-model-realistic-easy-to-use.md) — related
+- [Five experts rated the 3D-printed LIIA model highly on face and content validity, though texture was rated as needing improvement](liia-3d-model-face-content-validity.md) — possibly the same claim (merge candidate)

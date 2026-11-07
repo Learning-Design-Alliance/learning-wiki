@@ -47,3 +47,4 @@ Phenotypic sex comparison on the six VR orientation tests in the TEDS sample. "M
 ## Related Claims
 - [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](vr-battery-reliably-measures-spatial-orientation.md) — related
 - [Gender moderates the relation between childhood spatial activities and spatial habits of mind, which is stronger for males than females](gender-moderates-childhood-activities-habits-of-mind.md) — related
+- [Visual memory and spatial intelligence scores did not differ significantly between male and female students in either discipline](no-sex-difference-visual-memory-spatial-intelligence.md) — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 122 claims (78 show a difference, 27 mixed, 17 no difference) · 76 studies (32 causal, 23 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 19 of 76 report an effect size · 121 claims rest on one study
+> **Evidence** · 126 claims (81 show a difference, 27 mixed, 18 no difference) · 78 studies (33 causal, 24 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 20 of 78 report an effect size · 125 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -158,6 +158,10 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Subjective competence increases after the ultrasound course are significant only for knowledge of anatomical spatial relationships (p = 0.009), with the overall subjective score rising without statistical significance](../claims/ultrasound-course-subjective-asr-gain.md) [~M] — measured as an outcome of the instruction studied
 - [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](../claims/wm-indirect-effects-via-four-math-components.md) [+M] — learners who differ on it differ in outcomes
 - [Visuospatial WM independently predicts all five specific mathematical components, while verbal WM independently predicts only algebra](../claims/vswm-predicts-all-components-verbal-wm-algebra-only.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial intelligence scores correlate positively with anatomy course scores in dental students (r = 0.319) and in medical students](../claims/spatial-intelligence-correlates-anatomy-scores-dental-students.md) [+M] — learners who differ on it differ in outcomes
+- [Visual memory and spatial intelligence are significant regression predictors of anatomy scores, with visual memory the better predictor in medicine and spatial intelligence in dentistry](../claims/regression-predictors-anatomy-scores-discipline-specific.md) [+M] — learners who differ on it differ in outcomes
+- [Visual memory scores correlate positively with anatomy course scores in medical students across neuroanatomy, special senses, and head-and-neck courses](../claims/visual-memory-correlates-anatomy-scores-medical-students.md) [+M] — learners who differ on it differ in outcomes
+- [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](../claims/mrt-no-correlation-suturing-improvement.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

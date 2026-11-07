@@ -51,3 +51,5 @@ Secondary correlational analysis across all pre-training assessments in the tria
 - [Self-assessment and expert evaluation scores correlate strongly on a suture exercise](sa-ee-strong-correlation-suture.md) — related
 - [Pre-class videos raise pre-training checklist scores in ultrasound-guided CVC, with the POV group highest](pre-class-video-higher-pre-training-checklist-cvc.md) — related
 - [Self-reported internal assessment scores show high concordance with verified academic records](self-reported-scores-concordance-transcripts-ghana.md) — related
+- [Optical flow and suture counts from video correlate with OSATS GRS and can supplement it as assessment measures](optical-flow-correlates-with-grs.md) — related
+- [OSAUS scores correlate strongly with a Global Rating Scale (r = 0.970) for ultrasound HMD performance](osaus-grs-convergent-validity-r-0970.md) — related

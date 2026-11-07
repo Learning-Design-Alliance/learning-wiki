@@ -60,3 +60,4 @@ Stratified randomized controlled trial with 24 participants per group (12 underg
 - [Both PBL-ChatGPT and traditionally taught urology interns significantly improved their theoretical knowledge exam scores from before to three days after the course](pbl-chatgpt-and-traditional-both-improve-theory-exam-scores.md) — related
 - [Urology interns taught with ChatGPT-assisted PBL scored significantly higher on the post-course theoretical exam than interns taught with traditional teaching](pbl-chatgpt-higher-post-course-theory-exam-than-traditional.md) — related
 - [LSPPDM group scored higher on the laparoscopic theoretical knowledge assessment](lsppdm-higher-theoretical-knowledge-scores.md) — related
+- [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related

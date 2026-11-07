@@ -51,3 +51,5 @@ Cumulative error scores over all five attempts were compared with the Mann–Whi
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — reports the opposite
 - [Both 3D and 2D groups improve on efficiency parameters with repeated attempts, with no differential learning-curve benefit from 3D](both-groups-improve-over-attempts-no-interaction.md) — related
 - [With curved instruments, 3D visualization benefits PEG Transfer performance only at early test times, with no difference in errors](3d-peg-transfer-early-advantage-curved.md) — related
+- [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
+- [Risk and safety metrics show no increased error risk on either robotic platform, supporting safe contemporaneous multi-console training](risk-safety-metrics-equivalent.md) — related

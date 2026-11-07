@@ -58,3 +58,4 @@ Meta-analysis of randomized controlled trials in Chinese obstetrics and gynecolo
 - [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](pbl-increases-theoretical-knowledge-scores-pediatric-china.md) — related
 - [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](pbl-higher-theoretical-scores-chinese-pharmacy.md) — related
 - [PBL-based theoretical teaching significantly increased the proportion of obstetrics students rating their learning experience agree or totally agree, from 68.5% to 92.2%](pbl-raises-positive-theoretical-learning-ratings-obstetrics.md) — related
+- [No significant difference in Obstetrics and Gynecology scores between integrated PBL + LBC and LBC groups](obgyn-no-significant-difference-integrated-pbl.md) — related

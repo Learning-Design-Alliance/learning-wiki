@@ -61,3 +61,6 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [91.8% of interns using ultrasound experienced barriers, most commonly insufficient scanning routine (70.5%), lack of supervision (46.7%) and insufficient knowledge (41.4%)](intern-ultrasound-use-barriers-scanning-routine-supervision.md) — related
 - [Reported barriers to simulation-based education implementation are lack of time, lack of teacher training, and cost of equipment and/or space](sbe-implementation-barriers-time-training-cost.md) — related
 - [Lack of resources relevant to faculty lectures was the most frequently cited reason for not using e-learning resources](lack-of-relevant-resources-top-reason-non-use.md) — related
+- [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — related
+- [Shortage of suitable resources and lack of intercultural training are the top questionnaire-reported reasons teachers do not devote more time to IFLT](resources-and-training-top-reasons-limited-iflt.md) — related
+- [Protected teaching time and dedicated space are reported barriers, while equipment cost is not for clinical staff](time-space-equipment-barriers-ed-sbt.md) — related

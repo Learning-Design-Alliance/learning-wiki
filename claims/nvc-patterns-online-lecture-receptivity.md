@@ -49,3 +49,4 @@ The review's Table 2 summarizes an observational study by Ismail et al. of non-v
 - [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](nonverbal-cues-require-novice-proficiency.md) — related
 - [Students who completed the Effective Presentations course showed significantly better poise than non-course students](cr752-better-poise-skills.md) — related
 - [Undergraduate psychiatry students report that traditional methods are insufficient for mastering non-verbal cues](psychiatry-students-report-traditional-methods-insufficient-for-nonverbal-cues.md) — related
+- [Lecturer presence was experienced positively by synchronous students while asynchronous students reported reduced social pressure despite missing the personal contact](lecturer-presence-social-pressure-theme.md) — related

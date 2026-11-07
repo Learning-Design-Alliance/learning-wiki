@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 296 claims (195 show a difference, 57 mixed, 44 no difference) · 184 studies (70 associational, 62 causal, 27 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 42 of 184 report an effect size · 288 claims rest on one study
+> **Evidence** · 297 claims (195 show a difference, 57 mixed, 45 no difference) · 185 studies (70 associational, 63 causal, 27 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 43 of 185 report an effect size · 289 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -332,6 +332,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Supported techniques show higher associations with self-efficacy, growth mindset, control beliefs and learning goals than unsupported techniques, but low elaboration relates to more exam anxiety](../claims/supported-techniques-beliefs-associations.md) [~M] — measured as an outcome of the instruction studied
 - [Poorer reading comprehension and a history of reading difficulties are associated with higher reading anxiety in university students, independent of trait anxiety](../claims/reading-difficulty-associated-reading-anxiety.md) [+M] — learners who differ on it differ in outcomes
 - [Reading anxiety does not mediate the relationship between reading ability and academic achievement in university students](../claims/no-mediation-reading-anxiety-achievement.md) [-M] — learners who differ on it differ in outcomes
+- [Pre-training anxiety is not correlated with post-training satisfaction or self-confidence](../claims/no-correlation-anxiety-satisfaction-self-confidence.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

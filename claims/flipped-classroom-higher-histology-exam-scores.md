@@ -61,3 +61,4 @@ Randomized educational trial (permuted block randomization, CONSORT) with 120 me
 - [Medical students taught with a flipped classroom using clinical scenarios and educational technology scored significantly higher on theoretical post-tests than students taught with subject-based lectures](flipped-classroom-clinical-scenarios-higher-theory-posttest.md) — related
 - [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related
 - [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — reports the opposite
+- [Undergraduate students taught Neurosurgery with a flipped classroom obtained a significantly higher mean exam score than students taught by traditional lecture in the same academic year](fc-neurosurgery-higher-mean-score.md) — related

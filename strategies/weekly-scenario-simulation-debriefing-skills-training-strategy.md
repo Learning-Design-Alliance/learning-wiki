@@ -70,6 +70,7 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Predefine mandatory core debriefing elements for each simulation scenario to standardize knowledge consolidation](predefined-core-debriefing-elements.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 - [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
+- [Combine pre-learning, lectures, skill stations and simulated multi-disciplinary scenarios with structured debriefing for trauma team training](ttrrt-session-structure-strategy.md)
 
 ## Examples
 -

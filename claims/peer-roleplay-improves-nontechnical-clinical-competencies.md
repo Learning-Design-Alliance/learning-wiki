@@ -62,3 +62,4 @@ Final assessment scores compared between the 2019 (control) and 2020 (experiment
 - [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](boppps-cbl-dops-five-dimensions-higher.md) — related
 - [The REPs-VS group scored significantly higher on the operational examination total and on operational steps, but not on apparatus selection or doctor-patient communication](reps-vs-higher-operation-exam-scores.md) — related
 - [Role-playing KTAS education does not improve overall triage competency more than lectures, but improves its expert assessment and communication sub-factors](role-playing-no-overall-triage-competency-gain.md) — related
+- [Up to 90% of students felt their humanistic care literacy was improved after the clinical-medicine integrated PBL course, with <36.7% feeling stressed](integrated-pbl-humanistic-care-and-stress-findings.md) — related

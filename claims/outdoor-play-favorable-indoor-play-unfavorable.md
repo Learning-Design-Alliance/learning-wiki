@@ -69,3 +69,5 @@ The same adjusted models printed −0.266 (−0.455, −0.076) for executive fun
 - [Active commuting to school and sitting playing board/card games show no association with executive function or academic achievement](active-commuting-board-games-null-associations.md) — related
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Time spent reading books at age 8 years is positively associated with executive function and academic achievement, with no association at age 5.5 years](reading-books-positive-executive-function-academic.md) — related
+- [A 2-hour after-school outdoor physical activity program significantly improves overall physical fitness scores compared with free after-school time](after-school-physical-activity-improves-physical-fitness.md) — related
+- [Adding 2 hours of after-school outdoor physical activity is noninferior to free after-school time in mathematics scores among grade 3-4 children over 1 academic year](after-school-physical-activity-noninferior-math-scores.md) — related

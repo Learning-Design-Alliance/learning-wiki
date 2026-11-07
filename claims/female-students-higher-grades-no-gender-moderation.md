@@ -55,3 +55,4 @@ LMM with gender, math anxiety, and intervention group as fixed factors: "a main 
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Female groups performed better than male groups when using the AR platform, reversing the gender pattern seen in the print-manual treatment](female-groups-performed-better-ar-platform.md) — related
 - [Performance differences remained significant after controlling for age and GPA, and no gender effects were observed](gjump-effects-robust-to-gpa-age-gender.md) — related
+- [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — reports the opposite

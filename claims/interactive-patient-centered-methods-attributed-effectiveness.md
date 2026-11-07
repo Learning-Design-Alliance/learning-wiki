@@ -52,3 +52,4 @@ Authors' interpretation in the discussion, not a tested result: the review sugge
 - [Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning](vp-passive-versus-active-comparison.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — related
+- [The authors report role reversal cultivates flexible problem-solving compared with one-way traditional teaching](role-reversal-flexible-problem-solving-claim.md) — related

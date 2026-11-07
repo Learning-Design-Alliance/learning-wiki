@@ -52,6 +52,7 @@ The article recommends that universities develop and implement activities and pr
 - [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Implement psychological support programs, foster intrinsic motivation, integrate psychological assessments, establish support networks, and make tailored curricular adjustments for women doctoral students](psychological-support-programs-women-doctoral-strategy.md)
+- [Provide mental health services and periodic counseling to support medical students' self-esteem](mental-health-services-counseling-medical-students.md)
 
 ## Examples
 -

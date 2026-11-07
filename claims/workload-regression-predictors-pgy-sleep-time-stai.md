@@ -69,3 +69,4 @@ Multiple regression on 76 live OR cases showed significant contributions of PGY 
 - [Simulation training with haptic feedback lowers residents' overall NASA-TLX workload during subsequent live robot-assisted sleeve gastrectomies performed without haptic feedback](haptic-training-lowers-live-or-workload.md) — related
 - [No significant workload benefit of haptic-feedback training appears in the first three live OR procedures](no-haptic-benefit-first-three-or-cases.md) — related
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related
+- [Uterine volume was not associated with operative time, and trained residents reduced operative time despite resecting larger uteri](uterine-volume-not-associated-operative-time.md) — related

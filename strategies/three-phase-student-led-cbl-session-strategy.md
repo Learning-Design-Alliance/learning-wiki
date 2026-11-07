@@ -52,6 +52,7 @@ The article prescribes a concrete three-phase implementation recipe for each cas
 - [Prepare CBL facilitators with clear learning outcomes, structured case handbooks, role-play training, and continuity of facilitator across a case](cbl-facilitator-preparation-strategy.md)
 - [Design virtual case-based learning as a three-phase, three-day flipped sequence combining team case discussion, peer presentation, and expert-supported conclusion](three-day-virtual-cbl-session-structure-strategy.md)
 - [Anchor voluntary case-based e-learning in exam relevance and repeatedly reference it in in-person teaching](exam-relevance-and-repeated-referencing-strategy.md)
+- [Pre-class case distribution plus in-class group reporting within a flipped classroom](pre-class-case-distribution-group-reporting-strategy.md)
 
 ## Examples
 -

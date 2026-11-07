@@ -54,3 +54,6 @@ Thematic synthesis of a scoping review of 83 sources; Table 1 lists 28 papers re
 - [GTA-trained students outperform manikin- or clinical-patient-trained peers in examination technique and procedural sequencing, but not in diagnostic ability](gta-training-improves-technical-skill-not-diagnostic-ability.md) — related
 - [Standardisation of GTA programmes improves quality but may narrow representations of bodily diversity, promoting a hidden curriculum of 'normality'](gta-standardisation-narrows-bodily-diversity.md) — related
 - [Learner confidence consistently improved following e‐learning interventions in ENT education](elearning-ent-confidence-consistently-improved.md) — related
+- [Fear of hurting the patient is the leading cause of student anxiety about pelvic and breast examination, with gender differences in other cited causes](fear-hurting-patient-main-anxiety-cause.md) — related
+- [Students are more anxious about performing pelvic examination than breast examination at baseline](pelvic-more-anxious-than-breast-examination.md) — related
+- [In one uncontrolled pre-post study, medical students' self-reported anxiety about performing pelvic and breast examinations decreased from before to after simulation-based training](sbt-reduces-anxiety-pelvic-breast-examination.md) — related

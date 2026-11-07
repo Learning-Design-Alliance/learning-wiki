@@ -69,3 +69,4 @@ CUSUM analysis of operation time across the 8 sessions for the same 6 trainees, 
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [MBOSATS scores on the 3D-printed LRYGB model differentiate surgical expertise levels, with scores decreasing and operation times increasing from experts to intermediates to residents](mbosats-construct-validity-3d-lrygb-model.md) — related
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related
+- [Repeated training on the 3D-printed model improves performance: after eight sessions novices approached untrained intermediate level and intermediates approached expert scores](liia-repeated-training-learning-curve.md) — possibly the same claim (merge candidate)

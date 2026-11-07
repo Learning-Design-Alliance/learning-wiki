@@ -52,3 +52,4 @@ MANOVA across three judgment dimensions in the 108-participant vignette experime
 - [Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both](attribution-paths-material-choice-study2.md)
 - [Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2](achievement-level-predicts-material-choice-study2.md)
 - [Preservice teachers rated the video as simpler and more superficial than the text with the same content](video-rated-simpler-than-text-study2.md)
+- [No evidence of ethnic bias in teachers' judgements of an identical piece of work, and no SES or ethnicity effect on perceived objective errors](no-ethnicity-bias-or-error-perception-effect.md) — reports the opposite

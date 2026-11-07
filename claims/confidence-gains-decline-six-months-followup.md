@@ -51,3 +51,4 @@ The review reports this finding from Carpenter et al.'s longitudinal mixed-metho
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — a broader claim this one bears on
+- [Perceived educational quality of the simulation workshop declined between immediately after training and 3 and 6 months later, regardless of simulator type](perceived-educational-impact-declines-three-six-months.md) — related

@@ -77,3 +77,4 @@ ANOVA on posttest-only measures (second diagnosis, intrinsic, germane, and extra
 - [Resident self-explanation with prompts produced a large improvement in diagnostic performance compared with solving word puzzles](self-explanation-prompts-beats-word-puzzles-diagnostic-performance.md) — related
 - [On camera doctor defect-diagnosis questions the conditions did not differ overall, but DAA students generated better malfunction explanations](daa-camera-doctor-description-advantage.md) — related
 - [Experienced learners reported lower confidence in recognizing complications after video-based teaching, which the authors attribute to videos showing only ideal scenarios](video-lower-complication-confidence-experienced.md) — related
+- [Grade-one teachers' knowledge of students' problem-solving correlated meaningfully with student performance](teacher-pck-correlated-with-student-performance-arithmetic.md) — related

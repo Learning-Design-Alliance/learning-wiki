@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: thielmann-anika-2024
     resource: "https://doi.org/10.1371/journal.pone.0301847"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Average knowledge improved by 4.2 points (p<0.001) after eLearning participation, with gains for both physicians (4.6 points) and practice assistants (4.0 points). [→ Thielmann Anika 2024](#thielmann-anika-2024)

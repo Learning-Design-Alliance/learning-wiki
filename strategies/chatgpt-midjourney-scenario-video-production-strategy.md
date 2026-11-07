@@ -39,6 +39,7 @@ The article describes a concrete production workflow for AI-empowered scenario v
 ## Related Strategies
 
 - [Hybrid AI question-development workflow: AI generation with standardized prompts, then expert review, psychometric validation, and continuous monitoring](hybrid-ai-question-generation-expert-validation-workflow.md)
+- [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](off-the-shelf-animation-scenario-production-strategy.md)
 
 ## Examples
 -

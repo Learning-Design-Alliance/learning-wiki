@@ -51,3 +51,4 @@ Theme 1 subtheme 'Increased self-confidence' from the qualitative interviews and
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
 - [Male nursing students reported a theory-practice gap and insufficient simulation lab time before OSCE examinations](theory-practice-gap-insufficient-simulation-lab-time.md) — related
 - [Students attribute increased confidence to making mistakes and receiving immediate feedback in the simulation lab](mistakes-feedback-build-confidence-sle.md) — related
+- [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related

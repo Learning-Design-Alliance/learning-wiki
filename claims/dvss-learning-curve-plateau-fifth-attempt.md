@@ -55,3 +55,4 @@ Learning-curve analysis of the first 10 training attempts (Z-scores standardizin
 - [Within-group learning curves differ by group: the expert-instruction group plateaued and dropped at the fifth repetition while the ICEMS group kept improving](icems-learning-curves-group-differences.md) — related
 - [Residents reached the expert benchmark on small-intestine suturing after a median of 11 repetitions, with a plateau after roughly 11 repetitions](rostrac-learning-curve-suturing-plateau.md) — related
 - [Residents achieved DaVinci Skills Simulator targets after a median of 3 repetitions and about 8 hours of VR training](rostrac-vr-training-targets.md) — related
+- [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — related

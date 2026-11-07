@@ -56,3 +56,4 @@ Interpretive case study of 42 students in the I-TEP Web-based course during summ
 - [Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors](worked-examples-discouraged-cognitive-tutor-algebra.md) — related
 - [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — related
 - [Web-based advantages concentrate in skills practiced through the medium: the web group's interaction occurred mostly through reading and writing](web-medium-shapes-skill-gains-pattern.md) — related
+- [Students and instructors agreed that teacher-student interaction, practicing problem-solving ability, and teacher presence are the most valuable online EFL learning elements](three-shared-valuable-online-efl-elements.md) — related

@@ -56,3 +56,4 @@ Baseline comparison in the randomized trial (Table 2): age (P = 0.351), sex (P >
 - [The VFB and GD groups were statistically comparable at baseline on demographics and OSLER scores](vfb-gd-baseline-equivalence.md) — related
 - [No significant baseline differences in gender, age, or experimental technical background between the TETM and RFETM groups](no-baseline-differences-tetm-rfetm-groups.md) — related
 - [Baseline clinical skill performance did not differ between the randomized groups, while baseline knowledge did and was controlled in the analysis](baseline-differences-knowledge-controlled-skill-equivalent.md) — related
+- [Baseline characteristics of the integrated PBL + LBC and LBC groups did not differ significantly in gender, nationality, or age](baseline-equivalence-integrated-pbl-groups.md) — related

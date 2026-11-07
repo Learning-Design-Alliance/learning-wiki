@@ -49,3 +49,4 @@ Adherence reporting in the Results section of the crossover study. The article r
 - [Both AI-driven virtual patient simulator training and actor-based simulation significantly increase self-reported communication skills attainment in undergraduate medical students](ai-cst-and-ab-cst-both-improve-self-reported-communication-skills.md) — related
 - [The self-reported communication skills attainment increase was lower for AI-driven virtual patient simulator training than for actor-based simulation](ai-cst-attainment-gain-lower-than-ab-cst.md) — related
 - [Student satisfaction was significantly lower for AI-driven virtual patient simulator training than for actor-based simulation, though satisfaction was high for both](satisfaction-lower-for-ai-cst-than-ab-cst.md) — related
+- [Participants spent less time on an e-learning module (mean 88.1 minutes) than on all written course material (mean 162.9 minutes)](elearning-preparation-time-shorter.md) — related

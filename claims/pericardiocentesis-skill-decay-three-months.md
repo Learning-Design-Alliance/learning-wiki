@@ -52,3 +52,4 @@ Same prospective cohort: novices observed no pericardiocentesis clinically durin
 - [Handmade-phantom simulation training significantly increases novices' self-reported confidence in performing US-guided thoracocentesis and pericardiocentesis](handmade-phantom-training-confidence-increase.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — a broader claim this one bears on
 - [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — a broader claim this one bears on
+- [Improved one-year ratings cannot be attributed to SBPT retention because superimposed clinical training likely masked skill decay](delayed-gains-confounded-by-clerkship-training.md) — related

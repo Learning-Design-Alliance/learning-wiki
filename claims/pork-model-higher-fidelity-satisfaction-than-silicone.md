@@ -89,3 +89,4 @@ Overall satisfaction on the 1–10 scale favored the pork-based model over the s
 - [Pork belly simulation training improves ultrasound image quality and needle visualization scores versus traditional training](pork-belly-sim-better-image-quality-needle-visualization.md) — related
 - [The pork-based model's validation evidence is limited to feasibility and face and construct validity, with key gaps acknowledged](pork-model-validation-gaps.md) — related
 - [Residents who watched a video of the simulated procedure before simulation scored higher on global performance, execution and quality than residents who did not](presimulation-video-higher-appendectomy-performance.md) — related
+- [Students rate the 8-hour silicone-model course positively, with 83.3% positive answers overall](positive-student-course-evaluation-83-percent.md) — related

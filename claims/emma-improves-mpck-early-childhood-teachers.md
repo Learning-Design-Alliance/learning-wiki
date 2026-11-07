@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-07
 sources:
   - id: bruns-et-al-2017
     resource: "https://eric.ed.gov/?id=EJ1163878"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a quasi-experimental pre-test/post-test study with a control group of in-service early childhood teachers, the EmMa course produced a significant interaction effect between time of measurement and treatment group on mathematical pedagogical content knowledge. [→ Bruns et al. 2017](#bruns-et-al-2017)
@@ -53,3 +54,4 @@ Quasi-experimental pre-test/post-test study with a control group of in-service e
 - [Blended learning professional development produces significantly higher gain means in ICT knowledge (TK, TPK, TCK, TPACK) than traditional training for in-service science teachers](blended-pd-higher-tpack-gains-than-traditional.md) — a broader claim this one bears on
 - [Pre-service teachers taught probability with the ABSL approach achieved significantly higher post-test scores than those taught with traditional methods](absl-probability-achievement-advantage.md) — related
 - [Pre-service teachers in a dynamic-web-technology-supported problem-based collaborative learning environment achieved higher post-test course achievement scores than peers in the face-to-face version](dwt-pbl-higher-achievement-posttest.md) — related
+- [Student teachers showed weak mathematics PCK at entry but substantial development across all MPCK areas after a pedagogy course](pedagogy-course-improved-mpck-student-teachers.md) — related

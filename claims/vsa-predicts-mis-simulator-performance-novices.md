@@ -56,3 +56,4 @@ Systematic review synthesis of 22 correlational and 4 comparative studies (26 in
 - [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
 - [The transparent SAPIENS model is considered ideal for inexperienced surgeons because it visualizes hidden anatomical structures](transparent-model-ideal-for-inexperienced-surgeons.md) — a narrower finding that bears on this claim
+- [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](mrt-no-correlation-suturing-improvement.md) — reports the opposite

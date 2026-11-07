@@ -55,3 +55,4 @@ Multivariable analysis in the questionnaire study identified "a higher BMI (0.90
 - [Extensive self-study (2 h or more per day) is more common in the academic achievement group, while social media use is comparable between groups](self-study-higher-social-media-comparable-between-gpa-groups.md) — related
 - [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related
 - [In an adjusted regression model, GPA predicts higher physical activity while female gender and comorbidity predict lower activity](regression-gpa-gender-health-predict-physical-activity.md) — related
+- [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — reports the opposite

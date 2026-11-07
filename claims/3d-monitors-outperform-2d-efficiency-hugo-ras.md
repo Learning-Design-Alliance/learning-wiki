@@ -50,3 +50,5 @@ Randomised trial of 31 medical students (16 3D, 15 2D) trained on the Medtronic 
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — related
 - [3D VR acclimatisation shortens simulator completion time and reduces instrument path length versus 2D video](3d-vr-reduces-path-length-and-time.md) — related
 - [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related
+- [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
+- [Video-prepared trainees also scored significantly higher on efficiency (time, economy of motion, workspace range) than control trainees](educational-video-raises-robotic-simulation-efficiency-score.md) — related

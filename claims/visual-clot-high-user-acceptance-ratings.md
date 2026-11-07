@@ -54,3 +54,4 @@ Qualitative survey on user acceptance: participants who used Visual Clot rated 4
 - [No difference between Visual Clot and ROTEM temograms in correct overall coagulation therapy](visual-clot-no-difference-overall-coagulation-therapy.md) — related
 - [No difference in perceived workload between Visual Clot and ROTEM temograms in high-fidelity simulation](visual-clot-no-workload-difference-simulation.md) — related
 - [Positive and negative statements about Visual Clot did not differ by participants' specialty or level of experience](visual-clot-perceptions-independent-of-specialty-experience.md) — related
+- [Participants found the death simulation valuable and reported feeling better prepared to face patient death after the course](death-simulation-feels-better-prepared.md) — related

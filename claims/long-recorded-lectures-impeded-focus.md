@@ -68,3 +68,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Students perceive lecturer-generated summaries in video lectures as helpful for review, note-taking, and maintaining attention](student-perceptions-of-video-summaries-positive.md) — related
 - [Distraction during lecture was reported only by slideshow participants, suggesting VR is more engaging](vr-more-engaging-fewer-distractions.md) — related
 - [Students most often reported that recorded lectures, supportive multimedia, and an easy-to-use platform enhanced their subject understanding in eLearning](recorded-lectures-multimedia-enhance-understanding.md) — reports the opposite
+- [Cognitive impairment and fatigue from Long Covid hindered learning, and online learning from home was not always an appropriate substitute](lc-cognitive-impairment-online-learning-limits.md) — related

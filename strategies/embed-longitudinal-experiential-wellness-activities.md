@@ -59,6 +59,7 @@ The article recommends integrating wellness strategies into existing coursework 
 - [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
 - [Monitor and support mental health of medical undergraduates in research training](monitor-mental-health-research-trainees.md)
 - [Make student reflection a mandatory component of experiential learning courses to integrate personal, professional, and academic learning](mandatory-reflection-in-el-courses.md)
+- [Promote healthy dietary habits and mental well-being among university students as a lever for academic success](promote-healthy-habits-mental-wellbeing-university.md)
 
 ## Examples
 -

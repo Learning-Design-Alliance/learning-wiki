@@ -98,3 +98,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — a narrower finding that bears on this claim
 - [Follow-up interviews reveal seven themes linking community-oriented PBL to readiness for home care visits, professional growth, and community engagement](pbl-interviews-seven-themes-community-care.md) — related
 - [Physiotherapy students report that group-based work during a simulation-based placement enhanced teamwork skills that transferred to subsequent practice placements](sbl-group-work-teamwork-transfer.md) — related
+- [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — a narrower finding that bears on this claim

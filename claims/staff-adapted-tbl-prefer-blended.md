@@ -48,3 +48,4 @@ Survey of 74 teaching staff (75.6% response rate) with a 17-item attitude questi
 - [Parents of dental students reported maintained interaction and focus during online classes and mostly favored blended learning](parents-perceptions-tbl-blended-preference.md) — related
 - [Most surveyed US K-12 teachers reported knowledge, comfort, and confidence for online teaching during early COVID-19, but only 19% preferred online teaching to classroom teaching](k12-teachers-covid-self-efficacy-online-teaching.md) — related
 - [Students favored a blended instructional approach combining lectures with games or case studies rather than replacing lectures with games](students-favor-blended-lecture-game-approach.md) — related
+- [Health science staff and students consistently express a desire for blended teaching of practical clinical skills in the post-pandemic era](staff-students-desire-blended-clinical-skills-teaching.md) — related

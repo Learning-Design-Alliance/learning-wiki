@@ -88,3 +88,4 @@ Table 2c coefficients (relative to algebra I) show grades particularly low in ad
 - [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related
 - [Time of day shows no significant effect on students' situation-specific engagement once subject, teacher, and day of week are controlled](no-time-of-day-effect-on-situational-engagement.md) — related
 - [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
+- [Students with morning classes on more days of the week have a lower grade point average](more-morning-class-days-lower-gpa.md) — related

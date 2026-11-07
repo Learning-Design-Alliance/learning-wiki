@@ -51,3 +51,4 @@ Teacher feedback questionnaire administered to the 12 participating teachers aft
 - [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
 - [In the experimental group, 88.9% of residents strongly agreed the case database mode improved image interpretation skills and learning interest, and 81.5% were very willing to adopt it in other departments](resident-questionnaire-favorable-toward-case-database-mode.md) — related
 - [The OSP-TCM group outperformed the TT group on formative medical interview scores, with no significant FSP–OSP difference](osp-tcm-medical-interview-formative-advantage.md) — related
+- [Teachers hold a positive view of VSP-TCM as a cost-effective adjunct that should be built around syndromes rather than diseases](teachers-positive-vsp-tcm-perspective.md) — related

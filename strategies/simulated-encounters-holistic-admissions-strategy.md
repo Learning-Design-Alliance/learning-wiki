@@ -46,7 +46,8 @@ The authors recommend that programs consider adding simulated clinical encounter
 - [First-time PANCE pass rates were similar between the MMI cohort (98%) and the two panel-interview cohorts (100%)](../claims/mmi-simulation-similar-pance-pass-rates.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use vocational training as a complementary, not decisive, student-selection criterion, e.g. via a quota for the professionally experienced](vocational-training-complementary-selection-criterion.md)
 
 ## Examples
 -

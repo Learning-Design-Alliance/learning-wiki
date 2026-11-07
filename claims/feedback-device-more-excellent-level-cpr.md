@@ -49,3 +49,4 @@ First-attempt comparison in the randomized controlled trial of 43 medical studen
 - [80% of the VR group achieved excellent final scores (≥270 points) compared to 10% of the control group](vr-excellent-competency-proportion.md) — related
 - [Feedback-equipped CPR training does not significantly change chest recoil or hand position, which were already near ceiling at baseline](feedback-cpr-no-change-recoil-hand-position.md) — related
 - [The RFPETM group had a far larger proportion of students rated excellent (69.77%) on final scores than the TPETM group (4.62%)](rfpetm-excellent-final-score-proportion-69-77-percent.md) — related
+- [Far more simulation-trained students reached good or excellent skill levels than controls](simulation-group-good-excellent-skill-levels.md) — related

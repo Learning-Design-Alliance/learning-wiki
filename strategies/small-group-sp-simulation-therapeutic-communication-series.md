@@ -53,6 +53,7 @@ A concrete implementation recipe drawn from the study's procedures: run a semest
 - [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
 - [Administer a rotating virtual breakout-room SP assessment with 15-minute interviews and 5-minute feedback](virtual-breakout-room-sp-assessment-rotation.md)
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
+- [Run new-nurse assessment as paired role reversal: nurses alternate between being assessed and playing standardized patients, then debrief](paired-role-reversal-sps-assessment-strategy.md)
 
 ## Examples
 -

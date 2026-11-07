@@ -50,3 +50,4 @@ Confidence was rated per case (unconfident, equivocal, confident) on 20 test cas
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — related
 - [Participants perceived training adequacy differently by group: written-instructions group wanted more, expert-led group found it too time-consuming](mul-training-perceived-adequacy-varies-by-group.md) — related
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
+- [The e-learning program significantly increases participants' confidence in responding to suspected abuse cases](elearning-abuse-program-raises-confidence.md) — related

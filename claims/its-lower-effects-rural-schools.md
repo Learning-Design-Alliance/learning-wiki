@@ -46,3 +46,4 @@ Subgroup meta-regression across the S dimension location moderator (urban K=51, 
 
 ## Related Claims
 - [High school teachers report more OpenSciEd engagement challenges than middle school teachers, and urban respondents rate challenges as occurring more often than suburban and rural respondents.](openscied-subgroup-setting-differences.md) — related
+- [Help-seeking's within-school effect on literacy varies by school location: positive in urban and suburban schools, negative in rural schools](help-seeking-literacy-varies-by-location.md) — related

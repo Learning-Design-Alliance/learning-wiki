@@ -49,3 +49,4 @@ Quantitative feedback collected via Microsoft Forms Likert-scale questionnaire f
 - [Students rated the structured viva-voce more positively than the traditional viva-voce, particularly in content coverage and clarity of objectives](structured-viva-rated-higher-than-traditional.md) — related
 - [The hybrid viva-voce format had the strongest association between examiners' scores, with a correlation coefficient of 0.496](hybrid-strongest-examiner-score-correlation.md) — related
 - [Student and examiner satisfaction is high for structured and virtual oral formats (72–96% agreement), with preference for SOEs over traditional viva](high-satisfaction-structured-oral.md) — related
+- [Candidates and examiners reported satisfaction, perceived fairness and trust in a remotely conducted high-stakes viva voce examination](post-exam-survey-satisfaction-fairness-trust.md) — related

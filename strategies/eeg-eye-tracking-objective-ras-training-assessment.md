@@ -53,6 +53,7 @@ The article proposes that its EEG and eye-tracking regression models, once valid
 - [Incorporate a tremor-measuring smartwatch app to support self-supervised training of surgical residents](smartwatch-tremor-app-self-supervised-training.md)
 - [Combine subjective scores, simulator metrics and EEG-based cognitive-load measures for multi-perspective skill assessment](multi-perspective-surgical-skill-assessment-strategy.md)
 - [Use eye-tracking feedback and gradually increasing case complexity to train targeted visual search and cognitive-load management in ECG education](eye-tracking-feedback-ecg-visual-strategy-training.md)
+- [Use low-cost finger tracking on a suturing simulator for independent, expert-free training and objective self-assessment of open suturing skills](low-cost-finger-tracking-independent-suturing-assessment-strategy.md)
 
 ## Examples
 -

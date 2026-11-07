@@ -51,3 +51,4 @@ Random-effects panel regression of 87 students' weekly session outcomes across t
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
 - [Hints in multiple-try feedback marginally reduce students' metacognitive bias score](hints-marginal-bias-score-reduction.md) — related
+- [Additional statistics exercises added to the PBL course were reported ineffective by student evaluations, requiring better coordination with a biostatistics workshop](pbl-statistics-exercises-ineffective.md) — related

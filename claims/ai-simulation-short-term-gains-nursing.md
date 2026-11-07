@@ -100,3 +100,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Second-year nursing students who received empathy mapping with mini-simulation showed significantly higher post-test communication self-confidence than controls](empathy-mapping-mini-simulation-higher-communication-confidence.md) — related
 - [Audio-recorded OSCE assessment cannot capture non-verbal communication, a stated limitation of the trial](audio-recording-limits-nonverbal-assessment.md) — related
 - [In-service nurses' clinical reasoning case-management scores rose significantly from pre-test to post-test for all four illness areas after completing virtual patient cases, in one single-group pre-post study (p < 0.001)](vp-cases-increase-nurse-clinical-reasoning-scores.md) — related
+- [Blended simulation using virtual environments and simulated patients improved students' patient communication on placement](blended-simulation-improved-patient-communication.md) — related

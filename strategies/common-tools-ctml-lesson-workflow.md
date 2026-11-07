@@ -53,6 +53,7 @@ The article recommends a workflow using only commonly available tools: create co
 
 - [Storytelling in Explainer Animations and Videos](storytelling_in_explainer_animations_and_videos.md)
 - [Digital Storytelling](digital_storytelling.md)
+- [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](off-the-shelf-animation-scenario-production-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Multiple linear regression on the full sample (N = 3528); Table 3 reports B = -0
 - [PHTLS training is the strongest independent predictor of passing the knowledge test after adjustment](phtls-training-strongest-predictor-passing.md) — related
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
 - [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related
+- [Sex, level of education and years of working experience showed no significant association with nurses' knowledge of NCI preventive measures](sex-education-experience-no-knowledge-association.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: özsaban-aysel-2026
     resource: "https://doi.org/10.1186/s12909-026-08716-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental (animation) group's post-test motivation scores were statistically significantly higher than the control (skill video) group's. [→ Özsaban Aysel 2026](#ozsaban-aysel-2026)

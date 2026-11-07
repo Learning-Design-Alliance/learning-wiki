@@ -49,6 +49,7 @@ The authors recommend strengthening future evaluations of the CBLC by moving bey
 - [Evaluate CBCL implementations with objective outcomes, longitudinal follow-up, and controlled designs](cbcl-future-evaluation-strategy.md)
 - [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
 - [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
+- [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
 
 ## Examples
 -

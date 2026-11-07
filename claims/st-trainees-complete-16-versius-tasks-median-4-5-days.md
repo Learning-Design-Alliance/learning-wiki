@@ -48,3 +48,4 @@ Pilot cohort study of six ST4–ST8 trainees at one UK hospital between May and 
 ## Related Claims
 - [Trainee-level performance varied significantly, with the ST4 trainee passing tasks in fewer attempts than the ST7 and ST8 trainees](st4-outperformed-st7-st8-on-simulation-tasks.md) — related
 - [Task completion time worsens after training gaps, with efficiency loss evident by six months](robotic-simulation-efficiency-loss-by-six-months.md) — related
+- [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — related

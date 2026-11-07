@@ -47,3 +47,4 @@ Comparative finding from the study of 198 German mathematics teachers assessed w
 ## Related Claims
 - [Gymnasium-qualified mathematics teachers show higher cognitive connectedness between PCK and CK](gymnasium-teachers-higher-pck-ck-connectedness.md) — related
 - [PCK and CK of secondary mathematics teachers can be distinguished empirically](pck-ck-empirically-distinguishable.md) — related
+- [Secondary mathematics teachers with thorough mathematics training outperformed teachers from other schools in both PCK and CK](math-trained-teachers-outperformed-in-pck-and-ck.md) — possibly the same claim (merge candidate)

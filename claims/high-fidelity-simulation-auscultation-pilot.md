@@ -52,3 +52,4 @@ Quasi-experimental pilot study with 17 nursing students (10 intervention, 7 cont
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
 - [Nursing students trained with a high-fidelity simulator achieved significantly higher post-test cardiac auscultation knowledge scores than students taught by traditional lecture and static manikin methods](hfs-higher-knowledge-cardiac-auscultation.md) — reports the opposite
 - [Nursing students trained with a high-fidelity simulator achieved significantly higher post-test cardiac auscultation skill scores than students taught with a static manikin](hfs-higher-skill-cardiac-auscultation.md) — reports the opposite
+- [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — a broader claim this one bears on

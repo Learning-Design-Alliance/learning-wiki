@@ -92,3 +92,4 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [AI-mediated active learning produces significantly larger EFL writing gains than traditional teacher-centered instruction in a 15-week quasi-experiment](ai-mediated-active-learning-writing-gains.md) — related
 - [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](fcm-loc-no-immediate-achievement-difference.md) — reports the opposite
 - [The flipped classroom significantly increased English test scores versus traditional teaching](flipped-classroom-raises-english-test-scores.md) — related
+- [Flipped classroom and traditional lecture groups showed no statistically significant difference in pretest or posttest scores among second-year medical students](fcm-no-achievement-difference-medical-students.md) — related

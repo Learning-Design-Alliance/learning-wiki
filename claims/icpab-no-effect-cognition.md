@@ -72,3 +72,4 @@ Meta-analysis of three samples (n = 585) from two studies for attention performa
 - [In-classroom physical activity breaks show no significant effect on children's test anxiety](icpab-no-effect-test-anxiety.md) — related
 - [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md) — related
 - [Classroom-based physical activity showed no statistically significant pooled effect on cognitive function in primary school children (SMD = 0.33, CI crossing zero)](classroom-physical-activity-no-effect-cognitive-function.md) — a broader claim this one bears on
+- [Classroom-based physical activity breaks improve study-approach variables (motivation, organization, flexibility, concentration) and reduce anxiety, with no change in didactic material development or attitude towards school](active-breaks-improve-study-approach-qas.md) — related

@@ -47,3 +47,4 @@ End-of-semester external assessment by course tutors, who supervise 6–7 studen
 ## Related Claims
 - [A one-time communication training improves dental students' self-assessed communication skills, especially complex skills such as conversation structure and nonverbal communication](communication-training-improves-dental-student-self-assessment.md) — related
 - [Treatment partners rated the intervention group significantly better on conversation structure, nonverbal signals, dealing with behaviour types and questioning techniques](treatment-partners-rate-intervention-group-better.md) — related
+- [Students rate the HMD-based course's learning experience comparable to tutor-led and significantly better than e-learning](hmd-learning-experience-better-than-elearning.md) — related

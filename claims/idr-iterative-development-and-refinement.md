@@ -47,3 +47,4 @@ The authors' retrospective account of the methodology's iterative development an
 ## Related Claims
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
 - [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related
+- [Iterative testing with 120 participants across about 10 versions drove major redesigns, especially of onboarding](iterative-testing-120-testers-onboarding.md) — related

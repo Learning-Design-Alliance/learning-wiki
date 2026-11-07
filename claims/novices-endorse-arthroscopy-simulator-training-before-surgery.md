@@ -53,3 +53,5 @@ Agree/Disagree/Undecided items completed by all 109 satisfaction-sample particip
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — possibly the same claim (merge candidate)
 - [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related
+- [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
+- [All 51 students agreed the simulator trained motor coordination and 2D perception, improved understanding, consolidated learning, and should be used before real surgery](unanimous-student-endorsement-of-simulator-skills-training.md) — related

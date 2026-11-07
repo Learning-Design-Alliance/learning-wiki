@@ -49,3 +49,4 @@ From the Perfusionists' Attitudes on Perfusion Safety survey (148 respondents). 
 - [Perfusionists report knowledge gaps in responding to some equipment emergencies despite high confidence in most scenarios](perfusionist-emergency-knowledge-gaps.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Turkish perfusionists report frequent equipment failures and perfusion accidents during practice](perfusionists-report-frequent-equipment-failures.md) — related
+- [All 51 students agreed the simulator trained motor coordination and 2D perception, improved understanding, consolidated learning, and should be used before real surgery](unanimous-student-endorsement-of-simulator-skills-training.md) — related

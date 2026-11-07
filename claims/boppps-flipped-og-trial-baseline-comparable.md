@@ -57,3 +57,4 @@ Baseline simulation examination before training: experimental thinking scores av
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [The simulation-trained and traditionally trained nurse groups were comparable at baseline on gender, age, working years, and education level](baseline-comparability-simulation-vs-traditional-groups.md) — related
+- [Baseline characteristics of the integrated PBL + LBC and LBC groups did not differ significantly in gender, nationality, or age](baseline-equivalence-integrated-pbl-groups.md) — related

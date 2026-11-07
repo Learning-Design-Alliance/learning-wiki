@@ -50,3 +50,4 @@ Pairwise Pearson's correlations of student sub-scores on physical, 2D, and VR be
 - [Item difficulty in anatomy bellringer testing does not differ significantly across physical specimen, 2D image, and VR modalities](br-item-difficulty-equal-across-modalities.md) — related
 - [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related
 - [Scores on the GGR and VLAT data visualization literacy assessments are moderately correlated (ρ = 0.56)](vlat-ggr-moderate-score-correlation.md) — related
+- [All evaluated performance criteria on the camera navigation exercise show high pairwise Pearson correlation, with p below 0.001 for all paired correlations](endotrainer-criteria-high-correlation.md) — related

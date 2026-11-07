@@ -56,3 +56,4 @@ Observational analysis of California School Staff Survey data from 118,986 secon
 - [Fewer than half of secondary staff strongly agreed that their schools foster instructional equity (46%) or respect for diversity (45%)](fewer-than-half-staff-strongly-agree-equity-diversity.md) — related
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
 - ['Non-White' students have more positive perceptions of integrated TBL than White students across several perception domains.](non-white-students-more-positive-tbl-perceptions.md) — related
+- [Stronger teacher belief in school meritocracy is associated with less support for equity-enhancing practices and initiatives](bsm-negatively-predicts-equity-support.md) — related

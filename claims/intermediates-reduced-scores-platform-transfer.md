@@ -50,3 +50,4 @@ The review reports, citing Ghazi et al. 2023, a comparative study of 15 urology 
 - [Participants perceive skills as transferable between the Hugo RAS and dV-trainer, with higher workload reported on the SP platform](participant-perceptions-transferability-workload.md) — related
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
 - [Prior laparoscopic and robotic experience transferred to the Versius platform, enabling proficiency in fewer than 40 cases under structured proctoring](skill-transfer-prior-experience-versius.md) — related
+- [All ten participants perceived multi-platform access as beneficial and console skills as transferrable across platforms](participants-perceive-skills-transferrable.md) — reports the opposite

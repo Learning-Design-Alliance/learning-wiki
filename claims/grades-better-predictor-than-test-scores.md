@@ -75,3 +75,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
 - [Social and temporal comparison effects are stronger in studies using grades rather than test scores as achievement indicators](ipd-meta-grades-stronger-social-temporal-effects-than-test-scores.md) — related
 - [Higher secondary-school grades and private preparatory class attendance were independently associated with entrance exam success](grades-and-preparatory-classes-predict-entrance-success.md) — related
+- [High school admission grades correlated significantly with graduating GPA for IGCSE, JGSC, IB and Kuwaiti entrants but not for other degree types](high-school-grades-correlate-with-graduating-gpa-select-degrees.md) — a narrower finding that bears on this claim

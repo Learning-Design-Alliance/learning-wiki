@@ -48,3 +48,4 @@ Cohort comparison of 2023 flipped (N = 39) versus 2022 traditional lecture (N = 
 ## Related Claims
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — a broader claim this one bears on
 - [Students in the P-I-T-D-S flipped classroom reported significantly higher satisfaction than traditional-lecture students across nearly all questionnaire items](pitds-flipped-higher-satisfaction.md) — related
+- [Undergraduate students taught Neurosurgery with a flipped classroom obtained a significantly higher mean exam score than students taught by traditional lecture in the same academic year](fc-neurosurgery-higher-mean-score.md) — related

@@ -47,3 +47,4 @@ Inter-rater agreement analysis of the three raters' OSATS global rating scores, 
 ## Related Claims
 - [Raters agreed strongly with each other (r = 0.725–0.838) but correlated only moderately with actual difficulty (r = 0.455–0.545)](ugmle-interrater-strong-actual-moderate-correlations.md) — related
 - [Rubric-based scoring in the PROMPTa study showed strong intra-rater and moderate-to-strong inter-rater reliability](prompta-rater-reliability-estimates.md) — related
+- [All evaluated performance criteria on the camera navigation exercise show high pairwise Pearson correlation, with p below 0.001 for all paired correlations](endotrainer-criteria-high-correlation.md) — related

@@ -47,3 +47,4 @@ Results section reporting OSCE scores (diagnosis/13, uterine atony/15, blood tra
 ## Related Claims
 - [At 6 months, the simulation group reported significantly higher confidence than the theory-only group in diagnosis, management, transfusion and teamwork, except uterotonic use where confidence was higher in the theory-trained group](confidence-higher-in-simulation-group-at-six-months.md) — related
 - [HFS/curriculum integration significantly improves knowledge of nursing care during vaginal delivery (86% vs. 46%)](hfs-integration-vaginal-delivery-knowledge.md) — related
+- [The skill advantage from pre-clinical simulation training persisted across three academic semesters](simulation-effect-long-lasting-three-semesters.md) — related

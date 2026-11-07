@@ -52,3 +52,4 @@ Thematic synthesis of 108 quotes under social design found that "Some felt isola
 - [Cooperative learning benefits both low- and high-proficiency EFL students in the Chinese context](cooperative-writing-benefits-all-proficiency-levels.md) — related
 - [Students reported moderate to high digital readiness while valuing face-to-face instructor contact](students-moderately-highly-digitally-ready.md) — related
 - [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](hybrid-student-social-isolation.md) — related
+- [Lecturer presence was experienced positively by synchronous students while asynchronous students reported reduced social pressure despite missing the personal contact](lecturer-presence-social-pressure-theme.md) — related

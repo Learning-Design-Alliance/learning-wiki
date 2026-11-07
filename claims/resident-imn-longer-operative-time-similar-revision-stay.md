@@ -93,3 +93,4 @@ The matched cohort reports "Median postoperative stay was similar between groups
 - [In exploratory analyses, the only factor significantly associated with prolonged length of stay was the study center](study-center-only-significant-predictor-prolonged-los.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — a narrower finding that bears on this claim
 - [Median operative duration of TT cases was 65 minutes, comparable to published attending-supervised and consultant times](tt-operative-duration-65-minutes.md) — related
+- [Operative time was associated with baseline uterus disease, hospital stay over 2 days, endometriosis, and intraoperative complications](operative-time-associated-case-factors.md) — related

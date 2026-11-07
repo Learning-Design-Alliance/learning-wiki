@@ -48,3 +48,4 @@ Blinded scoring of 71 student video attempts by two independent surgeons using a
 ## Related Claims
 - [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
+- [Knot performance does not differ statistically by prior video-surgery experience](video-experience-no-difference-knot-performance.md) — related

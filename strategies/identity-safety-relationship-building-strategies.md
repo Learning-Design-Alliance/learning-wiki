@@ -47,6 +47,7 @@ The report recommends concrete relationship-building strategies: empathy-enhanci
 - [Building a Trusting Community](building_a_trusting_community.md)
 - [Teacher Racial Identity Work](racial_identity_work.md)
 - [Start with Yourself (Identity Mapping)](start-with-yourself-identity-mapping.md)
+- [Institutional debiasing: give teachers time to reflect on biases, reduce cognitive load and provide clear evaluation rubrics, and use values affirmation to lower defensiveness](institutional-teacher-debiasing-strategy.md)
 
 ## Examples
 -

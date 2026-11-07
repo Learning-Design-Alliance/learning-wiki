@@ -49,3 +49,4 @@ Fleiss-kappa analysis in the ten-examiner video-rating study; experienced examin
 - [Rater disagreement is significantly larger for low-performing candidates than for high-performing candidates in rater-based assessment](rater-disagreement-larger-for-low-performers.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - [A ten-examiner majority-rule verdict is robust across experienced and most-confident subgroups](majority-rule-gold-standard-robust.md) — related
+- [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — a narrower finding that bears on this claim

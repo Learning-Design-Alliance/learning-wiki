@@ -50,3 +50,4 @@ Same logistic regression analysis of 4,831 learners across six MOOCs. "the same 
 - [Learners inclined to seek help were less likely to pass an assessment after completing a lecture](help-seekers-less-likely-pass-assessment-after-lecture.md) — related
 - [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related
 - [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) — related
+- [Rehearsal and time regulation show negative within-school associations with elementary achievement, and help-seeking is negatively linked to math](rehearsal-time-help-seeking-negative-elementary.md) — related

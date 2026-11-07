@@ -91,3 +91,4 @@ Parallel RCT (n=40 medical students) across 10 ex vivo laparoscopic cholecystect
 - [Meta-analysis by Yeung et al. found AR improved performance time, confidence, and satisfaction but had no significant effect on knowledge or skill versus controls](ar-meta-analysis-improves-time-confidence-satisfaction-not-knowledge-skill.md) — related
 - [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — a narrower finding that bears on this claim
 - [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related
+- [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related

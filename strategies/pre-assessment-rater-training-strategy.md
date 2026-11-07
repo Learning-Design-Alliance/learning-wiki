@@ -48,6 +48,7 @@ In its discussion of limitations, the article recommends training raters before 
 - [Train faculty and students in rubric use with calibration strategies to maximize agreement and self-assessment accuracy](rubric-calibration-training-strategy.md)
 - [Use validated global rating scales with trained, expert raters and consensus sessions when generating ground truth for surgical AI skill assessment](trained-rater-consensus-sessions-ai-ground-truth.md)
 - [Have surgical residents regularly review and assess their own and others' procedure videos as part of training](resident-video-self-assessment-strategy.md)
+- [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
 
 ## Examples
 -

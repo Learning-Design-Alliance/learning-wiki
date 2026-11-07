@@ -51,3 +51,4 @@ Pilot evaluation of a beta app version with a cohort of 13 students using an ano
 - [Overall perceptions of alignment between examinations and course material were moderate to high across all respondent groups](moderate-high-perceived-exam-course-alignment.md) — related
 - [Participants engaged with embedded resource links in 67% of the SMS microlearning messages](sms-microlearning-link-engagement-67-percent.md) — related
 - [The SMS microlearning series achieved full completion with no unsubscribes among enrolled clinicians](sms-microlearning-full-completion-no-unsubscribes.md) — related
+- [Student-generated annotated e-workbooks were rated the most valuable resource for examination preparation.](student-generated-eworkbooks-best-revision-resource.md) — related

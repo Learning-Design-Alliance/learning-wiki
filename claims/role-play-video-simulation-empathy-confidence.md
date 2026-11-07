@@ -70,3 +70,4 @@ Theme 3, sub-theme 1 finding from the same qualitative interview dataset; the ar
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — possibly the same claim (merge candidate)
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
+- [The authors report role reversal cultivates flexible problem-solving compared with one-way traditional teaching](role-reversal-flexible-problem-solving-claim.md) — related

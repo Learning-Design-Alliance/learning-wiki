@@ -50,3 +50,5 @@ Summative evaluation in the three-group RCT: an online case exam, an offline cli
 - [The OSP-TCM group outperformed the TT group on formative medical interview scores, with no significant FSP–OSP difference](osp-tcm-medical-interview-formative-advantage.md) — related
 - [Students in both SP-TCM groups reported higher satisfaction, confidence, motivation, and perceived skill gains than TT students](sp-tcm-student-feedback-advantage.md) — related
 - [Both SP-TCM groups scored higher than the TT group on written medical records and TCM syndrome differentiation and therapeutic regimen](sp-tcm-written-records-syndrome-differentiation-advantage.md) — related
+- [SP-rated real-time encounter performance was higher for SSP-TCM and OSP-TCM trainees than for TM trainees on the ACIR rubric](sp-rated-encounter-performance-higher-simulation-groups.md) — related
+- [VSP-TCM training improves summative assessment outcomes in systematic knowledge, TCM technology application, syndrome differentiation, and communication skills, but not medical writing](vsp-tcm-summative-assessment-gains.md) — related

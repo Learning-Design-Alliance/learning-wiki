@@ -68,6 +68,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
 - [Use clinical simulation scenarios in health institutions to develop and assess nurses' infusion-therapy clinical judgment](encourage-clinical-simulation-infusion-nurse-education.md)
+- [Offer unexpected death simulation training as a regular part of health professional curricula](unexpected-death-simulation-regular-curriculum-strategy.md)
 
 ## Examples
 -

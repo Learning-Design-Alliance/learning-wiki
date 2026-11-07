@@ -50,3 +50,4 @@ Thematic analysis of interviews: "participants acknowledged its limitations in r
 - [Manikins show anatomical discrepancies against human imaging data, yet may still support effective skill acquisition, suggesting educational fidelity can matter more than anatomical replication](anatomical-discrepancy-does-not-preclude-skill-acquisition.md) — related
 - [Included studies acknowledge OSS cannot fully reproduce the lived experience of people with obesity](oss-cannot-replicate-lived-experience.md) — related
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
+- [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related

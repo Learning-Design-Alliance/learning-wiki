@@ -67,3 +67,4 @@ Force-measurement analysis of the first exam in the same trial. The article repo
 ## Related Claims
 - [Training sequence did not significantly affect force exerted on tissue during the second robotic hepaticojejunostomy exam](no-force-difference-between-sequences-second-exam.md) — related
 - [Subjective gentleness ratings correlate negatively with objectively measured force on tissue during robotic suturing](gentleness-negatively-correlated-with-force.md) — related
+- [Force parameters decrease over trials for novices and experts but not intermediates](force-decrease-learning-curve-novices-experts-only.md) — related

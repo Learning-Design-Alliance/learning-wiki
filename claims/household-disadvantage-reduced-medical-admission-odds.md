@@ -53,3 +53,4 @@ Random-effects meta-analysis of 22 effect sizes from the review's included studi
 - [Household economic and educational disadvantage is associated with poorer progression through medical school, with effects larger for progression than for selection](household-disadvantage-poorer-medical-progression.md) — related
 - [Socioeconomic disadvantage shows a persistent adverse association across both selection and progression stages of medical education](ses-disadvantage-persistent-across-continuum.md) — related
 - Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
+- [Higher SES and speaking Greek at home predict lower odds of membership in the minimal profile only](ses-home-language-protect-minimal-profile.md) — related

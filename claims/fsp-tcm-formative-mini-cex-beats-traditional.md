@@ -52,3 +52,6 @@ Formative evaluation using a refined mini-CEX on a nine-point scale at week 6 of
 - [FSP-TCM total cost ($7590.00) was significantly lower than OSP-TCM total cost ($17415.60)](fsp-tcm-lower-cost-than-osp-tcm.md) — related
 - [More FSPs than OSPs reported giving hints and using medical jargon during simulation, though differences were not statistically significant](fsps-gave-more-hints-and-jargon-than-osps.md) — related
 - [Most teachers favored FSP-TCM: 83% were willing to continue using it and 91.66% agreed it supplements bedside teaching and reduces costs](teachers-favor-fsp-tcm-continuation.md) — related
+- [Trainees in both SP groups reported more favorable post-training feedback than TM trainees across multiple perceived outcomes](sp-groups-more-favorable-post-training-feedback.md) — related
+- [Both SSP-TCM and OSP-TCM simulation training improved TCM clinical skills performance relative to traditional didactic training](sp-simulation-improves-tcm-clinical-skills.md) — related
+- [VSP-TCM training improves formative mini-CEX scores in medical interviewing, clinical judgment, and comprehensive ability versus traditional academic training](vsp-tcm-formative-mini-cex-gains.md) — related

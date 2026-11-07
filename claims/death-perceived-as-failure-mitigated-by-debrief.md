@@ -49,3 +49,4 @@ Qualitative theme from the included studies, particularly Lizotte 2015, where pr
 - [Prebrief disclosure that the manikin may die was not reported by participants as essential for psychological safety](prebrief-death-disclosure-not-essential.md) — related
 - [Paediatric manikin death does not impair resuscitation performance measured against the NRP algorithm](manikin-death-no-performance-impairment-nrp.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
+- [Debriefing intensified the emotional impact of the death simulation and enabled participants to process their feelings](debriefing-intensifies-death-simulation-impact.md) — related

@@ -52,3 +52,4 @@ Focused ethnography of 45 students across seven CBL sessions, using field notes,
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — a broader claim this one bears on
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Preclinical medical students reported significantly higher overall ChatGPT usage than clinical students](preclinical-students-higher-chatgpt-usage-than-clinical.md) — related
+- [Student-generated annotated e-workbooks were rated the most valuable resource for examination preparation.](student-generated-eworkbooks-best-revision-resource.md) — related

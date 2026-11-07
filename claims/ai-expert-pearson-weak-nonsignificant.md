@@ -53,3 +53,4 @@ Correlation analysis of the 32 paired AI and expert rubric scores. The article s
 - [Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans](automated-judge-human-alignment-conservative-bias.md) — reports the opposite
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — reports the opposite
 - [ChatGPT-4o and expert agreement on root canal treatment radiograph ratings is poor to moderate, with ICC ranging from 0.36 to 0.45 across five rubric criteria](ai-expert-icc-poor-moderate-endodontic.md) — related
+- [The Dentist automated scoring metric correlates strongly with expert dentists' ratings of root canal access outcomes](dentist-automated-scoring-metric-correlates-experts.md) — reports the opposite

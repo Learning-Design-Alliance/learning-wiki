@@ -51,3 +51,4 @@ Observational cross-sectional simulation study of 93 third-year dental students 
 - [High-anxiety students report lower self-confidence during mandibular root canal procedures despite identical median ratings](high-anxiety-lower-confidence-mandibular.md) — related
 - [Female students are overrepresented in the high-anxiety group for mandibular procedures, but gender is not associated with performance differences](female-overrepresentation-high-anxiety-mandibular.md) — related
 - [Instrument separation shows a non-significant trend toward clustering among high-anxiety students in the mandibular exercise only](instrument-separation-high-anxiety-trend.md) — a narrower finding that bears on this claim
+- [Treatment difficulty and instrumentation technique did not influence evaluators' scores under either assessment method](difficulty-technique-no-influence-scores.md) — related

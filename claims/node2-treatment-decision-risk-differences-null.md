@@ -47,3 +47,4 @@ Risk-difference analysis of appropriate treatment decisions at Node-2 in the 271
 ## Related Claims
 - [Across all three case domains, individual learner SCT scores showed heterogeneous rises, falls, or no change from pre-test to post-test in one single-group pre-post study of DCBL](heterogeneous-individual-sct-responses-dcbl.md) — related
 - [Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study](single-session-dcbl-no-significant-overall-sct-change.md) — related
+- [Interns' antibiotic selection on five clinical vignettes did not significantly differ from pre-test to post-test in a single-group pre-post study of a one-hour PEST teaching session (null result; equivalence not tested)](pest-teaching-no-significant-antibiotic-selection-change.md) — related

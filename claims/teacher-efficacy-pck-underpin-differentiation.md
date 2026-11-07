@@ -52,3 +52,4 @@ Narrative review attribution: the article reports Dixon et al.'s (2014) argument
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](stem-more-amenable-difficulty-scaling.md) — related
 - [The 16-item CT–PCK Survey measures CT pedagogical content knowledge for math as a single overall construct](ct-pck-16-item-single-construct.md) — related
 - [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) — a narrower finding that bears on this claim
+- [Student teachers showed weak mathematics PCK at entry but substantial development across all MPCK areas after a pedagogy course](pedagogy-course-improved-mpck-student-teachers.md) — related

@@ -53,3 +53,4 @@ The review reports, citing Kim et al., a porcine knee model training evaluation.
 - [The overall positive surgical margin rate was 27.8%, with PSM rates higher in junior surgeons (39.5% and 36.1%) than senior surgeons (17.5% and 21.1%), though not statistically significant](psm-rates-by-surgeon-experience-versius.md) — related
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — related
 - [More experienced surgeons rate knowledge of imaging anatomy and spatial perception as more important pre-operative general skills than trainees do](experience-level-differences-general-skill-importance-ratings.md) — related
+- [More experienced surgeons complete the training exercises faster, with specialists fastest, followed by senior residents and young residents](tes-training-experience-gradient-completion-time.md) — related

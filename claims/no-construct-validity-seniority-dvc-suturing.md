@@ -52,3 +52,4 @@ Construct validity test comparing three seniority groups on the RARP suturing ta
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — possibly the same claim (merge candidate)
+- [The 3D-printed LIIA model shows construct validity: MAOSATS scores differ significantly across expert, intermediate, and novice groups on the model](liia-3d-model-construct-validity.md) — related

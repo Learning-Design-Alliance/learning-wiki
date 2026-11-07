@@ -85,3 +85,4 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [Students' self-rated attitudes toward team-based learning rose significantly from pre-test to post-test after a TBL course, except satisfaction with group member evaluation, in one uncontrolled pre-post study](tbl-improves-teamwork-attitudes-except-peer-assessment.md) — related
 - [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related
 - [Students perceived PBL as more effective than TBL for knowledge acquisition, teamwork support, and higher marks](pbl-perceived-more-effective-learning-tbl-nu-survey.md) — related
+- [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related

@@ -65,6 +65,7 @@ Relationship quality is one of the most consistent correlates of achievement and
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 - [Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition](safe-mathematical-community-practices.md)
+- [Run icebreaking activities before formal team activities to build trust and intimacy among newly formed teams](icebreaking-before-team-activities-strategy.md)
 
 ## Examples
 - **Restorative practice circles** (used across many US districts): structured community circles in which teachers and students share perspectives, building relational trust that underpins classroom management.

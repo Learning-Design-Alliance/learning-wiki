@@ -57,3 +57,5 @@ Controlled two-group comparison after equal practice: two initially equal groups
 - [Settling on final age-range or universal test scales is premature while competing test systems correlate over 90 per cent](premature-universal-test-scales-high-correlations.md) — related
 - [Late-afternoon immediate memory work shows about 2 per cent relative inefficiency compared with early morning work in 11-year-old boys](afternoon-memory-inefficiency-two-percent-winch-1911.md) — related
 - [A minority of children cease to improve and deteriorate during repeated memory tests, deterioration being concentrated among afternoon workers](individual-deterioration-afternoon-workers-winch-1911.md) — related
+- [Course grades are marginally higher for afternoon-only courses than morning-only courses, a difference the authors consider probably not meaningful](afternoon-course-grades-marginally-higher.md) — related
+- [Students with morning classes on more days of the week have a lower grade point average](more-morning-class-days-lower-gpa.md) — related

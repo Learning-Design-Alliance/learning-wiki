@@ -68,3 +68,4 @@ Thematic analysis identified absence of formal administrative support as a theme
 - [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — a broader claim this one bears on
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Opportunities to strengthen interprofessional socialisation include enhanced institutional support, opportunities for socialisation and more collaboration](opportunities-to-strengthen-interprofessional-socialisation.md) — related
+- [Local departmental culture is a leading barrier to establishing simulation-based training in emergency departments](local-culture-barrier-ed-sbt.md) — related

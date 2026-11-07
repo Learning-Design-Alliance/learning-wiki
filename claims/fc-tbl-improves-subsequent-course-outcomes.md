@@ -50,3 +50,4 @@ Tracking study comparing final exam scores of the same two cohorts (LBL n = 54, 
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — a broader claim this one bears on
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
+- [FC+CBL students scored lower on the final exam than traditional-method students in Introduction to Environmental Health Science](fc-cbl-lower-final-exam-score-mph.md) — related

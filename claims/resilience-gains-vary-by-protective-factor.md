@@ -50,3 +50,4 @@ Descriptive comparison of by-factor mean gain scores in the experimental group o
 ## Related Claims
 - [The intervention produced significant gains on each of the ten targeted protective factors of resilience](resiliency-module-gains-all-ten-protective-factors.md) — related
 - [In the experimental group the share of teachers with adequate self-esteem rose to 58% and low self-esteem fell to 13% during the training program, while the control group stayed the same](training-program-self-esteem-shift-experimental-group.md) — related
+- [Attaching to students' study groups and attending self-development programs are associated with better self-esteem](study-groups-self-development-protective-self-esteem.md) — related

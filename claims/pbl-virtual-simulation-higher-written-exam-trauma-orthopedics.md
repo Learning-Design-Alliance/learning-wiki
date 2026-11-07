@@ -71,3 +71,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [Students in the PBL-online group had significantly higher grade point averages in their internship semester than the traditional group, but the two groups were not equivalent at baseline](pbl-online-group-gpa-difference.md) — related
 - [A larger share of the combined-method group reported improved independent learning ability (88.46% vs 65.68%) and improved learning enthusiasm (89.42% vs 76.47%)](cbl-clinical-pathway-independent-learning-enthusiasm.md) — related
 - [O2O/PBL trainees scored higher on the clinical thinking examination than LBT trainees](o2o-pbl-higher-clinical-thinking-scores-nephrology.md) — related
+- [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related

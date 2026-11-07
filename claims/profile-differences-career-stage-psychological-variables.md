@@ -82,3 +82,5 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Age, marital status, educational level, and professional title did not significantly affect PCC competence in the multiple regression](demographics-nonsignificant-in-regression.md) — reports the opposite
 - [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related
 - [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](ebp-skills-age-workplace-experience-differences.md) — related
+- [Sex, level of education and years of working experience showed no significant association with nurses' knowledge of NCI preventive measures](sex-education-experience-no-knowledge-association.md) — related
+- [Teaching-skill gains were unrelated to sociodemographic variables including gender, residency year, prior teaching experience, and undergraduate methodology](snapps-gains-independent-of-demographics.md) — reports the opposite

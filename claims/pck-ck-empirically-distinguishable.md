@@ -48,3 +48,4 @@ Quantitative analysis of theory-based PCK and CK tests administered to German ma
 - [Gymnasium-qualified mathematics teachers show higher cognitive connectedness between PCK and CK](gymnasium-teachers-higher-pck-ck-connectedness.md) — related
 - [Gymnasium-qualified mathematics teachers outscore teachers from other school types on both PCK and CK](gymnasium-teachers-outscore-both-knowledge-categories.md) — related
 - [Intervention gains were mainly in reflective Content Knowledge, while identification of PCK errors remained nearly unchanged](ck-gains-pck-unchanged-video-task.md) — a narrower finding that bears on this claim
+- [Secondary mathematics teachers with thorough mathematics training outperformed teachers from other schools in both PCK and CK](math-trained-teachers-outperformed-in-pck-and-ck.md) — related

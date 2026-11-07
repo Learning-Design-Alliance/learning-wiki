@@ -43,6 +43,7 @@ The review recommends combining Internet of Things sensing and biometric verific
 ## Related Strategies
 
 - [Mitigation strategies pairing each AI-DSS challenge with a targeted countermeasure](ai-dss-challenge-mitigation-strategies.md)
+- [Layer multiple safeguards to protect academic integrity in online examinations](online-exam-integrity-safeguards.md)
 
 ## Examples
 -

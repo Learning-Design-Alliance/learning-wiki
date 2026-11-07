@@ -60,3 +60,4 @@ Bivariate analyses and ANOVA of the 330-RN cross-sectional sample found "No stat
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
 - [Attrition at time 3 was high (73.6%) but responders and nonresponders did not differ significantly in age or sex](time3-attrition-missing-at-random.md) — related
 - [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related
+- [Sex, level of education and years of working experience showed no significant association with nurses' knowledge of NCI preventive measures](sex-education-experience-no-knowledge-association.md) — related

@@ -45,4 +45,4 @@ Post-experiment ratings of the observed peer on 7-point Likert scales, tested wi
 
 
 ## Related Claims
--
+- [A pop-up quiz tablet refocused idle multiplayer players during long observation steps](quiz-tablet-refocus-multiplayer-players.md) — related

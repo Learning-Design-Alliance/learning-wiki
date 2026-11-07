@@ -61,6 +61,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 - [Deliver a portion of clinical nursing skills instruction through mobile-based video learning that students can replay anytime](mobile-video-learning-for-clinical-skills-strategy.md)
 - [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
+- [Deliver standardized e-learning modules asynchronously as a supplement to clinical rotations, shared across institutions](shared-asynchronous-e-module-rotation-supplement-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,5 @@ Meta-analysis of two intervention samples (n = 137 students) from a single Swiss
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — related
+- [A 12-week classroom-based physical activity break program significantly improves objective study-test performance (comprehension and memorization) in adolescents](active-breaks-improve-objective-study-tests.md) — related
+- [A 12-week classroom-based physical activity break program significantly increases scholastic self-efficacy in adolescents compared with regular lessons](active-breaks-increase-scholastic-self-efficacy.md) — related

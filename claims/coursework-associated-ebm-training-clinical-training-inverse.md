@@ -69,3 +69,4 @@ Chi-square comparison of clinical-training participation by EBM training status 
 - [Palestinian medical students understand basic EBM terms better than advanced appraisal-related terms, and prior EBM training is associated with higher knowledge of most terms](ebm-terminology-gradient-basic-advanced-palestinian-students.md) — related
 - [Palestinian medical students hold positive attitudes towards EBM, with an attitude-competency gap and only one attitude item differing significantly by training status](positive-ebm-attitudes-attitude-competency-gap.md) — related
 - [Palestinian medical students report limited access to paid databases, funding, and mentorship as barriers to EBM engagement](structural-barriers-ebm-palestinian-students.md) — related
+- [Additional statistics exercises added to the PBL course were reported ineffective by student evaluations, requiring better coordination with a biostatistics workshop](pbl-statistics-exercises-ineffective.md) — related

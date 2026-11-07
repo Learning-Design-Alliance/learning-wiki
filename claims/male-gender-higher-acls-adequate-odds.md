@@ -49,3 +49,4 @@ Logistic regression analysis of the 124 ACLS trainees comparing males with femal
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [Female participants demonstrated significantly better knowledge of oral care/health management for cancer patients than males (58.9% vs. 47.4%, p < 0.05)](females-exceed-males-oral-care-management-knowledge.md) — reports the opposite
 - [Male students showed significantly higher overall satisfaction and attitude toward TBL than female students](male-students-higher-tbl-satisfaction-attitude.md) — related
+- [Female gender independently predicts low self-esteem among Saudi medical students](female-gender-predicts-low-self-esteem-medical-students.md) — related

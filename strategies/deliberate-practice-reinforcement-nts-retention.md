@@ -41,6 +41,7 @@ The review recommends that training programs include reinforcement schedules bec
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Extend patience training with additional sessions to target well-being as well as patience](additional-sessions-for-wellbeing-strategy.md)
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
+- [Schedule reinforcement follow-up when designing sepsis education interventions to sustain nurses' knowledge](reinforcement-follow-up-sustain-sepsis-knowledge.md)
 
 ## Examples
 -

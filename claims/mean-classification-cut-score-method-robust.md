@@ -55,3 +55,4 @@ Two cut-score computation methods were applied to panelist ratings of 15 portfol
 - [Person-oriented and dimensional methods each predicted reading achievement significantly better than the categorical method](dimensional-person-oriented-beat-categorical-reading-prediction.md) — related
 - [Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills](percent-meeting-standards-imprecise-metric.md) — related
 - [A credible pass/fail standard of 34.4% was established using the contrasting groups' method](foi-test-pass-fail-standard-34-4-percent.md) — related
+- [The authors position this construct validity study as a first step, with concurrent validity and a pass-fail cut-off as required next steps before true proficiency assessment](construct-validity-first-step-toward-concurrent-validity-pass-fail.md) — related

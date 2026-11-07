@@ -50,3 +50,4 @@ Multivariable logistic regression in the 922-student survey (Table 6). Note the 
 - [Higher physical and mental fatigue are associated with lower odds of high academic performance in fasting medical students](fatigue-negatively-associated-academic-performance-ramadan.md) — related
 - [Minimum dietary diversity is associated with approximately three times better academic performance in Ethiopian primary school children](dietary-diversity-associated-academic-performance-ethiopia.md) — related
 - [Stress/anxiety and sleep disturbances are counterintuitively associated with better academic performance in fasting students](stress-sleep-disturbance-better-performance-ramadan.md) — related
+- [Eating breakfast at least 4 days per week is associated with higher subjective academic achievement among university students](breakfast-four-days-higher-saas.md) — related

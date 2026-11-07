@@ -51,3 +51,4 @@ RA-CUSUM analysis of 191 MIE cases (2015–2022) split into trainer (n=100) and 
 - [No learning curve was observed for anastomotic leakage; trainer and trainee maintained stable, comparable AL rates (10.0% vs 7.7%)](mie-no-learning-curve-anastomotic-leakage.md) — related
 - [Surgical training did not compromise survival: no significant difference in 2-year overall (p = 0.436) or disease-free (p = 0.305) survival between trainer and trainee patients](mie-training-no-survival-difference.md) — related
 - [Major complications occurred only after the learning phase, and phase differences in severe complications and anastomotic leakage were not statistically significant](complications-after-proficiency-phase.md) — related
+- [The annual number and complexity of TLHs increased after SLSST implementation without raising surgical time or complications](slsst-era-increased-tlh-volume-complexity.md) — related

@@ -106,3 +106,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Each simulation group achieves significantly better cavity depth than the extracted-teeth control group, with no significant differences among the three simulation groups](simulation-groups-beat-control-on-depth-pairwise.md) — related
 - [Most dental students judge VR and manikin training equally helpful for consolidating theoretical knowledge](both-methods-equal-knowledge-consolidation.md) — related
 - [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — related
+- [Hand-tool alignment improves real-world learning gains in VR dental simulator training](hand-tool-alignment-improves-real-learning-gains-vr-dental.md) — related

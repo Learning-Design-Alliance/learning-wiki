@@ -50,3 +50,4 @@ Fifty residents were randomized via random number table into two groups of 25. T
 - [Baseline comparability across study groups](baseline-comparability-three-groups.md) — related
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [No significant baseline differences in gender, age, or experimental technical background between the TETM and RFETM groups](no-baseline-differences-tetm-rfetm-groups.md) — possibly the same claim (merge candidate)
+- [Baseline characteristics of the integrated PBL + LBC and LBC groups did not differ significantly in gender, nationality, or age](baseline-equivalence-integrated-pbl-groups.md) — related

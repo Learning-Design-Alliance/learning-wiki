@@ -45,7 +45,8 @@ The review cautions that health promotion messaging can backfire: "Simplistic na
 - [Web-based interventions combining self-monitoring, personalized feedback, environmental nudges, and behavioral prompts tended to produce stronger dietary changes than education alone, while BMI changes were generally absent or minimal](../claims/web-nutrition-interventions-combined-features-stronger-bmi-minimal.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Promote healthy dietary habits and mental well-being among university students as a lever for academic success](promote-healthy-habits-mental-wellbeing-university.md)
 
 ## Examples
 -

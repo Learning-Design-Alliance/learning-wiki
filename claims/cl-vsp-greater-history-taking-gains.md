@@ -53,3 +53,4 @@ Medical interview assessment from the randomized controlled trial after 4 weeks 
 - [VSP training produced significantly greater improvement in total virtual clinical reasoning training system test scores than traditional teaching](cl-vsp-greater-vsp-system-total-score-gains.md) — related
 - [Most VSP-trained students reported the training benefited history collection, condition analysis, diagnosis, treatment, and clinical thinking abilities](cl-vsp-student-satisfaction-clinical-thinking.md) — related
 - [VSP training produced significantly greater improvement in treatment-plan abilities, including medication management and nonpharmacological treatment, than traditional teaching](cl-vsp-treatment-planning-gains.md) — related
+- [Students trained with VSP-TCM report greater gains in TCM thinking, history collection, communication, and autonomous learning than traditionally trained students](vsp-tcm-student-feedback-gains.md) — related

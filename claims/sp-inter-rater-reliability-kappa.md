@@ -59,3 +59,5 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [The five-scenario IC-MD achieves satisfactory inter-rater reliability (ICC = 0.627) and generalizability (Eρ² = 0.642), though participant × scenario variance exceeds participant variance](ic-md-reliability-generalizability.md) — related
 - [Remote OSCE double scoring shows high rater agreement and total-score consistency (weighted Cohen's Kappa 0.97; Pearson correlation 0.9; Cronbach's alpha 0.66)](remote-osce-double-scoring-high-agreement-kappa-097.md) — related
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
+- [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
+- [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — related

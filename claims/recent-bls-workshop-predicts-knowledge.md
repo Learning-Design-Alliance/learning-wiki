@@ -58,3 +58,5 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Behavioral capability increases with training level and with longer time since last BLS certification](factors-raising-behavioral-capability.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [Most nurses had not received blood pressure assessment training in more than four years](bp-training-recency-gap-nurses.md) — related
+- [Attendance at in-service training or workshops is associated with roughly tenfold higher odds of knowledge of nosocomial infection preventive measures among Ghanaian nurses](in-service-training-nci-knowledge-odds.md) — related
+- [Younger nurses (<20 years) had significantly higher odds of NCI-prevention knowledge than nurses aged 20–40 and 41–60, contrary to prior literature](younger-nurses-higher-nci-knowledge-odds.md) — related

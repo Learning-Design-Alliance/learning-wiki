@@ -51,3 +51,4 @@ Within-audit comparison of patients with completed laparoscopic surgery (N = 126
 - [Dual surgeon operating in a rural centre was associated with significantly lower overall complications, wound infections, blood loss and length of stay than historic single-surgeon practice](dual-surgeon-reduced-complications-blood-loss-stay.md) — related
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — related
 - [Conversion to open surgery was associated with substantially increased blood loss and operative time, and Pringle maneuver use with reduced blood loss](conversion-and-pringle-associated-with-outcomes.md) — related
+- [Operative time was associated with baseline uterus disease, hospital stay over 2 days, endometriosis, and intraoperative complications](operative-time-associated-case-factors.md) — related

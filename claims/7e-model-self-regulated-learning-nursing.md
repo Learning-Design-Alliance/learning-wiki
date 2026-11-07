@@ -73,3 +73,4 @@ Table 3 post-instruction row for the independent learning ability dimension: mea
 - [Integrating jigsaw teaching into SRL cycle instruction improves nursing students' total self-regulated learning ability more than traditional lecture teaching](jigsaw-srl-instruction-raises-srl-ability-nursing.md) — related
 - [Jigsaw-plus-SRL instruction improves nursing students' learning engagement, especially vitality and dedication, but not concentration](jigsaw-srl-raises-learning-engagement.md) — related
 - [The 7E instructional model improved positive attitudes toward communication skills but did not significantly change negative attitudes](7e-model-positive-communication-attitudes.md) — related
+- [The blended group's total independent learning ability score and its learning motivation, learn-and-collaborate, and self-management dimensions were significantly higher than the control group's](independent-learning-ability-dimensions-higher-blended-group.md) — related

@@ -62,3 +62,4 @@ This scoping review of 26 publications on faculty development in interprofession
 - [Faculty focus groups identified perceived benefits in teamwork, time management, communication, critical thinking, active learning, and confidence, alongside drawbacks](faculty-focus-group-gamification-themes.md) — a narrower finding that bears on this claim
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — related
 - [Faculty development on student assessment shows late positive effects beyond assessment, including teaching, relationships, belonging and professional appreciation](fd-late-broader-impacts-teaching-belonging.md) — related
+- [Free-text responses showed appreciation for training that was timely, hands-on, and interprofessional, alongside logistical and organizational limitations](qualitative-themes-jit-simulation-value-and-limitations.md) — related

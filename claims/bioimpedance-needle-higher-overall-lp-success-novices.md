@@ -50,3 +50,4 @@ Randomized controlled, partly blinded phantom trial in which 60 medical students
 - [Successful lumbar punctures performed with the bioimpedance needle involve fewer stylet removals than those performed with the conventional spinal needle](bioimpedance-needle-fewer-stylet-removals.md) — related
 - [The number of attempts to achieve lumbar puncture success does not differ significantly between the bioimpedance and conventional needles](no-difference-attempts-bioimpedance-vs-conventional.md) — related
 - [The duration of successful lumbar punctures does not differ significantly between the bioimpedance and conventional needles](no-significant-duration-difference-bioimpedance-needle.md) — related
+- [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related

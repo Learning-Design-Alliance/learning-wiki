@@ -81,3 +81,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Training type has a significant positive effect on examination scores independent of gender and academic year (ANCOVA)](ancova-training-effect-independent-gender-year.md) — related
 - [Formative clinical examination score and male gender predicted BSRE performance in multivariable regression](formative-exam-and-gender-predict-bsre.md) — related
 - [Regression analysis identifies age, high school grades, and test scores as significant GPA predictors, with the final model explaining about 31.58% of variance](regression-predictors-dental-gpa-model.md) — related
+- [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related

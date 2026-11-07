@@ -73,3 +73,4 @@ Same cohort, same phase stratification. The authors note the 5.3% late-phase lea
 - [Vocal cord palsy remained frequent even in the proficient stage, at 19.0%, despite overall learning-curve improvement](laspme-vocal-cord-palsy-persists-in-proficient-stage.md) — related
 - [The trainee's textbook-outcome learning curve was completed after 83 cases, and overall TO was significantly higher in the trainee cohort (40.66% vs 27.00%)](mie-trainee-textbook-outcome-lc-83-cases.md) — related
 - [No intraoperative or short-term postoperative complications and no conversions to open laparotomy occurred, so CUSUM analysis of complication and conversion rates was not feasible](rscp-no-complications-cusum-not-available.md) — related
+- [Ninety-day postoperative morbidity was similar before and after completion of the learning phase for both the trainee and the expert robotic surgeon](rtapp-morbidity-similar-across-learning-phases.md) — related

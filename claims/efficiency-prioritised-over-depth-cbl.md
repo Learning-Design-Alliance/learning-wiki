@@ -49,3 +49,4 @@ Qualitative finding from field notes and focus groups; students reported ChatGPT
 - [ChatGPT interactions during case-based learning were superficial and short, used like a search engine rather than a dialogic tutor](chatgpt-used-like-google-not-tutor.md) — a broader claim this one bears on
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [Students' first choice for resolving learning problems in e-learning was searching the Internet, followed by asking peers and then asking teachers](exploration-internet-first-then-peers-then-teachers.md) — related

@@ -54,3 +54,4 @@ Qualitative content analysis of student reflections; students without prior comp
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations](ar-gen2-features-foster-between-team-collaboration.md) — related
+- [Some students remained passive in pandemic e-learning, giving up and taking no effective action to support their learning](passive-surrender-elearning-challenges.md) — related

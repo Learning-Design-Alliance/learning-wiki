@@ -49,3 +49,4 @@ SP feedback questionnaire (eight items, chi-square tests) administered to the 20
 - [Both FSP-TCM and OSP-TCM groups scored higher than the traditionally taught group on formative mini-CEX physical examination and comprehensive ability, with no FSP–OSP difference](fsp-tcm-formative-mini-cex-beats-traditional.md) — related
 - [Both SP-TCM groups scored higher than the TT group on written medical records and TCM syndrome differentiation and therapeutic regimen](sp-tcm-written-records-syndrome-differentiation-advantage.md) — related
 - [Both SP-TCM groups outperformed the TT group on summative online knowledge test, TCM technology application, and real-time assessment scores](sp-tcm-summative-assessment-advantage.md) — related
+- [SSP-TCMs responded better to emergencies and encouraged questioning but gave more implied hints and medical jargon than OSP-TCMs](ssp-behavioral-strengths-and-hints-jargon-versus-osp.md) — related

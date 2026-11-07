@@ -49,3 +49,4 @@ Analysis of 9 course periods across 5 online biomedical science courses with 3,8
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Chatbot outreach showed suggestive effects on assignment completion in Microeconomics but no effects on assignments in Government](chatbot-assignment-completion-course-specific.md) — related
+- [In 2022/23 the Blood Science unit showed higher first-attempt pass rates (+14%) than other biomedical science units, but no comparable assessment data exist for earlier cohorts](blood-science-first-attempt-pass-rates-14-percent.md) — related

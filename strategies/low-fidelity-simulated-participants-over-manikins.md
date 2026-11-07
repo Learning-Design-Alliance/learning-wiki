@@ -44,6 +44,7 @@ The program intentionally prioritized low-fidelity simulations with trained simu
 ## Related Strategies
 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
+- [Facilitator verbally supplies clinical findings that a low-fidelity manikin cannot display](facilitator-verbal-supplementation-low-fidelity-manikin.md)
 
 ## Examples
 -

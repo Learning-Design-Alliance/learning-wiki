@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (24 for, 38 mixed, 2 against) · 64 studies (15 design, 14 causal, 11 review, 11 associational, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 64 report an effect size · 59 claims rest on one study
+> **Evidence** · 66 claims (26 for, 38 mixed, 2 against) · 66 studies (15 causal, 15 design, 12 associational, 11 review, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 66 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,8 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [MCQ scores correlated moderately with observed bHIT ability while video interpretation did not, so neither can substitute for direct observation](../claims/indirect-assessment-does-not-substitute-bhit-observation.md) [+M] — attached 2026-11-07 from Lelli Danny A. et al. (2024), which proposed "Critical technical skills should be evaluated by directly observed assessment rather than assumed present after indirect assessment"; tests this page's relationship.
 - [The contrasting groups method yields a 91% pass/fail cutoff, which the authors judged too low and raised to the expert average of 96%](../claims/contrasting-groups-cutoff-91-raised-to-expert-average-96.md) [+W] — attached 2026-11-07 from Gustafsson A et al. (2024), which proposed "Set simulation-based mastery pass/fail standards at the experts' average performance rather than the contrasting-groups intersection".
 - [DOPS-based assessment yields no statistically significant difference in PI skill operation scores compared with traditional assessment](../claims/dops-no-difference-pi-skill-operation-scores.md) [~W] — attached 2026-11-07 from Zhang W et al. (2024), which proposed "Implement DOPS assessments repeatedly and train assessors before adoption to realize its benefits in specialized nursing skill evaluation".
+- [An analytic rubric yields higher inter-evaluator agreement than a numeric rating scale when assessing preclinical endodontic portfolios](../claims/analytic-rubric-higher-inter-evaluator-agreement-endodontics.md) [+W] — attached 2026-11-07 from Escribano Nuria et al. (2023), which proposed "Use analytic rubrics with clearly defined criteria and pre-set performance levels to increase consistency among multiple evaluators"; tests this page's relationship.
+- [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](../claims/force-parameters-distinguish-robotic-surgery-experience-groups.md) [+W] — attached 2026-11-07 from Rahimi A. Masie et al. (2023), which proposed "Incorporate objective force-based assessment and feedback into robot-assisted surgery training programs"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

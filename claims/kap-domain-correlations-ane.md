@@ -54,3 +54,4 @@ Spearman correlation analysis of KAP domain scores in the 931-nurse cross-sectio
 - [Nurses' frailty-management knowledge, attitudes, and practices show weak positive correlations with one another](weak-positive-kap-correlations-frailty-nurses.md) — related
 - [Ratings of user-friendliness, input identification, and interaction correlate strongly and positively with overall learning efficacy and experience ratings](usability-aspects-correlate-with-efficacy-experience.md) — related
 - [Knowledge and skills scores correlated strongly with attitude scores](knowledge-attitude-correlation.md) — possibly the same claim (merge candidate)
+- [Attitudes toward PBL, GPA, and PBL scores are positively and significantly intercorrelated](attitude-gpa-pbl-positive-correlations.md) — related

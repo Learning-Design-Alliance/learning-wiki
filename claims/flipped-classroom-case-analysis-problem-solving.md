@@ -82,3 +82,4 @@ Leave-one-out sensitivity analysis for case analysis/problem-solving ability: po
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
 - [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related
 - [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related
+- [Meta-analyses of several active-learning methods (flipped classroom, team-based learning, simulation-based medical education with deliberate practice, problem-based learning) suggest improvement over traditional teaching](active-learning-meta-analyses-improvement.md) — a broader claim this one bears on

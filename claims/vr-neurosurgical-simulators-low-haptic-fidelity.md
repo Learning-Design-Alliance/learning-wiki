@@ -81,3 +81,4 @@ Sub-group analysis of Alaraj et al.'s ITACS immersive VR aneurysm-clipping simul
 - [Most fellows rate VRFF-SSTS helpful and support its integration into residency programs, but rate its haptic feedback inferior to the sawbone model](fellows-rate-vrff-ssts-helpful-haptics-inferior.md) — related
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [The authors attribute the model's benefit to tactile and visual feedback that promotes active learning](tactile-visual-feedback-active-learning-interpretation.md) — related
+- [The simulator shows face validity: overall realism rated 4.57/5 with no significant expert–novice differences](tp-simulator-face-validity-realism-ratings.md) — related

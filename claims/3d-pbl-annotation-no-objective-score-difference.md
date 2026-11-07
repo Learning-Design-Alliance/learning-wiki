@@ -57,3 +57,4 @@ In the same RCT, the t-test comparison of objective multiple-choice scores betwe
 - [Learner-reported self-evaluation outcomes favour 3D printing-integrated PBL over lecture-based teaching in 9 of 10 dimensions](3dp-pbl-favours-learner-reported-outcomes-nine-of-ten.md) — related
 - [Senior stomatology undergraduates taught with a 3D-printed simulator integrated with PBL scored significantly higher on in-class theoretical tests than those taught with traditional PBL](3d-printed-pbl-higher-theoretical-scores-cleft-lip.md) — related
 - [No statistically significant difference between the BOPPPS and traditional teaching groups on multiple-choice (theoretical) question scores](boppps-his-no-difference-multiple-choice.md) — related
+- [No significant between-group difference in objective-question scores](no-difference-objective-question-scores.md) — related

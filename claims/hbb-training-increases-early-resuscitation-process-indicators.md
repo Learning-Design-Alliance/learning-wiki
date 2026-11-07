@@ -51,3 +51,4 @@ Unadjusted χ² and adjusted logistic regression across 557 deliveries at 26 Mig
 - [Cultural beliefs about suctioning and tilting newborns conflict with HBB-trained resuscitation practice and can delay appropriate care](cultural-beliefs-delay-neonatal-resuscitation.md) — related
 - [HBB training revealed existing malpractices and improved newborn care practices, including continuous resuscitation until death is certain](hbb-training-revealed-malpractices-improved-care.md) — related
 - [Use of stimulation, suction, and bag-mask ventilation increased from baseline to the intervention period and decreased afterward](resuscitation-interventions-increased-during-campaign.md) — related
+- [Initial-steps knowledge showed no significant pre-to-post change while other resuscitation skills improved](initial-steps-no-significant-gain.md) — related

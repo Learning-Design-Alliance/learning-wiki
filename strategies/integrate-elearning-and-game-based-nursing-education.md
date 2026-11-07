@@ -57,6 +57,7 @@ The article recommends that because e-learning "should not be seen as a replacem
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use 3D game-based simulation in blended learning environments alongside traditional teaching](blended-use-of-3d-game-simulation-nursing.md)
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
+- [Apply e-learning alongside in-person instruction as a complementary learning opportunity, especially for practical and clinical courses](combine-e-learning-with-in-person-for-practical-skills.md)
 
 ## Examples
 -

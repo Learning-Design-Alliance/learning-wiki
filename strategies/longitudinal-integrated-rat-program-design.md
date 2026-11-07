@@ -55,6 +55,7 @@ This strategy captures the review's core design recommendation: residents-as-tea
 - [Offer residents-as-teachers training as early as PGY-1, using interactive formats and supervised teaching opportunities](rat-training-early-pgy1-strategy.md)
 - [Design resident training modules explicitly targeting the teaching strategies students identified, and integrate resident teaching behaviors into core competencies](target-training-modules-at-identified-teaching-strategies.md)
 - [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
+- [Implement a brief SNAPPS lecture within a resident-as-teacher program to improve teaching of clinical reasoning](snapps-rat-45min-lecture-strategy.md)
 
 ## Examples
 -

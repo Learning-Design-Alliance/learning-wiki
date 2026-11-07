@@ -54,3 +54,4 @@ Repeated-measures mixed ANOVA with 158 first-year Dutch secondary students rando
 - Before their first presentation, students in the two experimental groups did not differ in anxiety, preparedness, or motivation — related
 - [Experimental-group students rated their performance positively on self-evaluation forms but found the presentation phase most challenging due to anxiety](pbl-game-self-evaluation-presentation-anxiety.md) — related
 - [Experimental group outperformed control group on oral presentation of text](sct-tblt-oral-presentation-outperformed.md) — possibly the same claim (merge candidate)
+- [Using an analytic rubric lowers students' overall portfolio scores compared with a numeric rating scale](analytic-rubric-lowers-overall-scores.md) — related

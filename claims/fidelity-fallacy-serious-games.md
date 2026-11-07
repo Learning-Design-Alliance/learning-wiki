@@ -108,3 +108,5 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — a narrower finding that bears on this claim
 - [Serious-game assessment is rated more realistic than clinical case-MCQ assessment by medical students](sg-assessment-rated-more-realistic.md) — related
 - [An immersive VR PCNL simulator outperformed conventional VR in ratings but did not differ from a porcine physical model](immersive-vr-pcnl-vs-porcine-ratings.md) — a narrower finding that bears on this claim
+- [High-fidelity simulator realism was rated higher but participant comfort lower than the low-cost simulator, without affecting overall perceived efficacy](hf-realism-higher-comfort-lower-than-lc.md) — a narrower finding that bears on this claim
+- [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — reports the opposite

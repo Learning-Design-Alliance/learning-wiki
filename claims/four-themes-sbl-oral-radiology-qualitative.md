@@ -71,3 +71,4 @@ Qualitative thematic analysis of open-ended responses independently coded by two
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
+- [Free-text responses showed appreciation for training that was timely, hands-on, and interprofessional, alongside logistical and organizational limitations](qualitative-themes-jit-simulation-value-and-limitations.md) — related

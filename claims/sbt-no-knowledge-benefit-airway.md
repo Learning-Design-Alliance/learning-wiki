@@ -53,3 +53,4 @@ Meta-analysis of five comparative trials using written examination scores to eva
 - [Airway management skills decay significantly after training in both simulation-based and non-simulation based groups, with between-group differences no longer evident at follow-up](airway-skill-decay-both-training-groups.md) — related
 - [The behavior performance benefit of simulation-based training is only significant for flexible laryngoscopy or bronchoscopy training, not direct laryngoscopy](sbt-behavior-benefit-only-fl-subgroup.md) — related
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](hfs-knowledge-acquisition-practising-nurses.md) — related
+- [Nursing staff showed larger knowledge and comfort gains than anesthesia and surgery in the airway management drill](nursing-larger-gains-airway-management-drill.md) — related

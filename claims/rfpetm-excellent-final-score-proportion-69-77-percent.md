@@ -51,3 +51,4 @@ Distribution analysis of final scores across five evaluation levels for both gro
 - [80% of the VR group achieved excellent final scores (≥270 points) compared to 10% of the control group](vr-excellent-competency-proportion.md) — related
 - [PBL students achieve significantly higher excellent-rate proportions on EBERs-ISH theoretical assessments than LBL students, with no significant differences in good or fail rates](pbl-higher-theoretical-excellent-rate-ebers-ish.md) — related
 - [A higher proportion of students reached the excellent performance level with the feedback-equipped device than without it](feedback-device-more-excellent-level-cpr.md) — related
+- [Far more simulation-trained students reached good or excellent skill levels than controls](simulation-group-good-excellent-skill-levels.md) — related

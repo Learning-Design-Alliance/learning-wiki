@@ -55,6 +55,7 @@ The article recommends integrating immersive VR simulation, such as the X-Ray Pr
 ## Related Strategies
 
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Introduce VR simulation in first-year radiography education, with further research before replacing physical simulation in later years](vr-simulation-adoption-first-year-radiography-strategy.md)
 
 ## Examples
 -

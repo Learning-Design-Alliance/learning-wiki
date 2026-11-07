@@ -51,3 +51,4 @@ Interview quote from Respondent 1 in Theme 1, illustrating that participants val
 - [The program fostered professional legitimacy, including influence over the educational environment and perceived career advantage.](pedagogical-internship-track-professional-legitimacy.md) — related
 - [Participants described the potential applicability of the integrated video-plus-simulation approach to other areas of surgical training such as trauma or wound care.](applicability-to-other-surgical-training-areas.md) — related
 - [Group simulations foster perceived learning and future application of tools, with 78% reporting they learned a new theory and 56.1% expecting to apply acquired tools](group-simulations-learning-and-application-statements.md) — related
+- [Senior medical students rated the pilot robotic training as valuable and increasing preparedness for surgical sub-internships and surgical training](students-rate-robotic-training-valuable-preparedness.md) — related

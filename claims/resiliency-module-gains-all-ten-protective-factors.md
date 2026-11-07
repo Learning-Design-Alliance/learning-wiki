@@ -48,3 +48,4 @@ By-factor t-tests on gain scores of the same 64-student pretest-posttest control
 ## Related Claims
 - [Gains were largest on self-esteem, internal locus of control, sense of humor and stress coping skills, and lowest on creativity](resilience-gains-vary-by-protective-factor.md) — related
 - [A three-month teacher-delivered resiliency module significantly increased overall academic resilience of non-resilient at-risk secondary students compared with traditional instruction](resiliency-module-improves-overall-resilience-at-risk-secondary.md) — a broader claim this one bears on
+- [Attaching to students' study groups and attending self-development programs are associated with better self-esteem](study-groups-self-development-protective-self-esteem.md) — related

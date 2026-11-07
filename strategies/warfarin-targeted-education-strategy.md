@@ -48,6 +48,7 @@ The authors recommend targeted educational interventions to close the specific k
 
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Embed tailored e-learning in blended, multimodal delirium training that combines face-to-face interaction with regular repetition](blended-multimodal-delirium-training-strategy.md)
+- [Provide ongoing in-service training and age-tailored programs to strengthen nurses' infection-prevention knowledge](ongoing-age-tailored-nci-in-service-training-strategy.md)
 
 ## Examples
 -

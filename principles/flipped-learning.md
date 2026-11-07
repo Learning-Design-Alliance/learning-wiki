@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 168 claims (102 for, 62 mixed, 4 against) · 106 studies (59 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 35 of 106 report an effect size · 160 claims rest on one study
+> **Evidence** · 170 claims (103 for, 63 mixed, 4 against) · 107 studies (60 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 35 of 107 report an effect size · 162 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Intervention-group students perceived a moderate level of effectiveness of the flipped teaching classroom, rating logical thinking and application of knowledge highest](../claims/flipped-teaching-moderate-perceived-effectiveness.md) [+W] — attached 2026-11-07 from Andargeery Shaherah Yousef et al. (2024), which proposed "Integrate flipped teaching into nursing curricula to improve education quality and student performance".
 - [Medical students taught with a flipped classroom using clinical scenarios and educational technology scored significantly higher on theoretical post-tests than students taught with subject-based lectures](../claims/flipped-classroom-clinical-scenarios-higher-theory-posttest.md) [+W] — attached 2026-11-07 from Seidi Masoumeh et al. (2024), which proposed "Use flipped classroom with clinical scenarios and educational technology as a complementary method for theoretical and practical lessons where facilities or time are limited"; tests this page's relationship.
 - [Flipped learning did not produce a significantly greater knowledge gain than traditional lectures in the haematology course, though the increase was significant within the flipped group](../claims/flipped-learning-knowledge-gain-not-significant-haematology.md) [~W] — attached 2026-11-07 from Algarni Abdulrahman Abdulrahman (2024), which proposed "When flipping a course, design purposeful in-person activities rather than simply exporting pre-class content online"; tests this page's relationship.
+- [Undergraduate students taught Neurosurgery with a flipped classroom obtained a significantly higher mean exam score than students taught by traditional lecture in the same academic year](../claims/fc-neurosurgery-higher-mean-score.md) [+W] — attached 2026-11-07 from Gutiérrez-González R et al. (2023), which proposed "Whole-curriculum flipped classroom design combining pre-class videos, problem-based seminars, puzzle activities and gamification"; tests this page's relationship.
+- [Dropout rate, pass rate, academic achievement and correct-answer rate favoured the flipped classroom but did not reach statistical significance](../claims/fc-neurosurgery-secondary-outcomes-not-significant.md) [~W] — attached 2026-11-07 from Gutiérrez-González R et al. (2023), which proposed "Whole-curriculum flipped classroom design combining pre-class videos, problem-based seminars, puzzle activities and gamification"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

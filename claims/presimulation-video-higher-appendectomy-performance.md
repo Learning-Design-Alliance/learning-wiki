@@ -68,3 +68,4 @@ Same cohort comparison on the model's subscales: execution (M = 7,00 vs 6,05, p 
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
 - [The pork-based simulation model stratifies surgical competency across PGY levels](pork-model-stratifies-competency-pgy-levels.md) — related
 - [Virtual simulation platform practice improves medical undergraduates' scores on a virtual laparoscopic appendectomy task](virtual-simulation-platform-improves-appendectomy-scores.md) — related
+- [Surgical trainees who watched an educational video before robotic simulation training achieved significantly higher overall scores across ten cycles than trainees who did simulation alone](educational-video-raises-robotic-simulation-overall-score.md) — a narrower finding that bears on this claim

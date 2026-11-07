@@ -47,3 +47,4 @@ Authors' interpretive observation in the self-care section, illustrated by the o
 
 ## Related Claims
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
+- [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — possibly the same claim (merge candidate)

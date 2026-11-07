@@ -66,3 +66,6 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Students judged the simulation scenarios well-crafted, recognizable, and flexible enough to empathize fully](euthanasia-scenarios-recognizable-flexible.md) — related
+- [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — related
+- [The authors report role reversal cultivates flexible problem-solving compared with one-way traditional teaching](role-reversal-flexible-problem-solving-claim.md) — related
+- [Nursing students used self-centered learning strategies, including exploration, evidence use, audio-visual resources, note-taking, and individual role playing, to facilitate pandemic e-learning](self-centered-elearning-strategies-nursing-students.md) — related

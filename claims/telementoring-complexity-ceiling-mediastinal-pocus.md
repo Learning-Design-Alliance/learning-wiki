@@ -52,3 +52,4 @@ Qualitative finding from the second DBR cycle, based on trainee interviews, ment
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — related
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
 - [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](ar-speed-overlay-instrument-velocity-retention.md) — related
+- [Skills requiring haptic awareness and manual dexterity struggle to build student confidence without in-person practice](haptic-skills-require-in-person-practice.md) — related

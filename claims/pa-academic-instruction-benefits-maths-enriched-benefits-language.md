@@ -59,3 +59,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [The PA intervention's benefit appeared in mathematics but not significantly in reading outcomes](pa-intervention-more-beneficial-for-mathematics.md) — related
 - [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](mpa-vpa-null-cognitive-academic.md) — reports the opposite
 - [MMNS alone and combined PA+MMNS significantly improved Kiswahili performance, while PA alone showed no significant association](kazifya-mmns-improved-kiswahili-scores.md) — related
+- [Leisure-time moderate-to-vigorous physical activity is positively associated with competency in all academic skills, with the strongest relationships for mathematics and classroom concentration](mvpa-academic-skill-competency-math-strongest.md) — related
