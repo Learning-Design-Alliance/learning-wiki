@@ -49,3 +49,4 @@ Exponential decay-curve fitting of practiced-condition encoding activation acros
 - [BDNF Val66Met genotype is associated with behavioral learning curves: Met-allele carriers show higher learning gain and, per the authors, less efficient early learning](bdnf-val66met-behavioral-learning-gain.md) — related
 - [Behavioral learning curves in a procedural working memory task are better fit by an exponential model than a linear model across five training sessions](exponential-model-behavioral-procedural-learning-curves.md) — related
 - [Subcortical but not cortical activation-trajectory parameters classify BDNF genotype above chance in an exploratory decision-tree analysis](subcortical-trajectories-classify-bdnf-genotype.md) — related
+- [The reported benefit and confidence gain of RESS support decay over consecutive thrombectomies, indicating increasing trainee autonomy](ress-benefit-decays-with-trainee-autonomy.md) — a narrower finding that bears on this claim

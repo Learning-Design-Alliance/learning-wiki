@@ -54,3 +54,5 @@ The authors' interpretation of false classifications: experienced participants c
 - [A Contrasting Groups' Method pass/fail standard of 34.0 points completely discriminated between novices and experienced surgeons, with no false positives or false negatives](cgm-cut-score-34-complete-discrimination-drf.md) — reports the opposite
 - [A contrasting groups' method sets a 70% pass/fail score with one false positive and no false negatives](contrasting-groups-pass-fail-70-camera-navigation.md) — related
 - [Contrasting groups' standard setting establishes a pass-or-fail score of 19 points, with 19% false positives among novices and 5% false negatives among experienced students](vr-contrasting-groups-pass-score-19.md) — related
+- [A contrasting-groups pass/fail score of 71 points on the OSCE produced no false positives or false negatives](osce-tus-pass-fail-71-no-false-classifications.md) — related
+- [A contrasting-groups pass/fail score of 48/50 points produced no false positives or false negatives](vr-tte-test-pass-fail-score-48.md) — related

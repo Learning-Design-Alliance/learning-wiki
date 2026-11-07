@@ -49,7 +49,8 @@ Based on their findings, the authors recommend that e-learning platforms "provid
 - [The integrated model explains 57.1% of satisfaction, 32.2% of use, and 52.5% of individual impact variance](../claims/brazilian-model-explained-variance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Six-part design recommendations for online modules that teach and assess critical thinking](six-recommendations-online-critical-thinking-modules.md)
 
 ## Examples
 -

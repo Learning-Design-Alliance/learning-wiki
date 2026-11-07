@@ -57,3 +57,4 @@ Systematic review synthesis of 24 cross-sectional studies identified through sea
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [Student satisfaction with voiceovers declined significantly over the study period and across matriculation cohorts during and after the COVID-19 pandemic](voiceover-satisfaction-decline-pandemic.md) — related
 - [Most dental students were satisfied with and showed a positive attitude toward technology-based learning during the COVID-19 lockdown](dental-students-satisfied-positive-attitude-tbl.md) — a narrower finding that bears on this claim
+- [Students reported high satisfaction with lighting and temperature, only half could tolerate noise, and 15% encountered technical problems](online-learning-environment-descriptives-usm.md) — related

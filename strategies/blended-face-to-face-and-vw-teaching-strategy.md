@@ -49,6 +49,7 @@ The article suggests that shaping a sense of in-betweenness becomes an essential
 - [Reshape the anatomy curriculum toward a blended form by retaining digital modalities introduced during the pandemic](blended-retention-of-pandemic-digital-modalities.md)
 - [Choose between online and face-to-face delivery based on the specific requirements of the course, and continuously review educational practices](choose-format-by-course-requirements.md)
 - [Apply various modes of learning to enhance the development of nursing students' competence.](apply-various-modes-of-learning-nursing-competence.md)
+- [Adopt a mixed mode combining classroom and e-learning for post-graduate health-professions education](mixed-mode-classroom-elearning-postgraduate-strategy.md)
 
 ## Examples
 -

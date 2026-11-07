@@ -63,3 +63,4 @@ Design-comparison study of the DC school report card. The summary states that "p
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — related
+- [System & technical dimension significantly predicts e-learning satisfaction (β = 0.241), with lecture recording and remote access rated low by students](system-technical-dimension-predicts-satisfaction.md) — related

@@ -49,3 +49,4 @@ Paired-samples t-tests on the externalized problems subscale of the PKBS problem
 - [FSS-PSV reduced total problem behaviors of preschoolers at risk of antisocial behaviors, with a significant group × measurement-time interaction](fss-psv-reduces-problem-behaviors-interaction.md) — related
 - [FSS-PSV implementation did not produce a group difference in social skills: both experimental and control groups increased significantly](fss-psv-no-social-skill-group-effect.md) — related
 - [Teachers and parents reported positive social validity of FSS-PSV, with most happy with the program and willing to recommend it](fss-psv-positive-social-validity.md) — related
+- [Swimming training reduces parent-rated externalizing behavior problems in children with ADHD](swimming-reduces-externalizing-behavior-adhd.md) — related

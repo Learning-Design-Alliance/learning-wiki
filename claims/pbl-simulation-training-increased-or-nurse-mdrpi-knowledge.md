@@ -56,3 +56,4 @@ Single-group pretest–posttest quasi-experiment with 80 OR nurses at one tertia
 - [Providers' HBB knowledge scores rose significantly from pre-training to immediately post-training after HBB training, in one uncontrolled pre-post study](hbb-training-increases-provider-knowledge-immediately.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
 - [After the PBL improvement intervention, student post-PBL formative assessment scores improved significantly, with an overall Cohen's d of -0.54](pbl-intervention-formative-assessment-gains.md) — related
+- [Both E-book app and conventional lecture training significantly improved nurses' pressure-injury knowledge, attitudes, and confidence within groups](both-formats-improved-pi-outcomes.md) — related

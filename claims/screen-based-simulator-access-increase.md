@@ -52,3 +52,4 @@ Chi-square comparison of 2022 survey results against the 2008 Okuda survey data,
 - [75% of US EM residency programs report using simulation at least monthly, up from about 42% of programs reporting >10 hours annually in 2008](em-residencies-simulation-monthly-increase.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
 - [Nearly all surveyed US EM residency programs use manikin simulators and partial task trainers, and about 96% have access to a simulation center](em-residencies-simulation-equipment-access.md) — related
+- [Prevalence of RaT programs in US residency programs rose from 55% to 80.54% over 15 years](rat-program-prevalence-rose-to-80-percent.md) — related

@@ -53,3 +53,4 @@ Quasiexperimental comparison of two groups of third-year nursing students (inter
 - [Participant seniority moderates the benefit of HF simulation: residents and third/fourth-year students benefit, first-year students do not](participant-seniority-moderates-hf-benefit.md) — related
 - [Students report high satisfaction (91% ± 7.6) with the HFS/curriculum-integrated session across instructor, effectiveness, and active-learning domains](hfs-integration-high-satisfaction.md) — related
 - [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](hf-simulation-improves-als-knowledge-course-conclusion.md) — related
+- [Courses without HFS exposure recorded overall OSCE means of 81.80 in child health and 83.54 in maternal health nursing](no-hfs-courses-osce-means-child-maternal.md) — related

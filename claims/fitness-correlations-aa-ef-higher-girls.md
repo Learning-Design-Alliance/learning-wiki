@@ -50,3 +50,5 @@ Pearson correlation analysis in a cross-sectional study of 562 Spanish schoolchi
 - [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — reports the opposite
 - [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — related
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
+- [Academic achievement correlates weakly to moderately with all executive functions in the total sample and in both sexes](efs-correlate-academic-achievement-both-sexes.md) — related
+- [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related

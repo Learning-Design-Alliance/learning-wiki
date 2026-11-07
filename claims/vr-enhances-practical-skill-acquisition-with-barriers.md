@@ -130,3 +130,5 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — a narrower finding that bears on this claim
 - [Ultrasound simulation training improves cognitive and psychomotor skills, provides continuous immediate feedback, and enables standardized reproducible assessment](simulation-benefits-ultrasound-training.md) — related
 - [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — related
+- [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — related
+- [Simulation training enhances psychomotor skills and supports the transition from classroom learning to clinical practice in obstetrics and gynaecology](simulation-enhances-psychomotor-skills-obgyn.md) — related

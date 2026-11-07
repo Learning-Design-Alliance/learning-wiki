@@ -50,7 +50,8 @@ The article recommends that schools increase physical activity in daily curricul
 - [Self-concept did not significantly mediate the PA–AA link in this Chinese adolescent sample (indirect β = 0.026, 7.43%)](../claims/sc-independent-mediation-not-supported.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop physical activity or sports programs that strengthen peer relationships to improve the academic performance of adolescents experiencing depression](sports-programs-strengthen-peer-relationships-strategy.md)
 
 ## Examples
 -

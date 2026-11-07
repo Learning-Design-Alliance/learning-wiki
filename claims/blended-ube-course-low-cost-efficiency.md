@@ -48,3 +48,4 @@ Authors' cost accounting in the Discussion, contrasting the 336 € total budget
 - [Adaptive e-learning significantly increases neurosurgeons' self-assessed perceived knowledge of UBE](adaptive-elearning-increases-perceived-ube-knowledge.md) — related
 - [COLOMASTER is priced comparably to cadaver use and above porcine models, but avoids cadaver facility and animal anesthesia costs](colomaster-cost-comparison-cadaver-porcine.md) — related
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related
+- [Cadaver-based colonoscopy simulation is presented as a low-cost alternative to commercial endoscopy simulators, whose high cost and low accessibility hinder training](cadaver-simulator-cost-advantage.md) — related

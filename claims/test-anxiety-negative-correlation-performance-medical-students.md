@@ -75,3 +75,4 @@ The review reports Nazir et al.'s (2021) cross-sectional study of 680 medical st
 - [Anxiety and loneliness show moderate negative correlations with GPA among physiotherapy students](anxiety-loneliness-moderate-negative-gpa-correlations-physiotherapy.md) — related
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related
+- [Preadmission academic variables correlate moderately with preclerkship and USMLE Step 1 performance, and the two outcomes correlate strongly with each other (r = 0.75)](preadmission-variables-correlate-with-outcomes.md) — related

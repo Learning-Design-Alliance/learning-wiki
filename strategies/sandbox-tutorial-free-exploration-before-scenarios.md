@@ -44,6 +44,7 @@ The programmers revamped the original tutorial—which had been designed to blin
 ## Related Strategies
 
 - [Provide a video-based hardware demonstration for students to watch before a VR session](video-based-vr-hardware-demonstration-before-session.md)
+- [Prebriefing with hands‐on manikin familiarisation before the simulation scenarios](manikin-familiarisation-prebriefing-strategy.md)
 
 ## Examples
 -

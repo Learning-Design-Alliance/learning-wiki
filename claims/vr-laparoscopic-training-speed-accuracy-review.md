@@ -49,3 +49,4 @@ The review reports, citing Nagendran et al. (2013), that VR simulator trainees "
 - [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related
 - [VR simulator training yields a higher rate of optimal (Grade I) pedicle screw placement than traditional training among residents and early-career surgeons](vr-training-higher-grade-i-pedicle-screw-placement.md) — related
 - [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — related
+- [In EBUS training, simulator-based training produced higher objectively scored performance than traditional apprenticeship-style training](simulator-training-outperformed-apprenticeship-ebusat.md) — related

@@ -52,6 +52,7 @@ The article recommends that universities integrate sleep education and PA promot
 - [Tailored institutional support for fasting students: flexible schedules, sleep hygiene programs, and fatigue monitoring](ramadan-student-support-flexible-schedules-fatigue-monitoring.md)
 - [Integrate validated study techniques such as spaced repetition and wellness strategies (sleep, physical activity) into university support programs for entrance examinations](integrate-spaced-repetition-wellness-into-entrance-support-programs.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
+- [Emphasize sleep hygiene as a regulating factor for academic performance in emergency remote teaching](sleep-hygiene-emergency-remote-teaching-strategy.md)
 
 ## Examples
 -

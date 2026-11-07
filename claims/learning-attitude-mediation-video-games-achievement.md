@@ -50,3 +50,4 @@ Bootstrap parallel mediation analysis on the 824-student CEPS sample: video game
 - [Parent-child relationship moderates the direct negative association between video game playing and academic achievement, which is significant only for high-quality relationships](parent-child-relationship-moderates-direct-video-game-achievement-link.md) — related
 - [Parent-child relationship does not significantly moderate the indirect effect of video game playing on achievement via learning attitude](no-moderation-learning-attitude-indirect-path.md) — related
 - [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related
+- [The association between hope for the future and game-playing time is marginal and not significant after Bonferroni correction](hope-for-future-marginal-gaming-association.md) — related

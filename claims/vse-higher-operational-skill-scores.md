@@ -53,3 +53,4 @@ Randomized controlled experiment with 90 medical students assigned to a VSE expe
 - [Seventh-grade pupils taught chemical content with a virtual laboratory acquired more knowledge than pupils taught without dynamic visualization](virtual-laboratory-improves-chemical-knowledge-acquisition.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — reports the opposite
 - [Pre-laboratory virtual simulation training raises medical students' pathogenic cocci test scores overall in a randomized controlled trial](virtual-simulation-raises-microbiology-lab-test-scores-rct.md) — related
+- [Combined virtual-simulation and jaw-model training yields higher second theoretical examination scores than either method alone, with Group V-J best](combined-training-higher-second-theoretical-scores.md) — related

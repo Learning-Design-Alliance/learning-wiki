@@ -51,3 +51,4 @@ Descriptive process report from the intervention-delivery section of the randomi
 - [Iterative refinement across ten academic cycles improved scenario fidelity, debriefing structure, and CR alignment](iterative-refinement-ten-academic-cycles.md) — related
 - [Moderator engagement evolved from structured, formal guidance toward informal, personalized, and more complex dialogue over the cycles](moderator-engagement-progression-informal-complex.md) — related
 - [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — related
+- [No COVID-19 cases were reported among participants in the month after the simulation activity](no-covid-cases-after-simulation.md) — related

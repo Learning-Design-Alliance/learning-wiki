@@ -45,7 +45,8 @@ The article's implication statement holds that "being defended only partly relie
 - [The number of defenders was positively associated with victims' feelings of belonging but unrelated to self-esteem, depressive symptoms, and victimization](../claims/number-of-defenders-linked-to-belonging-only.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Interventions for bullied students should address the psychological difficulties that follow victimization, not only prevent bullying](interventions-remediate-post-bullying-psychological-difficulties.md)
 
 ## Examples
 -

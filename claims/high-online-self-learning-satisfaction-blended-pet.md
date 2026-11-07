@@ -61,3 +61,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
 - [Blended learning positively impacts satisfaction and engagement of medical imaging students, per the authors' overall interpretation](blended-learning-positive-impact-medical-imaging-students.md) — a broader claim this one bears on
+- [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related

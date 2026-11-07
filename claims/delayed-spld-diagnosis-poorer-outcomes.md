@@ -51,3 +51,4 @@ Review synthesis (citing Gray): many students recognize their SpLD only after en
 - [With accommodations such as additional examination time, medical students with SpLDs show no statistically significant difference in MCQ performance (d = 0.045)](mcq-performance-no-difference-accommodated-spld.md) — related
 - [Prevalence of SpLDs among medical students averages 5.5%, ranging from 2% to 11.5% across studies](spld-prevalence-medical-students-5-5-percent.md) — related
 - [Parity in MCQ assessments does not extend to other formats: lower performance reported in EMQ, SAQ, OSCE, and delayed progression](non-mcq-formats-lower-performance-spld.md) — related
+- [Fear of delay increases doctoral students' stress levels but does not significantly improve their academic performance](fear-of-delay-raises-stress-not-performance.md) — reports the opposite

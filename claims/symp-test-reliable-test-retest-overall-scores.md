@@ -49,3 +49,4 @@ Test-retest analysis in a large sample retested 3–5 weeks after first assessme
 - [SYMP Test performance correlates moderately and significantly with mathematics achievement in every grade of primary school, for both one-digit and two-digit comparison](symp-correlates-math-achievement-all-grades.md) — related
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
+- [School VA mathematics scores show only moderate stability over two years in primary school (r = .34)](va-math-school-scores-moderate-two-year-stability.md) — related

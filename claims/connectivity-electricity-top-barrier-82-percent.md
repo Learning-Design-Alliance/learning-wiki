@@ -54,3 +54,4 @@ Descriptive survey result on barriers to online learning among 824 pre-clinical 
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
 - [Students were relatively satisfied with online exams (74.5% found them well-structured) despite 63% facing technical problems while attempting them](online-exams-well-structured-despite-connectivity-problems.md) — related
+- [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related

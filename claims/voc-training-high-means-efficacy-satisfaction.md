@@ -84,3 +84,4 @@ Reaction data from the posttraining survey showed very high satisfaction and wil
 - [Physiotherapists rated MECC HCS training highly valuable and found the intervention acceptable across all Theoretical Framework of Acceptability constructs](mecc-hcs-acceptability-tfa.md) — related
 - [Participants report high satisfaction and perceived utility for the MeTra simulator and the new basic course overall](metra-course-high-satisfaction.md) — related
 - [Underperforming students rated role play highly useful and preferred open-book tests over closed-book tests in remediation feedback](students-rated-role-play-open-book-tests-useful-remediation.md) — related
+- [Interactive e-learning on diabetes distress is acceptable to credentialled diabetes educators, with 93% rating the time commitment as about right and 93% rating difficulty as about right](e-learning-diabetes-distress-acceptable-cdes.md) — a narrower finding that bears on this claim

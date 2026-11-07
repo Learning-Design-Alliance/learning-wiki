@@ -102,3 +102,5 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — a narrower finding that bears on this claim
 - [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](active-learning-gap-variation-across-studies-ipd.md) — related
 - [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — a narrower finding that bears on this claim
+- [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related
+- [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related

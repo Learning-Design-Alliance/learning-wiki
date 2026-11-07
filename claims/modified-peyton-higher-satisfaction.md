@@ -63,3 +63,4 @@ One-month 5-point Likert satisfaction questionnaire in the RCT; Table 6 reports 
 - [The combined Peyton's four-step and flipped classroom intervention produced higher clinical case analysis scores than traditional teaching](peyton-flipped-higher-case-analysis-scores.md) — related
 - [Teaching satisfaction did not differ significantly between O2O/PBL and LBT trainees across five surveyed aspects](o2o-pbl-teaching-satisfaction-no-difference-nephrology.md) — reports the opposite
 - [Residents taught with the refined Peyton method reported higher teaching satisfaction across surveyed items than traditionally taught residents](refined-peyton-higher-teaching-satisfaction.md) — possibly the same claim (merge candidate)
+- [The combination of PBL with 3D visualization improved clinical trainee performance, learning efficiency, interest and clinical thinking in spinal surgery](pbl-3dv-overall-benefit-spinal-surgery-teaching.md) — related

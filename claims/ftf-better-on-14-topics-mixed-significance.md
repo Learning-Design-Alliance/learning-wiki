@@ -66,3 +66,4 @@ Per-topic comparison for the EEG topic in the same randomized course: the online
 ## Related Claims
 - [On the non-randomized circulation topic, the 182 students taught on site answered the exam questions significantly better than the 16 students taught online](circulation-topic-onsite-outperformed-online.md) — related
 - [Medical students who completed physiology practical classes face-to-face scored significantly higher on the final written exam than students who completed them online, with a small effect size](ftf-physiology-practical-higher-exam-score-than-online.md) — related
+- [Online non-lecture physiology teaching during COVID-19 yielded summative scores 4.80±0.92% lower than on-site teaching (Cohen's d = 0.42)](online-non-lecture-physiology-lower-summative-scores.md) — related

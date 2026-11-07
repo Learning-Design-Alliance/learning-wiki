@@ -67,3 +67,4 @@ Same post-session survey study of ECHO case presentations. The review also notes
 - [A hub-and-spoke ECHO-supported OUD program reported majority-physician gains in knowledge, reduced isolation, improved MOUD ability, and reduced patient wait times](echo-hub-spoke-kawasaki-outcomes.md) — related
 - [The evidence that ECHO improves physician preparedness for OUD rests almost entirely on self-report, so actual preparedness gains remain untested](echo-oud-evidence-self-report-limitation.md) — related
 - [Project ECHO participation is associated with increased self-reported knowledge and self-efficacy for treating opioid use disorder](echo-oud-self-reported-knowledge-self-efficacy-gains.md) — related
+- [CCUS examinations performed by trained fellows change patient care plans in the majority of documented cases, suggesting learning transfer](ccus-exams-change-patient-care-plans.md) — related

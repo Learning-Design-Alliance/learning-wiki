@@ -65,3 +65,4 @@ Intervention adherence assessed using platform-generated learning records and in
 - [Study completion rate was higher in the e-learning group than in the video group](elearning-higher-completion-rate.md) — related
 - [A simulation-based training programme for urgent laryngectomy care is feasible, with 93% of accepted multidisciplinary healthcare professionals completing all activities](simulation-laryngectomy-training-feasible.md) — related
 - [Every participant engaged with the e-learning before the birth course, with 95 completing it in full](e-learning-engagement-before-birth-course.md) — related
+- [Blended PbL students attend fewer lectures on site but watch more lecture videos than conventional PbL students](bpbl-shifts-lecture-attendance-to-videos.md) — related

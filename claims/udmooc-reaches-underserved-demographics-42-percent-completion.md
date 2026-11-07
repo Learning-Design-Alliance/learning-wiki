@@ -51,3 +51,4 @@ Descriptive demographic analysis of 27,265 active UDMOOC participants and 4894 D
 - [A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — a broader claim this one bears on
 - [The probability of achieving a high DKAS target score (45–50) rises for all education and exposure groups after the UDMOOC](udmooc-raises-probability-of-target-score-all-groups.md) — related
 - [Regional provider Edraak attracts younger learners, more females, and learners with lower education levels than global MOOC providers](edraak-attracts-younger-more-female-lower-education-learners.md) — related
+- [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related

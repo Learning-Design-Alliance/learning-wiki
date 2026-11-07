@@ -56,3 +56,4 @@ Cross-sectional ABCD analysis of bullying-by-sex interactions on CBCL scores. Th
 - [Bullied children with NSSI or suicidality show greater behavioral problems and poorer grades than bullied children without these behaviors](bullying-nssi-suicidality-compounded-outcomes.md) — related
 - [In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender](gender-aggression-increase-no-treatment-difference.md) — related
 - [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) — related
+- [Bullying at age 9 predicts psychological difficulties at age 13, and difficulties at 13 predict lower mathematics and literacy scores at age 15](bullying-predicts-difficulties-which-predict-achievement.md) — related

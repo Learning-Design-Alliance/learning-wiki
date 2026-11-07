@@ -69,6 +69,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 - [Universities should develop emergency plans with psychological support interventions and resilient infrastructures to protect academic performance in future crises](university-emergency-plans-psychological-support-resilient-infrastructure.md)
 - [Anxiety-reduction support strategy for medical students, with special attention to females](anxiety-reduction-support-medical-students-strategy.md)
+- [Institutions and supervisors should improve doctoral students' well-being and engagement rather than using fear and stress as motivators](support-based-doctoral-supervision-strategy.md)
 
 ## Examples
 -

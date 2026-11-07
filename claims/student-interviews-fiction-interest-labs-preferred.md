@@ -54,3 +54,4 @@ Same interview data set: despite reported interest gains from videos, most stude
 - [Students responded favorably to the modified labs, with 76.5% preferring technology-based labs and 60.3% reporting increased interest](favorable-student-perceptions-spirometry-lab.md) — related
 - [Students prefer learning via demonstration videos and recommend them for future batches](students-prefer-and-recommend-demonstration-videos.md) — related
 - [Students rate the digital simulation course positively but remain neutral about it replacing hands-on instruction](students-positive-but-neutral-on-replacing-hands-on.md) — related
+- [Participants judged hands-on workshops, especially the operative porcine laboratory, the most educational and memorable course formats](porcine-lab-hands-on-workshops-most-educational.md) — related

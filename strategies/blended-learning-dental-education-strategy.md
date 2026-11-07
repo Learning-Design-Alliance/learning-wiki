@@ -52,6 +52,7 @@ The article recommends that dental institutions integrate blended learning — "
 
 - [Blended Learning](../patterns/blended-learning.md)
 - [Combine initial in-person training with subsequent digital at-home training to satisfy trainee preferences while retaining digital flexibility](initial-in-person-then-digital-training-combination.md)
+- [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
 
 ## Examples
 -

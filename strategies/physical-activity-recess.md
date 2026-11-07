@@ -67,6 +67,7 @@ Aerobic activity acutely improves executive function and attention in children, 
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 - [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 - [Integrate escape room-inspired physical activity challenges with curriculum content in progressive phases](escape-room-physical-activity-curriculum-integration-strategy.md)
+- [Advise three 90-minute weekly low-aerobic-intensity swimming sessions for students whose ADHD is negatively impacting learning and class engagement](three-90min-weekly-swimming-sessions-adhd-support.md)
 
 ## Examples
 - **[Physical Activity Across the Curriculum (PAAC)](https://doi.org/10.1016/j.ypmed.2011.01.027)** — a 3-year cluster-randomized trial in 17 elementary schools delivering math and reading through physically active lessons; academic achievement was maintained or improved.

@@ -50,3 +50,4 @@ The same SRI evaluation found low-achieving students "made significantly better 
 - [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related
 - [Grading showed differential effects by student group in Swedish quasi-experimental data: low-ability students fared worse when graded, girls better (review-reported)](klapp-differential-grading-effects.md) — related
 - [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](tbl-benefits-vary-by-academic-standing.md) — related
+- [The intervention increased rates of earning college credit graded by professors blind to the intervention, including in majority low-SES classrooms](college-credit-outcome-rules-out-lenient-grading.md) — related

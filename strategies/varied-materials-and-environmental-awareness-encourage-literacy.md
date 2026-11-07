@@ -49,6 +49,7 @@ The article recommends that parents and teachers support cognition and literacy 
 - [Parental Modeling of Reading](parental_modeling_of_reading.md)
 - [Family Literacy Engagement](family-literacy-engagement.md)
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
+- [Family literacy education and parallel school-home NIE programs to foster children's newspaper reading](family-literacy-education-nie-programs-strategy.md)
 
 ## Examples
 -

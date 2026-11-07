@@ -49,3 +49,4 @@ The 10-item General Self-Efficacy Scale (Cronbach's α = 0.88 baseline, 0.90 pos
 - [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
 - [General self-efficacy correlates significantly with both e-learning satisfaction and perceived academic performance](gse-correlates-satisfaction-and-performance.md) — related
 - [Both groups gained self-efficacy, but the digital RPP group improved more and more consistently](rpp-digital-platform-self-efficacy-gains.md) — related
+- [PBL produced no significant group effect or change over time in general self-efficacy (GSES)](pbl-no-self-efficacy-effect.md) — related

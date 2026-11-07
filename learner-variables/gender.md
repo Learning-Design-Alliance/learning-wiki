@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 580 claims (309 show a difference, 124 mixed, 147 no difference) · 414 studies (197 associational, 158 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 60 of 414 report an effect size · 572 claims rest on one study
+> **Evidence** · 589 claims (313 show a difference, 129 mixed, 147 no difference) · 422 studies (205 associational, 158 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 62 of 422 report an effect size · 581 claims rest on one study
 
 ## How to read this page
 
@@ -619,6 +619,15 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Males score higher on Anxiety, Information Processing, Selecting Main Ideas, Self-Testing, and Test Strategies, while females score higher on Attitude and Using Academic Resources](../claims/males-higher-anxiety-test-strategies-females-higher-attitude-resources.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](../claims/no-gender-gpa-difference-except-makrumah.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant gender differences in outcome parameters were found within the novice or expert groups](../claims/no-gender-differences-suturing-tracking-outcomes.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Among 1st- and 2nd-year dental students pooled, males scored higher on spatial tests while females scored higher in gross anatomy](../claims/females-higher-anatomy-males-higher-spatial-pooled.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Among boys, greater social withdrawal at age 10 predicts lower academic achievement at age 12](../claims/boys-withdrawal-predicts-lower-achievement.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys score higher on catching and throwing while girls score higher on static and dynamic balance](../claims/sex-differences-gmc-components-balance-object-control.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](../claims/chemistry-gender-bias-willingness.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students report significantly higher sleep disturbance, depressive symptoms, and anxiety than male students](../claims/female-students-higher-sleep-depression-anxiety.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In boys, academic achievement at age 6 anomalously predicted higher social withdrawal at age 8](../claims/boys-achievement-age6-predicts-higher-withdrawal.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Self-efficacy is higher in girls and amotivation higher in boys among primary students](../claims/gender-differences-self-efficacy-amotivation-primary.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences in the educational associations of mental disorders: unipolar depression is more strongly associated with lower grades among males, while ADHD, anxiety and OCD associations are stronger among females](../claims/sex-differences-disorder-grade-associations.md) [~M] — an instructional effect differs by group
+- [Sex-stratified results show subject-specific patterns: physical education predicts HRQoL in girls but not boys, while sciences and numeric ability predict HRQoL in boys but not girls](../claims/sex-stratified-subject-specific-hrqol-prediction.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

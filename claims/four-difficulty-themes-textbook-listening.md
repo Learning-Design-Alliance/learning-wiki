@@ -54,3 +54,4 @@ Qualitative thematic analysis of open-ended questionnaire explanations from both
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related
 - [Students associate length difficulty with forgetting beginning content by the end of long listening texts](length-difficulty-linked-to-forgetting.md) — related
 - [Turkish B1 students report focusing on single words and fast speech as more frequent listening difficulties than text length](single-words-and-speech-rate-outweigh-length.md) — related
+- [Participants found the true/false quizzes relatively easy but the detailed descriptions difficult because they contained many technical words, and sentences were too long](ebm-elearning-quizzes-easy-explanations-technical-words-difficult.md) — related

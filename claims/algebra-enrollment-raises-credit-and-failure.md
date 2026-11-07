@@ -102,3 +102,4 @@ Same RQ2 enrollment-effect models on ninth-grade TAP math scores; the authors no
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
 - [Average TAP scores rose substantially for students who enrolled in ninth grade, but the 1997 high school redesign appears to have had only a modest impact on skill development](chicago-tap-scores-rose-for-ninth-grade-enrollees.md) — related
 - [Course dropout was linked to lower SES, lower high school GPA, lower participation in preparatory math courses, and less adaptive initial motivations](course-dropout-correlates-gateway-math.md) — related
+- [The intervention increased rates of earning college credit graded by professors blind to the intervention, including in majority low-SES classrooms](college-credit-outcome-rules-out-lenient-grading.md) — related

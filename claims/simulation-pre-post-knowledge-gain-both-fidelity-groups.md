@@ -49,3 +49,4 @@ Assessor-blinded randomized controlled trial with 32 sixth-semester nursing stud
 - [No significant Group × Time interaction in theoretical knowledge: knowledge gains occurred similarly in high- and medium-fidelity groups](no-group-time-interaction-knowledge-fidelity.md) — related
 - [Simulation-based radiology training significantly improves procedural sequencing knowledge from pretest to posttest among medical technical assistant trainees](simulation-radiology-training-improves-procedural-sequencing.md) — related
 - [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](high-fidelity-simulation-improves-pharmacology-retention.md) — related
+- [Both E-book app and conventional lecture training significantly improved nurses' pressure-injury knowledge, attitudes, and confidence within groups](both-formats-improved-pi-outcomes.md) — related

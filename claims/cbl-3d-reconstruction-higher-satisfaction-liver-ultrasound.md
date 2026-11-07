@@ -68,3 +68,5 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [Students taught DDH with 3D-printed models plus CBL scored higher on post-course practical skills than students taught with conventional CBL alone](3d-cbl-higher-post-course-practical-skills-ddh.md) — related
 - [Students in the 3D+CBL group rated the teaching higher than the CBL group on hip fundamentals, diagnostic and treatment-planning ability, interest, willingness to communicate, and satisfaction](3d-cbl-higher-questionnaire-ratings-ddh.md) — related
 - [Digital-human simulation teaching yields significantly higher student satisfaction than traditional lecturing across multiple SEEQ dimensions](digital-human-higher-satisfaction-seeq.md) — related
+- [Interns in the 3D printing + PBL group rated teaching outcomes significantly higher than the traditional group across nine survey dimensions](3d-printing-pbl-higher-survey-scores-nine-dimensions.md) — related
+- [The combination of PBL with 3D visualization improved clinical trainee performance, learning efficiency, interest and clinical thinking in spinal surgery](pbl-3dv-overall-benefit-spinal-surgery-teaching.md) — related

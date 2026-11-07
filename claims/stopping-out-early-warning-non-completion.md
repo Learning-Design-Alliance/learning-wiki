@@ -54,3 +54,4 @@ Observational analysis of stop-out behavior among CPS graduates in the classes o
 - [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related
 - [Most CPS completers who took longer than four years were enrolled more than eight terms: 67% finished in nine or ten terms and 12% in eleven or twelve](late-completers-enrolled-more-than-eight-terms.md) — related
 - [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related
+- [High drop-out: 54% of the in-person group and 70% of the Lapp group did not complete the training course](lapp-high-drop-out-rates.md) — related

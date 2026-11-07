@@ -54,6 +54,7 @@ The review recommends that future evaluations of MBIs for youth move beyond smal
 - [Design future resilience-intervention research as large pragmatic RCTs with sufficient follow-up and explicit resilience definitions](future-resilience-trial-design-recommendations.md)
 - [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
+- [Future evaluations of the e-learning should reduce participant time-burden and boost retention through incentives, multiple reminders, gatekeeper support, and workplace-embedded designs](reduce-time-burden-boost-retention-health-professional-trials.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ Comparison of the highest-growth high-poverty schools with the lowest-growth low
 - [High-poverty schools' high achievers had roughly even odds of above-average growth, and 75th-percentile growth would be needed to close the readiness gap](above-average-growth-probability-high-poverty-schools.md) — related
 - [Achievement of the lowest-growth schools varies dramatically, and fall achievement accounts for about 80% of spring achievement versus 14% for growth](low-growth-schools-achievement-varies-growth-achievement-correlation.md) — related
 - [Average academic growth of high achievers was nearly equivalent in wealthy and poor schools](equivalent-growth-high-achievers-school-poverty.md) — related
+- [Some schools flip between the highest and lowest VA effectiveness categories within two years](schools-flip-high-low-va-two-years.md) — related

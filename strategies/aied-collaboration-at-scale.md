@@ -48,6 +48,7 @@ The paper argues that current MOOCs use simple technology—video, quizzes, foru
 
 - [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](peer-help-personalization-scalable-moocs.md)
 - [Use MOOCocracy learning culture themes to inform digital course design and online learner engagement](moococracy-themes-for-course-design.md)
+- [Use MOOCs mainly as elective courses and for educating massive audiences, with multidisciplinary design and implementation](mooc-elective-and-massive-audience-strategy.md)
 
 ## Examples
 -

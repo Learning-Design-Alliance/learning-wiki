@@ -72,3 +72,4 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — reports the opposite
 - [Self-reported confidence gains from on-call simulation may not persist: at 6-month follow-up, confidence was lower than immediately after simulation](confidence-gains-decline-six-months-followup.md) — related
+- [Maximum scores declined after primary intervention except in fluidity and speed, which rose significantly](max-scores-decline-except-fluidity-speed.md) — related

@@ -49,3 +49,4 @@ Review reports Suzuki et al.'s study on predicting which stimulus another person
 - [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — related
 - [Striatum computes other-referenced prediction errors in social and economic games, including without added payoff](striatum-other-referenced-prediction-errors-economic-games.md) — related
 - Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus — related
+- [Prefrontal regions (VMPFC/OFC, DLPFC, DMPFC, sgACC) negatively mediate current cue effects on subjective pain, with no group moderation of mediation paths](prefrontal-negative-mediation-of-cue-effects-on-pain.md) — related

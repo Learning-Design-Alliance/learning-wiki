@@ -88,3 +88,4 @@ Bayesian multilevel ordinal regression for invested mental effort (best-fitting 
 - [Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load](jigsaw-interdependence-mental-effort.md) — related
 - [Perceived cognitive load did not differ significantly across instructional conditions and did not moderate the fading effect](cognitive-load-no-condition-differences.md) — related
 - [Students perceive no difference in effort among prediction, worked example, and tell-then-practice activities](equal-perceived-effort-across-problem-solving-pedagogies.md) — related
+- [Collaborative VPs sessions show no significant change in situational interest across time points, and interest was higher than in lecture and independent VPs sessions at 10, 30 and 40 minutes but not at 20](collaborative-vps-si-stable-higher.md) — related

@@ -52,3 +52,4 @@ Descriptive survey results on demand for statistics education (N = 274) from sec
 - [Only a minority of students prefer online teaching for clinical courses, and the primary drawback cited is the lack of a classroom atmosphere](online-teaching-willingness-shortcomings-neurosurgery.md) — related
 - [Student interest concentrated in emergency medicine, internal medicine and surgery, and interest was linked to better blended-teaching outcomes](content-interest-moderates-blended-outcomes.md) — related
 - [For community health and clinical medicine topics students prefer community postings and bedside teaching over PBL or lectures](chs-icm-prefer-community-bedside-teaching.md) — related
+- [Preferred content of surgical e-lecture viewers is current guidelines, latest research topics, and complex surgical conditions](preferred-e-lecture-content-guidelines-research-complex-cases.md) — related

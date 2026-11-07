@@ -86,3 +86,4 @@ Distribution of the five error types across model categories (Table 4, Figure 5)
 - [An exploratory LLM-judge audit labels knowledge gaps (39.1%) and reasoning errors (26.9%) as the most frequent failure modes among incorrect frontier-model responses](llm-judge-audit-failure-modes.md) — related
 - [Among GPT-4o's incorrect CONACEM responses, unsupported medical claims are the most common error (40.69%), followed by incorrect or vague conclusions (22.07%)](gpt4o-unsupported-medical-claims-most-common-error.md) — related
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
+- [Expert raters' coded comments cluster into five themes led by poor image generation and interpretation (22%)](pocus-rater-comment-five-themes.md) — related

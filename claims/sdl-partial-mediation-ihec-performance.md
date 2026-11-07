@@ -53,3 +53,4 @@ Bootstrapped mediation analysis (5,000 bias-corrected resamples) within a struct
 - [Deep learning partially mediates the relationship between online real-time teaching interaction and teaching effect (indirect effect 0.165, 36.344% of total effect)](deep-learning-partially-mediation-interaction-teaching-effect.md) — related
 - [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related
 - [The blended model's effect on clinical skills scores splits into a direct pedagogical effect and an indirect effect mediated by increased training time](mediation-direct-pedagogical-effect-plus-training-time.md) — related
+- [E-learning motivation partially mediates the relationship between technology access and satisfaction with e-learning (proportion mediated 31.2%)](elearning-motivation-partially-mediate-tech-access-satisfaction.md) — related

@@ -51,6 +51,7 @@ A specific implementable activity: near the start of a 90-minute lecture, after 
 - [Mini Classroom Exercise Breaks](mini_classroom_exercise_breaks.md)
 - [Classroom Movement Breaks](classroom-movement-breaks.md)
 - [Include Physical Activity](include_physical_activity.md)
+- [Advise three 90-minute weekly low-aerobic-intensity swimming sessions for students whose ADHD is negatively impacting learning and class engagement](three-90min-weekly-swimming-sessions-adhd-support.md)
 
 ## Examples
 -

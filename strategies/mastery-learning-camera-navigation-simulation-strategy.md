@@ -47,6 +47,7 @@ The authors recommend a mastery learning approach in which, per the article, "al
 - [Use personalized mastery-learning programs given wide individual variation in performance](mastery-learning-for-surgical-trainees-wide-variation.md)
 - [Mastery Based Progression](mastery-based-progression.md)
 - [Mastery Based Retesting](mastery-based-retesting.md)
+- [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 
 ## Examples
 -

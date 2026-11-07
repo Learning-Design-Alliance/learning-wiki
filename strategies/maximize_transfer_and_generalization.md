@@ -91,6 +91,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - [Support transfer of implicit game-based CT knowledge into explicit, usable knowledge](support-implicit-to-explicit-ct-transfer.md)
 - [Promote transfer through varied examples, over-learning, generalization, similarity and common components](five-strategies-promoting-transfer.md)
 - [Explicitly train students to transfer story-based contextualization to novel situations before exams](condition-story-based-contextual-transfer.md)
+- [Use workplace learning with ill-structured, complex, authentic tasks and 'space to discover' to foster adaptive expertise](workplace-learning-space-to-discover-adaptive-expertise.md)
 
 ## Examples
 - **Gick & Holyoak's radiation problem** — learners who first compared two analogous stories (the fortress and the general) were far more likely to solve Duncker's radiation problem than those given the stories without comparison prompts ()

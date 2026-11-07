@@ -51,3 +51,5 @@ Null correlational results from the cross-sectional analysis of 256 physiotherap
 - [Parental self-efficacy is positively associated with family satisfaction among student parents, both directly and indirectly through school-family balance](parental-self-efficacy-predicts-family-satisfaction-student-parents.md) — related
 - [Family satisfaction fully mediates the relationship between school-family balance and life satisfaction among student parents](family-satisfaction-fully-mediates-balance-life-satisfaction.md) — related
 - [Excessive study behaviour mediates the relationship between academic self-esteem contingency and exhaustion in university students](excessive-study-behaviour-mediates-self-esteem-contingency-exhaustion.md) — related
+- [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
+- [A one-SD increase in RSES self-esteem score is associated with a 0.12 SD higher standardized math score among rural Chinese students](rses-one-sd-increase-0-12-sd-math-rural-china.md) — related

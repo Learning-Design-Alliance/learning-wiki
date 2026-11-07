@@ -52,3 +52,4 @@ Logistic regression in 636 diagnosed youth compared comorbidity levels, controll
 - [The association between ADHD and DESR is not fully explained by comorbid psychiatric disorders](desr-not-fully-explained-by-comorbidity.md) — related
 - [All diagnostic groups of referred youth, including those without full diagnoses, show processing speed below the population norm](ps-below-norms-all-clinical-groups.md) — related
 - [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)
+- [Comorbidity explains much of the apparent association between individual mental disorder diagnoses and educational outcomes, as fully adjusted associations are greatly attenuated](comorbidity-attenuates-diagnosis-associations.md) — related

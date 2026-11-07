@@ -20,6 +20,7 @@ A five-section scenario-design template developed and validated by the SoFraSimS
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Six parts required to adequately describe a simulation scenario, derived from the literature and published templates**: From their literature review and analysis of published templates, the authors identify six required parts of a scenario description: a complete layout with a concise title; practical elements; a well-identified learner population with curriculum context; clear, limited, observable and measurable learning objectives for technical and non-technical competencies; all material and human resources for an authentic case; and a detailed session timeline including a section suggesting improvements for future sessions. The article reports that "the literature review and the various published templates highlighted 6 parts required to adequately describe a scenario." (Der Sahakian Guillaume et al (2024))
 
 ### Claims
 - [The SoFraSimS expert group developed and validated three scenario-design templates for the three main simulation modalities through literature review, focus groups and nominal group consensus](../claims/sofrasims-three-scenario-templates-consensus.md) [+M]

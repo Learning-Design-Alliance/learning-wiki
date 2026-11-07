@@ -49,3 +49,4 @@ SEM with maximum likelihood estimation and Bootstrap mediation testing (n = 587)
 - [Online real-time teaching interaction and deep learning jointly account for 18.5% of variance in teaching effect](interaction-deep-learning-explain-teaching-effect-variance.md) — related
 - [The blended model's effect on clinical skills scores splits into a direct pedagogical effect and an indirect effect mediated by increased training time](mediation-direct-pedagogical-effect-plus-training-time.md) — related
 - [Positive-low arousal academic emotions (calmness and relaxation) partially mediate the relationship between online presence and learning performance](positive-low-arousal-emotions-partially-mediate-presence-performance.md) — related
+- [E-learning motivation partially mediates the relationship between technology access and satisfaction with e-learning (proportion mediated 31.2%)](elearning-motivation-partially-mediate-tech-access-satisfaction.md) — related

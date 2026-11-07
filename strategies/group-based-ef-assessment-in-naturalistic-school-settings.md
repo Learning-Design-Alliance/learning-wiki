@@ -1,6 +1,7 @@
 ---
 type: strategy
 id: group-based-ef-assessment-in-naturalistic-school-settings
+aliases: [group-based-ef-assessment-in-school-settings]
 title: Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions
 description: The article argues that directly assessing executive functions in group-based school settings improves ecological validity over individualized assessments in labs or quiet school rooms, and over adult reports that lac...
 status: review
@@ -12,6 +13,10 @@ sources:
     resource: "https://doi.org/10.1038/s41598-023-29427-w"
     title: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A. (2023). Contribution of sustained attention abilities to real-world academic skills in children. Scientific Reports 13, 2673. https://doi.org/10.1038/s41598-023-29427-w"
     author: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A"
+  - id: gallen-courtney-l-2023
+    resource: "https://doi.org/10.1038/s41598-023-29427-w"
+    title: "Gallen Courtney L., Schaerlaeken Simon, Younger Jessica W., Project iLEAD Consortium Younger Jessica Wise, O’Laughlin Kristine D., Anguera Joaquin A., Bunge Silvia A., Ferrer Emilio E., Hoeft Fumiko, McCandliss Bruce D., Mishra Jyoti, Rosenberg-Lee Miriam, Gazzaley Adam, Uncapher Melina R., Anguera Joaquin A., Gazzaley Adam. (2023). Contribution of sustained attention abilities to real-world academic skills in children. Scientific Reports. https://doi.org/10.1038/s41598-023-29427-w"
+    author: Gallen Courtney L., Schaerlaeken Simon, Younger Jessica W., Project iLEAD Consortium Younger Jessica Wise, O’Laughlin Kristine D., Anguera Joaquin A., Bunge Silvia A., Ferrer Emilio E., Hoeft Fumiko, McCandliss Bruce D., Mishra Jyoti, Rosenberg-Lee Miriam, Gazzaley Adam, Uncapher Melina R., Anguera Joaquin A., Gazzaley Adam
 ---
 
 # Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions
@@ -27,14 +32,18 @@ The article argues that directly assessing executive functions in group-based sc
 ### Context
 #### Requirements
 - Group sessions facilitated by trained researchers (4-12 depending on group size) with a school staff member or researcher present; digital tasks adapted for group administration
+- Trained researchers to monitor participants and ensure task comprehension; a school staff member and/or researcher present at all sessions; random effect of school in analyses to account for clustering
 #### Constraints
 - Supervision from less familiar researchers somewhat limits the ecological validity of the environment, per the authors; some sessions occurred in mixed groups in cafeterias or gymnasiums rather than traditional classrooms
+- The authors acknowledge that "supervision from less familiar researchers somewhat limits the ecological validity of the environment for this study", and tablet-based tasks are limited in assessing behaviors integrating interpersonal dynamics or social and emotional factors
 
 ### Target Learners
 - students in grades 4-8 in public, private, and parochial schools
+- students in grades 4 through 8 in public, private, and parochial schools
 
 ### Target Learning Goals
 - valid measurement of sustained attention and executive functions as they relate to real-world academic performance
+- valid measurement of executive functions and academic skills in ecologically valid school contexts
 
 ## Claims
 
@@ -53,3 +62,40 @@ The article argues that directly assessing executive functions in group-based sc
 
 ## Key Sources
 - Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A. (2023). Contribution of sustained attention abilities to real-world academic skills in children. Scientific Reports 13, 2673. https://doi.org/10.1038/s41598-023-29427-w
+- Gallen Courtney L., Schaerlaeken Simon, Younger Jessica W., Project iLEAD Consortium Younger Jessica Wise, O’Laughlin Kristine D., Anguera Joaquin A., Bunge Silvia A., Ferrer Emilio E., Hoeft Fumiko, McCandliss Bruce D., Mishra Jyoti, Rosenberg-Lee Miriam, Gazzaley Adam, Uncapher Melina R., Anguera Joaquin A., Gazzaley Adam. (2023). Contribution of sustained attention abilities to real-world academic skills in children. Scientific Reports. https://doi.org/10.1038/s41598-023-29427-w
+
+<!-- merged 2026-11-07 from strategies/group-based-ef-assessment-in-school-settings ("Assess executive functions in group-based naturalistic school settings rather than individualized quiet-room testing"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Assess executive functions in group-based naturalistic school settings rather than individualized quiet-room testing
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article recommends assessing children's cognitive abilities collectively in real school environments, since individualized assessments "minimize distractions typical to school but, as such, do not assess student’s abilities in naturalistic environments with high ecological validity". Group-based sessions on tablets in classrooms, libraries, cafeterias and gymnasiums, with multiple trained facilitators and a random effect of school in models, capture skills as students practice and are evaluated daily.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Trained researchers to monitor participants and ensure task comprehension; a school staff member and/or researcher present at all sessions; random effect of school in analyses to account for clustering
+#### Constraints
+- The authors acknowledge that "supervision from less familiar researchers somewhat limits the ecological validity of the environment for this study", and tablet-based tasks are limited in assessing behaviors integrating interpersonal dynamics or social and emotional factors
+
+### Target Learners
+- students in grades 4 through 8 in public, private, and parochial schools
+
+### Target Learning Goals
+- valid measurement of executive functions and academic skills in ecologically valid school contexts
+
+## Related Strategies
+
+- [Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions](group-based-ef-assessment-in-naturalistic-school-settings.md)
+- [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
+
+## Examples
+-
+
+## Key Sources
+- Gallen Courtney L., Schaerlaeken Simon, Younger Jessica W., Project iLEAD Consortium Younger Jessica Wise, O’Laughlin Kristine D., Anguera Joaquin A., Bunge Silvia A., Ferrer Emilio E., Hoeft Fumiko, McCandliss Bruce D., Mishra Jyoti, Rosenberg-Lee Miriam, Gazzaley Adam, Uncapher Melina R., Anguera Joaquin A., Gazzaley Adam. (2023). Contribution of sustained attention abilities to real-world academic skills in children. Scientific Reports. https://doi.org/10.1038/s41598-023-29427-w
+-->

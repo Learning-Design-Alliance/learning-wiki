@@ -52,3 +52,4 @@ Hierarchical regression predicting ER strategies from the three EF indices after
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — a broader claim this one bears on
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related
+- [Working memory is the strongest predictor within the executive function latent construct, followed by inhibitory control](working-memory-strongest-ef-predictor.md) — reports the opposite

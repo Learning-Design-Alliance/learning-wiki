@@ -45,6 +45,7 @@ The brief closes its recommendations with continuous improvement: "Organizations
 - [Continuously assess and re-evaluate feature implementation through user-centered research, including default-setting experiments](continuous-assessment-edtech-feature-implementation.md)
 - [Evaluate training effectiveness regularly with pre- and post-training assessments to measure impact on knowledge and skills](pre-post-training-assessment-pi-competency.md)
 - [Support basic psychological needs and mindfulness through family education sessions and school conditions](family-education-sessions-needs-mindfulness.md)
+- [Government–school–family coordination with autonomy-supportive, feedback-rich school sports plans to promote participation](sports-participation-three-party-intervention-strategy.md)
 
 ## Examples
 -

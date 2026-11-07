@@ -51,6 +51,7 @@ The authors propose two follow-on developments grounded in this study's indicato
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](school-level-data-systems-identify-student-support-needs.md)
 - [Weekly gradebook monitoring with a 70 percent threshold and templated early-warning interventions](weekly-gradebook-monitoring-70-percent-intervention.md)
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
+- [Predict and warn students at risk to assist teacher management and prevent selective ignoring](achievement-prediction-early-warning-strategy.md)
 
 ## Examples
 -

@@ -81,3 +81,4 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [The authors propose that MDT-CBL's primary pilot-phase value lies in process benefits — engagement and exposure to interdisciplinary dialogue — rather than measured knowledge gains](mdt-cbl-process-benefits-interpretation.md) — related
 - [Postgraduate nursing students in the PBL course reported a multi-layered sense of accomplishment spanning knowledge gains, emotional satisfaction, and professional identity development](pbl-sense-of-accomplishment-nursing.md) — related
 - [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related
+- [The PBL step-by-step process from problem to solution is credited by the authors with improving learners' systematicity and self-confidence](pbl-stepwise-process-systematicity-self-confidence.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Linear mixed models on data from 725 students in grades 4, 6, and 8 assessed in 
 - [Sustained attention positively predicts broad statewide standardized test scores in math and ELA](sustained-attention-predicts-broad-standardized-test-scores.md) — related
 - [Sustained attention positively predicts reading comprehension assessed in group-based school settings](sustained-attention-predicts-school-based-reading-comprehension.md) — related
 - [Attention is more predictive of targeted than broad math, but equally predictive of both reading measure types](attention-predicts-targeted-math-more-than-broad-math.md) — related
+- [Sustained attention positively predicts targeted math fluency and reading comprehension assessed in group-based school settings](sustained-attention-predicts-targeted-math-reading-school-settings.md) — a broader claim this one bears on

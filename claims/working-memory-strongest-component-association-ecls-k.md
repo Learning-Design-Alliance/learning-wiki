@@ -60,3 +60,4 @@ Path estimates from Model 2 estimated on ECLS-K raw data at three waves (Table 6
 - [Improvement during practice is highly variable across functions and stages, with final abilities in different functions correlating only about 0.4](practice-improvement-variable-across-functions.md) — related
 - [Organization and planning and self-control show the strongest loadings on the latent EF construct](ef-strongest-loadings-organization-self-control.md) — related
 - [All three childhood cognitive measures (global EF, processing speed, working memory) significantly predicted adult math scores, and these predictive relations were not moderated by ADHD diagnosis](childhood-cognitive-predictors-adult-math-regressions.md) — related
+- [Working memory is the strongest predictor within the executive function latent construct, followed by inhibitory control](working-memory-strongest-ef-predictor.md) — related

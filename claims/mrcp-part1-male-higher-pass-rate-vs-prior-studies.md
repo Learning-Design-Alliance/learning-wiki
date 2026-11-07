@@ -53,3 +53,4 @@ Univariable chi-squared comparison of first-sitting pass rates by sex in the 604
 - [Religion predicts first-attempt outcomes, with effects differing by examination format and reversing direction for some groups](religion-predicts-first-attempt-outcomes-format-dependent.md) — related
 - [First-time PANCE pass rates were similar between the MMI cohort (98%) and the two panel-interview cohorts (100%)](mmi-simulation-similar-pance-pass-rates.md) — related
 - [Sex differences in OSCE outcome appear in univariate analysis but are not significant in the path model, and SSC mitigates them](ssc-mitigates-sex-differences-osce.md) — related
+- [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related

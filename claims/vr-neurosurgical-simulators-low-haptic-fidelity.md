@@ -82,3 +82,4 @@ Sub-group analysis of Alaraj et al.'s ITACS immersive VR aneurysm-clipping simul
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [The authors attribute the model's benefit to tactile and visual feedback that promotes active learning](tactile-visual-feedback-active-learning-interpretation.md) — related
 - [The simulator shows face validity: overall realism rated 4.57/5 with no significant expert–novice differences](tp-simulator-face-validity-realism-ratings.md) — related
+- [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — a narrower finding that bears on this claim

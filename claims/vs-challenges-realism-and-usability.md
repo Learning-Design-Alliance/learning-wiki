@@ -92,3 +92,4 @@ Synthesized student-challenges finding; one student described sweating and feeli
 - [Students most often credit the virtual system with enhanced safety (90.8%), unlimited repetition (79.6%), and cost reduction (74.6%)](student-perceived-advantages-safety-repetition-cost.md) — related
 - [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — related
 - [VR showed no statistical difference from physically operating a real CT scanner for technical knowledge and decision-making](vr-equivalent-real-ct-scanner-outcomes.md) — related
+- [Working post-graduate nursing students' reactions to forced e-learning shifted from a predominantly emotional reaction to a more rational, analytic and realistic one over six months](emotional-to-rational-reaction-shift-forced-elearning.md) — related

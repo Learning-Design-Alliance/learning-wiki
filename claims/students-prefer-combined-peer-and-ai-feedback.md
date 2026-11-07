@@ -75,3 +75,4 @@ Post-intervention survey item on usefulness (Fig. 3) shows near-identical agreem
 - [Formative assessment and continuous feedback are prioritized over traditional offline final examinations in the evaluation phase](formative-assessment-over-final-exams-bmooc.md) — related
 - [A majority of students (53.1%) preferred a combination of AI and expert feedback over either source alone](majority-prefer-combined-ai-expert-feedback.md) — related
 - [Combining student feedback with teacher self-assessment provides more useful clinical teaching feedback than either alone](combined-student-feedback-self-assessment-more-effective.md) — related
+- [Students reported lower peer and teacher interaction in online classes, with lower ratings accumulating over the semester, yet preferred online learning](reduced-interaction-but-online-preference.md) — related

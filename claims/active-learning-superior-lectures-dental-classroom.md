@@ -72,3 +72,4 @@ Synthesis of learning-level evaluations: 48 of 57 studies compared active learni
 - [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
 - [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](pbl-improves-resident-satisfaction.md) — a narrower finding that bears on this claim
 - [Perceived VDT utility did not always correspond to measurable academic advantage](perceived-utility-not-always-academic-advantage.md) — related
+- [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — a narrower finding that bears on this claim

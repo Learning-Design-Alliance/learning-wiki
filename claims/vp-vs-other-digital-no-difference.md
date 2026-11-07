@@ -73,3 +73,4 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Patient-in-classroom teaching was rated higher in overall teaching quality than traditional lectures, with a large effect size](patient-in-classroom-higher-teaching-quality.md) — related
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
 - [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — related
+- [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related

@@ -53,3 +53,4 @@ Step 3 of the hierarchical regression in 197 children predicted change in total 
 - [Weight gain is associated with better academic performance in children with lower baseline BMI (mean − 1 SD)](weight-gain-underweight-improves-grades.md) — related
 - [Weight loss is associated with better academic performance in children with higher baseline BMI (mean + 1 SD)](weight-loss-overweight-improves-grades.md) — related
 - [School children's screen time is negatively associated with academic performance](screen-time-negatively-associated-academic-performance.md) — reports the opposite
+- [PBL produced no significant changes in BMI or weight over 5 years; only the control group's weight rose significantly at 1 year](pbl-no-bmi-weight-changes.md) — related

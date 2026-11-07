@@ -46,7 +46,8 @@ Based on the finding that resilience can be fostered by teachers in regular clas
 - [A close bond with at least one caring adult is the most critical protective factor for resilient children](../claims/one-caring-adult-protective-bond.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate career education and growth mindset programs, cultivate positive academic emotions, and improve learning conditions to foster resilience in disadvantaged students](career-education-growth-mindset-resilience-strategy.md)
 
 ## Examples
 -

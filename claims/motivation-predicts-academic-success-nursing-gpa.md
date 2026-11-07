@@ -54,3 +54,6 @@ Direct-path coefficients (Table 4, paths c1–c3) from the path analysis of 261 
 - [Health-related quality of life indirectly improves academic success via intrinsic motivation alone and via burnout plus intrinsic motivation serially](hrqol-indirect-effects-via-burnout-intrinsic-motivation.md) — related
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — reports the opposite
 - [High GPA is positively associated with prior online-learning experience, autonomy, competence, and intrinsic motivation, and negatively with amotivation](logistic-regression-gpa-predictors.md) — related
+- [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](amotivation-correlates-burnout-intrinsic-motivation.md) — related
+- [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — reports the opposite
+- [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — related

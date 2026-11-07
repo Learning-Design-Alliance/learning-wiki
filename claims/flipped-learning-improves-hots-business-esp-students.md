@@ -55,3 +55,4 @@ T-test analysis of the HOTs performance test (75 points across analysis, evaluat
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related
+- [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on

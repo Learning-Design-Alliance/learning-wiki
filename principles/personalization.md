@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 115 claims (63 for, 42 mixed, 10 against) · 115 studies (34 review, 28 causal, 13 theoretical, 11 associational, 11 qualitative, 9 quant-synthesis, 9 design), `q1`–`q4` · 10 of 115 report an effect size · 110 claims rest on one study
+> **Evidence** · 116 claims (64 for, 42 mixed, 10 against) · 116 studies (34 review, 29 causal, 13 theoretical, 11 associational, 11 qualitative, 9 quant-synthesis, 9 design), `q1`–`q4` · 10 of 116 report an effect size · 111 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Learners did not gain more vocabulary from favored-context (sport) passages than from disfavored-context (geography) passages; the favored-context hypothesis was rejected](../claims/favored-context-hypothesis-rejected-sport-vs-geography.md) [~W] — attached 2026-11-02 from Omid Rezaei (2011), which proposed "Identify learners' needs, preferences and interest areas before designing reading materials for vocabulary learning"; tests this page's relationship.
 - [Tiered differentiated teaching in sixth-grade algebra raises corrected posttest achievement more than existing teaching](../claims/tiered-differentiated-teaching-algebra-posttest-advantage.md) [+W] — attached 2026-11-02 from Bal (2016), which proposed "Tiered teaching by learning style and readiness level"; tests this page's relationship.
 - [Tutors described ongoing progress monitoring, guided practice, and multiple explanations and representations as core practices in synchronous online mathematics tutoring sessions](../claims/tutor-practices-progress-monitoring-guided-practice.md) [+W] — attached 2026-11-03 from Chappell et al. (2015), which proposed "Embed systematic progress monitoring and individualized learning plans in online tutoring programs serving struggling mathematics students".
+- [The direction of the training-order advantage differed by career length: under 24 months favoured lecture-then-simulation, 24 months or more favoured simulation-then-lecture](../claims/nrp-training-order-advantage-moderated-by-career.md) [+W] — attached 2026-11-07 from Choi Seoheui et al. (2023), which proposed "Tailor the order of lecture and simulation in NRP training to each trainee's degree of experience"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

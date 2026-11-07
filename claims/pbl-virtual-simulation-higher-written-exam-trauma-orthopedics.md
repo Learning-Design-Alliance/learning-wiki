@@ -72,3 +72,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [A larger share of the combined-method group reported improved independent learning ability (88.46% vs 65.68%) and improved learning enthusiasm (89.42% vs 76.47%)](cbl-clinical-pathway-independent-learning-enthusiasm.md) — related
 - [O2O/PBL trainees scored higher on the clinical thinking examination than LBT trainees](o2o-pbl-higher-clinical-thinking-scores-nephrology.md) — related
 - [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related
+- [Combined virtual-simulation and jaw-model training yields higher second theoretical examination scores than either method alone, with Group V-J best](combined-training-higher-second-theoretical-scores.md) — related

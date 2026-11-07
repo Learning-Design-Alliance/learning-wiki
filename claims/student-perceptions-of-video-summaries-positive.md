@@ -49,3 +49,4 @@ Post-hoc email survey of 19 respondents after grades were allocated; students de
 - [Adding a guest lecturer to deliver video summaries negates the recall benefit of those summaries](guest-lecturer-summaries-negate-recall-benefit.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related
+- [Ninety-four percent of the local hospital audience reported a good to very good learning experience from the video-lecture program](local-audience-positive-learning-experience-94-percent.md) — related

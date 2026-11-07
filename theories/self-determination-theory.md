@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 132 claims (98 for, 31 mixed, 3 against) · 91 studies (36 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 20 of 91 report an effect size · 126 claims rest on one study
+> **Evidence** · 133 claims (99 for, 31 mixed, 3 against) · 92 studies (37 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 21 of 92 report an effect size · 127 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -188,6 +188,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Autonomy for exploration sustains teachers' motivation](../claims/autonomy-for-exploration-sustains-teacher-motivation.md) [+W] — attached 2026-11-07 from Bahramnezhad F (2025), which proposed "Establishing pathways to excellence in the teaching profession: a framework of sustainable motivators for medical sciences university teachers".
 - [Students of instructors with interactive-lecture and student-centred teaching profiles reported significantly higher perceived competence than students of didactic instructors, while autonomy support differed less consistently](../claims/active-learning-profiles-higher-competence-autonomy.md) [+W] — attached 2026-11-07 from Stieha Vicki et al. (2024), which proposed "Self-determination theory: competence, autonomy, and relatedness as supports for motivation quality".
 - [Basic psychological needs directly predict successful academic identity](../claims/bpn-direct-effect-academic-identity.md) [+M] — attached 2026-11-07 from Chen Shuya (2024), which proposed "Self-determination theory model of successful academic identity with mindfulness and self-efficacy mediators"; tests this page's relationship.
+- [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](../claims/amotivation-correlates-burnout-intrinsic-motivation.md) [+W] — attached 2026-11-07 from Usán Pablo et al. (2022), which proposed "Self-determination theory continuum of academic motivation".
 
 ## The evidence by question
 

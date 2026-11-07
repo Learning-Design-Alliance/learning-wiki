@@ -67,3 +67,4 @@ Technical-level item from the same evaluation: median 4 with IQR 0 on the six-po
 - [Students rated the redesigned blended learning radiotherapy module positively across design, skills acquisition, seminar, and internship items](positive-student-evaluation-blended-radiotherapy-module.md) — related
 - [93.1% of students rated pre-class test difficulty as appropriate](pre-class-tests-appropriate-difficulty-rating.md) — related
 - [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related
+- [Participants found the true/false quizzes relatively easy but the detailed descriptions difficult because they contained many technical words, and sentences were too long](ebm-elearning-quizzes-easy-explanations-technical-words-difficult.md) — related

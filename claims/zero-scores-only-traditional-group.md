@@ -46,3 +46,4 @@ Score-distribution analysis of the same randomized test comparison. The article 
 
 ## Related Claims
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — related
+- [The lowest-performing score tail was eliminated in active-learning offerings, with students below ~25 points appearing exclusively in traditional offerings](active-learning-mena-low-tail-eliminated.md) — related

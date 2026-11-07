@@ -56,3 +56,4 @@ Longitudinal analysis of the Chicago survey data compared extracurricular partic
 - [Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments](poverty-concentration-and-parental-academic-press-negative-civic-effects.md) — related
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](traditional-student-participation-inefficient-spain.md) — related
+- [Nearly half of surveyed Chinese primary school children never participate in sports teams or clubs](chinese-children-never-sports-participation-prevalence.md) — related

@@ -54,3 +54,4 @@ The review's narrative synthesis of 7 included studies found that "4 studies rep
 - [Neonatal resuscitation VR gamification showed no significant anxiety improvement over simulation and control groups](neonatal-resuscitation-vr-no-significant-anxiety-gain.md) — reports the opposite
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — a narrower finding that bears on this claim
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
+- [Nearly all surveyed nursing students (129 of 132, 97.7%) stated that XR-based neonatal nursing training programs were needed](nearly-all-students-demand-xr-neonatal-training.md) — related

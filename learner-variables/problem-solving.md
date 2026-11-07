@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (141 show a difference, 18 mixed, 22 no difference) · 145 studies (85 causal, 17 review, 12 associational, 11 quant-synthesis, 9 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 34 of 145 report an effect size · 177 claims rest on one study
+> **Evidence** · 182 claims (142 show a difference, 18 mixed, 22 no difference) · 146 studies (85 causal, 18 review, 12 associational, 11 quant-synthesis, 9 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 34 of 146 report an effect size · 178 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -219,6 +219,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Dietetic students in PBL perceived stronger thinking, problem-solving, communication and collaborative-learning skills than didactically taught students](../claims/pbl-dietetic-students-perceived-skill-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Among the three problem-solving components, only problem-solving confidence changed significantly after simulation-based training](../claims/problem-solving-confidence-only-component-changed.md) [+M] — measured as an outcome of the instruction studied
 - [Simulation-based training significantly improved problem-solving skills among Vietnamese nursing students, measured as a significant decrease in Problem-Solving Inventory scores](../claims/simulation-training-improved-problem-solving-nursing-vietnam.md) [+M] — measured as an outcome of the instruction studied
+- [Confronting learners with ill-structured, non-routine tasks and self-directed discovery is a key task/training characteristic for adaptive expertise](../claims/ill-structured-tasks-discovery-adaptive-expertise.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

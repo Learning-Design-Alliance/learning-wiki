@@ -69,3 +69,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — a narrower finding that bears on this claim
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related
+- [System & technical dimension significantly predicts e-learning satisfaction (β = 0.241), with lecture recording and remote access rated low by students](system-technical-dimension-predicts-satisfaction.md) — related

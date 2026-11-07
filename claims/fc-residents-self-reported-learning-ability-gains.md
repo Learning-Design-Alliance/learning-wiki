@@ -61,3 +61,4 @@ Anonymous questionnaire completed by all 127 residents (100% response rate) afte
 - [After two flipped sessions, nearly 80% of students reported developing multiple abilities, with pre-existing learning pain points reportedly addressed](dt-flipped-students-report-multiple-ability-gains.md) — related
 - [PTEBL-based Stop the Bleed training produces greater self-reported improvement in teamwork skills than traditional teaching (94.8% vs 81.6%, P = 0.011)](ptebl-improves-teamwork-skills-stb.md) — related
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
+- [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on

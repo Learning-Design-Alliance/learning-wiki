@@ -74,3 +74,4 @@ Descriptive trends in CPR and defibrillation initiation times across the follow-
 - [Mental imagery training showed no significant difference in technical skills (ACAT1) between the groups](mental-imagery-no-technical-skills-difference-acat1.md) — related
 - [One-time educational interventions show transient effects, with knowledge and performance declining within months of initial training](one-time-education-transient-effects-infection-control.md) — related
 - [Non-technical skill gains from simulated crisis scenarios with debriefing are retained for at least two months](debriefing-skill-gains-retained-two-months.md) — related
+- [Knowledge scores rose significantly from pre-test to post-test within both groups, but the between-group difference in non-technical skills seen at T0 was no longer present at one month](theoretical-training-pre-post-gains-not-retained-between-groups.md) — related

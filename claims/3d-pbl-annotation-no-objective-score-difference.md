@@ -58,3 +58,4 @@ In the same RCT, the t-test comparison of objective multiple-choice scores betwe
 - [Senior stomatology undergraduates taught with a 3D-printed simulator integrated with PBL scored significantly higher on in-class theoretical tests than those taught with traditional PBL](3d-printed-pbl-higher-theoretical-scores-cleft-lip.md) — related
 - [No statistically significant difference between the BOPPPS and traditional teaching groups on multiple-choice (theoretical) question scores](boppps-his-no-difference-multiple-choice.md) — related
 - [No significant between-group difference in objective-question scores](no-difference-objective-question-scores.md) — related
+- [Spinal surgery trainees taught traditionally scored higher on objective multiple-choice questions than trainees taught with PBL plus 3D visualization](lecture-higher-objective-question-scores-spinal-surgery.md) — reports the opposite

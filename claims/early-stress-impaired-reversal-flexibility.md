@@ -59,3 +59,4 @@ Reversal-condition ANOVA in 26 early-stress and 21 control adolescents (switch t
 - [Adolescents and adults perform equally well on the probabilistic reversal learning task overall](adolescent-adult-equal-reversal-task-performance.md) — related
 - [Acute psychosocial stress differentially affects cognitive flexibility by sex (significant Sex × Condition interaction on perseverative errors)](acute-stress-sex-specific-cognitive-flexibility.md) — related
 - [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md) — a broader claim this one bears on
+- [Expectancy difference scores reverse as contingencies change in both groups, but only the Instructed Group's expectations varied significantly by phase](expectancy-reversals-larger-in-instructed-group.md) — a narrower finding that bears on this claim

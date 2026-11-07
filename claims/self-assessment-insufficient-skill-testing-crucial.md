@@ -48,3 +48,4 @@ The article attributes this finding to the authors' previous study of a web-base
 - [After introducing skill assessment and outcome-based simulation training, the institutional mechanical complication rate for central venous catheter placement decreased from 2.2% in 2015 to 1.2% in 2023](outcome-based-simulation-training-mechanical-complications-decreased.md) — related
 - [For ultrasound-guided venous access procedures, comparative studies show no agreement on whether distance or traditional teaching is more effective](venous-access-teaching-no-agreement.md) — related
 - [Acquired ultrasound skills decay without repeated practice, supporting longitudinal curricula and periodic re-assessment](ultrasound-skill-decay-longitudinal-curriculum.md) — related
+- [The review reports that ultrasound guidance prior to pleural intervention reduces procedural complications such as pneumothorax](tus-guidance-reduces-pleural-procedure-complications.md) — related

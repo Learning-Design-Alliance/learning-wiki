@@ -61,3 +61,5 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Depressive symptom severity (PHQ-9) is not statistically significantly associated with GPA category among Saudi physical therapy students](phq9-not-associated-gpa-saudi-pt-students.md) — related
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
 - [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](depression-anxiety-negative-academic-performance-medical-students.md) — related
+- [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
+- [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related

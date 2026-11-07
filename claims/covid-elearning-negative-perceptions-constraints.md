@@ -50,3 +50,4 @@ Systematic review synthesis of negative-perception items across the included cro
 - [Health professions students predominantly reported positive perceptions of e-learning during the COVID-19 pandemic in 7 of 12 studies](covid-elearning-positive-perceptions-majority.md) — reports the opposite
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
 - [Satisfactory levels of acceptance of distance learning were reported in 3 of 4 studies during the pandemic](covid-elearning-satisfactory-acceptance.md) — related
+- [Saudi nursing students during COVID-19 reported somewhat satisfied e-learning perceptions, high technology access, and moderate e-learning motivation](saudi-nursing-students-descriptive-elearning-levels.md) — related

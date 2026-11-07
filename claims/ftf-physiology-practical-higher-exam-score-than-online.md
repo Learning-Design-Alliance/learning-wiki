@@ -49,3 +49,4 @@ Comparison of exam test scores per topic between the face-to-face group (FtFgrou
 - [The number of face-to-face practical attendances correlates positively with exam points (Spearman r=0.236, p<.001), a small positive correlation](ftf-attendance-correlates-with-exam-points.md) — related
 - [On the non-randomized circulation topic, the 182 students taught on site answered the exam questions significantly better than the 16 students taught online](circulation-topic-onsite-outperformed-online.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [Online non-lecture physiology teaching during COVID-19 yielded summative scores 4.80±0.92% lower than on-site teaching (Cohen's d = 0.42)](online-non-lecture-physiology-lower-summative-scores.md) — related

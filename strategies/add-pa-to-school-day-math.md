@@ -60,6 +60,7 @@ The review concludes that several types of school-based PA can be recommended to
 - [Schedule vigorous in-class exercise sessions after core academic lessons rather than before them](vigorous-activity-after-academic-lessons.md)
 - [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 - [Integrate 20-minute physical activity breaks into twice-weekly 60-minute science lessons alongside nutritional education](active-breaks-in-science-lessons-strategy.md)
+- [Allocate school-aged children to cognitively challenging physical activities such as tag games, team games, or coordinative exercises](cognitively-challenging-physical-activities-recommendation.md)
 
 ## Examples
 -

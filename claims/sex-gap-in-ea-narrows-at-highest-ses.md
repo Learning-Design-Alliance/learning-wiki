@@ -51,3 +51,4 @@ Likelihood-ratio tests of sex differences in mean EA within each of four SES gro
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) — related
 - [Descriptive results suggest the gap between high-achieving and low-achieving students narrowed during the music-mathematics intervention](music-math-intervention-reduced-achievement-gap.md) — related
 - [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — reports the opposite
+- [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — reports the opposite

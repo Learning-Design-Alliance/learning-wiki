@@ -51,3 +51,4 @@ The article reports, citing Shen et al. (2009), a survey of 3000 participants fr
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [Students overwhelmingly preferred video materials over text materials for learning technical ESP content](student-preference-video-over-text-esp.md) — a narrower finding that bears on this claim
 - [Physiotherapists preferred digital learning materials of 6 to 15 minutes, longer than the under-6-minute guideline for educational videos](preferred-video-length-6-15-minutes-physiotherapists.md) — reports the opposite
+- [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — reports the opposite

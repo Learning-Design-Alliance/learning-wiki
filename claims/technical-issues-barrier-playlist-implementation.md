@@ -107,3 +107,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related
 - [Virtual escape rooms face challenges of technical malfunction, low survey response rates, missing in-person moderators, and narrow topical focus](virtual-escape-room-challenges.md) — related
 - [The proposed system's response times are lower than those of two comparable children's education HCI systems across login, content loading, interaction, multimedia and test-feedback operations](hci-system-response-time-outperforms-reference-systems.md) — related
+- [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related

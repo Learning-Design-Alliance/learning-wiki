@@ -46,7 +46,8 @@ The article recommends that because lower self-perceived academic performance co
 - [Lower academic achievement is associated with higher odds of mental distress among Ethiopian university students](../claims/mental-distress-associated-lower-gpa-ethiopia.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Base additional school adjustments and special support on educational assessments rather than psychiatric diagnosis, with support preceding diagnosis](educational-assessment-before-diagnosis-support.md)
 
 ## Examples
 -

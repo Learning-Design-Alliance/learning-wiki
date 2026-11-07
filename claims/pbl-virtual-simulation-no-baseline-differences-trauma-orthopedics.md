@@ -74,3 +74,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [Baseline clinical skill performance did not differ between the randomized groups, while baseline knowledge did and was controlled in the analysis](baseline-differences-knowledge-controlled-skill-equivalent.md) — reports the opposite
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — related
 - [No statistically significant difference in pre-course theoretical test scores between the virtual simulation and MOOC groups](no-pretest-difference-virtual-simulation-mooc-groups.md) — a narrower finding that bears on this claim
+- [Final NRP test scores did not differ significantly between lecture-then-simulation and simulation-then-lecture training orders](nrp-final-scores-no-order-difference.md) — related

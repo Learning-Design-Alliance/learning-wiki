@@ -46,6 +46,7 @@ The article recommends enhancing asynchronous virtual care CPD modules by adding
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Incorporate virtual patient cases into continuous professional development of nurses at primary health centers](vp-cases-cpd-primary-health-nurses-strategy.md)
 - [Deliver standardized e-learning modules asynchronously as a supplement to clinical rotations, shared across institutions](shared-asynchronous-e-module-rotation-supplement-strategy.md)
+- [Six-part design recommendations for online modules that teach and assess critical thinking](six-recommendations-online-critical-thinking-modules.md)
 
 ## Examples
 -

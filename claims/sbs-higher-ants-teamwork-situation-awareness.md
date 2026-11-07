@@ -81,3 +81,4 @@ Domain-level ANTS analysis in the same scenario test showed only teamwork and si
 - [Flipped classroom raises ANTS decision making, team-working and leadership, and task management scores, but not situation awareness](fc-ants-subscores-situation-awareness-null.md) — related
 - [LSPPDM group scored higher on most NOTSS non-technical skills, with no difference in situation awareness](lsppdm-higher-notss-scores.md) — related
 - [Team communication, stress management, and task management were not significantly associated with high technical performance](team-communication-stress-task-management-not-associated-technical-performance.md) — related
+- [Surgeons' mean HUFOES scores for non-technical skills rose significantly from 48.7 ± 16.6 to 59.2 ± 14.8 after simulation-based PCR training with an NTS-focused intervention, in one uncontrolled pre-post study (p < 0.001)](nts-simulation-training-improves-hufoes-scores.md) — related

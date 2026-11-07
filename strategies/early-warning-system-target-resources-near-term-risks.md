@@ -52,6 +52,7 @@ The article recommends that identifying the students most likely to have certain
 - [Use dropout among siblings and same-age intimates as risk markers to target prevention resources and monitoring](target-prevention-via-network-dropout-markers.md)
 - [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
 - [Use case management and parent engagement to support at-risk students identified by an Early Warning System](ews-case-management-parent-engagement-strategy.md)
+- [Predict and warn students at risk to assist teacher management and prevent selective ignoring](achievement-prediction-early-warning-strategy.md)
 
 ## Examples
 -

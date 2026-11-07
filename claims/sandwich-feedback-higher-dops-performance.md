@@ -52,3 +52,4 @@ Blinded-rater DOPS assessment on the last intervention day in the RCT (n = 30). 
 - [Students receiving sandwich feedback-based learning report good-to-moderate attitudes toward the program](good-moderate-attitude-toward-fbl.md) — related
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
 - [VR simulation training produces higher DOPS procedural skill scores than real-patient or mannequin training for ECG lead placement](vr-training-higher-dops-ecg-lead-placement.md) — related
+- [In EBUS training, simulator-based training produced higher objectively scored performance than traditional apprenticeship-style training](simulator-training-outperformed-apprenticeship-ebusat.md) — related

@@ -47,3 +47,4 @@ Univariate logistic mixed-effects model row in Table 2 for self-reported simulat
 ## Related Claims
 - [Trainees who have performed more than 30 appendectomies are far more likely to be rated proficient than less experienced trainees](experienced-trainees-more-likely-proficient-appendectomy.md) — related
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
+- [Trainees who have practised on simulators enter the operating room more self-assured, and expert mentors spend less time teaching basic skills](simulation-confidence-and-mentor-time-benefits.md) — related

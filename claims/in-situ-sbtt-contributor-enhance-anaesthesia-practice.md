@@ -50,3 +50,4 @@ Qualitative inductive content analysis of follow-up focus group interviews with 
 - [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — a narrower finding that bears on this claim
 - [Participants report that knowledge and behaviour gains from SBTT decline without frequent training, describing learning as fresh produce](sbtt-frequency-needed-for-sustained-transfer.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
+- [Students reported transfer of interprofessional competencies to their workplace six to eight weeks after interprofessional simulation training](reported-ipe-transfer-to-workplace.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ One-way ANOVA across interest groups (high 50.9%, moderate 39.9%, low 9.2%) in t
 - [Nursing students score higher on SOC meaningfulness than medical students; male students score higher on meaningfulness than female students](meaningfulness-subscale-group-differences.md) — related
 - [Sense of coherence correlates positively with GPA among medical and nursing students (r = 0.519)](soc-positive-correlation-gpa-medical-nursing.md) — related
 - [Higher GPA rankings are associated with higher JHLES scores among Chinese medical students (p < 0.001)](gpa-ranking-associated-with-jhles-scores.md) — related
+- [Self-reported locus of control scores rose from pre-test to post-test after the e-learning programme in one single-group pre-post study, with nurses holding inconsistent views about control over their actions](rlo-elearning-no-locus-control-change.md) — related

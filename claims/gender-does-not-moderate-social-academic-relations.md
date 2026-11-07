@@ -59,3 +59,4 @@ Nine HLM interaction analyses regressing each academic outcome onto one social p
 - [Data collection year does not significantly predict the digital reading-comprehension association, though it becomes significant when an outlier is included](data-collection-year-moderation-mixed.md) — related
 - [Gender and academic level do not moderate the perfectionism–academic achievement relationships](gender-academic-level-not-moderators.md) — related
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related
+- [In boys, academic achievement at age 6 anomalously predicted higher social withdrawal at age 8](boys-achievement-age6-predicts-higher-withdrawal.md) — related

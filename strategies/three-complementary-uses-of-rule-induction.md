@@ -44,7 +44,8 @@ The author proposes at least three practical and principled ways to incorporate 
 - [A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college](../claims/few-splits-identify-high-risk-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use mined student factors to provide personalized teaching content and methods by group differences](personalized-teaching-from-mined-student-factors.md)
 
 ## Examples
 -

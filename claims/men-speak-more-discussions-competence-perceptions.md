@@ -56,3 +56,4 @@ The essay's minoritized-identities section reports observational studies attribu
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Female STEM majors report significantly lower sense of belonging than male majors](female-majors-report-less-belonging-than-male-majors.md) — related
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
+- [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related

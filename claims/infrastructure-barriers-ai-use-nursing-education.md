@@ -69,3 +69,4 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
+- [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related

@@ -57,3 +57,4 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 - [Mathematics learning strategy and perceived task difficulty jointly explain 22% of variance in students' mathematics achievement in an SEM path model](sem-strategy-task-difficulty-22-percent-math-achievement.md) — related
 - [Worse childhood global executive functioning predicted slower math growth over time, but did not predict initial childhood math scores](global-ef-predicts-math-growth-slope.md) — related
 - [Kindergarten working memory, but not 5th-grade working memory, significantly mediates the early-later math relation in sensitivity analyses](working-memory-mediation-kindergarten-timepoint-sensitivity.md) — related
+- [Socioeconomic and prior-achievement covariates predict later numeracy and literacy achievement](covariates-predict-numeracy-literacy-achievement.md) — related

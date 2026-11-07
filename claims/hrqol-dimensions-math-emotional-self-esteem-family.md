@@ -65,3 +65,4 @@ Same dimension-specific modeling for language achievement in boys; only the fami
 
 ## Related Claims
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
+- [Sex-stratified results show subject-specific patterns: physical education predicts HRQoL in girls but not boys, while sciences and numeric ability predict HRQoL in boys but not girls](sex-stratified-subject-specific-hrqol-prediction.md) — related

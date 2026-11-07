@@ -68,3 +68,4 @@ Narrative synthesis of Capozzi et al. (2018), a qualitative study of lead educat
 - [Dental hygiene programs lack adequate preparation of students for care of older adults in alternative practice settings](dh-geriatric-care-preparedness-gap.md) — related
 - [Independent-practice dental hygienists identify educational gaps in public health knowledge, business management, and communication skills](dh-independent-practice-gaps-business-public-health.md) — related
 - [Dental hygiene graduates are strong in foundational clinical skills but need more exposure to complex clinical cases during education](dh-complex-case-exposure-gap.md) — related
+- [The clinic's experiential learning venue expanded healthcare access for vulnerable populations while supporting student learning](refugee-clinic-access-and-learning-outcome.md) — related

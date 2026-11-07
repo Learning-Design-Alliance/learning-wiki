@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-07
 sources:
   - id: davar-kusha-2023
     resource: "https://doi.org/10.1186/s12909-023-04286-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interns demonstrated an improvement in therapeutic reasoning after PEST teaching, defined by using at least three of the four PEST criteria, but the improvement was not statistically significant. [→ Davar Kusha 2023](#davar-kusha-2023)

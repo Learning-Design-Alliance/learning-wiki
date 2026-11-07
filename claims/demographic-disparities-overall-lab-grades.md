@@ -74,3 +74,4 @@ The same overall-lab-grade models showed URM students scoring "3.17 points less"
 - [In the spring semester only, maximally heterogeneous group assignment eliminated a racial disparity in lab report grades present under random assignment, but this result was not robust](spring-heterogeneous-groups-eliminated-urm-report-grade-gap.md) — reports the opposite
 - [Opportunity gaps in prior chemistry coursework are present among introductory biology students, with historically underserved students reporting less high school chemistry](opportunity-gaps-chemistry-coursework-intro-biology.md) — related
 - [Women participated in the case-study course more than men regardless of allocation group](women-participate-more-than-men-case-study.md) — related
+- [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related

@@ -50,6 +50,7 @@ The review identifies concrete adaptations for implementing simulation under pan
 ## Related Strategies
 
 - [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
+- [Organise physical simulators for pandemic-safe use by spacing them apart, allowing only sequential use, and cleaning between users](pandemic-safe-simulator-organisation-strategy.md)
 
 ## Examples
 -

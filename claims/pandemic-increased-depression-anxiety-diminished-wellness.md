@@ -50,3 +50,4 @@ The article cites literature (Rajkumar 2020; Hartshorne et al. 2020) documenting
 - [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
 - [Transversal competencies—establishing a safe learning environment, accessibility, and empathy for students' situations—were emphasized as crucial during the pandemic](transversal-competencies-crucial-during-got.md) — related
 - [Age, clinical year, and stress perception showed negative and significant relationships with medical students' e-learning satisfaction during the COVID-19 pandemic](negative-factors-age-clinical-year-stress-elearning-satisfaction.md) — related
+- [90.2% of medical students reported at least one circadian rhythm disorder symptom during remote teaching](circadian-symptoms-90-percent-remote-teaching.md) — a narrower finding that bears on this claim

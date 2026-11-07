@@ -58,3 +58,4 @@ Baseline simulation examination before training: experimental thinking scores av
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [The simulation-trained and traditionally trained nurse groups were comparable at baseline on gender, age, working years, and education level](baseline-comparability-simulation-vs-traditional-groups.md) — related
 - [Baseline characteristics of the integrated PBL + LBC and LBC groups did not differ significantly in gender, nationality, or age](baseline-equivalence-integrated-pbl-groups.md) — related
+- [First theoretical assessment showed no significant difference among the four groups, indicating equivalent baseline learning ability](baseline-theoretical-scores-equivalent.md) — related

@@ -13,7 +13,7 @@ generated:
 # Performance Support
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (9 for, 3 mixed) · 22 studies (9 review, 5 causal, 4 theoretical, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 22 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (10 for, 3 mixed) · 23 studies (9 review, 6 causal, 4 theoretical, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 23 report an effect size · 8 claims rest on one study
 
 ## Description
 Performance support delivers just-in-time, task-specific guidance — job aids, checklists, embedded wizards, tooltips, decision trees — at the moment a learner attempts a task, rather than requiring the task to be recalled from memory. It functions as externalized knowledge: the system or artifact carries procedural detail so the performer can act competently before full mastery is achieved.
@@ -60,6 +60,7 @@ Performance support shifts the instructional goal from "train everything in adva
 - [Immediate feedback on incorrect operations and surgical step prompts are the most valued learning resources](../claims/cataract-vsim-feedback-prompts-most-valued.md) [+W]
 - [Real-time AI guidance improved novices' acquisition of the Apical-4-chamber and Apical-5-chamber views after a short cardiac ultrasound course](../claims/ai-guidance-improved-a4c-a5c-views.md) [+W] — attached 2026-11-07 from Karni Ofri et al. (2025), which proposed "UltraSight real-time AI guidance software for cardiac ultrasound probe navigation and image quality"; tests this page's relationship.
 - [Novices trained with real-time AI guidance completed the cardiac ultrasound proficiency exam more slowly than non-AI peers](../claims/ai-guidance-slower-exam-completion.md) [~W] — attached 2026-11-07 from Karni Ofri et al. (2025), which proposed "UltraSight real-time AI guidance software for cardiac ultrasound probe navigation and image quality"; tests this page's relationship.
+- [Trained residents communicated results at the CT scanner in a mean of 11.1 min, far faster than preliminary report issuance times of 24.4 and 16.3 min](../claims/scanner-results-communication-11-minutes.md) [+M] — attached 2026-11-07 from Yang AY et al. (2022), which proposed "Joint radiology–trauma surgery paper panscan checklist for wet reads at the CT scanner".
 
 ## The evidence by question
 - *Does performing with an aid at hand leave learners able to do the task once the aid is removed?* [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~M]

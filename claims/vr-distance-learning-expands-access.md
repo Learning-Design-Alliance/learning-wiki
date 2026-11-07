@@ -68,3 +68,4 @@ Theme 2 reports that VR expanded access during the COVID-19 pandemic in response
 - [Access to ophthalmic VRS is geographically unequal, with 12% of respondents traveling an average of 550 km to reach a simulator](unequal-global-access-ophthalmic-vrs.md) — related
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
 - [Telesimulation is a viable alternative to in-person simulation for improving clinician access to pediatric feeding training](telesimulation-viable-access-alternative-pediatric-feeding.md) — related
+- [Simulation can support COVID-19 infection prevention and control practice and enable socially distanced and remote training](simulation-supports-covid-distanced-training.md) — related

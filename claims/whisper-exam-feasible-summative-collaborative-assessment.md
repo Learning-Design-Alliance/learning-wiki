@@ -51,3 +51,4 @@ Descriptive feasibility study reporting examination performance at the team leve
 - [Students reported preparation effort for the collaborative exam comparable to individual examinations, indicating the team format did not reduce preparation](whisper-exam-preparation-effort-comparable.md) — related
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related
 - [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related
+- [93% of students passed the online long case examination, enabling onward progression through the medical program](93-percent-passed-online-long-case.md) — related

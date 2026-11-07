@@ -50,6 +50,7 @@ The commentary recommends that as K-12 teachers and administrators make the shif
 - [Develop and test interventions and teacher reflective practices to harness emotions as malleable factors in K-12 settings](interventions-reflective-practices-harness-teacher-emotions.md)
 - [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](integrate-mindfulness-schoolwide-daily-routines.md)
 - [Frustration and Stress Prevention/Reduction Techniques](frustration-and-stress-prevention-reduction-techniques.md)
+- [Incorporate biofeedback-assisted mindfulness into school educational policies and continue psychophysiological monitoring of at-risk students](school-policy-biofeedback-assisted-mindfulness-strategy.md)
 
 ## Examples
 -

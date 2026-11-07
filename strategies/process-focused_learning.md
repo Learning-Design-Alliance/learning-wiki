@@ -58,9 +58,11 @@ Process focus changes what gets noticed and rewarded. Learners calibrate their g
 5. Close the loop with brief reflection — learners identify what strategies worked and what they will change ([Check-ins](../elements/check-in.md))
 
 ## Related Strategies
+
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the assessment architecture that makes process consequential
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the individual capability this strategy cultivates
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — a structural alternative to grade-based evaluation
+- [De-emphasize high-stakes assessments and use specifications (mastery) grading to reduce instructor workload and clarify assignment relevance](deemphasize-high-stakes-specifications-grading-strategy.md)
 
 ## Examples
 - **[Learning journals](learning-journals.md)** — learners record strategies attempted, obstacles encountered, and revisions made; the journal is assessed for depth of reflection, not polish.

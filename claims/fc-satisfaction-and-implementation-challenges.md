@@ -65,3 +65,5 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [Residents in the intervention group reported reduced residency examination pressure compared with the control group](peyton-flipped-reduced-exam-pressure.md) — related
 - [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related
 - [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related
+- [Residents reported high satisfaction with the COVID-19-adapted simulation activity](high-satisfaction-covid-simulation.md) — related
+- [Residents who prepared and gave supervised video lectures all reported learning a lot from it, and most advisors valued teaching a colleague](resident-presentation-preparation-benefits.md) — related

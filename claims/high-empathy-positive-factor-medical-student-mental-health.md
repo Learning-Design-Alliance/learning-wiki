@@ -50,3 +50,4 @@ A multi-institutional cross-sectional survey of 1098 medical students (Thomas et
 ## Related Claims
 - [High affective empathy is associated with more depression, anxiety and burnout, while cognitive empathy shows the opposite pattern](affective-empathy-mental-health-issues-cognitive-opposite.md) — reports the opposite
 - [Empathy, low job burnout, humanistic nursing training, and personnel-agency employment status predict surgical nurses' perioperative PCC competence, together explaining 59.2% of variance](four-factors-predict-surgical-nurse-pcc-competence.md) — related
+- [Professional self-concept impacts nursing students' mental health, academic performance and professional values](self-concept-effects-mental-health-academic-values.md) — related

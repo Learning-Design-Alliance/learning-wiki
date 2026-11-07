@@ -55,3 +55,4 @@ Chi-squared comparison of perceived training need across professional groups in 
 - [Training sources differed by profession: nurses reported more school and orientation training; attending physicians more conferences and course programs](ot-training-sources-differ-by-profession.md)
 - [Most Turkish health vocational students believed dental trauma education is necessary (89.8%) and expressed interest in attending such training (80.2%)](strong-demand-dental-trauma-education-vocational-students.md) — related
 - [All participating residents viewed ultrasound teaching as a necessary part of training for physicians in cardiopulmonary-emergency specialties](residents-view-ultrasound-teaching-necessary.md) — related
+- [ED clinicians rate oxygen therapy topics as necessary for training, with oxygen administration methods and nasal cannula rated highest](ed-clinicians-rate-oxygen-therapy-topics-necessary.md) — related

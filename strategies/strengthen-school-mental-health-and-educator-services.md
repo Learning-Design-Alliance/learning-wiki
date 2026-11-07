@@ -43,6 +43,7 @@ Based on 26 years of service data showing rising registrations for affective dis
 - [Provide universal well-baby screening and home-visit services regardless of income, following Victoria, Australia's model](universal-well-baby-home-visits-victoria-model.md)
 - [Context-specific school and community initiatives: awareness campaigns, stipends, counseling, gender-sensitive supports, and infrastructure improvement](haor-context-specific-education-initiatives.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
+- [Base additional school adjustments and special support on educational assessments rather than psychiatric diagnosis, with support preceding diagnosis](educational-assessment-before-diagnosis-support.md)
 
 ## Examples
 -

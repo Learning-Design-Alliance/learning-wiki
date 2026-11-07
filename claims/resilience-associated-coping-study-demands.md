@@ -49,3 +49,4 @@ Cross-sectional survey of 793 teacher-training students; whole-sample multiple r
 - [Resilience shows no direct association with study performance (grades) among pre-service teachers, regardless of personality or mental health profile](resilience-no-direct-association-study-performance.md) — related
 - [Resilience is significantly associated with social adaptation among pre-service teachers, explaining about 30% of variance, with Positive Acceptance of Change and Secure Relationships the strongest contributor](resilience-associated-social-adaptation.md) — related
 - [Resilience is positively related to non-performance components of academic achievement, but only for Czech students](resilience-positive-nonperformance-czech-only.md) — a narrower finding that bears on this claim
+- [Adolescents with hope for the future show higher caregiver-rated resilience after propensity-score matching](hope-for-future-higher-resilience.md) — related

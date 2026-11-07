@@ -51,3 +51,4 @@ Self-assessment questionnaire (ten items, 5-point Likert scale each) compared by
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
 - [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
+- [Interns in the 3D printing + PBL group rated teaching outcomes significantly higher than the traditional group across nine survey dimensions](3d-printing-pbl-higher-survey-scores-nine-dimensions.md) — related

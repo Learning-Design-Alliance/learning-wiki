@@ -52,3 +52,4 @@ Correlational analysis within the classroom study linking questionnaire motivati
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers](low-prior-high-kbr-match-high-prior-peers.md) — related
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](correlations-post-test-game-measures.md) — reports the opposite
+- [After playing, motivation correlates with self-efficacy in preclinical students and with beliefs in the Clinical group](cdpc-domain-correlations-post-game.md) — related

@@ -53,6 +53,7 @@ The authors recommend structured simulator-based practice as a low-risk adjunct 
 - [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 - [Add direct observation of the learner's simulated encounter before the coaching session](direct-observation-before-coaching-strategy.md)
+- [Supervise cadaver-based colonoscopy training with skilled endoscopist feedback and debriefing, since the model lacks objective performance metrics](cadaver-colonoscopy-supervised-debriefing-strategy.md)
 
 ## Examples
 -

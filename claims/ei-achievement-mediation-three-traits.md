@@ -53,3 +53,4 @@ Bootstrap mediation analysis (5,000 samples) in Table 3 shows significant indire
 - [Emotional intelligence is directly and positively related to academic achievement and psychological well-being in university students](ei-direct-achievement-wellbeing.md) — related
 - [Structural paths differ between undergraduate and postgraduate students, but the indirect mediating effects do not differ significantly](multigroup-paths-differ-indirect-similar.md) — related
 - [Personality traits significantly mediate the relationship between entrepreneurial intention and student academic performance among university students](personality-traits-mediate-ei-academic-performance.md) — related
+- [Positive academic emotions increase the likelihood of academic resilience among disadvantaged students in all three grades](positive-academic-emotions-predict-resilience.md) — related

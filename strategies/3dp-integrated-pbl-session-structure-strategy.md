@@ -49,6 +49,7 @@ The article's implementable recipe: give trainees a standardised PBL training co
 - [Implementation recommendations for WeChat-based PBL: small teams, 1-week advance materials, active facilitation, and workload refinements](wechat-pbl-implementation-recommendations.md)
 - [Design PBL courses around small group size and realistic case scenarios to support student satisfaction](pbl-small-groups-realistic-cases-satisfaction.md)
 - [Implement a 2-week CDIO-PBL rotation cycle combining PBL case-based theoretical clinics with a conceive-design-implement-operate skills cycle](cdio-pbl-two-week-rotation-cycle-strategy.md)
+- [Five-step PBL-plus-3DV session structure for spinal surgery clinical teaching](pbl-3dv-five-step-spinal-surgery-session-strategy.md)
 
 ## Examples
 -

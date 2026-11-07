@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 273 claims (196 show a difference, 44 mixed, 33 no difference) · 187 studies (81 causal, 53 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 187 report an effect size · 267 claims rest on one study
+> **Evidence** · 277 claims (198 show a difference, 46 mixed, 33 no difference) · 189 studies (82 causal, 53 associational, 22 review, 14 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 189 report an effect size · 271 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -308,6 +308,10 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [The simulation scenario (cardiac arrest vs life-threatening asthma) has no significant impact on subjective engagement or enjoyment](../claims/scenario-type-no-effect-subjective-engagement-enjoyment.md) [-M] — measured as an outcome of the instruction studied
 - [Writing more about the interest to learn ('interest to learn' move) predicts higher master grades](../claims/interest-to-learn-move-predicts-higher-grades.md) [+M] — learners who differ on it differ in outcomes
 - [Online class-related enjoyment is significantly positively correlated with academic achievement among college students](../claims/online-enjoyment-correlates-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Collaborative VPs sessions show no significant change in situational interest across time points, and interest was higher than in lecture and independent VPs sessions at 10, 30 and 40 minutes but not at 20](../claims/collaborative-vps-si-stable-higher.md) [~M] — measured as an outcome of the instruction studied
+- [In usability testing, 76% of 25 laypersons were interested or very interested in the EBM e-learning material, 88% found it easy to follow, and 72% found it useful in daily life](../claims/ebm-elearning-usability-questionnaire-interest-easy-useful.md) [+M] — measured as an outcome of the instruction studied
+- [Situational interest declines significantly during independent VPs sessions after a lecture, with the lowest score at the end of the session](../claims/independent-vps-si-declines-after-lecture.md) [+M] — measured as an outcome of the instruction studied
+- [The lecture showed the highest total cognitive load and lowest situational interest descriptively, but total-load differences were not significant](../claims/lecture-total-load-highest-not-significant.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

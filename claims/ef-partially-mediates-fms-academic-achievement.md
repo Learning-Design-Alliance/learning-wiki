@@ -51,3 +51,5 @@ Structural equation modeling with bootstrapping (5000 samples) in Amos, controll
 - [MASEM suggests cognitive skills partially mediate the link between FMS and academic skills, which drops from r = .334 to .200](cognitive-skills-mediate-fms-academic-link.md) — related
 - [Fitness and executive function partially mediate the relationship between gross motor competence and academic achievement in schoolchildren aged 9-11](fitness-and-executive-function-partially-mediate-gmc-academic-achievement.md) — a broader claim this one bears on
 - [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — related
+- [Executive functions fully mediate the association between gross motor competence and academic achievement in boys but not in girls](efs-mediate-gmc-aa-boys-not-girls.md) — related
+- [In the total sample of children, executive functions partially mediate the positive association between gross motor competence and academic achievement](efs-partially-mediate-gmc-aa-total-sample.md) — related

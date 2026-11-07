@@ -126,3 +126,4 @@ Companion school-level moderator analysis using average percentage of White stud
 - [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — related
 - [Students with lower initial English proficiency benefited most from their teachers' participation in the DCCS program, while students above the 5th percentile showed no differential benefit](dccs-pd-benefits-lower-proficiency-students.md)
 - [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](air-reading-no-significant-subgroup-differences.md) — related
+- [Treatment effects on student achievement were larger in majority low-SES classrooms, reducing socioeconomic inequality in outcomes](intervention-effects-larger-in-majority-low-ses-classrooms.md) — related

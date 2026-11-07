@@ -67,6 +67,7 @@ Based on the pooled findings, the review recommends that training programs adopt
 - [Use VR simulation as a primer or distance-learning complement to mannequin simulation in a blended approach](vr-as-primer-or-distance-complement-to-mannequin.md)
 - [Use immersive VR headset training as a feasible, accessible option for robotic set-up training in resource-limited settings](ivr-resource-limited-robotic-setup-training-strategy.md)
 - [Incorporate VR simulation into VATS training programs as an integrative tool alongside clinical experience](vr-simulation-integrative-vats-training-strategy.md)
+- [Formally integrate intensive simulation-based surgical education into ophthalmology residency programmes as a complement to conventional teaching](formal-integration-sbse-ophthalmology-residency.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Multivariate two-level random-intercept MSEMs (Model 2) accounting for Year 5 NA
 - [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — a broader claim this one bears on
 - [Combined teacher and parent report of effortful control predicts both prekindergarten math level and growth, persisting through the most stringent model](effortful-control-report-predicts-math-growth.md) — a broader claim this one bears on
 - [Year 6 Self-Management is significantly and meaningfully associated with Year 7 reading and numeracy achievement in bivariate multi-level models](self-management-predicts-year7-reading-numeracy-bivariate.md) — a narrower finding that bears on this claim
+- [Socioeconomic and prior-achievement covariates predict later numeracy and literacy achievement](covariates-predict-numeracy-literacy-achievement.md) — related

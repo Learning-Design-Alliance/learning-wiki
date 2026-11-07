@@ -51,6 +51,7 @@ A preparation strategy in which institutions give students extended, OSCE-specif
 - [Implement anxiety-coping programs and orientation sessions before OSCE examinations](pre-osce-anxiety-coping-orientation-strategy.md)
 - [Use OSCE as a strategy to enhance occupational therapy students' clinical skills and prepare them for practice](osce-strategy-ot-educators.md)
 - [Increase practice questions, simulated examinations, and peer tutoring to strengthen test strategies](practice-questions-simulated-exams-peer-tutoring-strategy.md)
+- [Comprehensive pre-exam SP and examiner training program with scripted cases, rubric walkthrough, video review, and simulated examinees](sp-examiner-pre-exam-training-program-strategy.md)
 
 ## Examples
 -

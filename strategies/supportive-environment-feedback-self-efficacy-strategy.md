@@ -54,6 +54,7 @@ The article's practical-implications section recommends that teachers "create an
 - [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 - [Strengthen teacher support, academic self-efficacy and positive academic emotions to raise university students' achievement](support-efficacy-emotions-enhancement-strategies.md)
 - [Implement teacher training to enhance supportive teaching practices and strengthen students' academic self-efficacy](teacher-training-supportive-practices-self-efficacy.md)
+- [Develop physical activity or sports programs that strengthen peer relationships to improve the academic performance of adolescents experiencing depression](sports-programs-strengthen-peer-relationships-strategy.md)
 
 ## Examples
 -

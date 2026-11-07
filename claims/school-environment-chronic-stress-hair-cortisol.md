@@ -56,3 +56,4 @@ Narrative review citing an observational study of preadolescents: school bullyin
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — a broader claim this one bears on
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — a broader claim this one bears on
 - [Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence](transgender-students-twice-likely-bullying-fear.md) — related
+- [Bullied 9-year-olds report poorer attitudes towards school and mathematics but not literacy](bullied-children-poorer-school-and-maths-attitudes.md) — related

@@ -50,3 +50,5 @@ Secondary outcome in the retrospective controlled study: self-efficacy measured 
 - [GAD-7 scores were lower in the intervention group at 1 and 3 months after on-call initiation](sps-cbl-lower-gad7-early-followup.md) — related
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](self-efficacy-rises-early-inquiry-training.md) — related
 - [Junior pediatric surgeons who received SPS plus online CBL had significantly lower SAS scores than the control group at 1 month after on-call initiation](sps-cbl-lower-sas-one-month.md) — related
+- [The audit team's self-rated general self-efficacy (GSE) scores rose from pre-test to post-test after communication training, in one uncontrolled pre-post study](communication-training-improved-general-self-efficacy.md) — related
+- [PBL produced no significant group effect or change over time in general self-efficacy (GSES)](pbl-no-self-efficacy-effect.md) — related

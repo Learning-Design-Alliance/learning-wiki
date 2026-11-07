@@ -51,3 +51,4 @@ Focus group interview 2 (six months after SBTT). Participants reported mixed tra
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — reports the opposite
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
+- [Students reported transfer of interprofessional competencies to their workplace six to eight weeks after interprofessional simulation training](reported-ipe-transfer-to-workplace.md) — related

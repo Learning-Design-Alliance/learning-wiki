@@ -50,3 +50,4 @@ GEE models adjusting for demographics, sleep and parental education in the 202-c
 - [In a survey of 41 institute students, sport was the most liked reading topic and geography among the most disliked](survey-sport-most-liked-geography-disliked.md) — related
 - [The Decline MVPA trajectory was associated with significantly higher reading and mathematics scores than the Low trajectory, but not language](decline-mvpa-trajectory-reading-math-only.md) — related
 - [Three distinct MVPA trajectories (Low, Decline, High) were identified among Chinese primary school children over three years](three-mvpa-trajectories-primary-children.md) — related
+- [Nearly half of surveyed Chinese primary school children never participate in sports teams or clubs](chinese-children-never-sports-participation-prevalence.md) — related

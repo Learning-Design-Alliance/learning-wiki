@@ -115,3 +115,5 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related
 - [The vast majority of tools (79%) used virtual patients with the appearance of a real person, and 95% of these responded with a voice](tools-use-human-like-voiced-virtual-patients.md) — related
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related
+- [A conversational, first-person script style increases engagement and attention compared with a formal presentation style](conversational-script-style-engagement.md) — related
+- [Instructor visibility in video is mixed: a visible talking head may add distraction and lower retention, though brief on-camera introductions may increase engagement](talking-head-mixed-evidence.md) — related

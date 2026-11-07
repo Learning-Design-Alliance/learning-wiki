@@ -44,7 +44,8 @@ The article recommends strategic initiatives targeting both sides of the motivat
 - [In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training](../claims/financial-constraints-shape-first-generation-career-decisions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future evaluations of the e-learning should reduce participant time-burden and boost retention through incentives, multiple reminders, gatekeeper support, and workplace-embedded designs](reduce-time-burden-boost-retention-health-professional-trials.md)
 
 ## Examples
 -

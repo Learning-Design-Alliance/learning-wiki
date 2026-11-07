@@ -53,3 +53,4 @@ CFA on the same survey (n = 1253) tested the institutional support measurement m
 - [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
 - The hypothesised three-variable structural model fits the survey data well across printed fit indices — related
 - [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — related
+- [The hypothesized structural model of environmental factors, psychological health, and GPA fit the data well](sem-model-fit-environmental-psychological-gpa.md) — related

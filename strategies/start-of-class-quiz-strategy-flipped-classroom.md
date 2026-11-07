@@ -54,6 +54,7 @@ The article recommends that instructors use short quizzes at the beginning of fa
 - [Require brief pre-session comprehension checks to improve pre-class preparation](pre-session-comprehension-checks-strategy.md)
 - [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
+- [Assign interactive video pre-class viewing to reduce in-person laboratory hours](video-preclass-viewing-reduce-lab-hours-strategy.md)
 
 ## Examples
 -

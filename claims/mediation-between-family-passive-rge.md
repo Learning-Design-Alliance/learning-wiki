@@ -51,3 +51,4 @@ Zhou Quan, Gidziela Agnieszka, Allegrini Andrea G., Cheesman Rosa, Wertz Jasmin,
 - [Neighbourhood characteristics show only weak mediation of polygenic score effects on academic achievement](neighbourhood-weak-mediation-pgs-achievement.md) — related
 - [Beyond SES, other family environments such as harsh parenting and chaos and the supportive home environment remain significant mediators of PGS effects, albeit attenuated, in two-mediator models](non-ses-environments-remain-significant-mediators.md) — related
 - [PGS–achievement associations did not differ across socio-economic strata: no significant Cog or NonCog PGS × SES interaction was detected](no-pgs-ses-interaction-achievement.md) — related
+- [Within-family ADHD polygenic score effects on achievement vary between schools, constituting a gene–environment interaction uncontaminated by school selection](within-family-adhd-pgs-school-gene-environment-interaction.md) — related

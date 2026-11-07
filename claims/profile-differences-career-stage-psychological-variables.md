@@ -84,3 +84,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](ebp-skills-age-workplace-experience-differences.md) — related
 - [Sex, level of education and years of working experience showed no significant association with nurses' knowledge of NCI preventive measures](sex-education-experience-no-knowledge-association.md) — related
 - [Teaching-skill gains were unrelated to sociodemographic variables including gender, residency year, prior teaching experience, and undergraduate methodology](snapps-gains-independent-of-demographics.md) — reports the opposite
+- [Demographic characteristics — university province, grade level, and perceived health status — are associated with home-based e-learning behavior](demographics-predict-hbel-behavior.md) — related

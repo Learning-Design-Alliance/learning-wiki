@@ -60,3 +60,5 @@ Parallel-group randomized controlled study over five fall semesters (2020–2024
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
 - [Blended learning improves knowledge in four communication domains but not in communication structure](blended-domain-gains-structure-null.md) — related
 - [Flipped learning did not produce a significantly greater knowledge gain than traditional lectures in the haematology course, though the increase was significant within the flipped group](flipped-learning-knowledge-gain-not-significant-haematology.md) — reports the opposite
+- [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related
+- [Interactive educational video is as effective as traditional demonstration for nursing students' skill competency in oral medication administration](interactive-video-as-effective-as-demonstration-skill.md) — related

@@ -69,3 +69,4 @@ Multiple regression on the same satisfaction survey data. The article reports "t
 - [Students in the cloud-platform group reported significantly positive learning satisfaction across all measured domains](cloud-platform-learning-satisfaction-domains.md) — related
 - [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
 - [Across five aggregated pedagogical dimensions, flipped-cohort satisfaction rose markedly, with the largest gain in Instructional Implementation](five-dimension-satisfaction-gains-radar.md) — related
+- [Online learning and preview test activities were the strongest contributors to student satisfaction in flipped physical classroom blended learning](online-learning-main-driver-satisfaction.md) — related

@@ -49,3 +49,4 @@ Thematic analysis of coping-strategy interviews; table 2 lists 'getting support 
 - [Undergraduate nursing students report exposure to diverse active learning strategies, with team-based learning, simulation, and case-based learning most frequently experienced](nursing-students-experience-diverse-active-learning-strategies.md) — related
 - [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related
 - [Faculty identify clinical simulation as enabling intentional definition and integrated observation of multiple soft skills in nursing education](clinical-simulation-soft-skills-nursing.md) — related
+- [The most strongly endorsed student needs are more sleep, time with friends, and help coping with stress](top-endorsed-student-needs-sleep-friends-stress.md) — related

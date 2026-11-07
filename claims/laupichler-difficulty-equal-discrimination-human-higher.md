@@ -51,3 +51,4 @@ Second-hand citation: the review reports this result from a paper by Laupichler 
 - [After removing poorly performing questions, physical specimens showed higher point biserial discriminatory capacity than VR, though both exceeded the accepted threshold](point-biserial-physical-higher-than-vr.md) — related
 - [The AI-generated and human-designed examinations showed comparable split-half reliability and difficulty distributions](ai-exam-comparable-reliability-difficulty.md) — related
 - [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — possibly the same claim (merge candidate)
+- [Discriminative power peaks for questions of moderate difficulty (0.4–0.7) and declines at both extremes in both groups](discrimination-peaks-moderate-difficulty.md) — related

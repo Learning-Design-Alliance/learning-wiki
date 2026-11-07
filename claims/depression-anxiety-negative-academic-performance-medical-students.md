@@ -72,3 +72,4 @@ The review's synthesis of prevalence across retrieved articles reports "prevalen
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — a broader claim this one bears on
 - [In multiple regression, GPA was negatively associated with stress but positively associated with hyperarousal, anxiety, and depression, while intrusion and avoidance showed no significant influence](regression-stress-negative-hyperarousal-positive-gpa.md) — related
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
+- [All six UNI psychosocial need factors correlate positively with students' psychological distress](uni-factors-correlate-distress.md) — related

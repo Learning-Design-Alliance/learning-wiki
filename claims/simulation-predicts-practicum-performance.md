@@ -48,3 +48,4 @@ Predictive regression reported in Results (Table 4). The article reports "simula
 ## Related Claims
 - [Pass/fail decisions from simulation and OSCE show substantial consistency (Cohen's kappa = 0.67), and a simulation cut-score of 75 aligns with OSCE and practicum outcomes](simulation-osce-decision-consistency-kappa.md) — related
 - [Hierarchical linear modeling shows 18% of variance in clinical practicum performance is attributable to differences between institutions (ICC = 0.18, p < 0.05)](hlm-institutional-variance-practicum.md) — related
+- [The POCUS assessment tool's scores were not reliable enough to support generalization or extrapolation and require modification and retesting](pocus-tool-requires-modification-before-use.md) — related

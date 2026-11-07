@@ -74,3 +74,5 @@ The review reports Haidet et al.'s controlled trial comparing PBL with slide-and
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
 - [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — related
 - [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](blended-teq-above-program-average.md) — a narrower finding that bears on this claim
+- [Participants rated satisfaction with the e-PBL program content 3.5 out of 5](e-pbl-satisfaction-3-5-of-5.md) — a narrower finding that bears on this claim
+- [Residents who teach acquire the material they teach more effectively than through self-study or lectures](teaching-enhances-residents-own-learning.md) — related

@@ -50,3 +50,4 @@ Simulator study in which six beginners and five experts each performed diagnosti
 - [HRV time-domain metrics (SDNN, RMSSD, AVNN) decrease significantly during surgical procedures under stress](hrv-time-metrics-decrease-under-surgical-stress.md) — a broader claim this one bears on
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — related
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — related
+- [Physiotherapy students show significant differences in time-domain HRV across OSCE scenarios, indicating a large anticipatory stress response maintained during the entire evaluation](osce-anticipatory-stress-response-physiotherapy-hrv.md) — related

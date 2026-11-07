@@ -67,3 +67,5 @@ The review reports an observational study cited as Stains et al. (2018) covering
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — a narrower finding that bears on this claim
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — a narrower finding that bears on this claim
+- [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — a narrower finding that bears on this claim
+- [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related

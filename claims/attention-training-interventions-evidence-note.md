@@ -56,3 +56,4 @@ The article is an ERP study of selective attention in 32 children aged 3 to 8, g
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — a narrower finding that bears on this claim
 - [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Psychological skill training is suggested by preliminary evidence as a possible way to improve academic performance in young athletes, but more evidence is needed](psychological-skill-training-young-athletes-preliminary.md) — a narrower finding that bears on this claim

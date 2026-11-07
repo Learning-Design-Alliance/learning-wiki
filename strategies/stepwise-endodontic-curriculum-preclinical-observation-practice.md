@@ -56,6 +56,7 @@ The article describes and endorses a three-stage progression in which students f
 - [Scaffolded progression to independent clinical practice: graded movement from observation to assisted practice to supervised independent care](scaffolded-progression-independent-clinical-practice.md)
 - [Use simulator practice with feedback as an intermediary platform before supervised clinical TAD insertion](simulator-intermediary-practice-before-patients.md)
 - [Pair handmade-phantom training with post-training clinical observation and procedure-specific retraining, with standardized videos as an alternative for rare procedures](post-training-observation-and-retraining-strategy.md)
+- [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
 
 ## Examples
 -

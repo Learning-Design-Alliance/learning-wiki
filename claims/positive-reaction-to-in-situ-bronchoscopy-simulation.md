@@ -56,3 +56,4 @@ Kirkpatrick level 1 questionnaire completed by the 13 participating nurses and p
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — related
+- [Participants rated the simulation training as highly relevant, with relevance to shortening DNT rated 90% by physicians versus 72% by nurses](participant-reaction-ratings-simulation-stroke-training.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: breitwieser-2024
     resource: "https://doi.org/10.1038/s41539-024-00289-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mobile devices can deliver different types or amounts of prompts in real time based on collected data, providing support precisely when and where it is most beneficial, especially when human support is unavailable. [→ Breitwieser 2024](#breitwieser-2024)

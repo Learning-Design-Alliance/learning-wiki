@@ -49,3 +49,4 @@ Null result from Models 4–5 in which five school-level sociodemographic covari
 - [Neighbourhood, district, and municipality variation contributes little to achievement (under 2% of variance collectively) and does not interact with student EA-PGI](residential-areas-small-effects-no-pgi-interaction.md) — related
 - [Between-school variation in EA-PGI effects is substantial: the average EA-PGI effect is 0.22 with slope SD 0.034, and variance explained by EA-PGI ranges from ~2% in the weakest-effect schools to ~8% in the strongest](school-variation-in-pgi-effect-magnitude.md) — related
 - [The EA-PGI-by-school interaction is stronger for maths and reading than for English](pgi-school-interaction-subject-specific.md) — related
+- [Five school sociodemographic measures could not explain the ADHD-by-school interactions](school-sociodemographics-cannot-explain-adhd-interaction.md) — possibly the same claim (merge candidate)

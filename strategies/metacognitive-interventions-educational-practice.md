@@ -42,6 +42,7 @@ The review recommends introducing metacognitive interventions into educational p
 ## Related Strategies
 
 - [Use metacognitive interventions to promote adaptive use of cognitive tools](metacognitive-interventions-adaptive-offloading.md)
+- [Incorporate biofeedback-assisted mindfulness into school educational policies and continue psychophysiological monitoring of at-risk students](school-policy-biofeedback-assisted-mindfulness-strategy.md)
 
 ## Examples
 -

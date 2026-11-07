@@ -49,3 +49,4 @@ The review's synthesis of 23 articles: confidence measures were collected immedi
 - [Self-reported confidence and preparedness rose significantly from pre-test to post-test among newly appointed ENT ST3 registrars after a two-day ENT bootcamp, in one uncontrolled pre-post study](ent-bootcamp-increases-st3-confidence-preparedness.md) — related
 - [A blended tutorial-plus-simulation induction outperforms a didactic lecture alone for on-call preparedness](blended-induction-superior-to-lecture-alone.md) — related
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
+- [Confidence in managing ENT scenarios is higher among participants who received simulation training](simulation-raises-ent-confidence.md) — a narrower finding that bears on this claim

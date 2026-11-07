@@ -54,3 +54,4 @@ Post hoc group comparison of 33 university students split at the median final ex
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
 - [Average performers take much longer to fall asleep than Excellent performers](average-performers-longer-sleep-latency.md) — related
 - [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](excellent-performers-earlier-sleep-schedules.md) — related
+- [91.1% of students reported longer sleep onset latency during the pandemic, characterizing a discontinuous sleep cycle](delayed-sleep-onset-91-percent-pandemic.md) — related

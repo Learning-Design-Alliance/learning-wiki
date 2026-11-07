@@ -67,3 +67,4 @@ Experiment 1 scored discovery of the three non-demonstrated functions (light, mu
 - [Preschoolers given a pedagogical demonstration of a toy function play for less time than children in interrupted, naive, or baseline conditions](pedagogical-demonstration-shortens-preschool-exploration-time.md) — related
 - [Preschoolers constrain exploration after direct instruction and after overhearing instruction to another child, but not after overhearing instruction to an adult or a non-pedagogical intentional action](pedagogical-inference-extends-to-overheard-child-instruction.md) — related
 - [Children structure their play to reduce uncertainty and deconfound causal variables](children-play-deconfound-causal-variables.md) — related
+- [Confronting learners with ill-structured, non-routine tasks and self-directed discovery is a key task/training characteristic for adaptive expertise](ill-structured-tasks-discovery-adaptive-expertise.md) — related

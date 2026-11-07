@@ -53,3 +53,4 @@ Single-group pre-post questionnaire study of 208 HEMS professionals; Wilcoxon si
 - [Experienced HEMS participants rate the MeTra simulator's enclosed environment and communication system as highly similar to a real helicopter](metra-simulator-fidelity-ratings.md) — related
 - [Multidisciplinary simulation increased technical self-efficacy by 0.5 points on a 5-point scale, except tracheostomy suctioning](simulation-increased-technical-self-efficacy-otolaryngology.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
+- [Self-assessed nontechnical, technical and bleeding management self-efficacy significantly increased after a multidisciplinary trauma masterclass](trauma-masterclass-self-efficacy-increase.md) — related

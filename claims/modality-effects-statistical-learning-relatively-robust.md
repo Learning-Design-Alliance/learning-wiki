@@ -67,3 +67,7 @@ In the Discussion, the authors summarize their robustness evaluation of the four
 - [The developmental trajectory of statistical learning across age is not a robust phenomenon, though statistical learning itself occurs at all ages](age-trajectory-statistical-learning-not-robust.md) — related
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [The linguistic advantage in statistical learning is driven by the auditory modality, with no domain effect in the visual modality](linguistic-advantage-auditory-only.md) — related
+- [When presentation type is optimized for each modality (serial auditory, simultaneous visual), the auditory advantage in statistical learning disappears](optimized-presentation-eliminates-modality-effect.md) — possibly the same claim (merge candidate)
+- [With serial presentation of stimuli, statistical learning is more effective in the auditory than in the visual modality](serial-presentation-auditory-advantage-statistical-learning.md) — a narrower finding that bears on this claim
+- [Simultaneous presentation yields higher statistical learning performance than serial presentation for visual stimuli](simultaneous-beats-serial-visual-presentation.md) — a narrower finding that bears on this claim

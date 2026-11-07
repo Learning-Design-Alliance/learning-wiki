@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (145 show a difference, 49 mixed, 26 no difference) · 189 studies (94 causal, 44 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 39 of 189 report an effect size · 216 claims rest on one study
+> **Evidence** · 222 claims (147 show a difference, 49 mixed, 26 no difference) · 191 studies (94 causal, 45 associational, 22 review, 15 quant-synthesis, 7 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 39 of 191 report an effect size · 218 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -277,6 +277,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Supporting continuation of the formative assignment is associated with a 13% higher mean exam score](../claims/formative-assignment-support-associated-with-higher-scores.md) [+M] — learners who differ on it differ in outcomes
 - [At the after-test for knot tying by hand, the continuous training and self-assessment groups scored better than the clinical exposure group](../claims/knot-tying-aftertest-training-groups-better.md) [+M] — learners who differ on it differ in outcomes
 - [Students spend a significantly greater percentage of time on task in VR simulation than in desktop simulation](../claims/vr-simulation-greater-time-on-task-eye-tracking.md) [+M] — measured as an outcome of the instruction studied
+- [Higher tutorial attendance was associated with higher numbers of honors grades on the online long case examination](../claims/attendance-associated-with-honors-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Students perceived advantages of e-learning for quality of educational life, including flexibility, economic savings, time savings and improved didactic continuity through recorded content](../claims/elearning-advantages-flexibility-savings-didactic-continuity.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

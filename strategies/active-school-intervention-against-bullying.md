@@ -51,6 +51,7 @@ The article recommends that schools take a more active role in tackling bullying
 - [Prevent and intervene early against bullying in preadolescence to protect cognitive development](early-bullying-prevention-preadolescence.md)
 - [Two-step bullying intervention: first reduce victimisation and rebuild motivational factors, then raise achievement and engagement](two-step-bullying-motivation-intervention.md)
 - [Bystander Intervention Training](bystander_intervention_training.md)
+- [Interventions for bullied students should address the psychological difficulties that follow victimization, not only prevent bullying](interventions-remediate-post-bullying-psychological-difficulties.md)
 
 ## Examples
 -

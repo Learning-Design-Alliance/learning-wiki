@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 100 claims (66 for, 32 mixed, 2 against) · 72 studies (34 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 17 of 72 report an effect size · 98 claims rest on one study
+> **Evidence** · 102 claims (67 for, 33 mixed, 2 against) · 73 studies (35 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 73 report an effect size · 100 claims rest on one study
 
 ## Description and scope
 
@@ -127,6 +127,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students preferred a hybrid ALG model (50.4%) over fully in-person (40.4%) or fully virtual (9.2%), with no significant difference across groups](../claims/hybrid-alg-preference-plurality.md) [+W] — attached 2026-11-07 from Malta Kiana et al. (2025), which proposed "Deliver case-based active learning groups in a primarily in-person hybrid format, reserving virtual sessions for flexibility".
 - [Face-to-face students scored substantially higher than remote students on practical skills in a hybrid chest physiotherapy seminar](../claims/hybrid-face-to-face-better-practical-skills-airway-clearance.md) [+W] — attached 2026-11-07 from Bellini Raffaella et al. (2024), which proposed "Use hybrid teaching for theoretical lectures, but not as a substitute for face-to-face teaching of hands-on skills"; tests this page's relationship.
 - [Nursing undergraduates in the smart-classroom blended group scored significantly higher on theoretical assessment, experimental assessment, and subjective questions than the lecture-based control group](../claims/smart-classroom-blended-higher-theory-and-practical-scores.md) [+W] — attached 2026-11-07 from Meng Ya et al. (2023), which proposed "Implement smart-classroom blended teaching only where facilities, network, and teacher support meet its high requirements"; tests this page's relationship.
+- [Providing a syringe pump during e-Learning and instructing trainees to repeat the presented content does not improve procedural skills, knowledge, confidence, or assistance needs compared with e-Learning only](../claims/concurrent-hands-on-repeat-no-benefit.md) [~W] — attached 2026-11-07 from Grundgeiger et al. (2023), which proposed "Pair e-Learning with hands-on device practice only when trainees receive clear instructions on how to combine the two; providing the device and leaving usage to the learner is insufficient"; tests this page's relationship.
+- [A structured procedure alternating short e-Learning units with separate hands-on exercises improves syringe pump skills test performance compared with e-Learning only, but the benefit is significant only immediately after learning](../claims/structured-alternating-hands-on-improves-skills.md) [+W] — attached 2026-11-07 from Grundgeiger et al. (2023), which proposed "Pair e-Learning with hands-on device practice only when trainees receive clear instructions on how to combine the two; providing the device and leaving usage to the learner is insufficient"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -216,6 +218,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Blend flipped and traditional models, and supplement with online materials like videos and podcasts to address individual needs](../strategies/blend-flipped-traditional-and-supplementary-media.md)
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](../strategies/blended-learning-for-clinical-reasoning.md)
 - [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](../strategies/online-theory-face-to-face-practice-strategy.md)
+- [Adopt a mixed mode combining classroom and e-learning for post-graduate health-professions education](../strategies/mixed-mode-classroom-elearning-postgraduate-strategy.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

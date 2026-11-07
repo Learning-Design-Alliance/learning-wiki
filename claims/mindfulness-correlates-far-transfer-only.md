@@ -47,3 +47,4 @@ Correlational analysis within the same field study linking self-reported mindful
 ## Related Claims
 - [Baseline reading and untaught Grade 2 vocabulary scores correlated moderately with near-, mid-, and far-transfer comprehension outcomes](baseline-reading-and-untaught-vocabulary-correlations-transfer.md) — related
 - [Correlates of recall diverge by condition: search performance and prior knowledge predict recall only in the thinking-before-googling group, while metacognitive and motivational correlates emerge only in the googling-only group](recall-correlates-diverge-by-condition.md) — related
+- [Correlation-based arguments for individual differences in far transfer are statistically incorrect](correlation-individual-difference-arguments-invalid.md) — related

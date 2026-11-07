@@ -62,3 +62,4 @@ Questionnaire (adapted from the Course Experience Questionnaire and Study Proces
 - [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](pbl-cbl-higher-student-satisfaction-questionnaire.md) — related
 - [Most clerkship students perceive that CBL improved their clinical reasoning ability](cbl-perceived-clinical-reasoning-gain.md) — related
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
+- [Clinical-based learning (clinical rotation and integration-into-clinic models) improves satisfaction, motivation and self-directed learning in dental materials science](clinical-based-learning-dental-materials.md) — related

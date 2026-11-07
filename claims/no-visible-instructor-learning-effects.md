@@ -55,3 +55,4 @@ Across three field studies, the abstract states they "show no effects on extrane
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
 - [A visible instructor increased well-being in Study 3 (d = 1.01)](visible-instructor-wellbeing-study3.md) — related
 - [Temporary instructor presence on lecture slides did not enhance retention or transfer learning outcomes across two preregistered experiments](temporary-instructor-presence-no-learning-benefit.md) — a narrower finding that bears on this claim
+- [Instructor visibility in video is mixed: a visible talking head may add distraction and lower retention, though brief on-camera introductions may increase engagement](talking-head-mixed-evidence.md) — related

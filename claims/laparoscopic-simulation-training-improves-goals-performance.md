@@ -52,3 +52,5 @@ Multicenter prospective randomized two-arm single-blind trial at 11 German surgi
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — reports the opposite
 - [Surgical residents who practiced sufficiently improved laparoscopic small bowel length measurement accuracy significantly in an ex vivo model](sufficient-exvivo-practice-improves-bowel-measurement-accuracy.md) — related
+- [Trainees who have practised on simulators enter the operating room more self-assured, and expert mentors spend less time teaching basic skills](simulation-confidence-and-mentor-time-benefits.md) — related
+- [A one-week intensive trabeculectomy simulation course produces a large, sustained increase in residents' simulated surgical competency scores](simulation-course-sustained-trabeculectomy-competency-gain.md) — related

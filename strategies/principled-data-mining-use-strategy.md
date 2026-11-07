@@ -43,6 +43,7 @@ The article's implications section recommends that researchers "be principled in
 
 - [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
 - [Future mGBL research should avoid research to prove and embrace research to improve](mgbl-research-to-improve-not-prove.md)
+- [Use mined student factors to provide personalized teaching content and methods by group differences](personalized-teaching-from-mined-student-factors.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Spearman correlations between ILS dimensions and satisfaction in the face-to-fac
 ## Related Claims
 - [In the flipped classroom, active, intuitive and sequential learning styles correlate positively with student satisfaction](ils-styles-correlate-satisfaction-flipped.md) — related
 - [Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences](massa-mayer-no-meshing-support.md) — reports the opposite
+- [Satisfaction factors correlate: online learning satisfaction correlates with classroom learning, learning effect, but not learning difficulty](satisfaction-factor-correlations-bl.md) — related

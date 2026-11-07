@@ -49,3 +49,4 @@ Dichotomised unadjusted mixed model analysis for illustrative purposes, with pre
 - [Each additional prior intravenous thrombolysis administration is associated with a small significant decrease in door-to-needle time among neurology registrars](prior-ivt-cases-reduce-dnt-1-percent-per-case.md) — related
 - [Simulation attendance is associated with a significant reduction in door-to-needle time across experience levels](simulation-attendance-reduces-dnt-21-8-percent.md) — related
 - [Clinical experience does not significantly moderate the benefit of team simulation training on door-to-needle time](no-experience-simulation-interaction-on-dnt.md) — related
+- [Shortened door-to-needle time after simulation training did not compromise safety: parenchymal haemorrhage occurred in 3.5% of trained-centre patients versus 5.4% in untrained centres (p=0.054)](simulation-training-no-safety-compromise-parenchymal-haemorrhage.md) — related

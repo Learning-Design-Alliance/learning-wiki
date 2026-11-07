@@ -51,3 +51,4 @@ Chi-square/t-test analysis section of the survey: the trained group (n = 65) had
 - [Nursing home managers report significantly higher palliative care self-efficacy than residential care home managers](nursing-vs-residential-manager-confidence.md) — related
 - [The largest unmet educational needs among DACH HCPs are dementia symptom management, depression, chronic pain, resilience and diversity, MCI/dementia screening, and sarcopenia](dach-highest-educational-need-topics-zscores.md) — related
 - [Sarcopenia is rarely diagnosed in Turkish primary care: 99% use no guideline and 95.3% made no preliminary diagnosis in the past year](sarcopenia-underrecognized-primary-care-turkiye.md) — related
+- [Students with prior handoff training perceived higher neonatal and family handoff training needs than students without prior handoff training](prior-handoff-training-higher-handoff-training-needs.md) — related

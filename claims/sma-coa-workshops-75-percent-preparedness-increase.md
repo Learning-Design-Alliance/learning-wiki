@@ -63,3 +63,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [Perceived knowledge and skills in student assessment topics increase significantly immediately after the faculty development workshops](fd-workshops-significant-perceived-knowledge-gains.md) — related
 - [Training did not enhance perceived preparedness for CB-EMS operations, and transferability of training content was ranked lower after training](preparedness-and-transfer-not-enhanced.md) — related
 - [Self-reported preparedness to repair OASIS increased after simulation training, with most participants moving from not ready to ready](oasis-simulator-self-rated-preparedness-increase.md) — related
+- [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related

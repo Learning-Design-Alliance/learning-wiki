@@ -57,3 +57,4 @@ Descriptive statistics from the 551-student cross-sectional survey show a coexis
 - [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related
 - [Trainees reported high satisfaction with the AI-enabled personalized teaching model](high-satisfaction-ai-personalized-teaching.md) — related
 - [Pressure to achieve high grades was the most common anxiety trigger among clinical-year students](grade-pressure-top-anxiety-trigger.md) — related
+- [Two-thirds of the sample reported high or very high psychological distress](high-distress-prevalence-uni-sample.md) — related

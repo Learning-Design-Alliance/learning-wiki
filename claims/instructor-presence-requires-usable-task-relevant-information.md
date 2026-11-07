@@ -51,3 +51,4 @@ The authors' interpretive conclusion drawn from their null performance results a
 - [Instruction in methods of study improved school children's work when the instruction was specific to the tasks being undertaken](study-methods-instruction-improves-work.md) — related
 - [A visible instructor increased social presence in an exploratory field study (d = 0.85)](visible-instructor-social-presence-study1.md) — related
 - [A visible instructor increased well-being in Study 3 (d = 1.01)](visible-instructor-wellbeing-study3.md) — related
+- [Instructor visibility in video is mixed: a visible talking head may add distraction and lower retention, though brief on-camera introductions may increase engagement](talking-head-mixed-evidence.md) — a narrower finding that bears on this claim

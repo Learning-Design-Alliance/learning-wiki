@@ -54,3 +54,4 @@ The article offers this as an author interpretation rather than a tested result:
 - [Counter to hypothesis, learners with low-salience concept maps were more time-efficient than high-salience learners](low-salience-map-higher-learning-efficiency.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
+- [Higher interactivity in educational videos is associated with more time on-task and improved knowledge outcomes, but excessive interaction demands degrade learning](video-interactivity-time-on-task-mixed.md) — related

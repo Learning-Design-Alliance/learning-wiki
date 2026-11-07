@@ -84,3 +84,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Thirty to forty-eight hours of sleep loss produced no greater efficiency loss than the gain due to practice, despite reported feelings of fatigue](sleep-loss-efficiency-no-worse-than-practice-gain.md) — reports the opposite
 - [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related
 - [Headache, stress/anxiety, and fasting-affected sleep are associated with markedly higher sleepiness and fatigue during fasting](fasting-symptoms-associated-sleepiness-fatigue.md) — related
+- [77.2% of students reported poor or very poor academic performance during remote classes, linked to daytime sleepiness](poor-academic-performance-remote-classes-sleepiness.md) — a narrower finding that bears on this claim

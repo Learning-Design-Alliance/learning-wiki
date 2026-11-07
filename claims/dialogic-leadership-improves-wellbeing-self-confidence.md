@@ -73,3 +73,4 @@ The review reports, citing García-Carrión and Díez-Palomar (2015), a longitud
 - [Dialogic leadership is associated with increased social cohesion, including social unity, lasting friendships and greater community involvement](dialogic-leadership-increases-social-cohesion.md) — related
 - [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related
 - [The self-efficacy gain does not extend to shared decision-making confidence, where groups showed no significant difference](self-efficacy-shared-decision-making-null-item.md) — related
+- [Post-graduate students moved from searching for coping and adaptation strategies to considering e-learning a new opportunity for the quality of educational life](elearning-becomes-new-opportunity-adaptation-shift.md) — related

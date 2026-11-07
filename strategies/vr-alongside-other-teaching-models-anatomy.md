@@ -46,6 +46,7 @@ The authors recommend adding VR software to the existing mix of teaching models 
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Use AR to supplement limited anatomy lab access by simulating visuospatial aspects of cadaveric dissection with multi-user collaborative functions](ar-supplement-limited-anatomy-lab-access.md)
+- [Use HVRS as an adjunct to, not a replacement for, conventional mannequin-based pre-clinical paediatric dentistry simulation](hvrs-as-adjunct-to-conventional-simulation-strategy.md)
 
 ## Examples
 -

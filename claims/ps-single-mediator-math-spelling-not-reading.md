@@ -90,3 +90,4 @@ Null result from the same SEM analysis: the PS-only indirect pathway to reading 
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Reading anxiety does not mediate the relationship between reading ability and academic achievement in university students](no-mediation-reading-anxiety-achievement.md) — related
+- [Supplementary analyses give tentative evidence that the ADHD–achievement link depends on special educational support, varying between schools](special-education-support-moderates-adhd-achievement-link.md) — related

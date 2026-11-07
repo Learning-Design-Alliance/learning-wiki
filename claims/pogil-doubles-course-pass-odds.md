@@ -52,3 +52,5 @@ Odds-ratio meta-analysis of nine studies comparing pass rates (grade C or better
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](pogil-effect-smaller-in-chemistry.md) — related
 - [Final course grades did not differ significantly between POGIL participants and non-participants in the fundamentals nursing course](pogil-final-course-grade-no-significant-difference.md) — related
 - [Deliberate practice produces better overall competency grades than conventional lecture, with no clear failures and seven good passes versus five clear failures and none](deliberate-practice-better-overall-grades-trauma.md) — related
+- [MENA students showed a considerably larger failure-rate reduction (36% greater) than reported in developed-country meta-analyses under comparable active-learning approaches](active-learning-mena-greater-failure-reduction-than-developed-countries.md) — related
+- [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related

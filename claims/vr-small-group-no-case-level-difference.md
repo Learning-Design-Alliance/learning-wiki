@@ -51,3 +51,4 @@ Per-case analysis of the randomized fellow assessment, reported in Results and F
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related
 - [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md) — related
 - [Item-level gains favoring PLAN A scenarios are hypothesis-generating, with no significant between-group difference on any individual case](plan-a-item-level-exploratory-gains.md) — related
+- [Simulation assessment improvements in nasal packing and tracheostomy care were confined to the hands-on-trained groups](simulation-gain-limited-to-trained-scenario.md) — related

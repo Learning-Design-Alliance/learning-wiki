@@ -50,3 +50,4 @@ Narrative interpretation in the Discussion, citing prior work (Stegmann et al.; 
 - [Observer-tool use shows no significant difference in team performance, satisfaction, or perceived impact on future professional life](observer-tool-no-secondary-outcome-differences.md) — related
 - [Only 59% of observer tools were fully completed, possibly limiting the intervention's effect](observer-tool-moderate-compliance-59-percent.md) — related
 - [The decision-making sub-item of the ANTS score was significantly better in the observer-tool group than in the control group](observer-tool-decision-making-better.md) — related
+- [Surgeons' mean HUFOES scores for non-technical skills rose significantly from 48.7 ± 16.6 to 59.2 ± 14.8 after simulation-based PCR training with an NTS-focused intervention, in one uncontrolled pre-post study (p < 0.001)](nts-simulation-training-improves-hufoes-scores.md) — related

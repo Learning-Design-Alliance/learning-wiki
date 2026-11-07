@@ -64,3 +64,5 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [No significant differences in competence scores by residence, professional background, or employment intention for most domains](null-residence-specialty-employment-competence.md) — a narrower finding that bears on this claim
 - [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related
 - [Teaching-skill gains were unrelated to sociodemographic variables including gender, residency year, prior teaching experience, and undergraduate methodology](snapps-gains-independent-of-demographics.md) — related
+- [Demographic characteristics — university province, grade level, and perceived health status — are associated with home-based e-learning behavior](demographics-predict-hbel-behavior.md) — related
+- [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related

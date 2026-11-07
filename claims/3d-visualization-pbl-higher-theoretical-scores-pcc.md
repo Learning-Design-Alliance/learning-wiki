@@ -58,3 +58,4 @@ Randomized comparison of 50 urology residents (25 per group) at Peking Union Med
 - [3D printing integrated with PBL yields higher immediate post-course knowledge scores than lecture-based teaching for AGP trainees on thoracolumbar fractures](3dp-pbl-higher-immediate-post-course-scores.md) — related
 - [Students taught DDH with 3D-printed models plus CBL scored higher on post-course practical skills than students taught with conventional CBL alone](3d-cbl-higher-post-course-practical-skills-ddh.md) — related
 - [Fourth-year medical students taught DDH with 3D-printed models plus CBL scored higher on post-course theoretical knowledge than students taught with conventional CBL alone](3d-cbl-higher-post-course-theory-scores-ddh.md) — related
+- [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related

@@ -50,3 +50,4 @@ Written survey of 139 high school girls, 253 high school boys, and 150 normal sc
 - [Pupils rarely mention appearance, health, or experience-related qualities, and sense of humor is absent from standard teacher efficiency records despite pupils valuing it.](pupils-rarely-cite-appearance-health-efficiency-records-omit-humor.md) — related
 - [The M/A group rated fairness of the teacher's approach better than the control group.](clil-maths-fairness-better.md) — related
 - [Medical students value interpersonal and personal qualities — especially respect and patience — most in an exemplary teacher, but judge bad teachers mainly on teaching-domain failures](exemplary-teacher-attributes-medical-students.md) — related
+- [Teachers overwhelmingly rank inspiring student enthusiasm for learning as the most important characteristic for earning professional respect](inspiring-enthusiasm-top-teacher-value.md) — related

@@ -49,3 +49,4 @@ Bias-corrected bootstrap test with 5,000 resamples within the SEM of 741 undergr
 - [AI acceptance partially mediates the relationship between self-directed learning ability and perceived clinical competence](ai-acceptance-partially-mediates-sdl-clinical-competence.md) — related
 - [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](sdl-and-am-partially-mediate-fc-pa.md) — related
 - [Psychological quality is positively correlated with both professional recognition and entrepreneurial competence among Chinese college students](psychological-quality-correlates-recognition-competence.md) — a broader claim this one bears on
+- [Professional self-concept mediates relationships between learning interactions and outcomes](self-concept-mediation-effects.md) — related

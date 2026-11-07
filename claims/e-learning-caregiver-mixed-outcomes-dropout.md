@@ -68,3 +68,4 @@ Experimental study of 149 family caregivers using the guided self-help Internet 
 - [Caregivers valued e-learning for flexibility, accessibility, personalization, user-friendliness, and cost-effectiveness](e-learning-caregiver-benefits-flexibility-accessibility.md)
 - [E-learning programs help informal dementia caregivers feel more confident, reduce perceived stress, and enhance empathy](e-learning-dementia-caregiver-confidence-stress-empathy.md)
 - [Using the understAID e-learning platform significantly decreased depressive symptomatology in informal caregivers](understaid-decreased-depressive-symptomatology.md) — related
+- [High drop-out: 54% of the in-person group and 70% of the Lapp group did not complete the training course](lapp-high-drop-out-rates.md) — related

@@ -51,3 +51,4 @@ Gender-comparative descriptive statistics from the accelerometer and GPA data of
 - [No significant associations were found between classroom peer ecology variables and in-school sedentary time for either gender](no-association-peer-ecology-st.md) — related
 - [Boys spent significantly more time gaming while girls reported higher academic motivation across ages 7-10](sex-differences-gaming-time-and-motivation-levels.md) — related
 - [MVPA trajectories differed by gender, but gender was not a significant factor in the MVPA–achievement relationship](gender-differences-mvpa-trajectories-not-achievement.md) — related
+- [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — related

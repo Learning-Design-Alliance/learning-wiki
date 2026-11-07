@@ -55,3 +55,4 @@ Chi-square/ANOVA comparisons across the 342-nurse sample (Table 1) found "statis
 - [Latent profile analysis identifies three palliative care core competency subgroups among ICU nurses: low (21.6%), medium (47.2%) and high (31.2%)](lpa-three-palliative-competency-profiles.md) — related
 - [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — related
 - [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related
+- [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related

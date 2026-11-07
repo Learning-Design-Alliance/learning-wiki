@@ -56,3 +56,4 @@ Experimental study of 60 fourth-year and internship nursing students randomized 
 - [Nurses who completed a tailored 72-hour training program scored significantly higher on overall clinical performance than untrained nurses in cardiac surgery wards](tailored-training-higher-nurse-clinical-performance.md) — related
 - [ICU nurses trained with ultrasound simulation achieve significantly higher theoretical test scores than nurses taught with the classic method](simulation-training-higher-theoretical-scores-icu-nurses.md) — a narrower finding that bears on this claim
 - [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — a broader claim this one bears on
+- [Nursing students with high‐fidelity simulation exposure scored higher combined midterm and final OSCE results than students without HFS exposure](hfs-exposure-higher-combined-osce-results.md) — related

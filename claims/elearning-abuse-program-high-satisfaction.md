@@ -53,3 +53,4 @@ Post-program satisfaction questionnaire (N = 71, five-point scale) covering desi
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
+- [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related

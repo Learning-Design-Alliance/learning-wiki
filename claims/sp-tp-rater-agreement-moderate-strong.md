@@ -54,3 +54,5 @@ Leave-one-out interrater agreement analysis comparing SP scores with a reference
 - [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related
 - [Blinded raters scored higher in Communication and Examination skills at post-test than pre-test in standardized patient encounters, in one uncontrolled pre-post study](sp-encounter-skills-significant-improvement.md) — related
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
+- [Standard patients and examiners show moderate scoring consistency (ICC 0.718) on total scores in a dental OSCE communication station](sp-examiner-moderate-consistency-icc-0718-dental-osce.md) — related
+- [SP assessors detect communication details that examiners neglect, such as interruptions and lack of empathy](sps-detect-communication-details-examiners-neglect.md) — related

@@ -50,3 +50,6 @@ Fully adjusted logistic models for high mathematics grades in the I.Family cohor
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
 - [Students' favourable attitudes towards sports were positively associated with higher academic achievement](student-sports-attitudes-academic-achievement.md) — related
 - [Leisure-time moderate-to-vigorous physical activity is positively associated with competency in all academic skills, with the strongest relationships for mathematics and classroom concentration](mvpa-academic-skill-competency-math-strongest.md) — related
+- [Sports participation frequency is positively associated with Chinese grades in Chinese primary school children, with the highest odds at 3 or more times per week](sports-participation-chinese-grades-positive-association.md) — related
+- [Associations between sports participation and grades are stronger for boys than girls, and girls showed no significant dose relationship in Chinese and math](sports-participation-grades-sex-differences.md) — related
+- [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related

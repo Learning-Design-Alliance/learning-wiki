@@ -53,6 +53,7 @@ The article recommends that simulation-based training with VR platforms "may be 
 - [Deliver 360-video/VR orientation resources before first clinical exposure, timed to the pre-clinical years and in concise, accessible formats](timed-preclinical-360-video-delivery-strategy.md)
 - [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 - [Use interactive 3D object-based VR to let students repeat radiation-involved procedures without exposure and with feedback](3d-object-vr-repeat-procedures-without-radiation-strategy.md)
+- [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
 
 ## Examples
 -

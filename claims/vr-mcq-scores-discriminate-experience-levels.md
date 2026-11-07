@@ -51,3 +51,4 @@ Experimental contrasting-groups study of 59 medical students in novice, intermed
 - [Participants experience the VR emergency scenarios with a high degree of presence (mean IPQ general presence 6.0 of 7) without differences between experience groups](vr-scenarios-high-presence-ipq.md) — related
 - [Novices achieve significantly lower rubric scores than intermediate and expert providers in simulated WFWB collection and transfusion](novices-lower-rubric-scores-wfwb-simulation.md) — related
 - [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — related
+- [A VR simulation-based TTE test distinguishes novice from experienced physicians on all parameters, and novice from intermediate on most parameters](vr-tte-test-distinguishes-experience-levels.md) — related

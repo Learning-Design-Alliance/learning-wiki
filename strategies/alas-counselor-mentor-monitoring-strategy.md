@@ -42,6 +42,7 @@ ALAS assigns each student a counselor/mentor who monitors attendance, behavior, 
 
 - [Trainee-selected, program-screened and trained mentors sustained through monthly staff contact after residential programming](trainee-selected-screened-trained-mentors.md)
 - [Assign trainees a permanent reference person and provide institutional second-victim support programs](reference-person-and-second-victim-support-strategy.md)
+- [Government–school–family coordination with autonomy-supportive, feedback-rich school sports plans to promote participation](sports-participation-three-party-intervention-strategy.md)
 
 ## Examples
 -

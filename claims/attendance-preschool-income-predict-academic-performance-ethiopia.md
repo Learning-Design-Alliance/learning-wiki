@@ -54,3 +54,5 @@ Adjusted multivariate logistic regression in the 399-child cross-sectional study
 - [Peer support for study positively predicts academic performance among Haor students](peer-support-predicts-haor-academic-performance.md) — related
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
+- [Caregiver education and home ownership were not associated with parent-rated academic performance in children with CKD](education-home-ownership-null-ckd-academic.md) — related
+- [Lower household income and caregiver unemployment show the strongest associations with poorer parent-rated academic performance in children with CKD](income-employment-strongest-ses-drivers-ckd-academic.md) — related

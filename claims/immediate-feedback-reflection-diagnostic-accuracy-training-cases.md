@@ -50,3 +50,4 @@ The review reports this from Choi et al.'s study (reference [77]): feedback plus
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — related
 - [AI-driven teaching paradigm improves diagnostic performance in medical imaging education](ai-paradigm-improves-diagnostic-performance.md) — related
 - [Decision-making biases are prevalent in clinical errors but largely ignored in medical education, which teaches them mainly by lecture](decision-biases-prevalent-but-undert-aught-in-medical-education.md) — related
+- [Learning deliberate reflection through example study plus learning-by-teaching did not improve general-practice residents' diagnostic accuracy on future cases diagnosed without reflection instructions](lbt-deliberate-reflection-no-accuracy-gain.md) — related

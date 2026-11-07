@@ -59,3 +59,4 @@ Cohen's kappa was calculated for every category and pair of coders. Agreement be
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
 - [ChatGPT-4o and expert agreement on root canal treatment radiograph ratings is poor to moderate, with ICC ranging from 0.36 to 0.45 across five rubric criteria](ai-expert-icc-poor-moderate-endodontic.md) — related
+- [Expert raters' coded comments cluster into five themes led by poor image generation and interpretation (22%)](pocus-rater-comment-five-themes.md) — related

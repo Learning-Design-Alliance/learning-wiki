@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 151 claims (86 show a difference, 43 mixed, 22 no difference) · 121 studies (46 causal, 29 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 121 report an effect size · 142 claims rest on one study
+> **Evidence** · 152 claims (87 show a difference, 43 mixed, 22 no difference) · 122 studies (46 causal, 30 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 122 report an effect size · 143 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -194,6 +194,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Kindergarten working memory, but not 5th-grade working memory, significantly mediates the early-later math relation in sensitivity analyses](../claims/working-memory-mediation-kindergarten-timepoint-sensitivity.md) [~M] — learners who differ on it differ in outcomes
 - [The escape room-based physical activity intervention significantly improves working memory in adolescents](../claims/escape-room-pa-improves-working-memory.md) [+M] — measured as an outcome of the instruction studied
 - [Longer working memory reaction time predicts lower GMKT performance, but working memory accuracy shows no such correlation](../claims/working-memory-rt-negative-gmkt.md) [~M] — learners who differ on it differ in outcomes
+- [Working memory is the strongest predictor within the executive function latent construct, followed by inhibitory control](../claims/working-memory-strongest-ef-predictor.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

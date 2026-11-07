@@ -51,3 +51,4 @@ Psychometric analysis of the 15 examination circuits in the June 2024 PJ-OSCE. R
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — a broader claim this one bears on
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — a broader claim this one bears on
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
+- [The basic thoracic ultrasound OSCE shows high internal consistency reliability (Cronbach's alpha 0.87 across practical stations)](osce-tus-internal-consistency-alpha-087.md) — related

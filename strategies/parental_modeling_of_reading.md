@@ -64,6 +64,7 @@ Modeling works through observational learning and identification: children imita
 - Independent silent reading — the school-side parallel where teachers model reading behavior
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
+- [Family literacy education and parallel school-home NIE programs to foster children's newspaper reading](family-literacy-education-nie-programs-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — parental reading is a naturalistic, long-duration demonstration of the target behavior

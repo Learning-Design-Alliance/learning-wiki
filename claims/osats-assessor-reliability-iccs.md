@@ -59,3 +59,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Blinded GOALS rating of the bleeding-exercise videos showed moderate-to-good inter-rater reliability (ICC = 0.72)](goals-bleeding-exercise-icc-moderate-good.md) — related
 - [Student knot-tying attempts scored with an adapted OSATS tool showed high median scores and good interrater reliability between two blinded surgeon assessors](adapted-osats-good-interrater-reliability.md) — related
 - [OSAUS scale shows strong inter-rater reliability (ICC 0.720) for assessing ultrasound HMD competence](osaus-hmd-inter-rater-reliability-icc-0720.md) — related
+- [R-OSAT scoring showed excellent inter-rater reliability between the two independent expert assessors](r-osat-excellent-inter-rater-reliability.md) — related

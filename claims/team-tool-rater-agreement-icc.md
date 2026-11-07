@@ -48,3 +48,4 @@ Interrater reliability analysis using bias-adjusted single-rater ICCs from two-w
 ## Related Claims
 - [PGY trainees' TEAM self-assessment identified situation monitoring and composure as weaknesses while team morale, leadership, and communication scored highest.](team-self-assessment-monitoring-composure-weaknesses.md) — related
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
+- [Item-level scoring consistency is poor for several subjective rubric items, with ICCs near or below 0.4](poor-item-level-icc-subjective-osce-items.md) — related

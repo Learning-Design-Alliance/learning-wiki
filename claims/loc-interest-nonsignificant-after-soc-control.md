@@ -50,3 +50,4 @@ Simultaneous-entry regression in the 348-student cross-sectional sample. Table 4
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [Locus of control correlates negatively with GPA among medical and nursing students (r = -0.272)](loc-negative-correlation-gpa.md) — related
 - [Sense of coherence correlates positively with GPA among medical and nursing students (r = 0.519)](soc-positive-correlation-gpa-medical-nursing.md) — related
+- [Self-reported locus of control scores rose from pre-test to post-test after the e-learning programme in one single-group pre-post study, with nurses holding inconsistent views about control over their actions](rlo-elearning-no-locus-control-change.md) — related

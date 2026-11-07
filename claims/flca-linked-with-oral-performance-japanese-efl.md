@@ -84,3 +84,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [Proficiency-level mismatch in Lingua Franca telecollaboration debates increased anxiety of less proficient pupils, while more proficient pupils became less anxious and more confident](tila-proficiency-mismatch-increases-anxiety-less-proficient.md) — a narrower finding that bears on this claim
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](pre-class-tests-increase-stress-anxiety.md) — related
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
+- [Fear of delay increases doctoral students' stress levels but does not significantly improve their academic performance](fear-of-delay-raises-stress-not-performance.md) — related

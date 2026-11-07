@@ -52,3 +52,4 @@ Multiple linear regression on the 627-nurse survey: "36–40: β = 0.199, p < 0.
 - [Lower job satisfaction is associated with lower KAP total and dimension scores for PED](job-satisfaction-negatively-associated-ped-kap.md) — related
 - [Nurses with junior titles score higher on PED KAP than senior-title nurses](junior-title-higher-ped-kap.md) — related
 - [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — related
+- [Nurses' attitudes toward pain management become more negative with greater work experience, age, education and prior retraining participation](pain-attitudes-negative-demographic-correlations.md) — reports the opposite

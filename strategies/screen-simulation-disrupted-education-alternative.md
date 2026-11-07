@@ -48,6 +48,7 @@ The article recommends screen-based simulation for contexts where face-to-face e
 
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
+- [Adopt interactive educational videos when face-to-face meetings are not possible](interactive-video-contingency-lockdown-strategy.md)
 
 ## Examples
 -

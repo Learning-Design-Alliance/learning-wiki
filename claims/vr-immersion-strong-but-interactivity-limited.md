@@ -67,3 +67,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [Most students reported that the system's realistic simulation and unlimited practice helped them, and most preferred the offline haptic section for three-dimensional adjustment and real-time feedback](student-preference-offline-haptic-feedback.md) — related
 - [Experienced HEMS participants rate the MeTra simulator's enclosed environment and communication system as highly similar to a real helicopter](metra-simulator-fidelity-ratings.md) — related
 - [Most participants (69%) did not feel immersed in the simulation, yet the authors argue immersion is not required for specific surgical-skill training](oasis-simulator-low-immersion-acceptable.md) — related
+- [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — related

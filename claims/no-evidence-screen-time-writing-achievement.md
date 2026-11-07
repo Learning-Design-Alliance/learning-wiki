@@ -46,3 +46,4 @@ Adjusted proportional odds models (Table 3) in the full sample found no statisti
 
 ## Related Claims
 - [Higher TV and digital media time in young children is associated with lower achievement levels in grade 3 reading and math and grade 6 math](total-screen-time-lower-reading-math-achievement.md) — related
+- [Hope for the future is not associated with time spent watching TV or DVDs](hope-for-future-no-tv-association.md) — related

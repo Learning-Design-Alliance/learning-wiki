@@ -49,3 +49,4 @@ Categorical agreement analysis of the 35 fellow-versus-cardiologist VTI comparis
 - [Fellow VTI error showed an unexpected weak positive correlation with the number of previous exams performed (r = 0.37, P = 0.042)](fellow-error-increases-with-sequential-exams.md) — related
 - [After a brief mastery learning intervention, critical care fellows' LVOT VTI measurements correlate strongly with cardiologist-reported values (r = 0.73)](fellow-lvot-vti-strong-correlation-cardiologist.md) — related
 - [Fellow LVOT diameter measurements correlate only moderately with cardiologist-reported values (r = 0.51), notably weaker than VTI](fellow-lvot-diameter-moderate-correlation.md) — related
+- [CCUS examinations by trained fellows reveal unexpected findings in about a third of documented cases and raise fellows' subjective confidence in patient care](ccus-unexpected-findings-and-confidence.md) — related

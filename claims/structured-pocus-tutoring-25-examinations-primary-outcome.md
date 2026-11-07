@@ -49,3 +49,4 @@ Single-center randomized open-label superiority trial of internal medicine resid
 - [Structured tutoring raises the median number of supervised POCUS examinations performed over 6 months (27 vs 0)](tutoring-increases-supervised-examination-volume.md) — related
 - [Structured tutoring improves self-assessed heart ultrasound competency at 6 months, but the self-assessed lung competency difference is not statistically significant](tutoring-self-assessed-heart-competency.md) — related
 - [Blinded experts rate tutored residents as more autonomous and more competent in image acquisition and optimisation](expert-rated-autonomy-and-image-competency.md) — related
+- [PGY-1 e-learning users performed more clinical FAST examinations than PGY-2 residents despite the PGY-2 having more PoCUS experience](elearning-users-more-fast-exams-than-pgy2.md) — related

@@ -50,6 +50,7 @@ Debriefing was "structured based on the three-phase approach, including reaction
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
 - [Structure peer debriefing around observed actions, good judgement, and closing performance gaps](structured-peer-debriefing-form-strategy.md)
+- [Debrief the postvention scenario with \"The Diamond\" model across descriptive, analytical and application phases](diamond-model-three-phase-debriefing-postvention.md)
 
 ## Examples
 -

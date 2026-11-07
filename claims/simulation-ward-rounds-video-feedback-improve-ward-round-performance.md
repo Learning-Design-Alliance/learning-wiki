@@ -54,3 +54,4 @@ Open-label randomized parallel-group controlled trial with 80 gastroenterology r
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [AI-supported scenario training improves rehabilitation students' digital competence more than traditional-only training](ai-scenario-training-improves-digital-competence-rehabilitation-students.md) — related
 - [Medical interns trained with video feedback workshops significantly outperformed those trained with group discussion on post-intervention patient education performance](vfb-outperforms-gd-patient-education-osler.md) — related
+- [In 21 of 24 studies reviewed in 2009, residents showed significant enhancement of teaching performance after specific training](rat-training-significant-teaching-performance-21-of-24.md) — a broader claim this one bears on

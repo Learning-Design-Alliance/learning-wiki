@@ -51,3 +51,4 @@ Chi-square comparison of survey responses between the Class of 2025 (in-person c
 - [Students who started ALG virtually (Class of 2024) were significantly more confident contributing in person than students who started in person (Class of 2023)](virtual-first-cohort-more-confident-in-person.md) — related
 - [Virtual ALG was rated better for work-life balance: 71.1% did not indicate better work-life balance during in-person ALG](virtual-alg-better-work-life-balance.md) — related
 - [Inductive coding of open-ended responses yielded four themes: virtual format issues, work-life balance, influential group dynamics, and improved connection in-person](alg-qualitative-four-themes.md) — related
+- [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related

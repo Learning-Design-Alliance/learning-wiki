@@ -69,3 +69,5 @@ Chi-square and ANOVA comparisons of sociodemographic variables across the four p
 - [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](sex-difference-competence-significant-except-core-skills.md) — reports the opposite
 - [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](ebp-knowledge-workplace-experience-differences.md) — related
 - [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](ebp-skills-age-workplace-experience-differences.md) — related
+- [Demographic characteristics — university province, grade level, and perceived health status — are associated with home-based e-learning behavior](demographics-predict-hbel-behavior.md) — related
+- [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related

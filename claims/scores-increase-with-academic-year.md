@@ -51,3 +51,4 @@ ANOVA (Welch's test with adjusted F ratio) with Games-Howell post hoc comparison
 - [Older students report statistically higher simulation design and educational practice scores than younger students](older-students-higher-sds-epq-scores.md) — related
 - [Post-simulation satisfaction, self-confidence, and perceptions of educational practices differ significantly by academic year, with higher values among students in more advanced years and large effect sizes](sbl-satisfaction-confidence-increase-with-academic-year.md) — possibly the same claim (merge candidate)
 - [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related
+- [Second-year nursing students rated educational practices significantly higher than third-year students on EPQ Collaboration and EPQ-IO total scores](year-of-study-differences-epq.md) — reports the opposite

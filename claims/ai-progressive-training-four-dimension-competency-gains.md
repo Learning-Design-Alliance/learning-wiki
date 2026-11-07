@@ -76,3 +76,5 @@ Table 1 paired comparisons (N = 28) show professional knowledge improved 12.4 po
 - [Large majorities of post-reform students self-reported gains in research competencies, academic communication skills and career development](student-self-reported-competency-gains-post-reform.md) — related
 - [Performance improvements after simulation-based learning were statistically significant for both male and female students across all assessment domains](sbl-improvements-consistent-across-genders.md) — related
 - [At Week 4, only implementation ability differed significantly among clinical reasoning dimensions; knowledge acquisition showed no significant difference](scaffolded-cbd-week4-null-dimensions.md) — related
+- [A one-week intensive trabeculectomy simulation course produces a large, sustained increase in residents' simulated surgical competency scores](simulation-course-sustained-trabeculectomy-competency-gain.md) — related
+- [Simulation training enhances psychomotor skills and supports the transition from classroom learning to clinical practice in obstetrics and gynaecology](simulation-enhances-psychomotor-skills-obgyn.md) — related

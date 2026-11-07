@@ -87,3 +87,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [A larger share of the combined-method group reported improved independent learning ability (88.46% vs 65.68%) and improved learning enthusiasm (89.42% vs 76.47%)](cbl-clinical-pathway-independent-learning-enthusiasm.md) — related
 - [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related
 - [Most experimental-group students liked the blended design and found it fun, but minorities reported virtual simulation training and the PAL app were not helpful](positive-student-attitudes-smart-classroom-design.md) — related
+- [Students report high satisfaction with both interactive video and traditional demonstration approaches](high-satisfaction-both-video-and-demonstration.md) — related

@@ -57,3 +57,5 @@ The review reports this randomized pretest-posttest trial of 56 nursing students
 - [Nursing students report high satisfaction and self-confidence after hybrid simulation training](high-satisfaction-self-confidence-hybrid-simulation-nursing.md) — related
 - [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](vr-experiential-simulation-improves-dka-problem-solving.md) — related
 - [Male nursing students experience initial anxiety with maternal-newborn mannequins that decreases through instructor support and repeated practice](hfs-initial-anxiety-eased-by-instructors-and-repetition.md) — related
+- [Self-confidence showed small improvements on most NASC-CDM items after e-learning, with no overall mean change and some items declining](rlo-elearning-confidence-item-gains.md) — related
+- [Anxiety scores of children's nurses showed a small increase after the e-learning programme, with mixed results across NASC-CDM items](rlo-elearning-small-anxiety-increase.md) — related

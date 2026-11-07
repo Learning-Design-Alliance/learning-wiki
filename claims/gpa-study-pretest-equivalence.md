@@ -58,3 +58,4 @@ One-way ANOVA on the 15-item achievement pretest administered before the five-we
 - [Pretest scores showed the two groups were statistically equivalent before the intervention](pretest-equivalence-objectivist-constructivist-groups.md) — related
 - [No statistically significant difference in mathematics achievement between objectivist-based and constructivist-based teaching strategies](no-significant-difference-objectivist-constructivist-online-math.md) — related
 - [The intervention and control groups did not differ significantly in GPA, supporting the intervention rather than baseline ability as the source of the competence difference](no-gpa-difference-between-groups.md) — related
+- [First theoretical assessment showed no significant difference among the four groups, indicating equivalent baseline learning ability](baseline-theoretical-scores-equivalent.md) — related

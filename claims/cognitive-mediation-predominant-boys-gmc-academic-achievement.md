@@ -49,3 +49,6 @@ Sex-specific serial multiple mediation analysis in a cross-sectional study of 26
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
 - [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — a broader claim this one bears on
 - [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](ef-partially-mediates-fms-academic-achievement.md) — related
+- [Executive functions fully mediate the association between gross motor competence and academic achievement in boys but not in girls](efs-mediate-gmc-aa-boys-not-girls.md) — related
+- [In the total sample of children, executive functions partially mediate the positive association between gross motor competence and academic achievement](efs-partially-mediate-gmc-aa-total-sample.md) — reports the opposite
+- [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related

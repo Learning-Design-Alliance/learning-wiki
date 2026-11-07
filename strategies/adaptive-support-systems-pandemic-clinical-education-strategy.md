@@ -51,6 +51,8 @@ The article recommends that dental education adopt adaptive approaches and suppo
 - [Use virtual engagement and online training delivery to sustain and extend apprenticeship system operations during disruptions](virtual-engagement-sustain-apprenticeship-systems.md)
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
+- [Adapt clinic operations to emergent community needs, including telehealth triage during clinic closures](responsive-telehealth-triage-strategy.md)
 
 ## Examples
 -

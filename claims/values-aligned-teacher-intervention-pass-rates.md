@@ -49,3 +49,6 @@ A multi-arm randomized controlled trial assigned 897 dual-enrollment high-school
 - [A teacher fellowship pilot during the pandemic improved growth-mindset classroom climate ratings and reduced teachers' intent to leave](teacher-fellowship-pilot-climate-attrition.md) — related
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related
 - [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related
+- [Treatment effects on student achievement were larger in majority low-SES classrooms, reducing socioeconomic inequality in outcomes](intervention-effects-larger-in-majority-low-ses-classrooms.md) — related
+- [The 45-min teacher intervention modestly improved overall student pass rates and course grades in dual-enrollment courses](teacher-mindset-intervention-improves-overall-student-achievement.md) — related
+- [A values-aligned intervention increases teachers' intentions to use growth mindset–supportive practices and their growth mindset beliefs relative to control](values-aligned-intervention-raises-teacher-practice-intentions-and-beliefs.md) — related

@@ -49,6 +49,7 @@ The article recommends combining e-learning with hands-on training rather than t
 - [Incorporate pathological findings and additional practice into pre-clerkship ultrasound training](add-pathology-and-practice-to-pocus-curriculum-strategy.md)
 - [Combine technique education with ongoing monitoring, reinforcement, and quality assurance to sustain blood pressure measurement proficiency](ongoing-reinforcement-bp-measurement-training.md)
 - [Offer eLearning to practices with detected cold chain breaches and add reinforcement strategies for sustained improvement](elearning-offer-on-cold-chain-breach-detection.md)
+- [Assign e-learning access before the hands-on ultrasound curriculum to improve OSCE performance of novice sonographers](elearning-preview-before-hands-on-curriculum-strategy.md)
 
 ## Examples
 -

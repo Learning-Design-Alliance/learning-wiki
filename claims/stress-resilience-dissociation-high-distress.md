@@ -50,3 +50,4 @@ The review's thematic synthesis (RQ3) on the mental health–resilience relation
 - [Course development satisfaction is positively associated with first-year students' emotional management, stress coping, and academic adjustment in cross-sectional self-report data](course-development-satisfaction-positive-adjustment-association.md) — related
 - [Female students consistently reported higher distress while male students reported higher resilience, a pattern observed across multiple countries](gender-patterns-distress-resilience-university-students.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
+- [Two-thirds of the sample reported high or very high psychological distress](high-distress-prevalence-uni-sample.md) — related

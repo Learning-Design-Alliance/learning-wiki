@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-07
 sources:
   - id: post-jh-2023
     resource: "https://doi.org/10.1186/s12909-023-04919-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 24 trainees attempting simulation-based mastery learning, 21 (88%) attained the mastery level (85% twice consecutively) using a median of 2h38min and 7 attempts. [→ Post JH 2023](#post-jh-2023)

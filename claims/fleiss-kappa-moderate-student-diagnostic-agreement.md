@@ -55,3 +55,4 @@ Fleiss' Kappa analysis of diagnostic consistency among the two student cohorts o
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
 - [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
+- [Inter-rater agreement on five POCUS clinical-competence checklist items is fair to moderate (κ = 0.32 to 0.55)](pocus-checklist-fair-moderate-rater-agreement.md) — related

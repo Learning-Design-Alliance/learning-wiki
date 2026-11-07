@@ -68,3 +68,4 @@ Same K-5 univariate latent-growth-curve analyses for WA-decoding and TOSREC-read
 - [No clear pattern of cumulative, compensatory, or stable development emerged for either reading-related or math skills in this sample](no-clear-developmental-pattern-reading-math.md) — reports the opposite
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
 - [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — related
+- [ADHD has a weaker negative effect on achievement in higher-achieving schools (positive slope–intercept correlation)](weaker-adhd-effect-in-higher-achieving-schools.md) — related

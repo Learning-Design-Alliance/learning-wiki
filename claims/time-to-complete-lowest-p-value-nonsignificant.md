@@ -48,3 +48,4 @@ From the t-test results in Table 1 of the quasi-experiment: time to complete the
 - [The control group's means and standard deviations were higher than the experimental group's on five performance metrics, though not significantly](control-group-higher-descriptive-means-five-metrics.md) — related
 - [Virtual endoscopy simulator training shows no statistically significant difference in total procedure time for colonoscopy (SMD 0.00, 95% CI −0.99–0.99, P=1.00)](no-colonoscopy-procedure-time-difference.md) — related
 - [Virtual endoscopy simulator training shows no statistically significant difference in total procedure time for gastroscopy (SMD 0.01, 95% CI −0.61–0.59, P=0.98)](no-gastroscopy-procedure-time-difference.md) — related
+- [Participants trained with Lapp showed more homogeneous procedural completion times, though no significant differences in procedural times between groups](lapp-more-homogeneous-procedural-times.md) — related

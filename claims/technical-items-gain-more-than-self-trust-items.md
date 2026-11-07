@@ -47,3 +47,4 @@ Item-level ranking of posttest PC scores (Table 3, n = 501) showed task-oriented
 ## Related Claims
 - [Before the application, students held moderately positive attitudes to music lessons, with lowest points on items about teacher instrument use and technology](pretest-moderate-attitudes-teacher-instrument-technology-items-low.md) — related
 - [The largest attitude increase in the experimental group was on the item about use of technological facilities in music lessons, attributed to karaoke recordings](karaoke-recordings-largest-increase-technology-item.md) — related
+- [Retrospective self-assessed learning gains are higher on the knowledge plane than on the attitude plane, with the lowest gains on items about the participants' own mortality](knowledge-gains-exceed-attitude-gains-csa.md) — related

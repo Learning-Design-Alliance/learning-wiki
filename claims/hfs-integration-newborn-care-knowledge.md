@@ -49,3 +49,4 @@ Independent t-test comparison of the two groups' 10-item newborn care knowledge 
 - [HFS/curriculum integration significantly improves OSCE performance in immediate newborn care (95% vs. 56%)](hfs-integration-newborn-care-osce.md) — related
 - [HFS/curriculum integration significantly improves knowledge of nursing care during vaginal delivery (86% vs. 46%)](hfs-integration-vaginal-delivery-knowledge.md) — related
 - [HFS/curriculum integration significantly improves OSCE performance in vaginal delivery management (81% vs. 50%)](hfs-integration-vaginal-delivery-osce.md) — related
+- [Courses without HFS exposure recorded overall OSCE means of 81.80 in child health and 83.54 in maternal health nursing](no-hfs-courses-osce-means-child-maternal.md) — related

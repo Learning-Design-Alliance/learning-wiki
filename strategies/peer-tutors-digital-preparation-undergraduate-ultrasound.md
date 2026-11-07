@@ -49,6 +49,7 @@ A delivery recipe for undergraduate ultrasound courses: peer tutors enable longe
 - [Scale simulator-based POCUS training to large cohorts through blended strategies](blended-scaling-pocus-training-large-cohorts.md)
 - [Integrate e-learning as pre-course preparation within blended-learning FOCUS training curricula](elearning-precourse-blended-focus-strategy.md)
 - [Deliver pre-class content and practical-session videos through messaging platforms (Eitaa and Telegram) to enable non-attendance preparation](messaging-platform-preclass-content-strategy.md)
+- [Home simulation of sonography with a dummy transducer under tutor guidance via video seminar](dummy-transducer-home-video-seminar-strategy.md)
 
 ## Examples
 -

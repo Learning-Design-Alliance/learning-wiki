@@ -71,3 +71,4 @@ Second study in the same fractions research program; children observing single m
 - [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](peer-model-similarity-effects-mixed-evidence.md) — related
 - [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](self-modeling-raises-efficacy-and-skill.md) — related
 - [Writing interventions had variable effects on writing self-efficacy and performance, with coping models outperforming mastery models and no-model controls in sentence-combining training](writing-interventions-variable-effects-coping-model.md) — related
+- [The program was particularly effective for teachers with higher baseline coping difficulty, with no significant effect for those with lower baseline difficulty](program-effective-higher-baseline-difficulty-teachers.md) — related

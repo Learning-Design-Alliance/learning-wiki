@@ -72,3 +72,4 @@ Review synthesis of the unaltered-performance category; negative correlations ar
 - [Impaired performance under simulation stress is concentrated among healthcare students and junior residents, with rising perceived anxiety, cognitive load and stress linked to poorer performance](stress-impairment-junior-learners-anxiety.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — related
+- [Salivary cortisol fold increase was significantly higher after high-fidelity simulation (1.46) than after procedural simulation (1.22)](cortisol-fold-increase-higher-hf-than-ps.md) — related

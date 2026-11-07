@@ -52,3 +52,4 @@ Pearson correlation analysis of NFD frequency against item DF and DS in both tes
 - [Two-distractor MCQs contain fewer item-writing flaws and more frequently have all distractors functional compared with three-distractor MCQs](two-distractor-items-fewer-flaws-more-functional.md) — related
 - [Three-option MCQ items tend to discriminate better between high and low performers than five-option items, but not significantly](three-option-mcq-discrimination-index-higher-not-significant.md) — related
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
+- [High-scoring students produce more poor-functioning and non-functioning distractors than moderate/poor-scoring students](non-functioning-distractors-high-scorers.md) — related

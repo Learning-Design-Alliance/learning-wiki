@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (142 show a difference, 43 mixed, 33 no difference) · 148 studies (57 causal, 53 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 35 of 148 report an effect size · 215 claims rest on one study
+> **Evidence** · 219 claims (142 show a difference, 44 mixed, 33 no difference) · 149 studies (57 causal, 54 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 36 of 149 report an effect size · 216 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -254,6 +254,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [The correlation between cognitive ability and years of schooling at age 30 declines across Norwegian male birth cohorts, from above 0.63 to under 0.50](../claims/cognitive-ability-years-of-schooling-correlation-declines.md) [+M] — learners who differ on it differ in outcomes
 - [Visual memory and spatial intelligence are significant regression predictors of anatomy scores, with visual memory the better predictor in medicine and spatial intelligence in dentistry](../claims/regression-predictors-anatomy-scores-discipline-specific.md) [+M] — learners who differ on it differ in outcomes
 - [When educational-earnings ranks are allowed to vary by cohort, the cognitive ability correlation declines further, to around 0.40 for the youngest cohorts](../claims/cognitive-ability-variable-earnings-rank-declines.md) [+M] — learners who differ on it differ in outcomes
+- [Beyond crystallized abilities, preschool fluid abilities retain only small direct contributions to later-grade achievement, while cognitive flexibility contributes none](../claims/modest-direct-fluid-contributions-later-grades.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

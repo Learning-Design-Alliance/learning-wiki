@@ -81,3 +81,5 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Students in the flipped classroom group scored higher on the final theory exam than lecture-group students (8.2 ± 0.7 vs 7.0 ± 0.8)](flipped-classroom-higher-theory-exam-scores-endodontics.md) — related
 - [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — a narrower finding that bears on this claim
 - [Blended learning produced higher knowledge gain than traditional lecture in an evidence-based medicine course for medical postgraduates](blended-learning-higher-knowledge-gain-ebm-course.md) — related
+- [Effect sizes for quiz and final exam scores were largest for the flipped physical classroom blended learning group](effect-size-largest-fpcr-bl.md) — related
+- [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — related

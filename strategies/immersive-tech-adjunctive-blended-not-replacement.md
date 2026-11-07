@@ -88,6 +88,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
 - [Adopt a step-wise approach to technology integration in clinical skills teaching, starting with simple familiar tools matched to learning outcomes](stepwise-technology-integration-clinical-skills.md)
 - [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
+- [Use HVRS as an adjunct to, not a replacement for, conventional mannequin-based pre-clinical paediatric dentistry simulation](hvrs-as-adjunct-to-conventional-simulation-strategy.md)
 
 ## Examples
 -

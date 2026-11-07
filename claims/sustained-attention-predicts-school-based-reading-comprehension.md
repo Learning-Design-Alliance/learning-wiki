@@ -53,3 +53,4 @@ Linear mixed models in the same sample of 725 students, using a digital TOSREC-b
 - [Kindergarten attention regulation is uniquely and positively related to compositional fluency after controlling for literacy, letter-writing fluency, and oral language](attention-unique-predictor-kindergarten-writing-fluency.md) — related
 - [Attention is more predictive of targeted than broad math, but equally predictive of both reading measure types](attention-predicts-targeted-math-more-than-broad-math.md) — related
 - [Sustained attention, not learning condition, was the strongest predictor of children's word recall](sart-strongest-predictor-word-recall.md) — related
+- [Sustained attention positively predicts targeted math fluency and reading comprehension assessed in group-based school settings](sustained-attention-predicts-targeted-math-reading-school-settings.md) — a broader claim this one bears on

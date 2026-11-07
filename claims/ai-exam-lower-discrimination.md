@@ -84,3 +84,4 @@ Comparison of discrimination indices between AI-generated validated questions an
 - [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in difficulty index in a real dental exam](chatgpt-educator-mcq-no-difficulty-difference.md) — related
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — reports the opposite
 - [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related
+- [Summative examination quality was equivalent between the two academic years in difficulty, discrimination, and minimal passing level](equivalent-exam-quality-between-years.md) — related

@@ -49,6 +49,7 @@ The authors recommend that, following refinement, the e-learning program be embe
 - [Optimize e-learning platform usability and provide technical support to maximize engagement across diverse nursing staff groups](elearning-usability-technical-support-strategy.md)
 - [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 - [Target warfarin education through structured programs, interactive e-learning modules, regular workshops, and case-based training](warfarin-targeted-education-strategy.md)
+- [Offer interactive E-book apps for nurses' self-paced in-service education](ebook-app-self-paced-in-service-education-strategy.md)
 
 ## Examples
 -

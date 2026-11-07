@@ -51,3 +51,4 @@ Self-reported study time for the IBL group of 40 physicians, covering pretest, c
 - [Physicians learning via the model-based e-learning program scored significantly higher on the posttest than physicians receiving lecture-based teaching](ecme-posttest-higher-than-lecture.md) — related
 - [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — possibly the same claim (merge candidate)
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related
+- [Interactive video learning saves face-to-face laboratory time compared with traditional demonstration](interactive-video-saves-laboratory-time.md) — related

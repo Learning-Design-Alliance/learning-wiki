@@ -53,6 +53,7 @@ The article recommends that universities develop and implement activities and pr
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Implement psychological support programs, foster intrinsic motivation, integrate psychological assessments, establish support networks, and make tailored curricular adjustments for women doctoral students](psychological-support-programs-women-doctoral-strategy.md)
 - [Provide mental health services and periodic counseling to support medical students' self-esteem](mental-health-services-counseling-medical-students.md)
+- [Routinely screen health professions students for academic stress, anxiety, depression, and sleep disturbance during virtual learning, and incorporate sleep hygiene and resourcefulness training in curricula](routine-screening-sleep-hygiene-resourcefulness-training-strategy.md)
 
 ## Examples
 -
