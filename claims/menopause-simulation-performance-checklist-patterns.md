@@ -47,3 +47,4 @@ Faculty experts completed a standardized performance checklist for each learner 
 ## Related Claims
 - [Only 37.2% of residents were high performers in medication reconciliation after a standardized patient discharge encounter, with primary care program residents more likely to be high performers](residents-high-performers-medication-reconciliation-37-percent.md) — related
 - [Residents' menopause knowledge improves after a didactic plus standardized patient simulation session](simulation-menopause-knowledge-gains.md) — related
+- [The lowest checklist performance occurred in the hearing-impairment case, suggesting a need for remediation around auditory impairment](hearing-impairment-case-lowest-checklist-performance.md) — reports the opposite

@@ -46,3 +46,4 @@ Definitional statement from the repeated-waves section of this reflective prefac
 
 ## Related Claims
 - [No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence](copyright-licenses-absent-developing-region-frameworks.md) — related
+- [GP residents valued the E-learning programme's uniform format and constant availability as a starting point for learning](elearning-uniform-format-starting-point-residents.md) — related

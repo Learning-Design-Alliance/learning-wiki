@@ -68,3 +68,4 @@ Experiment 3 (44% condition, n = 70 analysed) replicated the outcome main effect
 - [High reinforcement (75%, 88% fixed win rate) maintains a relearning-old advantage in Post phase win rates and OBR](reinforcement-maintains-relearning-old-advantage.md) — related
 - [Relearning an old response pattern generally beats learning a new one in the Post phase, except under severe 25% punishment](relearning-old-beats-learning-new-except-severe-punishment.md) — related
 - [Suppression of the Pre response pattern between Pre and During phases positively predicts Post phase win rates when learning a new pattern, mainly after wins](obr-suppression-predicts-learning-new.md) — related
+- [Learning emerges under interacting individual, environmental and task constraints](constraints-interaction-shape-clinical-learning.md) — a broader claim this one bears on

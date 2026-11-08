@@ -57,3 +57,4 @@ Delayed-posttest administered eight weeks after the application to measure reten
 - [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — related
 - [Journal writing showed no statistically significant effect on learning retention three weeks after the unit](journal-writing-wtl-no-retention-effect.md) — related
 - [No significant difference between the experimental group's post-test and its 21-day retention test scores](poster-group-posttest-retention-no-difference.md) — related
+- [Knowledge retention after eight weeks does not differ between eModule and Wikipedia-like webpage learning](no-retention-difference-eight-weeks-emodule-vs-wiki.md) — related

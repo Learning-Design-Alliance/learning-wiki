@@ -48,7 +48,8 @@ The article recommends identifying students at risk of failing the NMLE as early
 - [Age at admission shows a consistent, significant influence on the likelihood of passing the NMLE throughout medical school](../claims/age-at-admission-consistent-nmse-predictor.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide targeted support and resources (mentorship programmes, greater flexibility, grants and bursaries) to candidate groups at increased risk of failing MRCS](targeted-support-at-risk-mrcs-groups.md)
 
 ## Examples
 -

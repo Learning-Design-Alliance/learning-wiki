@@ -16,12 +16,14 @@ sources:
     author: Zhang Yao, Yan Jin, Jin Xiao, Yang Hongying, Zhang Ying, Ma Huijun, Ma Rui
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Sports participation frequency is positively associated with Chinese grades in Chinese primary school children, with the highest odds at 3 or more times per week
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zhang Yao, Yan Jin, Jin Xiao, Yang Hongying, Zhang Ying, Ma Huijun, Ma Rui. (2023). Sports Participation and Academic Performance in Primary School: A Cross-Sectional Study in Chinese Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20043678
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Cross-sectional self-report survey of 27,954 Chinese primary school children analyzed with ordered logistic regression controlling for sex, age, grade, SES, parental education and siblings. All three participation frequencies showed "more likely to achieve better grades in Chinese learning performance", all p < 0.001.
 

@@ -51,3 +51,4 @@ The review describes debriefing as a guided discussion after simulation sessions
 - [Students identified hands-on learning, debriefing and facilitator continuity as the key beneficial features of the pre-foundation simulation course](simulation-course-features-hands-on-debriefing-continuity.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
+- [Implementing a structured PRD tool is feasible in acute clinical areas, with debriefs averaging 14.2 minutes](prd-feasible-short-debriefs-acute-care.md) — a narrower finding that bears on this claim

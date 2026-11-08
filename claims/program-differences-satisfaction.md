@@ -50,3 +50,4 @@ Descriptive bar-chart analysis of survey responses divided by program (Fig. 5), 
 - [Newly enrolled Medicine students scored significantly higher on empathy than students from Dentistry, Nursing, and Pharmacy in Singapore](medicine-freshmen-highest-empathy-singapore.md) — related
 - [Engagement and satisfaction with active learning vary by professional group, with nursing and pharmacy learners reporting more positive experiences than medical learners](population-by-method-interaction-engagement.md) — possibly the same claim (merge candidate)
 - [All three Malaysian universities adopted RLOs across medicine, nursing, pharmacy, and biomedical science curricula](all-three-universities-adopted-rlos.md) — related
+- [Medical students report higher e-learning satisfaction than students in other courses](medical-students-higher-e-learning-satisfaction.md) — related

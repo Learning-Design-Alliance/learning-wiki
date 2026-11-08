@@ -53,6 +53,7 @@ The authors recommend 360-degree VR simulation as a scalable, cost-effective way
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
+- [Use accessible and scalable desktop VR as an alternative to face-to-face simulation for interprofessional team training when face-to-face training is not feasible](desktop-vr-scalable-alternative-team-training-strategy.md)
 
 ## Examples
 -

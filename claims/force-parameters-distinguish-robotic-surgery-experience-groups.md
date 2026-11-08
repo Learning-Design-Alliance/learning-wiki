@@ -53,3 +53,4 @@ Multicenter prospective study in which 60 participants across three experience g
 - [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related
 - [All three experience groups complete the robotic suturing task faster by the sixth trial](robotic-suturing-completion-time-learning-curve.md) — related
 - [A VR simulation-based TTE test distinguishes novice from experienced physicians on all parameters, and novice from intermediate on most parameters](vr-tte-test-distinguishes-experience-levels.md) — related
+- [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — reports the opposite

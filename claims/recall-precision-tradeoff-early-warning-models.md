@@ -49,3 +49,4 @@ Comparative evaluation of the five trained classifiers on the hold-out test set,
 - [XGBoost and Logistic Regression achieve the highest F1-scores (0.84) among five ML models predicting at-risk status from first-term midterm grades, with all models exceeding AUC 0.91](xgboost-logreg-highest-f1-midterm-risk-prediction.md) — related
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
 - [A 10-point decrease in Biology midterm score raises predicted at-risk probability by about 31 percentage points, with smaller effects for Introduction to Health Sciences (~25) and English (~18)](ten-point-biology-decline-raises-risk-31-points.md) — related
+- [The method missed three errors and overdetected 11 errors (3.6%), with a trade-off between overdetection and oversight](missed-and-overdetected-errors-tradeoff.md) — related

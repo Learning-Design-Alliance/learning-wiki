@@ -49,3 +49,4 @@ Cross-sectional questionnaire of 150 nursing students after a video-creation act
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](students-enjoyed-image-creation-most.md) — related
+- [Students rate procedure-specific videos favourably for skill repetition, competence feeling, and understanding of preclinical lab skills](student-perception-favours-procedure-videos.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Krumm Ilana Roberts MD, Miles Matthew C. MD, MEd, FCCP, Clay Alison MD, Carlos II W. Graham MD, Adamson Rosemary MBBS
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Instructor visibility in video is mixed: a visible talking head may add distraction and lower retention, though brief on-camera introductions may increase engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Krumm Ilana Roberts MD, Miles Matthew C. MD, MEd, FCCP, Clay Alison MD, Carlos II W. Graham MD, Adamson Rosemary MBBS. (2021). Making Effective Educational Videos for Clinical Teaching. Chest. https://doi.org/10.1016/j.chest.2021.09.015
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article reviews conflicting findings on instructor visibility: "others have found that a 'talking head' adds distraction and results in lower retention," while others suggest brief visibility can increase engagement. The authors prefer omitting the speaker in single-take recordings.
 

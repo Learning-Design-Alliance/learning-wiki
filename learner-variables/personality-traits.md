@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (85 show a difference, 31 mixed, 17 no difference) · 65 studies (33 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 20 of 65 report an effect size · 133 claims rest on one study
+> **Evidence** · 139 claims (90 show a difference, 32 mixed, 17 no difference) · 67 studies (35 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 21 of 67 report an effect size · 139 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -168,6 +168,12 @@ Personality traits are relatively stable individual differences, most often meas
 - [Grit is related to GPA only at low levels of social desirability](../claims/grit-gpa-only-at-low-social-desirability.md) [~M] — learners who differ on it differ in outcomes
 - [Grit's positive relationship with GPA is non-significant when depressive symptoms and social desirability are included in the model](../claims/grit-gpa-non-significant-with-covariates.md) [-M] — learners who differ on it differ in outcomes
 - [At the between-person level, children with higher academic achievement show less social withdrawal, but no significant within-person cross-lagged associations emerge in the pooled sample](../claims/between-person-negative-withdrawal-achievement.md) [~M] — learners who differ on it differ in outcomes
+- [A logistic regression model combining openness and conscientiousness significantly predicts National Residency Exam score, with low openness and high conscientiousness each independently associated with better grades](../claims/openness-conscientiousness-logistic-model-predicts-exam-score.md) [+M] — learners who differ on it differ in outcomes
+- [Among Romanian medical graduates, students with low openness scores have higher odds of a better National Residency Exam score than students with higher openness](../claims/low-openness-associated-with-higher-residency-exam-odds.md) [+M] — learners who differ on it differ in outcomes
+- [High conscientiousness is associated with higher odds of a better National Residency Exam score among Romanian medical graduates](../claims/high-conscientiousness-associated-with-higher-residency-exam-odds.md) [+M] — learners who differ on it differ in outcomes
+- [Higher agreeableness and higher emotional stability are each associated with higher odds of a better National Residency Exam score](../claims/agreeableness-emotional-stability-associated-with-exam-odds.md) [+M] — learners who differ on it differ in outcomes
+- [In men with low academic performance, GPA is multivariately associated with admission exam test, self-motivation, neuroticism and having a romantic partner positively, and with having children and weekly physical activity hours negatively](../claims/men-gpa-multivariate-model-low-performers.md) [~W] — learners who differ on it differ in outcomes
+- [Low extraversion is associated with higher odds of a better National Residency Exam score among Romanian medical graduates](../claims/low-extraversion-associated-with-higher-residency-exam-odds.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

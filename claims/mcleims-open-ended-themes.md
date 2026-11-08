@@ -61,3 +61,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Free-text responses showed appreciation for training that was timely, hands-on, and interprofessional, alongside logistical and organizational limitations](qualitative-themes-jit-simulation-value-and-limitations.md) — related
+- [Free-text trainee comments yielded three additional learning-need themes: procedural skills, dealing with difficult colleagues, and acute care](trainee-free-text-three-themes.md) — related

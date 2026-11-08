@@ -24,6 +24,8 @@ sources:
     author: McDaniel Mark A., Cahill Michael J., Frey Regina F., Limeri Lisa B., Lemons Paula P.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # ACT scores relate positively to transfer-question performance but show a different, inconsistent pattern for retention questions
@@ -52,7 +54,7 @@ Covariate results from the first mixed-effects exam model. The article reports t
 
 McDaniel Mark A., Cahill Michael J., Frey Regina F., Limeri Lisa B., Lemons Paula P. (2022). Learning Introductory Biology: Students' Concept-Building Approaches Predict Transfer on Biology Exams. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.21-12-0335
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Covariate results from the second mixed-effects model adding RAPM. The article interprets the inconsistent interaction patterns as suggesting a general-intelligence relation to transfer may be restricted to crystallized intelligence.
 

@@ -78,3 +78,4 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Mobile-based learning produces greater post-test knowledge gains than conventional education in nursing students learning operating theatre procedures](mbl-greater-knowledge-gains-than-conventional-ot-procedures.md) — possibly the same claim (merge candidate)
 - [Most experimental-group students liked the blended design and found it fun, but minorities reported virtual simulation training and the PAL app were not helpful](positive-student-attitudes-smart-classroom-design.md) — related
 - [New nurses trained with role reversal and SPS report higher training satisfaction than routinely trained nurses](role-reversal-sps-higher-training-satisfaction.md) — related
+- PBL combined with situational simulation teaching yields higher nursing practice satisfaction scores than conventional teaching — related

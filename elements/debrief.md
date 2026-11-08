@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (17 for, 6 mixed, 1 against) · 29 studies (11 quant-synthesis, 6 causal, 5 review, 3 qualitative, 3 design, 1 associational), `q1`–`q4` · 8 of 29 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (19 for, 6 mixed, 1 against) · 30 studies (11 quant-synthesis, 7 causal, 5 review, 3 qualitative, 3 design, 1 associational), `q1`–`q4` · 8 of 30 report an effect size · 20 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -80,6 +80,8 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Students viewed the debrief and structured reflection following the group simulation assessment as beneficial to their professional development](../claims/debrief-reflection-benefited-professional-development.md) [+W] — attached 2026-11-05 from Colthup Rebecca A et al. (2025), which proposed "TALK debriefing tool for structuring post-simulation debriefing".
 - [ER-VIPE with co-debriefing significantly increased DSSQ-engagement relative to computer-based SIMBIE without debriefing at 1-month follow-up](../claims/ervipe-engagement-increase-versus-control.md) [+W] — attached 2026-11-06 from Lesselroth Blake et al. (2025), which proposed "ER-VIPE: multimodal interprofessional education combining medical movies, MOOCs, 3D computer- or VR-based SIMBIE, and oral co-debriefing"; tests this page's relationship.
 - [ER-VIPE with co-debriefing significantly lowered burnout relative to computer-based SIMBIE without debriefing, while the VR-based ER-VIPE arm showed no significant burnout differences](../claims/ervipe-burnout-reduction-versus-control.md) [~W] — attached 2026-11-06 from Lesselroth Blake et al. (2025), which proposed "ER-VIPE: multimodal interprofessional education combining medical movies, MOOCs, 3D computer- or VR-based SIMBIE, and oral co-debriefing"; tests this page's relationship.
+- [The PCP debriefing tool was rated as providing emotional support by more participants than DISCERN (65.2% vs 50%) in pediatric acute care settings](../claims/pcp-greater-emotional-support-than-discern.md) [+W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "PCP and DISCERN post-resuscitation debriefing tools".
+- [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](../claims/six-themes-clinical-debriefing-thematic-analysis.md) [+W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "PCP and DISCERN post-resuscitation debriefing tools".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

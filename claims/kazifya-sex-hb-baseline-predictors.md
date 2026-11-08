@@ -68,3 +68,5 @@ Adjusted mixed-effects regression from the KaziAfya trial: sex significantly pre
 - [School-based PA, MMNS, and combined PA+MMNS interventions showed no significant effects on Flanker task accuracy or reaction time compared to placebo in Tanzanian schoolchildren](kazifya-no-cognitive-intervention-effects-flanker.md) — related
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [No intervention group showed significant effects on mathematics performance](kazifya-no-mathematics-intervention-effect.md) — related
+- [A possible ceiling effect in baseline Flanker accuracy may explain the lack of intervention effects on cognition](ceiling-effect-flanker-baseline-accuracy.md) — related
+- [A 12-week school-based PA and MMNS intervention showed no significant group × time effects on Flanker-task reaction time or accuracy in South African primary schoolchildren](pa-mmns-intervention-no-cognitive-gains-south-africa.md) — related

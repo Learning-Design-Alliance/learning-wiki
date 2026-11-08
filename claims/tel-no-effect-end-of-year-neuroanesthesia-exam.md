@@ -49,3 +49,4 @@ At the conclusion of the first year, all residents undertook the program's final
 - [Repeated MCQ test-enhanced learning produced no significant difference in delayed clinical-science assessment scores among first-year anesthesiology residents](tel-mcq-no-effect-clinical-science-neuroanesthesia.md) — related
 - [Residents who took the intervention MCQ tests reported a perceived educational benefit from testing](residents-perceived-benefit-from-mcq-testing.md) — related
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
+- [Adding test-enhanced learning to a laparoscopic simulation program significantly increases learner attendance compared with a standard program](tel-increases-laparoscopic-simulation-attendance.md) — related

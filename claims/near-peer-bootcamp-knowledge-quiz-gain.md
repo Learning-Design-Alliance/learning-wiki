@@ -56,3 +56,4 @@ Single-arm prospective pilot study of 16 medical students; paired Wilcoxon signe
 - [A structured 15-hour critical thinking foundation course improved first-year postgraduate trainees' median CT knowledge score from 17 to 23 out of 27](ct-foundation-course-median-knowledge-score-gain.md) — related
 - [A one-hour BMAT simulation program significantly improves medical students' self-evaluation, self-confidence, interest, and knowledge (p≤0.001)](bmat-simulation-improves-student-self-report-and-knowledge.md) — related
 - [In the simulation group, quiz scores increased significantly after both the lecture and simulator practice](simulation-group-significant-gains-lecture-and-practice.md) — related
+- [Anaesthetists' scores on a ten-question multiple-choice test of neuromuscular monitoring knowledge rose from pre-course to post-course after completing the e-learning module, in one uncontrolled pre-post study](elearning-improved-nmba-knowledge-test-scores.md) — related

@@ -51,3 +51,4 @@ Mediation analysis (PROCESS Model 6, bootstrap 5000 resamples) in a cross-sectio
 - [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](pa-null-or-small-medium-effect-academic-achievement.md) — a broader claim this one bears on
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related
 - [Chronic physical activity shows a medium positive effect on academic achievement while acute physical activity shows a null effect](chronic-pa-medium-acute-pa-null-effect.md) — related
+- [Mental health mediates the positive effect of physical activity on academic achievement at low and medium activity levels but not at high levels](mental-health-mediation-physical-activity-achievement.md) — related

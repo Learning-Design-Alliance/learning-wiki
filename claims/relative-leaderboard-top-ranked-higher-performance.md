@@ -45,3 +45,4 @@ One-way ANOVA on post-test grades in the 26-student relative leaderboard quasi-e
 - [On an absolute leaderboard, learning performance does not differ significantly across top, middle, and bottom ranked students](absolute-leaderboard-equal-learning-performance.md) — reports the opposite
 - [On a relative leaderboard, intrinsic motivation is equal across top, middle, and bottom ranked students](relative-leaderboard-equal-intrinsic-motivation.md) — related
 - [On a relative leaderboard, course engagement does not differ significantly across position levels](relative-leaderboard-no-engagement-difference.md) — related
+- [Differences between performance ranks shrank in the trained cohort: the exam × cohort × rank interaction, with bottom-rank students improving substantially](study-smart-reduced-rank-differences.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Pedrollo Laysa Fernanda Silva; Silva Aline Conceição; Zanetti Ana Carolina Guidorizzi; Vedana Kelly Graziani Giacchero
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # After validation, the scenario was improved with small changes from the specialists' considerations, including target-audience definition and standardization of the term simulated patient
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pedrollo Laysa Fernanda Silva; Silva Aline Conceição; Zanetti Ana Carolina Guidorizzi; Vedana Kelly Graziani Giacchero (2022). Creation and validation of a high-fidelity simulation scenario for suicide postvention. Revista Latino-Americana de Enfermagem. https://doi.org/10.1590/1518-8345.6034.3699
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Revision stage of the validation process reported in the Results: the scenario "was improved from small changes implemented based on the specialists' considerations", with the quoted changes among those listed by the authors.
 

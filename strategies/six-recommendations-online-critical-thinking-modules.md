@@ -17,7 +17,7 @@ sources:
 # Six-part design recommendations for online modules that teach and assess critical thinking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on their study findings, the authors recommend that faculty using an online module to assess critical thinking: 1) develop an asynchronous web-based tool providing individualized learning with access available 24/7; 2) enable self-directed learning with a 'choose your adventure' scenario with branching pathways allowing autonomy; 3) let learners navigate at their own pace; 4) engage learners with a unique communication technique such as avatars; 5) immerse learners in clinical scenarios by letting them virtually visit the emergency room, laboratory and pharmacy; and 6) provide formative feedback in which learners select a diagnostic test, treatment option or disposition and receive immediate interactive online feedback.

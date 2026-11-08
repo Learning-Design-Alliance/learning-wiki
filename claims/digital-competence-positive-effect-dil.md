@@ -50,3 +50,4 @@ Structural model analysis (AMOS SEM) of 319 Shiraz University students testing H
 - [Digital informal learning has a positive effect on higher education students' academic performance in a cross-sectional SEM study](dil-positive-effect-academic-performance.md) — related
 - [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](digital-competence-correlates-work-engagement.md) — related
 - The hypothesised three-variable structural model fits the survey data well across printed fit indices — related
+- [Academic engagement is significantly positively related to academic achievement in the UAE e-learning model](academic-engagement-achievement-ustf.md) — related

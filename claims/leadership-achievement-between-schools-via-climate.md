@@ -54,3 +54,5 @@ Between-school SEM panels predicting school-adjusted EPAS gains (standardized co
 - [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](within-school-direct-negative-leadership-academic-demand.md) — related
 - [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related
 - [School engagement mediates the relationship between campus climate and academic achievement among historically marginalized adolescents](school-engagement-mediation-campus-climate-achievement.md) — related
+- [Effectiveness of principal leadership behaviors has a significant positive influence on student achievement](principal-leadership-effectiveness-influences-student-achievement.md) — related
+- [Effectiveness of principal leadership behaviors has a significant positive influence on teacher performance in five Tenggarong senior high schools](principal-leadership-effectiveness-influences-teacher-performance.md) — related

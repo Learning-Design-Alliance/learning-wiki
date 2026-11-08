@@ -52,3 +52,4 @@ Post-course practical assessment in this RCT (n = 30 per group) used blinded ass
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related
 - [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
+- [US residents trained with PBL combined with LBL scored significantly higher on the proctored practical ultrasound examination than residents trained with LBL alone](pbl-lbl-higher-practical-score-ultrasound-residents.md) — related

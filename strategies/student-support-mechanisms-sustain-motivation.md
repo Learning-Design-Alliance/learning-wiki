@@ -47,6 +47,7 @@ The article recommends that educators use longitudinal monitoring of motivation 
 - [Sustain engagement across the programme with system-level reforms, collaborative and experiential activities, and stimulating environments](sustain-engagement-system-level-strategies.md)
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 - [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
+- [Schedule the motivational intervention early in the academic year and consider longer practice sessions when recruiting students into first responder systems](early-motivational-intervention-longer-practice-strategy.md)
 
 ## Examples
 -

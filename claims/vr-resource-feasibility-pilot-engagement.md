@@ -73,3 +73,5 @@ The authors state the study was designed for preliminary insights into feasibili
 - [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — related
 - [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — related
 - [Five of seven pilot participants found MHW-based TBL more engaging than traditional TBL for learning complex pharmacology concepts](mhw-tbl-more-engaging-than-traditional.md) — related
+- [Volumetric video supports translational movement through the surgical scene, unlike fixed-point 360-degree video](cl-volumetric-video-vs-360-degree-video.md) — related
+- [Medical students perceive an interactive case-based eModule as more enjoyable, engaging, recommendable and useful than a Wikipedia-like webpage with matching content](emodule-more-engaging-enjoyable-useful-than-wiki.md) — a narrower finding that bears on this claim

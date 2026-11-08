@@ -50,3 +50,4 @@ Subgroup analysis of the randomised trial: SEN pupils (n=225) showed +0.33 (CI 0
 ## Related Claims
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
 - [The reading test's floor threshold at a pre-test score of 69 constrains measured gains for the lowest-scoring pupils](switch-on-pretest-threshold-69-underestimate.md) — related
+- [Little evidence that pupil sex or special educational needs status relates to teacher expectation accuracy](sex-sen-status-null-expectation-accuracy.md) — related

@@ -62,3 +62,5 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 - [Among 43 neonatal care providers, hands-on simulator training improved image quality scores and the number of acceptable or good views in a pre-post study reported by the review](simulation-training-improves-image-quality-neonatal-providers.md) — related
 - [Having an HBB trained provider at birth is not significantly associated with lower in-facility neonatal mortality](trained-provider-no-significant-mortality-reduction.md) — related
 - [HBB training revealed existing malpractices and improved newborn care practices, including continuous resuscitation until death is certain](hbb-training-revealed-malpractices-improved-care.md) — related
+- [Early neonatal death rates at 24 hours and 7 days were significantly lower in 2019 than in 2017 during implementation](early-neonatal-death-reduction-2019-vs-2017.md) — related
+- [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related

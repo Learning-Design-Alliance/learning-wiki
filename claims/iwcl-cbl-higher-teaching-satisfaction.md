@@ -56,3 +56,4 @@ Anonymous satisfaction questionnaire completed by all 79 students (100% response
 - [Online PBL was associated with higher student satisfaction than in-person PBL in a Japanese medical cohort](online-pbl-higher-satisfaction-japanese-cohort.md) — related
 - [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](sbs-higher-student-satisfaction-than-vbt.md) — related
 - [Applied physiology grades rose from the first-semester TTMs period to the fourth-semester combined CBL-and-TTMs period in the same cohort, in a pre-post comparison without a separate comparison group (minimum 2.0 to 7.5; median 8.5 to 10.0; Z = −11.668, P < 0.001)](cbl-ttm-hybrid-improved-physiology-grades.md) — related
+- [Overall magnitude of academic satisfaction is similar for PBL (50.9%) and LBL (49.9%) students](similar-overall-satisfaction-magnitude-pbl-lbl.md) — related

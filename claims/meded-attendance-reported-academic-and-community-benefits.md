@@ -58,3 +58,4 @@ Descriptive analysis of an anonymous Qualtrics survey of 66 students (19 pre-cli
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
 - [Attending offline CBL classes is associated with significantly higher self-confidence, particularly in collaboration, communication, and critical thinking](offline-cbl-attendance-higher-self-confidence.md) — related
 - [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related
+- [International medical students define academic success as mastery of medical knowledge, clinical skills and communication skills, not only grades](mbbs-success-beyond-grades.md) — related

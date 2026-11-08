@@ -56,3 +56,4 @@ Meta-analysis of three studies (n = 112) on executive functions (inhibition, cog
 - [Physical activity interventions in childhood improve fluid intelligence with a small summary effect, based on moderate-certainty evidence](pa-interventions-improve-fluid-intelligence-childhood.md) — related
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [Physically active classrooms produce a small improvement in academic performance compared with traditional sedentary classrooms](active-classrooms-small-academic-gain.md) — related
+- [Non-verbal fluid intelligence (Raven matrices) declined in the standing desk intervention group while the control group increased slightly](raven-matrices-declined-intervention-group.md) — related

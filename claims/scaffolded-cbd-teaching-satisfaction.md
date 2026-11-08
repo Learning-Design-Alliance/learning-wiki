@@ -51,3 +51,4 @@ Week 4 teaching satisfaction comparison in the RCT (n = 6 per group) using a 100
 - [Advantages of scaffolded case-based learning persist and widen at Week 8, including significant knowledge retention differences](scaffolded-cbd-week8-retention.md) — related
 - [Scaffolded case-based learning yields higher self-directed learning capacity than lecture-based teaching at Week 4, driven by resource utilization and reflective learning](scaffolded-cbd-self-directed-learning-week4.md) — related
 - [In the same RCT, PBL combined with virtual simulation received significantly higher student evaluations of teaching effectiveness (17.72 ± 1.24 vs. 12.72 ± 1.02, p < 0.01) and teaching satisfaction (86.96 ± 6.46 vs. 70.24 ± 8.71, p < 0.05)](pbl-virtual-simulation-higher-satisfaction-trauma-orthopedics.md) — related
+- Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related

@@ -16,12 +16,14 @@ sources:
     author: Ibrahim Alaa I., Sulaiman Nidhal, Ali Issam
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Active learning reduced the failure rate by 66% overall, with students on average 2.98 times more likely to fail under traditional teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ibrahim Alaa I., Sulaiman Nidhal, Ali Issam. (2022). Simultaneous multidimensional impacts of active learning revealed in a first implementation in the MENA region. Proceedings of the National Academy of Sciences of the United States of America 119(47), e2108666119. https://doi.org/10.1073/pnas.2108666119
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Analysis of official final course results from the university registration office across five courses. The all-courses row of Table 2 shows failure rate falling from 21.49% (T) to 7.21% (A), a 66.44% reduction, with ORTA = 2.98 and RRAT = 0.34 (P = 0.0053); no standardized effect size is printed.
 

@@ -48,3 +48,4 @@ Descriptive analysis of 266 students' self-reported technique frequency (Table 2
 ## Related Claims
 - [UK and Malaysian students differ in which learning techniques they report using](campus-differences-learning-techniques.md) — related
 - [Students rated dynamic visual, auditory, and still-image resources as contributing more to skill acquisition than kinesthetic simulator practice or self-written notes](multimodal-resource-contribution-rankings.md) — related
+- [Campus resources — library, laboratories, extra-curricular activities and scholarships — supported international medical students' learning and wellbeing](campus-resources-international-mbbs-support.md) — related

@@ -70,3 +70,4 @@ Post-hoc two-factor ANOVAs split by group in uncued conditions. AwD showed a str
 - [AwD showed significant set size effects in uncued conditions alongside difficulty effects, unlike controls](awd-uncued-setsize-difficulty-effects.md) — related
 - [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related
 - [AwD required significantly longer calibrated display durations than controls despite attempts to equate overall accuracy](awd-longer-display-durations.md) — related
+- [The performance gap tied to dyslexia depends on task framing: dyslexia status and academic versus non-academic task type interact](academic-framing-by-dyslexia-interaction.md) — related

@@ -100,3 +100,4 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [Treatment and comparison groups showed no prior differences in physics and chemistry achievement before the intervention](absi-groups-equivalent-prior-achievement.md) — related
 - [The three correction groups did not differ in general proficiency before treatment](correction-groups-homogeneous-proficiency-pet.md) — related
 - [Experimental and control groups showed no significant difference in English achievement before the intervention.](eclectic-approach-groups-equivalent-pretest.md) — related
+- [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related

@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 102 claims (67 for, 33 mixed, 2 against) · 73 studies (35 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 73 report an effect size · 100 claims rest on one study
+> **Evidence** · 104 claims (67 for, 35 mixed, 2 against) · 74 studies (36 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 74 report an effect size · 102 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Nursing undergraduates in the smart-classroom blended group scored significantly higher on theoretical assessment, experimental assessment, and subjective questions than the lecture-based control group](../claims/smart-classroom-blended-higher-theory-and-practical-scores.md) [+W] — attached 2026-11-07 from Meng Ya et al. (2023), which proposed "Implement smart-classroom blended teaching only where facilities, network, and teacher support meet its high requirements"; tests this page's relationship.
 - [Providing a syringe pump during e-Learning and instructing trainees to repeat the presented content does not improve procedural skills, knowledge, confidence, or assistance needs compared with e-Learning only](../claims/concurrent-hands-on-repeat-no-benefit.md) [~W] — attached 2026-11-07 from Grundgeiger et al. (2023), which proposed "Pair e-Learning with hands-on device practice only when trainees receive clear instructions on how to combine the two; providing the device and leaving usage to the learner is insufficient"; tests this page's relationship.
 - [A structured procedure alternating short e-Learning units with separate hands-on exercises improves syringe pump skills test performance compared with e-Learning only, but the benefit is significant only immediately after learning](../claims/structured-alternating-hands-on-improves-skills.md) [+W] — attached 2026-11-07 from Grundgeiger et al. (2023), which proposed "Pair e-Learning with hands-on device practice only when trainees receive clear instructions on how to combine the two; providing the device and leaving usage to the learner is insufficient"; tests this page's relationship.
+- [Providers exposed to blended learning show a non-significant trend toward fewer median total errors per participant across the three electrical procedures pooled than those exposed to face-to-face learning only](../claims/blended-learning-fewer-total-defibrillator-errors-trend.md) [~W] — attached 2026-11-07 from Siebert JN et al. (2022), which proposed "Adopt blended learning that integrates learner-centred online content with face-to-face instruction to teach manual defibrillator skills in hospitals"; tests this page's relationship.
+- [More blended learning participants performed error-free procedures than face-to-face participants, though not statistically significant, with cardioversion the most error-prone procedure](../claims/blended-learning-more-error-free-procedures.md) [~W] — attached 2026-11-07 from Siebert JN et al. (2022), which proposed "Adopt blended learning that integrates learner-centred online content with face-to-face instruction to teach manual defibrillator skills in hospitals"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

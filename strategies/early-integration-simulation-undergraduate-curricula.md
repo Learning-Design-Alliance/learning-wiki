@@ -74,6 +74,7 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 - [Integrate SSL into the nursing curriculum by blocking out dedicated time slots and attaching credits to its utilisation](integrate-ssl-curriculum-time-slots-credits.md)
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
+- [Integrate surgical simulator training into the undergraduate medical curriculum before residency](integrate-surgical-simulation-before-residency.md)
 
 ## Examples
 -

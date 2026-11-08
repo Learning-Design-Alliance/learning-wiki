@@ -52,3 +52,5 @@ Qualitative content analysis of individual interviews and focus group discussion
 - [HBB training revealed existing malpractices and improved newborn care practices, including continuous resuscitation until death is certain](hbb-training-revealed-malpractices-improved-care.md) — related
 - [Midwives face daily ethical dilemmas prioritising between the mother and the newborn under extreme workload](midwife-ethical-dilemmas-mother-newborn-prioritisation.md) — related
 - [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related
+- [Early neonatal death rates at 24 hours and 7 days were significantly lower in 2019 than in 2017 during implementation](early-neonatal-death-reduction-2019-vs-2017.md) — related
+- [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related

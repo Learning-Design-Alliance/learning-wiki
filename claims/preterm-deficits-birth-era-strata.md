@@ -75,3 +75,4 @@ Subgroup meta-analysis by birth era for mathematics. The most severe impairments
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
 - [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related
 - [Among individuals who remained in school, preterm birth is only negligibly associated with final high school average](preterm-high-school-average-negligible.md) — related
+- [High-risk treatment protocols and age at diagnosis show no significant association with reading scores in this cohort](high-risk-protocol-age-diagnosis-reading-null.md) — related

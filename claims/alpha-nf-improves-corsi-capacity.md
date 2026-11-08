@@ -55,3 +55,4 @@ Behavioral results of a randomized, single-blind, sham-controlled experiment wit
 - [Anodal HD-tDCS over left dlPFC during multi-session working memory training yields larger d-prime improvements than sham that persist three weeks](tdcs-wmt-enhances-d-prime-lasting-three-weeks.md) — related
 - [Game-based digital interventions significantly improve visuospatial working memory in children and adolescents with ADHD](game-based-interventions-improve-visuospatial-working-memory-adhd.md) — related
 - [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related
+- [Visuospatial working memory (Corsi total score) improved more in the control group than the intervention group over 16 weeks](corsi-total-score-interaction-favors-control.md) — related

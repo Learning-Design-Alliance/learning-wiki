@@ -54,6 +54,7 @@ A concrete implementation recipe drawn from the study's procedures: run a semest
 - [Administer a rotating virtual breakout-room SP assessment with 15-minute interviews and 5-minute feedback](virtual-breakout-room-sp-assessment-rotation.md)
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 - [Run new-nurse assessment as paired role reversal: nurses alternate between being assessed and playing standardized patients, then debrief](paired-role-reversal-sps-assessment-strategy.md)
+- [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
 
 ## Examples
 -

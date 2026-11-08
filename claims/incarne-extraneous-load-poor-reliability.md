@@ -47,6 +47,6 @@ Internal consistency analysis of the adapted Leppink Cognitive Load Questionnair
 
 ## Related Claims
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
-- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
+- [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [Preceding worked-example demonstrations lower extraneous cognitive load in technology-enhanced learning of sectional anatomy](worked-example-demonstrations-lower-extraneous-cognitive-load.md) — related
 - [Immersive VR chest tube training shows a theoretically favourable cognitive load profile: low extraneous load, high germane load](immersive-vr-cognitive-load-profile-favourable.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Cheesman Rosa, Eilertsen Espen M., Ayorech Ziada, Borgen Nicolai T., Andreassen Ole A., Larsson Henrik, Zachrisson Henrik, Torvik Fartein A., Ystrom Eivind
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Supplementary analyses give tentative evidence that the ADHD–achievement link depends on special educational support, varying between schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Cheesman Rosa, Eilertsen Espen M., Ayorech Ziada, Borgen Nicolai T., Andreassen Ole A., Larsson Henrik, Zachrisson Henrik, Torvik Fartein A., Ystrom Eivind. (2022). How interactions between ADHD and schools affect educational achievement: a family‐based genetically sensitive study. Journal of Child Psychology and Psychiatry, and Allied Disciplines. https://doi.org/10.1111/jcpp.13656
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Supplementary multilevel analysis using parent-reported eligibility for special education at child age 8 in the MoBa subsample. The article labels the evidence "tentative" and limits it to inattention symptoms.
 

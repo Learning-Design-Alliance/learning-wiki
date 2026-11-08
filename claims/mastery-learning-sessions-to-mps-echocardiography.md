@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 sources:
   - id: talan-jordan-2024
     resource: "https://doi.org/10.34197/ats-scholar.2024-0030OC"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Seven of 11 recruited fellows (64%) met the minimum passing standard, requiring an average of 4.5 ± 1.4 training sessions; fellows obtained an LVOT VTI measurement in over 90% of patients afterward. [→ Talan Jordan 2024](#talan-jordan-2024)
@@ -53,3 +54,4 @@ Training-outcome data from the mastery learning intervention, in which fellows p
 - [Most surveyed fellowship directors indicated performing procedures is safe and would improve patient care, patient ownership, and ability to obtain informed consent](fds-view-procedures-safe-and-valuable.md) — related
 - [Free-text concerns about the ABIM procedural requirement change cluster into themes including core competency skills, practical concerns, fellow readiness, culture shift, subspecialty-specific competency, and fellowship responsibility](fd-concern-themes-abim-change.md) — related
 - [CCUS examinations by trained fellows reveal unexpected findings in about a third of documented cases and raise fellows' subjective confidence in patient care](ccus-unexpected-findings-and-confidence.md) — related
+- [Two pre-clinical students with very limited clinical exposure did not reach mastery after more than four post-testing attempts within a two-hour session, in one single-group pre-post study.](sbml-requires-time-unlimited-deliberate-practice.md) — a narrower finding that bears on this claim

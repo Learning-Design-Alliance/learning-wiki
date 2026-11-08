@@ -53,3 +53,4 @@ Qualitative content analysis of knowledge-sharing excerpts found "Tacit knowledg
 - [Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions](a3c-joint-interaction-levels-in-scaled-mooc-tools.md) — related
 - [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](parasocial-greetings-and-co-learning-presence-in-danmaku.md) — related
 - [MOOC learners provide personal opinions and vote on peer posts, not only feedback on course content](mooc-learners-vote-on-peer-posts.md) — related
+- [The COVID-19 pandemic disrupted relational and tacit knowledge transfer in the cross-continental project, though explicit knowledge transfer continued via communication technologies](covid-disruption-tacit-knowledge-transfer.md) — related

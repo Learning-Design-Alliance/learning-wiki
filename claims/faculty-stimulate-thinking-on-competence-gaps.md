@@ -49,3 +49,4 @@ In the same vignette-guided focus-group study, the results section reports "Facu
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related
 - [Learners reported the peer-led session created a question-friendly, low-intimidation environment compared to faculty-led training](peer-led-low-intimidation-environment.md) — related
+- [Trainers stimulate collaborative learning and reflection by asking questions, promoting dialog, and encouraging thinking aloud](sbl-collaborative-learning-reflection-questioning.md) — related

@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (93 show a difference, 28 mixed, 32 no difference) · 97 studies (36 associational, 28 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 97 report an effect size · 151 claims rest on one study
+> **Evidence** · 156 claims (94 show a difference, 28 mixed, 34 no difference) · 99 studies (37 associational, 29 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 99 report an effect size · 154 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -190,6 +190,9 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [The MedDiet cluster outperformed the LFV-HSD cluster in total cognitive performance, cognitive flexibility, inhibitory control, and working memory, but not fluid reasoning](../claims/meddiet-cluster-beats-lfv-hsd-cognitive-domains.md) [+M] — measured as an outcome of the instruction studied
 - [Academic achievement correlates weakly to moderately with all executive functions in the total sample and in both sexes](../claims/efs-correlate-academic-achievement-both-sexes.md) [+W] — learners who differ on it differ in outcomes
 - [Working memory is the strongest predictor within the executive function latent construct, followed by inhibitory control](../claims/working-memory-strongest-ef-predictor.md) [+W] — learners who differ on it differ in outcomes
+- [Both intervention and control groups improved over time in academic achievement, memory span, and inhibitory function, with no between-group difference](../claims/time-effects-achievement-memory-inhibition-both-groups.md) [-M] — measured as an outcome of the instruction studied
+- [Inhibitory and attentional control deficit at age 5 is the strongest neuropsychological predictor of ADHD symptoms concurrently and one year later](../claims/inhibitory-attentional-control-strongest-adhd-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Neither inhibitory/attentional control nor delay aversion predicts early academic skills in preschoolers](../claims/inhibition-delay-aversion-no-academic-prediction.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

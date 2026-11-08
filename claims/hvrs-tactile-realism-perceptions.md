@@ -17,12 +17,14 @@ sources:
     author: Nebu P., Kamran A., Monty D., Daas H., Nazzal H.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Nebu P., Kamran A., Monty D., Daas H., Nazzal H. (2023). Effectiveness and Student Perceptions of Haptic Virtual Reality Simulation Training as an Instructional Tool in Pre-Clinical Paediatric Dentistry: A Pilot Pedagogical Study. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20054226
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Likert-scale perception survey of all 14 participants. While 71.5% agreed images looked realistic, only 43% agreed tactile force feedback felt realistic and 50% could not distinguish enamel and dentine texture/hardness on the SIMtoCARE Dente® simulator.
 
@@ -52,3 +54,5 @@ Likert-scale perception survey of all 14 participants. While 71.5% agreed images
 - [Tactile feedback is the simulator's primary area for improvement, with gingival detachment realism rated lowest (mean 3.17)](tactile-feedback-primary-limitation-lowest-rated.md) — related
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
+- [All four tested participants found the VR microscope appearance realistic and satisfied with VR graphics, requiring no appearance updates across design iterations](surgisim-microscope-appearance-realistic.md) — related
+- [None of the participants found VR microscope maneuvering realistic and all reported they would not use the platform in its current state for microscope training, prompting a weight-based lock solution](surgisim-microscope-maneuverability-lock-solution.md) — related

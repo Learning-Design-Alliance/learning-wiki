@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-08
 sources:
   - id: wood-thomas-charles-2022
     resource: "https://doi.org/10.1038/s41433-022-01962-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Wood Thomas Charles 2022: the intervention came bundled with another change (read from the study by two models, 2026-11-07)
 
 ## Subclaims

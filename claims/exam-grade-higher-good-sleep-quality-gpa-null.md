@@ -52,3 +52,4 @@ Independent-samples t-test comparing the 255 poor- and 60 good-sleep-quality stu
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — related
 - [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — reports the opposite
 - [Good sleep quality is associated with better academic achievement among Ethiopian university students](sleep-quality-associated-academic-achievement-ethiopia.md) — a broader claim this one bears on
+- [Sleep satisfaction, sleep quality and alcohol consumption frequency show no association or tendency with GPA in low-performing university students of either sex](sleep-quality-no-gpa-association-low-performers.md) — related

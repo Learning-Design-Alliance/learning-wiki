@@ -51,3 +51,5 @@ Qualitative Framework Method analysis of interviews with 21 participants and pos
 - [Quantity-based monitoring of TtT success (numbers trained and sessions delivered) can encourage undue focus on numbers rather than quality of cascaded MECC training](quantity-monitoring-overlooks-cascade-quality.md) — related
 - [The TtT model has unique value for MECC because trainers' knowledge of the organizations and individuals they train to increases the quality of MECC training delivered](ttt-local-knowledge-increases-training-quality.md) — related
 - [Trainees reported low readiness to become a consultant at the end of training](low-consultant-readiness-at-end-of-training.md) — related
+- [Receivers' confidence in cascading newly learned eLearning knowledge to colleagues increased only after completing the full development process, while institutional support and resources remained barriers](cascading-knowledge-confidence-and-institutional-barriers.md) — related
+- [Trainers structure sessions by setting clear goals, forming small groups with clear roles, and using a whiteboard to summarize procedure logic](sbl-session-structuring-practices.md) — related

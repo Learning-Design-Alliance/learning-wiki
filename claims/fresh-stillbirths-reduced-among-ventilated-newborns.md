@@ -47,3 +47,4 @@ Logistic regression comparing fatal outcomes across study periods among the 1320
 ## Related Claims
 - [Perinatal mortality showed no statistically significant change for all births, and the mortality reduction among ventilated newborns lost significance after adjustment](perinatal-mortality-no-significant-change-all-births.md) — related
 - [Receiving bag and mask ventilation is the only HBB process indicator significantly associated with in-facility neonatal mortality, with lower survival among ventilated neonates](ventilation-associated-with-lower-survival.md) — related
+- [Fresh stillbirth rates declined from about 9 to 5 per 1000 total births over two years of implementation, without a statistically significant year effect](fresh-stillbirth-rate-decline-implementation.md) — related

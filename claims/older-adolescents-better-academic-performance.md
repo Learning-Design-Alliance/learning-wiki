@@ -48,3 +48,4 @@ Cross-sectional study of 350 grade 8–11 students; adjusted logistic regression
 - [Good mindfulness is strongly associated with better academic performance among Thai secondary students](mindfulness-associated-academic-performance-thai-secondary.md) — related
 - [Being a health science student and being aged 20–24 are associated with good academic performance](health-science-students-age-20-24-better-performance.md) — related
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
+- [Students aged 25–29 years had higher odds of good academic performance than students aged 20–24 years](older-students-25-29-better-academic-performance-ethiopia.md) — related

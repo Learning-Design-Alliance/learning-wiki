@@ -16,12 +16,14 @@ sources:
     author: Yang AY, Patel NA, Khan M, Cherry-Bukowiec JR, Brown LR, Machado-Aranda DA, Mazza MB, Chong S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Total time from scan start to preliminary report issuance increased during the study period (26% increase for chest/abdomen/pelvis, p = 0.023; 19% for head/cervical spine, p = 0.06)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yang AY, Patel NA, Khan M, Cherry-Bukowiec JR, Brown LR, Machado-Aranda DA, Mazza MB, Chong S. (2022). In-person radiologist to review the trauma panscan: a high-fidelity simulation training program for radiology trainees at an academic level 1 trauma center. Emergency Radiology. https://doi.org/10.1007/s10140-022-02109-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 RIS timestamp analysis of the 62-study group versus control group reporting times. The article prints p values and percentage increases but no standardized effect size, so impact is coded i? (no magnitude reported; not a null effect). The head/cervical spine increase did not reach the p = 0.05 threshold.
 

@@ -55,3 +55,4 @@ Quasi-experimental factorial study of 248 preschoolers (128 GraspLearn, 120 CLea
 - [Students taught with computer-based multimedia presentation significantly outperformed students taught by the conventional method on the post-test](cbmp-outperformed-conventional-posttest.md) — related
 - [The active group improved faster during training, reaching a capacity plateau after six days, while the sham group rose more slowly](tdcs-accelerates-early-training-gains-plateau.md) — related
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
+- [Visuospatial working memory (Corsi total score) improved more in the control group than the intervention group over 16 weeks](corsi-total-score-interaction-favors-control.md) — related

@@ -50,3 +50,4 @@ Open-ended self-reflection questionnaires completed by 129 elementary school stu
 - [Teachers designed microgame-based learning with varied microgames and debriefing methods but shared similar scenarios, inserting microgame-based learning into the middle of the main session](teachers-designed-varied-microgames-similar-middle-scenarios.md) — related
 - [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](user-experience-challenges-srl-recommenders.md) — a broader claim this one bears on
 - [A minority of students (3.9%, n = 4) found the first-week simulation too challenging, and some found the pre-brief too short](minority-found-simulation-too-challenging-prebrief-short.md) — related
+- [Teachers' inadequate English was a salient negative factor, hindering international medical students' understanding of lectures](teacher-english-barrier-mbbs-china.md) — related

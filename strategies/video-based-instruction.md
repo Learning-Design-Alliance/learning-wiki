@@ -65,6 +65,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 - [Structured YouTube viewing sequence for vocabulary lessons: pre-questions, dual viewing with pausing, group discussion, and role-play follow-up](structured-youtube-viewing-sequence-vocabulary.md)
 - [Integrate animated video education into pre-procedural patient education](animated-video-preprocedural-education-strategy.md)
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
+- [Produce screencasts with clear audio, a planned roadmap with objectives and summary, low production polish, and text-light slides](screencast-production-audio-planning-low-polish.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts paired with practice exercises; the hint system delivers sub-demonstrations on demand.

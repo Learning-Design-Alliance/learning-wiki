@@ -49,3 +49,5 @@ Cross-sectional study at Hawassa University (n = 659) reviewed in the synthesis:
 - [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related
 - [Good sleep quality is associated with better academic achievement among Ethiopian university students](sleep-quality-associated-academic-achievement-ethiopia.md) — related
 - [Students aged 16–18 are more likely to achieve good academic performance than those aged 14–15](older-adolescents-better-academic-performance.md) — related
+- [Medical/health science students had about two and a half times higher odds of good academic performance than non-medical/non-health students](medical-health-students-higher-odds-good-academic-performance.md) — possibly the same claim (merge candidate)
+- [Students aged 25–29 years had higher odds of good academic performance than students aged 20–24 years](older-students-25-29-better-academic-performance-ethiopia.md) — possibly the same claim (merge candidate)

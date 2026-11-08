@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 325 claims (248 show a difference, 43 mixed, 34 no difference) · 259 studies (87 causal, 84 associational, 33 review, 24 qualitative, 13 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 53 of 259 report an effect size · 321 claims rest on one study
+> **Evidence** · 326 claims (249 show a difference, 43 mixed, 34 no difference) · 260 studies (87 causal, 84 associational, 33 review, 24 qualitative, 14 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 53 of 260 report an effect size · 322 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -356,6 +356,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](../claims/full-sample-pre-post-increases-haematology.md) [+M] — measured as an outcome of the instruction studied
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](../claims/mobile-vp-qualitative-confidence-case-solving.md) [+W] — measured as an outcome of the instruction studied
 - [After playing, motivation correlates with self-efficacy in preclinical students and with beliefs in the Clinical group](../claims/cdpc-domain-correlations-post-game.md) [+M] — learners who differ on it differ in outcomes
+- [Learners' self-assessed ability to contribute to TTCA-24 teamwork domains improved after the simulation event, as team member and as team leader](../claims/ttca24-self-assessment-improved.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

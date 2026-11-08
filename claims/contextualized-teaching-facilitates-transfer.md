@@ -165,3 +165,5 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — a narrower finding that bears on this claim
 - [Most students who performed the VR cricothyrotomy subjectively reported improved speed, improved procedure, and transfer of theoretical knowledge](vr-cricothyrotomy-subjective-ratings-positive.md) — related
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — related
+- [High-resolution clinical cases with feedback helped residents link theory to practice and recognize conditions in daily practice](elearning-cases-link-theory-practice.md) — possibly the same claim (merge candidate)
+- [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — a narrower finding that bears on this claim

@@ -56,3 +56,4 @@ Randomized controlled trial of 34 fourth- to sixth-year medical students randomi
 - [After brief cadaver-based training, nearly all novice medical students independently guided a needle into the femoral nerve block target zone under ultrasound, averaging 106 seconds and 1.9 attempts](cadaver-training-skills-test-performance.md) — related
 - [Formalin-embalmed cadaver tissue yields ultrasound images clear enough that all structures needed for a femoral nerve block are easily visualized during needle guidance](formalin-cadaver-clear-ultrasound-images.md) — related
 - [Residents affirmed the simulator's educational value for practicing procedural steps and as a teaching, assessment, and practice tool](simulator-educational-value-ratings.md) — related
+- [A single short education session enabled novices to measure optic nerve sheath diameter accurately regardless of whether training was online or hands-on](onsd-measurement-accurate-both-groups.md) — related

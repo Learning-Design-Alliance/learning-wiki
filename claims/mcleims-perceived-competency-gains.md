@@ -60,3 +60,4 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 - [Students perceive that frequent use of SBE would sharpen lecturers' and clinical instructors' own clinical skills and knowledge](sbe-improves-educator-skill-mastery.md) — related
 - [Students report uniformly positive attitudes toward the SSC, with all reporting improved communication and comprehension](ssc-positive-student-attitudes.md) — related
 - [Students perceived foundational robotic knowledge as important to their OR role and their performance ratings from residents and faculty](foundational-robotic-knowledge-or-expectations.md) — related
+- [International medical students define academic success as mastery of medical knowledge, clinical skills and communication skills, not only grades](mbbs-success-beyond-grades.md) — related

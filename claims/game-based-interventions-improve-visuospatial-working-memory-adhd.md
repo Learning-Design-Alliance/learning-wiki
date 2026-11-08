@@ -53,3 +53,4 @@ Meta-analysis of two RCTs (Dovis 2015; Medina 2021) found "CBTT Backward (MD = 1
 - [Alpha neurofeedback training improves visual working memory capacity measured by the Corsi-block tapping task, with an effect lasting seven days after training ends](alpha-nf-improves-corsi-capacity.md) — related
 - [Game-based digital interventions show no significant effect on behavioral outcomes (inhibition and monitoring) in children with ADHD](game-based-interventions-no-effect-behavioral-outcomes-adhd.md) — related
 - [Game-based digital interventions show no significant effect on affective outcomes (shifting and emotional control) in children with ADHD](game-based-interventions-no-effect-affective-outcomes-adhd.md) — related
+- [Visuospatial working memory (Corsi total score) improved more in the control group than the intervention group over 16 weeks](corsi-total-score-interaction-favors-control.md) — reports the opposite

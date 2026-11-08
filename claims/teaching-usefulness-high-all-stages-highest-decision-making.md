@@ -47,3 +47,4 @@ Self-reported usefulness on a five-point Likert scale (1: Very useless, 5: Very 
 ## Related Claims
 - [Outpatient teaching for Japanese residents is most frequently provided during the decision-making and patient assessment stages and least frequently during the medical interview stage](outpatient-teaching-frequency-decision-making-highest.md) — related
 - [Receiving teaching during the decision-making stage is associated with higher GM-ITE clinical scores among residents](decision-making-teaching-higher-gm-ite-scores.md) — related
+- [Decision-making hierarchies limit trainees' implementation of procedures their attending physicians are unfamiliar with](decision-hierarchies-procedure-implementation.md) — related

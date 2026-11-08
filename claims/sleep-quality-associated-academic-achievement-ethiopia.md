@@ -53,3 +53,4 @@ Cross-sectional study at Haramaya and Gondar University (n = 2173; mean age 21.6
 - [Poor sleep quality is highly prevalent (65.4%) among male university students in this Saudi cohort](poor-sleep-prevalence-male-saudi-students.md) — related
 - [Students with good sleep quality scored higher on the most recent exam than students with poor sleep quality, but cumulative GPA did not differ between the groups](exam-grade-higher-good-sleep-quality-gpa-null.md) — a narrower finding that bears on this claim
 - [Higher use of self-controlling coping is associated with higher GPA among Ethiopian undergraduates](self-controlling-coping-higher-gpa-ethiopian-undergraduates.md) — related
+- [Two-thirds of surveyed university students in Southern Ethiopia achieved good academic performance](two-thirds-good-academic-performance-southern-ethiopia.md) — related

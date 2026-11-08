@@ -49,6 +49,7 @@ The article describes concrete facilitator practices for establishing safety: po
 - [Establish psychological safety through shared ground rules, confidentiality, respect, and a mistakes-as-learning philosophy during simulation-based learning](psychological-safety-ground-rules-sbl.md)
 - [Integrate anxiety management and psychological-safety practices into simulation planning](anxiety-management-in-simulation-planning.md)
 - [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](briefing-practice-debriefing-sequence-sbl.md)
+- [Use a pre-brief that explicitly establishes psychological safety and equal voice before interprofessional peer feedback](pre-brief-psychological-safety-equal-voice.md)
 
 ## Examples
 -

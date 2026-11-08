@@ -16,12 +16,14 @@ sources:
     author: Svobodová Veronika, Maršálková Hana, Volevach Ekaterina, Mikulík Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In a sensitivity analysis excluding centres with baseline DNT below 50 min, 2018 DNT remained shorter in simulation-trained centres (25 vs 29 min, p<0.001)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Svobodová Veronika, Maršálková Hana, Volevach Ekaterina, Mikulík Robert. (2023). Simulation-based team training improves door-to-needle time for intravenous thrombolysis. BMJ Open Quality 12(1):e002107. https://doi.org/10.1136/bmjoq-2022-002107
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Sensitivity analysis addressing baseline imbalance, since centres with longer DNT preferentially enrolled in training; centres with 2015 DNT <50 min were excluded. The difference "becomes more apparent", with 25 min (IQR 18) in trained versus 29 min (IQR 24) in untrained centres (p<0.001).
 

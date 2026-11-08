@@ -70,3 +70,4 @@ Comparison across residency programs within the same standardized patient study:
 - [Undergraduate medical student education combining didactic sessions, role-play and experiential learning increased confidence in medication history and reconciliation](student-confidence-increased-medication-reconciliation.md) — related
 - [Performance checklist scores vary by case, with lowest scores on the abnormal bone density case and on counseling about bioidentical hormones](menopause-simulation-performance-checklist-patterns.md) — related
 - [In a simulation-based pilot, residents' SAAAR scores improved significantly from pretraining to posttraining across all four domains](saaar-prepost-improvements-all-domains.md) — related
+- [Encounter and learner roles are distributed across settings, with residents the most common learner role and one-third of encounters in medical practices](blueprint-encounter-learner-distributions.md) — related

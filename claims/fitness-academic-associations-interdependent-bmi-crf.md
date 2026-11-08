@@ -58,3 +58,4 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related
 - [Sex, body mass index, muscle strength, cardiorespiratory function, inhibition, working memory, and shifting are key factors collaboratively influencing primary school students' academic achievement, with shifting rated most important by most algorithms](ef-fitness-demographics-key-factors-academic-achievement.md) — related
 - [A 12-week classroom-based physical activity break program with nutritional education reduces BMI in adolescents, with the percentage of overweight children falling from 46% to 28% in the experimental group](active-breaks-reduce-bmi-adolescents.md) — related
+- [BMI and aerobic fitness were eliminated from the regression models and showed no effect on mathematics scores](bmi-aerobic-fitness-no-math-effect.md) — related

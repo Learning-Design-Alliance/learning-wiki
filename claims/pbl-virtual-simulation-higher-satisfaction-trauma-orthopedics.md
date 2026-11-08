@@ -88,3 +88,8 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related
 - [Most experimental-group students liked the blended design and found it fun, but minorities reported virtual simulation training and the PAL app were not helpful](positive-student-attitudes-smart-classroom-design.md) — related
 - [Students report high satisfaction with both interactive video and traditional demonstration approaches](high-satisfaction-both-video-and-demonstration.md) — related
+- [Domain-level satisfaction differs between PBL and LBL students, with the largest gaps in skill development and supervision and feedback](domain-level-satisfaction-pbl-lbl-gaps.md) — related
+- [Hands-on trainees reported significantly higher satisfaction with their training method than online trainees, despite equivalent performance](hands-on-higher-satisfaction-ocular-pocus.md) — related
+- [Resident satisfaction was significantly higher in the PBL+LBL group (96%) than in the LBL-only group (80%)](pbl-lbl-higher-resident-satisfaction-ultrasound.md) — related
+- Interns taught with an intelligent medical simulation system report significantly higher satisfaction with teaching than traditionally taught peers (94.0% vs 53.8%) — related
+- Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related

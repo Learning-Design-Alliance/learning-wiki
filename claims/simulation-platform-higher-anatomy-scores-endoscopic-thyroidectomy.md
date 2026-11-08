@@ -55,3 +55,4 @@ Randomized trial of 60 trainees (n = 30 per group) at one thyroid surgery depart
 - [In the same RCT, PBL combined with virtual simulation produced significantly higher practical operation scores than lecture-based teaching (86.28 ± 3.18 vs. 76.52 ± 3.39, p < 0.01)](pbl-virtual-simulation-higher-practical-operation-trauma-orthopedics.md) — related
 - [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related
 - [Educator-guided D-Box simulator training enabled novices to perform acceptable wedge resection, though the educator's score advantage was not significant](educator-guided-dbox-training-novice-wedge-resection.md) — related
+- The simulation-system group outperformed the traditional-teaching group on theoretical, skill, and comprehensive ability assessments — related

@@ -16,12 +16,14 @@ sources:
     author: Choi Seoheui, Shim Hoyeon, Lee Jang H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Among trainees with under 24 months of experience, lecture-then-simulation produced larger early gains while simulation-then-lecture produced larger gains after the lecture turn
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Choi Seoheui, Shim Hoyeon, Lee Jang H. (2023). Efficiency analysis by training sequence of high-fidelity simulation-based neonatal resuscitation program (NRP). PLoS ONE. https://doi.org/10.1371/journal.pone.0281515
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Subgroup analysis of 22 trainees with <24 months career (11 per group); the article reports Group A's interim scores and differentiations significantly higher, and "Group B showed a statistically significant difference in scores between tests (0.73±4.94 vs. 26.73±16.03 p<0.001)" after the second turn.
 

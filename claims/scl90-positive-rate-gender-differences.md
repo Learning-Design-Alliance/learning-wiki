@@ -55,3 +55,4 @@ Chi-square comparison of SCL-90 dimension positivity rates between male and fema
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — a broader claim this one bears on
 - [Female Ukrainian medical students reported significantly higher anxiety, stress, and PTSD symptoms than male students during the war](gender-disparity-war-mental-health-medical-students.md) — related
 - [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — related
+- [Female medical postgraduates experienced significantly more anxiety symptoms than males during the COVID-19 pandemic](covid19-female-postgraduates-more-anxiety-than-males.md) — related

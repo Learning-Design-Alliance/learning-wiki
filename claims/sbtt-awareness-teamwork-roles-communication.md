@@ -71,3 +71,4 @@ Focus group findings on communication. One anaesthesiologist described receiving
 - [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — related
 - [Participants report that knowledge and behaviour gains from SBTT decline without frequent training, describing learning as fresh produce](sbtt-frequency-needed-for-sustained-transfer.md) — related
 - [Clear role definition by leaders enhanced team coordination and prevented task duplication and oversight in Balkan healthcare teams](role-clarity-enhances-team-coordination.md) — related
+- [Learners' self-assessed ability to contribute to TTCA-24 teamwork domains improved after the simulation event, as team member and as team leader](ttca24-self-assessment-improved.md) — related

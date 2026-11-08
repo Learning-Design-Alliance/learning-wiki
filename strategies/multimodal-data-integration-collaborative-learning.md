@@ -49,6 +49,7 @@ The review recommends methodological approaches that integrate different data ty
 - [Use simultaneous high-arousal episodes to locate emotionally relevant moments in collaborative learning](track-high-arousal-critical-moments.md)
 - [Methodological agenda for CCLT-inspired CSCL research: new cognitive load measures, multilevel analysis, temporality, and broader methodologies](cclt-methodological-agenda.md)
 - [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
+- [Adopt multi-level, multimodal and observational research designs to study integrated regulation of learning](multimodal-ethnographic-regulation-research-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Chi-squared comparison across professional groups in the Results section; post h
 - [Most participants believed oxygen therapy training is necessary, with no significant difference between nurses and physicians](ot-training-perceived-necessary-majority.md) — related
 - [Healthcare professionals at a Somali tertiary hospital show predominantly poor knowledge of oxygen therapy technical parameters for non-intubated patients](poor-ot-knowledge-somalia-tertiary-hospital.md) — related
 - [All participants scored at the poor level on flow values for 100% FiO2 via face masks and nasal cannulas and key patient monitoring parameters](floor-effect-flow-fio2-monitoring-parameters.md)
+- [Nurses' excellent oxygen-therapy knowledge rose from 5.7% pre-intervention to 34.4% post-intervention after a standardized-protocol training program, in one uncontrolled pre-post study](oxygen-protocol-training-improves-nurse-knowledge.md) — related

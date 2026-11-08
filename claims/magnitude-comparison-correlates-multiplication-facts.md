@@ -55,3 +55,4 @@ Correlational analysis (N = 63 fourth graders) with FDR correction found that ch
 - [Fourth graders show the typical problem-size effect in multiplication, with slower and less accurate responses to large than small problems](multiplication-problem-size-effect-fourth-graders.md) — related
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](magnitude-processing-associated-mental-multidigit-subtraction.md) — related
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
+- [Symbolic number ability correlated with arithmetic ability in grade 4 children, replicating the well-known association and validating both measures](symbolic-number-arithmetic-correlation-replicated.md) — related

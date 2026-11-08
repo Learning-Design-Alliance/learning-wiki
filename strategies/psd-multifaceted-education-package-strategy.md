@@ -48,6 +48,7 @@ To overcome identified barriers, the team developed an education package includi
 
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
+- [Deliver standardized oxygen-therapy training as four 45-minute small-group sessions combining lecture, discussion, and multimedia](four-session-multimedia-oxygen-protocol-training.md)
 
 ## Examples
 -

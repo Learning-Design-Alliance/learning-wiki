@@ -16,6 +16,8 @@ sources:
     author: Walters T, Abeyta A, Bean AJ, Wilson MA
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
   - id: walters-t-2022-2
     resource: "https://doi.org/10.1371/journal.pone.0279258"
     title: "Walters T, Abeyta A, Bean AJ, Wilson MA. (2022). The impact of holistic review on correlations between doctoral student outcomes, and GPA and GRE scores in the biomedical sciences. PLOS ONE 17(12): e0279258. https://doi.org/10.1371/journal.pone.0279258"
@@ -29,7 +31,7 @@ sources:
 # GRE scores correlate with time to degree in opposite directions for international and URM students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -42,7 +44,7 @@ sources:
 
 Walters T, Abeyta A, Bean AJ, Wilson MA. (2022). The impact of holistic review on correlations between doctoral student outcomes, and GPA and GRE scores in the biomedical sciences. PLOS ONE 17(12): e0279258. https://doi.org/10.1371/journal.pone.0279258
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Scatterplot and Pearson correlation of GRE scores with time to degree in the retrospective GSBS cohort; the international-student quantitative correlation (Table 4, p = 0.0349, r = -0.2081) was one of two significant findings.
 

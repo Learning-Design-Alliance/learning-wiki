@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 201 claims (135 show a difference, 41 mixed, 25 no difference) · 148 studies (52 causal, 37 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 31 of 148 report an effect size · 195 claims rest on one study
+> **Evidence** · 206 claims (136 show a difference, 43 mixed, 27 no difference) · 152 studies (53 causal, 40 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 31 of 152 report an effect size · 200 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -239,6 +239,11 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Attention is equally predictive of targeted and broad reading measures](../claims/attention-equally-predictive-targeted-and-broad-reading.md) [-M] — learners who differ on it differ in outcomes
 - [Sustained attention is more predictive of targeted than broad math scores](../claims/attention-more-predictive-targeted-than-broad-math.md) [+M] — learners who differ on it differ in outcomes
 - [Sustained attention positively predicts targeted math fluency and reading comprehension assessed in group-based school settings](../claims/sustained-attention-predicts-targeted-math-reading-school-settings.md) [+M] — learners who differ on it differ in outcomes
+- [ADHD-IN moderates the longitudinal SCT–anxiety association: positive association only in children with low ADHD-IN](../claims/sct-anxiety-moderated-by-adhd-in-longitudinal.md) [~M] — an instructional effect differs with it
+- [Inhibitory and attentional control deficit at age 5 is the strongest neuropsychological predictor of ADHD symptoms concurrently and one year later](../claims/inhibitory-attentional-control-strongest-adhd-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Neither inhibitory/attentional control nor delay aversion predicts early academic skills in preschoolers](../claims/inhibition-delay-aversion-no-academic-prediction.md) [-M] — learners who differ on it differ in outcomes
+- [Selective attention (d2 test accuracy) showed no significant changes in either group over the 16-week intervention](../claims/d2-attention-no-significant-change.md) [-M] — measured as an outcome of the instruction studied
+- [Sustained attention predicted mathematics scores in boys but not in girls, a sex difference the study reports as contradicting its assumption](../claims/sustained-attention-math-boys-only.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

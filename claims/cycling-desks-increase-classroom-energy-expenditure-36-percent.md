@@ -50,3 +50,4 @@ Results table entry for Torbeyns et al. (2017), an RCT in which the intervention
 - [Studying on a stationary bike (PAL) has no significant effect on university students' final course grades compared to a standard desk](pal-no-effect-final-course-grades-university.md) — related
 - [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — related
 - [Musculoskeletal effects of active desks are mixed, with reduced neck discomfort in some studies and increased neck and shoulder discomfort in others](active-desks-mixed-musculoskeletal-effects.md) — related
+- [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — related

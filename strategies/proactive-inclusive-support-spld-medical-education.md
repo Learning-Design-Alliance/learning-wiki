@@ -53,6 +53,7 @@ The review's implications for the field recommend that medical schools "implemen
 - [Actively seek co-occurring neurodevelopmental diagnoses and provide early diagnosis with targeted, inclusive academic supports](seek-co-occurring-nd-diagnoses-early-targeted-support.md)
 - [Provide university accommodations and comprehension support for students with poor reading comprehension](university-reading-accommodations-strategy.md)
 - [Base additional school adjustments and special support on educational assessments rather than psychiatric diagnosis, with support preceding diagnosis](educational-assessment-before-diagnosis-support.md)
+- [Provide targeted support and resources (mentorship programmes, greater flexibility, grants and bursaries) to candidate groups at increased risk of failing MRCS](targeted-support-at-risk-mrcs-groups.md)
 
 ## Examples
 -

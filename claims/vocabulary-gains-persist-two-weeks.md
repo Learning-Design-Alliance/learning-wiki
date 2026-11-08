@@ -71,3 +71,4 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [The intentional group lost more of its immediate vocabulary gain over four weeks than the incidental group](intentional-group-greater-loss-delayed-retention.md) — related
 - [Intentional learning produced lasting retention of collocations at delayed posttest with moderate effect size 0.7](intentional-learning-retention-collocations.md) — related
 - [Recognition scores exceed production scores and immediate posttest scores exceed delayed posttest scores](recognition-exceeds-production-and-immediate-exceeds-delayed.md) — reports the opposite
+- [Knowledge scores decline significantly between an immediate quiz and an eight-week quiz after both eModule and Wikipedia-like learning activities](significant-knowledge-decline-after-both-cal-activities.md) — related

@@ -24,6 +24,8 @@ sources:
     author: Yeung Jerf W. K.; Xia Lily L. L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Grade-7 educational expectations interact with family SES in a promotive, not buffering, way in predicting grade-9 educational performance and adult educational achievement
@@ -52,7 +54,7 @@ Interaction analysis within the first structural equation model of LSAY cohort-2
 
 Yeung Jerf W. K.; Xia Lily L. L. (2023). Family and Individual Contexts of Middle-School Years and Educational Achievement of Youths in Middle-Aged Adulthood. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20043279
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Interaction analysis within the second structural equation model of LSAY cohort-2 data. The article reports significant positive expectations-by-SES interactions on grade-9 educational performance and adult educational achievement, described as promotive but not buffering.
 

@@ -50,3 +50,5 @@ Second-round content assessment of the revised scenario with the same seven revi
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [A high-fidelity PACU pain-control simulation scenario reached adequate content validity after two expert review stages (S-CVI/UA 85; S-CVI/Ave 0.98)](pacu-pain-scenario-content-validated.md) — related
 - [The clinical simulation scenario reached 100% expert agreement on all items after a second Delphi round in which four modified items improved their Content Validity Index](simulation-scenario-cvi-improvement-second-round.md) — related
+- [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
+- [Two initially low-rated items (item 83 Evolution and item 10 Level of the manual) were modified per expert suggestions and reassessed to a CVI of 1.0](forpec-revised-items-cvi-1-0.md) — related

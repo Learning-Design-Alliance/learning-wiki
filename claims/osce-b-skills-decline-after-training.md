@@ -54,3 +54,4 @@ Paired t-tests of providers' standardised HBB OSCE B simulation scores at 4 and 
 - [Among first-year MBBS students, mean DOPS skill scores were comparable at one month but worse at six months and one year than immediately after BLS training, in a single-group pre-post study](bls-skill-retention-one-month-decay-six-months-one-year.md) — related
 - [The proportion of resuscitations provided by midwives increased throughout the study, while recent NeoNatalie Live training among providers declined sharply after the campaign](midwife-led-resuscitation-increased-recent-training-declined.md) — related
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — reports the opposite
+- [HBB simulation training significantly increases health care workers' newborn resuscitation skills on both OSCE A and OSCE B](hbb-training-increases-hcw-osce-skills.md) — related

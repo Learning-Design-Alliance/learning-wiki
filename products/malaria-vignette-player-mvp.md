@@ -13,7 +13,7 @@ generated:
 # Malaria Vignette Player (MVP)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An asynchronous online case-based branching simulation developed for global health education that lets medical trainees make malaria diagnostic, treatment, and disposition decisions and receive tailored feedback through virtual patient avatars.

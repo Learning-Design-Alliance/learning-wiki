@@ -51,3 +51,4 @@ Group comparison via independent t-test among 66 medical interns (36 male, 30 fe
 - [Performance differences remained significant after controlling for age and GPA, and no gender effects were observed](gjump-effects-robust-to-gpa-age-gender.md) — reports the opposite
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [Male residents reported significantly higher interest in oral and maxillofacial surgery and higher self-assessed clinical abilities than female residents, with no gender difference in self-assessed theoretical knowledge](male-residents-higher-interest-and-clinical-self-assessment.md) — related
+- [Female residents showed a better post-course performance, a secondary outcome reported cautiously due to reduced subgroup power](female-residents-better-post-course-performance.md) — reports the opposite

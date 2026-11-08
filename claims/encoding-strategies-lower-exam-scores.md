@@ -51,3 +51,4 @@ Final OLS regression (Table 4) of total midterm scores on Week 10 strategy-time 
 - [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Studying with friends is not associated with exam performance after controlling for demographics and prior achievement](study-friends-no-exam-score-association.md) — related
+- [Exploratory correlations linked strategy knowledge and use to first-midterm performance](strategy-knowledge-use-correlate-exam1.md) — related

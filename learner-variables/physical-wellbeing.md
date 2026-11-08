@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 179 claims (116 show a difference, 40 mixed, 23 no difference) · 98 studies (36 causal, 24 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 98 report an effect size · 175 claims rest on one study
+> **Evidence** · 185 claims (118 show a difference, 42 mixed, 25 no difference) · 100 studies (36 causal, 26 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 100 report an effect size · 181 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -216,6 +216,12 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [In a pilot RCT, oral health behaviour motivation, oral care self-efficacy, and oral health-related QoL showed no clear between-group differences at three months](../claims/no-clear-group-differences-motivation-selfefficacy-qol.md) [-M] — measured as an outcome of the instruction studied
 - [Physical activity and sleep duration interact in relation to adolescent academic achievement, such that the sleep–grades association is not uniform across activity levels](../claims/physical-activity-sleep-interaction-grades.md) [~M] — learners who differ on it differ in outcomes
 - [Physical activity shows a curvilinear association with adolescent academic achievement, with grades plateauing at five or more days per week of activity](../claims/physical-activity-curvilinear-adolescent-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescents exercising 0–3.5 h/week showed the highest academic scores, mental health and cognitive ability, while those above 3.5 h/week showed the highest physical fitness](../claims/descriptive-group-differences-activity-duration-groups.md) [~M] — learners who differ on it differ in outcomes
+- [BMI and aerobic fitness were eliminated from the regression models and showed no effect on mathematics scores](../claims/bmi-aerobic-fitness-no-math-effect.md) [-M] — learners who differ on it differ in outcomes
+- [Bootstrap analysis found no mediating effects of attention measures or aerobic fitness between physical activity and mathematics achievement](../claims/no-mediation-pa-attention-math.md) [-M] — learners who differ on it differ in outcomes
+- [Chinese adolescents' weekly physical activity duration has an inverted U-shaped relationship with academic achievement, with an inflection point of approximately 3.549 h/week](../claims/inverted-u-physical-activity-academic-achievement-inflection-3-549.md) [~M] — learners who differ on it differ in outcomes
+- [MVPA and average daily steps positively predict mathematics scores in both male and female middle school students](../claims/mvpa-steps-predict-math-scores-middle-school.md) [+M] — learners who differ on it differ in outcomes
+- [Physical health mediates the positive effect of physical activity on academic achievement across low, medium and high activity levels, with a larger effect in the medium group](../claims/physical-health-mediation-physical-activity-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

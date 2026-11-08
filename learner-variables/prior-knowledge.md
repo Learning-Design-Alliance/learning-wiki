@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 274 claims (158 show a difference, 76 mixed, 40 no difference) · 219 studies (81 causal, 37 associational, 36 review, 24 theoretical, 20 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 36 of 219 report an effect size · 257 claims rest on one study
+> **Evidence** · 275 claims (159 show a difference, 76 mixed, 40 no difference) · 220 studies (82 causal, 37 associational, 36 review, 24 theoretical, 20 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 36 of 220 report an effect size · 258 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -322,6 +322,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [The difficult EMT learning strategy is more effective for residents earlier in training, with a significant cohort-by-PGY interaction on adaptive expertise](../claims/pgy-moderates-emt-adaptive-expertise.md) [~M] — an instructional effect differs with it
 - [Domain-specific and conceptual declarative knowledge is the individual characteristic most consistently related to adaptive expertise](../claims/domain-knowledge-main-individual-characteristic-adaptive-expertise.md) [+M] — learners who differ on it differ in outcomes
 - [Participant-level factors affecting MOOC completion include learners' motivation and engagement, background knowledge and skills, and time-management skills](../claims/mooc-participant-level-effectiveness-factors.md) [+M] — learners who differ on it differ in outcomes
+- [Novices' task performance in VR approached expert level after five temporal bone sessions, suggesting a shorter learning curve](../claims/vr-shorter-learning-curve-novices.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

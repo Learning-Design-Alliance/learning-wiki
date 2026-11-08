@@ -50,3 +50,4 @@ Post-operation Likert questionnaire in the randomized trial: "the participants r
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Physiotherapy students reported far higher satisfaction with IVR‐based learning than with textbook study](ivr-higher-satisfaction-neuroanatomy.md) — a narrower finding that bears on this claim
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
+- [SDTM raised trainee engagement and enjoyment ratings with large effect sizes](sdtm-higher-engagement-and-enjoyment-ratings.md) — related

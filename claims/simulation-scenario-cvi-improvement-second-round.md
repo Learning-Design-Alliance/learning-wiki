@@ -52,3 +52,5 @@ Delphi-style expert validation of the scenario: round-1 CVI values below 100% (c
 - [A handmade low-tech thoracentesis simulator costing US$18 per unit was judged suitable by all three expert judges in the first evaluation round](thoracentesis-simulator-validated-low-cost-us18.md) — related
 - [Competencies revised in the workshop achieved very high agreement in the second Delphi round](workshop-revised-competencies-high-second-round-agreement.md) — related
 - [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related
+- [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
+- [Two initially low-rated items (item 83 Evolution and item 10 Level of the manual) were modified per expert suggestions and reassessed to a CVI of 1.0](forpec-revised-items-cvi-1-0.md) — related

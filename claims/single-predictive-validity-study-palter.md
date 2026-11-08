@@ -59,3 +59,5 @@ The review reports this as the only included study of predictive validity (Palte
 - [Younger surgeons report significantly more VR simulation training than senior counterparts, while cadaveric training remains the most commonly received](younger-surgeons-more-vr-simulation-exposure.md) — related
 - [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a narrower finding that bears on this claim
 - [Low-cost physical simulators embedded in a urological emergency curriculum produced statistically significant performance improvements](urologic-emergency-physical-simulation-curriculum-gains.md) — related
+- [Training and evaluation results on a Japanese otoscopy teaching model are comparable with results attained using real patients](otoscopy-model-comparable-real-patients.md) — related
+- [Trainees strongly supported a standardised laparoscopic curriculum and identified motivators including assessments, defined expectations, competitions and live-operating incentives](trainee-support-standardised-curriculum.md) — related

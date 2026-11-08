@@ -49,7 +49,8 @@ The article concludes that "These findings support the inclusion of near-peer te
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](../claims/simulation-training-should-be-incorporated-into-curricula.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate surgical simulator training into the undergraduate medical curriculum before residency](integrate-surgical-simulation-before-residency.md)
 
 ## Examples
 -

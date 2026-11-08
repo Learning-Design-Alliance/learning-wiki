@@ -70,3 +70,7 @@ Same adjusted mixed-model analysis of the KaziAfya trial: reaction time on congr
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [Null Flanker effects under ecologically realistic exercise constrain claims of broad, generalized enhancement of executive control](null-flanker-effects-constrain-generalized-enhancement.md) — related
 - [The PA-only intervention was associated with significantly lower end-of-year academic scores compared to placebo](kazifya-pa-only-lower-end-of-year-scores.md) — related
+- [A possible ceiling effect in baseline Flanker accuracy may explain the lack of intervention effects on cognition](ceiling-effect-flanker-baseline-accuracy.md) — related
+- [Cognitive performance improved significantly within all four intervention groups over the 12-week intervention](cognitive-improvement-all-groups-flanker.md) — related
+- [The combined PA + MMNS intervention did not significantly improve academic achievement compared with placebo](combined-intervention-no-academic-advantage-placebo.md) — related
+- [A 12-week school-based PA and MMNS intervention showed no significant group × time effects on Flanker-task reaction time or accuracy in South African primary schoolchildren](pa-mmns-intervention-no-cognitive-gains-south-africa.md) — related

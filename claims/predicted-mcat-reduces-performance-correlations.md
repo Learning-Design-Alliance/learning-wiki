@@ -52,3 +52,5 @@ For 2021-2022 (n=167) and 2022-2023 (n=148) cohorts admitted without MCAT, predi
 - [An ML ensemble model predicts MCAT scores with limited accuracy, explaining 36% of variance](ml-mcat-prediction-limited-accuracy.md) — related
 - [Using ML-predicted MCAT scores would have changed 6.3% to 9.4% of admission decisions despite strong rank agreement](predicted-mcat-changes-admission-decisions.md) — related
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
+- [A failure to find a negative correlation between standardized test scores and subsequent success is evidence that the test has predictive validity](absent-negative-correlation-evidence-of-test-validity.md) — related
+- [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related

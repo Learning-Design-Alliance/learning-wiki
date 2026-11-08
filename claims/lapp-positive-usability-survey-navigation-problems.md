@@ -17,12 +17,14 @@ sources:
     author: Ulloa G, Neyem A, Escalona G, Ortiz C, Varas J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Lapp received mostly positive usability ratings from the remote-feedback group, with some reported navigation problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Ulloa G, Neyem A, Escalona G, Ortiz C, Varas J. (2022). Remote asynchronous feedback for unsupervised laparoscopic training: the "Lapp" platform. ABCD Arq Bras Cir Dig. https://doi.org/10.1590/0102-672020220002e1712
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 User experience survey administered online through Lapp at the end of training; 32 (80%) participants from group B completed it. The article reports "most participants had a positive opinion about the platform" with "some participants reported problems regarding navigation"; Table 3 medians are mostly 4 on Likert items.
 

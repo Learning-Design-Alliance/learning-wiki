@@ -56,3 +56,4 @@ Meta-analysis of 5 studies involving 610 students reporting satisfaction with im
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on
 - [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
+- [Domain-level satisfaction differs between PBL and LBL students, with the largest gaps in skill development and supervision and feedback](domain-level-satisfaction-pbl-lbl-gaps.md) — related

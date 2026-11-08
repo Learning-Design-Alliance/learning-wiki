@@ -65,3 +65,6 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [Age, suspension history, and later academic year correlate negatively with dental students' GPA](age-suspension-year-negative-correlation-dental-gpa.md) — related
 - [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
 - [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related
+- [First-year and sixth-year GPA were very highly correlated (r=0.745)](first-year-and-sixth-year-gpa-highly-correlated.md) — related
+- [Psychological stress response is negatively correlated with confidence levels, with no association between stress response and performance score](psychological-stress-negatively-correlated-with-confidence-no-performance-association.md) — reports the opposite
+- [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Servos Ulrike, Reiß Birger, Stosch Christoph, Karay Yassin, Matthes Jan
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students who did not experience blended PbL express concerns about lack of personal contact more often than blended PbL participants themselves
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Servos Ulrike, Reiß Birger, Stosch Christoph, Karay Yassin, Matthes Jan. (2022). A simple approach of applying blended learning to problem-based learning is feasible, accepted and does not affect evaluation and exam results—a just pre-pandemic randomised controlled mixed-method study. Naunyn-Schmiedeberg's Archives of Pharmacology. https://doi.org/10.1007/s00210-022-02306-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Semi-quantitative comparison of interview categories across 7 bPbL and 7 cPbL groups; statements about lack of personal contact were counted from the transcripts and "came twice as often from cPbL students". No statistical test was applied.
 

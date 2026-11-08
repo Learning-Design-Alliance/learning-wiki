@@ -50,6 +50,7 @@ The review's future-directions section recommends that progress depends on "the 
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
 - [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
+- [Adopt multi-level, multimodal and observational research designs to study integrated regulation of learning](multimodal-ethnographic-regulation-research-strategy.md)
 
 ## Examples
 -

@@ -93,3 +93,4 @@ Synthesized student-challenges finding; one student described sweating and feeli
 - [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — related
 - [VR showed no statistical difference from physically operating a real CT scanner for technical knowledge and decision-making](vr-equivalent-real-ct-scanner-outcomes.md) — related
 - [Working post-graduate nursing students' reactions to forced e-learning shifted from a predominantly emotional reaction to a more rational, analytic and realistic one over six months](emotional-to-rational-reaction-shift-forced-elearning.md) — related
+- [Non-clinicians at high risk of opioid overdose experienced the overdose simulation as realistic due to physical fidelity, emotional activation, and memory reactivation](overdose-simulation-realism-lived-experience.md) — related

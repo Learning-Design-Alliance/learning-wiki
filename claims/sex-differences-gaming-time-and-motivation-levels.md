@@ -51,3 +51,4 @@ Descriptive statistics and Welch's t-tests (Table 1) from the QLSCD sample acros
 - [Boys spent more time in MVPA and less time in ST during school hours, whereas girls had higher GPAs](gender-descriptive-differences-pa-st-gpa.md) — related
 - [Variance-covariance structures of gaming and motivation differ by sex, supporting sex-stratified modeling](sex-noninvariance-gaming-motivation-covariance.md) — related
 - [The gaming-motivation association is a within-person effect; between-person associations were non-significant](within-person-not-between-person-gaming-motivation.md) — related
+- [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](covariates-sex-poverty-maltreatment-school-outcomes.md) — related

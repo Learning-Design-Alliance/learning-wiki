@@ -50,3 +50,4 @@ Bootstrap mediation analysis (PROCESS Model 6) in the 458-adolescent survey; Tab
 - [Self-concept did not significantly mediate the PA–AA link in this Chinese adolescent sample (indirect β = 0.026, 7.43%)](sc-independent-mediation-not-supported.md) — related
 - [Physical activity directly and positively predicts adolescents' academic achievement (β = 0.241, 68.86% of total effect)](pa-direct-positive-predicts-aa-chinese-adolescents.md) — related
 - [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related
+- [Mental health mediates the positive effect of physical activity on academic achievement at low and medium activity levels but not at high levels](mental-health-mediation-physical-activity-achievement.md) — related

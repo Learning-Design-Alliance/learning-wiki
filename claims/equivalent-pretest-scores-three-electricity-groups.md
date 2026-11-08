@@ -94,3 +94,4 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [Experimental and control groups of pre-school children did not differ in pattern recognition skills at pre-test](preschool-pattern-groups-equivalent-at-pretest.md) — related
 - [Pre-test scores showed no significant difference between experimental and control groups, confirming group comparability](pbl-pre-test-groups-comparable.md) — related
 - [Medical record writing scores do not differ between TSP, spRP, and non-spRP groups](no-difference-medical-record-writing.md) — related
+- [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related

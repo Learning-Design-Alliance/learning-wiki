@@ -54,3 +54,4 @@ Structural equation modelling of KAP survey data under the KAP theoretical frame
 - [Experiential learning partially mediates the relationship between creative thinking and organizational maturity](experiential-learning-partially-mediates-creative-thinking-maturity.md) — related
 - [Knowledge, attitude and practice scores for enteral nutrition are positively correlated](positive-kap-correlations-enteral-nutrition.md) — related
 - [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — possibly the same claim (merge candidate)
+- [The hypothesized path model from interpersonal motivation through engagement to performance fits the data well](path-model-fit-interpersonal-motivation-engagement-performance.md) — related

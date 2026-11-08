@@ -90,3 +90,4 @@ Analysis of individual standard deviations of reaction times showed "higher vari
 - [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related
 - [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](high-performance-linked-education-language-iq.md) — related
 - [tDCS over the bilateral IFG does not alter executive control as measured by the Stroop task](tdcs-no-stroop-executive-control-effect.md) — related
+- [The BIAT experimental effect was induced: reaction times and error rates were higher in the doping-like (incongruent) block than the doping-dislike block](biat-doping-like-block-slower-more-errors.md) — a narrower finding that bears on this claim

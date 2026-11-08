@@ -49,3 +49,4 @@ Systematic review following PRISMA guidelines searched MEDLINE, Embase, PubMed, 
 - [Construct validity evidence: experienced neurosurgeons performed significantly better than trainees on aneurysm clipping simulation models](construct-validity-experts-outperform-trainees.md) — related
 - [Existing aneurysm clipping training methods are heterogeneous and do not realistically simulate the complete microsurgical workflow](simulation-methods-incomplete-microsurgical-workflow.md) — related
 - [Residents training on placenta models performed better than residents training on cadavers or only having surgical videos available](placenta-model-residents-performed-better.md) — related
+- [Current virtual reality simulators target skill acquisition and lack authenticity for workflow and teamwork learning](cl-vr-simulators-skill-acquisition-lack-workflow-authenticity.md) — related

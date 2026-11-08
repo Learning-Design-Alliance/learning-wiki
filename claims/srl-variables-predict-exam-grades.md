@@ -48,3 +48,4 @@ Multiple linear regression on 266 observations after listwise deletion, with pro
 ## Related Claims
 - [Active and utilitarian app users obtained higher exam grades than non-users, while disengaged users did not differ from non-users](app-users-higher-grades-than-non-users.md) — related
 - [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) — related
+- [Self-efficacy correlated with grades in the semi-traditional group before and after the experiment, though canonical correlations were not significant](self-efficacy-grades-control-group.md) — related

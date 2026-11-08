@@ -49,6 +49,7 @@ The authors recommend incorporating competency screening with baseline psychomot
 
 - [Implement a four-week structured box-trainer curriculum covering camera navigation, hand-eye coordination, bimanual coordination, and intracorporeal suturing, with weekly timed assessment.](four-week-box-trainer-curriculum-four-modules.md)
 - [Integrate cognitive profiling and task-specific modality selection into surgical simulation training](cognitive-profiling-modality-selection-strategy.md)
+- [Incorporate dedicated bimanual control tasks in simulated surgical curricula to reduce laterality in trainees](dedicated-bimanual-tasks-simulation-curricula.md)
 
 ## Examples
 -

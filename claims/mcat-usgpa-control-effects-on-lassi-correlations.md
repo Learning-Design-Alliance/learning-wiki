@@ -51,3 +51,4 @@ Partial correlation analyses controlling for pre-matriculation variables showed 
 - [MCAT scores moderately correlate with NBME Pharmacology Subject Exam scores (r = 0.45)](mcat-moderate-correlation-nbme-pharmacology.md) — related
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
 - [MCAT scores correlate positively with examination performance but not with strength of motivation](mcat-predicts-exams-not-motivation.md) — a narrower finding that bears on this claim
+- [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related

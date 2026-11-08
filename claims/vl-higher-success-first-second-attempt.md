@@ -50,3 +50,4 @@ Mannequin-based study of 130 medical students with no prior intubation training,
 - [Intubation success rates increase and intubation times decrease across successive attempts for both DL and VL methods](success-rises-times-fall-across-attempts.md) — related
 - [Video laryngoscopy produces shorter intubation times than direct laryngoscopy on the second and third attempts, but not on the first](vl-shorter-times-second-third-attempt.md) — related
 - [Video-laryngoscopy assisted coaching improves first-attempt neonatal intubation success among trainees, though one curriculum study found worse outcomes for early learners taught with VL](vl-assisted-coaching-improves-neonatal-intubation-success.md) — related
+- [Video laryngoscope use is associated with higher first attempt success than direct laryngoscope among EM trainees](video-laryngoscope-higher-fas-than-direct.md) — related

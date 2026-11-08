@@ -50,3 +50,4 @@ Cost analysis conducted with the Accelerate cost analysis tool, assuming 17 week
 - [Year 11 pupils receiving Tutor Trust English tuition achieved lower English GCSE scores than comparison pupils (effect size −0.16), but this difference cannot be attributed to the tuition](tutor-trust-english-gcse-lower-not-attributable.md) — related
 - [The cost of Butterfly Phonics as delivered in the trial was estimated at £108.50 per pupil, assuming eight pupils per class](butterfly-phonics-cost-per-pupil.md) — related
 - [The cost-effectiveness ratio of ASSISTments is approximately $462.30 per student per standard deviation of long-term math achievement gain](assistments-cer-462-per-sd.md) — related
+- [The 3-hour difficult airway management simulation program cost an estimated 17,892€ overall, approximately 406€ per resident](dam-simulation-program-cost-406-euros-per-resident.md) — related

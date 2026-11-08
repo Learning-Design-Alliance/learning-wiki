@@ -63,3 +63,4 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](depression-anxiety-negative-academic-performance-medical-students.md) — related
 - [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
 - [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related
+- [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — related

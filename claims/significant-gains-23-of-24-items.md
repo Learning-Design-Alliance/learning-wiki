@@ -16,12 +16,14 @@ sources:
     author: Schwartz Jacqueline, Schallenburger Manuela, Tenge Theresa, Batzler Yann-Nicolas, Schlieper Daniel, Kindgen-Milles Detlef, Meier Stefan, Niegisch Günter, Karger André, Roderburg Christoph, Neukirchen Martin
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Learning gains are statistically significant for 23 of 24 questionnaire items, with item 24 (dealing with own mortality) showing no significant gain
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Schwartz Jacqueline, Schallenburger Manuela, Tenge Theresa, Batzler Yann-Nicolas, Schlieper Daniel, Kindgen-Milles Detlef, Meier Stefan, Niegisch Günter, Karger André, Roderburg Christoph, Neukirchen Martin. (2022). Palliative Care e-Learning for Physicians Caring for Critically Ill and Dying Patients during the COVID-19 Pandemic: An Outcome Evaluation with Self-Assessed Knowledge and Attitude. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph191912377
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Confidence-interval analysis of individual learning gain values per item (Table 4 reports item-level 95% CI and SE, with item 24's CI of −0.04–0.20 marked not significant). The description quotes "significant for 23 items" and the null result for item 24.
 

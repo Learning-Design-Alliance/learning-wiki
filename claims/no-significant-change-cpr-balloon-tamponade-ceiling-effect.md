@@ -50,3 +50,5 @@ Null finding from the same paired t test analysis of pre-post self-efficacy surv
 - [No significant change was found in the importance of creating a safe learning environment, likely due to a ceiling effect](lq-no-change-importance-safe-environment-ceiling.md) — related
 - [Modeling and Simulation Practices showed no measurable growth, attributed to a ceiling effect from students' high prior knowledge](msp-no-growth-ceiling-effect.md) — related
 - [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](seven-csas-subscales-no-change-ceiling.md) — related
+- [No statistically significant difference between trained and untrained providers in comfort with or teaching of uterine balloon tamponade](sbt-no-ubt-comfort-difference.md) — related
+- [Resource limitations and lack of practice hinder uptake of uterine balloon tamponade despite simulation training](ubt-uptake-resource-barriers.md) — related

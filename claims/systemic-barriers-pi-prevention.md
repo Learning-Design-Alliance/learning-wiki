@@ -61,3 +61,4 @@ Narrative synthesis identified these five barriers as "commonly reported" across
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
 - [Professional pressures — time constraints, workload and vast scope of knowledge — hindered registrars' revisitation of basic science knowledge](professional-pressure-hinders-knowledge-revisitation.md) — related
 - [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — related
+- [Resource limitations and lack of practice hinder uptake of uterine balloon tamponade despite simulation training](ubt-uptake-resource-barriers.md) — a narrower finding that bears on this claim

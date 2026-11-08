@@ -73,3 +73,4 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [The validation panel comprised 12 health professionals with at least six years of experience, rating the scenario on six Pasquali criteria](delphi-panel-twelve-experts-pasquali-criteria.md) — related
 - [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
 - [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related
+- [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related

@@ -52,3 +52,4 @@ Satisfaction questionnaire completed immediately post-simulation in the randomiz
 - [Simulation training improves clinicians' clinical reasoning for infant feeding, with significant change maintained at 4-week follow-up regardless of modality](simulation-clinical-reasoning-gains-infant-feeding.md) — related
 - [Telesimulation is a viable alternative to in-person simulation for improving clinician access to pediatric feeding training](telesimulation-viable-access-alternative-pediatric-feeding.md) — related
 - [Telesimulation produces clinical reasoning improvements comparable to in-person simulation, with a numerically greater but non-significant change in the telesimulation group](telesimulation-comparable-clinical-reasoning-in-person.md) — related
+- [Participant satisfaction with first aid training is similar with and without a simulated patient](simulated-patient-no-satisfaction-difference.md) — related

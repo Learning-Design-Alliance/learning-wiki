@@ -17,7 +17,7 @@ sources:
 # Incorporate simulation-based multidisciplinary team training with feedback and reflection in trauma and emergency care masterclasses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (1 causal, 1 associational, 1 design), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 causal, 1 design), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that "simulation-based multidisciplinary team training should be more widely incorporated in trauma and emergency care masterclasses because it improves team-based skills when followed by feedback and reflection". The DSATC course implements this through case-based workshops in anatomy and operative porcine laboratories that closely simulate real working conditions while minimizing the consequences of learners' actions. High process variability, complexity and difficulty are recommended so learners apply knowledge flexibly to varying situations.

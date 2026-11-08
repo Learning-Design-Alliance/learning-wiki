@@ -54,6 +54,7 @@ Before implementation, facilitators underwent a two-week training program coveri
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Train and standardize instructors in the RCDP methodology before delivering learner sessions](instructor-qualification-standardization-for-rcdp.md)
 - [Provide continuous tutor training in PBL case facilitation, assessment, and evaluation](continuous-pbl-tutor-training-strategy.md)
+- [Specialized facilitator training for implementing RCDP-based simulation](rcdp-facilitator-training-strategy.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Descriptive Likert questionnaire results from the same end-of-program survey of 
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — a broader claim this one bears on
 - [VR training shifts residents' self-rated ease of understanding and performance ratings upward, though the trend was not statistically significant](vr-improves-self-assessed-performance.md) — related
 - [Resident self-confidence in providing wet reads at the scanner rose from 73% neutral or disagreeing before training to 91% agreeing or strongly agreeing after training](simulation-boosted-resident-wet-read-confidence.md) — related
+- [Students subjectively evaluated the CLOSE checklist and the e-learning very positively](close-elearning-positive-subjective-evaluation.md) — related

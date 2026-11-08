@@ -52,3 +52,4 @@ Qualitative needs assessment (Step 3 of the Knowledge-to-Action cycle): semi-str
 - [The most frequently reported HF nurse activities are patient education to promote self-care (56%) and symptom monitoring (55%)](hf-nurse-core-activities-education-symptom-monitoring.md) — related
 - [HF nurses report educational needs centred on optimizing guideline-directed medical therapy and advanced clinical assessment skills](hf-nurse-educational-needs-gdmt-assessment.md) — related
 - [NSAID-use knowledge among heart failure nurses increased from 10% to 70% after palliative care education](nsaid-knowledge-increase-10-to-70.md) — related
+- [Shared decision-making with patients and families is a teaching priority in geriatrics, ICU, and palliative care, shaped by Chinese collectivism and cultural attitudes towards death](shared-decision-making-chinese-collectivism.md) — related

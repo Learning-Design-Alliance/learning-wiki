@@ -54,3 +54,4 @@ Multiyear randomized study of 123 first- and second-year medical students random
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related
 - [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
 - [Quiz scores did not significantly change from before to after video review in the traditional teaching group](video-review-no-significant-further-gain.md) — related
+- [No significant effect of learning activity type on quiz performance remains after adjusting for device used and previous neuroscience experience](ancova-no-effect-learning-activity-on-quiz-scores.md) — related

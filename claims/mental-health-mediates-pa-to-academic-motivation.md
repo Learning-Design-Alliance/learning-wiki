@@ -55,3 +55,4 @@ Structural equation modeling with bootstrapping (5,000 resamples) on the three-w
 - [A four-month daily running intervention significantly improved students' mental health, intrinsic motivation and extrinsic motivation over time](running-intervention-improved-mental-health-and-motivation.md) — related
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related
 - [Physical and mental health significantly mediates the relationship between physical activity and academic achievement (indirect β = 0.052, 14.86%)](pmh-mediation-pa-aa.md) — related
+- [Mental health mediates the positive effect of physical activity on academic achievement at low and medium activity levels but not at high levels](mental-health-mediation-physical-activity-achievement.md) — related

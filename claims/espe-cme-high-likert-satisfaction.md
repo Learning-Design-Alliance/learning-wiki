@@ -57,3 +57,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Medical faculty members positively perceive e-learning resources, with usefulness for learning rated highest](korean-medical-faculty-positive-e-learning-perceptions.md) — related
 - [Students received the PBL course and facilitators favorably, with median Likert scores of 4–5 across survey questions](pbl-course-positive-student-reception.md) — related
+- [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related

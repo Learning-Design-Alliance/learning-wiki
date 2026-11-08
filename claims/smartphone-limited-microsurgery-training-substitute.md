@@ -50,3 +50,4 @@ Participant feedback from the 31-respondent survey on the iPhone 14 Pro: "Four p
 - [Depth of field was significantly poorer in all digital microscopes and the smartphone than in the binocular table microscope](shallow-depth-of-field-all-digital-microscopes.md) — related
 - [The Plugable USB Digital Microscope was rated the best of the digital microscopes and most like the binocular table microscope](pldm-best-digital-microscope-for-microsurgery-training.md) — related
 - [Ease of use of the PLDM and smartphone was statistically comparable to the binocular table microscope](pldm-smartphone-ease-of-use-comparable-to-binocular.md) — related
+- [None of the participants found VR microscope maneuvering realistic and all reported they would not use the platform in its current state for microscope training, prompting a weight-based lock solution](surgisim-microscope-maneuverability-lock-solution.md) — related

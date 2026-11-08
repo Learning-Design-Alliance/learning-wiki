@@ -50,3 +50,4 @@ Descriptive comparison of 66 coded VPs against German healthcare system data. Th
 - [VP collection underrepresents disability, migration background, and unemployment relative to the German population](vp-collection-demographic-representativeness-gaps.md)
 - [Virtual patient scenarios focused on psychiatric and chronic diseases, with major depressive disorder and cancer most common; acute, infectious, and rare conditions were absent](vp-scenario-disease-diversity-gaps.md)
 - [VP collection may convey a hidden curriculum through unrepresentative demographics](vp-collection-hidden-curriculum.md) — related
+- [The populated blueprint covers 29 key symptoms and 176 final diagnoses, with 22 diagnoses covered by more than one VP](blueprint-29-symptoms-176-diagnoses.md) — related

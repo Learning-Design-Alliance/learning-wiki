@@ -49,3 +49,4 @@ Adjusted mixed-effects regression from the KaziAfya cluster-randomized trial (n 
 - [MMNS alone and combined PA+MMNS significantly improved Kiswahili performance, while PA alone showed no significant association](kazifya-mmns-improved-kiswahili-scores.md) — related
 - [School-based PA, MMNS, and combined PA+MMNS interventions showed no significant effects on Flanker task accuracy or reaction time compared to placebo in Tanzanian schoolchildren](kazifya-no-cognitive-intervention-effects-flanker.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — reports the opposite
+- [The combined PA + MMNS group achieved significantly higher academic achievement than the MMNS-alone group](combined-group-beats-mmns-alone-academic.md) — related

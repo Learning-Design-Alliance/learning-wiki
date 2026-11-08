@@ -50,3 +50,4 @@ Independent samples t test on gender for three scores in the cross-sectional sur
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
 - [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related
 - [Male and female experimental groups were equivalent on all writing aspects before the WhatsApp treatment](gender-groups-equivalent-pretest-writing.md) — related
+- [Gender differences in OSPE competence are parameter-specific: significant for infection control and operator position, not for tray organization](gender-parameter-specific-ospe-competence.md) — related

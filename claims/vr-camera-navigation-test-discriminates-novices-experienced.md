@@ -54,3 +54,4 @@ Single-center validation trial comparing 12 novice medical students with 12 expe
 - [Gamified test scores correlate significantly with technical aptitude test scores (r=0.46), remaining significant after controlling for video game experience (semipartial r=0.38)](gba-technical-aptitude-correlation.md) — related
 - [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — a narrower finding that bears on this claim
 - [VR-based MCQ test scores discriminate significantly between medical students of three different emergency medicine experience levels](vr-mcq-scores-discriminate-experience-levels.md) — related
+- [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related

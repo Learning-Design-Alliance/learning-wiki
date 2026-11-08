@@ -68,3 +68,4 @@ In the same comparison of attending and resident videos, the zoom level change m
 - [AI-generated metrics correlate negatively with overall OSACSS scores, including phacoemulsification decentration (r = −0.369) and eye decentration (r = −0.394)](ai-metrics-correlate-overall-osacss.md) — related
 - [Expert OSACSS ratings significantly differentiate attending from trainee cataract surgical videos (averages 91.3 vs 87.6)](osacss-ratings-differentiate-attending-trainee.md) — related
 - [Tool- and landmark-specific AI metrics correlate significantly negatively with matched OSACSS subitems, with correlations ranging from −0.77 to −0.49](tool-specific-ai-metrics-correlate-osacss-subitems.md) — related
+- [Hands-on time per trainee decreased sharply with increasing group size and correlated negatively with group size](hands-on-time-decreases-group-size.md) — related

@@ -51,6 +51,7 @@ The Meeting-House Debate strategy is a structured classroom debate format in whi
 - [Debate](debate.md)
 - [Structured Academic Controversy](structured-academic-controversy.md)
 - [Debate for the Opposite Team](debate_for_the_opposite_team.md)
+- [Use debates on controversial clinical issues as active-learning tools for higher-order thinking](debate-ethical-issues-active-learning.md)
 
 ## Examples
 -

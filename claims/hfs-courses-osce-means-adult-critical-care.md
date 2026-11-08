@@ -24,6 +24,8 @@ sources:
     author: "Guerrero, J. G., Rosales, N. S., & Castro, G. M. T."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # HFS‐exposed courses recorded overall OSCE means of 90.63 in adult health and 95.30 in critical care nursing
@@ -52,7 +54,7 @@ Per‐course descriptive results (Table 2) for the 53 adult health nursing stude
 
 Guerrero, J. G., Rosales, N. S., & Castro, G. M. T. (2023). Impact of high‐fidelity simulation exposure of nursing students with their objective structured clinical examination: A quasi‐experimental study. Nursing Open, 10, 765–772. https://doi.org/10.1002/nop2.1343
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Per‐course descriptive results (Table 2) for the 38 critical care nursing students with HFS exposure: midterm 89.96 (9.29), final 97.97 (1.77), and an 'overall mean percentage of the OSCE midterm and final results of 95.30 (4.00)'.
 

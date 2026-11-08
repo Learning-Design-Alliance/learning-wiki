@@ -16,12 +16,14 @@ sources:
     author: Adelantado-Renau Mireia, Monzonís-Carda Irene, Moliner-Urdiales Diego, Beltran-Valls Maria Reyes
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # HRQoL at baseline does not predict academic performance 24 months later in adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Adelantado-Renau Mireia, Monzonís-Carda Irene, Moliner-Urdiales Diego, Beltran-Valls Maria Reyes. (2022). The bidirectional longitudinal association between health-related quality of life and academic performance in adolescents: DADOS study. Quality of Life Research. https://doi.org/10.1007/s11136-022-03291-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-lagged panel analysis of 257 adolescents over 24 months. The article reports "HRQoL at baseline was not associated with any of the academic performance indicators 24 months later"; equivalence was not tested.
 

@@ -13,7 +13,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (47 show a difference, 10 mixed, 4 no difference) · 35 studies (14 associational, 13 review, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 4 of 35 report an effect size · 61 claims rest on one study
+> **Evidence** · 62 claims (48 show a difference, 10 mixed, 4 no difference) · 36 studies (15 associational, 13 review, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 4 of 36 report an effect size · 62 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -97,6 +97,7 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 - [Parental emotional rejection in early adolescence significantly and negatively predicts successful college graduation of immigrant youths in young adulthood](../claims/parental-emotional-rejection-lowers-college-graduation.md) [+M] — learners who differ on it differ in outcomes
 - [Parental hostility in early adolescence significantly and negatively predicts successful college graduation of immigrant youths in young adulthood](../claims/parental-hostility-lowers-immigrant-youth-college-graduation.md) [+M] — learners who differ on it differ in outcomes
 - [Parental hostility, emotional rejection, and harsh family interactions in early adolescence predict lower academic aspirations in late adolescence](../claims/harsh-parenting-lowers-late-adolescent-academic-aspirations.md) [-M] — learners who differ on it differ in outcomes
+- [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](../claims/covariates-sex-poverty-maltreatment-school-outcomes.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

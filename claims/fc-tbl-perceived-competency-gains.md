@@ -57,3 +57,4 @@ Questionnaire survey of all 109 students (100% response rate, Cronbach's alpha 0
 - [Students in the combined PBL-CBL group reported higher satisfaction and self-perceived learning abilities across seven questionnaire measures than the traditional group](pbl-cbl-higher-student-satisfaction-questionnaire.md) — related
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on
+- [Students mostly preferred TBL over IL, particularly valuing team application, and perceived TBL as better for clinical reasoning skills](students-prefer-tbl-team-application-clinical-reasoning.md) — related

@@ -51,3 +51,4 @@ Preregistered secondary-outcome analysis rerunning the three primary weighted OL
 - [Intervention effects on student math progress persisted without fadeout through the 8-week post-intervention period](nudge-effects-persist-8-weeks.md) — related
 - [Forecasts of intervention efficacy by scientists, platform staff, and teachers were overly optimistic by a factor of 30 or more, though rank orders correlated across forecasters](nudge-efficacy-forecasts-overly-optimistic.md) — related
 - [Students' engagement in the MindTap learning platform increased significantly across logins, time spent, and engagement score after the persuasive intervention was introduced.](mindtap-engagement-increased-during-intervention.md) — related
+- [A flipped-classroom email program achieved high patient engagement, with 77.1% of emails opened and education material accessed 4.6 times on average](flipped-classroom-patient-education-high-engagement.md) — related

@@ -56,3 +56,4 @@ Finding from the PAs' activities theme in the interview study: teachers describe
 - [Students perceived group scaffolding as helpful for initiating solution pathways on non-routine problems](students-perceive-group-scaffolding-initiation-help.md) — related
 - [Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles](tutor-skill-development-peer-tutoring-nursing.md) — related
 - [Near-peers tend to answer student questions directly, while faculty better stimulate students to think critically about unanswered questions and how to fill competence gaps](faculty-stimulate-thinking-on-competence-gaps.md) — related
+- [Trainers stimulate collaborative learning and reflection by asking questions, promoting dialog, and encouraging thinking aloud](sbl-collaborative-learning-reflection-questioning.md) — related

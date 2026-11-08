@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: lauren-e-margulieux-brendan-d-calandra-bryan-cox-2026
     resource: "https://doi.org/10.1007/s11423-026-10640-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At least 556 teachers engaged with the micro-courses and at least 458 completed all three (82% retention), which the authors call much higher than expected for free, self-paced online courses; 78% and 74% ranked online and asynchronous instruction as appealing or very appealing. [→ Lauren E. Margulieux · Brendan D. Calandra · Bryan Cox 2026](#lauren-e-margulieux-brendan-d-calandra-bryan-cox-2026)

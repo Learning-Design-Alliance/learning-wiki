@@ -45,6 +45,7 @@ Based on their finding that a quarter of students reported academic decline and 
 ## Related Strategies
 
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
+- [Pursue active curricular innovation and transformation to maintain and improve medical postgraduates' mental health and academic performance](active-curricular-innovation-transformation-medical-postgraduates.md)
 
 ## Examples
 -

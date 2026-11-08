@@ -63,3 +63,5 @@ Content assessment by seven nurse reviewers via an online Likert-scale form, ana
 - [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related
 - [Expert judges rated all items of the two infusion-therapy simulation scenarios with Modified Kappa values above 0.74 (N=11)](infusion-scenarios-mkc-above-074-judges.md) — related
 - [Expert judges rated every item of the postvention simulation scenario at CVI 0.90 or higher, exceeding the 0.80 acceptance criterion](postvention-scenario-cvi-all-items-090-or-higher.md) — related
+- [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
+- [Two initially low-rated items (item 83 Evolution and item 10 Level of the manual) were modified per expert suggestions and reassessed to a CVI of 1.0](forpec-revised-items-cvi-1-0.md) — related

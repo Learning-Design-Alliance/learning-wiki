@@ -53,6 +53,7 @@ The article describes a workshop combining "didactic lectures, small group skill
 - [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
 - [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
 - [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
+- [Offer bronchoscopy simulation training in flexible formats—single-day, self-driven, in pairs, and with modeling examples](flexible-bronchoscopy-simulation-training-formats.md)
 
 ## Examples
 -

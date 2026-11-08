@@ -53,3 +53,4 @@ The article's opening conceptual assertion, stated without empirical data or sup
 - [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — possibly the same claim (merge candidate)
 - [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md) — related
+- [E-learning enabled residents to learn autonomously in their own time and place, supported by push-notes and links](elearning-agency-autonomous-time-place.md) — related

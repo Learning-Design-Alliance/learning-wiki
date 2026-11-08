@@ -61,3 +61,5 @@ Qualitative synthesis of seven included studies in a systematic review. The revi
 - [TNO stereopsis scores show a transient reduction after EyeSi VR simulation](eyesi-vr-transient-stereopsis-reduction.md) — related
 - [HelpMeSee users report longer, more supervised training and higher perceived impact than EyeSi users](hms-users-longer-supervised-training-higher-impact.md) — related
 - [A VR simulation-based TTE test distinguishes novice from experienced physicians on all parameters, and novice from intermediate on most parameters](vr-tte-test-distinguishes-experience-levels.md) — related
+- [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — related
+- [A non-significant trend links self-rated microsurgical ability to Eyesi Navigation Level 1 total score](trend-self-rating-objective-score-correlation.md) — related

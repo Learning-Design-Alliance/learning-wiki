@@ -16,12 +16,14 @@ sources:
     author: Zimmerman Erin, Martins Nuno N., Verheijen René H.M., Mahmood Tahir
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Simulation training enhances psychomotor skills and supports the transition from classroom learning to clinical practice in obstetrics and gynaecology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zimmerman Erin, Martins Nuno N., Verheijen René H.M., Mahmood Tahir. (2021). EBCOG position statement – Simulation-based training for obstetrics and gynaecology during the COVID-19 pandemic. European Journal of Obstetrics, Gynecology, and Reproductive Biology. https://doi.org/10.1016/j.ejogrb.2020.12.002
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Expert position statement by the EBCOG Standards of Care and Position Statements Group, approved by the EBCOG officers group and Council on 28 November 2020. The authors assert that "Simulation training is known to enhance psychomotor skills" without presenting new data.
 

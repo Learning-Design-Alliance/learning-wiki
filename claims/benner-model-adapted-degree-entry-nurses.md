@@ -51,3 +51,4 @@ Authors' interpretive argument (type e) about adapting Benner's five-level model
 - [Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies](advanced-competency-transfer-limited-by-institutional-resources.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related
+- [The UK working group adapted the 32 US OMEC competencies into 29 competencies through an iterative expert-consensus process](omec-competencies-adapted-to-29-uk-competencies.md) — related

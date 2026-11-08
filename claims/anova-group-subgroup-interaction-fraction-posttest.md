@@ -47,3 +47,4 @@ Two-way ANOVA on post-test performance with independent variables group and subg
 ## Related Claims
 - [Medium and low achievement students benefited most from storytelling in fraction teaching, while high achievers showed no significant difference](storytelling-benefits-medium-low-achievers-fractions.md) — a narrower finding that bears on this claim
 - [The Comprehensive Charts instruction was most effective for advanced achievers, with no significant effect for lower proficiency subgroups](charts-instruction-advanced-achievers-only.md) — related
+- [The benefit of simulation training over control is moderated by training level, with residents deriving the greatest benefit (significant interaction, p = 0.02)](simulation-benefit-moderated-by-education-status.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Lin Galvin Sim Siang, Tan Wen-Wu, Tan Hung-Jia, Khoo Chia-Wee, Afrashtehfar Kelvin I.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Students generally show positive perceptions toward innovative, active-learning pedagogical strategies in dental materials science, based on a review of 12 primary studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lin Galvin Sim Siang, Tan Wen-Wu, Tan Hung-Jia, Khoo Chia-Wee, Afrashtehfar Kelvin I. (2023). Innovative Pedagogical Strategies in Health Professions Education: Active Learning in Dental Materials Science. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20032041
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Systematic review following PRISMA searched nine databases (January 1990–October 2022) and included 12 primary studies; the review's synthesis concluded "students generally showed positive perceptions toward these pedagogical strategies". No pooled effect size was reported.
 

@@ -75,6 +75,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
 - [Prepare backup head-mounted displays and on-site technical knowledge for VR simulation sessions, and develop scenarios through co-creative processes with end-users](vr-simi-backup-hmd-cocreative-scenario-development-strategy.md)
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
+- [Adapt GOSCE case scenarios to the specific sensory, cultural, and individual challenges of the target recruitment population](gosce-case-adaptation-strategy.md)
 
 ## Examples
 -

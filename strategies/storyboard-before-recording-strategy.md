@@ -17,7 +17,7 @@ sources:
 # Storyboard the video before recording, pairing a word-for-word script with representative images
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends planning before recording, ranging from a basic outline of talking points to a fully scripted storyboard. Their preferred method "involves writing the script, word for word, in one column with representative images or videos in a second column." Storyboarding "results in a smoother production process, enables development of more effective visual aids, expedites audio recording, and helps with facilitating rerecording in the future," and enables peer review of content before production work begins.

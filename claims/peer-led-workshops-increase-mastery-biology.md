@@ -16,12 +16,14 @@ sources:
     author: García-Ojeda ME, Nishiguchi MK
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 García-Ojeda ME, Nishiguchi MK. (2022). The Metamorphosing Professor: Adapting Teaching to Fulfill the Promise of Biology Education. Integrative and Comparative Biology. https://doi.org/10.1093/icb/icac149
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing Preszler 2009, that peer-led workshops let students who previously learned material (peer-leaders) guide groups of peers working together on difficult concepts. No effect sizes are printed.
 

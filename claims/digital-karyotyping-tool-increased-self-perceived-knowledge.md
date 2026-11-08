@@ -53,3 +53,4 @@ Pre–post interventional study without control group; about 252 first-year medi
 - [Most students perceived the tool as useful and would recommend it to other students or universities](high-perceived-utility-and-recommendation-of-karyotyping-tool.md) — related
 - [The tool functioned comparably across small and large class sizes, with similar gains in both cohorts](digital-tool-comparable-across-class-sizes.md) — a broader claim this one bears on
 - [Including normal and abnormal karyotypes together, with explanations after incorrect answers, was rated highly helpful for learning](contrasting-normal-abnormal-karyotypes-rated-helpful.md) — related
+- [Both cohorts showed increased median perceived confidence from pre- to post-intervention, with cohort 2 rising from 61.4 to 89.3](both-cohorts-median-confidence-increase.md) — related

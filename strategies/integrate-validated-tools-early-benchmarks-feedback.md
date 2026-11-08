@@ -54,6 +54,7 @@ The review recommends integrating "validated assessment tools early in surgical 
 - [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
 - [Use the ATSHWS in surgical nursing education for competency assessment, targeted feedback, and skills reinforcement](atshws-education-feedback-strategy.md)
 - [Establish competency benchmarks and objective assessment tools to translate simulation skills into operating-room practice](competency-benchmark-simulation-transfer-strategy.md)
+- [Use regular low-stakes testing with individualised feedback and learning-trajectory tracking to increase engagement in procedural simulation training](regular-testing-individualised-feedback-procedural-simulation.md)
 
 ## Examples
 -

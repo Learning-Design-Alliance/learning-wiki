@@ -80,3 +80,4 @@ In the longitudinal analysis of 112 children, ANS acuity (Panamath percent corre
 - [Infants possess two core numerical systems—approximate magnitude representation and precise tracking of small sets—that underpin later mathematical competencies](core-numerical-systems-underpin-math.md) — related
 - [Vocabulary is not a significant predictor of performance on the numerical tasks when Hearing Age is included](vocabulary-not-predictor-numerical-tasks.md) — related
 - [Prior knowledge measures were strong predictors of both algebra outcomes](prior-knowledge-strong-predictor-algebra-outcomes.md) — related
+- [The hypothesized mediation of the IPS-arithmetic association by symbolic number processing was not tested because no IPS-mathematics association was found](ips-mediation-by-symbolic-number-not-conducted.md) — related

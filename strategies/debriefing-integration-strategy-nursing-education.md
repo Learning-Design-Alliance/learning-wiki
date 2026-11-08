@@ -63,6 +63,7 @@ The authors recommend that "nursing education institutions should commit to deve
 - [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
 - [Integrate structured feedback and video debriefing with CVS annotation into preclinical and clinical surgical training](integrate-cvs-annotation-debriefing-into-surgical-training.md)
 - [Use clinical simulation scenarios in health institutions to develop and assess nurses' infusion-therapy clinical judgment](encourage-clinical-simulation-infusion-nurse-education.md)
+- [Five improvement recommendations: refined modules, more CPX scenarios, evaluator training, video debriefing, and contingency planning](five-gap-closing-recommendations-clinical-curriculum.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ The strategy replaces one large-class simulation with repeated short scenario-ba
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Screen students for elevated simulation anxiety with STAI and pupillometry, then support predisposed learners with pre-visit, presession-viewing, and breathing-relaxation interventions](anxiety-screening-and-support-strategy-simulation.md)
 - [Videos: SEL Topics](videos-sel_topics.md)
+- [Use instructional videos and involve students in creating video content to teach clinical communication](video-instruction-clinical-communication-strategy.md)
 
 ## Examples
 -

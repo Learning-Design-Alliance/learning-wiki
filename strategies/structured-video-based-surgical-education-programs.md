@@ -50,6 +50,7 @@ The article recommends that surgical training programs adopt formal, structured 
 ## Related Strategies
 
 - [Incorporate structured video-assisted coaching and complication-management exercises into surgical training curricula](video-assisted-coaching-complication-curricula-strategy.md)
+- [Use instructional videos and involve students in creating video content to teach clinical communication](video-instruction-clinical-communication-strategy.md)
 
 ## Examples
 -

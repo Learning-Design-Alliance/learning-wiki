@@ -60,3 +60,4 @@ Meta-analysis of 6 studies involving 878 students, of whom 460 received PBL, rep
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
 - [TBL enhances students' communication skills more than LBL according to student questionnaires](tbl-enhances-communication-skills-questionnaires.md) — related
 - [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — related
+- [Domain-level satisfaction differs between PBL and LBL students, with the largest gaps in skill development and supervision and feedback](domain-level-satisfaction-pbl-lbl-gaps.md) — related

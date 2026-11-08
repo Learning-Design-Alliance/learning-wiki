@@ -82,3 +82,4 @@ The review attributes to Arlington et al. the finding of skill decay 4–6 month
 - [Acquired ultrasound skills decay without repeated practice, supporting longitudinal curricula and periodic re-assessment](ultrasound-skill-decay-longitudinal-curriculum.md) — related
 - [High patient volume and inadequate supplies adversely affect midwives' neonatal resuscitation performance and neonatal survival in a low-resource referral hospital](patient-volume-supplies-hamper-neonatal-resuscitation.md) — related
 - [Knowledge gaps in perinatal care persist despite HBB training, and midwives report a need for recurrent and more comprehensive training](knowledge-gaps-persist-despite-hbb-training.md) — related
+- [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related

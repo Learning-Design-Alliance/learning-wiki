@@ -72,3 +72,4 @@ Same qualitative study, Experiencing theme. The analysis reports that learners "
 - [Learners' and educators' suggestions for optimising live tissue training cluster into three themes: Planning, Delivering, and Experiencing LTT](ltt-optimisation-three-themes.md) — a broader claim this one bears on
 - [Experienced prehospital professionals rated the overall clinical parameters of all 9 simulated trauma patients as absolutely realistic (median 5, IQR 4-5)](humans-clinical-parameters-rated-realistic.md) — related
 - [Experienced prehospital professionals rated the overall physiological parameters of all 9 simulated trauma patients as absolutely realistic (median 5, IQR 3-5)](humans-physiological-parameters-rated-realistic.md) — related
+- [Non-clinicians at high risk of opioid overdose experienced the overdose simulation as realistic due to physical fidelity, emotional activation, and memory reactivation](overdose-simulation-realism-lived-experience.md) — related

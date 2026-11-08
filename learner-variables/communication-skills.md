@@ -213,6 +213,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Mother-child communication buffers the negative unwellness–Chinese relationship and father-child communication buffers the unwellness–English relationship; no moderation for mathematics](../claims/parent-child-communication-buffers-unwellness.md) [~M] — an instructional effect differs with it
 - [Only mother-child communication is positively associated with performance in all three subjects; father-child communication and non-academic activity involvement show no association](../claims/mother-child-communication-main-effect.md) [~M] — learners who differ on it differ in outcomes
 - [Residents who prepared and gave supervised video lectures all reported learning a lot from it, and most advisors valued teaching a colleague](../claims/resident-presentation-preparation-benefits.md) [+W] — measured as an outcome of the instruction studied
+- Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

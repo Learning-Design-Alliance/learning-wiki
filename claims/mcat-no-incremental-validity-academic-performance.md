@@ -53,3 +53,5 @@ Retrospective cohort analysis of 349 admitted students with MCAT scores at a sin
 - [MCAT scores and USGPA correlate with academic outcomes and alter LASSI correlations when controlled](mcat-usgpa-control-effects-on-lassi-correlations.md) — related
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
+- [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related
+- [BMAT scores show no clear incremental validity over A-level grades for predicting medical school assessment performance, with two significant negative associations of BMAT Section 2 with clinical performance](no-bmat-incremental-validity-over-a-levels.md) — related

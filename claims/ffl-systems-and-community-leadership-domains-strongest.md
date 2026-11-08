@@ -51,3 +51,4 @@ Domain-level concurrent validity analysis of FFL scores against principal value-
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — related
 - [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related
 - [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — related
+- [Leader-follower relationship contributes most to the principal leadership effectiveness construct, ahead of task structure and position power](leader-follower-relationship-largest-leadership-loading.md) — related

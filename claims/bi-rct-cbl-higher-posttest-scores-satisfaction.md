@@ -93,3 +93,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [Blended learning produced higher knowledge gain than traditional lecture in an evidence-based medicine course for medical postgraduates](blended-learning-higher-knowledge-gain-ebm-course.md) — related
 - [Satisfaction with practical teaching was significantly higher in the combined CBL and clinical pathway group (4.80 ± 0.61) than in the traditional teaching group (3.69 ± 0.82)](cbl-clinical-pathway-higher-satisfaction.md) — related
 - [Replacing the first PbL group meeting with a written internet chat does not worsen summative exam results compared with conventional on-site PbL](bpbl-chat-first-session-no-exam-difference.md) — related
+- PBL combined with situational simulation teaching yields higher nursing practice satisfaction scores than conventional teaching — related

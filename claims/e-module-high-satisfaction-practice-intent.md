@@ -71,3 +71,4 @@ Self-reported intent to change practice on the postmodule survey; 60 (87%) said 
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
 - [Most trainees found the automated SHAP-based feedback easy to understand and were satisfied with the assessment, with GOALS scores rated most informative](automated-feedback-acceptability-questionnaire.md) — related
 - [A perioperative medicine e-module completed during clinical rotations significantly improves trainees' knowledge test scores](perioperative-e-module-improves-knowledge.md) — related
+- [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related

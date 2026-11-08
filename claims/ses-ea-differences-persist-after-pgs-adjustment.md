@@ -52,3 +52,4 @@ Between-family model regressing EA on PGS and sex within each SES group; interce
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
 - [The strength of the association between polygenic score and educational achievement does not differ across SES groups](pgs-ea-association-not-moderated-by-ses.md) — related
 - [Education polygenic scores predict year-to-year math enrollment above and beyond prior-year math GPA, family SES, and school SES](education-pgs-predicts-enrollment-beyond-gpa.md) — related
+- [Pupils with higher polygenic scores for educational attainment outperform their teachers' expectations relative to pupils with lower scores](pgs-educational-attainment-expectation-accuracy.md) — related

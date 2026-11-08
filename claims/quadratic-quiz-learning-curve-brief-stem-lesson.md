@@ -51,3 +51,4 @@ Results analysis of two written fact-retrieval quizzes (linear forces and moment
 - [Student activity declines consistently from the first to the last learning unit across all three outcome groups](activity-declines-across-course-units.md) — related
 - [Both experimental and control classes scored significantly higher on the second conditional quiz than the first](both-classes-improved-conditional-quiz-scores.md) — related
 - [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related
+- [Knowledge scores decline significantly between an immediate quiz and an eight-week quiz after both eModule and Wikipedia-like learning activities](significant-knowledge-decline-after-both-cal-activities.md) — related

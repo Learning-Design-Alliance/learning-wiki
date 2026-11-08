@@ -49,6 +49,7 @@ Based on their null and counterintuitive results, the authors recommend moving b
 
 - [Virtual patient interventions should be repeated and sustained rather than delivered as one-off sessions, since empathy declines during clinical training](repeated-sustained-vp-interventions.md)
 - [Replace passive theoretical IT instruction with hands-on active technological creation and algorithmic troubleshooting](hands-on-active-technological-creation-curriculum.md)
+- [Use focused, device-specific student-centered training sessions rather than spreading practice across many devices](focused-device-specific-student-centered-dam-training.md)
 
 ## Examples
 -

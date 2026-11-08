@@ -49,3 +49,4 @@ Spearman correlation analysis of NAS attitude scores against demographics in the
 - [No significant association between nurses' pain management knowledge and their attitudes](no-knowledge-attitude-association-pain.md) — related
 - [Nurses' pain management knowledge is negatively correlated with age and with prior participation in pain retraining courses](pain-knowledge-negative-age-training-correlations.md) — related
 - [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — reports the opposite
+- [Older student age is positively correlated with e-learning satisfaction](age-positive-e-learning-satisfaction.md) — related

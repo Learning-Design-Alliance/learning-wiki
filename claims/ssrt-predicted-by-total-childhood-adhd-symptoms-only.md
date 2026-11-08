@@ -73,3 +73,4 @@ Null finding from the path analyses in the same longitudinal sample. The article
 - [Inhibitory control did not relate to adolescents' communicative perspective-taking](inhibitory-control-not-related-perspective-taking.md) — related
 - [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related
 - [Research findings on screens and ADHD/attention are contradictory: some studies link prolonged screen exposure to reduced attention and increased hyperactivity, while a recent longitudinal study finds no effect on hyperactivity or attention.](contradictory-screen-attention-adhd-findings.md) — related
+- [Inhibitory and attentional control deficit at age 5 is the strongest neuropsychological predictor of ADHD symptoms concurrently and one year later](inhibitory-attentional-control-strongest-adhd-predictor.md) — related

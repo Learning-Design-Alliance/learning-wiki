@@ -47,3 +47,4 @@ Between-group analyses comparing participants randomly assigned to one of three 
 ## Related Claims
 - [PA students' self-rated confidence in performing ultrasound-guided cyst drainage was significantly higher after cadaver-based simulation training across all assessed procedure aspects, in a one-group pre-test/post-test study with no comparison group](pa-cadaver-simulation-increases-procedure-confidence.md) — related
 - [PA students outperform first-year medical students on selected GRS categories and procedure time after the same cadaver cyst-draining simulation, attributed to prior clinical and ultrasound exposure](pa-students-outperform-medical-students-grs.md) — related
+- [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related

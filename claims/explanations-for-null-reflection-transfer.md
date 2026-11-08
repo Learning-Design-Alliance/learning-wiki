@@ -16,12 +16,14 @@ sources:
     author: Kuhn Josepha, Mamede Silvia, van den Berg Pieter, Zwaan Laura, van Peet Petra, Bindels Patrick, van Gog Tamara
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The null result may reflect that residents already engage in reflective reasoning naturally, or that the taught procedure was learned but not adopted at test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kuhn Josepha, Mamede Silvia, van den Berg Pieter, Zwaan Laura, van Peet Petra, Bindels Patrick, van Gog Tamara. (2022). Learning deliberate reflection in medical diagnosis: does learning-by-teaching help? Advances in Health Sciences Education. https://doi.org/10.1007/s10459-022-10138-2
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Authors' interpretation in the Discussion, not a tested result: the deliberately difficult cases and the think-aloud requirement may have triggered reflection in all residents, and teachers reported they always expect trainees to generate multiple differential diagnoses. An alternative is that residents learned the procedure but did not adopt it at test.
 

@@ -51,3 +51,4 @@ Path analysis (lavaan) in the longitudinal sample testing direct and indirect ro
 - [Consistently high childhood ADHD symptoms correlate with both reduced N2 amplitude and longer SSRT in adolescence](childhood-adhd-symptoms-correlate-n2-ssrt.md) — related
 - [Adolescents in the lowest quartile of concurrent inattention symptoms show larger negative N2 amplitudes than the other three quartiles, with no linear concurrent correlation](lowest-inattention-quartile-larger-n2-concurrent.md) — related
 - [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) — related
+- [Inhibitory and attentional control deficit at age 5 is the strongest neuropsychological predictor of ADHD symptoms concurrently and one year later](inhibitory-attentional-control-strongest-adhd-predictor.md) — related

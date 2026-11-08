@@ -69,3 +69,4 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 - [Grade in the first mathematics class is a major determinant of whether a student stays in a STEM major](first-math-grade-determines-stem-retention.md) — related
 - [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related
 - [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related
+- [A failure to find a negative correlation between standardized test scores and subsequent success is evidence that the test has predictive validity](absent-negative-correlation-evidence-of-test-validity.md) — related

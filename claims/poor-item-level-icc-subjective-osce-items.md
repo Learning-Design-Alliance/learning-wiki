@@ -17,12 +17,14 @@ sources:
     author: Zhu Feng, Wu Li, Shao Xiuxiu, Huang Lijuan, Meng Xiangfeng, Nie Rongrong
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Item-level scoring consistency is poor for several subjective rubric items, with ICCs near or below 0.4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Zhu Feng, Wu Li, Shao Xiuxiu, Huang Lijuan, Meng Xiangfeng, Nie Rongrong. (2023). Scoring consistency of standard patients and examiners in the developed dental objective structured clinical examination system. BMC Medical Education. https://doi.org/10.1186/s12909-023-04087-6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Item-level ICC analysis (Table 3) of SP and examiner scores for the 146-resident cohort; the lowest printed item ICC was 0.391 for consciousness of patient-friendly and dedication, and End of examination was 0.411.
 

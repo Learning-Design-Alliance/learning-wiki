@@ -56,3 +56,4 @@ The brief summarizes research in Chicago and nationally on predictors of college
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
 - [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related
 - [High school admission grades correlated significantly with graduating GPA for IGCSE, JGSC, IB and Kuwaiti entrants but not for other degree types](high-school-grades-correlate-with-graduating-gpa-select-degrees.md) — a narrower finding that bears on this claim
+- [Dropping standardized test scores from admissions raises or lowers simulated degree completion depending on whether the test is valid](dropping-test-scores-changes-simulated-degree-completion.md) — related

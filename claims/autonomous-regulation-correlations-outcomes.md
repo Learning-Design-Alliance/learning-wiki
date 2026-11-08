@@ -69,3 +69,4 @@ Correlational analysis of all measured variables (Table 1) among 188 adult learn
 - [Admitted candidates score higher on academic foundation, behavioral engagement, psychological state, and support resources than non-admitted candidates](group-differences-admitted-vs-non-admitted.md) — related
 - [The study concludes a positive relationship between students' self-efficacy and academic performance in Kazo District secondary schools, and that intrinsic motivation positively influences performance](kazo-positive-psychological-patterns-performance.md) — related
 - [Autonomous learning motivation and intrinsic motivation significantly predict English scores](autonomous-intrinsic-motivation-predict-english-scores.md) — related
+- [External regulation for interpersonal relationships correlates negatively with behavioral and emotional engagement in collaborative learning](external-regulation-negative-correlation-engagement.md) — reports the opposite

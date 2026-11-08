@@ -52,3 +52,4 @@ Quasi-experimental comparison of 205 students completing ICCAS before and after 
 - [Undergraduate health students' perceived interprofessional competency scores rose across all six domains from pre-test to post-test after simulation-based learning, in a single-group pre-post study](sbl-improves-interprofessional-competencies-retrospective-pre-post.md) — related
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
+- [All participants agreed the simulation achieved each of the ICCAS interprofessional competencies](iccas-competencies-achieved.md) — related

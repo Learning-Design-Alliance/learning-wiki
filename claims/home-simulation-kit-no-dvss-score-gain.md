@@ -48,3 +48,4 @@ Randomized controlled trial: 29 novice medical students (15 kit, 14 control) com
 - [Both experimental and control medical students significantly improved within-group on Sea Spikes 1 and Big Dipper Needle Driving measures between the two dVSS sessions](within-group-simnow-improvement-both-groups.md) — related
 - [Novice medical students reported three themes about home simulation: initial simulator challenges that improve with exposure, perceived skill transfer from the kit, and kit fidelity needing improvement](qualitative-themes-home-simulation-experience.md) — related
 - [Amount of home practice time was not significantly associated with change in dVSS scores](practice-time-not-associated-score-change.md) — related
+- [On the Sea Spikes 1 dVSS task, only the test group showed a significant reduction in instrument collisions across trials](sea-spikes-collision-reduction-test-group-only.md) — related

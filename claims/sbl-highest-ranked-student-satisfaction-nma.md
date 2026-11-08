@@ -52,3 +52,4 @@ Network meta-analysis of 13 studies encompassing 849 students reporting satisfac
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — related
 - [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
+- [Resident satisfaction was significantly higher in the PBL+LBL group (96%) than in the LBL-only group (80%)](pbl-lbl-higher-resident-satisfaction-ultrasound.md) — related

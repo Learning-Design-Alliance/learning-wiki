@@ -53,3 +53,4 @@ Critical review synthesis of 23 empirical studies (quasi-experimental and correl
 - [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
 - [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related
 - [Students with high reading habit have better reading comprehension than students with low reading habit](high-reading-habit-better-comprehension.md) — related
+- [Prior knowledge of the law-related learning topic was low and did not differ between the four experimental groups](prior-knowledge-low-and-equivalent-across-groups.md) — related

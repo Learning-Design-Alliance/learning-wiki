@@ -49,3 +49,4 @@ Qualitative interview and survey-comment analysis of the NENC MECC TtT programme
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — a broader claim this one bears on
 - [Quantity-based monitoring of TtT success (numbers trained and sessions delivered) can encourage undue focus on numbers rather than quality of cascaded MECC training](quantity-monitoring-overlooks-cascade-quality.md) — related
 - [The TtT model has unique value for MECC because trainers' knowledge of the organizations and individuals they train to increases the quality of MECC training delivered](ttt-local-knowledge-increases-training-quality.md) — related
+- [Trainers structure sessions by setting clear goals, forming small groups with clear roles, and using a whiteboard to summarize procedure logic](sbl-session-structuring-practices.md) — related

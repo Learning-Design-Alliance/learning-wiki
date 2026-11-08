@@ -56,3 +56,4 @@ Chi-squared comparison of perceived training need across professional groups in 
 - [Most Turkish health vocational students believed dental trauma education is necessary (89.8%) and expressed interest in attending such training (80.2%)](strong-demand-dental-trauma-education-vocational-students.md) — related
 - [All participating residents viewed ultrasound teaching as a necessary part of training for physicians in cardiopulmonary-emergency specialties](residents-view-ultrasound-teaching-necessary.md) — related
 - [ED clinicians rate oxygen therapy topics as necessary for training, with oxygen administration methods and nasal cannula rated highest](ed-clinicians-rate-oxygen-therapy-topics-necessary.md) — related
+- [Nurses' excellent oxygen-therapy knowledge rose from 5.7% pre-intervention to 34.4% post-intervention after a standardized-protocol training program, in one uncontrolled pre-post study](oxygen-protocol-training-improves-nurse-knowledge.md) — related

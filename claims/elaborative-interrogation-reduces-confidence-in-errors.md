@@ -74,3 +74,4 @@ Experiment 2 certainty analysis: three-way strategy-by-accuracy-by-certainty int
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
 - [Children's confidence in endorsing statements indicates they were not confused by hybrid statements](confidence-judgments-hybrid-not-confusion.md) — related
 - [The game group gave more 'I don't know' responses and fewer wrong answers than the control group, suggesting greater recognition of knowledge gaps](diabe-teach-idontknow-versus-guessing.md) — related
+- [Analysis of errors in VSA examinations is possible and affords greater insight into students' knowledge and understanding than SBA analysis](vsa-error-analysis-possible-insight.md) — related

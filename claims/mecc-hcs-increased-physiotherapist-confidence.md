@@ -50,3 +50,4 @@ Wilcoxon matched-pairs signed-rank tests on 10-point confidence ratings taken di
 - [Perceived usefulness of conversations for supporting behaviour change increased significantly post-training but the pre-to-6-month increase was not significant](mecc-hcs-usefulness-mixed.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — related
+- [Research staff self-rated recruitment communication skills improve significantly after the GOSCE](gosce-significant-self-rated-skill-improvement.md) — related

@@ -53,3 +53,5 @@ In the randomized controlled trial of 48 dental students, blinded evaluations fo
 - [Natural teeth group showed more marginal ridge damage and short fillings than artificial teeth group](natural-teeth-more-ridge-damage-short-fillings.md) — related
 - [Overall cavity preparation quality does not differ significantly among the four training groups (F(3,44) = 0.455; p = 0.715)](overall-cavity-quality-no-difference.md) — a broader claim this one bears on
 - [Repeated practice with the Aizhixing digital real-time evaluation system significantly reduced Class II cavity preparation operation time across four examinations](aizhixing-practice-reduces-operation-time.md) — related
+- [Higher CGPA students show greater competence on most OSPE parameters, with significant CGPA effects for tray organization, cavity outline and resistance/retention forms](cgpa-predicts-ospe-parameter-competence.md) — related
+- [OSPE parameters explain 45–65% of variance in procedural competence, with cavity outline and retention/resistance forms highest (61–65%)](ospe-parameters-variance-competence.md) — related

@@ -13,7 +13,7 @@ generated:
 # PallPan e-learning tool
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 PallPan is a free German-language eight-section asynchronous palliative-care course developed by the PallPan project for non-palliative-care health professionals caring for seriously ill or dying patients.

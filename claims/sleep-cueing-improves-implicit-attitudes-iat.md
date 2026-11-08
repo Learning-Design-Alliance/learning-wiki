@@ -51,3 +51,4 @@ Paired-sample t-test on IAT D600 scores before and after sleep cueing in the nap
 - [Acoustic name+positive trait pair cueing during slow-wave sleep increases the perceived attractiveness of the cued person's mental facial representation](sleep-cueing-improves-mental-facial-representation-attractiveness.md) — related
 - [The number of slow oscillations during sleep is positively correlated with attractiveness ratings of faces associated with cued names but not uncued names](slow-oscillations-correlate-cued-attractiveness.md) — related
 - [Self-reported attitudes towards mental disorders did not change significantly from before to after the full curriculum in one uncontrolled pre-post study.](mali-elearning-attitudes-unchanged.md) — related
+- [The ALPHA intervention did not significantly change implicit doping attitudes as measured by BIAT D-scores](alpha-no-effect-biat-d-scores.md) — related

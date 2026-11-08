@@ -51,3 +51,4 @@ Spearman's correlation analysis of the 45-student questionnaire. Table 6 reports
 - [LLM-annotated empathy dimensions correlate positively with intention to follow, self-efficacy, and chatbot usefulness despite participants not preferring empathetic chatbots](empathy-dimensions-correlate-with-outcomes.md) — related
 - [Knowledge, attitude, and practice scores for ANE management are positively intercorrelated, with attitude most strongly linked to practice](kap-domain-correlations-ane.md) — related
 - [User trial participants rated the C3-IoC system positively for usability, with the Job roles map and Job roles overview the highest-rated components](c3-ioc-user-trial-usability-positive.md) — related
+- [Student satisfaction and preference ratings did not correlate significantly with post-test scores](satisfaction-posttest-correlation-null-dental-pilot.md) — related

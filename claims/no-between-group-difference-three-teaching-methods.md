@@ -49,3 +49,4 @@ One-way ANOVA comparing post-intervention scores across the three randomized gro
 - [Female students outperformed males in the live lecture condition, but not in the flipped conditions](gender-difference-live-lecture-gains.md) — related
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — related
 - [Children learning water-safety content via 360° VR videos, traditional video, or posters show similar learning gains, with 95% improving knowledge and retaining it at one and eight weeks](360-vr-water-safety-learning-gains-retention.md) — a broader claim this one bears on
+- [Virtual flipped learning produced no significant difference in short-term recall learning performance compared with virtual traditional live-video lectures in a dental orthodontics pilot crossover trial](vfl-vtl-no-learning-performance-difference-dental-pilot.md) — related

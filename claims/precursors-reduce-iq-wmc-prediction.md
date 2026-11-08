@@ -54,3 +54,4 @@ Regression analyses from the LOGIC reanalysis predicting later achievement with 
 - [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](covariates-predict-math-growth.md) — related
 - [Teacher personality does not predict student academic achievement when previous achievement is controlled](teacher-personality-no-achievement-effect.md) — related
 - [In SEM, only teachers' SEL reports significantly predicted students' academic scores, with students' and parents' contributions non-significant](sem-only-teachers-sel-predicts-academic-scores.md) — related
+- [Parental education explains 14% and child intelligence 34% of the variance in school achievement, while each parenting practice explains around 1%](variance-explained-education-iq-parenting.md) — related

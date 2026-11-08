@@ -49,3 +49,5 @@ RM-ANOVA on behavioral accuracy in the RCT ERP subsample. Children also "perform
 - [The KITS intervention produced no significant group differences in the ERN or Pe on incorrect trials, nor in behavioral task performance](kits-no-group-effects-ern-pe-behavior.md) — related
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [The KITS intervention shows no statistically significant effect on children's self-regulation immediately before kindergarten entry](kits-no-effect-t2-self-regulation.md) — related
+- [A possible ceiling effect in baseline Flanker accuracy may explain the lack of intervention effects on cognition](ceiling-effect-flanker-baseline-accuracy.md) — related
+- [Cognitive performance improved significantly within all four intervention groups over the 12-week intervention](cognitive-improvement-all-groups-flanker.md) — related

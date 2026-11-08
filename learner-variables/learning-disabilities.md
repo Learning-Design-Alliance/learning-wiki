@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (119 show a difference, 32 mixed, 24 no difference) · 98 studies (49 associational, 23 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 98 report an effect size · 173 claims rest on one study
+> **Evidence** · 178 claims (119 show a difference, 35 mixed, 24 no difference) · 99 studies (50 associational, 24 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 99 report an effect size · 176 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -209,6 +209,9 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Participants with and without intellectual disability in Sotos syndrome show the same pattern of subtest strengths and weaknesses](../claims/sotos-similar-profile-with-and-without-id.md) [-W] — learners who differ on it differ in outcomes
 - [Social perception skills in Sotos syndrome are consistent with general intellectual functioning and not selectively impaired](../claims/sotos-social-perception-not-selectively-impaired.md) [-W] — learners who differ on it differ in outcomes
 - [Supplementary analyses give tentative evidence that the ADHD–achievement link depends on special educational support, varying between schools](../claims/special-education-support-moderates-adhd-achievement-link.md) [~W] — learners who differ on it differ in outcomes
+- [Dyslexia predicts poorer performance in academic literacy and academic mathematics tasks but not in non-academic literacy tasks among middle school students](../claims/dyslexia-impairs-academic-but-not-non-academic-task-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Students with dyslexia judge themselves as less competent at school than students without dyslexia, but do not differ on warmth, effort, or assertiveness](../claims/dyslexia-lower-self-judgement-competence-only.md) [~M] — learners who differ on it differ in outcomes
+- [The performance gap tied to dyslexia depends on task framing: dyslexia status and academic versus non-academic task type interact](../claims/academic-framing-by-dyslexia-interaction.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

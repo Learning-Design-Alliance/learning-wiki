@@ -52,3 +52,4 @@ Direct-path coefficients (Table 4, paths a1–a4) from the cross-sectional path 
 - [Academic burnout lowers intrinsic and extrinsic motivation and raises amotivation, but has no significant direct effect on academic success](academic-burnout-motivation-paths-nursing.md) — related
 - [Higher health-related quality of life correlates strongly negatively with academic burnout, and motivation dimensions correlate positively with academic success](hrqol-burnout-motivation-correlations-nursing.md) — related
 - [Health-related quality of life indirectly improves academic success via intrinsic motivation alone and via burnout plus intrinsic motivation serially](hrqol-indirect-effects-via-burnout-intrinsic-motivation.md) — related
+- [Internet abusive use is positively correlated with academic burnout in nursing students](internet-abusive-use-burnout-positive-correlation.md) — related

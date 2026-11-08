@@ -59,3 +59,4 @@ Systematic review of randomized controlled trials examining simulation-based lap
 - [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](box-skills-transferred-to-vr-not-vice-versa.md) — a narrower finding that bears on this claim
 - [Simulation-based surgical skills are retained for extended periods and transfer to the operating room, per the review's cited studies](simulation-skill-retention-and-or-transfer.md) — related
 - [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — related
+- [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related

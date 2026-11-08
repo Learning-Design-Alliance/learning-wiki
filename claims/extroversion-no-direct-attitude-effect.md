@@ -48,3 +48,4 @@ In the PLS structural model, the direct extroversion–attitude path was non-sig
 - [Enjoyment fully mediates the relationship between extroversion and attitude toward the activity](enjoyment-full-mediation-extroversion-attitude.md) — possibly the same claim (merge candidate)
 - [More extroverted students perceive greater enjoyment in the combined use of video recording and a wiki](extroversion-increases-enjoyment-wiki-video-activity.md) — related
 - [More extroverted students perceive less stress during the oral presentation](extroversion-reduces-stress-oral-presentation.md) — related
+- [Students' e-learning attitude shows no statistically significant relation to their academic achievement](elearning-attitude-achievement-null-ustf.md) — related

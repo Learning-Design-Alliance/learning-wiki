@@ -50,3 +50,4 @@ Student-proposed improvement methods reported in the barriers section of the cro
 - [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — related
 - [Self-reported infection control practices among Sudanese clinical medical students are mostly moderate, with fewer than half consistently performing key behaviours](moderate-self-reported-infection-control-practices.md) — related
 - [Most Sudanese clinical medical students demonstrate only moderate knowledge of infection control in surgical settings, with 73.8% at moderate level and just 4% at good level](sudanese-students-moderate-infection-control-knowledge.md) — related
+- [Medical students almost universally fail a proficiency standard for PPE donning and doffing after standard hospital training, including mandatory CDC video viewing.](standard-ppe-training-insufficient-procedural-proficiency.md) — related

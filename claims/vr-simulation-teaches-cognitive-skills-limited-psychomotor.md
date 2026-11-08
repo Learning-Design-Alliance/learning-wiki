@@ -72,3 +72,4 @@ Theme 1 of the interview study reports that haptic technology was the unanimous 
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Current virtual reality simulators target skill acquisition and lack authenticity for workflow and teamwork learning](cl-vr-simulators-skill-acquisition-lack-workflow-authenticity.md) — related

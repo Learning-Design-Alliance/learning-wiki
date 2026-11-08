@@ -55,3 +55,4 @@ TAM-based validation test (five-point Likert scale) applied to the blended works
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Students rated the application positively on a semantic differential scale, but finding time to use it and doing exercises were scored easy with a bias toward hard](semantic-differential-attitudes-english-app.md) — related
 - [Students positively perceived YouTube's usefulness, ease of use, and their attitude toward it for vocabulary learning](student-positive-perceptions-youtube-vocabulary.md) — related
+- [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related

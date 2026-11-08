@@ -50,3 +50,5 @@ Adjusted mixed-effects regression from the KaziAfya trial (n = 559): both MMNS-c
 - [Sex, hemoglobin level, age, and baseline scores were significant predictors of cognitive and academic outcomes](kazifya-sex-hb-baseline-predictors.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [The PA-only intervention was associated with significantly lower end-of-year academic scores compared to placebo](kazifya-pa-only-lower-end-of-year-scores.md) — related
+- [The combined PA + MMNS group achieved significantly higher academic achievement than the MMNS-alone group](combined-group-beats-mmns-alone-academic.md) — related
+- [The combined PA + MMNS intervention did not significantly improve academic achievement compared with placebo](combined-intervention-no-academic-advantage-placebo.md) — reports the opposite

@@ -55,3 +55,4 @@ Pre-test/post-test analysis of 25 control-group LD students taught by lecture; T
 - [Senior secondary Geography students taught with PowerPoint presentation scored significantly higher on post-test achievement than students taught with the lecture method](powerpoint-outperforms-lecture-geography-achievement.md) — related
 - [The traditional lecture-only method's pre-to-post gain was small and its significance is inconsistently reported](control-group-small-pre-post-gain.md) — reports the opposite
 - [Students receiving traditional lectures showed no significant pre-post change in overall attitudes to learning English](traditional-lectures-no-attitude-change.md) — related
+- [Effect of instructor intervention depends on pre-discussion activity: worksheet helped lecture groups but was associated with lower scores in self-study groups](intervention-effect-depends-on-pre-activity.md) — related

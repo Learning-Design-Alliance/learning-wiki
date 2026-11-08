@@ -49,3 +49,4 @@ In the randomized controlled experiment (n = 104), the article reports a statist
 - [Nursing students' e-learning motivation and attitude were positively correlated after training, strongest in the control group](motivation-attitude-positive-correlation-nursing.md) — related
 - [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related
 - [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — related
+- [No significant differences were found between the funny-video and control groups in learning motivation or learning satisfaction.](no-motivation-satisfaction-difference-funny-videos.md) — reports the opposite

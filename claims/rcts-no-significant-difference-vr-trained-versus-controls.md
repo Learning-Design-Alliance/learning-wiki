@@ -53,3 +53,5 @@ Whitehurst RCT (Table 3) comparing 20 gynaecology and urology trainees trained t
 - [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related
 - [VR and physical simulators show skill transferability and an additive effect when used together in urological training](vr-physical-simulator-skill-transferability-additive.md) — related
 - [Both experimental and control medical students significantly improved within-group on Sea Spikes 1 and Big Dipper Needle Driving measures between the two dVSS sessions](within-group-simnow-improvement-both-groups.md) — related
+- [Control group participants were significantly quicker than the test group on the second trial of the Pick and Place dVSS task](control-quicker-second-trial-pick-and-place.md) — related
+- [Prior PoLaRS training produced no significant difference in dVSS post-test performance compared to controls](priors-polars-training-no-dvss-posttest-difference.md) — a narrower finding that bears on this claim

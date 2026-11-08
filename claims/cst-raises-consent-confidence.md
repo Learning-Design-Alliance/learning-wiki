@@ -51,3 +51,4 @@ Anonymous pre/post questionnaire of intervention-group students; 49 of 61 (80%) 
 - [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related
 - [No significant difference between CST and control groups at baseline on either consent-scoring rubric, supporting attribution of post-test differences to the training](cst-trial-baseline-equivalence.md) — related
 - [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related
+- [Both cohorts showed increased median perceived confidence from pre- to post-intervention, with cohort 2 rising from 61.4 to 89.3](both-cohorts-median-confidence-increase.md) — related

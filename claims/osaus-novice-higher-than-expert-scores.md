@@ -50,3 +50,5 @@ Group comparison of mean OSAUS-HMD scores across novice (15.4±0.18), intermedia
 - [Time to complete the HMD ultrasound task did not differ significantly between expertise groups](osaus-hmd-task-time-no-group-differences.md) — related
 - [OSAUS scale shows strong inter-rater reliability (ICC 0.720) for assessing ultrasound HMD competence](osaus-hmd-inter-rater-reliability-icc-0720.md) — related
 - [OSAUS scores correlate strongly with a Global Rating Scale (r = 0.970) for ultrasound HMD performance](osaus-grs-convergent-validity-r-0970.md) — related
+- [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related
+- [Distance measurements taken in VR correlate strongly with those from cross-sectional viewing, supporting VR measurement validity](vr-measurement-validity-strong-icc.md) — related

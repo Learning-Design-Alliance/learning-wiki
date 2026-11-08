@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 437 claims (289 show a difference, 103 mixed, 45 no difference) · 310 studies (112 associational, 106 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 84 of 310 report an effect size · 425 claims rest on one study
+> **Evidence** · 441 claims (290 show a difference, 106 mixed, 45 no difference) · 313 studies (115 associational, 107 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 86 of 313 report an effect size · 429 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -487,6 +487,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Expectancy difference scores reverse as contingencies change in both groups, but only the Instructed Group's expectations varied significantly by phase](../claims/expectancy-reversals-larger-in-instructed-group.md) [~M] — measured as an outcome of the instruction studied
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](../claims/self-efficacy-achievement-amotivation-predict-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Technology access and e-learning motivation jointly explain 30.4% of variance in nursing students' satisfaction with e-learning, with motivation the stronger predictor](../claims/tech-access-motivation-explain-satisfaction-variance-nursing.md) [+M] — learners who differ on it differ in outcomes
+- [Intrinsic interpersonal motivation positively predicts emotional engagement, but not behavioral or cognitive engagement, in collaborative learning](../claims/intrinsic-motivation-predicts-emotional-engagement-only.md) [~M] — learners who differ on it differ in outcomes
+- [Intrinsic motivation correlates positively with both conscientiousness and exam score, while extrinsic motivation correlates negatively with conscientiousness and shows no significant relationship with score](../claims/intrinsic-motivation-positive-extrinsic-null-with-exam-score.md) [~M] — learners who differ on it differ in outcomes
+- [Intrinsic motivation predicted study completion, with a small effect (OR=1.05)](../claims/intrinsic-motivation-predicted-study-completion.md) [+M] — learners who differ on it differ in outcomes
+- [Motivational persistence correlates positively with conscientiousness and with National Residency Exam score, though individual persistence factors differ in direction](../claims/motivational-persistence-correlates-with-conscientiousness-and-score.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -56,3 +56,4 @@ Systematic review of 45 observational studies, most cross-sectional, synthesized
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — a narrower finding that bears on this claim
 - [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](depression-anxiety-negative-academic-performance-medical-students.md) — possibly the same claim (merge candidate)
 - [Depressive symptoms are negatively related to GPA among college students](depressive-symptoms-negatively-related-to-gpa.md) — related
+- [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — a narrower finding that bears on this claim

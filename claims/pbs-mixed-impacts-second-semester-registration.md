@@ -48,3 +48,4 @@ Randomized controlled trials across six sites measuring registration from transc
 - [In the longest-follow-up site (Ohio), performance-based scholarships raised degree attainment by about 3.5 percentage points](pbs-ohio-degree-attainment-impact.md) — related
 - [Performance-based scholarships increased the proportion of students meeting the incentivized academic benchmark at all sites except New York](pbs-increase-benchmark-meeting-except-new-york.md) — related
 - [Performance-based scholarships increased first-year credits earned at most sites, but not in Florida or New Mexico](pbs-increase-first-year-credits-most-sites.md) — related
+- [Students with higher postcourse confidence in resuscitation skills were more likely to register as first responders](postcourse-confidence-associated-first-responder-registration.md) — related

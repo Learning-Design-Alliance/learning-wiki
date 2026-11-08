@@ -71,3 +71,5 @@ Table 3 entry for Clemes et al. (2020), an RCT across 8 classrooms (IG N=86, CG 
 - [Musculoskeletal effects of active desks are mixed, with reduced neck discomfort in some studies and increased neck and shoulder discomfort in others](active-desks-mixed-musculoskeletal-effects.md) — related
 - [Effects of ALCs on physical activity are mixed, with some studies showing lower PA in ALCs than traditional classrooms](alc-mixed-physical-activity.md) — related
 - [Screen time increased more in the control group than in the physical activity intervention group over the academic year](outdoor-activity-associated-less-screen-time-increase.md) — related
+- [Non-verbal fluid intelligence (Raven matrices) declined in the standing desk intervention group while the control group increased slightly](raven-matrices-declined-intervention-group.md) — related
+- [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)
-description: An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)
+title: "An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)"
+description: "An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)"
 id: henssen-ar-lower-gains-higher-extraneous-load
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: k-anniesmitha-2026
     resource: "https://doi.org/10.1186/s12909-026-09764-w"
@@ -20,11 +21,11 @@ sources:
     rigour: 3
 ---
 
-# An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)
+# An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomised study of 31 students, the cross-section group improved test scores significantly more than the GreyMapp-AR group, and the cross-section group reported greater relevance and extraneous cognitive load; motivation did not differ. [→ K Anniesmitha 2026](#k-anniesmitha-2026)

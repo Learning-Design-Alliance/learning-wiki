@@ -103,3 +103,4 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - [Role-playing KTAS education does not improve overall triage competency more than lectures, but improves its expert assessment and communication sub-factors](role-playing-no-overall-triage-competency-gain.md) — related
 - [The ADDIE-based flipped classroom group outperformed the traditional-teaching group on all seven Mini-CEX clinical competence domains](addie-flipped-classroom-mini-cex-all-domains-neurology-residents.md) — related
 - [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related
+- PBL combined with situational simulation teaching yields higher small and special presentation scores than conventional teaching in radiology interns — related

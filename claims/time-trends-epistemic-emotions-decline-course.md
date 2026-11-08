@@ -75,3 +75,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Mean clinical skill anxiety scores declined progressively with year of study](csa-declines-with-year-of-study.md) — related
 - [64.41% of students reported heightened curiosity for scientific research after Nobel laureate case studies, and 71.19% reported improved literature-reading skills](nobel-cases-research-motivation-literature-skills.md) — related
 - [Use of the voluntary e-learning cases tended to decline over the course of the semester](casetrain-usage-declines-over-semester.md) — related
+- [After learning, the experimental group's happiness decreased and frustration and boredom increased significantly, while the control group's emotions did not change significantly.](post-learning-emotion-declines-after-funny-video-induction.md) — related

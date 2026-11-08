@@ -46,3 +46,4 @@ Mann-Whitney comparison of the 15-item ANTS self-evaluation between LC (n = 62) 
 
 ## Related Claims
 - [Learner-perceived quality and educational impact of a low-cost pediatric simulator did not differ from a high-fidelity simulator for difficult airway management training in continuing medical education](low-cost-simulator-equivalent-perceived-quality-pediatric-airway-cme.md) — possibly the same claim (merge candidate)
+- [The 3-hour difficult airway management simulation program cost an estimated 17,892€ overall, approximately 406€ per resident](dam-simulation-program-cost-406-euros-per-resident.md) — related

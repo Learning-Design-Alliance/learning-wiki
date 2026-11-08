@@ -49,3 +49,4 @@ Questionnaire of student perceptions (Table 7): 93% said project-based CLIL moti
 - [Pupils found CLIL mathematics activities interesting, challenging and enjoyable.](clil-maths-activities-interesting-challenging.md) — related
 - [Pupils felt safe when working in groups during CLIL activities.](clil-group-work-feeling-safe.md) — related
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related
+- [Students subjectively evaluated the CLOSE checklist and the e-learning very positively](close-elearning-positive-subjective-evaluation.md) — related

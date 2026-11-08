@@ -50,3 +50,4 @@ Subgroup analysis of the randomised trial by sex (Tables 16 and 17): girls n=129
 ## Related Claims
 - [Girls started with lower interest in science than boys but gained significantly more, resulting in equal post-intervention interest](girls-lower-initial-interest-higher-gain.md) — related
 - [In the Hawaii randomized trial, Positive Action reduced serious violence among boys but not among girls](positive-action-violence-reduced-boys-not-girls.md) — related
+- [Prior intervention studies of gender moderation conflict, with one trial finding greater academic gains for boys and another finding benefits only for girls](conflicting-gender-moderation-prior-studies.md) — related

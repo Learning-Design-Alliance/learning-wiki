@@ -69,3 +69,4 @@ Surgical proficiency was rated by senior surgeons at the end of the one-month ro
 - [Simulation-platform trainees rated their theoretical knowledge acquisition and operational-skill improvement more favorably than controls](simulation-platform-higher-self-assessed-knowledge-and-skills.md) — related
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — related
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — a broader claim this one bears on
+- The simulation-system group outperformed the traditional-teaching group on theoretical, skill, and comprehensive ability assessments — related

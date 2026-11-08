@@ -18,7 +18,7 @@ sources:
 # Three-Lesson Web-Based SRL Training
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 11 studies (8 causal, 2 quant-synthesis, 1 associational), `q2`–`q3` · 4 of 11 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (11 for, 4 mixed, 2 against) · 12 studies (9 causal, 2 quant-synthesis, 1 associational), `q2`–`q3` · 4 of 12 report an effect size · 17 claims rest on one study
 
 ## Description
 A web-based training on self-regulated learning that "can be attended by virtually unlimited numbers of participants" choosing their own time and place. "The WBT comprises three lessons of approximately 90 min each", covering the pre-action, action and post-action phases, and using videos, presentations, self-tests, exercises and bulletin boards. In this study lessons unlocked at 1-week intervals, videos used real actors, and mean self-reported compliance was 82.18%.
@@ -60,6 +60,7 @@ A web-based training on self-regulated learning that "can be attended by virtual
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](../claims/srl-skills-increase-all-conditions.md) [-W]
 - [No significant overall change in CCT-X scores from pre-test to post-test regardless of group](../claims/measurement-main-effect-not-significant.md) [-W]
 - [Paper-based reading comprehension scores also improved significantly after the Web-based strategy training](../claims/paper-based-reading-comprehension-improved.md) [+W]
+- [The Study Smart program improved students’ declarative metacognitive knowledge about (in)effective learning strategies in the short and long term](../claims/study-smart-improved-declarative-metacognitive-knowledge.md) [+W] — attached 2026-11-07 from Biwer Felicitas et al. (2022), which proposed "Study Smart program: three-session learning strategy training for all first-year students".
 
 ## The evidence by question
 

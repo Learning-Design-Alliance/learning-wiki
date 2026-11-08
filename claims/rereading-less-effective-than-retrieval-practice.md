@@ -112,3 +112,4 @@ A systematic review evaluating ten learning techniques against generalisability,
 - [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](recitation-advantage-decreases-material-connectedness-gates-kuehn.md) — related
 - [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](generative-activities-improve-monitoring-not-restudy-learning.md) — related
 - [Fluency gains from rereading follow the power law: improvement occurs up to about the fourth reading and then diminishes](power-law-four-rereadings-limit.md) — related
+- [The Study Smart program improved students’ declarative metacognitive knowledge about (in)effective learning strategies in the short and long term](study-smart-improved-declarative-metacognitive-knowledge.md) — a narrower finding that bears on this claim

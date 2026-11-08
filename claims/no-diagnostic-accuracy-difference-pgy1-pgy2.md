@@ -16,12 +16,14 @@ sources:
     author: Lien Wan-Ching, Lin Phone, Chang Chih-Heng, Wu Meng-Che, Wu Cheng-Yi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No significant difference in FAST diagnostic accuracy between PGY-1 residents (users or non-users) and PGY-2 residents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lien Wan-Ching, Lin Phone, Chang Chih-Heng, Wu Meng-Che, Wu Cheng-Yi. (2022). The effect of e-learning on point-of-care ultrasound education in novices. Medical Education Online. https://doi.org/10.1080/10872981.2022.2152522
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Blinded review of 736 PGY-1 and 134 PGY-2 FAST examinations against final diagnoses; Table 1 reports 100% median accuracy in all groups with p = 0.075. The article states "There were no significant differences in the diagnostic accuracy between the PGY-1 and PGY-2"; equivalence was not tested.
 

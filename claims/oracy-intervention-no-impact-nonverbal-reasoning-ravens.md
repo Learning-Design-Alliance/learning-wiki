@@ -47,3 +47,4 @@ Indicative quantitative impact measure comparing pre and post Raven's Progressiv
 ## Related Claims
 - [The prototype Oracy Assessment Toolkit gave a tentative indication that the intervention positively impacted students' oracy skills](oracy-assessment-toolkit-tentative-positive-impact.md) — related
 - [At pre-test there was no statistically significant difference in non-verbal reasoning between School 21 and control school students](ravens-baseline-no-significant-difference-school21-control.md) — related
+- [Non-verbal fluid intelligence (Raven matrices) declined in the standing desk intervention group while the control group increased slightly](raven-matrices-declined-intervention-group.md) — related

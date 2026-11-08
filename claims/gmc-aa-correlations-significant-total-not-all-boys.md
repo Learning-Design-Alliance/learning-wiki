@@ -16,12 +16,14 @@ sources:
     author: Fernández‐Sánchez, A.; Redondo‐Tébar, A.; Sánchez‐López, M.; Visier‐Alfonso, M. E.; Muñoz‐Rodríguez, J. R.; Martínez‐Vizcaíno, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Fernández‐Sánchez, A.; Redondo‐Tébar, A.; Sánchez‐López, M.; Visier‐Alfonso, M. E.; Muñoz‐Rodríguez, J. R.; Martínez‐Vizcaíno, V. (2022). Sex differences on the relation among gross motor competence, cognition, and academic achievement in children. Scandinavian Journal of Psychology. https://doi.org/10.1111/sjop.12827
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate Pearson correlation analysis (Table 2) across the 451-child sample, reported by sex for aiming-catching, static balance, dynamic balance, language and mathematics. All GMC–AA correlations were "statistically significant (p < 0.05), except for aiming‐catching and dynamic balance for boys."
 

@@ -50,3 +50,4 @@ Thematic analysis of five focus groups (25 students, 18 NUMed, 7 UK). "inadequat
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — a narrower finding that bears on this claim
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Before the flipped classes, students reported specific learning pain points including fear of public speaking, unfamiliarity with the method, and PPT-making difficulty](dt-flipped-pre-survey-pain-points.md) — related
+- [The debriefing session enabled bidirectional learning in which participants shared lived experience that identified barriers to resuscitation](bidirectional-learning-debriefing-non-clinicians.md) — related

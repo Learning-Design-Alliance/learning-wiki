@@ -49,6 +49,7 @@ After the lockdowns ended, the department attempted to "reshape the curriculum t
 ## Related Strategies
 
 - [Adopt blended teaching strategies that combine face-to-face and virtual-world modes.](blended-face-to-face-and-vw-teaching-strategy.md)
+- [Combine an e-learning application with online lectures and artificial-teeth practice to maintain clinical course quality when face-to-face teaching is disrupted](e-learning-plus-online-lectures-maintain-quality-strategy.md)
 
 ## Examples
 -

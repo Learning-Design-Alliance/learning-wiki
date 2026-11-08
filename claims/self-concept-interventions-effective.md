@@ -16,12 +16,14 @@ sources:
     author: Xu Yun, Liang Yongqi, Ye Hui, Xu Yue
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Educational interventions including reflective learning, peer counselling and attribution training can improve nursing students' professional self-concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Xu Yun, Liang Yongqi, Ye Hui, Xu Yue. (2022). Literature review of the research on nursing students' professional self-concept. Medical Education Online. https://doi.org/10.1080/10872981.2022.2153396
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review evaluated eight intervention experiments: reflective learning (RCT, 128 interns), wellness course, peer counselling, cadaver practice education, narrative medicine teaching, attribution training, group cooperative learning, and hierarchical teaching. All reported improvements, but the review cautions evidence-based evaluation is difficult.
 

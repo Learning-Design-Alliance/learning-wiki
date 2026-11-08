@@ -55,3 +55,4 @@ Quasi-randomized controlled trial of 120 interns (60 per group) at a single Chin
 - [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](fsph-3d-model-improves-social-medical-curiosity.md) — related
 - [P-MASE pedagogy produced higher closed-book examination scores than traditional instruction in an undergraduate hospital management course RCT](pmase-higher-closed-book-exam-scores.md) — related
 - [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related
+- PBL combined with situational simulation teaching yields higher imaging report quality, intravenous contrast media, and practice examination scores than conventional teaching in radiology interns — related

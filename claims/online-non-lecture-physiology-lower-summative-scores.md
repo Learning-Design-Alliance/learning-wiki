@@ -16,12 +16,14 @@ sources:
     author: Varachotisate P et al
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Online non-lecture physiology teaching during COVID-19 yielded summative scores 4.80±0.92% lower than on-site teaching (Cohen's d = 0.42)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Varachotisate P et al. (2022). Student academic performance in non-lecture physiology topics following the abrupt change from traditional on-site teaching to online teaching during COVID-19 pandemic. Medical Education Online. https://doi.org/10.1080/10872981.2022.2149292
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Prospective cohort with historical control comparing 299 pre-COVID students with 312 COVID-year students on blinded SBA summative items. The article reports "71.23 ± 10.46% vs. 66.42 ± 12.13%, P < 0.01, Cohen’s d = 0.42".
 

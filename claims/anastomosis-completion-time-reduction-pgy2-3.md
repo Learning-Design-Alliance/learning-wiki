@@ -54,3 +54,4 @@ In the same pre–post study of 39 residents, procedural time was recorded from 
 - [Anastomosis time decreased by at least 10 minutes from first to second period for both junior and senior residents in all three anastomosis types](anastomosis-time-decrease-at-least-10-minutes.md) — related
 - [Median procedure time fell from before to after instructor feedback in one uncontrolled pre-post study; senior residents' time fell by nearly 40%, while junior residents' time was similar before and after](procedure-time-drops-after-feedback-seniors.md) — related
 - [Across three training sessions, all participants significantly reduced the time needed per robotic-assisted microsurgical anastomosis](robotic-microsurgery-time-decreases-across-sessions.md) — related
+- [Participation in the simulation-based CVC training session significantly decreased CVC placement procedure time on a task trainer](sim-cvc-training-decreased-procedure-time.md) — related

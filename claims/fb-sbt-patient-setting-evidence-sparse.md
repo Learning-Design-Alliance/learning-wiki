@@ -51,3 +51,4 @@ Review synthesis of the four included studies measuring Kirkpatrick level 3 beha
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related
 - [After team simulation training, patients report being less awake during bronchoscopy, with no change in other patient-reported outcomes](patients-less-awake-after-team-simulation-training.md) — related
+- [Integrating modeling examples into bronchoscopy simulation training outperforms training without them](modeling-examples-improve-simulation-training.md) — related

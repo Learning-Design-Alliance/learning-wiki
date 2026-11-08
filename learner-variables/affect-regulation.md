@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 322 claims (227 show a difference, 61 mixed, 34 no difference) · 211 studies (76 associational, 59 causal, 33 review, 16 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 47 of 211 report an effect size · 314 claims rest on one study
+> **Evidence** · 326 claims (230 show a difference, 62 mixed, 34 no difference) · 214 studies (77 associational, 61 causal, 33 review, 16 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 48 of 214 report an effect size · 318 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -362,6 +362,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Effects of the e-learning program persisted over time on coping difficulty, actual behavior, knowledge of onset timing and probability, and achievement of all program goals](../claims/e-learning-program-effects-over-time-teachers.md) [+M] — measured as an outcome of the instruction studied
 - [Post-graduate students moved from searching for coping and adaptation strategies to considering e-learning a new opportunity for the quality of educational life](../claims/elearning-becomes-new-opportunity-adaptation-shift.md) [+M] — measured as an outcome of the instruction studied
 - [The program was particularly effective for teachers with higher baseline coping difficulty, with no significant effect for those with lower baseline difficulty](../claims/program-effective-higher-baseline-difficulty-teachers.md) [~M] — an instructional effect differs with it
+- [After learning, the experimental group's happiness decreased and frustration and boredom increased significantly, while the control group's emotions did not change significantly.](../claims/post-learning-emotion-declines-after-funny-video-induction.md) [+M] — measured as an outcome of the instruction studied
+- [Psychological stress response is negatively correlated with confidence levels, with no association between stress response and performance score](../claims/psychological-stress-negatively-correlated-with-confidence-no-performance-association.md) [~M] — learners who differ on it differ in outcomes
+- [Religious coping is positively associated with e-learning satisfaction](../claims/religion-coping-positive-e-learning-satisfaction.md) [+M] — learners who differ on it differ in outcomes
+- [Self-blame coping is positively associated with e-learning satisfaction](../claims/self-blame-coping-positive-e-learning-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

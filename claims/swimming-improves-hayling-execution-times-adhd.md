@@ -16,12 +16,14 @@ sources:
     author: Hattabi Soukaina, Forte Pedro, Kukic Filip, Bouden Asma, Have Mona, Chtourou Hamdi, Sortwell Andrew
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Twelve weeks of game-based swimming training improves Hayling test execution times in children with ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hattabi Soukaina, Forte Pedro, Kukic Filip, Bouden Asma, Have Mona, Chtourou Hamdi, Sortwell Andrew. (2022). A Randomized Trial of a Swimming-Based Alternative Treatment for Children with Attention Deficit Hyperactivity Disorder. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph192316238
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the cluster-randomized trial (n = 40 children with ADHD), the Junior Hayling test was administered pre and post intervention. The experimental group improved part A latency by "−32.34%, p < 0.001" and part B by "−41.66%, p < 0.001"; the control group's changes were not significant. The results text prints percentage changes and p-values but no standardized effect size for this finding.
 

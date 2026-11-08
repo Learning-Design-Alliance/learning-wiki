@@ -74,3 +74,4 @@ Two further interaction effects on overall legibility (chi2(2) = 6.9, p = .031);
 - [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](arm-body-training-improves-overall-legibility.md) — related
 - [Arm training with nested handwriting exercises yields the greatest overall acquisitions in letter knowledge and script, while arm-body training reduces them](arm-training-best-overall-letter-knowledge-gains.md) — related
 - [High baseline word-reading performers also benefit from the embodied learning intervention in letter-sound knowledge and spelling](high-performers-benefit-embodied-letter-sound-spelling.md) — related
+- [The benefit of simulation training over control is moderated by training level, with residents deriving the greatest benefit (significant interaction, p = 0.02)](simulation-benefit-moderated-by-education-status.md) — related

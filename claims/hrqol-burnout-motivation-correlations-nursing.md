@@ -70,3 +70,4 @@ Bivariate correlations (Table 3) in the same sample. The article reports r = 0.2
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — related
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — reports the opposite
 - [HRQoL at baseline does not predict academic performance 24 months later in adolescents](hrqol-does-not-predict-academic-performance.md) — related
+- [Internet abusive use is positively correlated with academic burnout in nursing students](internet-abusive-use-burnout-positive-correlation.md) — related

@@ -50,6 +50,7 @@ Based on the discussion of factors affecting CBL efficacy, the article recommend
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Gradual introduction of board-game-based learning to support inexperienced teachers](gradual-board-game-introduction-teachers.md)
 - [Frustration and Stress Prevention/Reduction Techniques](frustration-and-stress-prevention-reduction-techniques.md)
+- [Specialized facilitator training for implementing RCDP-based simulation](rcdp-facilitator-training-strategy.md)
 
 ## Examples
 -

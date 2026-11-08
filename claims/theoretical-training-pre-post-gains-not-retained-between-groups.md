@@ -24,12 +24,14 @@ sources:
     author: Ghazali Hanen, Ouaness Islem, Zaouch Khedija, Hamed Rym, Ines Chermiti, Manai Hela
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Knowledge scores rose significantly from pre-test to post-test within both groups, but the between-group difference in non-technical skills seen at T0 was no longer present at one month
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -52,7 +54,7 @@ Pre/post comparison after the theoretical refresher session for all 46 randomize
 
 Ghazali Hanen, Ouaness Islem, Zaouch Khedija, Hamed Rym, Ines Chermiti, Manai Hela. (2022). Skill retention following simulation learning in acute coronary syndrome versus cardiac arrest. La Tunisie Médicale. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9703463/
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 One-month theoretical test (global mean 13,63±2,57; between-group p=0,232) among the 22 participants assessed at T1: the T0 non-technical-skills difference between groups was no longer present.
 

@@ -17,7 +17,7 @@ sources:
 # Weekly in situ simulation-based team-training program for the acute stroke treatment team
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article describes clusters of weekly in situ simulation-based team-training introduced on February 1, 2017 for the whole stroke treatment team and on-call paramedics. Sessions used "acute stroke scenarios, simulating both the emergency medical services (EMS) and the in‐hospital stroke care pathway from calling the EMS to administration of IVT." Simulated cases presented FAST symptoms; vertigo symptoms were not simulated. Primary aims were to reduce treatment times, enhance protocol adherence, and improve communication skills.

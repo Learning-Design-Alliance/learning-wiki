@@ -17,12 +17,14 @@ sources:
     author: Iñarrairaegui M, Fernández-Ros N, Lucena F, Landecho MF, García N, Quiroga J, Herrero JI
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # MCQ discrimination indices are significantly lower in high-scoring students than in moderate/poor-scoring students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Iñarrairaegui M, Fernández-Ros N, Lucena F, Landecho MF, García N, Quiroga J, Herrero JI. (2022). Evaluation of the quality of multiple-choice questions according to the students’ academic level. BMC Medical Education. https://doi.org/10.1186/s12909-022-03844-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Retrospective item analysis of 257 common MCQ from pathophysiology final exams (2015-16 to 2020-21), comparing the top 27% and bottom 27% scorers within two academic-level groups (group 1 N=146, group 2 N=314) using the Wilcoxon test. The study found "significantly higher in group 2 than in group 1"; overall medians were 0.21 (group 1) versus 0.28 (group 2), P < 0.001 (Table 2).
 

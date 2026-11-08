@@ -150,7 +150,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [The complexity effect on working memory capacity is not due to insufficient encoding time](../claims/wm-complexity-effect-not-encoding-time.md) [+W]
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](../claims/gesture-type-mental-effort-effects.md) [~W]
 - [Teachers valued the VCL for removing the physicality of practical work and raising the cognitive level of problem-solving](../claims/vcl-removes-physicality-raises-cognition.md) [+W]
-- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](../claims/henssen-ar-lower-gains-higher-extraneous-load.md) [+W]
+- [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](../claims/henssen-ar-lower-gains-higher-extraneous-load.md) [+W]
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](../claims/cognitive-load-theory-clinical-reasoning-working-memory.md) [+W]
 - [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
 - [Authors attribute the integrated component's limited efficacy to cognitive load from transcribing between notations for at-risk learners](../claims/cognitive-load-transcribing-limits-integrated-benefit.md) [+W]

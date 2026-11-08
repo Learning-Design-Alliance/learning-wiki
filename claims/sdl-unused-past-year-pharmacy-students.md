@@ -48,3 +48,4 @@ Cross-sectional online survey of pharmacy students at King Khalid University (20
 - [Pharmacy students relied primarily on Google rather than specialized sources such as the Saudi Digital Library for self-study](google-over-sdl-self-study.md) — related
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
 - [Lack of training and instructor motivation were the most commonly reported barriers to using e-learning resources](training-motivation-barriers-e-resources.md) — related
+- [Campus resources — library, laboratories, extra-curricular activities and scholarships — supported international medical students' learning and wellbeing](campus-resources-international-mbbs-support.md) — related

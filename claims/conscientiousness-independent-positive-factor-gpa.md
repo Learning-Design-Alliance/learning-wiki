@@ -53,3 +53,5 @@ Forward stepwise multivariable analysis in the same questionnaire study identifi
 - [Use of spaced repetition is independently associated with higher odds of success in the medical school entrance examination](spaced-repetition-independent-predictor-medical-entrance-success.md) — related
 - [Higher PSMU independently predicts lower odds of high academic performance after confounder adjustment](psmu-independent-predictor-lower-ap-or.md) — related
 - [Avoiding tobacco, alcohol, and khat use during university is associated with better academic performance](substance-avoidance-associated-better-performance.md) — related
+- [High conscientiousness is associated with higher odds of a better National Residency Exam score among Romanian medical graduates](high-conscientiousness-associated-with-higher-residency-exam-odds.md) — a narrower finding that bears on this claim
+- [Personal standard, organization, doubts about action, and motive for success are positively associated with GPA, with motive for success mediating the personal-standard and doubts-about-action effects](perfectionism-gpa-mediation.md) — a narrower finding that bears on this claim

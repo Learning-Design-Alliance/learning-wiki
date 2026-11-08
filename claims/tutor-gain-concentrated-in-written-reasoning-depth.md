@@ -56,3 +56,4 @@ Authors' summary of the preregistered SOLO depth co-primary outcomes (mean SOLO 
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related
 - [A 20-item multiple-choice check confirmed participants were almost completely unfamiliar with the target phrasal verbs before treatment](prior-knowledge-check-phrasal-verbs-unfamiliar.md) — related
 - [Tutors observed considerable improvement in the quality of students' oral exam presentations after the second training round.](pt-bet-tutor-rated-improvement.md) — related
+- [Question-authoring quality predicts molecular biology multiple-choice exam performance after controlling for prior grades and self-testing, in a 632+-student biochemistry cohort](question-authoring-quality-predicts-mcq-exam.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 267 claims (144 show a difference, 63 mixed, 60 no difference) · 201 studies (89 associational, 78 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 201 report an effect size · 266 claims rest on one study
+> **Evidence** · 270 claims (145 show a difference, 63 mixed, 62 no difference) · 202 studies (90 associational, 78 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 202 report an effect size · 269 claims rest on one study
 
 ## How to read this page
 
@@ -352,6 +352,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Pell-eligible, Black, Latinx, International students, and students working jobs received lower scores on first exam attempts than reference groups](../claims/first-attempt-score-disparities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Students who worked a job, especially more than 20 h a week, were less likely to retake exams even when retakes were offered during class time or online](../claims/working-students-less-likely-retake.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Teachers allocate lower-SES students to lower ability sets and judge them to be working at a lower level than higher-SES students](../claims/ses-bias-set-allocation-and-level.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Harsh parenting and corporal punishment did not mediate the association between parental education and child school achievement](../claims/no-harsh-parenting-mediation-achievement.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No sequential (joint) mediation through early parenting and later child intelligence, or early intelligence and later parenting, was found](../claims/no-sequential-mediation-parenting-iq.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Parental education explains 14% and child intelligence 34% of the variance in school achievement, while each parenting practice explains around 1%](../claims/variance-explained-education-iq-parenting.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

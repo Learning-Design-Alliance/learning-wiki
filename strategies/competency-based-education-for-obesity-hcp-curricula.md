@@ -50,6 +50,7 @@ The review advocates competency-based education (CBE) as the framework for desig
 ## Related Strategies
 
 - [Follow a systematic, theory-informed six-step process when developing competency frameworks](six-step-competency-framework-development-process.md)
+- [Extend the competencies to nurses, allied health professionals and other patient-facing staff via existing qualification routes](extend-competencies-to-nurses-and-allied-hcps.md)
 
 ## Examples
 -

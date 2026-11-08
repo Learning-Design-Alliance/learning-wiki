@@ -48,3 +48,4 @@ Subject-level comparisons in Table 1 of the same cohort, adjusted for sex, type 
 - [The lower academic performance of elite athletes is confirmed separately for both girls and boys](elite-athlete-academic-gap-both-sexes.md) — related
 - [Young elite athletes attain lower overall academic performance than control students from the same high school on both Baccalaureate GPA and University Entrance Examinations](elite-athletes-lower-academic-performance-than-controls.md) — a broader claim this one bears on
 - [Academic performance of elite athletes does not differ by type of sport across multiple sport classifications](no-sport-type-difference-elite-academic-performance.md) — related
+- [Elite sports students score higher than general students on novelty seeking, reward dependence, persistence, self-directedness, and self-transcendence](elite-sports-students-higher-tci-scores.md) — related

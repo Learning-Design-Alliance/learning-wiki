@@ -50,3 +50,4 @@ Zero-order correlation analysis in the 220-student sample showed "ERA and teache
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
 - [Emotion regulation variables do not predict overall subjective happiness beyond Big Five traits and gender, and only performance-tested ERA predicts school satisfaction](era-limited-support-affective-wellbeing.md) — related
 - [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related
+- [Video-viewing and paper-and-pencil measures of empathic communication were only moderately correlated](ecsv-ecsp-moderate-correlation.md) — a narrower finding that bears on this claim

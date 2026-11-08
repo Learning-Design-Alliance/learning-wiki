@@ -52,3 +52,4 @@ UKG-only multivariate logistic regression adjusted for prior attainment (UCAS ta
 - [Candidates from minority ethnic backgrounds, especially Black or Black British candidates, are significantly less likely to pass postgraduate medical examinations at first attempt](minority-ethnic-lower-first-attempt-pass-odds.md) — related
 - [Prior academic attainment predicts success at postgraduate medical written and clinical examinations](prior-attainment-predicts-postgraduate-exam-success.md) — related
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
+- [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related

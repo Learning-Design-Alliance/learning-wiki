@@ -16,12 +16,14 @@ sources:
     author: Leavy JE, Della Bona M, Nelson B, Leaversuch F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Fully online students had significantly higher Final Unit Achievement category placement than face-to-face students in 2018 and 2019
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Leavy JE, Della Bona M, Nelson B, Leaversuch F. (2022). A comparison of face‐to‐face and fully online problem‐based learning: Student results and staff experiences, 2014–2020. Health Promot J Austral. https://doi.org/10.1002/hpja.636
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Bivariate Pearson chi-square tests on administrative results (n = 472) comparing Final Unit Achievement categories (Fail/Pass/Distinction) by enrolment mode. In 2018, 90.0% of fully online students versus 47.9% of face-to-face students reached 70–100; in 2019, 100.0% versus 68.4%. No effect size printed.
 

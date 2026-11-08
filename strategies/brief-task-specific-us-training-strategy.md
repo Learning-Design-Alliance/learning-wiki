@@ -58,6 +58,7 @@ The article recommends a goal-directed, skill-focused curriculum using handheld 
 - [Extend self-practice time and delay testing to strengthen AI-guided ultrasound training research](extended-self-practice-and-delayed-testing-for-ai-ultrasound-training.md)
 - [Individualized SMART learning plans and skill acquisition plans for clinical ultrasound training](smart-learning-plans-ultrasound-skills.md)
 - [Expand curriculum scope, increase hands-on practice time, and optimize scheduling in response to resident feedback](ultrasound-curriculum-feedback-driven-expansion-strategy.md)
+- [Use focused, device-specific student-centered training sessions rather than spreading practice across many devices](focused-device-specific-student-centered-dam-training.md)
 
 ## Examples
 -

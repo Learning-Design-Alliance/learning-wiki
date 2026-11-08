@@ -106,3 +106,4 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Participants report that knowledge and behaviour gains from SBTT decline without frequent training, describing learning as fresh produce](sbtt-frequency-needed-for-sustained-transfer.md) — a narrower finding that bears on this claim
 - [Senior pediatric residents' overall neonatal resuscitation MCQ scores rose from pre-test to post-test after team-based simulation training, in one single-group pre-post study](team-simulation-increases-nrp-knowledge.md) — related
 - [Simulation has been shown to prevent skills decay and teach new technical skills to novice learners who delayed training initiation](simulation-prevents-skills-decay-novices.md) — related
+- [HBB simulation training significantly increases health care workers' newborn resuscitation skills on both OSCE A and OSCE B](hbb-training-increases-hcw-osce-skills.md) — related

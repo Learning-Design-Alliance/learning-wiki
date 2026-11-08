@@ -48,6 +48,7 @@ At the institutional level, the article recommends "training interventions for s
 - [Advise students to plan their study days, use breaks between lectures for independent study, prevent procrastination, and invest effort](advise-students-plan-breaks-effort-avoid-procrastination.md)
 - [University teachers should act as role models by explicitly communicating lecture goals and time plans and reminding students to start exam preparation early](teachers-role-models-communicate-goals-time-plans.md)
 - [Adopt flexible, competency-based attendance policies and flipped classrooms for senior medical students](flexible-attendance-flipped-classroom-senior-students.md)
+- [University strategy of mentoring, training, and trial online exams to enrich the e-learning environment and foster engagement](elearning-training-mentoring-implications.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Prospective nonrandomized comparative study of 67 medical students across three 
 - [Patient-in-classroom teaching was rated higher in overall teaching quality than traditional lectures, with a large effect size](patient-in-classroom-higher-teaching-quality.md) — related
 - [Evidence of transfer from AI-VP training to real clinical practice is scarce, and one cohort study found lower field assessment scores after AI-VP training](ai-vp-transfer-to-practice-scarce.md) — related
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
+- [Training and evaluation results on a Japanese otoscopy teaching model are comparable with results attained using real patients](otoscopy-model-comparable-real-patients.md) — related

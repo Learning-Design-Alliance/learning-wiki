@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 589 claims (313 show a difference, 129 mixed, 147 no difference) · 422 studies (205 associational, 158 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 62 of 422 report an effect size · 581 claims rest on one study
+> **Evidence** · 591 claims (314 show a difference, 129 mixed, 148 no difference) · 424 studies (205 associational, 160 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 62 of 424 report an effect size · 583 claims rest on one study
 
 ## How to read this page
 
@@ -628,6 +628,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Self-efficacy is higher in girls and amotivation higher in boys among primary students](../claims/gender-differences-self-efficacy-amotivation-primary.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex differences in the educational associations of mental disorders: unipolar depression is more strongly associated with lower grades among males, while ADHD, anxiety and OCD associations are stronger among females](../claims/sex-differences-disorder-grade-associations.md) [~M] — an instructional effect differs by group
 - [Sex-stratified results show subject-specific patterns: physical education predicts HRQoL in girls but not boys, while sciences and numeric ability predict HRQoL in boys but not girls](../claims/sex-stratified-subject-specific-hrqol-prediction.md) [~M] — an instructional effect differs by group
+- [Female residents showed a better post-course performance, a secondary outcome reported cautiously due to reduced subgroup power](../claims/female-residents-better-post-course-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male and female students' MRT scores did not differ significantly in this cohort](../claims/no-sex-difference-mrt-scores.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

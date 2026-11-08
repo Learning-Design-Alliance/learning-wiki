@@ -73,3 +73,5 @@ The review reports the single included disability study found significantly lowe
 - [First-sitting MRCP Part 1 pass rates are univariably associated with age, sex, ethnicity, graduate status, parental occupation and school type](mrcp-part1-univariable-sociodemographic-associations.md) — related
 - [Working less than full-time is associated with higher odds of passing postgraduate medical examinations at first attempt](ltft-working-higher-pass-odds.md) — related
 - [UK graduates from more socioeconomically deprived backgrounds are less likely to pass written, but not clinical, postgraduate examinations at first attempt](ukg-deprivation-lower-written-pass-odds.md) — related
+- [Having attended a fee-paying school independently predicts passing MRCS Part B at the first attempt (OR 1.51)](fee-paying-school-independent-predictor-mrcs-part-b.md) — related
+- [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related

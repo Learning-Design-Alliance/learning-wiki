@@ -18,7 +18,7 @@ sources:
 # Mastery criterion with remediation and retesting
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 causal, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 A mastery criterion is a single criterion — such as a specified number of correct responses or a quality of performance — that defines when learning is complete. If a student fails to meet the required level, the article describes directing the student to remediation such as the 'textbook', the tutor, or other support before retesting. It functions as the decision rule underlying contract grading and mastery-learning program formats.
@@ -43,6 +43,7 @@ A mastery criterion is a single criterion — such as a specified number of corr
 - [Before the intervention, only 21 of 37 students in the target class reached the minimum completeness criterion in listening](../claims/listening-kkm-baseline-21-of-37.md) [+W]
 - [Content-retention scores rose from initial exam to final exam among students who initially failed to master microbiology course material and mastered it during oral examination retesting](../claims/oral-retest-improves-retention-low-performers.md) [+W] — attached 2026-11-05 from St James Andrew R (2026), which proposed "Oral examination retest intervention within a modified Bloom's Learning for Mastery framework"; tests this page's relationship.
 - [Final-exam performance of students who initially mastered material is indistinguishable from that of students who used the oral retest intervention](../claims/oral-retest-closes-retention-gap.md) [~W] — attached 2026-11-05 from St James Andrew R (2026), which proposed "Oral examination retest intervention within a modified Bloom's Learning for Mastery framework".
+- [In one single-group pre-test/post-test study with no comparison group, medical students' PPE donning and doffing performance scores rose from pre-test to post-test after simulation-based mastery learning, reaching mastery in a simulated clinical environment.](../claims/sbml-improves-medical-student-ppe-donning-doffing.md) [+W] — attached 2026-11-07 from Miller Danielle T. MD et al. (2022), which proposed "21-item PPE donning and doffing checklist with a 21/21 mastery Angoff minimum passing standard".
 
 ## Related Elements
 - [Grading By Contract Fricke](../principles/competency-based-assessment.md)

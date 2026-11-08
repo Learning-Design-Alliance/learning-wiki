@@ -54,3 +54,4 @@ Satisfaction questionnaire administered with the test; Sign Test compared rating
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [Peer-led and clinical educator-led group teaching produce no significant difference in student test scores in clinical physiotherapy placements](peer-vs-educator-led-clinical-group-teaching-no-score-difference.md) — related
 - [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related
+- [Hands-on trainees reported significantly higher satisfaction with their training method than online trainees, despite equivalent performance](hands-on-higher-satisfaction-ocular-pocus.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Ibrahim Alaa I., Sulaiman Nidhal, Ali Issam
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Upper grades (A+B) increased by 8.09 to 73.60% across the five courses while the middle grade C remained nearly unchanged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ibrahim Alaa I., Sulaiman Nidhal, Ali Issam. (2022). Simultaneous multidimensional impacts of active learning revealed in a first implementation in the MENA region. Proceedings of the National Academy of Sciences of the United States of America 119(47), e2108666119. https://doi.org/10.1073/pnas.2108666119
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Grade ratio analysis from official course results (Table 2). Across the five courses, A+B percentages rose (e.g., PHYS I from 34.94% to 48.26%; QM from 38.98% to 66.67%) while C-grade proportions "remained nearly unchanged"; no standardized effect size is printed.
 

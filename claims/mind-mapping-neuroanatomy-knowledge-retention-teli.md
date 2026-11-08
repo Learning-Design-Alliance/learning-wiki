@@ -47,7 +47,7 @@ RCT included in the review: 80 first-year MBBS students, 40 in a 45-minute mind 
 ## Related Claims
 - [Online testable concept maps improve pathology quiz scores with moderate-to-large effect sizes (Cohen's d = 0.7–0.8)](concept-maps-pathology-effect-sizes-ho.md) — related
 - [Mind maps and concept maps significantly enhance knowledge retention, recall, and assessment performance in four of six RCTs among preclinical medical students](mind-concept-maps-improve-preclinical-performance-four-of-six-rcts.md) — a broader claim this one bears on
-- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
+- [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — related
 - [Preschool children's mind maps consisted mostly of first- and second-level branches, with cross links and examples appearing rarely and only in specific themes](preschool-mind-map-element-distribution.md) — related

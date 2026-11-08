@@ -48,3 +48,4 @@ Narrative review of the team learning and performance literature (citing Cannon-
 - [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — related
 - [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — related
 - [Team cognition predicts team performance: transactive memory systems (20%) and shared mental models (10%) explain significant variance, and situational awareness shows the largest relationship but rests on a small sample](team-cognition-predicts-team-performance.md) — related
+- [Teams that go through the SSRL phases tend to be more successful in learning in and adapting to new situations](ssrl-phases-team-adaptation-success.md) — related

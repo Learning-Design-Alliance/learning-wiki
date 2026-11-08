@@ -87,6 +87,7 @@ The procedure operationalizes the finding that structured argumentation improves
 - [Case-Based Learning](case-based-learning.md) — contested cases can supply the issue for a SAC
 - [Boomeranging technique: argue both sides of a topic before drafting an argumentative essay](boomeranging-dual-stance-argumentation-strategy.md)
 - [Use the Meeting-House Debate strategy to instruct critical thinking skills in EFL reading classes](meeting-house-debate-strategy.md)
+- [Use debates on controversial clinical issues as active-learning tools for higher-order thinking](debate-ethical-issues-active-learning.md)
 
 ## Examples
 - **Teaching American History SACs** ([stanfordhistoryeducationgroup](https://sheg.stanford.edu)) — Stanford History Education Group's Document-Based SACs (e.g., "Was the New Deal a success?") have students read documents from both sides, argue, reverse, and reach consensus; widely used in US history classrooms.

@@ -138,3 +138,6 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Student nurses experience time constraints that hinder their utilisation of self-directed simulation-based learning](time-constraints-hinder-nursing-ssl-utilisation.md) — related
 - [Tutor-related barriers including lack of motivation, work overload from a shortage of trained tutors, and lack of PBL training and experience impede PBL implementation](dbu-pbl-tutor-related-barriers.md) — related
 - [Management and clinical staff prioritise different aspects of ED simulation training](clinician-management-priority-split-sbt.md) — related
+- [Receivers' confidence in cascading newly learned eLearning knowledge to colleagues increased only after completing the full development process, while institutional support and resources remained barriers](cascading-knowledge-confidence-and-institutional-barriers.md) — related
+- [Trainees strongly supported a standardised laparoscopic curriculum and identified motivators including assessments, defined expectations, competitions and live-operating incentives](trainee-support-standardised-curriculum.md) — related
+- [Resource limitations and lack of practice hinder uptake of uterine balloon tamponade despite simulation training](ubt-uptake-resource-barriers.md) — a narrower finding that bears on this claim

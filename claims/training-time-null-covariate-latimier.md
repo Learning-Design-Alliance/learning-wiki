@@ -49,3 +49,4 @@ Covariate and exploratory regression analyses in the same experiment; the full m
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
 - [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related
 - [Ten extra days of WM training before the second post-test had no significant impact on results](extra-ten-days-training-no-impact.md) — related
+- [Hands-on time was not correlated with transfer performance, and group-size effects on transfer were unchanged after adjusting for pre-test, post-test or hands-on time](hands-on-time-not-correlated-transfer.md) — related

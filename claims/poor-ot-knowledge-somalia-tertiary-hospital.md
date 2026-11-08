@@ -54,3 +54,6 @@ Cross-sectional survey of 195 healthcare professionals (42.6% nurses, 35.9% resi
 - [Most participants believed oxygen therapy training is necessary, with no significant difference between nurses and physicians](ot-training-perceived-necessary-majority.md) — related
 - [Nurses more often received oxygen therapy training before starting duty than resident physicians](nurses-more-pre-duty-ot-training-than-residents.md) — related
 - [Borich and importance-performance analyses ranked gavage tube feeding, oxygen therapy, and fluid therapy as the highest-priority NICU training topics](borich-ipa-priority-nicu-topics-gavage-oxygen-fluid.md) — related
+- [Nurses' total knowledge score correlates positively with their total performance score (r = 0.711, p = 0.000)](knowledge-performance-positive-correlation-oxygen-therapy.md) — related
+- [Nurses' excellent oxygen-therapy knowledge rose from 5.7% pre-intervention to 34.4% post-intervention after a standardized-protocol training program, in one uncontrolled pre-post study](oxygen-protocol-training-improves-nurse-knowledge.md) — related
+- [Patients cared for by protocol-trained nurses have shorter hospital stays (8.4 ± 6.2 vs 12 ± 9.8 days) and shorter oxygen-therapy duration (7.2 ± 5.4 vs 10.4 ± 8.9 days)](protocol-trained-nurses-shorten-stay-and-oxygen-duration.md) — related

@@ -56,3 +56,4 @@ Direct-path coefficients (Table 4, paths b1–b4) from the path analysis of 261 
 - [Self-efficacy has no significant direct effect on English learning performance; its effect is indirect through burnout](self-efficacy-effect-on-performance-mediated-by-burnout.md) — related
 - [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](amotivation-correlates-burnout-intrinsic-motivation.md) — related
 - [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — reports the opposite
+- [Internet abusive use is positively correlated with academic burnout in nursing students](internet-abusive-use-burnout-positive-correlation.md) — related

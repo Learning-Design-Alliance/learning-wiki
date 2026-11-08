@@ -71,3 +71,4 @@ Age-specificity regression analyses of EduYears GPS prediction across the four a
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
 - [Correlations between polygenic scores and academic achievement increase across development, with EA polygenic score correlations rising from r = 0.23 at age 7 to r = 0.35 at age 16](pgs-achievement-correlations-increase-development.md) — related
+- [Pupils with higher polygenic scores for educational attainment outperform their teachers' expectations relative to pupils with lower scores](pgs-educational-attainment-expectation-accuracy.md) — related

@@ -83,3 +83,4 @@ Sub-group analysis of Alaraj et al.'s ITACS immersive VR aneurysm-clipping simul
 - [The authors attribute the model's benefit to tactile and visual feedback that promotes active learning](tactile-visual-feedback-active-learning-interpretation.md) — related
 - [The simulator shows face validity: overall realism rated 4.57/5 with no significant expert–novice differences](tp-simulator-face-validity-realism-ratings.md) — related
 - [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — a narrower finding that bears on this claim
+- [All four tested participants found the VR microscope appearance realistic and satisfied with VR graphics, requiring no appearance updates across design iterations](surgisim-microscope-appearance-realistic.md) — related

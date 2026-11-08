@@ -62,3 +62,4 @@ Pre/post survey of 19 first-year medical students after a 15-minute video and 20
 - [Handmade-phantom simulation training significantly increases novices' self-reported confidence in performing US-guided thoracocentesis and pericardiocentesis](handmade-phantom-training-confidence-increase.md) — related
 - [Ultrasound simulation training improves cognitive and psychomotor skills, provides continuous immediate feedback, and enables standardized reproducible assessment](simulation-benefits-ultrasound-training.md) — a broader claim this one bears on
 - [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related
+- [A single short education session enabled novices to measure optic nerve sheath diameter accurately regardless of whether training was online or hands-on](onsd-measurement-accurate-both-groups.md) — related

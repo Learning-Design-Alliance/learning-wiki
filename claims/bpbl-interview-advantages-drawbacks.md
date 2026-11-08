@@ -70,3 +70,4 @@ From the same interview content analysis, chat-communication difficulties (dupli
 - [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related
 - [Students who did not experience blended PbL express concerns about lack of personal contact more often than blended PbL participants themselves](bpbl-personal-contact-concerns-higher-among-nonparticipants.md) — related
 - [Blended PbL students attend fewer lectures on site but watch more lecture videos than conventional PbL students](bpbl-shifts-lecture-attendance-to-videos.md) — related
+- [Free comments from participants indicated the 1-hour practice session was perceived as too short for hands-on practice and that face-to-face training was valued during the pandemic](postcourse-comments-course-too-short-face-to-face-valued.md) — related

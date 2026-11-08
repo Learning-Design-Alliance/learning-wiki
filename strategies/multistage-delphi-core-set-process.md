@@ -48,6 +48,8 @@ The article describes a five-stage process (2019–2024) for building a shared c
 - [Use a systematic review plus Delphi process to derive competency frameworks from empirical evidence](systematic-review-delphi-competency-derivation.md)
 - [Use a two-phase modified Delphi approach with a purposive voting panel to prioritize competencies](two-phase-modified-delphi-competency-prioritization.md)
 - [Use eDelphi studies with expert panels to establish consensus on definitions of emergent learning design constructs](edelphi-consensus-emergent-constructs.md)
+- [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
+- [Six-step structured prioritisation strategy: exclusion criteria, Delphi filtering, significance scoring, usefulness survey, AHP combination, final selection](six-step-competency-prioritisation-strategy.md)
 
 ## Examples
 -
