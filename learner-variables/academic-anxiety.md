@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 302 claims (198 show a difference, 59 mixed, 45 no difference) · 189 studies (72 associational, 64 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 44 of 189 report an effect size · 294 claims rest on one study
+> **Evidence** · 309 claims (199 show a difference, 61 mixed, 49 no difference) · 193 studies (74 associational, 66 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 46 of 193 report an effect size · 301 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -338,6 +338,13 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Stress and anxiety are the predominant emotions reported in simulation-based education research and affect academic outcomes mainly in an obstructive way](../claims/stress-anxiety-predominant-sbe-review.md) [+M] — learners who differ on it differ in outcomes
 - [Test anxiety mediated the effect of URM status on exam performance only at inclusive institutions, not at community colleges or selective institutions](../claims/test-anxiety-mediation-urm-gap-only-inclusive.md) [~M] — learners who differ on it differ in outcomes
 - [Test anxiety was universally negatively associated with exam scores across community college, inclusive, and selective institutions](../claims/test-anxiety-negatively-associated-exam-scores-all-contexts.md) [+M] — learners who differ on it differ in outcomes
+- [Anxiety weakly positively correlated with semester achievement in all subjects, but at the state exam only for Latvian language](../claims/weak-positive-anxiety-semester-correlation.md) [~M] — learners who differ on it differ in outcomes
+- [Encouragement messages do not reduce students’ test anxiety before exams](../claims/encouragement-no-test-anxiety-effect.md) [-M] — measured as an outcome of the instruction studied
+- [Learning outcome correlates positively with learning flow and distance e-learning satisfaction and negatively with social-evaluative anxiety in nursing students](../claims/correlations-learning-outcome-flow-satisfaction-anxiety.md) [+M] — learners who differ on it differ in outcomes
+- [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](../claims/anxiety-not-predicting-achievement-latvia.md) [-M] — learners who differ on it differ in outcomes
+- [Mean anxiety decreased slightly before state exams without a statistically significant change in overall anxiety level between time points](../claims/anxiety-unchanged-before-state-exams.md) [-M] — measured as an outcome of the instruction studied
+- [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](../claims/motivational-strategies-little-difference-bl-dt.md) [-M] — measured as an outcome of the instruction studied
+- [Social-evaluative anxiety related to COVID-19 negatively moderates the mediation effect of distance e-learning satisfaction on the learning flow–learning outcome relationship](../claims/sea-moderates-de-ls-mediation-covid19.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

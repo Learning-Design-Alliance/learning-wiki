@@ -55,3 +55,4 @@ Prospective single-centre randomized study in Nice medical school; 96 HPOT stude
 - [Students reacted favourably to HPOT: most wanted to continue using the techniques despite mixed perceived anxiety benefit](student-acceptance-of-hpot.md) — related
 - [Among medical students, anxiety-reduction scores rose from pre-training to post-training after VR anatomy training, in one single-group pre-post study](vr-anatomy-training-anxiety-reduction-post-scores.md) — related
 - [In one pre-post study, STAI-6 anxiety scores fell from pre-test to post-test in the medical sector but did not significantly change in the nursing sector; self-reported readiness to identify and manage neurological emergencies rose from pre-test to post-test in both sectors](sbme-anxiety-reduction-medical-not-nursing-sector.md) — related
+- [Encouragement messages do not reduce students’ test anxiety before exams](encouragement-no-test-anxiety-effect.md) — reports the opposite

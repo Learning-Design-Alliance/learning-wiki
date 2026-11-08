@@ -76,3 +76,4 @@ Table 4 regressions of performance change on survey grit show coefficients of 0.
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
 - [Engagement does not mediate the grade difference between tool users and non-users](engagement-does-not-mediate-grade-difference.md) — related
+- [Grit was not associated with any measure of laparoscopic performance in this novice sample](grit-not-associated-laparoscopic-performance.md) — related

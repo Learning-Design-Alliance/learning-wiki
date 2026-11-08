@@ -56,3 +56,5 @@ Kirkpatrick levels 1 and 2 evaluation in the Fluharty et al. study (370 BSN and 
 - [A targeted end-of-life care training programme raised the EOL proficiency pass rate among medical ward nurses from 15% to 53% three months post-intervention](eol-training-pass-rate-15-to-53-percent.md) — related
 - [Nurses' self-reported confidence in end-of-life care increased significantly across all three domains after the training programme](eol-training-confidence-gains-all-domains.md) — a narrower finding that bears on this claim
 - [Nurses substantially overestimated their end-of-life care competence: about 80% rated themselves competent or confident while only 15% passed the knowledge quiz](nurses-overestimate-eol-competence.md) — related
+- [Standardized-patient-rated communication attitudes (SPS) did not differ significantly between the intervention and control groups after the EOL simulation program](sps-score-null-between-groups.md) — related
+- [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related

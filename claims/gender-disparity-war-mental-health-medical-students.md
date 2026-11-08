@@ -50,3 +50,4 @@ Chi-square comparison of DASS-21 severity levels between 180 male and 596 female
 - [44.2% of surveyed Ukrainian medical students reported significant PTSD symptoms, with the highest subscale score on hyperarousal](ptsd-significant-symptoms-medical-students-war.md) — related
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
+- [Women showed more severe depression levels and better visual memory retention than men in the sample](gender-differences-severe-depression-visual-memory.md) — related

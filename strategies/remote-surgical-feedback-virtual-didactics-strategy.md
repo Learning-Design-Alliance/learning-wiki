@@ -46,6 +46,7 @@ In the context of COVID-19 restrictions on surgical training, the article recomm
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 - [Implement blended learning, combining online and on-site methods, in post-pandemic dental education rather than fully online delivery](blended-learning-dental-education-strategy.md)
 - [Use VR surgical simulators to expand training opportunities when operative exposure is reduced, as during the COVID-19 pandemic](vr-simulation-training-during-reduced-operative-exposure.md)
+- [Use simulation training prior to actual surgery when elective surgical experience for trainees is disrupted](simulation-training-before-surgery-during-disruption.md)
 
 ## Examples
 -

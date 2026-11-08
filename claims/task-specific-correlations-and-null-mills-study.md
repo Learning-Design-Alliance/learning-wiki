@@ -55,3 +55,4 @@ Cross-sectional study (Table 4) of 21 urological trainees and experts completing
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related
 - [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related
+- [Evidence supporting live animal models for robotic surgery training is sparse, with limited validity assessment, though a porcine kidney model improved trainee performance over repeated attempts](sparse-evidence-live-animal-robotic-training.md) — related

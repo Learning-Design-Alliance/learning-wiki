@@ -61,3 +61,4 @@ Descriptive t-tests of total factor scores in the 230-participant sample (70% fe
 - [The effect of crystallized intelligence on children's creativity is mediated by shifting](shifting-mediates-gc-creativity-children.md) — related
 - [Embedded figures test performance differed by sex and correlated relatively highly with intelligence](embedded-figures-test-sex-difference-intelligence-correlation.md) — related
 - [Divergent thinking positively predicts GPA among medical students in a PBL curriculum (β = 0.25)](divergent-thinking-predicts-medical-student-gpa.md) — related
+- [Neither sex nor age was significantly associated with executive function scores in the 6–9-year-old sample](sex-age-not-associated-executive-functions.md) — related

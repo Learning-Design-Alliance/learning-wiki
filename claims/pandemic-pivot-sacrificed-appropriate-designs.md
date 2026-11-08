@@ -48,3 +48,4 @@ The editorial's framing of the pandemic context: teachers modified pedagogical d
 - [Schools that had previously invested in technology and professional development for digital learning responded more quickly to the shift to online teaching during COVID-19 closures](prior-digital-investment-greater-ert-capacity.md) — related
 - [Maintaining access to TPD materials and community was highly valued by faculty in a pandemic-redesigned program](maintained-tpd-material-access-valued.md) — related
 - [High math-anxious participants sacrifice accuracy for speed as problems become more difficult, interpreted as an avoidance-like effort to finish quickly](high-math-anxious-sacrifice-accuracy-for-speed.md) — related
+- [Pre-prepared flipped course material enabled uninterrupted online delivery of the dental materials course during the COVID-19 pandemic](fc-material-enabled-covid-online-delivery.md) — related

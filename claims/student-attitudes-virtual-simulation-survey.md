@@ -66,3 +66,7 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Most surveyed TCM students want better clinical skill training and are willing to try VSP-TCM](prequestionnaire-student-demand-vsp-tcm.md) — related
 - [Most students held positive attitudes toward the virtual simulation system but found its operation training more difficult than jaw-model training](student-attitudes-virtual-simulation-system.md) — related
 - [Most online ligation students were first-time learners, and 73% reported high satisfaction with the online practice](first-time-learners-high-satisfaction-online-ligation.md) — related
+- [More than 80% of SBME students were satisfied with the SBME course and its projects](sbme-student-satisfaction-over-80-percent.md) — related
+- [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
+- [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
+- [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — related

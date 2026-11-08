@@ -50,6 +50,7 @@ A competency-based training course introduced in 2017, required for newly hired 
 
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Significant event analysis requirement for practitioners exceeding five puncture attempts, embedded in a nurse-recorded placement reporting system](sea-reporting-for-multiple-punctures.md)
+- [Use the modular system to acquire basic vascular access skills before clinical activity, combining self-learning with interactive hands-on instruction](preclinical-self-learning-combined-hands-on-strategy.md)
 
 ## Examples
 -

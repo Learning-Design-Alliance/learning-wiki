@@ -74,6 +74,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Incorporate VR simulation into VATS training programs as an integrative tool alongside clinical experience](vr-simulation-integrative-vats-training-strategy.md)
 - [Use HVRS as an adjunct to, not a replacement for, conventional mannequin-based pre-clinical paediatric dentistry simulation](hvrs-as-adjunct-to-conventional-simulation-strategy.md)
 - [Implement the validated otoscopy simulator as a complementary tool alongside traditional teaching in medical curricula](vr-otoscopy-simulator-complementary-curriculum-strategy.md)
+- [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 
 ## Examples
 -

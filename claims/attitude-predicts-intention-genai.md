@@ -63,3 +63,4 @@ PLS-SEM path analysis in the 434-teacher sample. The AOU→BI path was significa
 - [Students' willingness to accept learning analytics systems is moderately predicted by their attitudes toward data control and sharing](privacy-attitudes-predict-analytics-acceptance.md) — related
 - [Pre-service teachers' attitudes towards ICT (in education) and ease of use positively impact their ICT competence for educational practice](attitudes-ease-of-use-impact-ict-competence.md) — related
 - [Attitude shows the strongest positive correlation with college students' intention to use GenAI (r = 0.576)](attitude-strongest-correlate-genai-intention.md) — a narrower finding that bears on this claim
+- [In video-conferencing environments, instructors' positive attitude toward technology and interactive teaching style relate to perceived learning effectiveness, with teaching style most influential](instructor-interactive-style-videoconferencing-engagement.md) — related

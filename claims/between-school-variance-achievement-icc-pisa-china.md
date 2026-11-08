@@ -56,3 +56,4 @@ Unconditional two-level HLM models on the full PISA 2018 Chinese sample. The art
 - [Among Chinese adolescents, higher relative sense of belonging is significantly associated with higher math, reading, and science achievement](relative-belonging-predicts-achievement-chinese-adolescents.md) — related
 - [Hierarchical linear modeling shows 18% of variance in clinical practicum performance is attributable to differences between institutions (ICC = 0.18, p < 0.05)](hlm-institutional-variance-practicum.md) — related
 - [About 14% of literacy and 19% of math achievement variability lies between schools in the KELS 6th-grade sample](icc-between-school-variability-kels.md) — related
+- [Between-school differences account for 23.2% of variance in academic achievement, 2.4% in psychological distress and 6.4% in aggressive behaviour](icc-school-level-variance-outcomes.md) — related

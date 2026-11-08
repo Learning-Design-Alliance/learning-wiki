@@ -47,3 +47,4 @@ Bootstrap indirect-effect estimates (PROCESS model 6, n = 338) from Table 5 of t
 ## Related Claims
 - [Self-efficacy and intention sequentially mediate the relationship between parenting style and academic achievement six months later](serial-mediation-self-efficacy-intention-parenting-achievement.md) — related
 - [Authoritative parenting prospectively predicts higher academic achievement of Lebanese adolescents six months later, compared to neglectful, permissive and authoritarian styles](authoritative-parenting-predicts-achievement-lebanese-adolescents.md) — related
+- [Increases in academic self-efficacy are associated with higher academic achievement at 12 months but not at 6 months in Lebanese adolescents](self-efficacy-increase-achievement-12-months-only.md) — related

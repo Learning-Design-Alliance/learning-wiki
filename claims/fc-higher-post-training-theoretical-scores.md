@@ -61,3 +61,4 @@ Pre- and post-training 20-question multiple-choice examinations (100 points) dra
 - [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related
 - [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — related
 - [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related
+- [Flipped learning did not increase medical students' situational autonomous or controlled motivation to participate in simulation training](flipped-learning-no-motivation-increase.md) — related

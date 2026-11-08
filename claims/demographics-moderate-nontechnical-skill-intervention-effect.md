@@ -70,3 +70,4 @@ Independent t-test and one-way ANOVA comparisons of difference median scores by 
 - [Mean clinical competence score is significantly associated with age, nursing education level, and years of clinical work experience (P<0.001)](competence-associated-age-education-experience.md) — related
 - [Knowledge scores rose from pre-test to post-test after the STP, with significantly larger gains among female participants, 30-39-year-olds, and physiotherapists with 6-10 years' experience in a single-group pre-post study](stp-knowledge-gain-demographic-moderators.md) — related
 - [A face-to-face educational intervention significantly improves circulating nurses' overall nontechnical skill scores](educational-intervention-improves-circulating-nurses-nontechnical-skills.md) — related
+- [The experimental and control groups differed significantly in age, nursing seniority, professional level, and department at baseline](group-imbalance-age-seniority-department.md) — related

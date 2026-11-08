@@ -49,3 +49,4 @@ Within-group Friedman ANOVA across the four assessment days in the randomized tr
 - [tDCS showed no independent effect on camera navigation or hand–eye coordination outcomes in laparoscopic training](tdcs-no-effect-camera-navigation-hand-eye.md) — related
 - [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related
 - [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — related
+- [bM1-stimulated trainees reached approximately the skill level of six sham training blocks in only four blocks, saving roughly 40 minutes of training](bm1-tdcs-same-skill-in-two-thirds-time.md) — related

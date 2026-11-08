@@ -133,3 +133,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [The addiction–performance association held only among women and students without their own income in stratified analysis](addiction-performance-association-significant-only-women-no-income.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related
+- [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — related

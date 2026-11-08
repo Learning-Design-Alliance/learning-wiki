@@ -57,6 +57,7 @@ The predominant instructional strategy across included studies was "simulation-b
 - [Use a structured 3-phase debriefing model as the core of in situ simulation training](three-phase-debriefing-model-in-situ-simulation.md)
 - [Implement simulation-based refresher drills, visual job aids, mentorship champions, and stocked emergency kits for MgSO4 readiness](mgso4-competency-intervention-package.md)
 - [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
+- [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 
 ## Examples
 -

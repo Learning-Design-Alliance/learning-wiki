@@ -65,3 +65,4 @@ The WWC's findings summary for the phonological processing domain across the six
 - [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](daisyquest-kindergarten-significant-gains.md) — a narrower finding that bears on this claim
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
 - [Early reading interventions in grades K–2 increase foundational reading processes with an average effect size of 0.51](k2-spanish-reading-interventions-es-051.md) — related
+- [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](targeted-training-doubles-reading-fluency-first-graders.md) — related

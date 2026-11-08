@@ -52,6 +52,7 @@ The review concludes that focused training on tissue handling, manipulation, and
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Pursue AI-based and console-data evaluation platforms for assessing novice robotic surgical skill](ai-based-robotic-skill-evaluation-strategy.md)
 - [Integrate objective force-based assessment of tissue handling into robotic surgery training](objective-force-assessment-in-ras-training.md)
+- [Develop more sensitive laparoscopic instruments that allow accurate haptic feedback during training](sensitive-instruments-haptic-feedback-laparoscopic-training.md)
 
 ## Examples
 -

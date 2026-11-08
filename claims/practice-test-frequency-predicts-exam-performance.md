@@ -9,7 +9,6 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-20
 sources:
   - id: nick-naujoks-2022
     resource: "https://doi.org/10.1007/s11409-022-09295-x"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 1 (no feedback), controlling for prior knowledge, more practice tests taken was significantly related to a higher exam score (β = .27). [→ Nick Naujoks 2022](#nick-naujoks-2022)
@@ -72,3 +71,4 @@ Hierarchical regression in Study 2 (n = 111, practice tests plus immediate indiv
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](practice-tests-improve-absolute-judgment-accuracy.md) — related
 - [Deeper engagement in cooperative question authoring with peer feedback predicts metabolism exam performance on both multiple-choice and short-answer sections](cooperative-question-authoring-predicts-metabolism-exam.md) — a narrower finding that bears on this claim
+- [Offering voluntary multiple-choice questions was associated with overwhelmingly positive student evaluation comments each semester](voluntary-mcqs-positive-student-evaluation-comments.md) — related

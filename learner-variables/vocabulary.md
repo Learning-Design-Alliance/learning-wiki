@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (168 show a difference, 29 mixed, 29 no difference) · 149 studies (88 causal, 30 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 149 report an effect size · 223 claims rest on one study
+> **Evidence** · 227 claims (168 show a difference, 30 mixed, 29 no difference) · 150 studies (88 causal, 31 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 150 report an effect size · 224 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -267,6 +267,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [L1E undergraduates write faster, produce longer and higher-quality essays than EAL and EFL peers, and vocabulary underpins the essay-quality difference](../claims/l1e-writing-advantages-vocabulary-essay-quality.md) [+M] — learners who differ on it differ in outcomes
 - [Top-quartile time-restricted reading comprehension, essay quality, reading speed, writing speed and vocabulary are each associated with top academic marks](../claims/literacy-quartile-association-academic-marks.md) [+M] — learners who differ on it differ in outcomes
 - [Vocabulary is the covariate uniquely associated with reading speed and time-restricted reading comprehension after controlling for cognitive skills and parental education](../claims/vocabulary-unique-predictor-reading-speed-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](../claims/ef-mediate-crf-gsv-grades.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

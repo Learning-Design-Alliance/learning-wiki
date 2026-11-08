@@ -51,3 +51,4 @@ The article reports, citing Barbour, Kromrei et al. (2009), an analysis of quest
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
 - [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](ppt-games-no-performance-difference-studies.md) — related
+- [Student-authored PeerWise questions spanned all six revised-Bloom cognitive levels, with Clinical Pharmacology questions skewed toward lower levels](peerwise-question-cognitive-level-distribution.md) — related

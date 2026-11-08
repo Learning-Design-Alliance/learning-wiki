@@ -51,3 +51,4 @@ Descriptive analysis of FLAS dimension scores for 432 nursing students after the
 - [Third-year nursing students rated the flipped classroom significantly higher than first-year students on the FLAS total scale and all three dimensions, with small effect sizes](third-year-students-rate-flas-higher-than-first-year.md) — related
 - [Probability of failing is higher under traditional methodology](traditional-methodology-higher-failure-probability.md) — related
 - [Students rated lecturer's work highest and comparison with traditional classes lowest among FLAS dimensions](flas-dimension-means-lecturer-highest-comparison-lowest.md) — possibly the same claim (merge candidate)
+- [Nursing students rated satisfaction and self-confidence above 4 on the 5-point scale, with satisfaction (4.2) slightly higher than self-confidence (4.1)](scls-spanish-high-satisfaction-selfconfidence-scores.md) — related

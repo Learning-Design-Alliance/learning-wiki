@@ -50,3 +50,4 @@ Quantitative valence analysis of all 1,314 analysis units in the content analysi
 - [Negative narrative comments were nearly absent in knowledge, cognitive processes, and general comments, with similar percentages for attitude and clinical reasoning](negative-narrative-comments-nearly-absent-knowledge-general.md) — related
 - [Only 6.4% of preclerkship narrative comments offered guidance on how to improve](preclerkship-narrative-comments-rarely-suggest-improvement.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
+- [Narrative MSF comments are predominantly positive and rarely constructive, and respondents use very polite language that can mask criticism](narrative-msf-comment-quality.md) — possibly the same claim (merge candidate)

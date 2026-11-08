@@ -54,3 +54,4 @@ Final-evaluation three-station OSCE with one history-taking station; each studen
 - [Students report higher satisfaction with role-play than with linear virtual patients](roleplay-higher-satisfaction-than-virtual-patients.md) — related
 - [Scripted peer role-play students achieve the highest group-based history-taking assessment scores, ahead of non-scripted peer role-play and teacher standardized patients](sprp-highest-group-consultation-scores.md) — related
 - [Scripted peer role-play yields the most complete history taking, with TSP lowest, driven by etiology, symptom-characteristics, and accompanying-symptoms items](sprp-most-complete-history-taking.md) — related
+- [Role-play scores did not correlate with next-day patient-encounter scores when the complaint was the same](same-complaint-no-correlation-roleplay-encounter.md) — related

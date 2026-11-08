@@ -50,3 +50,4 @@ Sex-stratified cross-lagged analyses (girls n=121, boys n=136) of the βCL-2 pat
 ## Related Claims
 - [Academic performance at baseline positively predicts health-related quality of life 24 months later in adolescents](academic-performance-predicts-hrqol-24-months.md) — a broader claim this one bears on
 - [Emotional, self-esteem, and family HRQoL dimensions are all associated with high mathematics performance in both sexes; for language, only family-related HRQoL is significant in boys](hrqol-dimensions-math-emotional-self-esteem-family.md) — related
+- [Girls had significantly higher anxiety and lower quality of life than boys across all SF-36 domains at both time points](girls-higher-anxiety-lower-qol.md) — related

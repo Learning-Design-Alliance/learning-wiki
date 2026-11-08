@@ -51,3 +51,4 @@ Null result from the randomized two-version comparison at T1: means were identic
 - [The overcoming-barriers intervention raises self-efficacy for using retrieval practice immediately after the intervention but not at three-week follow-up](overcoming-barriers-intervention-self-efficacy-immediate-only.md) — related
 - [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](no-demographic-moderation-intervention-effects.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [The modified program was rated higher than the previous version on usefulness of supporting materials and preparation effort](revised-program-higher-materials-and-preparation-ratings.md) — related

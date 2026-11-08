@@ -52,6 +52,7 @@ The article frames preschool executive function (ages 2 to 6) as spanning five f
 - [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](../strategies/parent-teacher-collaboration-independent-tasks-patience.md)
 - [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](../strategies/teacher-practices-behavior-analysis-independent-decisions-materials.md)
 - [Inhibition Support Strategies](../strategies/inhibition_support_strategies.md)
+- [Assess executive functions at an early age to enable early detection and targeted work plans](../strategies/early-executive-function-assessment-work-plans.md)
 
 ## Key Sources
 - Uraipong, M., Penglee, N., Thanarachataphoom, T., & Polyai, N. (2024). Development Guidelines for Executive Function (EF) Skills in Early Childhood: Needs Assessment in Nonthaburi Kindergartens. Higher Education Studies, 14(2). https://doi.org/10.5539/hes.v14n2p88

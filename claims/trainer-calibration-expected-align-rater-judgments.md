@@ -54,3 +54,4 @@ Theoretical expectation (Expectation 3) grounded in cited evidence that rater tr
 - [Organized training with rubrics reduces the gap between student self-assessment and educator judgment](rubric-training-reduces-self-assessment-bias.md) — a narrower finding that bears on this claim
 - [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](reviewer-training-rubrics-reduce-bias.md) — related
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — a broader claim this one bears on
+- [NoTSS-trained expert raters scored participants significantly differently from non-trained raters, which the authors cite as highlighting the value of training the trainers](trained-vs-non-trained-rater-score-difference.md) — a narrower finding that bears on this claim

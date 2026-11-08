@@ -53,3 +53,4 @@ Between-group Mann-Whitney comparison at 3 months in the pilot case-control stud
 - [Baseline anxiety and self-efficacy did not differ between the intervention and control groups before the intervention](sps-cbl-baseline-equivalence-observed.md) — related
 - [CPR self-efficacy significantly improved 3 months after simulation-based training among professional caregivers](cpr-self-efficacy-improved-3-months-after-simulation-training.md) — related
 - [State anxiety significantly improved 3 months after simulation-based training, though trained participants had higher baseline state anxiety than controls](state-anxiety-improved-3-months-after-simulation-training.md) — related
+- [Mean anxiety decreased slightly before state exams without a statistically significant change in overall anxiety level between time points](anxiety-unchanged-before-state-exams.md) — related

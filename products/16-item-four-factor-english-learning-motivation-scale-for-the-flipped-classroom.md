@@ -30,7 +30,8 @@ A 16-item, five-point Likert questionnaire developed by Wang Zhonger et al. to m
 - [The four motivation factors correlated significantly and positively with English scores](../claims/motivation-factors-correlate-english-scores.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Learning Motivating Factors Questionnaire](learning-motivating-factors-questionnaire.md)
 
 ## Key Sources
 - Wang Zhonger, Lu Jin, Yu Shenchen. (2025). The impact of the flipped classroom on the motivation and academic performance of Chinese college English learners. PLOS One. https://doi.org/10.1371/journal.pone.0322094

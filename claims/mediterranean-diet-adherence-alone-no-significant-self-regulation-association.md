@@ -68,3 +68,4 @@ ANCOVA with Bonferroni pairwise post-hoc comparisons across combined PA and MD g
 - [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related
 - [Children meeting more healthy lifestyle habits show higher self-regulation](more-healthy-habits-higher-self-regulation.md) — related
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
+- [Increases in adherence to the Mediterranean diet are associated with increases in academic achievement among Lebanese adolescents at both 6- and 12-month follow-up](mediterranean-diet-adherence-increase-associated-academic-achievement.md) — related

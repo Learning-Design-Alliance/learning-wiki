@@ -50,6 +50,7 @@ Based on the finding that stressors reduce readiness for clinical practice, the 
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
+- [Embed REE stress management content in the religious education curriculum so students acquire stress-management skills for themselves and their future students](embed-ree-stress-content-in-teacher-curriculum.md)
 
 ## Examples
 -

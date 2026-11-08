@@ -69,3 +69,4 @@ Bland-Altman agreement analysis of paired total scores from the same evaluation.
 - [Human-edited GenAI-assisted items achieved plausible difficulty: mean difficulty index did not differ significantly and more GenAI-assisted items fell in the acceptable difficulty range](genai-mcq-plausible-difficulty.md) — related
 - [Bland-Altman analysis shows a systematic positive bias of about 10 percentage points in favor of GRS over checklists](bland-altman-grs-positive-bias-osce.md) — related
 - [Bland–Altman analysis shows systematic bias and wide limits of agreement, with AI tending to assign slightly higher scores than the expert across most criteria](bland-altman-ai-higher-scores-poor-interchangeability.md) — related
+- [Bland–Altman analysis shows peer and instructor scores agree closely, with limits of agreement from -1.17 to +1.16](bland-altman-agreement-peer-instructor.md) — related

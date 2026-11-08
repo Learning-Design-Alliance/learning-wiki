@@ -53,3 +53,8 @@ Cross-sectional moderated-moderation regression in a sample of 520 undergraduate
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related
 - [Grit does not moderate the relationship between depressive symptoms and GPA](grit-does-not-moderate-depression-gpa.md) — related
 - [Neither ADHD symptoms alone nor combined with comorbid symptoms significantly predict first-semester GPA; only depressive symptoms show a significant independent contribution](no-adhd-comorbidity-prediction-first-semester-gpa.md) — related
+- [Exhaustion relates positively to depression and negatively to life satisfaction; engagement relates positively to life satisfaction; neither relates to academic achievement](burnout-engagement-outcomes-achievement-null.md) — related
+- [Depressive symptom prevalence among Chinese college students rises from 26.7% in the first academic year to 36.7% in the second](ds-prevalence-rises-26-7-to-36-7-chinese-freshmen.md) — related
+- [Negative life events are related to lower academic engagement via social support and depressive symptoms](nle-related-to-lower-academic-engagement-via-ss-and-ds.md) — related
+- [High academic performance (upper GPA quartile) in medical undergraduates is not predicted by self-efficacy, optimism, resilience or perceived stress](psychological-variables-do-not-predict-high-gpa-upper-quartile.md) — related
+- [Depressive symptoms predict subsequent academic engagement more strongly than academic engagement predicts depressive symptoms in Chinese college students](ds-predicts-later-academic-engagement-cross-lagged.md) — related

@@ -35,7 +35,8 @@ A behavioural marker assessment system developed by the University of Aberdeen f
 - [The decision-making sub-item of the ANTS score was significantly better in the observer-tool group than in the control group](../claims/observer-tool-decision-making-better.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AS-NTS behavioural marker system](as-nts-behavioural-marker-system.md)
 
 ## Key Sources
 - Kang Jiamin, Hu Jiale, Yan Chunji, Xing Xueyan, Tu Shumin, Zhou Fang. (2024). Development and applications of the Anaesthetists’ Non-Technical Skills behavioural marker system: a systematic review. BMJ Open. https://doi.org/10.1136/bmjopen-2023-075019

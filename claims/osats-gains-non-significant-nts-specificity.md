@@ -48,3 +48,4 @@ Same paired pre-post video-assessment study of seventeen surgeons rated with the
 - [Surgeons' mean HUFOES scores for non-technical skills rose significantly from 48.7 ± 16.6 to 59.2 ± 14.8 after simulation-based PCR training with an NTS-focused intervention, in one uncontrolled pre-post study (p < 0.001)](nts-simulation-training-improves-hufoes-scores.md) — related
 - [OSATS was the most frequently used technical-skills assessment tool, but many OSATS variations were used without validity evidence](osats-most-common-ts-tool-variations-lack-validity.md) — related
 - [Structured feedback with video debriefing and CVS annotation yields higher global and task-specific OSATS and GOALS scores in ex-vivo laparoscopic cholecystectomy training](structured-feedback-video-debriefing-higher-osats-goals.md) — related
+- [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related

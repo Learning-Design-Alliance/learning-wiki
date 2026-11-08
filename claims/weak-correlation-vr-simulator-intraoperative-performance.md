@@ -71,3 +71,5 @@ The review synthesizes that "there was an overall weak and negative correlation 
 - [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related
 - [Correlations between simulator task performance and intraoperative GEARS domains vary by task, and one study found no correlation between dVSS scores and intraoperative GEARS scores](task-specific-correlations-and-null-mills-study.md) — related
 - [Robotic VR simulator performance is positively correlated with intraoperative performance, with a pooled correlation of r = 0.67 (95% CI 0.22 to 0.88)](vr-simulator-performance-predicts-intraoperative-performance-r067.md) — reports the opposite
+- [The high cost of virtual reality simulators limits widespread adoption, and their cost-effectiveness for robotic surgery has not been clearly demonstrated](vr-simulator-cost-effectiveness-undemonstrated.md) — related
+- [Virtual reality simulation is a valid training tool for the early phase of robotic surgery training, with validity established for six major commercial simulators](vr-simulation-validity-robotic-training.md) — related

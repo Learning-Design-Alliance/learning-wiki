@@ -73,3 +73,4 @@ Post-test results from the same RCT: "the average number of correct answers was 
 - [Student nurse-midwives' skills scores in postpartum hemorrhage prevention and management rose from baseline to endline after simulation-based education, in one uncontrolled pre-post study](simulation-education-improves-pph-skills-tanzanian-nurse-midwives.md) — related
 - [Nurses' poststroke depression knowledge scores rose significantly from 62.5 to 86.07 out of 100 after the education program](psd-nurse-knowledge-score-increase.md) — related
 - [Exploratory post hoc subgroup analysis suggests the postpartum haemorrhage e-learning module outperformed the preeclampsia module](pph-elearning-outperformed-pe-explorative.md) — related
+- [Knowledge of postpartum hemorrhage correlates positively with clinical reasoning on postpartum hemorrhage](knowledge-correlates-with-clinical-reasoning-pph.md) — related

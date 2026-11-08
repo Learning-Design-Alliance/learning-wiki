@@ -45,7 +45,8 @@ The article's educational program is a six-month, 48-session clinical training d
 - [Learner As Director Theme](../claims/learner-as-director-theme.md) [+M]
 
 ## Related Designs
-- 
+
+- [Year-3 self-directed e-learning course combining reflective self-assessment and clinical video analysis](year3-self-directed-elearning-clinical-course.md)
 
 ## Examples
 -

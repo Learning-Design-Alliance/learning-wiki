@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (142 show a difference, 27 mixed, 11 no difference) · 154 studies (61 causal, 29 review, 23 qualitative, 12 associational, 12 design, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 13 of 154 report an effect size · 180 claims rest on one study
+> **Evidence** · 182 claims (143 show a difference, 27 mixed, 12 no difference) · 156 studies (62 causal, 29 review, 23 qualitative, 13 design, 12 associational, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 13 of 156 report an effect size · 182 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -222,6 +222,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Group members' willingness to continue working with a student positively predicts that student's achievement regardless of course](../claims/group-member-willingness-predicts-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Leadership and teamwork section scores were better on the second day of the simulation activity](../claims/leadership-teamwork-better-day-two.md) [+M] — measured as an outcome of the instruction studied
 - [Improvement from the intervention varies across nontechnical skill domains, with teamwork highest and situational awareness lowest](../claims/domain-varying-improvement-teamwork-highest-situational-awareness-lowest.md) [+W] — measured as an outcome of the instruction studied
+- [Situation awareness education produced no significant improvement in TEAM teamwork and overall subscale scores in ICU teams](../claims/sa-education-no-teamwork-overall-effect-icu-teams.md) [-M] — measured as an outcome of the instruction studied
+- [Cooperation was the personal ability most frequently reported as enhanced by the competition, endorsed by roughly 89–93% of team leaders, students, and volunteers](../claims/guanghua-cup-cooperation-most-reported-benefit.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (84 show a difference, 25 mixed, 22 no difference) · 84 studies (41 causal, 18 associational, 12 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 19 of 84 report an effect size · 130 claims rest on one study
+> **Evidence** · 132 claims (85 show a difference, 25 mixed, 22 no difference) · 85 studies (41 causal, 18 associational, 12 review, 9 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 19 of 85 report an effect size · 131 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -171,6 +171,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Students read marginally faster on iPad than paper, though not statistically significant overall](../claims/ipad-reading-speed-marginally-faster.md) [-M] — instruction changes it
 - [Top-quartile time-restricted reading comprehension, essay quality, reading speed, writing speed and vocabulary are each associated with top academic marks](../claims/literacy-quartile-association-academic-marks.md) [+M] — learners who differ on it differ in outcomes
 - [Cognitive activity training significantly improved reading speed in refugee children while controls showed no change](../claims/cat-improves-reading-speed.md) [+M] — measured as an outcome of the instruction studied
+- [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](../claims/targeted-training-doubles-reading-fluency-first-graders.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

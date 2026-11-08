@@ -63,3 +63,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Student self-assessment scores were high across CBL cases but declined significantly in the final case, with cooperation and communication falling most](self-assessment-declined-final-cbl-case.md) — related
 - [Most clerkship students perceive that CBL improved their clinical reasoning ability](cbl-perceived-clinical-reasoning-gain.md) — related
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
+- [Cooperation was the personal ability most frequently reported as enhanced by the competition, endorsed by roughly 89–93% of team leaders, students, and volunteers](guanghua-cup-cooperation-most-reported-benefit.md) — related

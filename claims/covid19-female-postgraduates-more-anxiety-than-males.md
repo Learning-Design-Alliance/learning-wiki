@@ -71,3 +71,4 @@ Multivariable logistic regression (Table 9) of factors influencing mental health
 - [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
 - [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related
 - [There were no significant differences between surgical and internal medicine postgraduates in either mental health or academic performance during the pandemic](covid19-no-surgical-internal-differences-postgraduates.md) — related
+- [COVID-19 contagion anxiety for oneself or others increases the likelihood of poor academic performance by more than 3 times](contagion-anxiety-predictor-poor-performance.md) — related

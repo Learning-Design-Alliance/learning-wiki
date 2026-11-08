@@ -45,6 +45,7 @@ To test whether a teaching intervention serves both high and low scorers, the ar
 
 - [Use school-level block randomization with a principal-components index to balance a diverse district sample](block-randomization-pca-index-school-assignment.md)
 - [Match statistical control methods to variable structure and measurement quality, preferring stratification, covariate adjustment, matching, or regression discontinuity accordingly](statistical-control-method-selection-strategy.md)
+- [Stratified randomization on baseline performance to ensure equivalent experimental and control groups](stratified-randomization-baseline-performance-equivalence.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ One-way ANOVA on survey data from 438 nursing professionals. The article reports
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — related
 - [Mature Nursing students reported significantly lower empathic care intentions than younger counterparts, possibly explaining the discipline's lower scores](mature-nursing-students-lower-empathic-intentions.md) — related
 - [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — related
+- [The experimental and control groups differed significantly in age, nursing seniority, professional level, and department at baseline](group-imbalance-age-seniority-department.md) — related

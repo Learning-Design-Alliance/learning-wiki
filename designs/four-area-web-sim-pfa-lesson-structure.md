@@ -46,6 +46,7 @@ The program structures online simulation learning into four phases: pre-learning
 - [A 4-hour, three-session PFA training program adapted from WHO guidelines with lecture, simulation, and role-playing](who-pfa-4h-three-session-training.md)
 - [The briefing–scenario–debriefing (BSD) cycle as a design scaffold for distributing guidance, feedback, and representational work over time](bsd-cycle-design-scaffold.md)
 - [Clinical Scenario Simulation Course (CSSC): a standardized Briefing–Facilitation–Debriefing simulation program for ANE management](cssc-briefing-facilitation-debriefing-model.md)
+- [Clinical-scenario simulation practice with web-based preview and teacher-guided debriefing](sbme-clinical-scenario-practice-pattern.md)
 
 ## Examples
 -

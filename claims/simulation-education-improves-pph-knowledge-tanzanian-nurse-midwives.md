@@ -56,3 +56,4 @@ Pre-post quasi-experimental study without a control group of 55 third-year stude
 - [Four weeks of e-learning on managing substance-dependent pregnant women significantly increases midwives' knowledge compared with no educational intervention](e-learning-increases-midwives-knowledge-substance-dependent-care.md) — related
 - [Exploratory post hoc subgroup analysis suggests the postpartum haemorrhage e-learning module outperformed the preeclampsia module](pph-elearning-outperformed-pe-explorative.md) — related
 - [A context-relevant safe anesthesia checklist developed with East African professionals increased completion of critical actions in simulated preeclampsia and PPH care](east-africa-checklist-critical-actions-increase.md) — related
+- [Knowledge of postpartum hemorrhage correlates positively with clinical reasoning on postpartum hemorrhage](knowledge-correlates-with-clinical-reasoning-pph.md) — related

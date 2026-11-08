@@ -51,3 +51,4 @@ Multiple linear regression on the 234-participant cross-sectional sample, incorp
 - [Among these nursing undergraduates, mean SDL score was 90.19 ± 10.10, mean MPAI score 40.12 ± 11.10, mean TAS-20 score 51.32 ± 8.59, and 11.8% were identified with alexithymia](sdl-mpai-tas20-descriptive-levels-nursing-undergraduates.md) — related
 - [Multivariate linear regression identified 7 Labrador questionnaire items statistically related to technology addiction](multivariate-seven-items-related-tech-addiction.md) — related
 - [Mobile phone addiction is positively associated with internet addiction among university students in both Czech and Chinese samples](mobile-phone-addiction-positively-associated-internet-addiction.md) — related
+- [Smartphone addiction significantly predicts low perceived academic performance among Filipino high school students](sa-predicts-low-pap-filipino-high-school.md) — related

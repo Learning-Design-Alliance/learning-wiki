@@ -66,6 +66,8 @@ The article describes a standardized simulation-based training protocol structur
 - [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
 - [Use a first-person 3D procedure video as an educational precursor to simulation-based training](3d-video-precursor-to-simulation-strategy.md)
 - [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
+- [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
+- [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 
 ## Examples
 -

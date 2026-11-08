@@ -89,3 +89,4 @@ Same SEM path analysis; the direct path from self-regulation to academic self-ef
 ## Related Claims
 - [Self-regulation, time management, and academic self-efficacy show significant positive correlations among Turkish undergraduates (r = 0.81, 0.56, 0.69)](sr-tm-ase-positive-correlations-turkish-undergraduates.md) — related
 - [Self-efficacy directly predicts critical thinking among university students](self-efficacy-predicts-critical-thinking.md) — related
+- [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related

@@ -47,3 +47,4 @@ Multiple regression analysis (Enter method, five models run separately by sex) i
 ## Related Claims
 - [Leisure-time physical activity alone statistically significantly but modestly predicts overall academic competence in primary school children (about 3% of variance in girls, 4% in boys)](leisure-pa-modest-predictor-academic-competence.md) — possibly the same claim (merge candidate)
 - [Intensity of daily PA strongly predicts boys' reading competence in adjusted models](pa-intensity-predicts-boys-reading-competence.md) — related
+- [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related

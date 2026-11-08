@@ -41,7 +41,8 @@ In this quasi-experiment, since random assignment of individuals was not used, t
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](../claims/music-math-pretest-equivalence-achievement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Stratified randomization on baseline performance to ensure equivalent experimental and control groups](stratified-randomization-baseline-performance-equivalence.md)
 
 ## Examples
 -

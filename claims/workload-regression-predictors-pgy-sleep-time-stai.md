@@ -71,3 +71,4 @@ Multiple regression on 76 live OR cases showed significant contributions of PGY 
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related
 - [Uterine volume was not associated with operative time, and trained residents reduced operative time despite resecting larger uteri](uterine-volume-not-associated-operative-time.md) — related
 - [Cortisol AUCg was positively related to STAI-Y score in both simulation groups, but not to NASA-TLX, sex, or (in PS) session time](cortisol-aucg-related-to-stai-y-both-groups.md) — related
+- [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](nasa-tlx-workload-correlates-task-time.md) — related

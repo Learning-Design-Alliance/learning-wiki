@@ -71,3 +71,4 @@ Diagnostic accuracy statistics for two preschool IQ cut-offs against school diff
 - [Impaired preschool motor performance is associated with school difficulties at age 18 in children born extremely preterm, but the effect is attenuated when IQ is accounted for](impaired-preschool-motor-school-difficulties-ept.md) — related
 - [Children born extremely preterm whose preschool IQ is above −1 SD have a lower risk of school difficulties (17%) than the term-born background population (24%)](iq-above-minus-1sd-lower-risk-than-term.md) — related
 - [The odds of school difficulties at age 18 increase stepwise as preschool IQ decreases in children born extremely preterm or with extremely low birthweight](iq-stepwise-school-difficulties-ept.md) — related
+- [About one in ten preterm school-age children assessed shows low or borderline IQ, with mean total IQ near the population mean](preterm-iq-low-borderline-10-9-percent.md) — related

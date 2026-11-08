@@ -76,6 +76,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Supervise cadaver-based colonoscopy training with skilled endoscopist feedback and debriefing, since the model lacks objective performance metrics](cadaver-colonoscopy-supervised-debriefing-strategy.md)
 - [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 - [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
+- [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 
 ## Examples
 -

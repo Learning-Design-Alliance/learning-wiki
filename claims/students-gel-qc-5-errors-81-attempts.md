@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-08
 sources:
   - id: gasparello-jessica-2022
     resource: "https://doi.org/10.1371/journal.pone.0266419"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the student quality-control exercise, 5 errors occurred over 81 attempts (6.17%), including loading errors and two plasmid DNA contaminations. [→ Gasparello Jessica 2022](#gasparello-jessica-2022)

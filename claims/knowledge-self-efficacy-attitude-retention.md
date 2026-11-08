@@ -76,3 +76,5 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
 - [PBL in-service breastfeeding training improved health professionals' knowledge, attitudes and practices, with retention at 4–6 months](pbl-breastfeeding-kap-improvement-retention.md) — related
 - [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related
+- [Within the treatment group, perceived stress dropped significantly from pre-test to post-test and remained stable from post-test to follow-up](ree-within-group-stress-change-sustained.md) — related
+- [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related

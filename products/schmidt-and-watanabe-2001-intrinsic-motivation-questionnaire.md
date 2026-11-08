@@ -25,7 +25,8 @@ A 30-item five-point Likert self-report questionnaire developed by Schmidt and W
 - [Reflective teaching significantly enhances the intrinsic motivation of Iranian upper-intermediate female EFL learners](../claims/reflective-teaching-enhances-intrinsic-motivation.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Learning Motivating Factors Questionnaire](learning-motivating-factors-questionnaire.md)
 
 ## Key Sources
 - Abdolrezapour, P., & Fallah, E. (2015). An investigation into the impact of reflective teaching on EFL learners’ autonomy and intrinsic motivation. Cypriot Journal of Educational Science. 10(4), 305-315. https://doi.org/10.18844/cjes.v10i4.229

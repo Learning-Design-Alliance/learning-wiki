@@ -48,3 +48,5 @@ Serial mediation analysis (Hayes PROCESS model 6, 5000 bootstrap samples) on n =
 - [Authoritative parenting prospectively predicts higher academic achievement of Lebanese adolescents six months later, compared to neglectful, permissive and authoritarian styles](authoritative-parenting-predicts-achievement-lebanese-adolescents.md) — related
 - [Parenting style relates to achievement indirectly through self-efficacy alone and through intention alone](indirect-effects-self-efficacy-intention-separately.md) — related
 - [Higher self-efficacy and stronger intention at baseline are each associated with higher academic achievement six months later, while attitude and social norms are not](self-efficacy-intention-correlate-achievement.md) — related
+- [Changes in attitude, social norms, and intention were not significantly associated with changes in academic achievement](attitude-norms-intention-change-null-achievement.md) — related
+- [Increases in academic self-efficacy are associated with higher academic achievement at 12 months but not at 6 months in Lebanese adolescents](self-efficacy-increase-achievement-12-months-only.md) — related

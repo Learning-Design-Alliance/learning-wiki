@@ -73,3 +73,4 @@ Cross-sectional analysis in AREDS2 (3,326 participants analyzed) using telephone
 - [Individual aMED components: vegetable, nut, and moderate alcohol intakes show protective associations with cognitive function](amed-components-vegetables-nuts-alcohol-protective.md) — related
 - [Mediterranean Diet adherence alone shows no significant association with self-regulation, but helps in combination with other habits](mediterranean-diet-adherence-alone-no-significant-self-regulation-association.md) — related
 - [Higher fish intake is associated with slower cognitive decline over 5 to 10 years in AREDS2](fish-intake-slower-cognitive-decline.md) — related
+- [Increases in adherence to the Mediterranean diet are associated with increases in academic achievement among Lebanese adolescents at both 6- and 12-month follow-up](mediterranean-diet-adherence-increase-associated-academic-achievement.md) — related

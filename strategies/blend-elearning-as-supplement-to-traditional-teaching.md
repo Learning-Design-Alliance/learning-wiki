@@ -86,6 +86,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Apply e-learning alongside in-person instruction as a complementary learning opportunity, especially for practical and clinical courses](combine-e-learning-with-in-person-for-practical-skills.md)
 - [Adopt blended learning combining e-learning with traditional classrooms for medical education amid crises](blended-learning-medical-education-crisis-strategy.md)
 - [Implement the validated otoscopy simulator as a complementary tool alongside traditional teaching in medical curricula](vr-otoscopy-simulator-complementary-curriculum-strategy.md)
+- [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 
 ## Examples
 -

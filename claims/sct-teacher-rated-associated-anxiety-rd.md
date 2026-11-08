@@ -66,3 +66,4 @@ Adjusted longitudinal linear mixed-effects models (16 models in total, with subj
 ## Related Claims
 - [No significant SCT associations were found for any parent-reported measures in this RD cohort](no-parent-reported-sct-associations-rd.md) — related
 - [ADHD-IN moderates the longitudinal SCT–anxiety association: positive association only in children with low ADHD-IN](sct-anxiety-moderated-by-adhd-in-longitudinal.md) — related
+- [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related

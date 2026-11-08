@@ -96,6 +96,9 @@ The review recommends that training modalities be combined in a progressive curr
 - [Integrate objective force-based assessment of tissue handling into robotic surgery training](objective-force-assessment-in-ras-training.md)
 - [Integrate a brief one-on-one mentored simulation session as introductory training for novice cath-lab trainees](brief-mentored-simulation-introductory-training-strategy.md)
 - [Structured, competency-based procedural VR training programme for robotic surgery curricula](structured-competency-based-procedural-vr-programme.md)
+- [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
+- [Replace live animal and cadaver robotic surgery training with validated synthetic organ models, enabled by scalable mass production](scale-mass-production-synthetic-models.md)
+- [Use VR simulation as a complement to conventional theoretical training for dental implant surgical skill development](vr-simulation-complement-conventional-implant-training-strategy.md)
 
 ## Examples
 -

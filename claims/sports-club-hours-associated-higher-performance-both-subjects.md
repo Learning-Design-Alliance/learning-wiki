@@ -54,3 +54,4 @@ Fully adjusted logistic models for high mathematics grades in the I.Family cohor
 - [Associations between sports participation and grades are stronger for boys than girls, and girls showed no significant dose relationship in Chinese and math](sports-participation-grades-sex-differences.md) — related
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
 - [Gender-specific PA characteristics predict academic competence: PA frequency for girls and sports club participation for boys](gender-specific-pa-predictors-academic-competence.md) — related
+- [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — possibly the same claim (merge candidate)

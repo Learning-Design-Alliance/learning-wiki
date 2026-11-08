@@ -88,3 +88,5 @@ Component-level analyses of the composite complication outcome in the same trial
 - [Procedure-related complications do not differ significantly between simulation-based and non-simulation based training groups](sbt-no-complication-difference-airway.md) — a broader claim this one bears on
 - [Mental imagery produces a greater improvement in adapted Mental Imagery Questionnaire score than workshop participation alone](mental-imagery-miq-score-improvement.md) — related
 - [First-attempt puncture success is comparable between groups, but trained students require significantly more attempts for success](first-attempt-success-comparable-more-attempts-trained.md) — related
+- [IVR training significantly reduces the proportion of surface punctures relative to successful cannulations compared to e-learning alone](ivr-training-reduces-surface-punctures.md) — related
+- [IVR training significantly increases successful cannulation rates for the first and second PVC attempts but not for the third, more difficult PVC](ivr-benefit-first-second-pvc-not-third.md) — related

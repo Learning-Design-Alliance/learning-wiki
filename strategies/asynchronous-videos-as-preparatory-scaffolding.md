@@ -64,6 +64,8 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Deliver standardized e-learning modules asynchronously as a supplement to clinical rotations, shared across institutions](shared-asynchronous-e-module-rotation-supplement-strategy.md)
 - [Pair live online tutorials with asynchronous tools — case reports, model answers and tutorial recordings — for consolidation and reflection](synchronous-asynchronous-case-learning-tools.md)
 - [Use pre-class expert demonstration videos with in-class self-directed triad practice to increase efficiency of clinical skill teaching](pre-class-video-triad-practice-strategy.md)
+- [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
+- [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
 
 ## Examples
 -

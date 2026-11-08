@@ -63,6 +63,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
+- [Integrate basic life support as a mandatory curricular activity and use multi-professional simulation in teaching-service settings](bls-mandatory-curricula-multiprofessional-simulation.md)
 
 ## Examples
 -

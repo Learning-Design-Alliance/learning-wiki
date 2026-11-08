@@ -49,3 +49,4 @@ Descriptive analysis of the Coronavirus Anxiety Scale (a validated five-item scr
 - [Dysfunctional COVID-19 anxiety (CAS) was not a predictor of academic decline after adjustment](cas-anxiety-not-predictor-of-academic-decline.md) — related
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
 - [One in four university students surveyed in 2022 reported a decline in academic performance during the COVID-19 pandemic](quarter-students-reported-academic-decline-covid.md) — related
+- [COVID-19 contagion anxiety for oneself or others increases the likelihood of poor academic performance by more than 3 times](contagion-anxiety-predictor-poor-performance.md) — related

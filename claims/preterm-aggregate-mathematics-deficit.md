@@ -54,3 +54,4 @@ Random-effects meta-analysis pooling mean differences on standardized mathematic
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
 - [Children born at 35-36 6/7 weeks gestation show no significant difference in academic test scores from term children in reading, mathematics, or science](late-preterm-no-score-difference.md) — related
+- [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related

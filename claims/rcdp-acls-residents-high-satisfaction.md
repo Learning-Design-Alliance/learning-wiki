@@ -51,3 +51,4 @@ Post-course survey of 21 participants from the eight offerings of the RCDP ACLS 
 - [Participants rated RCDP training positively: 95.7% responded, 97% agreed the theme was important for daily practice, and 78% judged repetition more effective than traditional simulation](positive-learner-reaction-to-rcdp-pediatric-cpr-training.md) — related
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
+- [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related

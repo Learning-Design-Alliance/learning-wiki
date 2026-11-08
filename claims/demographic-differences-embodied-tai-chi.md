@@ -53,3 +53,4 @@ One-way ANOVA, t-tests, and Scheffé post-hoc tests on the 518-student survey. T
 - [Skill acquisition in the experimental group did not differ significantly by sex, academic year, or university major](no-demographic-differences-skill-acquisition.md) — related
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
+- [ANOVA by demographic subgroups (sex, residence, year of study, monthly allowance, ethnicity, location) indicated significant group differences at post-test and follow-up](ree-stress-effects-across-demographic-subgroups.md) — related

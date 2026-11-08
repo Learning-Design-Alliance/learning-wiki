@@ -100,3 +100,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
 - [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related
 - [Absolute score changes did not differ significantly by most participant characteristics or e-learning use parameters, though two subgroup differences were significant.](mali-elearning-subgroup-changes-mixed.md) — related
+- [ANOVA by demographic subgroups (sex, residence, year of study, monthly allowance, ethnicity, location) indicated significant group differences at post-test and follow-up](ree-stress-effects-across-demographic-subgroups.md) — related

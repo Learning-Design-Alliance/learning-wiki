@@ -50,6 +50,7 @@ Based on the study's limitations and conclusions, the authors recommend that "th
 ## Related Strategies
 
 - [Embed feedback literacy programme-wide and extend LMSs for feedback storage, retrieval and loop-closing](programme-wide-embedding-and-lms-feedback-repository.md)
+- [Engage medical students as peer assessors in high-fidelity-simulation-based clinical performance evaluation](students-as-peer-assessors-simulation-evaluation.md)
 
 ## Examples
 -

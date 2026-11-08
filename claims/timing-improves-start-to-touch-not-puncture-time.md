@@ -51,3 +51,5 @@ Video-verified timing of each US-FNA trial for 15 residents over three training 
 - [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related
 - [Procedure duration and number of successful punctures are similar between standard- and reversed-orientation groups in both attempts](reversed-screen-time-and-success-similar.md) — related
 - [Productive failure plus debriefing training improves one-time PICC puncture success rate; complication reductions are not consistently significant](productive-failure-debriefing-puncture-success-complications.md) — related
+- [Puncture accuracy improved for needle tip distance but not for needle shaft distance after training with the modular system](needle-tip-accuracy-improved-shaft-not.md) — related
+- [Needle tip visualization during the in-plane approach rose from pre-test to posttest after training with the modular system, in one uncontrolled pre-post study](needle-tip-visualization-improved-after-training.md) — related

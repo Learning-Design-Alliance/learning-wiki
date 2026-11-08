@@ -53,3 +53,4 @@ Single quasi-experimental two-group pre-post study among 80 nurses (40 per forma
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [In-person group formats were more effective than online or independent formats for empathy training](in-person-group-format-empathy-training.md) — related
 - [Undergraduate nursing students taught with Skinner's programmed instruction achieved higher post-intervention diabetes knowledge scores than students taught with traditional lectures](programmed-instruction-higher-diabetes-knowledge.md) — related
+- [Training intensity (low digital vs. high with face-to-face) did not affect teacher acceptability ratings of the program or the online module](training-intensity-no-effect-teacher-acceptability.md) — related

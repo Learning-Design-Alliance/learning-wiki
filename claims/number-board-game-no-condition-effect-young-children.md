@@ -57,3 +57,4 @@ Pre-registered ANCOVA on post-test scores with pre-test and condition as predict
 - [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](letter-sound-knowledge-no-unique-bidirectional-relation.md) — related
 - [In the Nelson, Benner, & Gonzalez (2005) RCT, SSL produced statistically significant positive effects on all five alphabetics outcomes](ssl-nelson-benner-gonzalez-2005-significant-outcomes.md) — related
 - [In a Chicago quasi-experiment, Earobics®'s overall effect was not significant, but the CTOPP Sound Matching subtest showed a significant positive effect](earobics-valliath-2002-sound-matching-significant.md) — related
+- [The intervention had no impact on the control condition of mirror trials for non-alphabetic symbols](training-no-effect-non-alphabetic-symbol-mirror-trials.md) — related

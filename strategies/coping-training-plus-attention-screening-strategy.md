@@ -60,6 +60,7 @@ The article recommends that low-resource universities support achievement throug
 - [Organize mindfulness and adaptability courses and workshops for university students, especially new students](mindfulness-adaptability-workshops-strategy.md)
 - [Screen poor readers entering higher education for reading-specific anxieties rather than general well-being alone](screen-reading-anxiety-higher-education.md)
 - [Use the UNI to screen students and target psychosocial support services](uni-screening-targeted-support-strategy.md)
+- [Monitor modifiable risk factors for poor academic performance during distance education and support students through university counselling services](monitor-modifiable-risk-factors-de-counselling-support.md)
 
 ## Examples
 -

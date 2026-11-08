@@ -48,3 +48,4 @@ Comparison of maternal versus paternal relative categories in the national-test 
 - [Within-family Mendelian randomization finds little evidence that mothers' or fathers' educational attainment causally affects children's depressive, anxiety, or ADHD traits at age 8](within-family-mr-little-evidence-parental-education-child-mental-health.md) — related
 - [Parent gender related to adolescents' autonomous motivation during home-based learning, with maternal involvement associated with higher motivation](parent-gender-associated-with-adolescent-motivation.md) — related
 - [Same-sex pairs of relatives are slightly but systematically more correlated on school performance than opposite-sex pairs](same-sex-pairs-slightly-more-correlated.md) — related
+- [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — related

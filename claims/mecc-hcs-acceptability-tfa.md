@@ -53,3 +53,4 @@ Post-training value ratings (n = 23) and Theoretical Framework of Acceptability 
 - [Perceived usefulness of conversations for supporting behaviour change increased significantly post-training but the pre-to-6-month increase was not significant](mecc-hcs-usefulness-mixed.md) — related
 - [TDF analysis identified Intentions and Social/Professional Role and Identity as enablers, and Environmental Context and Resources plus Memory, Attention and Decision Processes as the biggest barriers to MECC HCS implementation](mecc-hcs-tdf-barriers-enablers.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
+- [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related

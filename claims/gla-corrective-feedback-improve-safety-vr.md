@@ -78,3 +78,4 @@ Same safety analysis in the VR pipetting experiment: the mixed ANOVA showed "no 
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — a broader claim this one bears on
 - [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related
+- [Photodocumentation completeness improved in both feedback and control groups, but gastroscopic inspection time did not improve in either](endo-adm-photodoc-improved-inspection-time-not.md) — related

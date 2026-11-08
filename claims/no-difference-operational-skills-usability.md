@@ -73,3 +73,4 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [The review reports SBME yields positive outcomes across oncology subspecialties, including communication skills, chemotherapy safety, and radiation oncology competencies](sbme-positive-outcomes-oncology-subspecialties.md) — related
 - [Adding immersive VR training to an online module yields higher mannequin-based technical skill scores (OSATS) than the online module alone in novice medical students](vr-plus-online-higher-osats-chest-tube.md) — related
 - [An immersive VR PCNL simulator outperformed conventional VR in ratings but did not differ from a porcine physical model](immersive-vr-pcnl-vs-porcine-ratings.md) — related
+- [Technical skills scores after VR-based training were slightly lower than after conventional training, attributed to reduced skills-practice time](vr-group-technical-skills-slightly-lower.md) — reports the opposite

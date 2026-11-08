@@ -53,6 +53,7 @@ The authors recommend that 'puzzle‐based teaching techniques be used regularly
 - [Train teachers to create educational games with iPad applications through school workshops and an application-specific teacher manual](teacher-training-ipad-game-workshops.md)
 - [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
 - [Adopt low-cost, non-digital board games as adjuncts for complex biomedical topics](board-games-as-adjunct-for-complex-topics.md)
+- [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ ANCOVA of post-treatment ATMI scores showed a statistically significant three-wa
 - [No significant interaction effect of treatment and gender on students' attitudes toward mathematics](no-treatment-gender-interaction-attitudes.md) — related
 - [TAI and framing strategies were more effective than the traditional method in promoting students' attitudes toward mathematics](tai-framing-more-effective-than-traditional-method-attitudes.md) — related
 - [Significant interaction effect of treatment and style of categorisation on students' attitudes toward mathematics](treatment-sct-interaction-attitudes.md) — related
+- [Gender, teaching method, and gender-group composition show a statistically significant three-way interaction on undergraduate biology students’ attitudes](gender-method-composition-three-way-interaction-biology-attitudes.md) — related

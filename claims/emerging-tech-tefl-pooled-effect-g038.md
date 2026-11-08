@@ -59,3 +59,4 @@ Random-effects meta-analysis of 33 experimental and quasi-experimental studies (
 - [Effect size estimates for hands-on science interventions are highly heterogeneous across studies](hands-on-effect-sizes-high-heterogeneity.md) — related
 - [Web 2.0 technologies (wikis and blogs) show a positive, moderate pooled effect on academic performance (E++ = 0.740) across 19 quasi-experimental studies](web20-pooled-effect-academic-performance-0740.md) — related
 - [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](edtech-pooled-effect-attainment-d-0-4.md) — related
+- [Item-level results across content areas showed moderate to high heterogeneity (I2 from 44.47% to 80.26%)](high-heterogeneity-pooled-item-analysis.md) — related

@@ -78,6 +78,7 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 - [Ground proficiency-scale comprehensibility descriptors in empirically identified linguistic measures](empirically-ground-comprehensibility-scale-descriptors.md)
 - [Checklists](checklists.md) — the least complex form of scoring rubric, indicating presence/absence of a component without judging its quality
 - [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
+- [A master rubric with selectable grading scales to assess knowledge identification, integration, and synthesis across disciplines](master-rubric-knowledge-identification-integration-synthesis.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — rubric descriptors make feedback specific and criterion-referenced rather than evaluative

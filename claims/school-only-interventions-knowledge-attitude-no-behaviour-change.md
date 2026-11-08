@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-08
 sources:
   - id: bajpai-tewari-2026
     resource: "https://doi.org/10.3390/ijerph23081073"
@@ -25,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Interventions confined to students and school administration improved knowledge and attitudes but did not produce behavioural change in substance use. [→ Bajpai Tewari 2026](#bajpai-tewari-2026)
+`q2 i?` The review reports that HeadOn and SUPEP, models whose participants were confined to students and school administration, improved knowledge and attitudes without corresponding behavioural change in substance use; it does not generalise this to every school-only intervention. [→ Bajpai Tewari 2026](#bajpai-tewari-2026)
 
 ## Evidence
 

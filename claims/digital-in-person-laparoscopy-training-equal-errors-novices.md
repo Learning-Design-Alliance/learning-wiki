@@ -55,3 +55,4 @@ Randomized controlled trial of 40 laparoscopic novices randomized to digital (n=
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [Weekly videogaming experience of more than one hour is not associated with significantly different task completion times in laparoscopy novices](videogaming-experience-no-significant-laparoscopy-time-difference.md) — related
 - [After using the low-cost laparoscopy simulator, 76.4% of medical students reported acquired confidence in performing video-surgical procedures, up from 2% initially feeling safe (p<0.0001)](low-cost-laparoscopy-simulator-increased-student-confidence.md) — related
+- [Simulation-based training significantly reduced major errors during tunnel construction compared with conventional training](simulation-training-reduced-major-errors-significantly.md) — related

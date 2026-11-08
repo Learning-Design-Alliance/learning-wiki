@@ -48,6 +48,7 @@ Based on the finding that Chinese users became more critical of online education
 - [Redesign preview content and vary examples across video types to raise coverage](vary-examples-and-slim-previews-to-raise-coverage.md)
 - [Pace and vary gamified activities, and offer self-directed options, to mitigate learner fatigue](pace-and-vary-gamified-activities-to-mitigate-learner-fatigue.md)
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
+- [Use complementary online group activities, responsive instructor support, and paper-based activities to counter isolation and screen-related stress in distance e-learning](complementary-activities-distance-e-learning-isolation.md)
 
 ## Examples
 -

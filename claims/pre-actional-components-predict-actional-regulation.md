@@ -101,3 +101,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
 - [Middle-grade students' e-learning performance correlates strongly with self-efficacy for learning and performance](middle-grade-self-efficacy-correlation.md) — related
 - [Metacognitive self-regulation is positively associated with college course grades and GPA](metacognitive-self-regulation-grades-gpa-association.md) — related
+- [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](motivational-strategies-little-difference-bl-dt.md) — related

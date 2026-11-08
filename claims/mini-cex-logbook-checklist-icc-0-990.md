@@ -58,3 +58,4 @@ Reliability analysis in SPSS-25 of the Delphi- and face-to-face-validated checkl
 - [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — a narrower finding that bears on this claim
 - [Teams' research competency performance in the escape room averaged 336 ± 137.1 raw, 38.8 ± 20.9 negative, and 298 ± 150.1 final scores](morad-escape-team-competency-scores.md) — related
 - [Logbooks alone do not deliver sufficient reliability or validity for accreditation purposes and do not correlate with educational outcomes](logbooks-alone-insufficient-for-accreditation.md) — reports the opposite
+- [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related

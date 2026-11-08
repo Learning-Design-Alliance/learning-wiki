@@ -51,6 +51,7 @@ The IMR-SS provided "concurrent real-time multimodal feedback (visual warnings, 
 - [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
 - [Provide additional guidance tools such as intraoperative fluoroscopy during a trainee's first 20 CT-navigated THA cases](additional-tools-first-20-navigated-cases.md)
 - [Real-time HRV monitoring with individual thresholds to trigger expert support and prevent work-overload events](realtime-hrv-threshold-monitoring-strategy.md)
+- [Develop more sensitive laparoscopic instruments that allow accurate haptic feedback during training](sensitive-instruments-haptic-feedback-laparoscopic-training.md)
 
 ## Examples
 -

@@ -30,6 +30,7 @@ ILIAS is an open-source learning management and collaboration platform developed
 - [Moodle](moodle.md)
 - [Generalized Intelligent Framework for Tutoring (GIFT)](generalized-intelligent-framework-for-tutoring-gift.md)
 - [WISE (Web-based Inquiry Science Environment)](wise-web-based-inquiry-science-environment.md)
+- [Galaxy](galaxy.md)
 
 ## Key Sources
 - Egen C, Gutenbrunner C, Ernst J, Sturm C, Schiller J. (2025). Innovative e-learning tool for amputees in Ukraine and GermanyDigital assistance for self-help in interdisciplinary rehabilitative care. Unfallchirurgie. https://doi.org/10.1007/s00113-025-01543-4

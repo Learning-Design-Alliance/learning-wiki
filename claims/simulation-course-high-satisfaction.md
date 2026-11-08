@@ -52,3 +52,7 @@ Post-test satisfaction survey of the experimental group (n = 58), an 11-item fiv
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
 - [Residents reported high satisfaction with the COVID-19-adapted simulation activity](high-satisfaction-covid-simulation.md) — related
+- [Participants report high satisfaction with simulation design, with feedback/reflection scoring highest](high-satisfaction-simulation-design-ed.md) — related
+- [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related
+- [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
+- [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related

@@ -48,7 +48,8 @@ The review's forward-looking recommendation for research on music and surgical s
 - [Participant-preferred music shows more consistent beneficial effects on simulated surgical performance than researcher-selected music](../claims/preferred-music-benefits-surgical-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Combine cognitive training with direct da Vinci simulator training, using larger samples and higher numbers of monitored training trials, in future robotic surgery curricula](combine-ct-davinci-training-future-curricula.md)
 
 ## Examples
 -

@@ -75,3 +75,5 @@ Pearson product-moment correlation within the immersion group (n = 37) comparing
 - [Test anxiety is the highest FLCA component, followed by communication apprehension and fear of negative evaluation](flca-component-ranking-test-anxiety-highest.md) — related
 - [No correlation found between foreign language classroom anxiety and maths performance](flca-no-correlation-maths-performance.md) — related
 - [Cooperative learning significantly reduces foreign language writing anxiety compared with solitary writing](cooperative-writing-reduces-efl-writing-anxiety.md) — related
+- [Final-exam achievement was higher than semester achievement for Latvian and foreign language but lower for mathematics](semester-versus-exam-achievement-shift.md) — related
+- [Anxiety weakly positively correlated with semester achievement in all subjects, but at the state exam only for Latvian language](weak-positive-anxiety-semester-correlation.md) — reports the opposite

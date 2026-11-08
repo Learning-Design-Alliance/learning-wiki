@@ -55,3 +55,4 @@ Pilot trial with 81 undergraduates randomly assigned to study hip and knee muscl
 - [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — related
 - [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — related
 - [AR/VR and digital tools in anatomy learning show consistently high student acceptance and better 3D understanding, but effects on knowledge gain vary widely across studies](arvr-anatomy-high-acceptance-mixed-knowledge-gain.md) — a broader claim this one bears on
+- [Mean post-test anatomy scores rose substantially from pre-test but remained low in one uncontrolled pre-post study](low-posttest-anatomy-knowledge-loss-18-months.md) — related

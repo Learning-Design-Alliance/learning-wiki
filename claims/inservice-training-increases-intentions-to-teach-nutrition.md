@@ -70,3 +70,4 @@ Item-level analyses showed significant pre-post intention gains on six measures 
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related
 - [A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls](constructivist-nutrition-education-knowledge-gains.md) — related
+- [No interaction effects between nutrition groups were found for academic performance over time](no-interaction-effects-nutrition-groups-academic.md) — related

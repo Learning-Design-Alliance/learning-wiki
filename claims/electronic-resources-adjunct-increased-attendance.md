@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-08
 sources:
   - id: nagappan-palaniappan-ganesh-2025
     resource: "https://doi.org/10.1136/bmjopen-2024-091768"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Introduction of recorded lectures, synchronous online sessions or a web-based course management system coincided with increased attendance in three studies, suggesting electronic resources as adjuncts may explain attendance increases. [→ Nagappan Palaniappan Ganesh 2025](#nagappan-palaniappan-ganesh-2025)

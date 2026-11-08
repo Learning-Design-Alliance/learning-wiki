@@ -58,3 +58,4 @@ Multivariable binary logistic regression with GPA as low (≤3.5–4) versus hig
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — related
 - [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — related
 - [Current GPA does not correlate with academic stress, anxiety, sleep disturbances, depressive symptoms, or resourcefulness](current-gpa-no-correlation-stress-wellbeing.md) — related
+- [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related

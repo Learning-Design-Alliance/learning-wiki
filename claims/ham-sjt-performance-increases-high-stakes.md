@@ -48,3 +48,4 @@ Secondary analysis across admission years comparing pooled HAM-SJT means between
 - [After correcting for range restriction, the HAM-SJT's relation to OSCE Interaction performance in the high-stakes sample rises to r = .20, comparable to the communal scale](ham-sjt-range-restriction-corrected-osce.md) — related
 - [No SJT scale correlated significantly with OSCE performance in the low-stakes sample](sjt-osce-null-low-stakes.md) — related
 - [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related
+- [Situational judgment tests reflect job performance and discriminate average from low performers, suggesting screening use](sjt-screening-discriminates-performers.md) — related

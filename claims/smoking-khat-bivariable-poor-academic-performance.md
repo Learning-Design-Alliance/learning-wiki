@@ -48,3 +48,4 @@ Bivariable cross-tabulation among the 615 students found smoking significantly a
 - [Non-smoking university students in Southern Ethiopia had about three times higher odds of good academic performance than smokers](non-smokers-threefold-odds-good-academic-performance-ethiopia.md) — related
 - [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — related
 - [Two-thirds of surveyed university students in Southern Ethiopia achieved good academic performance](two-thirds-good-academic-performance-southern-ethiopia.md) — related
+- [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related

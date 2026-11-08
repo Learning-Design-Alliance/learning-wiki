@@ -48,3 +48,4 @@ Descriptive statistics comparing families of children with a DAWBA research diag
 - [Parental education and occupational status showed no significant association with ADHD in this sample](parental-education-occupation-not-significant-adhd.md)
 - [Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis](unadjusted-ses-predictors-adhd-housing-marital-age.md) — possibly the same claim (merge candidate)
 - [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](financial-difficulties-strongest-ses-predictor-adhd-age-7.md) — related
+- [Children from unstructured families show higher rates of reading failure and clinically diagnosed school difficulties](unstructured-family-reading-failure-school-difficulties.md) — related

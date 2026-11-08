@@ -52,3 +52,4 @@ Final-day assessment in the observational course cohort (N = 48); success was de
 - [Anastomosis success was not significantly associated with participants' experience level, healthcare facility reference level, or specialization](anastomosis-success-independent-of-experience-and-specialty.md) — related
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
 - [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — related
+- [Most students failed the robotic rope passing task, and rope passing failure predicted ball placement failure](rope-passing-task-high-failure-rate.md) — related

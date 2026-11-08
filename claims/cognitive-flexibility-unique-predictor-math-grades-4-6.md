@@ -71,3 +71,4 @@ Two-step hierarchical regression with 203 sixth graders predicting mathematics m
 - [Cognitive flexibility's unique contribution to academic marks emerges only once EF components become differentiated, around Grades 4–6](flexibility-contribution-emerges-with-ef-differentiation.md) — a broader claim this one bears on
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
 - [Beyond crystallized abilities, preschool fluid abilities retain only small direct contributions to later-grade achievement, while cognitive flexibility contributes none](modest-direct-fluid-contributions-later-grades.md) — reports the opposite
+- [General executive functions predict 14.7% of general academic achievement and 12.3% and 12.2% of Language Arts and Mathematics achievement in children aged 6–9](executive-functions-predict-achievement-6-9.md) — related

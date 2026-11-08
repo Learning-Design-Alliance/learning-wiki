@@ -19,7 +19,7 @@ sources:
 # PeerWise
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 PeerWise is a freely available online tool developed at the University of Auckland that enables students to author, answer, rate, comment on, and follow peers' multiple-choice questions.
@@ -28,6 +28,7 @@ PeerWise is a freely available online tool developed at the University of Auckla
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **PeerWise online tool for student-authored multiple-choice question repositories**: PeerWise is the technology platform used in this study's interventions. The article describes it as "a freely-available, online tool to facilitate cohorts of students writing their own MCQs and answering and commenting on those of their peers", incorporating social functionality such as rating, commenting and following contributors. Developed at the University of Auckland, at the time of writing it had nearly 100,000 student registrants, around 600,000 questions and approximately 12 million answers. (Bates et al. (2013))
 - **PeerWise online cooperative question-authoring platform**: PeerWise is an online application in which students build a bank of multiple-choice questions for peers and cycle through authoring, answering, and discussion. "PeerWise is an online application designed to facilitate students in creating a bank of MCQs for their peers and supporting cycles of question authoring, answering, and discussion." Students rate peers' questions on a five-point scale, which correlates well with expert ratings, and the system tracks how each question is answered so distractor effectiveness can be empirically assessed. (Hilton et al. (2022))
+- **PeerWise online platform for student-authored MCQ banks with answering, rating, and discussion**: PeerWise is an online learning platform "which enables students to author and answer MCQs, rate the quality of other students' contributions as well as discuss content". It provides self- and peer assessment with active learning, and as a student-generated and moderated resource requires minimal faculty input once established. In this study it hosted Clinical Pharmacology and Clinical Sciences question courses; between 2014 and 2020 students authored 1648 questions, which were answered 842,298 times and generated 5402 comments. (Guilding C et al. (2021))
 
 ### Claims
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](../claims/peerwise-student-questions-75-percent-high-quality.md) [+M]
@@ -35,6 +36,8 @@ PeerWise is a freely available online tool developed at the University of Auckla
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](../claims/student-questions-majority-above-recall-bloom.md) [+M]
 - [Over 95% of student-authored questions included an explanation, mostly of good or excellent quality](../claims/student-explanations-majority-good-or-excellent.md) [+M]
 - [Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2](../claims/lower-taxonomy-questions-answered-more.md) [+W]
+- [Answering PeerWise questions significantly predicts Stage 4 exam performance in fourth-year medical students after controlling for Stage 3 performance](../claims/peerwise-answering-predicts-stage4-exam.md) [+M]
+- [Students engaged most highly with answering PeerWise questions and perceived answering as the most beneficial element for learning](../claims/peerwise-answering-most-engaged-and-perceived-benefit.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -43,6 +46,7 @@ PeerWise is a freely available online tool developed at the University of Auckla
 - Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 <!-- merged 2026-10-10 from elements/peerwise-online-mcq-authoring-tool ("PeerWise online tool for student-authored multiple-choice question repositories"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Hilton, C. B., Goldwater, M. B., Hancock, D., Clemson, M., Huang, A., & Denyer, G. (2022). Scalable Science Education via Online Cooperative Questioning. CBE—Life Sciences Education, 21(1). https://doi.org/10.1187/cbe.19-11-0249
+- Guilding C, Pye RE, Butler S, Atkinson M, Field E. (2021). Answering questions in a co-created formative exam question bank improves summative exam performance, while students perceive benefits from answering, authoring, and peer discussion: A mixed methods analysis of PeerWise. Pharmacol Res Perspect. https://doi.org/10.1002/prp2.833
 
 # PeerWise online tool for student-authored multiple-choice question repositories
 

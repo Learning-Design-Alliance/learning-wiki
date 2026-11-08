@@ -49,3 +49,5 @@ Table 4 reports pre- vs post-training performance on the mannequin: correct need
 - [After MR simulator training, operation time decreased from 4.08 ± 1.96 min to 2.07 ± 0.92 min (p = 0.0001).](mr-training-reduced-operation-time.md) — related
 - [After MR simulator training, the number of puncture attempts decreased from 3.10 ± 2.09 to 1.68 ± 0.94 (p = 0.0001).](mr-training-reduced-puncture-attempts.md) — related
 - [Junior cardiothoracic surgery residents significantly improved modified OSATS skill scores and anastomosis time on the low-cost simulator across all three anastomosis types](junior-residents-osats-improvement-low-cost-anastomosis-simulator.md) — related
+- [Puncture accuracy improved for needle tip distance but not for needle shaft distance after training with the modular system](needle-tip-accuracy-improved-shaft-not.md) — related
+- [Needle tip visualization during the in-plane approach rose from pre-test to posttest after training with the modular system, in one uncontrolled pre-post study](needle-tip-visualization-improved-after-training.md) — related

@@ -55,3 +55,4 @@ McNemar tests on pre-test versus 6-week retention-test benchmark attainment show
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Confidence in operating a syringe pump declines substantially in the two weeks after e-Learning-based device training, regardless of learning method](confidence-declines-after-device-training.md) — related
 - [At 4-week follow-up, intervention-group clerks more often applied the acquired skills and reported more satisfied patients, with better retention](oscar-followup-transfer-retention.md) — related
+- [Knowledge gains from both PAL and NAL weeks were not significantly retained at the one-week follow-up](pal-nal-retention-not-significant.md) — related

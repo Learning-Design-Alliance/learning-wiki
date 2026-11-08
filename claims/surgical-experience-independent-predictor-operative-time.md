@@ -72,3 +72,4 @@ The authors' discussion notes the logarithmic model left "approximately 75.5% of
 - [Dissection time decreases across the three models, with significantly shorter time on fresh-frozen bone than the transparent 3D model (p = 0.002)](dissection-time-decreases-across-models.md) — related
 - [Each additional training session reduces the ventilation failure score by 2% and increases the chance of a high global competence score by approximately 3%](each-session-improves-competence-score.md) — related
 - [Variation in difficulty across locations decreases as surgical experience increases, especially for the nondominant left hand](mirror-image-location-difficulty-variability-decreases-with-experience.md) — related
+- [Prior laparoscopic surgery experience predicted better performance in the second and third training blocks, though based on only four experienced subjects](prior-laparoscopic-experience-better-early-blocks.md) — related

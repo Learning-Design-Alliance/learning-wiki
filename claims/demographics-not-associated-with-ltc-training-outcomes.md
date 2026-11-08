@@ -54,3 +54,4 @@ Multivariate linear regression in the 90-student study, controlling for gender, 
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
 - [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related
 - [In an upper-division TBL biochemistry course, student gender, historically marginalized status, and generational status did not statistically explain differences in exam performance.](tbl-demographics-not-explain-exam-performance.md) — related
+- [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — a narrower finding that bears on this claim

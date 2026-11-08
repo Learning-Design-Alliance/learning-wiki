@@ -53,6 +53,7 @@ The article proposes pairing a short stereoscopic first-person video of a proced
 - [Structured simulation session combining an instructional video demonstration with hands-on endoscopic stapes surgery on a patient-specific 3D-printed simulator, scored with modified OSATS](3dst-training-session-structure-strategy.md)
 - [Combine instructional video viewing with hands-on practice on a 3D-printed procedure-specific model before live performance](video-plus-3d-printed-model-training-strategy.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
+- [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (88 show a difference, 23 mixed, 16 no difference) · 77 studies (26 causal, 23 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 77 report an effect size · 126 claims rest on one study
+> **Evidence** · 128 claims (89 show a difference, 23 mixed, 16 no difference) · 78 studies (26 causal, 24 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 21 of 78 report an effect size · 127 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -163,10 +163,13 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Strategic EI and its branches correlate positively with adolescents' GPA, with EU at r = 0.20 and EM at r = 0.17](../claims/strategic-ei-gpa-correlations-adolescents.md) [+M] — learners who differ on it differ in outcomes
 - [Strategic EI both partially mediates the effects of VI and openness on GPA and independently predicts GPA](../claims/strategic-ei-mediation-and-direct-effects-gpa.md) [+M] — learners who differ on it differ in outcomes
 - [Strategic EI incrementally predicts adolescents' GPA over verbal intelligence and personality, adding a significant 2% of variance](../claims/strategic-ei-incremental-gpa-prediction-adolescents.md) [+M] — learners who differ on it differ in outcomes
+- [School burnout correlates with emotional intelligence: exhaustion and cynicism correlate negatively with stress management and mood, while self-efficacy correlates positively with all EI components](../claims/burnout-emotional-intelligence-correlations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 
 ## Examples
+
+- [Develop emotional intelligence programs in secondary education to prevent school burnout after adverse academic events](../strategies/ei-programs-prevent-school-burnout-strategy.md)
 
 ## Key Sources
 - Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A systematic review of meta-analyses. *Learning and Individual Differences, 118*, 102621. [doi:10.1016/j.lindif.2024.102621](https://doi.org/10.1016/j.lindif.2024.102621)

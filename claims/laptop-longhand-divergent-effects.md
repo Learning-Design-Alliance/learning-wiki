@@ -50,3 +50,4 @@ Narrative review of Mueller and Oppenheimer (2014), two experiments (n = 65 and 
 - [Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text](note-structure-transcribe-organise-format-dependent.md) — related
 - [Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test](test-format-timing-moderate-note-taking-effects.md) — related
 - [Taking notes by hand is reported as superior to using laptops for learning](handwritten-notes-superior-laptop-notes.md) — reports the opposite
+- [Laptop note-taking duration shows no reliable correlation with exam scores in a lecture course](laptop-note-taking-null-exam-correlation.md) — related

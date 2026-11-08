@@ -61,3 +61,4 @@ A linear mixed-effects model for confidence as the dependent variable found male
 - [Female students rated their perceived competence higher than male students while external ratings did not differ](female-fyms-higher-perceived-competence.md) — reports the opposite
 - [Males scored significantly higher than females on the gamified test (Cohen d=0.52), but the gender difference was no longer significant after controlling for video game experience](gba-gender-difference-explained-by-video-game-experience.md) — related
 - [Prior experience, gender, age, and preferred orientation showed no significant influence on the learning curve, though men benefited more from training in clinical yield](no-experience-influence-on-learning-curve-male-benefit.md) — related
+- [Performance metrics did not differ by sex, self-identified hobbies, or correlate with age, caffeine, or sleep](no-performance-differences-demographics-behaviors.md) — related

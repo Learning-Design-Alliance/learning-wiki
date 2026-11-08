@@ -69,3 +69,4 @@ Discussion-section statement of the defibrillation accuracy contrast drawn from 
 - [Team communication scores rose significantly from pre-test to post-test after KSS training, in one uncontrolled pre-post study, with the median rising from 5.00 to 10.00](kss-training-improves-team-communication-scores.md) — related
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
 - [Pediatric medical workers hold positive attitudes toward KSS training, with 98.59% accepting the approach and most willing to attend further training](positive-attitudes-toward-kss-training.md) — related
+- [Knowledge of manual external defibrillator handling showed the lowest improvement after simulation training](low-gain-manual-defibrillator-handling.md) — related

@@ -47,3 +47,4 @@ Randomized study (Bjerrum et al., n = 36 medical students) with pre-test, post-t
 ## Related Claims
 - [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related
 - [Integrating modeling examples into bronchoscopy simulation training outperforms training without them](modeling-examples-improve-simulation-training.md) — related
+- [In initial dyad-versus-individual simulation training, individuals show larger increases in anxiety and stress than dyads](dyad-training-lower-stress-anxiety-increase.md) — related

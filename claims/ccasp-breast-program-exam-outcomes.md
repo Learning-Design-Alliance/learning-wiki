@@ -50,3 +50,4 @@ Descriptive analysis of exam records from three breast cancer cohorts (CCB1–CC
 - [Lymphoma CCASP: mean module-test pass of 83% and certification exam pass of 88.5%, with scores mainly Very Good and Good](ccasp-lymphoma-program-exam-outcomes.md) — related
 - [Lung cancer CCASP: mean module-test pass of 81% and a 100% certification exam pass for all 16 attenders](ccasp-lung-program-exam-outcomes.md) — related
 - [CCASP fellows were predominantly European mid-career oncologists, with specialty mix varying by program](ccasp-fellow-demographics-specialty-mix.md) — related
+- [More students failed the VP exam (17, 3%) than the oral exam (1 student) over five years](vp-exam-failure-rate-higher-than-oral.md) — related

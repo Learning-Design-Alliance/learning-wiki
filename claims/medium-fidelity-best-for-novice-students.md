@@ -70,3 +70,4 @@ Linear mixed-effects model of mean airway pressure across 6 trials among student
 - [Simulation-based neonatal ventilation training improved theoretical knowledge in both medical students and health professionals in Tanzania](simulation-training-improves-neonatal-ventilation-knowledge.md) — related
 - [Simulation-based PBLS training significantly improves specific life-support skills including airway opening, rescue breathing, and chest compression quality](simulation-pbls-improves-specific-pbls-steps.md) — related
 - [Debriefing experiences were positive and statistically similar across high- and medium-fidelity groups on the SDAS](debriefing-similar-across-fidelity-groups-sdas.md) — related
+- [Assessment of consciousness, airway obstruction and breathing, and body and arm positioning did not differ significantly between app and control groups](assessment-and-positioning-no-group-differences.md) — related

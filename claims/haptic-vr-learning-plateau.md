@@ -49,3 +49,4 @@ The review reports a study of the Fundamental Surgery haptic device in which "46
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — related
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
+- [VR-based surgical simulation addresses the non-reusable and expensive nature of physical oral implant training materials](vr-simulation-avoids-physical-material-waste.md) — related

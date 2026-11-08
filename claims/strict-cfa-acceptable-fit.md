@@ -54,3 +54,4 @@ CFA with structural equation modelling (AMOS 24.0) on the same 352-respondent va
 - [Confirmatory factor analysis supports a three-factor structure of the six-item PtBL rubric with good fit](cfa-three-factor-rubric-good-fit.md) — related
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related
+- [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related

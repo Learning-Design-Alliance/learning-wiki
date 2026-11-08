@@ -48,3 +48,4 @@ C–L grading of recorded procedure videos by a blinded independent observer in 
 - [Intubation success rates among novices differ significantly across the three laryngoscopes, with LANJA highest (89.5%) and VDO lowest (63.2%)](lanja-highest-novice-success-rate.md) — related
 - [Among novices trained on three video laryngoscopes, the LANJA laryngoscope yields significantly shorter intubation visualization time than the UE and VDO laryngoscopes](lanja-shortest-ivt-novices.md) — related
 - [Novices without prior laryngoscope exposure achieved faster glottic exposure with the hyperangulated LANJA design than with intermediate-angle devices, which the authors attribute to structural design](novice-performance-device-structure-attribution.md) — related
+- [Seniority showed no significant effect on maximum tongue force or on Cormack Lehane grade during direct laryngoscopy](no-seniority-effect-tongue-force-glottic-view.md) — related

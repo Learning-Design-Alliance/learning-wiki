@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 427 claims (200 for, 199 mixed, 28 against) · 320 studies (102 associational, 76 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 27 of 320 report an effect size · 420 claims rest on one study
+> **Evidence** · 428 claims (201 for, 199 mixed, 28 against) · 321 studies (102 associational, 77 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 27 of 321 report an effect size · 421 claims rest on one study
 
 ## Conditional relationship
 
@@ -271,6 +271,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Less experienced OSCE raters judge more stringently and adhere rigidly to instructions, while experienced raters deviate and rely on gestalt](../claims/rater-experience-stringency-and-deviation.md) [+W] — attached 2026-11-08 from Hyde Sarah et al. (2022), which proposed "Do not prioritise objectivity above context by insisting examiners disregard their own experience and stick rigidly to a rating schema".
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](../claims/ai-almost-perfect-agreement-peg-transfer-assessment.md) [+W] — attached 2026-11-08 from Belmar Francisca et al. (2022), which proposed "Expand AI automated assessment to additional basic laparoscopic exercises as a preliminary framework"; tests this page's relationship.
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](../claims/ai-moderate-agreement-bean-drop-assessment.md) [~W] — attached 2026-11-08 from Belmar Francisca et al. (2022), which proposed "Expand AI automated assessment to additional basic laparoscopic exercises as a preliminary framework"; tests this page's relationship.
+- [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](../claims/competence-frameworks-cvi-085-all-items.md) [+W] — attached 2026-11-08 from Miranda Fernanda Berchelli Girão; Alves Gerson Pereira-Junior; Mazzo Alessandra (2021), which proposed "Involve experts throughout construction and validation of competence-based training and assessment material".
 
 ## Objective and learner-valued goal
 

@@ -52,3 +52,4 @@ Multivariable logistic regression in the cross-sectional study; both birth-weigh
 - [Mode of delivery was not a significant predictor of academic performance after adjusting for confounding variables](delivery-mode-not-independent-predictor-academic-performance.md) — related
 - [Children of self-employed mothers had significantly lower odds of good academic performance than children of government-employed mothers](self-employed-mothers-lower-odds-good-performance.md) — related
 - [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related
+- [Birth weight, invasive mechanical ventilation duration and lower maternal age are associated with cognitive screening and processing speed outcomes](birth-weight-ventilation-maternal-age-cognitive-associations.md) — related

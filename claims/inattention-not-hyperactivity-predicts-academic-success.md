@@ -75,3 +75,4 @@ Regressions (Tables 6 and 7) on the three-wave completers showed inattention pre
 - [Hyperactivity–impulsivity predicts achievement only in some subsectors and does not contribute to explaining overall academic achievement in primary school](hyperactivity-selective-achievement-predictor.md) — related
 - [Only the inattention symptom dimension significantly predicts lower final GPA; hyperactivity and impulsivity dimensions are not significant predictors](inattention-dimension-only-significant-predictor-final-gpa.md) — related
 - [Students who withdrew before graduating had higher inattention symptoms than graduates, but not higher hyperactivity or impulsivity symptoms](inattention-symptoms-higher-among-students-who-withdrew.md) — related
+- [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related

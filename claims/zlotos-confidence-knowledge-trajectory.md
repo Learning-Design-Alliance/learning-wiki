@@ -78,3 +78,5 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Practitioner comfort to directly ask about adversity peaked at 6 months and decreased again at 12 months despite overall improvement in competence and confidence](practitioner-comfort-peaked-six-months-then-decreased.md) — related
 - [Perceived educational quality of the simulation workshop declined between immediately after training and 3 and 6 months later, regardless of simulator type](perceived-educational-impact-declines-three-six-months.md) — related
 - [At 4-week follow-up, intervention-group clerks more often applied the acquired skills and reported more satisfied patients, with better retention](oscar-followup-transfer-retention.md) — related
+- [TBL students maintain clinical reasoning scores above the accomplishment rate at 2 weeks while LBL students fall below it](tbl-maintains-clinical-reasoning-above-accomplishment-rate.md) — related
+- [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related

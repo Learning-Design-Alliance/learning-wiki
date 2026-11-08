@@ -42,7 +42,8 @@ The course design sequences digital self-directed learning before in-person appl
 - [Blended Learning Communication Course Feasibility Pilot](../claims/blended-learning-communication-course-feasibility-pilot.md) [+W]
 
 ## Related Designs
-- 
+
+- [Blended flipped-classroom course structure: pre-class podcasts, mandatory consolidative tutorials, then hands-on practicals](blended-fc-podcast-tutorial-practical-sequence.md)
 
 ## Examples
 -

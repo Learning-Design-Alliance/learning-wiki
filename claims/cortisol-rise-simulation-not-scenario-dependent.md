@@ -51,3 +51,4 @@ Objective stress measurement in the Lizotte 2017 parallel-group randomised trial
 - [Prebrief disclosure that the manikin may die was not reported by participants as essential for psychological safety](prebrief-death-disclosure-not-essential.md) — related
 - [Threat-appraising students showed a significant cortisol increase after Scenario 1, while the challenge group's rise was not significant](threat-appraisal-cortisol-increase-scenario1.md) — related
 - [Salivary cortisol fold increase was significantly higher after high-fidelity simulation (1.46) than after procedural simulation (1.22)](cortisol-fold-increase-higher-hf-than-ps.md) — related
+- [Testosterone concentration is significantly higher 120 minutes after high-fidelity simulation than before and immediately after](testosterone-higher-at-t2-after-hfs.md) — related

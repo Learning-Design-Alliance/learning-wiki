@@ -56,6 +56,7 @@ The article recommends structured off-the-job training via dry laboratories to r
 - [Use non-organic silicone materials for accessible, reproducible tendon repair simulation](non-organic-materials-tendon-simulation-strategy.md)
 - [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
 - [Use discarded inedible livestock organs as surgical training models to reduce live-animal use](discarded-livestock-organs-surgical-training-strategy.md)
+- [Replace live animal and cadaver robotic surgery training with validated synthetic organ models, enabled by scalable mass production](scale-mass-production-synthetic-models.md)
 
 ## Examples
 -

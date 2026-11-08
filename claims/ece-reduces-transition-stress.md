@@ -49,3 +49,4 @@ The review concludes that ECE outcomes collectively "suggest that ECE facilitate
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — related
 - [ECE improves theoretical knowledge, clinical practice performance and self-efficacy, with the largest effect on self-efficacy](ece-competency-domain-effects.md) — related
 - [Early clinical exposure significantly improves dental students' overall competency compared with traditional teaching (SMD = 1.25), though evidence certainty is low](ece-improves-dental-student-competency-meta.md) — related
+- [Preclinical medical students report significantly higher perceived stress than clinical students](preclinical-students-higher-perceived-stress.md) — related

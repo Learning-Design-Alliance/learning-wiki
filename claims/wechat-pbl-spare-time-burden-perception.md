@@ -48,3 +48,4 @@ Questionnaire item on spare-time burden in the RCT (1=strongly agree scale): the
 - [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related
 - [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related
 - [Participants perceived training adequacy differently by group: written-instructions group wanted more, expert-led group found it too time-consuming](mul-training-perceived-adequacy-varies-by-group.md) — related
+- [Only 62.5% of students felt free to pose questions in the WeChat-PBL group, the lowest-agreement item in the overall evaluation](wechat-pbl-low-question-posing.md) — related

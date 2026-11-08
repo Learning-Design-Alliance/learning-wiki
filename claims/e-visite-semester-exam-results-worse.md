@@ -47,3 +47,4 @@ Retrospective comparison of joint written exam grades across four winter semeste
 ## Related Claims
 - [The article concludes the negative cohort trends are likely in part attributable to pandemic-related schooling restrictions, while acknowledging attribution cannot be fully confirmed](cohort-trends-partially-attributable-restrictions.md) — related
 - [Mean exam scores after remote-teaching semesters were at the lower end of the historical range in summer 2020 and at the higher end in winter and summer 2021, with attribution withheld](exam-scores-remote-semesters-range-ends.md) — reports the opposite
+- [University students perform worse on their second end-of-semester exam than their first](second-exam-lower-grades-period-effect.md) — related

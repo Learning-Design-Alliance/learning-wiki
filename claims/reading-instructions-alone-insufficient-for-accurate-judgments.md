@@ -50,3 +50,4 @@ The authors' overall interpretation across both experiments, stated in the gener
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
+- [The authors suggest that training in evaluating CPR performance may improve V-CPR evaluation, since judging others' CPR is not taught in any course](training-may-improve-vcpr-evaluation.md) — a narrower finding that bears on this claim

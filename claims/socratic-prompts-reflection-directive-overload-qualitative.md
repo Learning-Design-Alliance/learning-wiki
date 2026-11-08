@@ -86,3 +86,4 @@ Thematic analysis found overload and resistance codes more prevalent in directiv
 - [Dialogic teaching in a university setting facilitated increased use of planning, monitoring and evaluating skills (review-reported)](dialogic-teaching-increased-metacognitive-skills.md) — related
 - [Adult learners identify metacognition and crafting diverse, high-quality questions at different cognitive levels as crucial supports for learner-AI cognitive interaction](metacognition-question-crafting-ai-cognitive-interaction.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
+- [Teaching using comprehension and reflective reading techniques predicts greater likelihood of resilience than routine, systematic, repetitive reading practices](comprehension-reflective-teaching-beats-routine-practices-for-resilience.md) — related

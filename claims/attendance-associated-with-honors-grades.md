@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-08
 sources:
   - id: duffy-barbara-2023
     resource: "https://doi.org/10.1186/s12909-022-03950-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Increased attendance rates at tutorials were associated with higher numbers of honors grades (p < 0.001). [→ Duffy Barbara 2023](#duffy-barbara-2023)

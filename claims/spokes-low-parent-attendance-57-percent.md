@@ -54,3 +54,4 @@ Attendance data collected by the Plymouth Parent Partnership across the six coho
 - [Intervention parents interviewed in the process evaluation reported liking the SPOKES programme and believing it improved their children's reading](spokes-parents-positive-perceptions.md) — related
 - [Pupils attended on average just over 80% of group sessions but only 56% of individual sessions, indicating substantial partial participation](neli-partial-session-attendance.md) — related
 - [Participation in the education sessions was low: 13 of 145 nurses (9%) attended and only ten pre- and ten post-test responses were received](low-participation-13-of-145-nurses.md) — related
+- [The G-SS program as scheduled was not feasible: student responsiveness reached 23% against an a priori 83% target](gss-responsiveness-below-target-not-feasible.md) — related

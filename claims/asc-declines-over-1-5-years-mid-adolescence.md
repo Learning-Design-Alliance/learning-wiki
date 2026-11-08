@@ -55,3 +55,4 @@ Longitudinal mixed-effects generalized linear model on behavioural data from 39 
 - [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related
 - [Adolescents' physics and chemistry ability self-concept and task values from seventh to twelfth grade fall into seven distinct motivational trajectories rather than a single declining pattern](seven-physics-chemistry-motivation-trajectories.md) — related
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
+- [Academic performance declined significantly from grade 1 to grade 7, with mathematics falling from 76.90% to 51.26% and GPA from 74.45% to 59.21%](academic-decline-grade1-to-grade7.md) — related

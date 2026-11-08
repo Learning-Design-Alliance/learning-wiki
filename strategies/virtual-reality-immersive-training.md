@@ -120,6 +120,7 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](vr-complementary-continuing-emergency-training-strategy.md)
 - [Favor hands-on simulation over VR when cost, intuitiveness, and eye strain matter](hands-on-over-vr-cost-intuitiveness-eye-strain.md)
 - [Deliver emergency simulation training at scale using 360-degree VR blended with in-person clinical placements](vr-simulation-scalable-blended-emergency-training.md)
+- [Use immersive VR to give scrub nurses a safe, low-pressure environment for repetitive practice of complex operations](ivr-safe-practice-environment-scrub-nurses.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

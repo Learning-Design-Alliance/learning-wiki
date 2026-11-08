@@ -52,6 +52,7 @@ A unit-design strategy embedding problem based learning throughout a large-enrol
 ## Related Strategies
 
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Reclassify lecture sessions as tutorials to make attendance compulsory and increase engagement](reclassify-lectures-as-compulsory-tutorials.md)
 
 ## Examples
 -

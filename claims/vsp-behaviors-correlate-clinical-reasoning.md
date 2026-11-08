@@ -50,3 +50,4 @@ Study with 210 second-year clinical medical students using a GenAI Virtual Stand
 - [Clinical reasoning facilitation employs both analytical and non-analytical thinking approaches](analytical-non-analytical-clinical-reasoning-facilitation.md) — related
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — related
 - [Practice behavior metrics do not independently predict final history-taking scores after baseline adjustment](practice-behaviors-not-independent-predictors.md) — related
+- [Conceptual and strategic knowledge about dyspnea and history-taking are medium correlated in third-to-fifth-year medical students](conceptual-strategic-knowledge-medium-correlation.md) — related

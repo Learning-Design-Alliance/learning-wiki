@@ -49,6 +49,7 @@ Based on the finding that well-executed video recordings outperformed live-strea
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 - [Improve audiovisual quality, connectivity, and standardized recordings before deploying live-streamed procedural teaching](improve-av-connectivity-before-ls-teaching.md)
+- [Use video-based instruction showing perfect peer demonstrations to teach the ABCDE approach in resuscitation courses](vbi-perfect-peer-demonstration-strategy.md)
 
 ## Examples
 -

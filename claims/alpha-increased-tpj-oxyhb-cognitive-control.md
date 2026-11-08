@@ -51,3 +51,4 @@ fNIRS monitoring (44 channels) during the BIAT in the quasi-experiment; interact
 - [The ALPHA intervention significantly reduced explicit attitudes favouring doping (PEAS scores)](alpha-intervention-reduced-explicit-doping-attitudes.md) — related
 - [College athletes reported lower doping likelihood than non-athletes in benefit situations](athletes-lower-doping-likelihood-benefit-situations.md) — related
 - [The BIAT experimental effect was induced: reaction times and error rates were higher in the doping-like (incongruent) block than the doping-dislike block](biat-doping-like-block-slower-more-errors.md) — related
+- [Higher physical activity predicts greater task-related oxygenation in the right dlPFC but not other prefrontal regions](physical-activity-predicts-right-dlpfc-activation.md) — related

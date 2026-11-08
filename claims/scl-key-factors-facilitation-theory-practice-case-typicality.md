@@ -47,3 +47,4 @@ Post-discussion questionnaire item on factors influencing learning effectiveness
 ## Related Claims
 - [Case complexity was rated as a comparatively underdeveloped aspect of the SCL session](scl-case-complexity-underdeveloped-aspect.md) — related
 - [Over 80% of orthodontic postgraduates rated the SCL model superior to traditional teaching methods](scl-rated-superior-to-traditional-teaching-orthodontic-postgraduates.md) — related
+- [In video-conferencing environments, instructors' positive attitude toward technology and interactive teaching style relate to perceived learning effectiveness, with teaching style most influential](instructor-interactive-style-videoconferencing-engagement.md) — related

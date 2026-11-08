@@ -69,3 +69,4 @@ Between-cohort SURG-TLX comparison in the same randomized study at two timepoint
 - [Force feedback improves RACE tissue-trauma ratings, signifying less tissue trauma in robotic-assisted suturing](ffb-improves-race-tissue-trauma-ratings.md) — related
 - [Novice surgeons using force feedback apply significantly less force to tissue during robotic-assisted suturing tasks](ffb-reduces-applied-force-robotic-suturing.md) — related
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
+- [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related

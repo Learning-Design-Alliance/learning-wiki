@@ -48,6 +48,7 @@ This strategy addresses the time-constraint barrier by embedding self-directed s
 
 - [Extend clinical simulation laboratory operating hours, including after-hours and weekend opening, to improve student access for SSL](extend-simulation-lab-operating-hours.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Schedule guided self-study in low-workload periods and integrate it into the curriculum rather than adding it on top](schedule-gss-in-low-workload-periods.md)
 
 ## Examples
 -

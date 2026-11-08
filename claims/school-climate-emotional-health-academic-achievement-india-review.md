@@ -53,3 +53,4 @@ Systematic review of eleven Indian studies (3,711 participants, grades 8–10) i
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
 - [School environment is positively associated with educational aspiration among Indian secondary students (r = .346), motivating participation in school activities](school-environment-educational-aspiration-correlation.md) — related
 - [Academic self-concept, school climate, and academic motivation correlate substantially with psychological truancy](correlations-four-study-variables.md) — related
+- [Connectivity and access problems during online study were accompanied by self-reported depression, stress, and anxiety among students in developing countries](online-access-problems-student-psychological-distress.md) — related

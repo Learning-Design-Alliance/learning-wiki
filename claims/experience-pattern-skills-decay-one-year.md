@@ -71,3 +71,4 @@ Univariable mixed-effects analysis of one-year skills scores; the more-than-5-ye
 - [Knowledge acquisition and retention generally did not differ significantly between observer and active participant roles, though decay patterns differed across studies](knowledge-outcomes-no-role-difference-uneven-decay.md) — related
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — related
 - [Greater prior experience (overlearning) is associated with less skill decay during time out of training](overlearning-reduces-skill-decay.md) — reports the opposite
+- [Overall adherence to the ABCDE algorithm among neonatal healthcare providers during simulated NALS is low (mean 31.5%)](low-overall-abcde-adherence-simulation.md) — related

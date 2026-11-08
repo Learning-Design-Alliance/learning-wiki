@@ -72,3 +72,4 @@ The SEM path analysis also showed that "none of the four elements of well-being 
 - [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](engagement-not-correlated-l2-achievement.md) — related
 - [Perseverance of effort significantly predicts all four well-being elements while consistency of interest predicts none](pe-predicts-wellbeing-elements-ci-does-not.md) — related
 - [Grit does not significantly predict GPA among physical education and sport university students](grit-not-significant-predictor-gpa-pes-students.md) — related
+- [Exhaustion mediates links of demands and both grit facets to depression and life satisfaction; engagement mediates perseverance of effort to life satisfaction](exhaustion-engagement-mediation-paths.md) — related

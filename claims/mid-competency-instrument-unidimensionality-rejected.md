@@ -48,3 +48,4 @@ Unidimensionality assessment within the same psychometric analysis of 404 dentis
 ## Related Claims
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
 - [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](ob-ai-literacy-assessment-psychometrically-stable.md) — related
+- [The Spanish SCLS is essentially unidimensional as well as bidimensional: ECV .864 and UniCo .965 indicate a strong dominant general factor](scls-spanish-essentially-unidimensional.md) — related

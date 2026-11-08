@@ -68,3 +68,4 @@ Analysis of distribution functions for extra-session procrastination (Figs. 9 an
 - [Users who fail a MOOC tend to combine evaluation tasks with consultation of support materials, suggesting they attempt to answer activities without having absorbed the essential knowledge.](failed-users-combine-evaluation-with-material-consultation.md) — related
 - [Learners from different performance groups differ in priorities of learning tactic usage across learning sessions](performance-groups-differ-tactic-usage.md) — related
 - [Students failing the Pass check phase are excluded from ranking and their peer evaluations removed](pass-check-exclusion-rule.md) — related
+- [Most students failed the robotic rope passing task, and rope passing failure predicted ball placement failure](rope-passing-task-high-failure-rate.md) — a narrower finding that bears on this claim

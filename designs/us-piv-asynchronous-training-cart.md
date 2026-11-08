@@ -42,7 +42,8 @@ A self-contained learning cart deployed in each ICU that let nurses learn ultras
 - [Us Guided Piv Higher Success Than Anatomy](../claims/us-guided-piv-higher-success-than-anatomy.md) [+M]
 
 ## Related Designs
-- 
+
+- [Endoscope-equipped simulator with simultaneous endoscopic and ultrasound recording](endoscope-simulator-recording-system-in-plane.md)
 
 ## Examples
 -

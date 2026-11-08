@@ -54,6 +54,7 @@ The authors recommend structured simulator-based practice as a low-risk adjunct 
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 - [Add direct observation of the learner's simulated encounter before the coaching session](direct-observation-before-coaching-strategy.md)
 - [Supervise cadaver-based colonoscopy training with skilled endoscopist feedback and debriefing, since the model lacks objective performance metrics](cadaver-colonoscopy-supervised-debriefing-strategy.md)
+- [Provide fine-grained simulator feedback on intubation performance as a complement to traditional training](fine-grained-simulator-feedback-intubation-training.md)
 
 ## Examples
 -

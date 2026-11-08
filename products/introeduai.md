@@ -33,6 +33,7 @@ IntroEduAI is an educational platform developed to deliver programming assignmen
 ## Related Products and Programmes
 
 - [GAME: generic automated marking environment for programming assignments](game-generic-automated-marking-environment-for-programming-assignments.md)
+- [Google Forms](google-forms.md)
 
 ## Key Sources
 - Mendonça PC, Quintal F, Figueiredo M and Mendonça F (2026) Perceived usefulness and intention to use large language model-generated feedback across three educational levels: a user-centred study in programming. Front. Educ. 11:1934069. https://doi.org/10.3389/feduc.2026.1934069

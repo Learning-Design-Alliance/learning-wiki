@@ -52,3 +52,4 @@ Descriptive statistics from the TAM-informed survey (Table 1) report means out o
 - [Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)](assignment-support-highest-rated-ai-companion-function.md)
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Flexibility in using fragmented time and platform ease of use received the highest student ratings (both 8.3), while perceived video quality received the lowest (7.1)](usability-items-highest-rated-video-quality-lowest.md) — related
+- [Among the four NMP-Q constructs, not being able to communicate scored highest and not being able to access information lowest](unable-to-communicate-highest-nmpq-construct.md) — related

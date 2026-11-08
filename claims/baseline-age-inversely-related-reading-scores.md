@@ -49,3 +49,4 @@ Adjusted GEE covariate result (Table 3) in the three-year cohort. The mathematic
 - [Older age groups report lower global performance judgments of their mathematical competence, controlling for education](age-lower-math-performance-judgment-adults.md) — related
 - [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related
 - [Three distinct MVPA trajectories (Low, Decline, High) were identified among Chinese primary school children over three years](three-mvpa-trajectories-primary-children.md) — related
+- [Older children within the 8–10 year range scored lower on reading, spelling and math computation, and the gender difference disappeared after adjustment](younger-children-higher-achievement-scores-rural-bangladesh.md) — related

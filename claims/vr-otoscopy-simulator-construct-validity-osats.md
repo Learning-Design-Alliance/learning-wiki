@@ -48,3 +48,4 @@ Controlled trial comparing 51 medical students (novices, first week of otolaryng
 ## Related Claims
 - [Experts complete simulated otoscopy significantly faster and examine a significantly larger percentage of the eardrum surface than novices](vr-otoscopy-experts-faster-wider-eardrum-coverage.md) — related
 - [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related
+- [Virtual reality simulation is a valid training tool for the early phase of robotic surgery training, with validity established for six major commercial simulators](vr-simulation-validity-robotic-training.md) — a broader claim this one bears on

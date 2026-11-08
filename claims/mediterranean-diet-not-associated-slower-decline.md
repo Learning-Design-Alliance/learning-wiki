@@ -52,3 +52,4 @@ Longitudinal analysis in AREDS2 using repeated TICS-M and composite assessments 
 - [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related
 - [The aMED–cognition associations persist after adjustment for education level](amed-cognition-robust-to-education-adjustment.md) — related
 - [Higher fish intake is associated with lower risk of cognitive impairment in older adults](fish-intake-lower-cognitive-impairment-risk.md) — related
+- [Increases in adherence to the Mediterranean diet are associated with increases in academic achievement among Lebanese adolescents at both 6- and 12-month follow-up](mediterranean-diet-adherence-increase-associated-academic-achievement.md) — related

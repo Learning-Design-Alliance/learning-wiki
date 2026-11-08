@@ -55,3 +55,4 @@ Same interview data set: despite reported interest gains from videos, most stude
 - [Students prefer learning via demonstration videos and recommend them for future batches](students-prefer-and-recommend-demonstration-videos.md) — related
 - [Students rate the digital simulation course positively but remain neutral about it replacing hands-on instruction](students-positive-but-neutral-on-replacing-hands-on.md) — related
 - [Participants judged hands-on workshops, especially the operative porcine laboratory, the most educational and memorable course formats](porcine-lab-hands-on-workshops-most-educational.md) — related
+- [Students held neutral or slightly positive perceptions of e-learning effectiveness, rating the clinical videos most helpful for learning clinical performance](neutral-slightly-positive-perceptions-e-learning.md) — related

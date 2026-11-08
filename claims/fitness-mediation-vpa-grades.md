@@ -53,3 +53,4 @@ Exploratory (H8, not pre-registered) SEM mediation in the same cross-sectional s
 - [Cardiovascular fitness is positively associated with cognitive performance in Swedish adolescents, adjusting for gender, puberty, parental education and parental country of birth](fitness-associated-cognitive-performance-adolescents.md) — related
 - [Cardiovascular fitness is positively associated with math and language grades in Swedish adolescents, though the association is weak](fitness-associated-math-language-grades.md) — related
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
+- [Physical activity and fast-food consumption show no significant direct or brain-mediated association with adolescent academic achievement](no-brain-mediated-link-activity-fastfood-grades.md) — related

@@ -43,7 +43,8 @@ The article recommends that in non-Mediterranean food cultures, where full MedDi
 - [The Western-diet cluster showed lower performance across all cognitive domains than the other dietary clusters in Chilean adolescents](../claims/western-diet-cluster-lower-cognitive-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Education intervention programs should promote healthy dietary patterns and increase self-efficacy perceptions to support adolescent achievement](promote-mediterranean-diet-and-self-efficacy-intervention-strategy.md)
 
 ## Examples
 -

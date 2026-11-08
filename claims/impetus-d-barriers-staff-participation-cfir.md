@@ -53,3 +53,4 @@ Qualitative process evaluation coding interview and survey data in NVivo 12 agai
 - [Staff participation in IMPETUS-D was far below target: only 4.3% of staff completed their core modules during the 6-month training period](impetus-d-low-staff-participation-core-modules.md) — related
 - [IMPETUS-D simulation training did not reduce unplanned hospital transfers or deaths in hospital among residents with dementia at 6 months in a cluster RCT](impetus-d-no-reduction-hospital-transfers-6-months.md) — related
 - [IMPETUS-D training did not improve staff palliative care knowledge and attitudes (qPAD) at 6 months](impetus-d-no-staff-knowledge-attitude-gain-qpad.md) — related
+- [Online-only course conveyed case-management and organisational competencies but not physical examination or manual skills](online-course-competencies-gained-and-missing-manual-skills.md) — related

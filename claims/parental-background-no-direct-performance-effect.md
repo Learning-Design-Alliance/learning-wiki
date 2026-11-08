@@ -76,3 +76,4 @@ Same SEM, Table 2: mother German coefficient -0.276 (SE 0.089, p = 0.002) on M1 
 - [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related
 - [Foster care alumni students more often carry informal care responsibilities and have parents with lower educational attainment than their peers](foster-alumni-care-responsibilities-parental-education.md) — related
 - [Parental SES components differentially relate to parent-supported art participation and academic performance](parental-ses-components-vap2-academic.md) — related
+- [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — related

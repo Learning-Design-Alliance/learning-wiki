@@ -48,3 +48,4 @@ The authors interpret survey and free-form data against the revised Bloom's taxo
 - [Students creating homemade PowerPoint games in an environmental chemistry class wrote primarily knowledge-level questions](ppt-games-primarily-knowledge-questions.md) — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
 - [Students rated the cartooning activity highly for engagement, learning and understanding, with average scores of 4.8, 4.5 and 4.2 on a 5-point scale](cartooning-high-engagement-learning-ratings.md) — related
+- [Focus-group content analysis finds flexible e-learning video students describe cognition at four revised Bloom's taxonomy levels versus three for lecture students](elearning-video-bloom-taxonomy-levels.md) — related

@@ -53,3 +53,4 @@ Randomised controlled trial with 50 speech therapy students (25 per group) compa
 - [Asynchronous courses scored higher than synchronous on system quality, self-efficacy, and continuance intention, while synchronous scored higher on teaching presence](asyn-vs-syn-latent-mean-differences.md) — related
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
 - [Synchronous online forum discussion produces no statistically significant difference in lexical diversity compared with asynchronous blog writing in EFL post-test writing](ofd-blog-no-difference-lexical-diversity.md) — related
+- [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related

@@ -45,7 +45,9 @@ The article describes a hierarchical instruction processing pipeline in which na
 - [LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively](../claims/llm-code-success-rate-declines-with-instruction-difficulty.md) [+W]
 
 ## Related Designs
+
 - Edusim Llm Platform
+- [Precompiled-plan planning and execution framework for course sequencing and delivery](precompiled-plans-course-generation.md)
 
 ## Examples
 -

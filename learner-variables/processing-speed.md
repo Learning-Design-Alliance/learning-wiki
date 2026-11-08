@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (50 show a difference, 26 mixed, 12 no difference) · 64 studies (28 causal, 22 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 64 report an effect size · 88 claims rest on one study
+> **Evidence** · 90 claims (52 show a difference, 26 mixed, 12 no difference) · 65 studies (28 causal, 23 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 65 report an effect size · 90 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -124,6 +124,8 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Grade averages show no statistically significant relationship with Stroop reaction times or time-limit exceedances](../claims/grade-average-stroop-reaction-time-null.md) [-W] — learners who differ on it differ in outcomes
 - [A 12-week school-based PA and MMNS intervention showed no significant group × time effects on Flanker-task reaction time or accuracy in South African primary schoolchildren](../claims/pa-mmns-intervention-no-cognitive-gains-south-africa.md) [-M] — measured as an outcome of the instruction studied
 - [Stroop reaction time decreased in both groups across all three phases, with no difference between standing desk and control classes](../claims/stroop-reaction-time-time-effect-no-group-difference.md) [-M] — measured as an outcome of the instruction studied
+- [Birth weight, invasive mechanical ventilation duration and lower maternal age are associated with cognitive screening and processing speed outcomes](../claims/birth-weight-ventilation-maternal-age-cognitive-associations.md) [+M] — measured as an outcome of the instruction studied
+- [Lower gestational age at birth is associated with lower classic mini-mental, total IQ, perceptual reasoning and processing speed scores in multivariate analysis](../claims/gestational-age-associated-cognitive-scores-regression.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

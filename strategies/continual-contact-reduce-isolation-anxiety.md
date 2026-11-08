@@ -44,6 +44,7 @@ The article recommends that instructors of online mathematics courses maintain o
 ## Related Strategies
 
 - [Contacts Between Students And Faculty](contacts-between-students-and-faculty.md)
+- [Use complementary online group activities, responsive instructor support, and paper-based activities to counter isolation and screen-related stress in distance e-learning](complementary-activities-distance-e-learning-isolation.md)
 
 ## Examples
 -

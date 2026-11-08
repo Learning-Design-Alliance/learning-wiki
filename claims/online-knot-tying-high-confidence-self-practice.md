@@ -47,3 +47,4 @@ Cross-sectional online questionnaire of 71 final-year medical students who compl
 ## Related Claims
 - [Students valued the online knot-tying exercise as practical, experiential, self-paced learning with social aspects via Flipgrid](positive-experiential-social-online-skills-learning.md) — related
 - [Students' main challenges with asynchronous online skills training were lack of direct supervision, formal feedback, and 2-D to 3-D translation difficulties](asynchronous-skills-training-lacks-supervision-feedback.md) — related
+- [Prior evidence suggests IVR training can outperform video demonstration for surgical skill acquisition, though in a different procedural domain](ivr-outperforms-video-for-skill-acquisition-background.md) — related

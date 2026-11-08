@@ -91,3 +91,4 @@ Independent samples t-test of post-test scores in a pre/post-test controlled exp
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
 - [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [Face-to-face lecture teaching alone produced no statistically significant pre-to-post gain in funduscopic diagnostic accuracy](f2f-lecture-no-accuracy-gain.md) — related

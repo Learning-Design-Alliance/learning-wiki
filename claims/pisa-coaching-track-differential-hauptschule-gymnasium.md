@@ -49,3 +49,5 @@ Sampling statement from the abstract: the quasi-experimental study drew samples 
 - [The study addresses whether performance on the low-stakes PISA reading and mathematics assessments can be fostered by coaching and pretesting](low-stakes-pisa-coaching-question.md) — related
 - [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md) — related
 - [Only the combined effects of pretesting and coaching have substantial positive effects on student performance on the low-stakes PISA assessments](combined-pretesting-coaching-improves-low-stakes-pisa-performance.md) — related
+- [Gymnasium students were more anxious than regular-school students at baseline, but this difference disappeared by follow-up](gymnasium-anxiety-baseline-disappears.md) — related
+- [School type consistently predicted academic achievement, with gymnasium students outperforming regular-school students in all three subjects](school-type-predicts-latvian-achievement.md) — related

@@ -53,3 +53,4 @@ Pre/post questionnaire comparison in the study of 179 Tunisian medical students;
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
 - [A 30-minute pre-OSCE HPOT session of relaxation, breathing and positive reinforcement significantly reduces medical students' pre-exam anxiety](hpot-reduces-pre-osce-anxiety.md) — related
+- [Individual anxiety items decrease after simulation, but not all significantly in both sessions](anxiety-item-level-changes-mixed.md) — related

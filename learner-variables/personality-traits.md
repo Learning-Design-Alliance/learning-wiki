@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 148 claims (96 show a difference, 33 mixed, 19 no difference) · 70 studies (38 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 22 of 70 report an effect size · 148 claims rest on one study
+> **Evidence** · 153 claims (99 show a difference, 33 mixed, 21 no difference) · 72 studies (39 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 23 of 72 report an effect size · 153 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -183,6 +183,11 @@ Personality traits are relatively stable individual differences, most often meas
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](../claims/openness-positive-gpa-italian-freshmen.md) [+M] — learners who differ on it differ in outcomes
 - [Narrow conscientiousness traits add incremental prediction of dental performance beyond global conscientiousness](../claims/narrow-traits-incremental-validity-dental-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](../claims/literature-review-conscientiousness-most-consistent-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Both grit facets (consistency of interests and perseverance of effort) are negatively related to emotional exhaustion](../claims/grit-facets-negatively-related-exhaustion.md) [+M] — learners who differ on it differ in outcomes
+- [Exhaustion mediates links of demands and both grit facets to depression and life satisfaction; engagement mediates perseverance of effort to life satisfaction](../claims/exhaustion-engagement-mediation-paths.md) [+M] — learners who differ on it differ in outcomes
+- [Grit does not buffer the effect of academic demands: no significant demands × grit interactions on exhaustion or engagement](../claims/no-demands-grit-interaction-effects.md) [-M] — an instructional effect differs with it
+- [Grit was not associated with any measure of laparoscopic performance in this novice sample](../claims/grit-not-associated-laparoscopic-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Only perseverance of effort, not consistency of interests, is positively related to schoolwork engagement](../claims/perseverance-effort-engagement-consistency-null.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

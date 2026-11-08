@@ -52,3 +52,4 @@ Observational comparison within the 59-participant study using the validated LLM
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
 - [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](lack-of-trafficking-training-linked-stigma-rape-myths.md) — related
 - [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — reports the opposite
+- [Participants with previous AR experience show significantly lower training times for procedure 2, but the authors judge prior experience negligible overall](prior-ar-experience-lower-p2-training-time.md) — related

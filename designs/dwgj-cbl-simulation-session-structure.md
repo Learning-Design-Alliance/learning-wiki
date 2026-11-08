@@ -51,6 +51,7 @@ A lesson-level simulation design in which resident subgroups of four rotate hand
 - [Four-phase simulation-with-CBL session design for CPR training](four-phase-simulation-cbl-session-design-cpr.md)
 - [Standardized simulation session structure of pre-briefing, brief simulation, and structured debriefing using the 4Es technique](prebriefing-brief-simulation-debriefing-4es-structure.md)
 - [Paired immersive-plus-procedural simulation curriculum linking FICB and LAST](combined-immersive-procedural-simulation-ficb-last.md)
+- [Clinical-scenario simulation practice with web-based preview and teacher-guided debriefing](sbme-clinical-scenario-practice-pattern.md)
 
 ## Examples
 -

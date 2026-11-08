@@ -77,3 +77,4 @@ Content validity index computed by averaging item CVR values from the eight-expe
 - [The authors present ANTStr as the first psychometrically validated Turkish tool for assessing non-technical skills in real and simulated settings](antstr-first-turkish-nts-tool.md) — related
 - [Generalisability theory yields a G coefficient of 0.96 for ANTStr scores](antstr-generalisability-coefficient-096.md) — related
 - [Expert judges rated the branching virtual simulation's content as valid, with CVI, CVC and CVR above 0.80 and an average score of 4.3](content-validation-branching-simulation-cvi-cvc-cvr.md) — related
+- [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related

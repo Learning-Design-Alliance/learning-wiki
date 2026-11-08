@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 116 claims (76 for, 36 mixed, 4 against) · 60 studies (19 causal, 17 quant-synthesis, 8 review, 6 associational, 6 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 18 of 60 report an effect size · 108 claims rest on one study
+> **Evidence** · 118 claims (78 for, 36 mixed, 4 against) · 61 studies (20 causal, 17 quant-synthesis, 8 review, 6 associational, 6 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 19 of 61 report an effect size · 110 claims rest on one study
 
 ## Description and scope
 
@@ -131,6 +131,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Group opinion on peer evaluation (for or against) has no significant impact on team approach scores in M-TBL](../claims/peer-evaluation-opinion-no-impact-team-approach.md) [~W] — attached 2026-11-07 from Murata et al. (2023), which proposed "Remove the peer evaluation step from team-based learning when implementing TBL with Japanese nursing students, and team-approach gains are still obtained".
 - [Modified team-based learning in a flipped classroom increases nursing students' team approach scores across a course, particularly after the second and third cases](../claims/mtbl-flipped-increases-team-approach-nursing.md) [+W] — attached 2026-11-07 from Murata et al. (2023), which proposed "Remove the peer evaluation step from team-based learning when implementing TBL with Japanese nursing students, and team-approach gains are still obtained".
 - [In a TBL physiology course, higher-cognitive-level questions were associated with significantly more conceptual explanations in team discussions than lower-level questions](../claims/higher-level-questions-more-conceptual-explanations.md) [~W] — attached 2026-11-08 from Leupen et al. (2020), which proposed "Preclass readiness assurance appears to be a prerequisite for high-quality conceptual team discussion".
+- [Midwifery students taught postpartum hemorrhage via team-based learning show significantly higher clinical reasoning scores than lecture-based learning students at post-test and 2 weeks post-test](../claims/tbl-higher-clinical-reasoning-than-lbl-midwifery.md) [+W] — attached 2026-11-08 from Ulfa Yunefit et al. (2021), which proposed "TBL session sequence for clinical-topic learning: pre-reading, iRAT/tRAT with immediate feedback, appeal, mini-lecture, and application exercise with inter-team debate"; tests this page's relationship.
+- [TBL students report significantly higher classroom engagement than LBL students across all three class sessions](../claims/tbl-higher-classroom-engagement-than-lbl.md) [+W] — attached 2026-11-08 from Ulfa Yunefit et al. (2021), which proposed "TBL session sequence for clinical-topic learning: pre-reading, iRAT/tRAT with immediate feedback, appeal, mini-lecture, and application exercise with inter-team debate".
 
 ## Illustrative design instance and observation record
 
@@ -232,6 +234,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Introduce and teach peer assessment before implementing team-based learning](../strategies/teach-peer-assessment-before-tbl.md)
 - [Integrate TBL readiness testing with peer-taught clinical skill practice in dental residency training](../strategies/tbl-pt-integrated-residency-strategy.md)
 - [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](../strategies/faculty-development-and-orientation-for-tbl.md)
+- [Use team-based learning with iRAT/tRAT readiness assurance to build ACP knowledge before skills practice](../strategies/tbl-readiness-assurance-acp-knowledge-strategy.md)
 
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)

@@ -73,3 +73,4 @@ Omnibus model-fit test comparing the full referral model to the null model among
 - [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](pars3-gad7-phq9-not-independent-gpa-predictors.md) — related
 - [Formal assessment training and clarity of institutional guidelines did not statistically predict failure to fail or grading leniency](assessment-training-guidelines-not-predictive-iraq.md) — related
 - [In the Spanish cohort, no analyzed variable significantly predicted knowledge scores](here-spain-knowledge-no-predictors.md) — related
+- [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related

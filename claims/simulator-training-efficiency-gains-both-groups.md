@@ -91,3 +91,4 @@ Within-group comparison across later clinical cases; "From Case 4 onward, studen
 - [Random probe movements for ante/retroflexion fell from Test 1 to Test 2, while probe rotation showed a non-significant trend overall and fell in selected views, in one single-group pre-post study](tee-simulator-training-reduces-random-probe-movements.md) — related
 - [Hands-on time per trainee decreased sharply with increasing group size and correlated negatively with group size](hands-on-time-decreases-group-size.md) — related
 - [Ocular POCUS scan time decreased with scan sequence within a single session for both training groups](scan-time-reduced-with-sequence.md) — a narrower finding that bears on this claim
+- [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related

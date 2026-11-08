@@ -77,3 +77,5 @@ WWC re-analysis of findings from both studies; corrections for clustering and mu
 - [LiPS has potentially negative effects on writing: comparison students significantly outperformed LiPS students on the KTEA Spelling subtest](lips-potentially-negative-writing-spelling.md) — related
 - [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related
 - [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — reports the opposite
+- [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](targeted-training-doubles-reading-fluency-first-graders.md) — related
+- [The intervention had no impact on the control condition of mirror trials for non-alphabetic symbols](training-no-effect-non-alphabetic-symbol-mirror-trials.md) — related

@@ -62,6 +62,7 @@ Pairing a letter's visual form with its spoken sound and a motor trace exploits 
 - [Explicit, Systematic Phonics Instruction](explicit-systematic-phonics-instruction.md) — letter formation is the grapheme-side entry point of a phonics sequence
 - [Handwriting Fluency Practice](handwriting-fluency-practice.md) — the automaticity follow-on once formation is accurate
 - [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
+- [Blindfold-dominant multisensory-motor letter games (~70% of session with eyes closed) followed by eyes-open mapping and perception-for-action](blindfold-dominant-multisensory-letter-training-sessions.md)
 
 ## Examples
 - **Orton-Gillingham / Wilson Reading System** — structured literacy lessons in which each new grapheme is introduced through seeing, saying, and tracing before writing ([https://www.wilsonlanguage.com](https://www.wilsonlanguage.com))

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 188 claims (121 show a difference, 42 mixed, 25 no difference) · 101 studies (36 causal, 27 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 24 of 101 report an effect size · 184 claims rest on one study
+> **Evidence** · 191 claims (124 show a difference, 42 mixed, 25 no difference) · 103 studies (37 causal, 28 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 25 of 103 report an effect size · 187 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -225,6 +225,9 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Correlations between academic performance and physical activity are lower than those with physical fitness, especially for weekend activity (r = 0.28)](../claims/pa-academic-correlations-lower-than-pf.md) [+M] — learners who differ on it differ in outcomes
 - [Physical education grades show the highest correlations with physical fitness test results (r = 0.53–0.95)](../claims/pe-grade-highest-correlation-with-fitness.md) [+M] — learners who differ on it differ in outcomes
 - [Physical fitness correlates moderately with grade point average (r = 0.43–0.64) and physical activity correlates moderately to high (r = 0.59–0.87)](../claims/gpa-correlates-with-fitness-and-activity.md) [+M] — learners who differ on it differ in outcomes
+- [Active learning health education improves arterial stiffness (CAVI) more than didactic health education in older adults with low health literacy](../claims/active-learning-education-improves-cavi-older-adults-low-health-literacy.md) [+M] — measured as an outcome of the instruction studied
+- [Active learning health education increases self-reported total physical activity more than didactic education in older adults with low health literacy](../claims/active-learning-education-increases-physical-activity-low-health-literacy.md) [+M] — measured as an outcome of the instruction studied
+- [Higher accelerometer-assessed daily physical activity predicts better interference task performance in adolescents](../claims/physical-activity-predicts-msit-accuracy-adolescents.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

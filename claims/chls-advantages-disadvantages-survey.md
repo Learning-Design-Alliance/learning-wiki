@@ -48,3 +48,4 @@ Survey item on the most significant advantage of CHLS English lessons; repeatabi
 - [Interviewed students perceived SMS learning support as having more advantages than disadvantages](sms-perceived-more-advantages-than-disadvantages.md) — related
 - [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related
 - [Nearly half of students found CHLS English content difficult, and about a third found learning with it interesting](chls-content-difficulty-and-interest-perceptions.md) — related
+- [More than half of students reported significant impairment in concentration and learning abilities during distance education](majority-concentration-impairment-during-de.md) — related

@@ -52,3 +52,4 @@ Cross-sectional study of 350 students; adjusted logistic regression on GPA. The 
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — reports the opposite
 - [Female gender, normal waist circumference and good mindfulness predict normal BMI](predictors-normal-bmi-students.md) — related
 - [Age, BMI, and median working time showed no significant association with qualification rates](age-bmi-working-time-null-qualification.md) — reports the opposite
+- [Underweight girls showed no statistically significant academic differences from normal-weight girls at any time point or over time](underweight-no-significant-academic-differences.md) — reports the opposite

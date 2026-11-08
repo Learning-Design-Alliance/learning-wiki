@@ -45,7 +45,8 @@ A lesson-level design pattern in which scenario simulation is embedded in the pa
 - [Boppps Simulation Higher Summative Total Scores](../claims/boppps-simulation-higher-summative-total-scores.md) [+M]
 
 ## Related Designs
-- 
+
+- [Clinical-scenario simulation practice with web-based preview and teacher-guided debriefing](sbme-clinical-scenario-practice-pattern.md)
 
 ## Examples
 -

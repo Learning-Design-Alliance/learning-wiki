@@ -69,3 +69,4 @@ Figure S29 caption reports ROC curves for logistic regression and random forest 
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — reports the opposite
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — reports the opposite
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
+- [Seniority showed no significant effect on maximum tongue force or on Cormack Lehane grade during direct laryngoscopy](no-seniority-effect-tongue-force-glottic-view.md) — related

@@ -56,3 +56,4 @@ Self-rated 15-item 5-point Likert Satisfaction Evaluation Form completed by the 
 - [First-week genetic counseling students report very high overall satisfaction (mean 95.9%) with simulation-based learning with standardized clients](first-week-gc-simulation-high-satisfaction.md) — related
 - [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
+- [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related

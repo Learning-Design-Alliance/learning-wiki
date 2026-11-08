@@ -63,3 +63,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [Third-year medical students' theoretical knowledge scores rose from pre-test to post-test after procedural simulation training of ascites puncture, in one uncontrolled pre-test/post-test study](simulation-ascites-puncture-improves-theoretical-knowledge.md) — related
 - [Scores in the basic-medicine and clinical-medicine integrated PBL courses did not differ significantly within the experimental group when comparing the two course stages](two-integrated-pbl-stages-similar-scores.md) — related
 - [The online and offline groups showed no significant difference in prior third-year examination marks](baseline-third-year-marks-no-group-difference.md) — related
+- [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — reports the opposite

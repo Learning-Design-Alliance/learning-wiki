@@ -86,3 +86,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Z-number representation captures both evaluation content and evaluator reliability in peer assessment](z-number-captures-reliability-peer-evaluations.md) — related
 - [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related
 - [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related
+- [The provisional instrument achieved a person separation reliability of 0.95, discriminating at least four levels of educator feedback proficiency](fqi-person-separation-reliability-095.md) — related

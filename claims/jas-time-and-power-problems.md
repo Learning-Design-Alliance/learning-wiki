@@ -47,3 +47,4 @@ Questionnaire of JAS users (Table 4, item 6): time problem 77%, power problem 54
 ## Related Claims
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Community survey of power-and-energy researchers and practitioners finds barriers to running AI models are nearly universal, affecting even experienced users](survey-ai-barriers-power-community-nearly-universal.md) — related
+- [Students in the SBME group allocate more practice time to communicating with others](sbme-students-allocate-more-communication-time.md) — related

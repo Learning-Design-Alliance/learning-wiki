@@ -51,3 +51,4 @@ Linear regression in the cross-sectional study of 1677 students: "more psycholog
 - [School-related challenges are the most detrimental type of stressful life event, predicting lower achievement, higher distress, and lower engagement](school-related-challenges-strongest-sle-predictor.md) — related
 - [Lower academic achievement is associated with higher odds of mental distress among Ethiopian university students](mental-distress-associated-lower-gpa-ethiopia.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — a broader claim this one bears on
+- [Students with higher academic achievement report less psychological distress and less aggressive behaviour at the individual level](individual-achievement-lower-distress-aggression.md) — related

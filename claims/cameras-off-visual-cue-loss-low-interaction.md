@@ -47,3 +47,4 @@ Results-section interview findings: teachers reported that "most students attend
 
 ## Related Claims
 - [The institutionalized “ELL” label positioned labelled students as the Other, depriving them of access to agentive participation in the unit](ell-label-positioned-students-as-other.md) — related
+- [Online-only format fostered more intensive student–teacher communication, with cameras on and small groups as key enablers](online-teacher-communication-more-intensive-cameras-small-groups.md) — related

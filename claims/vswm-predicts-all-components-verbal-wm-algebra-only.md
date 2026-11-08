@@ -57,3 +57,4 @@ Hierarchical regressions (Table 4, n = 93) with age, verbal WM, visuospatial WM,
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
 - [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
 - [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — a narrower finding that bears on this claim
+- [Task monitoring and working memory jointly predict 32.5% of general academic achievement and 25.5% and 27.1% of Language Arts and Mathematics achievement](task-monitoring-working-memory-predict-achievement.md) — related

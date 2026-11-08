@@ -43,6 +43,7 @@ A 12-week community health education program for older adults structured by the 
 ## Related Designs
 
 - [Seven-session HAPA-based group teaching program for older adults with hypertension](hapa-seven-session-hypertension-teaching-program.md)
+- [24-week weekly 90-minute active learning health promotion program with group work and self-monitoring](active-learning-health-promotion-program-24-week.md)
 
 ## Examples
 -

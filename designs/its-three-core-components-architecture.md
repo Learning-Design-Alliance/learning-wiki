@@ -45,6 +45,7 @@ The article describes ITS as autonomous technologies that continuously assess le
 - [Closed-loop three-layer interpretable ITS architecture linking multimodal scoring, expressive diagnostics, and conversational coaching](closed-loop-three-layer-interpretable-its-architecture.md)
 - [Learning-context personalization engine: mastery, spacing, and help-seeking signals guide when and how AI assistance is delivered](learning-context-engine-mastery-spacing-helpseeking.md)
 - [Four-module system architecture for AI-SPs: LLM core, affective computing, personality modulation, and safety guardrails](ai-sp-four-module-system-architecture.md)
+- [Precompiled-plan planning and execution framework for course sequencing and delivery](precompiled-plans-course-generation.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Learning curve analysis of simulator metric data plotted for the first five atte
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — a broader claim this one bears on
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — related
+- [The largest learning-curve gains in basic laparoscopic skills occur within the first three training sessions](largest-pi-gains-first-three-sessions.md) — related

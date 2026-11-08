@@ -47,3 +47,4 @@ First set of hierarchical regressions with course marks as the dependent variabl
 ## Related Claims
 - [Log-data measures of learning approach and time predict course marks more strongly than self-reported measures, explaining around 22% of the variance versus 5%](log-data-explains-more-variance-in-marks.md) — related
 - [Students adopting a preparation-oriented log-data approach earned significantly higher course marks and spent more online time than assessment-oriented students](preparation-oriented-approach-higher-marks.md) — related
+- [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — related

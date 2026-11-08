@@ -53,3 +53,4 @@ Follow-up LMM with a first-generation-status by PC2-quartile interaction; the ov
 - [Medium and medium-high levels of learner-centered teaching practices correlate with higher STEM exam scores than low learner-centered/high instruction-centered levels](learner-centered-practice-level-exam-gain.md) — related
 - [In introductory STEM courses, medium but not medium-high learner-centered practice levels correlate with higher exam scores](introductory-courses-learner-centered-q2-only.md) — related
 - [Principal component analysis of PORTAAL practices identifies a learner-centered set (volunteer/random-call answers, prompting logic, positive feedback) opposed to an instruction-centered set](portaal-pca-two-teaching-modes.md) — related
+- [PeerWise answering benefits were significant only for students in the higher two Stage 3 ability quartiles](peerwise-benefit-limited-to-upper-ability-quartiles.md) — related

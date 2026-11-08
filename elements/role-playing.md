@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (13 for, 7 mixed, 2 against) · 17 studies (7 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 17 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (14 for, 7 mixed, 3 against) · 18 studies (8 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 18 report an effect size · 24 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -58,6 +58,8 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [ChatGPT-3.5-turbo portrayed convincing characters in the aftermath of stressful events, though portrayals were sometimes overly stereotypical](../claims/chatgpt-portrays-realistic-pfa-characters-with-stereotyping.md) [+W] — attached 2026-11-05 from Figueroa Rodrigo A. et al. (2026), which proposed "Three ChatGPT-3.5-turbo PFA role-play simulations evaluated via digital autoethnography and reflexive thematic analysis".
 - [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](../claims/llm-cooperates-with-trainer-but-breaks-instructions.md) [~W] — attached 2026-11-05 from Figueroa Rodrigo A. et al. (2026), which proposed "Three ChatGPT-3.5-turbo PFA role-play simulations evaluated via digital autoethnography and reflexive thematic analysis".
 - [Role-playing improves nursing students' clinical self-efficacy, producing a 55.7% improvement (p < 0.001, d = 1.55)](../claims/role-playing-improves-nursing-clinical-self-efficacy.md) [+W] — attached 2026-11-06 from Fallah-Karimi Samaneh et al. (2025), which proposed "Structured role-playing session design with four assigned roles and an observer checklist for peer feedback".
+- [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](../claims/peer-roleplay-improves-msk-mini-cex-scores.md) [+W] — attached 2026-11-08 from Yamauchi Kazuyo et al. (2021), which proposed "Peer role-playing simulation programme for MSK physical examination and clinical reasoning"; tests this page's relationship.
+- [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](../claims/peer-roleplay-null-domains-mini-cex.md) [-W] — attached 2026-11-08 from Yamauchi Kazuyo et al. (2021), which proposed "Peer role-playing simulation programme for MSK physical examination and clinical reasoning"; tests this page's relationship.
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

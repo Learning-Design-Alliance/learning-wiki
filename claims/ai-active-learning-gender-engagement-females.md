@@ -56,3 +56,4 @@ Gender-differentiated analysis of the AI-enhanced experimental group (Table 7; 3
 - [AI-mediated active learning produces significantly larger EFL writing gains than traditional teacher-centered instruction in a 15-week quasi-experiment](ai-mediated-active-learning-writing-gains.md) — related
 - [Gender, age and SES correlate with EFL PsyCap, boredom, engagement and achievement](gender-age-ses-efl-outcomes.md) — related
 - [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — reports the opposite
+- [Male students reported higher e-learning readiness than female students, with no difference by age](e-learning-readiness-higher-males.md) — reports the opposite

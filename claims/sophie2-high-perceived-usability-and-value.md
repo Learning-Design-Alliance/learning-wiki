@@ -68,3 +68,5 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
+- [Both end-user groups considered the proof-of-concept easy to use](proof-of-concept-ease-of-use.md) — related
+- [Most participants found Virtual Doc usable and its gameplay elements useful, but only 30% found the interactive elements easy to work with](virtual-doc-gameplay-usability-mixed.md) — related

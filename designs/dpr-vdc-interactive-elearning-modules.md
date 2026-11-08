@@ -42,7 +42,8 @@ The article developed two e-learning modules using the ADDIE model, built in Art
 - [Vdc Communication Jargon Reduction](../claims/vdc-communication-jargon-reduction.md) [+W]
 
 ## Related Designs
-- 
+
+- [CLINIC E-LEARNING: a Moodle-based learning management system for a 9-hour clinical research module](clinic-elearning-moodle-clinical-research-module.md)
 
 ## Examples
 -

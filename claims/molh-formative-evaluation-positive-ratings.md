@@ -49,3 +49,4 @@ A formative evaluation survey of 22 Likert-scale items was completed by seven co
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
+- [Healthcare professionals rated the e-learning resource as useful, easy to use and relevant to practice, and about one-third reported applying it in clinical practice at 4 weeks](elearning-usefulness-usability-ratings.md) — related

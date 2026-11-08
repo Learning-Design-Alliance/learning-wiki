@@ -46,3 +46,6 @@ Two-arm parallel RCT: 120 older adults randomized to a 12-week active learning p
 
 ## Related Claims
 - [Within the intervention group, all five health literacy dimensions and total health literacy improved significantly from baseline to follow-up, with the largest mean increase in health intentions (0.583) and the smallest in health behaviours (0.175)](within-group-gains-all-dimensions-intentions-largest.md) — related
+- [Active learning education is feasible for older adults with low health literacy, with high attendance and low adverse events](active-learning-education-feasible-older-adults-low-health-literacy.md) — related
+- [Active learning health education improves arterial stiffness (CAVI) more than didactic health education in older adults with low health literacy](active-learning-education-improves-cavi-older-adults-low-health-literacy.md) — related
+- [Active learning health education increases self-reported total physical activity more than didactic education in older adults with low health literacy](active-learning-education-increases-physical-activity-low-health-literacy.md) — related

@@ -48,3 +48,5 @@ Narrative review reporting a postal questionnaire to trainees and trainers compa
 - [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](msf-written-comments-quality-varies-actionability-limited.md) — related
 - [Feedback usefulness from multisource feedback is enhanced by increasing its specificity, and specific, patient-sourced feedback on communication skills is most consistently used](msf-feedback-specificity-enhances-usefulness.md) — related
 - [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related
+- [Trainees and supervisors overwhelmingly prefer a purely narrative MSF to a numerical scale-based MSF](narrative-msf-preferred-over-numeric.md) — related
+- [Narrative MSF shows consequential validity: most trainees discovered performance in need of development, but only about half made a specific plan](narrative-msf-consequential-validity.md) — related

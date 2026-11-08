@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: zhang-guoyong-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1863553"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The meta-synthesis reports that the vast majority of nursing students felt excitement during VS teaching, and synthesises themes (not counts) of enjoyment, reduced fear and psychological burden, privacy and increased confidence, which it links to the fact that safe virtual settings let them make mistakes without harming patients and repeat practice privately after mistakes. [→ Zhang Guoyong 2026](#zhang-guoyong-2026)

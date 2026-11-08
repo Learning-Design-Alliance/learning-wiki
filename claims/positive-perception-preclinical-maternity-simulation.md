@@ -70,3 +70,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Pilot nurses gave the tested scenarios a total Educational Practices Questionnaire agreement score of 4.96 (SD=0.08) and importance score of 4.56 (SD=0.07)](epq-total-scores-pilot-nurses.md) — related
 - [High-fidelity simulator realism was rated higher but participant comfort lower than the low-cost simulator, without affecting overall perceived efficacy](hf-realism-higher-comfort-lower-than-lc.md) — related
 - [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
+- [More than 80% of SBME students were satisfied with the SBME course and its projects](sbme-student-satisfaction-over-80-percent.md) — related

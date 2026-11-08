@@ -52,3 +52,4 @@ Comparison of raw proportions of school difficulties by preschool IQ level again
 - [Impaired preschool motor performance is associated with school difficulties at age 18 in children born extremely preterm, but the effect is attenuated when IQ is accounted for](impaired-preschool-motor-school-difficulties-ept.md) — related
 - [The odds of school difficulties at age 18 increase stepwise as preschool IQ decreases in children born extremely preterm or with extremely low birthweight](iq-stepwise-school-difficulties-ept.md) — related
 - [Preschool IQ predicts school difficulties at 18 years with an AUC of 0.80, and a cut-off below −1 SD shows sensitivity of 0.72 and specificity of 0.77](preschool-iq-auc-predicts-school-difficulties.md) — related
+- [About one in ten preterm school-age children assessed shows low or borderline IQ, with mean total IQ near the population mean](preterm-iq-low-borderline-10-9-percent.md) — related

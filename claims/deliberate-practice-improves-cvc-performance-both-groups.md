@@ -70,3 +70,4 @@ Before the process-oriented interventions, after web-based cognitive training, t
 - [Using a procedural task-based observer tool during CVC simulation training did not improve the immediate composite learning score of incoming anesthesia residents](observer-tool-no-immediate-composite-score-benefit.md) — related
 - [Participation in the simulation-based CVC training session significantly decreased CVC placement procedure time on a task trainer](sim-cvc-training-decreased-procedure-time.md) — a narrower finding that bears on this claim
 - [Participation in the simulation-based CVC training session significantly increased learner knowledge test scores](sim-cvc-training-increased-knowledge.md) — a narrower finding that bears on this claim
+- [Failure rate of ultrasound-guided internal jugular CVC placement does not differ between non-proficient and proficient residents under direct consultant supervision](cvc-failure-rate-proficiency-no-difference.md) — related

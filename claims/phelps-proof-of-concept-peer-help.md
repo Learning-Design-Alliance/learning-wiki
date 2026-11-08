@@ -50,3 +50,4 @@ A proof-of-concept experiment with real workers at the Saskatoon Regional Psychi
 - [Heavy-weight ontology engineering in AIED saw limited adoption despite a complete proof-of-concept](limited-adoption-heavyweight-oe-aied.md) — related
 - [Hybrid quantum optimization is applicable to school aggregation as a proof of concept, with classical optimization currently advantaged](hybrid-quantum-school-aggregation-proof-of-concept.md) — related
 - [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related
+- [Both end-user groups considered the proof-of-concept easy to use](proof-of-concept-ease-of-use.md) — related

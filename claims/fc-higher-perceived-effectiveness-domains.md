@@ -86,3 +86,4 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Clinical-based learning (clinical rotation and integration-into-clinic models) improves satisfaction, motivation and self-directed learning in dental materials science](clinical-based-learning-dental-materials.md) — related
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on
 - [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related
+- [Students' perceived effectiveness of e-learning was not associated with their e-learning readiness scores overall or in any domain](e-learning-readiness-not-associated-perceived-effectiveness.md) — related

@@ -47,6 +47,7 @@ The article administered the validated School Burnout Inventory (SBI-9), which "
 ## Related Strategies
 
 - [Four-part strategy set for reducing learning burnout in English courses](reduce-burnout-english-course-strategies.md)
+- [Assess grit to identify students at risk of burnout and offer coping and strategy training to less gritty students](grit-assessment-burnout-prevention-strategy.md)
 
 ## Examples
 -

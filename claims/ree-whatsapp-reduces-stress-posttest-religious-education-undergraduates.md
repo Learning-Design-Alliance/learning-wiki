@@ -1,0 +1,52 @@
+---
+type: claim
+title: A 10-week REE program delivered via WhatsApp significantly reduced perceived stress at post-test among religious education undergraduates compared with a control group
+description: A 10-week REE program delivered via WhatsApp significantly reduced perceived stress at post-test among religious education undergraduates compared with a control group
+id: ree-whatsapp-reduces-stress-posttest-religious-education-undergraduates
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-08
+evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-11-08
+sources:
+  - id: ilechukwu-lc-2021
+    resource: "https://doi.org/10.1097/MD.0000000000026177"
+    title: "Ilechukwu LC, Egenti NT, Aloh HE, Uwakwe RC, Obande-Ogbuinya N, Eke CL, Kalu IA, Ejionueme LK, Iremeka FU. (2021). Rational emotive education for reducing stress of undergraduate students of religious education program: An experimental study. Medicine. https://doi.org/10.1097/MD.0000000000026177"
+    author: Ilechukwu LC, Egenti NT, Aloh HE, Uwakwe RC, Obande-Ogbuinya N, Eke CL, Kalu IA, Ejionueme LK, Iremeka FU
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# A 10-week REE program delivered via WhatsApp significantly reduced perceived stress at post-test among religious education undergraduates compared with a control group
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
+
+## Subclaims
+`q3 i?` At post-treatment assessment, the REE treatment group showed a significantly greater reduction in mean perceived stress scores than the control group. [→ Ilechukwu LC 2021](#ilechukwu-lc-2021)
+
+## Evidence
+
+### Ilechukwu LC 2021
+
+Ilechukwu LC, Egenti NT, Aloh HE, Uwakwe RC, Obande-Ogbuinya N, Eke CL, Kalu IA, Ejionueme LK, Iremeka FU. (2021). Rational emotive education for reducing stress of undergraduate students of religious education program: An experimental study. Medicine. https://doi.org/10.1097/MD.0000000000026177
+
+`q3 · i?` · `causal · r2`
+
+Between-group independent samples t test (Table 2, Time 2) from a randomized controlled trial of 150 religious education undergraduates (75 per group) with high baseline stress, randomized to REE via WhatsApp or a control condition. The treatment group's post-test mean was "mean = 12.35 ± 2.89" versus "mean = 35.35 ± 4.90" in the control group, a statistically significant difference with no printed effect size.
+
+> "at post-treatment assessment, exposure to the REE brought about more significant reduction in mean perceived stress scores among the treatment group (mean = 12.35 ± 2.89, compared with participants in the control group (mean = 35.35 ± 4.90); t(59) = –49.505, P < .001."
+
+## Discussion
+
+
+## Related Claims
+- [The stress reduction achieved by the REE program was maintained at 3-month follow-up, with treatment-group scores remaining far below control-group scores](ree-stress-reduction-maintained-followup.md) — related
+- [Religious education undergraduates showed very high baseline perceived stress with no significant difference between treatment and control groups before the intervention](ree-trial-high-baseline-stress-equivalent-groups.md) — related
+- [Within the treatment group, perceived stress dropped significantly from pre-test to post-test and remained stable from post-test to follow-up](ree-within-group-stress-change-sustained.md) — related
+- [ANOVA by demographic subgroups (sex, residence, year of study, monthly allowance, ethnicity, location) indicated significant group differences at post-test and follow-up](ree-stress-effects-across-demographic-subgroups.md) — related

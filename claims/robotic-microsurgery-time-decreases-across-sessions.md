@@ -51,3 +51,4 @@ Prospective preclinical trial of 13 participants performing 117 anastomoses on 2
 - [Novices complete a single-button anastomosis suture significantly faster with a microscope than with the Symani robot](microscope-faster-anastomosis-suture-than-symani.md) — related
 - [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — related
 - [Surgeons trained on a 3D-printed biliary-enteric anastomosis model earn higher anastomosis quality scores than surgeons trained by video observation or general suture practice](3d-printed-model-training-higher-operative-score.md) — related
+- [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related

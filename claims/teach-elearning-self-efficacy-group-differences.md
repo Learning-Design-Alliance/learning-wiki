@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: mixed
 newest_evidence: 2022
+source_checked: 2026-11-08
 sources:
   - id: bruijns-ba-2022
     resource: "https://doi.org/10.1186/s12889-022-12591-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In-service ECEs showed significant positive change in both task and barrier self-efficacy from pre- to post-course; pre-service ECEs showed a significant change in barrier self-efficacy but not task self-efficacy. [→ Bruijns BA 2022](#bruijns-ba-2022)

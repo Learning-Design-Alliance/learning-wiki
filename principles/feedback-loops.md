@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (24 for, 13 mixed, 2 against) · 55 studies (16 causal, 12 review, 11 quant-synthesis, 5 design, 4 associational, 4 qualitative, 3 theoretical), `q1`–`q4` · 9 of 55 report an effect size · 30 claims rest on one study
+> **Evidence** · 40 claims (24 for, 14 mixed, 2 against) · 56 studies (17 causal, 12 review, 11 quant-synthesis, 5 design, 4 associational, 4 qualitative, 3 theoretical), `q1`–`q4` · 9 of 56 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Claims this page has read and does not use in the model above, with how far each
 - [Feedback containing concrete suggestions is significantly related to successful uptake of peer feedback in higher education](../claims/concrete-suggestions-linked-successful-uptake-peer-feedback.md) [+W] — attached 2026-10-29 from The nature, reception, and use of online peer feedback in higher education, which proposed "Support peer feedback with tools and practices that elicit concrete suggestions, because concreteness predicts uptake"; tests this page's relationship.
 - [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](../claims/msf-written-comments-quality-varies-actionability-limited.md) [+W] — attached 2026-11-01 from Saedon H et al. (2012), which proposed "WBA feedback should be specific and action-based to be effective for improving practice".
 - [Feedback based on intraoperative surgical performance improves surgical performance across live and simulated procedures](../claims/intraoperative-feedback-improves-surgical-performance.md) [+W] — attached 2026-11-01 from Trehan Abhishek et al. (2015), which proposed "Future intraoperative feedback research should systematically vary source, facilitator, frequency, duration and content"; tests this page's relationship.
+- [Endo.Adm feedback increased colonoscopy withdrawal time but did not significantly improve cecal intubation rate](../claims/endo-adm-feedback-withdrawal-time-not-cir.md) [~W] — attached 2026-11-08 from Yao Liwen et al. (2021), which proposed "Deliver automated, individualized audit-and-feedback report cards to professionals to improve procedural performance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

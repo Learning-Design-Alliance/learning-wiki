@@ -63,3 +63,7 @@ Final assessment scores compared between the 2019 (control) and 2020 (experiment
 - [The REPs-VS group scored significantly higher on the operational examination total and on operational steps, but not on apparatus selection or doctor-patient communication](reps-vs-higher-operation-exam-scores.md) — related
 - [Role-playing KTAS education does not improve overall triage competency more than lectures, but improves its expert assessment and communication sub-factors](role-playing-no-overall-triage-competency-gain.md) — related
 - [Up to 90% of students felt their humanistic care literacy was improved after the clinical-medicine integrated PBL course, with <36.7% feeling stressed](integrated-pbl-humanistic-care-and-stress-findings.md) — related
+- [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related
+- [SBME most improves humanistic care and doctor–patient communication, and only slightly improves basic knowledge and operation skills](sbme-lost-points-humanistic-care-communication.md) — related
+- [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](peer-roleplay-null-domains-mini-cex.md) — reports the opposite
+- [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — related

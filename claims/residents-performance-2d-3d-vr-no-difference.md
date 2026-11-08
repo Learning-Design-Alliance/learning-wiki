@@ -55,3 +55,4 @@ The review reports, from Sytek et al.'s mixed-methods study assessing orthodonti
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — related
 - [VR-based and 3D computer-based SimBIE formats produce statistically equivalent TeamSTEPPS performance gains](vr-versus-computer-simbie-equivalent-team-performance.md) — related
 - [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related
+- [Prior studies report that higher-fidelity 3D and VR surgical simulation methods are appropriate alternatives to 2D conventional orthognathic surgical simulation](higher-fidelity-3d-vr-simulation-appropriate-alternative.md) — possibly the same claim (merge candidate)

@@ -51,6 +51,7 @@ The article's forward-looking design recommendations for community care simulati
 - [Structure group supervision content in advance and pair it with direct, pool-based supervision for novices](structured-group-supervision-with-direct-complement-strategy.md)
 - [Share the simulation scenario with learners in advance and repeat the scenario within sessions](advance-scenario-sharing-and-repetition-strategy.md)
 - [Design simulation laboratories with strong student support, clear objectives and information, high fidelity, and active learning strategies](simulation-design-support-objectives-fidelity-active-learning-strategy.md)
+- [Tailor the emotional content of simulation sessions to individual learners' anxiety levels](tailor-simulation-emotional-content-to-learner-anxiety.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 262 claims (185 show a difference, 45 mixed, 32 no difference) · 190 studies (69 causal, 43 associational, 39 review, 14 quant-synthesis, 11 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 35 of 190 report an effect size · 253 claims rest on one study
+> **Evidence** · 269 claims (192 show a difference, 45 mixed, 32 no difference) · 194 studies (69 causal, 47 associational, 39 review, 14 quant-synthesis, 11 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 36 of 194 report an effect size · 260 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -311,6 +311,13 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Academic achievement is directly predicted by self-regulation and critical thinking, with self-regulation the more influential predictor](../claims/self-regulation-critical-thinking-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [At 6- to 12-week follow-up physiotherapists were highly competent in three HCS but showed lower competence in SMARTER goal-setting](../claims/mecc-hcs-smarter-goal-setting-lower-competence.md) [~M] — measured as an outcome of the instruction studied
 - [Interaction frequency of co-regulatory network engagement positively relates to students' self-reported regulation proficiency](../claims/crl-network-frequency-relates-srl-proficiency.md) [+M] — measured as an outcome of the instruction studied
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](../claims/ef-mediate-crf-gsv-grades.md) [+W] — learners who differ on it differ in outcomes
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](../claims/ef-mediate-crf-math-grades.md) [+W] — learners who differ on it differ in outcomes
+- [General executive functions predict 14.7% of general academic achievement and 12.3% and 12.2% of Language Arts and Mathematics achievement in children aged 6–9](../claims/executive-functions-predict-achievement-6-9.md) [+W] — learners who differ on it differ in outcomes
+- [Motivational regulation strategy use strongly and positively predicts cognitive learning strategy use among medical students in online learning](../claims/mrs-strongly-predicts-cls-online-medical-students.md) [+W] — learners who differ on it differ in outcomes
+- [Self-regulation is negatively associated with academic procrastination in adolescents](../claims/self-regulation-negatively-associated-adolescent-procrastination.md) [+M] — learners who differ on it differ in outcomes
+- [Self-regulation is positively associated with academic self-efficacy in adolescents](../claims/self-regulation-positively-associated-academic-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Self-regulation is the most potent personal predictor of academic achievement in Colombian adolescents](../claims/self-regulation-strongest-personal-predictor-adolescent-achievement.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

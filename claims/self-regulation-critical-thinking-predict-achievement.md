@@ -52,3 +52,4 @@ Path analysis of the 250-student sample; achievement was students' self-reported
 ## Related Claims
 - [Self-efficacy directly predicts critical thinking among university students](self-efficacy-predicts-critical-thinking.md) — related
 - [Critical thinking positively predicts academic competence among Chinese college students](critical-thinking-predicts-academic-competence-chinese-college.md) — related
+- [Self-regulation is the most potent personal predictor of academic achievement in Colombian adolescents](self-regulation-strongest-personal-predictor-adolescent-achievement.md) — related

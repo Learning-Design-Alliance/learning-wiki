@@ -48,6 +48,7 @@ This pattern organizes a single-day learning event around multiple distinct clin
 
 - [Sequential simulation as a linked patient-journey design with team-based participation and interprofessional exposure](sequential-simulation-patient-journey-theory.md)
 - [mCLEIMS station design: six teams rotating through six 25-minute sequential simulation stations](mcleims-station-rotation-design.md)
+- [Multi-station clinical skills competition pattern combining operative-skill stations, a knowledge quiz, expert refereeing, and digital scoring](multi-station-clinical-skills-competition-pattern.md)
 
 ## Examples
 -

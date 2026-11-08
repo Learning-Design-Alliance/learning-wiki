@@ -53,3 +53,4 @@ Wilcoxon within-group tests in the intervention group showed significant improve
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [A simulation-based CRM workshop significantly improves situational awareness, decision-making, and role responsibility ratings on the Clinical Teamwork Scale](simulation-crm-workshop-improves-cts-awareness-decision-role.md) — related
 - [A face-to-face educational intervention significantly improves circulating nurses' overall nontechnical skill scores](educational-intervention-improves-circulating-nurses-nontechnical-skills.md) — related
+- [Situation awareness education produced no significant differences in SAGAT-measured situation awareness or ABCDE task performance in ICU teams](sa-education-no-sagat-abcde-effect-icu-teams.md) — related

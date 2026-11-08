@@ -54,3 +54,4 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 - [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related
 - [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](genai-mcq-lower-reliability.md) — related
 - [Unidimensionality of the MID competency scale was rejected](mid-competency-instrument-unidimensionality-rejected.md) — related
+- [Multifaceted Rasch analysis flagged seven items for misfit, with items 5, 6, 14 and 23 misfitting in a sensitivity analysis](mfrma-item-misfit-flagged.md) — related

@@ -49,6 +49,7 @@ Based on the finding that hope relates to adjustment partly through engagement, 
 
 - [Pay particular attention to supporting female students' performance when using the demonstration method in agricultural science](support-female-students-demonstration-method.md)
 - [Target development of math self-efficacy, especially for elementary school girls, through teacher professional development on supportive practices](target-math-self-efficacy-girls-teacher-pd.md)
+- [Academic counseling that builds adolescent girls' academic confidence and parental involvement in educational activities](academic-counseling-girls-confidence-parental-involvement-strategy.md)
 
 ## Examples
 -

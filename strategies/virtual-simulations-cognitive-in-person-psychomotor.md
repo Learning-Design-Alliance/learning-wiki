@@ -62,6 +62,8 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 - [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
+- [Balance virtual simulation training with sufficient hands-on technical skills practice time](balance-virtual-and-skills-training-time.md)
+- [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
 
 ## Examples
 -

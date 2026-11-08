@@ -49,3 +49,4 @@ Cross-sectional study of 350 students; crude association in Table 2 (OR = 1.110,
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — reports the opposite
 - [Nutrition-only and WASH-only interventions do not differ significantly in their pooled association with academic performance](nutrition-vs-wash-no-significant-group-difference.md) — related
 - [Nutrition and WASH exposures show a pooled positive association with academic performance among Ethiopian schoolchildren (pooled effect size 2.05) with very high heterogeneity](pooled-nutrition-wash-academic-performance-ethiopia-2-05.md) — related
+- [No interaction effects between nutrition groups were found for academic performance over time](no-interaction-effects-nutrition-groups-academic.md) — related

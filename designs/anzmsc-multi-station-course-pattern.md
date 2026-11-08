@@ -43,7 +43,8 @@ The ANZMSC combines eleven practical stations using varied materials (skills boa
 - 
 
 ## Related Designs
-- 
+
+- [Structured simulation-based surgical curriculum combining self-study, classroom instruction, dry-lab, simulator practice and live surgery](structured-simulation-surgical-curriculum-msics.md)
 
 ## Examples
 -

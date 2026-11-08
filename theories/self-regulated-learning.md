@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 301 claims (143 for, 143 mixed, 15 against) · 222 studies (69 causal, 67 associational, 28 review, 18 quant-synthesis, 15 theoretical, 14 qualitative, 11 design), `q1`–`q4` · 51 of 222 report an effect size · 285 claims rest on one study
+> **Evidence** · 302 claims (144 for, 143 mixed, 15 against) · 223 studies (69 causal, 68 associational, 28 review, 18 quant-synthesis, 15 theoretical, 14 qualitative, 11 design), `q1`–`q4` · 51 of 223 report an effect size · 286 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -348,6 +348,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Greek secondary students' motivational beliefs and metacognitive self-regulation form three synergistic profiles, with no incompatible motivation–metacognition profiles emerging](../claims/three-synergistic-motivation-metacognition-profiles.md) [~W] — attached 2026-11-07 from Katsantonis I (2023), which proposed "MASRL model of self-regulated learning as the interactionist framework guiding the study".
 - [Metacognitive strategy use positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/metacognition-predicts-elementary-literacy-math.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Pintrich's self-regulated learning model of cognitive and behavioral learning strategies".
 - [Effort regulation positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/effort-regulation-predicts-elementary-achievement.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Pintrich's self-regulated learning model of cognitive and behavioral learning strategies".
+- [Self-regulation is the most potent personal predictor of academic achievement in Colombian adolescents](../claims/self-regulation-strongest-personal-predictor-adolescent-achievement.md) [+W] — attached 2026-11-08 from de la Fuente Jesús et al. (2021), which proposed "Self- vs. Externally-Regulated Learning (SRL vs. ERL) theory".
 
 ## The evidence by question
 

@@ -67,6 +67,7 @@ Short activity bouts acutely improve on-task attention and classroom behavior, p
 - [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 - [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
+- [Deliver PAL as short (about 10-minute) moderate-intensity movement bursts embedded in normal lessons, using simple, randomly presented movements](short-simple-random-pal-lesson-strategy.md)
 
 ## Examples
 - **TAKE 10!** (International Life Sciences Institute) — published curriculum embedding 10-minute activity bouts into academic lessons for grades K–5.

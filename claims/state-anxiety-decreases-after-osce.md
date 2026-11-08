@@ -58,3 +58,4 @@ Descriptive within-cohort comparison of STAI-SA before and after the OSCE in bot
 - [Prepandemic students significantly outperformed postpandemic students at OSCE station 1, associated by the authors with reduced in-person practical training](station1-osce-decline-postpandemic.md) — related
 - [Among medical students, anxiety-reduction scores rose from pre-training to post-training after VR anatomy training, in one single-group pre-post study](vr-anatomy-training-anxiety-reduction-post-scores.md) — related
 - [Post-exam anxiety is inversely correlated with OSCE score: students with the lowest post-OSCE anxiety achieved better scores](post-exam-anxiety-inversely-correlated-osce-score.md) — related
+- [Mean anxiety decreased slightly before state exams without a statistically significant change in overall anxiety level between time points](anxiety-unchanged-before-state-exams.md) — related

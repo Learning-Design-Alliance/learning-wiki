@@ -64,3 +64,5 @@ The review's Discussion states that "evidence supporting the transferability of 
 - [Simulation-based surgical skills are retained for extended periods and transfer to the operating room, per the review's cited studies](simulation-skill-retention-and-or-transfer.md) — reports the opposite
 - [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — related
 - [Some nontechnical skill behaviors remain unimproved or below average after the educational intervention](some-behaviors-unimproved-after-educational-intervention.md) — related
+- [No studies validated the use of cadavers for robotic surgical training, and no empirical evidence demonstrates transfer of cadaver training skills to live operating rooms](no-validated-cadaver-robotic-training-studies.md) — related
+- [Evidence supporting live animal models for robotic surgery training is sparse, with limited validity assessment, though a porcine kidney model improved trainee performance over repeated attempts](sparse-evidence-live-animal-robotic-training.md) — related

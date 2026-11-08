@@ -72,3 +72,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Expert panel content validation of the TBL-SAI-TR yields an average content validity index of 0.95](tbl-sai-tr-content-validity-cvi-095.md) — related
 - [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
 - [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related
+- [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related

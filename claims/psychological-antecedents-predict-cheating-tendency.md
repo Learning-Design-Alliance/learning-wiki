@@ -50,3 +50,4 @@ Cross-sectional correlational survey of 1,045 undergraduates from multiple disci
 - [Beliefs about action and willpower, shaped by discussion, causally alter behaviour such as cheating and persistence](metacognitive-beliefs-alter-behaviour.md) — related
 - [Academic self-efficacy is negatively associated with AI dependency among university students](self-efficacy-negatively-associated-ai-dependency.md) — related
 - [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related
+- [Self-regulation is negatively associated with academic procrastination in adolescents](self-regulation-negatively-associated-adolescent-procrastination.md) — related

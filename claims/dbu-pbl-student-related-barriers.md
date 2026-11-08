@@ -51,3 +51,4 @@ Qualitative cross-sectional study at Debre Berhan University medical school (Feb
 - [Case scenario-related barriers — ambiguous cases, equal time allocation across cases, and poor alignment of PBL cases with class lectures — hinder PBL implementation](dbu-pbl-case-related-barriers.md) — related
 - [Assessment-related barriers — subjective tutor judgment instead of the assessment checklist and one-time end-of-module spot evaluation — create dissatisfaction among PBL students](dbu-pbl-assessment-related-barriers.md) — related
 - [Demanding curriculum characteristics including overload, mandated flexibility constraints, and lack of time hinder implementation](macro-demanding-curriculum-hinders-implementation.md) — related
+- [Periodic evaluations showed active student participation and tutor-reported improvement in theoretical study and scientific research abilities](wechat-pbl-periodic-evaluation-participation.md) — related

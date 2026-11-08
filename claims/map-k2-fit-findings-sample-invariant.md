@@ -53,3 +53,4 @@ Comparison of results across the two samples defined in the study (AllYr and Lat
 - [New and old fit statistics are highly correlated after difficulty adjustment, with outfit correlations near 0.99 for Mathematics and infit correlations around 0.7 for Mathematics and mid-to-high 0.8–0.9 for Reading](map-k2-new-old-fit-statistic-correlations.md) — related
 - [New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79](new-old-fit-statistics-moderately-correlated.md) — related
 - [Adjusting MAP Growth K–2 item difficulties in the 2020 scale alignment study improved item fit, with the largest gains in outfit statistics for difficult Mathematics items](map-k2-2020-difficulty-adjustment-improved-item-fit.md) — related
+- [Multifaceted Rasch analysis flagged seven items for misfit, with items 5, 6, 14 and 23 misfitting in a sensitivity analysis](mfrma-item-misfit-flagged.md) — related

@@ -55,3 +55,4 @@ Quasi-experimental comparison of two intact classes of 45 senior secondary two s
 - [Both demonstration and lecture methods were effective in improving academic performance in economics concepts](both-methods-effective-economics-concepts.md) — related
 - [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related
 - [Students taught with the eHistoLab virtual microscopy web application achieved significantly higher histology post-test scores than students taught by e-lecturing](ehistolab-higher-posttest-than-e-lecturing.md) — related
+- [Rubric-graded PowerPoint team presentations in all three biology courses showed learning gains in knowledge integration and synthesis](mbcl-presentations-show-deep-learning-gains.md) — related

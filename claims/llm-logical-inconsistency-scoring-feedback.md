@@ -68,3 +68,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [The AI tended to award slightly generous scores and occasionally under-emphasised mechanistic reasoning](ai-tends-generous-scores-underemphasises-mechanistic-reasoning.md) — related
 - [Students' open-ended feedback clustered around improvements including incorporating clinical context, clearer AI explanation logic, and interactive or comparative features](student-suggested-feedback-improvements.md) — related
 - [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — a narrower finding that bears on this claim
+- [Student peer review scoring of the formative MEQ* does not differ significantly from expert post-evaluation and correlates highly with it](peer-review-scoring-matches-expert-meq-evaluation.md) — related

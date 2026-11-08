@@ -71,3 +71,4 @@ Same SEM on the KELS panel: the path PAS as companion ⇒ amotivation is printed
 - [Perceived PAS as a manager has no effect on adolescents' self-regulation or academic achievement but increases amotivation](manager-pas-increases-amotivation.md) — related
 - [Both PAS types correlate positively with adolescent outcomes, but companion coefficients are generally higher than manager coefficients](pas-correlations-both-types-positive.md) — related
 - [Correlational and structural equation results diverge: PAS as a manager appears positive in correlations but shows no benefit and raises amotivation in the SEM](sem-reverses-manager-pas-correlation.md) — related
+- [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related

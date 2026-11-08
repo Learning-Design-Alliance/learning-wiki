@@ -54,3 +54,4 @@ Reflexive thematic analysis of the 30 interviews; theme 3. Synchronous students 
 - [Synchronous students felt constrained by the lecturer's schedule while asynchronous students appreciated flexibility in managing their own time](time-management-flexibility-theme.md) — related
 - [Recognizable non-verbal communication patterns in online medical lectures were linked to positive shifts in student receptivity and motivation](nvc-patterns-online-lecture-receptivity.md) — related
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
+- [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related

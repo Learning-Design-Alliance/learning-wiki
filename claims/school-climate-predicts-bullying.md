@@ -50,3 +50,4 @@ Multilevel logistic regression (model 4) adding the 7-item school climate measur
 - [Child-by-school deprivation interaction: high-deprivation schools are a risk factor for bullying only for non-deprived children](child-school-deprivation-interaction-bullying.md) — related
 - [School size, gender balance, ethnicity, SEN and EAL composition do not significantly predict bullying, and child-by-school-climate interactions are null](school-composition-null-predictors-bullying.md) — related
 - [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school](swpbis-reduces-growth-teacher-reported-bullying.md) — related
+- [School sociodemographic composition is associated with school ethos, average achievement and aggressive behaviour, to the disadvantage of more deprived schools](composition-predicts-ethos-achievement-aggression.md) — related

@@ -51,6 +51,7 @@ The article's course design assigns the teacher a strictly supervisory role: dur
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 - [Sequence self-directed e-learning before interactive PBL case seminars so seminars build on an established theoretical foundation](elearning-before-pbl-case-seminars-sequence.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
+- [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
 
 ## Examples
 -

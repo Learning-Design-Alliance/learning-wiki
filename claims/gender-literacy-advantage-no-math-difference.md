@@ -53,3 +53,4 @@ Path coefficient from the final GUI mediation model. The Discussion adds "No gen
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — reports the opposite
 - [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — reports the opposite
+- [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — related

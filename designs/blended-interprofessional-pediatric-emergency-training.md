@@ -44,7 +44,8 @@ A training course for medical and nursing staff at a tertiary pediatric center b
 - [Blended Emergency Training Self Assessed Gains T3](../claims/blended-emergency-training-self-assessed-gains-t3.md) [+M]
 
 ## Related Designs
-- 
+
+- [Online-only eight-week competency-based medical course with virtual patient encounters (Microsoft Teams, BYOD)](online-only-competency-course-teams-virtual-patients.md)
 
 ## Examples
 -

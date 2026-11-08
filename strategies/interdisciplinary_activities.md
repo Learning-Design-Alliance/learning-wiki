@@ -65,6 +65,7 @@ Interdisciplinary activities build integrated knowledge structures and support t
 - [Project-Based Learning](project-based-learning-pbl.md) — extended projects frequently require multi-disciplinary work
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the prerequisite step for connecting new material across disciplines
 - [Use discipline-specific clues as design problems to foster analyze and evaluate steps](discipline-clues-as-design-problems.md)
+- [A master rubric with selectable grading scales to assess knowledge identification, integration, and synthesis across disciplines](master-rubric-knowledge-identification-integration-synthesis.md)
 
 ## Examples
 - **News Analysis** — Using a news clip about a local store closing, learners determine an ideal new location, applying economics, geography, and mathematics.

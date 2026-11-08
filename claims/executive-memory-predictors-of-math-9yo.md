@@ -62,3 +62,5 @@ Simultaneous multiple regression (M1) in 98 9-year-olds with normal reading skil
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
 - [High verbal comprehension, general reasoning, and spatial orientation characterize superior film learners](mental-abilities-superior-film-learning.md) — related
 - [Visuospatial WM independently predicts all five specific mathematical components, while verbal WM independently predicts only algebra](vswm-predicts-all-components-verbal-wm-algebra-only.md) — related
+- [Spatial–sequential working memory remains influential in 9–10-year-olds beyond the age at which the declarative shift from visuospatial to verbal reliance is predicted (around 7 years)](sequential-wm-past-declarative-shift.md) — related
+- [Between ages 7–8 and 9–10, the influential visuospatial working memory subcomponent for mathematics shifts from spatial–simultaneous to spatial–sequential, while verbal working memory remains a significant predictor](wm-component-shift-simultaneous-to-sequential.md) — related

@@ -51,3 +51,4 @@ The SIMULATE international prospective trial examined transfer of ureteroscopy s
 - [Fresh frozen cadavers are the most highly rated training modality for content validity, while VR is rated relatively inferior to other modalities](content-validity-ffc-highest-rated-vr-inferior.md) — related
 - [Adding fresh frozen cadaver training to the curriculum shows no significant difference in OR performance versus VR-plus-bench training](ffc-addition-no-or-performance-difference.md) — a narrower finding that bears on this claim
 - [Adding URO Mentor VR simulator training shows no statistically significant difference in OR performance versus non-VR training](vr-addition-no-or-performance-difference.md) — related
+- [No studies validated the use of cadavers for robotic surgical training, and no empirical evidence demonstrates transfer of cadaver training skills to live operating rooms](no-validated-cadaver-robotic-training-studies.md) — related

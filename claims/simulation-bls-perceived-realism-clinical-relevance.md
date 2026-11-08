@@ -61,3 +61,4 @@ Qualitative thematic finding from focus group discussions with 40 undergraduate 
 - [Most students reported that the system's realistic simulation and unlimited practice helped them, and most preferred the offline haptic section for three-dimensional adjustment and real-time feedback](student-preference-offline-haptic-feedback.md) — related
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
+- [The authors conclude that clinical simulation helps nursing students increase their confidence and satisfaction for facing real clinical scenarios](simulation-increases-confidence-satisfaction-authors-conclusion.md) — related

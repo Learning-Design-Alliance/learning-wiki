@@ -51,3 +51,4 @@ Survey of all first-year hybrid students (n = 15 eligible, 80% response rate) ad
 - [Feeling comfortable asking questions in class is the strongest classroom-climate predictor of students' behavioral academic engagement in introductory STEM courses](comfort-asking-questions-predicts-engagement.md) — related
 - [Students perceived time allocations in the virtual rotation as appropriate, with most reporting daily or weekly use of prespecified resources](virtual-rotation-time-and-resource-perceptions-favorable.md) — related
 - [Small-group teaching, online or face-to-face, receives higher satisfaction ratings than didactic large-group lectures for feedback, instruction clarity and answers to questions](small-group-higher-satisfaction-than-didactic.md) — related
+- [Only 62.5% of students felt free to pose questions in the WeChat-PBL group, the lowest-agreement item in the overall evaluation](wechat-pbl-low-question-posing.md) — related

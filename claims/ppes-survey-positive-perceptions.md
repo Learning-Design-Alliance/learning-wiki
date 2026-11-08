@@ -48,3 +48,4 @@ Descriptive analysis of a voluntary post-OSCE online survey (74.9% response rate
 - [High users of the PPES online course scored an average of 7.0 percentage points higher on the paediatrics OSCE station than low users after propensity score matching](ppes-high-users-osce-7-point-ate.md) — related
 - [Students held positive perceptions of authentic materials (71% interesting, 70% useful), though 34% found them difficult to understand](survey-positive-perception-authentic-materials.md) — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
+- [Students held neutral or slightly positive perceptions of e-learning effectiveness, rating the clinical videos most helpful for learning clinical performance](neutral-slightly-positive-perceptions-e-learning.md) — related

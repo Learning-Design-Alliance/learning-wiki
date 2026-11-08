@@ -46,3 +46,5 @@ Between-group comparisons across five training levels (two PGY, 17 residents) in
 
 ## Related Claims
 - [Second intubation attempts showed significantly reduced intubation time and perceived difficulty compared with first attempts](repeated-attempts-reduce-time-and-difficulty.md) — related
+- [Attending physicians achieved higher first-pass intubation success rates than medical students, postgraduate trainees and residents in simulated difficult airway scenarios](seniority-predicts-simulated-intubation-success-rate.md) — reports the opposite
+- [Pre-test success rates differed by professional role, while puncture accuracy rose from pre-test to post-test for participants after the system, in a single-group pre-post study](background-skill-level-may-not-affect-acquired-skill.md) — related

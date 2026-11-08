@@ -48,6 +48,7 @@ Based on the moderator results, the article recommends that personalization stra
 ## Related Strategies
 
 - [Match scaffolding type to learners' prior professional knowledge level](match-scaffolding-type-to-prior-knowledge-level.md)
+- [Use selective instructional supports (examples, prompts) combined with adaptive instructional support as alternatives to reflection phases for low-expertise learners in simulation-based learning](selective-adaptive-support-alternatives-low-expertise-simulation.md)
 
 ## Examples
 -

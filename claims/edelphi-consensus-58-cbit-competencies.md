@@ -63,3 +63,4 @@ Three-round e-Delphi study (March–May 2024) with an international expert panel
 - [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related
 - [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](delphi-52-he-teacher-competencies-eight-domains.md) — related
 - [The UK working group adapted the 32 US OMEC competencies into 29 competencies through an iterative expert-consensus process](omec-competencies-adapted-to-29-uk-competencies.md) — related
+- [An international Delphi panel of 19 experienced urologists reached consensus on a reference set of RARP performance metrics](delphi-consensus-rarp-metrics.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 273 claims (147 show a difference, 63 mixed, 63 no difference) · 205 studies (91 associational, 80 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 205 report an effect size · 272 claims rest on one study
+> **Evidence** · 274 claims (148 show a difference, 63 mixed, 63 no difference) · 206 studies (91 associational, 80 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 206 report an effect size · 273 claims rest on one study
 
 ## How to read this page
 
@@ -358,6 +358,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Learning losses varied by parental education and parental income, on top of already existing inequalities](../claims/covid-learning-loss-inequality-parental-education-income.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Pass rates for first-generation and Hispanic students do not differ significantly between flipped and non-flipped sections](../claims/demographic-subgroup-pass-rates-null.md) [-M] — an instructional effect differs by group
 - [Socioeconomic status and intelligence in pre-adolescence vary strongly across attained educational levels, with girls reaching higher levels than boys](../claims/ses-wisc-gender-differences-educational-attainment.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Low-income students experienced substantially greater reductions in learning performance than high-income students in the shift to online learning](../claims/low-income-students-greater-online-learning-reductions.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

@@ -51,3 +51,4 @@ Post-usage usability ratings from the survey of 179 medical students; the articl
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — reports the opposite
 - [Undergraduate medical students rate VR anatomy scenarios as accurate and realistic compared to the traditional anatomy lab](vr-anatomy-scenarios-rated-accurate-realistic.md) — related
 - [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — related
+- [Most participants found Virtual Doc usable and its gameplay elements useful, but only 30% found the interactive elements easy to work with](virtual-doc-gameplay-usability-mixed.md) — related

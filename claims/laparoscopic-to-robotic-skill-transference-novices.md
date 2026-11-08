@@ -49,3 +49,4 @@ In an RCT with 40 novice medical students randomized to simulator modality order
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
 - [Overall laparoscopic and robotic simulator peg transfer scores do not differ significantly among novice medical students](no-overall-ls-rs-score-difference-peg-transfer.md) — related
 - [Robotic simulation performance in reverse alignment is significantly better than laparoscopic performance in novice medical students](reverse-alignment-rs-outperforms-ls.md) — related
+- [Prior laparoscopic surgery experience predicted better performance in the second and third training blocks, though based on only four experienced subjects](prior-laparoscopic-experience-better-early-blocks.md) — related

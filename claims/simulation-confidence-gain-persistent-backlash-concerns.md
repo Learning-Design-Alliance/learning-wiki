@@ -75,3 +75,4 @@ Same thematic analysis of candidate responses; the article states the interventi
 - [Simulation-based MI training significantly improves CHW trainees' confidence in applying MI skills to promote health behavior change](simulation-mi-training-increases-chw-confidence-applying-mi-skills.md) — related
 - [Simulation-based MI training significantly improves CHW trainees' confidence in engaging in conversations with individuals holding differing opinions](simulation-mi-training-increases-chw-confidence-engaging-differing-opinions.md) — related
 - [Greater teaching experience correlated with less need to look up topic background and more confidence in class quality](fc-teacher-experience-confidence-correlation.md) — related
+- [Confidence in addressing sexual concerns rose from baseline to immediately after e-learning but did not change significantly by 4 weeks in one uncontrolled pre-post study](elearning-confidence-gain-not-maintained.md) — related

@@ -49,3 +49,4 @@ Cross-sectional SEM of 504 children with ADHD with age as control variable. The 
 
 ## Related Claims
 - [Processing speed is a single mediator of the relation between inattention symptom severity and mathematics and spelling performance, but not reading performance](ps-single-mediator-math-spelling-not-reading.md) — related
+- [Older children within the 8–10 year range scored lower on reading, spelling and math computation, and the gender difference disappeared after adjustment](younger-children-higher-achievement-scores-rural-bangladesh.md) — related

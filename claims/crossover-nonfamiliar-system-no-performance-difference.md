@@ -48,3 +48,5 @@ Secondary outcome of the randomized intervention: after crossover each group per
 - [Laparoscopic novices trained on a 3D setup complete basic box-trainer tasks significantly faster than novices trained on a 2D-4 K setup](3d-faster-than-2d4k-novice-laparoscopy-speed.md) — related
 - [Viewing mode (3D vs. 2D-4 K) does not significantly affect task failure rates of laparoscopic novices on tasks 1 and 2](viewing-mode-no-significant-failure-rate-difference-novices.md) — related
 - [Overall simulator task scores did not differ significantly between the 3D heads-up display and the conventional microscope in novice trainees](overall-simulator-scores-comparable-3d-vs-conventional.md) — related
+- [Test performance in laparoscopic tasks is dictated by the viewing mode used during testing, not the mode used during training](test-performance-dictated-by-test-viewing-mode.md) — related
+- [Switching viewing mode between training and testing changes test performance: 2D→3D transfer outperforms 2D-only control, while 3D→2D transfer underperforms 3D-only control](viewing-mode-switch-changes-test-performance.md) — related

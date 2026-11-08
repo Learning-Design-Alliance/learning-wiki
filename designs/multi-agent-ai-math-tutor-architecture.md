@@ -46,6 +46,7 @@ The article proposes a multi-agent architecture implemented on LangGraph in whic
 ## Related Designs
 
 - [Reusable simulation architecture for dynamic relational learning environments](reusable-simulation-architecture-dynamic-relational-learning.md)
+- [Precompiled-plan planning and execution framework for course sequencing and delivery](precompiled-plans-course-generation.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ One-way ANOVA across the three field-satisfaction groups in the same survey; sat
 - [Satisfaction with the educational environment is a protective factor for academic performance (OR = 0.60)](educational-environment-satisfaction-protects-performance.md) — related
 - [Work experience, very good clinical competence, field satisfaction, and academic success predict self-directed learning scores in multiple linear regression](regression-predictors-of-sdl-scores.md) — related
 - [Medical sciences students reported moderate academic success and rated their distance education learning environment as having more positive than negative points](moderate-academic-success-positive-distance-environment-ratings.md) — related
+- [Student satisfaction with distance education is protective against poor academic performance](de-satisfaction-protective-against-poor-performance.md) — related

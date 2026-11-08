@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (89 show a difference, 43 mixed, 22 no difference) · 123 studies (47 causal, 30 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 123 report an effect size · 145 claims rest on one study
+> **Evidence** · 158 claims (91 show a difference, 45 mixed, 22 no difference) · 126 studies (47 causal, 33 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 126 report an effect size · 149 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -197,6 +197,10 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory is the strongest predictor within the executive function latent construct, followed by inhibitory control](../claims/working-memory-strongest-ef-predictor.md) [+W] — learners who differ on it differ in outcomes
 - [Prior knowledge, working memory capacity and academic self-concept positively predicted, and socioeconomic status negatively predicted, Science and Technology performance](../claims/socio-cognitive-predictors-science-performance.md) [+M] — learners who differ on it differ in outcomes
 - [The benefit of computer-assisted instruction over inquiry-based learning was larger for students with higher working memory capacity](../claims/cai-benefit-moderated-by-working-memory.md) [+M] — an instructional effect differs with it
+- [Between ages 7–8 and 9–10, the influential visuospatial working memory subcomponent for mathematics shifts from spatial–simultaneous to spatial–sequential, while verbal working memory remains a significant predictor](../claims/wm-component-shift-simultaneous-to-sequential.md) [~M] — learners who differ on it differ in outcomes
+- [Short-term memory (digit span backward) positively predicts reading, spelling and math computation in rural Bangladeshi children](../claims/short-term-memory-predicts-achievement-rural-bangladesh.md) [+M] — learners who differ on it differ in outcomes
+- [Task monitoring and working memory jointly predict 32.5% of general academic achievement and 25.5% and 27.1% of Language Arts and Mathematics achievement](../claims/task-monitoring-working-memory-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Working memory factor relationships are similar across mathematical subdomains at age 9–10, with one exception: the verbal working memory link to operations is higher](../claims/wm-betas-similar-across-math-domains.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

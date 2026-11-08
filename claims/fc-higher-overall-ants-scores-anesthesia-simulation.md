@@ -53,3 +53,4 @@ Quasi-experimental study of 40 anesthesiology residents randomly assigned to FC 
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
 - [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related
 - [E-learning as pre-course preparation yields higher pre-course knowledge than written course material in resident anaesthetists (mean difference 1.8 points, p = .002)](elearning-precourse-knowledge-superiority.md) — related
+- [Post-test non-technical skill performance of the flipped learning group is significantly better than the lecture-based group on teamwork/leadership and team orientation, but not on planning/problem-solving](post-test-between-group-nts-differences.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 sources:
   - id: mascheroni-j-2024
     resource: "https://doi.org/10.1093/europace/euae229"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q4`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Novice implanters trained with PBP completed 11.0% more procedural Steps and made 61.2% fewer Critical Errors and 60.7% fewer All Errors Combined than SIM-trained peers in blinded video assessment. [→ Mascheroni J 2024](#mascheroni-j-2024)
@@ -73,3 +74,4 @@ Results section of the randomized trial reports that apart from non-critical Err
 - [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — related
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — a broader claim this one bears on
 - [The PBP group made the fewest critical errors post-intervention, significantly fewer than both comparison groups](pbp-elearning-fewer-critical-errors.md) — a narrower finding that bears on this claim
+- [SCS training produced a statistically significant greater reduction in procedure time in the intervention group than in the control group (–15.98 versus –1.14 min; P = 0.024)](scs-reduces-procedure-time-simulated-cholecystectomy.md) — related

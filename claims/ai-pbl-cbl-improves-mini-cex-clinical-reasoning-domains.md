@@ -104,3 +104,4 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - [The ADDIE-based flipped classroom group outperformed the traditional-teaching group on all seven Mini-CEX clinical competence domains](addie-flipped-classroom-mini-cex-all-domains-neurology-residents.md) — related
 - [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related
 - PBL combined with situational simulation teaching yields higher small and special presentation scores than conventional teaching in radiology interns — related
+- [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related

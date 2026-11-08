@@ -50,3 +50,4 @@ Flagging results in Table 2.3 for the AllYr sample of 285 Reading and 305 Mathem
 - [Item fit findings were the same regardless of whether the AllYr or LatestYr response sample was used](map-k2-fit-findings-sample-invariant.md) — related
 - [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related
 - [Only about half of misfit items were flagged in common by the AllYr and LatestYr samples, which the authors found surprising](misfit-flagging-inconsistent-across-samples.md) — related
+- [Multifaceted Rasch analysis flagged seven items for misfit, with items 5, 6, 14 and 23 misfitting in a sensitivity analysis](mfrma-item-misfit-flagged.md) — related

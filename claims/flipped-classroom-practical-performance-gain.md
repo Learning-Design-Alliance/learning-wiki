@@ -50,3 +50,4 @@ Paired t-test analysis of practical performance scores assessed by professor obs
 - [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — related
 - [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](flipped-classroom-grammar-achievement-gains-esl-efl.md) — related
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — reports the opposite
+- [The lecture-based control group showed no significant change in non-technical skill performance over time, while the flipped learning group improved significantly](control-group-no-nts-change.md) — related

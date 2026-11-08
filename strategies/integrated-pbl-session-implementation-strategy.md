@@ -56,6 +56,8 @@ The article's implementable recipe runs: instructors prepare PowerPoint, cases a
 
 - [Implement a 2-week CDIO-PBL rotation cycle combining PBL case-based theoretical clinics with a conceive-design-implement-operate skills cycle](cdio-pbl-two-week-rotation-cycle-strategy.md)
 - [Design virtual case-based learning as a three-phase, three-day flipped sequence combining team case discussion, peer presentation, and expert-supported conclusion](three-day-virtual-cbl-session-structure-strategy.md)
+- [Use web-based preview before simulation practice so students prepare autonomously](web-based-preview-before-simulation-practice.md)
+- [Run online PBL by uploading micro clinical cases 3 days before class, having students present via video conferencing, and quizzing after each class](wechat-pbl-case-upload-and-quiz-strategy.md)
 
 ## Examples
 -

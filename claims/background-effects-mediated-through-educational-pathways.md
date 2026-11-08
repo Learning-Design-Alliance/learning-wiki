@@ -87,3 +87,4 @@ Aggregated indirect effect from the SEM (Table 4): Abitur-grade indirect effect 
 - [Household income indirectly influenced perceived academic performance through private educational expenditure but not through parent–child communication](material-pathway-mediation-significant-korea.md) — related
 - [Parental education, school type, and school grades shape the educational pathway: vocational training, age at enrolment, and study financing](educational-pathway-determinants-vocational-age-financing.md) — related
 - [Secondary school achievement directly predicts early medical school exam performance among admitted students](secondary-school-achievement-predicts-m1-performance.md) — related
+- [Vocational training predicts MEQ-1 scores while pre-study advantages are limited to the formative MEQ*](vocational-training-predicts-meq1-prestudy-only-meq-star.md) — related

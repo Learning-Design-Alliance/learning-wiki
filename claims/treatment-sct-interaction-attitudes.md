@@ -53,3 +53,4 @@ ANCOVA of post-treatment ATMI scores showed a statistically significant interact
 - [Significant three-way interaction effect of treatment, gender and style of categorisation on students' attitudes toward mathematics](three-way-interaction-treatment-gender-sct-attitudes.md) — related
 - [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](cooperative-learning-math-equivalent-across-cognitive-styles.md) — reports the opposite
 - [In language, a significant methodology-by-cognitive-style interaction emerged, apparently favoring field independent students](language-posttest-style-interaction-favors-field-independent.md) — related
+- [Gender, teaching method, and gender-group composition show a statistically significant three-way interaction on undergraduate biology students’ attitudes](gender-method-composition-three-way-interaction-biology-attitudes.md) — related

@@ -51,3 +51,4 @@ The review reports a national survey of U.K. trauma and orthopaedic resident att
 - [Global rating scales discriminate between performance levels without a ceiling effect, making them useful for high-stakes summative assessment of advanced residents](global-rating-scales-summative-advanced-residents.md)
 - [No current technical skills-assessment tool in orthopaedic surgical training fulfills accepted criteria for effective assessment](no-orthopaedic-assessment-tool-fulfills-effective-assessment-criteria.md) — related
 - [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](pba-psychometric-weaknesses.md) — related
+- [The intervention group showed statistically significant greater improvement in 11 of 16 procedure-based assessment domains compared with controls](scs-improves-11-of-16-pba-domains.md) — related

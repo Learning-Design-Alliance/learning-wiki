@@ -50,3 +50,4 @@ Descriptive SUS results from the feasibility study (n = 32), stratified by profe
 - [Participants rated NCPR-VR highly useful and were willing to recommend it (median 5 of 5 on both)](ncpr-vr-usefulness-recommend-medians.md) — related
 - [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related
 - [Immersive VR training was acceptable and usable, but cybersickness affected nearly half of participants](vr-training-acceptable-usable-cybersickness.md) — related
+- [Pre-test success rates differed by professional role, while puncture accuracy rose from pre-test to post-test for participants after the system, in a single-group pre-post study](background-skill-level-may-not-affect-acquired-skill.md) — related

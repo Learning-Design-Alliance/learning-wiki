@@ -49,3 +49,4 @@ Ordered logistic regression on the 27,954-child cross-sectional survey (Table 5)
 - [Sports participation frequency is positively associated with Chinese grades in Chinese primary school children, with the highest odds at 3 or more times per week](sports-participation-chinese-grades-positive-association.md) — related
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
 - [Associations between sports participation and grades are stronger for boys than girls, and girls showed no significant dose relationship in Chinese and math](sports-participation-grades-sex-differences.md) — related
+- [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — a broader claim this one bears on

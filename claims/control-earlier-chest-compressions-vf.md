@@ -49,3 +49,4 @@ Ventricular fibrillation scenario with 10 teams per arm. "The only notable perfo
 - [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — related
 - [Five early cardiac arrest interventions with strong outcome evidence form the core of the CPADS-30 mnemonic](cpads-30-five-evidence-based-early-interventions.md) — related
 - [Technical performance during the simulated cardiac arrest was low, with a mean of 16 of 42 points](technical-performance-16-of-42-points-during-simulation.md) — related
+- [App-guided laypersons significantly delayed the call for help and first chest compression compared with unassisted controls in a simulated cardiac arrest](app-use-delays-call-and-first-compression.md) — related

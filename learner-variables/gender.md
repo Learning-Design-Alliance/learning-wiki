@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 602 claims (322 show a difference, 131 mixed, 149 no difference) · 428 studies (209 associational, 160 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 62 of 428 report an effect size · 594 claims rest on one study
+> **Evidence** · 609 claims (326 show a difference, 133 mixed, 150 no difference) · 433 studies (212 associational, 162 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 63 of 433 report an effect size · 601 claims rest on one study
 
 ## How to read this page
 
@@ -641,6 +641,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](../claims/male-instructed-classes-performance-gap.md) [+M] — an instructional effect differs by group
 - [No binary gender performance gaps were observed in introductory biology across community college, inclusive, and selective institution contexts](../claims/no-gender-gaps-across-institution-types.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Participation gender gaps vary substantially from class to class, with females less likely to participate in 11 classes and more likely in one](../claims/participation-gaps-vary-by-classroom.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female gender, urban residence, and higher maternal education are associated with increases in depressive symptoms](../claims/female-urban-maternal-education-risk-factors-ds-increase.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female occupational therapy students obtained better exam grades than male students](../claims/female-students-better-grades-ot.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students scored higher on the strategic approach scale than male students](../claims/female-students-higher-strategic-approach.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender, teaching method, and gender-group composition show a statistically significant three-way interaction on undergraduate biology students’ attitudes](../claims/gender-method-composition-three-way-interaction-biology-attitudes.md) [~M] — an instructional effect differs by group
+- [Male students reported higher e-learning readiness than female students, with no difference by age](../claims/e-learning-readiness-higher-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant gender differences in MEQ* or MEQ-1 total scores](../claims/no-gender-differences-meq-scores.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Nonmajor women’s attitudes improve in single-gender CL groups but decline in mixed-gender CL groups relative to TL](../claims/nonmajor-women-single-gender-cl-benefit-mixed-gender-decline.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -54,3 +54,5 @@ The review reports Haidari and collaborators' validity-evidence study of the new
 - [Better team shared mental models in VATS lobectomy teams relate to shorter surgery duration and less intraoperative bleeding](shared-mental-models-shorter-surgery-less-bleeding.md) — related
 - [Introducing new surgeons did not compromise institutional proficiency in RATS, with subsequent surgeons' CUSUM learning-curve peaks smaller than the lead surgeon's](rats-institutional-proficiency-maintained-with-new-surgeons.md) — related
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — a narrower finding that bears on this claim
+- [More experienced surgeons sutured faster on the simulator, supporting construct validity](vats-simulator-construct-validity-experience.md) — a narrower finding that bears on this claim
+- [Surgeons rated the VATS simulator's design, ergonomics and triangulation as very good or excellent, supporting face validity](vats-simulator-face-validity-ratings.md) — related

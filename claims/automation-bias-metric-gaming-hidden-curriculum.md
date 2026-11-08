@@ -49,3 +49,4 @@ The article's risk analysis gives examples: a procedural simulator may reward sp
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
 - [AI models trained on MOOC completion data risk bias toward high-performing learners, and machine-learned assessment reflects interaction rather than learning](mooc-ai-bias-toward-completers-and-interaction-not-learning.md) — related
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
+- [Empathy scores among intensive care residents rose from pre-test to post-test after PERCS-ICU, in one uncontrolled pre-post study](empathy-training-counters-hidden-curriculum.md) — related

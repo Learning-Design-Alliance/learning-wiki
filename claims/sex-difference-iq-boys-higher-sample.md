@@ -50,3 +50,4 @@ T-tests on the baseline sample of 74 pupils (39 male/35 female) to control for s
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — related
+- [Boys born preterm show more inattention symptoms, reading flaws and operational-memory IQ alterations than girls](preterm-boys-inattention-reading-working-memory.md) — related

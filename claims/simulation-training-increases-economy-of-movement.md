@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2015
+source_checked: 2026-11-08
 sources:
   - id: vanderbilt-allison-a-2015
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493882/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Eight studies reported that simulation-based training increased economy of movement, though some studies found no difference. [→ Vanderbilt Allison A. 2015](#vanderbilt-allison-a-2015)

@@ -50,6 +50,7 @@ From the study's findings the authors recommend that "training, tutoring and sup
 - [Teacher intervention in peer grouping and timely feedback to keep peer-assisted learning objective](teacher-intervention-peer-grouping-timely-feedback.md)
 - [Train peer tutors to mastery on the exact skill checklist before they teach, using the same Peyton's-method module as the trainees will receive](peer-tutor-mastery-training-strategy.md)
 - [Provide continuous tutor training in PBL case facilitation, assessment, and evaluation](continuous-pbl-tutor-training-strategy.md)
+- [Engage medical students as peer assessors in high-fidelity-simulation-based clinical performance evaluation](students-as-peer-assessors-simulation-evaluation.md)
 
 ## Examples
 -

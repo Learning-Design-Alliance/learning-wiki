@@ -85,3 +85,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Knowledge gains after patient safety training were larger for female nurses and nurses working fewer weekly hours; demographic factors showed no significant relation to attitude change](demographic-moderators-patient-safety-learning.md) — related
 - [Intervention effectiveness is moderated by demographics: younger, less experienced, female, and Bachelor's-degree nurses improved more](demographics-moderate-nontechnical-skill-intervention-effect.md) — related
 - [Frequency of performing blood transfusions is associated with knowledge score, while gender, qualification, ward, experience and training are not](transfusion-frequency-associated-with-knowledge.md) — related
+- [The experimental and control groups differed significantly in age, nursing seniority, professional level, and department at baseline](group-imbalance-age-seniority-department.md) — related

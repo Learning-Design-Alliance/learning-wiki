@@ -50,3 +50,4 @@ Aligned Rank Transform (ART) ANOVA, a robust non-parametric analysis, examined m
 - [Blended learning achieves higher student satisfaction than traditional lectures in practical immunohematology training](blended-learning-higher-satisfaction-immunohematology.md) — related
 - [Blended learning achieves higher self-perceived laboratory competence than traditional lectures in practical immunohematology training](blended-learning-higher-self-perceived-competence-immunohematology.md) — related
 - [Flipped classroom students achieve significantly higher post-test knowledge scores than lecture-based students in practical gastrointestinal anatomy (Cohen's d = 0.87)](flipped-classroom-higher-posttest-gi-anatomy.md) — related
+- [Completion times improved from pre-test to post-test in all groups, but training groups did not significantly differ on pre-to-post change](pre-post-completion-time-improvement-no-group-difference.md) — related

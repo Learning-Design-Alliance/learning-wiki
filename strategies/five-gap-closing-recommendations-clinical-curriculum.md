@@ -46,6 +46,7 @@ From the identified curriculum gaps the authors derive recommendations: develop 
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 - [Simulated Clinical Experience program with standardized patients and three-perspective feedback](sce-standardized-patient-feedback-strategy.md)
+- [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 
 ## Examples
 -

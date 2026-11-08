@@ -76,3 +76,5 @@ Same subgroup analysis: readiness improved in both sectors, with smaller statist
 - [Self-assessed pediatric emergency knowledge and skills increased significantly in both medical and nursing staff from before preparation to after the team training day](blended-emergency-training-self-assessed-gains-t3.md) — related
 - [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related
 - [Debriefing reduces state-anxiety associated with high-fidelity clinical simulation, which peaks after the scenario](debriefing-reduces-simulation-state-anxiety.md) — related
+- [Residents did not report significant decreases in anxiety or improvements in management of emotions after PERCS-ICU](percs-icu-no-anxiety-or-emotion-management-gains.md) — related
+- [Individual anxiety items decrease after simulation, but not all significantly in both sessions](anxiety-item-level-changes-mixed.md) — related

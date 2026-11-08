@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 96 claims (53 for, 41 mixed, 2 against) · 71 studies (37 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 71 report an effect size · 91 claims rest on one study
+> **Evidence** · 97 claims (54 for, 41 mixed, 2 against) · 72 studies (38 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 21 of 72 report an effect size · 92 claims rest on one study
 
 ## Description and scope
 
@@ -164,6 +164,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Preventive medicine students taught with case-based learning scored higher on the final exam (77.62) than traditionally taught peers (69.2)](../claims/cbl-higher-final-exam-preventive-medicine.md) [+W] — attached 2026-11-07 from Liu Zhipeng et al. (2024), which proposed "Promote case-based learning in medical education reform to enhance students' comprehensive quality and classroom participation"; tests this page's relationship.
 - [Instructor-evaluated classroom performance rose across the five CBL cases, with all dimensions improving significantly from the first case](../claims/instructor-evaluation-rose-across-cbl-cases.md) [+W] — attached 2026-11-07 from Liu Zhipeng et al. (2024), which proposed "Promote case-based learning in medical education reform to enhance students' comprehensive quality and classroom participation".
 - [CBL combined with BOPPPS improved four of five modified Mini-CEX clinical-thinking dimensions; for medical history writing the article's text reports no significant difference but its table prints p = 0.002](../claims/cbl-boppps-mini-cex-clinical-thinking-dimensions.md) [+W] — attached 2026-11-07 from Gao Ning et al. (2024), which proposed "Combine case-based learning with a structured session framework such as BOPPPS to strengthen clinical thinking in case-rich medical specialties"; tests this page's relationship.
+- [In one uncontrolled pre-post study, dental students' total error rates in classifying periodontal patients were significantly lower after participation in an ICM-based, case-based periodontology module, with a medium effect size](../claims/icm-periodontology-module-total-error-rate-reduction.md) [+W] — attached 2026-11-08 from Crome Marius et al. (2021), which proposed "Use ICM-based case teaching as a supplement to, not a replacement for, patient-based learning in clinical dental education"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -51,3 +51,6 @@ Sex-specific serial multiple mediation analysis in a cross-sectional study of 29
 - [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — a broader claim this one bears on
 - [Mental health difficulties partially mediate (8–25%) the association between cardiorespiratory fitness and academic performance in children](mental-health-partially-mediates-crf-academic-performance.md) — related
 - [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related
+- [Cardiorespiratory fitness is positively associated with mathematics grades in children aged 8–12](crf-associated-math-grades-children.md) — related
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](ef-mediate-crf-gsv-grades.md) — related
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](ef-mediate-crf-math-grades.md) — related

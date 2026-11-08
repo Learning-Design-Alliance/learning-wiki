@@ -48,3 +48,4 @@ Cross-sample consistency analysis in Table 2.4 comparing items flagged in the Al
 ## Related Claims
 - [Item fit findings were the same regardless of whether the AllYr or LatestYr response sample was used](map-k2-fit-findings-sample-invariant.md) — reports the opposite
 - [At least 97.5% of Reading items and 92.5% of Mathematics items passed the fit check, with 7 Reading and 23 Mathematics items flagged for misfit](map-k2-misfit-flagging-rates.md) — related
+- [Multifaceted Rasch analysis flagged seven items for misfit, with items 5, 6, 14 and 23 misfitting in a sensitivity analysis](mfrma-item-misfit-flagged.md) — related

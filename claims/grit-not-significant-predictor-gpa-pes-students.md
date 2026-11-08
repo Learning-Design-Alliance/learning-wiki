@@ -49,3 +49,4 @@ Path analysis in the same 459-student sample; Table 4 reports GRIT→GPA Estimat
 - [The four well-being elements do not significantly mediate the relationships between grit dimensions and L2 achievement](wellbeing-mediation-non-significant.md) — related
 - [Consistency of interest, but not perseverance of effort, significantly and positively predicts L2 achievement among Chinese university English learners](ci-predicts-l2-achievement-pe-does-not.md) — related
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
+- [Grit was not associated with any measure of laparoscopic performance in this novice sample](grit-not-associated-laparoscopic-performance.md) — related

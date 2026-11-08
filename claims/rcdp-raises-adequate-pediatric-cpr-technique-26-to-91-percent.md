@@ -52,3 +52,4 @@ Pre- and post-performance assessment of chest compressions in a single-group des
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related
+- [Adult cardiorespiratory resuscitation knowledge scores rose significantly from pre-test to post-test after health simulation training in a multi-professional hospital team, in one single-group pre-post study](simulation-training-increases-crr-knowledge.md) — related

@@ -50,3 +50,4 @@ Second Delphi round in which all 15 experts rated 39 attributes on a 10-point Li
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
 - [Expert engagement was strong: effective recovery rates were 90% and 100% across the two rounds and the expert authority coefficient was 0.930](delphi-recovery-rates-90-100-authority-0930.md) — related
 - [Indicator retention criteria were a mean importance score of at least 4.00, full score rate of at least 20% and coefficient of variation of at most 0.25](delphi-retention-criteria-importance-full-score-cv.md) — related
+- [Expert consensus above 90.2% was achieved on admission and development criteria of teaching resource for nursing undergraduates comprising 6 domains and 43 items](nursing-teaching-resource-criteria-consent-902.md) — related

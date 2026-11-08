@@ -51,3 +51,4 @@ Pilot RCT comparing Group A (traditional) and Group B (virtual simulation) brack
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](vs-less-effective-procedural-skills-nursing.md) — reports the opposite
 - [Post-training bracket bonding scores improved by approximately 50% over pre-training baseline in a before-and-after study of 26 orthodontic postgraduates](vr-bracket-bonding-training-50-percent-gain.md) — related
+- [VR-trained physicians show significantly smaller implant placement deviations than conventionally trained peers across mesiodistal, buccolingual, depth, and angle dimensions](vr-dental-implant-training-lower-placement-deviations.md) — related

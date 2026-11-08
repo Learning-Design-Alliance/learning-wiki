@@ -53,3 +53,4 @@ Baseline comparison of the 71 analyzed participants (Table 1) using Chi2 statist
 - [Baseline characteristics and baseline outcome scores did not differ significantly between the experimental and comparison groups](snpcohs-baseline-equivalence-no-significant-differences.md) — related
 - [Virtual and F2F teaching groups showed no significant baseline differences in characteristics or prior laparoscopic experience](no-baseline-differences-groups.md) — related
 - [Baseline surgeon characteristics differed by experience group, while prior simulator exposure did not, supporting group comparability on simulation familiarity](liia-study-baseline-characteristics.md) — related
+- [Simulation and control groups were comparable on prior learning experiences and motivation before the intervention](pre-survey-groups-equivalent-baseline.md) — related

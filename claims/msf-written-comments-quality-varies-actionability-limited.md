@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-08
 sources:
   - id: saedon-h-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432628/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Quality of written feedback varies; a substantial portion of comments were useless and at worst detrimental to progress. [→ Saedon H 2012](#saedon-h-2012)
@@ -53,3 +54,8 @@ Narrative review reporting Canavan et al's analysis of phrases in written MSF fe
 - [Relational competencies show moderate visibility and are often assessed through global judgements rather than defined performance indicators](relational-competence-moderate-visibility-global-judgements.md) — related
 - [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related
 - [Relational competencies such as compassion and communication are recognised in adult nursing assessments but commented on less frequently, more succinctly and with less elaboration](relational-competencies-underrepresented-in-adult-nursing-assessment.md) — related
+- [Narrative MSF comments are predominantly positive and rarely constructive, and respondents use very polite language that can mask criticism](narrative-msf-comment-quality.md) — related
+- [Narrative MSF shows consequential validity: most trainees discovered performance in need of development, but only about half made a specific plan](narrative-msf-consequential-validity.md) — related
+- [Experienced supervisors can discriminate between trainees based on narrative MSF reports, with reports of concerning trainees containing significantly more negative and constructive comments](narrative-msf-discriminating-capacity.md) — related
+- [Trainees and supervisors overwhelmingly prefer a purely narrative MSF to a numerical scale-based MSF](narrative-msf-preferred-over-numeric.md) — related
+- [No specific number of respondents needed for reliable narrative MSF could be defined; feedback detail matters more than assessor count](narrative-msf-respondents-needed-undefined.md) — related

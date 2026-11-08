@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 156 claims (94 show a difference, 28 mixed, 34 no difference) · 99 studies (37 associational, 29 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 99 report an effect size · 154 claims rest on one study
+> **Evidence** · 160 claims (98 show a difference, 28 mixed, 34 no difference) · 101 studies (39 associational, 29 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 101 report an effect size · 158 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -193,6 +193,10 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Both intervention and control groups improved over time in academic achievement, memory span, and inhibitory function, with no between-group difference](../claims/time-effects-achievement-memory-inhibition-both-groups.md) [-M] — measured as an outcome of the instruction studied
 - [Inhibitory and attentional control deficit at age 5 is the strongest neuropsychological predictor of ADHD symptoms concurrently and one year later](../claims/inhibitory-attentional-control-strongest-adhd-predictor.md) [+M] — learners who differ on it differ in outcomes
 - [Neither inhibitory/attentional control nor delay aversion predicts early academic skills in preschoolers](../claims/inhibition-delay-aversion-no-academic-prediction.md) [-M] — learners who differ on it differ in outcomes
+- [Cognitive flexibility is the only significant executive function mediator when all components are considered simultaneously](../claims/cognitive-flexibility-key-mediator-crf-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](../claims/ef-mediate-crf-gsv-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](../claims/ef-mediate-crf-math-grades.md) [+M] — learners who differ on it differ in outcomes
+- [General executive functions predict 14.7% of general academic achievement and 12.3% and 12.2% of Language Arts and Mathematics achievement in children aged 6–9](../claims/executive-functions-predict-achievement-6-9.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

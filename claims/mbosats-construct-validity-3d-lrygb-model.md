@@ -72,3 +72,4 @@ Same construct validity study analyzed per procedural step. Post-hoc Games-Howel
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
 - [The 3D-printed LIIA model shows construct validity: MAOSATS scores differ significantly across expert, intermediate, and novice groups on the model](liia-3d-model-construct-validity.md) — related
+- [Validated PVA-hydrogel synthetic organ models for urological robotic procedures demonstrate face, content and construct validity, and a perfused prostatectomy model objectively discriminated experts from novices](pva-hydrogel-urology-models-validated.md) — related

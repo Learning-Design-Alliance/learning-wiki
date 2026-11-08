@@ -71,3 +71,5 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Processing speed is a single mediator of the relation between inattention symptom severity and mathematics and spelling performance, but not reading performance](ps-single-mediator-math-spelling-not-reading.md) — related
 - [Working memory significantly mediates the SES-educational achievement association, accounting for 39% of the total effect](working-memory-mediation-ses-achievement.md) — related
 - [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](wm-indirect-effects-via-four-math-components.md) — related
+- [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related
+- [Working memory factor relationships are similar across mathematical subdomains at age 9–10, with one exception: the verbal working memory link to operations is higher](wm-betas-similar-across-math-domains.md) — related

@@ -70,3 +70,4 @@ The same moderation analysis found study strategies did not moderate the slide-p
 - [Organisation is the only factor predicting exam scores in the slide-provided condition](organisation-predicts-y-ppt-scores.md) — related
 - [Slide provision reduces unprompted class attendance when attendance carries no grade consequence](slide-provision-reduces-unprompted-attendance.md) — related
 - [The performance deficit under slide provision appears as fewer correct answers and more blank responses](slide-provision-response-type-interaction.md) — related
+- [Viewing lecture slides during class is positively correlated with exam scores, predicting 6.0% of variance beyond standardized test scores](slide-viewing-positive-exam-correlation.md) — related

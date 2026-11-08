@@ -69,3 +69,4 @@ Same univariate analysis: "A larger Δ time, meaning a larger improvement along 
 - [Better mean performance in the Basic module is associated with shorter suturing time and a higher final Suture Score](basic-module-score-predicts-suturing-proficiency.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Linear regression shows robotic surgery experience predicts task time clearly and force parameters partially across trials](regression-experience-predicts-robotic-suturing-performance.md) — related
+- [More experienced surgeons sutured faster on the simulator, supporting construct validity](vats-simulator-construct-validity-experience.md) — related

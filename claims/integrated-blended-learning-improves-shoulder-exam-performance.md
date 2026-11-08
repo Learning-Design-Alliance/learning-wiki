@@ -56,3 +56,6 @@ Randomized, observer-blinded controlled trial of 31 analyzable first-year medica
 - [Blended learning produces higher posttest medication dosage calculation scores than video-based e-learning alone among paramedic students](bl-beats-vbl-mdc-posttest-paramedic.md) — a narrower finding that bears on this claim
 - [Puzzle-based teaching substantially increases nursing students' knowledge test scores compared with lecture-only instruction](puzzle-teaching-increases-nursing-knowledge.md) — related
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
+- [Flexible e-learning video teaching improves medical students' diagnostic accuracy of funduscopic findings more than a face-to-face lecture](elearning-video-improves-fundus-diagnostic-accuracy.md) — related
+- [Flexible e-learning video teaching raises medical students' confidence in performing funduscopic examination more than a face-to-face lecture](elearning-video-raises-fundus-confidence.md) — related
+- [Face-to-face lecture teaching alone produced no statistically significant pre-to-post gain in funduscopic diagnostic accuracy](f2f-lecture-no-accuracy-gain.md) — related

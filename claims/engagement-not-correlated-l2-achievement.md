@@ -73,3 +73,4 @@ The same correlation analysis reported that "the two dimensions of grit showed s
 - [Grit and enjoyment are key positive-psychology predictors of language learning success](grit-and-enjoyment-predict-language-success.md) — a broader claim this one bears on
 - [Perseverance of effort significantly predicts all four well-being elements while consistency of interest predicts none](pe-predicts-wellbeing-elements-ci-does-not.md) — related
 - [Positive psychological traits and emotions are significantly and positively correlated with SL/FL learning performance and can predict it](pp-positively-correlated-with-language-performance.md) — a broader claim this one bears on
+- [Only perseverance of effort, not consistency of interests, is positively related to schoolwork engagement](perseverance-effort-engagement-consistency-null.md) — related

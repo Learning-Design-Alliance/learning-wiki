@@ -51,3 +51,4 @@ Psychometric analysis of the DOVCS checklist scored by two independent faculty r
 - [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](goals-good-inter-rater-reliability-porcine-model.md) — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
 - [A six-week microlearning and simulation-based virtual consultation module significantly improved senior medical students' virtual consultation skills from pre-test to post-test](vc-module-significant-pre-post-skill-improvement.md) — related
+- [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related

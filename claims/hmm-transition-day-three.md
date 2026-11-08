@@ -50,3 +50,4 @@ HMM fitted to one learning curve per each of the 1300 subjects using daily Grid 
 - [Simulation study shows the HMM recovers the true transition day within one day in 88% of cases](hmm-simulation-reliability-transition-day.md) — related
 - [Task-specific improvement was identified only in individual learning curves and was not apparent in averaged performance data](individual-curves-needed-to-identify-task-specific-phase.md) — related
 - [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related
+- [Scrub nurses' iVR learning curves showed no average plateau across the three assessments, though the best performers began plateauing by the third assessment on time, prompts and errors](ivr-learning-curve-no-plateau.md) — reports the opposite

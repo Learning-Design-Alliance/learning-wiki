@@ -70,3 +70,4 @@ Subgroup meta-analysis by age at assessment for the mathematics domain, reported
 - [Mathematics impairments are more pronounced than reading deficits for extremely preterm children, and deficits appear across all gestational age strata including late preterm](preterm-deficits-gestational-age-strata.md)
 - [Children born preterm score significantly lower than term-born peers on aggregate standardized mathematics measures, with a larger pooled deficit than for reading](preterm-aggregate-mathematics-deficit.md) — related
 - [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md) — related
+- [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related

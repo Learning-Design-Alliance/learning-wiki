@@ -51,3 +51,7 @@ The article reports, in its discussion, separate analyses in the same cohort: "A
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
 - [The Health Empowers You! intervention increased intervention students' school-day MVPA relative to control by 3 to over 5 minutes daily across semesters](health-empowers-you-increased-school-day-mvpa.md) — related
 - [Average daily school-day MVPA declined slightly across the study period, from 21.14 minutes in Grade 4 fall to 18.91 minutes in Grade 5 fall](mvpa-decline-across-semesters.md) — related
+- [Cardiorespiratory fitness is positively associated with mathematics grades in children aged 8–12](crf-associated-math-grades-children.md) — related
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](ef-mediate-crf-gsv-grades.md) — related
+- [Minutes of moderate-to-vigorous physical activity show a negative but trivial prospective association with adolescent English and Math grades](mvpa-trivial-negative-association-grades.md) — reports the opposite
+- [No relationship between cardiorespiratory fitness and text comprehension and expression grades was observed](no-crf-text-comprehension-relation.md) — related

@@ -54,6 +54,7 @@ The article recommends providing students with step-by-step pre-recorded demonst
 - [Deliver a portion of clinical nursing skills instruction through mobile-based video learning that students can replay anytime](mobile-video-learning-for-clinical-skills-strategy.md)
 - [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
 - [Assign interactive video pre-class viewing to reduce in-person laboratory hours](video-preclass-viewing-reduce-lab-hours-strategy.md)
+- [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 
 ## Examples
 -

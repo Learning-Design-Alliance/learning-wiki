@@ -54,3 +54,4 @@ Confirmatory factor analysis of responses from 101 second-year nursing students 
 - [The Turkish-adapted Mindfulness in Teaching scale confirms its two-dimensional structure with adequate fit in the study sample](mindfulness-in-teaching-scale-turkish-cfa.md) — related
 - [Confirmatory factor analysis supports a three-factor structure of the six-item PtBL rubric with good fit](cfa-three-factor-rubric-good-fit.md) — related
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
+- [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related

@@ -51,3 +51,4 @@ Objective global rating scale (modified, previously validated) scored before and
 - [Pedicle screw placement accuracy rose from before to after VRFF-SSTS training across all seniority groups in one single-group pre-post study (p < 0.001), with no significant differences between seniority levels post-training](vrff-ssts-improves-screw-accuracy-all-seniority-groups.md) — related
 - [Global GOALS, global OSATS, and task-specific OSATS scores rose from pre-test to post-test in three PT/CL training groups of MIS novices](three-pt-cl-mixes-improve-lche-performance-scores.md) — related
 - [Overall SARMS-rated anastomosis quality improved significantly across sessions, with the motion and speed categories showing the strongest significant gains](sarms-quality-improves-motion-speed-significant.md) — related
+- [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related

@@ -54,3 +54,4 @@ Longitudinal follow-up of 226 healthcare providers in 12 facilities in Geita and
 - [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — related
 - [Among first-year MBBS students, mean DOPS skill scores were comparable at one month but worse at six months and one year than immediately after BLS training, in a single-group pre-post study](bls-skill-retention-one-month-decay-six-months-one-year.md) — related
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — related
+- [Overall adherence to the ABCDE algorithm among neonatal healthcare providers during simulated NALS is low (mean 31.5%)](low-overall-abcde-adherence-simulation.md) — related

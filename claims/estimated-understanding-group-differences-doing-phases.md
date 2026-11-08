@@ -69,3 +69,4 @@ Analysis of the understanding-estimate graphics: H-students showed a gradual inc
 - [The two groups differed significantly in forecasted involvement in following learning units, with humanities-oriented students the only group scoring higher than their counterparts](forecasted-involvement-significant-group-difference.md) — related
 - [The four detected learning tactics differ significantly across all nine learning actions (MANOVA)](manova-significant-tactic-differences.md) — related
 - [Sciences-oriented students assimilated the studied sorting algorithm at a higher rate than humanities-oriented students during the black-box task](s-students-higher-algorithm-assimilation-rate-than-h-students.md) — related
+- [Most students did not fully understand staging and grading until the attendance-phase case discussions, and 79.6% invested more than one day of self-study](icm-module-self-study-burden-and-attendance-phase-understanding.md) — related

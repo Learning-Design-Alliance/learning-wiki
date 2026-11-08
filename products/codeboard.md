@@ -31,7 +31,8 @@ Codeboard is an open-source, web-based integrated development environment that e
 - [When comparing only sessions in which the base code was actually modified, there are no significant differences between anonymous and registered learners in actions or time per session](../claims/no-difference-modifying-sessions.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Galaxy](galaxy.md)
 
 ## Key Sources
 - Gallego-Romero, J.M., Alario-Hoyos, C., Estévez-Ayres, I. et al. (2020). Analyzing learners' engagement and behavior in MOOCs on programming with the Codeboard IDE. Education Tech Research Dev 68, 2505–2528 (2020). https://doi.org/10.1007/s11423-020-09773-6

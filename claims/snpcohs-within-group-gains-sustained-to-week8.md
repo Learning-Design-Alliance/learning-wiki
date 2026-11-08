@@ -49,3 +49,4 @@ Bonferroni-adjusted pairwise comparisons across baseline, week 4, and week 8 (Ta
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
+- [Within the treatment group, perceived stress dropped significantly from pre-test to post-test and remained stable from post-test to follow-up](ree-within-group-stress-change-sustained.md) — related

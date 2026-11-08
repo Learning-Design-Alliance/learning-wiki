@@ -112,3 +112,4 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
 - [Robotic simulation training improves surgical skill acquisition, with progressive competency-based training raising competence rates in junior residents](robotic-simulation-competency-training.md) — related
 - [Participants held positive perceptions of virtual classroom training, with all respondents reporting additional educational benefit over the FRS curriculum](positive-perceptions-of-vct-sessions.md) — related
+- [The high cost of virtual reality simulators limits widespread adoption, and their cost-effectiveness for robotic surgery has not been clearly demonstrated](vr-simulator-cost-effectiveness-undemonstrated.md) — related

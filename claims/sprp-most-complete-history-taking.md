@@ -68,3 +68,4 @@ Within present-illness subitems of the same assessment, only causes/triggers (F 
 - [Scripted peer role-play students achieve the highest group-based history-taking assessment scores, ahead of non-scripted peer role-play and teacher standardized patients](sprp-highest-group-consultation-scores.md) — related
 - [Students trained with role-play activity score higher than control students on a practical history-taking test with a teacher standardized patient](role-play-higher-sp-history-taking-test-score.md) — related
 - [Medical record writing scores do not differ between TSP, spRP, and non-spRP groups](no-difference-medical-record-writing.md) — related
+- [Role-play scores did not correlate with next-day patient-encounter scores when the complaint was the same](same-complaint-no-correlation-roleplay-encounter.md) — related

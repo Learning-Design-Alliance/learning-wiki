@@ -46,3 +46,4 @@ Descriptive comparison by gender in Results §3.1 (Table 2), e.g., Hope for Gain
 - [Gender moderates the hope-to-adjustment path, which is stronger in men than women, but not the other model paths](gender-moderates-hope-adjustment-path.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related
+- [No significant gender differences in self-efficacy, optimism, resilience, perceived stress or GPA among medical undergraduates](no-gender-differences-psychosocial-variables-gpa.md) — related

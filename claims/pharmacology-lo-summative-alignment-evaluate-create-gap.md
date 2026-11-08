@@ -68,3 +68,4 @@ Same learning-outcome-to-assessment mapping; "less alignment" was found for Eval
 - [Pharmacology assessment action verbs are weighted towards the Understand tier of Bloom's revised taxonomy, a pattern unchanged across programmes and years of study](pharmacology-assessment-verbs-weighted-understand-tier.md) — related
 - [A facilitated face-to-face focus group of nine pharmacology educators reached consensus on the meanings of common assessment action verbs and collocated words](pharmacology-focus-group-consensus-verb-meanings.md) — related
 - [The selected-questions-verbs prompting strategy yields the strongest LLM Bloom classification, reaching weighted F1 up to 0.84](selected-questions-verbs-best-prompt.md) — related
+- [Student-authored PeerWise questions spanned all six revised-Bloom cognitive levels, with Clinical Pharmacology questions skewed toward lower levels](peerwise-question-cognitive-level-distribution.md) — related

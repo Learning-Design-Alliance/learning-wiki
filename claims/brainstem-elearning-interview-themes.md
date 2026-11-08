@@ -67,3 +67,4 @@ Interview finding from the qualitative study component: at the one-week test, "a
 - [Three qualitative themes emerged from free-text responses: visual engagement and retention, preference for blended delivery, and projection visibility as a technical constraint](rat-qualitative-themes-three.md) — related
 - [E-learning modules with digitized brainstem cross-sections significantly improved anatomical knowledge immediately and after one week](elearning-brainstem-sections-significant-gains.md) — related
 - [Students learning with PLI sections did not outperform or underperform students learning with LFB sections on post-intervention or long-term tests](pli-vs-lfb-no-difference.md) — related
+- [At test 2, the semi-structured psychological interview showed a significant group difference in self-reflection, with the control group outperforming the cognitive training group](spi-self-reflection-group-difference-t2.md) — related

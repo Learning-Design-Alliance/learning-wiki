@@ -54,3 +54,4 @@ A cluster randomized trial described as "the largest experimental evaluation to 
 - [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
 - [Perry Preschool participants given opportunities to plan and make decisions were significantly less involved in drug use, delinquency, teen pregnancy, and school failure at age 19](perry-preschool-participation-reduced-problem-behaviors.md) — related
 - [No school-based intervention model for students already using substances was found: all examined models were preventive or protective in approach](no-corrective-school-substance-model-exists.md) — related
+- [More frequent substance use predicts worse Math grades in adolescents](substance-use-predicts-worse-math-grades.md) — related

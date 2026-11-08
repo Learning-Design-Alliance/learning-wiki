@@ -53,3 +53,4 @@ Randomized one-day classroom experiment: Nap group (n = 26) slept up to 35 min i
 - [Short post-class naps (<30 min) show no significant retention benefit](short-naps-no-retention-benefit.md) — related
 - [Sleep stage duration and architecture show no significant correlation with memory change in this nap paradigm](sleep-stage-architecture-no-memory-correlation.md) — related
 - [SWA, slow-oscillation and delta power density in a short nap do not correlate with subsequent encoding performance](swa-power-no-correlation-encoding.md) — related
+- [Learning effects of the targeted training were sustained for at least 4 months only when sleep followed the training](sleep-following-targeted-training-sustains-literacy-gains.md) — related

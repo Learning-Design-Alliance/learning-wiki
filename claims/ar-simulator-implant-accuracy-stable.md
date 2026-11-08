@@ -48,3 +48,4 @@ Null result in the 23-participant cohort: depth error reduction was "not signifi
 - [Task completion time for nail insertion decreased significantly across simulation runs and remained stable during retention](ar-simulator-insertion-time-decrease-retention.md) — related
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related
 - [Angular deviation is larger in unilateral free-end implant sites than in inter-dental gap sites, statistically significant in all three expertise groups](free-end-sites-larger-angular-deviation.md) — related
+- [VR-trained physicians show significantly smaller implant placement deviations than conventionally trained peers across mesiodistal, buccolingual, depth, and angle dimensions](vr-dental-implant-training-lower-placement-deviations.md) — related

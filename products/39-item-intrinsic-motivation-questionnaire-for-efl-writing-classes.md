@@ -24,7 +24,8 @@ A researcher-developed, 39-item Likert questionnaire by Parviz Birjandi and coll
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Learning Motivating Factors Questionnaire](learning-motivating-factors-questionnaire.md)
 
 ## Key Sources
 - Parviz Birjandi, Nasrin Hadidi Tamjid. (2010). The Role of Self-assessment in Promoting Iranian EFL Learners' Motivation. English Language Teaching, 3(3). https://www.ccsenet.org/elt

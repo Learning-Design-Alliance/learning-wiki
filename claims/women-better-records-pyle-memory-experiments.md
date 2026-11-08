@@ -54,3 +54,4 @@ Descriptive observation across the twelve senior and graduate student subjects; 
 - [Non-fraternity men showed a higher percentage of delinquent hours of work than non-fraternity women](delinquent-hours-men-versus-women.md)
 - [Non-fraternity male freshmen were more likely than non-fraternity female freshmen to reach the laggard list](male-freshmen-more-laggards-than-female.md)
 - [Female students took more classroom turns than male students in the EAP reading interactions](female-students-more-turns-eap-classroom.md) — related
+- [Women showed more severe depression levels and better visual memory retention than men in the sample](gender-differences-severe-depression-visual-memory.md) — related

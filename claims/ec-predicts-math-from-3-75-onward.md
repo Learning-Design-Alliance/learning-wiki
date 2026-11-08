@@ -54,3 +54,4 @@ Structural models regressing TEMA-3 and WJ-III Applied Problems scores at each t
 - [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
 - [Children's adult-reported and observed effortful control in early elementary school prospectively predicts academic achievement 6 years later](ec-prospective-achievement-six-year.md) — related
+- [General executive functions predict 14.7% of general academic achievement and 12.3% and 12.2% of Language Arts and Mathematics achievement in children aged 6–9](executive-functions-predict-achievement-6-9.md) — related

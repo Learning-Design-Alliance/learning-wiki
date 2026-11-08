@@ -53,3 +53,4 @@ Longitudinal item-fit analysis across fall, winter, and spring 2024–2025 (Tabl
 - [The 2003 Puerto Rico assessment data showed problems with item misfit](item-misfit-problems-2003-puerto-rico-data.md) — related
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](map-growth-negligible-dif-gender-race-ethnicity.md) — related
 - [At least 97.5% of Reading items and 92.5% of Mathematics items passed the fit check, with 7 Reading and 23 Mathematics items flagged for misfit](map-k2-misfit-flagging-rates.md) — related
+- [Multifaceted Rasch analysis flagged seven items for misfit, with items 5, 6, 14 and 23 misfitting in a sensitivity analysis](mfrma-item-misfit-flagged.md) — related

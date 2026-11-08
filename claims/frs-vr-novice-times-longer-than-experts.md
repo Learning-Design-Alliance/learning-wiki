@@ -54,3 +54,4 @@ One-sample t tests comparing 16 novices' first-attempt times to expert means acr
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
 - [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
+- [Novice medical students required far more time and clutch use on robotic tasks than an expert benchmark](novice-expert-performance-gap-robotic-tasks.md) — related

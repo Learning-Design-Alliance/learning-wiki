@@ -76,3 +76,4 @@ Same single-arm pre-post cohort study; readiness to manage rose from "2.61 (SD0.
 - [Self-assessed pediatric emergency knowledge and skills increased significantly in both medical and nursing staff from before preparation to after the team training day](blended-emergency-training-self-assessed-gains-t3.md) — related
 - [Among participating residents, self-rated confidence scores rose from pre-test to post-test after team-based simulation training in one group with no comparison group; the change was statistically significant](confidence-gain-significant.md) — related
 - [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](post-session-knowledge-increase-64-percent.md) — related
+- [A three-day high-fidelity simulation-based ECMO course significantly improved physicians' cognitive self-assessments of ECMO management (p<0.001)](simulation-ecmo-course-improves-cognitive-self-assessment.md) — related

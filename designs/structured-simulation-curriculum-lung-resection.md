@@ -44,7 +44,8 @@ The training pattern used in this study: all residents first complete a baseline
 - [Lung Model Greater Trainee Confidence](../claims/lung-model-greater-trainee-confidence.md) [+M]
 
 ## Related Designs
-- 
+
+- [Padova resident CVC training pathway (didactic lessons, simulation center practice, and supervised procedural experience)](padova-resident-cvc-training-pathway.md)
 
 ## Examples
 -

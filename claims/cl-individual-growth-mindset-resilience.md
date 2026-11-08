@@ -56,3 +56,4 @@ Multilevel logit regression (model 1) on PISA 2018 data, resilience coded binary
 - [Growth mindset mediates only a small share (about 2.9–3.2%) of the effect of SES on academic achievement across 73 countries](growth-mindset-mediation-of-ses-effect-small-pisa-2022.md) — related
 - [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](modest-mindset-math-correlations.md) — related
 - [Growth mindsets are positively associated with academic achievement, intrinsic motivation and academic engagement after controlling for covariates](growth-mindset-positive-association-learning-outcomes-pisa-2018.md) — a narrower finding that bears on this claim
+- [Reading self-confidence is the student variable most strongly linked to academic resilience, significant and positive in every country analyzed](reading-self-confidence-predicts-academic-resilience-all-countries.md) — related

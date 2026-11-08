@@ -54,3 +54,4 @@ Narrative synthesis of 20 interventional studies (RCTs and quasi-experimental de
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related
+- [Massed instruction may potentiate learning in certain circumstances, particularly those involving motor learning](massed-learning-motor-learning-circumstances.md) — reports the opposite

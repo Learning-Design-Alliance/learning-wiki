@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 340 claims (211 show a difference, 57 mixed, 72 no difference) · 236 studies (96 causal, 54 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 53 of 236 report an effect size · 331 claims rest on one study
+> **Evidence** · 341 claims (212 show a difference, 57 mixed, 72 no difference) · 237 studies (96 causal, 54 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 5 design), `q1`–`q4` · 53 of 237 report an effect size · 332 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -391,6 +391,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Letter Naming Fluency and Letter Sound Fluency significantly predict end-of-year Word Reading Fluency in kindergarten and grade 1 at both fall and mid-year](../claims/lnf-lsf-significant-predictors-end-of-year-wrf.md) [+M] — learners who differ on it differ in outcomes
 - [Phoneme Segmentation Fluency added little to predicting end-of-year Word Reading Fluency: non-significant in the multiple regressions, with one grade 1 mid-year hierarchical model at p = .032](../claims/psf-limited-predictive-value-wrf.md) [-M] — learners who differ on it differ in outcomes
 - [Left posterior OTS sulcal pattern was associated with reading ability in children, but the direction was opposite to previous reports of better reading with an interrupted sulcus](../claims/left-posterior-ots-reading-opposite-direction.md) [~M] — learners who differ on it differ in outcomes
+- [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](../claims/targeted-training-doubles-reading-fluency-first-graders.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

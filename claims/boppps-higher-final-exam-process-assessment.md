@@ -80,3 +80,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [Undergraduate students taught Neurosurgery with a flipped classroom obtained a significantly higher mean exam score than students taught by traditional lecture in the same academic year](fc-neurosurgery-higher-mean-score.md) — related
 - [Nursing undergraduates in the smart-classroom blended group scored significantly higher on theoretical assessment, experimental assessment, and subjective questions than the lecture-based control group](smart-classroom-blended-higher-theory-and-practical-scores.md) — related
 - [HBOPPPS raised subjective-question scores significantly, but objective-question scores did not improve over offline BOPPPS](hboppps-subjective-not-objective-score-gains.md) — related
+- [Blended learning produced higher total knowledge scores than didactic teaching and web-based e-learning in a clinical research module](bl-higher-knowledge-score-than-dt-wel.md) — related

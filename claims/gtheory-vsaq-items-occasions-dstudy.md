@@ -49,3 +49,4 @@ Generalizability theory decision study of the P×I×O design from the two ten-it
 - [In the generalizability study, students (16.47%) and residual error (55.38%) dominate score variance, with items at 9.98% and occasions at 2.10%](gtheory-variance-components-pio-vsaq.md) — related
 - [Student self-marking of ISF-VSAQ answers shows excellent inter-rater reliability with teacher ratings (rs = 0.87–0.98 per item; overall r = 0.97)](isf-vsaq-self-marking-teacher-reliability.md) — related
 - [Over 80% of students agreed ISF-VSAQs improve knowledge review, problem analysis, feedback quality, and electronic usability; perception questionnaire reliability was α = 0.90](isf-vsaq-positive-student-perceptions.md) — related
+- [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related

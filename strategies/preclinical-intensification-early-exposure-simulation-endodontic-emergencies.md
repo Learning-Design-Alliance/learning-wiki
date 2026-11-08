@@ -54,6 +54,7 @@ The article recommends reducing the gap between preclinical preparation and clin
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 - [Ensure teacher receptiveness and organise clinical practice so students encounter varied situations before graduating](teacher-receptiveness-and-varied-clinical-exposure-strategy.md)
+- [Repeatedly expose medical students to high-fidelity simulation to build psychological stability before clinical encounters](repeated-high-fidelity-simulation-exposure-strategy.md)
 
 ## Examples
 -

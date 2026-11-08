@@ -54,3 +54,4 @@ Mixed-effects regression on trait anxiety in the study sample; gender was the on
 - [Female Ukrainian medical students reported significantly higher anxiety, stress, and PTSD symptoms than male students during the war](gender-disparity-war-mental-health-medical-students.md) — related
 - [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](female-and-high-trait-anxiety-higher-state-anxiety.md) — related
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
+- [No significant gender differences in self-efficacy, optimism, resilience, perceived stress or GPA among medical undergraduates](no-gender-differences-psychosocial-variables-gpa.md) — related

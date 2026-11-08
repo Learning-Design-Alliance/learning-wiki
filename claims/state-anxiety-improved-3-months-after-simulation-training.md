@@ -71,3 +71,4 @@ Baseline between-group comparison from the same pilot study: controls scored low
 - [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](simulation-no-between-group-anxiety-stress-reduction.md) — reports the opposite
 - [At 3 months, trait anxiety was lower in trained participants than controls but without reaching statistical significance](trait-anxiety-controls-vs-participants-3-months-not-significant.md) — related
 - [Simulation-based training reduces self-reported anxiety among novice neurology trainees measured by both a general VAS scale and the STAI-6](sbme-reduces-anxiety-neurology-trainees.md) — related
+- [Mean anxiety decreased slightly before state exams without a statistically significant change in overall anxiety level between time points](anxiety-unchanged-before-state-exams.md) — related

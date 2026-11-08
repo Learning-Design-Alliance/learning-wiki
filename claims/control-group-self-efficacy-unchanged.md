@@ -52,3 +52,4 @@ Table 5 of the RCT reports paired t-test results: intervention overall self-effi
 - [The experimental group's anxiety control changed significantly from pre- to post-treatment while the control group's did not](anxiety-control-change-within-groups.md) — related
 - [Within the experimental group, patience scores rose significantly from pre-test to post-test while control-group scores did not change](experimental-group-prepost-patience-increase.md) — related
 - [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — reports the opposite
+- [In one single-group pre-post study, scrub nurses' confidence scores rose significantly and anxiety scores fell significantly from before to after the iVR curriculum while scrubbing for revision TKA procedures](ivr-confidence-anxiety-scrub-nurses.md) — related

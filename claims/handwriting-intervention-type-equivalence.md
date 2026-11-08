@@ -104,3 +104,4 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [The type of educational software matters: heterogeneous technology effects are not solely a product of context](software-type-matters-holding-context-constant.md) — related
 - [Practicing French vocabulary by writing or typing leads to higher spelling scores than practicing by multiple choice](writing-typing-beat-multiple-choice-spelling.md) — related
 - [Cognitive activity training significantly improved handwriting performance (MHT) in refugee children compared to controls](cat-improves-handwriting-mht.md) — related
+- [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](targeted-training-doubles-reading-fluency-first-graders.md) — related

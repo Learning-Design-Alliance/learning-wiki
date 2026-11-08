@@ -69,3 +69,4 @@ Bench-top material characterization of 10% PVA/PAM hydrogel: conductivity measur
 - [Participants rate the MaiSurge PVA model as realistic and at least as suitable for training as a silicone version and a commercial model](maisurge-subjective-realism-ratings.md) — related
 - [Most participants rated the porcine stomach model as having higher tissue and physiologic fidelity than the towel uterus model](porcine-stomach-fidelity-beats-towel-uterus.md) — related
 - [Compared with a biological tissue model, the 3D-printed model showed less dissection sensitivity but higher anatomical representation and easier reuse](hernia-model-vs-biological-model-tradeoff.md) — related
+- [A PVA-hydrogel robotic myomectomy model showed promising early validity, with 94% of resident surgeons and 83% of attending surgeons rating it a useful training tool](gyn-myomectomy-model-survey-validity.md) — related

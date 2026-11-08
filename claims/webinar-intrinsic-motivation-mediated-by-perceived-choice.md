@@ -72,3 +72,4 @@ Mediation analysis across the whole sample (PROCESS macro, OLS regression with b
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](non-received-choice-no-motivation-deficit.md) — related
 - [Asynchronous and synchronous e-learning produce no difference in total clinical record writing quality among speech therapy students](async-sync-no-difference-cr-total-score.md) — related
 - [Intrinsic motivation predicted study completion, with a small effect (OR=1.05)](intrinsic-motivation-predicted-study-completion.md) — related
+- [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related

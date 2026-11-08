@@ -49,3 +49,4 @@ Peg-transfer results from the ten-surgeon crossover simulation study: total inte
 - [Pediatric surgeons with minimal robotic experience achieved higher suturing precision with the hinotori™ system than with laparoscopy, with higher air-leak resistance and smaller wound-opening scores](hinotori-robotic-suturing-precision-infant-model.md) — related
 - [Peg-transfer FLS scores did not differ significantly between robotic and laparoscopic approaches, but robotic scores showed progressive improvement across trials](hinotori-peg-transfer-fls-comparable-progressive-improvement.md) — related
 - [Needle handling time was significantly longer with the robotic system than with laparoscopy, while total performance time did not differ significantly](hinotori-longer-needle-handling-time.md) — related
+- [Laparoscopy learning follows an inverse learning curve with most gains in the first few repetitions](laparoscopy-inverse-learning-curve-early-gains.md) — related

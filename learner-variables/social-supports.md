@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 163 claims (122 show a difference, 29 mixed, 12 no difference) · 120 studies (46 associational, 20 qualitative, 18 causal, 17 review, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 17 of 120 report an effect size · 163 claims rest on one study
+> **Evidence** · 165 claims (123 show a difference, 30 mixed, 12 no difference) · 122 studies (47 associational, 21 qualitative, 18 causal, 17 review, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 17 of 122 report an effect size · 165 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -199,6 +199,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [In a cross-sectional questionnaire study, teacher support had the strongest positive association with the academic performance of mathematics education doctoral students in Indonesia](../claims/teacher-support-strongest-predictor-math-ed-doctoral-performance.md) [+W] — learners who differ on it differ in outcomes
 - [Teachers' emotional support significantly reduces students' stress but shows no significant relationship with well-being, achievement, or interest](../claims/teacher-emotional-support-stress-only.md) [~M] — learners who differ on it differ in outcomes
 - [Social support from family, friends, peers and seniors was a universally reported positive factor for international medical students' academic success](../claims/international-student-social-support-factor.md) [+M] — learners who differ on it differ in outcomes
+- [Participants reported mostly positive mental wellbeing online, with social isolation and lost peer contact as key barriers](../claims/mental-wellbeing-online-term-positive-with-isolation-barrier.md) [~W] — learners who differ on it differ in outcomes
+- [Social support partially mediates the effect of negative life events on the development of depressive symptoms](../claims/social-support-partially-mediates-nle-ds.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

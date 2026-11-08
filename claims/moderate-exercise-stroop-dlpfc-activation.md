@@ -84,3 +84,4 @@ fNIRS repetition of the young-adult study in older individuals, showing bilatera
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
 - [Preschoolers' participation in physical activity during the day is associated with better self-regulation and inhibitory control](physical-activity-associated-self-regulation-preschoolers.md) — related
 - [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](active-breaks-improve-executive-function-stroop.md) — related
+- [Higher physical activity predicts greater task-related oxygenation in the right dlPFC but not other prefrontal regions](physical-activity-predicts-right-dlpfc-activation.md) — related

@@ -59,3 +59,4 @@ Initial descriptive correlational analyses (Table 1) of the 600-adolescent sampl
 - [Missing questionnaire data are positively related to being male and negatively related to prior grades in math and language arts](missingness-linked-gender-prior-grades.md) — related
 - [Demographic covariates showed modest baseline differences by age, ethnicity, and gender but no difference in rate of change](demographic-covariates-baseline-no-change-rate-difference.md) — related
 - [Motivation and knowledge changes did not differ by gender or ethnicity in either sample](iglu-no-gender-ethnicity-effects.md) — reports the opposite
+- [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related

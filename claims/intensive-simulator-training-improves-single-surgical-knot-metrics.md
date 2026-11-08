@@ -53,3 +53,4 @@ Observational cohort analysis of 55 course participants (N=54, 43, 51 assessed o
 - [Anastomosis success was not significantly associated with participants' experience level, healthcare facility reference level, or specialization](anastomosis-success-independent-of-experience-and-specialty.md) — related
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
 - [Overall SARMS-rated anastomosis quality improved significantly across sessions, with the motion and speed categories showing the strongest significant gains](sarms-quality-improves-motion-speed-significant.md) — related
+- [Knot quality improved much more slowly than time efficiency in laparoscopic knotting training](knot-quality-improves-slower-than-time-efficiency.md) — related

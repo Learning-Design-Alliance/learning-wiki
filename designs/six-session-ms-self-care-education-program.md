@@ -42,7 +42,8 @@ A structured patient education program delivered in both intervention groups of 
 - [Self Efficacy Gains Persist One Month Ms](../claims/self-efficacy-gains-persist-one-month-ms.md) [+M]
 
 ## Related Designs
-- 
+
+- [24-week weekly 90-minute active learning health promotion program with group work and self-monitoring](active-learning-health-promotion-program-24-week.md)
 
 ## Examples
 -

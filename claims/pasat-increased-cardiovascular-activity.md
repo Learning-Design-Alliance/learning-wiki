@@ -49,3 +49,4 @@ Manipulation check in the laboratory phase: repeated-measures ANOVAs on baseline
 - [Methylphenidate produces a three-way Group by Day by Treatment interaction on heart rate and blood pressure, confirming the drug's physiological effect](mph-cardiovascular-three-way-interaction.md) — related
 - [Across both scenarios, participants showed significant increases in systolic blood pressure and heart rate, with a notably higher relative increment in the threat group](cardiovascular-increases-both-groups-threat-higher.md) — related
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — related
+- [High-fidelity simulation raises systolic blood pressure, mean blood pressure, and heart rate immediately after the scenario, with a small effect](hfs-raises-sbp-mbp-hr-immediately-after-scenario.md) — related

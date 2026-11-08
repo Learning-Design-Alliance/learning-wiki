@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (17 for, 5 mixed, 1 against) · 13 studies (9 causal, 3 quant-synthesis, 1 design), `q1`–`q3` · 5 of 13 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (18 for, 5 mixed, 1 against) · 14 studies (9 causal, 3 quant-synthesis, 2 design), `q1`–`q3` · 5 of 14 report an effect size · 24 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -70,6 +70,7 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [The e-PBL program improved systematicity and self-confidence but not healthy skepticism, intellectual eagerness/curiosity, or intellectual fairness subscales](../claims/e-pbl-subscales-mixed-gains.md) [~W] — attached 2026-11-07 from Choi Young-Rim et al. (2022), which proposed "e-PBL-based infection control education program for nursing home staff (three chapters, web-based, chatbot-supported)"; tests this page's relationship.
 - [Medical students given access to problem-based learning modules within a blended learning course had a significantly higher problem solving score than students in the blended-learning-only course](../claims/pbl-modules-higher-problem-solving-score-medical-statistics.md) [+M] — attached 2026-11-08 from Bukumiric Zoran et al. (2022), which proposed "Moodle-based problem-based learning modules for medical statistics with guiding questions following the steps of statistical analysis"; tests this page's relationship.
 - [Students with access to problem-based learning modules in the blended course had a significantly higher total medical statistics score than blended-learning-only students](../claims/pbl-modules-higher-total-medical-statistics-score.md) [+M] — attached 2026-11-08 from Bukumiric Zoran et al. (2022), which proposed "Moodle-based problem-based learning modules for medical statistics with guiding questions following the steps of statistical analysis"; tests this page's relationship.
+- [Hematology postgraduates in the WeChat-PBL program achieved high average quiz scores across five hematological diseases, ranging from 77.5% for lymphoma to 89.0% for acute myelogenous leukemia](../claims/wechat-pbl-quiz-scores-five-diseases.md) [+W] — attached 2026-11-08 from Luo P et al. (2021), which proposed "WeChat-PBL: an online problem-based learning mode for hematology postgraduates built on the WeChat app with micro clinical cases".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

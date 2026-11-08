@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (51 for, 40 mixed, 3 against) · 66 studies (38 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 66 report an effect size · 86 claims rest on one study
+> **Evidence** · 95 claims (51 for, 41 mixed, 3 against) · 67 studies (38 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 67 report an effect size · 87 claims rest on one study
 
 ## Description
 
@@ -187,6 +187,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Spaced E-learning produced higher BLS knowledge scores than massed E-learning at immediate, two-week and one-month post-tests in nursing students](../claims/spaced-elearning-higher-bls-knowledge-than-massed.md) [+W] — attached 2026-11-07 from Ranjbar Fataneh et al. (2024), which proposed "Incorporate spaced learning approaches in nursing curricula to promote long-term retention of knowledge and skills"; tests this page's relationship.
 - [After retraining nine months after first training, theoretical knowledge and practical skills declined less over nine months than after first training among nursing professionals, in a single-group pre-post study](../claims/cpr-retraining-greater-retention-than-first-training.md) [+W] — attached 2026-11-07 from de Araujo Nyagra Ribeiro R et al. (2022), which proposed "Maintain regular CPR training with a defined interval of up to twelve months to retain nursing professionals' resuscitation competencies"; tests this page's relationship.
 - [Nine months after retraining, CPR knowledge and skills were statistically higher than nine months after the first training](../claims/cpr-nine-month-scores-higher-after-retraining.md) [+W] — attached 2026-11-07 from de Araujo Nyagra Ribeiro R et al. (2022), which proposed "Maintain regular CPR training with a defined interval of up to twelve months to retain nursing professionals' resuscitation competencies"; tests this page's relationship.
+- [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](../claims/spaced-massed-anatomy-retention-null-dpt.md) [~W] — attached 2026-11-08 from Amabile Amy H. et al. (2021), which proposed "Front-loading content-heavy basic science material is a viable curricular option when compressed delivery serves broader program goals"; tests this page's relationship.
 
 ## Source verification and open tests
 

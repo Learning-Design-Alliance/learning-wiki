@@ -48,3 +48,4 @@ Competence comparison at T3 among paramedics (n = 72), physicians (n = 132), and
 - [On the simulator practical test, paramedics scored significantly lower than physicians but comparably to medical students](paramedics-simulator-lower-physicians-comparable-students.md) — related
 - [Paramedics' theoretical POCUS competence improved significantly across the digital preparation and on-site phases, from 41.3% at T1 to 82.7% at T3](paramedics-theoretical-pocus-gains-three-timepoints.md) — related
 - [Prior ultrasound experience predicted early theoretical performance but its influence was no longer measurable after the tailored curriculum](prior-experience-influence-fades-after-curriculum.md) — related
+- [No significant interprofessional difference in correct CPR evaluation overall, though paramedics' accuracy was significantly affected by video quality while physicians' was not](interprofessional-evaluation-no-difference-paramedic-quality-effect.md) — related

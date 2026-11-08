@@ -51,3 +51,4 @@ Criterion-related (convergent) validity analysis comparing OSAUS with a single-i
 - [OSAUS scale shows strong internal consistency (Cronbach's alpha 0.916) when used to assess ultrasound HMD measurement competence](osaus-hmd-internal-consistency-alpha-0916.md) — related
 - [Novices unexpectedly scored higher than experts on OSAUS for HMD measurement in a simulated setting](osaus-novice-higher-than-expert-scores.md) — related
 - [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related
+- [The examiner-rated SDMA scale scores are significantly and positively correlated with SDMA global, SPS, and SPS global scores](sdma-sps-scales-positive-correlations.md) — related

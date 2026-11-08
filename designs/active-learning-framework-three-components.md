@@ -44,6 +44,10 @@ The Active Learning Framework (ALF) is the delivery pattern that operationalises
 - [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](../claims/experiential-learning-engagement-skills-ethical-reasoning.md) [+M]
 - [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](../claims/program-review-five-design-findings.md) [+W]
 
+## Related Designs
+
+- [Blended flipped-classroom course structure: pre-class podcasts, mandatory consolidative tutorials, then hands-on practicals](blended-fc-podcast-tutorial-practical-sequence.md)
+
 ## Related Patterns
 - [Federation University Case Based Experiential Model](../theories/federation-university-case-based-experiential-model.md)
 

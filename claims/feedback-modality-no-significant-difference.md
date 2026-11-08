@@ -52,3 +52,4 @@ Subgroup analysis within the SDTS arm compared self-, peer-, and instructor-feed
 - [Both video-based peer feedback and video-based expert feedback significantly improve first-year surgical residents' OSCE performance across three fundamental clinical skills](vpf-vef-significant-pre-post-improvement.md) — related
 - [Peer-relatedness scores did not differ significantly among instructors across teaching profiles](peer-relatedness-no-instructor-differences.md) — related
 - [Precepted video review and video review with supervised peer discussion produce equivalent post-remediation OSCE scores and self-efficacy gains](precepted-review-equals-peer-discussion-osce-gains.md) — related
+- [Total assessment scores do not differ significantly between peers and instructors (3.50 ± 0.68 vs 3.50 ± 0.51)](no-total-score-difference-peer-instructor.md) — related

@@ -87,3 +87,4 @@ Mann–Whitney-U-test at α = 0.05 comparing male and female participants on the
 - [Participants without prior ultrasound course experience showed greater knowledge gains (26.7 vs 20 points, p = 0.003) despite lower pre- and post-course scores](rush-mooc-novice-greater-gains.md) — related
 - [Baseline skill differences by prior helicopter boarding experience largely disappear after the course, except impact-protection positioning](metra-course-experience-subgroup-differences.md) — related
 - [Being female independently lowers OBGYN residents' confidence in performing standard obstetric interventions](female-gender-lowers-obstetric-procedure-confidence.md) — related
+- [Simulation and control groups were comparable on prior learning experiences and motivation before the intervention](pre-survey-groups-equivalent-baseline.md) — related

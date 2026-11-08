@@ -27,7 +27,8 @@ An 18-item, five-point Likert questionnaire translated and validated by Polónyi
 - [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](../claims/sse-partial-measurement-invariance-items-9-12.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Simulation Design Scale (EDS)](simulation-design-scale-eds.md)
 
 ## Key Sources
 - Polónyiová K., Teličák P., Vitovič P., Hnilicová S. (2025). Psychometric analysis of the Slovak version of the satisfaction with simulation experience scale (measurement invariance). Medical Education Online, 30(1). https://doi.org/10.1080/10872981.2025.2534055

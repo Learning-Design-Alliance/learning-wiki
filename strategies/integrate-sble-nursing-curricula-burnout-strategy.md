@@ -58,6 +58,7 @@ The authors recommend integrating simulation-based learning experiences into nur
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 - [Combine medical movies, MOOCs, and simulation with co-debriefing as a scalable multimodal approach to stress and burnout education](multimodal-movies-moocs-simbie-codebriefing-strategy.md)
 - [Targeted interventions to enhance clinical preparation, plus mentorship and education–practice collaboration, to bolster nurse interns' readiness](enhance-clinical-preparation-interventions-nurse-interns.md)
+- [Assess grit to identify students at risk of burnout and offer coping and strategy training to less gritty students](grit-assessment-burnout-prevention-strategy.md)
 
 ## Examples
 -

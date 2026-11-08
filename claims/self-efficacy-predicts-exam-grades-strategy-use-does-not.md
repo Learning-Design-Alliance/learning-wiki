@@ -63,3 +63,5 @@ Multiple regression for hypothesis H3 with cognitive strategy use, metacognitive
 - [Motivational changes in the first half of the semester predicted end-of-term study program satisfaction, exam performance, and course dropout](motivational-changes-predict-academic-outcomes.md) — related
 - [Neither self-assessment, self-efficacy change, nor self-video activity was significantly associated with OSCE performance in novice ultrasound training](no-quantitative-predictors-of-osce-ultrasound.md) — related
 - [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — related
+- [Automated encouragement messages sent shortly before exams do not raise university students’ end-of-semester exam grades, and the effect does not differ between first and second exams](encouragement-message-no-exam-grade-effect.md) — related
+- [Encouragement messages increase university students’ self-efficacy before exams (Cohen’s d = 0.12), with no difference between first- and second-exam delivery](encouragement-raises-self-efficacy.md) — related

@@ -65,3 +65,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Age, BMI, and median working time showed no significant association with qualification rates](age-bmi-working-time-null-qualification.md) — related
 - [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — reports the opposite
 - [In men with low academic performance, GPA is multivariately associated with admission exam test, self-motivation, neuroticism and having a romantic partner positively, and with having children and weekly physical activity hours negatively](men-gpa-multivariate-model-low-performers.md) — related
+- [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — related

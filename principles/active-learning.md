@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 91 claims (54 for, 33 mixed, 4 against) · 74 studies (35 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 13 of 74 report an effect size · 83 claims rest on one study
+> **Evidence** · 92 claims (55 for, 33 mixed, 4 against) · 75 studies (36 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 14 of 75 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [The jigsaw method produced significantly higher learning scores than both flipped classroom and lecture-based teaching in nursing students](../claims/jigsaw-higher-learning-scores-than-fc-and-lbt.md) [+M] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Adopt learner-centered active methods such as jigsaw and flipped classroom as alternatives to lecture, considering needs, conditions, and resources"; tests this page's relationship.
 - [No statistically significant difference in retention of course content among flipped classroom, jigsaw, and lecture groups six weeks after the intervention](../claims/no-retention-difference-three-methods.md) [~W] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Adopt learner-centered active methods such as jigsaw and flipped classroom as alternatives to lecture, considering needs, conditions, and resources"; tests this page's relationship.
 - [Active learning benefits college humanities and social science students, with larger effects in smaller classes (≤20 students) and upper-level courses](../claims/active-learning-humanities-kozamitis-moderators.md) [+W] — attached 2026-11-07 from Lebert et al. (2024), which proposed "Use active learning rather than traditional lecturing, favoring smaller classes and upper-level courses where effects are largest"; tests this page's relationship.
+- [Active learning health education improves arterial stiffness (CAVI) more than didactic health education in older adults with low health literacy](../claims/active-learning-education-improves-cavi-older-adults-low-health-literacy.md) [+M] — attached 2026-11-08 from Uemura Kazuki et al. (2021), which proposed "Use active learning health education, rather than passive didactic instruction, to promote health behavior change in older adults with low health literacy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
