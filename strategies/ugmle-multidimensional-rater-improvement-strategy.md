@@ -47,6 +47,7 @@ The authors recommend that licensure examination directorates improve experts' i
 - [Combine examiner training, scoring standardization, multiple examiners, and feedback mechanisms to improve oral examination quality](oral-exam-improvement-strategy-set.md)
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
 - [Pilot calibration interventions targeting social/communication self-assessment: facilitated video review with checklists, vignette calibration with expert anchors, and pre- to post-feedback self-ratings](osce-calibration-intervention-strategies.md)
+- [Increase the frequency of direct observation of trainees by different raters to mitigate rater idiosyncrasy and support assessment for learning](increase-direct-observation-frequency-mitigate-idiosyncrasy.md)
 
 ## Examples
 -

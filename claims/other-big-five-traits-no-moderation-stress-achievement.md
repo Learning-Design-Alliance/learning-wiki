@@ -53,3 +53,4 @@ Moderation analyses in the same survey (Table 2, Models 1–4). The article repo
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
 - [Extraversion, Agreeableness, and Conscientiousness are positively associated with non-performance and performance components of academic achievement](personality-traits-academic-achievement-paths.md) — related
+- [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related

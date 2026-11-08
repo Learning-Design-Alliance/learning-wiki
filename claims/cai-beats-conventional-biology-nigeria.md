@@ -71,3 +71,4 @@ Scheffe follow-up on the same ANCOVA located pairwise differences; the ICAI mean
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](cai-stad-ltm-outperform-ici-physics-achievement.md) — related
 - [Computer-assisted STAD and LTM cooperative settings produced significantly higher physics motivation than individualized computer instruction](cooperative-cai-higher-physics-motivation.md) — related
 - [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related
+- [Students taught with computer-assisted instruction significantly outperformed students taught with inquiry-based learning in Science and Technology](cai-outperforms-ibl-science-technology.md) — related

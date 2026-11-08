@@ -58,3 +58,4 @@ Meta-regression of 239 estimates comparing the 2021 assessment-timing moderator 
 - [Schooling during the COVID-19 pandemic produced no significant negative effects on first-grade students' reading or math achievement compared with regular schooling](covid-grade1-no-achievement-decline.md) — related
 - [Post-COVID girls completed 0.08–0.1 fewer years of schooling than matched pre-COVID girls, with no difference in out-of-school rates](post-covid-girls-schooling-attainment-loss.md) — related
 - [Post-COVID 15–17-year-old girls in India had 1.5–1.6% lower reading ability than matched pre-COVID girls](post-covid-girls-literacy-loss-india.md) — related
+- [The COVID-19 school closures in the Netherlands produced declines in learning gains in reading, spelling and math for almost 300,000 primary students](covid-dutch-primary-learning-gain-declines-three-domains.md) — related

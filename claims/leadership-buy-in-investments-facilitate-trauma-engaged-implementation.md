@@ -100,3 +100,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Institutional interventions to promote psychological safety competencies are rated as barely implemented yet highly significant](institutional-interventions-low-implementation-high-significance.md) — related
 - [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related
 - [Involvement of stakeholders nationally enhanced programme acceptance, clinician buy-in and funding sustainability](stakeholder-involvement-buy-in-sustainability.md) — related
+- [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related

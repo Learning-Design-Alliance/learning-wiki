@@ -47,3 +47,4 @@ Secondary outcome in the same prospective comparative study: technical skills of
 ## Related Claims
 - [Repeated mental imagery based on a cognitive aid improves the non-technical skills of novice anesthesia residents in simulated cardiopulmonary resuscitation at 6 months](mental-imagery-cognitive-aid-improves-nontechnical-skills-cpr-simulation.md) — related
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](acls-skill-decline-at-twelve-months.md) — related
+- [Mental imagery training developed epidural anesthesia technical skills as effectively as low-fidelity haptic simulators in novices](mental-imagery-as-effective-as-haptic-simulator.md) — related

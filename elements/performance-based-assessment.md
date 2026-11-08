@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (20 for, 7 mixed) · 21 studies (9 design, 6 causal, 4 associational, 2 review), `q1`–`q4` · 1 of 21 report an effect size · 27 claims rest on one study
+> **Evidence** · 28 claims (21 for, 7 mixed) · 22 studies (9 design, 7 causal, 4 associational, 2 review), `q1`–`q4` · 1 of 22 report an effect size · 28 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -69,6 +69,7 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [In a single-center pre/post study, surgeon assessments of radiology reports showed gains and non-improvement from pre-test to post-test, while participant survey confidence rose](../claims/surgeon-feedback-beats-surveys-for-educational-evaluation.md) [+W] — attached 2026-11-07 from Malouf William T. et al. (2024), which proposed "Blinded referring-clinician report-grading assessment with surgeon-radiologist answer keys and Likert rubric".
 - [Standard patients and examiners show moderate scoring consistency (ICC 0.718) on total scores in a dental OSCE communication station](../claims/sp-examiner-moderate-consistency-icc-0718-dental-osce.md) [+W] — attached 2026-11-07 from Zhu Feng et al. (2023), which proposed "Doctor-patient communication and clinical examination SP station of the dental OSCE with a 10-item rating scale".
 - [Standardized participant checklist ratings show wide variation in research staff communication skills, distinguishing higher and lower performers](../claims/gosce-checklist-differentiates-communication-skills.md) [+W] — attached 2026-11-07 from Fisher H et al. (2022), which proposed "Virtual three-station GOSCE with standardized participants and an 11-item behaviorally anchored communication checklist".
+- [Interns in both groups report high acceptance of OSCE as a fair and ability-reflecting assessment format](../claims/osce-questionnaire-high-acceptance-interns.md) [+W] — attached 2026-11-08 from Zhang Weihao et al. (2021), which proposed "Five-station OSCE for assessing intern clinical skills".
 
 ## Related Elements
 

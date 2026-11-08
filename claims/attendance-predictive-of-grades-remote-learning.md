@@ -54,3 +54,4 @@ Analysis relating district attendance data and Google Meets participation to 202
 - [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](cps-grades-4-8-declined-remote-learning.md) — related
 - [High school course grades improved in spring 2020 and remained higher than pre-pandemic levels through spring 2021, with a slight rise in Fs](cps-high-school-grades-improved-remote-learning.md) — related
 - [More than 65% of teachers reported class attendance decreased during remote instruction, with lower attendance more frequent among low-income US students](remote-instruction-attendance-drop-ses.md) — related
+- [Final knowledge gain was not significantly associated with hours spent on pre-class learning in TOTR, in a single-group pre-post study with no comparison group](pre-class-hours-not-significant-predictor.md) — a narrower finding that bears on this claim

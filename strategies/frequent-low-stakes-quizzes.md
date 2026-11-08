@@ -125,6 +125,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Post-examination feedback on high-error questions: explain questions with error rates above 30% via the department's communication platform](wechat-feedback-on-questions-over-30-percent-error-rate.md)
 - [Create a supportive assessment environment that emphasizes the concept and purpose of formative testing](supportive-assessment-environment-formative-value.md)
 - [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](pre-quiz-unlocks-module-post-quiz-feedback.md)
+- [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

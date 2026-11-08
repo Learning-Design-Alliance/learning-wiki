@@ -84,3 +84,7 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Extraversion, Agreeableness, and Conscientiousness are positively associated with non-performance and performance components of academic achievement](personality-traits-academic-achievement-paths.md) — related
 - [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](big-five-conscientiousness-openness-act-correlations.md) — related
 - [Achievement and aptitude test scores show significant but weaker positive correlations with dental students' GPA](test-scores-weaker-positive-correlation-dental-gpa.md) — related
+- [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related
+- [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — a broader claim this one bears on
+- [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — related
+- [Extraversion, agreeableness and emotional stability show no significant association with GPA](other-big-five-traits-no-gpa-effect.md) — related

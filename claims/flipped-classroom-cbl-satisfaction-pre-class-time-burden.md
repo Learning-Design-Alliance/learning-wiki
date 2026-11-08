@@ -49,3 +49,4 @@ Post-course feedback questionnaires (Forms B and C) completed by 36 of 40 traine
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Students in flipped courses report modestly but consistently higher satisfaction than traditional-course students, with significantly higher perceived instructor availability.](flipped-courses-higher-satisfaction-instructor-availability.md) — related
 - [Most experimental students reported the design-thinking flipped classroom enhanced knowledge comprehension and comprehensive abilities without increasing learning burden](dt-flipped-perceived-gains-no-burden.md) — related
+- [Students reported higher pre-class burden with FC+CBL but no increase in in-class pressure relative to LBC](fc-cbl-pre-class-burden-not-in-class-pressure.md) — related

@@ -47,3 +47,4 @@ Observational study of 55 trauma-code activations in Canada, with two independen
 ## Related Claims
 - [A systematic review of ED resuscitation video review identified four unique NTS assessment tools, with T-NOTECHS used in six of nine studies](four-tools-nts-video-review-ed-nine-studies.md) — a broader claim this one bears on
 - [T-NOTECHS inter-rater reliability varies widely across ED video-review studies, from moderate (ICC 0.48) to excellent (ICC 0.94)](tnotechs-reliability-variable-icc-ed-video.md) — related
+- [Domain-level T-NOTECHS scores in real resuscitations were highest for situation awareness and coping with stress (4.1/5) and lowest for leadership (3.6/5)](tnotechs-domain-mean-scores-trauma-resuscitations.md) — reports the opposite

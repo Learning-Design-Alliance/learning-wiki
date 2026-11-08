@@ -52,3 +52,4 @@ Subgroup analysis of the same meta-analysis by learning-measure type (KG, KR, KT
 - [Immersive procedural training in VR shows a significant medium positive effect on learning outcomes compared to less immersive environments (Hedges' g = 0.58)](ivr-procedural-training-medium-positive-effect.md) — a broader claim this one bears on
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — reports the opposite
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
+- [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related

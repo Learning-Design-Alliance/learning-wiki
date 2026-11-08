@@ -73,3 +73,4 @@ The review's synthesis of prevalence across retrieved articles reports "prevalen
 - [In multiple regression, GPA was negatively associated with stress but positively associated with hyperarousal, anxiety, and depression, while intrusion and avoidance showed no significant influence](regression-stress-negative-hyperarousal-positive-gpa.md) — related
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [All six UNI psychosocial need factors correlate positively with students' psychological distress](uni-factors-correlate-distress.md) — related
+- [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related

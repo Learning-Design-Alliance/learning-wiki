@@ -48,3 +48,4 @@ Descriptive analysis of multi-select statements from the group simulation questi
 - [Participants reported acquiring a pedagogical toolbox of simulation, feedback, and teaching-orchestration skills through the internship track.](pedagogical-internship-track-toolbox-theme.md) — related
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](generative-learning-reorganizing-integrating-prior-knowledge.md) — related
+- [More than 80% of participants indicated they will apply simulation learning when caring for a resident who falls](participants-intend-apply-fall-simulation-learning.md) — related

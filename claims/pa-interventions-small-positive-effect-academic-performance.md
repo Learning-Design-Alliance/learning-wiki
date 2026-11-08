@@ -53,3 +53,4 @@ Random-effects meta-analysis (Hunter-Schmidt validity generalization) of 44 scho
 - [School-based physical activity significantly improves overall academic achievement (SMD = 0.22)](school-based-physical-activity-improves-overall-academic-achievement.md) — related
 - [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](longitudinal-physical-activity-improves-executive-functions.md) — related
 - [Physically active classrooms produce a small improvement in academic performance compared with traditional sedentary classrooms](active-classrooms-small-academic-gain.md) — a narrower finding that bears on this claim
+- [Elementary classrooms that are physically active support greater academic achievement compared to traditional sedentary elementary classrooms](active-elementary-classrooms-greater-academic-achievement.md) — a narrower finding that bears on this claim

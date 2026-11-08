@@ -91,3 +91,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Text story modules were rated the most helpful content type in WeChat literature articles, ahead of pictures and audio-video](wechat-text-story-most-helpful-module.md) — reports the opposite
 - [The modality effect: complex visual displays are better understood when explanatory words are presented auditorily rather than visually](modality-effect-audiovisual-superiority.md) — related
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
+- [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — reports the opposite

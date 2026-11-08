@@ -63,6 +63,7 @@ The article's implementable session recipe: distribute pre-class materials on cr
 - [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 - [Combine pre-learning, lectures, skill stations and simulated multi-disciplinary scenarios with structured debriefing for trauma team training](ttrrt-session-structure-strategy.md)
+- [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
 
 ## Examples
 -

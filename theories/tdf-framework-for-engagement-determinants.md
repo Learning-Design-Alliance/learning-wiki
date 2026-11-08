@@ -17,7 +17,7 @@ sources:
 # Theoretical Domains Framework as an organizing framework for behavioral determinants of intervention engagement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (2 review, 2 qualitative), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The Theoretical Domains Framework (TDF) is "an integrative framework that draws from 33 behavior change theories to characterize and evaluate behavioral determinants of implementation," comprising 14 domains with 84 constructs. In this article the TDF structured the interview guides, the a priori codebook, and the analysis, with determinants such as beliefs about consequences, knowledge, skills, social influences, and environmental context organized under seven themes and visualized in a conceptual framework of caregiver engagement.
@@ -41,6 +41,7 @@ The Theoretical Domains Framework (TDF) is "an integrative framework that draws 
 - [Family Muac Uptake Barriers](../claims/family-muac-uptake-barriers.md) [+M]
 - [Most SDL-in-CPD behavior-change factors fall in four TDF domains: environmental context and resources, social influences, beliefs about consequences, and behavioral regulation](../claims/sdl-cpd-four-key-tdf-domains.md) [+W]
 - [Fear of 'opening Pandora's box' led practitioners to limit what and how many adversities they asked about](../claims/fear-opening-pandoras-box-limits-adversity-asking.md) [+W] — attached 2026-11-07 from Loveday Sarah et al. (2024), which proposed "Theoretical Domains Framework and COM-B model used to identify drivers of and barriers to practitioner practice change".
+- [Ten of the 14 Theoretical Domains Framework domains aligned with PAL implementation themes](../claims/ten-of-fourteen-tdf-domains-aligned-pal.md) [+W] — attached 2026-11-08 from Daly-Smith Andrew et al. (2021), which proposed "TDF-aligned framework of teacher-level, school-level and external determinants of PAL implementation".
 
 ## Related Theories
 

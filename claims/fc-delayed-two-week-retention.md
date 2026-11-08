@@ -49,3 +49,4 @@ Analysis of delayed 15-question tests two weeks after seminars (Mann-Whitney); t
 - [Six months after flipped seminars, students retained more topic knowledge than conventionally taught students](fc-six-month-long-term-retention.md) — related
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — a broader claim this one bears on
 - [Pre-seminar preparation did not clearly determine flipped-classroom test gains, and unprepared students were noninferior to conventional students](fc-preparation-noninferior-unprepared.md) — related
+- [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related

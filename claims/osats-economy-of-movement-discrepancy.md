@@ -53,3 +53,7 @@ The article reports this from the previously conducted randomized trial's expert
 - [On the MaiSurge model, expert gynecologists achieve significantly higher modified H-OSATS and general OSATS scores than novices performing a total laparoscopic hysterectomy](maisurge-differentiates-experts-novices-hosats.md) — related
 - [The AI-enhanced curriculum reduced healthy tissue damage during simulated tumor resection relative to control, reaching the expert benchmark](voa-reduced-healthy-tissue-damage.md) — related
 - [The AI-enhanced curriculum reduced the rate of tumor resection relative to control, diverging further below the expertise benchmark](voa-reduced-tumor-resection-rate.md) — related
+- [Global OSATS ratings did not differ significantly among groups, but subscores favored VOA over control on overall subscore and both feedback arms on tissue respect and economy of movement](osats-global-null-subscore-differences.md) — related
+- [AI tutoring feedback (VOA) produced significantly higher practice Expertise Scores than remote expert instruction and no-feedback control in simulated tumor resection](voa-feedback-higher-practice-expertise-scores.md) — related
+- [VOA-trained students achieved significantly higher Expertise Scores in the realistic (transfer) resection than instructor and control groups](voa-higher-realistic-resection-expertise.md) — related
+- [Feedback on 4 AI-selected metrics improved 3 trained metrics and generalized to 8 of 16 untrained ICEMS performance metrics](voa-metric-feedback-extended-effect-untrained-metrics.md) — related

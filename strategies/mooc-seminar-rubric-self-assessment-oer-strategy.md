@@ -40,7 +40,8 @@ The article implements a specific recipe: a free-registration, four-week MOOC se
 - [Four Module Oer Competency Framework](../theories/four-module-oer-competency-framework.md)
 
 ## Related Strategies
-- 
+
+- [Use an online self-assessment rubric to evaluate MOOC learning](online-rubric-self-assessment-mooc.md)
 
 ## Examples
 -

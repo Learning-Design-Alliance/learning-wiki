@@ -49,3 +49,4 @@ One-group pretest-posttest survey; pre-survey n = 53 of 105 (50.4%), post-survey
 - [Teamwork perceptions were already high before the intervention and rose significantly after it, though perceived attentiveness of teammates remained below the agree threshold](teamwork-perceptions-high-and-improved.md) — related
 - [Student preference for TBL over traditional lectures improved significantly after the intervention but remained one of the lowest-rated survey items](tbl-preference-improved-but-still-low.md) — related
 - [Peer evaluation was the least valued TBL component after the intervention, with students rating the usefulness of receiving peer feedback at 3.64 and its effect on their interactions at 2.97](peer-evaluation-least-valued-tbl-component.md) — related
+- [Students in the TBL physiology course showed significant pre–post gains on a conceptual physiology test and daily concept quizzes](tbl-physiology-pre-post-gains.md) — related

@@ -17,7 +17,7 @@ sources:
 # Embed simulation-based training in integrated packages and consider on-site delivery in low-resource settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 review), `q3` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 review, 1 causal), `q3`–`q4` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors note that their program was stand-alone, "while simulation-based training as part of an integrated package may be more effective in improving health outcomes." Integrated packages often include equipment, maternal death reviews, health information system improvements, modified protocols, supportive supervision, mobile mentoring, and peer-assisted learning. They also suggest on-site training may be more beneficial than their off-site simulation center approach, as it reaches more staff and generates more suggestions for organizational changes.

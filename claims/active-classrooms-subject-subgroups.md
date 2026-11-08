@@ -53,3 +53,4 @@ Subject-level subgroup analyses (Table 2): math 11 studies, n = 526, SMD = 0.08 
 - [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md)
 - [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md) — related
 - [Classroom-based physical activity shows no improvement in academic achievement when measured with national standardised tests (pooled SMD = −1.13, CI crossing zero)](no-achievement-gain-standardised-tests.md) — related
+- [Elementary classrooms that are physically active support greater academic achievement compared to traditional sedentary elementary classrooms](active-elementary-classrooms-greater-academic-achievement.md) — related

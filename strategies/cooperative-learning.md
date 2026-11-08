@@ -134,6 +134,7 @@ Cooperative learning reliably improves achievement when both interdependence and
 - [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](numbered-random-task-distribution-group-work.md)
 - [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
 - [Set team task difficulty so students must solve tasks through dynamic interaction rather than simple distribution of shares](challenging-team-tasks-dynamic-interaction-strategy.md)
+- [Promote student accountability for team answers through simultaneous report and individual random call](simultaneous-report-and-random-call-accountability-strategy.md)
 
 ## Examples
 - **[Jigsaw Classroom](jigsaw-classroom.md)** (Aronson, 1978) — students in desegregated Texas classrooms each mastered one segment of material and taught it to teammates, reducing intergroup hostility while raising achievement for minority students. See https://www.jigsaw.org

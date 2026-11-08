@@ -54,3 +54,4 @@ Cross-sectional study at Kasturba Medical College, Manipal, India, streaming the
 - [Team RATs almost always reuse the i-RAT MCQs immediately afterwards, with in-session immediate feedback via IF-AT mechanisms and facilitator-led clarification](trat-same-mcqs-immediate-feedback-ifat.md) — related
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — related
 - [Remote one-to-one procedural training via HoloLens 2 was feasible, with no tutorials cancelled for technology issues](hololens-remote-procedural-training-feasible.md) — related
+- [Medical students report high satisfaction with Anatomage-based anatomy learning across multiple studies](anatomage-student-satisfaction-studies.md) — related

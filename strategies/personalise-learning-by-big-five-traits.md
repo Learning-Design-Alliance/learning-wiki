@@ -51,6 +51,7 @@ The review proposes using Big Five trait scores as a dimension for personalised 
 ## Related Strategies
 
 - [Secondary-school personality change intervention: teach traits, self-assess, nominate traits, and complete weekly trait-relevant challenges](secondary-school-personality-change-challenges.md)
+- [Use compulsory attendance and multiple partial exams as commitment structures for less conscientious or less open students](attendance-rules-and-partial-exams-commitment-strategy.md)
 
 ## Examples
 -

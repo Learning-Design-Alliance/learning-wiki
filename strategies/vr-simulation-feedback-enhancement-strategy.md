@@ -53,6 +53,7 @@ Because VR's head-mounted displays prevented tutors from observing intern perfor
 - [Administer the cognitive load self-report tool after simulation debriefing to identify excessive strain and adapt simulation teaching](cognitive-load-tool-informs-simulation-teaching-adaptation.md)
 - [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
 - [Prepare backup head-mounted displays and on-site technical knowledge for VR simulation sessions, and develop scenarios through co-creative processes with end-users](vr-simi-backup-hmd-cocreative-scenario-development-strategy.md)
+- [Enhance gesture-aided e-learning platforms with automated pose estimation, real-time feedback, and wearable sensors](ml-pose-estimation-future-e-gal.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Item-level OSATS contrasts from the same blinded rating of the realistic task; t
 - [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — related
 - [No significant between-group differences in composite score on the realistic brain tumor resection transfer task](icems-no-transfer-difference-realistic-task.md) — related
 - [Blinded expert OSATS ratings favored the VOA group on overall performance and economy of movement despite measured efficiency losses, exposing a limitation of granular metric-based assessment](osats-economy-of-movement-discrepancy.md) — related
+- [Global OSATS ratings did not differ significantly among groups, but subscores favored VOA over control on overall subscore and both feedback arms on tissue respect and economy of movement](osats-global-null-subscore-differences.md) — related

@@ -47,3 +47,4 @@ Descriptive analysis reported with Figure 6, clustering students by overall exam
 ## Related Claims
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — a broader claim this one bears on
 - [A larger share of the group-work class (47.8%) than the control class (37.5%) scored better on integration questions than on the rest of the exam](group-work-larger-share-better-integration.md) — related
+- [Higher Quizzical quiz-participation engagement is associated with higher formal exam performance after controlling for prior GPA](quizzical-participation-exam-performance.md) — related

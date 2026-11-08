@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-08
 sources:
   - id: myrnerts-höök-susanna-2025
     resource: "https://doi.org/10.1136/bmjopen-2024-094012"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Midwives report that high patient volumes and inadequate supplies directly impact neonatal resuscitation and survival rates. [→ Myrnerts Höök Susanna 2025](#myrnerts-hook-susanna-2025)
@@ -54,3 +55,5 @@ Qualitative content analysis of individual interviews and focus group discussion
 - [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related
 - [Early neonatal death rates at 24 hours and 7 days were significantly lower in 2019 than in 2017 during implementation](early-neonatal-death-reduction-2019-vs-2017.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
+- [Hands-on training (HOT) with live clinical mentorship during actual neonatal resuscitation events decreases fear and enables clinical skills transfer](hot-live-resuscitation-mentorship-skills-transfer.md) — related
+- [Heavy workload, frequent staff rotation out of the labor ward, and lack of clean working equipment are barriers to successful neonatal resuscitation in this low-resource setting](workload-rotation-equipment-barriers-resuscitation.md) — possibly the same claim (merge candidate)

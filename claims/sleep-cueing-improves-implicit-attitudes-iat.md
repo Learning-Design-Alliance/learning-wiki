@@ -52,3 +52,4 @@ Paired-sample t-test on IAT D600 scores before and after sleep cueing in the nap
 - [The number of slow oscillations during sleep is positively correlated with attractiveness ratings of faces associated with cued names but not uncued names](slow-oscillations-correlate-cued-attractiveness.md) — related
 - [Self-reported attitudes towards mental disorders did not change significantly from before to after the full curriculum in one uncontrolled pre-post study.](mali-elearning-attitudes-unchanged.md) — related
 - [The ALPHA intervention did not significantly change implicit doping attitudes as measured by BIAT D-scores](alpha-no-effect-biat-d-scores.md) — related
+- [Implicit stigma (Implicit Association Test) showed no within-group improvement in either RESHAPE or control groups](reshape-iat-no-improvement.md) — related

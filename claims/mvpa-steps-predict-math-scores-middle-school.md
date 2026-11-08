@@ -70,3 +70,4 @@ Stepwise multiple regression for girls in the same cross-sectional sample; the f
 - [BMI and aerobic fitness were eliminated from the regression models and showed no effect on mathematics scores](bmi-aerobic-fitness-no-math-effect.md) — related
 - [Sustained attention predicted mathematics scores in boys but not in girls, a sex difference the study reports as contradicting its assumption](sustained-attention-math-boys-only.md) — related
 - [Bootstrap analysis found no mediating effects of attention measures or aerobic fitness between physical activity and mathematics achievement](no-mediation-pa-attention-math.md) — related
+- [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](sex-female-advantage-not-mathematics.md) — related

@@ -87,3 +87,4 @@ Regression path from PROCESS Model 4 (Table 2). With AI anxiety and daily AI use
 - [Emotion regulation partially mediates the negative association between AI anxiety and academic motivation](emotion-regulation-partially-mediates-ai-anxiety-motivation.md) — related
 - [Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students](gender-moderates-emotion-regulation-motivation-association.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [All bivariate correlations among motivation, MOOC engagement, academic performance and both empathy types were significant and positive](bivariate-correlations-mooc-variables-significant.md) — related

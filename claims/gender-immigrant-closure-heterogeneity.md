@@ -53,3 +53,4 @@ Models with separate time trends and group interactions by gender and immigrant 
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
 - [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](losses-increase-with-closure-length.md) — related
 - [Each week of full school closure is associated with an additional 0.44-point decline in mathematics achievement](weekly-closure-0-44-point-decline.md) — related
+- [Whether longer school closures cause larger learning deficits remains an open question requiring cross-country comparison](longer-lockdowns-larger-learning-deficits-open-question.md) — related

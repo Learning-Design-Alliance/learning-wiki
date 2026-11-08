@@ -71,3 +71,4 @@ Regression analyses testing group differences on the psychological variables. UR
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
 - [Course grade in the introductory biology course strongly predicted both enrollment in the second course and biomedical major two years later](gateway-grade-predicts-biomedical-persistence.md) — related
 - [Attrition from General Chemistry-IS was higher than from General Chemistry and previous fall semesters](is-course-higher-attrition-rate.md) — related
+- [URM students underperformed relative to non-URM students on introductory biology exams at inclusive and selective 4-year institutions, but not at community colleges](urm-performance-gaps-vary-by-institution-type.md) — related

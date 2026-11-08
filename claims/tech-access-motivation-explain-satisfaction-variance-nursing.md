@@ -50,3 +50,4 @@ Multiple linear regression on cross-sectional survey data from N = 139 Saudi nur
 ## Related Claims
 - [Technology access shows a moderate positive correlation with nursing students' satisfaction with e-learning](tech-access-correlates-satisfaction-nursing.md) — related
 - [General self-efficacy and satisfaction with e-learning jointly predict perceived academic performance among nursing students in synchronous virtual learning](self-efficacy-elearning-satisfaction-predict-perceived-academic-performance-nursing.md) — related
+- [Cyber-class flow is a significant predictor of satisfaction with online classes among undergraduate nursing students, with the final model explaining 48.9% of variance](cyber-class-flow-predicts-online-satisfaction-nursing.md) — related

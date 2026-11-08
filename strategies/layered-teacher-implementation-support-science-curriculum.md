@@ -84,6 +84,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Train research assistants/teachers with lesson packages and experimental guides before practical instruction](one-week-teacher-training-practical-science.md)
 - [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 - [Run multi-cycle faculty development workshops on student assessment using active teaching–learning strategies](fd-workshop-cycles-active-strategies-strategy.md)
+- [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 
 ## Examples
 -

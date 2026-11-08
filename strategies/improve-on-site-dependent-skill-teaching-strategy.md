@@ -49,6 +49,7 @@ The article recommends preparing for future restrictions on clinical practice by
 
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
 - [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
+- [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
 
 ## Examples
 -

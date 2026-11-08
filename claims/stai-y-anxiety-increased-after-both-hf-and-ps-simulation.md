@@ -49,3 +49,4 @@ Quasi-experimental before-after study of 148 medical students; paired T-test com
 - [Salivary cortisol fold increase was significantly higher after high-fidelity simulation (1.46) than after procedural simulation (1.22)](cortisol-fold-increase-higher-hf-than-ps.md) — related
 - [Perceived mental workload (NASA-TLX) was significantly higher at baseline for high-fidelity simulation than for procedural simulation](nasa-tlx-higher-hf-than-ps-simulation.md) — related
 - [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](simulation-no-between-group-anxiety-stress-reduction.md) — related
+- [Debriefing reduces state-anxiety associated with high-fidelity clinical simulation, which peaks after the scenario](debriefing-reduces-simulation-state-anxiety.md) — related

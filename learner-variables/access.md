@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (83 show a difference, 24 mixed, 9 no difference) · 91 studies (35 associational, 16 causal, 14 review, 8 qualitative, 8 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 91 report an effect size · 111 claims rest on one study
+> **Evidence** · 118 claims (83 show a difference, 26 mixed, 9 no difference) · 93 studies (35 associational, 17 causal, 14 review, 9 qualitative, 8 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 93 report an effect size · 113 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -160,6 +160,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](../claims/mooc-technology-access-barrier.md) [+M] — learners who differ on it differ in outcomes
 - [Technology access shows a moderate positive correlation with nursing students' satisfaction with e-learning](../claims/tech-access-correlates-satisfaction-nursing.md) [+M] — learners who differ on it differ in outcomes
 - [The lowest checklist performance occurred in the hearing-impairment case, suggesting a need for remediation around auditory impairment](../claims/hearing-impairment-case-lowest-checklist-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Accessing the course via PC/laptop versus tablet/smartphone predicted the problem solving score, but not the total medical statistics score](../claims/access-device-predicts-problem-solving-not-total-score.md) [~M] — learners who differ on it differ in outcomes
+- [The Super Divya platform was largely accessible on phones, but internet connectivity and device capability were cited concerns for distribution to Nurse Mentors](../claims/super-divya-accessibility-connectivity-concerns.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

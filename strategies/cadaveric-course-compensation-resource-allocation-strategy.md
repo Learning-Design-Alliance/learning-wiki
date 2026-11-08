@@ -51,6 +51,7 @@ The article recommends reallocating ultrasound training resources based on its f
 
 - [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
 - [Integrate cadaver-based ultrasound-guided procedure simulation workshops into PA curricula as low-stress, repeatable practice before live-patient training](integrate-cadaver-us-simulation-into-pa-curricula.md)
+- [Reserve cadaveric simulation for later-stage masterclasses rather than novice training](cadaveric-masterclasses-later-stage-training.md)
 
 ## Examples
 -

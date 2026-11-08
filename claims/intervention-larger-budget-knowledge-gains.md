@@ -45,4 +45,4 @@ Quasi-experimental comparison of 49 self-selected experimental students against 
 
 
 ## Related Claims
--
+- [Students struggled to complete synchronous e-learning activities: only 53% completed the pretest and 45% the posttest](low-synchronous-completion-kmtc-research-course.md) — related

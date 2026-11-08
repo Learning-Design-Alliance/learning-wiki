@@ -49,3 +49,4 @@ Implementation data from the 12-month crossover study, in which training was del
 - [The PCP debriefing tool was rated as providing emotional support by more participants than DISCERN (65.2% vs 50%) in pediatric acute care settings](pcp-greater-emotional-support-than-discern.md) — related
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — a broader claim this one bears on
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
+- [In situ fall simulation can be run within a typical nursing home shift, averaging 16.3 minutes including debrief](in-situ-fall-simulation-feasible-within-shift.md) — related

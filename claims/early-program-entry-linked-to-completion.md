@@ -52,3 +52,4 @@ The guide cites emerging recognition of this association to justify its intermed
 - [Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students](low-community-college-completion-rates-declining.md) — related
 - [Only 62 percent of ninth-grade IB DP entrants enrolled in the program in eleventh grade, and there were no effects of IB DP participation for the 38 percent who did not complete the program](ib-dp-no-effects-for-non-completers.md) — related
 - [CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential](cps-graduates-6000-college-paths.md) — related
+- [Metacognition+TM participants showed greater increases in degree commitment than Metacognition-only participants](metacognition-tm-degree-commitment-gains.md) — related

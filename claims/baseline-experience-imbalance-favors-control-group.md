@@ -47,3 +47,4 @@ Baseline comparison of prior surgical experience collected by questionnaire in t
 ## Related Claims
 - [Baseline characteristics and prior laparoscopic experience did not differ significantly between the structured VRST and control groups](no-baseline-differences-vrst-groups.md) — reports the opposite
 - [In a randomized controlled trial, novice surgeons who received a 15-minute guided mental imagery session before VRST scored significantly better on the OSATS subscales Respect for Tissue and Use of the Assistant in a porcine cholecystectomy box-trainer exercise](mental-imagery-improves-osats-tissue-respect-and-assistant-use.md) — related
+- [Prior reviews of mental imagery in surgical education report mixed findings, with study quality and heterogeneity limiting conclusions](surgical-mental-imagery-reviews-mixed-heterogeneous.md) — related

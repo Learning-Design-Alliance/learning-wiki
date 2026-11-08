@@ -46,3 +46,4 @@ Pearson correlation analysis (Table 4) in the same 125-student correlational stu
 
 ## Related Claims
 - [Higher professional competence is associated with lower medical error tendency among final-year nursing students (r = .713 on reversed scoring)](competence-correlates-lower-error-tendency-nursing-students.md) — related
+- [Improved PBM knowledge is associated with reduced blood transfusions, per prior literature cited in the article](improved-pbm-knowledge-reduces-transfusions.md) — related

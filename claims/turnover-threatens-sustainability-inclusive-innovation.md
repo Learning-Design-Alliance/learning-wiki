@@ -57,3 +57,4 @@ Interview study of district-community team members reflecting on the semester af
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
 - [Supervision is critical for applying obstetric emergency knowledge, with increased complications during periods of reduced oversight](supervision-critical-reduced-oversight-complications.md) — related
+- [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related

@@ -53,3 +53,4 @@ Qualitative arm: 4 focus groups conducted January–August 2022, including 2 tra
 - [Focus groups identified three themes about the SLPTS: high level of organization, creation of a comfortable learning environment, and effective peer teaching](slpts-focus-group-three-themes.md) — related
 - [Students attribute increased confidence to making mistakes and receiving immediate feedback in the simulation lab](mistakes-feedback-build-confidence-sle.md) — related
 - [Decision-making hierarchies limit trainees' implementation of procedures their attending physicians are unfamiliar with](decision-hierarchies-procedure-implementation.md) — related
+- [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related

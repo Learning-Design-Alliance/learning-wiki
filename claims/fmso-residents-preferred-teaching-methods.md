@@ -49,3 +49,4 @@ Residents' opinions, not a tested comparison: this is the article's own summary 
 - [Fewer than 40% of Chinese GP residency programs employ interactive learning methods such as role-playing, multidisciplinary team participation, or situational teaching for PMSC training.](interactive-pmsc-methods-fewer-than-40-percent.md) — related
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related
 - [Residency year is the only independent predictor of residents' contribution to teaching at FMSo](residency-year-predictor-teaching-contribution.md) — related
+- [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related

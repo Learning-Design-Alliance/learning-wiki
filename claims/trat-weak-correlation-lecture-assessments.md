@@ -51,3 +51,4 @@ Spearman correlation analysis of the same 69-student cohort's TRAT scores agains
 - [Neither IRAT nor TRAT distinguishes itself in correlation with module high scores, with isolated significant correlations on difficult topics](rat-module-high-scores-no-distinction.md) — related
 - [Topic-level assistant question volume correlates significantly with student self-reported topic difficulty (Spearman ρ = 0.491, p = 0.008, 28 matched topics)](question-volume-correlates-self-reported-difficulty.md) — related
 - [Preclass preparation, measured as average iRAT performance, was the only significant predictor of exam performance in each course unit.](irat-preparation-predicts-exam-performance.md) — related
+- [Individual scores correlated significantly with team scores across tests in both gamified cohorts, with correlations becoming stronger as the tests progress.](team-scores-correlate-individual-scores.md) — related

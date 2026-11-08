@@ -44,6 +44,7 @@ Within the STALS practice component, the course adopts Peyton's 4-step teaching 
 - [Integrate theory with clinical practice through coordinated planning and structured procedural teaching methods such as Peyton's four-step approach](theory-clinical-integration-peyton-four-step.md)
 - [Integrate Peyton's structured four-step approach into CPR training programs, particularly for critical procedural skills, and consider combining it with Kolb's experiential cycle](integrate-peyton-structured-approach-in-cpr-training.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
+- [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 
 ## Examples
 -

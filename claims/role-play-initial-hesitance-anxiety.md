@@ -53,3 +53,4 @@ Theme 2, sub-theme 2 finding from the qualitative interviews; a participant repo
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — a broader claim this one bears on
 - [Male nursing students experience initial anxiety with maternal-newborn mannequins that decreases through instructor support and repeated practice](hfs-initial-anxiety-eased-by-instructors-and-repetition.md) — related
 - [Simulation training initially triggered fear and anxiety in caregivers of children with special health needs, after which they felt relieved and self-confident (study A2)](caregiver-fear-to-confidence-simulation-a2.md) — related
+- [Moderate stress and anxiety can facilitate health professional students' learning in simulation, improving preparedness and performance](moderate-stress-anxiety-facilitates-simulation-learning.md) — related

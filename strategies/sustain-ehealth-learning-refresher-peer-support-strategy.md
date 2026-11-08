@@ -48,6 +48,7 @@ In the Limitations section, the authors recommend strategies to sustain long-ter
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Deliver smartphone-based, scenario-based PFA review modules and peer case-sharing via WeChat to sustain skills after initial training](wechat-microlearning-pfa-booster-strategy.md)
+- [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 
 ## Examples
 -

@@ -65,3 +65,4 @@ The review attributes this to a pilot randomized study by Gutierrez et al. (2023
 - [VR training imposed cognitive load on medical students through divided attention, physical effects, and a need for clearer guidance and familiarization](vr-training-cognitive-load-divided-attention.md) — related
 - [Students who participated in at least three simulation modules improved OSCE scores 15–20% above baseline at Fujian Medical University](simulation-modules-osce-score-improvement.md) — related
 - [Students found the preparatory online learning module useful background for the euthanasia simulation](online-module-useful-background-euthanasia.md) — a narrower finding that bears on this claim
+- [Higher cognitive load during simulation is associated with a reduced odds of subsequently identifying a trained clinical sign](cognitive-load-negatively-associated-diagnostic-performance.md) — related

@@ -56,3 +56,4 @@ In Anand et al.'s 3-hour neuroanatomy session study, the Anatomage group reporte
 - [A statistically significant majority of postgraduate dental students reported improved clinical confidence (67%) and satisfaction with the VDT lecture (96%)](vdt-clinical-confidence-lecture-satisfaction.md) — related
 - [In open-ended feedback, 83% of postgraduate dental students stated they had no further suggestions and were satisfied with the VDT sessions](vdt-open-ended-feedback-no-suggestions.md) — related
 - [Postgraduates showed lower acceptance of the new periodic assessment method than advanced students, though the group difference was not statistically significant](postgraduates-lower-acceptance-periodic-assessment.md) — related
+- [Medical students report high satisfaction with Anatomage-based anatomy learning across multiple studies](anatomage-student-satisfaction-studies.md) — related

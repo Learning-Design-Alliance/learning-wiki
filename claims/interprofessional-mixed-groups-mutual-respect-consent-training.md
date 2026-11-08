@@ -83,3 +83,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Anaesthesia personnel experience interprofessional in situ SBTT as a contributor to enhancing anaesthesia practice and transfer of learning](in-situ-sbtt-contributor-enhance-anaesthesia-practice.md) — related
 - [Free-text responses showed appreciation for training that was timely, hands-on, and interprofessional, alongside logistical and organizational limitations](qualitative-themes-jit-simulation-value-and-limitations.md) — related
 - [Interdisciplinary communication between medical departments is perceived as essential, particularly in the ICU where multiple specialties cooperate](interdisciplinary-communication-icu-priority.md) — related
+- [Participants believe leadership training for trauma resuscitation should be multidisciplinary and interprofessional, involving emergency physicians, trauma surgeons, and nurses](interprofessional-trauma-leadership-training.md) — related

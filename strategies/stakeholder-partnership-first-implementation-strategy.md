@@ -55,6 +55,7 @@ The article's concrete recommendation for researchers and practitioners beginnin
 - [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](ubd-teacher-design-groups-strategy.md)
 - [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
 - [Involve attending physicians in simulation-based training and conduct frequent needs analyses to fit training to local context](involve-attendings-sbt-needs-analyses.md)
+- [Integrate staff training into the organisation's own schedule and LMS, simplify the program, and assess home readiness before implementation](integrate-training-organisation-lms-readiness-assessment.md)
 
 ## Examples
 -

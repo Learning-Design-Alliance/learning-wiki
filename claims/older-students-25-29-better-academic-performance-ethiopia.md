@@ -51,3 +51,4 @@ In the multivariable logistic regression of the 615-student cross-sectional stud
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
 - [Non-smoking university students in Southern Ethiopia had about three times higher odds of good academic performance than smokers](non-smokers-threefold-odds-good-academic-performance-ethiopia.md) — related
 - [Two-thirds of surveyed university students in Southern Ethiopia achieved good academic performance](two-thirds-good-academic-performance-southern-ethiopia.md) — related
+- [Age 25 years or older is the only significant demographic predictor of simulator score, with older students scoring lower](age-25-plus-lower-simulator-scores.md) — reports the opposite

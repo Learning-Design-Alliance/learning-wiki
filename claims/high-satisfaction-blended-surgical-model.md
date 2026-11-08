@@ -52,3 +52,4 @@ Post-course Likert questionnaire of the 60 experimental-group students only (Cro
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
 - [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related
 - [Experimental-group students were more satisfied with teaching scene, individual participation, and teaching content, but not with course discussion, group cooperation, or teacher style](ai-scenario-simulation-selective-satisfaction-gains.md) — related
+- [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related

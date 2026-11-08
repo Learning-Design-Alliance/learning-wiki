@@ -76,3 +76,4 @@ Authors' interpretation of two included studies' performance curves: surgeons' s
 - [Repeated, feedback-guided rehearsal of one validation response improved its clarity and fluency and reduced its experienced difficulty across four attempts in one session](repeated-rehearsal-improves-validation-fluency.md) — related
 - [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — related
 - [VR training improves surgical performance and reduces the learning curve for complex procedures](vr-training-improves-surgical-performance.md) — related
+- [Learning curves improve under both basic and procedural VR training, with the greatest improvements seen in the procedural tasks](learning-curve-gains-both-modalities-procedural-greatest.md) — a narrower finding that bears on this claim

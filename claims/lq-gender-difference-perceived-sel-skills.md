@@ -47,3 +47,4 @@ Repeated measures GLM controlling for gender, years of work experience and job t
 ## Related Claims
 - [Teachers rated the importance of promoting students’ SEL significantly higher after the Lions Quest workshop, while the comparison group did not change](lq-workshop-increased-perceived-importance-of-sel.md) — related
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
+- [ECG quiz scores and final ECG examination scores do not differ between female and male medical students](no-gender-difference-ecg-quiz-final-scores.md) — related

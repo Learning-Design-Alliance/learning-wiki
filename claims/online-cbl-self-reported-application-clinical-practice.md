@@ -48,3 +48,4 @@ Kirkpatrick behavior-level item asking whether residents would use the module in
 - [Residents on a pediatric endocrinology elective report high satisfaction with self-directed online CBL modules](online-cbl-high-resident-satisfaction-pediatric-endocrinology.md) — related
 - [Residents perceive online CBL modules will improve their effectiveness as pediatricians](online-cbl-perceived-impact-pediatric-effectiveness.md) — related
 - [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related
+- [More than 80% of participants indicated they will apply simulation learning when caring for a resident who falls](participants-intend-apply-fall-simulation-learning.md) — related

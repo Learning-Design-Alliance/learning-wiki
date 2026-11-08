@@ -59,3 +59,4 @@ Usability assessment in the multisite trial used the 10-item SUS with the 21 stu
 - [Nursing students rate the VR oral health learning system as a good experience, and satisfaction does not differ by prior VR game experience](vr-system-satisfaction-sus.md) — related
 - [The VR trauma simulation is well accepted by medical students, with good usability, moderate immersion, balanced workload, and high satisfaction and technology acceptance.](vr-trauma-simulation-well-accepted.md) — related
 - [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related
+- [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related

@@ -48,3 +48,4 @@ Quasi-experiment with two MPH cohorts at one university (experimental n=22, cont
 - [FC+CBL students scored lower on the final exam than traditional-method students in Introduction to Environmental Health Science](fc-cbl-lower-final-exam-score-mph.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
 - [PUC-FC students outperformed FC and LBL students on case analysis questions and total theoretical scores, with no difference on basic knowledge questions](puc-fc-case-analysis-advantage.md) — related
+- [FC+CBL advantage over LBC in pathology lies in clinical case-analysis questions, not basic theoretical knowledge](fc-cbl-advantage-case-analysis-not-basic-knowledge.md) — related

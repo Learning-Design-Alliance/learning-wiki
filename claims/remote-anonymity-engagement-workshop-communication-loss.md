@@ -67,3 +67,4 @@ Same focus group study, workshop subtheme: students reported the "absence of non
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related
 - [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
+- [Student participation in polls and question-asking stayed similar to face-to-face levels, but problem-set submission and voting behaviour shifted under remote formats](participation-patterns-remote-lecture-formats.md) — related

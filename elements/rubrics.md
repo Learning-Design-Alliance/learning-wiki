@@ -91,6 +91,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Agree on clear assessment criteria with students before using self-assessment](../strategies/self-assessment-clear-criteria-agreement.md)
 - [Calibration and implementation pathways for analytic rubrics in clinical dental courses](../strategies/rubric-calibration-implementation-pathways-dental-clinics.md)
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](../strategies/reliability-improvement-strategies-sbl-rubrics.md)
+- [Use an online self-assessment rubric to evaluate MOOC learning](../strategies/online-rubric-self-assessment-mooc.md)
 
 ## Related Elements
 - [Rubric Design](rubric-design.md)

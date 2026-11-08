@@ -55,3 +55,4 @@ Negative binomial regression of Millennium Cohort Study data, stratified by sex,
 - [Higher TV and digital media time in young children is associated with lower achievement levels in grade 3 reading and math and grade 6 math](total-screen-time-lower-reading-math-achievement.md) — related
 - [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — a broader claim this one bears on
+- [Daily digital game playing is associated with lower reading competence in girls, while TV time was not a significant predictor](digital-games-lower-reading-competence-girls.md) — related

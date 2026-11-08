@@ -59,6 +59,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Professional development on WCF should be practical, context-sensitive training rather than theoretical lectures](context-sensitive-wcf-teacher-development.md)
 - [Integrate mindfulness training into professional development programs for PE teachers](mindfulness-training-in-teacher-pd.md)
 - [Involve attending physicians in simulation-based training and conduct frequent needs analyses to fit training to local context](involve-attendings-sbt-needs-analyses.md)
+- [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 
 ## Examples
 -

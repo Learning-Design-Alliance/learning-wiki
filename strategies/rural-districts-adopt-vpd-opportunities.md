@@ -46,6 +46,7 @@ Because the instructional supports in this study were delivered online, the auth
 
 - [State education agencies can support rural turnaround staffing and professional development through recruitment supports, shared PD, and technology assistance](sea-supports-for-rural-recruitment-and-professional-development.md)
 - [Replace labor-intensive in-person coaching with a virtual professional learning community to scale professional development](vplc-replaces-in-person-coaching-for-scale.md)
+- [Deliver patient communication training virtually and build an institution-independent virtual training network](virtual-training-network-patient-communication-medphys.md)
 
 ## Examples
 -

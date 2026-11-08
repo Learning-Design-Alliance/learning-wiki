@@ -73,3 +73,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [The Children's University intervention was feasible to run with school-leader support, but seven schools withdrew citing performance-target pressures and limited time](cu-implementation-feasibility-and-withdrawals.md) — related
 - [Community partnerships steadily withdrew from the school after the intervention project lost support](partnership-withdrawal-after-project.md) — related
 - [Voluntary facilitator recruitment raised concerns about sustainability, fairness, and encroachment on research and promotion time](voluntary-cbl-recruitment-sustainability-concerns.md) — related
+- [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related

@@ -64,3 +64,4 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 - [HBB training revealed existing malpractices and improved newborn care practices, including continuous resuscitation until death is certain](hbb-training-revealed-malpractices-improved-care.md) — related
 - [Early neonatal death rates at 24 hours and 7 days were significantly lower in 2019 than in 2017 during implementation](early-neonatal-death-reduction-2019-vs-2017.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
+- [Multidisciplinary obstetric simulation team training with human factors components is associated with reduced maternal mortality and obstetric adverse outcomes](obstetric-simulation-team-training-outcomes-review.md) — related

@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 591 claims (314 show a difference, 129 mixed, 148 no difference) · 424 studies (205 associational, 160 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 62 of 424 report an effect size · 583 claims rest on one study
+> **Evidence** · 602 claims (322 show a difference, 131 mixed, 149 no difference) · 428 studies (209 associational, 160 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 62 of 428 report an effect size · 594 claims rest on one study
 
 ## How to read this page
 
@@ -630,6 +630,17 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex-stratified results show subject-specific patterns: physical education predicts HRQoL in girls but not boys, while sciences and numeric ability predict HRQoL in boys but not girls](../claims/sex-stratified-subject-specific-hrqol-prediction.md) [~M] — an instructional effect differs by group
 - [Female residents showed a better post-course performance, a secondary outcome reported cautiously due to reduced subgroup power](../claims/female-residents-better-post-course-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male and female students' MRT scores did not differ significantly in this cohort](../claims/no-sex-difference-mrt-scores.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A female instructor and a higher percentage of females in attendance predict smaller performance gender gaps, together explaining about 57% of the variation](../claims/female-instructor-attendance-predict-performance-gap.md) [+M] — an instructional effect differs by group
+- [A greater percentage of female students in attendance predicts greater female verbal participation relative to males](../claims/female-attendance-predicts-participation-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A higher overall call rate (proportion of raised hands called on) predicts greater female verbal participation](../claims/call-rate-predicts-female-participation.md) [+M] — an instructional effect differs by group
+- [Female students benefit from having a female instructor while male students are unaffected, explaining the closing of the performance gap](../claims/female-students-benefit-from-female-instructor.md) [+M] — an instructional effect differs by group
+- [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](../claims/sex-female-advantage-not-mathematics.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female under-participation persists when only each student's first participation event is counted, so talkers do not explain the gap](../claims/participation-gap-not-explained-by-talkers.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls show significantly higher academic competence than boys across most measures in the sample](../claims/girls-higher-academic-competence-than-boys.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students verbally participate more than female students in life sciences courses, with 32% of males versus 22% of females participating at least once per class](../claims/males-participate-more-than-females-life-sciences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](../claims/male-instructed-classes-performance-gap.md) [+M] — an instructional effect differs by group
+- [No binary gender performance gaps were observed in introductory biology across community college, inclusive, and selective institution contexts](../claims/no-gender-gaps-across-institution-types.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Participation gender gaps vary substantially from class to class, with females less likely to participate in 11 classes and more likely in one](../claims/participation-gaps-vary-by-classroom.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

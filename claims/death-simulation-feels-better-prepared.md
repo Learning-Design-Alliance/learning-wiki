@@ -50,3 +50,4 @@ Focus group finding from the value-of-the-experience theme, reported in the Resu
 - [Users of Visual Clot report high acceptance: feeling better prepared, easy to learn, and willingness to use it clinically](visual-clot-high-user-acceptance-ratings.md) — related
 - [Grief training in medical education is most often delivered as short voluntary workshops focused on transmitting knowledge about death, dying and bereavement](grief-training-short-voluntary-knowledge-focused-workshops.md) — related
 - [The unexpected character of the confrontation with death was considered the key to the simulation's success](unexpected-death-confrontation-key-to-success.md) — related
+- [Emotionally challenging simulated scenarios such as patient death can produce higher practical competence than scenarios without those stressors](emotional-stressors-higher-practical-competence.md) — related

@@ -45,6 +45,7 @@ The brief recommends that early childhood programs support teachers acting on as
 - [Train teachers to analyze student work as ongoing assessment using research-based learning progressions](analyze-student-work-ongoing-assessment-progressions.md)
 - [Districts adopting intensive data-based instruction should secure teacher support and flexibility to resolve assessment-curriculum misalignment](support-and-flexibility-when-assessments-misalign.md)
 - [Train instructors intensively before implementing assessment for learning in a new setting](intensive-instructor-training-for-afl-implementation.md)
+- [Progressive, refreshed PAL teacher training with tailored ongoing support](progressive-refreshed-pal-teacher-training-strategy.md)
 
 ## Examples
 -

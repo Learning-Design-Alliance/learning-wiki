@@ -47,3 +47,4 @@ Chi-square comparison of Year-6 OSCE outcomes (70% threshold with a 20-item chec
 ## Related Claims
 - [The 4-station 56-minute modified 2020 OSCE produced higher mean marks and more first-class honours than the 2019 and 2021 OSCEs](covid-2020-56-minute-osce-higher-marks.md) — related
 - [Dental students' knowledge test scores rose significantly from pre-test to post-test after a role-play simulation-based medical emergency module, in one uncontrolled pre-post study](roleplay-emergency-module-improves-knowledge-scores.md) — related
+- [Simulation-based assessment revealed a 40% pass rate for interns managing failed obstetric intubation despite prior emergency training](simulation-assessment-failed-intubation-pass-rate.md) — related

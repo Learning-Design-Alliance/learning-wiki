@@ -51,3 +51,4 @@ Independent samples t test on gender for three scores in the cross-sectional sur
 - [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related
 - [Male and female experimental groups were equivalent on all writing aspects before the WhatsApp treatment](gender-groups-equivalent-pretest-writing.md) — related
 - [Gender differences in OSPE competence are parameter-specific: significant for infection control and operator position, not for tray organization](gender-parameter-specific-ospe-competence.md) — related
+- [ECG quiz scores and final ECG examination scores do not differ between female and male medical students](no-gender-difference-ecg-quiz-final-scores.md) — related

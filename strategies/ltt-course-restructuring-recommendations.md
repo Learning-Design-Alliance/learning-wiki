@@ -53,7 +53,8 @@ The article's Table 5 sets out phase-by-phase recommendations (preparing, briefi
 - [Group reflection and debriefing after VR simulation is perceived by students as the aspect providing the most learning benefits](../claims/group-reflection-debriefing-most-learning-benefit-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Reserve cadaveric simulation for later-stage masterclasses rather than novice training](cadaveric-masterclasses-later-stage-training.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Concordance analysis of self-assessed confidence versus assessor scores in the r
 - [Adding immersive VR training to an online module yields higher mannequin-based technical skill scores (OSATS) than the online module alone in novice medical students](vr-plus-online-higher-osats-chest-tube.md) — related
 - [IVR headset training produces better (lower) overall set-up scores than e-learning for robot-naive learners in operating room configuration of the CMR Versius](ivr-beats-e-learning-robot-setup-overall-score.md) — related
 - [Time to complete the operating room set-up tasks did not differ between IVR and e-learning groups](no-time-difference-ivr-e-learning-setup.md) — related
+- [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related

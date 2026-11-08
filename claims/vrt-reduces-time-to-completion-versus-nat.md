@@ -51,3 +51,4 @@ Meta-analysis of eight RCTs comparing VR training with no additional training on
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
 - [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — related
+- [Virtual-reality training in laparoscopic surgery produced significantly better performance than no training, per a cited meta-analysis](vr-training-better-performance-than-no-training.md) — a broader claim this one bears on

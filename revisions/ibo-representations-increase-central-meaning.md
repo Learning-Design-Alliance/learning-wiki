@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ibo-representations-increase-central-meaning.md
+---
+
+# Revision history: [claims/ibo-representations-increase-central-meaning](../claims/ibo-representations-increase-central-meaning.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-8693943 (Assessing High Performers in the Life Sciences: Characteristics of Exams Used at the International Biology Olympiad (IBO) and Their Implications for Life Science Education.) via eval_harness.py + ingest_extractions.py

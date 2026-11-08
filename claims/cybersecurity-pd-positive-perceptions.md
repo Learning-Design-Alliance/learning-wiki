@@ -51,3 +51,4 @@ Descriptive analysis of post-PD Likert survey responses from the 50 participants
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
+- [Participants rated the training positively on organization, content, material, assessment, and overall competency after each session, with slight declines in most domains except materials.](hbb-training-satisfaction-positive-all-domains.md) — related

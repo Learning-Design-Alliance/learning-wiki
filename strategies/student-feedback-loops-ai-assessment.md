@@ -44,6 +44,7 @@ Tip 8 recommends building feedback loops into AI-based assessment: AI models can
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Combine AI-based feedback on early drafts with human feedback on later drafts, and teach students to evaluate AI feedback critically](combine-ai-early-draft-human-later-draft-feedback.md)
 - [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
+- [Deliver formative feedback on quantifiable, AI-derived performance metrics with actionable goals during surgical simulation practice](metric-based-formative-feedback-strategy.md)
 
 ## Examples
 -

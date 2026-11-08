@@ -75,6 +75,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Deliver ultrasound-guided aspiration training as a 15-minute orientation video followed by a 20-minute one-on-one workshop and a 5-minute independent skills test](video-workshop-skills-test-sequence-strategy.md)
 - [Supervise cadaver-based colonoscopy training with skilled endoscopist feedback and debriefing, since the model lacks objective performance metrics](cadaver-colonoscopy-supervised-debriefing-strategy.md)
 - [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
+- [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 
 ## Examples
 -

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 424 claims (198 for, 198 mixed, 28 against) · 318 studies (102 associational, 75 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 318 report an effect size · 417 claims rest on one study
+> **Evidence** · 427 claims (200 for, 199 mixed, 28 against) · 320 studies (102 associational, 76 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 27 of 320 report an effect size · 420 claims rest on one study
 
 ## Conditional relationship
 
@@ -268,6 +268,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [School VA mathematics scores show only moderate stability over two years in primary school (r = .34)](../claims/va-math-school-scores-moderate-two-year-stability.md) [+W] — attached 2026-11-07 from Emslander et al. (2022), which proposed "Restrict school VA scores to informative purposes rather than high-stakes decisions when stability is limited"; tests this page's relationship.
 - [School VA language scores show only moderate stability over two years (r = .37)](../claims/va-language-school-scores-moderate-two-year-stability.md) [+W] — attached 2026-11-07 from Emslander et al. (2022), which proposed "Restrict school VA scores to informative purposes rather than high-stakes decisions when stability is limited"; tests this page's relationship.
 - [Only about one third of primary schools kept a stable VA rank quartile over two years](../claims/only-one-third-schools-stable-va-quartile.md) [+W] — attached 2026-11-07 from Emslander et al. (2022), which proposed "Restrict school VA scores to informative purposes rather than high-stakes decisions when stability is limited"; tests this page's relationship.
+- [Less experienced OSCE raters judge more stringently and adhere rigidly to instructions, while experienced raters deviate and rely on gestalt](../claims/rater-experience-stringency-and-deviation.md) [+W] — attached 2026-11-08 from Hyde Sarah et al. (2022), which proposed "Do not prioritise objectivity above context by insisting examiners disregard their own experience and stick rigidly to a rating schema".
+- [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](../claims/ai-almost-perfect-agreement-peg-transfer-assessment.md) [+W] — attached 2026-11-08 from Belmar Francisca et al. (2022), which proposed "Expand AI automated assessment to additional basic laparoscopic exercises as a preliminary framework"; tests this page's relationship.
+- [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](../claims/ai-moderate-agreement-bean-drop-assessment.md) [~W] — attached 2026-11-08 from Belmar Francisca et al. (2022), which proposed "Expand AI automated assessment to additional basic laparoscopic exercises as a preliminary framework"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -523,6 +526,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](../strategies/external-instruments-measure-learning-strategies.md)
 - [Researcher-made 50-mark English achievement test](../products/researcher-made-50-mark-english-achievement-test.md)
 - [Use element-weighted rubrics and social moderation to standardise interpretation of marking criteria](../strategies/rubric-elemental-weighting-social-moderation.md)
+- [Increase the frequency of direct observation of trainees by different raters to mitigate rater idiosyncrasy and support assessment for learning](../strategies/increase-direct-observation-frequency-mitigate-idiosyncrasy.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

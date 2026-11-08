@@ -54,3 +54,4 @@ The review reports that among nine simulated/educational studies, "In five of th
 - [Several studies found no relationship between emotions and performance in simulated contexts](no-emotion-performance-relationship-some-simulated-studies.md) — related
 - [Impaired performance under simulation stress is concentrated among healthcare students and junior residents, with rising perceived anxiety, cognitive load and stress linked to poorer performance](stress-impairment-junior-learners-anxiety.md) — related
 - [Learner anxiety affects self-assessment but not expert evaluation of technical skill](anxiety-affects-sa-not-ee.md) — a narrower finding that bears on this claim
+- [Stress and anxiety are the predominant emotions reported in simulation-based education research and affect academic outcomes mainly in an obstructive way](stress-anxiety-predominant-sbe-review.md) — a broader claim this one bears on

@@ -44,6 +44,7 @@ The article recommends that future work manage and combine new information sourc
 
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
+- [Enhance gesture-aided e-learning platforms with automated pose estimation, real-time feedback, and wearable sensors](ml-pose-estimation-future-e-gal.md)
 
 ## Examples
 -

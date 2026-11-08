@@ -54,3 +54,4 @@ Descriptive comparison of self-reported grades among 1,658 boys and 1,730 girls 
 - [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — reports the opposite
 - [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — reports the opposite
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — related
+- [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — related

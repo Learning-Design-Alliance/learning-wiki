@@ -102,3 +102,6 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Viewing 360° scenarios through a head-mounted display generated high presence that elicited emotional awareness and engagement perceived as supporting learning](vr-hmd-presence-elicits-emotional-awareness-learning.md) — reports the opposite
 - [Students report significantly higher enjoyment of VR simulation than desktop simulation, but subjective engagement does not differ significantly](vr-enjoyment-significant-engagement-not-significant.md) — related
 - [With curved instruments, 3D visualization benefits PEG Transfer performance only at early test times, with no difference in errors](3d-peg-transfer-early-advantage-curved.md) — a narrower finding that bears on this claim
+- [The 3D feature is rated as moderately interesting relative to 2D video, with no difference between novice and experienced groups](3d-feature-moderate-added-interest.md) — related
+- [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
+- [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — related

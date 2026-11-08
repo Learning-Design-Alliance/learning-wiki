@@ -45,6 +45,7 @@ Based on the pilot's limitations, the authors advise that "For future assessment
 
 - [Gather extrapolation and implication evidence, and formally measure content validity, in subsequent SJT evaluations](sjt-next-phase-extrapolation-implication-evidence-strategy.md)
 - [Pilot AI-generated items as unscored exam items, review their psychometrics, and bank those meeting quality standards](pilot-and-bank-ai-generated-items.md)
+- [Use a locally designed SJT alongside cognitive tests to widen participation in medical selection](sjt-widening-participation-selection-strategy.md)
 
 ## Examples
 -

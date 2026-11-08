@@ -66,3 +66,4 @@ Post-interaction usability assessment in the validation experiment: 26 adults we
 - [The Endonix simulator achieves a median SUS score of 75, indicating good usability across experience levels](endonix-sus-good-usability.md) — related
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related
 - [The scale is quickly completed, averaging 4 min, which the authors report as good acceptability](gp-depression-scale-acceptability-4-min-completion.md) — related
+- [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related

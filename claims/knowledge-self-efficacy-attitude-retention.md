@@ -74,3 +74,5 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
 - [Self-efficacy gains from TMTD and lecture training persisted one month after the sessions ended, aided by follow-up](self-efficacy-gains-persist-one-month-ms.md) — related
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
+- [PBL in-service breastfeeding training improved health professionals' knowledge, attitudes and practices, with retention at 4–6 months](pbl-breastfeeding-kap-improvement-retention.md) — related
+- [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related

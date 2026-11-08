@@ -48,3 +48,4 @@ Pre/post OSCE assessment of 107 health care workers trained with NeoNatalie simu
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — related
+- [HBB knowledge and OSCE A pass rates rose significantly from pre-test to post-test after trainings one and two only, with no significant change after the third session, in one uncontrolled pre-post study](hbb-knowledge-osce-a-improved-first-two-trainings.md) — related

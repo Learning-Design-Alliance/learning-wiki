@@ -49,3 +49,4 @@ Content validation of the postvention scenario by 10 expert judges (five postven
 - [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
 - [Culturally adapted virtual patients achieve acceptable content validity for assessing history-taking and communication skills](vp-acceptable-content-validity.md) — related
+- [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related

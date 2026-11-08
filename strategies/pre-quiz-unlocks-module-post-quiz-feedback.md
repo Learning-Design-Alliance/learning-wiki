@@ -49,6 +49,7 @@ Before class, students complete a short ungraded quiz that gates access to the w
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
+- [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 
 ## Examples
 -

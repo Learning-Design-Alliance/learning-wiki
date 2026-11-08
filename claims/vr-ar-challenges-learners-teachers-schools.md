@@ -82,3 +82,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Participants raised financial cost of VR headsets as a barrier to sustainable adoption, though not deterring acceptance](vr-financial-burden-sustainability-concern.md) — related
 - [Virtual tasks that deviated from real-world procedures increased task burden, causing fixation on technical actions that impeded the simulation's core learning objectives](vr-task-burden-from-deviant-procedures.md) — related
 - [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related
+- [Perceived barriers to implementing ophthalmic simulation in SSA include cost, inadequate supervision, lack of equipment or facilities, resistance to change and sustainability concerns](sbse-implementation-barriers-ssa.md) — related

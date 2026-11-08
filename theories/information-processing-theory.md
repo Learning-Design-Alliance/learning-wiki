@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 134 claims (74 for, 58 mixed, 2 against) · 88 studies (40 causal, 26 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 22 of 88 report an effect size · 131 claims rest on one study
+> **Evidence** · 135 claims (75 for, 58 mixed, 2 against) · 89 studies (41 causal, 26 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 23 of 89 report an effect size · 132 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -197,6 +197,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Highly activated negative emotions will influence WM during gaming](../claims/highly-activated-negative-emotions-influence-wm.md) [+W]
 - [Senior high school students taught the same new words in semantically-unrelated sets score significantly higher than students taught the words in semantically-related sets on a delayed L2-L1 translation test two weeks later](../claims/su-sets-beat-sr-sets-delayed-vocabulary-test.md) [+W] — attached 2026-11-03 from Wang (2015), which proposed "Interference theory: words learned at the same time that are too similar interfere with each other and impair retention".
 - [Practice tests with closed-ended inference questions in either multiple-choice or true—false format improve essay-based comprehension over rereading (Experiment 1)](../claims/closed-ended-inference-practice-tests-improve-essay-comprehension.md) [+M] — attached 2026-11-05 from Hildenbrand Lena; Wiley Jennifer (2025), which proposed "Three-level text representation framework (surface, text-base, situation model) framing comprehension measurement".
+- [Experiment 1 shows base-centric matrix study improves recall over affix-centric study with a medium effect that emerges mainly on the second memory test](../claims/base-centric-beats-affix-centric-recall-exp1.md) [+W] — attached 2026-11-08 from Ng Melvin M. R. et al. (2022), which proposed "Organized, generative encoding account of why morphological matrices improve memory"; tests this page's relationship.
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

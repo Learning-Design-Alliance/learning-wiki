@@ -54,3 +54,4 @@ Longitudinal comparison of first versus last responses among 21 students who sub
 - [Mean clinical skill anxiety scores declined progressively with year of study](csa-declines-with-year-of-study.md) — reports the opposite
 - [Post-course state anxiety did not differ between cohorts](post-course-stai-s-similar-across-cohorts.md) — related
 - [State anxiety before simulation did not correlate significantly with self-reported simulation effectiveness in fifth-year medical students](no-significant-correlation-stai-simulation-effectiveness.md) — related
+- [Students' first exposure to simulation elicits higher post-scenario state-anxiety than their second exposure](first-simulation-exposure-higher-state-anxiety.md) — reports the opposite

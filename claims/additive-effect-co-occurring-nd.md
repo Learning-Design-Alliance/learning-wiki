@@ -50,3 +50,4 @@ Additional analyses on the 9018-student sample examining the number of neurodeve
 - [ADHD and specific learning disorder independently predict lower marks in all academic domains after adjustment for co-occurring conditions](adhd-sld-independent-predictors.md) — related
 - [After controlling for co-occurring neurodevelopmental disorders, intellectual disabilities are the strongest predictor of poor academic performance across all subjects](id-strongest-predictor-adjusted.md) — related
 - [Communication disorders remain significantly associated with lower marks across all academic outcomes after controlling for co-occurring conditions, though attenuated](communication-disorders-attenuated-significant.md) — related
+- [Attention problems independently increase the risk of poor grades across all three academic subjects in school students aged 5–17](attention-problems-risk-school-underachievement.md) — related

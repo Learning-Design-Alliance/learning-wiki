@@ -56,3 +56,5 @@ Paper-based acceptability and impact survey completed by all 23 learners who fin
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Research staff rate the recruitment GOSCE as highly acceptable, with nearly all reporting it taught them something new and provided valuable feedback](gosce-recruitment-training-acceptable-to-research-staff.md) — related
 - [Junior anesthesiology residents completing an RCDP-based ACLS simulation curriculum report high satisfaction and expect improved clinical performance](rcdp-acls-residents-high-satisfaction.md) — related
+- [Participants rate the SIMULATE URS curriculum highly for educational value, reporting improved skills and OR-transferrable skills](simulate-curriculum-high-educational-value-ratings.md) — related
+- [A vast majority of students rated the online research course as valuable and of acceptable quality](students-rate-online-research-course-valuable-acceptable-quality.md) — related

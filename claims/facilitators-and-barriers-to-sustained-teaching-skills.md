@@ -59,3 +59,4 @@ Thematic analysis of semi-structured interviews conducted at the start of the re
 - [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related
 - [Implementing a VR simulation curriculum requires extensive upfront resource investment, including equipment costs, cocreation time, and ongoing software maintenance](vr-curriculum-resource-investment-barriers.md) — related
 - [Protected teaching time and dedicated space are reported barriers, while equipment cost is not for clinical staff](time-space-equipment-barriers-ed-sbt.md) — related
+- [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related

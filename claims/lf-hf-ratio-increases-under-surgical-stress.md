@@ -53,3 +53,4 @@ Review synthesis of frequency-domain HRV findings; the LF/HF ratio was the most 
 - [Parasympathetic activity (HF heart rate variability) decreases significantly during individual patient‐observation phases of a peer‐learning simulation relative to baseline rest periods](hf-decreases-individual-observation-phases-peer-simulation.md) — a narrower finding that bears on this claim
 - [Frequency-domain HRV variables (LF, HF, LF/HF) showed no significant differences across OSCE scenarios](osce-frequency-domain-hrv-no-differences.md) — a narrower finding that bears on this claim
 - [Most students raised their HRV during biofeedback-assisted mindfulness sessions, with immediate on-screen feedback of physiological change](students-raised-hrv-during-biofeedback-sessions.md) — related
+- [The PASAT stress task significantly increased cardiovascular activity on all measured variables in the student sample](pasat-increased-cardiovascular-activity.md) — related

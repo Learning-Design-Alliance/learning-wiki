@@ -76,3 +76,4 @@ The review reports, citing Milam et al. and Myers et al., that studies hypothesi
 - [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related
 - [Female trainees report more perceived anxiety, longer operating times and reduced confidence after a surgical hiatus](female-trainees-greater-perceived-decay-and-confidence-loss.md) — related
 - [Prior experience, gender, age, and preferred orientation showed no significant influence on the learning curve, though men benefited more from training in clinical yield](no-experience-influence-on-learning-curve-male-benefit.md) — related
+- [Men outperform women on the basic camera-navigation task on day 1, but differences disappear during training](sex-differences-day1-sor-disappear.md) — related

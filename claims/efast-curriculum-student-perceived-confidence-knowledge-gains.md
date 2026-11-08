@@ -49,3 +49,4 @@ Anonymous Qualtrics survey of curriculum participants one year after training; 2
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Students identified lack of patients with EFAST indications, time constraints, machine availability, and clinician comfort as barriers to EFAST use on clerkships](student-identified-barriers-efast-utilization-clerkships.md) — related
 - [POCUS access and utilization during clerkships were concentrated in Emergency Medicine clerkships and the Emergency Department](pocus-access-concentrated-emergency-medicine-clerkships.md) — related
+- [Participants rate the SIMULATE URS curriculum highly for educational value, reporting improved skills and OR-transferrable skills](simulate-curriculum-high-educational-value-ratings.md) — related

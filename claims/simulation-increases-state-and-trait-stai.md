@@ -69,3 +69,4 @@ Authors' report of the trait subscale result in the same trial; Table 1 prints t
 - [Self-perceived clinical competence (COM-VA) increased significantly from a median of 6.82 preintervention to 7.38 postsimulation](niv-training-comva-competence-increase.md) — related
 - [COM-VA scores rose 0.08 points from postclass (7.30) to postsimulation (7.38), a statistically significant 1.17% change in one group with no comparison group](niv-simulation-additional-competence-gain.md) — related
 - [Delta pupillary diameter predicts an anxiety increase during simulation with AUC 0.876 and was the only statistically significant variable in the stepwise model](pupillary-delta-predicts-anxiety-increase-auc-0-876.md) — related
+- [Debriefing reduces state-anxiety associated with high-fidelity clinical simulation, which peaks after the scenario](debriefing-reduces-simulation-state-anxiety.md) — related

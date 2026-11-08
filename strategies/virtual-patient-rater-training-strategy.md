@@ -54,6 +54,7 @@ The article recommends leveraging virtual patient simulations to give trainees r
 - [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
 - [Use rater training, diversity recruitment, and equitable resource access to mitigate assessment disparities](rater-training-and-diversity-efforts-for-assessment-equity.md)
 - [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
+- [Increase the frequency of direct observation of trainees by different raters to mitigate rater idiosyncrasy and support assessment for learning](increase-direct-observation-frequency-mitigate-idiosyncrasy.md)
 
 ## Examples
 -

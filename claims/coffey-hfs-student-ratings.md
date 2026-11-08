@@ -57,3 +57,4 @@ The review reports Coffey et al.'s survey percentages on high-fidelity simulatio
 - [Student perception of the simulated patient cases was overwhelmingly positive, with 96.70% agreeing the cases developed clinical skills](simulated-cases-positive-perceptions.md) — related
 - [Students unanimously rated working with standardized clients as beneficial and a valuable learning experience, developing communication skills and a sense of reality](standardized-clients-valuable-realistic-learning.md) — related
 - [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related
+- [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related

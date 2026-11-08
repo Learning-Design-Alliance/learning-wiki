@@ -83,3 +83,4 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [Most frequent authenticity detractors are verbose or atypical vocabulary, excessive agreeableness, and question repetition; feedback detractors include excessive positivity and omissions](vp-authenticity-detractor-features.md) — a narrower finding that bears on this claim
 - [Students' pre-intervention apprehension that virtual learning would feel unrealistic was largely reversed after completing the module](realism-apprehension-reversed-post-intervention.md) — related
 - [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](student-critical-perspectives-simulations.md) — related
+- [OSCE raters perceive the examination as fundamentally inauthentic, including its scenarios, simulated patients and marking systems](raters-perceive-osces-inauthentic.md) — related

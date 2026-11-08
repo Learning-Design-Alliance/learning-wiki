@@ -51,3 +51,4 @@ The review reports a cluster randomized controlled trial in Spain (cited as refe
 - [In a Danish RCT, trained physicians identified more cases of complicated grief and prescribed fewer psychotropic drugs than untrained control physicians](danish-rct-grief-training-more-identification-fewer-psychotropics.md) — reports the opposite
 - [Evidence that emotional competence improves patient outcomes is limited and mixed](ec-patient-outcomes-limited-mixed.md) — a broader claim this one bears on
 - [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related
+- [Bereaved family satisfaction with care (SWC-EOLD) did not differ between intervention and control homes](impetus-d-no-bereaved-family-satisfaction-difference.md) — related

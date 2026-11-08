@@ -51,3 +51,4 @@ Survey of Swiss teaching-hospital department heads (48 respondents). The Results
 - [The nature and volume of simulation training and mentorship varied widely across the 29 comprehensive RAS curricula.](ras-curricula-simulation-mentorship-varied-widely.md) — related
 - [Only 24% of prosthodontics postgraduate trainees received regular training on simulators despite reported SBL availability](quarter-trainees-regular-simulator-training-pakistan.md) — related
 - [Most Swiss teaching hospitals provide self-training sites and in-house laparoscopy courses, with high-fidelity trainers in a minority](swiss-hospitals-simulation-infrastructure-availability.md) — related
+- [Surgical simulators were present in 35% of surveyed German surgical clinics, with 143 simulators in use](35-percent-german-clinics-simulators-143-devices.md) — related

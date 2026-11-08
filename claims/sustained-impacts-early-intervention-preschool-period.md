@@ -54,3 +54,4 @@ Authors' conclusion from the path analysis of the PEDS follow-up (N = 1302; mont
 - [A responsive stimulation intervention delivered from birth to age two is significantly associated with home environment quality at age two in rural Pakistan](responsive-stimulation-improves-home-environment-age-2.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related
+- [Household income-to-needs is strongly positively associated with cognitive stimulation in the home](inr-associated-with-cognitive-stimulation.md) — related

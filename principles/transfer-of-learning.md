@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (24 for, 13 mixed, 1 against) · 41 studies (19 causal, 9 review, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 41 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (25 for, 13 mixed, 1 against) · 42 studies (20 causal, 9 review, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 42 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ Claims bearing on transfer that the wiki holds and this model does not use. None
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](../claims/transfer-of-training-diverse-operations-review.md) [+W] — attached 2026-10-24 from J. E. Wallace Wallin (1905), which proposed "Specific training can insure general training under certain limitations, supporting formal discipline"; tests this page's relationship.
 - [A rules-plus-minimal-drill spelling group showed a distinct advantage over a drill-only group on an immediate transfer test of new words](../claims/spelling-rules-beat-drill-transfer-new-words.md) [+W] — attached 2026-10-25 from Turner et al. (1912), which proposed "Pair spelling-rule instruction with type words and minimal drill when transfer to new words is the goal"; tests this page's relationship.
 - [Early generalization is content-specific: skill B onset performance is higher when skills share a parsing rule than when they share only transition structure](../claims/parsing-rule-content-specific-generalization.md) [+W] — attached 2026-10-26 from B. P. Johnson et al. (2023), which proposed "Design early practice schedules so that successive skills share abstract parsing-rule structure, since this structure generalizes within seconds"; tests this page's relationship.
+- [Novice medical students with prior laparoscopic simulation skills perform significantly better on a robotic simulation peg transfer test than students without laparoscopic training](../claims/laparoscopic-to-robotic-skill-transference-novices.md) [+W] — attached 2026-11-08 from Kanitra John J. et al. (2021), which proposed "Laparoscopic simulation training during general surgery residency may be sufficient preparation for robotic surgery skills used post-residency"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

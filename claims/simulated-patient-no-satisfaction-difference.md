@@ -48,3 +48,4 @@ Secondary outcome measured on a 10-point scale in 1002 participants after traini
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
 - [First aid knowledge and self-efficacy increase strongly immediately after training, with no difference between simulated patient and control trainings](simulated-patient-no-immediate-knowledge-selfefficacy-gain.md) — related
 - [Satisfaction with simulation is high regardless of modality or experience level, with no significant differences between telesimulation and in-person groups](high-satisfaction-regardless-modality-experience.md) — related
+- [Satisfaction with the simulation experiences was high and similar after both modules](high-satisfaction-similar-across-modules.md) — related

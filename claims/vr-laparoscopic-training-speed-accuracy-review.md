@@ -50,3 +50,4 @@ The review reports, citing Nagendran et al. (2013), that VR simulator trainees "
 - [VR simulator training yields a higher rate of optimal (Grade I) pedicle screw placement than traditional training among residents and early-career surgeons](vr-training-higher-grade-i-pedicle-screw-placement.md) — related
 - [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — related
 - [In EBUS training, simulator-based training produced higher objectively scored performance than traditional apprenticeship-style training](simulator-training-outperformed-apprenticeship-ebusat.md) — related
+- [Virtual-reality training in laparoscopic surgery produced significantly better performance than no training, per a cited meta-analysis](vr-training-better-performance-than-no-training.md) — related

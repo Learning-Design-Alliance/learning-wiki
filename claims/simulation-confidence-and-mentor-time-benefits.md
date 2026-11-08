@@ -49,3 +49,4 @@ The position statement highlights two primary benefits of simulation training dr
 - [Self-reported simulation or web-based tool use in the week before surgery was not significantly associated with achieving proficiency](simulation-web-tool-use-not-associated-with-proficiency.md) — related
 - [Six weeks of ex vivo laparoscopic basic-skills simulation training significantly improves residents' GOALS-scored operating-room performance between their first and second laparoscopic cholecystectomy](laparoscopic-simulation-training-improves-goals-performance.md) — related
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
+- [Surgical educators and trainees hold an overwhelmingly positive attitude toward simulation as an adjunct to acquiring surgical skills](positive-stakeholder-attitudes-surgical-simulation.md) — related

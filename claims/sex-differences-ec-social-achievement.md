@@ -64,3 +64,4 @@ T tests in the longitudinal sample (N=214 at T1) showed girls higher on all thre
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — related
 - [Family SES, gender and birth month each independently predict pre-academic abilities in French preschoolers at age 3](ses-gender-birth-month-independently-predict-preacademic-abilities.md) — related
 - [Gender moderates only the path from prior academic performance to later behavioral control, which is significant for boys but not girls](gender-moderates-performance-to-control-path.md) — related
+- [Gender significantly predicts academic performance: boys score higher on cognitive aptitudes, girls higher on emotional aptitudes and GPA at all three timepoints, and gender explains 8.85% of T3 GPA variance](gender-differences-aptitudes-and-gpa.md) — a narrower finding that bears on this claim

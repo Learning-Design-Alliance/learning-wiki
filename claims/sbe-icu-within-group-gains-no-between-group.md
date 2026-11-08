@@ -104,3 +104,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [Knowledge gains from high-fidelity simulation training were more durable over two years than gains from interactive video-case training](hfs-better-two-year-knowledge-retention.md) — related
 - [CBT plus high-fidelity simulation improved and sustained nurses' confidence in early recognition of sepsis over 90 days](cbt-hfs-improved-sustained-sepsis-recognition-confidence.md) — related
 - [With support, redeployed junior doctors can become more confident managing unwell patients and performing advanced practical procedures in ICU](icu-rich-learning-environment-redeployed-juniors.md) — related
+- [Graduate intensive care nursing students' self-confidence and self-efficacy scores rose from pre-test to post-test after repeated high-fidelity simulation modules, in a single-group pre-post study](repeated-hfs-self-confidence-self-efficacy-gains.md) — related

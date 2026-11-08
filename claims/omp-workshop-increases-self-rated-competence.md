@@ -51,3 +51,5 @@ Pre/post survey comparison using Wilcoxon rank sum test in Stata 15.1 with signi
 - [Tutors identified probing for underlying reasoning (micro-skill 2) as the main benefit of the OMP, changing how they elicited students' clinical reasoning](omp-probing-reasoning-main-benefit.md) — related
 - [Clinical tutors in Swedish primary care experienced the OMP as a flexible, easy-to-use model applicable across student levels and clinical situations](omp-experienced-flexible-easy-to-use-phc.md) — related
 - [Implementation of the OMP was hindered mainly by lack of time and workload, and facilitated by alignment with existing practice, workplace atmosphere and laminated reminder cards](omp-implementation-barriers-facilitators.md) — related
+- [DEFT condenses the one-minute preceptor from five microskills to four by merging the two feedback steps](deft-condenses-omp-five-to-four-microskills.md) — related
+- [An OMP-based preceptor education program produced no statistically significant change in preceptor nurses' clinical core competency (CCCP) or communication competence (GICC-15) scores](omp-pep-no-significant-cccp-gicc-change.md) — related

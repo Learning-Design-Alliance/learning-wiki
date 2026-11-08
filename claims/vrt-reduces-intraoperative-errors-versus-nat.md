@@ -88,3 +88,4 @@ Single-centre two-arm RCT randomizing 13 participants to VR training or no addit
 - [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related
 - [Trainees with additional virtual reality simulator training performed significantly more surgical steps without supervisor intervention than the other groups](vr-group-more-steps-without-supervisor-intervention.md) — related
 - [Using videos in addition to traditional teaching materials improves performance and decreases procedure time in procedural training](videos-plus-traditional-teaching-improve-performance.md) — related
+- [Virtual-reality training in laparoscopic surgery produced significantly better performance than no training, per a cited meta-analysis](vr-training-better-performance-than-no-training.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Focus group interviews with nine medical students and six nursing trainees one w
 - [Medical students and nursing trainees perceived their educational programs as inadequate preparation for encountering patient death](education-inadequately-prepares-for-patient-death.md) — related
 - [Debriefing intensified the emotional impact of the death simulation and enabled participants to process their feelings](debriefing-intensifies-death-simulation-impact.md) — related
 - [The unexpected character of the confrontation with death was considered the key to the simulation's success](unexpected-death-confrontation-key-to-success.md) — related
+- [Emotionally challenging simulated scenarios such as patient death can produce higher practical competence than scenarios without those stressors](emotional-stressors-higher-practical-competence.md) — related

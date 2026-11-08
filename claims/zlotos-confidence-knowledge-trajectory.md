@@ -77,3 +77,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [A 1-hour framework workshop improves faculty confidence in writing narrative evaluations, sustained at 3 months](framework-workshop-improves-faculty-confidence-sustained.md) — a narrower finding that bears on this claim
 - [Practitioner comfort to directly ask about adversity peaked at 6 months and decreased again at 12 months despite overall improvement in competence and confidence](practitioner-comfort-peaked-six-months-then-decreased.md) — related
 - [Perceived educational quality of the simulation workshop declined between immediately after training and 3 and 6 months later, regardless of simulator type](perceived-educational-impact-declines-three-six-months.md) — related
+- [At 4-week follow-up, intervention-group clerks more often applied the acquired skills and reported more satisfied patients, with better retention](oscar-followup-transfer-retention.md) — related

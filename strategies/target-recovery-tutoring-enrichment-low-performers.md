@@ -46,6 +46,7 @@ Given estimated global learning losses, the authors recommend that "it would mak
 - [Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists](el-specific-summer-learning-and-el-specialist-staffing.md)
 - [Offer scalable summer school as a post-pandemic academic recovery intervention for districts](scalable-summer-school-post-pandemic-recovery-strategy.md)
 - [Provide a sufficient dose of 44-80 hours of intensive instruction as a general target for at-risk reading interventions](sufficient-dose-44-80-hours-target.md)
+- [Target remedial interventions specifically at vulnerable students after pandemic-related school closures](target-interventions-vulnerable-students-post-closure.md)
 
 ## Examples
 -

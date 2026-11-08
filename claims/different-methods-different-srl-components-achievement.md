@@ -51,3 +51,4 @@ Correlational analysis against GPA of the college entrance diploma in 70 college
 - [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](skt-srl-microanalysis-low-correlation.md) — related
 - [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — related
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — reports the opposite
+- [Metacognitive self-regulation is positively associated with college course grades and GPA](metacognitive-self-regulation-grades-gpa-association.md) — related

@@ -47,3 +47,4 @@ Spearman correlational analysis among pre-class quizzes, LCE and memory items in
 ## Related Claims
 - [FCCL students significantly outperform traditional classroom students on the laboratory specimen examination in anatomy (p=0.004)](fccl-laboratory-exam-advantage-anatomy.md) — related
 - [FCCL improves memory-level anatomy item performance (r=0.28) but not understanding-level performance (p=0.842)](fccl-memory-not-understanding-advantage.md) — related
+- [Student quiz performance appears correlated with final examination scores in the upgraded dental programme](quiz-performance-correlates-final-exams-dental.md) — related

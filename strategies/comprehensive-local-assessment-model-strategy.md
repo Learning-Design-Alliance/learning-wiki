@@ -48,6 +48,7 @@ The authors recommend that schools employ a more comprehensive assessment model 
 
 - [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
 - [Foster a school-university collaborative relationship to support identification, assessment access, and communication](school-university-collaborative-relationship.md)
+- [Use a locally designed SJT alongside cognitive tests to widen participation in medical selection](sjt-widening-participation-selection-strategy.md)
 
 ## Examples
 -

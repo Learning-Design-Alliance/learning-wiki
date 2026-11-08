@@ -55,3 +55,4 @@ Face validity was collected via a standardised Likert questionnaire from 3 exper
 - [The simulator shows construct validity: experts significantly more accurate than novices in 12-core systematic biopsy (p = 0.02)](tp-simulator-construct-validity-systematic-accuracy.md) — related
 - [Time taken for systematic template biopsy did not differ significantly between experts and novices (p = 0.188)](tp-simulator-systematic-biopsy-time-null.md) — related
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
+- [Novices and experts rate the simulator's anatomical realism highly (means 4.4–5.39 on a 6-point scale), except the haptic realism of the pinna](vr-otoscopy-simulator-face-validity-ratings.md) — related

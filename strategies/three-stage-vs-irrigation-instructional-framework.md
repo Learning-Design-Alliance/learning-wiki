@@ -57,6 +57,7 @@ The authors propose a three-stage instructional framework incorporating the virt
 - [Clinical scenario comprehensive training with high-fidelity models and case libraries to build integrated root canal treatment competence](clinical-scenario-comprehensive-training.md)
 - [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
+- [Apply the jaw model prior to virtual reality in preclinical periodontal training](jaw-model-before-vr-periodontal-training-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Bivariate Pearson correlation analysis (Table 2) across the 451-child sample, re
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related
 - [Cognitive mediation of the gross motor competence-academic achievement relationship is predominant in boys, accounting for over half of the total effect](cognitive-mediation-predominant-boys-gmc-academic-achievement.md) — related
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
+- [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — related

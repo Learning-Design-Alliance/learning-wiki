@@ -69,3 +69,6 @@ Within the same perception survey, descriptive results show a minority neutralit
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Students rated the flipped classroom positively, emphasizing clinical-case activities and teacher involvement, with video-viewing time the main weakness](fc-neurosurgery-student-satisfaction.md) — related
+- [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
+- [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — related
+- [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related

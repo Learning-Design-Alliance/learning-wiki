@@ -60,3 +60,4 @@ Systematic review of randomized controlled trials examining simulation-based lap
 - [Simulation-based surgical skills are retained for extended periods and transfer to the operating room, per the review's cited studies](simulation-skill-retention-and-or-transfer.md) — related
 - [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — related
 - [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related
+- [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related

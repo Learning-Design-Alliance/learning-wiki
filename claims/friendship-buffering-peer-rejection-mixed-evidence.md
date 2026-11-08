@@ -53,3 +53,4 @@ The review reports conflicting findings: some studies of children with externali
 - [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md) — related
 - [Children with ADHD show medium-to-large peer problems relative to typically developing youth, with effect sizes from d=.72 (no comorbidities) to d=1.25 (comorbid conduct problems)](adhd-peer-problems-effect-sizes-d072-d125.md) — related
 - [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related
+- [No interaction effects between parental and peer acceptance and rejection on educational attainment: no dual-hit, dual-miss, or buffering effects](no-parent-peer-interaction-effects-educational-attainment.md) — related

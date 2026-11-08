@@ -51,3 +51,4 @@ Generalization-inference analysis of the pilot SJT (N=303). Alphas per competenc
 - [OSCEs used with physical therapy students show weak internal consistency, with a pooled Cronbach's alpha of 0.55 below the acceptable range](pt-osce-pooled-cronbach-alpha-weak.md) — related
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [Aggregate SJT performance was highest in the diligence competency and lowest in good judgement](sjt-performance-highest-diligence-lowest-good-judgement.md) — related
+- [The piloted SJT demonstrated good internal consistency (Cronbach's alpha 0.80 and 0.81) across two applicant cohorts](sjt-pilot-internal-consistency-alpha-080-081.md) — related

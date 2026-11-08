@@ -57,3 +57,4 @@ Longitudinal path analysis (PROCESS Model 6, 5,000 bootstrap samples) of 221 ado
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related
 - [Self-concept did not significantly mediate the PA–AA link in this Chinese adolescent sample (indirect β = 0.026, 7.43%)](sc-independent-mediation-not-supported.md) — related
 - [Homework time is positively correlated, tutoring class time negatively correlated, and extracurricular physical activity non-significantly related to academic performance](homework-tutoring-physical-activity-control-findings.md) — related
+- [Physical activity participation tracks from adolescence into adulthood](adolescent-physical-activity-tracks-to-adulthood.md) — related

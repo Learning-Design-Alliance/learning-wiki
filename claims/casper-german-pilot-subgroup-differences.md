@@ -90,3 +90,5 @@ Welch t-test comparing Casper performance by parental academic degree as the soc
 - [The most accurate scorer showed no gender disparity but a small significant language-background disparity favoring foreign-language speakers](language-bias-favors-foreign-speakers-roberta-svm.md) — related
 - [Gender and migration background have only very small impacts on the strength of single comparison effects](ipd-meta-gender-migration-negligible-moderation.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
+- [Female medical school applicants outperformed male applicants on the piloted SJT in both years, with a medium effect size in 2017](sjt-gender-female-advantage-indonesia-pilot.md) — related
+- [SJT scores showed no significant differences across ethnic subgroups in two Indonesian applicant cohorts](sjt-no-ethnic-score-differences-indonesia-pilot.md) — related

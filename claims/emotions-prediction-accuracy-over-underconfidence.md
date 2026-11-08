@@ -56,3 +56,4 @@ Correlational analyses (N = 358) of prediction accuracy as bias: positive emotio
 - [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related
 - [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related
 - [While working on the assignment, positive learning-related emotions (enjoyment, hope, pride) were negatively correlated with perceived stress, and anger, anxiety, shame and hopelessness were positively correlated (P < 0.05), with no relationship for boredom](stress-emotion-correlations-assignment.md) — related
+- [Student self-reported anxiety is negatively correlated with perceived instructor support in large introductory biology classes](anxiety-negatively-correlated-perceived-instructor-support.md) — related

@@ -46,3 +46,4 @@ Mixed logistic regression of self-reported smoking in the COR-PRIM randomised tr
 
 ## Related Claims
 - [HDL cholesterol increased significantly at 1, 3 and 5 years in the PBL group compared with baseline, with no significant change in the control group](pbl-increased-hdl-cholesterol-5-year.md) — related
+- [E-learning intervention significantly decreased positive attitude, subjective norms, smoker prototype, intention, and behavioral willingness toward water pipe smoking](e-learning-decreased-pwm-constructs-wp-smoking.md) — related

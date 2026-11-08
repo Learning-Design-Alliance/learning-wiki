@@ -51,3 +51,4 @@ Self-reported reaction collected after SBPT, including an open-ended question on
 - [Independent assessor IPPI ratings of venipuncture performance rose from the simulated setting after SBPT to the clinical setting one year later, in one group with no comparison group](ippi-ratings-improve-simulated-to-clinical.md) — related
 - [Standardized patients rate student venipuncture communication skills lower than real patients do](sp-patients-rate-communication-differently.md) — related
 - [A minority of students remain incompetent on IPPI after SBPT and improve after remedial training](remedial-training-after-sbpt-incompetence.md) — related
+- [Participants recommended extending the simulation training to all team members and running it more frequently](participants-recommend-more-frequent-wider-simulation.md) — related

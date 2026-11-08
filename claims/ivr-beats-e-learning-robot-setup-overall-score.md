@@ -50,3 +50,4 @@ Single-blinded randomized controlled trial of 23 robot-naive medical students (1
 - [IVR-trained participants performed tasks independently more frequently and required less physical assistance than e-learning participants](ivr-independent-performance-physical-assistance.md) — a narrower finding that bears on this claim
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
 - [Prior laparoscopic and robotic experience transferred to the Versius platform, enabling proficiency in fewer than 40 cases under structured proctoring](skill-transfer-prior-experience-versius.md) — related
+- [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related

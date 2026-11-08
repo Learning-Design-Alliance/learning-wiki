@@ -52,3 +52,4 @@ Logistic regression in the same longitudinal cohort, contrasting the Concurrent 
 - [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — related
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
 - [Tablet in the bedroom was associated with poor sleep quality in univariate analysis (86.1% vs 71.7%), but this association did not persist in the multivariable model](tablet-bedroom-association-not-persistent.md) — related
+- [Screen time, sleep duration, and ethnicity are not associated with grades once psychopathology and other confounders are jointly adjusted](lifestyle-associations-attenuate-full-adjustment.md) — a broader claim this one bears on

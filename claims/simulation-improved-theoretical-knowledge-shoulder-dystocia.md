@@ -56,3 +56,4 @@ Pre-test/post-test assessment of 42 candidates in a structured simulation progra
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related
 - [96% of study participants met the required performance standard in shoulder dystocia simulation training after completing e-learning](96-percent-meet-standard-shoulder-dystocia-simulation.md) — related
 - [NKLM learning objectives for shoulder dystocia were achieved by most participants, with recognition of the turtle phenomenon the weakest objective](nklm-objectives-achieved-turtle-phenomenon-weakest.md) — related
+- [Simulation-based assessment revealed a 40% pass rate for interns managing failed obstetric intubation despite prior emergency training](simulation-assessment-failed-intubation-pass-rate.md) — related

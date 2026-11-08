@@ -59,3 +59,5 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related
 - [Research staff rate the recruitment GOSCE as highly acceptable, with nearly all reporting it taught them something new and provided valuable feedback](gosce-recruitment-training-acceptable-to-research-staff.md) — related
 - [Trainees rate the simulation experience highly and overwhelmingly agree simulation training is essential in cardiovascular fellowship](high-trainee-satisfaction-with-simulation-training.md) — related
+- [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
+- [A vast majority of students rated the online research course as valuable and of acceptable quality](students-rate-online-research-course-valuable-acceptable-quality.md) — related

@@ -56,3 +56,4 @@ The review reports, citing Kim and Baylor (2005a, 2005b) and Baylor and Kim (200
 - [Agent benefits vary by learner characteristics: females and marginalized learners favor agent-based environments more](agent-benefits-learner-characteristics.md) — related
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
 - [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related
+- [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related

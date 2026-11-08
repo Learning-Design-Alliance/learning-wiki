@@ -44,7 +44,8 @@ The article's implication section recommends that, to promote academic achieveme
 - [Conduct problems mediate associations between genetic predispositions to externalizing and neurodevelopmental problems and lower academic achievement only in adolescence](../claims/conduct-problems-mediate-achievement-adolescence-only.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Address self-identified attention problems through school-context interventions that incorporate students' diverse attentional-resource distribution, while avoiding ADHD overdiagnosis](school-interventions-attention-resource-distribution.md)
 
 ## Examples
 -

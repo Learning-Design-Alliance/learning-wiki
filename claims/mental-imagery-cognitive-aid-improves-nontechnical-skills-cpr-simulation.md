@@ -55,3 +55,4 @@ Prospective comparative study in two French university hospitals: 24 first-year 
 - [At the mid-training (second) test, residents trained with combined progressive and imagery training had significantly lower (better) LS-CAT scores and fewer operation errors than residents trained with traditional whole-action practice](progressive-imagery-training-better-lscat-second-test.md) — related
 - [Repeated MCQ test-enhanced learning produced no significant difference in delayed basic-science assessment scores among first-year anesthesiology residents](tel-mcq-no-effect-basic-science-neuroanesthesia.md) — related
 - [Novice students' baseline variant identification (33.3%) exceeded residents' reported rates](novice-baseline-exceeds-residents-repeated-contact-needed.md) — related
+- [Mental imagery training developed epidural anesthesia technical skills as effectively as low-fidelity haptic simulators in novices](mental-imagery-as-effective-as-haptic-simulator.md) — related

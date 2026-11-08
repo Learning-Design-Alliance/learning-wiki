@@ -68,3 +68,4 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Individual SUS scores did not correlate with educators' prior AR experience; experienced educators' scores were divided between grades F and B](sus-scores-no-correlation-ar-experience.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related
+- [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related

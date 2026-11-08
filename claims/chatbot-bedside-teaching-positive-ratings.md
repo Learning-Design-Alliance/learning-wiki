@@ -52,3 +52,4 @@ Questionnaire survey of 45 of 70 students (24 HKU, 21 NUS) after joint virtual b
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
 - [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](lost-interaction-community-lockdown.md) — related
 - [Most teachers favored FSP-TCM: 83% were willing to continue using it and 91.66% agreed it supplements bedside teaching and reduces costs](teachers-favor-fsp-tcm-continuation.md) — related
+- [Most online ligation students were first-time learners, and 73% reported high satisfaction with the online practice](first-time-learners-high-satisfaction-online-ligation.md) — related

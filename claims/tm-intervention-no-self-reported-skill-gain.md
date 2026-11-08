@@ -50,3 +50,4 @@ Study 1 quasiexperiment with 143 ninth-graders assigned by class to treatment or
 - [Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being](coaching-improves-self-awareness-self-management-wellbeing-adhd-ld.md) — related
 - [MITCA did not improve information-seeking and help management skills relative to traditional homework](mitca-no-gain-information-seeking.md) — related
 - [MITCA homework prescription improved environmental management relative to traditional homework in primary students](mitca-improves-environmental-management.md) — related
+- [The Metacognition+TM intervention especially increased time management tool use among students from minoritized groups](minoritized-group-moderation-time-tools.md) — reports the opposite

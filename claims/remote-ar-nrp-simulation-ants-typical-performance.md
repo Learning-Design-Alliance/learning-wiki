@@ -69,3 +69,4 @@ Descriptive ANTS element-level results from the same feasibility study (Table 2)
 - [Remote AR simulation is noninferior to in-person simulation across all four BARS nontechnical behavior domains](remote-ar-noninferior-bars-domains.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related
+- [Some nontechnical skill behaviors remain unimproved or below average after the educational intervention](some-behaviors-unimproved-after-educational-intervention.md) — related

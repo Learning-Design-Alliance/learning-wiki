@@ -48,3 +48,4 @@ Objective simulator-recorded data from the practical exam in this cluster-random
 - [Examination time differs by training group, with the low-fidelity-only group taking significantly longer without examining more tympanic membrane](examination-time-group-differences-otoscopy.md) — related
 - [Students trained with pathological findings on trainers (IG2 and IG3) are significantly more likely to provide the correct diagnosis than peer-practice-only controls](simulator-pathology-training-improves-diagnostic-accuracy.md) — related
 - [Correct otoscope insertion depth is rarely achieved in a practical exam regardless of training modality, and is most often too shallow](otoscope-insertion-depth-rarely-correct.md) — related
+- [Experts complete simulated otoscopy significantly faster and examine a significantly larger percentage of the eardrum surface than novices](vr-otoscopy-experts-faster-wider-eardrum-coverage.md) — related

@@ -46,3 +46,4 @@ Paired comparisons of simulator-recorded scores on da Vinci SimNow across three 
 
 ## Related Claims
 - [Participants significantly reduce technical errors in dry-lab tasks as measured by the OCHRA error methodology over the four-day curriculum](dry-ochra-error-reduction-curriculum.md) — related
+- [VR training on the SimNow platform significantly improved performance on all VR task metrics from pretest to posttest for the whole cohort and for each PGY class](simnow-vr-training-effectiveness.md) — related

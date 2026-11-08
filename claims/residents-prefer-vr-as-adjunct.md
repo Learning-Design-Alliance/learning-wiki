@@ -72,3 +72,4 @@ Reverse preference question from the same survey: conventional methods remained 
 - [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — related
 - [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — related
 - [Teachers hold a positive view of VSP-TCM as a cost-effective adjunct that should be built around syndromes rather than diseases](teachers-positive-vsp-tcm-perspective.md) — related
+- [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related

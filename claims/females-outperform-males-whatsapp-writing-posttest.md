@@ -71,3 +71,4 @@ Table 2's total-score row prints means of 39.54 (male) and 45.82 (female), t=-2.
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related
 - [Within the VSE group, female students outperformed male students on several skill dimensions, though the cause cannot be attributed to VSE](vse-gender-skill-differences.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
+- [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — reports the opposite

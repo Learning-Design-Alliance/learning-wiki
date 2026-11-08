@@ -49,3 +49,4 @@ Randomized pilot trial at Centro Médico ABC with 34 medical interns and first-y
 - [Item-level gains favoring PLAN A scenarios are hypothesis-generating, with no significant between-group difference on any individual case](plan-a-item-level-exploratory-gains.md) — related
 - [Both PLAN A and control trainees improve significantly on case-based airway assessment from pre- to post-training](plan-a-within-group-pre-post-gains-both-groups.md) — related
 - [Novice trainees rate PLAN A as engaging and helpful for understanding escalation rationale, though feedback was informal and not formally measured](plan-a-learner-engagement-feedback.md) — related
+- [Serious game training showed no difference in overall performance compared with high-fidelity manikin-based training in an obstetric scenario](serious-game-equivalent-to-manikin-training.md) — related

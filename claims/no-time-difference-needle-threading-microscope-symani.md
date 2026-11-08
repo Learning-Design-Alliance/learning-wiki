@@ -48,3 +48,4 @@ Second exercise in the same 40-student within-subject comparison: passing a 5 cm
 - [Novices complete a single-button anastomosis suture significantly faster with a microscope than with the Symani robot](microscope-faster-anastomosis-suture-than-symani.md) — related
 - [Novice students grasp and place a 9.0 needle significantly faster with a microscope than with the Symani robotic system](microscope-faster-needle-grasp-placement-than-symani.md) — related
 - [Inexperienced students can adequately perform simulated microsurgical steps with both microscope and robot without prior training](novices-complete-microsurgery-simulation-both-systems.md) — related
+- [Cited studies report home microsurgical training produced outcomes similar to laboratory-microscope training](home-microsurgery-training-similar-outcomes-cited.md) — related

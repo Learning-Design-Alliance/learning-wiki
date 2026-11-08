@@ -52,3 +52,4 @@ Quasi-experimental comparison of 15-question immediate tests, Mann-Whitney test;
 - [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
 - [Interview data indicated flipped classroom learners obtained immediate help and clarified misconceptions, while conventional-group learners crammed for tests](interviews-immediate-help-versus-cramming.md) — related
 - [Flipped classroom did not alter overall student performance on midterm tests or exam grades](fc-no-overall-performance-change.md) — related
+- [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related

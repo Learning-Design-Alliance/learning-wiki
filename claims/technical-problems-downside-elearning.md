@@ -53,3 +53,4 @@ Interview data revealed technical problems: students reported that "the computer
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — related
+- [Trainees' main perceived challenges with the e-Learning pilot were limited computer-laboratory workspace (33%), slow internet/intranet speed (29%), and limited training of ICT staff (28%)](ghana-elearning-pilot-challenges-workspace-speed-capacity.md) — related

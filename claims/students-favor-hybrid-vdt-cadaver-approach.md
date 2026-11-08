@@ -60,3 +60,5 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 - [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — related
 - [Most students wanted more laboratory time and to try other modalities, with cross-modality preferences favoring the alternative they had not experienced](students-want-more-lab-time-and-other-modalities.md) — related
 - [Students want anatomy concepts taught through both PBL and lectures](anatomy-preferred-via-both-pbl-and-lectures.md) — related
+- [Anatomage-based gross anatomy study of the pelvis and musculoskeletal system appears equivalent to cadaveric dissection](anatomage-pelvis-musculoskeletal-equivalent-cadaveric.md) — related
+- [Medical students report high satisfaction with Anatomage-based anatomy learning across multiple studies](anatomage-student-satisfaction-studies.md) — related

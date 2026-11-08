@@ -49,3 +49,4 @@ Observational analysis of a hospital-wide nurse-recorded reporting system coveri
 - [The multiple puncture rate for central venous catheter placement decreased to 0.6% in 2023 after skill assessment and outcome-based simulation training were introduced](multiple-puncture-rate-decreased-after-training.md) — related
 - [The study indicates a correlation between the reduction in mechanical complications and the decrease in multiple punctures](complication-reduction-correlated-with-fewer-multiple-punctures.md) — related
 - [In the authors' prior study, self-assessment was not sufficient for acquiring ultrasound-guided vascular access skills and objective skill testing proved crucial](self-assessment-insufficient-skill-testing-crucial.md) — related
+- [Integrating simulation-based training into a CLABSI prevention bundle reduced CLABSI rates from 13.9 to 4.7 per 1000 catheter days in a NICU](simulation-clabsi-reduction-nicu.md) — related

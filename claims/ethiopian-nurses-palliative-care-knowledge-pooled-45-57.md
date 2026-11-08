@@ -50,3 +50,4 @@ Systematic review and meta-analysis using an inverse-variance random-effects mod
 - [Only 36.02% of reviewed Ethiopian nurses had palliative care training, and Egger's test indicated no publication bias](low-training-coverage-and-no-publication-bias.md) — related
 - [Palliative care training is significantly associated with Ethiopian nurses' knowledge of palliative care (AOR = 4.64)](palliative-care-training-associated-with-nurse-knowledge-aor-4-64.md) — related
 - [Pooled knowledge prevalence varies by region, study period, and sample size in subgroup analysis amid high heterogeneity (I2 = 97.0%)](subgroup-variation-nurse-palliative-knowledge-heterogeneity.md) — related
+- [Nurses show poor knowledge of pre-transfusion initiation nursing responsibilities (45.4%)](poor-pre-transfusion-responsibility-knowledge.md) — related

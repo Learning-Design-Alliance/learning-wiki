@@ -52,3 +52,5 @@ Theme 5 from the interviews. Students said the current 6-hour lab sessions were 
 - [Participants identify inadequate skills-laboratory time and space, and recommend simulation centres in training institutions and simulation corners in health facilities](sbe-infrastructure-simulation-centres-corners.md) — related
 - [Students and instructors perceive SBE as an effective strategy for concurrent supervision, feedback, and assessment of clinical knowledge and skills](sbe-supervision-assessment-strategy.md) — related
 - [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related
+- [Participants recommended extending the simulation training to all team members and running it more frequently](participants-recommend-more-frequent-wider-simulation.md) — related
+- [The interactive format served as a real-time feedback mechanism that WHO used to identify stakeholder needs and develop new guidance resources](webinar-series-real-time-feedback-mechanism.md) — related

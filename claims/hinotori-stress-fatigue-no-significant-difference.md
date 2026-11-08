@@ -53,3 +53,4 @@ Stress and fatigue results from the ten-surgeon crossover simulation study, meas
 - [Peg-transfer FLS scores did not differ significantly between robotic and laparoscopic approaches, but robotic scores showed progressive improvement across trials](hinotori-peg-transfer-fls-comparable-progressive-improvement.md) — related
 - [Music reduces electromyographic activation of the extensor digitorum during robotic surgical simulation, an indicator of muscle fatigue](music-reduces-muscle-activation-emg-surgery.md) — related
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — a broader claim this one bears on
+- [Self-reported fatigue does not differ meaningfully between robotic and laparoscopic simulation among novice medical students](no-clinical-fatigue-difference-rs-ls.md) — related

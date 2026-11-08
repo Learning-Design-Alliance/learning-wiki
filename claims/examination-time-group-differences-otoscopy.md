@@ -47,3 +47,4 @@ Simulator-recorded timing during the practical exam in this cluster-randomized t
 ## Related Claims
 - [Feedback during high-fidelity simulator training increases the percentage of the tympanic membrane examined in a subsequent practical exam](simulator-feedback-increases-tympanic-membrane-coverage.md) — related
 - [Students trained with pathological findings on trainers (IG2 and IG3) are significantly more likely to provide the correct diagnosis than peer-practice-only controls](simulator-pathology-training-improves-diagnostic-accuracy.md) — related
+- [Experts complete simulated otoscopy significantly faster and examine a significantly larger percentage of the eardrum surface than novices](vr-otoscopy-experts-faster-wider-eardrum-coverage.md) — related

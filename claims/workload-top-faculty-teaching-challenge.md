@@ -53,3 +53,4 @@ Open-ended survey responses from 1177 faculty across 11 faculties were coded wit
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
 - [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related
+- [Time was the most pervasive resource barrier, identified by two-thirds of studies](time-barrier-two-thirds-pal-studies.md) — related

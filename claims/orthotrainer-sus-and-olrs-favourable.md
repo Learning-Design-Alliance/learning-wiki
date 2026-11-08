@@ -72,3 +72,4 @@ Online Learning Readiness Scale descriptive analysis from the same survey with a
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
+- [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related

@@ -57,3 +57,5 @@ Daily activity analysis in the within-class experiment, shown in Fig. 2 with the
 - [Students used the rDSA system extensively during formative assessment, with usage peaking the day before the exam](rdsa-usage-peaks-before-exams.md) — related
 - [Greater procrastination (more days to hand in tasks) was associated with lower final marks.](procrastination-associated-with-lower-marks.md) — related
 - [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related
+- [Active demonstration of the e-learning platform within the curriculum sharply increased daily activities, peaking on the announcement day (7 July 2019)](active-demonstration-boosts-elp-activity.md) — related
+- [Reviewing early-term Quizzical questions in the weeks before the final is associated with higher scores on the cumulative portion of the final exam](early-topic-review-cumulative-final.md) — related

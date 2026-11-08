@@ -62,3 +62,4 @@ Simulator Sickness Questionnaire administered to the experimental group after th
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
 - [VR-based simulation significantly increases simulator sickness whereas computer-based simulation does not](vr-simbie-increases-simulator-sickness.md) — related
 - [The 3D VR mode of RiNeo MR caused no simulator sickness: subjects reported discomfort levels of 1 or lower out of 3 on all SSQ symptoms](rineo-3d-no-simulator-sickness.md) — related
+- [Viewing the 3D LP video is well tolerated, with cybersickness in a small minority](cybersickness-minority-3d-lp-video.md) — related

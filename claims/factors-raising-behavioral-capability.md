@@ -67,3 +67,4 @@ Same regression analysis (Table 3, p < 0.001, adjusted R2 14.2%). The authors st
 - [Self-efficacy for medical emergency management is lower in 4th-year students, interns, females, higher-GPA trainees, and with longer time since BLS certification](factors-lowering-emergency-self-efficacy.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
 - [Dental trainees' self-efficacy and behavioral capability to manage medical emergencies in dental clinics are generally low](low-emergency-preparedness-dental-trainees.md) — related
+- [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related

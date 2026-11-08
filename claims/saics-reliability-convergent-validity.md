@@ -61,3 +61,4 @@ Internal consistency and variability analysis of the eight SAICS dimensions in t
 - [The study's two-dimensional self-confidence scale shows high internal consistency (Cronbach's alpha > 0.80) across all three measurement time points](endodontic-confidence-scale-high-internal-consistency.md) — related
 - [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
 - [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related
+- [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related

@@ -55,3 +55,6 @@ Self-reported survey of 81 respondents (65% response rate) among 125 simulation 
 - [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
 - [Nearly all simulation participants agreed they could provide ALS more confidently in their future careers, and rated the training 4.88 of 5](high-satisfaction-confidence-after-als-simulation.md) — related
 - [Trainees rate the simulation experience highly and overwhelmingly agree simulation training is essential in cardiovascular fellowship](high-trainee-satisfaction-with-simulation-training.md) — related
+- [A brief in-situ simulation intervention mitigated an MRSA outbreak in a newly renovated NICU and improved hand hygiene compliance](in-situ-simulation-mrsa-outbreak-nicu.md) — related
+- [Frontline nursing home staff rate in situ fall simulation training highly, with 98.5% rating the simulation good or very good](nursing-home-staff-rate-fall-simulation-highly.md) — related
+- [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related

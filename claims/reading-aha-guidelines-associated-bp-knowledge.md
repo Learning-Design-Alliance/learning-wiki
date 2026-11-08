@@ -52,3 +52,4 @@ Post-stratification analysis (Chi-square or Fisher's Exact test) of skill and kn
 - [Nearly all nurses at a tertiary cardiac center show poor knowledge of blood pressure measurement](nurses-poor-bp-measurement-knowledge-tertiary-center.md) — related
 - [Most nurses at a tertiary cardiac center show poor blood pressure measurement skills, with none rated excellent](nurses-poor-bp-measurement-skills-tertiary-center.md) — related
 - [Nurse compliance was poor on 14 of 31 AHA checklist steps, each with a compliance rate below 50%](poor-compliance-14-of-31-aha-steps.md) — related
+- [Frequency of performing blood transfusions is associated with knowledge score, while gender, qualification, ward, experience and training are not](transfusion-frequency-associated-with-knowledge.md) — related

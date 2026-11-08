@@ -47,3 +47,4 @@ The authors' theoretical interpretation in the Discussion, grounded in social co
 ## Related Claims
 - [Country-level gender inequality is significantly negatively correlated with academic achievement across three PISA cycles, regardless of gender and subject](gii-negative-correlation-country-level.md) — a broader claim this one bears on
 - [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md) — related
+- [The review reports that studies incorporating a gender perspective highlight its need for reducing gender inequalities in boys and girls](gender-perspective-reduces-gender-inequalities-se.md) — related

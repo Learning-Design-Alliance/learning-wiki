@@ -50,3 +50,4 @@ Meta-analysis of eight studies evaluating postpartum hemorrhage outcomes after t
 - [Simulation-based obstetric team training shows a positive but statistically non-significant effect on Apgar scores less than 7 at 5 minutes, with moderate certainty evidence](obstetric-team-training-apgar-score-no-significant-effect.md) — related
 - [Obstetric team training is associated with reduced delay of birth at emergency cesarean section (decision-to-delivery time excess of 30 min), with very low certainty evidence](obstetric-team-training-reduces-decision-to-delivery-delay.md) — related
 - [The effect of obstetric team training on umbilical cord prolapse outcomes is inconclusive, with very low certainty evidence](obstetric-team-training-cord-prolapse-inconclusive.md) — related
+- [Improved PBM knowledge is associated with reduced blood transfusions, per prior literature cited in the article](improved-pbm-knowledge-reduces-transfusions.md) — related

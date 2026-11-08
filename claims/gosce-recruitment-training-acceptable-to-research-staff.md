@@ -50,3 +50,4 @@ Post-GOSCE survey of research staff at a large urban hospital; 91% (41/45) compl
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Standardized participant checklist ratings show wide variation in research staff communication skills, distinguishing higher and lower performers](gosce-checklist-differentiates-communication-skills.md) — related
 - [Learners rated RCDP-based simulations highly acceptable and educationally valuable, with most reporting positive impact on task ability, rotation objectives, and comfort managing deteriorating patients](rcdp-high-acceptability-perceived-impact.md) — related
+- [Interns in both groups report high acceptance of OSCE as a fair and ability-reflecting assessment format](osce-questionnaire-high-acceptance-interns.md) — related

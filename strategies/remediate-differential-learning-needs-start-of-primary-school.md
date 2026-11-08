@@ -50,6 +50,7 @@ The authors' forward-looking recommendation is that "redistributing education re
 ## Related Strategies
 
 - [Focus equality policy on equalising school support for students with lower EA-PGI rather than on residential-area interventions](equalise-school-support-for-low-pgi-students.md)
+- [Target remedial interventions specifically at vulnerable students after pandemic-related school closures](target-interventions-vulnerable-students-post-closure.md)
 
 ## Examples
 -

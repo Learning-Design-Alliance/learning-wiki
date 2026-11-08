@@ -56,6 +56,7 @@ The authors' recommendations for implementing WeChat-based PBL, drawn from their
 - [Six literature-based recommendations for implementing project based learning](pbl-implementation-six-recommendations.md)
 - [Structure PBL sessions around case-specific 3D-printed models with teacher-facilitated group inquiry and self- and peer-assessment](3dp-integrated-pbl-session-structure-strategy.md)
 - [Implementation recipe for a graduate PBL course: administration support, facilitator buy-in, group continuity, curricular coordination, and recognized effort](pbl-graduate-course-implementation-strategy.md)
+- [Refine hybrid BOPPPS structures by stressing course interconnections, clearer online instructions, and students-led summary while reducing self-learning burden](hboppps-refinement-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Correlational analysis of principals' perceived barriers against teacher and stu
 - [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
 - [Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color](principal-pd-obstacles-time-coverage-funds.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
+- [Perceived obstacles to online learning differ by grade level and computer/internet ability, and satisfaction differs by region, university type, and technology ability](group-differences-obstacles-satisfaction-characteristics.md) — related

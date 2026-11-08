@@ -64,3 +64,5 @@ Learning curves were generated using the cumulative sum (CUSUM) method based on 
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related
 - [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — related
 - [Repeated training on the 3D-printed model improves performance: after eight sessions novices approached untrained intermediate level and intermediates approached expert scores](liia-repeated-training-learning-curve.md) — related
+- [Learning curves improve under both basic and procedural VR training, with the greatest improvements seen in the procedural tasks](learning-curve-gains-both-modalities-procedural-greatest.md) — related
+- [Robotic simulation shows early learning-curve superiority over laparoscopic simulation, but both plateau at similar scores by round 10](rs-early-superiority-learning-curve-plateaus-similarly.md) — related

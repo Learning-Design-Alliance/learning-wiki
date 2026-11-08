@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (119 show a difference, 37 mixed, 14 no difference) · 92 studies (47 associational, 26 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 24 of 92 report an effect size · 167 claims rest on one study
+> **Evidence** · 172 claims (121 show a difference, 37 mixed, 14 no difference) · 94 studies (47 associational, 28 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 24 of 94 report an effect size · 169 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -205,6 +205,8 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Both PA breaks and leisure-time physical activity are positively associated with daily perceived study ability](../claims/pa-breaks-ltpa-study-ability.md) [+M] — measured as an outcome of the instruction studied
 - [Most clerkship students perceive that CBL improved their clinical reasoning ability](../claims/cbl-perceived-clinical-reasoning-gain.md) [+M] — measured as an outcome of the instruction studied
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](../claims/mobile-vp-qualitative-confidence-case-solving.md) [+M] — measured as an outcome of the instruction studied
+- [Most students in the HBOPPPS cohort were satisfied, perceived improved learning ability, and preferred HBOPPPS over offline or online-only teaching](../claims/hboppps-student-satisfaction-and-preference.md) [+W] — measured as an outcome of the instruction studied
+- [Prior knowledge, working memory capacity and academic self-concept positively predicted, and socioeconomic status negatively predicted, Science and Technology performance](../claims/socio-cognitive-predictors-science-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -81,3 +81,4 @@ Sub-group analysis of Gelinas-Phaneuf et al.'s VR tumour-resection simulator: "a
 - [The eight-station simulation-based assessment produced a significant difference in mean station score between junior (ST2–ST4) and senior (ST5–ST8) trainees](sim-assessment-junior-senior-score-difference.md) — reports the opposite
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — reports the opposite
 - [Educator-guided D-Box simulator training enabled novices to perform acceptable wedge resection, though the educator's score advantage was not significant](educator-guided-dbox-training-novice-wedge-resection.md) — related
+- [Self-reported prior robotic simulation experience did not correlate with pretest performance or time to mastery](prior-simulation-experience-no-correlation.md) — related

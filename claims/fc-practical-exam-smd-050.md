@@ -83,3 +83,4 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Blended learning produced higher knowledge gain than traditional lecture in an evidence-based medicine course for medical postgraduates](blended-learning-higher-knowledge-gain-ebm-course.md) — related
 - [Effect sizes for quiz and final exam scores were largest for the flipped physical classroom blended learning group](effect-size-largest-fpcr-bl.md) — related
 - [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — related
+- [Students taught with flipped classroom combined with case-based learning scored higher on post-class quizzes than lecture-based classroom students in undergraduate pathology](fc-cbl-higher-post-quiz-scores-pathology.md) — related

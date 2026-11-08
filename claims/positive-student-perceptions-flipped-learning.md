@@ -78,3 +78,5 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Iterative redesign between flipped sessions, informed by questionnaire feedback, shifted student perceptions toward a more supportive teacher role and higher participation](dt-iteration-between-sessions-improved-student-feedback.md) — related
 - [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](flipped-learning-positive-perceptions-haematology.md) — related
 - [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related
+- [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
+- [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — related

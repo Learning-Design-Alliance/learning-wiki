@@ -57,3 +57,4 @@ Narrative synthesis across included randomised trials (e.g. Nathan 2022; Cho 202
 - [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — reports the opposite
 - [Physical simulator training improved suturing and knot-tying performance versus conventional methods in a cited randomized controlled trial](physical-simulator-suturing-knot-tying-rct.md) — related
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
+- [Students reported improved confidence in instrument handling, cable knot tying and suture tying after the virtual session](virtual-session-confidence-gains-surgical-skills.md) — related

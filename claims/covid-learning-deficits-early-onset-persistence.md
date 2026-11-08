@@ -80,3 +80,4 @@ Supplementary within-country analyses for the United States, the UK and the Neth
 - [Teaching and learning conditions did not statistically significantly explain cross-national differences in the pandemic-related widening of the socio-economic performance gap](conditions-did-not-explain-socio-economic-gap-change.md) — related
 - [COVID-19 third-grade school closures in Southern Germany showed no significant short-term or long-term effect on reading fluency](covid-closures-no-reading-fluency-effect-third-grade-bavaria.md) — a narrower finding that bears on this claim
 - [About 58% of teachers reported the gap between low- and high-performing students widened during the 2020–2021 school year](teachers-report-achievement-gap-widened.md) — related
+- [Whether longer school closures cause larger learning deficits remains an open question requiring cross-country comparison](longer-lockdowns-larger-learning-deficits-open-question.md) — related

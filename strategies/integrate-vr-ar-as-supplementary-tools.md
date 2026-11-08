@@ -73,6 +73,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use interactive streamed bedside teaching as a supplement to, not a replacement for, conventional face-to-face teaching](e-visite-supplement-not-replacement-strategy.md)
 - [Incorporate VR simulation into VATS training programs as an integrative tool alongside clinical experience](vr-simulation-integrative-vats-training-strategy.md)
 - [Use HVRS as an adjunct to, not a replacement for, conventional mannequin-based pre-clinical paediatric dentistry simulation](hvrs-as-adjunct-to-conventional-simulation-strategy.md)
+- [Implement the validated otoscopy simulator as a complementary tool alongside traditional teaching in medical curricula](vr-otoscopy-simulator-complementary-curriculum-strategy.md)
 
 ## Examples
 -

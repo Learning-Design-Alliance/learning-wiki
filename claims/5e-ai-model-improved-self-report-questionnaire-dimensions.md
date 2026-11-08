@@ -62,3 +62,4 @@ Self-report questionnaire (10 items, 5-point Likert; Cronbach's α = 0.924, S-CV
 - [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — related
 - [Public health undergraduates rate their intellectual and practical emergency competences around 3 of 5 but behavioral and motivation items around 4 of 5](students-weak-technical-strong-behavioral-competence.md) — related
 - [Community-oriented PBL increases students' self-assessed interest in community health care and ability to envision community health care settings](pbl-increases-interest-and-envisioning-community-care.md) — related
+- [All students with access to the PBL modules considered them useful for learning medical statistics, and total satisfaction with the course was significantly higher in the hPBL group](pbl-modules-satisfaction-usefulness-medical-statistics.md) — related

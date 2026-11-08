@@ -67,3 +67,4 @@ Ego-alter influence table analysis derived from the RSiena model (Fig. 1) showed
 - [Friendship networks among Chinese middle-school students show homophily, reciprocity and rising achievement similarity across two years](friendship-network-descriptives-four-waves.md) — a broader claim this one bears on
 - [No parental influence moderates the effect of friends' achievement on adolescents' achievement](no-parental-moderation-friendship-influence.md) — related
 - [Parental educational expectations directly predict higher adolescent academic achievement after accounting for friendship processes](parental-expectations-direct-achievement-effect.md) — related
+- [Close friends' academic engagement contributes to adolescents' own academic engagement over time](close-friend-engagement-influence.md) — related

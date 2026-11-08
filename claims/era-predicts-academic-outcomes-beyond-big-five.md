@@ -78,3 +78,5 @@ The same regression analyses showed both measures were independent predictors: "
 - [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](ei-predicts-emotions-and-achievement.md) — related
 - [Self-assessment was associated with 10% additional explained variance in post-test SRL beyond pre-test SRL in one single-group pre-test/post-test study with no comparison group](self-assessment-predicts-srl-beyond-pretest.md) — related
 - [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — related
+- [Ability-based emotion regulation scenarios explain more variance in future academic performance than the trait self-questionnaire (1.54% vs 0.38%)](ability-scenarios-beat-trait-scale-t3-gpa.md) — a narrower finding that bears on this claim
+- [Strategic EI incrementally predicts adolescents' GPA over verbal intelligence and personality, adding a significant 2% of variance](strategic-ei-incremental-gpa-prediction-adolescents.md) — related

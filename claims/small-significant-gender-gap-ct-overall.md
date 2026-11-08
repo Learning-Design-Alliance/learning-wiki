@@ -68,3 +68,4 @@ Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yiel
 - [Male students significantly outperformed female students in listening success in most film categories](male-students-outperform-females-listening.md) — related
 - [Female participants achieved higher diagnostic accuracy than male participants across all seven cases, with the largest gaps on the most challenging cases](female-higher-diagnostic-accuracy-oral-cases.md) — reports the opposite
 - [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related
+- [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related

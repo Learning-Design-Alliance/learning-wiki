@@ -67,3 +67,4 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [Most nurse educators in the validation sample lacked required pedagogical training for their role](nurse-educators-lack-pedagogical-training.md) — related
 - [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related
+- [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related

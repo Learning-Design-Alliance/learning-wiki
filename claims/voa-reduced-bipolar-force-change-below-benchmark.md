@@ -49,3 +49,6 @@ Between-group comparison of the rate of change in forces applied by the nondomin
 - [The AI-enhanced curriculum reduced maximum instrument divergence relative to control, achieving the expert benchmark](voa-reduced-instrument-divergence.md) — related
 - [The AI-enhanced curriculum reduced the rate of tumor resection relative to control, diverging further below the expertise benchmark](voa-reduced-tumor-resection-rate.md) — related
 - [The AI-enhanced curriculum slowed dominant-hand velocity and acceleration relative to control, diverging from expert benchmarks](voa-slower-dominant-hand-movement.md) — related
+- [AI tutoring feedback (VOA) produced significantly higher practice Expertise Scores than remote expert instruction and no-feedback control in simulated tumor resection](voa-feedback-higher-practice-expertise-scores.md) — a broader claim this one bears on
+- [VOA-trained students achieved significantly higher Expertise Scores in the realistic (transfer) resection than instructor and control groups](voa-higher-realistic-resection-expertise.md) — related
+- [Feedback on 4 AI-selected metrics improved 3 trained metrics and generalized to 8 of 16 untrained ICEMS performance metrics](voa-metric-feedback-extended-effect-untrained-metrics.md) — related

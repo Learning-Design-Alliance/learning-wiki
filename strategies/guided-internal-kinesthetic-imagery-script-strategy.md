@@ -47,7 +47,8 @@ The intervention is a brief, supervisor-led imagery session delivered immediatel
 - [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](../claims/adapted-miq-internal-consistency-pvc.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deliver a mental imagery session combining relaxation, teacher-guided mentalization of each protocol step, and independent rehearsal within time matched to conventional review](relaxation-guided-mentalization-rehearsal-protocol.md)
 
 ## Examples
 -

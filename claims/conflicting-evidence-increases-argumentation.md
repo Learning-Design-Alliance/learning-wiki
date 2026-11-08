@@ -50,3 +50,4 @@ Illustrative mechanism from the article's abstract: the nature of the perturbati
 - [Macro scripts foster knowledge-productive interactions: argumentation, explanations and mutual regulation](macro-scripts-foster-productive-interactions.md) — related
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](constructive-conflict-increases-idea-editing.md) — related
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — related
+- [In a TBL physiology course, higher-cognitive-level questions were associated with significantly more conceptual explanations in team discussions than lower-level questions](higher-level-questions-more-conceptual-explanations.md) — related

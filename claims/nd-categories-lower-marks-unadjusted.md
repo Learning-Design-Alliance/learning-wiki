@@ -50,3 +50,4 @@ Cross-sectional analysis of 9018 students aged 5–17 from 77 Catalan schools in
 - [After controlling for co-occurring neurodevelopmental disorders, ASD and motor disorders are associated with lower marks only in arts and physical education](asd-motor-disorders-only-arts-pe.md) — related
 - [Communication disorders remain significantly associated with lower marks across all academic outcomes after controlling for co-occurring conditions, though attenuated](communication-disorders-attenuated-significant.md) — related
 - [After controlling for co-occurring neurodevelopmental disorders, intellectual disabilities are the strongest predictor of poor academic performance across all subjects](id-strongest-predictor-adjusted.md) — related
+- [Attention problems independently increase the risk of poor grades across all three academic subjects in school students aged 5–17](attention-problems-risk-school-underachievement.md) — related

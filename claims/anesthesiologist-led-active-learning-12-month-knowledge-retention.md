@@ -50,3 +50,4 @@ A 12-month prospective cohort study of 192 fourth-year dental students (Group T 
 - [Active learning students report higher confidence in independently managing high-risk patients at 12 months (46.7% vs. 6%, r = 0.467)](active-learning-higher-confidence-managing-high-risk-patients.md) — related
 - [Role-play training shows no significant difference between groups in theoretical examination scores](role-play-no-significant-theory-exam-difference.md) — related
 - [Dental students' self-confidence in preparatory endodontic procedures (patient history taking, diagnosis, anesthesia) increases significantly across educational stages](dental-confidence-preparatory-procedures-increase-longitudinal.md) — related
+- [A context-relevant safe anesthesia checklist developed with East African professionals increased completion of critical actions in simulated preeclampsia and PPH care](east-africa-checklist-critical-actions-increase.md) — related

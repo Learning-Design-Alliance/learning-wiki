@@ -53,3 +53,4 @@ The review's Results section reports the single eligible quasi‐experimental pr
 - [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](positive-relationships-protect-against-violence.md) — related
 - [School-based prevention practices appear effective in reducing alcohol and drug use, dropout and nonattendance, and other conduct problems, with small average effects and considerable heterogeneity across studies](school-based-prevention-small-heterogeneous-effects.md) — related
 - [No school-based intervention model for students already using substances was found: all examined models were preventive or protective in approach](no-corrective-school-substance-model-exists.md) — related
+- [Fewer non-HPS students had consumed hashish or marijuana at least once](non-hps-fewer-hashish-marijuana-once.md) — related

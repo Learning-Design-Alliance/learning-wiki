@@ -54,3 +54,4 @@ Welch independent-samples t-test comparing male (n=237) and female (n=263) stude
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related
 - [Syrian medical students show moderate CPR knowledge (mean 5.03/11) and MI symptom knowledge (mean 11.50/18) with the largest CPR gaps in AED timing and defibrillation parameters](syrian-medical-students-moderate-cpr-mi-knowledge-aed-gaps.md) — related
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite
+- [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related

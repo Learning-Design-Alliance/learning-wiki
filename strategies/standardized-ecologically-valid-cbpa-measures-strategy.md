@@ -46,6 +46,7 @@ The review's future-directions section recommends that "future research should u
 - [Future research should establish causality of the PA-academic achievement relationship with high-quality RCTs, standardised outcome measures, and attention to moderators](pa-aa-future-research-priorities.md)
 - [Refocus physical activity research on study quality, transparent reporting, fidelity monitoring and differentiation of intervention characteristics](pa-field-refocus-quality-transparency-strategy.md)
 - [Future physical activity intervention studies should report activity intensity and include physical fitness measures as objective indicators](report-pa-intensity-and-fitness-measures-in-interventions.md)
+- [Partner with existing teacher-led active classrooms and evaluate them empirically to build high-school evidence](partner-existing-active-classrooms-empirical-evaluation.md)
 
 ## Examples
 -

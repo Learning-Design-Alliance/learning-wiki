@@ -55,3 +55,4 @@ Results section, Clip Applying analysis of the prospective randomized study (80 
 - [Neither box nor VR training led to significant improvement in simulated surgical (gastropexy) task performance](neither-program-improved-simulated-surgical-task.md) — related
 - [VR-trained group scored higher than the box-trained group only on VR intracorporeal suturing post-training](vr-group-higher-only-vr-intracorporeal-suturing.md) — related
 - [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related
+- [Learning curves improve under both basic and procedural VR training, with the greatest improvements seen in the procedural tasks](learning-curve-gains-both-modalities-procedural-greatest.md) — related

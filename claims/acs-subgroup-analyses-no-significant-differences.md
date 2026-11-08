@@ -56,3 +56,4 @@ Subgroup analyses reported in the meta-analysis results section (supplementary T
 - [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](pa-null-or-small-medium-effect-academic-achievement.md) — related
 - [Skill acquisition in the experimental group did not differ significantly by sex, academic year, or university major](no-demographic-differences-skill-acquisition.md) — related
 - [Active commuting to school and sitting playing board/card games show no association with executive function or academic achievement](active-commuting-board-games-null-associations.md) — a broader claim this one bears on
+- [Additional sport participation and active commuting show no significant association with physical activity level](sport-commuting-no-significant-pa-association.md) — related

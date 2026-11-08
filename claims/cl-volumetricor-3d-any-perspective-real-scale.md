@@ -48,3 +48,4 @@ Design-capability description of the VolumetricOR prototype in the Results secti
 ## Related Claims
 - [Volumetric video supports translational movement through the surgical scene, unlike fixed-point 360-degree video](cl-volumetric-video-vs-360-degree-video.md) — related
 - [Current virtual reality simulators target skill acquisition and lack authenticity for workflow and teamwork learning](cl-vr-simulators-skill-acquisition-lack-workflow-authenticity.md) — related
+- [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — a narrower finding that bears on this claim

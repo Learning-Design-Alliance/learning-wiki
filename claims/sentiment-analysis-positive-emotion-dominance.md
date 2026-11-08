@@ -49,3 +49,4 @@ Sentiment analysis of the interview transcripts using DE-LIWC2015 dictionaries, 
 - [POS tagging of interviews links the term strategy with words suggesting the digital tool promotes SRL](pos-network-strategy-learning-link.md) — related
 - [Nursing students experience a wide range of achievement emotions, including joy, hope, pride, gratitude, surprise, contentment, disappointment, shame, anxiety, anger, sadness and hopelessness, during internship feedback situations](nursing-students-range-achievement-emotions-internship-feedback.md) — related
 - [The type and intensity of emotions students experience in feedback situations depend on feedback focus (task vs person) and valence, in interplay with context and student characteristics](feedback-focus-and-valence-shape-emotions.md) — related
+- [Open feedback on Ethics Quarter content is overwhelmingly positive (99% of 71 responses)](ethics-quarter-open-feedback-99-percent-positive.md) — related

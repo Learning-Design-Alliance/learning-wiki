@@ -55,3 +55,4 @@ Hierarchical logistic models of students nested within high schools (n=17,753) p
 - [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
 - [Students' prior GPA positively predicts the probability of passing the class for at-risk students](prior-gpa-predicts-passing-at-risk.md) — related
+- [Secondary-school background strongly predicts university GPA, with technical/vocational students trailing liceo students](school-background-predicts-university-gpa.md) — related

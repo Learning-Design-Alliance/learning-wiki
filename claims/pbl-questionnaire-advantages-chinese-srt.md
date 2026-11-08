@@ -98,3 +98,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
 - [Clinical-based learning (clinical rotation and integration-into-clinic models) improves satisfaction, motivation and self-directed learning in dental materials science](clinical-based-learning-dental-materials.md) — related
 - [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](pbl-develops-critical-thinking-communication-iuhpe-competencies.md) — related
+- [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related

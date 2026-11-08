@@ -59,3 +59,4 @@ Model M5 (Table 4) combining student characteristics, contextual factors, famili
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [Males score higher on Anxiety, Information Processing, Selecting Main Ideas, Self-Testing, and Test Strategies, while females score higher on Attitude and Using Academic Resources](males-higher-anxiety-test-strategies-females-higher-attitude-resources.md) — related
+- [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related

@@ -54,3 +54,4 @@ The letter reports, citing VanLehn (2011), a survey finding that step-based ITSs
 - [A meta-review found intelligent tutoring systems approaching the effectiveness of ordinary human tutors, whose effectiveness is below that of expert tutoring](vanlehn-metareview-its-approaching-human-tutors.md) — possibly the same claim (merge candidate)
 - [Non-expert human tutors follow a limited 5-step collaborative reasoning repertoire, with far more student question-asking than classroom instruction](five-step-frame-human-tutor-corpus.md) — related
 - [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — a narrower finding that bears on this claim
+- [Nearly all students exposed to the AI tutor preferred learning with a combination of AI tutoring and expert instruction](students-prefer-combined-ai-expert-feedback.md) — related

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (118 show a difference, 42 mixed, 25 no difference) · 100 studies (36 causal, 26 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 100 report an effect size · 181 claims rest on one study
+> **Evidence** · 188 claims (121 show a difference, 42 mixed, 25 no difference) · 101 studies (36 causal, 27 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 24 of 101 report an effect size · 184 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -222,6 +222,9 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Chinese adolescents' weekly physical activity duration has an inverted U-shaped relationship with academic achievement, with an inflection point of approximately 3.549 h/week](../claims/inverted-u-physical-activity-academic-achievement-inflection-3-549.md) [~M] — learners who differ on it differ in outcomes
 - [MVPA and average daily steps positively predict mathematics scores in both male and female middle school students](../claims/mvpa-steps-predict-math-scores-middle-school.md) [+M] — learners who differ on it differ in outcomes
 - [Physical health mediates the positive effect of physical activity on academic achievement across low, medium and high activity levels, with a larger effect in the medium group](../claims/physical-health-mediation-physical-activity-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Correlations between academic performance and physical activity are lower than those with physical fitness, especially for weekend activity (r = 0.28)](../claims/pa-academic-correlations-lower-than-pf.md) [+M] — learners who differ on it differ in outcomes
+- [Physical education grades show the highest correlations with physical fitness test results (r = 0.53–0.95)](../claims/pe-grade-highest-correlation-with-fitness.md) [+M] — learners who differ on it differ in outcomes
+- [Physical fitness correlates moderately with grade point average (r = 0.43–0.64) and physical activity correlates moderately to high (r = 0.59–0.87)](../claims/gpa-correlates-with-fitness-and-activity.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

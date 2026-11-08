@@ -50,3 +50,4 @@ Retrospective observational analysis of 248 register-identified SD cases (62 pre
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [Annual obstetric emergency team training may reduce brachial plexus injury at birth, with low certainty evidence from cohort studies and a non-significant RCT result](obstetric-team-training-reduces-brachial-plexus-injury.md) — related
 - [Shoulder dystocia incidence and its risk factors (gestational diabetes, induction, vacuum extraction) rose significantly across the study period](sd-incidence-and-risk-factors-rose.md) — related
+- [Multidisciplinary simulation training for shoulder dystocia reduced neonatal brachial plexus injury rates (RR 0.37), but the effect declined over time](shoulder-dystocia-simulation-brachial-plexus-reduction.md) — related

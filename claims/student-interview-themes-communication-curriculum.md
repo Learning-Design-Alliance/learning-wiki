@@ -51,3 +51,4 @@ Semi-structured interviews with eight students (five female, three male), each l
 - [Nervousness is the main emotion students identify after their first simulation day, and students link nerves to detrimentally influenced client interactions](nervousness-main-emotion-simulation-reflection.md) — related
 - [Students' simulation anxiety coalesced around three themes: anticipation of the unknown, simulation as real, and being observed](three-themes-anxiety-realism-meaning-simulation.md) — related
 - [Focus group analysis of simulation participants yields four themes — learning (32.6%), self-efficacy (29%), simulation method (21.3%), and development (16.5%)](focus-group-four-themes-als-simulation.md) — related
+- [Phenomenological interviews identified four themes of graduate nurses' lived experience: pleasant discovery, useful learning, emotional change, and an active learning process](lived-experience-four-themes-repeated-simulation.md) — related

@@ -92,3 +92,4 @@ For the third open question, "Most of the responses (70.5%) indicated that iVR e
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
 - [Student perceptions of online mathematics tutoring were predominantly positive, with positive comments outnumbering negative comments three to one](student-perceptions-predominantly-positive.md) — related
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
+- [Open feedback on Ethics Quarter content is overwhelmingly positive (99% of 71 responses)](ethics-quarter-open-feedback-99-percent-positive.md) — related

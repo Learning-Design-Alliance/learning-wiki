@@ -48,3 +48,4 @@ Documentation review of SD cases across pre- and post-training periods. The stud
 - [Successful posterior arm delivery was documented significantly more often after simulation training (11.3% vs 23.4%), the most significant change in SD management](posterior-arm-delivery-increased-post-training.md) — related
 - [Shoulder dystocia incidence and its risk factors (gestational diabetes, induction, vacuum extraction) rose significantly across the study period](sd-incidence-and-risk-factors-rose.md) — related
 - [Permanent brachial plexus birth injury incidence decreased after implementation of systematic simulation training despite rising shoulder dystocia incidence](simulation-training-reduced-permanent-bpbi-incidence.md) — related
+- [Multidisciplinary simulation training for shoulder dystocia reduced neonatal brachial plexus injury rates (RR 0.37), but the effect declined over time](shoulder-dystocia-simulation-brachial-plexus-reduction.md) — related

@@ -88,3 +88,4 @@ Instrument-utilization metric contrasts from the RCT's learning-outcomes analysi
 - [Novice surgeons using force feedback apply significantly less force to tissue during robotic-assisted suturing tasks](ffb-reduces-applied-force-robotic-suturing.md) — related
 - [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — related
 - [The AI-enhanced curriculum reduced change in nondominant-hand bipolar force relative to control, but participants fell below the expert benchmark](voa-reduced-bipolar-force-change-below-benchmark.md) — related
+- [Feedback on 4 AI-selected metrics improved 3 trained metrics and generalized to 8 of 16 untrained ICEMS performance metrics](voa-metric-feedback-extended-effect-untrained-metrics.md) — related

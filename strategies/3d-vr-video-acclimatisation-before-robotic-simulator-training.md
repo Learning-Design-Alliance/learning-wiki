@@ -53,7 +53,8 @@ The strategy is to have novices watch a 20-minute procedural video (robotic ante
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](../claims/ncpr-vr-low-simulator-sickness.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Use a first-person 3D procedure video as an educational precursor to simulation-based training](3d-video-precursor-to-simulation-strategy.md)
 
 ## Examples
 -

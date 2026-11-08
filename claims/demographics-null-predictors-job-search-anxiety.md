@@ -62,3 +62,4 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Voluntary choice of nursing profession loses significance and reverses direction in multivariable model](voluntary-choice-suppression-effect-multivariable.md) — related
 - [Years since injury, sex, age, and present accommodations were not significantly associated with negative grade changes after adjustment](non-significant-covariates-grade-change.md) — related
+- [Age and gender showed no significant association with perceived e-learning stress in the adjusted model](age-gender-null-e-learning-stress-adjusted.md) — related

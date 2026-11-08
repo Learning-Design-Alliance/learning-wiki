@@ -59,3 +59,5 @@ Pre- and post-training 20-question multiple-choice examinations (100 points) dra
 - [Hemodialysis nurses trained with flipped classroom scored significantly higher on objective, subjective, and overall theoretical knowledge than nurses trained with lecture-based learning](fc-beats-lbl-hemodialysis-theoretical-knowledge.md) — related
 - [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related
 - [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related
+- [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — related
+- [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related

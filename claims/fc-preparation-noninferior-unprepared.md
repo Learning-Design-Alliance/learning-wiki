@@ -68,3 +68,4 @@ Mann-Whitney comparison of unprepared flipped students' 15-question test results
 - [Flipped classroom performance advantages persisted at two weeks in all topics except FC #2, where only a trend appeared](fc-delayed-two-week-retention.md) — related
 - [Six months after flipped seminars, students retained more topic knowledge than conventionally taught students](fc-six-month-long-term-retention.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
+- [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related

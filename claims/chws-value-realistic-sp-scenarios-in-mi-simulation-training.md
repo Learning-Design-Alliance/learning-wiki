@@ -67,3 +67,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related
+- [Educators and trainees expressed remarkably similar views, with trainees emphasising logbooks, protected time, scenario complexity and feedback detail](educator-trainee-response-similarity.md) — related

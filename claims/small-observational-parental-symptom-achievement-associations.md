@@ -49,3 +49,5 @@ Linear regression in the total MoBa sample (observational cohort analysis). The 
 - [Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself](peer-rejection-predicts-subsequent-maladjustment-adhd.md) — related
 - [Associations between parental symptoms measured close to the test are less attenuated than those measured during pregnancy](timing-moderates-attenuation-of-parental-symptom-associations.md) — related
 - [Exposure to parental depressive or anxiety disorders during compulsory school years was associated with lower ninth-grade school performance](parental-mental-disorders-lower-school-grades.md) — related
+- [Higher self-reported depression predicts lower NAPLAN Numeracy and Reading scores 7–8 months later](depression-predicts-lower-naplan-scores.md) — related
+- [Higher SES and lower depressive symptoms are associated with higher total A-Level scores](ses-depression-a-level-scores.md) — related

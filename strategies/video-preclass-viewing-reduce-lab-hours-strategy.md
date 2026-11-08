@@ -51,6 +51,7 @@ The article recommends that nursing educators use interactive educational videos
 - [Adopt interactive educational videos when face-to-face meetings are not possible](interactive-video-contingency-lockdown-strategy.md)
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
+- [Use pre-class expert demonstration videos with in-class self-directed triad practice to increase efficiency of clinical skill teaching](pre-class-video-triad-practice-strategy.md)
 
 ## Examples
 -

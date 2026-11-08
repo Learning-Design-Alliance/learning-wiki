@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (42 for, 33 mixed, 3 against) · 69 studies (30 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 17 of 69 report an effect size · 70 claims rest on one study
+> **Evidence** · 80 claims (44 for, 33 mixed, 3 against) · 70 studies (31 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 17 of 70 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Students in the stamp collecting game group achieved significantly higher post-rotation neonatal test scores than controls](../claims/stamp-game-higher-post-rotation-test-scores.md) [+W] — attached 2026-11-06 from Han Mingyu et al. (2025), which proposed "Use simple, low-cost gamification elements such as stamp collection to enhance engagement in brief clinical rotations"; tests this page's relationship.
 - [Medical students taught embryology with a gamification platform added to routine instruction scored significantly higher on the final exam than students taught by routine instruction alone](../claims/gamification-final-exam-scores-higher-embryology.md) [+W] — attached 2026-11-06 from Rahimipour Marzieh et al. (2025), which proposed "Use gamification as a complement to routine teaching rather than a replacement in medical embryology education"; tests this page's relationship.
 - [BAM game skill advantage held at eight of ten OSCE stations but not at the burn extent and depth stations](../claims/bam-game-station-level-skill-advantage.md) [~W] — attached 2026-11-07 from Nasirzade Amirreza et al. (2024), which proposed "Gamification elements sustain engagement with distressing clinical content"; tests this page's relationship.
+- [Students using the badge-equipped gamified response system RB-G-SIDRA obtained higher final exam grades than students using the non-gamified SIDRA and the ranking-only R-G-SIDRA.](../claims/badges-gamified-crs-higher-final-exam-grades.md) [+W] — attached 2026-11-08 from López-Jiménez et al. (2021), which proposed "Prefer badges over public rankings to reward progress, because badges reward without imposing competitive penalty on lagging students"; tests this page's relationship.
+- [MCQ test scores were higher with both gamified systems than with the non-gamified SIDRA, but ranking plus teams plus points without badges did not differ from badges.](../claims/gamified-crs-higher-mcq-scores.md) [+W] — attached 2026-11-08 from López-Jiménez et al. (2021), which proposed "Prefer badges over public rankings to reward progress, because badges reward without imposing competitive penalty on lagging students"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

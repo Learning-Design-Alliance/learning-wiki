@@ -70,3 +70,4 @@ The Grade 5 questionnaire results showed the same pattern: higher satisfaction i
 - [Total cumulative study time is comparable between AI-assisted CBL+FC and lecture-based groups despite more intensive pre-class preparation](ai-assisted-cbl-fc-comparable-total-study-time.md) — related
 - [Medical students taught with combined CBL/FC outperform lecture-based peers on clinical case scenarios in nephrology bedside teaching](cbl-fc-superior-clinical-case-scenario-nephrology.md) — related
 - [PRI-E consumed more student spare time than LBL, which may have reduced satisfaction](pri-e-spare-time-cost.md) — related
+- [Students reported higher pre-class burden with FC+CBL but no increase in in-class pressure relative to LBC](fc-cbl-pre-class-burden-not-in-class-pressure.md) — reports the opposite

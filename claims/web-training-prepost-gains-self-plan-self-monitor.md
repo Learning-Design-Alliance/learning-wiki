@@ -62,3 +62,4 @@ Pretest-posttest quasi-experiment with 53 Taiwanese college students (experiment
 - [Pintrich SRL-based activities improve elementary teacher candidates' overall self-regulated learning perceptions](pintrich-srl-activities-improve-srl-perceptions.md) — a narrower finding that bears on this claim
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
 - [A 16-week personalized teaching intervention was associated with significantly higher posttest metacognitive strategy use across planning, monitoring, and evaluation among vocational college students.](personalized-teaching-higher-metacognitive-strategy-use.md) — related
+- [Metacognition+TM participants showed greater increases in degree commitment than Metacognition-only participants](metacognition-tm-degree-commitment-gains.md) — related

@@ -48,3 +48,4 @@ The review's figure-based observation comparing reported pre/post mean time to C
 - [Ttt Reduces Time To Ct Mixed](ttt-reduces-time-to-ct-mixed.md)
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [A single-day in situ simulation training significantly increases total teamwork-related shared mental model similarity in interprofessional trauma teams](simulation-training-increases-total-smm-similarity-trauma-teams.md) — related
+- [In situ and off-site simulation-based obstetric anesthesia training produced similar individual and team outcomes, with greater fidelity reported for in situ training](in-situ-versus-off-site-simulation-similar-outcomes.md) — related

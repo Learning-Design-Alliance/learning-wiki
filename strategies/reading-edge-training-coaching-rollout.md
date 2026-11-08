@@ -65,6 +65,7 @@ The program's professional development model combines an initial workshop with o
 - [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
+- [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 
 ## Examples
 -

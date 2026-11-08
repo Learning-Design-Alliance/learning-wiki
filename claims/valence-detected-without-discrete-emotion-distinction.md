@@ -69,3 +69,4 @@ Bonferroni-corrected pairwise t-tests on frustrated-instructor ratings in the sa
 - [Participants rated happy and content instructors higher on positive than negative emotion scales, supporting the positivity hypothesis](positivity-effect-positive-instructors-rated-higher-on-positive-scales.md) — related
 - [Voice alone conveys the emotional tone of happy, content, and bored instructors as accurately as voice plus an embodied onscreen agent](voice-alone-conveys-happy-content-bored-emotion.md) — related
 - [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](learners-recognize-instructor-emotional-tone-video.md) — a broader claim this one bears on
+- [On a multimodal transfer task, 33.1% of students recognized a deliberately reduced-valency humanitarian poster issue and linked it to an appropriate rhetorical effect](multimodal-poster-valency-rhetorical-transfer.md) — related

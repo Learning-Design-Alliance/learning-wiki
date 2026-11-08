@@ -54,3 +54,4 @@ Spline regression of item-level non-technical scores against technical performan
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
 - [Training significantly improved self-efficacy in situation awareness and in communication and teamwork, but not task management](splints-training-component-specific-self-efficacy.md) — related
 - [Case complexity was related to task management performance but not to leadership or teamwork performance](case-complexity-task-management-link.md) — related
+- [Self-reported task difficulty, stress, and engagement during the laboratory stress task show no association with A-level performance](task-ratings-null-a-level.md) — related

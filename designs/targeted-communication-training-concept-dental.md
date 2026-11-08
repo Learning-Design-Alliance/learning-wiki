@@ -17,7 +17,7 @@ sources:
 # Targeted communication training concept combining a lecture with two simulated patient sessions and sandwich-technique feedback
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A training concept for dental education consisting of two parts: a lecture on the theoretical basics of communication skills, and two practical sessions with trained simulation patients based on four clinical vignettes representing common dental and oral surgery situations. During each session one student conducts the conversation, then receives a self-assessment followed by feedback from the simulation patient, the observing students and the lecturer using "the sandwich technique, two positive statements surrounding a middle statement that could be perceived as negative". The concept was integrated into an existing internship program.
@@ -40,7 +40,7 @@ A training concept for dental education consisting of two parts: a lecture on th
 - Clinical communication skills including structured conversation, personal approach, informed decisions and professional appearance
 
 ### Claims
-- [Targeted Training Simulated Patients Improved Communication Skills](../claims/targeted-training-simulated-patients-improved-communication-skills.md) [+M]
+- [Targeted Training Simulated Patients Improved Communication Skills](../claims/targeted-training-simulated-patients-improved-communication-skills.md) [~W]
 - [Students Rated Small Group Simulated Patient Training Useful](../claims/students-rated-small-group-simulated-patient-training-useful.md) [+M]
 
 ## Related Designs

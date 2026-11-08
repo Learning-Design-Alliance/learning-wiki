@@ -76,3 +76,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related
 - [Moderator collaboration was evident through mutual reinforcement of prompts, cross-referencing prior discussions, peer questioning, and comment-building](moderator-cross-moderation-collaboration.md) — related
+- [Participants applied the learning: more than 60% used session resources, 47% shared them, and 19 respondents reported planning, advocacy and guidance-drafting actions](participants-used-and-shared-session-resources.md) — related

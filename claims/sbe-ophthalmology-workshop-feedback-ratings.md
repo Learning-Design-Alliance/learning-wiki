@@ -55,3 +55,4 @@ Immediate post-workshop Likert feedback survey (Kirkpatrick level 1) in the pilo
 - [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
+- [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related

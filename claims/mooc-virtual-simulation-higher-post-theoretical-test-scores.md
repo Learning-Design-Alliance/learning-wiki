@@ -47,3 +47,4 @@ Quasi-experimental comparison of 60 blended-model students vs. 79 traditionally 
 ## Related Claims
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
 - [Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching](integrated-simulation-clinical-practice-no-score-difference.md) — related
+- [CoI-based blended learning improved skill performance and management efficiency subscores of practical ability more than face-to-face teaching](coi-blended-learning-skill-performance-efficiency.md) — related

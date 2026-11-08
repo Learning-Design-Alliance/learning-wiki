@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 298 claims (195 show a difference, 58 mixed, 45 no difference) · 186 studies (70 associational, 64 causal, 27 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 43 of 186 report an effect size · 290 claims rest on one study
+> **Evidence** · 302 claims (198 show a difference, 59 mixed, 45 no difference) · 189 studies (72 associational, 64 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 44 of 189 report an effect size · 294 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -334,6 +334,10 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Reading anxiety does not mediate the relationship between reading ability and academic achievement in university students](../claims/no-mediation-reading-anxiety-achievement.md) [-M] — learners who differ on it differ in outcomes
 - [Pre-training anxiety is not correlated with post-training satisfaction or self-confidence](../claims/no-correlation-anxiety-satisfaction-self-confidence.md) [-W] — learners who differ on it differ in outcomes
 - [Anxiety scores of children's nurses showed a small increase after the e-learning programme, with mixed results across NASC-CDM items](../claims/rlo-elearning-small-anxiety-increase.md) [~M] — measured as an outcome of the instruction studied
+- [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](../claims/female-and-high-trait-anxiety-higher-state-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Stress and anxiety are the predominant emotions reported in simulation-based education research and affect academic outcomes mainly in an obstructive way](../claims/stress-anxiety-predominant-sbe-review.md) [+M] — learners who differ on it differ in outcomes
+- [Test anxiety mediated the effect of URM status on exam performance only at inclusive institutions, not at community colleges or selective institutions](../claims/test-anxiety-mediation-urm-gap-only-inclusive.md) [~M] — learners who differ on it differ in outcomes
+- [Test anxiety was universally negatively associated with exam scores across community college, inclusive, and selective institutions](../claims/test-anxiety-negatively-associated-exam-scores-all-contexts.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

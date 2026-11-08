@@ -49,3 +49,4 @@ Pretest–posttest comparison within the 14-child experimental group using Wilco
 - [MUECIP showed no significant advantage over the standard program on personal-social, language (Denver II) and psychomotor outcomes](muecip-no-advantage-personal-social-language-psychomotor.md) — related
 - [Posttest scores favored the experimental group on fine motor, gross motor, social development, language development, cognitive development and self-care skills](muecip-posttest-favors-experimental.md) — related
 - [Parental perceptions of child fitness and activity did not change significantly after the curriculum](sbsm-parental-perceptions-no-significant-change.md) — related
+- [Preschoolers' psychomotor dimensions improve significantly within each academic year, with the set of improving dimensions expanding from balance and leg coordination at age 3 to seven dimensions at age 4](psychomotor-dimensions-improve-within-academic-years.md) — related

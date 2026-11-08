@@ -49,3 +49,4 @@ Marginal structural models for the step 4 cooperative activity (Tables 3 and 4, 
 - [Self-testing via answering PeerWise questions showed no significant effect on the molecular biology multiple-choice exam section](no-significant-self-testing-effect-mcq-section.md) — related
 - [Question-authoring quality predicts molecular biology multiple-choice exam performance after controlling for prior grades and self-testing, in a 632+-student biochemistry cohort](question-authoring-quality-predicts-mcq-exam.md) — related
 - [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](practice-test-frequency-predicts-exam-performance.md) — a broader claim this one bears on
+- [Requiring students to author multiple-choice questions is associated with higher course performance after controlling for prior academic performance](mcq-authoring-course-performance.md) — related

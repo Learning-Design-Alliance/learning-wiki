@@ -65,3 +65,4 @@ Same repeated measures design for systolic and diastolic blood pressure, with pr
 
 ## Related Claims
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related
+- [The PASAT stress task significantly increased cardiovascular activity on all measured variables in the student sample](pasat-increased-cardiovascular-activity.md) — related

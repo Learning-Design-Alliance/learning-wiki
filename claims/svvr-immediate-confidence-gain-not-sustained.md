@@ -50,3 +50,4 @@ GEE analysis of the same two-group RCT (n = 108) measuring confidence with a sin
 - [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Nurses who encounter delirium cases during follow-up report higher confidence than those without such experience](clinical-exposure-reinforces-confidence.md) — related
+- [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related

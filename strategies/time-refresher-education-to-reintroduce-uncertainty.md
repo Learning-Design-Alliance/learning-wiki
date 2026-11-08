@@ -53,6 +53,8 @@ The article suggests that the optimal timing for bolus refresher education may b
 - [Schedule periodic refresher modules to maintain point-of-care EEG skills after initial e-learning](periodic-refresher-modules-poceeg-skills.md)
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 - [Reevaluate and shorten the time intervals between pediatric CPR training sessions to optimize retention](shorter-intervals-between-cpr-training-sessions.md)
+- [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
+- [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 
 ## Examples
 -

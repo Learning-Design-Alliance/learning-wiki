@@ -69,3 +69,5 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) — related
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite
 - [Male students report higher innovativeness, academic resilience, and academic performance than female students, with only a small gender gap in DL self-efficacy](gender-differences-innovation-resilience-performance.md) — related
+- [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](female-and-high-trait-anxiety-higher-state-anxiety.md) — related
+- [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](sex-female-advantage-not-mathematics.md) — related

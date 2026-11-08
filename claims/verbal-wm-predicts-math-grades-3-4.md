@@ -60,3 +60,4 @@ Path analysis (Model 1a) in 146 children; LS also negatively associated with DAY
 - [QNC Level I predicts QNC Level II/III, which in turn predicts Grade 3 mathematics achievement; QNC Level I also retains a direct path to Grade 3 math](qnc-levels-predict-grade-3-math.md) — related
 - [Teacher-rated general anxiety is associated with lower verbal working memory performance](general-anxiety-undermines-wm.md) — related
 - [Children's self-rated general anxiety was not directly related to math achievement at either assessment time](self-rated-general-anxiety-not-related-to-math.md) — related
+- [Prior knowledge, working memory capacity and academic self-concept positively predicted, and socioeconomic status negatively predicted, Science and Technology performance](socio-cognitive-predictors-science-performance.md) — related

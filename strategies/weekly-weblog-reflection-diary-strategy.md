@@ -43,6 +43,7 @@ The literature suggests teachers adopt different teaching strategies: completing
 ## Related Strategies
 
 - [Use weekly diary-report forms with feedback to develop pre-service teachers' self-regulation strategies](weekly-diary-report-forms-feedback.md)
+- [Optional weekly booster assignments to plan and reflect on study strategies](weekly-booster-plan-reflect-assignments.md)
 
 ## Examples
 -

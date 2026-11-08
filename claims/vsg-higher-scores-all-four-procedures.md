@@ -45,3 +45,4 @@ Procedure-level analysis in the RCT (Table 4) reports post-test between-group co
 - [A 7-day virtual simulation game on CAUTI prevention produced higher post-test skill scores than standard training presentations, with a large effect size](vsg-improves-cauti-prevention-skills.md) — a broader claim this one bears on
 - [VSG students took longer on some procedures at post-test, which the authors interpret as more thorough execution rather than reduced performance](vsg-longer-procedure-times-thoroughness.md) — related
 - [A 7-day virtual simulation game on CAUTI prevention produced higher post-test knowledge scores than standard training presentations in nursing students](vsg-improves-cauti-prevention-knowledge.md) — related
+- [Integrating simulation-based training into a CLABSI prevention bundle reduced CLABSI rates from 13.9 to 4.7 per 1000 catheter days in a NICU](simulation-clabsi-reduction-nicu.md) — related

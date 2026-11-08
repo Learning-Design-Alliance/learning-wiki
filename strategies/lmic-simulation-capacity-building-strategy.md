@@ -50,6 +50,7 @@ The review recommends linking distant medical educators from first-world countri
 
 - [Implement structured mentorship programs and formal leadership development initiatives for healthcare professionals in LMIC settings](structured-mentorship-leadership-development-lmic.md)
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
+- [Deliver patient communication training virtually and build an institution-independent virtual training network](virtual-training-network-patient-communication-medphys.md)
 
 ## Examples
 -

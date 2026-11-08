@@ -50,3 +50,4 @@ Outcome of the 40-student simulation study: participants received only individua
 - [Novices complete a single-button anastomosis suture significantly faster with a microscope than with the Symani robot](microscope-faster-anastomosis-suture-than-symani.md) — related
 - [Gaming, sewing, or knitting experience speeds novices' needle grasping on both systems, but not more complex exercises](tech-savvy-advantage-limited-to-simple-exercise.md) — related
 - [Most novice students perceive the Symani robot as more precise and more relaxing and prefer it for clinical use despite longer times](students-prefer-symani-precision-ergonomics.md) — related
+- [Cited studies report home microsurgical training produced outcomes similar to laboratory-microscope training](home-microsurgery-training-similar-outcomes-cited.md) — related

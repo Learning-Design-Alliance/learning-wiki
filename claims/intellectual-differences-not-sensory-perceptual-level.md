@@ -47,3 +47,4 @@ Terman's symposium contribution, adopting Meumann's reversal of Stern's teleolog
 ## Related Claims
 - [A 12-year-old's intelligence test score prophesies book-learning outcomes more accurately than practical or social-intellectual performance](test-scores-prophesy-book-learning-better-than-practical-tasks.md) — related
 - [Goddard's book endorses educational and vocational placement by tested intelligence levels, predicting increased efficiency and reduced delinquency](goddard-placement-by-intelligence-levels.md) — related
+- [IBO theoretical exam items shifted from pure reproduction of conceptual knowledge toward analyzing as the main cognitive process across the competition's history](ibo-theory-items-shift-reproduction-to-analysis.md) — related

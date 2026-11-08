@@ -47,3 +47,4 @@ Paired pretest–posttest comparison for all 50 residents who completed the 30-d
 ## Related Claims
 - [The character-education thematic textbook also raises experimental-class posttest means well above pretest means](character-textbook-pretest-posttest-gain.md) — related
 - [Experimental-group students' learning achievement and creative thinking posttest scores were significantly higher than their pretest scores after learning with the model](model-pretest-posttest-gains-creative-thinking-achievement.md) — related
+- [KSS-based emergency training significantly raises total emergency knowledge scores of pediatric medical workers from a median of 75.00 to 100.00](kss-training-raises-total-emergency-knowledge-scores.md) — related

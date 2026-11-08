@@ -62,3 +62,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Nursing students exposed to mobile-based learning rate it highly satisfactory](mbl-high-satisfaction-nursing-students.md) — related
 - [Nurses received the web-based EBP training program positively, rating its information as meaningful, practicable, and accessible](nurse-acceptability-web-based-ebp-program.md) — related
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
+- [Participants rated the training positively on organization, content, material, assessment, and overall competency after each session, with slight declines in most domains except materials.](hbb-training-satisfaction-positive-all-domains.md) — related

@@ -145,3 +145,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Interns in the 3D printing + PBL group rated teaching outcomes significantly higher than the traditional group across nine survey dimensions](3d-printing-pbl-higher-survey-scores-nine-dimensions.md) — related
 - [Clinical-based learning (clinical rotation and integration-into-clinic models) improves satisfaction, motivation and self-directed learning in dental materials science](clinical-based-learning-dental-materials.md) — related
 - [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](pbl-develops-critical-thinking-communication-iuhpe-competencies.md) — related
+- [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related

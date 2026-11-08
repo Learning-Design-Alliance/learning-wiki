@@ -57,3 +57,6 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [VA-MeCo scores show near-zero to low correlations with Big Five personality traits, smaller than typically found for SJTs](va-meco-personality-discriminant-validity.md) — related
 - [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — reports the opposite
 - [Extraversion, Agreeableness, and Conscientiousness are positively associated with non-performance and performance components of academic achievement](personality-traits-academic-achievement-paths.md) — related
+- [Broad conscientiousness is the strongest Big Five predictor of both academic GPA and clinical marks in dental students](conscientiousness-predicts-dental-gpa-and-clinic.md) — related
+- [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — related
+- [Agreeableness predicts clinical performance while extraversion and openness relate only to academic achievement and neuroticism to neither](other-big-five-domains-dental-performance-patterns.md) — reports the opposite

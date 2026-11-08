@@ -50,3 +50,4 @@ Self-assessment of knowledge on a seven-point scale (adapted from Bhanji et al.)
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Participants hold very positive perceptions of faculty development workshop quality, with no significant differences between centralized and decentralized cycles](fd-workshops-very-positive-quality-perceptions.md) — related
 - [A 1-hour framework workshop improves faculty confidence in writing narrative evaluations, sustained at 3 months](framework-workshop-improves-faculty-confidence-sustained.md) — related
+- [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](post-session-knowledge-increase-64-percent.md) — related

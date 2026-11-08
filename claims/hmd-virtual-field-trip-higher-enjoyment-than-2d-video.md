@@ -56,3 +56,4 @@ Independent-samples t-test (Hypothesis 2) in the same between-subjects media-com
 - [Enjoyment mediates the pathway from immersive media to immediate posttest score while interest mediates the pathway to delayed posttest score](camil-enjoyment-immediate-interest-delayed-pathways.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
+- [The 3D feature is rated as moderately interesting relative to 2D video, with no difference between novice and experienced groups](3d-feature-moderate-added-interest.md) — related

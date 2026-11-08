@@ -49,6 +49,7 @@ The article recommends educators use insights from mid-course SJT performance to
 
 - [Use early internal course assessments to flag students at risk of underperformance on high-stakes exams](early-internal-assessments-flag-at-risk-students.md)
 - [Use routine TBL readiness data as an early-warning system to trigger bespoke, targeted mid-semester support for at-risk students.](tbl-analytics-early-warning-bespoke-support-strategy.md)
+- [Establish an early, preventive support system for low-achieving students, using high inter-course score correlations to predict at-risk students](early-preventive-support-system-low-achievers.md)
 
 ## Examples
 -

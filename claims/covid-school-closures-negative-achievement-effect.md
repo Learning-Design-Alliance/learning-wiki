@@ -67,3 +67,4 @@ Systematic review synthesis of eleven studies meeting inclusion criteria (data c
 - [Summer math programs have a small significant positive overall effect on students' math scores (d=0.08).](summer-math-programs-overall-d-008.md) — related
 - [Selection into Dutch COVID-19 remediation programs was strongly linked to disadvantage, with students with extremely low test scores most likely to participate](remediation-selection-linked-to-disadvantage.md) — related
 - [Participation in Dutch COVID-19 remediation programs was associated with a statistically significant but small increase of about 0.05 SD in vulnerable students' achievement](remediation-programs-005sd-gain.md) — related
+- [COVID-19 learning losses in Dutch primary education were larger for students from disadvantaged backgrounds than for their fellow students](covid-learning-loss-unequally-distributed-disadvantaged.md) — a narrower finding that bears on this claim

@@ -43,6 +43,7 @@ The article recommends that schools and services attend to children's sleep diff
 - [Clinicians query for consistency in sleep routines and schedules and discuss sleep health with families before formal schooling entry as preventative support for school readiness](clinician-parent-sleep-routine-discussions.md)
 - [Combine sleep hygiene education and physical activity promotion in campus student support programs](campus-sleep-hygiene-pa-combined-strategy.md)
 - [Map chronotype differences and implement targeted sleep hygiene interventions in schools](school-chronotype-mapping-sleep-hygiene-intervention.md)
+- [Schools assessing and tracking student depression and delivering school-based depression prevention programs](school-based-depression-tracking-and-prevention.md)
 
 ## Examples
 -

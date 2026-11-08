@@ -58,3 +58,5 @@ Counterfactual analysis by SES group (parental education combined with household
 - [Parental education is not related to whether children are tracked immediately or delayed](parental-education-not-related-delayed-tracking.md) — related
 - [Markers of vulnerability (rural residence, disadvantaged caste, poverty) amplified pandemic learning loss for girls but not boys](vulnerability-markers-amplify-girls-learning-loss.md) — a narrower finding that bears on this claim
 - [The pandemic negatively affected most children's lifestyle domains regardless of vulnerability status](pandemic-negative-lifestyle-effects-across-groups.md) — related
+- [Income-related differences in COVID-19 learning losses were estimated net of parental education via additional interaction controls](covid-income-effects-net-of-parental-education.md) — related
+- [Learning losses varied by parental education and parental income, on top of already existing inequalities](covid-learning-loss-inequality-parental-education-income.md) — possibly the same claim (merge candidate)

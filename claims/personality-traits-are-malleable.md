@@ -51,3 +51,4 @@ The review reports, citing Roberts et al. (2017), a meta-analysis of 207 studies
 ## Related Claims
 - [Behavior activation interventions show a dose-response pattern — completing more conscientiousness challenges produced larger increases — but one behavior activation trial found no significant change](behavior-activation-dose-response-mixed-effectiveness.md) — a narrower finding that bears on this claim
 - Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias — related
+- [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related

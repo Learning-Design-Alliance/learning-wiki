@@ -68,3 +68,4 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [First-year and sixth-year GPA were very highly correlated (r=0.745)](first-year-and-sixth-year-gpa-highly-correlated.md) — related
 - [Psychological stress response is negatively correlated with confidence levels, with no association between stress response and performance score](psychological-stress-negatively-correlated-with-confidence-no-performance-association.md) — reports the opposite
 - [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — related
+- [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related

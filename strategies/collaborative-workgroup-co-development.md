@@ -46,6 +46,7 @@ R15CC designed and facilitated a highly collaborative six-session workgroup in w
 - [Phased LEA and SEA recommendations for adopting Opportunity Culture staffing redesign](oc-adoption-recommendations-lea-sea.md)
 - [Recommendations for state education agencies and districts implementing formative assessment at scale](sea-lea-recommendations-formative-assessment-scale.md)
 - [Synthesize cross-disciplinary evidence on education to guide policy-making beyond the 2030 education agenda](cross-disciplinary-evidence-synthesis-for-education-policy.md)
+- [Develop statutory e-Learning guidelines through multi-stakeholder policy dialogues and build staff capacity in e-Learning content development before scaling up](statutory-elearning-guidelines-policy-dialogue-strategy.md)
 
 ## Examples
 -

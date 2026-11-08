@@ -86,3 +86,4 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [80% of digital-group students strongly endorse the use of digital-human simulation for echocardiography teaching](digital-human-high-acceptance.md) — related
 - [Interns and trainees rated the disease-teaching application positively, with overall scores above 4 of 5 across satisfaction, efficiency, learning, usability and scientific-educational domains](positive-student-evaluation-med-app-five-domains.md) — possibly the same claim (merge candidate)
 - [Lapp received mostly positive usability ratings from the remote-feedback group, with some reported navigation problems](lapp-positive-usability-survey-navigation-problems.md) — related
+- [Students in combined virtual-jaw training groups report higher satisfaction across questionnaire items than single-method groups](combined-training-higher-student-satisfaction.md) — related

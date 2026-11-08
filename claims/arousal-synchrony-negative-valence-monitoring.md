@@ -72,3 +72,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Emotional synchrony frequency differs slightly across regulatory activities but the metric does not discriminate SSRL, cognitive, and task-execution interactions](emotional-synchrony-differs-by-regulatory-activity-limited-discrimination.md) — related
 - [Physiologically activating group states are rare but co-occur with visible emotional expressions more often than deactivating states](simultaneous-physiological-activation-with-emotional-expressions.md) — related
 - [Stress biomarker and self-report measures show negative correlations with simulation performance across outcome categories](stress-measures-negative-correlation-performance.md) — related
+- [On a multimodal transfer task, 33.1% of students recognized a deliberately reduced-valency humanitarian poster issue and linked it to an appropriate rhetorical effect](multimodal-poster-valency-rhetorical-transfer.md) — related

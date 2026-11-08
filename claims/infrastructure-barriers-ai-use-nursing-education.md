@@ -70,3 +70,5 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
+- [Trainees' main perceived challenges with the e-Learning pilot were limited computer-laboratory workspace (33%), slow internet/intranet speed (29%), and limited training of ICT staff (28%)](ghana-elearning-pilot-challenges-workspace-speed-capacity.md) — related
+- [Technological challenges, including platform access failures and unavailable resources, reduced the effectiveness of online learning](technological-challenges-reduce-online-learning-effectiveness.md) — related

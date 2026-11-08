@@ -49,6 +49,7 @@ The authors recommend incorporating Peyton's structured, stepwise instructional 
 ## Related Strategies
 
 - [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
+- [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 
 ## Examples
 -

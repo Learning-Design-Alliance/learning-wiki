@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 263 claims (177 show a difference, 54 mixed, 32 no difference) · 189 studies (59 causal, 46 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 50 of 189 report an effect size · 256 claims rest on one study
+> **Evidence** · 265 claims (179 show a difference, 54 mixed, 32 no difference) · 190 studies (60 causal, 46 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 51 of 190 report an effect size · 258 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -305,6 +305,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Positive peer relationships predict academic resilience in grades 6 and 11 but not grade 9](../claims/peer-relationships-predict-resilience.md) [~M] — learners who differ on it differ in outcomes
 - [Technology acceptance, emotional experience, social belonging, and higher-order thinking are each significantly positively correlated with blended learning satisfaction](../claims/blended-satisfaction-constructs-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [The moderated mediation effect through the depression-to-peer-relationship path (Model A) was not statistically significant](../claims/moderated-mediation-depression-peer-path-not-significant.md) [-M] — learners who differ on it differ in outcomes
+- [Empathy scores increased significantly from pre to post after MOOC participation in health sciences undergraduates](../claims/mooc-prepost-empathy-increase.md) [+M] — measured as an outcome of the instruction studied
+- [MOOC completion and participation significantly predicted academic performance (58% of variance), cognitive empathy (35%) and affective empathy (48%)](../claims/mooc-engagement-predicts-performance-empathy.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

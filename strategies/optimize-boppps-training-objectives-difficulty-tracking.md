@@ -52,6 +52,7 @@ The article recommends that future implementations focus on "dynamically refinin
 - [Maintain a difficulty-classified dynamic case bank and rotate group roles to counter implementation challenges](case-bank-role-rotation-strategies.md)
 - [Design room of horror exercises with realistic room design, group sizes below four, and repetition with increasing complexity across the programme](roh-design-realistic-rooms-small-groups-repetition.md)
 - [Refine robotic student training by shortening the IS-led overview, adding console practice time, and clarifying simulation guidance](robotic-course-refinements-more-simulation-guidance.md)
+- [Refine hybrid BOPPPS structures by stressing course interconnections, clearer online instructions, and students-led summary while reducing self-learning burden](hboppps-refinement-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ RSiena Model 1 selection effects across 20 converged classroom networks. The art
 - [Friendship networks among Chinese middle-school students show homophily, reciprocity and rising achievement similarity across two years](friendship-network-descriptives-four-waves.md) — related
 - [Adolescents perceiving higher parental autonomy support are more likely to select higher-achieving friends](autonomy-support-selects-high-achieving-friends.md) — related
 - [Parental educational expectations directly predict higher adolescent academic achievement after accounting for friendship processes](parental-expectations-direct-achievement-effect.md) — related
+- [Adolescents who are similar in academic engagement more often become close friends over the school year](similar-engagement-friend-selection.md) — related

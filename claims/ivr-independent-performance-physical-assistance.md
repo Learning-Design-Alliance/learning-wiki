@@ -48,3 +48,4 @@ Chi-squared comparison of score frequencies across the same randomized trial (Fi
 - [IVR-trained participants self-assessed their performance more accurately than e-learning participants](ivr-accurate-self-assessment-confidence.md) — related
 - [IVR headset training produces better (lower) overall set-up scores than e-learning for robot-naive learners in operating room configuration of the CMR Versius](ivr-beats-e-learning-robot-setup-overall-score.md) — a broader claim this one bears on
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
+- [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related

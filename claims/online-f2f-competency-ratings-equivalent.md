@@ -49,3 +49,4 @@ Validation study comparing a skills-matched online breakout-room cohort (64 dele
 - [Self-rated competency scores rose from pre-test to post-test for all technical skills after the online surgical skills course, in one uncontrolled pre-post study](self-rated-competency-improves-online-course.md) — related
 - [Small-group teaching, online or face-to-face, receives higher satisfaction ratings than didactic large-group lectures for feedback, instruction clarity and answers to questions](small-group-higher-satisfaction-than-didactic.md) — related
 - [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — related
+- [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related

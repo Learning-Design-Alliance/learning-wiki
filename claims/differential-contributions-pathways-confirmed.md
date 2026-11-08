@@ -54,3 +54,4 @@ SEM Model 4 in the longitudinal sample, the model testing the study's main hypot
 - [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
 - [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related
 - [Sustained attention predicted mathematics scores in boys but not in girls, a sex difference the study reports as contradicting its assumption](sustained-attention-math-boys-only.md) — reports the opposite
+- [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — related

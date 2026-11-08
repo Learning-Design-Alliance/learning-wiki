@@ -69,3 +69,4 @@ The same adjusted models (Table 5, Model 2) found no association of sitting and 
 - [Pooled analysis finds no significant association between active commuting to school and mathematics performance](acs-math-pooled-odds-ratio-null.md) — a narrower finding that bears on this claim
 - [Participation in organized PA/sports at ages 5.5 and 8 years is associated with higher executive function, and at age 8 years with higher academic achievement](organized-sports-favorable-executive-function-academic.md) — related
 - [Higher outdoor active play at age 8 years is favorably associated with executive function and academic achievement, whereas high indoor active play is unfavorably associated](outdoor-play-favorable-indoor-play-unfavorable.md) — related
+- [Additional sport participation and active commuting show no significant association with physical activity level](sport-commuting-no-significant-pa-association.md) — related

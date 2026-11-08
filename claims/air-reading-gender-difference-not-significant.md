@@ -55,3 +55,4 @@ Subgroup analysis by gender within the main RCT model with interaction terms; th
 - [Accelerated Reader appears more effective for girls than boys, though results are positive for both](ar-more-effective-for-girls.md) — reports the opposite
 - [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related
 - [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related
+- [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related

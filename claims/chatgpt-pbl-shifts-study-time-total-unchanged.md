@@ -51,3 +51,4 @@ Comparison of self-reported study times before and after class between the two g
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — related
 - [CBL/FC students are more satisfied with classes than LBT students without spending more preparation time](cbl-fc-satisfaction-without-extra-burden.md) — related
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — related
+- [Students reported higher pre-class burden with FC+CBL but no increase in in-class pressure relative to LBC](fc-cbl-pre-class-burden-not-in-class-pressure.md) — related

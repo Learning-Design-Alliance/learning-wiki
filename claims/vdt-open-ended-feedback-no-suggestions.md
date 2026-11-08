@@ -48,3 +48,4 @@ Open-ended items in the anonymous survey administered two weeks after the course
 - [A statistically significant majority of postgraduate dental students reported improved clinical confidence (67%) and satisfaction with the VDT lecture (96%)](vdt-clinical-confidence-lecture-satisfaction.md) — related
 - [Postgraduate dental students rated both the Anatomage and SECTRA virtual dissection tables as very useful and user-friendly with very satisfying digital image quality, with no statistically significant difference between the two tables](vdt-usefulness-user-friendliness-ratings.md) — related
 - [Perceived VDT utility did not always correspond to measurable academic advantage](perceived-utility-not-always-academic-advantage.md) — related
+- [Medical students report high satisfaction with Anatomage-based anatomy learning across multiple studies](anatomage-student-satisfaction-studies.md) — related

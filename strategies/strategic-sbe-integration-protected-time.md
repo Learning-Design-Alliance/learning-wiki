@@ -52,6 +52,7 @@ The article recommends that simulation-based education not merely be available b
 - [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 - [Evaluate VRS curricula under mandatory, protected training time before recommending voluntary implementation](mandatory-protected-vrs-training-evaluation-strategy.md)
+- [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
 
 ## Examples
 -

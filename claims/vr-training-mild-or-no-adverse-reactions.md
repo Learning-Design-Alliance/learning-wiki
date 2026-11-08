@@ -50,3 +50,4 @@ Post-intervention symptom survey of VR-group participants only, assessing dizzin
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — reports the opposite
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related
 - [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — a narrower finding that bears on this claim
+- [Viewing the 3D LP video is well tolerated, with cybersickness in a small minority](cybersickness-minority-3d-lp-video.md) — a narrower finding that bears on this claim

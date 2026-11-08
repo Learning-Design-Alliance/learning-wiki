@@ -49,6 +49,7 @@ The authors recommend simulator-based training as a step preceding animal-model 
 ## Related Strategies
 
 - [Use non-organic silicone materials for accessible, reproducible tendon repair simulation](non-organic-materials-tendon-simulation-strategy.md)
+- [Use discarded inedible livestock organs as surgical training models to reduce live-animal use](discarded-livestock-organs-surgical-training-strategy.md)
 
 ## Examples
 -

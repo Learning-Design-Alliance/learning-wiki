@@ -50,3 +50,6 @@ Between-group comparison of dominant-hand movement metrics in the cohort study; 
 - [The AI-enhanced curriculum reduced the rate of tumor resection relative to control, diverging further below the expertise benchmark](voa-reduced-tumor-resection-rate.md) — related
 - [The AI-enhanced curriculum reduced change in nondominant-hand bipolar force relative to control, but participants fell below the expert benchmark](voa-reduced-bipolar-force-change-below-benchmark.md) — related
 - [The AI-enhanced curriculum reduced healthy tissue damage during simulated tumor resection relative to control, reaching the expert benchmark](voa-reduced-healthy-tissue-damage.md) — related
+- [AI tutoring feedback (VOA) produced significantly higher practice Expertise Scores than remote expert instruction and no-feedback control in simulated tumor resection](voa-feedback-higher-practice-expertise-scores.md) — a broader claim this one bears on
+- [VOA-trained students achieved significantly higher Expertise Scores in the realistic (transfer) resection than instructor and control groups](voa-higher-realistic-resection-expertise.md) — related
+- [Feedback on 4 AI-selected metrics improved 3 trained metrics and generalized to 8 of 16 untrained ICEMS performance metrics](voa-metric-feedback-extended-effect-untrained-metrics.md) — related

@@ -52,3 +52,4 @@ Prospective intervention-control study in which 165 fifth-year students (79 flip
 - [Total clinical reasoning OSCE scores rose from pre-test to post-test among emergency medicine clerkship students in a single-group pre-test–post-test study of an online flipped classroom intervention](ofc-improved-clinical-reasoning-osce-emergency-clerkship.md) — related
 - [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — related
 - [OBE-PBL teaching improves total practical assessment scores, with no difference at the neurological examination station](obe-pbl-practical-assessment-station-pattern.md) — related
+- [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related

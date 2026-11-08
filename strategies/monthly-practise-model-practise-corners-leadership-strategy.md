@@ -47,6 +47,7 @@ The authors recommend reshaping the intervention for future evaluation around a 
 ## Related Strategies
 
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
+- [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
 
 ## Examples
 -

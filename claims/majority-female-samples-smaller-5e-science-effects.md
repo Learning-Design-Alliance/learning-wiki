@@ -50,3 +50,4 @@ Exploratory meta-regression Model 1 on the science domain (R² = 36.6%): the onl
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
 - [Meta-regression identifies percentage of female participants, sample size, and interdisciplinary participation as moderators of effect size](meta-regression-moderators-dementia-attitudes.md) — related
 - [Gender moderates only the attitude–intention relationship: higher male ratio strengthens the attitude–intention correlation](gender-moderates-only-attitude-genai.md) — related
+- [A female instructor and a higher percentage of females in attendance predict smaller performance gender gaps, together explaining about 57% of the variation](female-instructor-attendance-predict-performance-gap.md) — related

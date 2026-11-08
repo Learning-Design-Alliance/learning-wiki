@@ -63,3 +63,4 @@ The review's Discussion states that "evidence supporting the transferability of 
 - [Simulation training is associated with reduced surgical errors and improved team performance, but translation to patient-level outcomes remains unproven](simulation-clinical-outcomes-intermediate-only.md) — related
 - [Simulation-based surgical skills are retained for extended periods and transfer to the operating room, per the review's cited studies](simulation-skill-retention-and-or-transfer.md) — reports the opposite
 - [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — related
+- [Some nontechnical skill behaviors remain unimproved or below average after the educational intervention](some-behaviors-unimproved-after-educational-intervention.md) — related

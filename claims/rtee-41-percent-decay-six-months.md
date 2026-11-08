@@ -52,3 +52,4 @@ Single-group pre/post natural experiment with seven rTEE-naive emergency physici
 - [Median domain scores improved from month 6 to month 7 but the change was not statistically significant](rtee-median-scores-month6-7-null.md) — related
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — a broader claim this one bears on
 - [One year after training, participants reported greater comfort with the three guideline-recommended rTEE views than with all eight views, and comfort correlated with simulator performance](rtee-comfort-correlates-performance.md) — related
+- [Simulator training was most frequently used by medical students (41.1%) and physicians in further education (32.5%)](simulator-use-mostly-students-trainees.md) — related

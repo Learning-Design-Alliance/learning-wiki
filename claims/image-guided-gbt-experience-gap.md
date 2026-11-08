@@ -50,3 +50,4 @@ Cross-sectional survey (Fig. 1) of 132 senior residents from 28 hospitals; the r
 - [Half of surveyed residents received no specialized GBT examination and 43% no formal GBT courses during residency training](gbt-training-assessment-curriculum-gaps.md) — related
 - [Most surveyed Chinese senior residents report competence to independently complete intracavitary (78.03%) and vaginal stump (75.00%) GBT, but only 50.03% for interstitial GBT](self-reported-gbt-competence-by-type.md) — related
 - [Observation count, not patient care or reading, correlated with confidence in intracavitary and vaginal GBT in multivariable analysis](observation-count-correlates-confidence.md) — related
+- [Lack of simulation-training facilities prevented a majority of surveyed ophthalmology residents from performing cataract surgery during the pandemic](simulation-facility-access-barrier-pandemic.md) — related

@@ -49,3 +49,4 @@ Theme from grounded-theory analysis of 11 qualitative interviews; residents repo
 - [Residents rate outpatient teaching as useful at every training stage, with the highest perceived usefulness during the decision-making stage](teaching-usefulness-high-all-stages-highest-decision-making.md) — related
 - [Outpatient teaching for Japanese residents is most frequently provided during the decision-making and patient assessment stages and least frequently during the medical interview stage](outpatient-teaching-frequency-decision-making-highest.md) — related
 - [Trainee focus groups identified that simulation training built a stronger, more confident team and created a space for communication and decision-making](ecmo-sim-qualitative-confidence-themes.md) — related
+- [Simulator training was most frequently used by medical students (41.1%) and physicians in further education (32.5%)](simulator-use-mostly-students-trainees.md) — related

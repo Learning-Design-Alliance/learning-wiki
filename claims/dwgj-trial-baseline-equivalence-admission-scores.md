@@ -54,3 +54,4 @@ Baseline comparison in the randomized trial found "no significant differences we
 - [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related
 - [No statistically significant difference in pre-course theoretical test scores between the virtual simulation and MOOC groups](no-pretest-difference-virtual-simulation-mooc-groups.md) — a narrower finding that bears on this claim
 - [Before training, the two groups showed no significant differences in CPR knowledge, skill scores, or technique performance](no-pre-training-differences-between-groups.md) — related
+- [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — related

@@ -59,3 +59,4 @@ Discussion of follow-up evidence across included studies. The shortest follow-up
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
 - [No statistically significant reduction in CPR knowledge or skills was detected between six and nine months after the first training](cpr-no-significant-decline-six-to-nine-months.md) — related
 - [Most participants reported no substantial increase in domain-specific knowledge and technical skills from the masterclass](masterclass-limited-domain-knowledge-gains.md) — related
+- [Participants recommended extending the simulation training to all team members and running it more frequently](participants-recommend-more-frequent-wider-simulation.md) — related

@@ -58,3 +58,4 @@ Direct-path coefficients (Table 4, paths c1–c3) from the path analysis of 261 
 - [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — reports the opposite
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — related
 - [Personal standard, organization, doubts about action, and motive for success are positively associated with GPA, with motive for success mediating the personal-standard and doubts-about-action effects](perfectionism-gpa-mediation.md) — related
+- [Amotivation negatively affects academic achievement while self-regulation positively affects it](amotivation-negatively-predicts-achievement.md) — reports the opposite

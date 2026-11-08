@@ -70,6 +70,7 @@ Based on the pooled findings, the review recommends that training programs adopt
 - [Formally integrate intensive simulation-based surgical education into ophthalmology residency programmes as a complement to conventional teaching](formal-integration-sbse-ophthalmology-residency.md)
 - [Combine E-learning with traditional teaching methods so each benefits from the other](combine-elearning-with-traditional-teaching-gp-residency.md)
 - [Use the PlaSurIn game as an alternative or complement to traditional lecture-based training for surgical instruments setup](plasurin-as-alternative-or-complement-to-lecture-strategy.md)
+- [Use VR surgical simulators to expand training opportunities when operative exposure is reduced, as during the COVID-19 pandemic](vr-simulation-training-during-reduced-operative-exposure.md)
 
 ## Examples
 -

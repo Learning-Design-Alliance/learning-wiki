@@ -50,3 +50,4 @@ Study 1 secondary outcome (DASS stress scale) in a quasiexperiment with 143 nint
 
 ## Related Claims
 - [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](meeting-deadlines-self-assessment-calibration.md) — related
+- [Brief time management training increased sense of control over time and decreased stress and procrastination in small-scale interventions](brief-time-management-training-control-stress.md) — a broader claim this one bears on

@@ -46,3 +46,4 @@ Same randomized controlled pilot study; Table 3 reports bag-valve-mask ventilati
 
 ## Related Claims
 - [Situational simulation with CBL produces higher hands-on CPR skill scores than traditional teaching in pediatric interns](simulation-cbl-higher-hands-on-cpr-scores-pediatric-interns.md) — related
+- [Training in resuscitation skills in a simulated environment alone is not enough to change clinical practice; witnessing successful bag-and-mask ventilation in live resuscitation builds confidence and changes beliefs and behaviors](simulation-alone-insufficient-live-bmv-builds-confidence.md) — related

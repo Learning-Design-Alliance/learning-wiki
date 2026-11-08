@@ -91,3 +91,4 @@ Under the effort-outcome alignment theme, students reported disconnects between 
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Graduate anatomy students preferred feedback-based formative assessments over quiz-based assessments for their perceived individualized nature and facilitation of deeper learning](students-prefer-feedback-based-assessments-deeper-learning.md) — related
+- [Instructors identified clarity of verbal instruction, loss of non-verbal cues and student motivation as key moderators of virtual skills teaching](instructor-themes-clarity-motivation-virtual-teaching.md) — related

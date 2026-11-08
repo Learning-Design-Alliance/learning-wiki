@@ -49,3 +49,4 @@ Robustness analysis addressing loss to follow-up using fixed-effects models comp
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — a broader claim this one bears on
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — possibly the same claim (merge candidate)
+- [COVID-19 learning losses in Dutch primary education were larger for students from disadvantaged backgrounds than for their fellow students](covid-learning-loss-unequally-distributed-disadvantaged.md) — a broader claim this one bears on

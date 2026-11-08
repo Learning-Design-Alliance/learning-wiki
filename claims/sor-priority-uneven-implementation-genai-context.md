@@ -71,3 +71,4 @@ Interview participants reported that "districts had less to say" about how ELLs 
 - [Districts use no consistent way of referring to English Learner programs and their offices](no-consistent-el-program-terminology.md) — related
 - [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](knowledge-barriers-language-development-procedural.md) — related
 - [English Learner programs and services across districts are led by administrators with varied titles, many without apparent links to English Learners](varied-administrator-titles-el-services.md) — related
+- [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related

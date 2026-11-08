@@ -64,6 +64,7 @@ Retrieval practice is one of the most robust findings in learning science: attem
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — retrieval openers are the most direct way to enact activation, since recall is stronger than re-exposure
 - [Start each face-to-face class with a verification quiz or Q&A to link online preparation to classroom activity](flipped-verification-quiz-entry-ticket.md)
 - [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
+- [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 
 ## Examples
 - A high-school biology teacher opens each class with a four-question "Do Now" quiz mixing last week's and last month's content; students self-grade from a projected key before the new topic begins.

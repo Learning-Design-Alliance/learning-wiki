@@ -50,6 +50,7 @@ The authors recommend that follow-up studies of home-based psychomotor training 
 - [Incorporate strengthening exercises into future dexterity training programmes for dental students](add-strengthening-exercises-to-dexterity-programmes.md)
 - [Incorporate time-matched active control conditions and adequately powered designs when evaluating serious games as instructional add-ons](time-matched-controls-serious-game-evaluation.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
+- [Use controlled longitudinal intervention programmes to test causal effects of psychomotor stimulation on cognitive skills](controlled-intervention-programmes-psychomotor-causal-test.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Survey results section reporting agreement ratings on physical and functional fi
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [Pelvic organ prolapse and muscle tone function and dysfunction were identified as the most useful PFDs for the simulator to demonstrate](pop-and-muscle-tone-most-useful-pfds-to-demonstrate.md) — related
+- [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related

@@ -89,6 +89,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Train peer tutors in a pre-session workshop and sustain quality with feedback questionnaires and incentive awards](peer-tutor-training-and-incentive-strategy.md)
 - [Phased co-production and cascade training model for developing and implementing new nursing education content](phased-coproduction-cascade-training-strategy.md)
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
+- [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 
 ## Examples
 -

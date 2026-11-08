@@ -53,3 +53,4 @@ The review reports, citing Mayer and colleagues (2019), a series of studies on m
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
+- [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — reports the opposite

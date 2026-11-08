@@ -65,3 +65,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Most experimental-group students liked the blended design and found it fun, but minorities reported virtual simulation training and the PAL app were not helpful](positive-student-attitudes-smart-classroom-design.md) — related
 - [Most surveyed TCM students want better clinical skill training and are willing to try VSP-TCM](prequestionnaire-student-demand-vsp-tcm.md) — related
 - [Most students held positive attitudes toward the virtual simulation system but found its operation training more difficult than jaw-model training](student-attitudes-virtual-simulation-system.md) — related
+- [Most online ligation students were first-time learners, and 73% reported high satisfaction with the online practice](first-time-learners-high-satisfaction-online-ligation.md) — related

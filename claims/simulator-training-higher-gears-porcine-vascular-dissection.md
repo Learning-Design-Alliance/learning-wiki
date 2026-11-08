@@ -57,3 +57,4 @@ Prospective, controlled, non-randomized feasibility study of 12 novice robotic s
 - [Agreement on GEARS surgical-performance domains is poor for force control, tissue handling, autonomy, and robot control, and marginal for depth perception, bimanual skill, and efficiency](gears-domain-agreement-poor.md) — related
 - [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related
 - [Blinded GEARS scores rose from pre-test to post-test after completing RoSTraC step 2 on a robotic gastroenterostomy task, in one group with no comparison group](rostrac-step2-gears-improvement.md) — related
+- [Procedural VR training is more effective than both basic VR training and no training for robotic surgical skill transfer](procedural-vr-more-effective-than-basic-vr.md) — related

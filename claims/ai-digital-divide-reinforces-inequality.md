@@ -112,3 +112,4 @@ This is a conceptual policy paper drawing on the literature and international po
 - [The SIAPeC Quiz revealed a gap in digital resource literacy among trainees](siapec-quiz-digital-resource-literacy-gap.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — a narrower finding that bears on this claim
 - [Remote assessment of low-stake skills was viewed as comparable to in-person assessment and able to standardise competency assessment](remote-assessment-standardises-low-stake-competency.md) — related
+- [The Super Divya platform was largely accessible on phones, but internet connectivity and device capability were cited concerns for distribution to Nurse Mentors](super-divya-accessibility-connectivity-concerns.md) — a narrower finding that bears on this claim

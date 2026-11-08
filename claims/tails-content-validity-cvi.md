@@ -71,3 +71,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
 - [Expert panel content validation of the TBL-SAI-TR yields an average content validity index of 0.95](tbl-sai-tr-content-validity-cvi-095.md) — related
 - [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
+- [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related

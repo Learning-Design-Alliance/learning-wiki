@@ -54,3 +54,4 @@ Multivariate logistic regression among 399 public primary school children found 
 - [Students aged 16–18 are more likely to achieve good academic performance than those aged 14–15](older-adolescents-better-academic-performance.md) — related
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
 - [Students aged 25–29 years had higher odds of good academic performance than students aged 20–24 years](older-students-25-29-better-academic-performance-ethiopia.md) — related
+- [Attending a private school and being younger are independently associated with higher academic achievement](private-school-younger-age-higher-achievement.md) — related
