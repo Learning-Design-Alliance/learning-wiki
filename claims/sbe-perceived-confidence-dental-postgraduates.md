@@ -49,3 +49,4 @@ Post-intervention self-assessment of all 43 participating students on a 5-point 
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Students perceived longer-term impacts of the SBE intervention on curriculum advancement, quality of care, and the dental profession](sbe-perceived-long-term-impact-curriculum-care.md) — related
 - [Experienced prescribers found the intervention not new but useful for consolidating learning and enabling self-reflection](intervention-consolidates-learning-self-reflection.md) — related
+- [Participants reported lacking communication skills for emotionally difficult, conflictive and inter-professional situations](nqn-communication-difficult-situations-gap.md) — related

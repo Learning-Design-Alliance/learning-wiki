@@ -47,3 +47,4 @@ Correlational and stepwise regression analysis of adult background variables aga
 ## Related Claims
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
 - [Early elementary characteristics predict 71% of variance in high school language outcomes of CI users](early-predictors-ci-high-school-language.md) — related
+- [Age, grade and sex do not meaningfully predict sugar-literacy outcomes at baseline or after the intervention](demographics-do-not-predict-sugar-literacy-outcomes.md) — related

@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 117 claims (65 for, 42 mixed, 10 against) · 117 studies (34 review, 29 causal, 13 theoretical, 12 qualitative, 11 associational, 9 quant-synthesis, 9 design), `q1`–`q4` · 10 of 117 report an effect size · 112 claims rest on one study
+> **Evidence** · 118 claims (66 for, 42 mixed, 10 against) · 118 studies (34 review, 30 causal, 13 theoretical, 12 qualitative, 11 associational, 9 quant-synthesis, 9 design), `q1`–`q4` · 10 of 118 report an effect size · 113 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Tutors described ongoing progress monitoring, guided practice, and multiple explanations and representations as core practices in synchronous online mathematics tutoring sessions](../claims/tutor-practices-progress-monitoring-guided-practice.md) [+W] — attached 2026-11-03 from Chappell et al. (2015), which proposed "Embed systematic progress monitoring and individualized learning plans in online tutoring programs serving struggling mathematics students".
 - [The direction of the training-order advantage differed by career length: under 24 months favoured lecture-then-simulation, 24 months or more favoured simulation-then-lecture](../claims/nrp-training-order-advantage-moderated-by-career.md) [+W] — attached 2026-11-07 from Choi Seoheui et al. (2023), which proposed "Tailor the order of lecture and simulation in NRP training to each trainee's degree of experience"; tests this page's relationship.
 - [Perceived ideal training methods differ by learner level: novices benefit from supervision, role modeling, simulation, and didactics, while senior learners benefit from hands-on practice, feedback, and autonomy](../claims/learner-level-adaptation-trauma-leadership.md) [+W] — attached 2026-11-08 from Quon S et al. (2022), which proposed "Trauma leadership training programs should use a variety of methods, adapt to the learner's level of training, and incorporate multidisciplinary and interprofessional training".
+- [The tailored e-module significantly and durably changed experienced GPs’ perceptions of patients with sleep problems](../claims/elearning-durable-change-gp-patient-perceptions.md) [+W] — attached 2026-11-08 from Creupelandt Hanne et al. (2019), which proposed "Tailor e-interventions to target-group characteristics to promote durable behavior change in experienced clinicians"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

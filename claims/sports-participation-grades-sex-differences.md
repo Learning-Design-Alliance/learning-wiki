@@ -74,3 +74,4 @@ Authors' interpretation of the sex-stratified results in the Discussion, attribu
 - [Gender-specific PA characteristics predict academic competence: PA frequency for girls and sports club participation for boys](gender-specific-pa-predictors-academic-competence.md) — reports the opposite
 - [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — related
 - [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — related
+- [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related

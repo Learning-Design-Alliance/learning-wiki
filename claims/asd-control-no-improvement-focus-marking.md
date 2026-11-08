@@ -52,3 +52,4 @@ Untrained autistic control group tested in two speech production sessions separa
 - [Typically developing Cantonese children mark focus with post-focus compression of duration, f0 and intensity](ctd-children-post-focus-compression.md) — related
 - [Groups differed significantly on narrative scores, with only the ASD robot-assisted training group scoring below the TD group](group-narrative-score-difference-robot-vs-td.md) — related
 - [Only about half of autistic adolescents could follow non-canonical-word-order instructions, suggesting routinization substitutes for prefrontal synthesis](routinization-non-canonical-word-order-limit.md) — related
+- [Controlled trials of computer- and robot-assisted social skills therapy for children with ASD split into robot interventions (11 studies) and serious computer game interventions (7 studies), with most showing promising results](eighteen-controlled-studies-robot-serious-game-asd-social-skills.md) — related

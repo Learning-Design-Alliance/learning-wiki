@@ -73,3 +73,5 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — a narrower finding that bears on this claim
 - [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — related
 - [Machine learning applied to virtual reality simulation data can automatically differentiate surgical expertise and provide feedback on operative performance](ml-differentiates-surgical-expertise-vr.md) — related
+- [The eoSim differentiates expertise groups on the intracorporeal suturing task in time and distance, demonstrating construct validity for those parameters](eosim-task1-construct-validity-time-distance.md) — related
+- [All novice participants exceeded the 3 N tissue-damage safety threshold during purse-string suturing at both pre- and post-course assessment](tatme-suturing-exceeds-safety-threshold.md) — related

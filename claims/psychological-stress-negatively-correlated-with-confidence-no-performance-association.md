@@ -55,3 +55,4 @@ Pearson correlational analysis of post-test scores in the RCT found a significan
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — reports the opposite
 - [Participants' perceived stress, attitude, and confidence in critical bronchoscopy situations did not change from pre-test to post-test in one single-group pre-post study of in-situ simulation training](simulation-training-no-change-perceived-stress-bronchoscopy.md) — related
 - [The response-level confidence score correlates positively and significantly with scoring accuracy](confidence-score-correlates-scoring-accuracy.md) — related
+- [Perceived stress during simulation was higher in the recently trained group, and stress did not correlate with performance or experience.](higher-perceived-stress-in-recently-trained-group.md) — related

@@ -42,6 +42,7 @@ The report's tentative conclusions recommend recruiting faculty already committe
 - [Recruit volunteer implementers first to generate small wins, models, and critical mass for change](volunteers-first-small-wins-sustainability.md)
 - [Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions](build-trust-early-quick-wins-tiered-rollout.md)
 - [Demonstrate solution benefits through participant perspectives, direct experience, and foregrounded student voice](demonstrate-benefits-student-voice-sustainability.md)
+- [Create small wins to motivate faculty during pedagogical change](small-wins-faculty-motivation-change.md)
 
 ## Examples
 -

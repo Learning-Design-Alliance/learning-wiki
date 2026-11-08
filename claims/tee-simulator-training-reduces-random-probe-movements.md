@@ -71,3 +71,5 @@ Subanalysis of four representative views (ME mitral commissural, ME bicaval, ME 
 - [Blind expert grading found that 22 of 26 students' scores rose from pre-test to post-test after simulator training, while 2 were neutral and 2 fell, in one group with no comparison group](expert-graded-improvement-majority-of-novices.md) — related
 - [Simulator training significantly increased total view precision across the simulated TEE protocol in novices](tee-simulator-training-increases-precision.md) — related
 - [Both educational groups had significantly lower exercise time and probe movement distance in later than in earlier simulator exercises, in within-group pre-post comparisons](simulator-training-efficiency-gains-both-groups.md) — related
+- [All three training groups had significantly higher scores in post-training than pre-training TEE examinations, measured within each group from pre-test to post-test](all-groups-improved-pre-to-post-tee-exams.md) — related
+- [Time to complete the practical TEE examination decreased across successive tests in all groups](tee-practical-exam-time-decreased-across-tests.md) — related

@@ -51,3 +51,4 @@ Subanalysis of OSAT component scores for individual anastomosis steps (Fig. S1),
 - [Simulator fidelity does not significantly affect improvement rates in coronary anastomosis simulation training](simulator-fidelity-no-significant-effect.md) — related
 - [Attending surgeon supervision does not significantly improve coronary anastomosis simulation scores in medical students](supervision-no-significant-effect-anastomosis-simulation.md) — related
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
+- [The anastomosis needle transfer task differentiates expertise groups only after subanalysis on per-stitch parameters and task completion](eosim-task3-construct-validity-subanalysis.md) — related

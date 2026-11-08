@@ -61,3 +61,4 @@ Fully adjusted GEE regression models from the same national cohort. The quote re
 - [Sociodemographic factors are more strongly associated with educational attainment than preterm birth status](sociodemographic-factors-outweigh-preterm-status.md) — related
 - [Children with CKD in the lowest global SES quartile are less likely to show average-or-above parent-rated numeracy and literacy performance than those in the highest quartile](lowest-ses-quartile-poorer-numeracy-literacy-ckd.md) — related
 - [Several neonatal and sociodemographic variables show no association with school-age outcomes in this cohort](preterm-null-associations-apgar-income-schooling-ventilation.md) — related
+- [Sociodemographic disadvantage indicators relate to lower Math and Science grades](disadvantage-lower-math-science-grades.md) — related

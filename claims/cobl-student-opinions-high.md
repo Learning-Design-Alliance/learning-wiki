@@ -48,3 +48,4 @@ Questionnaire on CoBl implementation (5-level Likert, 33 items, alpha 0.96) admi
 - [The CoBl model comprises four components and a three-phase instructional process with five pre-instruction steps and nine instructional steps](cobl-model-components-and-procedures.md) — related
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
 - [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
+- [Participants rated both the 3-R technique as easy and useful, and rated exercise slightly below the agree threshold for usefulness](participant-perceptions-3r-and-exercise-exp1.md) — related

@@ -49,3 +49,4 @@ The review attributes this second-hand to Yon et al., reporting that just 11% of
 - [The review reports that most UK medical students receive less than 2 hours of nutrition education and that 75% of US medical schools have no required clinical nutrition classes](msad-insufficient-nutrition-curriculum-time.md) — related
 - [The review reports a lack of comprehensive guidelines and mandatory enforcement as a principal reason for inconsistent nutrition education across medical schools](no-mandatory-nutrition-curriculum-enforcement.md) — related
 - [The review reports that low confidence in counselling patients and perceived insignificance of nutrition contribute to the knowledge deficit among medical students and doctors](msad-low-confidence-perceived-insignificance.md) — related
+- [Newly qualified nurses report critical care content is absent from the nursing curriculum and request a dedicated course](nqn-critical-care-curriculum-absence.md) — related

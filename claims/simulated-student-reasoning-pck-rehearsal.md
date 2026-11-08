@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: ali-bicer-2026
     resource: "https://doi.org/10.1007/s11858-026-01816-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-simulated student errors and misconceptions helped teachers rehearse diagnostic questioning and interpret the reasoning behind student mistakes. [→ Ali Bicer 2026](#ali-bicer-2026)
@@ -52,3 +53,4 @@ Cross-case thematic analysis of Modules 6-10 logs and interviews, in which the A
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related
 - [The consequence-free, non-punitive simulated environment gives error a formative value, enabling rehearsal, correction, and learning from peers' mistakes](simulation-safe-environment-learning-from-errors.md) — a broader claim this one bears on
+- [Generative instructors used pedagogical knowledge while teaching, creating opportunities to develop new pedagogical content knowledge in the moment](generative-instructors-develop-new-pck-while-teaching.md) — related

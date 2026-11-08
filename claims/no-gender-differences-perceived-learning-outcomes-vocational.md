@@ -101,3 +101,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Satisfaction with the computer laboratory was the most favorably rated e-Learning component while satisfaction with teaching faculty was the least rated, with significant differences by gender, school, age and year of study](ghana-elearning-satisfaction-lab-highest-faculty-lowest.md) — related
 - [Pre-test OSCE scores differed by age and gender, but post-test scores did not](pre-test-osce-scores-differed-by-age-gender.md) — related
 - [Self-confidence levels did not differ significantly by GPA, gender, or university](cxr-confidence-no-differences-gpa-gender-university.md) — related
+- [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — related

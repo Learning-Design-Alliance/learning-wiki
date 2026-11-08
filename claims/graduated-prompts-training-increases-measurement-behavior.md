@@ -49,3 +49,4 @@ Pretest-posttest control group experiment with randomized block design (N = 120 
 - [Training with tablet-delivered graduated prompts increased grade-2 children's series completion accuracy more than control practice](graduated-prompts-tablet-training-accuracy.md) — related
 - [The number of prompts children need decreases across the series of training problems](prompt-requirements-decrease-across-series.md) — related
 - [Graduated prompts training also increased the number of transformations children applied correctly, indicating progression in task-solving strategies](graduated-prompts-training-transformations.md) — related
+- [Dynamic training shifts children's verbal explanations: fewer non-inductive and more full-inductive explanations, but no significant change for no-answer or partial-inductive categories](dynamic-training-verbal-explanation-shifts.md) — related

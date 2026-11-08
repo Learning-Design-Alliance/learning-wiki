@@ -63,3 +63,4 @@ Narrative review reporting Canavan et al's analysis of phrases in written MSF fe
 - [Documented feedback in GP trainee e-portfolios is largely non-specific and lacks direction for future action, being specific in only 27.8% (teacher) and 35.6% (supervisor) of e-portfolios](nonspecific-feedback-in-gp-eportfolios.md) — related
 - [More specific and actionable (relevant) feedback is weakly negatively associated with quantitative ratings (β = −0.09)](feedback-relevance-negative-rating-association.md) — related
 - [Form nudges made narrative comments more balanced and more actionable](nudges-balance-actionable-comments.md) — a narrower finding that bears on this claim
+- [Performance on standardized academic metrics did not predict future need for remediation, while atypical workplace assessment characteristics such as ambiguous or negative comments did](academic-metrics-not-predict-remediation-need.md) — related

@@ -69,3 +69,4 @@ Focus group barrier theme on peer learning. Residents reported sessions "dominat
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [Physicians reported manikin-based training was regarded as inadequate for replicating technical nuances and anatomical variability of real patients](manikin-training-inadequate-real-patient-variability-cvc.md) — related
 - [Self-perceived PAG examination skills increased significantly after the workshop, with no change for adult examination skills](self-perceived-pag-skills-increased.md) — related
+- [Students identify six themes for optimal implementation of Virtual Patients in a clerkship, including increasing complexity and a lecture–VP–small-group–real-patient sequence](vp-implementation-six-themes-clerkship.md) — related

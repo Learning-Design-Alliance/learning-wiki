@@ -59,3 +59,4 @@ Individual interviews with the five facilitators of the SIMMed training cycle. F
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Audit team satisfaction with communication during feedback sessions rose from pre-test to post-test after training, in one group with no comparison group](feedback-satisfaction-increased-after-training.md) — related
 - [Debriefing effects on learning remain highly dependent on the individual instructor even when a structuring cognitive aid is used](debriefing-effects-dependent-on-instructor.md) — related
+- [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related

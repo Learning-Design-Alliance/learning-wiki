@@ -49,3 +49,4 @@ Anonymous eight-point Likert satisfaction survey completed by 79 of the 89 simul
 - [First-year medical students who participated in supplemental high-fidelity simulation scored higher on the global cardio-pulmonary curriculum test than lecture-only peers](sbe-higher-global-cardiopulmonary-test-scores.md) — related
 - [Participants rated RCDP training positively: 95.7% responded, 97% agreed the theme was important for daily practice, and 78% judged repetition more effective than traditional simulation](positive-learner-reaction-to-rcdp-pediatric-cpr-training.md) — related
 - [Students rated the human standardized patient customer discovery simulation highly, with 85% agreeing it met learning objectives](human-sp-customer-discovery-simulation-high-acceptability.md) — related
+- [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related

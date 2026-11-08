@@ -72,3 +72,4 @@ The article attributes the overfitting risk to Paquette et al. (2015), stating t
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related
 - [Current algorithmic approaches typically address isolated problems and fail to break the recursive constraint](isolated-fixes-fail-break-recursive-constraint.md) — related
+- [The existing culture of measurement strengthens the isolating tendencies of education by treating educational effectiveness as context-free data rather than evaluation-dependent judgment.](culture-of-measurement-strengthens-isolation.md) — related

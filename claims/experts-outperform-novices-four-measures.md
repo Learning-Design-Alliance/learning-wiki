@@ -53,3 +53,4 @@ Exploratory performance study comparing five experts (n=5) and 12 novices (n=12)
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
 - [Expert-derived time- and score-based training benchmarks discriminate between novice learners and expert surgeons on all six FRS VR tasks](frs-vr-benchmarks-discriminate-novice-expert.md) — a broader claim this one bears on
+- [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related

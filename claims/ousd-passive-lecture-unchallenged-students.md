@@ -53,3 +53,4 @@ Classroom observations conducted as part of the OUSD equity review, alongside st
 - [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — related
 - [Student self-determination was infrequent and more common during Active, Constructive, and Interactive tasks than Passive tasks](student-self-determination-rare-higher-in-active-tasks.md) — related
 - [School engagement with the interventions was low, and the passive or active nature of support was not the key determinant of engagement](literacy-octopus-engagement-low-passive-active-not-key.md) — related
+- [Students in passive lectures agree more strongly that the class involved them as listeners](passive-lecture-rated-more-listener-focused.md) — related

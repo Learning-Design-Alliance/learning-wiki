@@ -54,3 +54,4 @@ Stepwise linear regression with multicollinearity screening (VIF ≤ 5) on the 1
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite
 - [Adolescents with moderate and active physical activity scores show significantly higher academic achievement and executive functioning scores than mildly active peers](pa-groups-higher-academic-achievement-adolescents.md) — related
+- [Negative and positive emotional functioning each independently predict academic achievement scores in stepwise multiple regression](emotional-functioning-independently-predicts-achievement.md) — related

@@ -51,3 +51,4 @@ One-way ANOVA of the first theoretical examination, administered after the share
 - [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related
 - [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — possibly the same claim (merge candidate)
 - [No baseline difference among the four groups on the first theoretical examination](no-baseline-difference-first-theory-exam.md) — possibly the same claim (merge candidate)
+- [VP and SGT groups show no significant baseline difference in theoretical knowledge before the intervention](vp-sgt-equivalent-baseline-theoretical-knowledge.md) — related

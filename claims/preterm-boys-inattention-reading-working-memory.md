@@ -50,3 +50,4 @@ Group comparisons by gender in the cross-sectional preterm cohort, using the par
 - [Children from unstructured families show higher rates of reading failure and clinically diagnosed school difficulties](unstructured-family-reading-failure-school-difficulties.md) — related
 - [Early neonatal sepsis is associated with parent-rated inattention and hyperactivity symptoms, and severe intraventricular hemorrhage with altered Piaget operational stage](early-sepsis-severe-hemorrhage-attention-cognitive-changes.md) — related
 - [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related
+- [Boys in both very preterm and control groups display more classroom-functioning problems than girls, with no gender differences in academic functioning in the preterm group](boys-classroom-functioning-problems-preterm.md) — related

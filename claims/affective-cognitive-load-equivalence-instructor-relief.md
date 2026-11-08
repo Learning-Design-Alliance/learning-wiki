@@ -67,3 +67,4 @@ Medical Emotion Scale self-reports before, during, and after training, analyzed 
 - [ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials](ada-emotions-directional-non-significant.md) — related
 - [Negative activating emotions dominate debriefing emotion talk despite positive activating emotions being most reported in the SERQ](debriefing-emotion-discussion-gap.md) — related
 - [A 'weak pass' peer feedback rating triggered negative emotions in lower-performing students followed by self-motivation to work harder](weak-pass-rating-emotional-trajectory-motivation.md) — related
+- [The confidence interval excludes the prespecified 3-point clinically relevant difference, suggesting equivalence of the two debriefing timings](debriefing-timing-equivalence-three-point-threshold.md) — related

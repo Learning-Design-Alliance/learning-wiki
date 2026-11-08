@@ -49,3 +49,4 @@ Sub-analyses of the 483 elite athletes by sport classification (Table 3: simple 
 - [The lower academic performance of elite athletes is confirmed separately for both girls and boys](elite-athlete-academic-gap-both-sexes.md) — related
 - [Elite athletes attain lower grades than controls in all general subjects and in most specific subjects](elite-athletes-lower-grades-most-subjects.md) — related
 - [Elite sports students score higher than general students on novelty seeking, reward dependence, persistence, self-directedness, and self-transcendence](elite-sports-students-higher-tci-scores.md) — related
+- [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — reports the opposite

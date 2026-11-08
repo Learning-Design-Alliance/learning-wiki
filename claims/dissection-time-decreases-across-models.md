@@ -50,3 +50,4 @@ Time analysis of residents' dissections across the three models, with per-step t
 - [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — related
 - [Residents rate SAPIENS 3D-printed models as very similar to fresh-frozen human temporal bone across all surgical steps (4/5 and 4.2/5)](sapiens-similar-to-fresh-frozen-temporal-bone.md) — related
 - [Dissection time, gallbladder removal time and total operative time differ significantly across performance quartiles](operative-time-quartile-differences.md) — related
+- [Surgical task completion time depends strongly on training status, supporting the temporal bone model's validity](training-status-determines-surgical-time.md) — related

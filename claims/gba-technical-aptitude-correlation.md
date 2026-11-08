@@ -69,3 +69,4 @@ Secondary correlational analysis linking six specific GBA competencies to techni
 - [Age, gender, previous interest in surgery, and video game exposure were not significantly associated with laparoscopic performance](demographics-not-associated-laparoscopic-performance.md) — related
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
 - [Residents with previous video game experience scored significantly better on the pre-training laparoscopic exercise](videogame-experience-better-pre-training-scores.md) — related
+- [Childhood video-game experience relates to baseline theoretical TEE knowledge only, with no significant differences after training](video-game-experience-baseline-tee-knowledge-only.md) — related

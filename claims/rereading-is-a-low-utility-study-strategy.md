@@ -116,3 +116,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Research-supported study techniques (high elaboration, retrieval practice, focusing) correlate positively with secondary school grades, while spacing and low elaboration do not](supported-techniques-correlate-grades-secondary.md) — related
 - [Exploratory correlations linked strategy knowledge and use to first-midterm performance](strategy-knowledge-use-correlate-exam1.md) — related
 - [The Study Smart program improved students’ declarative metacognitive knowledge about (in)effective learning strategies in the short and long term](study-smart-improved-declarative-metacognitive-knowledge.md) — a narrower finding that bears on this claim
+- [The 3-R (read-recite-review) technique significantly improves short- and long-term memory of narrative passages versus no learning strategy (Experiment 1)](3r-technique-improves-memory-exp1.md) — related

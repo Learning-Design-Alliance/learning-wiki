@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 97 claims (54 for, 41 mixed, 2 against) · 72 studies (38 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 21 of 72 report an effect size · 92 claims rest on one study
+> **Evidence** · 98 claims (55 for, 41 mixed, 2 against) · 73 studies (39 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 73 report an effect size · 93 claims rest on one study
 
 ## Description and scope
 
@@ -165,6 +165,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Instructor-evaluated classroom performance rose across the five CBL cases, with all dimensions improving significantly from the first case](../claims/instructor-evaluation-rose-across-cbl-cases.md) [+W] — attached 2026-11-07 from Liu Zhipeng et al. (2024), which proposed "Promote case-based learning in medical education reform to enhance students' comprehensive quality and classroom participation".
 - [CBL combined with BOPPPS improved four of five modified Mini-CEX clinical-thinking dimensions; for medical history writing the article's text reports no significant difference but its table prints p = 0.002](../claims/cbl-boppps-mini-cex-clinical-thinking-dimensions.md) [+W] — attached 2026-11-07 from Gao Ning et al. (2024), which proposed "Combine case-based learning with a structured session framework such as BOPPPS to strengthen clinical thinking in case-rich medical specialties"; tests this page's relationship.
 - [In one uncontrolled pre-post study, dental students' total error rates in classifying periodontal patients were significantly lower after participation in an ICM-based, case-based periodontology module, with a medium effect size](../claims/icm-periodontology-module-total-error-rate-reduction.md) [+W] — attached 2026-11-08 from Crome Marius et al. (2021), which proposed "Use ICM-based case teaching as a supplement to, not a replacement for, patient-based learning in clinical dental education"; tests this page's relationship.
+- [Two weeks after the course, live and video CCD formats no longer differ but both outperform printed cases on clinical reasoning](../claims/delayed-post-test-live-video-beat-paper.md) [+M] — attached 2026-11-08 from Weidenbusch M et al. (2019), which proposed "Clinical case discussion (CCD) session structure: admission, interactive discussion, summary"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

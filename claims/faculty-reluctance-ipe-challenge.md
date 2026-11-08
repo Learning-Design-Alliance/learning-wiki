@@ -65,3 +65,4 @@ Review discussion of implementation challenges, attributed to the reviewed liter
 - [Non-clinician facilitators' lack of case expertise initially undermined confidence, but confidence improved with facilitating experience](non-clinician-cbl-confidence-expertise-concerns.md) — related
 - [Attitudinal barriers to Sim-IPE include facilitator bias toward one profession during debriefing, faculty resistance to change, and senior students' skepticism about mannequin practice](sim-ipe-attitude-barriers.md) — a narrower finding that bears on this claim
 - [Departmental and individual faculty support facilitates Sim-IPE, but the absence of formal administrative policies hinders it](sim-ipe-support-and-policy-gap.md) — related
+- [Recruiting surgeons was the main political challenge in establishing multidisciplinary team training](surgeon-recruitment-political-barrier.md) — a narrower finding that bears on this claim

@@ -64,3 +64,4 @@ Questionnaire administered to all 102 students after the intervention with 100% 
 - [Students taught with the virtual simulation platform reported higher satisfaction with learning outcomes across all surveyed items than MOOC students](virtual-simulation-higher-satisfaction-than-mooc.md) — related
 - [SDTM raised trainee engagement and enjoyment ratings with large effect sizes](sdtm-higher-engagement-and-enjoyment-ratings.md) — related
 - [All students with access to the PBL modules considered them useful for learning medical statistics, and total satisfaction with the course was significantly higher in the hPBL group](pbl-modules-satisfaction-usefulness-medical-statistics.md) — related
+- [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related

@@ -48,3 +48,5 @@ Staff questionnaire benefits section (n = 10); Table 2 prints 80.0% agreement (8
 - [Only about two-thirds of students reported clarity about poster presentation expectations despite lectures, supervision and a marking rubric](limited-clarity-poster-expectations.md) — related
 - [Students and staff perceived poster presentations as an effective and fair way to assess students’ ability to collect, analyse, interpret and present data](posters-effective-fair-assessment-research-ability.md) — related
 - [Student preference for individual written reports over group posters was inconsistent within the same questionnaire (39.9% vs 11.2%)](inconsistent-preference-individual-report-poster.md) — related
+- [Staff perceived poster presentations as faster to mark than written assignments and as enabling immediate feedback](staff-perceive-posters-efficient-marking-immediate-feedback.md) — possibly the same claim (merge candidate)
+- [Students perceived the poster presentation as an efficient (81%) and fair (75%) assessment method](students-perceive-poster-assessment-efficient-fair.md) — related

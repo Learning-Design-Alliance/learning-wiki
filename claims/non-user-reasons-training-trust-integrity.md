@@ -62,3 +62,4 @@ Survey ANOVA results for RQ3 (n = 72 non-user subgroup): significant reasons inc
 - [Students hold generally positive attitudes toward educational chatbots and agree the chatbots they used improved their knowledge and understanding](positive-student-attitudes-chatbot-knowledge-gains.md) — related
 - [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](under-10-percent-arab-he-formal-ai-training.md) — related
 - [More than 90% of students report knowing about or having used an AI chatbot, a substantial increase in exposure compared to the prior year](ai-chatbot-exposure-over-90-percent-second-year.md) — related
+- [Most editors hold that authorship experience is key to high-quality reviews while formal training is not, though evidence does not support this view](authorship-not-training-view-of-review-quality.md) — related

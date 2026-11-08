@@ -54,3 +54,5 @@ Pre-post comparison of total examination time for the complete 16-view protocol 
 - [Simulation training's advantage is concentrated in the technically demanding views 5–11, with no significant difference on the first four basic mid-esophageal views](simulation-advantage-limited-to-demanding-views-5-11.md) — related
 - [All participants successfully demonstrated TEE skills after simulator-based training](simulator-tee-training-skills-mastery.md) — related
 - [Simulation-tool training shortens the detailed teaching and mastery stages of insulin injection learning compared with traditional training](simulation-tool-shortens-insulin-injection-learning-time.md) — a narrower finding that bears on this claim
+- [All three training groups had significantly higher scores in post-training than pre-training TEE examinations, measured within each group from pre-test to post-test](all-groups-improved-pre-to-post-tee-exams.md) — related
+- [Time to complete the practical TEE examination decreased across successive tests in all groups](tee-practical-exam-time-decreased-across-tests.md) — related

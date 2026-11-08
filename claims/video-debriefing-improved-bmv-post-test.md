@@ -48,3 +48,5 @@ Bag-mask ventilation scores from the trial's Table 2, adjusted for years in serv
 - [Knowledge attainment immediately after training did not differ significantly between the video-debriefing and standard-training arms](video-debriefing-knowledge-attainment-not-significant.md) — related
 - [Adding video-debriefing to standard HBB training improved combined knowledge-and-skills (competence) attainment in the immediate post-training period among Ugandan skilled birth attendants](video-debriefing-improved-hbb-competence-attainment.md) — related
 - [Medical students who watched the bag mask ventilation demonstration video before class achieved higher BMV performance scores than those who did not](pre-class-video-higher-bmv-performance.md) — related
+- [One-day HBB 2.0 training made all 60 participating nurses competent in bag-and-mask ventilation, with significant knowledge gains](hbb2-training-competency-nepal-nurses.md) — related
+- [The recently trained group was slower on key procedural steps than all other groups, taking longer for bag-mask ventilation and pulse checking.](recently-trained-group-slower-on-procedural-steps.md) — related

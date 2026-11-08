@@ -69,3 +69,4 @@ In the same permanency comparison, control group post-test scores fell from 57.6
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](performing-arts-knowledge-permanence.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
+- [Skill retention one week after training did not differ significantly between remote, face-to-face, and control groups](no-retention-difference-three-groups.md) — related

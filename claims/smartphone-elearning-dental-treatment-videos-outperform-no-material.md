@@ -50,3 +50,4 @@ Randomized controlled trial of 293 dental hygiene students in six schools, rando
 - [Inter-group advantage of smartphone e-learning appears in only two of six schools, with control groups also gaining in two schools](school-level-mixed-smartphone-elearning-effects.md) — a narrower finding that bears on this claim
 - [Students rate the smartphone video learning materials positively, but about half report videos freezing](student-questionnaire-video-freezing-issue.md) — related
 - [The authors hypothesize four factors—videos, interactive questions, smartphones, and audio explanations—drove understanding, pending further study](four-hypothesized-factors-video-elearning-understanding.md) — related
+- [Smartphone-based video feedback is associated with significantly higher scores on the final examination and on bed making, aseptic procedure, vital signs measurement, and oxygen therapy assignments](video-feedback-smartphone-higher-nursing-skill-scores.md) — related

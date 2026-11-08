@@ -49,3 +49,4 @@ Hierarchical regressions predicting KeyMath-3 numeration and RAST-K Chinese word
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related
 - [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related
 - [Inhibitory and attentional control deficit, delay aversion, and time perception/working memory deficit are three dissociable neuropsychological factors in preschoolers](three-dissociable-neuropsychological-factors-preschool-adhd.md) — related
+- [The authors hypothesize that the observed reading and numeracy deficits may be cognitively mediated, directly or through PTSD development](cognitively-mediated-academic-deficits-hypothesis.md) — related

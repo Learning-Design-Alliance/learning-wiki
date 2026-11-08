@@ -54,3 +54,4 @@ Bootstrap mediation analysis (5,000 samples) in Table 3 shows significant indire
 - [Structural paths differ between undergraduate and postgraduate students, but the indirect mediating effects do not differ significantly](multigroup-paths-differ-indirect-similar.md) — related
 - [Personality traits significantly mediate the relationship between entrepreneurial intention and student academic performance among university students](personality-traits-mediate-ei-academic-performance.md) — related
 - [Positive academic emotions increase the likelihood of academic resilience among disadvantaged students in all three grades](positive-academic-emotions-predict-resilience.md) — related
+- [Emotional intelligence is positively associated with positive emotions, self-determined motivation, resilience, academic performance and intention to be physically active among PE students](ei-positive-associations-pe-outcomes.md) — related

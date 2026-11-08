@@ -58,3 +58,4 @@ Cross-sectional moderated-moderation regression in a sample of 520 undergraduate
 - [Negative life events are related to lower academic engagement via social support and depressive symptoms](nle-related-to-lower-academic-engagement-via-ss-and-ds.md) — related
 - [High academic performance (upper GPA quartile) in medical undergraduates is not predicted by self-efficacy, optimism, resilience or perceived stress](psychological-variables-do-not-predict-high-gpa-upper-quartile.md) — related
 - [Depressive symptoms predict subsequent academic engagement more strongly than academic engagement predicts depressive symptoms in Chinese college students](ds-predicts-later-academic-engagement-cross-lagged.md) — related
+- [Among university students, lower depression and loneliness scores and higher social satisfaction scores are associated with higher academic achievement](emotional-functioning-correlates-academic-achievement.md) — a broader claim this one bears on

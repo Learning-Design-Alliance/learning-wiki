@@ -58,3 +58,4 @@ Cross-sectional survey of EM residency program directors; barriers reported in t
 - [Reported barriers to simulation-based education implementation are lack of time, lack of teacher training, and cost of equipment and/or space](sbe-implementation-barriers-time-training-cost.md) — related
 - [Faculty reluctance to share e-learning resources stems mainly from lack of institutional support and concerns about ownership and intellectual property](faculty-sharing-barriers-support-ownership-ip.md) — related
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
+- [Laparoscopic training facilities were available to only 55% of US residency programs in 2006 and 73% of North American programs in 2014](laparoscopic-training-facilities-access-gap.md) — related

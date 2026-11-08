@@ -140,3 +140,4 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [The trial group improved L2 pronunciation (grapheme-phoneme decoding) significantly, driven mainly by the digraph category](phonics-prosody-course-improves-l2-pronunciation.md) — related
 - [Vocabulary-added instruction produced larger gains on taught vocabulary than phonological-awareness-and-decoding-only instruction, though differences were not statistically significant](vocab-added-larger-target-vocabulary-gains.md) — related
 - [Reading and writing measures show moderate correlations, with stronger overlap in lower-level processes than higher-level processes](reading-writing-overlap-lower-level-processes.md) — related
+- [Speechreading training shows no consistent benefit for phonological awareness, letter-sound knowledge, or word reading](speechreading-training-no-reading-phonological-benefit.md) — related

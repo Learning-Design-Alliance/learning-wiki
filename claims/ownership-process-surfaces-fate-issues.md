@@ -49,3 +49,4 @@ This is a theoretical argument advanced in the introduction, not an empirical te
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
 - [Participatory design yields teacher ownership but carries tradeoffs and omits the learner](participatory-design-ownership-tradeoffs.md) — related
+- [Cultural factors shape PBL processes, experiences and outcomes, requiring careful consideration in implementation](cultural-factors-shape-pbl-processes.md) — related

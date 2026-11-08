@@ -67,3 +67,4 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [Systemic, cultural and resource barriers—patient availability, gender and consent constraints, faculty shortages and exam-focused study—impede clinical learning in the studied LMIC setting](lmic-systemic-barriers-clinical-teaching.md) — a narrower finding that bears on this claim
 - [Knowledge and confidence improvements did not differ significantly by country income level, with LIC-LMIC participants gaining comparably to HIC-UMIC participants](rush-mooc-income-group-equivalence.md) — related
 - [KFQ-based TBL cases push students toward choosing wisely and committing to decisions as a parallel to real-life patient care](kfq-tbl-choosing-wisely-commitment-decisions.md) — related
+- [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related

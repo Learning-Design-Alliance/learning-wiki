@@ -66,3 +66,4 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [The 3D VR mode of RiNeo MR caused no simulator sickness: subjects reported discomfort levels of 1 or lower out of 3 on all SSQ symptoms](rineo-3d-no-simulator-sickness.md) — related
 - [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — related
 - [Continuous online class screen exposure caused frequent health complaints, most commonly eyestrain (56.1%) and headache (31.1%)](screen-exposure-health-complaints-eyestrain.md) — related
+- [Medical students generally prefer and enjoy 3D visualizations for learning anatomy, though some found them disorienting for complicated anatomical configurations](students-prefer-3d-anatomy-visualizations.md) — related

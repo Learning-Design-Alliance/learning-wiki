@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 634 claims (339 show a difference, 142 mixed, 153 no difference) · 450 studies (225 associational, 165 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 450 report an effect size · 626 claims rest on one study
+> **Evidence** · 639 claims (340 show a difference, 145 mixed, 154 no difference) · 453 studies (227 associational, 166 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 453 report an effect size · 631 claims rest on one study
 
 ## How to read this page
 
@@ -673,6 +673,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Males report significantly higher median comfort than females for upper-level, gender, and religion related interactions](../claims/males-higher-comfort-upper-level-gender-religion.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No gender differences or year-by-gender interaction effects in SDLRS or GCS scores](../claims/no-gender-effects-sdlrs-gcs.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Pre-test empathy scores did not differ by gender in this cohort](../claims/pbl-empathy-no-gender-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys spend more time on screen-based sedentary behavior than girls, while girls show better academic performance except in mathematics and science](../claims/sex-differences-screen-sb-and-academic-performance.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Combined expressive writing and arousal reappraisal interventions raised exam points for all students, with no differential benefit for women or highly anxious students](../claims/test-anxiety-interventions-raise-exam-points-for-all-students.md) [-M] — an instructional effect differs by group
+- [Male gender relates to lower English grades but not Math or Science grades](../claims/male-gender-lower-english-grades-only.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No gender gap in exam points, but women earned more non-exam points, in the control section](../claims/no-gender-gap-exam-points-women-more-nonexam-points.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women report higher trait test anxiety than men at the start of an introductory biology course](../claims/women-report-higher-trait-test-anxiety-than-men-intro-biology.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

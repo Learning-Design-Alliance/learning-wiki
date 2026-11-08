@@ -56,3 +56,4 @@ Pre-post paired-samples t-test analysis of 20 interns' self-efficacy questionnai
 - [The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs](post-rosc-simulation-increased-confidence.md) — related
 - [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — related
 - [All respondents reported confidence in performing virtual consultations after the experiential learning phase](vc-module-practical-phase-confidence.md) — related
+- [In one single-group pre-post study, nurses' self-reported confidence in coping with patient aggression rose from pre-test to post-test after workplace violence simulation training](simulation-training-increases-confidence-coping-aggression.md) — related

@@ -73,6 +73,7 @@ The article reports that SpellRead™ implementation is supported by "comprehens
 - [Lighthouse train-the-trainers strategy: phase-by-phase demonstration, return teaching, and a seven-step workshop sequence with follow-up seminars](cle-lighthouse-train-the-trainers-strategy.md)
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
 - [Train health teachers with nutrition experts and provide resources and required lessons to promote school nutrition education](tot-expert-training-resources-required-course-strategy.md)
+- [Implement large-scale team training through local ownership with ongoing central support and multi-level backing](national-local-ownership-team-training-implementation.md)
 
 ## Examples
 -

@@ -151,3 +151,6 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Pre-registration trainees attributed training variation to differing experiences and discussed needing more support and resources](preregistration-training-variation-support-need.md) — related
 - [The major implementation barriers were located in collective action: high caseloads, competing priorities and financial incentives pushed carer support below measurable service-user targets](collective-action-barriers-caseloads-priorities.md) — a narrower finding that bears on this claim
 - [Staff perception of REACT as research rather than a clinical initiative impeded long-term uptake](react-perceived-as-research-impeded-uptake.md) — related
+- [Lack of time and logistics are the common workplace barriers to peer support, and embedding the strategy into organisational routines proved effective](embedding-peer-support-organisational-routines.md) — related
+- [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
+- [Workplace-based peer support for clinical teachers is an acceptable and effective faculty development strategy, based on a review of 34 papers](peer-support-acceptable-effective-faculty-development-review.md) — related

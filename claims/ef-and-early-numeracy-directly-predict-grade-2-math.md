@@ -59,3 +59,4 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 - [Kindergarten working memory, but not 5th-grade working memory, significantly mediates the early-later math relation in sensitivity analyses](working-memory-mediation-kindergarten-timepoint-sensitivity.md) — related
 - [Socioeconomic and prior-achievement covariates predict later numeracy and literacy achievement](covariates-predict-numeracy-literacy-achievement.md) — related
 - [Working memory measures taken at age 7–8 predict mathematics performance at age 9–10 two years later, over and above earlier mathematics performance](wm-predicts-math-two-years-later.md) — related
+- [The authors hypothesize that the observed reading and numeracy deficits may be cognitively mediated, directly or through PTSD development](cognitively-mediated-academic-deficits-hypothesis.md) — related

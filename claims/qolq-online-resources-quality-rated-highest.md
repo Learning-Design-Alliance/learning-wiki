@@ -50,3 +50,4 @@ Reaction-level survey using the researcher-made Q-OLQ (19 items, six components;
 - [Students rated course content (68.6% substantial) and teaching quality (64.5% satisfied) more positively than method diversity (52.8%) and encouragement to participate (50.0%)](content-rated-above-interactive-teaching-dimensions.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
 - [Medical faculty members positively perceive e-learning resources, with usefulness for learning rated highest](korean-medical-faculty-positive-e-learning-perceptions.md) — related
+- [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related

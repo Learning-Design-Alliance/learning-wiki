@@ -48,3 +48,5 @@ The review reports, from an included study attributed to Weidenbusch et al. (ref
 - [Blended teaching (TBL plus feedback and reflection) outperformed traditional bedside teaching on clinical reasoning performance](blended-teaching-tbl-feedback-reflection-beats-bedside-teaching.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](ai-pbl-cbl-clinical-reasoning.md) — related
+- [Two weeks after the course, live and video CCD formats no longer differ but both outperform printed cases on clinical reasoning](delayed-post-test-live-video-beat-paper.md) — related
+- [Live clinical case discussions outperform video-recorded and printed case formats on an immediate clinical reasoning post-test](live-ccd-beats-video-and-paper-immediate-post-test.md) — related

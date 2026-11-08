@@ -50,3 +50,4 @@ The commentary reports, citing Rosengrant et al. in the Special Issue, that stud
 - [Delayed effort ratings are higher than the average of immediate ratings, suggesting itemized appraisals are more sensitive to effort fluctuations](delayed-effort-ratings-exceed-average-immediate-ratings.md) — related
 - [Young children's attention to a robot increased sharply when the robot reacted to their gaze](robot-gaze-reactivity-extends-child-attention.md) — related
 - [The robot's physical position structured the learning space: its front hosted on-task activity while its back provided a peripheral space for momentary off-task behavior, seemingly allowing children to regulate their own engagement](robot-front-back-engagement-regulation.md) — related
+- [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](no-attention-reset-after-al.md) — related

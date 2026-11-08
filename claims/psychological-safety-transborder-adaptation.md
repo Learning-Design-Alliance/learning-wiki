@@ -53,3 +53,4 @@ From the thematic analysis of five interviews, the Psychological Safety theme co
 - [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
 - [Relationship building between home and host individuals is an ongoing interpersonal investment whose timing determines when adaptation proposals succeed.](relationship-building-timing-adaptation.md) — related
+- [Recruiting surgeons was the main political challenge in establishing multidisciplinary team training](surgeon-recruitment-political-barrier.md) — related

@@ -49,3 +49,4 @@ Sensitivity analysis within the same meta-analysis: 91 effects came from Mikulin
 - Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect — related
 - The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses — related
 - [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](kluger-denis-feedback-worse-50-of-131.md) — related
+- [Feedback interventions show an average positive effect on learning (d = 0.41), yet more than 38% of studies in the Kluger and DeNisi meta-analysis measured a negative effect](feedback-meta-analysis-d-0-41-negative-in-38-percent.md) — related

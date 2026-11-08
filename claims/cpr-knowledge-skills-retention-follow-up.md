@@ -61,3 +61,4 @@ Discussion of follow-up evidence across included studies. The shortest follow-up
 - [Most participants reported no substantial increase in domain-specific knowledge and technical skills from the masterclass](masterclass-limited-domain-knowledge-gains.md) — related
 - [Participants recommended extending the simulation training to all team members and running it more frequently](participants-recommend-more-frequent-wider-simulation.md) — related
 - [Overall knowledge scores rose from baseline to 3 and 12 months after refresher training sessions, in a single-group pre-post study, reaching minimum competency at 3 and 12 months](highflow-refresher-training-incremental-gains.md) — related
+- [Participants judged pharmacology teaching insufficient, recommending it be taught for more than one semester](nqn-pharmacology-insufficient-content.md) — related

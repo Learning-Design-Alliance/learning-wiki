@@ -50,3 +50,4 @@ Wilcoxon signed-rank comparison of the same participants' scores between T0 and 
 - [Maximum scores declined after primary intervention except in fluidity and speed, which rose significantly](max-scores-decline-except-fluidity-speed.md) — related
 - [Immediately after simulation training, residents outperform the cross-over control group on the scenario they were trained for, on both the cardiac-arrest and the ACS scenarios](simulation-immediate-advantage-trained-scenario.md) — related
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related
+- [Performance dropped significantly within 0.5 to 2 years after simulation training and remained on a plateau until 4 years.](performance-drop-after-six-months-plateau.md) — related

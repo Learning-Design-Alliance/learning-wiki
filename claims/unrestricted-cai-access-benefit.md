@@ -76,3 +76,4 @@ Companion subanalysis of three studies (n=284) with limited access. Pooled "SMD=
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md) — related
 - [Access to a dedicated Google Sites ECG-learning platform added to conventional teaching improves post-rotation ECG interpretation test scores among pre-graduate medical students.](google-sites-ecg-platform-improves-interpretation-scores.md) — a narrower finding that bears on this claim
 - [Access to a structured Google Sites learning pathway increases consistent use of the faculty-recommended nine-step ECG interpretation worksheet.](google-sites-increases-worksheet-use.md) — related
+- [The cohort with access to online e-learning material scored on average 5.57% higher on the MCQ examination than the cohort without access](elearning-mcq-grade-5-57-percent-higher.md) — related

@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (94 show a difference, 24 mixed, 16 no difference) · 81 studies (27 causal, 26 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 81 report an effect size · 133 claims rest on one study
+> **Evidence** · 137 claims (97 show a difference, 24 mixed, 16 no difference) · 83 studies (27 causal, 27 associational, 16 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 23 of 83 report an effect size · 136 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -170,6 +170,9 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Cybervictimization negatively predicts emotional intelligence (β = −0.61, p < 0.001) and academic performance (β = −0.31, p < 0.01)](../claims/cybervictimization-negatively-predicts-ei-and-grades.md) [+M] — measured as an outcome of the instruction studied
 - [Emotional intelligence negatively predicts cybervictimization (β = −0.49, p < 0.001)](../claims/ei-negatively-predicts-cybervictimization.md) [+M] — learners who differ on it differ in outcomes
 - [Emotional intelligence positively predicts academic performance among secondary students (β = 0.42, p < 0.001)](../claims/ei-positively-predicts-academic-performance-adolescents.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional intelligence is positively associated with positive emotions, self-determined motivation, resilience, academic performance and intention to be physically active among PE students](../claims/ei-positive-associations-pe-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [The FaceSay face-processing software significantly improved affect recognition and mentalizing scores in elementary school children with HFA relative to control](../claims/facesay-improved-affect-recognition-mentalizing-hfa.md) [+M] — measured as an outcome of the instruction studied
+- [The Mind Reading software with in vivo rehearsal improved emotion recognition, encoding and decoding in children with high-functioning ASD](../claims/mind-reading-software-improved-emotion-skills-hfasd.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

@@ -51,6 +51,7 @@ Because knowledge and skills declined significantly within about two years of co
 - [Supplement game-based learning with reinforcement strategies such as periodic refresher sessions and adaptive difficulty to sustain patient safety competency](gbl-reinforcement-refresher-strategy.md)
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 - [Repeat simulation training 6 months after initial training to sustain PPH knowledge and skills](repeat-simulation-training-six-months-pph.md)
+- [Daily self-led skill drills with automated simulator feedback to maintain neonatal resuscitation skills](daily-skill-drills-simulator-feedback-strategy.md)
 
 ## Examples
 -

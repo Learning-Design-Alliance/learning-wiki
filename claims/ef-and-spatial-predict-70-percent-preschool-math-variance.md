@@ -60,3 +60,4 @@ Final hierarchical regression (Model 3) in a longitudinal study of 44 children t
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — related
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — a broader claim this one bears on
+- [Post-intervention early math is predicted by pre-intervention math, age, and socioeconomic status in preschool children](math-post-predicted-by-pre-age-ses.md) — related

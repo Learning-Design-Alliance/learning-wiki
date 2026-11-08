@@ -54,3 +54,4 @@ Subgroup paired t-tests reported in Table 3: males (n = 66) improved significant
 - [Male physics students show significant anxiety–tripartite-network connectivity correlations at pre- and post-instruction, while female students show none](male-specific-anxiety-network-connectivity.md) — related
 - [Communication skills attitudes improved after an SRL-based curriculum](csas-improvement-after-srl-communication-curriculum.md) — related
 - [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related
+- [Landscape design students’ CSES-Feelings empathy scores increased significantly from pre-test to post-test for both female and male participants](landscape-students-significant-empathy-increase-interdisciplinary-refuge-project.md) — related

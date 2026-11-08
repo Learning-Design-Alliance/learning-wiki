@@ -69,6 +69,7 @@ EQUIP works by making the invisible visible: teachers' implicit calling patterns
 - [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
 - [Weigh live, video, and customized nonverbal data collection methods when using EQUIP](equip-data-collection-method-tradeoffs.md)
 - [Use EQUIP data to take action: test new strategies, collect data again, and align professional development to surfaced needs](use-equip-data-to-take-action.md)
+- [Use graph theory talk-turn analysis to inform equitable classrooms and give students feedback on group contribution](graph-analysis-equity-assessment-strategy.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — EQUIP is performance assessment applied to teaching practice

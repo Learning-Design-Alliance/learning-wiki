@@ -70,3 +70,4 @@ Questionnaire and Spearman correlation analysis of teacher attitudes; the articl
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [The lowest-rated aspects of the flipped classroom concerned time: students most wanted more time per topic and noted long preparation and conduction time](flipped-classroom-time-related-lowest-ratings.md) — related
 - [Teacher preparation time for the flipped classroom was roughly three times that of the traditional classroom, contributing to teacher reluctance](flipped-classroom-teacher-preparation-burden.md) — related
+- [Resistance from specific stakeholders who believed traditional teaching superior to flipped teaching emerged despite preparation](stakeholder-resistance-flipped-teaching.md) — related

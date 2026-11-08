@@ -51,6 +51,7 @@ In the Limitations section, the authors recommend strategies to sustain long-ter
 - [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 - [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
+- [Integrate unit-specific simulation training into regular workplace violence prevention programs](unit-specific-simulation-violence-prevention-strategy.md)
 
 ## Examples
 -

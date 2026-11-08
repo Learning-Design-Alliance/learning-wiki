@@ -69,3 +69,4 @@ Results section on barriers to becoming a PT: students skipped lectures and lost
 - [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
+- [Lack of time and logistics are the common workplace barriers to peer support, and embedding the strategy into organisational routines proved effective](embedding-peer-support-organisational-routines.md) — related

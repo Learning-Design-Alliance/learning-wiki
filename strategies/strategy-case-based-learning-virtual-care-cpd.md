@@ -48,6 +48,7 @@ The article recommends enhancing asynchronous virtual care CPD modules by adding
 - [Deliver standardized e-learning modules asynchronously as a supplement to clinical rotations, shared across institutions](shared-asynchronous-e-module-rotation-supplement-strategy.md)
 - [Six-part design recommendations for online modules that teach and assess critical thinking](six-recommendations-online-critical-thinking-modules.md)
 - [Leverage online and asynchronous learning strategies to supplement lecture and lab components of wheelchair-related content](online-asynchronous-wheelchair-content-strategy.md)
+- [Design online health-professional e-learning with a high pass mark, active interactivity, continuous feedback, and optional extension material](gen-equip-online-learning-design-strategies.md)
 
 ## Examples
 -

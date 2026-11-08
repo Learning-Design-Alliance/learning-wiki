@@ -56,3 +56,4 @@ Spearman correlation analysis among the three instrument components in the 434-p
 - [Residents' interest in the field correlated with their self-assessed practical abilities but not with self-assessed theoretical knowledge, and theoretical knowledge showed no correlation with practical abilities](interest-correlates-with-practical-not-theoretical-ability.md) — related
 - [Baseline self-confidence in ECG interpretation does not correlate with baseline ECG exam performance](no-correlation-confidence-ecg-exam-score.md) — related
 - [Resident and intern ratings of the intern's consult-calling ability show only a moderate positive correlation (r = .43)](moderate-correlation-resident-intern-consult-ability.md) — related
+- [Subjective learning outcomes correlate moderately with objective clinical reasoning performance at post-test and delayed post-test](subjective-outcomes-correlate-with-knowledge-application.md) — related

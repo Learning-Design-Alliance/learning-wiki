@@ -49,3 +49,4 @@ Multiple linear regression on the 2055-nurse survey (adjusted R2=0.087, F12,2042
 - [Prior experience responding to infectious disease emergencies is associated with higher competence, but experience with other crises is not](infectious-disease-experience-score-difference.md) — related
 - [Workplace-organised training and frequent emergency-drill participation are associated with higher engagement in disaster management roles](training-and-drills-boost-disaster-engagement.md) — related
 - [Chinese nurses' mean infectious disease emergency response competence score is 141.75 (SD 20.09), a moderate to above-average level after COVID-19 restrictions were lifted](nurse-competence-mean-141-75-post-covid.md) — related
+- [Participants averaging about 8 skill drills over 3 months achieved effective ventilation, and drill count was associated with effective ventilation (p = 0.032)](eight-skill-drills-effective-ventilation.md) — related

@@ -56,3 +56,4 @@ McNemar tests on pre-test versus 6-week retention-test benchmark attainment show
 - [Confidence in operating a syringe pump declines substantially in the two weeks after e-Learning-based device training, regardless of learning method](confidence-declines-after-device-training.md) — related
 - [At 4-week follow-up, intervention-group clerks more often applied the acquired skills and reported more satisfied patients, with better retention](oscar-followup-transfer-retention.md) — related
 - [Knowledge gains from both PAL and NAL weeks were not significantly retained at the one-week follow-up](pal-nal-retention-not-significant.md) — related
+- [Virtual patient and small-group teaching groups show no significant difference in theoretical test performance six weeks after the intervention](vp-sgt-no-difference-six-week-retention.md) — related

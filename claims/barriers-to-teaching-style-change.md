@@ -51,3 +51,4 @@ Template analysis of interviews with 12 clinical teachers. The article reports "
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — a broader claim this one bears on
 - [Barriers to interprofessional socialisation among healthcare educators include resource limitations, lack of awareness, institutional influences, professional tensions, COVID-19 burnout and limited exposure](barriers-to-interprofessional-socialisation.md) — related
 - [Changes in clinical teachers' conceptions of teaching are prompted by personal experience, institutional culture, teacher maturity, and global evolution in medical education](factors-prompting-teaching-style-change.md) — related
+- [Perceived barriers to EBT show no relationship with faculty's reported implementation](perceived-barriers-no-relationship-ebt.md) — related

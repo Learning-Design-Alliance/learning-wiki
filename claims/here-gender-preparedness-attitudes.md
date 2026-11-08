@@ -91,3 +91,4 @@ Multivariate linear regression of the Polish cohort; on the attitudes subscale, 
 - [In the Spanish cohort, no analyzed variable significantly predicted knowledge scores](here-spain-knowledge-no-predictors.md) — related
 - [In the Polish cohort, age was positively associated with clinical preparedness and physicians scored higher than nurses/midwives](here-poland-age-profession-predictors.md) — related
 - [Female students report significantly higher expectation and interest scores than male students before training, and higher expectation after training](gender-differences-obstetric-expectation-interest.md) — related
+- [Pre-post gains differ by country: British students led on attitudes and skills before the intervention, Spanish students after](enursus-country-differences-gains.md) — related

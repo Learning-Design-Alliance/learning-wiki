@@ -43,7 +43,8 @@ The article reports that Durlak, Weissberg, and Pachan (2010) "recommended four 
 - [Boys in the intervention group improved in emotional regulation, interpersonal relationships and goal definition from pre to post, and teachers perceived greater impact for boys than girls](../claims/isc-program-gender-differences-boys-improve-more.md) [+W]
 
 ## Related Strategies
-- 
+
+- [PE teachers should design programs that develop emotional recognition, relationships and interpersonal communication alongside physical skills](pe-programs-emotion-focused-design.md)
 
 ## Examples
 -

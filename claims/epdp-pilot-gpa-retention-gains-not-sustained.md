@@ -73,3 +73,4 @@ Follow-up observation reported by the authors, citing Buyarski (2016): after the
 - [Follow-up or post-implementation contact by change agents relates most strongly to adoption success; without it adoption falters](follow-up-contact-strongest-adoption-success-factor.md) — related
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project (2013) to four required courses (by 2017), described as the foundation for fully integrating it into the curriculum](philanthropic-studies-epportfolio-curricular-integration.md) — related
 - [Prior studies reviewed report that summer bridge participants persist to the second year and earn higher GPAs than non-participants](prior-studies-bridge-persistence-gpa.md) — related
+- [Sustaining a strengthened PE program in high-stakes academic settings is difficult, and discontinuation erodes its academic benefits](pe-program-sustainability-challenge-exam-pressure.md) — related

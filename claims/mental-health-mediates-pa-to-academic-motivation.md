@@ -56,3 +56,4 @@ Structural equation modeling with bootstrapping (5,000 resamples) on the three-w
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related
 - [Physical and mental health significantly mediates the relationship between physical activity and academic achievement (indirect β = 0.052, 14.86%)](pmh-mediation-pa-aa.md) — related
 - [Mental health mediates the positive effect of physical activity on academic achievement at low and medium activity levels but not at high levels](mental-health-mediation-physical-activity-achievement.md) — related
+- [Self-motivation predicts both academic performance and regular participation in physical activity](self-motivation-predicts-performance-activity.md) — related

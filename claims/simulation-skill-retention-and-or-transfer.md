@@ -70,3 +70,4 @@ The review attributes to a Dawe et al. (2014) systematic review the conclusion t
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — reports the opposite
 - [Meta-analytic evidence cited by the review finds simulation-trained medical students outperformed traditionally trained peers in technical and non-technical skills assessments](meta-analysis-sbt-outperforms-traditional-training.md) — a broader claim this one bears on
 - [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related
+- [Practicing laparoscopic skills in a simulated environment is reported to yield good acceptance and improved technical skills](simulated-practice-improves-technical-skills.md) — related

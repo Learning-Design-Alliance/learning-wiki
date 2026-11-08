@@ -50,3 +50,4 @@ The review reports, citing Kali and Ronen (2005), that in three semesters of an 
 - [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — related
 - [Web-SPA peer review activities showed considerable consistency between instructor and peer marks and improved quality of work](web-spa-peer-review-consistency-and-improvement.md) — related
 - [Peer review scores correlated increasingly with instructor scores across the three review rounds](peer-teacher-score-correlation-increases.md) — related
+- [Teams proposed awarding additional or floating marks rather than deducting marks, to reduce tension around peer marking](floating-marks-peer-assessment-proposal.md) — related

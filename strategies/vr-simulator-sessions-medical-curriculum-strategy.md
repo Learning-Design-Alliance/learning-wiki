@@ -60,6 +60,7 @@ The authors recommend raising students' exposure to interventional radiology thr
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Extend reusable VR simulations with progress bars, awards, and social interaction across repeated runs](add-progress-awards-social-interaction-reusable-vr.md)
 - [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
+- [Extend experiential radiology education with clinical participation programmes such as radiology triage and department internships](radiology-triage-internship-extension-strategy.md)
 
 ## Examples
 -

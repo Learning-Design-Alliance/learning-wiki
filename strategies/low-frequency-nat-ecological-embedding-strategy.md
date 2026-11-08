@@ -56,6 +56,7 @@ The article recommends embedding EF training within ecologically valid academic 
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 - [Embed word learning meaningfully into situated VR tasks with social guidance and repeated exposure](embed-words-in-situated-vr-tasks.md)
 - [Design comprehensive AAC intervention protocols that extend beyond requesting to maintenance, generalization, and naturalistic contexts](aac-protocols-beyond-requesting-maintenance-generalization.md)
+- [Design technology-based ASD social skills studies to embed the child's real-world environment and measure generalization and maintenance of skills](real-world-environment-and-generalization-measures-asd-tech-studies.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Pre-registered SEM (Model 1) of the Born in Bradford cohort estimation sample (n
 - [Processing speed does not significantly mediate the association between socioeconomic status and educational achievement](processing-speed-not-mediator-ses-achievement.md) — related
 - [Working memory significantly mediates the SES-educational achievement association, accounting for 39% of the total effect](working-memory-mediation-ses-achievement.md) — related
 - [The total effect of SES on educational achievement is positive, with the direct effect representing the majority (58-61%) of it](ses-total-direct-effect-achievement.md) — related
+- [Post-intervention executive functions are predicted by pre-intervention EF, age, and socioeconomic status in preschool children](ef-post-predicted-by-pre-age-ses.md) — related

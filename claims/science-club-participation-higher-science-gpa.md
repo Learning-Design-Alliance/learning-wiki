@@ -51,3 +51,4 @@ Propensity score matching analysis of science club participation on science GPA 
 - [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — a broader claim this one bears on
 - [Research participation is significantly positively associated with job competency among public health students after propensity score matching](research-participation-associated-with-job-competency-public-health-students.md) — related
+- [KSX participation is associated with substantially higher MOOC completion rates (64.9% vs 6.4%), persisting after propensity score matching](ksx-participation-higher-mooc-completion.md) — related

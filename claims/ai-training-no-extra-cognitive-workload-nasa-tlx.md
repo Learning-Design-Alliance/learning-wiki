@@ -51,3 +51,4 @@ After the final test, all participants completed the NASA Task Load Index; the a
 - [Perceived cognitive load did not differ between facilitator-guided and self-guided debriefing groups](no-cognitive-load-difference-debriefing.md) — related
 - [No significant difference between AI-trained and expert-tutor-trained physicians in diagnostic completeness or structured progress at final test](no-group-difference-diagnostic-completeness-structured-progress.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
+- [Self-reported cognitive load (NASA TLX) is high and does not differ between expert and resident anesthetists in simulated PPH](nasa-tlx-no-group-difference-pph.md) — related

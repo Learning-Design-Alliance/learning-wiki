@@ -69,3 +69,4 @@ Authors' interpretation of OSCE item percentages (Table 1) alongside self-report
 - [MME and TE students showed no statistically significant difference in total self-reported weight management counseling skill](mme-te-self-reported-skills-null.md) — related
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — a broader claim this one bears on
 - [More self-reported hours of weight management counseling learning in the preclinical years is significantly positively associated with both OSCE score and perceived counseling skill](wmc-training-hours-osce-skills-association.md) — related
+- [Trainees' self-efficacy ratings showed discordance with their observed OSCE skills after the different infiltration trainings](self-efficacy-discordance-with-observed-skills.md) — related

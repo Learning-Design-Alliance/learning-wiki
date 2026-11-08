@@ -48,3 +48,4 @@ Descriptive qualitative analysis of semi-structured interviews with three boys a
 - [AI-empowered scenario-based simulation teaching produced higher clinical critical thinking scores than traditional teaching](ai-scenario-simulation-higher-clinical-critical-thinking.md) — related
 - [AI-empowered scenario-based simulation teaching produced higher theoretical exam scores than traditional teaching in cardiovascular disease education](ai-scenario-simulation-higher-theoretical-exam-scores-cardiology.md) — related
 - [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — related
+- [Focus group themes portray PBL as impressive, realistic, practical, and critical, with enhanced social participation, compared with traditional teaching](focus-groups-pbl-realistic-practical-critical.md) — related

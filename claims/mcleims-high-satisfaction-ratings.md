@@ -69,3 +69,4 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
 - [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
+- [Resident satisfaction with TEE training did not differ significantly among the three teaching methods](no-satisfaction-difference-among-tee-teaching-methods.md) — related

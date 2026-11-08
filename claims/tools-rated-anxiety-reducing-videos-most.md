@@ -47,3 +47,4 @@ Questionnaire item asking 149 novice veterinary students to rate the anxiety-red
 ## Related Claims
 - [84% of novice students reported anxiety before live-mouse practice, and higher anxiety correlated positively with frequency of use and perceived necessity of all three alternative tools](anxiety-correlates-with-alternative-tool-use.md) — related
 - [Novice veterinary students rated training videos as more frequently used and more necessary for skill acquisition than either mouse simulator](videos-rated-more-necessary-than-simulators-mouse-skills.md) — related
+- [The authors argue that instructional videos are a contribution to animal welfare by reducing the use of live animals in undergraduate veterinary education](instructional-videos-animal-welfare-contribution.md) — related

@@ -60,3 +60,4 @@ The review's synthesis reports that 17 studies examined affective outcomes. Stud
 - [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](escuela2-students-deficiencies-higher-order.md) — related
 - [Student perceptions of AI technology may negatively influence satisfaction with synthetic voices](ai-perception-affects-satisfaction.md) — related
 - [Intervention-group students with knowledge about simulation, desire for simulation education, or belief in its usefulness reported higher satisfaction and self-confidence](simulation-attitudes-linked-satisfaction.md) — related
+- [Meta-analytic effects of PBL on expectancy-value constructs: self-efficacy/control d = 0.403, task value d = 0.587, attitude toward learning d = 0.240](pbl-meta-analysis-expectancy-value-effects.md) — related

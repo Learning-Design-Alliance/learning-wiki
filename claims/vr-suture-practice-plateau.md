@@ -61,3 +61,4 @@ Analysis of the five training results and final test across 26 students (Table 1
 - [Total suture scores improved over the training sessions in both groups](scores-improved-over-training-sessions-both-groups.md) — related
 - [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related
 - [Learning curves on the VR hysterectomy module plateau after the third training session for time, path length and number of movements](vr-hysterectomy-module-learning-curve-plateau-third-session.md) — related
+- [With five repetitions per task, a learning-curve plateau was reached in only two of the nine basic skills tasks, indicating the fixed-repetition program was insufficient](plateau-reached-in-only-two-of-nine-tasks-fixed-repetitions-insufficient.md) — reports the opposite

@@ -53,3 +53,4 @@ Meta-analysis of 11 randomised controlled trials using Cohen's d with a random e
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — related
 - [Interventions lasting ≥24 weeks show larger effects on mathematics and overall academic achievement than shorter interventions](longer-interventions-improve-mathematics-and-overall-achievement.md) — related
 - [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — related
+- [Physical activity interventions show beneficial effects on academic outcomes in pediatric populations](physical-activity-interventions-benefit-academic-outcomes.md) — a broader claim this one bears on

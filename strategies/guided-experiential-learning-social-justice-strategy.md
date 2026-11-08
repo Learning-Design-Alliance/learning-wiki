@@ -52,6 +52,7 @@ The article recommends experiential learning as the vehicle for social justice e
 
 - [Adapt clinic operations to emergent community needs, including telehealth triage during clinic closures](responsive-telehealth-triage-strategy.md)
 - [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](make-social-justice-issues-explicit-strategy.md)
+- [Use authentic interdisciplinary learning projects with real social impact to develop students’ empathetic understanding before professional practice](authentic-interdisciplinary-social-impact-project-strategy.md)
 
 ## Examples
 -

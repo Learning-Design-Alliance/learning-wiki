@@ -68,3 +68,4 @@ Recommendation item scored 0 to 10 in the deferred-phase questionnaire. Means we
 - [All students with access to the PBL modules considered them useful for learning medical statistics, and total satisfaction with the course was significantly higher in the hPBL group](pbl-modules-satisfaction-usefulness-medical-statistics.md) — related
 - [Nursing students using the NSTIS-based simulation rated overall classroom teaching effectiveness higher than students using printed materials](nstis-higher-teaching-effect-questionnaire-total.md) — related
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related
+- [Remote and face-to-face trainees reported equally high satisfaction with learning and equally positive evaluations of the MTU training](equal-satisfaction-remote-face-to-face-mtu.md) — reports the opposite

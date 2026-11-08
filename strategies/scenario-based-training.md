@@ -76,6 +76,7 @@ Scenario based training works because it forces retrieval and application under 
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
 - [Teach critical thinking through varied interactive activities — role plays, case scenarios, essays, and discussions — within a short foundation workshop](interactive-varied-activities-ct-workshop-strategy.md)
 - [Use scenario-based case-based learning with small-group discussion to teach patient safety to ICU and emergency nurses](cbl-scenario-strategy-patient-safety-nurses.md)
+- [Supervised small-group seminars with simulated patients for communicative-skill training with patient-view feedback](simulated-patient-seminar-feedback-strategy.md)
 
 ## Examples
 - **Harvard Business School case method** ([Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)) — written business scenarios discussed under instructor facilitation; a scalable, low-fidelity form of scenario training.

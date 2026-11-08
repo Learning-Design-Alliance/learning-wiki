@@ -61,3 +61,4 @@ Discussion statement summarizing the discrimination-index classification across 
 - [Difficulty ranges of ChatGPT and instructor items differed: ChatGPT items spanned a broader range while the human test included more high-difficulty items](chatgpt-items-broader-difficulty-range-human-more-high-difficulty.md) — related
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — related
 - [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related
+- [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related

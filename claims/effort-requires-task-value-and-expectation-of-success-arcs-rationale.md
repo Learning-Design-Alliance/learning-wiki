@@ -89,3 +89,4 @@ Theoretical argument in the digest, not a tested result. It states that in expec
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](students-choose-enjoyable-feasible-activities.md) — a narrower finding that bears on this claim
 - [Integrating dynamic and standardized assessments produces positive washback and higher task-intrinsic motivation](integrated-assessment-positive-washback-motivation.md) — a narrower finding that bears on this claim
 - [Novice trainees rate PLAN A as engaging and helpful for understanding escalation rationale, though feedback was informal and not formally measured](plan-a-learner-engagement-feedback.md) — related
+- [Participants' intrinsic motivation to improve safety culture and the programme's evidence base drove implementation enthusiasm](intrinsic-motivation-evidence-base-networkz.md) — a narrower finding that bears on this claim

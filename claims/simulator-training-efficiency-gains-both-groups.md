@@ -93,3 +93,4 @@ Within-group comparison across later clinical cases; "From Case 4 onward, studen
 - [Ocular POCUS scan time decreased with scan sequence within a single session for both training groups](scan-time-reduced-with-sequence.md) — a narrower finding that bears on this claim
 - [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related
 - [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related
+- [Task time did not decrease after TaTME training, unlike in earlier conventional laparoscopic training studies](no-task-time-reduction-tatme-training.md) — reports the opposite

@@ -55,3 +55,4 @@ Multivariable logistic regression in the same cross-sectional study of 514 stude
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
+- [Parents in high and medium bushfire-impact regions had significantly lower Year-12-or-equivalent education rates than in low-impact regions](parental-education-lower-in-high-impact-regions.md) — related

@@ -46,3 +46,4 @@ Topic-level analysis (n = 19 topics) in the Results section of the cohort of 51 
 
 ## Related Claims
 - [Remote delivery of theoretical orthodontics lectures yields overall examination outcomes equal to in-class delivery among undergraduate dental students](remote-theory-lectures-equal-exam-outcomes-orthodontics.md) — a broader claim this one bears on
+- [Remote and face-to-face trainees reported equally high satisfaction with learning and equally positive evaluations of the MTU training](equal-satisfaction-remote-face-to-face-mtu.md) — related

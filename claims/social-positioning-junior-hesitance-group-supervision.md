@@ -53,3 +53,5 @@ Focus group finding interpreted through social positioning theory: balancing the
 - [Group supervision is valued because aquatic physiotherapy is a specialised area practised infrequently, leaving little other dedicated reflection time](specialised-infrequent-practice-drives-supervision-value.md) — related
 - [Junior nurses hesitate to seek guidance from senior colleagues and physicians about medication procedures, creating error risk](junior-nurse-communication-hesitation-medication-errors.md) — related
 - [Students were initially hesitant about student-led interactive sessions, with tutorial attendance 5% lower than traditional lecture delivery before engagement rose](initial-student-hesitancy-pbl-sessions.md) — related
+- [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related
+- [Recruiting experienced reviewers is increasingly difficult while junior researchers are more willing, motivating a balanced senior-junior reviewer mix](senior-junior-reviewer-balance.md) — related

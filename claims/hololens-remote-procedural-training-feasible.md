@@ -52,3 +52,4 @@ Feasibility results from the randomised trial (n = 16): all tutorials ran as sch
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
 - [Students valued HoloLens for shared, instructor-guided collaborative learning, especially synchronized faculty pointing at structures](hololens-shared-instructor-guided-learning.md) — related
 - [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related
+- [Remote MTU training produced procedural performance gains comparable to face-to-face training, with no significant difference between the two delivery modes](mtu-remote-training-comparable-shows-how.md) — related

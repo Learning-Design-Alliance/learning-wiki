@@ -74,3 +74,4 @@ Controlled intervention study in inner-city kindergarten classrooms with 84 trea
 - [Explicit phonological awareness instruction significantly improved adult Saudi EFL learners' oral reading literacy from pretest to posttest](pa-instruction-improves-adult-arab-efl-literacy-prepost.md) — related
 - [Posttest scores of the phonological awareness treatment group were significantly higher than the control group's, with a large effect size](pa-posttest-outperforms-exposure-large-effect.md) — related
 - [Adult Saudi learners held positive attitudes toward phonological awareness instruction, preferring it to their prior schooling](positive-attitudes-toward-pa-instruction.md) — related
+- [Speechreading training shows no consistent benefit for phonological awareness, letter-sound knowledge, or word reading](speechreading-training-no-reading-phonological-benefit.md) — related

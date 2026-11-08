@@ -54,6 +54,7 @@ The report recommends a package of evidence-based alternatives to zero-tolerance
 - [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 - [Use preventive disciplinary and restorative justice approaches rather than exclusionary discipline for students experiencing homelessness](restorative-discipline-for-homeless-students.md)
 - [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
+- [Target child factors (emotion understanding, social skills) and teacher classroom management in school-based intervention for youth with elevated CU traits](school-intervention-target-child-teacher-factors.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ Participant quote from focus groups capturing the tension some students felt bet
 - [Undergraduate dental students perceive that PBL enhances motivation by making learning purposeful through authentic clinical cases](pbl-authentic-cases-enhance-motivation-perceptions.md) — related
 - [Students perceived the problematization methodology as enabling student-centered problem-solving and transforming their perceptions of their problem-solving abilities.](problematization-methodology-student-centered-problem-solving-perceptions.md) — related
 - [Students felt overwhelmed by the course workload and found contact time with lecturers inadequate](students-overwhelmed-workload-inadequate-contact-time.md) — related
+- [Students reported losing focus during PBL and found technology use challenging, making tutor guidance essential](pbl-focus-loss-and-technology-difficulties.md) — related

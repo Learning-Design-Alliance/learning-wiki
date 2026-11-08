@@ -65,3 +65,4 @@ The review attributes to Rainey et al. (2018) the finding that "racially margina
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — a narrower finding that bears on this claim
 - [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — a narrower finding that bears on this claim
 - [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](costs-of-ignoring-social-side-of-school.md) — related
+- [BME students report overt racism rarely but daily microaggressions commonly, lowering self-confidence](bme-students-racism-microaggressions.md) — related

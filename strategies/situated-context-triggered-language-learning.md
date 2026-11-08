@@ -45,6 +45,7 @@ The article recommends designing mobile language learning so that learning activ
 - [Design mobile learning around the features students already use frequently, while recognising this is not a panacea](design-mobile-learning-around-frequent-features.md)
 - [Embed word learning meaningfully into situated VR tasks with social guidance and repeated exposure](embed-words-in-situated-vr-tasks.md)
 - [Use mobile devices and cloud-based technologies to support extensive task-based activities in real-world contexts](mobile-cloud-task-based-real-world-activities.md)
+- [Design technology-based ASD social skills studies to embed the child's real-world environment and measure generalization and maintenance of skills](real-world-environment-and-generalization-measures-asd-tech-studies.md)
 
 ## Examples
 -

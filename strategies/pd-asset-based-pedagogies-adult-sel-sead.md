@@ -54,6 +54,7 @@ The brief argues educators need skills to create culturally affirming environmen
 - [Policy implications: multi-factor, asset-based support for low-SES students](ses-policy-multi-factor-asset-based-strategy.md)
 - [Incorporate culturally responsive, anti-racist, and multicultural curricula in higher education STEM programs](culturally-responsive-antiracist-stem-curricula.md)
 - [Combine teacher professional development, engagement- and well-being-focused pedagogy, and culturally responsive AI tools to sustain EFL motivation](combined-teacher-pedagogy-ai-motivation-strategy.md)
+- [Review institutional practices, diversify staff and student populations, and develop guidance on reporting and tackling racism](review-practices-diversify-staff-anti-racism-guidance.md)
 
 ## Examples
 -

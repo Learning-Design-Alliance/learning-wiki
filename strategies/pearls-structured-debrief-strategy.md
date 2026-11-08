@@ -57,6 +57,7 @@ After each simulation case, a faculty facilitator leads a structured debrief bas
 - [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 - [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
 - [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
+- [Joint basic-science and clinical faculty debriefing using Socratic facilitation to immerse basic science content in the clinical case](paired-faculty-socratic-debrief-basic-science.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Direct-path results from the structural equation model of the 1243-student surve
 - [Autonomous motivation significantly and positively predicts subjective norms, contrary to theoretical expectations](autonomous-motivation-predicts-subjective-norms-positively.md) — related
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
 - [Changes in attitude, social norms, and intention were not significantly associated with changes in academic achievement](attitude-norms-intention-change-null-achievement.md) — related
+- [Determinants of behaviour toward restrictive catheter use rose from baseline to follow-up in staff at seven Swiss acute care hospitals in one uncontrolled before-after survey study, with the strongest changes in perceived social expectations](behaviour-determinants-increase.md) — related

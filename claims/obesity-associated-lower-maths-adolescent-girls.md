@@ -58,3 +58,4 @@ Systematic review synthesis of three high-quality longitudinal cohort studies (n
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — reports the opposite
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
+- [Strengthened PE lowers math scores, with the decrease concentrated among girls](strengthened-pe-lowers-math-scores-girls.md) — related

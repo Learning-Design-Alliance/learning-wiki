@@ -87,3 +87,4 @@ Main-effect t-tests of gender on pretest and posttest scores; both non-significa
 - [No significant sex-related differences in AED performance were observed](no-significant-sex-differences-aed-performance.md) — related
 - [Question 4 on communication skills was an independent outlier, unaffected by modality, age or sex](communication-skills-item-modality-independent.md) — related
 - [Male and female students reported no significant differences in perceptions of either teaching module on the course questionnaire](no-gender-difference-questionnaire-perceptions.md) — related
+- [The knowledge test showed measurement invariance across gender and school grade, with girls and ninth-graders scoring better at small effect sizes](bls-test-measurement-invariance-gender-grade.md) — reports the opposite

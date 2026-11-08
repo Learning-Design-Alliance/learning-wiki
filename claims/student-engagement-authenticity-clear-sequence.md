@@ -69,3 +69,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Survey respondents held largely positive perceptions of the PPES course, valuing its clear presentation, authenticity and preparation for rotations and the OSCE](ppes-survey-positive-perceptions.md) — related
 - [Students reported that the narrated cases created a perception of reality and supported learning the story organization](mobile-vp-qualitative-realism-story-organization.md) — related
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related
+- [PBL organizes education around a sequence of separate problems, improving short-run performance but isolating education as a separate space from the world at large.](pbl-separate-problems-isolation.md) — related

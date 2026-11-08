@@ -55,3 +55,4 @@ Psychoeducational evaluation of 73 children from the preterm follow-up cohort (a
 - [Children from unstructured families show higher rates of reading failure and clinically diagnosed school difficulties](unstructured-family-reading-failure-school-difficulties.md) — related
 - [Boys born preterm show more inattention symptoms, reading flaws and operational-memory IQ alterations than girls](preterm-boys-inattention-reading-working-memory.md) — related
 - [Among children born 35-36 6/7 weeks gestation, below-grade odds improve with grade in reading but rise with grade in mathematics](late-preterm-divergent-grade-trends.md) — related
+- [In the full cohort, very preterm children had more problems with reading, text production, mathematics, independent work and persistency than controls, but not with social skills or group work](preterm-academic-classroom-problems-cohort.md) — related

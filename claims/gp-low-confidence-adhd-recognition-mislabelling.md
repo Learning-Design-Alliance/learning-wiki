@@ -69,3 +69,4 @@ Symptom-recognition assessment findings from two studies (Australia 2002, UK 200
 - [GPs in gatekeeper settings under-recognise ADHD, with reported recognition rates under 1% in Australia and far lower recognition of ADHD than of mood disorders in Canada](gps-under-recognise-adhd-gatekeeper-settings.md) — related
 - [GPs in gatekeeper settings typically express scepticism about ADHD, medicalisation of childhood behaviour, and concern about stigma](gp-scepticism-adhd-medicalisation-stigma.md) — related
 - [GPs attribute ADHD to parenting and family factors as strongly as or more strongly than to biological factors](gps-attribute-adhd-to-parenting-over-biology.md) — related
+- [GPs had difficulty making psychiatric diagnoses due to lacking ability and confidence, misunderstandings about diagnoses, and unclear qualifications](gps-difficulty-making-psychiatric-diagnosis.md) — related

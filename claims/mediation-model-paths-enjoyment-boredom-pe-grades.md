@@ -54,3 +54,4 @@ Regression paths in the PROCESS mediation model (Table 5, Figure 1) for the cros
 - [Perceived autonomy support does not directly predict PE academic performance in Mexican secondary students](autonomy-support-no-direct-prediction-pe-score.md) — related
 - [Boredom with PE does not mediate the relation between autonomy support and PE academic performance](boredom-no-mediation-autonomy-support-pe-performance.md) — related
 - [Satisfaction/enjoyment with PE mediates the relation between perceived autonomy support and PE academic performance](enjoyment-mediation-autonomy-support-pe-performance.md) — related
+- [Boredom with school subjects does not significantly predict academic grades](subject-boredom-does-not-predict-grades.md) — related

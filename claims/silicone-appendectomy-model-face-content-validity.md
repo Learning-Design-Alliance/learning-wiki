@@ -52,3 +52,4 @@ Post-course questionnaire answered by 32 of 35 participants (91%) using five-poi
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
 - [Students rate the 8-hour silicone-model course positively, with 83.3% positive answers overall](positive-student-course-evaluation-83-percent.md) — related
 - [PoLaRS achieved face validity with an average questionnaire score of 6.9 (SD 1.2) on a 1–10 Likert scale](polars-face-validity-questionnaire-6-9.md) — related
+- [Sim-OSSCAR shows strong face and content validity as rated by international expert surgeons](sim-osscar-face-content-validity.md) — related

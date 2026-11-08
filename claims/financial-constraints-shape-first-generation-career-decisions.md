@@ -59,3 +59,4 @@ Reflective editorial section on financial barriers, drawn from the authors' shar
 - [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — related
 - [Voluntary external supervisors were critical to sustaining the program, requiring ethical and career incentives when economic resources are scarce](voluntary-supervisor-incentives-scarce-resources.md) — related
 - [Non-economic and economic disadvantages are the top hindering factors for medical students' pursuit of a teaching career](demotivators-teaching-non-economic-economic.md) — related
+- [Journal editors' understanding of peer reviewers' roles and tasks is profoundly shaped by each journal's unique context, resources and reputation](editor-context-shapes-reviewer-expectations.md) — related

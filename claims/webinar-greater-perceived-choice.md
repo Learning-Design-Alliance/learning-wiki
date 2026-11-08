@@ -53,3 +53,4 @@ IMI perceived choice subscale comparison between randomized groups; the webinar 
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](non-received-choice-no-motivation-deficit.md) — related
 - [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
 - [Gamification positively and significantly affects students' perceptions of autonomy](gamification-enhances-perceived-autonomy.md) — related
+- [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — related

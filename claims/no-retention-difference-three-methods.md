@@ -48,3 +48,4 @@ The same quasi-experimental study re-administered the 20-item MCQ unexpectedly s
 - [The jigsaw method produced significantly higher learning scores than both flipped classroom and lecture-based teaching in nursing students](jigsaw-higher-learning-scores-than-fc-and-lbt.md) — related
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — related
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — reports the opposite
+- [Skill retention one week after training did not differ significantly between remote, face-to-face, and control groups](no-retention-difference-three-groups.md) — related

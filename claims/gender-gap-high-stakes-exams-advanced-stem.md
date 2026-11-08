@@ -60,3 +60,5 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [SETs are significantly associated with instructor gender and grade expectation but generally not with final exam performance](sets-gender-grade-expectation-not-effectiveness.md) — related
 - [No evidence of cumulative or over-time demographic performance effects emerged across the semester of TBL.](no-cumulative-performance-effects-over-semester.md) — reports the opposite
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — related
+- [The intervention did not affect low-stakes non-exam points, providing discriminant validity](intervention-no-effect-low-stakes-points.md) — related
+- [No gender gap in exam points, but women earned more non-exam points, in the control section](no-gender-gap-exam-points-women-more-nonexam-points.md) — reports the opposite

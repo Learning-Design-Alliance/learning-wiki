@@ -87,3 +87,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related
 - [Collaborative practice with other professions develops students' values/ethics competency of mutual respect and shared values](ipe-develops-values-ethics-competency.md) — related
 - [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — related
+- [Improved teamwork, communication, and preparation were the organizational culture change themes present at both 4 and 12–18 months, with new clinical protocols developed in Madagascar](safe-ob-organizational-culture-change.md) — related

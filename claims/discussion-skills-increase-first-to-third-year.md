@@ -70,3 +70,4 @@ Same qualitative comparative case study; the discussion section reports cross-in
 - [The assessment system determined whether an exam-directed focus inhibited or enhanced discussion behaviors](assessment-system-determines-discussion-focus.md) — related
 - [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md) — a broader claim this one bears on
 - [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md) — related
+- [PBL's underlying values have global origins traceable to many cultures, predating and exceeding its Western attribution](pbl-global-origins-marginalized-perspective.md) — related

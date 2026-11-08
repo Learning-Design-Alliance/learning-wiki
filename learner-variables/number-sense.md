@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (103 show a difference, 20 mixed, 17 no difference) · 64 studies (28 causal, 27 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 30 of 64 report an effect size · 134 claims rest on one study
+> **Evidence** · 144 claims (105 show a difference, 22 mixed, 17 no difference) · 65 studies (29 causal, 27 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 30 of 65 report an effect size · 138 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -175,6 +175,10 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [A 12-week fraction intervention focused on the measurement interpretation of fractions outperformed business-as-usual control on number line, calculations, and NAEP fraction outcomes for at-risk fourth graders](../claims/fraction-measurement-intervention-outperforms-control-at-risk-fourth-graders.md) [+M] — measured as an outcome of the instruction studied
 - [Additive WP intervention produced stronger fraction calculation performance than multiplicative WP intervention, while the two conditions performed comparably on number line and NAEP](../claims/awp-calculation-advantage-over-mwp.md) [-M] — measured as an outcome of the instruction studied
 - [Symbolic number ability correlated with arithmetic ability in grade 4 children, replicating the well-known association and validating both measures](../claims/symbolic-number-arithmetic-correlation-replicated.md) [+M] — learners who differ on it differ in outcomes
+- [A blended research methodology/biostatistics course improved subjective but not objective numeracy three months later](../claims/methodology-course-improves-subjective-not-objective-numeracy.md) [~M] — measured as an outcome of the instruction studied
+- [Embedding numerical expressions in a medical context is associated with maintained subjective numeracy](../claims/medical-context-embedding-maintains-subjective-numeracy.md) [~M] — measured as an outcome of the instruction studied
+- [Higher-year medical students score higher on both subjective and objective health numeracy than lower-year students](../claims/higher-medical-years-higher-numeracy.md) [+M] — measured as an outcome of the instruction studied
+- [Objective numeracy improved over the first-year curriculum even without the methodology course](../claims/first-year-curriculum-improves-objective-numeracy.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

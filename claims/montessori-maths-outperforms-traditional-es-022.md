@@ -49,3 +49,4 @@ The article reports, citing Randolph et al. (2023), a systematic review synthesi
 - [Montessori-schooled children show shorter average shortest path length and lower modularity in their semantic networks than traditionally-schooled children](montessori-lower-aspl-modularity-semantic-network.md) — related
 - [Montessori students miss fewer trials but make more incorrect responses than traditionally-schooled students at equivalent accuracy](montessori-more-errors-fewer-misses.md) — related
 - Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES — related
+- [Montessori schoolchildren score higher than traditionally schooled peers on language and math at both kindergarten and elementary age](montessori-higher-language-math-both-ages.md) — related

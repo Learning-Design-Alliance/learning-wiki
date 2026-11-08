@@ -85,3 +85,4 @@ Comparison of discrimination indices between AI-generated validated questions an
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — reports the opposite
 - [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related
 - [Summative examination quality was equivalent between the two academic years in difficulty, discrimination, and minimal passing level](equivalent-exam-quality-between-years.md) — related
+- [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related

@@ -46,3 +46,5 @@ The review attributes this to Celebi et al., reporting equivalence across intern
 
 ## Related Claims
 - [Peer teacher training in undergraduate ultrasound is predominantly course-based, often combined with internships, with a median duration of about ten days](peer-teacher-training-course-based-median-ten-days.md) — related
+- [In one uncontrolled pre-post study, tutees of student-tutors trained by a course, an internship, or both had significantly higher ultrasound scanning skills at post-test in all three groups, with comparable gains](tutee-scanning-gains-comparable-across-tutor-training-types.md) — related
+- [All three tutor-training concepts produced significant and comparable gains in the student-tutors' own theoretical knowledge and scanning skills](tutor-training-gains-comparable-all-concepts.md) — a narrower finding that bears on this claim

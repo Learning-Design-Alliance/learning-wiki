@@ -70,3 +70,4 @@ Same learning-curve analysis (Fig. 4): the ulcer closure, cholecystectomy, and g
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
 - [Residents achieved DaVinci Skills Simulator targets after a median of 3 repetitions and about 8 hours of VR training](rostrac-vr-training-targets.md) — related
 - [Massed learners' performance declined after about four repetitions while spaced learners' performance rose toward a proficiency plateau](massed-declines-spaced-asymptotes-mastoidectomy.md) — related
+- [With five repetitions per task, a learning-curve plateau was reached in only two of the nine basic skills tasks, indicating the fixed-repetition program was insufficient](plateau-reached-in-only-two-of-nine-tasks-fixed-repetitions-insufficient.md) — related

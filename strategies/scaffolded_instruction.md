@@ -68,6 +68,7 @@ Scaffolding works because it keeps tasks within the learner's zone of proximal d
 - [Promote self-regulation competence through high-quality teaching and whole-school approaches](high-quality-teaching-whole-school-self-regulation.md)
 - [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
 - [Four-step scaffolded explanation sequence for comparing fraction magnitudes](four-step-fraction-explanation-sequence.md)
+- [Graduated prompts training hierarchy: general metacognitive prompts, then explicit cognitive prompts, then direct scaffolding](graduated-prompts-hierarchy-tablet.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — teachers scaffold reading-comprehension strategies through dialogue, then transfer the teacher role to student groups as independence grows.

@@ -51,3 +51,4 @@ Questionnaire survey of the DVRS group with an 84.72% (61/72) response rate, on 
 - [Participants unanimously endorsed using Aizhixing for students while reporting handpiece discomfort and overly deep standard cavity settings](questionnaire-support-and-caveats-aizhixing.md) — related
 - [Students rate the BLS classroom course very positively, with majorities reporting clear objectives, appropriate difficulty and preparedness to respond to emergencies](bls-course-feedback-positive-ratings.md) — related
 - [Machine learning applied to virtual reality simulation data can automatically differentiate surgical expertise and provide feedback on operative performance](ml-differentiates-surgical-expertise-vr.md) — related
+- [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related

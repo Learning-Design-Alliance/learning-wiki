@@ -47,3 +47,4 @@ In the trial's CAD risk-factor comparison of both groups (51 each), "the posttes
 ## Related Claims
 - [Home-based self-regulated training and centralized instructor-regulated training produce no significant inter-group differences in laparoscopic performance at pretest, posttest, or 6-month retention test](hsrt-cirt-no-intergroup-performance-differences.md) — related
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
+- [Total cholesterol, triglycerides, and LDL-C decrease significantly at 3 months but show no further change at 6 months in both groups](lipid-improvement-3-months-not-6.md) — related

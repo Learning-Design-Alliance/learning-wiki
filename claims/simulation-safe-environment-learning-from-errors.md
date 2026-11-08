@@ -92,3 +92,4 @@ Theme 2 (learning from error) of the qualitative analysis. One participant said 
 - [Experienced simulation facilitators do not explicitly define what constitutes a mistake, alternating between 'severe' and 'minor' mistakes](facilitators-undefined-mistake-conceptions.md) — related
 - [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — a narrower finding that bears on this claim
 - [Small groups of 5–6 students and the absence of grading supported communication and reduced pressure during the simulation](small-groups-no-grading-euthanasia-simulation.md) — related
+- [Students reported that MAES© decreases the anxiety inherent in simulation, allowing them to work more relaxed](maes-reduces-simulation-anxiety.md) — related

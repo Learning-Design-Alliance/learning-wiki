@@ -65,3 +65,5 @@ Covariate effects on random intercepts in the RI-CLPMs (N = 3,425). The article 
 - [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related
 - [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related
 - [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — related
+- [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — related
+- [Male gender relates to lower English grades but not Math or Science grades](male-gender-lower-english-grades-only.md) — related

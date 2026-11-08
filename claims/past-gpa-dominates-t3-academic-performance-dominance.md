@@ -67,3 +67,4 @@ Dominance analyses run separately for each of the ten degrees show past performa
 - [Cognitive aptitudes each explain unique variance in future academic performance, jointly 5.77% (numerical 3.08%, verbal 1.54%, abstract reasoning 1.15%)](cognitive-aptitudes-unique-variance-t3-gpa.md) — related
 - [Predictor patterns for future academic performance differ substantially across degree programs, with total explained variance ranging from 20.3% (graphic design) to 68.6% (optometry)](degree-level-predictor-patterns-differ.md) — related
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
+- [Better motor skills predict better academic achievement one year later, but the association is not systematic across time points.](motor-skills-predict-future-gpa.md) — related

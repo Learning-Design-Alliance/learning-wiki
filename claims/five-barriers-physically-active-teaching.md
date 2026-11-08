@@ -72,3 +72,4 @@ Interview finding on organisational social norms: lecturers noted concerns about
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Conventional measures — physical activity breaks and sit-stand desks — are hardly used in university teaching](conventional-measures-rarely-used-university-teaching.md) — related
 - [A meta-synthesis of 25 qualitative studies identified seven themes and 31 sub-themes of facilitators and barriers to primary teachers implementing PAL](pal-implementation-seven-themes-25-papers.md) — related
+- [Lack of time and logistics are the common workplace barriers to peer support, and embedding the strategy into organisational routines proved effective](embedding-peer-support-organisational-routines.md) — related

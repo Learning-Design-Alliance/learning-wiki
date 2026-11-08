@@ -78,3 +78,4 @@ Exploratory model for cognitive load during the task: MRT main effect significan
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — reports the opposite
 - [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related
 - [Visuospatial ability (MRT-A) was not significantly associated with perceived usability (SUS) of the HoloLens 2](mrt-a-not-associated-sus-score.md) — related
+- [Mental rotation ability moderated elective-course gains: Theory-group students with high MRT scores improved significantly more than low-MRT peers, while Magic Mirror improvement was independent of MRT score.](mrt-moderates-anatomy-radiology-gains.md) — related

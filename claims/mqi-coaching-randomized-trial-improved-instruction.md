@@ -47,3 +47,4 @@ Randomized trial of the MQI Coaching model with 142 mathematics teachers (grades
 ## Related Claims
 - [Mathematical sense-making received High ratings most frequently among the MQI dimensions, while linking representations and multiple solutions/procedures were most often rated Not Present](dimension-rating-distributions-vary.md) — related
 - [VBC advantage over controls is largest against no-specific-feedback controls and non-significant against controls receiving supplementary training material](vbc-advantage-varies-by-control-feedback-type.md) — related
+- [Multisource feedback with tailored coaching increased nurse ratings of paediatrics residents’ communication skills, timeliness, and responsibility while ratings decreased for the control group](multisource-feedback-rct-nurse-ratings-remediation.md) — related

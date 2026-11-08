@@ -53,3 +53,5 @@ In the conditional growth model, initial FABs were highest in mathematics‐inte
 - [FABs in social sciences and languages remain relatively stable over four years, while art/philosophy shows no significant slope difference](non-stem-fabs-stable.md) — related
 - [Mean course grades differ significantly across the six general education courses, with the lowest means in History and Statistics and the highest in Biology, Humanities, and Physical Science](gen-ed-course-mean-grades-differ-six-courses.md) — related
 - [Teaching quality ratings differ by discipline, with Humanities faculty rated highest and Engineering lowest](discipline-differences-in-set-ratings.md) — related
+- [Physical education obtained the highest grade mean and satisfaction mean, while mathematics obtained the lowest grade mean](pe-highest-grade-and-satisfaction-math-lowest.md) — related
+- [Subject satisfaction correlates positively with school satisfaction in all subjects, highest for mathematics, and with grades for all subjects except PE](subject-satisfaction-correlations-school-satisfaction-grades.md) — related

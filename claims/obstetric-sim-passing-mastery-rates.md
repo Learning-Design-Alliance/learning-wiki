@@ -69,3 +69,4 @@ Same pre-post comparison against the 70-point mastery learning level established
 - [Small-group size (1–4 persons) did not significantly affect outcomes in a short simulation-based obstetric ultrasound course](group-size-no-effect-ultrasound-simulation.md) — related
 - [Improvements after MR simulator training were seen in both experienced and non-experienced participants.](mr-training-improved-experienced-and-novice.md) — related
 - [Simulation-based assessment revealed a 40% pass rate for interns managing failed obstetric intubation despite prior emergency training](simulation-assessment-failed-intubation-pass-rate.md) — related
+- [Simulation-based BBN training closes the skills gap between clinically inexperienced trainees and more experienced controls, equalizing performance at post-test](bbn-training-closes-experience-gap.md) — related

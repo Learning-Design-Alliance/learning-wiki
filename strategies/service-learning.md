@@ -84,6 +84,7 @@ Service learning works because it situates learning in an authentic context with
 - [Pairing an ethics curriculum with integrated community service learning](ethics-curriculum-with-integrated-service-learning.md)
 - [Implement Connect Science through a staged professional development sequence with coaching and reflective practice](connect-science-staged-pd-sequence.md)
 - [Case-Based Learning](../patterns/case-based-learning.md) — an alternative route to authentic application that trades real stakes for controlled complexity
+- [Use authentic interdisciplinary learning projects with real social impact to develop students’ empathetic understanding before professional practice](authentic-interdisciplinary-social-impact-project-strategy.md)
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — service placements provide authentic practice and articulation opportunities with real practitioners and clients

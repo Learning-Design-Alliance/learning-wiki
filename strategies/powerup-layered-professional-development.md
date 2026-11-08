@@ -54,6 +54,7 @@ The page describes a multi-part professional development model intended to equip
 - [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
 - [Provide multi-year professional development with instructional coaching before and during implementation of a comprehensive reading program](fusion-multi-year-pd-with-coaching-strategy.md)
 - [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
+- [Implement large-scale team training through local ownership with ongoing central support and multi-level backing](national-local-ownership-team-training-implementation.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Association analyses from the cross-sectional study of 95 residents; printed p-v
 - [Pediatric residents rarely correctly diagnose life-threatening emergent ECG conditions, with correct rates from 42.1% for long QTc syndrome down to 4.2% for hyperkalemia](pediatric-residents-low-emergent-ecg-diagnosis-accuracy.md) — related
 - [Prior clinical exposure to a condition predicts correct ECG diagnosis, with or without a case vignette (OR 1.46 and 1.58)](prior-exposure-predicts-ecg-diagnostic-accuracy.md) — related
 - [Exposure to core ECG conditions during clinical training depends on trainee level: 52% of conditions for junior students, 63.4% for senior students, 96.9% for residents](ecg-exposure-depends-on-training-level.md) — related
+- [Diagnostic test ordering volume increased in CM-only students but not in IWB/CRL students over the clinical placement](iwb-crl-test-ordering-volume-gxt.md) — related

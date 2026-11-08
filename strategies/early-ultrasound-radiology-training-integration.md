@@ -56,6 +56,7 @@ The article recommends that "students should receive radiological training at an
 - [Combine simulator-based ultrasound training with hands-on human training in a longitudinal blended learning concept](longitudinal-blended-ultrasound-simulators-plus-humans.md)
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 - [Integrate simulation-based ultrasound training into peer-teaching programs rather than treating them as rivals](integrate-simut-into-peer-teaching-programs.md)
+- [Extend experiential radiology education with clinical participation programmes such as radiology triage and department internships](radiology-triage-internship-extension-strategy.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ Paired t tests compared first versus last attempt times within groups. "For firs
 - [Junior residents who completed more at-home laparoscopic curriculum tasks performed assessment tasks in less time](more-at-home-laparoscopic-tasks-faster-assessment-performance.md) — related
 - [iVR training immediately preceded successful real-operative SCFE revision by a PGY-5 trainee, the first reported direct patient care after iVR](ivr-to-or-immediate-skill-transfer-case.md) — related
 - [All participants improve on a second attempt, with students showing greater improvement on the simplest task](labot-second-attempt-improvement-learning-curve.md) — related
+- [Task time did not decrease after TaTME training, unlike in earlier conventional laparoscopic training studies](no-task-time-reduction-tatme-training.md) — reports the opposite

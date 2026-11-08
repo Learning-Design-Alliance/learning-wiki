@@ -48,3 +48,4 @@ Subgroup analysis of the 15 trials by comparator type, reported in Table 2. The 
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — a broader claim this one bears on
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — reports the opposite
+- [Virtual reality anatomy learning showed no consistent advantage: three of four reviewed VR studies favored VR over books, but one found no advantage over static 2D depictions](virtual-reality-anatomy-no-consistent-advantage.md) — related

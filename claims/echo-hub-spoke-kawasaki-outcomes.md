@@ -69,3 +69,4 @@ Observational service-outcome data from the same hub-and-spoke program, where th
 - [The evidence that ECHO improves physician preparedness for OUD rests almost entirely on self-report, so actual preparedness gains remain untested](echo-oud-evidence-self-report-limitation.md) — a broader claim this one bears on
 - [OUD-focused ECHO programs are associated with more buprenorphine-waivered and prescribing physicians](echo-oud-buprenorphine-waiver-increases.md) — related
 - [Project ECHO participation is associated with increased self-reported knowledge and self-efficacy for treating opioid use disorder](echo-oud-self-reported-knowledge-self-efficacy-gains.md) — related
+- [Peer support strategies yield participant benefits including reduced isolation, improved teaching behaviours, and unexpected learning for observers, but student learning outcomes are rarely reported](peer-support-participant-benefits-student-outcomes-rare.md) — related

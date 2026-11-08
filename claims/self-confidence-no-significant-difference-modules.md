@@ -55,3 +55,4 @@ Slider-scale self-ratings (0-100) compared with paired- and independent-samples 
 - [Module access was associated with greater task efficiency in drill plunge, depth gauge, and angled drilling versus controls, with no significant accuracy differences between groups](module-access-efficiency-not-accuracy-gains.md) — related
 - [Integrated videos improved perceived explanation quality but not overall confidence for hip/ankle/foot examinations](integrated-video-explanation-quality-hip-ankle-foot.md) — related
 - [WBLP students report higher interest in learning and in-depth study, but independent study and self-confidence do not significantly differ](wblp-higher-engagement-satisfaction-motivation-domains.md) — related
+- [Diagnostic accuracy during practice increased significantly between modules 1-3 and possibly to module 5, while per-module practice time decreased through module 8](accuracy-increased-speed-increased-through-practice-modules.md) — related

@@ -75,3 +75,4 @@ Subsidiary experiment, second method: same flash-card procedure but with twenty 
 - [Across Standards II and IV (ages 8 to 11) in the same school, the spelling method with pronounced auditory, articulatory, and visual factors plus directed attention proved definitely superior to a more purely visual method with less directed attention](combined-spelling-superiority-ages-8-11-same-school.md) — related
 - [Reviewer credits the method with directness, concentration from flash-cards, valuable action responses, and stimulating effect](watkins-method-strengths-acknowledged.md) — related
 - The journal prints a correction to the probable-error formula in W. H. Winch's article on learning to spell — related
+- [With task exposure equated across groups, the 3-R technique still significantly improves memory, while higher-intensity exercise shows no significant effect (Experiment 2)](3r-technique-improves-memory-equal-exposure-exp2.md) — related

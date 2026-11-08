@@ -55,3 +55,5 @@ Mixed-effects regression on trait anxiety in the study sample; gender was the on
 - [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](female-and-high-trait-anxiety-higher-state-anxiety.md) — related
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
 - [No significant gender differences in self-efficacy, optimism, resilience, perceived stress or GPA among medical undergraduates](no-gender-differences-psychosocial-variables-gpa.md) — related
+- [The test anxiety interventions did not change end-of-course self-declared trait anxiety](test-anxiety-intervention-no-trait-anxiety-change.md) — related
+- [Women report higher trait test anxiety than men at the start of an introductory biology course](women-report-higher-trait-test-anxiety-than-men-intro-biology.md) — possibly the same claim (merge candidate)

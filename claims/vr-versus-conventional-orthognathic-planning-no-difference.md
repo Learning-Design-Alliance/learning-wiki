@@ -60,3 +60,4 @@ The review reports, from Sakowitz et al.'s randomized controlled trial comparing
 - [AI-based web application training yielded overall improvements comparable to lecture and annotated-dataset e-learning](ai-training-comparable-to-e-learning-methods.md) — related
 - [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related
 - [Prior studies report that higher-fidelity 3D and VR surgical simulation methods are appropriate alternatives to 2D conventional orthognathic surgical simulation](higher-fidelity-3d-vr-simulation-appropriate-alternative.md) — related
+- [Computer-based 3D anatomy tools show conflicting effectiveness: several studies found significantly higher scores with 3D models, but other studies found traditional methods equal or better](computer-based-3d-anatomy-tools-mixed-effectiveness.md) — related

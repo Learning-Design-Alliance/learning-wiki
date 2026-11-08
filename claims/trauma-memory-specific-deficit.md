@@ -54,3 +54,4 @@ The authors' interpretation of their pilot study findings, reasoning that the hi
 - [Physical neglect exposure is associated with more double errors in the Spatial Working Memory test in healthy adults](physical-neglect-spatial-working-memory-errors.md) — a narrower finding that bears on this claim
 - [Sexual abuse and physical neglect exposure are negatively associated with academic achievement (WRAT-3) scores in healthy adults](sexual-abuse-physical-neglect-wrat3-achievement.md) — related
 - [Memory deficits associated with childhood trauma in healthy adults are not secondary to psychiatric or medical illness](trauma-memory-deficits-not-secondary-to-illness.md) — related
+- [The authors hypothesize that the observed reading and numeracy deficits may be cognitively mediated, directly or through PTSD development](cognitively-mediated-academic-deficits-hypothesis.md) — related

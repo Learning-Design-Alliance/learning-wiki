@@ -59,3 +59,4 @@ Self-rated 15-item 5-point Likert Satisfaction Evaluation Form completed by the 
 - [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
 - [A massive online e-learning course for clinical study investigators achieved high user satisfaction, with a mean overall rating of 4.56/5 among 1067 feedback respondents](imagine-elearning-high-satisfaction-4-56.md) — related
+- [Students were highly satisfied with SBE as a learning strategy, with 78.6% very satisfied, but rated promotion of self-directed learning lowest](student-satisfaction-sbe-paediatric-physiotherapy.md) — related

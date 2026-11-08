@@ -53,6 +53,7 @@ The article recommends building a multi-level support system to mitigate burnout
 - [Provide universal schoolwide supports for educator wellbeing through peer-to-peer structures, leader actions, and shared community norms](universal-schoolwide-educator-wellbeing-supports.md)
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Multi-level interventions to reduce psychological truancy: build self-concept, boost motivation, and improve school climate](three-level-truancy-intervention-strategy.md)
+- [Build employee-oriented hospital culture to reduce resident burnout and support training performance](employee-oriented-culture-reduces-resident-burnout.md)
 
 ## Examples
 -

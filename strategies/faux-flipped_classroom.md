@@ -65,6 +65,7 @@ The model preserves the core benefit of flipped instruction — shifting first-e
 - [Direct Instruction](../patterns/direct-instruction.md) — the video segment functions as a scripted, rewatchable form of explicit teaching
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
 - [Use home-viewable videos (Home Links) to reinforce classroom language and vocabulary learning and connect families to instruction](home-links-home-video-reinforcement.md)
+- [Offer instructional videos as advance preparation for skills-lab learning stations, with students watching at home and practising hands-on at the station](at-home-video-preparation-strategy.md)
 
 ## Examples
 - Elementary classrooms using the model popularized by teacher-bloggers after Bergmann and Sams's flipped work: a second-grade math class watches a 4-minute teacher video on regrouping at a station, then rotates into practice while the teacher works individually with students who stalled.

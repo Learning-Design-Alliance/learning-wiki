@@ -69,3 +69,4 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Inter-rater reliability of OSCE scores was fair and similar for accented and non-accented videos](osce-fleiss-kappa-fair-reliability-both-accents.md) — related
 - [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
+- [Extreme mismatches between modified ACIRS and ECRS scores appear driven by medical-knowledge checklist performance rather than empathetic communication](acirs-ecrs-mismatch-driven-by-medical-knowledge.md) — related

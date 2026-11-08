@@ -48,3 +48,4 @@ Secondary analysis in the randomized cadaveric study: "number of previous SAIs p
 - [Randomized cadaveric study: mentored cadaver practice after lecture and video doubles accurate subacromial injection rate versus lecture and video alone](cadaver-practice-improves-sai-accuracy.md) — related
 - [Clinician training level shows no clear correlation with subacromial injection accuracy](training-level-no-accuracy-correlation.md) — related
 - [Prior attendance at non-cadaveric ultrasound courses raises pre-course confidence but not post-course confidence, and non-attendees improve more for hip and ankle but not knee injections](prior-course-attendance-confidence-compensation.md) — related
+- [Previous attendance at a BLS or AED course had no significant effect on knowledge test scores, and the test is applicable regardless of baseline knowledge](prior-bls-course-no-effect-on-test-score.md) — related

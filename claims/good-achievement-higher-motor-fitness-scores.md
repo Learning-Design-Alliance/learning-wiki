@@ -56,3 +56,4 @@ t-Tests on PROESP-BR fitness tests and KTK motor coordination tasks comparing ac
 - [Adding KTK motor competence significantly improved GPA prediction over age and BMI, but KTK MQ was not significant in the full model](ktk-mq-improves-prediction-not-significant-full-model.md) — related
 - [Lower-limb jump performance is positively correlated with academic performance in schoolchild handball players](lower-limb-jump-positively-correlated-academic-performance.md) — related
 - [Students classified as fit show better academic achievement than unfit students across fitness components](fit-vs-unfit-groups-academic-achievement.md) — related
+- [Aerobic and muscular fitness may positively predict academic achievement indirectly through motor skills.](fitness-indirect-effect-via-motor-skills.md) — related

@@ -21,6 +21,7 @@ The QVP is an 18-item-plus-background-questionnaire developed by Mårtensson et 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Questionnaire Virtual Patient (QVP) instrument for evaluating virtual patient simulation in intimate partner violence education**: The QVP is a questionnaire developed to evaluate an educational module on intimate partner violence focusing on virtual patient use. It comprises eleven background questions and eighteen additional questions structured into two themes: "(1) User friendliness virtual patient and (2) Virtual patient as an integrated part of educational module." Its design drew on the Technology Acceptance Model and the Unified Theory of Acceptance and Use of Technology, combining Likert-scale, slider-scale, and open-ended free-text formats. (Mårtensson S et al. (2026))
+- **Short VP design questionnaire with one global score and six questions across three factors, validated with 2547 student evaluations of 78 Virtual Patients**: A validated instrument to evaluate Virtual Patient design from the student perspective. It "comprises one global score and six questions distributed between three factors: authenticity of patient encounter and consultation, cognitive strategies in the consultation, coaching during consultation." Validity evidence covered content, response process and internal structure; an exploratory factor analysis of 2547 student evaluations of 78 VPs from three countries yielded a three-factor model with reasonable fit. (Huwendiek S (2019))
 
 ### Claims
 - [Undergraduate nursing students perceived the QVP as clear, well-constructed, and easy to understand](../claims/qvp-perceived-clear-well-constructed-nursing-students.md) [+M]
@@ -30,3 +31,4 @@ The QVP is an 18-item-plus-background-questionnaire developed by Mårtensson et 
 
 ## Key Sources
 - Mårtensson S, Eckerström J, Knez R, Sörman K, Larsson M. (2026). Tell us what you really think: undergraduate nursing students validation of the Questionnaire Virtual Patient - a qualitative think-aloud study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09738-y
+- Huwendiek S. (2019). Design and implementation of virtual patients for learning of clinical reasoning. GMS Journal for Medical Education 36(4):Doc33. https://www.egms.de/en/journals/zma/2019-36/zma001241.shtml

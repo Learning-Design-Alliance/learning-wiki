@@ -47,3 +47,4 @@ Author interpretation in the discussion of the qualitative interview study in KS
 ## Related Claims
 - [ID/ET professionals report that cross-disciplinary skills and dispositions are crucial and under-emphasized in existing competency lists](cross-disciplinary-skills-dispositions-underemphasized.md) — related
 - [The dementia care competency literature is limited on culturally sensitive care and absent on sub-populations such as young onset dementia](dementia-competency-literature-gaps-cultural-subpopulations.md) — related
+- [Participants found some theoretical content, such as cultural competence, had little applicability to the healthcare reality they encountered](nqn-cultural-competence-poor-applicability.md) — related

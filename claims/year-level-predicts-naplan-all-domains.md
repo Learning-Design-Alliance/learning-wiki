@@ -51,3 +51,5 @@ Mixed effects regression (Model 1) standardized year-level effect sizes: reading
 - [Speech-in-noise ability interacts with year level to predict NAPLAN literacy outcomes, with significant interactions for reading, grammar/punctuation and writing and a marginal effect for spelling](speech-in-noise-year-level-interaction-literacy.md) — related
 - [Speech-in-noise ability and its interaction with year level are not significant predictors of NAPLAN numeracy scores](speech-in-noise-not-predicting-numeracy.md) — related
 - [Speech-in-noise scores correlate significantly with NAPLAN literacy measures in Grade 3 children but not in Grade 5](grade3-only-speech-in-noise-literacy-correlation.md) — related
+- [Higher school-level bushfire affectedness flattens the Year 3 to Year 5 developmental trajectory in reading and numeracy scores 2–4 years after the disaster](bushfire-affectedness-flattens-reading-numeracy-trajectories.md) — related
+- [NAPLAN domain scores rose significantly from Grade 3 to Grade 5 overall and within each affectedness region](grade3-to-grade5-naplan-gains-significant.md) — a narrower finding that bears on this claim

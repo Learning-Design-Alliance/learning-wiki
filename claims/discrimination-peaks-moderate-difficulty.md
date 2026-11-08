@@ -48,3 +48,4 @@ Numerical plotting of discrimination against difficulty indices for 257 MCQ in b
 ## Related Claims
 - [A post-search study found no significant difference in item difficulty between AI- and human-generated MCQs, but higher discriminatory power for human questions](laupichler-difficulty-equal-discrimination-human-higher.md) — related
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
+- [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related

@@ -65,3 +65,4 @@ Prospective comparative study of 71 novice trainees (19 intervention, 52 control
 - [An immersive VR PCNL simulator outperformed conventional VR in ratings but did not differ from a porcine physical model](immersive-vr-pcnl-vs-porcine-ratings.md) — related
 - [Trainees strongly supported a standardised laparoscopic curriculum and identified motivators including assessments, defined expectations, competitions and live-operating incentives](trainee-support-standardised-curriculum.md) — related
 - [A structured 9-day VR simulator curriculum significantly improves surgical performance in surgical novices compared with a control group](vr-curriculum-improves-novice-surgical-performance.md) — related
+- [Practicing laparoscopic skills in a simulated environment is reported to yield good acceptance and improved technical skills](simulated-practice-improves-technical-skills.md) — a broader claim this one bears on

@@ -48,3 +48,4 @@ Descriptive dissection-based comparison across training levels in the same rando
 - [Randomized cadaveric study: mentored cadaver practice after lecture and video doubles accurate subacromial injection rate versus lecture and video alone](cadaver-practice-improves-sai-accuracy.md) — related
 - [Prior subacromial injection experience does not predict injection accuracy in either training group](prior-sai-experience-no-accuracy-effect.md) — related
 - [Simulated cadaver practice does not significantly improve observed injection technique scores over lecture and video alone](no-technique-score-difference-simulation.md) — related
+- [Training on cadavers produced the best OSCE skill scores for infiltrations, followed by training on anatomical models, for proficiency, systematics and completeness in the glenohumeral joint, subacromial space and lateral epicondyle](cadaver-training-best-osce-skill-scores.md) — related

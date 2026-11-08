@@ -52,3 +52,4 @@ In the interview study, thematic analysis found the emergency department and pri
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — a broader claim this one bears on
 - [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related
 - [Patient comments frequently cite time-management and practice-management problems reflecting the Leader role (45.3%)](leader-role-time-management-comments.md) — related
+- [GPs expressed being short of strategies for identifying and treating mental disorders and wished for training plus sufficient practice](gps-short-of-strategies-wish-training-practice.md) — related

@@ -52,3 +52,4 @@ Cross-sectional survey; the Results section reports the sex contrast on the inte
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
 - [Female pharmacy students show better antifungal stewardship practice adherence than male students](female-students-better-practice-adherence-antifungal.md) — related
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
+- [Nursing students began the study with markedly higher pre-test empathy levels than architecture and landscape students](nursing-higher-baseline-empathy-than-design-students.md) — related

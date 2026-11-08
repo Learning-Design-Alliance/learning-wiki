@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 180 claims (113 for, 54 mixed, 13 against) · 147 studies (30 causal, 30 review, 30 qualitative, 30 theoretical, 15 design, 11 associational, 1 quant-synthesis), `q1`–`q4` · 9 of 147 report an effect size · 176 claims rest on one study
+> **Evidence** · 181 claims (114 for, 54 mixed, 13 against) · 148 studies (31 causal, 30 review, 30 qualitative, 30 theoretical, 15 design, 11 associational, 1 quant-synthesis), `q1`–`q4` · 10 of 148 report an effect size · 177 claims rest on one study
 
 ## Conditional relationship
 
@@ -274,6 +274,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Real-world practice yields higher instrument-identification accuracy than tablet-based simulation or text-based study, with all conditions declining after one week](../claims/real-world-practice-beats-tablet-text-accuracy.md) [+W] — attached 2026-11-08 from Kryklywy James H. et al. (2021), which proposed "Use tablet-based simulation to augment, not replace, real-world practice for ordered instrument procedures"; tests this page's relationship.
 - [Second-year medical students who supplemented gross dissection with virtual dissection were over three times more likely to pass the post-dissection test than textbook controls (tendentially significant)](../claims/virtual-dissection-pass-likelihood-or-3-75.md) [+M] — attached 2026-11-08 from Boscolo-Berto Rafael et al. (2021), which proposed "Use virtual dissection as a supplement that maximises the impact of traditional gross dissection, not as its replacement".
 - [70% of virtual dissection students reported the tool was beneficial to learning and more engaging than textbooks, while still judging real dissection superior](../claims/virtual-dissection-student-perceptions-beneficial-engaging.md) [+W] — attached 2026-11-08 from Boscolo-Berto Rafael et al. (2021), which proposed "Use virtual dissection as a supplement that maximises the impact of traditional gross dissection, not as its replacement".
+- [In the gross anatomy course survey (N = 749), Anatomage received significantly higher ratings than Magic Mirror on most statements, yet both systems were considered enhancements rather than replacements for dissection courses.](../claims/gross-anatomy-survey-anatomage-preferred-tutorial.md) [+M] — attached 2026-11-08 from Bork F et al. (2019), which proposed "Integrate 3D visualization systems into gross anatomy teaching as supplements that enable multimodal, self-directed learning, not as replacements for dissection"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

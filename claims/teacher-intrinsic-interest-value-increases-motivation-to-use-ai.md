@@ -77,3 +77,4 @@ Theoretical argument offered as an example in the same section, with no data: te
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — a broader claim this one bears on
 - [Evolutionary theory can inform more-enlightened teaching methods yielding more enjoyable and successful learning](evolutionary-theory-informs-teaching-methods.md) — related
 - [Teachers' subjective task values for TSRs—intrinsic, attainment, utility, and cost—shape their motivation to build relationships](teacher-values-shape-tsr-motivation.md) — related
+- [Participants' intrinsic motivation to improve safety culture and the programme's evidence base drove implementation enthusiasm](intrinsic-motivation-evidence-base-networkz.md) — a narrower finding that bears on this claim

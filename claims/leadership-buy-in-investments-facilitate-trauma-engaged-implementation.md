@@ -104,3 +104,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Qualitative thematic analysis identified teacher, student, institutional and community factors facilitating the transition to e-learning](facilitating-factors-e-learning-transition-optometry.md) — related
 - [Managers who led by example were more likely to facilitate staff participation in the intervention](manager-leads-by-example-participation.md) — related
 - [Lack of staff time was the most significant barrier to implementing the e-learning and care-planning intervention](staff-time-barrier-implementation.md) — related
+- [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related

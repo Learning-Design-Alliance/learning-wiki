@@ -13,7 +13,7 @@ generated:
 # Virtual Whiteboards
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (2 qualitative, 1 causal, 1 review), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 5 studies (2 causal, 2 qualitative, 1 review), `q2` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
@@ -28,3 +28,4 @@ Virtual whiteboards are the element in which learners sketch, annotate, and coll
 - [Medical students using an interactive whiteboard with a structured argument template show deeper collaborative and regulatory discourse and better patient-management outcomes than students using traditional whiteboards](../claims/interactive-whiteboard-supports-shared-regulation-medical-decision-making.md) [+W]
 - [More persistent information is exchanged through the more persistent medium: the whiteboard acts as a shared memory rather than a grounding tool](../claims/persistence-more-persistent-info-more-persistent-medium.md) [~W]
 - [Teacher discourse shifted toward creating new challenging situations (NI) and confirming repeats (R) in the interactive-whiteboard condition, versus providing requested information (IR) and clarification questions (Q) in the traditional-whiteboard condition](../claims/iw-condition-ni-r-versus-tw-ir-q-discourse.md) [~W]
+- [IWB/CRL sessions are feasible for teaching diagnostic test ordering and interpretation to third-year medical students, meeting validated learning objectives](../claims/iwb-crl-feasibility-diagnostic-test-teaching.md) [+W] — attached 2026-11-08 from Gouzi F et al. (2019), which proposed "Interactive whiteboard as a digital annotation and data-sharing surface for clinical reasoning sessions".

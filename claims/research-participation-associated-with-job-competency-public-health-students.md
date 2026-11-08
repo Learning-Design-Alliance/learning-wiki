@@ -51,3 +51,4 @@ Cross-sectional study of 906 public health students using propensity score match
 - [Science club participation is positively associated with high school science GPA, significant across all three propensity score matching methods](science-club-participation-higher-science-gpa.md) — related
 - [Math club participation is positively associated with high school math GPA, with a medium standardized relationship that persists after propensity score matching](math-club-participation-higher-math-gpa.md) — related
 - [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related
+- [KSX participation is associated with substantially higher MOOC completion rates (64.9% vs 6.4%), persisting after propensity score matching](ksx-participation-higher-mooc-completion.md) — related

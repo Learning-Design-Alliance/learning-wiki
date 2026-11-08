@@ -51,3 +51,4 @@ Descriptive analysis of the full archival data set of 195860 grades across six c
 - [In Biology, elementary education majors earned grades similar to STEM majors, lower than business majors, and higher than all other major types](eled-biology-grades-similar-to-stem.md) — related
 - [In Physical Science, elementary education majors earned lower grades than business and STEM majors but higher grades than all other major types](eled-physical-science-grades-lower-than-stem.md) — related
 - [Elementary education majors entered with lower ACT scores but higher high school GPAs than students in other major types](eled-lower-act-higher-hs-gpa-than-other-majors.md) — related
+- [Physical education obtained the highest grade mean and satisfaction mean, while mathematics obtained the lowest grade mean](pe-highest-grade-and-satisfaction-math-lowest.md) — related

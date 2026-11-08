@@ -53,3 +53,4 @@ Adjusted covariate estimate from the multilevel model in the 858-student cross-s
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [Male students report higher innovativeness, academic resilience, and academic performance than female students, with only a small gender gap in DL self-efficacy](gender-differences-innovation-resilience-performance.md) — reports the opposite
 - [Among Indian adolescents in the same schools, higher governmental class predicts better academic performance after controlling for income, gender, age, self-esteem and life satisfaction](govt-class-predicts-academic-performance-indian-adolescents.md) — related
+- [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — reports the opposite

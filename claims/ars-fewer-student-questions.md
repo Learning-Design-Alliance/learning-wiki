@@ -48,3 +48,4 @@ Total number of questions asked by students was recorded in each seminar; the au
 - [Using the audience response system eduVote during seminars does not affect students' summative assessment performance in a controlled crossover study](ars-eduvote-no-summative-assessment-effect.md) — related
 - [Students who feel uncomfortable answering questions in front of others especially profit from an anonymous audience response system](ars-benefits-uncomfortable-students.md) — related
 - [Students evaluate the audience response system eduVote very positively, reporting stronger engagement and motivation](ars-eduvote-positive-student-perception.md) — related
+- [Questioning and responding patterns differ little between internal medicine and surgery CBL seminars](cbl-discipline-comparison-minor-differences.md) — related

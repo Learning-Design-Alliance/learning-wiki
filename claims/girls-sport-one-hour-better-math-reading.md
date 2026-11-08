@@ -52,3 +52,4 @@ The review attributes this finding to Carlson et al.: sport-participating girls 
 - [Associations between sports participation and grades are stronger for boys than girls, and girls showed no significant dose relationship in Chinese and math](sports-participation-grades-sex-differences.md) — reports the opposite
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
 - [Gender-specific PA characteristics predict academic competence: PA frequency for girls and sports club participation for boys](gender-specific-pa-predictors-academic-competence.md) — related
+- [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related

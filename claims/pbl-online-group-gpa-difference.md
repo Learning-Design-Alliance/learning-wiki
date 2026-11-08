@@ -57,3 +57,4 @@ Descriptive demographic comparison of 68 respondents reported in Table 1: grade 
 - [PBL-plus-Tencent-Conference teaching produced higher post-internship mastery of cardiac surgical history taking and ancillary tests than traditional teaching, with no differences on overall satisfaction items](pbl-online-post-internship-skills.md) — related
 - [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related
 - [The online and offline groups showed no significant difference in prior third-year examination marks](baseline-third-year-marks-no-group-difference.md) — related
+- [The two cohorts were of equivalent academic standard before the module, with a non-significant mean prior-grade difference of 0.24](cohorts-equivalent-prior-achievement.md) — related

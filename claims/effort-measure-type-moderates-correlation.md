@@ -58,3 +58,4 @@ Moderator analysis of effort measurement type (k reported in Table 1: objective 
 - [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](dissociations-between-subjective-and-objective-effort-measures.md) — related
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](mental-effort-jol-negative-correlation-moderators.md) — related
 - [No moderator (education, effort measurement, wording, timing, task type, difficulty) significantly changed the model's paths](no-significant-moderators-of-effort-monitoring-outcome-paths.md)
+- [Subjective learning outcomes correlate moderately with objective clinical reasoning performance at post-test and delayed post-test](subjective-outcomes-correlate-with-knowledge-application.md) — related

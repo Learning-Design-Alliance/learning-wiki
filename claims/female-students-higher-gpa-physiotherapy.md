@@ -57,3 +57,4 @@ Independent t-test comparison of GPA between female (n = 187) and male (n = 69) 
 - [Anxiety is negatively correlated with physics course grade and GPA in sex-specific patterns at pre- and post-instruction](anxiety-negative-correlation-academic-performance.md) — related
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
 - [Preliminary course data showed a higher proportion of female students earning A+ grades than male students](preliminary-a-plus-proportion-sex-gap.md) — related
+- [No significant gender differences in depression, loneliness, social satisfaction, or academic achievement scores among university students](no-gender-differences-emotional-functioning-achievement.md) — reports the opposite

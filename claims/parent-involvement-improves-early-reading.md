@@ -124,3 +124,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [A comprehensive summer parent-involved book reading program improved receptive vocabulary but not expressive vocabulary](summer-parent-book-reading-improves-receptive-vocabulary.md) — a narrower finding that bears on this claim
 - [Head Start teachers' education and book-reading practices are associated with children's vocabulary growth over the school year](head-start-teacher-education-book-reading-vocabulary-growth.md) — related
 - [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](hle-correlated-reading-growth-background.md) — related
+- [Parental academic support and involvement predict child academic achievement](parental-academic-support-predicts-child-achievement.md) — related

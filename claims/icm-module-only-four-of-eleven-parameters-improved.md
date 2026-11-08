@@ -48,3 +48,4 @@ Chi-square analysis of individual aspects of the new classification with regard 
 ## Related Claims
 - [Parameters requiring knowledge transfer and clinical experience (complexity, tooth loss, radiographic bone-loss localization) showed no improvement, suggesting the ICM cannot compensate for procedurally acquired clinical skills](icm-module-no-gain-transfer-dependent-parameters.md) — related
 - [In one uncontrolled pre-post study, dental students' total error rates in classifying periodontal patients were significantly lower after participation in an ICM-based, case-based periodontology module, with a medium effect size](icm-periodontology-module-total-error-rate-reduction.md) — a broader claim this one bears on
+- [Diagnostic accuracy during practice increased significantly between modules 1-3 and possibly to module 5, while per-module practice time decreased through module 8](accuracy-increased-speed-increased-through-practice-modules.md) — related

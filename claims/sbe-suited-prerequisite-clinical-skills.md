@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-08
 sources:
   - id: mulhall-claire-m-2025
     resource: "https://doi.org/10.1093/ptj/pzaf102"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Educators judged specific skills (documentation, basic safety, manual handling, subjective assessment, MDT role) as better developed through SBE prior to placement, partly because busy clinical settings lack time for basics. [→ Mulhall Claire M 2025](#mulhall-claire-m-2025)

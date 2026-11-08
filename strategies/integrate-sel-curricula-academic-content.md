@@ -52,6 +52,7 @@ Based on the moderate observed relationship between positive emotions and person
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
+- [PE teachers should design programs that develop emotional recognition, relationships and interpersonal communication alongside physical skills](pe-programs-emotion-focused-design.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Six-month long-term test covering FC #1 and #2 topics, second semester, 15 quest
 - [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
 - [Pre-seminar preparation did not clearly determine flipped-classroom test gains, and unprepared students were noninferior to conventional students](fc-preparation-noninferior-unprepared.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
+- [Participants judged pharmacology teaching insufficient, recommending it be taught for more than one semester](nqn-pharmacology-insufficient-content.md) — related

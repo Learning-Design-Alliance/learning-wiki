@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-08
 sources:
   - id: sharma-g-2020
     resource: "https://doi.org/10.1161/JAHA.119.015569"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article asserts that well-run multidisciplinary teams reduce adverse cardiovascular outcomes in high-risk pregnancies, as the basis for recommending formal pregnancy heart teams. [→ Sharma G 2020](#sharma-g-2020)

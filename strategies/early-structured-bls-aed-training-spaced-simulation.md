@@ -50,6 +50,7 @@ The authors recommend a structured curriculum approach in which BLS/AED concepts
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
 - [Integrate the PHLCS into staged medical education assessment and OSCEs](phlcs-staged-assessment-and-osce-strategy.md)
+- [Introduce peer assessment early and phasewise in the medical curriculum, starting with formative feedback plus skills training](phased-early-peer-assessment-introduction.md)
 
 ## Examples
 -

@@ -82,3 +82,4 @@ Authors' interpretation citing the Yerkes-Dodson inverted-U hypothesis and evide
 - [Acute PA before mathematics testing shows mixed effects: 10- and 20-min exercise breaks raised math scores but 5-min breaks did not, and pre-test PA sessions helped in two of four studies](acute-pa-timing-dose-math-performance.md) — related
 - [Whether PA itself causes the positive mathematics effects remains unclear, with engagement, attention from adults and innovative teaching proposed as alternative explanations](pa-math-causality-alternative-explanations.md) — related
 - [Substituting academic classes with two weekly PA sessions was neither detrimental to cognitive performance nor academic achievement](pa-substitution-not-detrimental.md) — related
+- [Acute resistance exercise improves middle school students' standardized math test performance compared to non-exercise](resistance-exercise-improves-math-scores-vs-non-exercise.md) — a narrower finding that bears on this claim

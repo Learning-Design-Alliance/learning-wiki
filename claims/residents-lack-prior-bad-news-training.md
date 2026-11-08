@@ -48,3 +48,4 @@ Presession survey item (N = 13) documenting a baseline curricular gap. Postsessi
 - [Residents overwhelmingly endorse the SPIKES protocol as useful in clinical practice after training](residents-endorse-spikes-protocol-usefulness.md) — related
 - [Residents report increased comfort delivering bad news for specific clinical scenarios after simulation training](simulation-training-increases-comfort-specific-obgyn-scenarios.md) — related
 - [A 3-hour simulation-based breaking bad news curriculum improves OB/GYN residents' self-perceived preparedness to deliver bad news](simulation-breaking-bad-news-improves-obgyn-resident-self-perceived-preparedness.md) — related
+- [A four-hour simulation-based breaking bad news training added to an ED rotation significantly improves trainees' perceived self-efficacy compared with rotation alone](bbn-simulation-training-improves-self-efficacy.md) — related

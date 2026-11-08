@@ -51,3 +51,4 @@ Prospective observational study of 55 senior medical students undergoing a 30-mi
 - [Desktop VR and face-to-face simulation produce no significant difference in biophysiological stress responses (systolic blood pressure and heart rate)](desktop-vr-similar-biophysiological-stress-to-face-to-face-simulation.md) — related
 - [Heart rate was significantly elevated in the threat appraisal group at the early time point of both scenarios and the mid juncture of Scenario 1](threat-group-elevated-hr-early-mid-junctures.md) — related
 - [Experiential learning produces smaller increases in systolic blood pressure and pulse rate after pit and fissure sealant than Tell-Show-Do](el-smaller-sbp-pr-increases-vs-tsd.md) — related
+- [Systolic and diastolic blood pressure show no significant change after 3 or 6 months of either education intervention](blood-pressure-unchanged-education.md) — related

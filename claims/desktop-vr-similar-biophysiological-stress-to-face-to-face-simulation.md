@@ -53,3 +53,4 @@ In the same RCT of 120 students, ANCOVA with baseline scores as covariates found
 - [Heart rate was significantly elevated in the threat appraisal group at the early time point of both scenarios and the mid juncture of Scenario 1](threat-group-elevated-hr-early-mid-junctures.md) — related
 - [High-fidelity simulation raises systolic blood pressure, mean blood pressure, and heart rate immediately after the scenario, with a small effect](hfs-raises-sbp-mbp-hr-immediately-after-scenario.md) — related
 - [Experiential learning produces smaller increases in systolic blood pressure and pulse rate after pit and fissure sealant than Tell-Show-Do](el-smaller-sbp-pr-increases-vs-tsd.md) — related
+- [Systolic and diastolic blood pressure show no significant change after 3 or 6 months of either education intervention](blood-pressure-unchanged-education.md) — related

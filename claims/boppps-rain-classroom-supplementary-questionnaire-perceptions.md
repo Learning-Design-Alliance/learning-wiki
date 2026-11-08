@@ -65,3 +65,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
 - [Cooperation was the personal ability most frequently reported as enhanced by the competition, endorsed by roughly 89–93% of team leaders, students, and volunteers](guanghua-cup-cooperation-most-reported-benefit.md) — related
 - [Interactive learning activities yield significantly higher personal-factor scores (enthusiasm, initiative, self-confidence, cooperation) than traditional learning](interactive-learning-higher-personal-factors.md) — related
+- [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related

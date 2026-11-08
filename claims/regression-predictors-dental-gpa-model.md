@@ -71,3 +71,4 @@ Initial linear regression with bootstrapped p-values (1000 samples). Table 4 pri
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [State Graduation Exam score predicted final-year medical school GPA, explaining 12.3% of variance](sge-predicts-final-medical-school-gpa.md) — related
 - [Regression models combining demographics, lifestyle, and fitness explain 23.7% to 58.0% of variance in academic performance](regression-models-variance-academic-performance.md) — related
+- [High school GPA alone explains 20.6–63.3% of API variance depending on degree, with the full models explaining 42.8–71.6%](gpa-variance-api-by-degree.md) — related

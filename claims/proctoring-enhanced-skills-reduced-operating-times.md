@@ -55,3 +55,4 @@ Retrospective telephone-interview study of 40 surgeons in a single-center roboti
 - [As surgeons' professional experience increased, they rated proctoring in conventional laparoscopy as less beneficial (p = 0.02)](experienced-surgeons-rate-laparoscopy-proctoring-less-beneficial.md) — related
 - [Rating of proctoring duration for learning needs depended on frequency of robotic surgery (p = 0.0019)](learning-needs-adequacy-depends-on-robotic-frequency.md) — related
 - [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
+- [Task time did not decrease after TaTME training, unlike in earlier conventional laparoscopic training studies](no-task-time-reduction-tatme-training.md) — reports the opposite

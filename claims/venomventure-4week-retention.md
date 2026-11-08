@@ -61,3 +61,4 @@ Sign-test analysis of 66 Phase 1 follow-up respondents found pre-to-follow-up qu
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
 - [Knowledge retention at 1 month was higher after the interactive e-learning module than after the didactic video](elearning-nihss-retention-one-month.md) — related
 - [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related
+- [Skill retention one week after training did not differ significantly between remote, face-to-face, and control groups](no-retention-difference-three-groups.md) — related

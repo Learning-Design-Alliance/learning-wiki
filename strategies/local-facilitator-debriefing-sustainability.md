@@ -48,6 +48,7 @@ A local Nepali ED faculty member with prior simulation training led all debriefi
 - [Use timely facilitator-led debriefing, realistic scenario fidelity, and immediate feedback to enhance simulation learning](debriefing-fidelity-feedback-strategies.md)
 - [Implement structured clinical debriefing programs supported by faculty development and interdisciplinary prompting, with a less active team member as facilitator](interdisciplinary-prompted-clinical-debriefing-strategy.md)
 - [Develop simulation cases from an informal needs assessment of local ED census and staff input, keeping cases uncomplicated for simulation-naive learners](local-needs-assessment-case-development.md)
+- [Joint basic-science and clinical faculty debriefing using Socratic facilitation to immerse basic science content in the clinical case](paired-faculty-socratic-debrief-basic-science.md)
 
 ## Examples
 -

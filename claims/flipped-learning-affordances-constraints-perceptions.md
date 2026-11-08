@@ -83,3 +83,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Students perceived advantages of e-learning for quality of educational life, including flexibility, economic savings, time savings and improved didactic continuity through recorded content](elearning-advantages-flexibility-savings-didactic-continuity.md) — related
 - [Learner control over video playback (pause and rewind) allows students to manage the intrinsic cognitive load of a task](video-playback-control-manages-intrinsic-load.md) — related
 - [The authors hypothesize four factors—videos, interactive questions, smartphones, and audio explanations—drove understanding, pending further study](four-hypothesized-factors-video-elearning-understanding.md) — related
+- [Students primarily prepare for Clinical Skills Lab learning stations by watching instructional videos at home and concentrate on hands-on practice at the CSL](home-video-preparation-then-hands-on-csl.md) — related

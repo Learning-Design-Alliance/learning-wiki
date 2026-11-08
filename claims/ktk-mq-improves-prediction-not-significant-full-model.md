@@ -50,3 +50,4 @@ Hierarchical regression block comparison in the Results section; the change stat
 - [GPA correlates positively and significantly with almost all motor competence and physical fitness measures but negatively with BMI in young school-aged children](gpa-correlates-positively-motor-competence-fitness-negatively-bmi.md) — related
 - [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — related
 - [Boys and girls showed no significant differences in GPA or any motor competence or fitness measure](no-gender-differences-gpa-motor-fitness.md) — related
+- [The change in motor skills has a borderline significant association with the change in academic achievement.](motor-skills-change-gpa-borderline.md) — possibly the same claim (merge candidate)

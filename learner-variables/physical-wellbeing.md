@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (139 show a difference, 45 mixed, 30 no difference) · 116 studies (40 causal, 37 associational, 17 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 29 of 116 report an effect size · 210 claims rest on one study
+> **Evidence** · 223 claims (143 show a difference, 48 mixed, 32 no difference) · 119 studies (40 causal, 39 associational, 17 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 30 of 119 report an effect size · 219 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -251,6 +251,15 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](../claims/gamification-program-improves-crf-college-students.md) [+M] — measured as an outcome of the instruction studied
 - [Physical fitness is positively associated with academic performance among Chinese medical and dental students](../claims/physical-fitness-academic-performance-chinese-medical-dental.md) [+M] — learners who differ on it differ in outcomes
 - [Three factors are most significant contributors to academic performance: canteen eating frequency, library visits, and physical fitness](../claims/three-significant-factors-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Aerobic and muscular fitness do not independently predict future academic achievement.](../claims/fitness-no-independent-prediction-gpa.md) [-M] — learners who differ on it differ in outcomes
+- [Aerobic and muscular fitness may positively predict academic achievement indirectly through motor skills.](../claims/fitness-indirect-effect-via-motor-skills.md) [+W] — learners who differ on it differ in outcomes
+- [Body fat percentage appears to hinder the predictive effect of fitness on academic achievement.](../claims/body-fat-hinders-fitness-gpa-effect.md) [~W] — an instructional effect differs with it
+- [Changes in aerobic fitness are positively associated with changes in academic achievement (GPA) over 2 years.](../claims/aerobic-fitness-change-gpa-association.md) [+M] — learners who differ on it differ in outcomes
+- [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](../claims/muscular-fitness-change-gpa-association.md) [+W] — learners who differ on it differ in outcomes
+- [Parent engagement in physical activity promotion increases child physical activity and intervention efficacy](../claims/parent-engagement-increases-child-physical-activity.md) [+M] — measured as an outcome of the instruction studied
+- [Screen-based sedentary behavior is negatively associated with physical fitness in girls but not significantly in boys after full adjustment](../claims/screen-sb-physical-fitness-girls-only.md) [~M] — learners who differ on it differ in outcomes
+- [Study-based sedentary behavior is not significantly associated with physical fitness after adjusting for age](../claims/study-based-sb-no-physical-fitness-association.md) [-M] — learners who differ on it differ in outcomes
+- [The change in motor skills has a borderline significant association with the change in academic achievement.](../claims/motor-skills-change-gpa-borderline.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

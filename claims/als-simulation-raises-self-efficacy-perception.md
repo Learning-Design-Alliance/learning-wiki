@@ -49,3 +49,4 @@ Quasi-experimental comparison of 53 simulation-trained versus 27 control final-y
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
 - [The increase in ALS self-efficacy perception does not differ significantly between women and men](no-gender-difference-als-self-efficacy-change.md) — related
 - [TMTD produces greater improvement in self-efficacy than the regular lecture method in MS patients](tmtd-superior-to-lecture-for-ms-self-efficacy.md) — a narrower finding that bears on this claim
+- [Self-reported CSES-Perception scores showed no statistically significant pre-post change in any study group, with only descriptive shifts between groups](no-significant-perception-empathy-change.md) — reports the opposite

@@ -47,3 +47,4 @@ Portfolio analysis at semester's end using a rubric with two criteria (student e
 ## Related Claims
 - [Postgraduate students in a CLIL Spanish class demonstrated greater autonomy at posttest than students in a traditional textbook class, with 40% reaching the 'largely aware' level versus 12% in the control group](clil-class-greater-autonomy-posttest.md) — related
 - [Most experimental-group students (61%) showed evidence of reflection in their portfolio writing](portfolio-reflection-61-percent-experimental.md) — related
+- [E-portfolio content analysis shows groups addressed conceptualisation, practicality, and knowledge application in CBR](eportfolios-show-conceptualisation-practicality-application.md) — related

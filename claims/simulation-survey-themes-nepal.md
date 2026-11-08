@@ -51,3 +51,4 @@ Thematic analysis of an optional electronic survey with two open-ended questions
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Qualitative feedback grouped enhancement suggestions into valued aspects, platform changes, and changes to the red flags training](qualitative-feedback-three-categories-red-flag-training.md) — related
+- [Qualitative content analysis of students' open responses identified five dimensions: operational aspects, emotional aspects, facilitation, debriefing development, and areas of improvement](maes-qualitative-five-dimensions.md) — related

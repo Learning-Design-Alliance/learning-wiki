@@ -69,3 +69,4 @@ Content-validity questionnaire from the same five experts; all content items had
 - [Expert surgeons confirmed strong content validity, with all items receiving mean scores above 4.0](content-validity-expert-ratings-ldsrs-model.md) — related
 - [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related
 - [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
+- [Sim-OSSCAR shows strong face and content validity as rated by international expert surgeons](sim-osscar-face-content-validity.md) — related

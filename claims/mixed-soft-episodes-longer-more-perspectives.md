@@ -51,3 +51,4 @@ In episode categorization across 48 disagreement episodes, direct episodes numbe
 - [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md) — related
 - [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](resolution-promotes-collective-knowledge-advancement.md) — related
 - [Socio-emotional and metalevel argument-as-process gains were reported in 48 of 108 pattern studies, concentrated in Patterns 2 and 3](argument-as-process-gains-distribution.md) — related
+- [Episode lengths tend to be longer in groups where the peer facilitator and students have similar talk-turn behaviors](episode-length-facilitator-behavior.md) — related

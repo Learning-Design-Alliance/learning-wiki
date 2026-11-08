@@ -3,6 +3,7 @@ type: claim
 title: "Perceived instructor fluency, not instruction type, predicted students' feeling of learning (0.51 SD, P < 0.001)"
 description: "Perceived instructor fluency, not instruction type, predicted students' feeling of learning (0.51 SD, P < 0.001)"
 id: perceived-instructor-fluency-predicts-feeling-of-learning
+aliases: [perceived-fluency-predicts-feeling-of-learning]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` Students who perceived the instructor as highly fluent reported feeling of learning more than half an SD (0.51) higher than those who perceived the instructor as disfluent (P < 0.001). [→ Deslauriers L. 2019](#deslauriers-l-2019)
+
+`q3 i?` Students who perceived the instructor as highly fluent reported more than half an SD (0.51) higher feeling of learning (P < 0.001), and instruction type was not significant in predicting FOL. [→ Deslauriers L. 2019](#deslauriers-l-2019)
 
 ## Evidence
 
@@ -41,10 +45,26 @@ Linear regression predicting feeling of learning from perceived instructor fluen
 
 > "Students who perceived the instructor to be highly fluent, as measured by agreement with the statement “The instructor was effective at teaching,” reported more than half an SD (0.51) higher FOL compared with those who perceived the instructor as disfluent (P < 0.001)."
 
+<!-- merged 2026-11-08 from perceived-fluency-predicts-feeling-of-learning: that page's entry for this study, which differed from the one above, kept verbatim.
+### Deslauriers L. 2019
+
+Deslauriers L., McCarty L. S., Miller K., Callaghan K., Kestin G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1821936116
+
+`q3 · i?`
+
+Linear regression predicting FOL question 2 in the same study, with follow-up structured interviews validating that students read the effectiveness item as fluency (clarity, organization, flow). The article reports "more than half an SD (0.51) higher FOL" for perceived-fluent students; no standardized effect size is printed.
+
+> "Students who perceived the instructor to be highly fluent, as measured by agreement with the statement “The instructor was effective at teaching,” reported more than half an SD (0.51) higher FOL compared with those who perceived the instructor as disfluent (P < 0.001)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — related
 - [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Students in active classrooms report a lower feeling of learning than students in passive lectures](active-learning-lower-fol-randomized-crossover.md) — related
+- [Students describe active classrooms as disjointed and frustrating compared with fluent passive lectures](interviews-active-classrooms-disjointed-frustrating.md) — related

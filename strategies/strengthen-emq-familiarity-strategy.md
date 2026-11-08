@@ -46,7 +46,9 @@ The article's conclusion recommends preparing students for the more complex EMQ 
 - [Parity in MCQ assessments does not extend to other formats: lower performance reported in EMQ, SAQ, OSCE, and delayed progression](../claims/non-mcq-formats-lower-performance-spld.md) [+W]
 
 ## Related Strategies
+
 - Psychometric Item Analysis Format Balance
+- [Use extended matching questions with long shared option lists to assess clinical reasoning without cueing](emq-long-shared-option-lists-strategy.md)
 
 ## Examples
 -

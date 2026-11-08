@@ -47,3 +47,4 @@ Item analysis of performance data from 152 medical interns who completed the gam
 
 ## Related Claims
 - [Both interns and expert surgeons rated the gamified test as relevant and acceptable, though the Dotto game was perceived as very to extremely difficult](gba-acceptability-feasibility-ratings.md) — related
+- [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related

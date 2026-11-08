@@ -53,3 +53,4 @@ Narrative review passage in the discussion section, attributed by the article to
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — related
 - [Flipped classroom increases learning interest (pooled RR 1.42) but this pooled estimate shows significant publication bias](fc-learning-interest-rr-142-with-publication-bias.md) — a narrower finding that bears on this claim
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — a narrower finding that bears on this claim
+- [Controlled e-learning cases promote student satisfaction and are suggested for burnout prevention (second-hand reports)](elearning-cases-satisfaction-burnout-prevention.md) — related

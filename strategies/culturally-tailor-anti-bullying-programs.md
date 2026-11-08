@@ -48,6 +48,7 @@ The authors recommend that anti-bullying programs be adapted to cultural differe
 - [Mount a new program of research on anti-bullying program effectiveness building on meta-analytic findings](new-research-program-on-anti-bullying-effectiveness.md)
 - [Develop customized anti-bullying intervention strategies according to the neurocognitive profile of students in each school](customized-interventions-student-neurocognitive-profiles.md)
 - [Tailor m-learning programmes to the cultural and economic realities of the local context](tailor-ml-programmes-cultural-economic-realities.md)
+- [Tailor physician leadership training program content to the specific needs and cultural aspects of each region](tailor-leadership-training-to-regional-culture.md)
 
 ## Examples
 -

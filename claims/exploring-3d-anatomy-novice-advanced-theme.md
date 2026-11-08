@@ -48,3 +48,4 @@ Phenomenological focus group study with eight undergraduate medical students (Fo
 - [Learners split between strategic inquiry focused on assessment performance and exploratory inquiry valuing discovery and holistic understanding](exploring-3d-anatomy-strategic-exploratory-inquiry.md) — related
 - [Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized](exploring-3d-anatomy-compartmental-conceptual-cognition.md) — related
 - [Students reported gaining research competencies from the online course, though some found online delivery unsuited to some content](students-gained-research-competencies-online-course.md) — related
+- [Medical students generally prefer and enjoy 3D visualizations for learning anatomy, though some found them disorienting for complicated anatomical configurations](students-prefer-3d-anatomy-visualizations.md) — related

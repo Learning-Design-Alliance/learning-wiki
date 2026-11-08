@@ -90,3 +90,4 @@ Sub-group analysis of Alaraj et al.'s ITACS immersive VR aneurysm-clipping simul
 - [Novices and experts rate the simulator's anatomical realism highly (means 4.4–5.39 on a 6-point scale), except the haptic realism of the pinna](vr-otoscopy-simulator-face-validity-ratings.md) — related
 - [Experts rated the low-cost BG-PDT simulator highly for fidelity and endorsed simulation-based training in ICU residency curricula](bg-pdt-simulator-high-expert-satisfaction-fidelity.md) — related
 - [Physicians rated the simulator helpful for anatomical understanding (75%) and epiduroscopy training (85%), but realism was acceptable to only 40%](epidurosim-survey-helpful-but-moderate-realism.md) — a narrower finding that bears on this claim
+- [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](vr-hip-arthroscopy-simulator-face-validity-realism.md) — a narrower finding that bears on this claim

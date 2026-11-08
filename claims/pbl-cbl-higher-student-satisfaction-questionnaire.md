@@ -59,3 +59,4 @@ Questionnaire survey of both groups (n = 40 each) on satisfaction and self-perce
 - [Students in the combined PBL-CBL group showed higher team collaboration ability in group discussions than the traditional teaching group](pbl-cbl-higher-team-collaboration-rating.md) — related
 - [Medical students taught with combined PBL-CBL scored significantly higher on vascular surgery theoretical tests than students taught with traditional teaching](pbl-cbl-higher-theoretical-test-scores-vascular-surgery.md) — related
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
+- [Students across three CBR-related courses perceive PBL as an effective teaching and learning method that enhances CBR competence](pbl-perceived-effective-cbr-competence-133-students.md) — related

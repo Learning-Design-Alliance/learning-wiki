@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (38 for, 17 mixed, 4 against) · 39 studies (10 causal, 9 design, 8 review, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 39 report an effect size · 57 claims rest on one study
+> **Evidence** · 60 claims (39 for, 17 mixed, 4 against) · 40 studies (10 causal, 9 review, 9 design, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 40 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Read against the model on 2026-10-19. Of the 25 claims that had gathered here in
 - [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](../claims/minimal-books-workshop-intervention-insufficient.md) [+W] — attached 2026-11-01 from Leyva et al. (2014), which proposed "Professional development that pairs content-focused training with continuous classroom coaching can improve teaching practices where minimal supports fail"; tests this page's relationship.
 - [Training and coaching with performance feedback increased three preschool teachers' use of targeted Pyramid Model practices, establishing a functional relation](../claims/coaching-performance-feedback-increases-pyramid-model-practices.md) [+W] — attached 2026-11-02 from Mary Louise Hemmeter et al. (2015), which proposed "Plan for intensive coaching dosage when supporting teachers to implement Pyramid Model practices at criterion"; tests this page's relationship.
 - [Teachers in lesson study supported by a fractions resource kit made significant pre-to-post gains on three of four facets of fractions knowledge where control-group teachers made none, though no between-group test is reported](../claims/resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) [+W] — attached 2026-11-02 from Catherine Lewis et al. (2014), which proposed "Assemble resource kits providing mathematical and logistical support for each lesson study phase so local teams can conduct lesson study without outside facilitators"; tests this page's relationship.
+- [Peer support strategies yield participant benefits including reduced isolation, improved teaching behaviours, and unexpected learning for observers, but student learning outcomes are rarely reported](../claims/peer-support-participant-benefits-student-outcomes-rare.md) [+W] — attached 2026-11-08 from Campbell N et al. (2019), which proposed "Prefer a collaborative peer support model with trusted peer contributors over outside experts".
 
 ## Objective and learner-valued goal
 

@@ -55,3 +55,6 @@ Preliminary moderator analysis of the Millennium Cohort Study data tested sex as
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [No sex differences in the effect of dyslexia genetic liability on school performance](no-sex-difference-dyslexia-pgs-school-performance.md) — related
 - [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related
+- [Screen-based sedentary behavior is negatively associated with physical fitness in girls but not significantly in boys after full adjustment](screen-sb-physical-fitness-girls-only.md) — related
+- [Boys spend more time on screen-based sedentary behavior than girls, while girls show better academic performance except in mathematics and science](sex-differences-screen-sb-and-academic-performance.md) — related
+- [The weekday/weekend interaction with sedentary behavior on academic performance is significant in girls but not boys](weekday-weekend-sb-interaction-academic-performance-girls.md) — related

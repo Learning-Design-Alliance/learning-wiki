@@ -48,6 +48,7 @@ Participants proposed hiring committees that include teachers of color as core m
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 - [Fund anti-bias education through a comprehensive diversity plan tied to specific outcomes, student-centered efforts, and redress mechanisms](anti-bias-education-grant-diversity-plan-strategies.md)
 - [Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways](georgia-leader-diversity-pipeline-strategies.md)
+- [Review institutional practices, diversify staff and student populations, and develop guidance on reporting and tackling racism](review-practices-diversify-staff-anti-racism-guidance.md)
 
 ## Examples
 -

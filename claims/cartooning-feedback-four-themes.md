@@ -51,3 +51,4 @@ Inductive thematic analysis (following Maguire & Delahunt and Braun & Clarke) of
 - [Interviews with MedED participants yield three themes: academic value, career prospects, and sense of community and wellbeing](meded-three-interview-themes.md) — related
 - [Inductive coding of open-ended responses yielded four themes: virtual format issues, work-life balance, influential group dynamics, and improved connection in-person](alg-qualitative-four-themes.md) — related
 - [PBL group work on the module exhibited development of leadership, communication, and independent learning skills](pbl-groupwork-develops-leadership-communication-independent-learning.md) — related
+- [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related

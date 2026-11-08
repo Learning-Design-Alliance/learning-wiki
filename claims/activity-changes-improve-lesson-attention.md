@@ -56,3 +56,4 @@ Narrative review attribution: the review cites Bunce et al. (2010) on attentiona
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — related
 - [Scoping review identifies 64 brief, stand-alone, evidence-based PPIs potentially adaptable to classroom lesson timeframes](sixty-four-brief-stand-alone-ppis-identified.md) — related
 - [University students' visual engagement in real lectures is higher than practitioners often expect and can remain high despite fluctuations](student-engagement-higher-than-expected-real-lectures.md) — related
+- [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](no-attention-reset-after-al.md) — reports the opposite

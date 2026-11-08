@@ -49,3 +49,4 @@ Post hoc t-test on rubric criterion scores from the crossover study (VR_1st grou
 - [At the second illustration, the group drawing with prosection performed significantly better than the group drawing with VR](prosection-group-outperformed-vr-group.md) — related
 - [In a crossover drawing study, illustrations produced while referencing a 2D cadaveric image or a prosection scored higher than those created using a VR model](vr-reference-lower-illustration-scores.md) — a broader claim this one bears on
 - [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related
+- [Virtual reality anatomy learning showed no consistent advantage: three of four reviewed VR studies favored VR over books, but one found no advantage over static 2D depictions](virtual-reality-anatomy-no-consistent-advantage.md) — related

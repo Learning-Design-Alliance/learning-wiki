@@ -71,3 +71,4 @@ Linear mixed-effects model of mean airway pressure across 6 trials among student
 - [Simulation-based PBLS training significantly improves specific life-support skills including airway opening, rescue breathing, and chest compression quality](simulation-pbls-improves-specific-pbls-steps.md) — related
 - [Debriefing experiences were positive and statistically similar across high- and medium-fidelity groups on the SDAS](debriefing-similar-across-fidelity-groups-sdas.md) — related
 - [Assessment of consciousness, airway obstruction and breathing, and body and arm positioning did not differ significantly between app and control groups](assessment-and-positioning-no-group-differences.md) — related
+- [Across 331 skill drills, 68.9% achieved adequate ventilation, with no correlation between adequate ventilation and drill category or skill level](adequate-ventilation-no-drill-category-correlation.md) — related

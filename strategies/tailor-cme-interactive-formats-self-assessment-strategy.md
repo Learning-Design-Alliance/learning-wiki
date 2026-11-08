@@ -52,6 +52,7 @@ Based on the observed subgroup preferences, the authors recommend adapting CME/C
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Build periodic diabetes care training for primary care physicians into mandatory annual CME](periodic-cme-diabetes-training-for-pcps.md)
+- [Tailor physician leadership training program content to the specific needs and cultural aspects of each region](tailor-leadership-training-to-regional-culture.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 283 claims (203 show a difference, 46 mixed, 34 no difference) · 192 studies (82 causal, 55 associational, 22 review, 15 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 192 report an effect size · 277 claims rest on one study
+> **Evidence** · 284 claims (204 show a difference, 46 mixed, 34 no difference) · 193 studies (82 causal, 55 associational, 23 review, 15 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 193 report an effect size · 278 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -318,6 +318,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Perceived autonomy support correlates positively with PE enjoyment and PE score and negatively with boredom](../claims/autonomy-support-correlations-pe-enjoyment-score-boredom.md) [+M] — measured as an outcome of the instruction studied
 - [Satisfaction/enjoyment with PE mediates the relation between perceived autonomy support and PE academic performance](../claims/enjoyment-mediation-autonomy-support-pe-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Attitudes toward depression correlated positively with interest in nursing, interest in depression care, interest in late-life depression issues, and caregiving experience](../claims/attitude-interest-experience-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Situational interest in a PBL session follows a U-shape: it rises after the problem is presented and falls as knowledge closes the gap (knowledge-deprivation hypothesis)](../claims/knowledge-deprivation-hypothesis-situational-interest-u-shape.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

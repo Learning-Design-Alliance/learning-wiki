@@ -73,3 +73,4 @@ Distractor-per-item comparison (Table 7) from the same analysis; fully functioni
 - [Converting items from 4- to 3-option format reduced the percentage of non-functioning distractors and increased the number of items without any NFD under both flagging methods](three-option-mci-fewer-nonfunctioning-distractors.md) — related
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
+- [Broad clinical scenarios cannot be limited to a small number of options, and longer option lists are perceived as more authentic to clinical practice](clinical-authenticity-long-option-lists.md) — related

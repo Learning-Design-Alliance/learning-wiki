@@ -80,3 +80,6 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
 - [Users of the interactive clinical avatar perceived clinical reasoning skill development to a greater extent than problem-solving or decision-making skill development](avatar-clinical-reasoning-over-lower-skills.md) — related
 - [Randomized study found case-based learning comparable to problem-based learning with better student satisfaction](cbl-comparable-to-pbl-better-satisfaction.md) — related
+- [Element-level PBL studies show that problem quality, group functioning and prior knowledge predict interest, and familiar, learning-aligned, critical-reasoning problems raise interest and autonomous motivation](element-level-pbl-studies-predictors-of-interest.md) — related
+- [Students rated the FC-TCLEBL class higher than the LBC class on teamwork ability, analytical skills, and problem-solving skills](fc-tclebl-student-questionnaire-skill-ratings.md) — related
+- [Students across three CBR-related courses perceive PBL as an effective teaching and learning method that enhances CBR competence](pbl-perceived-effective-cbr-competence-133-students.md) — related

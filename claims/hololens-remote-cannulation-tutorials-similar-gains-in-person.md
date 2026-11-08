@@ -67,3 +67,4 @@ Between-group comparison of post-feedback scores in the same randomised trial fo
 - [Remote one-to-one procedural training via HoloLens 2 was feasible, with no tutorials cancelled for technology issues](hololens-remote-procedural-training-feasible.md) — related
 - [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related
 - [Students and the tutor evaluated the remote MR tutorials positively, with all interviewees rating them equally or more effective than in-person tutorials](positive-student-tutor-perceptions-hololens-tutorials.md) — related
+- [Remote MTU training produced procedural performance gains comparable to face-to-face training, with no significant difference between the two delivery modes](mtu-remote-training-comparable-shows-how.md) — related

@@ -54,3 +54,5 @@ Pre-post survey of 13 OB/GYN residents completing the curriculum, analyzed with 
 - [Deliberate practice students report significantly higher confidence and preparedness than conventional lecture students](deliberate-practice-higher-confidence-preparedness.md) — related
 - [Students reported learning clinical skills beyond the virtual rotation's scope poorly or not at all, raising questions about shelf exam validity](shelf-exam-may-miss-clinically-relevant-skills.md) — related
 - [Resident self-confidence in providing wet reads at the scanner rose from 73% neutral or disagreeing before training to 91% agreeing or strongly agreeing after training](simulation-boosted-resident-wet-read-confidence.md) — related
+- [A four-hour simulation-based breaking bad news training added to an ED rotation significantly improves trainees' perceived self-efficacy compared with rotation alone](bbn-simulation-training-improves-self-efficacy.md) — related
+- [A four-hour simulation-based breaking bad news training significantly improves adherence to the SPIKES BBN process versus a traditional ED rotation alone](bbn-simulation-training-improves-spikes-process.md) — related

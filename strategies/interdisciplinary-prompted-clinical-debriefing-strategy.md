@@ -55,6 +55,7 @@ The article recommends implementing clinical debriefing with a structured approa
 - [Use faculty development workshops to standardize TBL facilitation with diverse team composition and case integration](faculty-development-tbl-facilitation.md)
 - [Provide continuous tutor training in PBL case facilitation, assessment, and evaluation](continuous-pbl-tutor-training-strategy.md)
 - [Use a locally trained facilitator to lead debriefings and sustain the curriculum, with debriefing time lengthened as learners gain experience](local-facilitator-debriefing-sustainability.md)
+- [Joint basic-science and clinical faculty debriefing using Socratic facilitation to immerse basic science content in the clinical case](paired-faculty-socratic-debrief-basic-science.md)
 
 ## Examples
 -

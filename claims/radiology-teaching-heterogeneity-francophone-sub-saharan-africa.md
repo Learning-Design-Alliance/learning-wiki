@@ -106,3 +106,4 @@ Survey of 11 faculties. A written exam is mandatory in 90.9% of faculties, while
 - [Students have access to radiography during internships in all faculties (100%), while interventional radiology and nuclear medicine are accessible in none (0%).](internship-imaging-modality-access-radiography-universal-interventional-nuclear-absent.md) — related
 - [Radiology teaching begins during the bachelor's programme in 63.6% of faculties and during the master's programme in 36.4%.](radiology-teaching-start-bachelor-versus-master.md) — related
 - [Curriculum similarity across medical schools within the same country is reported in only 42.9% of surveyed countries.](national-curriculum-similarity-42-9-percent.md) — related
+- [Abdominal US was the most common content for teaching basic US skills, and internal medicine and radiology were the disciplines most involved](abdominal-us-most-common-teaching-content.md) — related

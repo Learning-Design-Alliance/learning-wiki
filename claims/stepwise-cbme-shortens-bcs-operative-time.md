@@ -52,3 +52,4 @@ In the L3 stage of the RCT, the stepwise CBME group had significantly shorter op
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — related
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
 - [Simulator training did not significantly reduce operative time, and showed no difference in blood loss or direct complications](simulator-training-no-significant-difference-operative-time-blood-loss.md) — related
+- [The training program produced no difference in operative time, blood loss, or complications in residents' first operative laparoscopy](no-difference-operative-time-blood-loss-complications-first-laparoscopy.md) — related
