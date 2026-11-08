@@ -60,3 +60,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
 - [A vast majority of students rated the online research course as valuable and of acceptable quality](students-rate-online-research-course-valuable-acceptable-quality.md) — related
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
+- [Teachers rated the online training module positively, with all dimension and item scores averaging or mediating at 4](online-training-module-acceptable.md) — related

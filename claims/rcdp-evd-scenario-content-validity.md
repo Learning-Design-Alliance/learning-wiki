@@ -65,3 +65,4 @@ Content assessment by seven nurse reviewers via an online Likert-scale form, ana
 - [Expert judges rated every item of the postvention simulation scenario at CVI 0.90 or higher, exceeding the 0.80 acceptance criterion](postvention-scenario-cvi-all-items-090-or-higher.md) — related
 - [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
 - [Two initially low-rated items (item 83 Evolution and item 10 Level of the manual) were modified per expert suggestions and reassessed to a CVI of 1.0](forpec-revised-items-cvi-1-0.md) — related
+- [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related

@@ -55,3 +55,5 @@ Review synthesis of validity evidence across included studies. The review report
 - [Interview validity tends to be higher for non-academic outcomes than for academic outcomes](interview-validity-higher-non-academic-outcomes.md) — related
 - [Safety competency scores correlate highly with technical skills but lowly or modestly with written examination scores](safety-scores-correlate-technical-skills-not-written-exams.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
+- [VP exam grades correlate strongly with MCQ exam grades (r = 0.452), while oral exam grades correlate even less with MCQs (r = 0.080)](vp-mcq-correlation-0452-oral-0080.md) — related
+- [VP exam grades correlate only minimally with bedside oral exam grades (r = 0.101), suggesting the two modalities assess different skills](vp-oral-exam-grade-correlation-minimal.md) — a narrower finding that bears on this claim

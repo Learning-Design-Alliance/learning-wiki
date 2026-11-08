@@ -50,6 +50,7 @@ The article's implications statement recommends that "The design of academic tas
 - [Develop complementary LD interventions that strengthen promotive and protective factors alongside interventions remediating core weaknesses](interventions-strengthen-promotive-protective-factors.md)
 - [Customize interventions to students' unique motivational and task-behavioral patterns](customize-interventions-motivational-task-behavioral-patterns.md)
 - [Use tier 2 and 3 school-wide positive behavior supports alongside academic instruction to increase attentiveness and engagement](tier2-tier3-pbis-academic-ebd.md)
+- [Education intervention programs should promote healthy dietary patterns and increase self-efficacy perceptions to support adolescent achievement](promote-mediterranean-diet-and-self-efficacy-intervention-strategy.md)
 
 ## Examples
 -

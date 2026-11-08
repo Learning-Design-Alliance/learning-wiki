@@ -51,7 +51,8 @@ The article's implementable recipe: divide trainees into subgroups, then into tw
 - [On the harder Thread-the-Rings-1 task the competition group ended with significantly higher scores, but its scoring-efficiency advantage was only slight and not statistically significant](../claims/tr-end-scores-higher-efficiency-not-significant.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend competition benefits beyond participants by sharing excellent works, videos, and operational guidance through open online registration](open-resource-sharing-extend-competition-benefits.md)
 
 ## Examples
 -

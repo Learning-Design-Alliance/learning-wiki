@@ -54,7 +54,9 @@ The initiative paired 15 one-hour live webinars with expert presentations, count
 - [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](../claims/post-session-knowledge-increase-64-percent.md) [+W]
 
 ## Related Strategies
+
 - [Community Of Inquiry](../principles/community-of-inquiry.md)
+- [Extend competition benefits beyond participants by sharing excellent works, videos, and operational guidance through open online registration](open-resource-sharing-extend-competition-benefits.md)
 
 ## Examples
 -

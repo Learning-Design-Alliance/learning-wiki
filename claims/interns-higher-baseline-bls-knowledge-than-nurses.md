@@ -50,3 +50,4 @@ Baseline knowledge assessment in the pilot RCT using a 15-item multiple-choice q
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
 - [BLS competency is significantly associated with education level and professional rank, with bachelor's-degree nurses and professional nurses scoring higher](bls-competency-education-rank-association.md) — related
+- [Nursing technicians' cognitive assessment scores rose the most from pre-test to post-test after simulation training, compared with interns, nurses and residents, in a one-group before-and-after study](nursing-technicians-largest-knowledge-gain.md) — related

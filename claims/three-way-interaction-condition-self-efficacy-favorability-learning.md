@@ -54,3 +54,4 @@ Omnibus three-way interaction from the linear mixed-effects model of learning ga
 - [Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor](its-practice-no-self-efficacy-gain.md) — related
 - [Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related
+- [In the baseline-survey subsample, encouragement raised self-efficacy more for anxious students and for students with low baseline self-confidence](encouragement-self-efficacy-anxious-low-confidence.md) — related

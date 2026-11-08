@@ -50,3 +50,4 @@ Thematic analysis of the 'Relevancy and adequacy' theme across all 269 responden
 - [Physiotherapists in the experimental e-learning intervention valued its communication strategies as highly useful, while traditional-intervention participants criticised their absence](eei-communication-strategies-valued-tei-lamented.md) — related
 - [Qualitative feedback grouped enhancement suggestions into valued aspects, platform changes, and changes to the red flags training](qualitative-feedback-three-categories-red-flag-training.md) — related
 - [A minority of physiotherapists reported that the e-learning reassured them their current clinical practice aligned with guidelines](e-learning-confirmation-of-practice.md) — related
+- [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related

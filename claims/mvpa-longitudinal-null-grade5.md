@@ -52,3 +52,5 @@ Residualized change score analyses predicting Grade 5 Fall (T3) grades from Grad
 - [A 10-minute increase in daily school-day MVPA has a significant positive indirect association with math, writing, and spelling grades through cardiorespiratory fitness](mvpa-indirect-positive-cardiorespiratory-fitness.md) — related
 - [No longitudinal moderation of the MVPA–course marks relationship from Grade 4 to Grade 5 by any student or school characteristic](no-longitudinal-moderation-course-marks.md) — related
 - [School-day MVPA does not appear to harm academic performance regardless of student or school characteristics, supporting protection of school physical activity time](mvpa-no-academic-harm-any-subgroup.md) — related
+- [Minutes of moderate-to-vigorous physical activity show a negative but trivial prospective association with adolescent English and Math grades](mvpa-trivial-negative-association-grades.md) — related
+- [Meeting national physical activity guidelines is prospectively associated with slightly lower, trivially so, English and Math grades](pa-guidelines-trivial-negative-grades.md) — related

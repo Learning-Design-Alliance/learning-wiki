@@ -58,3 +58,4 @@ Modified Delphi meeting with n = 14 panelists (12 urologists, 1 hepatobiliary su
 - [Expert consensus metrics for circular stapling anastomosis comprise three procedural phases, 36 steps, 42 errors and 39 critical errors with unanimous Delphi agreement](circular-stapling-anastomosis-metrics-consensus.md) — related
 - [Per-phase counts of steps, errors and critical errors showed no statistically significant change after the Delphi process](delphi-no-significant-count-change.md) — related
 - [A modified Delphi process with an international expert panel produced a final unweighted A-OSATS score with four key steps and 15 defined substeps for minimally invasive linear-stapled intestinal anastomoses](a-osats-delphi-consensus-development.md) — related
+- [An international Delphi panel of 19 experienced urologists reached consensus on a reference set of RARP performance metrics](delphi-consensus-rarp-metrics.md) — related

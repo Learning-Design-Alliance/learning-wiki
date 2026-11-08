@@ -74,3 +74,4 @@ Theme 3 (professional identity) of the qualitative analysis. Students reported s
 - [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related
 - [First clinical simulation encounters with standardized patients evoke intense initial emotions in first-year nursing students, chiefly nervousness and fear of error](first-sp-simulation-evokes-intense-initial-emotions.md) — related
 - [Male nursing students experience initial anxiety with maternal-newborn mannequins that decreases through instructor support and repeated practice](hfs-initial-anxiety-eased-by-instructors-and-repetition.md) — related
+- [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related

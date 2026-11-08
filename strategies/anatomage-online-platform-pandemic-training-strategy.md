@@ -52,6 +52,7 @@ The review recommends using the Anatomage Table via an online platform so that a
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Structure VDT practical sessions as paired 2-hour table sessions with general training followed by student-led clinical application](vdt-hands-on-session-structure.md)
 - [Use VR surgical simulators to expand training opportunities when operative exposure is reduced, as during the COVID-19 pandemic](vr-simulation-training-during-reduced-operative-exposure.md)
+- [Use simulation training prior to actual surgery when elective surgical experience for trainees is disrupted](simulation-training-before-surgery-during-disruption.md)
 
 ## Examples
 -

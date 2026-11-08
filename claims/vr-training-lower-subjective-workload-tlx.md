@@ -53,3 +53,4 @@ Results of the randomized crossover trial: after crossover, the VR-trained contr
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [VR training after crossover was associated with a significantly shorter diagnosis-to-delivery time, driven by the control group](vr-training-shorter-diagnosis-to-delivery-time.md) — related
+- [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related

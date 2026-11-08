@@ -50,3 +50,4 @@ Consistency analysis of paired SP and examiner scores for 146 residents assessed
 - [Item-level scoring consistency is poor for several subjective rubric items, with ICCs near or below 0.4](poor-item-level-icc-subjective-osce-items.md) — related
 - [SP and examiner scores differ significantly on the total score and three of ten rubric items in the dental OSCE station](wilcoxon-sp-examiner-score-differences-osce-items.md) — related
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
+- [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related

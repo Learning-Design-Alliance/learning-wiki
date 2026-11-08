@@ -60,3 +60,5 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](ef-partially-mediates-fms-academic-achievement.md) — related
 - [Behavioral self-regulation and working memory, but not short-term memory, partially mediate the relation between early and later math skills](self-regulation-working-memory-partially-mediate-early-later-math.md) — related
 - [Mindfulness affects academic achievement indirectly through the mediating role of adaptability (Sobel T = 7.551)](adaptability-mediates-mindfulness-achievement.md) — related
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](ef-mediate-crf-gsv-grades.md) — related
+- [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](ef-mediate-crf-math-grades.md) — related

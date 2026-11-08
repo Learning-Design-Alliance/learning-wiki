@@ -92,3 +92,4 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 - [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related
 - [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related
 - [Working memory significantly mediates the SES-educational achievement association, accounting for 39% of the total effect](working-memory-mediation-ses-achievement.md) — related
+- [Working memory factor relationships are similar across mathematical subdomains at age 9–10, with one exception: the verbal working memory link to operations is higher](wm-betas-similar-across-math-domains.md) — related

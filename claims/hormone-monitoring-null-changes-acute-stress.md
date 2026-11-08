@@ -49,3 +49,4 @@ Review synthesis of 10 articles using hormone-based monitoring (cortisol, alpha-
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — related
 - [Phasic, not tonic, EDA correlates with cognitive stress in a reported diver study](phasic-eda-correlates-cognitive-stress.md) — related
 - [Subjective negative emotions and objective cortisol responses do not consistently predict WM and creativity in game-based situations](subjective-emotions-objective-cortisol-inconsistent-predictors.md) — related
+- [Simple regressions between salivary stress biomarkers and clinical or demographic data show no clinically relevant associations](regressions-biomarkers-clinical-data-no-relevant-statistics.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (85 show a difference, 28 mixed, 20 no difference) · 83 studies (36 causal, 26 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 21 of 83 report an effect size · 132 claims rest on one study
+> **Evidence** · 135 claims (87 show a difference, 28 mixed, 20 no difference) · 85 studies (36 causal, 28 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 21 of 85 report an effect size · 134 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -169,6 +169,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Mental Rotations Test scores positively correlated with post-intervention brainstem knowledge scores](../claims/mrt-correlates-post-intervention.md) [+W] — learners who differ on it differ in outcomes
 - [Visuospatial working memory (Corsi total score) improved more in the control group than the intervention group over 16 weeks](../claims/corsi-total-score-interaction-favors-control.md) [-W] — measured as an outcome of the instruction studied
 - [Structured VR simulator training significantly increases visual spatial ability scores compared with no training](../claims/vr-training-increases-vsa-scores.md) [+M] — measured as an outcome of the instruction studied
+- [On a novel, spatially complex laparoscopic task, visual-spatial ability and perceived task demands predict performance beyond viewing mode](../claims/visual-spatial-ability-predicts-novel-task.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial–sequential working memory remains influential in 9–10-year-olds beyond the age at which the declarative shift from visuospatial to verbal reliance is predicted (around 7 years)](../claims/sequential-wm-past-declarative-shift.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

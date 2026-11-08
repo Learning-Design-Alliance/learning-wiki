@@ -61,3 +61,4 @@ Reliability analysis of the two-observer scoring in the same quasi-experiment; t
 - [Blind expert grading found that 22 of 26 students' scores rose from pre-test to post-test after simulator training, while 2 were neutral and 2 fell, in one group with no comparison group](expert-graded-improvement-majority-of-novices.md) — related
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [Blind-rated eardrum pathology sketches score significantly higher for experts than novices, with excellent interrater reliability](vr-otoscopy-pathology-sketch-expert-novice-difference.md) — related
+- [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related

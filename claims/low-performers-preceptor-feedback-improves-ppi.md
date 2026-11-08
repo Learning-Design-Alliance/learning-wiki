@@ -49,3 +49,4 @@ Subgroup analysis using the Wilcoxon signed-rank test on the low-performance gro
 - [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related
 - [Precepted video review and video review with supervised peer discussion produce equivalent post-remediation OSCE scores and self-efficacy gains](precepted-review-equals-peer-discussion-osce-gains.md) — related
 - [Students report higher educational satisfaction with precepted video review than with peer discussion](precepted-review-higher-satisfaction-than-peer-discussion.md) — related
+- [OSCE scores were below national average scores at pre-test and above national average scores at post-test in one uncontrolled pre-post study](post-osce-scores-exceeded-national-average.md) — related

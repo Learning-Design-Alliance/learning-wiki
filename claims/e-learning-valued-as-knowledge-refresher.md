@@ -49,3 +49,4 @@ Thematic analysis of the 'Knowledge' theme across both intervention groups in th
 - [Physiotherapists held mixed opinions on the relevance of e-learning content on red flags, spinal pathologies, and pain mechanisms](mixed-views-red-flags-spinal-pathology-content.md) — related
 - [Physiotherapists in the experimental e-learning intervention valued its communication strategies as highly useful, while traditional-intervention participants criticised their absence](eei-communication-strategies-valued-tei-lamented.md) — related
 - [Physiotherapists in both e-learning groups wanted concrete examples of exercise therapy despite the interventions' message that no one-size-fits-all exercise exists](both-groups-want-concrete-exercise-examples.md) — related
+- [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related

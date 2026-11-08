@@ -49,3 +49,4 @@ In the between-subjects experiment (N = 997), the monitoring message condition y
 - [Anti-cheating interventions do not significantly affect test-taking self-efficacy](interventions-no-self-efficacy-effect.md) — related
 - [Warning messages about punitive measures lower the odds of cheating in unproctored online tests](warning-message-lowers-cheating-odds.md) — related
 - [With academic integrity reminders present, the exam-format effect on cheating rate disappears (Study 3 null)](reminders-eliminate-exam-format-rate-effect.md) — related
+- [No e-learning assessment method guarantees prevention of online cheating, and specific assessment strategies were proposed to minimize it](no-guarantee-against-online-cheating-assessment-strategies.md) — a broader claim this one bears on

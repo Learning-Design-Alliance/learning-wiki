@@ -88,3 +88,4 @@ Table 3, column (4): Gymnasium direct effect on age at enrolment -1.350 (SE 0.19
 - [Family variables relate to academic achievement, with parents' attitudes and behaviors (ES = .873) and parental expectations (ES = .865) showing large effects, and father's education level relating more strongly than mother's](family-variables-effects-academic-achievement-meta-review.md) — related
 - [Parental education and family financial support show no direct association with medical school performance; maternal German nativity is an exception](parental-background-no-direct-performance-effect.md) — related
 - [Parental education predicts CPS and g performance inconsistently across grades](parental-education-cps-g-inconsistent.md) — related
+- [School type consistently predicted academic achievement, with gymnasium students outperforming regular-school students in all three subjects](school-type-predicts-latvian-achievement.md) — related

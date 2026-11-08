@@ -56,3 +56,4 @@ Descriptive comparison of the study sample (n=106; 61 boys) using independent t-
 - [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — reports the opposite
 - [Children with language-type and mathematics-type LD showed no significant differences in age, BMI, IQ, physical activity, fitness, or sustained attention](no-subtype-differences-demographics-fitness-attention.md) — related
 - [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — reports the opposite
+- [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — reports the opposite

@@ -56,3 +56,4 @@ Content validity assessment via expert ratings of item importance, reported in t
 - [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related
 - [Expert content validation rated all rubric items above 0.50 on the item-objective congruence index, ranging from 0.67 to 1.00](ioc-content-validity-acls-rubric.md) — related
 - [Expert panel content validation of the TBL-SAI-TR yields an average content validity index of 0.95](tbl-sai-tr-content-validity-cvi-095.md) — related
+- [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related

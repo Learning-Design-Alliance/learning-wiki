@@ -47,3 +47,4 @@ Satisfaction of the G-Jump group (n = 15) measured with the Vidakis Game Satisfa
 ## Related Claims
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Anesthesia students in the gamified Triple Jump (G-Jump) group scored significantly higher on the post-test than the control group, with no significant difference between G-Jump and TJE](gjump-higher-post-test-than-control.md) — related
+- [Participants report high satisfaction with simulation design, with feedback/reflection scoring highest](high-satisfaction-simulation-design-ed.md) — related

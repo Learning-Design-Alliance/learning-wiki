@@ -50,3 +50,4 @@ Structural equation modeling analysis of questionnaire data from 343 first-year 
 - [The four well-being elements do not significantly mediate the relationships between grit dimensions and L2 achievement](wellbeing-mediation-non-significant.md) — related
 - [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](engagement-not-correlated-l2-achievement.md) — related
 - [Grit does not significantly predict GPA among physical education and sport university students](grit-not-significant-predictor-gpa-pes-students.md) — related
+- [Only perseverance of effort, not consistency of interests, is positively related to schoolwork engagement](perseverance-effort-engagement-consistency-null.md) — related

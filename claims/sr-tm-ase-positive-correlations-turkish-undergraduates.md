@@ -85,3 +85,4 @@ Same correlation analysis; the article reports the time management–academic se
 ## Related Claims
 - [In a structural model, self-regulation predicts time management (β = 0.72), time management predicts academic self-efficacy (β = 0.61), and self-regulation directly predicts academic self-efficacy (β = 0.44)](sem-direct-paths-sr-tm-ase.md) — related
 - [Students' perceived self-efficacy is positively associated with their reported time management](self-efficacy-positive-association-time-management.md) — related
+- [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related

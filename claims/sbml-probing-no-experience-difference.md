@@ -53,3 +53,5 @@ Wilcoxon signed-rank group comparisons reported in supplementary material; 70% o
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [Participants with prior communication-training experience achieved higher overall 3E scores than those without](prior-training-higher-3e-scores.md) — reports the opposite
 - [No significant between-group differences in learning-process measures across the simulator's clinical cases](pocus-process-measures-no-between-group-difference.md) — related
+- [Participants with previous AR experience show significantly lower training times for procedure 2, but the authors judge prior experience negligible overall](prior-ar-experience-lower-p2-training-time.md) — related
+- [Completion times improved from pre-test to post-test in all groups, but training groups did not significantly differ on pre-to-post change](pre-post-completion-time-improvement-no-group-difference.md) — related

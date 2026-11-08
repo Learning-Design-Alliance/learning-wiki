@@ -79,3 +79,5 @@ Within-subject Pearson correlations between NASA-TLX and performance score acros
 - [AR-based anatomy learning is associated with lower overall cognitive workload compared to traditional learning methods](ar-lower-cognitive-workload-than-traditional-learning.md) — related
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related
+- [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related
+- [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](nasa-tlx-workload-correlates-task-time.md) — related

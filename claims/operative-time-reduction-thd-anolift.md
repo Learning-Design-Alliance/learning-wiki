@@ -60,3 +60,4 @@ Retrospective cohort analysis of operative time as a continuous measure of techn
 - [Cup inclination accuracy improves significantly after 20 cases, while anteversion and 3D position differences do not change significantly](inclination-improves-after-20-cases-anteversion-does-not.md) — related
 - [Median procedure time fell significantly across the three learning-curve stages, from 275 minutes in the preliminary stage to 178.5 minutes in the proficient stage](laspme-procedure-time-decreases-across-stages.md) — related
 - [Operative times of both trainer and trainee decreased significantly from the first 10 to the last 10 cases of the observation period (both p < 0.001)](mie-operative-time-decreased-first-vs-last-10-cases.md) — related
+- [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related

@@ -50,3 +50,4 @@ Same quasi-experimental pre/post assessment of 9 interns scored on the 26 major 
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
 - [Median procedure time fell from before to after instructor feedback in one uncontrolled pre-post study; senior residents' time fell by nearly 40%, while junior residents' time was similar before and after](procedure-time-drops-after-feedback-seniors.md) — related
 - [Emergency physicians' slit-lamp exam checklist scores increased significantly from pre- to post-SBML curriculum (median 12.0 to 19.0)](sbml-slitalmp-checklist-score-increase.md) — related
+- [The checklist items hospitalists most commonly miss are cognitive elements such as ordering studies and alerting the nurse](commonly-missed-items-cognitive-elements.md) — related

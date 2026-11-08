@@ -50,3 +50,4 @@ Anonymous online feedback questionnaire at course end (n = 49 of 51). Descriptiv
 - [Only a minority of students prefer online teaching for clinical courses, and the primary drawback cited is the lack of a classroom atmosphere](online-teaching-willingness-shortcomings-neurosurgery.md) — related
 - [Blended-teaching students reported positive perceptions, with a majority preferring it to traditional offline teaching and willing to adopt it in other courses](blended-teaching-positive-student-perceptions.md) — related
 - [Most students in the HBOPPPS cohort were satisfied, perceived improved learning ability, and preferred HBOPPPS over offline or online-only teaching](hboppps-student-satisfaction-and-preference.md) — related
+- [Most blended learning students preferred BL over didactic teaching and web-based e-learning, and platform opinions did not differ between BL and WEL users](students-prefer-bl-86-percent.md) — a narrower finding that bears on this claim

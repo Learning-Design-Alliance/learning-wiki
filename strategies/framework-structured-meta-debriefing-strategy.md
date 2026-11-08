@@ -47,6 +47,7 @@ The article recommends that meta-debriefers use published debriefing frameworks 
 - [Use a structured debrief based on PEARLS covering teamwork, communication, and clinical reasoning](pearls-structured-debrief-strategy.md)
 - [Use ONA-derived network visualizations to target debriefing on communication bottlenecks and assessment-to-action transitions](ona-informed-debriefing-strategy.md)
 - [Use the GAS (Gather, Analyze, Summarize) structured debriefing model after simulated emergency scenarios](gas-structured-debriefing-model.md)
+- [Use a validated debriefing framework such as the 'Diamond' framework and extend debriefing to the operating room to support NTS skill retention](validated-debriefing-framework-diamond-nts.md)
 
 ## Examples
 -

@@ -48,3 +48,5 @@ Mann-Whitney U between-group comparisons of RAND-36 domain scores (LAP n = 19 vs
 ## Related Claims
 - [Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)](mindfulness-domain-effects-cognitive-stress-resilience.md) — related
 - [Physical functioning is the strongest predictor of clinical education quality among the eight SF-36 dimensions (β = 0.807, p < 0.01).](physical-functioning-strongest-sf36-predictor.md) — related
+- [Girls had significantly higher anxiety and lower quality of life than boys across all SF-36 domains at both time points](girls-higher-anxiety-lower-qol.md) — related
+- [Energy/fatigue and emotional well-being declined significantly between the beginning and end of the school year, with no school-type differences in QOL](qol-decline-energy-emotional-wellbeing.md) — related

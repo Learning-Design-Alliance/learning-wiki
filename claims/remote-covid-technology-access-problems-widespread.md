@@ -162,3 +162,5 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
 - [The Super Divya platform was largely accessible on phones, but internet connectivity and device capability were cited concerns for distribution to Nurse Mentors](super-divya-accessibility-connectivity-concerns.md) — related
 - [Technological challenges, including platform access failures and unavailable resources, reduced the effectiveness of online learning](technological-challenges-reduce-online-learning-effectiveness.md) — related
+- [Poor internet connectivity and device incompatibility limited access to online courses for students in developing countries during COVID-19](poor-connectivity-blocked-online-access-developing-countries.md) — related
+- [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related

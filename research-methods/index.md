@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1080 entries** · 0 stable · 1080 in review · 0 drafts
+**1081 entries** · 0 stable · 1081 in review · 0 drafts
 
 ---
 
@@ -680,6 +680,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Offline evaluation with calibrated LLM judges for tutoring behaviors](offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors.md) - The team maintains targeted offline datasets sampled from production completions, including an answer-giveaway dataset where \"The final dataset consists of 63 data points\" and a Tutor Me input-classification dataset where \"the dataset consisted of 794 data points.\" LLM judges calibrated against huma
 * [On-line versus off-line methods for assessing strategy use](on-line-versus-off-line-methods-for-assessing-strategy-use.md) - The article distinguishes two families of strategy-use assessment.
 * [One-shot GPT-4o-mini codebook-based annotation of LLM math-tutor dialogue](one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue.md) - The article reproduces an 82-code educational codebook organised into 7 major categories (MPS, MKT, Cognition, Metacognition, PIU, Student Intent Utterance, Interaction/Discourse) by inlining it into a single GPT-4o-mini prompt at temperature 0: \"we reproduce an 82-code educational codebook on119,00
+* [Operationalisation and description of instructional treatments in effect-of-instruction research](operationalisation-and-description-of-instructional-treatments-in-effect-of-instruction-re.md) - Because active learning is rarely defined and interpreted in many different ways, the article advocates that BER concerning active learning provide a cited definition and that authors define and describe the active-learning strategies used in experimental research.
 * [Operationalisation framework for observing adaptive practices in clinical settings](operationalisation-framework-for-observing-adaptive-practices-in-clinical-settings.md) - An observational instrument developed in the study that translates the adaptive expert framework into observable behavioural markers for cognitive ethnography.
 * [Operationalization and description of instructional treatments in effect-of-instruction research](operationalization-and-description-of-instructional-treatments-in-effect-of-instruction-re.md) - The article argues that effect-of-instruction studies fail when instruction is merely given a methods label.
 * [OPI-derived weighted-distance learning-curve analysis](opi-derived-weighted-distance-learning-curve-analysis.md) - A methodological framework in which robotic-platform OPIs are binned by month, reduced with t-distributed stochastic neighbor embedding, and compared across consecutive time bins using \"Euclidean distance between consecutive bins\" weighted by days elapsed and case volume, then smoothed.

@@ -53,3 +53,4 @@ Descriptive participation statistics from the results overview of 199 registrant
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
 - [High early dropout (65% after the first registration page) means feasibility findings may reflect a self-selecting subset](early-dropout-limits-feasibility-interpretation.md) — related
 - [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related
+- [The G-SS program as scheduled was not feasible: student responsiveness reached 23% against an a priori 83% target](gss-responsiveness-below-target-not-feasible.md) — related

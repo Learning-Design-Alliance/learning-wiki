@@ -54,3 +54,4 @@ Two-way repeated measures ANOVA across 3 time points for 60 NPs. Table 2 reports
 - [The EmMa course showed no significant effect on early childhood teachers' mathematical content knowledge](emma-no-effect-mck.md) — related
 - [In the BLS E-learning experiment, knowledge score changes were significantly influenced by time, number of sessions, and their interactive effect](repeated-measures-anova-time-sessions-interaction-bls.md) — related
 - [Both study groups demonstrated significantly improved proficiency over time on two-way ANOVA, with no significant time-by-group interaction](proficiency-improved-over-time-no-interaction.md) — reports the opposite
+- [No interaction effects between nutrition groups were found for academic performance over time](no-interaction-effects-nutrition-groups-academic.md) — related

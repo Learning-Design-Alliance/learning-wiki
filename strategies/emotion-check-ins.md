@@ -59,9 +59,11 @@ Emotion check ins operationalize the premise that affect and cognition are inter
 6. **Review patterns over time** — look for recurring signals tied to specific topics or task types and redesign those moments.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the broader family of opening routines, of which emotion check ins are the affective subset
 - [Belonging Interventions](belonging-interventions.md) — check ins contribute to the climate work that belonging interventions formalize
 - [Mood Meters](mood-meters.md) — a structured tool variant adding valence–arousal dimensions
+- [Tailor the emotional content of simulation sessions to individual learners' anxiety levels](tailor-simulation-emotional-content-to-learner-anxiety.md)
 
 ## Examples
 - **RULER Mood Meter** ([Yale Center for Emotional Intelligence](https://ei.yale.edu/ruler)) — classrooms open with learners placing themselves on a color-coded valence/arousal grid, then optionally moving to a target quadrant via a regulation strategy.

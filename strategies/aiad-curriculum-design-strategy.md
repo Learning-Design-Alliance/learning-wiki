@@ -54,6 +54,7 @@ The article's concluding recommendation is that "Institutions aiming to implemen
 ## Related Strategies
 
 - [Open online courses as flexible supplements for skills under-represented in formal curricula](open-online-courses-as-curricular-supplements.md)
+- [Designing future online medical curricula around flexibility, mindful communication, longitudinal patient contacts, and transparent structure](design-online-medical-curricula-flexibility-communication-structure.md)
 
 ## Examples
 -

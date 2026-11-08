@@ -55,6 +55,7 @@ The authors recommend adaptive systems incorporate discrepancy prompts tailored 
 - [Provide student-adaptive self-explanation prompts that target only example parts the student may not fully understand, rather than prompting at every step](adaptive-selective-self-explanation-prompting.md)
 - [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
 - [Adapt worked-example sessions for high and low prior-knowledge students who did not benefit](adapt-worked-examples-for-high-low-prior-knowledge.md)
+- [Use selective instructional supports (examples, prompts) combined with adaptive instructional support as alternatives to reflection phases for low-expertise learners in simulation-based learning](selective-adaptive-support-alternatives-low-expertise-simulation.md)
 
 ## Examples
 -

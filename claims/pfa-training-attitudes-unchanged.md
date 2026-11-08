@@ -50,3 +50,4 @@ Between-group and within-group tests of the 6-item PFA attitude scale across T0,
 - [A 4-hour WHO-based PFA training program significantly increases community nurses' PFA knowledge immediately after training, with a smaller but sustained advantage at 2 months](pfa-training-increases-community-nurse-knowledge.md) — related
 - [Within the intervention group, PFA knowledge scores increase significantly from baseline to post-training (r = 0.56) and remain significantly above baseline at 2 months](pfa-within-group-knowledge-gains.md) — related
 - [Post-training attitudes improved overall, but only the attitude towards telerehabilitation changed significantly](stp-attitude-change-telerehabilitation-only.md) — reports the opposite
+- [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related

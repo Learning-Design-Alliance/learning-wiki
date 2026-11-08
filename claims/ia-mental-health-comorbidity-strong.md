@@ -58,3 +58,4 @@ The review's narrative synthesis reports, citing Sayed (2022), that Egyptian pha
 - [Low physical activity and psychological distress are highly prevalent among Saudi physical therapy students](high-prevalence-low-activity-distress-saudi-pt-students.md) — related
 - [Smartphone addiction correlates negatively with academic resilience, self-efficacy and achievement, and positively with cognitive test anxiety](smartphone-addiction-correlation-pattern-secondary-students.md) — related
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
+- [Connectivity and access problems during online study were accompanied by self-reported depression, stress, and anxiety among students in developing countries](online-access-problems-student-psychological-distress.md) — related

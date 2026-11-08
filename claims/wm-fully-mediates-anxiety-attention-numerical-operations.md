@@ -74,3 +74,4 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Mindfulness affects academic achievement indirectly through the mediating role of adaptability (Sobel T = 7.551)](adaptability-mediates-mindfulness-achievement.md) — related
 - [Prior academic performance directly affects both OSCE performance and clerkship performance](academic-performance-predicts-osce-and-clerkship.md) — related
 - [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](wm-indirect-effects-via-four-math-components.md) — related
+- [Working memory factor relationships are similar across mathematical subdomains at age 9–10, with one exception: the verbal working memory link to operations is higher](wm-betas-similar-across-math-domains.md) — related

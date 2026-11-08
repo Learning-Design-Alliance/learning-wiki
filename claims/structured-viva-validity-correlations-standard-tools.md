@@ -51,3 +51,5 @@ Review of validity studies: three studies estimated validity by correlation with
 - [Oral exam scores correlate only modestly with written exams and OSCEs (r = 0.10–0.74), suggesting oral exams assess distinct skills](oral-exam-distinct-validity-correlations.md) — a broader claim this one bears on
 - [Structured viva shows significant inter-rater reliability between examiner pairs (r = 0.78 to 0.91) and high inter-rater agreement (86.7%)](structured-viva-inter-rater-reliability-significant.md) — related
 - [Structured viva shows higher internal consistency reliability (Cronbach alpha 0.75–0.80) than traditional viva (alpha 0.50)](structured-viva-cronbach-alpha-higher-than-traditional.md) — related
+- [VP exam grades correlate strongly with MCQ exam grades (r = 0.452), while oral exam grades correlate even less with MCQs (r = 0.080)](vp-mcq-correlation-0452-oral-0080.md) — related
+- [Oral exam grades were significantly higher than VP exam grades in every year (mean 91.2 vs 84.3)](oral-exam-grades-higher-than-vp-grades.md) — related

@@ -55,3 +55,4 @@ Null correlational analysis of PSG sleep statistics against recall change rate a
 - [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md) — related
 - [Wake groups show greater recall-change differences between learning conditions than nap groups, driven by no-feedback items](wake-group-greater-recall-change-differences.md) — related
 - [Sleep-stage durations, sleep fragmentation, and pre- and post-cue EEG band power were not significantly correlated with forgetting of cued items or the TMR-SD effect](sleep-measures-uncorrelated-with-tmr-sd-outcomes.md) — related
+- [Learning effects of the targeted training were sustained for at least 4 months only when sleep followed the training](sleep-following-targeted-training-sustains-literacy-gains.md) — related

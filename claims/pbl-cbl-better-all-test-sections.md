@@ -50,3 +50,4 @@ Results section reporting Table 1 post-class test scores for the two randomized 
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related
+- [Periodic evaluations showed active student participation and tutor-reported improvement in theoretical study and scientific research abilities](wechat-pbl-periodic-evaluation-participation.md) — related

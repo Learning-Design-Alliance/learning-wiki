@@ -47,3 +47,4 @@ Chi-square/Fisher's exact analyses in the cross-sectional study of 95 residents.
 ## Related Claims
 - [Monthly ECG order volume was associated with correct SVT and acute pericarditis diagnosis, and prior clinical service years with atrial fibrillation diagnosis](ecg-exposure-associated-with-diagnosis-accuracy.md) — related
 - [Pediatric residents rarely correctly diagnose life-threatening emergent ECG conditions, with correct rates from 42.1% for long QTc syndrome down to 4.2% for hyperkalemia](pediatric-residents-low-emergent-ecg-diagnosis-accuracy.md) — related
+- [Exposure to core ECG conditions during clinical training depends on trainee level: 52% of conditions for junior students, 63.4% for senior students, 96.9% for residents](ecg-exposure-depends-on-training-level.md) — related

@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 335 claims (237 show a difference, 63 mixed, 35 no difference) · 219 studies (82 associational, 61 causal, 33 review, 16 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 48 of 219 report an effect size · 327 claims rest on one study
+> **Evidence** · 340 claims (239 show a difference, 64 mixed, 37 no difference) · 224 studies (86 associational, 62 causal, 33 review, 16 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 48 of 224 report an effect size · 332 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -375,6 +375,11 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Students who did not prefer e-learning had significantly higher adjusted odds of high-level perceived e-learning stress](../claims/non-preference-e-learning-high-stress.md) [+M] — measured as an outcome of the instruction studied
 - [Students with any eye problems had significantly higher adjusted odds of high-level perceived e-learning stress](../claims/eye-problems-high-e-learning-stress.md) [+M] — measured as an outcome of the instruction studied
 - [Test anxiety was universally negatively associated with exam scores across community college, inclusive, and selective institutions](../claims/test-anxiety-negatively-associated-exam-scores-all-contexts.md) [+M] — learners who differ on it differ in outcomes
+- [Behavioral regulation (inhibition, self-monitoring) and emotional regulation (flexibility, emotional control) scales were not significant predictors of academic achievement at ages 6–9](../claims/behavioral-emotional-ef-scales-not-significant-6-9.md) [-M] — learners who differ on it differ in outcomes
+- [Encouragement messages do not reduce students’ test anxiety before exams](../claims/encouragement-no-test-anxiety-effect.md) [-M] — measured as an outcome of the instruction studied
+- [Perceived stress correlates negatively with GPA only in clinical medical students, suggesting a cumulative effect of preclinical stress](../claims/stress-gpa-negative-correlation-only-clinical-students.md) [~M] — learners who differ on it differ in outcomes
+- [Self-regulation level (low/medium/high) differentially predicts self-efficacy, procrastination and achievement, with family socio-educational level also affecting achievement](../claims/sr-level-by-family-level-anova-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Viewing stress as enhancing relates to greater approach coping and lower perceived distress, which relate to better health (exploratory mediation)](../claims/coping-and-distress-mediate-mindset-health-link.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

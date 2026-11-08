@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (54 show a difference, 24 mixed, 12 no difference) · 71 studies (31 causal, 13 associational, 8 quant-synthesis, 7 review, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 14 of 71 report an effect size · 87 claims rest on one study
+> **Evidence** · 91 claims (55 show a difference, 24 mixed, 12 no difference) · 72 studies (31 causal, 14 associational, 8 quant-synthesis, 7 review, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 14 of 72 report an effect size · 88 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -128,6 +128,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](../claims/literacy-difficulties-moderate-trait-anxiety-gpa.md) [~M] — an instructional effect differs with it
 - [Nursing students' self-rated health literacy knowledge, skills and attitudes were significantly higher two weeks after a one-week integrated education programme, in a single-group pre-post study](../claims/health-literacy-training-improves-nursing-student-competencies-tanzania.md) [+W] — measured as an outcome of the instruction studied
 - [Students completing a SAP-codeveloped authentic assessment reported the greatest growth in scientific literacy (41.6%) and communication/knowledge translation (34.7%), with less reported growth in critical thinking (16.2%) and problem-solving (7.5%)](../claims/sap-authentic-assessment-skill-growth-sl-communication.md) [+M] — measured as an outcome of the instruction studied
+- [Early literacy activities in the family before school increase the chances of academic resilience; in Lithuania resilient-track students who did them were twice as likely to be resilient](../claims/early-family-literacy-activities-double-resilience-lithuania.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

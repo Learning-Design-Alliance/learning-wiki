@@ -48,6 +48,7 @@ The article's discussion recommends that schools address smartphone addiction di
 
 - [Screen for SMA and nomophobia and build academic self-efficacy through mastery experiences, role models, feedback, and coaching](ase-building-and-digital-wellbeing-strategy-nursing-interns.md)
 - [Schools should set clear smartphone usage rules with technical safeguards and familiarise parents with smartphones' pedagogical affordances to reduce resistance](address-parental-smartphone-resistance-rules-and-affordances.md)
+- [University administrators and policymakers should implement a smartphone use policy for learning, teaching, and campus residence](smartphone-use-policy-implementation-strategy.md)
 
 ## Examples
 -

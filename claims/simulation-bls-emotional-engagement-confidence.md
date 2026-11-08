@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: bhuvaneswari-s-2026
     resource: "https://doi.org/10.1186/s12909-026-09260-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Initial anxiety was commonly reported, but students described a sense of accomplishment and increased confidence following repeated practice and successful scenario completion. [→ Bhuvaneswari S 2026](#bhuvaneswari-s-2026)
@@ -64,3 +65,4 @@ Qualitative thematic finding from five focus group discussions with 40 nursing s
 - [Simulated high-stakes scenarios with moulage shifted students into observational roles, revealing affective-domain barriers](moulage-scenarios-affective-domain-observational-roles.md) — related
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
 - [Simulation increased participants' self-efficacy in overdose response and was experienced as positive, confidence-building and identity affirming](simulation-self-efficacy-overdose-bystanders.md) — a narrower finding that bears on this claim
+- [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — a narrower finding that bears on this claim

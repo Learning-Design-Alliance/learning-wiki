@@ -41,7 +41,8 @@ The review describes clinical simulation in health as an educational strategy th
 - [Simulation Contributed Caregiver Home Care Preparation Review](../claims/simulation-contributed-caregiver-home-care-preparation-review.md) [+W]
 
 ## Related Designs
-- 
+
+- [Simulation setting design framework: construction, application and assessment stages with briefing, intrassimulation and debriefing](simulation-setting-design-stages-framework.md)
 
 ## Examples
 -

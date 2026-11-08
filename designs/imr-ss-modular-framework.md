@@ -41,7 +41,9 @@ The authors propose a modular curriculum framework for immersive mixed reality s
 - 
 
 ## Related Designs
+
 - Imr Ss System Element
+- [Five-phase guided self-study procedure for higher education](five-phase-guided-self-study-procedure.md)
 
 ## Examples
 -

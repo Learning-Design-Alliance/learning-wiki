@@ -54,6 +54,7 @@ The article's authors propose that the strongest practical application of their 
 - [Design classroom practices and interventions that change students' goal foci to foster adaptive emotions and reduce maladaptive emotions](change-goal-foci-to-foster-adaptive-emotions.md)
 - [Design instructional environments to foster positive academic emotions: improve instruction quality, grant calibrated autonomy, match expectations to capabilities, increase success opportunities, and foster cooperative interaction structures](instructional-guidelines-foster-positive-academic-emotions.md)
 - [Foster positive teacher-student relationships through mindful practices, positive reinforcement, and out-of-class communication](relationship-practices-for-efl-emotions.md)
+- [Develop emotional intelligence programs in secondary education to prevent school burnout after adverse academic events](ei-programs-prevent-school-burnout-strategy.md)
 
 ## Examples
 -

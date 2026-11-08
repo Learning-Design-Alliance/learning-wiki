@@ -51,3 +51,4 @@ Randomized trial with 8 trainees per randomized arm and 6 controls; two masked g
 - [Trainees with additional virtual reality simulator training performed significantly more surgical steps without supervisor intervention than the other groups](vr-group-more-steps-without-supervisor-intervention.md) — related
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
 - [Prior VR simulator training is associated with lower PCR rates in live cataract surgery (2.2% vs 4.8%, p = 0.032), as reported by a cited study](vr-simulation-training-lower-pcr-rates-cited.md) — related
+- [The high cost of virtual reality simulators limits widespread adoption, and their cost-effectiveness for robotic surgery has not been clearly demonstrated](vr-simulator-cost-effectiveness-undemonstrated.md) — related

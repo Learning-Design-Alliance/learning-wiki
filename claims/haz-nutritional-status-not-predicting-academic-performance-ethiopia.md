@@ -56,3 +56,5 @@ Cross-sectional logistic regression analysis of 399 urban primary school childre
 - [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
+- [Stunted primary school girls performed significantly poorer academically than normal-weight girls at each time point and over the six-year follow-up period](stunting-poorer-academic-performance-girls-longitudinal.md) — reports the opposite
+- [Stunting showed prolonged significant negative influences on language, mathematics, and grade point average, with the stunted group underperforming by almost 9% over the long term](stunting-language-math-gpa-long-term-deficit.md) — reports the opposite

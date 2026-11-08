@@ -94,3 +94,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [Satisfaction with practical teaching was significantly higher in the combined CBL and clinical pathway group (4.80 ± 0.61) than in the traditional teaching group (3.69 ± 0.82)](cbl-clinical-pathway-higher-satisfaction.md) — related
 - [Replacing the first PbL group meeting with a written internet chat does not worsen summative exam results compared with conventional on-site PbL](bpbl-chat-first-session-no-exam-difference.md) — related
 - PBL combined with situational simulation teaching yields higher nursing practice satisfaction scores than conventional teaching — related
+- [Rubric-graded PowerPoint team presentations in all three biology courses showed learning gains in knowledge integration and synthesis](mbcl-presentations-show-deep-learning-gains.md) — related

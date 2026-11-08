@@ -55,3 +55,4 @@ Descriptive questionnaire results from the external validation with 40 neurosurg
 - [The VR TTTS simulator received strong positive validation across five domains, with training effectiveness the highest-endorsed at 87%](vr-ttts-simulator-strong-positive-validation.md) — related
 - [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related
 - [Current virtual reality simulators target skill acquisition and lack authenticity for workflow and teamwork learning](cl-vr-simulators-skill-acquisition-lack-workflow-authenticity.md) — related
+- [In an online survey, the colour map achieved the highest statement scores and rankings among force visualisation concepts for aneurysm clipping simulation](colour-map-best-force-visualisation-clipping-survey.md) — related

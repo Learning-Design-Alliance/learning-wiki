@@ -51,3 +51,4 @@ In the RCT, the stepwise CBME group showed superior puncture site selection (94%
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — related
 - [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](simulation-based-training-enhances-neuraxial-outcomes.md) — related
 - [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related
+- [Success rate of ultrasound-guided vascular puncture rose significantly from 79% pre-test to 94% posttest after a 2-hour hands-on seminar using the competency-based modular teaching system, in a single-group pre-test/posttest study with no comparison group](modular-system-increased-puncture-success-rate.md) — related

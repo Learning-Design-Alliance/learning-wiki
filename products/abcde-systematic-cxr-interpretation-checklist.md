@@ -25,7 +25,8 @@ A checklist-based assessment tool developed for systematic chest-radiograph inte
 - [A brief resident-led checklist-guided session significantly improved chest radiograph interpretation scores over lecture-only instruction](../claims/checklist-session-improves-cxr-interpretation.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [PREPARED model](prepared-model.md)
 
 ## Key Sources
 - Yepes-Velasco Andres Felipe, Solano Andres, Hernandez Jorge, Mora-Salamanca Andrés Felipe, Moreno-Araque Jeimy Lorena. (2026). From image to clinical judgment: a randomized near-peer teaching trial on systematic chest radiograph interpretation. BMC Medical Education. https://doi.org/10.1186/s12909-026-08971-9

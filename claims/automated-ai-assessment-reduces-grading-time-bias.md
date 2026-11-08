@@ -51,3 +51,4 @@ In the review's Assessment and Feedback theme, it reports that AI assessment too
 - [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [The authors report that digital objective evaluation systems reduced teachers' subjective evaluation bias and enabled students' critical self-assessment](digital-objective-evaluation-systems-reduced-subjective-bias.md) — a narrower finding that bears on this claim

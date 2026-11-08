@@ -71,6 +71,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 - [Hybrid shoulder dystocia training combining theoretical instruction, simulation and 360°-VR](hybrid-vr-shoulder-dystocia-training-strategy.md)
+- [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
 
 ## Examples
 -

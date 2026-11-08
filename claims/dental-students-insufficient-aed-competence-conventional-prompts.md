@@ -56,3 +56,4 @@ Simulation-based assessment of 42 final-year dental students using conventional 
 - [Post-shock sequence deficiencies persist regardless of instruction modification](post-shock-sequence-deficiencies-persist.md) — related
 - [Prior training in basic life support or AED use does not guarantee correct AED performance](prior-training-does-not-guarantee-aed-competence.md) — related
 - [Technical performance during the simulated cardiac arrest was low, with a mean of 16 of 42 points](technical-performance-16-of-42-points-during-simulation.md) — related
+- [In final simulation scenarios, physicians were slow to complete critical actions and commonly failed to provide adequate patient support](simulation-scenario-critical-action-times-ecmo.md) — related

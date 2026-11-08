@@ -54,3 +54,4 @@ Satisfaction survey using a 4-point Likert scale (neutral midpoint intentionally
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Organisational factors, including insufficient allocated time and incomplete teams, hindered effective EVT simulation training](organisational-barriers-evt-simulation.md) — related
+- [Students in the SBME group allocate more practice time to communicating with others](sbme-students-allocate-more-communication-time.md) — related

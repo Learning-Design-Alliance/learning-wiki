@@ -73,6 +73,7 @@ Cooperative learning reliably improves achievement when — and largely only whe
 - [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](../strategies/numbered-random-task-distribution-group-work.md)
 - [Allow cooperative teams to take midterm exams collaboratively while keeping final exams individual](../strategies/cooperative-midterm-individual-final-exams.md)
 - [Promote student accountability for team answers through simultaneous report and individual random call](../strategies/simultaneous-report-and-random-call-accountability-strategy.md)
+- [Use structured online peer evaluation to reduce free-riding in cooperative group work](../strategies/peer-evaluation-reduce-free-riding-strategy.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

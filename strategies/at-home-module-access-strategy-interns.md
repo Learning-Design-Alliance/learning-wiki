@@ -46,7 +46,8 @@ The article recommends supplying interns with personal, inexpensive simulation m
 - [Within the PGY1 cohort, drill plunge accuracy and angled drilling time improved significantly from beginning to end of year, while other accuracy and time measures did not change significantly](../claims/within-cohort-drill-plunge-accuracy-angled-drilling-time.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide fine-grained simulator feedback on intubation performance as a complement to traditional training](fine-grained-simulator-feedback-intubation-training.md)
 
 ## Examples
 -

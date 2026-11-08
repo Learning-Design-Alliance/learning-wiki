@@ -52,3 +52,4 @@ Independent t-tests on LASSI percentile scores from 618 medical students (350 fe
 - [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — related
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Test Strategies explains the largest share of performance variation for all students across M1, preclinical, and USMLE Step 1 measures](test-strategies-largest-performance-variation-contributor.md) — related
+- [Female students scored higher on the strategic approach scale than male students](female-students-higher-strategic-approach.md) — related

@@ -50,3 +50,4 @@ Descriptive results from the cross-sectional survey of 514 students: "Out of 514
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related
 - [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — related
 - [Undernutrition burden was high among the sampled urban primary school children, with wasting at 34.0%, underweight at 24.0%, stunting at 23.8% and overweight at 4.3%](malnutrition-prevalence-urban-primary-schools-northern-ethiopia.md) — related
+- [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related

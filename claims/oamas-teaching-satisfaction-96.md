@@ -54,3 +54,4 @@ Post-course self-made eight-item satisfaction questionnaire (Cronbach's alpha 0.
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Over 96% of novice trainees agree simulator training should precede actual surgery for arthroscopy beginners, and over 94% would recommend arthroscopy simulator training to colleagues, with no disagreements in either group](novices-endorse-arthroscopy-simulator-training-before-surgery.md) — related
 - [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related
+- [More than 80% of SBME students were satisfied with the SBME course and its projects](sbme-student-satisfaction-over-80-percent.md) — related

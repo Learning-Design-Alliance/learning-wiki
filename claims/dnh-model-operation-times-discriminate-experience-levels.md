@@ -55,3 +55,5 @@ Single-center simulation study in which 5 experts, 5 attending physicians, and 5
 - [Technical-step realism was uneven: marking and circumferential incision scored higher than submucosal injection and dissection](dnh-model-step-realism-uneven.md) — related
 - [Dissection time decreases across the three models, with significantly shorter time on fresh-frozen bone than the transparent 3D model (p = 0.002)](dissection-time-decreases-across-models.md) — related
 - [Dissection time, gallbladder removal time and total operative time differ significantly across performance quartiles](operative-time-quartile-differences.md) — related
+- [Validated PVA-hydrogel synthetic organ models for urological robotic procedures demonstrate face, content and construct validity, and a perfused prostatectomy model objectively discriminated experts from novices](pva-hydrogel-urology-models-validated.md) — related
+- [A PVA-hydrogel robotic myomectomy model showed promising early validity, with 94% of resident surgeons and 83% of attending surgeons rating it a useful training tool](gyn-myomectomy-model-survey-validity.md) — related

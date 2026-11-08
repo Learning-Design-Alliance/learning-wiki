@@ -48,3 +48,4 @@ The review reports Dell'Amore and collaborators' experience using human cadavers
 - [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — related
 - [Live swine VATS lobectomy training carries substantial anaesthesia-related complications, including hypoventilation and death](swine-model-anesthesia-complications-vats-training.md) — related
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
+- [Surgeons rated the VATS simulator's design, ergonomics and triangulation as very good or excellent, supporting face validity](vats-simulator-face-validity-ratings.md) — related

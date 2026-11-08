@@ -69,3 +69,4 @@ The growth models, including a group × time interaction term while controlling 
 - [Numeracy was the consistently weakest domain for children with high-grade IVH throughout school age](high-grade-ivh-numeracy-weakness.md) — related
 - [Very preterm children with low-grade IVH performed similarly to very preterm controls without IVH on national school assessments at ages 8 to 13 years](low-grade-ivh-similar-school-performance.md) — related
 - [Grade 2 IVH, but not grade 1 IVH, was associated with significantly lower total school scores at age 8 to 9 years](grade-2-ivh-lower-scores-age-8-9.md) — related
+- [Early neonatal sepsis is associated with parent-rated inattention and hyperactivity symptoms, and severe intraventricular hemorrhage with altered Piaget operational stage](early-sepsis-severe-hemorrhage-attention-cognitive-changes.md) — related

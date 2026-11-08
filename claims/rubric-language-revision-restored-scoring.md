@@ -67,3 +67,4 @@ Rubric-based task completion data from the usability testing rounds, mapped to A
 - [Usability testing with 12 clinician testers over 2 cycles identified 52 usability issues, of which 15 required correction before piloting with learners](usability-testing-52-issues-15-critical.md) — related
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [Focused rubric refinement that made required physics and scoring conditions explicit reduced AI–official disagreements on targeted questions (e.g., Grover item MAD 1.1 to 0.4 marks, r 0.70 to 0.82)](explicit-rubric-conditions-reduce-ai-disagreement.md) — related
+- [Usability testing flagged eight items for problems such as overlapping content, ambiguous phrasing and restricted applicability](usability-issues-flagged-items.md) — related

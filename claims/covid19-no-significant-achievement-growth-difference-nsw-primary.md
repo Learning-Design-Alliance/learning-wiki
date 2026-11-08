@@ -55,3 +55,4 @@ Linear mixed models compared matched 2019 and 2020 cohorts (3030 students total:
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — related
 - [No evidence that COVID-19 learning deficits differ between primary and secondary students](covid-deficits-no-grade-level-variation.md) — related
 - [No significant mean differences in perspectives between primary and secondary school staff](no-primary-secondary-difference-mhl-perspectives.md) — related
+- [NSW teachers rated the program higher than SA teachers on motivation, accessibility, mix of materials and lesson duration](state-differences-nsw-higher-ratings-than-sa.md) — related

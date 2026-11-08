@@ -57,3 +57,4 @@ Paired sample t-test analysis within the experimental group (n=30, df=29) in the
 - [Pre-service teachers' open-ended responses most frequently attribute to mind-map planning effects on metacognitive self-regulation, concentration and planned study](mind-map-planning-qualitative-views-metacognition.md) — related
 - [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related
 - [Diary keeping significantly increases academic achievement of pre-service science teachers](diaries-increase-academic-achievement.md) — related
+- [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](motivational-strategies-little-difference-bl-dt.md) — related

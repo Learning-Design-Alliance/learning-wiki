@@ -66,6 +66,7 @@ The article recommends adopting RCDP in nursing education because it provides im
 - [Trial a combined debriefing strategy alternating RCDP practice cycles with interval reflective debriefing sessions](rcdp-with-interval-trd-strategy.md)
 - [Use interruptible simulation in a safe environment so errors can be pointed out and corrected during practice](interruptible-safe-environment-simulation-strategy.md)
 - [Use a two-step debriefing process: immediate written self-debrief followed by a large group debrief](two-step-self-then-group-debrief-vgs.md)
+- [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 
 ## Examples
 -

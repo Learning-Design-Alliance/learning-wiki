@@ -63,6 +63,7 @@ Air writing exploits the finding that motor production shapes letter representat
 - **Multisensory structured literacy (Orton-Gillingham)** — embeds air writing as the kinesthetic channel of its VAKT (visual–auditory–kinesthetic–tactile) routine
 - [Combine movement specifically with conditional letter-sounds for children who already master standard sounds](combine-movement-with-conditional-letter-sounds.md)
 - [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
+- [Blindfold-dominant multisensory-motor letter games (~70% of session with eyes closed) followed by eyes-open mapping and perception-for-action](blindfold-dominant-multisensory-letter-training-sessions.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repeated synchronized production is the mechanism, not a follow-on

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-08
 sources:
   - id: gmeiner-m-2025
     resource: "https://doi.org/10.1007/s10143-025-03846-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants rated the blood flow simulation highest among simulator components (mean 4.25) and rated the simulator's potential for preoperative planning at 4.20. [→ Gmeiner M 2025](#gmeiner-m-2025)
@@ -50,3 +51,4 @@ Descriptive results from the 40-neurosurgeon external validation questionnaire: 
 - [Each simulation approach has distinct limitations: ex vivo methods have limited availability, VR simulators lack haptics and tactility, 3D static models lack microanatomical components and blood flow, and 3D dynamic models miss microanatomical components](simulation-approach-specific-limitations.md) — related
 - [Participants could distinguish arterial from venous bleeding patterns and practice digital pressure techniques on the task trainer](trainer-supports-bleed-type-identification.md) — related
 - [The mixed-reality aneurysm clipping simulator achieved robust face and content validity, with mean questionnaire scores between 3.13 and 4.25 among 40 neurosurgeons](medusa-simulator-face-content-validity.md) — a broader claim this one bears on
+- [In an online survey, the colour map achieved the highest statement scores and rankings among force visualisation concepts for aneurysm clipping simulation](colour-map-best-force-visualisation-clipping-survey.md) — related

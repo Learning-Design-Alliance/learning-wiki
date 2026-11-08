@@ -53,3 +53,4 @@ Content-validation survey of the same twelve experts using a 12-item 4-point rel
 - [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
 - [The article reports PUL has a more accessible learning curve than HoLEP, bipolar enucleation and Aquablation, which require 20–50 and 38 cases respectively](pul-learning-curve-shorter-than-enucleation-modalities.md) — related
 - [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related
+- [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related

@@ -50,3 +50,4 @@ Null secondary analysis in the Results section comparing average per‐phase cou
 - [The control group's writing skills also improved significantly over the 8 weeks under traditional instruction](control-group-also-improved-writing.md) — related
 - [An iterative six-stage development process culminating in a Delphi panel produced a validated ANTT wound-dressing observational metric with three phases, 31 steps, 18 errors, and 27 sentinel errors](antt-wound-dressing-metric-31-steps-delphi-validated.md) — related
 - [A modified Delphi process with an international expert panel produced a final unweighted A-OSATS score with four key steps and 15 defined substeps for minimally invasive linear-stapled intestinal anastomoses](a-osats-delphi-consensus-development.md) — related
+- [An international Delphi panel of 19 experienced urologists reached consensus on a reference set of RARP performance metrics](delphi-consensus-rarp-metrics.md) — related

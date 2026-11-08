@@ -48,3 +48,4 @@ Logbook analysis of first IJV insertions (OT+ n = 19, OT- n = 21) found "no diff
 - [A single simulation session with at least one hands-on simulator practice did not produce competence in IJV catheter insertion](single-simulation-session-no-expertise-cvc.md) — related
 - [Observer tool use showed no benefit on composite learning score retention at 1 month after CVC simulation training](observer-tool-no-one-month-retention-benefit.md) — related
 - [Using a procedural task-based observer tool during CVC simulation training did not improve the immediate composite learning score of incoming anesthesia residents](observer-tool-no-immediate-composite-score-benefit.md) — related
+- [Failure rate of ultrasound-guided internal jugular CVC placement does not differ between non-proficient and proficient residents under direct consultant supervision](cvc-failure-rate-proficiency-no-difference.md) — related

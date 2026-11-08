@@ -47,6 +47,7 @@ The article recommends implementing WBAs through participatory training of both 
 ## Related Strategies
 
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
+- [Have trainees choose critical respondents and train respondents in giving MSF feedback to strengthen narrative feedback quality](assessor-choice-and-training-strategy.md)
 
 ## Examples
 -

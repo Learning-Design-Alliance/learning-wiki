@@ -179,3 +179,5 @@ The review reports countervailing findings in the same category, including that 
 - [Dental students rated their communication skills slightly but not significantly higher after targeted communication training with simulated patients, in one uncontrolled pre-post study, although the abstract reports a significant improvement](targeted-training-simulated-patients-improved-communication-skills.md) — a narrower finding that bears on this claim
 - [Blended simulation using virtual environments and simulated patients improved students' patient communication on placement](blended-simulation-improved-patient-communication.md) — related
 - [Diagnostic accuracy in standardized role-plays at 16 months was 78.1% in RESHAPE versus 66.7% in control in a pilot trial](reshape-roleplay-diagnostic-accuracy.md) — related
+- [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](peer-roleplay-null-domains-mini-cex.md) — related
+- [Role-play scores did not correlate with next-day patient-encounter scores when the complaint was the same](same-complaint-no-correlation-roleplay-encounter.md) — related

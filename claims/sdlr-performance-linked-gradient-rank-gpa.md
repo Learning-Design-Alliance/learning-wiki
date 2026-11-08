@@ -71,3 +71,4 @@ One-way ANOVA across self-reported GPA terciles (n = 546). Domain analyses confi
 - [Planning and implementation is the strongest positive SDL-R predictor of preclinical GPA, with the four domains explaining 22.2% of GPA variance in Year 1 and 9.0% in Year 2](planning-implementation-strongest-gpa-predictor.md) — related
 - [Grade effects of GenAI availability do not differ across terciles of students' prior academic preparation, robust across multiple ability proxies](null-grade-effects-across-prior-performance-terciles.md) — related
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
+- [Students' perceived effectiveness of e-learning was not associated with their e-learning readiness scores overall or in any domain](e-learning-readiness-not-associated-perceived-effectiveness.md) — related

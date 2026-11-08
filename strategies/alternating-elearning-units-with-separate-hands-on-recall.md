@@ -46,7 +46,8 @@ An implementable session recipe for blended medical device training: divide the 
 - [Providing a syringe pump during e-Learning and instructing trainees to repeat the presented content does not improve procedural skills, knowledge, confidence, or assistance needs compared with e-Learning only](../claims/concurrent-hands-on-repeat-no-benefit.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 
 ## Examples
 -

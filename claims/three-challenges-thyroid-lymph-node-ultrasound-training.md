@@ -48,3 +48,4 @@ The authors' own review of prior trainee performance, reported in the Introducti
 ## Related Claims
 - [Teaching color Doppler twinkle artifact improved cannulation time with a positive but non-significant impact on success rate](color-doppler-twinkle-artifact-improves-cannulation-time.md) — related
 - [Common delineation errors centered on lymph node regions, anatomical barriers, tumor motion, and over-inclusion of non-target anatomy, with site-specific frequencies](common-delineation-errors-lymph-nodes-motion-overinclusion.md) — related
+- [Comparison studies from two decades ago found ultrasound-operator proficiency mattered for success, consistent with modern imaging reducing the skill gap](modern-ultrasound-imaging-narrows-operator-skill-gap.md) — related

@@ -55,3 +55,4 @@ Expert panel evaluation during instrument development. Six experts (public healt
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
+- [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related

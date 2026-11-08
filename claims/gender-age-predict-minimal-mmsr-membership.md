@@ -52,3 +52,4 @@ Latent multinomial logistic regression via the manual BCH method with profile 3 
 - [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related
 - [Higher self-rated Japanese proficiency, more frequent AI use, and prior AI-related training predicted membership in the positive versus maladaptive adaptation profile at Time 1](background-variables-predict-initial-adaptation-profile.md) — related
 - [Being female is associated with higher odds of membership in the positively oriented profiles](female-gender-associated-with-positive-profiles.md) — related
+- [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — reports the opposite

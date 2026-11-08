@@ -52,3 +52,4 @@ Post-simulation descriptive statistics and Kruskal–Wallis comparisons across a
 - [Confidence, risk-recognition and trauma-management scores differed significantly across study years, with senior students (Year VI) outperforming earlier years](study-year-differences-senior-students-higher.md) — related
 - [Simulation design and educational practice scores increase with academic year, with first-year students lowest and fourth-year students highest](scores-increase-with-academic-year.md) — possibly the same claim (merge candidate)
 - [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related
+- [Total SCLS scores differed significantly by teaching shift and academic year, with morning-shift and second-year students scoring higher](scls-scores-shift-and-academic-year-differences.md) — reports the opposite

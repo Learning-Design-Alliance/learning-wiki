@@ -57,6 +57,7 @@ The article recommends embedding structured non-technical skills training in sim
 - [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 - [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 - [Apply evidence-based NTS stressors — inexperienced theatre staff and a conscious, anxious patient — within surgical simulation scenarios](nts-stressors-in-simulation-scenarios.md)
+- [Use a validated debriefing framework such as the 'Diamond' framework and extend debriefing to the operating room to support NTS skill retention](validated-debriefing-framework-diamond-nts.md)
 
 ## Examples
 -

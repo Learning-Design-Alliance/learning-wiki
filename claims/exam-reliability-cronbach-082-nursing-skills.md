@@ -49,3 +49,4 @@ Methods-section report on the multiple-choice theoretical exam and OSCE checklis
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
 - [The level determination exam (DBS) used to check prior knowledge showed high internal consistency (0.822)](dbs-level-determination-exam-reliability.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [The conversational VP exam is reliable, averaging Cronbach's alpha of 0.86 across five years of exams](vp-exam-reliability-cronbach-086.md) — related

@@ -52,3 +52,4 @@ Structural equation modeling of multi-item scales (4 items per emotion per domai
 - [Between-domain relations of academic emotions are weaker in Grade 11 than Grade 8, indicating increasing domain differentiation with age](between-domain-emotions-weaker-with-grade-level.md) — related
 - [The strength of within-domain relations among academic emotions differs considerably across school subjects, strongest in mathematics and weakest in German](within-domain-emotion-relations-differ-across-domains.md) — related
 - [Within-domain relations of academic emotions are stable across grade levels, with no significant differences between Grade 8 and Grade 11](within-domain-relations-stable-across-grades.md) — related
+- [Anxiety weakly positively correlated with semester achievement in all subjects, but at the state exam only for Latvian language](weak-positive-anxiety-semester-correlation.md) — related

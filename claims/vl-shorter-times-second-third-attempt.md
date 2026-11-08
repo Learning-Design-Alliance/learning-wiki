@@ -49,3 +49,4 @@ T-test on average intubation times in the mannequin study of 130 students. The M
 - [Intubation success rates increase and intubation times decrease across successive attempts for both DL and VL methods](success-rises-times-fall-across-attempts.md) — related
 - [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related
 - [Regression analysis shows DL's success rate increases more steeply with attempts (slope 0.215) than VL's (slope 0.131), while VL starts higher (intercept 0.531)](dl-steeper-success-slope-regression.md) — related
+- [Seniority showed no main effect on intubation time, but seniority interacted with device: attending physicians were faster than medical students with direct laryngoscopy and Glidescope](seniority-device-interaction-intubation-time.md) — related

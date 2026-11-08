@@ -69,3 +69,4 @@ Same CEQ analysis; the two remaining dimensions "did not differ between the FC a
 - [Flipped classroom residents reported significantly higher overall satisfaction with teaching than lecture-based residents](fc-higher-overall-teaching-satisfaction.md) — related
 - [Students rate the BLS classroom course very positively, with majorities reporting clear objectives, appropriate difficulty and preparedness to respond to emergencies](bls-course-feedback-positive-ratings.md) — related
 - [Student satisfaction was significantly lower in the flipped classroom group than in the lecture group on course content, learning, prepared content, and total satisfaction](flipped-classroom-lower-satisfaction-than-lecture.md) — related
+- [No learning environment scale was associated with occupational therapy students' exam grades](learning-environment-not-associated-grades-ot.md) — related

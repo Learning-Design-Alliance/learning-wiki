@@ -51,3 +51,5 @@ Prospective observational cohort of 106 preclinical medical students followed ac
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
 - [Living with one's family is associated with increased odds of a high GPA among Saudi physical therapy students](living-with-family-higher-odds-high-gpa-saudi-pt-students.md) — related
 - [Higher GPA rankings are associated with higher JHLES scores among Chinese medical students (p < 0.001)](gpa-ranking-associated-with-jhles-scores.md) — related
+- [Among low-performing medical undergraduates (lower GPA quartile), low optimism, low resilience and high perceived stress predict poor academic performance](low-optimism-low-resilience-high-stress-predict-poor-gpa-medical-students.md) — related
+- [High academic performance (upper GPA quartile) in medical undergraduates is not predicted by self-efficacy, optimism, resilience or perceived stress](psychological-variables-do-not-predict-high-gpa-upper-quartile.md) — related

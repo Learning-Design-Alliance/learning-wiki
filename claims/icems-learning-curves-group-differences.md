@@ -49,3 +49,4 @@ Friedman's test learning-curve analysis across five practice repetitions in the 
 - [Real-time AI feedback produces significantly better composite performance than both post hoc feedback and in-person expert instruction by the fifth practice repetition](icems-realtime-ai-outperforms-expert-composite-fifth-task.md) — related
 - [Residents reached the expert benchmark on small-intestine suturing after a median of 11 repetitions, with a plateau after roughly 11 repetitions](rostrac-learning-curve-suturing-plateau.md) — related
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
+- [Scrub nurses' iVR learning curves showed no average plateau across the three assessments, though the best performers began plateauing by the third assessment on time, prompts and errors](ivr-learning-curve-no-plateau.md) — related

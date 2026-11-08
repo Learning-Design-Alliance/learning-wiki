@@ -59,3 +59,4 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 - [Complete pictorial comprehension (imaginative insight) emerges only around adolescence, with earlier ages showing enumeration, description, and superficial unification](pictorial-comprehension-stages-by-age.md) — related
 - [Young students' age-related cognitive capacities and self-regulatory strategies are proposed as potential boundary conditions limiting their benefit from Productive Failure](age-related-boundary-conditions-productive-failure.md) — related
 - [Model-based learning emerges in adolescence in standard paradigms but 5-year-old children use it in simplified paradigms with higher rewards](model-based-learning-paradigm-moderation.md) — related
+- [Neither sex nor age was significantly associated with executive function scores in the 6–9-year-old sample](sex-age-not-associated-executive-functions.md) — related

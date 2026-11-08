@@ -53,3 +53,4 @@ Cross-sectional questionnaire study of 290 students at Jiroft University of Medi
 - [Sense of coherence correlates positively with GPA among medical and nursing students (r = 0.519)](soc-positive-correlation-gpa-medical-nursing.md) — related
 - [All three academic enthusiasm dimensions significantly predict academic performance, led by cognitive enthusiasm (β = 0.662)](enthusiasm-dimensions-predict-performance-jiroft.md) — related
 - [Social well-being is weakly, positively, and significantly correlated with academic motivation among medical sciences students](social-well-being-correlates-weakly-with-academic-motivation.md) — related
+- [Cognitive learning strategy use positively predicts medical students’ academic performance (GPA) in online learning](cls-positive-predicts-gpa-medical-students.md) — related

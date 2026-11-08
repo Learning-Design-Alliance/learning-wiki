@@ -55,3 +55,4 @@ Multinomial logistic regression results for background variables; sex was signif
 - [Student perceptions of school racial stereotyping are not directly associated with racial-mathematical profile membership](stereotyping-not-associated-with-profile-membership.md) — related
 - [Profile membership related to mathematics test scores at both T1 and T3, with Positive-profile students scoring highest](profile-membership-main-effect-maths-scores.md) — related
 - [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — related
+- [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — related

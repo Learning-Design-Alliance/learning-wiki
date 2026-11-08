@@ -51,3 +51,4 @@ Consequences analysis comparing pass/fail levels from contrasting-groups' method
 - [APM and surgical gesture assessment show moderate agreement in simulated RARP, with an overall ICC of 0.70 (95% CI 0.34–0.88)](apm-gestures-moderate-agreement-icc-070.md) — related
 - [APM and surgical gesture assessment methods are, as of now, only available to a limited extent in the clinical setting](apm-gestures-limited-clinical-availability.md) — related
 - [Gesture usage correlates with DART technical skills scores, with retraction proportion negatively associated with total DART score](gestures-correlate-dart-scores.md) — related
+- [Very experienced RARP surgeons made 72% fewer procedure errors than novices in blinded video-based assessment](ves-fewer-errors-than-novices.md) — related

@@ -68,3 +68,4 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [Most nurse educators in the validation sample lacked required pedagogical training for their role](nurse-educators-lack-pedagogical-training.md) — related
 - [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related
 - [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related
+- [The nine-factor biology attitude scale shows internal consistency reliability above 0.7 for all factors for both women and men in both teaching methods](nine-factor-attitude-scale-reliability-above-0-7.md) — related

@@ -48,6 +48,7 @@ The article structures its blended sim-lab module into five sequential parts: pr
 
 - [Hybrid sim-lab teaching-practicing module for ultrasonic supragingival scaling (lecture, demonstration, remote guidance)](hybrid-sim-lab-teaching-practicing-module.md)
 - [Four-phase blended FC/TPS design with authentic prescriptions and gamification](fc-tps-four-phase-blended-design.md)
+- [Five-phase guided self-study procedure for higher education](five-phase-guided-self-study-procedure.md)
 
 ## Examples
 -

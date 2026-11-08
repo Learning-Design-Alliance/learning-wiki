@@ -62,3 +62,4 @@ Generalized linear mixed model predicting isomorphic exam performance from coded
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — related
 - [Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile](clicker-presence-predicts-homework-explanation-quality.md) — related
 - [Students who discussed the prompts answered them more often and gave more domain-related answers, and domain-relatedness predicted learning gain](domain-related-prompt-answers-predict-learning-gain.md) — related
+- [PeerWise answering benefits were significant only for students in the higher two Stage 3 ability quartiles](peerwise-benefit-limited-to-upper-ability-quartiles.md) — related

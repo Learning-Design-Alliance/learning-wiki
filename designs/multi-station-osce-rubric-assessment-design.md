@@ -42,7 +42,8 @@ The OSCE design used multiple stations combining nursing procedures and written 
 - 
 
 ## Related Designs
-- 
+
+- [Multi-station clinical skills competition pattern combining operative-skill stations, a knowledge quiz, expert refereeing, and digital scoring](multi-station-clinical-skills-competition-pattern.md)
 
 ## Examples
 -

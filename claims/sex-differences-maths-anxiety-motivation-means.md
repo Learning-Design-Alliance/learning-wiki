@@ -71,3 +71,5 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Male students report higher innovativeness, academic resilience, and academic performance than female students, with only a small gender gap in DL self-efficacy](gender-differences-innovation-resilience-performance.md) — related
 - [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](female-and-high-trait-anxiety-higher-state-anxiety.md) — related
 - [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](sex-female-advantage-not-mathematics.md) — related
+- [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — related
+- [Performance metrics did not differ by sex, self-identified hobbies, or correlate with age, caffeine, or sleep](no-performance-differences-demographics-behaviors.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-23
+source_checked: 2026-11-08
 sources:
   - id: elena-savina-2025
     resource: "https://doi.org/10.1007/s10648-025-10018-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior studies of pre-service and in-service teacher emotional training, including mindfulness-based programs, report positive outcomes in teachers' ability to deal with their own and students' emotions and reduced stress and burnout. [→ Elena Savina 2025](#elena-savina-2025)

@@ -55,3 +55,5 @@ Randomized controlled study of 20 undergraduate medical students; the SawBone he
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
 - [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — related
 - [The article reports, citing prior systematic review evidence, that haptic-enhanced VR simulation is significantly more effective than simulation without haptics for surgical skill training, particularly in novices](haptic-enhanced-vr-more-effective-skill-training.md) — reports the opposite
+- [Physicians trained with a VR dental implant system rate their grasp of the simulator significantly higher than conventionally trained peers across five assessment dimensions](vr-dental-implant-training-higher-subjective-scores.md) — related
+- [VR-based surgical simulation addresses the non-reusable and expensive nature of physical oral implant training materials](vr-simulation-avoids-physical-material-waste.md) — related

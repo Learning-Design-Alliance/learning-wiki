@@ -51,3 +51,5 @@ Observational reflection (SF1 section) on the conditions of teacher support from
 - [Level of preparedness was not a direct indicator of a simple transition to ERT](preparedness-not-direct-indicator-ert-transition.md) — related
 - [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related
 - [Five themes characterized K-12 teachers' perspectives of the post-COVID 'new normal', including more online or blended learning and uncertainty about what it would look like](new-normal-perspectives-five-themes.md) — related
+- [The shift to e-learning substantially increased instructors' workload and caused psychological stress for a minority of teachers](e-learning-increased-instructor-workload-stress.md) — related
+- [The pandemic sharply increased ICT experts' workload, who had to procure, update, and support e-learning platforms and train instructors](ict-expert-workload-surge-platform-support.md) — related

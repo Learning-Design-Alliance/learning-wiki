@@ -54,3 +54,4 @@ Peg-transfer FLS results from the ten-surgeon crossover simulation study; median
 - [Physiological stress and subjective fatigue changes did not differ significantly between robotic and laparoscopic approaches, though trends favored the robotic approach](hinotori-stress-fatigue-no-significant-difference.md) — related
 - [No significant differences in rating-scale or TABLT task-performance scores were observed among the five STALS batches](stals-no-batch-differences-task-scores.md) — related
 - [Overall laparoscopic and robotic simulator peg transfer scores do not differ significantly among novice medical students](no-overall-ls-rs-score-difference-peg-transfer.md) — possibly the same claim (merge candidate)
+- [Laparoscopy learning follows an inverse learning curve with most gains in the first few repetitions](laparoscopy-inverse-learning-curve-early-gains.md) — related

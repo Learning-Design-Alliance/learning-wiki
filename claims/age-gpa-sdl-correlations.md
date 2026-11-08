@@ -52,3 +52,4 @@ Pearson correlation analysis in the same cross-sectional study of 300 nursing st
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
 - [Self-efficacy for learning estimated by IRT was not significantly correlated with one-time exam scores or full-range GPA, but showed a weak positive correlation with GPA among students with positive SEL](sel-gpa-positive-range-correlation.md) — related
 - [High school grades show a moderate positive correlation with dental students' GPA (r = 0.328)](high-school-grades-moderate-positive-correlation-dental-gpa.md) — related
+- [Age shows a moderate positive correlation with MEQ scores, while high school graduation grade and self-efficacy show no significant correlation](age-correlates-meq-grades-selfefficacy-do-not.md) — related

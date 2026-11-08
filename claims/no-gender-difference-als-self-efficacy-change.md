@@ -46,3 +46,4 @@ Secondary analysis comparing CSES percentage change between genders among the 80
 
 ## Related Claims
 - [Scenario-based ALS simulation training produces a significantly higher increase in combined self-efficacy perception than regular internship alone in final-year medical students](als-simulation-raises-self-efficacy-perception.md) — related
+- [No significant gender differences in self-efficacy, optimism, resilience, perceived stress or GPA among medical undergraduates](no-gender-differences-psychosocial-variables-gpa.md) — related

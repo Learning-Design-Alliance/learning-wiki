@@ -47,3 +47,4 @@ Per-exercise analysis of entry vs exit examinations (Table 4, Welch's t-test). P
 ## Related Claims
 - [All three simulators trained the same basic laparoscopic skills efficiently, but path-length improvement did not reach significance in the LaparoS-first group](all-three-simulators-efficient-path-length-mixed-laparos.md) — related
 - [Secondary motion parameters show a mixed pattern: digitally trained novices used shorter path length in suturing, but greater left-hand motion volume in circle cutting and lower depth perception in balloon resection](digital-training-secondary-motion-parameters-mixed.md) — related
+- [Knot quality improved much more slowly than time efficiency in laparoscopic knotting training](knot-quality-improves-slower-than-time-efficiency.md) — related

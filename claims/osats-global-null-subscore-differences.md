@@ -87,3 +87,4 @@ Correlational analysis across the 70 randomized students linking completion of V
 - [Real-time AI feedback yields similar blinded OSATS overall ratings to in-person expert instruction and significantly higher ratings than post hoc feedback](icems-osats-similar-to-expert-higher-than-posthoc.md) — related
 - [Virtual reality training improves economy-of-movement and error global rating scores compared with no additional training in one RCT](vrt-improves-grantcharov-grs-domains.md) — related
 - [VOA-trained students achieved significantly higher Expertise Scores in the realistic (transfer) resection than instructor and control groups](voa-higher-realistic-resection-expertise.md) — related
+- [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related

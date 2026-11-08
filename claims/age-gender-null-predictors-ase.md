@@ -51,3 +51,4 @@ Covariate analysis within the SEM of the 450-student sample, with age and gender
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — reports the opposite
 - [Age and sex do not significantly predict academic self-efficacy or CGPA in the conditional process models](age-sex-nonsignificant-ase-cgpa.md) — a broader claim this one bears on
 - [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](sex-female-advantage-not-mathematics.md) — related
+- [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — related

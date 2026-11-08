@@ -52,3 +52,4 @@ Multi-group RI-CLPM analyses by sex, evaluated with the Satorra–Bentler chi-sq
 - [In boys, academic achievement at age 6 anomalously predicted higher social withdrawal at age 8](boys-achievement-age6-predicts-higher-withdrawal.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — reports the opposite
 - [Formal tests did not indicate statistically significant gender differences in the MVPA-related associations](no-significant-gender-difference-mvpa-paths.md) — related
+- [The association between school ethos and student outcomes does not differ between boys and girls](no-gender-moderation-ethos-outcomes.md) — related

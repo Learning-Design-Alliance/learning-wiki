@@ -48,3 +48,4 @@ After-test group comparisons in the same three-group experiment. "significantly 
 - [At the baseline-test, self-assessment groups showed significantly better off-screen, acceleration and smoothness than the control group](sa-better-secondary-parameters-baseline.md) — related
 - [In all three groups, time decreased and smoothness values rose significantly from pre-test to later tests, with no significant group differences in handedness or distance between instrument tips](within-group-improvement-all-groups.md) — related
 - [Self-assessment frequency (periodic vs continuous vs none) produced no significant between-group differences in laparoscopic suturing time or distance across tests](sa-frequency-no-difference-time-distance.md) — related
+- [Laparoscopic learning curves follow an exponential decay shape, with efficiency learned faster than precision](laparoscopic-learning-curves-exponential-decay.md) — related

@@ -79,6 +79,7 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 
 - [NCSBN Clinical Judgment Measurement Model (NCJMM)](ncsbn-clinical-judgment-measurement-model-ncjmm.md)
 - [Study-specific BOPPPS cognitive performance questionnaire](study-specific-boppps-cognitive-performance-questionnaire.md)
+- [PREPARED model](prepared-model.md)
 
 ## Key Sources
 - Li Shuze, Wei Wei, Li Xiaofeng, Ma Li, Li Qiujuan, Sun Xiance, Chen Xin. (2024). Impacts of blended learning with BOPPPS model on Chinese medical undergraduate students: a comprehensive systematic review and meta-analysis of 44 studies. BMC Medical Education. https://doi.org/10.1186/s12909-024-05917-x

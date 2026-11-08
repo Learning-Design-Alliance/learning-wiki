@@ -55,3 +55,4 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](mpa-vpa-null-cognitive-academic.md) — related
 - [Fitness mediates the association between vigorous physical activity and academic performance, although the direct VPA–grades association was not significant and the test was post hoc](fitness-mediation-vpa-grades.md) — related
 - [A 10-minute increase in daily school-day MVPA has a significant positive indirect association with math, writing, and spelling grades through cardiorespiratory fitness](mvpa-indirect-positive-cardiorespiratory-fitness.md) — related
+- [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — related

@@ -70,3 +70,4 @@ Random-effects pooled comparison for mathematical fluency from aggregated sample
 - [Mathematics impairments are more pronounced than reading deficits for extremely preterm children, and deficits appear across all gestational age strata including late preterm](preterm-deficits-gestational-age-strata.md) — related
 - [Children born preterm score significantly lower than term-born peers on aggregate standardized mathematics measures, with a larger pooled deficit than for reading](preterm-aggregate-mathematics-deficit.md) — a broader claim this one bears on
 - [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related
+- [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related

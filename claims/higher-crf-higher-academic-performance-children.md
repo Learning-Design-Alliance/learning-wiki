@@ -54,3 +54,4 @@ Cross-sectional linear regression in the same multi-country sample (valid sample
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related
 - [Laboratory-based lower-limb muscular strength (1-RM leg press) is associated with mathematics skills and persists after adjustment for BMI and cardiorespiratory fitness](leg-press-mathematics-association-persists-adjustment.md) — related
 - [A 1-year school-based karate intervention improved cardiorespiratory fitness more than traditional PE lessons](karate-intervention-improves-cardiorespiratory-fitness.md) — related
+- [Cardiorespiratory fitness is positively associated with mathematics grades in children aged 8–12](crf-associated-math-grades-children.md) — possibly the same claim (merge candidate)

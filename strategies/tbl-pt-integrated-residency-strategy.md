@@ -55,6 +55,7 @@ The article's TBL+PT intervention combines TBL's readiness-assurance structure w
 ## Related Strategies
 
 - [Implement TBL for chest radiograph interpretation using pre-class recordings, readiness assurance tests, and the 4S framework](tbl-chest-radiograph-session-implementation-strategy.md)
+- [Use team-based learning with iRAT/tRAT readiness assurance to build ACP knowledge before skills practice](tbl-readiness-assurance-acp-knowledge-strategy.md)
 
 ## Examples
 -

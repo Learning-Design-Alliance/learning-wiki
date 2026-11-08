@@ -73,3 +73,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [All four tested participants found the VR microscope appearance realistic and satisfied with VR graphics, requiring no appearance updates across design iterations](surgisim-microscope-appearance-realistic.md) — related
 - [None of the participants found VR microscope maneuvering realistic and all reported they would not use the platform in its current state for microscope training, prompting a weight-based lock solution](surgisim-microscope-maneuverability-lock-solution.md) — related
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
+- [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related

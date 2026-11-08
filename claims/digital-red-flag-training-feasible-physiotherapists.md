@@ -49,3 +49,4 @@ Feasibility outcome of a randomised mixed-methods feasibility study in which 30 
 - [Physiotherapists held mixed opinions on the relevance of e-learning content on red flags, spinal pathologies, and pain mechanisms](mixed-views-red-flags-spinal-pathology-content.md) — related
 - [High early dropout (65% after the first registration page) means feasibility findings may reflect a self-selecting subset](early-dropout-limits-feasibility-interpretation.md) — related
 - [Physiotherapists preferred digital learning materials of 6 to 15 minutes, longer than the under-6-minute guideline for educational videos](preferred-video-length-6-15-minutes-physiotherapists.md) — related
+- [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related

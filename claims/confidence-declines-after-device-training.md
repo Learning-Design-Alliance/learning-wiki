@@ -69,3 +69,4 @@ Experiment 2 (56 participants) replicated the confidence decline, "p < 0.001; η
 - [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related
 - [Two versions of a retrieval-practice intervention left students with equal declarative metacognitive knowledge about retrieval practice, which declined over three weeks regardless of version](declarative-knowledge-no-version-difference-declines.md) — related
 - [Self-reported confidence gains from on-call simulation may not persist: at 6-month follow-up, confidence was lower than immediately after simulation](confidence-gains-decline-six-months-followup.md) — related
+- [In final simulation scenarios, physicians were slow to complete critical actions and commonly failed to provide adequate patient support](simulation-scenario-critical-action-times-ecmo.md) — related

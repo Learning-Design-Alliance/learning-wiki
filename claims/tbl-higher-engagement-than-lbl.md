@@ -53,3 +53,4 @@ Pooled analysis of three studies measuring classroom engagement, using a random-
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [TBL students achieve significantly higher pre-test scores than LBL students after team-based preparation](tbl-higher-pre-test-scores-than-lbl.md) — related
 - [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related
+- [TBL students report significantly higher classroom engagement than LBL students across all three class sessions](tbl-higher-classroom-engagement-than-lbl.md) — possibly the same claim (merge candidate)

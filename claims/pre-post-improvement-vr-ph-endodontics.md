@@ -52,3 +52,4 @@ Randomized controlled trial of 30 fourth-year preclinical dental students (15 VR
 - [VR training produces statistically comparable performance outcomes to phantom head training in minimally invasive endodontics (no significant main effect of training method)](vr-comparable-phantom-head-training-endodontics.md) — related
 - [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — related
 - [VR simulation is rated highly effective for distinguishing tooth textures and more engaging than manikin training](vr-engagement-tactile-tooth-texture.md) — related
+- [Photodocumentation completeness improved in both feedback and control groups, but gastroscopic inspection time did not improve in either](endo-adm-photodoc-improved-inspection-time-not.md) — related

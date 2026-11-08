@@ -49,3 +49,4 @@ Cross-sectional survey of 2653 Chinese students analysed with binary logistic re
 - [Meeting the PA guideline is associated with above-average achievement in both genders, but with no academic burden only in girls](mvpa-achievement-burden-gender-moderation.md) — a narrower finding that bears on this claim
 - [Children and adolescents who meet the WHO PA guideline are more likely to report no academic burden than those who do not](mvpa-meeting-guidelines-no-academic-burden.md) — related
 - [Meeting the PA guideline is associated with above-average achievement and no academic burden only in middle school students, not primary or high school students](mvpa-middle-school-only-association.md) — a narrower finding that bears on this claim
+- [Meeting national physical activity guidelines is prospectively associated with slightly lower, trivially so, English and Math grades](pa-guidelines-trivial-negative-grades.md) — reports the opposite

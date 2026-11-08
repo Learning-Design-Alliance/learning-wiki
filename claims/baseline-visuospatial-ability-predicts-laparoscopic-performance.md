@@ -80,3 +80,4 @@ Pearson correlations at baseline (T1) between the 3D visuospatial T-score and la
 - [Higher pre-training apparel spatial visualization skill predicted larger fit correction skill gains from the PBL-VR training](asvt-pretest-predicts-fcst-gain.md) — a narrower finding that bears on this claim
 - [Structured VR simulator training significantly increases visual spatial ability scores compared with no training](vr-training-increases-vsa-scores.md) — related
 - [VSA predicts training progress in VR simulator tasks, particularly at the beginning of the learning phase](vsa-predicts-training-progress.md) — related
+- [On a novel, spatially complex laparoscopic task, visual-spatial ability and perceived task demands predict performance beyond viewing mode](visual-spatial-ability-predicts-novel-task.md) — related

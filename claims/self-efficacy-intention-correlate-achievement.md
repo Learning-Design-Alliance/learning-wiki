@@ -47,3 +47,4 @@ Bivariate analysis (Table 2) of the two-wave sample, using Pearson and Spearman 
 ## Related Claims
 - [Self-efficacy and intention sequentially mediate the relationship between parenting style and academic achievement six months later](serial-mediation-self-efficacy-intention-parenting-achievement.md) — related
 - [Academic self-efficacy and academic buoyancy each positively predict mathematics performance, with buoyancy the stronger path](ase-ab-predict-math-performance.md) — related
+- [Changes in attitude, social norms, and intention were not significantly associated with changes in academic achievement](attitude-norms-intention-change-null-achievement.md) — related

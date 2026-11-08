@@ -52,3 +52,4 @@ Single-group pre-post study of 25 CPMDRs; paired-sample t-tests compared pre- an
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related
 - [ePHR task completion times fell from pre-test to post-test in both age groups after one week of ePA Coach use, in a pre-post study with no comparison group](epa-coach-skill-time-reduction.md) — related
 - [Medical students' task completion times on all four trained laparoscopic tasks decreased significantly from pre-test to post-test after a hands-on laparoscopic training workshop, in one uncontrolled pre-post study](laparoscopic-workshop-reduced-task-completion-times.md) — related
+- [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related

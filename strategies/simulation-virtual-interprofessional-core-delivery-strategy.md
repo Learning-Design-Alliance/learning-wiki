@@ -17,7 +17,7 @@ sources:
 # Use realistic simulations, virtual technologies, and interprofessional exercises as core delivery methods for disaster preparedness training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 10 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 3 studies (2 review, 1 causal), `q2` · 0 of 3 report an effect size · 9 claims rest on one study
 
 ## Description
 The review's synthesis found that "Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises were most effective in improving technical skills, confidence, and crisis management." This strategy recommends designing disaster preparedness education around these delivery methods, complemented by "experiential learning and integration of psychological preparedness" which the review identifies as common elements across effective programs.

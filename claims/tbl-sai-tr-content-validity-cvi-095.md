@@ -51,3 +51,4 @@ Content validity assessment using the Davis technique with 11 experts (nursing f
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
 - [The Turkish TBL-SAI shows high internal consistency with a Cronbach's α of 0.90 after item refinement](tbl-sai-tr-cronbach-alpha-090.md) — related
 - [TBL-SAI-TR scores correlate strongly with self-directed learning scores, supporting criterion validity](tbl-sai-tr-criterion-validity-self-directed-learning.md) — related
+- [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related

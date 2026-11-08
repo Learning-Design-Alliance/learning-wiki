@@ -49,3 +49,4 @@ Randomized controlled study of 690 first-year MBBS students (control n=370, inte
 - [E-module benefits were largest among medium academic achievers, who improved significantly across all assessed domains](e-modules-largest-gains-medium-achievers.md) — a narrower finding that bears on this claim
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
+- [Focus-group content analysis finds flexible e-learning video students describe cognition at four revised Bloom's taxonomy levels versus three for lecture students](elearning-video-bloom-taxonomy-levels.md) — related

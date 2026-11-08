@@ -57,3 +57,4 @@ In the randomized study's 30:2 test, ventilation target compliance was 0% in bot
 - [Compression-to-ventilation ratio is the only core CPR indicator with no significant theory–practice difference](cpr-ventilation-ratio-no-theory-practice-gap.md) — related
 - [Manikin-measured ventilation time is stable from immediately after the course to 6 months, while appropriate ventilation rates show no significant change](venc-manikin-ventilation-stable.md) — related
 - [Vortex-trained students more often successfully ventilated the patient with a face mask (82.4% vs 55.6%, P=0.04) and no Vortex-group participant failed to ventilate with any device](vortex-better-face-mask-ventilation.md) — related
+- [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — related

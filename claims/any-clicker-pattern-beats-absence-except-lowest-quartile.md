@@ -78,3 +78,4 @@ Exploratory quartile analysis of the same comparison; the lowest-quartile studen
 - [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — related
 - [Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
+- [PeerWise answering benefits were significant only for students in the higher two Stage 3 ability quartiles](peerwise-benefit-limited-to-upper-ability-quartiles.md) — related

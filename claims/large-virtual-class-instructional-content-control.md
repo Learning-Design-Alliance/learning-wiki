@@ -58,3 +58,4 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [A multidisciplinary e-learning team allowed 22 lecturers to teach 933 students, roughly half the staff a face-to-face approach would require](e-learning-team-halves-lecturer-workload-large-class.md) — related
 - [Students reported gaining research competencies from the online course, though some found online delivery unsuited to some content](students-gained-research-competencies-online-course.md) — related
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
+- [Pre-prepared flipped course material enabled uninterrupted online delivery of the dental materials course during the COVID-19 pandemic](fc-material-enabled-covid-online-delivery.md) — related

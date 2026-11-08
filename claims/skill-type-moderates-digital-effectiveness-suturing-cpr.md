@@ -58,3 +58,4 @@ Narrative synthesis across included randomised trials (e.g. Nathan 2022; Cho 202
 - [Physical simulator training improved suturing and knot-tying performance versus conventional methods in a cited randomized controlled trial](physical-simulator-suturing-knot-tying-rct.md) — related
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
 - [Students reported improved confidence in instrument handling, cable knot tying and suture tying after the virtual session](virtual-session-confidence-gains-surgical-skills.md) — related
+- [Prior evidence suggests IVR training can outperform video demonstration for surgical skill acquisition, though in a different procedural domain](ivr-outperforms-video-for-skill-acquisition-background.md) — related

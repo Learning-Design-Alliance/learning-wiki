@@ -56,3 +56,4 @@ Within-group pre/post comparison in the VR-trained subgroup (n = 22) using a 15-
 - [Both groups improved theoretical knowledge significantly from baseline, with no statistically significant difference between the online-only and VR groups](online-module-knowledge-gains-no-vr-difference.md) — related
 - [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related
 - [Nurses' poststroke depression knowledge scores rose significantly from 62.5 to 86.07 out of 100 after the education program](psd-nurse-knowledge-score-increase.md) — related
+- [Knowledge test scores increased significantly post-course, from a mean of 11.4 to approximately 13 out of 15 points (p<0.001)](simulation-ecmo-course-improves-knowledge-test-scores.md) — related

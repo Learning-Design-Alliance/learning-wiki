@@ -48,3 +48,4 @@ Phase 2 secondary analysis of textbook-derived single-choice items coded by thre
 ## Related Claims
 - [6,000-token segmentation outperformed both larger 20,000-token segments and unsegmented full-chapter input on specialised exam accuracy](six-thousand-token-segments-outperform-large-and-full-chapter-inputs.md) — related
 - [Segmenting domain content into moderate token chunks significantly improves GPT-4.1 accuracy on specialised medical board questions compared with no prior content input](token-splitting-improves-gpt41-specialised-exam-accuracy.md) — related
+- [Focus-group content analysis finds flexible e-learning video students describe cognition at four revised Bloom's taxonomy levels versus three for lecture students](elearning-video-bloom-taxonomy-levels.md) — related

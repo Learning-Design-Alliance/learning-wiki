@@ -50,3 +50,4 @@ In a between-subjects experiment (N = 997) simulating a high-stakes unproctored 
 - [With academic integrity reminders present, the exam-format effect on cheating rate disappears (Study 3 null)](reminders-eliminate-exam-format-rate-effect.md) — related
 - [Pre-exam academic integrity reminders significantly reduce cheating rates relative to no reminders, equally for both exam formats](integrity-reminders-reduce-cheating-rate.md) — related
 - [Anti-cheating interventions do not significantly affect test-taking self-efficacy](interventions-no-self-efficacy-effect.md) — related
+- [No e-learning assessment method guarantees prevention of online cheating, and specific assessment strategies were proposed to minimize it](no-guarantee-against-online-cheating-assessment-strategies.md) — a broader claim this one bears on

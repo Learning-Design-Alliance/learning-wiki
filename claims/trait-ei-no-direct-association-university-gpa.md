@@ -80,3 +80,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Self-efficacy for learning estimated by IRT was not significantly correlated with one-time exam scores or full-range GPA, but showed a weak positive correlation with GPA among students with positive SEL](sel-gpa-positive-range-correlation.md) — related
 - [None of the assessed non-academic constructs (EI, motivation, self-esteem, attitudes towards science, perceived personal incompetence) predicted final medical school GPA](non-academic-constructs-did-not-predict-gpa.md) — related
 - [Ability-based emotion regulation scenarios explain more variance in future academic performance than the trait self-questionnaire (1.54% vs 0.38%)](ability-scenarios-beat-trait-scale-t3-gpa.md) — reports the opposite
+- [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related

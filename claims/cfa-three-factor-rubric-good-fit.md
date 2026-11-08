@@ -52,3 +52,4 @@ CFA on N = 190 ratings (KMO = 0.746; Bartlett's χ2 = 142.34, df = 15, p = 0.001
 - [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
 - [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related
+- [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related

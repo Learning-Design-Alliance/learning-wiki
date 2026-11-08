@@ -93,6 +93,7 @@ Peer observation works by making the normally private, tacit dimensions of teach
 - [Peer teaching and debrief of curriculum lessons within teacher professional development workshops](peer-teaching-debrief-in-pd-workshops.md)
 - [Run meta-debriefing clubs as communities of practice where debriefers critically review audiovisual footage of previous debriefings](meta-debriefing-club-community-of-practice.md)
 - [Use DART tallies as a conversational substrate for peer feedback and coaching of debriefers](dart-tally-peer-feedback-strategy.md)
+- [Use the FQI to structure educator professional development on feedback, including colleague observation and video clubs](fqi-video-club-professional-development.md)
 
 ## Examples
 - A mathematics department runs reciprocal observations focused on questioning techniques; each teacher is observed twice per term with a shared protocol, and debriefs feed into department meetings.

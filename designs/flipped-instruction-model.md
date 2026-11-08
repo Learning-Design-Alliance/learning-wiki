@@ -43,7 +43,8 @@ The flipped or inverted classroom is defined as "the practice of moving the lect
 - [Flipped Courses No Performance Reduction](../claims/flipped-courses-no-performance-reduction.md) [+M]
 
 ## Related Designs
-- 
+
+- [Flipped learning as an instructional approach inverting classroom-based learning](flipped-learning-instructional-approach.md)
 
 ## Examples
 -

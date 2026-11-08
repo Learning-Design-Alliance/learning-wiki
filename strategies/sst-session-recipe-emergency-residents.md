@@ -64,6 +64,7 @@ The article's implementable session recipe: distribute pre-class materials on cr
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 - [Combine pre-learning, lectures, skill stations and simulated multi-disciplinary scenarios with structured debriefing for trauma team training](ttrrt-session-structure-strategy.md)
 - [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
+- [Three-phase simulation session: expectation-setting, observing an inappropriate-model video, then an appropriate-model video with discussion and communication practice](three-phase-sdm-video-simulation-strategy.md)
 
 ## Examples
 -

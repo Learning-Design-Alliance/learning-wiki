@@ -49,3 +49,4 @@ Qualitative thematic analysis of open-ended post-intervention survey responses f
 - [Most physiotherapists found the e-learning content not new but a useful knowledge refresher, valuing practical tools such as the SBST](e-learning-valued-as-knowledge-refresher.md) — related
 - [No significant group differences appeared on five other CWM items: explaining movement methods, checking understanding, explaining with the body, pain assessment, and paraphrasing technical terms](cwm-items-no-association.md) — related
 - [Physiotherapists held mixed opinions on the relevance of e-learning content on red flags, spinal pathologies, and pain mechanisms](mixed-views-red-flags-spinal-pathology-content.md) — related
+- [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related

@@ -63,3 +63,4 @@ Multivariate linear regression on 392 nurses (F = 71.446, p < 0.001, R2 = 0.711)
 - [Work setting relates to competence unevenly: core nursing skills score higher in primary healthcare while general performance scores higher in government hospitals](work-setting-competence-differences-by-domain.md) — a narrower finding that bears on this claim
 - [Scenario simulation is reported as an effective strategy for training clinical skills in treating infectious diseases](scenario-simulation-effective-infectious-disease-training.md) — related
 - [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](ebp-knowledge-workplace-experience-differences.md) — related
+- [Provincial-hospital training venue was positively associated, and higher baseline competency negatively associated, with mean increase in total competency score](provincial-hospital-and-low-baseline-predict-greater-gains.md) — related

@@ -52,3 +52,4 @@ Authors' interpretation in the Discussion, not a tested result: they argue the m
 - [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — a broader claim this one bears on
 - [Novice learners may require more training sessions and more time to retain non-technical skills trained by simulation](novice-residents-need-more-simulation-sessions-for-retention.md) — related
+- [Debriefing effects on learning remain highly dependent on the individual instructor even when a structuring cognitive aid is used](debriefing-effects-dependent-on-instructor.md) — related

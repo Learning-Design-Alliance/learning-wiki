@@ -49,3 +49,4 @@ Internal-structure analysis of the 27-student virtual OSCE comparing physician e
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [SP assessors detect communication details that examiners neglect, such as interruptions and lack of empathy](sps-detect-communication-details-examiners-neglect.md) — related
 - [SP and examiner scores differ significantly on the total score and three of ten rubric items in the dental OSCE station](wilcoxon-sp-examiner-score-differences-osce-items.md) — related
+- [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related

@@ -53,3 +53,4 @@ Cross-sectional moderated-moderation analysis in 520 undergraduates. The article
 - [Grit's positive relationship with GPA is non-significant when depressive symptoms and social desirability are included in the model](grit-gpa-non-significant-with-covariates.md) — related
 - [Grit is related to GPA only at low levels of social desirability](grit-gpa-only-at-low-social-desirability.md) — related
 - [Social desirability is negatively related to GPA among college students](social-desirability-negatively-related-to-gpa.md) — related
+- [Grit does not buffer the effect of academic demands: no significant demands × grit interactions on exhaustion or engagement](no-demands-grit-interaction-effects.md) — related

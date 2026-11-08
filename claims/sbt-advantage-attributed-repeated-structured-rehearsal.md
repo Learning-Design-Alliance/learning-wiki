@@ -53,3 +53,4 @@ Authors' interpretation in the Discussion section, not a tested result. They sug
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose preparation and generator handling OSCE station](sbt-outperforms-cbt-dose-preparation-station.md) — related
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](sbt-outperforms-cbt-dose-calibrator-station.md) — related
 - [The consequence-free, non-punitive simulated environment gives error a formative value, enabling rehearsal, correction, and learning from peers' mistakes](simulation-safe-environment-learning-from-errors.md) — related
+- [The authors attribute the observed error reduction to guided deliberate practice on the simulator, in which trainees repeated each tunnel-construction step until competent](guided-deliberate-practice-explanation-error-reduction.md) — possibly the same claim (merge candidate)

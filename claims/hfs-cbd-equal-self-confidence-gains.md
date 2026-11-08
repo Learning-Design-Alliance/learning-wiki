@@ -52,3 +52,4 @@ Longitudinal mixed-effect model analysis (PROC MIXED) of pre- and post-intervent
 - [No statistically significant between-group difference in posttest total self-confidence or perceived stress after high-fidelity simulation versus theoretical instruction](hfs-no-posttest-between-group-difference-confidence-stress.md) — related
 - [High-fidelity simulation produced a significantly larger total self-confidence change score than theoretical instruction alone in senior nursing students](hfs-larger-selfconfidence-change-score-rct.md) — related
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related
+- [Confidence increases significantly after high-fidelity simulation in both sessions](confidence-increases-after-high-fidelity-simulation.md) — related

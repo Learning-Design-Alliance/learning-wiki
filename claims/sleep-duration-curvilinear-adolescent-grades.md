@@ -53,3 +53,4 @@ Cross-sectional spline regression analysis of the 2019 YRBSS adolescent sample (
 - [Physical activity and sleep duration interact in relation to adolescent academic achievement, such that the sleep–grades association is not uniform across activity levels](physical-activity-sleep-interaction-grades.md) — related
 - [Optimal combinations of sleep and physical activity for adolescent grades involve tradeoffs, and activity cannot buffer very low or very high sleep](sleep-activity-tradeoff-combinations-grades.md) — related
 - [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](nonlinear-sleep-duration-school-performance-association.md) — related
+- [Average sleep hours showed no significant association with academic outcomes or prefrontal function parameters in this adolescent sample](sleep-null-adolescent-grades-prefrontal.md) — reports the opposite

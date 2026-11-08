@@ -52,3 +52,4 @@ Pairwise raw-data correlations across the 21 measurement points in the N = 360 s
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
+- [General and source-specific stress mindsets are only weakly correlated, indicating mindsets vary across sources of stress](general-and-source-specific-mindsets-weakly-correlated.md) — related

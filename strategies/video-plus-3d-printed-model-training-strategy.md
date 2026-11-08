@@ -52,6 +52,7 @@ The article's training recipe: all groups first viewed a standard instructional 
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 - [Use a first-person 3D procedure video as an educational precursor to simulation-based training](3d-video-precursor-to-simulation-strategy.md)
+- [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 
 ## Examples
 -

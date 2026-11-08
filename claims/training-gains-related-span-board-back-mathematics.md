@@ -49,3 +49,4 @@ Pearson correlation analyses within the treatment group relating WM measures, tr
 - [Boys in the treatment group improved BNST results at both post-tests compared with boys in the control group](wm-training-boys-bnst-improved-t2-and-t3.md) — related
 - [WM training produced no effects on timed addition and subtraction verification tasks](wm-training-no-effect-addition-subtraction.md) — related
 - [Five weeks of computerised WM training improved basic number skills (BNST) in the total treatment group at the immediate post-test but not at the seven-month follow-up](wm-training-bnst-improved-t2-not-t3-total-group.md) — related
+- [All correlations between working memory measures and mathematics at both time points are statistically significant](wm-math-correlations-all-significant.md) — related

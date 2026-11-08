@@ -48,3 +48,4 @@ Cross-sectional study at Dire-Dawa Polytechnic college (n = 204) reviewed in the
 - [Facebook use in higher education is associated with improved performance, convenience of learning and higher engagement](facebook-improved-performance-convenience-engagement.md) — reports the opposite
 - [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — related
 - [Social Relations is perceived as the most important purpose of Facebook usage among students.](social-relations-most-important-usage-purpose.md) — related
+- [The positive effect of the multiple-choice questions declined over time, attributed to contamination through learning groups and social media sharing](mcq-effect-declined-over-time-contamination.md) — related

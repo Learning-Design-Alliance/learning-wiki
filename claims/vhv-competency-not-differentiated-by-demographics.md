@@ -59,3 +59,4 @@ Chi-square analyses of Phase 1 survey data dichotomised competency into high (n 
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
 - [More hours of IPV-and-disability training are associated with higher self-perceived competence among service providers, with the highest competence among those with more than 20 hours of training](ipv-disability-training-hours-higher-self-perceived-competence.md) — related
 - [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — related
+- [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — related

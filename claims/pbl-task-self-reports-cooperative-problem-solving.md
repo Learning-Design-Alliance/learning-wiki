@@ -47,3 +47,4 @@ Qualitative categorization of the 26 PBL participants' self-reports across 10 we
 ## Related Claims
 - [Task type significantly moderates the effect of peer-led learning: sessions where student leaders facilitate complete problem-based learning tasks yield achievement 0.30 standard deviation units higher than non-PBL sessions](pbl-facilitation-moderates-pll-effect.md) — related
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
+- [Cooperation was the personal ability most frequently reported as enhanced by the competition, endorsed by roughly 89–93% of team leaders, students, and volunteers](guanghua-cup-cooperation-most-reported-benefit.md) — related

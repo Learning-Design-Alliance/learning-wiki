@@ -47,3 +47,4 @@ Thematic analysis of all 269 respondents' open-ended answers in the nested quali
 ## Related Claims
 - [Stakeholders endorsed cautious use of exercise-based therapies in Long COVID management because of post-exertional malaise, which the article reports affects approximately 25% of people with Long COVID](pem-caution-exercise-based-therapies.md) — related
 - [Most physiotherapists found the e-learning content not new but a useful knowledge refresher, valuing practical tools such as the SBST](e-learning-valued-as-knowledge-refresher.md) — related
+- [Training consolidated and refined existing OA management skills and enabled a rapid switch to telehealth when COVID-19 affected in-person care](broader-practice-impact-covid-switch.md) — related

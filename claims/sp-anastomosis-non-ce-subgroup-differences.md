@@ -69,3 +69,4 @@ Same non-CE subgroup of the construct validity study: novices' mean completion t
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [Digital and analogue case planning required comparable completion times](orthotrainer-completion-time-comparable.md) — related
+- [Novice medical students required far more time and clutch use on robotic tasks than an expert benchmark](novice-expert-performance-gap-robotic-tasks.md) — related

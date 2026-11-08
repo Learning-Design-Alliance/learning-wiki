@@ -49,6 +49,7 @@ The article recommends that health systems use web-based VP cases as CPD for in-
 - [Incorporate case-based learning and interactive components into asynchronous virtual care CPD modules](strategy-case-based-learning-virtual-care-cpd.md)
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
+- [Use practice VP cases with feedback for independent self-learning, leveraging that assessment drives learning](vp-practice-cases-self-learning-strategy.md)
 
 ## Examples
 -

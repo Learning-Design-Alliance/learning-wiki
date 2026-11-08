@@ -58,3 +58,4 @@ One-way ANOVAs on the full sample compared GPA by sex and by faculty enrolment (
 - [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](no-sex-gpa-differences-in-score-gains.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related
+- [Pre-test OSCE scores differed by age and gender, but post-test scores did not](pre-test-osce-scores-differed-by-age-gender.md) — related

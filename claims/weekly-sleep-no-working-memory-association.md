@@ -55,3 +55,4 @@ Null result from the same linear regression models in 160 adolescents; the autho
 - [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md) — related
 - [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](sleep-restriction-effects-extend-beyond-sleepiness.md) — related
 - [A 30-minute rest and a full night's sleep each add small further gains in mental multiplication output, with accuracy unchanged](rest-gains-small-mental-multiplication.md) — related
+- [Average sleep hours showed no significant association with academic outcomes or prefrontal function parameters in this adolescent sample](sleep-null-adolescent-grades-prefrontal.md) — related

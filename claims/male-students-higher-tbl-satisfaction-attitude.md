@@ -50,3 +50,4 @@ Binary logistic regression on the 431-student survey data tested age, gender, GP
 ## Related Claims
 - [Male health care professionals were 7.05 times more likely than females to have adequate ACLS knowledge and skills](male-gender-higher-acls-adequate-odds.md) — related
 - [Nearly three-quarters of Year 1 medical students report a positive or very positive overall experience of integrated team-based learning.](three-quarters-positive-overall-tbl-experience.md) — related
+- [Male students reported higher e-learning readiness than female students, with no difference by age](e-learning-readiness-higher-males.md) — related

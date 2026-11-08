@@ -74,3 +74,5 @@ The review's synthesis of prevalence across retrieved articles reports "prevalen
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [All six UNI psychosocial need factors correlate positively with students' psychological distress](uni-factors-correlate-distress.md) — related
 - [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
+- [Among low-performing medical undergraduates (lower GPA quartile), low optimism, low resilience and high perceived stress predict poor academic performance](low-optimism-low-resilience-high-stress-predict-poor-gpa-medical-students.md) — a narrower finding that bears on this claim
+- [High academic performance (upper GPA quartile) in medical undergraduates is not predicted by self-efficacy, optimism, resilience or perceived stress](psychological-variables-do-not-predict-high-gpa-upper-quartile.md) — related

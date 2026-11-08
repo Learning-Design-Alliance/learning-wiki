@@ -24,7 +24,7 @@ sources:
 # Procedural Information
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (5 causal, 4 review, 1 theoretical), `q2`–`q3` · 0 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 11 studies (6 causal, 4 review, 1 theoretical), `q2`–`q3` · 0 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Procedural information provides step-by-step instructions — "how-to" guidance — that supports learners in performing the recurrent, algorithmic components of a task. In [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) it is one of two forms of supportive information, presented *just in time* during task performance rather than up front, so that learners can act while consulting the steps rather than memorizing them first.
@@ -63,7 +63,8 @@ Procedural information reduces the working-memory burden of executing routine ta
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [AR-based instructions significantly reduce error counts compared with conventional instructions during the more complex second ECMO cannulation training procedure](../claims/ar-instructions-fewer-errors-complex-ecmo-procedure.md) [+W] — attached 2026-11-08 from Wolf Julian et al. (2021), which proposed "HoloLens 2 AR step-by-step guide combining conventional text, images, and videos with simple 3D models".
+- [AR instructions reduce knowledge-related errors by 66% in the complex ECMO training procedure, while handling errors are similar across instruction types](../claims/ar-instructions-66-percent-knowledge-error-reduction.md) [+W] — attached 2026-11-08 from Wolf Julian et al. (2021), which proposed "HoloLens 2 AR step-by-step guide combining conventional text, images, and videos with simple 3D models".
 
 ## The evidence by question
 

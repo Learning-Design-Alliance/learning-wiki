@@ -53,3 +53,5 @@ SEM path analysis in the same sample of 343 learners found PE significantly pred
 - [Gender, age, and years of English learning show no significant effects on grit, well-being, or L2 achievement in this sample](demographics-null-effects-grit-wellbeing.md) — related
 - [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](engagement-not-correlated-l2-achievement.md) — related
 - [The four well-being elements do not significantly mediate the relationships between grit dimensions and L2 achievement](wellbeing-mediation-non-significant.md) — related
+- [Exhaustion mediates links of demands and both grit facets to depression and life satisfaction; engagement mediates perseverance of effort to life satisfaction](exhaustion-engagement-mediation-paths.md) — related
+- [Only perseverance of effort, not consistency of interests, is positively related to schoolwork engagement](perseverance-effort-engagement-consistency-null.md) — related

@@ -73,3 +73,4 @@ Qualitative findings: gesture misinterpretation during glove donning or cannula 
 - [Students and the tutor evaluated the remote MR tutorials positively, with all interviewees rating them equally or more effective than in-person tutorials](positive-student-tutor-perceptions-hololens-tutorials.md) — related
 - [Prolonged remote flipped learning produced initial disorientation, then fatigue, isolation, and a desire to return to campus](prolonged-remote-learning-fatigue-isolation.md) — related
 - [RiNeo MR is a proof-of-concept whose effectiveness for learning outcomes has not yet been validated against manikin-based training](rineo-proof-of-concept-effectiveness-untested.md) — related
+- [Student and teacher focus groups identified two themes beyond the Regmi and Jones framework: mental wellbeing and technical issues](focus-groups-extend-regmi-jones-framework-wellbeing-technical.md) — related

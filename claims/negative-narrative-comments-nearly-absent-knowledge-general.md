@@ -50,3 +50,5 @@ Valence-by-category analysis reported in the Results: negative units were "almos
 - [Students training with AI-VSPs give more positive and fewer negative feedback comments than traditional SP students](ai-vsp-more-positive-feedback-comments.md) — related
 - [The authors report that preclerkship narrative comments resemble those written by clinical teachers at later training stages](preclerkship-comments-resemble-later-stage-narrative-assessments.md) — related
 - [Only 6.4% of preclerkship narrative comments offered guidance on how to improve](preclerkship-narrative-comments-rarely-suggest-improvement.md) — related
+- [Narrative MSF comments are predominantly positive and rarely constructive, and respondents use very polite language that can mask criticism](narrative-msf-comment-quality.md) — related
+- [Experienced supervisors can discriminate between trainees based on narrative MSF reports, with reports of concerning trainees containing significantly more negative and constructive comments](narrative-msf-discriminating-capacity.md) — related

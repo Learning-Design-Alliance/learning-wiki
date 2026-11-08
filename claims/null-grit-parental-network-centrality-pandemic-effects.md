@@ -52,3 +52,4 @@ Structural equation models on the matched dataset (N=402), with embeddedness ind
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [The survey grit measure has limited predictive power over platform performance in this sample and does not predict pandemic-era performance declines](survey-grit-limited-predictive-power.md) — related
+- [Grit was not associated with any measure of laparoscopic performance in this novice sample](grit-not-associated-laparoscopic-performance.md) — related

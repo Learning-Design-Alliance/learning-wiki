@@ -46,6 +46,7 @@ A structured teaching program of seven weekly one-hour lecture and group-discuss
 ## Related Designs
 
 - [TPB-based 12-week active learning health education program for older adults](tpb-active-learning-health-literacy-program.md)
+- [24-week weekly 90-minute active learning health promotion program with group work and self-monitoring](active-learning-health-promotion-program-24-week.md)
 
 ## Examples
 -

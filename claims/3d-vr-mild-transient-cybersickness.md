@@ -61,3 +61,4 @@ Descriptive safety outcome of the feasibility RCT. The article reports "3 partic
 - [The 3D VR mode of RiNeo MR caused no simulator sickness: subjects reported discomfort levels of 1 or lower out of 3 on all SSQ symptoms](rineo-3d-no-simulator-sickness.md) — related
 - [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — a broader claim this one bears on
 - [Viewing the 3D LP video is well tolerated, with cybersickness in a small minority](cybersickness-minority-3d-lp-video.md) — a broader claim this one bears on
+- [Simulator sickness and workload do not differ by viewing-mode group during training, and perceived workload at test is lower only for the 2D→3D transfer group](simulator-sickness-workload-null-group-effects.md) — related

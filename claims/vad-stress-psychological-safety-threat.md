@@ -115,3 +115,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Perceptions of the good-practice video were mixed, with no consensus on whether it should be shown before or after the simulation](good-practice-video-mixed-timing.md) — related
 - [Small groups of 5–6 students and the absence of grading supported communication and reduced pressure during the simulation](small-groups-no-grading-euthanasia-simulation.md) — related
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — related
+- [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related

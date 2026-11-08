@@ -52,3 +52,4 @@ Static physiological results of the 26-participant study (Table 1), where paired
 - [FLS performance was positively correlated with heart-rate change across all trials, interpreted as task engagement rather than detrimental stress](fls-score-positive-correlation-heart-rate-change.md) — related
 - [Desktop VR and face-to-face simulation produce no significant difference in biophysiological stress responses (systolic blood pressure and heart rate)](desktop-vr-similar-biophysiological-stress-to-face-to-face-simulation.md) — related
 - [The PASAT stress task significantly increased cardiovascular activity on all measured variables in the student sample](pasat-increased-cardiovascular-activity.md) — related
+- [High-fidelity simulation raises systolic blood pressure, mean blood pressure, and heart rate immediately after the scenario, with a small effect](hfs-raises-sbp-mbp-hr-immediately-after-scenario.md) — related

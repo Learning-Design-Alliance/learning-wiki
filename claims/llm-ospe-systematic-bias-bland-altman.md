@@ -51,3 +51,4 @@ Bland–Altman bias visualisation in the same retrospective study (Supplementary
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
 - [LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments](llms-differ-liberal-restrictive-balanced-grading-styles.md) — a broader claim this one bears on
 - [Bland–Altman analysis shows systematic bias and wide limits of agreement, with AI tending to assign slightly higher scores than the expert across most criteria](bland-altman-ai-higher-scores-poor-interchangeability.md) — related
+- [Bland–Altman analysis shows peer and instructor scores agree closely, with limits of agreement from -1.17 to +1.16](bland-altman-agreement-peer-instructor.md) — related

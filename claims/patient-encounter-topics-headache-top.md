@@ -67,3 +67,4 @@ Chi-square comparisons by internship experience (Table 5) and Fisher's exact tes
 ## Related Claims
 - [Most surveyed Doctors of Korean Medicine (81.9%) agree that a clinical skills assessment should be introduced in the national licensure examination](dkm-survey-819-agree-csa-necessary.md) — related
 - [Acupuncture was the most common procedural skills test topic, and tongue and pulse diagnoses were prioritized by primary-clinic DKMs while public-institution DKMs deemed most examinations necessary](procedural-skills-acupuncture-tongue-pulse-priorities.md) — related
+- [Framework constructs were validated as appropriate for deriving personalized courses in two contrasting clinical use cases](framework-validated-two-use-cases.md) — related

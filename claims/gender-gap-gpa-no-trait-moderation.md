@@ -68,3 +68,4 @@ Regression analyses adding Big Five × gender interaction terms (reported in S2 
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
+- [Female occupational therapy students obtained better exam grades than male students](female-students-better-grades-ot.md) — related

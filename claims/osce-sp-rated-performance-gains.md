@@ -50,3 +50,4 @@ Standardized-patient feedback forms (four questions each, Likert 1–5) complete
 - [Nursing students' patient and injury assessment skills, including emotional, nutritional and history-taking items, rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study](simulation-improves-wound-patient-assessment-skills.md) — related
 - [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [One OSCE item, estimating the patient's carbohydrate intake in servings, showed no statistically significant pre-to-post improvement](osce-carbohydrate-estimation-item-not-significant.md) — reports the opposite
+- [Standardized-patient-rated communication attitudes (SPS) did not differ significantly between the intervention and control groups after the EOL simulation program](sps-score-null-between-groups.md) — related

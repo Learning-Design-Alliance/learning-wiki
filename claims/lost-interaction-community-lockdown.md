@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-08
 sources:
   - id: dilani-gedera-dianne-forbes-cheryl-brown-maggie-hartnett-ashwini-datt-2023
     resource: "https://doi.org/10.1007/s11423-023-10284-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students expressed that a lack of interpersonal engagement, interaction and collaboration impacted their learning; 45% reported isolation. [→ Dilani Gedera · Dianne Forbes · Cheryl Brown · Maggie Hartnett · Ashwini Datt 2023](#dilani-gedera-dianne-forbes-cheryl-brown-maggie-hartnett-ashwini-datt-2023)
@@ -59,3 +60,4 @@ Qualitative theme from questionnaire open-ended responses, individual interviews
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — reports the opposite
 - [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
 - [Students in both groups preferred peer-to-peer discussion over contacting the lecturer directly](peer-discussion-preferred-over-lecturer-theme.md) — related
+- [Participants reported mostly positive mental wellbeing online, with social isolation and lost peer contact as key barriers](mental-wellbeing-online-term-positive-with-isolation-barrier.md) — related

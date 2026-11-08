@@ -61,3 +61,4 @@ Three-round Delphi study with 69 initial participants, of whom 43 (62%) complete
 - [A two-round modified Delphi process with an integrated workshop produced consensus on 97 of 120 formulated competencies for a delirium e-learning curriculum](delphi-consensus-97-of-120-delirium-competencies.md) — related
 - [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related
 - [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](delphi-52-he-teacher-competencies-eight-domains.md) — related
+- [Expert consensus above 90.2% was achieved on admission and development criteria of teaching resource for nursing undergraduates comprising 6 domains and 43 items](nursing-teaching-resource-criteria-consent-902.md) — related

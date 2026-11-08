@@ -51,3 +51,5 @@ Categorical multilevel analyses comparing MVPA groups (≤15, 15–30, 30+ minut
 - [School physical education policy moderated the MVPA–Grade 4 fall spelling marks relationship cross-sectionally (β = -0.128), judged practically negligible](school-pe-policy-moderation-spelling-marks.md) — related
 - [Hispanic ethnicity moderated the MVPA–Grade 4 fall spelling marks relationship cross-sectionally (β = -0.159), but the effect was judged practically negligible](hispanic-ethnicity-moderation-spelling-marks.md) — related
 - [School-day MVPA does not appear to harm academic performance regardless of student or school characteristics, supporting protection of school physical activity time](mvpa-no-academic-harm-any-subgroup.md) — reports the opposite
+- [Minutes of moderate-to-vigorous physical activity show a negative but trivial prospective association with adolescent English and Math grades](mvpa-trivial-negative-association-grades.md) — related
+- [Meeting national physical activity guidelines is prospectively associated with slightly lower, trivially so, English and Math grades](pa-guidelines-trivial-negative-grades.md) — related

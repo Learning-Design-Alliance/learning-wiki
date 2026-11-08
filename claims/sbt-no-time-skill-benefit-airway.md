@@ -56,3 +56,4 @@ Meta-analysis of four comparative trials reporting time to complete task. The po
 - [VR bronchoscopy simulator training improves medical staff intubation skills and reduces complications](vr-bronoscopy-intubation-skills.md) — related
 - [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related
 - [Just-in-time coaching improved technical skill metrics (airway views, advancement maneuvers, technical difficulties, intubation time) but complications did not differ significantly](jit-coaching-technical-metrics-complications-null.md) — related
+- [Airway management knowledge increased with simulation but remained below the 70% expected performance](airway-management-remained-below-70.md) — related

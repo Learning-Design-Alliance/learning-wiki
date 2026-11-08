@@ -55,3 +55,4 @@ In the dyadic regression (N = 76), parent gender showed "β = 0.24, t (69) = 2.4
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — related
 - [Relatives connected through mothers are more strongly correlated on school performance than relatives connected through fathers](maternal-relatives-more-correlated-than-paternal.md) — related
+- [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 222 claims (147 show a difference, 49 mixed, 26 no difference) · 191 studies (94 causal, 45 associational, 22 review, 15 quant-synthesis, 7 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 39 of 191 report an effect size · 218 claims rest on one study
+> **Evidence** · 227 claims (151 show a difference, 50 mixed, 26 no difference) · 195 studies (98 causal, 45 associational, 22 review, 15 quant-synthesis, 7 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 40 of 195 report an effect size · 223 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -279,6 +279,11 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Students spend a significantly greater percentage of time on task in VR simulation than in desktop simulation](../claims/vr-simulation-greater-time-on-task-eye-tracking.md) [+M] — measured as an outcome of the instruction studied
 - [Higher tutorial attendance was associated with higher numbers of honors grades on the online long case examination](../claims/attendance-associated-with-honors-grades.md) [+M] — learners who differ on it differ in outcomes
 - [Students perceived advantages of e-learning for quality of educational life, including flexibility, economic savings, time savings and improved didactic continuity through recorded content](../claims/elearning-advantages-flexibility-savings-didactic-continuity.md) [+M] — measured as an outcome of the instruction studied
+- [AR instructions do not shorten training times; they are associated with slightly higher training times in both procedures](../claims/ar-instructions-slightly-higher-training-times.md) [+M] — measured as an outcome of the instruction studied
+- [Children's time on task is about 10 percentage points higher during PAL lessons (97%) than NAL lessons (87%)](../claims/pal-raises-time-on-task.md) [+M] — measured as an outcome of the instruction studied
+- [Mean post-test anatomy scores rose substantially from pre-test but remained low in one uncontrolled pre-post study](../claims/low-posttest-anatomy-knowledge-loss-18-months.md) [~W] — learners who differ on it differ in outcomes
+- [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](../claims/nasa-tlx-workload-correlates-task-time.md) [+M] — learners who differ on it differ in outcomes
+- [Novice medical students required far more time and clutch use on robotic tasks than an expert benchmark](../claims/novice-expert-performance-gap-robotic-tasks.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 176 claims (110 for, 54 mixed, 12 against) · 144 studies (30 review, 30 qualitative, 30 theoretical, 27 causal, 15 design, 11 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 144 report an effect size · 172 claims rest on one study
+> **Evidence** · 177 claims (110 for, 54 mixed, 13 against) · 145 studies (30 review, 30 qualitative, 30 theoretical, 28 causal, 15 design, 11 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 145 report an effect size · 173 claims rest on one study
 
 ## Conditional relationship
 
@@ -270,6 +270,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](../claims/ai-cognitive-partner-metacognitive-mirror-equity-roles.md) [+W] — attached 2026-11-05 from Rashid S et al. (2025), which proposed "Embed generative AI in writing instruction through an Ethical Integration Protocol so collaboration promotes rather than undermines active learning".
 - [Pre-laboratory virtual simulation training raises medical students' pathogenic cocci test scores overall in a randomized controlled trial](../claims/virtual-simulation-raises-microbiology-lab-test-scores-rct.md) [+W] — attached 2026-11-06 from Lei Xu et al. (2025), which proposed "Integrate virtual simulation with traditional hands-on laboratory practice rather than substituting one for the other".
 - [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](../claims/students-support-vr-supplement-not-replacement.md) [+W] — attached 2026-11-06 from Hammouda Sana Ben et al. (2025), which proposed "Use VR anatomy simulation as a supplementary tool alongside, not instead of, traditional hands-on lab instruction".
+- [App-guided laypersons significantly delayed the call for help and first chest compression compared with unassisted controls in a simulated cardiac arrest](../claims/app-use-delays-call-and-first-compression.md) [-W] — attached 2026-11-08 from Metelmann Camilla et al. (2021), which proposed "Use real-time smartphone CPR guidance only as an additional tool to hands-on CPR training, with a guideline-compliant app the user knows how to operate".
 
 ## Objective and learner-valued goal
 

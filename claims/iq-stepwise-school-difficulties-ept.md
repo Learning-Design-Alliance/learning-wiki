@@ -73,3 +73,5 @@ The multivariate logistic regression, adjusted for intelligence quotient, motor 
 - [Preschool IQ shows a stepwise association with grade point averages at 18 years, and the association is stronger for mathematics than for language](iq-gpa-stepwise-math-stronger.md) — related
 - [Low grades in mathematics become more prevalent as preschool IQ decreases, and the distribution of the lowest and highest student profiles differs significantly across IQ groups](iq-student-profiles-math-difficulties.md) — related
 - [Maternal educational level shows a stepwise association with offspring GPA that persists when stratified by preschool IQ categories](maternal-education-gpa-ept.md) — related
+- [Lower gestational age at birth is associated with lower classic mini-mental, total IQ, perceptual reasoning and processing speed scores in multivariate analysis](gestational-age-associated-cognitive-scores-regression.md) — related
+- [About one in ten preterm school-age children assessed shows low or borderline IQ, with mean total IQ near the population mean](preterm-iq-low-borderline-10-9-percent.md) — related

@@ -48,3 +48,4 @@ Methodological limitation stated in the Discussion regarding the scatterplot (Fi
 - [The Dunning-Kruger effect manifests consistently across semester cohorts and genders, with negative correlations in every cohort for both female and male students](dke-consistent-across-cohorts-and-genders.md) — related
 - [Students who failed the question-and-answer oral exam had higher FLCA than those who passed](flca-higher-failed-oral-qa.md) — related
 - [Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning](ability-signal-informational-value-bayesian-updating.md) — related
+- [All G-SS group students passed both first-semester exams while four control-group students failed both](gss-all-passed-versus-cg-failures.md) — reports the opposite

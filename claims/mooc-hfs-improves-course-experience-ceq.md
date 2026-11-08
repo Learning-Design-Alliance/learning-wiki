@@ -48,3 +48,4 @@ Course Experience Questionnaire with five subscales (Good Teaching, Clear Goals 
 - [Teachers report significantly higher satisfaction with the MOOC-HFS blended model across all questionnaire items](mooc-hfs-higher-teacher-satisfaction.md) — related
 - [The CBL group perceived assessment as significantly more appropriate, with no other CEQ subscale differences](cbl-improves-perceived-assessment-appropriateness.md) — related
 - [MOOC-HFS blended model promotes deep learning approaches without changing surface learning on R-SPQ-2F](mooc-hfs-promotes-deep-learning-approaches.md) — related
+- [No learning environment scale was associated with occupational therapy students' exam grades](learning-environment-not-associated-grades-ot.md) — related

@@ -54,3 +54,4 @@ Equation 2 models fall-to-fall growth with lagged absences as a continuous varia
 - [Prior-year absence effects on starting achievement are much smaller in reading than mathematics and non-significant in most grade levels](reading-effects-smaller-nonsignificant-most-grades.md) — related
 - [The proportion of students attending class regularly increased linearly with classroom SES, while irregular attendance decreased](regular-attendance-increases-with-ses.md) — related
 - [Consistently moderate authorised absences, never exceeding the 10% chronic-absence threshold, still significantly depress GCSE achievement](moderate-authorised-absences-below-chronic-threshold-harm-achievement.md) — related
+- [Academic performance declined significantly from grade 1 to grade 7, with mathematics falling from 76.90% to 51.26% and GPA from 74.45% to 59.21%](academic-decline-grade1-to-grade7.md) — related

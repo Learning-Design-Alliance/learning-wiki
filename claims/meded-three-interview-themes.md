@@ -51,3 +51,4 @@ Semi-structured interviews conducted on Microsoft Teams, transcribed verbatim an
 - [Medical students who attend a student-led peer teaching society report improved knowledge, confidence, motivation and sense of community](meded-attendance-reported-academic-and-community-benefits.md) — related
 - [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related
 - [Focus-group interviews of HMSS course students yielded three main themes: learner-centeredness, competencies, and career development](hmss-focus-group-three-themes.md) — related
+- [Student and teacher focus groups identified two themes beyond the Regmi and Jones framework: mental wellbeing and technical issues](focus-groups-extend-regmi-jones-framework-wellbeing-technical.md) — related

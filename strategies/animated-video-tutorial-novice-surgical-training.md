@@ -42,6 +42,7 @@ The article used a manufacturer-produced training video that demonstrated the st
 - [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 - [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
 - [Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks](hierarchical-hybrid-teaching-vocational-skills.md)
+- [Use web-based preview before simulation practice so students prepare autonomously](web-based-preview-before-simulation-practice.md)
 
 ## Examples
 -

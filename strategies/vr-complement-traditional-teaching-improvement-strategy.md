@@ -57,6 +57,7 @@ The article's forward-looking recommendations combine a caution and an improveme
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 - [Identify specific scenarios, learner populations and domains where VR surpasses or enhances traditional trauma training before integrating it into curricula](targeted-vr-integration-trauma-curricula-strategy.md)
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
+- [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 
 ## Examples
 -

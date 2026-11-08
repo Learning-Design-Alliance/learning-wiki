@@ -50,3 +50,4 @@ Post-busuu survey of the research group on usage behaviour. The article reports 
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [Students found busuu easy and useful especially for vocabulary and writing, but 73.3% thought it helps without being the ultimate tool, and language learning apps were largely unknown to them](busuu-user-satisfaction-limited-help.md) — related
 - [Weekly reflections were barely used while learning goals and daily reflections dominated actual app use](weekly-reflections-barely-used-goals-daily-dominant.md) — related
+- [Only half of the facultative-group participants chose to use the app, and the authors attribute actual use to differences in familiarization](half-facultative-used-app-familiarization.md) — related

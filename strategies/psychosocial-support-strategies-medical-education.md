@@ -71,6 +71,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Anxiety-reduction support strategy for medical students, with special attention to females](anxiety-reduction-support-medical-students-strategy.md)
 - [Institutions and supervisors should improve doctoral students' well-being and engagement rather than using fear and stress as motivators](support-based-doctoral-supervision-strategy.md)
 - [University strategy of mentoring, training, and trial online exams to enrich the e-learning environment and foster engagement](elearning-training-mentoring-implications.md)
+- [Assess grit to identify students at risk of burnout and offer coping and strategy training to less gritty students](grit-assessment-burnout-prevention-strategy.md)
 
 ## Examples
 -

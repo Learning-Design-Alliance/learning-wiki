@@ -53,3 +53,4 @@ The brief states, citing Heissel et al. (2021) and Zeidner (1998), that "poor as
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors](anticipatory-test-anxiety-downward-spiral.md) — related
 - [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related
+- [Encouragement messages do not reduce students’ test anxiety before exams](encouragement-no-test-anxiety-effect.md) — related

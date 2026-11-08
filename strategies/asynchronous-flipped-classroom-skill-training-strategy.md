@@ -53,6 +53,7 @@ The article recommends providing procedural training through self-directed, asyn
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
+- [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
 
 ## Examples
 -

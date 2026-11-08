@@ -53,6 +53,7 @@ The authors' forward-looking recommendation is that "formal surgical training fo
 ## Related Strategies
 
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
+- [Use validated procedure metrics to set proficiency benchmarks trainees must demonstrate before progression to real patients](proficiency-benchmarks-before-progression-rarp-strategy.md)
 
 ## Examples
 -

@@ -115,3 +115,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related
 - PBL combined with situational simulation teaching yields higher imaging report quality, intravenous contrast media, and practice examination scores than conventional teaching in radiology interns — related
 - [CoI-based blended learning did not significantly improve overall SPD management knowledge scores compared with face-to-face teaching](coi-blended-learning-no-knowledge-total-gain.md) — related
+- [Blended learning produced higher total knowledge scores than didactic teaching and web-based e-learning in a clinical research module](bl-higher-knowledge-score-than-dt-wel.md) — related

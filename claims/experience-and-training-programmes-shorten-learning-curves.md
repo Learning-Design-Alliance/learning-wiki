@@ -79,4 +79,6 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [Surveyed German general and visceral surgeons report very little expertise in interventions required after abdominal trauma, with highly significant trainee–specialist differences](little-expertise-abdominal-trauma-interventions.md) — related
 - [Most participating surgeons had limited TAPP herniorrhaphy experience, and a majority reported high laparoscopic volume](participant-experience-profile-hernia-model-evaluation.md) — related
 - [Across the full cohort, the experienced robotic surgeon showed shorter T1 and T2 operative times than the surgeon in training, while T3 and T4 durations were similar](experienced-surgeon-shorter-t1-t2-rtapp.md) — a narrower finding that bears on this claim
+- [Participants with previous AR experience show significantly lower training times for procedure 2, but the authors judge prior experience negligible overall](prior-ar-experience-lower-p2-training-time.md) — related
+- [Prior laparoscopic surgery experience predicted better performance in the second and third training blocks, though based on only four experienced subjects](prior-laparoscopic-experience-better-early-blocks.md) — a narrower finding that bears on this claim
 

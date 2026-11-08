@@ -50,3 +50,5 @@ Wilcoxon comparison of ten-step checklist scores for the same learners at the in
 - [Third-year medical students' theoretical knowledge scores rose from pre-test to post-test after procedural simulation training of ascites puncture, in one uncontrolled pre-test/post-test study](simulation-ascites-puncture-improves-theoretical-knowledge.md) — related
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
 - [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related
+- [In one uncontrolled pre-post study, only 40% of hospitalists achieved passing scores at a mean of 7 months after SBML (40% for LP and 40% for AP)](sbml-skill-decay-hospitalists-7-months.md) — reports the opposite
+- [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related

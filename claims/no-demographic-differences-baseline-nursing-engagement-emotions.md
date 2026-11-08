@@ -58,3 +58,4 @@ Baseline demographic comparisons in the 65-student cohort tested five demographi
 - [Baseline characteristics did not differ significantly between the TA+CBL and CBL-only groups before the teaching rounds](ta-cbl-baseline-equivalence.md) — related
 - [Teaching-skill gains were unrelated to sociodemographic variables including gender, residency year, prior teaching experience, and undergraduate methodology](snapps-gains-independent-of-demographics.md) — related
 - [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related
+- [No statistically significant differences in nomophobia scores across academic level, residential status, marital status, college, or student habits](no-sociodemographic-differences-nomophobia-scores.md) — related

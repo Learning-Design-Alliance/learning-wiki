@@ -50,3 +50,5 @@ Self-assessment of learning objectives from 23 post-scenario questionnaires (two
 - [Nursing students' self-rated handover confidence scores rose from pre-test to post-test after ISBAR-structured handover simulation teaching, in one uncontrolled pre-post study](isbar-simulation-improves-handover-confidence.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — a broader claim this one bears on
 - [A bilingual cross-border simulation training for German and Polish emergency medical teams is feasible despite pandemic-related curtailment](bilingual-cross-border-ems-simulation-feasible.md) — related
+- [A purpose-built 24-item trichotomous assessment tool for ABCDE adherence shows high intra-observer reliability (ICC 0.87)](abcde-adherence-assessment-tool-icc-087.md) — related
+- [Overall adherence to the ABCDE algorithm among neonatal healthcare providers during simulated NALS is low (mean 31.5%)](low-overall-abcde-adherence-simulation.md) — related

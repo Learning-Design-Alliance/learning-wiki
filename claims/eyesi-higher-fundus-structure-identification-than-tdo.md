@@ -53,3 +53,4 @@ Randomized controlled trial of 168 fourth-year medical undergraduates; independe
 - [EyeSi virtual reality simulator training produces statistically higher OSCE scores than control in Boden et al.'s randomised trial](eyesi-simulator-higher-osce-scores-boden.md) — related
 - [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](wu-3d-printed-eye-model-improves-fundus-identification.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
+- [Flexible e-learning video teaching raises medical students' motivation to learn fundus examination more than a face-to-face lecture](elearning-video-raises-fundus-motivation.md) — related

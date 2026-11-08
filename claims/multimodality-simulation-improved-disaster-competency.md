@@ -63,3 +63,4 @@ Quasi-experimental one-group pretest–posttest study (Noh et al. 2020, South Ko
 - [SKIT improves triage accuracy but not significantly the reasonableness of emergency management plans](skit-triage-accuracy-management-plan-decision-making.md) — related
 - [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related
 - [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](web-pfa-sim-raises-disaster-competencies.md) — related
+- [Virtual reality simulation training combined with skills training produces higher emergency care capability ratings than conventional training in reserve nurses](vr-simulation-higher-emergency-care-capability.md) — related

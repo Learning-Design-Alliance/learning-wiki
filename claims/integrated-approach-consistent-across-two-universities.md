@@ -47,3 +47,4 @@ Author's interpretation of the two-site replication: 78 purposively sampled stud
 ## Related Claims
 - [The effect of the integrated approach on critical thinking differed between the two universities (three-way interaction)](integrated-approach-critical-thinking-school-interaction.md) — reports the opposite
 - [Institutions located in Bangkok Metropolis region obtain higher means of instructional quality than institutions outside Bangkok](bangkok-region-higher-instructional-quality-means.md) — related
+- [Integration into learning communities is associated with higher grades, and group size relates to interaction levels and learning effectiveness](learning-community-integration-grades-group-size.md) — related

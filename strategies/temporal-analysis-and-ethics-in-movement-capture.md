@@ -39,6 +39,7 @@ The editors recommend extensions to movement-based analytic work: "temporal anal
 ## Related Strategies
 
 - [During a study, researchers should visit regularly, give back to the school community, minimize classroom disruption, and share initial data for feedback](during-study-regular-visits-giving-back.md)
+- [Teach economy of movement by finding an optimum camera perspective that minimizes repositioning during laparoscopic tasks](optimum-perspective-economy-of-movement-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Survey item on longitudinal confidence development in the 144-student pilot; fou
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](pre-class-tests-increase-stress-anxiety.md) — related
 - [Anatomy Glove Learning System improved hand-anatomy knowledge in both groups, with 3D-group self-confidence increasing over time while 2D-group confidence declined](agls-knowledge-gains-sustained-confidence-3d-group.md) — related
 - [About 63% of responding first-year students agreed the CRE course contributed to their ability to demonstrate initiative and self-direction in learning](cre-satisfaction-self-direction-agreement.md) — related
+- [Mean post-test anatomy scores rose substantially from pre-test but remained low in one uncontrolled pre-post study](low-posttest-anatomy-knowledge-loss-18-months.md) — related

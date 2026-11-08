@@ -56,3 +56,4 @@ Randomized comparison of 118 undergraduates (experimental n = 60, control n = 58
 - [In an RCT of trauma orthopedic teaching, PBL combined with virtual simulation produced significantly higher written examination scores than lecture-based teaching (88.48 ± 4.02 vs. 77.04 ± 5.31, p < 0.01)](pbl-virtual-simulation-higher-written-exam-trauma-orthopedics.md) — related
 - [No significant difference in Obstetrics and Gynecology scores between integrated PBL + LBC and LBC groups](obgyn-no-significant-difference-integrated-pbl.md) — related
 - [Scores in the basic-medicine and clinical-medicine integrated PBL courses did not differ significantly within the experimental group when comparing the two course stages](two-integrated-pbl-stages-similar-scores.md) — related
+- [No pooled performance differences between curricula in internal medicine, pediatrics, surgery, or obstetrics and gynecology](no-pooled-differences-clinical-areas.md) — related

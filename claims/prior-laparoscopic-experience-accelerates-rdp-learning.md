@@ -49,3 +49,4 @@ Regression analyses across centers assessed factors impacting the learning curve
 - [Competency, proficiency, and mastery in robotic distal pancreatectomy are reached after 46, 63, and 73 procedures respectively at international expert centers](rdp-learning-curve-competency-proficiency-mastery-46-63-73.md) — related
 - [Major complications decrease after reaching proficiency at 63 RDP procedures](rdp-major-complications-decrease-after-proficiency.md) — related
 - [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — related
+- [Participants with previous AR experience show significantly lower training times for procedure 2, but the authors judge prior experience negligible overall](prior-ar-experience-lower-p2-training-time.md) — related

@@ -46,6 +46,7 @@ Instructors define a set of labeled aspects (e.g., 'Quality of the composition',
 
 - [Checklists & Rubrics](checklists-rubrics.md)
 - [Co-Construct Rubrics](co-construct_rubrics.md)
+- [A master rubric with selectable grading scales to assess knowledge identification, integration, and synthesis across disciplines](master-rubric-knowledge-identification-integration-synthesis.md)
 
 ## Examples
 -

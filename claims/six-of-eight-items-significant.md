@@ -48,3 +48,4 @@ Item-level results of the pre-post questionnaire (N = 16) reported in the quanti
 - [A mannequin-based dysphagia simulation lab significantly improves third-year speech-language therapy students' overall pre-post ratings of attitudes and perceived confidence](simulation-improves-dysphagia-confidence-ratings.md) — related
 - [Students' overall self-rated clinical confidence in infant dysphagia care rose significantly after the integrated clinic (n = 25, r = .87)](tbl-sbl-clinic-confidence-gain-overall.md) — related
 - [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related
+- [Health advocate competency items had the highest proportion of Not Assessable responses](claim-health-advocate-items-highest-not-assessable-proportion.md) — related

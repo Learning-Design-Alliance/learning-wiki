@@ -71,3 +71,5 @@ Exploratory unpaired t-test of total procedure time in minutes at post-test, plo
 - [Intraoperative feedback reduces error scores in cholecystectomy and simulated procedures](feedback-reduces-error-scores.md) — related
 - [AR training is consistently associated with reduced procedural errors across all studies measuring that outcome](ar-reduces-procedural-errors.md) — related
 - [Video-based SA training with interposed questions improves post-test OSATS performance in laparoscopic novices](sa-video-training-improves-osats.md) — related
+- [SCS training produced a statistically significant greater reduction in procedure time in the intervention group than in the control group (–15.98 versus –1.14 min; P = 0.024)](scs-reduces-procedure-time-simulated-cholecystectomy.md) — related
+- [SCS training produced a statistically significant greater improvement in global performance score than control (+1.742 versus +0.357; P = 0.011)](scs-improves-global-performance-score.md) — related

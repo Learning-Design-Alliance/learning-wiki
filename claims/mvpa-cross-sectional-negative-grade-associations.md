@@ -49,3 +49,5 @@ Cross-sectional multilevel analyses of 4936 Grade 4 students in 40 schools, adju
 - [Students attaining 30+ minutes of daily school-day MVPA had lower reading, spelling, and writing grades than students under 15 minutes, only in Grade 4 Fall cross-sectional analyses](mvpa-30-plus-versus-under-15-grade4-fall.md) — a narrower finding that bears on this claim
 - [Grade 4 school-day MVPA does not predict Grade 5 Fall course grades in residualized longitudinal analyses](mvpa-longitudinal-null-grade5.md) — related
 - [Average daily school-day MVPA declined slightly across the study period, from 21.14 minutes in Grade 4 fall to 18.91 minutes in Grade 5 fall](mvpa-decline-across-semesters.md) — related
+- [Minutes of moderate-to-vigorous physical activity show a negative but trivial prospective association with adolescent English and Math grades](mvpa-trivial-negative-association-grades.md) — related
+- [Meeting national physical activity guidelines is prospectively associated with slightly lower, trivially so, English and Math grades](pa-guidelines-trivial-negative-grades.md) — related

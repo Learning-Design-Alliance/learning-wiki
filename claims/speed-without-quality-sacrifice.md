@@ -53,3 +53,4 @@ A speed-versus-quality comparison in one 6A grade reported by Wilson, with avera
 - [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](rate-manipulation-magnitude-groups.md) — related
 - [Following a slow rhythmic beat while writing words slows habituated writers and produces speed uncertainties that harm form quality](imposed-beat-slows-word-writing-harms-quality.md) — related
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
+- [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](targeted-training-doubles-reading-fluency-first-graders.md) — related

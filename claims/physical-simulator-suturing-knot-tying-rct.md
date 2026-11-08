@@ -50,3 +50,4 @@ The review reports a randomized controlled trial attributed to Tellez et al. (20
 - [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — reports the opposite
 - [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](skill-type-moderates-digital-effectiveness-suturing-cpr.md) — related
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
+- [Prior evidence suggests IVR training can outperform video demonstration for surgical skill acquisition, though in a different procedural domain](ivr-outperforms-video-for-skill-acquisition-background.md) — related

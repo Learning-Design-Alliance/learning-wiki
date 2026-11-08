@@ -54,3 +54,4 @@ Multilevel random-effects meta-analysis of 48 studies (78 samples) reporting WIS
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related
 - [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related
+- [Male students show significantly higher SBP and lower SpO2 than female students at each time point, with negligible clinical significance](males-higher-sbp-lower-spo2-across-time-points.md) — related

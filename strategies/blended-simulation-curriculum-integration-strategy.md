@@ -58,6 +58,7 @@ The review recommends embedding simulation into the fabric of surgical education
 - [Concomitant use of VR and physical simulators, matched to procedural versus task-based training needs](concomitant-vr-physical-simulator-use-strategy.md)
 - [Structured, competency-based procedural VR training programme for robotic surgery curricula](structured-competency-based-procedural-vr-programme.md)
 - [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
+- [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 
 ## Examples
 -

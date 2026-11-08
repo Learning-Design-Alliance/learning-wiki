@@ -45,6 +45,7 @@ The Paired Reading delivery team trained teachers over two sessions totalling on
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md)
+- [Pair brief e-learning with practical frameworks, downloadable materials and behaviour change techniques to support implementation into practice](elearning-plus-practical-framework-implementation-strategy.md)
 
 ## Examples
 -

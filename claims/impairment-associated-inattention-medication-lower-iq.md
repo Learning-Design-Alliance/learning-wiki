@@ -51,3 +51,5 @@ Secondary analysis linking neuropsychological impairment status (WM, STM, and/or
 - [In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not](adhd-i-wm-impaired-stm-not-more-common.md) — related
 - [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
 - [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related
+- [Boys born preterm show more inattention symptoms, reading flaws and operational-memory IQ alterations than girls](preterm-boys-inattention-reading-working-memory.md) — related
+- [Early neonatal sepsis is associated with parent-rated inattention and hyperactivity symptoms, and severe intraventricular hemorrhage with altered Piaget operational stage](early-sepsis-severe-hemorrhage-attention-cognitive-changes.md) — related

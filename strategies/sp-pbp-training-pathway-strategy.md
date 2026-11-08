@@ -53,6 +53,7 @@ The article recommends building structured, proficiency-based robotic training c
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 - [Use the hinotori™ system for structured skill acquisition in pediatric surgical training for novice robotic users](hinotori-structured-skill-acquisition-training-strategy.md)
 - [Incorporate PBP systematically into academic/institutional surgical training curricula for novice CIED implanters](systematic-pbp-in-cardiology-training-curricula.md)
+- [Use validated procedure metrics to set proficiency benchmarks trainees must demonstrate before progression to real patients](proficiency-benchmarks-before-progression-rarp-strategy.md)
 
 ## Examples
 -

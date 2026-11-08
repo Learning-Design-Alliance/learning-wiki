@@ -45,6 +45,7 @@ A blended PET course for Chinese university PE students combining an online self
 
 - [Collaborative Cyber Community (3C) model as a framework for designing the virtual part of blended PET curriculum](collaborative-cyber-community-3c-model.md)
 - [Fully online virtual bedside teaching course for pharmacy students (Universität München)](virtual-bedside-teaching-online-course-munich.md)
+- [Year-3 self-directed e-learning course combining reflective self-assessment and clinical video analysis](year3-self-directed-elearning-clinical-course.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ The executive summary asserts this association in its framing paragraph, citing 
 - [School-based substance use interventions with an explicit theoretical foundation are associated with more robust outcomes than atheorised models, which more often showed fluctuating outcomes](theory-grounded-substance-prevention-more-robust-outcomes.md) — related
 - [School-only substance use interventions such as HeadOn and SUPEP improved knowledge and attitudes without corresponding behavioural change](school-only-interventions-knowledge-attitude-no-behaviour-change.md) — related
 - [Health topics of school health-education interventions shifted over four decades and varied by region](health-topic-trends-over-decades.md) — related
+- [More frequent substance use predicts worse Math grades in adolescents](substance-use-predicts-worse-math-grades.md) — a narrower finding that bears on this claim

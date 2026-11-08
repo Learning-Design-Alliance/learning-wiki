@@ -58,3 +58,4 @@ Quasi-experimental pre–post one-group study (Alsaqer and Alhmoud 2025, Jordan)
 - [Screen-based simulation training raises nursing students' post-test self-efficacy in pediatric drug administration compared with verbal instruction](screen-simulation-raises-pediatric-drug-self-efficacy.md) — related
 - [VR-based disaster simulation education increases learning immersion more than written case simulation](vr-simulation-learning-immersion-gain.md) — related
 - [Nurses prefer short-term training of 3 days to 1 week, with scenario-based simulation and emergency drills the most popular methods](nurse-training-preferences-short-simulation.md) — related
+- [Virtual reality simulation training combined with skills training produces higher emergency care capability ratings than conventional training in reserve nurses](vr-simulation-higher-emergency-care-capability.md) — related

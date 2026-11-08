@@ -56,3 +56,4 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - [Students creating homemade PowerPoint games in an environmental chemistry class wrote primarily knowledge-level questions](ppt-games-primarily-knowledge-questions.md) — related
 - [Experimental class outperforms control class across all Bloom's taxonomy cognitive process categories in physics](experimental-class-outperforms-across-bloom-categories-physics.md) — related
 - [The cartooning activity engaged students in cognitive processes beyond the first level of Bloom's taxonomy, including analysis, evaluation and creativity](cartooning-blooms-taxonomy-higher-order.md) — related
+- [Student-authored PeerWise questions spanned all six revised-Bloom cognitive levels, with Clinical Pharmacology questions skewed toward lower levels](peerwise-question-cognitive-level-distribution.md) — reports the opposite

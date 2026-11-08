@@ -56,3 +56,4 @@ Independent t test comparing the flipped classroom group with the traditional co
 - [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related
 - [A four-month flipped classroom significantly improved Chinese college students' total English learning motivation versus traditional teaching](flipped-classroom-raises-total-english-motivation.md) — a broader claim this one bears on
 - [Autonomous learning motivation and intrinsic motivation significantly predict English scores](autonomous-intrinsic-motivation-predict-english-scores.md) — related
+- [Flipped learning did not increase medical students' situational autonomous or controlled motivation to participate in simulation training](flipped-learning-no-motivation-increase.md) — reports the opposite

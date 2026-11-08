@@ -69,3 +69,5 @@ Same rating-versus-difficulty analysis, discipline-level results. Prosthodontics
 - [Two independent Angoff panels from different Swedish universities rate licensure exam items consistently (ρ ≥ 0.70) with no significant differences](angoff-inter-panel-consistency-across-institutions.md) — related
 - [Review-based AI overall difficulty correlates strongly with problem-level student pass rate across 79 parallel-class exam problems](review-based-ai-difficulty-problem-level-correlation.md) — related
 - [Passing participants' median scores did not reach the Angoff median in several disciplines, indicating residual knowledge gaps](participants-below-angoff-median-knowledge-gaps.md) — related
+- [Mean operative skill scores improved significantly from the 2nd to the 3rd Guanghua Cup at the periodontology, prosthodontics, and dental anatomy stations (p < 0.05)](guanghua-cup-operative-scores-improved-stations-2-4-5.md) — related
+- [Participation in the Guanghua Cup grew across its three years, reaching 24 schools and 228 undergraduate dental students from all geographical regions of China](guanghua-cup-participation-growth-24-schools.md) — related

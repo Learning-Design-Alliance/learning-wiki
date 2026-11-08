@@ -53,3 +53,4 @@ Series of three multiple regressions (N = 293) with the four SLE types as predic
 - [Stressful life events were highly prevalent in this suburban sample, exceeding national prevalence estimates](sle-prevalence-suburban-latine-sample.md) — related
 - [Higher psychological distress is associated with lower subjective academic achievement among university students](psychological-distress-lower-saas.md) — related
 - [Grade-retained students are approximately three times more likely to show negative academic outcomes than classmates](grade-retention-triples-underachievement-risk.md) — related
+- [Students with higher academic achievement report less psychological distress and less aggressive behaviour at the individual level](individual-achievement-lower-distress-aggression.md) — related

@@ -71,3 +71,5 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Participants rate all otoscopy training sessions positively and perceive high learning improvement regardless of training modality](positive-ratings-all-otoscopy-training-modalities.md) — related
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [First impression ratings formed a moderately internally consistent scale across MMI stations (α = 0.71), about equal to the internal consistency of MMI performance ratings (α = 0.69)](fir-internal-consistency-alpha-071.md) — related
+- [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related
+- [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related

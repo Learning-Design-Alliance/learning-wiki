@@ -50,3 +50,4 @@ Kruskal-Wallis H test of PRMQ scores across combined cortisol-tertile and stress
 - [Lower physical activity combined with higher perceived stress is associated with poorer perceived memory performance](low-activity-high-stress-poorer-perceived-memory.md) — related
 - [Perceived academic stress correlates positively with perceived memory problems among preclinical medical students (rS = 0.445)](perceived-stress-correlates-poorer-perceived-memory-medical-students.md) — related
 - [Physical activity moderates but does not eliminate the elevated academic risk of the high-risk profile](physical-activity-moderates-academic-risk-partially.md) — related
+- [Preclinical medical students report significantly higher perceived stress than clinical students](preclinical-students-higher-perceived-stress.md) — related

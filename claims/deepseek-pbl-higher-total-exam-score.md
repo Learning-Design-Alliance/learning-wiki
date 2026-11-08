@@ -47,3 +47,4 @@ Non-randomized controlled trial of 30 residents per group at one hospital; indep
 ## Related Claims
 - [DeepSeek-assisted PBL residents outperform traditional PBL residents in four of five competency domains (Exams I, III, IV, V), with no difference in procedural skills (Exam II)](deepseek-pbl-four-of-five-exam-domains.md) — related
 - [Anesthesiology trainees taught with a DeepSeek-based AI teaching assistant on top of traditional teaching achieved significantly higher immediate theoretical test scores than those taught by traditional teaching alone](deepseek-assistant-higher-immediate-anesthesia-theory-scores.md) — related
+- [Hematology postgraduates in the WeChat-PBL program achieved high average quiz scores across five hematological diseases, ranging from 77.5% for lymphoma to 89.0% for acute myelogenous leukemia](wechat-pbl-quiz-scores-five-diseases.md) — related

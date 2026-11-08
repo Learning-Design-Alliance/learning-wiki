@@ -49,3 +49,4 @@ First-round expert ratings showed two items below the 0.80 threshold for clarity
 - [The single low-rated item, scenario content facilitating critical thinking, was revised per reviewer suggestions and reached CVI and MKC of 1.00 in round two](critical-thinking-item-revised-to-full-agreement.md) — related
 - [The clinical simulation scenario reached 100% expert agreement on all items after a second Delphi round in which four modified items improved their Content Validity Index](simulation-scenario-cvi-improvement-second-round.md) — related
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
+- [The lowest-agreement items (90.2%–93.7%) each prompted specific expert revision advice, including a suggested 2–3:1 bed-to-student ratio](lowest-agreement-items-revision-advice.md) — related

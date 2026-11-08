@@ -56,3 +56,4 @@ Descriptive survey results from the 229-student comparison section: 79.9% (n=183
 - [Most students reported that the system's realistic simulation and unlimited practice helped them, and most preferred the offline haptic section for three-dimensional adjustment and real-time feedback](student-preference-offline-haptic-feedback.md) — related
 - [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — reports the opposite
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
+- [The authors conclude that clinical simulation helps nursing students increase their confidence and satisfaction for facing real clinical scenarios](simulation-increases-confidence-satisfaction-authors-conclusion.md) — related

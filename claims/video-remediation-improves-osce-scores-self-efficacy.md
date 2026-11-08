@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 sources:
   - id: park-kye-yeung-2024
     resource: "https://doi.org/10.1080/10872981.2024.2392428"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After video-based remediation, the total and subcomponent OSCE scores (history taking, physical examination, patient education, clinical courtesy, and patient–physician interaction) of all students increased significantly. [→ Park Kye-Yeung 2024](#park-kye-yeung-2024)
@@ -55,3 +56,4 @@ Paired-sample t-test on twelve-station OSCE scores before and after video-based 
 - [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related
 - [A five-week simulation-based clinical readiness module was associated with statistically significant pre-to-post OSCE improvements in five pediatric dentistry outcomes (Medical History Taking, Child–Parent Communication, Team Dynamics, Fissure Sealant Application, Fluoride Application)](readiness-module-osce-gains-five-outcomes.md) — related
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
+- [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related

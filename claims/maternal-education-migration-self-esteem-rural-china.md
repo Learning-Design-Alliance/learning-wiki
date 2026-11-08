@@ -68,3 +68,4 @@ Probit model with marginal effects (Table 3, columns 2–3) on the binary low se
 - [A one-SD increase in RSES self-esteem score is associated with a 0.12 SD higher standardized math score among rural Chinese students](rses-one-sd-increase-0-12-sd-math-rural-china.md) — related
 - [Gender, age, ethnicity, boarding status, paternal education, paternal migration, and family assets show no significant association with self-esteem in adjusted models](null-associations-self-esteem-adjusted-model.md) — related
 - [Rural Chinese students show lower mean self-esteem and higher prevalence of low self-esteem than similarly aged students in urban China and internationally](rural-china-lower-self-esteem-than-urban-international.md) — related
+- [Female gender, urban residence, and higher maternal education are associated with increases in depressive symptoms](female-urban-maternal-education-risk-factors-ds-increase.md) — related

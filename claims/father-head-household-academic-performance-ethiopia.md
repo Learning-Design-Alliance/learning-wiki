@@ -53,3 +53,5 @@ In the multivariate model of the 399-child cross-sectional study, father head of
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Socioeconomic conditions (father's education, mother's occupation) indirectly affect GMKT performance via psychological/personality features and BMI, with no significant direct effect](socioeconomic-indirect-gmkt-pathway.md) — related
+- [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — reports the opposite
+- [Mothers' education predicts spelling and fathers' education predicts reading, but not math, in the fully adjusted model](parental-education-predicts-reading-spelling-rural-bangladesh.md) — related

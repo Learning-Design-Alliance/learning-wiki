@@ -51,3 +51,4 @@ A paired-samples t-test on pre- and post-training confidence surveys of 277 CHW 
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) — related
 - [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) — related
 - [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](simulation-confidence-gain-persistent-backlash-concerns.md) — related
+- [Confidence in addressing sexual concerns rose from baseline to immediately after e-learning but did not change significantly by 4 weeks in one uncontrolled pre-post study](elearning-confidence-gain-not-maintained.md) — related

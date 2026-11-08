@@ -16,7 +16,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (15 for, 8 mixed, 3 against) · 21 studies (8 causal, 5 theoretical, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 21 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (16 for, 8 mixed, 3 against) · 22 studies (9 causal, 5 theoretical, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 22 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Learners, forms and sources differ across these claims, so do not rank them by l
 - [CG-based grammar instruction produces significant short- and long-term learning gains in use of the English active and passive voice](../claims/cg-based-voice-instruction-significant-gains.md) [+M] — attached 2026-11-03 from Jakub Bielak et al. (2013), which proposed "Use meaning-oriented grammatical descriptions to elucidate semantic differences between competing structures"; tests this page's relationship.
 - [Traditional instruction was more successful than CG-based instruction on the more spontaneous oral test](../claims/traditional-instruction-superior-oral-spontaneous.md) [-M] — attached 2026-11-03 from Jakub Bielak et al. (2013), which proposed "Use meaning-oriented grammatical descriptions to elucidate semantic differences between competing structures"; tests this page's relationship.
 - [Teaching semantic prosody of English verbs through the DDL approach significantly improves EFL learners' vocabulary choice appropriateness compared with traditional instruction](../claims/ddl-semantic-prosody-improves-vocabulary-choice.md) [+W] — attached 2026-11-03 from Mansoory et al. (2014), which proposed "Teach semantic prosody of near-synonym verb sets through data-driven learning with corpus concordancing rather than dictionaries alone"; tests this page's relationship.
+- [Cross-linguistic consciousness-raising significantly reduces written errors in adverb position in learners' writing production](../claims/cross-linguistic-cr-reduces-adverb-writing-errors.md) [+W] — attached 2026-11-08 from Seyyed Yavar Hosseininik et al. (2014), which proposed "Use explicit cross-linguistic comparison of L1 and L2 structures to curb negative transfer and improve L2 written accuracy".
 
 ## Objective and learner-valued goal
 

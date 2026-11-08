@@ -49,6 +49,7 @@ Based on their findings, the authors recommend that "Interventions aiming at imp
 ## Related Strategies
 
 - [Support academic development of students with weaker inhibitory-control circuitry by strengthening parental warmth and supportive home environments](parental-warmth-support-for-weak-inhibitory-control.md)
+- [Academic counseling that builds adolescent girls' academic confidence and parental involvement in educational activities](academic-counseling-girls-confidence-parental-involvement-strategy.md)
 
 ## Examples
 -

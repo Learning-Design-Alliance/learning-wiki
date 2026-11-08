@@ -48,3 +48,5 @@ Comparative observational analysis of platform registration logs for two single-
 - [A majority of students in both cohorts either did not register at the platform or were nonusers (84% non-pandemic, 47% pandemic)](high-nonuse-elp-both-cohorts.md) — reports the opposite
 - [Reads and downloads per user per day approximately doubled during the lockdown period, with a statistically significant difference for reads (p = 0.0059)](reads-per-user-day-doubled-lockdown.md) — related
 - [The relative distribution of e-learning user types (online, offline, balanced, nonusers) did not change during the COVID-19 lockdown](user-type-distribution-unchanged-lockdown.md) — related
+- [New learner registrations on the NSTDC e-learning platform increased 34% in March 2020 and 86% in April 2020 above the prior 12-month monthly average during the early COVID-19 pandemic](nstdc-registrations-surge-covid-19.md) — related
+- [Creation of NSTDC learning groups increased 300% in March 2020 and 467% in April 2020 above the prior 12-month monthly average during the early COVID-19 pandemic](nstdc-learning-group-creation-surge-covid-19.md) — related

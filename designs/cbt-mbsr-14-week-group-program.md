@@ -44,7 +44,8 @@ The intervention is a "structured 14-week guided self-help program" delivered in
 - [Cbt Mbsr Improved Academic Achievement Meat](../claims/cbt-mbsr-improved-academic-achievement-meat.md) [+M]
 
 ## Related Designs
-- 
+
+- [WhatsApp-delivered REE stress management program: 10 weekly 75-minute virtual sessions with homework and the ABCDE model](ree-whatsapp-program-element.md)
 
 ## Examples
 -

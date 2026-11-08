@@ -56,3 +56,4 @@ OLS regression on the observational dataset of Shanghai eighth-graders who provi
 - [Optimal sleep duration varies by subject: about 8–9 hours for mathematics and 7–8 hours for Chinese, English, science, and arts](subject-specific-optimal-sleep-duration.md) — a narrower finding that bears on this claim
 - [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](sleep-duration-associated-entrance-success.md) — related
 - [Adherence to physical activity and sleep guidelines may not be necessary for optimal adolescent academic achievement; amounts slightly below recommendations may suffice](guideline-adherence-not-required-optimal-grades.md) — reports the opposite
+- [Average sleep hours showed no significant association with academic outcomes or prefrontal function parameters in this adolescent sample](sleep-null-adolescent-grades-prefrontal.md) — reports the opposite

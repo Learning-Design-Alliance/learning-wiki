@@ -66,3 +66,4 @@ Same scoring-system analysis; the assistance gap was largest in needle tip visua
 ## Related Claims
 - [Procedure times for ultrasound-guided CVC placement steps were shorter with AR-US than S-US but did not reach statistical significance](ar-us-procedure-times-shorter-nonsignificant.md) — related
 - [Trainees performing ultrasound-guided CVC placement shift visual focus from the ultrasound display to the simulator far less often with AR-US than with S-US](ar-us-reduces-visual-focus-shifts-cvc.md) — related
+- [Needle tip visualization during the in-plane approach rose from pre-test to posttest after training with the modular system, in one uncontrolled pre-post study](needle-tip-visualization-improved-after-training.md) — related

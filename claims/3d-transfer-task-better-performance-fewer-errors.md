@@ -48,3 +48,4 @@ In the 2D vs. 3D comparison with curved instruments on the complex transfer task
 - [In the 2D transfer task, novices with straight instruments made fewer errors than those with curved instruments, with no difference in performance score or time](2d-transfer-task-fewer-errors-straight-instruments.md) — related
 - [With complex curved instruments, 3D visualization gives novices an advantage over 2D in Intracorporeal Suture performance](3d-advantage-curved-instruments-intracorporeal-suture.md) — related
 - [With curved instruments, 3D visualization benefits PEG Transfer performance only at early test times, with no difference in errors](3d-peg-transfer-early-advantage-curved.md) — reports the opposite
+- [Novices training in 3D take fewer repetitions and achieve lower time-plus-error performance scores than novices training in 2D during proficiency-based laparoscopic training](3d-training-fewer-repetitions-lower-scores-laparoscopic.md) — related

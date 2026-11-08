@@ -41,7 +41,8 @@ Based on their finding that flexibility uniquely predicted achievement only in G
 - [Ef Three Core Components Model](../theories/executive-function-development.md)
 
 ## Related Strategies
-- 
+
+- [Assess psychological flexibility alongside physical, cognitive, and visual abilities when identifying and developing surgical potential](assess-psych-flexibility-in-surgical-selection.md)
 
 ## Examples
 -

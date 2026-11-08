@@ -66,3 +66,4 @@ Between-group comparison in the same randomized trial: the VP and SP groups did 
 - [Clinical reasoning skills of ophthalmology residents significantly improve after a 30-minute virtual-patient exercise (pretest 12.7 ± 3.84 to posttest 16.30 ± 3.19)](vp-exercise-improves-clinical-reasoning-significantly.md) — related
 - [Retention of clinical reasoning skills one month after the exercise does not differ between virtual-patient and standardized-patient training, though scores slightly decline from posttest](vp-sp-retention-one-month-no-difference.md) — related
 - [Normalized learning gain is comparable immediately after the exercise (51.46% SP vs 49.1% VP) and at one month (38.01% SP vs 40.12% VP)](vp-sp-learning-gain-percentages.md) — related
+- [Systematic review evidence cited: virtual patient education is more effective than traditional education for acquiring clinical skills and knowledge](virtual-patients-more-effective-than-traditional-education.md) — related

@@ -51,3 +51,4 @@ Multivariable logistic regression (Table 4): interest-based expectation OR = 1.1
 - [Positive peer relationships predict academic resilience in grades 6 and 11 but not grade 9](peer-relationships-predict-resilience.md) — related
 - [Resilient students significantly outperform disadvantaged average and low achievers on academic achievement in every grade](resilient-students-higher-achievement-all-grades.md) — related
 - [Positive teacher–student relationships predict academic resilience in grades 6 and 9 but not grade 11](teacher-student-relationships-predict-resilience.md) — related
+- [Early literacy activities in the family before school increase the chances of academic resilience; in Lithuania resilient-track students who did them were twice as likely to be resilient](early-family-literacy-activities-double-resilience-lithuania.md) — related

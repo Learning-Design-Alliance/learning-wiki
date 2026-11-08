@@ -51,3 +51,4 @@ Exploratory prospective study in which ten voluntarily enrolled medical students
 - [Video gaming experience is tentatively associated with greater fluoroscopy-time reduction in simulator training](video-gaming-experience-tentative-fluoroscopy-reduction-association.md) — related
 - [Mean completion time for the five-scenario puzzle decreased significantly across all three paired comparisons](5cardsgame-completion-time-decrease.md) — related
 - [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — related
+- [SCS training produced a statistically significant greater reduction in procedure time in the intervention group than in the control group (–15.98 versus –1.14 min; P = 0.024)](scs-reduces-procedure-time-simulated-cholecystectomy.md) — related

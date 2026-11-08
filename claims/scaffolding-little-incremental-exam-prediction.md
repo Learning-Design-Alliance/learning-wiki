@@ -81,3 +81,4 @@ Appendix C sensitivity analysis replacing mean scaffolding with counts of L4 (So
 - [AI-context variables and personality traits add incremental variance to self-directed learning beyond covariates, but personality-trait × AI-dimension interactions add only a substantively small increment](hierarchical-regression-incremental-variance-sdl.md) — related
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — related
 - [Written knowledge-test scores explain only a small share of overall OSCE score variability in both groups (11% comparator, 14% intervention)](written-test-score-small-share-osce-variance.md) — related
+- [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — related

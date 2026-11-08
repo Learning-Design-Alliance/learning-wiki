@@ -54,3 +54,5 @@ NASA TLX self-assessments collected between tasks in the randomized controlled s
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related
 - [IVR-trained participants performed tasks independently more frequently and required less physical assistance than e-learning participants](ivr-independent-performance-physical-assistance.md) — related
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — a narrower finding that bears on this claim
+- [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related
+- [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related

@@ -70,3 +70,4 @@ Meta-analysis of 15 randomized controlled trials with 816 learners (745 medical 
 - [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
 - [AR/VR and digital tools in anatomy learning show consistently high student acceptance and better 3D understanding, but effects on knowledge gain vary widely across studies](arvr-anatomy-high-acceptance-mixed-knowledge-gain.md) — related
 - [No significant difference was found between the teaching methods in improving interns' understanding of cerebrovascular diseases](3d-printing-pbl-no-difference-understanding.md) — related
+- [Prior studies report that higher-fidelity 3D and VR surgical simulation methods are appropriate alternatives to 2D conventional orthognathic surgical simulation](higher-fidelity-3d-vr-simulation-appropriate-alternative.md) — related

@@ -69,3 +69,4 @@ Narrative review synthesis of two child studies on perception versus event expos
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
 - [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related
 - [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
+- [Undergraduates rate stress from uncontrollable stressors as significantly more debilitating than stress from controllable stressors, with a large effect](stress-mindset-varies-by-stressor-controllability.md) — related

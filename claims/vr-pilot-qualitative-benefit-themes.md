@@ -75,3 +75,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related
 - [Free-text trainee comments yielded three additional learning-need themes: procedural skills, dealing with difficult colleagues, and acute care](trainee-free-text-three-themes.md) — related
 - [Small-group VPS training significantly improved perceived curricular integration on all 7 paired items](vps-training-improves-perceived-curricular-integration.md) — related
+- [Participants reported improved communication skills after ACP-SCT, including patient listening, inferring message meanings, and responding to emotions](acp-sct-self-reported-communication-gains.md) — related

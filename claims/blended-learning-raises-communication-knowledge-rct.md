@@ -55,3 +55,6 @@ Randomized controlled trial of 164 second-year medical students, gender-matched 
 - [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](blended-learning-communication-course-feasibility-pilot.md) — related
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
 - [Assessment performance showed no significant difference based on year of medical school, suggesting the assessment primarily targeted language and communication skills rather than medical knowledge](no-year-of-school-difference-spanish-assessment.md) — related
+- [Flexible e-learning video teaching improves medical students' diagnostic accuracy of funduscopic findings more than a face-to-face lecture](elearning-video-improves-fundus-diagnostic-accuracy.md) — related
+- [Flexible e-learning video teaching raises medical students' confidence in performing funduscopic examination more than a face-to-face lecture](elearning-video-raises-fundus-confidence.md) — related
+- [Face-to-face lecture teaching alone produced no statistically significant pre-to-post gain in funduscopic diagnostic accuracy](f2f-lecture-no-accuracy-gain.md) — related

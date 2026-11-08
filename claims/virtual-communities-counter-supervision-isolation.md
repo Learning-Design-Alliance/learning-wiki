@@ -71,3 +71,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
 - [Remote psychotherapy supervision showed comparable skill quality to face-to-face supervision but was less preferred](remote-psychotherapy-supervision-comparable-quality-less-preferred.md) — related
 - [Students came to see that online teaching needs new figures and tools that facilitate communication and aggregation, particularly a supportive tutor figure](online-teaching-needs-supportive-tutor-figure.md) — related
+- [Participants reported mostly positive mental wellbeing online, with social isolation and lost peer contact as key barriers](mental-wellbeing-online-term-positive-with-isolation-barrier.md) — related

@@ -73,3 +73,4 @@ The objective-errors outcome (0–20 estimated errors on the same writing sample
 - [Belief in school meritocracy moderates set allocation in a three-way interaction with student SES and ethnicity, contrary to predictions](bsm-three-way-interaction-set-allocation.md) — related
 - [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md) — reports the opposite
 - [Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2](achievement-level-predicts-material-choice-study2.md) — related
+- [Blind versus open grading shows no significant ethnic bias in university exam grades](no-ethnic-bias-blind-grading-quasi-experiment.md) — related

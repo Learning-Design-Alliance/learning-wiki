@@ -78,3 +78,4 @@ Test-retest reliability was assessed with a 2-week interval by randomly selectin
 - [The scale shows robust reliability: Cronbach's alpha 0.96, Spearman-Brown 0.86, and composite reliability coefficients above 0.60](gp-depression-scale-reliability-alpha-0-96.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related

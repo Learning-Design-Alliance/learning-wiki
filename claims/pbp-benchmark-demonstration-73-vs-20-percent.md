@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 sources:
   - id: mascheroni-j-2024
     resource: "https://doi.org/10.1093/europace/euae229"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` 11/15 (73%) PBP trainees versus 3/15 (20%) SIM trainees demonstrated the predefined skills proficiency benchmark, a significant relationship. [→ Mascheroni J 2024](#mascheroni-j-2024)

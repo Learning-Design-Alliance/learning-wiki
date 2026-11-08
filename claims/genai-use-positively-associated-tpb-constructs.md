@@ -57,3 +57,4 @@ Direct-path results from the structural equation model of the 1243-student surve
 - [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related
 - [Autonomous motivation significantly and positively predicts subjective norms, contrary to theoretical expectations](autonomous-motivation-predicts-subjective-norms-positively.md) — related
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
+- [Changes in attitude, social norms, and intention were not significantly associated with changes in academic achievement](attitude-norms-intention-change-null-achievement.md) — related

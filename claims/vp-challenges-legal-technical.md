@@ -54,3 +54,4 @@ Qualitative content analysis of VP descriptions. The Challenges subcategory repo
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related
 - [Core barriers to VP training implementation were limited physical examination fidelity, a restrictive documentation interface, transfer difficulty, and variable workshop effectiveness](vp-training-implementation-barriers.md) — related
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
+- [The standard training program showed intermediate effects on three values-related competencies but no effect on three technical competencies](values-competencies-intermediate-technical-no-effect.md) — related

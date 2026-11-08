@@ -51,3 +51,4 @@ Survey of 105 neonatal trainees across 24 UEMS countries found variation in prog
 - [Structured workplace‐based assessment tools are rarely used: EPAs in 7.1%, DOPS in 9.5%, and Mini‐CEX in 2.4% of curricula, while 78.6% include competency‐based learning objectives and 42.9% use logbooks](structured-assessment-tools-rarely-used-epas-dops-minicex.md) — related
 - [Postgraduate curricula at SCFHS show significant discrepancies in educational-activity terminology and methods across programs](scfhs-curricula-ea-terminology-discrepancies.md) — related
 - [Summative EUS assessment requires ratings of ready for independent practice across two DOPS by two different assessors, one external to the trainee's unit](summative-dops-two-assessors-one-external.md) — related
+- [Structured interviews have two to three times the predictive value of unstructured interviews but are rarely used in EU selection](structured-interviews-predictive-value-selection.md) — related

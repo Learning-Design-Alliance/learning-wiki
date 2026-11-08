@@ -74,3 +74,4 @@ Fall counts from self-reported fall calendars over 24 weeks compared by Poisson 
 - [Exergaming fosters small but significant improvements in quality of life for people living with chronic diseases, and structured programs associate with executive functioning gains](exergaming-quality-of-life-executive-gains.md) — related
 - [Bodily health and activity make for a normal and happy emotional life, supported by serviceable physical outlets](physical-outlets-emotional-hygiene.md) — related
 - [Implementation of the capabilities model of dementia care was associated with better staff work satisfaction and family-rated quality of life at 12 months](capabilities-model-dementia-care-improved-satisfaction-qol.md) — related
+- [Active learning health education increases self-reported total physical activity more than didactic education in older adults with low health literacy](active-learning-education-increases-physical-activity-low-health-literacy.md) — related

@@ -63,3 +63,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [English academic performance scores rose significantly from pre-test to post-test, with a large effect size (d = 0.93), in one group with no comparison group](intervention-improves-english-performance-large-effect.md) — related
 - [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related
 - [Learning scores for all five theory modules were higher in the flipped classroom group, averaging an 11.2% increase](flipped-classroom-module-scores-higher-all-five.md) — related
+- [OSCE scores were below national average scores at pre-test and above national average scores at post-test in one uncontrolled pre-post study](post-osce-scores-exceeded-national-average.md) — related

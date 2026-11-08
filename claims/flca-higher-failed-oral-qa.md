@@ -70,3 +70,4 @@ One-way ANOVA within the immersion group comparing FLCAS scores between students
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — related
 - [Students who failed the oral exam were excluded because they received immediate notification of non-passing status and could not make an independent self-assessment](failed-students-excluded-independent-self-assessment.md) — related
+- [More students failed the VP exam (17, 3%) than the oral exam (1 student) over five years](vp-exam-failure-rate-higher-than-oral.md) — related

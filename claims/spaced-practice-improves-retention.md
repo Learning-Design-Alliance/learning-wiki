@@ -386,3 +386,5 @@ Experiment 1 of the article. Undergraduates at a US university learned to count 
 - [Massed learners' performance declined after about four repetitions while spaced learners' performance rose toward a proficiency plateau](massed-declines-spaced-asymptotes-mastoidectomy.md) — a narrower finding that bears on this claim
 - [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](optimal-isi-scales-with-retention-interval-cognitive-reviews.md) — a broader claim this one bears on
 - [Retention after 3–5 weeks does not differ between short-interval and long-interval proficiency-based simulator training schedules](interval-length-no-difference-retention-test-time.md) — related
+- [Massed instruction may potentiate learning in certain circumstances, particularly those involving motor learning](massed-learning-motor-learning-circumstances.md) — related
+- [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — a narrower finding that bears on this claim

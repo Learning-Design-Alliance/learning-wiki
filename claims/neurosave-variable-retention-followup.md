@@ -53,3 +53,4 @@ Baseline-to-follow-up paired Wilcoxon comparisons in the n = 7 follow-up subset.
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
+- [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related

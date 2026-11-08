@@ -50,3 +50,4 @@ Multivariate linear regression (Model 2) in a two-wave study of 345 adolescents 
 - [Family SES, authoritative parenting, permissive parenting, and their SES interactions are significant predictors jointly explaining 59.3% of variance in academic performance](regression-five-predictors-59-percent-variance.md) — related
 - [Attending a private school and being younger are independently associated with higher academic achievement](private-school-younger-age-higher-achievement.md) — related
 - [Parenting style relates to achievement indirectly through self-efficacy alone and through intention alone](indirect-effects-self-efficacy-intention-separately.md) — related
+- [Increases in adherence to the Mediterranean diet are associated with increases in academic achievement among Lebanese adolescents at both 6- and 12-month follow-up](mediterranean-diet-adherence-increase-associated-academic-achievement.md) — related

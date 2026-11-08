@@ -51,3 +51,4 @@ Three-arm RCT of 60 MIS-naive medical students, each group receiving 16 h of tra
 - [No significant between-group differences in pre-test, post-test, or improvement (delta) performance scores across the three training mixes](no-between-group-delta-differences-pt-cl-mixes.md) — related
 - [From pre-test to post-test, fellows' global rating scale scores rose in all domains except Preparation, while the most senior group continues to lead in Time and Motion, Flow, and Overall performance](global-rating-improvements-seniority-gaps-persist.md) — related
 - [The unweighted and weighted A-OSATS scores correlated highly with the general OSATS global rating scale and with each other](a-osats-correlates-with-osats-grs.md) — related
+- [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related

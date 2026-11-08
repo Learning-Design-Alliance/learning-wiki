@@ -50,6 +50,7 @@ The study concludes that institutions in resource-constrained medical education 
 
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
+- [Institutional expert support and one-on-one matching to help faculty adopt digital education tools](faculty-one-on-one-matching-digital-adoption-strategy.md)
 
 ## Examples
 -

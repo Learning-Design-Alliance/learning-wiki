@@ -69,3 +69,4 @@ In the same regression analysis, adjusted learning-disability odds were "elevate
 - [Children born at 32-34 6/7 weeks gestation have elevated adjusted odds of teacher-rated below-grade performance in kindergarten, with significance lost after kindergarten in every subject](moderately-preterm-below-grade-kindergarten.md) — related
 - [Children born at 32-34 6/7 weeks gestation have significantly lower test scores than term children in reading, mathematics, and science at multiple grades kindergarten through fifth grade](moderately-preterm-lower-academic-scores-multiple-grades.md) — related
 - [Children born 32-36 6/7 weeks gestation have significantly higher rates and adjusted odds of individualized education plans than term children](preterm-higher-iep-odds.md) — related
+- [Children from unstructured families show higher rates of reading failure and clinically diagnosed school difficulties](unstructured-family-reading-failure-school-difficulties.md) — related

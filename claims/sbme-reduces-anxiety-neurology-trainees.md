@@ -77,3 +77,4 @@ Table 3 reports per-item STAI-6 medians pre and post simulation; the total score
 - [State anxiety significantly improved 3 months after simulation-based training, though trained participants had higher baseline state anxiety than controls](state-anxiety-improved-3-months-after-simulation-training.md) — related
 - [Absence of suitable training models and psychological anxiety are the predominant barriers novice ophthalmology residents report to lacrimal irrigation skill mastery](training-model-absence-and-anxiety-barriers-to-mastery.md) — related
 - [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — a narrower finding that bears on this claim
+- [Individual anxiety items decrease after simulation, but not all significantly in both sessions](anxiety-item-level-changes-mixed.md) — related

@@ -48,3 +48,4 @@ Two-stage multivariate regression on the trial's achieved scores (Table 17): adj
 - [A regression model yields a treatment coefficient of 0.13, agreeing with the direction of the headline trial finding](ar-regression-treatment-coefficient.md) — possibly the same claim (merge candidate)
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Symbolic-regression models built on previous exam grades account for roughly 70% of exam-score variation, but predict project scores poorly (about 35%)](exam-scores-predictable-project-scores-not.md) — related
+- [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — a narrower finding that bears on this claim

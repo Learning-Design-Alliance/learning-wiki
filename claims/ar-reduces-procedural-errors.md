@@ -92,3 +92,5 @@ Parallel RCT (n=40 medical students) across 10 ex vivo laparoscopic cholecystect
 - [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — a narrower finding that bears on this claim
 - [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related
 - [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related
+- [AR instructions reduce knowledge-related errors by 66% in the complex ECMO training procedure, while handling errors are similar across instruction types](ar-instructions-66-percent-knowledge-error-reduction.md) — a narrower finding that bears on this claim
+- [AR-based instructions significantly reduce error counts compared with conventional instructions during the more complex second ECMO cannulation training procedure](ar-instructions-fewer-errors-complex-ecmo-procedure.md) — a narrower finding that bears on this claim

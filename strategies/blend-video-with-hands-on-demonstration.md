@@ -53,6 +53,7 @@ Based on findings that video teaching matched demonstration on knowledge and mos
 - [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 - [Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks](hierarchical-hybrid-teaching-vocational-skills.md)
 - [Use an animated training video demonstrating the guided-surgery workflow to prepare inexperienced operators before hands-on performance](animated-video-tutorial-novice-surgical-training.md)
+- [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 
 ## Examples
 -

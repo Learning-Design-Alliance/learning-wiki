@@ -50,3 +50,4 @@ Phase 4 reliability evaluation on the same 249-valid-response sample. The articl
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
+- [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related

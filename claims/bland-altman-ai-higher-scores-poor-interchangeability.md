@@ -50,3 +50,4 @@ Agreement analysis of the same AI–expert score pairs. The article reports wide
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — related
 - [Three LLMs showed inconsistent systematic bias on multimodal OSPE grading: Claude over-scored by +2.5 points (proportional), Gemini under-scored by −5.0 and ChatGPT by −10.0 points (non-proportional)](llm-ospe-systematic-bias-bland-altman.md) — related
 - [Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration](llama-strongest-human-llm-alignment-claude-weakest.md) — related
+- [Bland–Altman analysis shows peer and instructor scores agree closely, with limits of agreement from -1.17 to +1.16](bland-altman-agreement-peer-instructor.md) — related

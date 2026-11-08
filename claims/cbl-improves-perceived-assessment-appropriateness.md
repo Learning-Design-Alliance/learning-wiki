@@ -47,3 +47,4 @@ Kulak, V., & Newton, G. (2015). An Investigation of the Pedagogical Impact of Us
 ## Related Claims
 - [Significant group x internet-use frequency interaction on appropriate assessment subscale](group-frequency-interaction-appropriate-assessment.md) — related
 - [MOOC-HFS blended model improves course experience across all CEQ subscales with large effect sizes](mooc-hfs-improves-course-experience-ceq.md) — related
+- [No learning environment scale was associated with occupational therapy students' exam grades](learning-environment-not-associated-grades-ot.md) — related

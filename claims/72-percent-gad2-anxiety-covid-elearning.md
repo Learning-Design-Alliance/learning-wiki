@@ -51,3 +51,4 @@ Survey of 512 college students in six Chinese cities plus Weibo distribution dur
 - [General anxiety reinforces PU-related effects and attenuates PEOU-related effects on e-learning intention](anxiety-reinforces-pu-attenuates-peou.md) — related
 - [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related
 - [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related
+- [Depressive symptom prevalence among Chinese college students rises from 26.7% in the first academic year to 36.7% in the second](ds-prevalence-rises-26-7-to-36-7-chinese-freshmen.md) — related

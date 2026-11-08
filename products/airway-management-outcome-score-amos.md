@@ -25,7 +25,8 @@ A three-point composite performance measure created by the study authors to eval
 - [Vortex-trained students achieved a better composite airway management outcome score (56.3% vs 27.1% rated AMOS=2, P=0.002)](../claims/vortex-better-amos-composite-score.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Kyoto Kagaku MW11 difficult airway management simulator](kyoto-kagaku-mw11-difficult-airway-management-simulator.md)
 
 ## Key Sources
 - Starosolski Michał, Kapłan Cezary, Kalemba Alicja, Majewska Karolina. (2023). The Impact of Implementing the Vortex Approach on Airway Management Performance in Stressed Medical Students: A Randomized Controlled Simulation Study. Medical Science Monitor. https://doi.org/10.12659/MSM.940372

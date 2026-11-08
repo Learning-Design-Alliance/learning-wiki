@@ -51,3 +51,5 @@ Exploratory rerun of the multilevel model replacing total visuospatial memory wi
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — related
 - [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
 - [Math achievement at the end of first grade is predicted by fluid intelligence, visuospatial working memory, and symbolic numerical representation](math-achievement-t1-predictors.md) — related
+- [Spatial–sequential working memory remains influential in 9–10-year-olds beyond the age at which the declarative shift from visuospatial to verbal reliance is predicted (around 7 years)](sequential-wm-past-declarative-shift.md) — related
+- [Between ages 7–8 and 9–10, the influential visuospatial working memory subcomponent for mathematics shifts from spatial–simultaneous to spatial–sequential, while verbal working memory remains a significant predictor](wm-component-shift-simultaneous-to-sequential.md) — reports the opposite

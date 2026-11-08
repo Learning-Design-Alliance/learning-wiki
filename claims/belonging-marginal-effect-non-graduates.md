@@ -50,3 +50,4 @@ Marginal-effects analysis from the NEET models; the article notes about 10% of A
 ## Related Claims
 - [School belonging at age 15 predicts lower likelihood of NEET status at ages 16-20 controlling for demographics, achievement, and school context](school-belonging-predicts-neet-status.md) — related
 - [High-school graduation does not explain the link between school belonging and NEET status](graduation-does-not-explain-belonging-neet-link.md) — related
+- [A strong sense of belonging to the school raises the likelihood of academic resilience, by up to 40 percentage points](school-belonging-raises-resilience-up-to-40-points.md) — related

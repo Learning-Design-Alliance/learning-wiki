@@ -58,3 +58,4 @@ Quasi-experiment comparing 84 students in three experiment-treatment macro secti
 - [A longitudinal small-group EBM intervention improved medical students' overall attitudes and skills scores across three assessment points over 15 months](longitudinal-small-group-attitudes-skills-gains.md) — related
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
 - [Brief single-session basic education alone produced no statistically significant score changes over 12 months](basic-education-no-significant-change.md)
+- [Face-to-face lecture teaching alone produced no statistically significant pre-to-post gain in funduscopic diagnostic accuracy](f2f-lecture-no-accuracy-gain.md) — related

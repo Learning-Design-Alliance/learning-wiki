@@ -75,3 +75,4 @@ The final questionnaire item asked Class 2019 students about their future teachi
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](students-prefer-blended-teaching-orthodontics.md) — related
 - [Students' preference for hybrid teaching declined and preference for offline teaching rose between 2020 and 2022, without reaching statistical significance for the hybrid preference](hybrid-preference-declined-2020-2022.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
+- [Most blended learning students preferred BL over didactic teaching and web-based e-learning, and platform opinions did not differ between BL and WEL users](students-prefer-bl-86-percent.md) — related

@@ -48,3 +48,5 @@ Association analyses from the cross-sectional study of 95 residents; printed p-v
 - [Correct diagnosis of complete heart block was associated with reliance on computer-generated ECG reports](chb-diagnosis-associated-with-c-ecg-reliance.md) — related
 - [Junior residents more often correctly diagnosed sinus rhythm, sinus arrhythmia, and SVT than senior residents](junior-residents-better-some-ecg-diagnoses.md) — related
 - [Pediatric residents rarely correctly diagnose life-threatening emergent ECG conditions, with correct rates from 42.1% for long QTc syndrome down to 4.2% for hyperkalemia](pediatric-residents-low-emergent-ecg-diagnosis-accuracy.md) — related
+- [Prior clinical exposure to a condition predicts correct ECG diagnosis, with or without a case vignette (OR 1.46 and 1.58)](prior-exposure-predicts-ecg-diagnostic-accuracy.md) — related
+- [Exposure to core ECG conditions during clinical training depends on trainee level: 52% of conditions for junior students, 63.4% for senior students, 96.9% for residents](ecg-exposure-depends-on-training-level.md) — related

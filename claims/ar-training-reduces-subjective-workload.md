@@ -60,3 +60,5 @@ Meta-analysis of two studies measuring subjective workload with the NASA Task Lo
 - [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](ar-us-junior-trainees-lower-effort-frustration.md) — a narrower finding that bears on this claim
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — a narrower finding that bears on this claim
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related
+- [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related
+- [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related

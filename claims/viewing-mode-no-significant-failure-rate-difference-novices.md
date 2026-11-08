@@ -48,3 +48,6 @@ In the same randomized two-arm teaching intervention (n = 19 per arm), the ANOVA
 - [Laparoscopic novices trained on a 3D setup complete basic box-trainer tasks significantly faster than novices trained on a 2D-4 K setup](3d-faster-than-2d4k-novice-laparoscopy-speed.md) — related
 - [After crossover to the non-familiar viewing mode, 3D-trained and 2D-4 K-trained novices do not differ significantly in time or success rate on a precision transfer task](crossover-nonfamiliar-system-no-performance-difference.md) — related
 - [Repeated attempts within a two-hour basic laparoscopy training significantly decrease novices' completion times on both tasks, and failure rates decrease significantly on task 1 but not task 2](novice-laparoscopy-learning-curve-two-hour-training.md) — related
+- [3D vision yields lower learning plateaus than 2D for both performance time and errors in laparoscopic box-trainer tasks](3d-lower-learning-plateaus-than-2d-laparoscopic-box-trainer.md) — related
+- [3D training showed no significant error-count advantage over 2D in either box-trainer task](3d-no-significant-error-advantage-box-trainer.md) — related
+- [3D-trained novices' final 2D performance was not significantly better than 2D-trained novices' performance](3d-trained-final-2d-performance-not-significantly-better.md) — related

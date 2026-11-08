@@ -73,3 +73,4 @@ The review's meta-aggregation (Table 4, Category 8) includes the finding 'Builds
 - [Human technology support reached all mentees and 46.2% of mentors and helped close hemodialysis patients' digital divides in a patient-facing digital intervention](technology-support-closed-hemodialysis-digital-divides.md) — related
 - [Stakeholders expect digital health navigators to build patient relationships marked by interpersonal warmth, empathy, and patience, not only technical support](dhn-interpersonal-warmth-empathy-expectations.md) — related
 - [Trainers view empathy-based teaching as helping older adults overcome fear of technology and build self-confidence](empathy-based-teaching-overcomes-tech-fear.md) — related
+- [The standard training program showed intermediate effects on three values-related competencies but no effect on three technical competencies](values-competencies-intermediate-technical-no-effect.md) — related

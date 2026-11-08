@@ -48,3 +48,5 @@ Wilcoxon signed-rank within-group comparison of ACP readiness (0–10 rating plu
 - [Care home providers' ACP competency scores rose significantly from pre-test to post-test after completing the ACP workshop, in one uncontrolled pre-post assessment](acp-workshop-increases-competency-care-home-staff.md) — related
 - [Gamified activities did not significantly change students' perceived engagement in the online course](gamification-no-engagement-change.md) — related
 - [Post-workshop, health assistants scored significantly higher than registered nurses on total, Basic and Beginner ACP competency](health-assistants-outscore-registered-nurses-post-workshop.md) — related
+- [Participants rated the ACP-SCT program beneficial for ACP discussions, scoring it 5 to 9 on a 0-10 scale with a mean of 7.8](acp-sct-benefit-rating-mean-7-8.md) — related
+- [Participants reported improved communication skills after ACP-SCT, including patient listening, inferring message meanings, and responding to emotions](acp-sct-self-reported-communication-gains.md) — related

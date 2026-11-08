@@ -49,3 +49,4 @@ Intra-scenario results of the 26-participant simulated OSCE study comparing HR a
 - [Paramedicine students who appraised a simulated OSCE as a challenge performed on average 17% better clinically than those who appraised it as a threat](challenge-appraisal-higher-osce-clinical-performance.md) — related
 - [FLS performance was positively correlated with heart-rate change across all trials, interpreted as task engagement rather than detrimental stress](fls-score-positive-correlation-heart-rate-change.md) — related
 - [Desktop VR and face-to-face simulation produce no significant difference in biophysiological stress responses (systolic blood pressure and heart rate)](desktop-vr-similar-biophysiological-stress-to-face-to-face-simulation.md) — related
+- [High-fidelity simulation raises systolic blood pressure, mean blood pressure, and heart rate immediately after the scenario, with a small effect](hfs-raises-sbp-mbp-hr-immediately-after-scenario.md) — related

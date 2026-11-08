@@ -48,7 +48,9 @@ Based on findings that EF predicted concurrent and later math achievement and th
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](../claims/ef-and-early-numeracy-directly-predict-grade-2-math.md) [+W]
 
 ## Related Strategies
+
 - Multimodal Ef Assessment Principle
+- [Assess executive functions at an early age to enable early detection and targeted work plans](early-executive-function-assessment-work-plans.md)
 
 ## Examples
 -

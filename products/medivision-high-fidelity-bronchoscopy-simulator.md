@@ -25,7 +25,8 @@ Medivision is a high-fidelity virtual and interactive bronchoscopy simulator mad
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Kyoto Kagaku MW11 difficult airway management simulator](kyoto-kagaku-mw11-difficult-airway-management-simulator.md)
 
 ## Key Sources
 - Jiang Luyang, Yang Qingyue, Li Qingyue, Jiang Bailin, Laba Ciren, Feng Yi. (2023). Optimal Duration of High-Fidelity Simulator Training for Bronchoscope-Guided Intubation: A Noninferiority Randomized Trial. Simulation in Healthcare. https://doi.org/10.1097/SIH.0000000000000739

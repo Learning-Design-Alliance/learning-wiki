@@ -53,3 +53,4 @@ Descriptive statistics and Welch's t-tests (Table 1) from the QLSCD sample acros
 - [The gaming-motivation association is a within-person effect; between-person associations were non-significant](within-person-not-between-person-gaming-motivation.md) — related
 - [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](covariates-sex-poverty-maltreatment-school-outcomes.md) — related
 - [Daily digital game playing is associated with lower reading competence in girls, while TV time was not a significant predictor](digital-games-lower-reading-competence-girls.md) — related
+- [Girls had significantly higher anxiety and lower quality of life than boys across all SF-36 domains at both time points](girls-higher-anxiety-lower-qol.md) — related

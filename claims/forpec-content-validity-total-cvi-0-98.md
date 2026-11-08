@@ -55,3 +55,4 @@ Content validation by eight Brazilian simulation experts using the Content Valid
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [Facilitators' feasibility agreement was at least 96.43% on every statement except ease of use, which 25% did not agree with](forpec-feasibility-ease-of-use-75-percent.md) — related
 - [Focus group discussion of ForPEC yielded comments categorized as completeness, practicality and usefulness](forpec-focus-group-completeness-practicality-usefulness.md) — related
+- [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related

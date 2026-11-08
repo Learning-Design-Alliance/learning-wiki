@@ -51,3 +51,4 @@ Pearson correlation analysis (Table 3, N = 585) among Saudi nursing interns show
 - [SMA, nomophobia, and ASE jointly account for 42.64% of the variance in nursing interns' clinical performance](sem-variance-clinical-performance-42-64.md) — related
 - [Risk for social media addiction negatively predicts academic self-efficacy and clinical performance in nursing interns](sma-negative-prediction-ase-clinical-performance.md) — related
 - [About 23% of the sampled students showed a tendency towards study addiction, exceeding international prevalence rates](study-addiction-tendency-prevalence-german-sample.md) — related
+- [Nomophobia and smartphone addiction are highly prevalent among Filipino high school students](nmp-sa-prevalence-filipino-adolescents.md) — related

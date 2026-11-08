@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 175 claims (107 for, 64 mixed, 4 against) · 111 studies (64 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 35 of 111 report an effect size · 167 claims rest on one study
+> **Evidence** · 178 claims (109 for, 65 mixed, 4 against) · 113 studies (65 causal, 19 quant-synthesis, 13 review, 6 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 36 of 113 report an effect size · 170 claims rest on one study
 
 ## Conditional relationship
 
@@ -216,6 +216,9 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](../claims/fc-questionnaire-high-acceptance-interns.md) [~W] — attached 2026-11-08 from Zhang Weihao et al. (2021), which proposed "Flipped classroom course structure for clinical skills training: pre-class videos plus weekly interactive offline sessions".
 - [Students in flipped active-learning sections score significantly higher on common exam questions in general biology, with the gap widening across the semester](../claims/flipped-sections-higher-common-exam-questions.md) [+W] — attached 2026-11-08 from Riedl Ann et al. (2021), which proposed "Flipped active-learning sections structured around preclass work, daily quizzes, and group in-class activities"; tests this page's relationship.
 - [Clinical teachers' MCQ knowledge scores rose stepwise from pre-test to mid-test to post-test in one uncontrolled pre-post study of TOTR flipped-classroom training](../claims/totr-stepwise-knowledge-gain.md) [+W] — attached 2026-11-08 from Chen Kuo-Su et al. (2021), which proposed "Include a brief mini-lecture in flipped classroom class time to reinforce pre-class knowledge".
+- [Flipped learning integrated into simulation-based training significantly enhances medical students' non-technical skill performance on all three AS-NTS dimensions](../claims/flipped-learning-enhances-nts-performance-sbme.md) [+W] — attached 2026-11-08 from Moll-Khosrawi Parisa et al. (2021), which proposed "Combine flipped learning with simulation-based medical education to teach non-technical skills".
+- [Post-test non-technical skill performance of the flipped learning group is significantly better than the lecture-based group on teamwork/leadership and team orientation, but not on planning/problem-solving](../claims/post-test-between-group-nts-differences.md) [~W] — attached 2026-11-08 from Moll-Khosrawi Parisa et al. (2021), which proposed "Combine flipped learning with simulation-based medical education to teach non-technical skills"; tests this page's relationship.
+- [Transitioning a dental materials course to a flipped classroom format was followed by positive shifts in student satisfaction feedback across delivery, time, accessibility and content](../claims/fc-transition-positive-scef-feedback-dental-materials.md) [+W] — attached 2026-11-08 from Binnie Rebecca S. L. (2021), which proposed "Protect timetable time for flipped pre-class preparation and budget staff time for recording and editing".
 
 ## Objective and learner-valued goal
 

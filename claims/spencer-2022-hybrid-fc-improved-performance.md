@@ -62,3 +62,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [Conventional and hybrid instruction produced higher practical exam scores than digital-only Ren'Py instruction in physiotherapy students](face-to-face-hybrid-beat-digital-only-practical-exam-physiotherapy.md) — related
 - [Students favored a blended instructional approach combining lectures with games or case studies rather than replacing lectures with games](students-favor-blended-lecture-game-approach.md) — related
 - [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — related
+- [After the flipped classroom transition, students submitted significantly more course evaluation comments, and nearly all agreed the course was enjoyable and the format effective](more-scef-comments-and-high-agreement-after-fc.md) — related

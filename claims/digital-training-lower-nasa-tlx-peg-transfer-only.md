@@ -51,3 +51,5 @@ NASA-TLX cognitive workload questionnaire completed after each exercise in the r
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
 - [Participants rate both digital and in-person laparoscopy training positively and similarly, but a majority across both groups would still prefer to be trained in-person](training-modality-satisfaction-high-preference-in-person.md) — related
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related
+- [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related
+- [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related

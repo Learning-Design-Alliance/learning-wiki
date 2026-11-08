@@ -105,3 +105,4 @@ Sherman (1989) compared Group Investigation with individual work in two approxim
 - [In the experimental group, student interaction increased over 40% compared with the first day and absence rate fell to 11% after the first seven weeks of Cooperative Learning](cl-seven-weeks-interaction-gain.md) — related
 - [Regression predicts Cooperators score 6.7 points lower on the in-class exam, a negative but unemphasized relationship](cooperation-predicts-lower-exam-score.md) — related
 - [Relationship conflict predicts lower achievement while task and process conflict predict higher achievement in team-based science courses](conflict-type-differential-achievement.md) — related
+- [In a two-class comparison experiment, groups using the MBCL platform earned statistically higher cooperative learning grades than groups using the conventional hand-raising interaction method](mbcl-groups-outperform-conventional-method-cooperative-learning.md) — related

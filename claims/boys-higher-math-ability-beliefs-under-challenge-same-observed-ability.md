@@ -55,3 +55,4 @@ Two-sample t-tests (allowing for unequal variances) compared girls' and boys' ab
 - [Boys hold significantly higher self-efficacy than girls in science inquiry at every measurement point, though the gap narrows during training](boys-higher-self-efficacy-science-inquiry.md) — related
 - [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — related
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — related
+- [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — related

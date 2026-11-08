@@ -71,3 +71,4 @@ Delphi weighting rounds reported in Results: experts rated each substep's import
 - [Expert consensus metrics for circular stapling anastomosis comprise three procedural phases, 36 steps, 42 errors and 39 critical errors with unanimous Delphi agreement](circular-stapling-anastomosis-metrics-consensus.md) — related
 - [Per-phase counts of steps, errors and critical errors showed no statistically significant change after the Delphi process](delphi-no-significant-count-change.md) — related
 - [A modified Delphi process with 14 panelists achieved 100% agreement on a metrics set of 5 steps, 20 errors, 1 failure-to-progress definition and 4 critical errors for the SP anastomosis task](sp-anastomosis-delphi-metrics-consensus.md) — related
+- [An international Delphi panel of 19 experienced urologists reached consensus on a reference set of RARP performance metrics](delphi-consensus-rarp-metrics.md) — related

@@ -53,3 +53,4 @@ The review's narrative synthesis of the 15 included cross-sectional studies repo
 - [Internet addiction is associated with adverse physical health outcomes including musculoskeletal discomfort and daytime sleepiness](ia-physical-health-consequences.md) — related
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
+- [Nomophobia and smartphone addiction are highly prevalent among Filipino high school students](nmp-sa-prevalence-filipino-adolescents.md) — related

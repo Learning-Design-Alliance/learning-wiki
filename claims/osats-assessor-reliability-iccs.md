@@ -62,3 +62,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [R-OSAT scoring showed excellent inter-rater reliability between the two independent expert assessors](r-osat-excellent-inter-rater-reliability.md) — related
 - [Both A-OSATS versions showed excellent interrater and high intrarater reliability when two blinded raters scored video-recorded anastomoses](a-osats-interrater-intrarater-reliability.md) — related
 - [Video OSATS assessments by two expert raters show moderate correlation but poor agreement with live rating](osats-video-moderate-correlation-poor-live-agreement.md) — related
+- [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related

@@ -53,6 +53,7 @@ This strategy implements CBL within the BOPPPS phases for clinical postgraduate 
 - [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
 - [Progress from small-group domain-specific mind maps to class-wide integration to fade scaffolding](small-group-to-class-wide-mind-map-fading.md)
+- [Run online PBL by uploading micro clinical cases 3 days before class, having students present via video conferencing, and quizzing after each class](wechat-pbl-case-upload-and-quiz-strategy.md)
 
 ## Examples
 -

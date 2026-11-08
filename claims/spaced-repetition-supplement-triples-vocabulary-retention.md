@@ -62,3 +62,4 @@ A randomized controlled double-blind study in which 22 cadets were independently
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [A tutoring-based psychological and pedagogical support program produced a statistically significant improvement in first-year students' adaptation level in the experimental group but not in the control group](tutoring-program-significant-adaptation-improvement-experimental-group.md) — related
 - [Successful candidates reported using spaced repetition far more often than unsuccessful candidates in univariate analysis](spaced-repetition-univariate-success-difference.md) — related
+- [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — related

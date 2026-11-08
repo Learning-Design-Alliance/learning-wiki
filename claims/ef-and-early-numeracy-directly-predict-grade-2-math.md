@@ -58,3 +58,4 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 - [Worse childhood global executive functioning predicted slower math growth over time, but did not predict initial childhood math scores](global-ef-predicts-math-growth-slope.md) — related
 - [Kindergarten working memory, but not 5th-grade working memory, significantly mediates the early-later math relation in sensitivity analyses](working-memory-mediation-kindergarten-timepoint-sensitivity.md) — related
 - [Socioeconomic and prior-achievement covariates predict later numeracy and literacy achievement](covariates-predict-numeracy-literacy-achievement.md) — related
+- [Working memory measures taken at age 7–8 predict mathematics performance at age 9–10 two years later, over and above earlier mathematics performance](wm-predicts-math-two-years-later.md) — related

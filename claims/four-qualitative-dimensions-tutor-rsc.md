@@ -49,3 +49,4 @@ Qualitative analysis of audiovisual registers with Atlas.ti v6.2 via an ad hoc c
 - [Unilateral positive task assessment from tutors to tutees may reinforce the notion of the tutor's role as a reading expert and foster the tutor's Reading Self-Concept](unilateral-tutor-evaluation-fosters-rsc.md) — a narrower finding that bears on this claim
 - [Tutees' Reading Self-Concept gains may be hindered because tutees either play down their improvement or attribute their achievement to external factors such as their tutor's help](tutee-external-attribution-hinders-rsc.md) — related
 - [Tutoring participation fostered tutors' metacognitive development, relational skills, empathy, and emerging professional identity](tutor-development-through-peer-tutoring.md) — related
+- [Periodic evaluations showed active student participation and tutor-reported improvement in theoretical study and scientific research abilities](wechat-pbl-periodic-evaluation-participation.md) — related

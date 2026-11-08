@@ -56,3 +56,4 @@ Province-wide survey screening depression with the Chinese version of the BDI-II
 - [Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent](screening-without-followup-insufficient.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related
+- [Depressive symptom prevalence among Chinese college students rises from 26.7% in the first academic year to 36.7% in the second](ds-prevalence-rises-26-7-to-36-7-chinese-freshmen.md) — related

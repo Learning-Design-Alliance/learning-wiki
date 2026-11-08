@@ -56,3 +56,4 @@ Leave-one-out interrater agreement analysis comparing SP scores with a reference
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
 - [Standard patients and examiners show moderate scoring consistency (ICC 0.718) on total scores in a dental OSCE communication station](sp-examiner-moderate-consistency-icc-0718-dental-osce.md) — related
 - [SP assessors detect communication details that examiners neglect, such as interruptions and lack of empathy](sps-detect-communication-details-examiners-neglect.md) — related
+- [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related

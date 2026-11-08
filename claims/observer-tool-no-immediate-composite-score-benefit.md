@@ -51,3 +51,4 @@ Randomized controlled trial of 91 incoming anesthesia residents randomized to ob
 - [A single simulation session with at least one hands-on simulator practice did not produce competence in IJV catheter insertion](single-simulation-session-no-expertise-cvc.md) — related
 - [Using an observer tool during CPR simulation did not improve medical students' global performance immediately after training](observer-tool-no-global-performance-benefit-cpr-simulation.md) — related
 - [Simulation-based training with deliberate practice improves residents' ultrasound-guided central venous catheter placement performance regardless of process-oriented supplementation](deliberate-practice-improves-cvc-performance-both-groups.md) — related
+- [Failure rate of ultrasound-guided internal jugular CVC placement does not differ between non-proficient and proficient residents under direct consultant supervision](cvc-failure-rate-proficiency-no-difference.md) — related

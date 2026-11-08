@@ -47,3 +47,4 @@ Survey-based self-report in the same prospective cohort (n = 34), comparing resp
 ## Related Claims
 - [Students self-reported improvement in treatment decision making, aesthetic restoration and dentist-patient communication after SCT, while difficult-issue selections showed no significant change](sct-subjective-gains-and-null-difficulties.md) — related
 - [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related
+- [Participants reported improved communication skills after ACP-SCT, including patient listening, inferring message meanings, and responding to emotions](acp-sct-self-reported-communication-gains.md) — related

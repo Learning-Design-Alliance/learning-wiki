@@ -50,6 +50,7 @@ The strategy consists of 5-minute workshops held 4 times a week for 5 weeks, usi
 
 - [Implement mandatory structured ED rotations plus simulation-based, ward-based ECG training to build competence and confidence](structured-ed-rotations-simulation-ecg-training-strategy.md)
 - [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
+- [Actively encourage trainees to analyse and interpret ECGs during clinical training, supported by mobile learning strategies](active-ecg-analysis-during-clerkships-with-mobile-learning.md)
 
 ## Examples
 -

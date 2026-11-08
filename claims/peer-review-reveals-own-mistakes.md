@@ -57,3 +57,4 @@ Student quote from iteration 2 qualitative data on peer review and online feedba
 - [Students perceived reflective “what-if” discussions and peer dialogue around VP feedback as supporting abstraction of underlying principles](what-if-peer-dialogue-abstraction-perceptions.md) — related
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related
 - [In Critical Care simulation sessions, knowledge-based mistakes and lapses (Reason) and communication breakdown and poor team performance (Round) were the most commonly observed errors, while violations and sloths were least frequent](simulation-error-frequency-reason-round.md) — related
+- [Peer assessment functions as a learning activity: evaluating peers helps students review their own knowledge and clinical skills](peer-assessment-as-learning-activity.md) — possibly the same claim (merge candidate)

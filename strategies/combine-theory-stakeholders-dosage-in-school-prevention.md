@@ -50,6 +50,7 @@ The review's stated implication for practitioners and policymakers is to design 
 
 - [Combine adolescent alcohol interventions with parental educational programs and refusal-skills training](parental-programs-plus-refusal-skills-prevention.md)
 - [Multi-stakeholder strategies for managing children's screen time](screen-time-management-strategies-children.md)
+- [Schools should tailor preventative initiatives with awareness of adolescent substance use](school-substance-use-preventative-awareness-strategy.md)
 
 ## Examples
 -

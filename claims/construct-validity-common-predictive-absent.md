@@ -56,3 +56,4 @@ Systematic review synthesis of validity evidence by tool category. For APMs the 
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](checklists-valid-but-ceiling-effect-novice-formative.md) — related
 - [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](no-construct-validity-procedural-assessment-tools.md) — reports the opposite
 - [Validity evidence for the CBL module was gathered across six domains, with internal structure supported by significant quiz gains](cbl-meningitis-six-domain-validity.md) — related
+- [Virtual reality simulation is a valid training tool for the early phase of robotic surgery training, with validity established for six major commercial simulators](vr-simulation-validity-robotic-training.md) — related

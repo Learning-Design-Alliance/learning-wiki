@@ -53,3 +53,5 @@ Interventional randomised controlled pilot study; 14 Year 4 dental students rand
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — related
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — related
+- [IVR training does not significantly reduce procedure time (prescan or tip tracking) compared to e-learning alone](ivr-training-no-procedure-time-difference.md) — related
+- [Simulation-based training significantly reduced major errors during tunnel construction compared with conventional training](simulation-training-reduced-major-errors-significantly.md) — related

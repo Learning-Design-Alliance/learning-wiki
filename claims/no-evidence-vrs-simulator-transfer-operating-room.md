@@ -72,3 +72,4 @@ Randomized trial (n = 14) by Jonas et al. as described in the review: simulator 
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — reports the opposite
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — reports the opposite
 - [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related
+- [No studies validated the use of cadavers for robotic surgical training, and no empirical evidence demonstrates transfer of cadaver training skills to live operating rooms](no-validated-cadaver-robotic-training-studies.md) — related

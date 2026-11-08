@@ -48,3 +48,4 @@ Randomised comparison within a prospective cohort study of 20 novice learners al
 - [Virtual and face-to-face teaching produce similar performance on MISTELS and SUTT measures other than peg transfer time](virtual-f2f-similar-mis-performance.md) — related
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
+- [Novices using a remote-controlled camera holder reach competency in the peg transfer task significantly faster than novices with a human camera assistant](rch-faster-competency-peg-transfer.md) — related

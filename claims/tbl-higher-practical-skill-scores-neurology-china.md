@@ -54,3 +54,4 @@ Meta-analysis of 14 RCTs with 1056 students (528 per arm), random-effects model 
 - [Blended teaching (TBL plus feedback and reflection) outperformed traditional bedside teaching on clinical reasoning performance](blended-teaching-tbl-feedback-reflection-beats-bedside-teaching.md) — related
 - [Freshmen, academically weaker students, undergraduates, Chinese female students and nursing students appear to benefit most from TBL](tbl-beneficiary-groups.md) — related
 - [TBL shows favorable outcomes for clinical performance, skills and learner engagement](tbl-performance-engagement-favorable.md) — a broader claim this one bears on
+- [TBL students report significantly higher classroom engagement than LBL students across all three class sessions](tbl-higher-classroom-engagement-than-lbl.md) — related

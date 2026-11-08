@@ -51,3 +51,4 @@ Repeated-measures ANOVA; the article prints F(1, 407) = 41.37, p < .001 for the 
 ## Related Claims
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
 - [Higher report card grades predict higher emotional and behavioral engagement in spring of first secondary school year, controlling for prior engagement](grades-predict-later-school-engagement.md) — related
+- [Energy/fatigue and emotional well-being declined significantly between the beginning and end of the school year, with no school-type differences in QOL](qol-decline-energy-emotional-wellbeing.md) — related

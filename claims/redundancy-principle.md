@@ -171,3 +171,4 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related
 - [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
+- [Two contextual differences — case format (serial cue vs. whole cases) and dual-channel information processing — are proposed explanations for why reflection phases are effective with text-based cases but not in simulation-based learning](case-format-and-channel-explanations-reflection-effectiveness.md) — related

@@ -51,3 +51,4 @@ In the same RCT of 120 students, ANCOVA with baseline scores as covariates found
 - [Desktop VR and face-to-face simulation produce no significant difference in confidence levels for managing clinical deterioration](desktop-vr-similar-confidence-to-face-to-face-simulation.md) — related
 - [Students' mean heart rates are significantly higher during VR simulation than during desktop simulation](vr-simulation-higher-mean-heart-rate-than-desktop.md) — related
 - [Heart rate was significantly elevated in the threat appraisal group at the early time point of both scenarios and the mid juncture of Scenario 1](threat-group-elevated-hr-early-mid-junctures.md) — related
+- [High-fidelity simulation raises systolic blood pressure, mean blood pressure, and heart rate immediately after the scenario, with a small effect](hfs-raises-sbp-mbp-hr-immediately-after-scenario.md) — related

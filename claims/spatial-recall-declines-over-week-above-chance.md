@@ -69,3 +69,4 @@ Comparison of observed pre-nap error against 1000 simulated participants placing
 ## Related Claims
 - [The TMR-SD effect did not differ for objects with low versus high pre-nap spatial error, ruling out memory strength as the explanation](tmr-sd-effect-independent-of-prenap-accuracy.md) — related
 - [Children retain trained word-object and letter-sound associations four to six months after the intervention](long-term-memory-trained-associations-4-6-months.md) — related
+- [Learning effects of the targeted training were sustained for at least 4 months only when sleep followed the training](sleep-following-targeted-training-sustains-literacy-gains.md) — related

@@ -76,3 +76,4 @@ Model 2 of the hierarchical regressions, in which the PPVT alone was entered at 
 - [Cool EF (Stroop inhibition and CNT cognitive flexibility) predicts academic performance, while no hot EF variable does](cool-ef-predicts-academic-performance.md) — related
 - [Cognitive flexibility does not add unique explained variance to literacy or mathematics achievement in Grade 2](cognitive-flexibility-no-unique-contribution-grade-2.md) — related
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
+- [Behavioral regulation (inhibition, self-monitoring) and emotional regulation (flexibility, emotional control) scales were not significant predictors of academic achievement at ages 6–9](behavioral-emotional-ef-scales-not-significant-6-9.md) — reports the opposite

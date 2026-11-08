@@ -50,3 +50,5 @@ Randomized experimental comparison of 61 undergraduates: blended group (n=22) us
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — a broader claim this one bears on
 - [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related
+- [Flexible e-learning video teaching improves medical students' diagnostic accuracy of funduscopic findings more than a face-to-face lecture](elearning-video-improves-fundus-diagnostic-accuracy.md) — related
+- [Flexible e-learning video teaching raises medical students' confidence in performing funduscopic examination more than a face-to-face lecture](elearning-video-raises-fundus-confidence.md) — related

@@ -52,3 +52,4 @@ Descriptive app-usage statistics reported in the Results for the 344 HMP-assigne
 - [The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action](hmp-improves-well-being-skills-persisting.md) — related
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related
 - [Actual app use was sporadic and short — about once per week for 10–15 minutes, roughly 120 minutes total — which the authors say cannot explain the significant difference between groups](busuu-low-usage-cannot-explain-gains.md) — related
+- [Only half of the facultative-group participants chose to use the app, and the authors attribute actual use to differences in familiarization](half-facultative-used-app-familiarization.md) — related

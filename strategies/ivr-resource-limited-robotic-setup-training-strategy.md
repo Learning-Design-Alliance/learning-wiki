@@ -52,6 +52,7 @@ The article recommends IVR headset training as an adjunct for teaching operating
 - [Deploy 360° VR videos as a self-directed learning tool where instructor access is limited or content is hard to demonstrate](360-vr-self-directed-deployment.md)
 - [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
+- [Use immersive VR to give scrub nurses a safe, low-pressure environment for repetitive practice of complex operations](ivr-safe-practice-environment-scrub-nurses.md)
 
 ## Examples
 -

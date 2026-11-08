@@ -52,3 +52,4 @@ Thematic narrative synthesis across the review's included quantitative and quali
 - [GPs in gatekeeper settings show little interest in becoming more involved in active ADHD care or shared care](gps-reluctant-shared-care-adhd.md) — related
 - [GPs in gatekeeper settings under-recognise ADHD, with reported recognition rates under 1% in Australia and far lower recognition of ADHD than of mood disorders in Canada](gps-under-recognise-adhd-gatekeeper-settings.md) — related
 - [The Taiwanese panel ranked teach-back seventh, in contrast to its first-place US ranking, a difference the authors attribute to concerns about stigma in a collectivist culture](teach-back-ranked-seventh-taiwan-vs-first-us.md) — related
+- [Learners across groups reported that terms like 'disorder' medicalise autism and can elicit stigma in contexts such as schools](medicalising-terminology-elicits-stigma-schools.md) — related

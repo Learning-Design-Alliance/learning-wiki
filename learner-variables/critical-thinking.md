@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 203 claims (146 show a difference, 36 mixed, 21 no difference) · 137 studies (70 causal, 24 review, 15 associational, 8 quant-synthesis, 7 design, 7 theoretical, 6 qualitative), `q1`–`q3` · 28 of 137 report an effect size · 201 claims rest on one study
+> **Evidence** · 206 claims (148 show a difference, 36 mixed, 22 no difference) · 139 studies (71 causal, 24 review, 15 associational, 8 quant-synthesis, 8 design, 7 theoretical, 6 qualitative), `q1`–`q3` · 28 of 139 report an effect size · 204 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -244,6 +244,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [CUREs develop students' critical thinking, experimental design, and quantitative analysis skills and provide a more inclusive research environment](../claims/cures-develop-skills-inclusive-environment.md) [+M] — measured as an outcome of the instruction studied
 - [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](../claims/pbl-develops-critical-thinking-communication-iuhpe-competencies.md) [+M] — measured as an outcome of the instruction studied
 - [The e-PBL infection control program significantly improved overall critical thinking disposition in nursing home staff compared with e-learning without PBL](../claims/e-pbl-improves-critical-thinking-disposition-nh-staff.md) [+W] — measured as an outcome of the instruction studied
+- [The authors report that digital objective evaluation systems reduced teachers' subjective evaluation bias and enabled students' critical self-assessment](../claims/digital-objective-evaluation-systems-reduced-subjective-bias.md) [+W] — measured as an outcome of the instruction studied
+- [The authors suggest that training in evaluating CPR performance may improve V-CPR evaluation, since judging others' CPR is not taught in any course](../claims/training-may-improve-vcpr-evaluation.md) [+W] — measured as an outcome of the instruction studied
+- [Video quality has no significant impact on correct evaluation of CPR performance in video sequences, with even low quality yielding an acceptable correct-evaluation rate](../claims/video-quality-no-impact-cpr-evaluation.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

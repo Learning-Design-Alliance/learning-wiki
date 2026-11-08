@@ -50,3 +50,4 @@ Prespecified exploratory subgroup analysis stratified by baseline OSCE score usi
 - [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — a broader claim this one bears on
 - [Among low-baseline-performing students, preceptor feedback yields a pronounced improvement in patient–physician interaction scores](low-performers-preceptor-feedback-improves-ppi.md) — related
+- [OSCE scores were below national average scores at pre-test and above national average scores at post-test in one uncontrolled pre-post study](post-osce-scores-exceeded-national-average.md) — related

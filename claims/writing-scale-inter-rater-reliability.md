@@ -48,3 +48,4 @@ Scoring phase of the same study: two assessors rated pretest and posttest essays
 ## Related Claims
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [PET speaking scores showed significant inter-rater agreement between the two raters](pet-speaking-inter-rater-reliability-significant.md) — related
+- [The NoTSUS rating scale correlates strongly with the validated NoTSS scale and shows inter-rater agreement between the two NTS-trained expert raters](notsus-scale-correlates-with-notss.md) — related

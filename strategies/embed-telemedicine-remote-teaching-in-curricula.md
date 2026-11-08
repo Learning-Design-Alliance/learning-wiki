@@ -56,6 +56,7 @@ In their future implications the authors recommend that remote clinical teaching
 - [Use adaptive approaches and support systems, including virtual interprofessional experiences, to buffer disruptions to clinical education](adaptive-support-systems-pandemic-clinical-education-strategy.md)
 - [When clinical training is restricted, improve teaching methods so students can learn clinical judgment on-site, and develop methods for skills negatively affected by all-on-campus training](improve-on-site-dependent-skill-teaching-strategy.md)
 - [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
+- [Designing future online medical curricula around flexibility, mindful communication, longitudinal patient contacts, and transparent structure](design-online-medical-curricula-flexibility-communication-structure.md)
 
 ## Examples
 -

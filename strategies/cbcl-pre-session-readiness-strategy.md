@@ -48,6 +48,7 @@ The article describes a flipped-classroom preparation phase in which residents r
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
 - [Standard Inverted Classroom](standard_inverted_classroom.md)
 - [Require brief pre-session comprehension checks to improve pre-class preparation](pre-session-comprehension-checks-strategy.md)
+- [Ensure self-study materials for inverted-classroom teaching are not too complex and avoid redundancies with classroom phases](icm-self-study-materials-complexity-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ In an exploratory between-participant analysis of Study 2 seating-location repor
 - [Media multitasking rates increase over time during live university lectures](media-multitasking-increases-over-lecture-time.md) — related
 - [Grit is negatively associated with media multitasking during lectures](grit-negative-media-multitasking.md) — related
 - [Media multitasking during probed slides predicts lower quiz accuracy in multilevel analysis](slide-based-multitasking-lower-accuracy.md) — related
+- [Slide viewing during class is not related to seating position in the lecture hall](slide-viewing-not-related-to-seating-position.md) — related

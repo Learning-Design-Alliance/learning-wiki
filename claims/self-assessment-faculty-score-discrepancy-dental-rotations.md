@@ -49,3 +49,4 @@ Authors' interpretation (type e) from the Discussion, not a tested result. The a
 - [The authors attribute the trainee–instructor competency rating gap to lack of timely feedback and heavy instructor workloads, drawing on interviews with trainee nurses only](qualitative-explanation-competency-gap-feedback-workload.md) — related
 - [Post-COVID community rotation scores for diagnosis and treatment planning declined significantly for both students and faculty evaluations](covid-decline-diagnosis-treatment-planning-dental-rotations.md) — related
 - [Combining student feedback with teacher self-assessment provides more useful clinical teaching feedback than either alone](combined-student-feedback-self-assessment-more-effective.md) — related
+- [Trainee self-assessment scores are significantly lower than patient scores across all competencies](claim-self-scores-significantly-lower-than-patient-scores.md) — related

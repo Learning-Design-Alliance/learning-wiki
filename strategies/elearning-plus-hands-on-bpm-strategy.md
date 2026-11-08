@@ -50,6 +50,7 @@ The article recommends combining e-learning with hands-on training rather than t
 - [Combine technique education with ongoing monitoring, reinforcement, and quality assurance to sustain blood pressure measurement proficiency](ongoing-reinforcement-bp-measurement-training.md)
 - [Offer eLearning to practices with detected cold chain breaches and add reinforcement strategies for sustained improvement](elearning-offer-on-cold-chain-breach-detection.md)
 - [Assign e-learning access before the hands-on ultrasound curriculum to improve OSCE performance of novice sonographers](elearning-preview-before-hands-on-curriculum-strategy.md)
+- [Use the modular system to acquire basic vascular access skills before clinical activity, combining self-learning with interactive hands-on instruction](preclinical-self-learning-combined-hands-on-strategy.md)
 
 ## Examples
 -

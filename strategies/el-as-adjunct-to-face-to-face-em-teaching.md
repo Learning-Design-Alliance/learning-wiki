@@ -48,6 +48,7 @@ The review's authors recommend integrating EL as an adjunct rather than a replac
 
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Adopt telemedicine and e-learning formats for ultrasonography teaching where flexibility, accessibility and cost savings matter](telemedicine-ultrasound-teaching-implementation-advantages.md)
+- [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
 
 ## Examples
 -

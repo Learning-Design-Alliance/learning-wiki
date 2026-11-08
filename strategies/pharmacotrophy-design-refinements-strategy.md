@@ -47,7 +47,8 @@ The authors propose organisational refinements to competition-based learning tou
 - [Perceived difficulty of online question types differed, with puzzle questions rated significantly more difficult than other formats](../claims/pharmacotrophy-question-difficulty-puzzles.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend competition benefits beyond participants by sharing excellent works, videos, and operational guidance through open online registration](open-resource-sharing-extend-competition-benefits.md)
 
 ## Examples
 -

@@ -78,3 +78,4 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [Workshop students more often recommended specialist cancer management and suggested another appointment in the OSCE](specialist-referral-and-follow-up-appointment-items.md) — related
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [A larger share of the combined-method group reported improved doctor–patient communication skills (82.69% vs 56.86%)](cbl-clinical-pathway-communication-skills-improved.md) — possibly the same claim (merge candidate)
+- [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related

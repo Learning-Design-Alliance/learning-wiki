@@ -53,3 +53,4 @@ Conditional indirect-effect analysis in the CEPS longitudinal sample, comparing 
 - [Depression negatively predicts later peer relationships, and peer relationships positively predict later academic performance, in Chinese adolescents](depression-lowers-peer-relationships-which-raise-academic-performance.md) — a broader claim this one bears on
 - [The moderated mediation effect through the depression-to-peer-relationship path (Model A) was not statistically significant](moderated-mediation-depression-peer-path-not-significant.md) — related
 - [In Chinese adolescents, the impact of peer relationships on academic performance is moderated by a three-way interaction of physical activity and gender](pa-gender-three-way-moderates-peer-relationship-academic-performance.md) — related
+- [Gender moderates the effect of physical activity on interference task performance, with benefits observed for females but not males](gender-moderates-activity-msit-effect.md) — related

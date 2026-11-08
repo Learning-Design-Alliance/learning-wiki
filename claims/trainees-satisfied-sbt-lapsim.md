@@ -58,3 +58,5 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [Physicians rate the PallPan palliative care e-learning tool as highly feasible, satisfying, and useful for their work](pallpan-elearning-high-feasibility-ratings-physicians.md) — related
 - [Simulators were not integrated into surgical specialist training in 81.8% of clinics, though 94% favored future integration](simulator-training-rarely-integrated-into-surgical-training.md) — related
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
+- [After training, 85%–92% of nurses self-reported agreeing or strongly agreeing that the VR materials achieved their purpose and that they would recommend them](nurses-positive-responses-vr-materials-85-92-percent.md) — related
+- [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — a narrower finding that bears on this claim

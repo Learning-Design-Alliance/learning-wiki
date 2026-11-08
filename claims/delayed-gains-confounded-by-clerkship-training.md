@@ -54,3 +54,5 @@ Authors' interpretation in the discussion of their prospective cohort study. The
 - [Pre-clerkship medical students' self-confidence and self-perceived competency rose from pre-test to post-test after simulation-based venipuncture training in one single-group pre-post study with no comparison group, and rose further at a one-year delayed assessment](sbpt-venipuncture-raises-student-confidence-competency.md) — related
 - [Most pre-clerkship students report satisfaction with simulation-based venipuncture training and recommend extending it](student-satisfaction-sbpt-venipuncture.md) — related
 - [Simulation has been shown to prevent skills decay and teach new technical skills to novice learners who delayed training initiation](simulation-prevents-skills-decay-novices.md) — related
+- [In one uncontrolled pre-post study, only 40% of hospitalists achieved passing scores at a mean of 7 months after SBML (40% for LP and 40% for AP)](sbml-skill-decay-hospitalists-7-months.md) — related
+- [Hospitalists report very low annual procedural volumes, limiting opportunity to maintain procedural skill](hospitalists-low-annual-procedural-volume.md) — related

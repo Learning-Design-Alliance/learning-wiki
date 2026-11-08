@@ -51,3 +51,5 @@ External validation study at the Zurich Aneurysm Clipping Course (n = 22) and th
 - [Most participants agreed the simulator can teach basic instrument handling and clip application skills and should be integrated into training and workflows](medusa-basic-skills-and-integration-endorsement.md) — a narrower finding that bears on this claim
 - [Experts rated the haptic interaction between instruments and artificial anatomy as less realistic and less learnable than intermediates and novices did](medusa-expert-haptic-ratings-lower.md) — related
 - [PoLaRS achieved face validity with an average questionnaire score of 6.9 (SD 1.2) on a 1–10 Likert scale](polars-face-validity-questionnaire-6-9.md) — related
+- [A neurosurgeon expert rated the simulation workflow as clear and intuitive and the vessel deformation as plausible](expert-rates-workflow-clear-deformation-plausible.md) — related
+- [In an online survey, the colour map achieved the highest statement scores and rankings among force visualisation concepts for aneurysm clipping simulation](colour-map-best-force-visualisation-clipping-survey.md) — related

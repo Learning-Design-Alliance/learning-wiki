@@ -36,6 +36,7 @@ The MSLQ is Pintrich and colleagues' self-report assessment of students' motivat
 - [Raudsepp “How Creative Are You?” creativity scale (Turkish adaptation)](raudsepp-how-creative-are-you-creativity-scale-turkish-adaptation.md)
 - [Effective Teaching Scale (Ginns & Ellis 2009) adapted to Turkish](effective-teaching-scale-ginns-ellis-2009-adapted-to-turkish.md)
 - [Metacognitive strategy questionnaire adapted from Beyer (1987)](metacognitive-strategy-questionnaire-adapted-from-beyer-1987.md)
+- [Eight-strategy motivational regulation questionnaire (30 items, four constructs)](eight-strategy-motivational-regulation-questionnaire-30-items-four-constructs.md)
 
 ## Key Sources
 - Panadero E. (2017). A Review of Self-regulated Learning: Six Models and Four Directions for Research. Front. Psychol. 8:422. https://doi.org/10.3389/fpsyg.2017.00422

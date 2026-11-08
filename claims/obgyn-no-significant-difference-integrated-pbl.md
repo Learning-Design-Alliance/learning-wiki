@@ -49,3 +49,4 @@ In the same randomized comparison, Obstetrics and Gynecology means were nearly i
 - [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related
 - [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](pbl-increases-theoretical-knowledge-scores-china-obgyn.md) — related
 - [Japan-trained residents scored higher in the Surgery (p = 0.007) and Obstetrics and Gynecology (p = 0.002) fields, an exploratory finding](gm-ite-surgery-obgyn-japan-higher.md) — related
+- [No pooled performance differences between curricula in internal medicine, pediatrics, surgery, or obstetrics and gynecology](no-pooled-differences-clinical-areas.md) — related

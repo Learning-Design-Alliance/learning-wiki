@@ -52,6 +52,7 @@ The article recommends that curriculum planners implement mandatory, structured 
 
 - [Implement mandatory structured in-service ECG training with simulation-based practice and rhythm-strip workshops for ICU nurses](mandatory-simulation-ecg-training-icu-nurses.md)
 - [Run brief, frequent reversed-classroom ECG workshops during cardiology internships, with students selecting, presenting and discussing real patient ECGs under cardiologist supervision](five-minute-reversed-classroom-ecg-workshops.md)
+- [Actively encourage trainees to analyse and interpret ECGs during clinical training, supported by mobile learning strategies](active-ecg-analysis-during-clerkships-with-mobile-learning.md)
 
 ## Examples
 -

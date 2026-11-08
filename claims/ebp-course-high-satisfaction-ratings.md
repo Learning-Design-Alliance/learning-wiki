@@ -63,3 +63,6 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Nurses received the web-based EBP training program positively, rating its information as meaningful, practicable, and accessible](nurse-acceptability-web-based-ebp-program.md) — related
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
 - [Participants rated the training positively on organization, content, material, assessment, and overall competency after each session, with slight declines in most domains except materials.](hbb-training-satisfaction-positive-all-domains.md) — related
+- [Healthcare professionals rated the e-learning resource as useful, easy to use and relevant to practice, and about one-third reported applying it in clinical practice at 4 weeks](elearning-usefulness-usability-ratings.md) — related
+- [NSW teachers rated the program higher than SA teachers on motivation, accessibility, mix of materials and lesson duration](state-differences-nsw-higher-ratings-than-sa.md) — related
+- [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
