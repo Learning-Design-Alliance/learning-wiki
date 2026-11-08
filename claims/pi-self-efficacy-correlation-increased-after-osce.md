@@ -48,3 +48,4 @@ Spearman's rank correlation analysis of post-OSCE questionnaire data from 48 occ
 - [Professional identity total scores did not change significantly after OSCE, although most professional identity items increased significantly (P < .05)](osce-pi-total-no-change-items-increase.md) — related
 - [Self-efficacy scores of occupational therapy students increased significantly after OSCE with simulation-based learning](osce-self-efficacy-significant-increase.md) — related
 - [Professional identity and self-efficacy were positively correlated before OSCE (r = .354)](pi-self-efficacy-correlation-before-osce.md) — related
+- [Self-efficacy scores showed a moderate, significant direct correlation with physical therapy students' OSCE performance](osce-self-efficacy-correlates-with-performance.md) — related

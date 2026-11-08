@@ -87,3 +87,4 @@ The interaction is described as disordinal and strongest for females who receive
 - [The group-by-exposure interaction was statistically significant for both mathematics and reading comprehension](hpsf-group-exposure-interaction-significant.md) — related
 - [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — a narrower finding that bears on this claim
 - [Communication self-confidence improved significantly over time in both groups, with a significant group-by-time interaction favoring the experimental group](communication-confidence-time-effect-and-interaction.md) — related
+- [Both groups improved from pre- to post-intervention, with a larger within-group effect in the intervention group](ebp-within-group-gains-both-groups.md) — related

@@ -50,3 +50,4 @@ Post-course fidelity ratings by the 114 participants with prior HEMS experience 
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [Non-technical skills scores rose significantly from pre-test to post-test after a blended simulation-based HEMS basic course, in one uncontrolled pre-post study, with the largest gain in patient management during aircraft malfunction (+1.49 points)](metra-course-nontechnical-skill-gains.md) — related
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — related
+- [Practitioners rate the simulation and its collaborative process as rather authentic](practitioners-rate-simulation-authentic.md) — related

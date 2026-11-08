@@ -53,3 +53,4 @@ Descriptive statistics by year of study (Table 1, N = 927). The article reports 
 - [All student groups preferred deductive over inductive grammar instruction](efl-students-prefer-deductive-over-inductive-grammar-instruction.md) — related
 - [SDL and SRL are developmental processes: senior students show more self-directed and self-regulated learning across several reviewed studies](sdl-srl-developmental-processes-pbl.md) — related
 - [Median Alpha scores increase each year of high school, by about 15, 10 and 4 points across the successive year intervals](yearly-alpha-gains-15-10-4-points.md) — related
+- [First-year dental students showed higher preference for distance learning than their senior students](year-of-study-influences-distance-learning-preference.md) — related

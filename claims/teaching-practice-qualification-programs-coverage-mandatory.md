@@ -47,3 +47,4 @@ Descriptive survey results on qualification programs. The article reports block 
 ## Related Claims
 - [Qualification for the practical year increased between 2016 and 2024, but course durations remain shorter than the 2020 position paper envisioned](pj-qualification-increase-since-2016-shorter-duration.md) — related
 - [Qualification program content covers organizational information, learning objectives, and didactic methods, with examiner training offered for the practical year](qualification-content-organization-learning-objectives-didactics.md) — related
+- [Where ID training exists in European psychiatry programs, its format and duration vary widely, from hours of lectures to a 3-year subspecialty](id-training-format-duration-variation-europe.md) — related

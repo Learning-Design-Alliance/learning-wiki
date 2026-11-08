@@ -49,6 +49,7 @@ The article recommends that mere presence on ward rounds does not build ECG comp
 
 - [Implement mandatory structured ED rotations plus simulation-based, ward-based ECG training to build competence and confidence](structured-ed-rotations-simulation-ecg-training-strategy.md)
 - [Run brief, frequent reversed-classroom ECG workshops during cardiology internships, with students selecting, presenting and discussing real patient ECGs under cardiologist supervision](five-minute-reversed-classroom-ecg-workshops.md)
+- [Introduce CUS interpretation training early in postgraduate training and enrich WBL modules with videos, Doppler tracings, case-based questions, and mobile access](early-introduction-and-enrichment-of-cus-wbl-module.md)
 
 ## Examples
 -

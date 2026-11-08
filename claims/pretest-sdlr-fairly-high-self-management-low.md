@@ -68,3 +68,4 @@ Pre-test descriptive result for the self-management subscale (13 items) in Table
 - [Nursing students taught with the flipped classroom model improved more in overall self-directed learning readiness than students taught with the conventional teaching method (p=0.030)](fcm-greater-sdlr-gain-than-ctm.md) — related
 - [Subscale SDLR differences between FCM and CTM groups were not statistically significant, with self-control the one subscale where the CTM group was at best](fcm-subscale-differences-nonsignificant-self-control.md) — related
 - [At post-test, the FCM group rated high on desire for learning and overall SDLR, while the CTM group remained fairly high](posttest-fcm-desire-learning-high.md) — related
+- [A flipped classroom approach produces greater pre-to-post gains than traditional teaching in overall self-directed learning readiness, including the active learning subscale](flipped-classroom-self-directed-learning-readiness-gain.md) — related

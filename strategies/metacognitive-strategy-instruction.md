@@ -65,6 +65,7 @@ Strategy instruction produces reliable but moderate gains, strongest when instru
 - [Self-Assessment](../elements/self-assessment.md) — trains the monitoring and evaluating components
 - [Spaced Practice](../principles/spaced-learning.md) — a study strategy whose value learners systematically misjudge, making it a prime target for instruction
 - [Teach metacognitive reading strategies as a before-during-after cycle of planning, self-monitoring through thinking aloud, and self-evaluation](metacognitive-reading-strategy-instruction-cycle.md)
+- [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small-group reading instruction cycling through predicting, questioning, clarifying, and summarizing, with teacher modeling fading to student leadership.

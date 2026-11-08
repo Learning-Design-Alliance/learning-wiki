@@ -52,3 +52,4 @@ Wilcoxon comparison of ten-step checklist scores for the same learners at the in
 - [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related
 - [In one uncontrolled pre-post study, only 40% of hospitalists achieved passing scores at a mean of 7 months after SBML (40% for LP and 40% for AP)](sbml-skill-decay-hospitalists-7-months.md) — reports the opposite
 - [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related
+- [LP simulation training significantly improves fifth-year medical students' self-assessed theoretical knowledge and confidence in performing LP](lp-simulation-improves-knowledge-confidence.md) — related

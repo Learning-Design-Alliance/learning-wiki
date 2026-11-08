@@ -52,3 +52,4 @@ Descriptive qualitative phase using four focus groups with 16 certified precepto
 - [Non-technical competencies such as communication, teamwork, and decision-making are frequently neglected in RT competency assessment](non-technical-competencies-neglected-rt-assessment.md) — related
 - [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](simulation-improved-communication-teamwork-male-students.md) — a narrower finding that bears on this claim
 - Competence-oriented simulated teaching raised learning-effect scores (independent learning, interest, emergency handling, teamwork, communication) more than traditional training — related
+- [Interactive learning activity supports intern nurses' transition toward clinically competent licensed nurses](interactive-learning-clinical-competence-transition.md) — related

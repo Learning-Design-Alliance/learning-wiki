@@ -60,6 +60,7 @@ Speech intelligibility is the gateway to instruction: when children must expend 
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the operational complement: behavioral and scheduling rules that reduce noise generation
 - [Clear Structure Presentation](../principles/clear-structure.md) — well-structured, signaled instruction is more robust to intermittent noise than unstructured talk
 - [Apply acoustic treatment, lowered ceilings and visual barriers when utilising open-plan classroom spaces](acoustic-treatment-and-visual-barriers-for-open-plan-classrooms.md)
+- [Support hearing-impaired students through classroom sound amplification, improved acoustics and teacher training](classroom-supports-for-hearing-impaired-students.md)
 
 ## Examples
 - **ANSI S12.60 (US)** — classroom acoustics standard specifying ≤35 dBA background noise and reverberation ≤0.6–0.7 s; used to specify new school construction.

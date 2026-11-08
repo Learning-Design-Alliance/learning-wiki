@@ -51,3 +51,4 @@ Frequency analysis of training timelines across described interventions. The rev
 - [Cultural safety training programs used a wide variety of delivery modalities, with teaching/lectures most common (30%), and only 12% provided follow-up support beyond the primary training period](cst-modality-variety-lectures-most-common.md) — related
 - [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
 - [RaT curricular timing and duration vary widely, with single early-intern-year interventions of 4–8 hours most common and longitudinal curricula spanning full training](rat-curriculum-timing-duration-variation.md) — related
+- [Where ID training exists in European psychiatry programs, its format and duration vary widely, from hours of lectures to a 3-year subspecialty](id-training-format-duration-variation-europe.md) — related

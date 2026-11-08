@@ -79,3 +79,4 @@ Same SET-M post-simulation survey item on confidence in communicating with the h
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
 - [In satisfaction surveys (n = 650), 94.3% of students reported increased confidence and 89.6% reported improved timing and team communication after simulation training](simulation-satisfaction-confidence-survey.md) — related
+- [Managers perceive that nurses need confidence in their practical role before they can lead, distribute and prioritise work](confidence-before-leadership-nurses.md) — related

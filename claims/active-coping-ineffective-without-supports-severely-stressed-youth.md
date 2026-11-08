@@ -54,3 +54,4 @@ This is an intervention-development paper for the Cities Mentor Project, not the
 - [Psychosocial interventions for low-income urban youth are more effective when delivered in community-based settings than within schools.](community-based-interventions-more-effective-than-school-based-in-urban-poverty.md) — related
 - [Children with cataract without comorbidities or psychosocial adversities seem to do well in school](healthy-cataract-children-do-well-in-school.md) — related
 - [The most strongly endorsed student needs are more sleep, time with friends, and help coping with stress](top-endorsed-student-needs-sleep-friends-stress.md) — related
+- [Mentoring relationship quality, not just mentor access, was significantly associated with youth outcomes](mentoring-relationship-quality-youth-outcomes.md) — related

@@ -51,3 +51,4 @@ Multivariate Cox logistic regression on 40 trainee doctors in extreme groups fou
 - [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related
 - [Doctors' self-ratings of understanding overestimate their actual ability to define and use accuracy measures](self-rated-understanding-overestimates-ability.md) — related
 - [SR–OB profile patterns differ by prior AI literacy experience: overestimation appears only among experienced teachers and a low–low profile only among inexperienced teachers](prior-experience-moderates-sr-ob-profiles.md) — reports the opposite
+- [Delegates' pre-workshop self-evaluated knowledge was inversely proportional to their actual pre-workshop mOSATS score](self-evaluation-inversely-proportional-mosats.md) — related

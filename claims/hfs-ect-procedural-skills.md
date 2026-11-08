@@ -90,3 +90,4 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [The self-serve training model significantly increases procedural confidence of novice ophthalmology residents but does not significantly improve skill assessment scores](self-serve-model-raises-confidence-not-skill-scores.md) — related
 - [Both high-fidelity simulation and case-based discussion increased theoretical knowledge scores, with no significant difference between groups](hfs-cbd-equal-knowledge-gains.md) — related
 - [Both high-fidelity simulation and case-based discussion increased medical students' self-confidence, with no significant difference between groups](hfs-cbd-equal-self-confidence-gains.md) — related
+- [Simulator training improves procedure-specific LH-OSATS and combined OSATS scores, the latter with a large printed effect size (Cohen's d 1.83)](simulator-training-improves-lh-osats-combined-large-effect.md) — related

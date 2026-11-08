@@ -52,6 +52,7 @@ The authors note that their program was stand-alone, "while simulation-based tra
 - [Improve HBB implementation through better work routines, equipment maintenance, psychological safety, and training that explains neonatal physiology](hbb-implementation-support-strategy.md)
 - [Integrate simulation courses and structured sub-step assistance, including an Education Team-Time-Out, into emergency surgical training](simulation-and-substep-integration-emergency-surgery-training.md)
 - [Develop multi-scenario VR programs for rare obstetric emergencies, enhanced with artificial intelligence](vr-multi-scenario-obstetric-emergency-training-strategy.md)
+- [Target informal health care providers with skill-based educational interventions, including simulation and peer-to-peer training, to improve neonatal care in rural settings](target-ihcps-skill-based-educational-interventions.md)
 
 ## Examples
 -

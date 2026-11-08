@@ -50,6 +50,7 @@ The article recommends that virtual simulation complement physical training for 
 - [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 - [Use interactive 3D object-based VR to let students repeat radiation-involved procedures without exposure and with feedback](3d-object-vr-repeat-procedures-without-radiation-strategy.md)
 - [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
+- [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 
 ## Examples
 -

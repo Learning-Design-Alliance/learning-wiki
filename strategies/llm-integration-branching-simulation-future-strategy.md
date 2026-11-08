@@ -50,6 +50,7 @@ As a future study perspective, the authors propose integrating Large Scale Langu
 
 - [Develop virtual clinical simulations through the five Contextualized Instructional Design stages with expert nurse participation](cid-stages-virtual-simulation-development-strategy.md)
 - [Validate LLM-based PFA training through larger-scale studies, trainee feedback, multimodal interfaces, and validated assessment frameworks](validate-llm-pfa-training-research-agenda.md)
+- [Future direction: more dynamic adaptation of virtual patients to contextual factors for a diverse, adaptable learning experience](dynamic-vp-contextual-adaptation-future-direction.md)
 
 ## Examples
 -

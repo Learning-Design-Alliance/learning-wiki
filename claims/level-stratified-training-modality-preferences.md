@@ -53,3 +53,4 @@ Weighted ranking survey of all 112 trainees, with 10 points for first rank down 
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [A minority of participants disliked the simulation modality and preferred alternative learning approaches](vital-coms-minority-dislike-simulation.md) — related
+- [First-year dental students showed higher preference for distance learning than their senior students](year-of-study-influences-distance-learning-preference.md) — related

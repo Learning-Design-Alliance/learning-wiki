@@ -60,3 +60,4 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
 - [After training, 85%–92% of nurses self-reported agreeing or strongly agreeing that the VR materials achieved their purpose and that they would recommend them](nurses-positive-responses-vr-materials-85-92-percent.md) — related
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — a narrower finding that bears on this claim
+- [Students recommended virtual patient simulation only in addition to bedside training, never as stand-alone use](vr-recommended-only-additional-to-bedside.md) — related

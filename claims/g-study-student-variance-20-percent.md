@@ -50,3 +50,4 @@ G-study using a three-way ANOVA (p×i×r design) estimated variance components f
 - [Two raters' total scores on the ten-item ACLS simulation rubric correlate 0.70 (p < 0.001) among pre-clinical medical students](acls-rubric-interrater-reliability-070.md) — related
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — related
 - [Excluding low-loading items yields an eight-item ACLS rubric with better CFA fit than the full ten-item form](cfa-eight-item-acls-rubric-fit.md) — related
+- [Reliability is context-dependent rather than a static attribute of a measurement tool](reliability-context-dependent-not-static.md) — a broader claim this one bears on

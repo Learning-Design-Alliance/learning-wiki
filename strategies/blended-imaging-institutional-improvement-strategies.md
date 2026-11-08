@@ -51,6 +51,7 @@ In the practical implication section the authors recommend that educational inst
 ## Related Strategies
 
 - [Optimise the mix of classroom instruction with online learning and performance support tools](optimize-mix-classroom-online-performance-support.md)
+- [Improve platform technical support and academic-related interactions, and use blended learning with virtual simulation for students in higher learning phases](platform-support-interactions-virtual-simulation-strategy.md)
 
 ## Examples
 -

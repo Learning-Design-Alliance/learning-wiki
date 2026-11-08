@@ -54,3 +54,4 @@ NASA-TLX cognitive workload questionnaire completed after each exercise in the r
 - [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related
 - [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related
 - [VR-trained groups reported significantly higher real-task workload than the real-only control group, with no significant difference between the two VR groups](vr-trained-groups-higher-real-task-workload.md) — related
+- [NASA-TLX mental workload scores are higher in novices and differ significantly by experience level in tasks 1 and 2](nasa-tlx-mental-workload-differs-by-laparoscopic-experience.md) — related

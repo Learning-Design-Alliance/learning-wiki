@@ -47,3 +47,4 @@ Engagement outcomes from the randomized trial: both groups could train as long a
 ## Related Claims
 - [Some trainees in the unstructured condition repeated significantly more training and practice modules than trainees in the structured condition.](unstructured-condition-more-module-repetition.md) — related
 - [IVR trainees rate the educational module higher than control trainees on enjoyment, ease of use, repetitivity, perceived improvement, and overall satisfaction](ivr-higher-perceived-benefits-ratings.md) — related
+- [IVR training on reverse shoulder arthroplasty was substantially faster than video training, even allowing for module repetitions](ivr-training-faster-than-video-training.md) — related

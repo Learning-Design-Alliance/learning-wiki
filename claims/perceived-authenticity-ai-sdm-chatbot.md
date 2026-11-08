@@ -55,3 +55,4 @@ Exploratory outcome analysis of participant perceptions in the feasibility study
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
 - [Medical students rated the LLM patient simulation as highly accurate, feasible, and realistic](students-rate-llm-patient-simulation-realistic-accurate.md) — related
+- [Practitioners rate the simulation and its collaborative process as rather authentic](practitioners-rate-simulation-authentic.md) — related

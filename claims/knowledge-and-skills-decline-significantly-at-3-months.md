@@ -60,3 +60,4 @@ Farah T, Besbes H, Ajmi H, Zayani S, Chemli J, Chouchane S. (2026). Comparing vi
 - [Skill scores decline within seven days after video-based acquisition, while self-study after an initial low score raises performance](skill-decline-seven-days-after-video.md) — related
 - [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](simulation-ascites-puncture-three-month-skill-retention.md) — related
 - [Skill retention 4–8 weeks after VAD training is superior after practice-based training: theory-trained participants deteriorated significantly while practice-trained participants remained stable](practice-based-vad-training-superior-retention.md) — related
+- [BLS knowledge and practical skills are not maintained 2 years after initial training in dental students](bls-skills-decay-two-years-without-retraining.md) — a narrower finding that bears on this claim

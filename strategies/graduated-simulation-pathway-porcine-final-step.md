@@ -55,6 +55,7 @@ The article states that "porcine models should represent the final step of a gra
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 - [Pre-processing porcine stomachs to remove grease and gastric acid before simulation use](porcine-stomach-preprocessing-strategy.md)
 - [Increase residents' time on simulators, pelvic trainers and cadaver courses to build surgical skill and confidence](simulator-pelvic-trainer-time-for-surgical-residents.md)
+- [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 
 ## Examples
 -

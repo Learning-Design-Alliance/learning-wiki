@@ -67,3 +67,4 @@ Correlations between EAPGS and daily performance across the practice phase (Fig.
 - [Extreme-PGS subgroups show mostly parallel learning trajectories, with task exceptions: for N-Back the low-PGS group learned more and ultimately performed better than the high-PGS group](extreme-pgs-group-learning-trajectories.md) — related
 - [A polygenic-score study of learning over 100 days of practice in 131 adults was too small to draw meaningful conclusions about genetic effects on baseline performance and learning](pgs-learning-cogito-underpowered.md) — related
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
+- [Learning curves across repeated training sessions show no constant trend among participants](learning-curves-repeated-training-no-constant-trend.md) — related

@@ -55,6 +55,7 @@ The article recommends that dental institutions integrate blended learning — "
 - [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
 - [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
 - [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
+- [Incorporate blended learning into the dental curriculum by combining the best features of classroom and distance learning](blended-learning-dental-curriculum-strategy.md)
 
 ## Examples
 -

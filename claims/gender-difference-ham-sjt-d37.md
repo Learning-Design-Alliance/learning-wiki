@@ -52,3 +52,4 @@ Reported in a footnote as a secondary analysis with a printed effect size of "d 
 - [Gender differences in fluid intelligence (gF) on the WISC are negligible, and newer fluid-reasoning subtests show no difference or favour females](wisc-fluid-intelligence-no-gender-difference.md) — related
 - [Average HAM-SJT performance increased drastically in high-stakes years when the test counted toward selection (d = 0.92)](ham-sjt-performance-increases-high-stakes.md) — related
 - [Female medical school applicants outperformed male applicants on the piloted SJT in both years, with a medium effect size in 2017](sjt-gender-female-advantage-indonesia-pilot.md) — related
+- [The article argues SJTs offer more efficient implementation and evaluation than simulated conversations and can complement, but not replace, them](sjt-more-efficient-than-simulated-conversations.md) — related

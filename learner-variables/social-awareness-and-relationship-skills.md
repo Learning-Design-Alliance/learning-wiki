@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 266 claims (180 show a difference, 54 mixed, 32 no difference) · 191 studies (61 causal, 46 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 51 of 191 report an effect size · 259 claims rest on one study
+> **Evidence** · 269 claims (182 show a difference, 55 mixed, 32 no difference) · 193 studies (62 causal, 47 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 51 of 193 report an effect size · 262 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -308,6 +308,9 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Empathy scores increased significantly from pre to post after MOOC participation in health sciences undergraduates](../claims/mooc-prepost-empathy-increase.md) [+M] — measured as an outcome of the instruction studied
 - [MOOC completion and participation significantly predicted academic performance (58% of variance), cognitive empathy (35%) and affective empathy (48%)](../claims/mooc-engagement-predicts-performance-empathy.md) [+M] — measured as an outcome of the instruction studied
 - [Empathy scores among intensive care residents rose from pre-test to post-test after PERCS-ICU, in one uncontrolled pre-post study](../claims/empathy-training-counters-hidden-curriculum.md) [+W] — measured as an outcome of the instruction studied
+- [Perspective taking is a stronger predictor of both CRT components than multicultural attitudes](../claims/perspective-taking-stronger-crt-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers with more positive multicultural attitudes and higher perspective taking abilities report engaging more frequently in both culturally and socially sensitive teaching](../claims/teacher-attitudes-perspective-taking-linked-crt.md) [+M] — learners who differ on it differ in outcomes
+- [Veterinarians with low pre-training Empathy showed the highest MI skill development, contrary to prior findings](../claims/low-pretraining-empathy-highest-mi-gains.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -75,3 +75,7 @@ Same three-month follow-up of the pilot study; mean knowledge score was 11 ± 3.
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [Self-reported confidence gains from on-call simulation may not persist: at 6-month follow-up, confidence was lower than immediately after simulation](confidence-gains-decline-six-months-followup.md) — reports the opposite
 - [Perceived educational quality of the simulation workshop declined between immediately after training and 3 and 6 months later, regardless of simulator type](perceived-educational-impact-declines-three-six-months.md) — related
+- [Student confidence in focused PE skills declined at 4-month follow-up to below both pre- and postsession levels](hdpe-confidence-decline-four-months.md) — reports the opposite
+- [Comfort with obstetrical procedures increased post-simulation and remained significantly above baseline at 4 and 8 months](obgyn-simulation-comfort-retention.md) — related
+- [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
+- [Perceived value of and interest in the simulation was high immediately post-session but declined significantly at 4 and 8 months](simulation-interest-declines-months.md) — related

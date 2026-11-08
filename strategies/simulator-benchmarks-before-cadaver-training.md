@@ -59,6 +59,8 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
 - [Use DSJ as an objective waypoint metric marking transition from simulated learning to supervised practice](dsj-waypoint-metric-training-progression-strategy.md)
 - [Increase residents' time on simulators, pelvic trainers and cadaver courses to build surgical skill and confidence](simulator-pelvic-trainer-time-for-surgical-residents.md)
+- [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
+- [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The article's practical recommendation is that RCR courses should engage learner
 
 - [Professional development on WCF should be practical, context-sensitive training rather than theoretical lectures](context-sensitive-wcf-teacher-development.md)
 - [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
+- [Design online course structure and flow around the experiential learning cycle rather than one-off lecturing](online-experiential-learning-cycle-design.md)
 
 ## Examples
 -

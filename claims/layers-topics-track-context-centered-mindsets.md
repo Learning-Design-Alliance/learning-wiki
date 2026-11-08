@@ -56,3 +56,4 @@ Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against 
 - [Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it](students-perceive-statistics-as-neutral-subject.md) — related
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
 - [Participants spent much of their out-of-school time alone at home](vi-students-alone-at-home-out-of-school.md) — related
+- [Building relationships with students is a foundational social justice pedagogy in HPE, enacted through knowing students personally and caring teaching strategies](relationships-foundation-social-justice-hpe.md) — related

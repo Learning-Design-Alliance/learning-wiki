@@ -52,3 +52,4 @@ Uncontrolled before-and-after study of 137 trauma team members (staff surgeons, 
 - [Trauma-informed training before simulation does not increase time to scenario completion relative to control](tic-training-no-simulation-time-penalty.md) — related
 - [Surgeons' mean HUFOES scores for non-technical skills rose significantly from 48.7 ± 16.6 to 59.2 ± 14.8 after simulation-based PCR training with an NTS-focused intervention, in one uncontrolled pre-post study (p < 0.001)](nts-simulation-training-improves-hufoes-scores.md) — related
 - [Participants believe leadership training for trauma resuscitation should be multidisciplinary and interprofessional, involving emergency physicians, trauma surgeons, and nurses](interprofessional-trauma-leadership-training.md) — related
+- [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related

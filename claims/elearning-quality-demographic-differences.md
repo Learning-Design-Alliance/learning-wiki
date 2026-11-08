@@ -53,3 +53,4 @@ Cross-sectional survey of 400 students analyzed with independent T-test and one-
 - [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — related
 - [Students rated the teaching-learning strategies subscale of e-learning quality significantly below the average level while student support, course structure, and infrastructure scored above it](elearning-subscores-teaching-strategies-below-average.md) — related
 - [Intervention effectiveness is moderated by demographics: younger, less experienced, female, and Bachelor's-degree nurses improved more](demographics-moderate-nontechnical-skill-intervention-effect.md) — related
+- [Baseline cCMV knowledge did not differ significantly by years in practice among faculty physicians](no-knowledge-difference-by-years-in-practice.md) — related

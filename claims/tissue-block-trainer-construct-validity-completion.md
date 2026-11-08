@@ -48,3 +48,4 @@ The review reports Tong/Meyerson's validation study of the tissue-block trainer 
 - [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — a narrower finding that bears on this claim
 - [The TuThor porcine heart-lung trainer box was rated suitable and realistic by most participants at hands-on courses](tuthor-trainer-box-suitable-vats-training.md) — related
 - [More experienced surgeons sutured faster on the simulator, supporting construct validity](vats-simulator-construct-validity-experience.md) — related
+- [The porcine organ model shows good construct validity with significant differences in GOALS and ALL scores among novices, intermediates, and experts across all three tasks](porcine-model-construct-validity-goals-all-scores.md) — related

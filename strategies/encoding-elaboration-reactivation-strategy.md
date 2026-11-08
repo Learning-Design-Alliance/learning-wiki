@@ -52,6 +52,7 @@ The review recommends encoding techniques grounded in neural accounts of integra
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 - [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](consolidation-sleep-spacing-interleaving-strategy.md)
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
+- [Teachers employ cognitive learning strategies — spaced practice, interleaving, elaboration, retrieval practice, reflection and mindfulness — to deepen knowledge processing](cognitive-learning-strategies-to-enhance-cognition.md)
 
 ## Examples
 -

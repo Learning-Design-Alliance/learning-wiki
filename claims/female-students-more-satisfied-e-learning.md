@@ -58,3 +58,4 @@ A t-test on global satisfaction ratings from 1,185 students on 27 e-learning cou
 - [Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person](minoritized-female-low-income-rated-online-experience-equal-or-better.md) — related
 - [Female students previewed significantly fewer vodcasts than male students before lectures.](gender-difference-in-vodcast-previewing.md) — related
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
+- [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related

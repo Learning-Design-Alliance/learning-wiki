@@ -52,3 +52,4 @@ Correlational analysis (Table 7, Pearson correlations) across the combined Chine
 - [Flemish faculty adopt e-learning and online collaborative learning at higher rates than Chinese faculty (about 95% vs 30% e-learning; 27% vs 8% online collaboration)](flemish-faculty-adopt-e-learning-more-than-chinese.md) — related
 - [Chinese teachers emphasize competition among students more than Flemish teachers, while perceived power distance and collaboration are similar across the two groups](chinese-teachers-emphasize-competition-more.md) — related
 - [Only competitive learning style correlated significantly with achievement, and only in the online group](competitive-style-correlation-online-only.md) — related
+- [Senior academic rank is associated with higher expert and delegator style scores (coefficients 0.217 and 0.175)](senior-rank-expert-delegator-styles.md) — related

@@ -47,6 +47,7 @@ After the pilot showed lower ease-of-use ratings, the team developed a video-bas
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 - [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
+- [Provide longer training and familiarization before deploying an interactive cognitive aid in simulated resuscitation](extended-familiarization-before-cognitive-aid-use.md)
 
 ## Examples
 -

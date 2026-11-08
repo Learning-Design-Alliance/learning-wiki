@@ -68,3 +68,4 @@ Questionnaire study with 30 participants, all with prior STEM teaching experienc
 - [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related
 - [Interns and trainees rated the disease-teaching application positively, with overall scores above 4 of 5 across satisfaction, efficiency, learning, usability and scientific-educational domains](positive-student-evaluation-med-app-five-domains.md) — related
 - [Participants report high engagement and satisfaction with the course but mixed technical experiences](sci-pa-elearning-engagement-satisfaction-technical-issues.md) — related
+- [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related

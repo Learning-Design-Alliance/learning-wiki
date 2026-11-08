@@ -50,3 +50,4 @@ Poisson regression models in the combined sample tested ADHD and comorbid disord
 - [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
 - [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md) — related
 - [Comorbidity explains much of the apparent association between individual mental disorder diagnoses and educational outcomes, as fully adjusted associations are greatly attenuated](comorbidity-attenuates-diagnosis-associations.md) — reports the opposite
+- [Excluding psychiatric comorbidity groups one at a time leaves the association between social anxiety disorder and educational outcomes largely unchanged](sad-educational-association-robust-to-comorbidity.md) — related

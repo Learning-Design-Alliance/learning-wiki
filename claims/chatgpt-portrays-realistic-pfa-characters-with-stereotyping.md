@@ -69,3 +69,4 @@ In the same thematic analysis, the first role play showed the chatbot's depictio
 - [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](llm-cooperates-with-trainer-but-breaks-instructions.md) — possibly the same claim (merge candidate)
 - [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related
 - [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](chatgpt-ideas-four-themes-dataset2.md) — a broader claim this one bears on
+- [Seven of ten individual portrayal items improved significantly post-program, with three items improving non-significantly](individual-portrayal-items-seven-significant-improvements.md) — related

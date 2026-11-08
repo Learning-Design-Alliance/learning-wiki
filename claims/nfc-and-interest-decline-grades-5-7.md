@@ -47,3 +47,4 @@ Descriptive analysis of model-estimated latent means across the four waves (Tabl
 
 ## Related Claims
 - [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](boredom-increases-interest-declines-grades-5-8.md) — related
+- [Without intervention, trait EI remains stable in the first year and significantly decreases during the second year (6th grade)](ei-declines-without-intervention-sixth-grade.md) — related

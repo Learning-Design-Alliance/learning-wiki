@@ -70,6 +70,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
 - [Conduct virtual patient clinical reasoning training in dyads or small groups of two to three students rather than individually](vp-training-in-dyads-small-groups.md)
 - [Implement active learning strategies such as case studies, group discussions, and virtual collaborative projects to enhance engagement in virtual courses](active-learning-strategies-virtual-engagement-strategy.md)
+- [Replace interrupted bedside apprenticeship with tutored online virtual patient sessions combining tutor interaction and independent practice](tutored-online-virtual-case-replacement-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Voluntary web-based Moodle follow-up after the lectures; mean MCQ scores "showed
 - [Individual and group reflection produce similar short-term MCQ scores in large lecture-based groups](ir-gr-similar-short-term-retention-large-lectures.md) — related
 - [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — related
 - [Reflective and cognitively oriented CPR approaches show potential for enhancing long-term skill retention, particularly at follow-up](reflective-practice-enhances-cpr-retention.md) — related
+- [Video-assisted reflection after simulation produces similar airway skill gains to recall-assisted reflection but better retention at 1 month](var-better-retention-than-rar.md) — related

@@ -50,3 +50,4 @@ Wound-care domain of the same before-and-after quasi-experiment (Table 3): mecha
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
 - [Clinical simulation improves physical examination skills and recognition of surgical wound infection signs](simulation-improves-infection-sign-recognition.md) — related
 - [Nursing students' documentation and recording of surgical wound assessment and care rose from pre-test to post-test after clinical simulation, in one uncontrolled pre-post study](simulation-improves-wound-care-documentation.md) — related
+- [Realistic simulation improved Kappa agreement on sterile dressing technique from 0.55 to 0.91](realistic-simulation-improves-sterile-dressing-kappa.md) — related

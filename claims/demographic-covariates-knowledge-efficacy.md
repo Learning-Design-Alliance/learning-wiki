@@ -50,3 +50,4 @@ Covariate results from the LMMs in the quasi-experimental study; the quote repor
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — related
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
 - [Female medical and dental educators score higher on student-centred teaching than male educators in Karachi, Pakistan](female-educators-higher-student-centric-scores-pakistan.md) — related
+- [Female medical faculty score lower on the formal authority teaching style than male faculty (regression coefficient −0.20)](female-faculty-less-authoritative-teaching-style.md) — related

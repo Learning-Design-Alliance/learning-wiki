@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-08
 sources:
   - id: alharbi-f-2022
     resource: "https://doi.org/10.1186/s12909-022-03557-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-test scores did not differ significantly between the VFL and VTL groups in either lecture period (both p > 0.05). [→ Alharbi F 2022](#alharbi-f-2022)
@@ -49,3 +50,4 @@ Crossover clustered randomized pilot trial of 32 fourth-year dental students; Ma
 - [Students preferred the virtual flipped learning format over the virtual traditional format on all survey items except opportunity to ask questions](students-prefer-vfl-over-vtl-perception.md) — related
 - [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related
 - [No statistically significant difference in knowledge gains between live, flipped video, and interactive flipped methods (η² = 0.009)](no-between-group-difference-three-teaching-methods.md) — related
+- [Live lectures and videos produce similar learning outcomes in dental ergonomics, with no statistically significant difference between formats](live-lectures-videos-similar-ergonomics-outcomes.md) — related

@@ -52,3 +52,4 @@ Pre-post survey of the same 98-participant convenience sample before and after t
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Most future schoolteachers value first-aid training and are willing to include BLS content in lessons with their students](teachers-willing-to-teach-bls.md) — related
+- [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related

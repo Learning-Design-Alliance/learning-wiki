@@ -50,6 +50,7 @@ Because implementation of observation-based feedback is challenging, the article
 
 - [Optimizing MECC TtT delivery: skills-based experiential training, clear cascade expectations, trainer flexibility, and quality-based evaluation](mecc-ttt-optimization-recommendations.md)
 - [Promote interaction between provider and receiver of peer feedback to stimulate elaboration on judgments](promote-provider-receiver-interaction-feedback.md)
+- [Design the curriculum to position feedback as a key attribute, orienting students to feedback and building in practice giving it](curriculum-design-promoting-feedback.md)
 
 ## Examples
 -

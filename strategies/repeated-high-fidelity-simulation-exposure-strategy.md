@@ -50,6 +50,7 @@ The article recommends that medical students be repeatedly exposed to high-fidel
 - [Intensify preclinical training, add early clinical exposure, and use simulation (problem-based learning, high-fidelity and virtual reality simulators) to prepare students for endodontic emergencies](preclinical-intensification-early-exposure-simulation-endodontic-emergencies.md)
 - [Simulation Based Training](simulation-based-training.md)
 - [Tailor the emotional content of simulation sessions to individual learners' anxiety levels](tailor-simulation-emotional-content-to-learner-anxiety.md)
+- [Repeat clinical skills assessments with formative feedback to build self-efficacy and buffer the negative effects of assessment anxiety](repeated-osce-exposure-with-formative-feedback-strategy.md)
 
 ## Examples
 -

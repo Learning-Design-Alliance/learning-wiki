@@ -58,3 +58,4 @@ Student-reported outcome from the cohort 1 randomized experiment: treatment stud
 - [Playworks made transitions from recess to classroom learning less difficult, per teacher reports](playworks-easier-recess-to-classroom-transitions.md) — related
 - [Having some recess is associated with better teacher-reported classroom behavior than no or minimal recess](recess-associated-better-teacher-reported-behavior.md) — related
 - [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related
+- [Schools with Playworks programs show more physical activity, less bullying, and more attentive students than schools without](playworks-impact-findings.md) — related

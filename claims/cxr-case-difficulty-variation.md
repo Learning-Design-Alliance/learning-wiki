@@ -49,3 +49,4 @@ Descriptive case-level results from the 205-physician survey; the article separa
 - [Phishing email difficulty varies widely (15–85% correct) while mean confidence varies little (80–90%), leaving some victims unaware they were fooled](phishing-difficulty-variance-confidence-invariance.md) — related
 - [Diagnostic accuracy is higher for oral conditions with recognizable clinical features and lower for conditions with non-specific presentations](recognizable-features-higher-oral-diagnostic-accuracy.md) — related
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
+- [Accuracy varies by case: pneumoperitoneum was the most correctly identified finding (93.8%) and flail chest the least (58.5%)](cxr-case-accuracy-pneumoperitoneum-highest-flail-chest-lowest.md) — related

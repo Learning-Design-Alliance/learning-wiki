@@ -60,3 +60,4 @@ This is an intensive microgenetic case study of three purposively-selected extre
 - [Role identity formation is a self-organizing process in which the system strives toward coherence, moving from repellor states toward attractor states](dsmri-role-identity-formation-attractor-repellor.md) — related
 - [In the IC-JPA group, teacher-delivered redirections decreased while student-to-student redirections increased, indicating growing student self-autonomy](icjpa-student-redirection-autonomy-growth.md) — related
 - [Autonomy for exploration sustains teachers' motivation](autonomy-for-exploration-sustains-teacher-motivation.md) — related
+- [The study's results support natural pedagogy theory over simple social learning accounts of scaffolding](results-support-natural-pedagogy-over-social-learning.md) — related

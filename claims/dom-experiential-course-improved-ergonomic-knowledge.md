@@ -69,3 +69,5 @@ Same paired pretest-posttest study; the multiple-choice posture-identification i
 - [Post-course postural performance was favorable, with a mean overall Dental Ergonomics Assessment score of 1.45](post-course-dea-postural-performance-favorable.md) — related
 - [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related
 - [Providers' HBB knowledge scores rose significantly from pre-training to immediately post-training after HBB training, in one uncontrolled pre-post study](hbb-training-increases-provider-knowledge-immediately.md) — related
+- [Third-year dental students have good baseline knowledge of dental ergonomics before any teaching, with no difference between groups](baseline-ergonomics-knowledge-72-percent.md) — related
+- [Third-year dental students' implementation of ergonomic knowledge into practice is poor despite good theoretical learning outcomes](poor-implementation-ergonomics-practice.md) — related

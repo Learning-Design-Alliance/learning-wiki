@@ -62,3 +62,4 @@ The review's narrative synthesis of included-study results, attributed to specif
 - [Simulated-patient and expert rating convergence may depend on comprehensive simulated-patient training](simulated-patient-training-supports-expert-congruence.md) — related
 - [Across 20 virtual patient cases with automated feedback, students' diagnostic justification, test ordering, cognitive errors and misdiagnosis rates improved with case sequence without plateau, in a non-randomised observational study](deliberate-practice-improves-cr-no-plateau.md) — related
 - [Higher GAI temperature setting (0.9) was associated with higher student ratings of virtual simulated patients, with a small effect](gai-temperature-0-9-higher-ratings.md) — related
+- [Intervention-group monographs showed clearer review questions, inclusion/exclusion criteria, and methodology than control-group monographs in blinded expert analysis](ebp-monograph-qualitative-differences.md) — related

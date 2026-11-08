@@ -93,6 +93,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [Supplement preclinical operative dentistry live demonstrations with procedure-specific educational videos delivered through an E-learning platform](procedure-video-supplement-live-demonstration-strategy.md)
 - [Improve the teaching quality of online content delivery and use video strategies such as interactive elements and cognitive-load management](improve-recorded-lecture-quality-and-video-strategies.md)
 - [Use short in-house videos to complement lectures by making instruments, locations, and processes accessible, then engage students with a question](short-videos-complement-lectures-strategy.md)
+- [Deliver pre-procedure patient education via an anytime-reviewable smartphone multimedia program](smartphone-multimedia-preprocedure-education-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

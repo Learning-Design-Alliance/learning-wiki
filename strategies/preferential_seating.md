@@ -58,9 +58,11 @@ Preferential seating works by improving the signal-to-noise ratio for both audit
 5. Reassess after several weeks: observe on-task behavior and adjust, since the optimal position shifts with activities and seating of peers.
 
 ## Related Strategies
+
 - [Acoustics and noise management](acoustics_and_noise_management.md) — addresses the same signal-to-noise problem at the room level rather than the seat level
 - [Accommodating processing speed challenges](accommodating_processing_speed_challenges.md) — a companion accommodation for learners who need more time to encode instruction
 - [Check-ins](../principles/check-ins.md) — verifies that the seated learner actually received and understood instructions
+- [Support hearing-impaired students through classroom sound amplification, improved acoustics and teacher training](classroom-supports-for-hearing-impaired-students.md)
 
 ## Examples
 - An elementary teacher seats a student with unilateral hearing loss with their stronger ear toward the class and away from the HVAC unit, and circulates during group work rather than teaching from one spot.

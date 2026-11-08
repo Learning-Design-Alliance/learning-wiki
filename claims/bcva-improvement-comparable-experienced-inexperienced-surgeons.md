@@ -50,3 +50,4 @@ Secondary endpoint from the same retrospective comparative case series; Table 3 
 - [Inexperienced surgeons differed from the experienced surgeon in intraoperative technique choices, using longer-lasting C3F8 tamponade and suturing sclerotomies more often](inexperienced-surgeons-technique-choices-c3f8-sclerotomy-suturing.md) — related
 - [Postoperative best-corrected visual acuity does not differ significantly between surgeries performed on the 3D heads-up display and the traditional microscope.](3d-hud-no-bcva-difference.md) — related
 - [92% of post-training resident phacoemulsification surgeries achieved day one post-operative best corrected visual acuity of 20/60 or better](distance-wet-lab-post-training-bcva-who-criterion.md) — related
+- [No significant difference in patient visual outcomes between simulation-trained and control trainee surgeons](simulation-training-no-difference-visual-outcomes.md) — related

@@ -58,3 +58,4 @@ The review attributes this Level 4 finding to Steinemann (2011), a before-and-af
 - [Simulation training is associated with reduced surgical errors and improved team performance, but translation to patient-level outcomes remains unproven](simulation-clinical-outcomes-intermediate-only.md) — related
 - [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
 - [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — related
+- [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related

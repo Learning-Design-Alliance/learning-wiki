@@ -50,3 +50,4 @@ Pilot survey of 12 anatomy students at the University of Western Ontario on the 
 - [In an initial feedback survey, students strongly agreed the embodied activities were memorable, helped learning beyond lecture alone, and were recommendable to future groups](initial-student-feedback-memorability-and-recommendation.md) — related
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](3d-model-higher-confidence-visualization-enjoyment.md) — related
 - [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
+- [Students rated the VR system as more realistic and immersive than theoretical coursework and complementary to it](vr-system-rated-realistic-immersive-complementary.md) — related

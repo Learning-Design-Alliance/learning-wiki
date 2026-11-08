@@ -63,3 +63,6 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Teachers rated the online training module positively, with all dimension and item scores averaging or mediating at 4](online-training-module-acceptable.md) — related
 - [Participants in two faculty development workshops reported high ratings for clarity, organization, and relevance of the workshop](faculty-development-virtual-teaching-workshop-high-ratings.md) — related
 - [A massive online e-learning course for clinical study investigators achieved high user satisfaction, with a mean overall rating of 4.56/5 among 1067 feedback respondents](imagine-elearning-high-satisfaction-4-56.md) — related
+- [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
+- [Trainees reported high satisfaction with the module, with all respondents agreeing the training was excellent and 91% finding the content relevant to practice](wbl-module-satisfaction-neonatal-cus.md) — related
+- [Feedback-driven refinement across three workshops raised overall delegate ratings, which plateaued at a high level](workshop-ratings-improved-across-iterations-plateau.md) — related

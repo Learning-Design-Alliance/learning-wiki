@@ -73,3 +73,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Students report mixed perceptions of whether debriefers focus on errors rather than successes, with about a third perceiving an error focus](error-focus-in-debriefing-mixed-perceptions.md) — related
 - [Students valued the SBE process structure of pre-brief, simulation activity, and debrief, including feedback from supervisors and simulated patients](sbe-process-prebrief-simulation-debrief-valued.md) — related
 - [Most students prefer a single facilitator providing debriefing for the entire academic year over multiple facilitators](single-facilitator-preferred-whole-year.md) — related
+- [Anxiety during standardized-patient simulation can be managed by increasing simulation opportunities and providing sufficient debriefing time, according to the authors' interpretation.](debriefing-to-manage-sp-simulation-anxiety.md) — related

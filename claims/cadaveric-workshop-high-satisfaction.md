@@ -55,3 +55,4 @@ Post-workshop satisfaction survey of the 109 participants using a 5-point Likert
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related
 - [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related
+- [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related

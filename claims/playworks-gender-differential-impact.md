@@ -60,3 +60,4 @@ Summary finding of the 29-school randomized evaluation, in which impacts were es
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
 - [The wellbeing effects of school-led nature interventions show a gender effect, with girls benefiting in PA in some studies, but inconclusive findings for age](gender-effect-school-nature-interventions.md) — related
+- [Schools with Playworks programs show more physical activity, less bullying, and more attentive students than schools without](playworks-impact-findings.md) — related

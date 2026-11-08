@@ -50,3 +50,4 @@ Qualitative case study combining in-class observation field notes, a six-student
 - [Statistically significant item-level OSCE gains occur in shoulder and elbow palpation, shoulder active and passive range of motion, patient comfort, and examination organisation after a near-peer tutorial](near-peer-tutorial-significant-osce-item-gains.md) — related
 - [3D printed models served as an additional modality helping learners connect knowledge across different sources and knowledge types](3d-printed-models-connecting-knowledge.md) — related
 - [Students report substantial gains in self-reported confidence and understanding of the upper limb musculoskeletal examination after a near-peer tutorial](near-peer-tutorial-confidence-gains.md) — related
+- [The tactile, kinesthetic nature and take-home availability of 3D-printed bones increased students' engagement with class activities and unit content](3dp-bones-tactile-engagement-behavioral-theme.md) — related

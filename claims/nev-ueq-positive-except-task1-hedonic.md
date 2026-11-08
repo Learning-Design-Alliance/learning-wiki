@@ -56,3 +56,4 @@ Figure 4 reports average UEQ-S ratings (normalized -3 to +3) per task from the i
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
 - [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related
 - [Nursing students rated the ESNPNSD positively on all six UEQ dimensions](esnpnsd-positive-ueq-scores-all-dimensions.md) — related
+- [The PediAppRREST app received positive usability evaluations across all six UEQ scales in a simulation pilot with pediatric residents](pediaprrrest-positive-usability-ueq-pilot.md) — related

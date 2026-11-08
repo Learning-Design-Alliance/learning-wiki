@@ -48,6 +48,7 @@ To overcome knowledge deficits and cognitive overload, the article proposes team
 ## Related Strategies
 
 - [Optimize equipment and resource availability for sepsis detection and priority management, including continual core temperature monitoring](sepsis-equipment-resource-optimization-strategy.md)
+- [Use electronic health record tools (smart phrases, best practice alerts) to prompt obstetric history screening](smart-phrases-best-practice-alerts-screening-prompt.md)
 
 ## Examples
 -

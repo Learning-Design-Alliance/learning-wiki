@@ -66,3 +66,4 @@ The article reports, citing Dawson and Sutherland-Smith (2018) and Dawson et al.
 - [AI humanizer websites recontextualize detection evasion by deleting misconduct terms and substituting euphemisms like 'humanize' and 'improve flow'](humanizer-recontextualization-deletes-misconduct.md) — related
 - [Student work from project-based research assignments showed lower Turnitin similarity percentages than work from literature-review assignments](prbl-lower-turnitin-similarity.md) — related
 - [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — a narrower finding that bears on this claim
+- [No evidence of cheating was found in either online open book assessment by Turnitin collusion review, marking for irrelevant answers, or score-pattern analysis](no-cheating-evidence-online-open-book-radiologic-pathology.md) — related

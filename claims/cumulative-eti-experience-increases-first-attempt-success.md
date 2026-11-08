@@ -49,3 +49,4 @@ Multivariable generalized linear mixed model with random intercept on 2077 ETI c
 - [Cardiac arrest and anticipated difficult airway are each associated with lower first attempt success in trainee-performed emergency intubation](cardiac-arrest-and-difficult-airway-lower-fas.md) — related
 - [A first attempt success rate of ≥ 85% is a defensible proficiency benchmark for emergency intubation, consistent with a meta-analytic ED benchmark of 84.1%](fas-85-percent-proficiency-benchmark.md) — related
 - [Video laryngoscope use is associated with higher first attempt success than direct laryngoscope among EM trainees](video-laryngoscope-higher-fas-than-direct.md) — related
+- [During a 1-month anesthesiology airway rotation for nonanesthesiology trainees, first-pass success rose from 85% to 94% and grade 1 laryngoscopic view from 61% to 74% between weeks 1 and 4](airway-rotation-first-pass-success-improvement.md) — a narrower finding that bears on this claim

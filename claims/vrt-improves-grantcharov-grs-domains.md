@@ -59,3 +59,4 @@ Single-centre RCT randomizing 20 participants to VR training or no additional tr
 - [VR-trained radiography students made significantly fewer total X-ray tube movements than physical-simulation-trained students](vr-simulation-fewer-tube-movements.md) — related
 - [Global OSATS ratings did not differ significantly among groups, but subscores favored VOA over control on overall subscore and both feedback arms on tissue respect and economy of movement](osats-global-null-subscore-differences.md) — related
 - [Virtual-reality training in laparoscopic surgery produced significantly better performance than no training, per a cited meta-analysis](vr-training-better-performance-than-no-training.md) — a broader claim this one bears on
+- [Virtual reality simulator training before the first laparoscopic hysterectomy improves residents' Global Rating Scale OSATS scores in the live operation](vr-simulator-training-improves-grs-osats-first-laparoscopic-hysterectomy.md) — related

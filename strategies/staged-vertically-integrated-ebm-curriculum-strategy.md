@@ -53,6 +53,8 @@ The authors recommend organising EBM instruction around the five steps (Ask, Acq
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 - [Implement workplace and curricular EBP training programs targeting question formulation, literature search, retrieval and critical appraisal](ebp-training-programs-workplace-curricula-ghana.md)
+- [Integrate EBM teaching with clinical practice rather than standalone instruction](clinically-based-ebm-teaching-strategy.md)
+- [Implement SDM EPAs through longitudinal workplace training integrated with EBM curricula and supervisor role modeling](longitudinal-workplace-training-sdm-epas-strategy.md)
 
 ## Examples
 -

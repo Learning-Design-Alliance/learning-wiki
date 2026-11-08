@@ -51,3 +51,4 @@ K-means clustering of 204 students with complete responses identified two phenot
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](gender-difference-online-srl-females.md) — related
 - [Participants report high satisfaction with both training modalities with no difference between groups](high-satisfaction-both-modalities-no-difference.md) — related
 - [240 voluntary participants completed the full app session, predominantly female and mostly aged 21-30](240-participants-completed-app-session.md) — related
+- [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related

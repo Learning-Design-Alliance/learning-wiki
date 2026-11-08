@@ -107,3 +107,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Free comments from participants indicated the 1-hour practice session was perceived as too short for hands-on practice and that face-to-face training was valued during the pandemic](postcourse-comments-course-too-short-face-to-face-valued.md) — related
 - [Most dental students reported missing educational experiences as a result of the COVID-19 lockdown](students-missed-educational-experiences-lockdown.md) — related
 - [Most participants judged telesimulation as offering fewer training opportunities than face-to-face instruction, citing technical difficulties most often](telesimulation-perceived-disadvantages.md) — related
+- [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related

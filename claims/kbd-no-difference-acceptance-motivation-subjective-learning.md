@@ -81,3 +81,4 @@ Welch t-test on the Perceived Competence subscale; the control group (M = 4.71, 
 - [No difference in motivation between the iVR-orchestrated lesson and the student video design control group](ivr-authentic-classroom-no-motivation-difference.md) — related
 - [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — a narrower finding that bears on this claim
 - [Several perceived-advantage comparisons between the social robotic and computer-based platforms did not reach statistical significance](social-robotic-vp-nonsignificant-comparisons.md) — related
+- [Acceptance and motivation for the ultrasound teaching videos were rated low while subjective learning success was rated positively by up to 88% of respondents](vist-video-acceptance-low-learning-success-positive.md) — related

@@ -50,3 +50,4 @@ Review-level statement across the 16 included studies, most of which administere
 - [For ultrasound-guided venous access procedures, comparative studies show no agreement on whether distance or traditional teaching is more effective](venous-access-teaching-no-agreement.md) — related
 - [Many ultrasound examination types, such as thyroid, neck, breast and prostate, have not been evaluated in primary studies of distance-learning techniques](ultrasound-exam-types-unevaluated-distance-learning.md) — related
 - [VR teaching raises teaching interest and teaching satisfaction relative to traditional approaches](vr-teaching-interest-satisfaction.md) — related
+- [Students reported lower learning satisfaction and more difficult communication in distance learning than classroom learning](distance-learning-lower-satisfaction-harder-communication.md) — reports the opposite

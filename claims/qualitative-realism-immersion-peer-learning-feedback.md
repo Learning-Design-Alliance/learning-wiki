@@ -74,3 +74,5 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Most participants (69%) did not feel immersed in the simulation, yet the authors argue immersion is not required for specific surgical-skill training](oasis-simulator-low-immersion-acceptable.md) — related
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
 - [Practitioners reported high perceived realism during the simulation scenarios, confirming they felt they were supporting a newborn rather than a simulator](practitioners-reported-scenario-realism.md) — related
+- [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
+- [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related

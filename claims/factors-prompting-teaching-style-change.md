@@ -48,3 +48,4 @@ Template analysis of interviews with 12 clinical teachers. The article states "C
 ## Related Claims
 - [Senior faculty influence, limited institutional technology support, variable trainee competence, and time constraints are perceived barriers to adopting preferred teaching styles](barriers-to-teaching-style-change.md) — related
 - [Institutional culture, prior teaching experience, and motivational profiles shape residents' teaching effectiveness](factors-shaping-resident-teaching-effectiveness.md) — related
+- [Teaching style preferences differ by institution, with STMU faculty differing significantly from other medical schools](institution-differences-teaching-styles-stmu.md) — related

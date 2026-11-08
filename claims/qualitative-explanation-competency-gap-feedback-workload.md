@@ -58,3 +58,4 @@ Face-to-face semi-structured interviews with 15 randomly selected trainee nurses
 - [Traditional instructor-based cephalometric assessment lacks objectivity and consistency](traditional-cephalometric-assessment-lacks-objectivity.md) — related
 - [Student self-assessments and faculty evaluations of patient care domains diverge, with self-reported scores generally lower than faculty-assigned scores](self-assessment-faculty-score-discrepancy-dental-rotations.md) — related
 - [Residents' motivation to train with the PLET was poor in both groups, driven by workload and time constraints](poor-motivation-workload-time-constraints-plet.md) — related
+- [Barriers to feedback in clinical settings include lack of direct observation, reluctance to give critical feedback, and lack of external feedback](barriers-clinical-feedback-process.md) — related

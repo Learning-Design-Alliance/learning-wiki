@@ -48,3 +48,4 @@ Baseline questionnaire (T1) of 92 students applying a 5-point Likert scale. In T
 - [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — related
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
 - [Dental students show strongly positive attitudes toward TDI management and want more training](positive-attitudes-toward-tdi-management.md) — related
+- [Managers perceive that nurses need confidence in their practical role before they can lead, distribute and prioritise work](confidence-before-leadership-nurses.md) — related

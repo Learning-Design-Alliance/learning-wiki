@@ -69,3 +69,4 @@ One-month theoretical test (global mean 13,63±2,57; between-group p=0,232) amon
 - [Within the intervention group, PFA knowledge scores increase significantly from baseline to post-training (r = 0.56) and remain significantly above baseline at 2 months](pfa-within-group-knowledge-gains.md) — related
 - [Mannequin-based and combined simulation produce higher non-technical skill scores than computer simulation alone after ACLS training](scenario-simulation-beats-computer-for-nontechnical-skills.md) — related
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](acls-skill-decline-at-twelve-months.md) — related
+- [Technical skills in cardiac arrest simulation showed no significant differences between blended and traditional ALS training, immediately or at seven months](als-technical-skills-no-significant-differences.md) — related

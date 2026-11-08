@@ -71,3 +71,4 @@ Expert questionnaire comparison of content validity between the two models after
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
 - [In one repeated-training study, operation scores rose and operation times fell across 8 sessions on 3D-printed LRYGB models, with residents approaching intermediate-level performance and learning curves plateauing after 4–5 sessions](learning-curve-plateau-4-5-sessions-3d-lrygb.md) — related
 - [Most participants rated the porcine stomach model as having higher tissue and physiologic fidelity than the towel uterus model](porcine-stomach-fidelity-beats-towel-uterus.md) — related
+- [Participants rate porcine tissue as similar to human tissue and all three tasks as effective for training](participant-ratings-tissue-similarity-task-effectiveness.md) — related

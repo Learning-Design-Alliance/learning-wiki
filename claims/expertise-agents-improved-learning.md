@@ -50,3 +50,4 @@ Findings from the two experiments reported in the review: agents operationalized
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — a broader claim this one bears on
 - [Split-persona effect: two distinct agent roles (Expert and Motivator) outperformed one combined Mentor agent](split-persona-effect-agents.md) — reports the opposite
 - [Middle-schoolers judge a speaker presented as a researcher as more expert and more trustworthy than one presented as a consumer](researcher-judged-more-credible-than-consumer.md) — related
+- [Trainees judged assessor credibility by domain expertise and the credibility and constructiveness of feedback, not by whether they knew the assessor](credibility-depends-on-domain-expertise-and-feedback-quality.md) — a narrower finding that bears on this claim

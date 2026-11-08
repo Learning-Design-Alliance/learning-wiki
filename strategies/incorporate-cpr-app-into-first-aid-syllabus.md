@@ -46,7 +46,8 @@ A concrete implementation step drawn from the trial's finding that familiarizati
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](../claims/feedback-based-cpr-training-improves-compression-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide longer training and familiarization before deploying an interactive cognitive aid in simulated resuscitation](extended-familiarization-before-cognitive-aid-use.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Safety errors (pedicle breaches, collisions) were auto-flagged by the IMR system
 - [IMR-SS shows no advantage over a digital textbook for theoretical knowledge of pedicle screw placement](imr-ss-no-theoretical-knowledge-advantage.md) — related
 - [IMR-SS trainees show significantly smaller transverse screw placement angles in the unassisted assessment session](imr-ss-smaller-transverse-angle-assessment.md) — related
 - [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related
+- [IVR-trained residents made fewer critical procedural errors in guide pin insertion, glenoid reaming, and baseplate sizing than video-trained controls](ivr-training-fewer-critical-errors-rsa.md) — related

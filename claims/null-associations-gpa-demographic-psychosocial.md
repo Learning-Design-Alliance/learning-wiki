@@ -53,3 +53,4 @@ Null correlational results from the cross-sectional analysis of 256 physiotherap
 - [Excessive study behaviour mediates the relationship between academic self-esteem contingency and exhaustion in university students](excessive-study-behaviour-mediates-self-esteem-contingency-exhaustion.md) — related
 - [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
 - [A one-SD increase in RSES self-esteem score is associated with a 0.12 SD higher standardized math score among rural Chinese students](rses-one-sd-increase-0-12-sd-math-rural-china.md) — related
+- [Self-esteem is positively associated with academic performance in Indian adolescents, while life satisfaction is not](self-esteem-predicts-academic-performance-indian-adolescents.md) — reports the opposite

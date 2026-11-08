@@ -53,3 +53,4 @@ Quasi-randomized controlled study of 26 third-year medical imaging students assi
 - [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher practical skills scores than LBL group](boppps-fc-cbl-higher-practical-skills-than-lbl.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
+- [Simulation participants also scored higher on the pulmonary physiology section of the block test](sbe-higher-pulmonary-physiology-section-scores.md) — related

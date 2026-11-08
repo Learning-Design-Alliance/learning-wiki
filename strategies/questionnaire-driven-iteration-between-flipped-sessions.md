@@ -49,6 +49,7 @@ A concrete implementation recipe drawn from the article's test phase: administer
 - [Iterate real-time tutor feedback based on user questionnaires: add explanations, positive feedback, session summaries and pause warnings](cpr-tutor-questionnaire-driven-feature-improvements.md)
 - [Iteratively improve pre-session homework by adding explanations of thesaurus structure and revising assessments based on demonstrated student difficulties](iterative-improvement-pre-session-materials.md)
 - [Session-design adjustments suggested by student feedback: shorten or split the manual, add facilitators, schedule the session earlier, and keep facilitator synthesis pauses](gas-exchange-session-design-adjustments-strategy.md)
+- [Implement four user-suggested improvements when deploying interactive clinical avatar simulations](avatar-implementation-improvement-strategy.md)
 
 ## Examples
 -

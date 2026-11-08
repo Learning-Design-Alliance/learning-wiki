@@ -49,3 +49,4 @@ Same paired pre-post video-assessment study of seventeen surgeons rated with the
 - [OSATS was the most frequently used technical-skills assessment tool, but many OSATS variations were used without validity evidence](osats-most-common-ts-tool-variations-lack-validity.md) — related
 - [Structured feedback with video debriefing and CVS annotation yields higher global and task-specific OSATS and GOALS scores in ex-vivo laparoscopic cholecystectomy training](structured-feedback-video-debriefing-higher-osats-goals.md) — related
 - [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related
+- [Simulator training improves procedure-specific LH-OSATS and combined OSATS scores, the latter with a large printed effect size (Cohen's d 1.83)](simulator-training-improves-lh-osats-combined-large-effect.md) — related

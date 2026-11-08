@@ -58,3 +58,4 @@ Classroom deployment with 24 undergraduate students using a within-subjects desi
 - [Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower](student-perceptions-of-dps-differ-from-experts.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
 - [Simulation scenarios, scenario topics and feedback exercises showed the greatest variance in student ratings](greatest-variance-simulation-feedback-ratings.md) — related
+- [Practitioners rate the simulation and its collaborative process as rather authentic](practitioners-rate-simulation-authentic.md) — related

@@ -49,7 +49,8 @@ The article recommends monitoring sleep and its school-performance correlates in
 - [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](../claims/persistent-dims-poor-academic-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use school-based, nightmare-focused screening and intervention as an accessible first-line entry point for trauma-related sleep problems in students](school-based-nightmare-focused-first-line-entry.md)
 
 ## Examples
 -

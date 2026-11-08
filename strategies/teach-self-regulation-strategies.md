@@ -93,6 +93,7 @@ Self-regulation instruction has consistent positive effects on academic performa
 - [Use AI tools to support assessment, feedback and monitoring of learner progress](ai-supported-assessment-and-feedback-strategies.md)
 - [Develop inquiry-based learning that explicitly emphasizes regulation of cognition, especially information management, monitoring, evaluating, and debugging](inquiry-emphasizing-regulation-of-cognition.md)
 - [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
+- [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 
 ## Examples
 **Zimmerman & Campillo's cycle in writing instruction** — Students plan (set goals for audience and structure), draft with self-monitoring checklists, and revise after self-evaluation against criteria; the Self-Regulation Strategy Development model (SRSD) for writing has strong experimental support across grade levels.

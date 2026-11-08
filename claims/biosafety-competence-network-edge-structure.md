@@ -50,3 +50,4 @@ Network model fitted with the R package graph using EBIC and LASSO regularizatio
 - [The competence network's bridge expected influence indices show acceptable stability, with a CS coefficient of 0.517.](biosafety-competence-network-bei-stability.md) — related
 - [Working memory span, updating, and cognitive flexibility positively predict English writing, response inhibition positively predicts reading, and working memory span negatively predicts listening](ef-components-predict-english-subskills-network.md) — related
 - [Gender-specific prediction patterns: working memory span negatively predicts listening more strongly in males, while its positive bridging influence on English performance is stronger in females](gender-specific-ef-english-prediction-patterns.md) — related
+- [No recorded incidents of participant harm resulted from structured clinical debriefing, and 37 of 71 teams documented it as useful](clinical-debriefing-no-recorded-harm.md) — related

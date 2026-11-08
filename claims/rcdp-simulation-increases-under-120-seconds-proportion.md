@@ -51,3 +51,4 @@ Simulator metric analysis in the same pilot study; the proportion of participant
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [One-time pass rates for hands-on CPR, intubation, and defibrillation do not change significantly after integrated simulation with TBL](one-time-pass-rates-unchanged.md) — related
 - [The proportion of residents completing the exercise within the 5-minute limit rose after the course, but the difference did not reach statistical significance](completion-within-limit-nonsignificant-increase.md) — related
+- [In-situ simulation significantly increases physician comfort performing procedural tasks such as intubation under PPE precautions](insitu-sim-procedure-comfort-gain.md) — related

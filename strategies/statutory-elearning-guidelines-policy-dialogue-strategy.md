@@ -50,6 +50,7 @@ The article recommends institutionalising e-Learning through policy rather than 
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
 - [Develop an evidence-based framework of five policy recommendations, with implementation proposals, to inform a statutory primary-secondary transitions strategy in England](five-policy-recommendations-transitions-strategy.md)
 - [Facilitate a multi-session collaborative workgroup to co-develop state guidance](collaborative-workgroup-co-development.md)
+- [Four-part policy package for institutionalizing e-learning in Ghanaian health training institutions](e-learning-policy-package-ghana-health-training-institutions.md)
 
 ## Examples
 -

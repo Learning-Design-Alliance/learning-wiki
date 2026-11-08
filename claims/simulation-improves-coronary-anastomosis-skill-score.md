@@ -52,3 +52,4 @@ Random-effects meta-analysis of seven studies (14 groups) comparing five-point-s
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
 - [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](leakage-grade3-reduction-vascular-anastomosis-simulation.md) — related
 - [Simulation-trained students committed fewer procedural safety red flags than conventionally trained students in a simulated coronary angiography](simulation-training-fewer-safety-red-flags.md) — a narrower finding that bears on this claim
+- [Vascular simulation training residents score higher on theoretical knowledge tests than conventionally trained residents](st-higher-theoretical-scores-vascular-residents.md) — a narrower finding that bears on this claim

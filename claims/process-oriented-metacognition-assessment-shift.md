@@ -70,3 +70,4 @@ The editor's observational assessment of methodological trends over the last dec
 - [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](strategy-instruction-improves-metacognitive-skill-use.md) — related
 - [Students' impressions of what improves their learning may not align with actual learning outcomes](student-perceptions-misalign-with-actual-learning.md) — related
 - [Self-reported perceptions of regulatory activities often differ from learners' actual regulatory behaviour](self-reports-differ-actual-regulation-behaviour.md) — related
+- [Behavioral marker systems offer greater objectivity than self-report but are more resource intensive](behavioral-marker-systems-objective-but-costly.md) — related

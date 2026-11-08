@@ -47,3 +47,4 @@ Questionnaire of 60 medical students answering 21 identical questions on a 10-po
 ## Related Claims
 - [Medical students training on the in-house 3D-printed LLETZ simulator achieved significantly better LEEP scores than those on the commercial simulator by the fifth attempt](in-house-lletz-simulator-better-leep-score-attempt-5.md) — related
 - [Residents rated the in-house simulator more favorably than the commercial model, with a statistically significant difference only in confidence handling electrosurgery](residents-favor-in-house-simulator-subjective-feedback.md) — related
+- [Simulation-trained residents report higher willingness to repeat the training, while training satisfaction rates do not differ](st-willingness-retrain-higher.md) — related

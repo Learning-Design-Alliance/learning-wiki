@@ -59,3 +59,5 @@ Reliability analysis within the same RCT: two trained raters scored each session
 - [Student knot-tying attempts scored with an adapted OSATS tool showed high median scores and good interrater reliability between two blinded surgeon assessors](adapted-osats-good-interrater-reliability.md) — related
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
+- [The novel Precision Score correlates strongly with real-world OSATS performance and final implant orientation in cadaveric RSA](precision-score-validity-ivr-rating-scale.md) — related
+- [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related

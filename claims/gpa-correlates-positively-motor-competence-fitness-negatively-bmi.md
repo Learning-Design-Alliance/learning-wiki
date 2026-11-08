@@ -52,3 +52,4 @@ Cross-sectional correlational analysis of 130 Serbian elementary children using 
 - [Adding physical fitness measures did not significantly enhance GPA prediction beyond motor competence, age, and BMI](fitness-block-did-not-enhance-gpa-prediction.md) — related
 - [Adding KTK motor competence significantly improved GPA prediction over age and BMI, but KTK MQ was not significant in the full model](ktk-mq-improves-prediction-not-significant-full-model.md) — related
 - [Only plate tapping and sit and reach significantly predicted GPA in the full hierarchical regression model](plate-tapping-sit-reach-significant-gpa-predictors.md) — related
+- [BMI is negatively correlated with science and mathematics GPA in schoolchild handball players](bmi-negatively-correlated-academic-gpa-handball-players.md) — a narrower finding that bears on this claim

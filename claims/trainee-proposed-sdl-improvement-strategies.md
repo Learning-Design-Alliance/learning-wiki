@@ -55,3 +55,4 @@ Focus group theme on potential improvement strategies. Participants suggested st
 - [Family encouragement, educational atmosphere and support are reported facilitators of trainees' SDL](family-factors-facilitate-sdl.md) — related
 - [All participating trainees acknowledged the importance of SDL while most rated their own SDL competence as lacking](trainees-value-sdl-but-rate-competence-low.md) — related
 - [HCPs want interactive components and personal exchange in e-learning to enhance knowledge-practice transfer](interactive-components-knowledge-practice-transfer.md) — related
+- [Trainees reported a favorable institutional atmosphere for EBM implementation](favorable-institutional-atmosphere-ebm.md) — related

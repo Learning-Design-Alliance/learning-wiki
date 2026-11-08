@@ -61,3 +61,4 @@ Interview statement from Principal Walker in the Ivy case study. He describes th
 - [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
 - [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](improvement-related-to-staff-family-community-relationships.md) — related
 - [The ethical foundation directly influences effective communication, personal mastery, and authentic collaboration in the holistic leadership model.](ethical-foundation-direct-causal-influence.md) — related
+- [Building relationships with students is a foundational social justice pedagogy in HPE, enacted through knowing students personally and caring teaching strategies](relationships-foundation-social-justice-hpe.md) — related

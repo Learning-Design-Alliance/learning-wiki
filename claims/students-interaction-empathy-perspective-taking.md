@@ -100,3 +100,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Physiotherapy students report that group-based work during a simulation-based placement enhanced teamwork skills that transferred to subsequent practice placements](sbl-group-work-teamwork-transfer.md) — related
 - [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — a narrower finding that bears on this claim
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
+- [Content analysis of post-program interviews yielded six categories of dementia supporters' thoughts and learning, including changed images of people with dementia and possible community support](six-interview-categories-supporter-learning.md) — related

@@ -47,7 +47,8 @@ The article's intervention adds to identical theoretical instruction a team-base
 - [Video-production experiential teaching raises self-perceived core health education competencies more than lecture-based instruction](../claims/video-production-experiential-teaching-raises-self-perceived-competencies.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Add a four-stage experiential learning session two weeks after volunteer training to sustain motivation and boost activity involvement](post-training-experiential-session-strategy.md)
 
 ## Examples
 -

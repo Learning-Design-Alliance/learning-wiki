@@ -61,3 +61,4 @@ Theoretical argument in the guide's introduction, citing prior scholarship (Marg
 - [Barriers to obstetric emergency knowledge-building are both structural and cultural, and inequalities permeate all domains driving inequities in outcomes](structural-cultural-barriers-inequities-oe-learning.md) — a narrower finding that bears on this claim
 - [One analyzed article found that lack of access to technological resources in higher education limits academic success among the Latino-ethnic population](technology-access-limits-latino-success.md) — a narrower finding that bears on this claim
 - [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related
+- [Teachers acted on social inequities by flexibly distributing resources, promoting marginalized groups, and critically reflecting on power and their own positionality](acting-on-social-inequities-hpe.md) — related

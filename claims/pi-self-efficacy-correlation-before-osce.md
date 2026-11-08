@@ -52,3 +52,4 @@ Spearman's rank correlation analysis of baseline (pre-OSCE) questionnaire data f
 - [Self-efficacy scores of occupational therapy students increased significantly after OSCE with simulation-based learning](osce-self-efficacy-significant-increase.md) — related
 - [The correlation between professional identity and self-efficacy increased from before (r = .354) to after OSCE (r = .581)](pi-self-efficacy-correlation-increased-after-osce.md) — related
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — related
+- [Self-efficacy scores showed a moderate, significant direct correlation with physical therapy students' OSCE performance](osce-self-efficacy-correlates-with-performance.md) — related

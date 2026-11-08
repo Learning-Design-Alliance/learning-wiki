@@ -49,6 +49,7 @@ Several annotated background materials recommend experiential methods for interc
 - [Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings](teacher-cultural-awareness-first-strategy.md)
 - [Embed synthetic-culture interaction in teacher-led debriefing and repeated blended sessions](mixer-embed-debriefing-whole-learning-experience.md)
 - [Administer intercultural sensitivity development training by integrating it with the scientific research methods course](integrate-intercultural-training-with-research-methods-course.md)
+- [Experiential intercultural training: create ambiguity, behavioural experimentation and reflection rather than centralising cultural knowledge](experiential-intercultural-training-ambiguity-reflection.md)
 
 ## Examples
 -

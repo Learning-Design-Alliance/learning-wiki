@@ -54,3 +54,4 @@ Comparison of expert evaluation scores between overestimation and underestimatio
 - [Healthcare professionals who rate themselves as very knowledgeable tend to overestimate their actual Alzheimer's disease knowledge](self-rated-ad-knowledge-overestimation.md) — related
 - [Most first-semester medical students misjudge their oral anatomy exam performance: 35.5% overestimate, 46.0% underestimate, and only 18.5% assess themselves accurately](self-assessment-accuracy-distribution-first-semester.md) — related
 - [Trainee-supervisor rating agreement improves as supervisor ratings rise, with lower-rated trainees more likely to over-rate themselves](rating-agreement-improves-with-higher-supervisor-rating.md) — related
+- [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related

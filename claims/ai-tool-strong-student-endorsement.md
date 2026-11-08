@@ -52,3 +52,4 @@ Descriptive results of terminatory questionnaire (T2) among 72 students (Table 5
 - [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related
 - [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
 - [A vast majority of students rated the online research course as valuable and of acceptable quality](students-rate-online-research-course-valuable-acceptable-quality.md) — related
+- [Students report the digital SP cases were realistic and would recommend the course to others](digital-sp-cases-realistic-recommendable.md) — related

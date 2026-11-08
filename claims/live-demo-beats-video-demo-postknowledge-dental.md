@@ -53,3 +53,4 @@ Cohort study of 51 first-year dental students quasi-randomized by serial number 
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related
 - [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related
 - [Adding procedure-specific educational videos to live demonstration improves preclinical operative dentistry competence in second-year dental students](video-plus-live-demonstration-improves-preclinical-dental-competence.md) — reports the opposite
+- [Live lectures and videos produce similar learning outcomes in dental ergonomics, with no statistically significant difference between formats](live-lectures-videos-similar-ergonomics-outcomes.md) — related

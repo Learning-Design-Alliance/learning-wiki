@@ -55,3 +55,4 @@ The report's executive summary states an exception to the challenges-satisfactio
 - [Hispanic students reported higher frequencies of six of the seven non-technology challenges measured in the survey](hispanic-students-six-of-seven-challenges-higher.md) — related
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Female students give a higher average global satisfaction rating to e-learning courses than male students](female-students-more-satisfied-e-learning.md) — related
+- [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related

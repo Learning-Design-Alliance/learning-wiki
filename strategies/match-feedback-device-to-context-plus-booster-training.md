@@ -54,6 +54,7 @@ The review's concluding recommendation is that real-time feedback is valuable bu
 - [Distributed Practice](distributed-practice.md)
 - [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 - [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
+- [Augment BLS training with more hands-on manikin time, CPR feedback devices, dyad training, and distributed monthly practice](bls-hands-on-feedback-dyad-distributed-practice.md)
 
 ## Examples
 -

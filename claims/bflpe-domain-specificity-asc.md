@@ -54,3 +54,4 @@ Narrative review of early BFLPE studies (Marsh and Parker 1984; Marsh 1987). The
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related
 - [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — related
 - [Using the ICLS improved students' knowledge of modular programming but produced no significant change in self-esteem or interest in the subject](icls-achievement-gain-self-esteem-null.md) — related
+- [Self-talk benefits were specific to competence beliefs and did not extend to global self-worth](self-talk-effects-specific-to-competence-beliefs.md) — related

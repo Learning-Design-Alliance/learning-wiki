@@ -96,3 +96,4 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Training factors, including prior computer training and in-service training, are associated with leaders' digital competence](training-associated-leaders-digital-competence.md) — related
 - [General English teachers hold positive perceptions of e-learning, though some institutions lack the infrastructure to use sophisticated electronic tools](teachers-positive-perceptions-elearning-saudi.md) — related
 - [Teachers' lack of ICT knowledge and skills is reported as a major obstacle to ICT implementation, pointing to the need for further teacher training](teacher-ict-knowledge-gap-obstacle.md) — related
+- [Barriers to blended learning uptake include educator unfamiliarity, material-creation effort and costs, and concerns about student completion](blended-learning-uptake-barriers-educators-costs-completion.md) — related

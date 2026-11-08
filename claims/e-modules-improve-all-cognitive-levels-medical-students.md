@@ -50,3 +50,4 @@ Randomized controlled study of 690 first-year MBBS students (control n=370, inte
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
 - [Focus-group content analysis finds flexible e-learning video students describe cognition at four revised Bloom's taxonomy levels versus three for lecture students](elearning-video-bloom-taxonomy-levels.md) — related
+- [All participant groups scored higher on lower cognitive levels (Remembering, Understanding, Applying) than on higher levels (Analysing, Evaluating, Creating)](lower-cognitive-levels-outscore-higher.md) — related

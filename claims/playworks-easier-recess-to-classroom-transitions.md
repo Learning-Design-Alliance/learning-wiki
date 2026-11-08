@@ -55,3 +55,4 @@ Cohort 1 random-assignment evaluation: treatment teachers rated recess-to-classr
 - [Having some recess is associated with better teacher-reported classroom behavior than no or minimal recess](recess-associated-better-teacher-reported-behavior.md) — related
 - [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related
 - [The prior RCT found no treatment effects on recess social interactions or academic skills](schoolmax-no-effect-recess-academic-outcomes.md) — related
+- [Schools with Playworks programs show more physical activity, less bullying, and more attentive students than schools without](playworks-impact-findings.md) — a broader claim this one bears on

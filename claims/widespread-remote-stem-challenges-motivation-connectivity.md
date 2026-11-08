@@ -88,3 +88,4 @@ Same survey's technology-access items; 96% of students used home internet access
 - [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related
 - [Educators found AR presented more challenges than benefits for anatomy education, citing hardware instability and inadequate anatomical detail compared to cadaveric specimens](ar-more-challenges-than-benefits-anatomy.md) — related
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
+- [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related

@@ -49,3 +49,4 @@ The editors summarize Chen et al.'s case study interviewing a principal and seve
 - [Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice](adult-mindset-shift-student-experience-data.md) — a broader claim this one bears on
 - [After training, better professional vision and reasoning are correlated with more learning-centered conception changes and fewer misconceptions](posttest-correlations-vision-conceptions.md) — related
 - [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](nonparticipant-barriers-professional-development.md) — related
+- [Taiwanese professionals with less experience and those receiving job-embedded professional development shifted their mindsets more after RBM training](rbm-training-mindset-shifts-taiwan.md) — related

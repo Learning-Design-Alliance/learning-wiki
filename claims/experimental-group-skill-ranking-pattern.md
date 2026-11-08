@@ -50,3 +50,4 @@ Ranking analysis of the experimental group's (n=119) average performance scores 
 ## Related Claims
 - [The largest active-learning gains occurred in searching topics and keywords in search engines (skill 6) and writing and interpreting results of research tools (skill 12)](largest-gains-search-engines-and-results-interpretation.md) — related
 - [The smallest active-learning gains occurred in writing about previous studies, debating research topics, and using APA format](smallest-gains-literature-review-debate-apa.md) — related
+- [Item-level improvements in writing clinical questions, building search strategies, and justifying study designs occurred in both groups, with some item gains group-specific](ebp-fresno-item-level-wilcoxon.md) — related

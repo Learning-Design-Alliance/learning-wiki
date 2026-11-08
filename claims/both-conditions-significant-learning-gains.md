@@ -68,3 +68,4 @@ The repeated measures ANOVA on the open-ended conceptual knowledge test showed a
 - [Teacher style (autonomy supportive vs. controlling) has no effect on rote learning achievement](teacher-style-no-effect-rote-learning.md) — related
 - [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related
 - [Teacher autonomy support did not produce significantly higher post-test scores than the controlling style in a single simulated 20-minute teaching session](autonomy-support-no-posttest-score-effect.md) — related
+- [Both groups improved from pre- to post-intervention, with a larger within-group effect in the intervention group](ebp-within-group-gains-both-groups.md) — related

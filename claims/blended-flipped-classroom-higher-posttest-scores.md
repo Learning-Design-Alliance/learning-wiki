@@ -54,3 +54,4 @@ The review reports, from the included study by Aristotle et al. (2021) on histol
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related
 - [MOOC-HFS blended internship improves academic performance across all assessments compared to traditional teaching](mooc-hfs-blended-improves-academic-performance.md) — related
 - [Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial](flipped-classroom-higher-histology-exam-scores.md) — possibly the same claim (merge candidate)
+- [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related

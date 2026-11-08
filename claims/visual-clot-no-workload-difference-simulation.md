@@ -53,3 +53,4 @@ Mixed linear model with a random intercept per participant on raw NASA TLX score
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
 - [Users of Visual Clot report high acceptance: feeling better prepared, easy to learn, and willingness to use it clinically](visual-clot-high-user-acceptance-ratings.md) — related
 - [Perceived performance subscale of the NASA-TLX changed differently between groups: simulator trainees reported reduced performance-related workload, game trainees did not](nasa-tlx-performance-subscale-group-difference.md) — related
+- [Using the PediAppRREST app was not associated with increased team leaders' perceived workload compared with usual practice](pediaprrrest-no-workload-increase.md) — related

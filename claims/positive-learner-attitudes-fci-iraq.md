@@ -85,3 +85,4 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
 - [Nursing students perceived the in-class flipped classroom as addressing limited self-operational practice time and enhancing learning efficiency and effectiveness](perceived-efficiency-limited-practice-time.md) — related
 - [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related
+- [Students perceived distance learning as more efficient and as providing more time to study and review materials than classroom learning](distance-learning-perceived-more-efficient-more-time.md) — related

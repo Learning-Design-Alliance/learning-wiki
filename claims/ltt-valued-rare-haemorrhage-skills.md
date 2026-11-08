@@ -57,3 +57,4 @@ Qualitative interview study (15 physicians, Framework Method analysis). Particip
 - [Participants report that SBE can expose students to rare clinical conditions and skills they may not encounter in Malawian clinical placements](sbe-rare-conditions-exposure.md) — related
 - [New dental-specific themes include practical guidance, a safe training environment, resident–patient relationships, career education and comprehensive treatment planning](new-dental-specific-teacher-themes.md) — related
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
+- [All participants agreed the VR simulation would benefit their future clinical practice, and several valued the safe learning environment for attempting risky communication.](vr-safe-environment-perceived-benefits.md) — related

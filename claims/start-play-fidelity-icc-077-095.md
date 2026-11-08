@@ -66,3 +66,4 @@ Reliability analysis in Phase I of the START-Play randomized controlled trial: 2
 - [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related
 - [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
 - [A purpose-built 24-item trichotomous assessment tool for ABCDE adherence shows high intra-observer reliability (ICC 0.87)](abcde-adherence-assessment-tool-icc-087.md) — related
+- [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related

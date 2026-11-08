@@ -70,3 +70,6 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Educators and trainees expressed remarkably similar views, with trainees emphasising logbooks, protected time, scenario complexity and feedback detail](educator-trainee-response-similarity.md) — related
 - [Digital SP-based teaching units on medical conversation received positive feedback from students and SPs and allowed conversation techniques to be trained](digital-sp-teaching-positive-feedback-technique-training.md) — related
 - [Video analysis suggested SP role portrayal of highly emotional scenarios remained authentic in the digital format](sp-role-portrayal-authenticity-unaffected-digital.md) — related
+- [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
+- [Anxiety during standardized-patient simulation can be managed by increasing simulation opportunities and providing sufficient debriefing time, according to the authors' interpretation.](debriefing-to-manage-sp-simulation-anxiety.md) — related
+- [Students report the digital SP cases were realistic and would recommend the course to others](digital-sp-cases-realistic-recommendable.md) — related

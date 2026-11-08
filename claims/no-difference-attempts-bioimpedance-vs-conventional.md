@@ -50,3 +50,4 @@ In the randomized controlled phantom trial's Results, attempts across all attemp
 - [Novice providers using the bioimpedance needle succeed at the first lumbar puncture attempt more often than those using a conventional spinal needle](bioimpedance-needle-higher-first-attempt-lp-success.md) — related
 - [Novice medical students using a bioimpedance needle achieve a higher overall lumbar puncture success rate on a lumbar phantom than those using a conventional spinal needle](bioimpedance-needle-higher-overall-lp-success-novices.md) — related
 - [The duration of successful lumbar punctures does not differ significantly between the bioimpedance and conventional needles](no-significant-duration-difference-bioimpedance-needle.md) — related
+- [No difference between simulation and control groups in students' subjective experience or number of puncture attempts at first real LP](lp-simulation-no-difference-experience-attempts.md) — related

@@ -73,3 +73,4 @@ The article's abstract summarizing the same video-rating reliability analysis: "
 - [Video OSATS assessments by two expert raters show moderate correlation but poor agreement with live rating](osats-video-moderate-correlation-poor-live-agreement.md) — related
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related
+- [GOALS and ALL scores show good interrater and intrarater reliability for assessing laparoscopic skills](goals-all-scores-interrater-intrarater-reliability.md) — related

@@ -43,6 +43,7 @@ The review recommends that making students' ideas visible and revisable in a sha
 ## Related Strategies
 
 - [Incorporate Technology into Reflection](incorporate_technology_into_reflection.md)
+- [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 
 ## Examples
 -

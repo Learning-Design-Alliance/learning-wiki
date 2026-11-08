@@ -48,3 +48,4 @@ A qualitative think-aloud study with eleven undergraduate nursing students using
 - [Students noted inherent subjectivity in fixed numerical rating scales within the QVP](numerical-scale-subjectivity-qvp.md) — related
 - [Ambiguous technological terminology and unexplained abbreviations in the QVP required refinement for consistent interpretation](ambiguous-terminology-abbreviations-qvp-refinement.md) — reports the opposite
 - [Open-ended QVP questions enabled nuanced reflection but introduced risk of socially desirable responses](open-ended-questions-reflection-and-bias-qvp.md) — related
+- [Undergraduates reported more difficulty understanding online content and less doubt-clearing than postgraduates and faculty](undergraduates-greater-difficulty-online-content.md) — related

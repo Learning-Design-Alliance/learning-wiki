@@ -50,3 +50,4 @@ Authors' interpretive synthesis in the discussion of the scoping review. This is
 - [PHASe and ACMQ are the most frequently used scales in mental health nursing competence assessment](phase-and-acmq-most-used-mhn-scales.md) — related
 - [Most mental health nursing assessment tools target specific competences such as physical health and therapeutic restraint, with fewer addressing crosscutting competences](mhn-tools-target-specific-over-crosscutting-competences.md) — related
 - [Psychiatric nurses report that safety training overemphasizes theory, uses outdated monotonous formats, and lacks experience-sharing opportunities](nurse-demands-safety-training-reform.md) — related
+- [Lack of ID training carries clinical costs including diagnostic overshadowing, mis-diagnosis, off-label antipsychotic prescribing and over-use of physical restraint](untrained-psychiatrists-id-diagnostic-overshadowing-costs.md) — related

@@ -47,6 +47,8 @@ The article recommends building facilitation capacity alongside simulation resou
 
 - [Prepare and train IPE facilitators in group facilitation skills, conflict resolution, and simulation-specific competencies](ipe-facilitator-training-strategy.md)
 - [Redesign ISBTT programs with explicit interprofessional learning goals, power-focused debriefing, matched facilitators, and longitudinal formats](isbtt-redesign-strategy.md)
+- [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
+- [Implement structured clinical debriefing programs supported by faculty development and interdisciplinary prompting, with a less active team member as facilitator](interdisciplinary-prompted-clinical-debriefing-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Theme 1 (expression of excitement) in the results: participants without prior VR
 - [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related
 - [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — related
 - [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — possibly the same claim (merge candidate)
+- [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related

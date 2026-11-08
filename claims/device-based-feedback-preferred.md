@@ -51,3 +51,4 @@ This is the second of three themes from the review's qualitative content analysi
 - [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — related
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
 - [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
+- [Only 31% of reported cardiac arrests were debriefed, highlighting a missed educational opportunity](low-cardiac-arrest-debriefing-rate.md) — related

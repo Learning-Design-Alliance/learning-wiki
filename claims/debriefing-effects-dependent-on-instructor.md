@@ -50,3 +50,4 @@ Discussion-section interpretation (type e), not a tested result: the authors att
 - [TeamTAG focuses debriefing content: its six CRM principles are discussed more consistently, and topic repetition is more frequent without the aid](teamtag-focuses-content-reduces-repetition.md) — related
 - [Debriefing with versus without TeamTAG shows no difference in participant satisfaction, perceived relevance of CRM principles, or teamwork quality](teamtag-no-difference-satisfaction-teamwork.md) — related
 - [Using the TeamTAG cognitive aid does not change the number of teamwork principles discussed in debriefings compared with roughly structured GAS debriefings](teamtag-no-difference-number-principles-discussed.md) — related
+- [Brief structured clinical debriefings (mean 10.93 min) using a cognitive aid appeared to foster learning in a time-constrained emergency department](brief-structured-clinical-debriefings-feasible.md) — related

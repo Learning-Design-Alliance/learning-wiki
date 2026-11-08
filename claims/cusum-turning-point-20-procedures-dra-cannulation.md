@@ -58,3 +58,4 @@ Prospective observational analysis of 180 procedures by 3 novice residents; pool
 - [Novices needed an average of 28.92 ± 4.68 simulated RFA procedures to reach technical competency, after which success improved from 88.2% to 96.7%](rfa-traps-simulator-29-procedures-competency.md) — related
 - [Learning curve-based training required shorter training duration and significantly fewer simulator procedures than fixed 1-hour training](individualized-training-shorter-duration-fewer-procedures.md) — related
 - [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — related
+- [CUSUM-based studies suggest 22 to 45 intubation attempts are needed to reach a less-than-20% failure rate, rising to 57 to 75 attempts at a less-than-10% failure rate](intubation-attempts-competency-cusum-ranges.md) — related

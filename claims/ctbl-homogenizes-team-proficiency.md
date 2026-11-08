@@ -50,3 +50,4 @@ Descriptive comparison of post-test standard deviations and variances (Exp. SD 3
 - [The practical-work group's post-test scores were more homogeneous (SD 7.9) than the control group's (SD 9.5)](practical-work-group-converged-in-understanding.md) — related
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
 - [CTBL produced greater language proficiency gains than GI in Iranian EFL intermediate students](ctbl-outperforms-gi-language-proficiency.md) — related
+- [Variability in spirometry knowledge scores fell from pre-test to post-test among participants in one uncontrolled pre-post study](training-reduced-knowledge-score-variability.md) — related

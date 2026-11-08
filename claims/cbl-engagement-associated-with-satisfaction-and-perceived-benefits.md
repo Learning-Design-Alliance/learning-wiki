@@ -78,3 +78,4 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Clinical-based learning (clinical rotation and integration-into-clinic models) improves satisfaction, motivation and self-directed learning in dental materials science](clinical-based-learning-dental-materials.md) — related
 - [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](pbl-develops-critical-thinking-communication-iuhpe-competencies.md) — related
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
+- [Users of the interactive clinical avatar perceived clinical reasoning skill development to a greater extent than problem-solving or decision-making skill development](avatar-clinical-reasoning-over-lower-skills.md) — related

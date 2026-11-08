@@ -70,3 +70,4 @@ The review attributes these moderator findings to other included studies; the re
 - [PCPs report stronger skills in detecting cancer recurrences (62–78%) than confidence to screen for recurrence (6–42%)](pcp-recurrence-detection-knowledge-confidence-gap.md) — related
 - [Only 9–12% of PCPs felt at least somewhat familiar with surveillance guidelines, and lack of guideline knowledge was a reported barrier](pcps-unfamiliar-surveillance-guidelines.md) — a narrower finding that bears on this claim
 - [A greater proportion of primary care physicians report confidence in managing psychosocial effects of cancer (24–47%) than physical effects (10–37%)](pcps-more-confident-psychosocial-than-physical-effects.md) — related
+- [Physicians' work experience associated with self-rated psychosocial competencies, with only the lowest and highest experience groups differing significantly](work-experience-associated-psychosocial-competencies.md) — related

@@ -52,3 +52,4 @@ One-way ANOVA (Table 4) comparing deep and surface strategy means across second-
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
 - [Deep learning strategy use correlates strongly and positively with academic achievement in undergraduate pharmacy students](deep-learning-strategies-correlate-achievement-pharmacy.md) — related
 - [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related
+- [Second-year students report more planning and monitoring strategy use than first-year students in the flipped competency-based curriculum](second-year-students-more-srl-strategies.md) — related

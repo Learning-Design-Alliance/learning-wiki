@@ -50,6 +50,7 @@ Based on the study's findings, the authors give educators seven recommendations:
 - [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
 - [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
+- [Implement four user-suggested improvements when deploying interactive clinical avatar simulations](avatar-implementation-improvement-strategy.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ The same survey asked respondents whether they owned a technology-enabled device
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [The experimental class was dominated by sequential (85%), visual (77.5%) and dependent (77.5%) learning-style preferences, and group heterogeneity helped sequential learners absorb holistic reading strategies](cl-learning-styles-distribution.md) — related
 - [A majority of surveyed US college students report using their smartphones to study](college-students-smartphone-study-survey.md) — related
+- [Nearly all surveyed Ghanaian nursing and midwifery trainees owned smartphones, which they used mostly for learning purposes](ghana-health-trainees-smartphone-ownership-nearly-100.md) — related

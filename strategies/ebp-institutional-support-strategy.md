@@ -66,6 +66,7 @@ The article recommends that EBP educational interventions be embedded in institu
 - [Implement workplace and curricular EBP training programs targeting question formulation, literature search, retrieval and critical appraisal](ebp-training-programs-workplace-curricula-ghana.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Adopt web-based training as continuing professional education to build nurses' EBP competencies](web-based-training-continuing-education-ebp-strategy.md)
+- [Managers facilitate newly graduated nurses' continued learning by creating structures for reflection and mentorship](manager-created-reflection-structures-nurse-transition.md)
 
 ## Examples
 -

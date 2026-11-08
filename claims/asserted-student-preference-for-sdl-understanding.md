@@ -47,3 +47,4 @@ The article offers this preference statement in its abstract and conclusion as t
 ## Related Claims
 - [Most VM users held positive perceptions of VM as a histology learning tool, but most doubted it could fully replace traditional microscopy](vm-positive-perceptions-replacement-doubt.md) — related
 - [Students preferred charts and props over visual media because they found them more practical and more helpful for understanding](students-prefer-charts-props-over-visual.md) — related
+- [Undergraduates reported more difficulty understanding online content and less doubt-clearing than postgraduates and faculty](undergraduates-greater-difficulty-online-content.md) — related

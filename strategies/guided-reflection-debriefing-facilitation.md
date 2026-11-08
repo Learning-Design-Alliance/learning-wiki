@@ -47,6 +47,7 @@ In the debriefing stage, the facilitator reiterates the simulation objective, in
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 - [Use required online discussion boards with specific prompts and peer commenting to facilitate reflection during SLT simulation placements](discussion-board-structured-prompts-simulation-reflection.md)
 - [Structured five-stage debriefing after simulated PPH care, moving through emotional, descriptive, evaluative, analytical and conclusive stages](five-stage-structured-debriefing-pph-simulation.md)
+- [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
 
 ## Examples
 -

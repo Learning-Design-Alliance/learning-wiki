@@ -70,3 +70,4 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — a narrower finding that bears on this claim
 - [Open questions remain on whether VGS improves clinical practice or can replace clinical hours](vgs-clinical-practice-effectiveness-unknown.md) — related
 - [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — possibly the same claim (merge candidate)
+- [Simulation training effects on board communication were smaller than typical simulation effects in clinical settings, possibly due to self-assessed outcomes and brief dosage](simulation-effect-smaller-than-clinical-meta-analyses.md) — related

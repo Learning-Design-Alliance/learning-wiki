@@ -59,3 +59,4 @@ Null findings from the 2x2x3 ANOVA on ARCS motivation scores (N = 52). Table 5 p
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
 - [No significant gender difference in Arabic oral skills gains when both groups are taught with VTM or traditional methods](vtm-arabic-oral-skills-no-gender-effect.md) — related
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
+- [Self-confidence levels did not differ significantly by GPA, gender, or university](cxr-confidence-no-differences-gpa-gender-university.md) — related

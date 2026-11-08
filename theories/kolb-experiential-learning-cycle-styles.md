@@ -58,6 +58,7 @@ The article adopts Kolb's model in which "knowledge is created through the trans
 - [Experiential design method for virtual reality environments](../designs/experiential-design-method-four-areas.md)
 - [Deliver engineering graphics courses synchronously online to accommodate Converger and Assimilator learning styles](../strategies/synchronous-online-accommodate-converger-assimilator.md)
 - [Use experiential learning cycles to structure continuing health education for chronic disease management](../strategies/experiential-learning-cycle-continuing-health-education.md)
+- [Design online course structure and flow around the experiential learning cycle rather than one-off lecturing](../strategies/online-experiential-learning-cycle-design.md)
 
 ## Key Sources
 - Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898

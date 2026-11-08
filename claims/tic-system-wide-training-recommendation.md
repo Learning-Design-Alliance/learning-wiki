@@ -50,3 +50,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "particip
 - [Prenatal clinicians identify lack of protected time and competing priorities as barriers to TIC training](tic-training-barriers-time-prenatal.md) — related
 - [Most prenatal clinicians report prior TIC training exposure but only about a third attended TIC-specific training in the past two years](prior-tic-training-exposure-prenatal-clinicians.md) — related
 - [Prenatal clinicians prefer live, dynamic sessions over online video-based training modules](tic-live-sessions-preference-prenatal.md) — related
+- [Trauma care training on the job is suboptimal for 3 stated reasons: variable trainee experience, unmanaged stress exposure, and inadequate leadership training](on-the-job-trauma-training-suboptimal.md) — related

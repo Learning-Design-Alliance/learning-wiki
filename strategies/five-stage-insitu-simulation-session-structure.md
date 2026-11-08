@@ -44,6 +44,7 @@ The validated scenario organizes each in-situ simulation session into an explici
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Debriefing](debriefing.md)
 - [Three-phase simulation session: expectation-setting, observing an inappropriate-model video, then an appropriate-model video with discussion and communication practice](three-phase-sdm-video-simulation-strategy.md)
+- [Tailor simulation scenarios to each board via a pre-workshop chair briefing selecting a starting point](pre-workshop-chair-briefing-scenario-tailoring.md)
 
 ## Examples
 -

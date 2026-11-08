@@ -49,3 +49,4 @@ Prospective randomized comparative trial with two parallel arms (46 randomized; 
 - [Laparoscopic skill gains were retained at 6 months in both groups, and bimanual coordination improved further from posttest to retention test](six-month-retention-bimanual-further-improvement.md) — related
 - [Passing rates before the posttest did not differ significantly between CIRT (87%) and HSRT (95%)](passing-rates-cirt-hsrt-not-significant.md) — related
 - [HSRT distributed training over more days (7 ± 3 vs 2 ± 0) with no significant difference in total training time](hsrt-distributed-training-more-days.md) — related
+- [Posttest LDL and total cholesterol levels were lower than pretest within both study groups, with the article's Results and Discussion disagreeing on intergroup significance](ldl-total-cholesterol-intragroup-decrease-both-groups.md) — related

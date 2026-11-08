@@ -56,6 +56,7 @@ The review recommends formal tutor training programs embedded in undergraduate s
 - [Implement a structured clinical supervision model with trained supervisors, scheduled observations, and three-way conferences](structured-clinical-supervision-implementation-strategy.md)
 - [Support short intensive gifted-education certificate programs with supervision or micro-teaching practices](supervision-microteaching-support-for-certificate-programs.md)
 - [Develop structured post-FLS simulation curricula with advanced skills, regular faculty coaching, and early orientation to simulation resources](post-fls-structured-simulation-curricula-strategy.md)
+- [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
 
 ## Examples
 -

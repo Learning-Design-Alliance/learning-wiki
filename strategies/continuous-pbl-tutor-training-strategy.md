@@ -45,6 +45,7 @@ The article recommends that tutor training be continuous and comprehensive so tu
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
 - [Support students at the peer-evaluation stage with training and tutoring so all can participate and benefit](training-support-peer-evaluation-stage.md)
+- [Implement structured clinical debriefing programs supported by faculty development and interdisciplinary prompting, with a less active team member as facilitator](interdisciplinary-prompted-clinical-debriefing-strategy.md)
 
 ## Examples
 -

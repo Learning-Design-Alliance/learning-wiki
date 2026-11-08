@@ -70,3 +70,4 @@ The review reports a systematic review commissioned by the ILCOR task force find
 - [Self-reported confidence increased after e-learning boosters but did not relate to knowledge or performance](confidence-increases-unrelated-to-nrp-performance.md) — related
 - [RCDP-trained residents perform air enema reduction with shorter procedural time and lower reduction pressure than TTM-trained residents](rcdp-shorter-time-lower-pressure.md) — a narrower finding that bears on this claim
 - [Team training in neonatal resuscitation improved team performance on simulated re-evaluation at 3 and 6 months, but studies of neonatal outcomes are inconclusive](resuscitation-team-training-simulated-performance.md) — related
+- [Systematic review shows strong evidence for simulation with repetitive practice, mastery learning, and deliberate practice in teaching procedural skills](simulation-competency-based-strong-evidence.md) — a broader claim this one bears on

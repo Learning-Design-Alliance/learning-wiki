@@ -54,3 +54,4 @@ Systematic review of eleven Indian studies (3,711 participants, grades 8–10) i
 - [School environment is positively associated with educational aspiration among Indian secondary students (r = .346), motivating participation in school activities](school-environment-educational-aspiration-correlation.md) — related
 - [Academic self-concept, school climate, and academic motivation correlate substantially with psychological truancy](correlations-four-study-variables.md) — related
 - [Connectivity and access problems during online study were accompanied by self-reported depression, stress, and anxiety among students in developing countries](online-access-problems-student-psychological-distress.md) — related
+- [Self-esteem is positively associated with academic performance in Indian adolescents, while life satisfaction is not](self-esteem-predicts-academic-performance-indian-adolescents.md) — related

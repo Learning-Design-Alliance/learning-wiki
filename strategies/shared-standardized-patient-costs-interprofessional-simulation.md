@@ -45,6 +45,7 @@ The authors recommend interprofessional simulation as a relatively cost-effectiv
 
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
+- [Use interprofessional, simulation-inclusive training toward a universal airway management approach, blending simulation, clinical volume, and effective learning strategies](interprofessional-universal-airway-training-strategy.md)
 
 ## Examples
 -

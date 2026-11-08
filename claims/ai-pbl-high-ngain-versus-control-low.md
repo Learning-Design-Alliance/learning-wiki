@@ -56,3 +56,4 @@ Supplementary normalized gain (N-Gain) analysis, computed with Hake's formula an
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](pbl-improves-solution-quality-malaysian-undergraduates.md) — related
 - [Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group](robotics-program-greater-ct-gains-early-childhood.md) — related
+- [Both traditional and blended ALS training produced high normalized learning gain (Hake Index g > 0.7) of similar magnitude](als-hake-index-high-gain-both-groups.md) — related

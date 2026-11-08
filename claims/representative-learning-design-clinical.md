@@ -72,3 +72,4 @@ Theoretical argument about perception-action mutuality being strengthened throug
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
 - [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
+- [Health service board members rated the simulation-based training as relevant and useful, and reported behaviour change in board meetings](board-members-rated-simulation-training-useful.md) — related

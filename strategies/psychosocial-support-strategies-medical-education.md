@@ -73,6 +73,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [University strategy of mentoring, training, and trial online exams to enrich the e-learning environment and foster engagement](elearning-training-mentoring-implications.md)
 - [Assess grit to identify students at risk of burnout and offer coping and strategy training to less gritty students](grit-assessment-burnout-prevention-strategy.md)
 - [Improve student well-being and adjustment by promoting social support seeking and reducing disengaged and avoidant coping](promote-support-seeking-reduce-avoidant-coping-strategy.md)
+- [Implement educational programmes that enrich university class dynamics so students feel more motivated and can channel academic stress positively](enrich-class-dynamics-programmes-stress-motivation.md)
 
 ## Examples
 -

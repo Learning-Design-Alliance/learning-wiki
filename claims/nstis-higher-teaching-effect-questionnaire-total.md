@@ -54,3 +54,4 @@ Randomized controlled trial during a COPD case simulation in a comprehensive nur
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
 - [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related
+- [General course satisfaction was significantly higher in the traditional face-to-face group than in the blended e-learning group](als-satisfaction-higher-face-to-face.md) — related

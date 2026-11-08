@@ -53,3 +53,4 @@ Randomised comparison of error counts across repetitions in the same 40-novice b
 - [Viewing mode (3D vs. 2D-4 K) does not significantly affect task failure rates of laparoscopic novices on tasks 1 and 2](viewing-mode-no-significant-failure-rate-difference-novices.md) — related
 - [Novices training in 3D take fewer repetitions and achieve lower time-plus-error performance scores than novices training in 2D during proficiency-based laparoscopic training](3d-training-fewer-repetitions-lower-scores-laparoscopic.md) — related
 - [Learning potential and learning speed varied widely and depended on initial values and plateaus, with 2D showing higher speed but worse final results](learning-potential-speed-vary-initial-values-plateaus.md) — a narrower finding that bears on this claim
+- [Per-task performance time was shorter with 3D in 100% of tasks, significant for all tasks except needle recapping](3d-shorter-time-all-tasks-except-needle-recapping.md) — related

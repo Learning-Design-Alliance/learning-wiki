@@ -55,6 +55,7 @@ The article recommends that simulation-based education not merely be available b
 - [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
 - [Balance virtual simulation training with sufficient hands-on technical skills practice time](balance-virtual-and-skills-training-time.md)
 - [Integrate basic life support as a mandatory curricular activity and use multi-professional simulation in teaching-service settings](bls-mandatory-curricula-multiprofessional-simulation.md)
+- [Incorporate a 2-week mentored simulation course into vascular resident training](two-week-mentored-vascular-simulation-course.md)
 
 ## Examples
 -

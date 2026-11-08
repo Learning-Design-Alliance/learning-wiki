@@ -113,3 +113,7 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Simulator training was most frequently used by medical students (41.1%) and physicians in further education (32.5%)](simulator-use-mostly-students-trainees.md) — related
 - [In one uncontrolled pre-post study, only 40% of hospitalists achieved passing scores at a mean of 7 months after SBML (40% for LP and 40% for AP)](sbml-skill-decay-hospitalists-7-months.md) — related
 - [Adult cardiorespiratory resuscitation knowledge scores rose significantly from pre-test to post-test after health simulation training in a multi-professional hospital team, in one single-group pre-post study](simulation-training-increases-crr-knowledge.md) — related
+- [Student confidence in focused PE skills declined at 4-month follow-up to below both pre- and postsession levels](hdpe-confidence-decline-four-months.md) — related
+- [LP simulation training significantly improves fifth-year medical students' self-assessed theoretical knowledge and confidence in performing LP](lp-simulation-improves-knowledge-confidence.md) — related
+- [Conducting one or more neonatal resuscitations per month and having more than 5 years in service were associated with reduced competence retention](resuscitation-volume-and-seniority-reduced-retention.md) — a narrower finding that bears on this claim
+- [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related

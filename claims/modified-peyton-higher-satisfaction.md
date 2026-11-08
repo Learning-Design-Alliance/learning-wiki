@@ -64,3 +64,4 @@ One-month 5-point Likert satisfaction questionnaire in the RCT; Table 6 reports 
 - [Teaching satisfaction did not differ significantly between O2O/PBL and LBT trainees across five surveyed aspects](o2o-pbl-teaching-satisfaction-no-difference-nephrology.md) — reports the opposite
 - [Residents taught with the refined Peyton method reported higher teaching satisfaction across surveyed items than traditionally taught residents](refined-peyton-higher-teaching-satisfaction.md) — possibly the same claim (merge candidate)
 - [The combination of PBL with 3D visualization improved clinical trainee performance, learning efficiency, interest and clinical thinking in spinal surgery](pbl-3dv-overall-benefit-spinal-surgery-teaching.md) — related
+- [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related

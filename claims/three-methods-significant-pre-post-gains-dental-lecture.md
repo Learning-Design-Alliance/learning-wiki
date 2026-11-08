@@ -55,3 +55,5 @@ Randomized trial of 156 fourth-year dental students, 52 per group, paired t-test
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — related
 - [Virtual flipped learning produced no significant difference in short-term recall learning performance compared with virtual traditional live-video lectures in a dental orthodontics pilot crossover trial](vfl-vtl-no-learning-performance-difference-dental-pilot.md) — related
+- [Teaching dental ergonomics significantly improves students' theoretical knowledge regardless of whether live lectures or videos come first](ergonomics-teaching-significant-knowledge-gain.md) — a narrower finding that bears on this claim
+- [Live lectures and videos produce similar learning outcomes in dental ergonomics, with no statistically significant difference between formats](live-lectures-videos-similar-ergonomics-outcomes.md) — related

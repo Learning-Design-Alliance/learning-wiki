@@ -52,3 +52,5 @@ Generalization-inference analysis of the pilot SJT (N=303). Alphas per competenc
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [Aggregate SJT performance was highest in the diligence competency and lowest in good judgement](sjt-performance-highest-diligence-lowest-good-judgement.md) — related
 - [The piloted SJT demonstrated good internal consistency (Cronbach's alpha 0.80 and 0.81) across two applicant cohorts](sjt-pilot-internal-consistency-alpha-080-081.md) — related
+- [Internal consistency is acceptable for diagnostic accuracy and efficiency but low for information sharing skills](low-internal-consistency-information-sharing.md) — related
+- [The article argues SJTs offer more efficient implementation and evaluation than simulated conversations and can complement, but not replace, them](sjt-more-efficient-than-simulated-conversations.md) — related

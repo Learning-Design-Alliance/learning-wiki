@@ -80,3 +80,4 @@ GCTA SNP-heritability analysis of the same achievement measures in the TEDS geno
 - [Genetic correlations of all three subjects with educational attainment and intelligence are high and positive (rg = 0.89–1.26), while personality and psychiatric correlations are lower and vary by subject](genetic-correlations-subjects-with-cognitive-and-personality-traits.md) — related
 - [Maths and science retain significant SNP-based heritability after removing variance shared with other subjects or with IQ](residual-heritability-maths-science-after-regression.md) — related
 - [SNP-based heritability of adolescent English, maths and science attainment is moderate to high (GREML 0.41–0.53), highest for science](snp-heritability-english-maths-science-adolescence.md) — related
+- [SNP-based heritability of the three early parenting domains is small and estimated with low precision](low-snp-heritability-parenting-domains.md) — related

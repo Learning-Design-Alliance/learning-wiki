@@ -127,6 +127,7 @@ Self-regulatory skill is learnable: strategy instruction embedded in subject-mat
 - [Provide early-grades teachers professional development in non-reactive engagement with dysregulated children and emotionally supportive classroom practices](non-reactive-teacher-pd-for-dysregulated-children.md)
 - [Encourage students to adjust cognition, behavior, and emotion during lockdown learning, and to recognize their own adaptability](adaptability-intervention-strategies-lockdown.md)
 - [Dormitory-based independent learning (muraja'ah) with teacher, mudabbir, peer, and independent review](dormitory-murajaah-independent-learning.md)
+- [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development) writing instruction** — a well-validated curriculum model in which teachers model planning strategies for writing, students practice with graphic organizers and self-statements ("What do I do first?"), and supports fade as students internalize the process (see [Graham & Harris's SRSD materials](https://srsdresearch.org)).

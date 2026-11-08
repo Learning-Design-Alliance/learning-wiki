@@ -53,3 +53,4 @@ Secondary-outcome analysis of the randomized controlled study comparing CVS achi
 - [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](smartcoach-improves-cvs-achievement.md) — related
 - [AI-assisted coaching improves novice surgeons' overall operative performance in laparoscopic cholecystectomy, outperforming self-learning by study end](smartcoach-improves-lcrf-performance.md) — related
 - [The feedback group takes significantly longer total operative time than the control group](feedback-group-longer-operative-time.md) — related
+- [Trainees desired strategies for improvement and coaching rather than mere assessment of performance](trainees-desire-coaching-not-scoring.md) — related

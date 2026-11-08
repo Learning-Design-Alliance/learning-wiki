@@ -48,7 +48,8 @@ The review's synthesis supports combining strategies — active learning (includ
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](../claims/active-learning-conditions-more-other-pedagogical-features.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt a flipped classroom combined with hybrid teaching methods as a suitable learning strategy for RN-to-BSN nursing programs](flipped-classroom-hybrid-rnbsn-strategy.md)
 
 ## Examples
 -

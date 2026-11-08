@@ -63,6 +63,7 @@ Perceived teacher availability and warmth are among the strongest correlates of 
 - [Building empathy](../principles/building-empathy.md) — presence models the empathy that discussions of race ask students to practice
 - [Community of inquiry](../principles/community-of-inquiry.md) — teacher presence is one of the three presences (social, cognitive, teaching) that sustain online and blended learning communities
 - [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
+- [Facilitate a learning community in which the teacher-learner knowledge boundary is blurred and social presence is cultivated](online-learning-community-facilitation-roles.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the recurring mechanism through which availability becomes visible

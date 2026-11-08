@@ -64,6 +64,7 @@ The study's conclusion recommends four interventions: "1. Structured refresher t
 - [Embed simulation-based training in integrated packages and consider on-site delivery in low-resource settings](integrated-package-onsite-training-low-resource-settings.md)
 - [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
 - [Improve HBB implementation through better work routines, equipment maintenance, psychological safety, and training that explains neonatal physiology](hbb-implementation-support-strategy.md)
+- [Target informal health care providers with skill-based educational interventions, including simulation and peer-to-peer training, to improve neonatal care in rural settings](target-ihcps-skill-based-educational-interventions.md)
 
 ## Examples
 -

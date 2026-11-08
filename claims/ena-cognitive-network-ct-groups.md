@@ -58,3 +58,4 @@ Epistemic Network Analysis of reflection journals visualized on the ENA platform
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](srl-uneven-only-execution-monitoring-predicts-gains.md) — related
 - [High CT students significantly outperformed low CT students on the post-test after AICA-assisted coding instruction](high-ct-outperformed-low-ct-posttest-aica.md) — related
 - [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related
+- [Students who self-perceive as high achieving report monitoring-phase SRL strategies more often than low- and middle-achieving peers](high-achievers-use-more-monitoring-strategies.md) — related

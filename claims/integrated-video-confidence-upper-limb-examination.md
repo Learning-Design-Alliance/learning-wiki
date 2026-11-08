@@ -51,3 +51,4 @@ Randomized comparison within the Upper Limb module analyzed by Mann-Whitney U. C
 - [Integrated videos improved perceived explanation quality but not overall confidence for hip/ankle/foot examinations](integrated-video-explanation-quality-hip-ankle-foot.md) — related
 - [No significant differences between intervention and control groups for any knee examination survey item](no-significant-difference-knee-examination-video.md) — related
 - [A standardized training program significantly increases veterinary students' perceived knowledge and confidence in SBWGTT placement and POCUS pathology recognition](training-program-increases-student-knowledge-confidence-sbwgtt.md) — related
+- [A hypothesis-driven physical exam session significantly increases rising third-year students' confidence in performing a problem-focused PE and using a differential diagnosis to select PE maneuvers](hdpe-session-increases-student-confidence.md) — related

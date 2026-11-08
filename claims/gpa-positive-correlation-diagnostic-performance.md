@@ -55,3 +55,4 @@ Simple linear regression analysis of 66 medical interns' scores against demograp
 - [The authors report no direct correlation between older age or greater professional experience and correct diagnosis, with accurate diagnoses evenly distributed across medical students and nurses](no-background-correlation-with-correct-diagnosis.md) — related
 - [Older age, higher GPA and later graduation year are associated with higher perceived clinical preparation](age-gpa-graduation-year-predict-preparation.md) — related
 - [Age, suspension history, and later academic year correlate negatively with dental students' GPA](age-suspension-year-negative-correlation-dental-gpa.md) — related
+- [Total diagnostic score differed significantly by university but was not related to GPA or gender](cxr-score-varies-by-university-not-gpa-or-gpa.md) — reports the opposite

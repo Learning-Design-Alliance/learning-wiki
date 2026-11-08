@@ -70,6 +70,7 @@ Effective facilitation converts discussion from an assessment checkbox into a si
 - [Provide and structure online collaborative tools that support both task coordination and socio-emotional exchange.](provide-varied-collaborative-tools.md)
 - [Use the three interaction types (learner-system, instructor-learner, learner-learner) at necessary stages to sustain motivation in asynchronous e-learning](three-interactions-motivation-asynchronous-elearning.md)
 - [Consider ice-breakers, asynchronous content, netiquette and teaching presence when designing blended PBL](blended-pbl-design-factors-strategy.md)
+- [Facilitate a learning community in which the teacher-learner knowledge boundary is blurred and social presence is cultivated](online-learning-community-facilitation-roles.md)
 
 ## Examples
 - **Discussion protocols in online graduate courses** (e.g., the Community of Inquiry research tradition at Athabasca University) use instructor weaving posts every 2–3 days to sustain cognitive presence across multi-week threads.

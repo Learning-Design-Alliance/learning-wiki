@@ -50,3 +50,4 @@ Anonymous 5-point Likert questionnaire after rotation: "I would act as a teacher
 - [IVR trainees rate the educational module higher than control trainees on enjoyment, ease of use, repetitivity, perceived improvement, and overall satisfaction](ivr-higher-perceived-benefits-ratings.md) — related
 - [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
+- [Residents rated IVR training as more enjoyable, easier to use, and with greater teaching capacity than video training, except for implant-specific steps](resident-experience-ratings-ivr-vs-video.md) — related

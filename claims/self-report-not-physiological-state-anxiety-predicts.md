@@ -51,3 +51,5 @@ Correlational screening of multiple state anxiety indices with Bonferroni correc
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
 - [Learners show significantly lower skin conductance level across the task than non-learners](learners-lower-scl-across-task.md) — related
 - Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — related
+- [Salivary cortisol measured before an OSCE was not associated with self-reported anxiety and did not differ from reference values](osce-cortisol-anxiety-not-associated.md) — a narrower finding that bears on this claim
+- [Neither physiological stress nor self-reported anxiety correlated with physical therapy students' OSCE scores](osce-stress-anxiety-not-correlated-with-scores.md) — related

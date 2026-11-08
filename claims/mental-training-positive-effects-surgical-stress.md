@@ -81,3 +81,4 @@ Review synthesis noting a dissociation between subjective and physiological outc
 - [Students describe EI as a mechanism for managing academic stress through time management and mastery-oriented cognitive reframing](ei-stress-management-time-mastery-reframing.md) — related
 - [Surgical trainees show a dual emotional pattern of high engagement alongside early signs of burnout](surgical-trainees-emotional-strain-burnout-signs.md) — related
 - [Students describe acquiring evidence-based stress management skills whose adoption was grounded in psychoeducation about stress physiology and the autonomic nervous system](stress-skills-psychoeducation-grounding.md) — a narrower finding that bears on this claim
+- [Trauma care training on the job is suboptimal for 3 stated reasons: variable trainee experience, unmanaged stress exposure, and inadequate leadership training](on-the-job-trauma-training-suboptimal.md) — related

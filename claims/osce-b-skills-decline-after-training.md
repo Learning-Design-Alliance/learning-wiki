@@ -56,3 +56,4 @@ Paired t-tests of providers' standardised HBB OSCE B simulation scores at 4 and 
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — reports the opposite
 - [HBB simulation training significantly increases health care workers' newborn resuscitation skills on both OSCE A and OSCE B](hbb-training-increases-hcw-osce-skills.md) — related
 - [HBB knowledge and OSCE A pass rates rose significantly from pre-test to post-test after trainings one and two only, with no significant change after the third session, in one uncontrolled pre-post study](hbb-knowledge-osce-a-improved-first-two-trainings.md) — reports the opposite
+- [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related

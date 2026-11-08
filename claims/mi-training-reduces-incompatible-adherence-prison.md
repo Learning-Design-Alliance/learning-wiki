@@ -48,3 +48,4 @@ Repeated-measures ANOVA and Friedman test over three moments in a quasi-experime
 - [Compatible adherence to MI rises after initial training phases but drops by the consolidation phase](mi-compatible-adherence-fluctuates.md) — related
 - [Compatible MI competence rose from pre-test to post-test, with a non-significant ANOVA result but a significant Friedman-test result, in one single-group pre-post study](mi-compatible-competence-mixed-tests.md) — related
 - [Incompatible MI competence rose significantly from pre-test to post-test in one uncontrolled pre-post study](mi-incompatible-competence-increases.md) — related
+- [Veterinarians' MI-non-adherent persuasive and confrontational behaviours fell from before to after MI training in one uncontrolled pre-post study](mi-training-reduces-non-adherent-behaviours.md) — related

@@ -51,6 +51,7 @@ The article recommends designing personalized training pathways that account for
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
+- [Implement periodic educational interventions and training programs on infection control practices for COVID-19 across all healthcare professions](periodic-infection-control-training-interventions-strategy.md)
 
 ## Examples
 -

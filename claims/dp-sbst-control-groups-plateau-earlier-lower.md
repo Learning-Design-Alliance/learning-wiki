@@ -52,3 +52,4 @@ The review's synthesis of included studies reports that "Some control groups als
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
 - [Residents reached the expert benchmark on small-intestine suturing after a median of 11 repetitions, with a plateau after roughly 11 repetitions](rostrac-learning-curve-suturing-plateau.md) — related
 - [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related
+- [Systematic review shows strong evidence for simulation with repetitive practice, mastery learning, and deliberate practice in teaching procedural skills](simulation-competency-based-strong-evidence.md) — a broader claim this one bears on

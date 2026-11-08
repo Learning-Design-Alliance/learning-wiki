@@ -65,6 +65,7 @@ The strategy works because committing to a decision before instruction creates t
 - Role-play — enactment variant of the same perspective-taking goal
 - Jigsaw discussion — alternative structure for ensuring all perspectives are voiced
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
+- [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
 
 ## Examples
 - **Harvard Business School case method** (https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx) — cold-called students must take a protagonist's position and defend a decision before the class dissects alternatives; the WWYD prompt is the entry move of each session.

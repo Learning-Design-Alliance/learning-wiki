@@ -62,3 +62,4 @@ Structural equation modeling of survey data from 533 Ghanaian university student
 - [Academic integrity and transparency is the strongest predictor of ethical GenAI use, followed by ethical and technical AI literacy and critical thinking](academic-integrity-strongest-predictor-ethical-genai.md) — related
 - [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — related
 - [Self-efficacy directly predicts critical thinking among university students](self-efficacy-predicts-critical-thinking.md) — related
+- [Academic motivation positively predicts metacognitive strategies and critical thinking, which positively predict academic performance](motivation-predicts-strategies-thinking-which-predict-performance.md) — related

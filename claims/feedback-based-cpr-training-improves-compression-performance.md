@@ -81,3 +81,4 @@ Synthesis across randomized trials in the review's instructional modality and fe
 - [After brief hands-on training with real-time feedback, more than 80% of chest compressions met the adequate-rate standard and all compressions used correct hand positions](cpr-quality-metrics-after-brief-feedback-training.md) — a narrower finding that bears on this claim
 - [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related
 - [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — a narrower finding that bears on this claim
+- [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related

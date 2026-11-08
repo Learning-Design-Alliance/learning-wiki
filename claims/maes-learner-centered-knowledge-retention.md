@@ -51,3 +51,4 @@ Focus-group theme from the qualitative study. One student contrasted MAES with t
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — related
 - [Students perceive interprofessional CPR training as more aligned with real-world work dynamics than discipline-separate training](ipe-cpr-training-real-world-readiness.md) — related
+- [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related

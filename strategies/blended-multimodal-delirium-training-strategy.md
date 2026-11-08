@@ -50,6 +50,7 @@ The authors recommend that, following refinement, the e-learning program be embe
 - [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 - [Target warfarin education through structured programs, interactive e-learning modules, regular workshops, and case-based training](warfarin-targeted-education-strategy.md)
 - [Offer interactive E-book apps for nurses' self-paced in-service education](ebook-app-self-paced-in-service-education-strategy.md)
+- [Nurse-led multi-session training combining a hospital session with repeated home visits and follow-up phone calls](nurse-led-hospital-home-visit-training-strategy.md)
 
 ## Examples
 -

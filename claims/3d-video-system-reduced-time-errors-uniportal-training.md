@@ -51,3 +51,4 @@ The review narrates Han and collaborators' study in which 113 trainees (85 surge
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — related
 - [3D VR acclimatisation reduces simulator penalty scores versus 2D video, with task-level effects mixed](3d-vr-reduces-penalty-scores.md) — related
 - [3D-trained novices' final 2D performance was not significantly better than 2D-trained novices' performance](3d-trained-final-2d-performance-not-significantly-better.md) — related
+- [Per-task performance time was shorter with 3D in 100% of tasks, significant for all tasks except needle recapping](3d-shorter-time-all-tasks-except-needle-recapping.md) — a narrower finding that bears on this claim

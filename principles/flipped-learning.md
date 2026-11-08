@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 178 claims (109 for, 65 mixed, 4 against) · 113 studies (65 causal, 19 quant-synthesis, 13 review, 6 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 36 of 113 report an effect size · 170 claims rest on one study
+> **Evidence** · 179 claims (110 for, 65 mixed, 4 against) · 114 studies (66 causal, 19 quant-synthesis, 13 review, 6 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 36 of 114 report an effect size · 171 claims rest on one study
 
 ## Conditional relationship
 
@@ -219,6 +219,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Flipped learning integrated into simulation-based training significantly enhances medical students' non-technical skill performance on all three AS-NTS dimensions](../claims/flipped-learning-enhances-nts-performance-sbme.md) [+W] — attached 2026-11-08 from Moll-Khosrawi Parisa et al. (2021), which proposed "Combine flipped learning with simulation-based medical education to teach non-technical skills".
 - [Post-test non-technical skill performance of the flipped learning group is significantly better than the lecture-based group on teamwork/leadership and team orientation, but not on planning/problem-solving](../claims/post-test-between-group-nts-differences.md) [~W] — attached 2026-11-08 from Moll-Khosrawi Parisa et al. (2021), which proposed "Combine flipped learning with simulation-based medical education to teach non-technical skills"; tests this page's relationship.
 - [Transitioning a dental materials course to a flipped classroom format was followed by positive shifts in student satisfaction feedback across delivery, time, accessibility and content](../claims/fc-transition-positive-scef-feedback-dental-materials.md) [+W] — attached 2026-11-08 from Binnie Rebecca S. L. (2021), which proposed "Protect timetable time for flipped pre-class preparation and budget staff time for recording and editing".
+- [Flipped classroom combined with a human anatomy web-based learning system produced higher post-quiz anatomy scores than traditional classroom teaching in medical freshmen](../claims/flipped-classroom-web-system-higher-anatomy-post-quiz.md) [+W] — attached 2026-11-08 from Yang C et al. (2020), which proposed "Two-stage flipped classroom design: pre-class self-study with the web system followed by interactive in-class application"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -54,6 +54,7 @@ The authors propose that polygenic scores could serve as an early-warning tool i
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
 - [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
+- [Improve children's access to interventions, such as high-quality early learning programs, that can break reinforcing gene-environment links](early-learning-programs-break-gene-environment-links.md)
 
 ## Examples
 -

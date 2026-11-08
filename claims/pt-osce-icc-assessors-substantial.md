@@ -74,3 +74,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [The NoTSUS rating scale correlates strongly with the validated NoTSS scale and shows inter-rater agreement between the two NTS-trained expert raters](notsus-scale-correlates-with-notss.md) — related
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — a narrower finding that bears on this claim
+- [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related

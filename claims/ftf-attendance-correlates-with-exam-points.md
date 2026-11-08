@@ -48,3 +48,4 @@ Correlational analysis across the 198 physiology course students relating each s
 - [Individual examination scores did not correlate significantly with lecture attendance frequency](exam-scores-not-correlated-lecture-attendance.md) — reports the opposite
 - [Medical students who completed physiology practical classes face-to-face scored significantly higher on the final written exam than students who completed them online, with a small effect size](ftf-physiology-practical-higher-exam-score-than-online.md) — related
 - [Students' self-evaluations of suturing techniques correlate positively with their post-course test scores](self-evaluation-correlates-with-post-test.md) — related
+- [Passing the one-year hands-on test correlated with number of clip uploads (r = 0.85), attendance at hands-on teaching sessions (r = 0.7), and attendance at monthly conferences (r = 0.5)](iscan-clip-uploads-hands-on-attendance-correlate-success.md) — related

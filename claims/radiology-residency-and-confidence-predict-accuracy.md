@@ -51,3 +51,4 @@ Multivariable logistic regression in the 205-physician survey predicting first-q
 - [Family medicine residents' diagnostic accuracy for emergency chest X-rays (58.0%) is significantly lower than diagnostic radiology residents' (90.5%)](fm-residents-cxr-accuracy-lower-than-radiology-residents.md) — related
 - [Working position and department policy, not age, nationality, experience or confidence, predicted consistent SCMR knowledge in multivariate logistic regression](position-and-policy-predict-consistent-scmr-knowledge.md) — related
 - [High self-reported confidence in ECG interpretation strongly predicts actual competency (AOR up to 9.10)](self-confidence-predicts-ecg-competency.md) — related
+- [Prior studies reviewed found students' chest X-ray accuracy comparable to some resident groups, supporting the students' performance level](students-cxr-accuracy-comparable-residents-prior-studies.md) — related

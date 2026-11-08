@@ -58,3 +58,4 @@ The brief's framing statement, offered without supporting data or argument, list
 - [Students value the UOC online model's flexibility for combining study with professional and personal life](flexibility-combine-study-work-life.md) — related
 - [Flexibility was a key benefit for many students: 53% valued not having to travel, 61% found video recordings helpful, and 59% valued assignment deadline extensions](flexibility-benefits-recordings-extensions.md) — related
 - [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](wave2-paired-lvo-advantages.md) — a narrower finding that bears on this claim
+- [Trainees named no travel, time and cost savings and increased flexibility as main advantages of e-learning, and less personal interaction and technical obstacles as main disadvantages.](e-learning-advantages-disadvantages-gp-trainees.md) — related

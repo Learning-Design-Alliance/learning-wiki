@@ -46,6 +46,7 @@ The article recommends that health institutions and the Ministry of Health prior
 - [Multimodal infection-prevention training combining theory with clinical practice, delivered by qualified internal experts with employer-supported time](multimodal-nosocomial-training-strategy.md)
 - [Target warfarin education through structured programs, interactive e-learning modules, regular workshops, and case-based training](warfarin-targeted-education-strategy.md)
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
+- [Implement periodic educational interventions and training programs on infection control practices for COVID-19 across all healthcare professions](periodic-infection-control-training-interventions-strategy.md)
 
 ## Examples
 -

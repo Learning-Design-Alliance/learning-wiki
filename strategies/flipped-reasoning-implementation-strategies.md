@@ -49,6 +49,7 @@ The article's discussion offers concrete implementation recommendations: upload 
 - [Weight pre-lecture preparation activities in assessment to encourage a preparation-oriented approach in flipped classrooms](pre-lecture-preparation-assessment-weighting-strategy.md)
 - [Time-limited chapter tests with randomized item order and delayed answer release](tronclass-chapter-test-routine-strategy.md)
 - [Run online PBL by uploading micro clinical cases 3 days before class, having students present via video conferencing, and quizzing after each class](wechat-pbl-case-upload-and-quiz-strategy.md)
+- [Collect student feedback via online surveys and act on it: prioritize live video-lectures over posted presentations, manageable task loads, and extended thesis deadlines](strategy-student-suggestions-improve-e-learning.md)
 
 ## Examples
 -

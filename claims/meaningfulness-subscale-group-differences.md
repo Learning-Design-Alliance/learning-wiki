@@ -71,3 +71,4 @@ Independent t-test comparison by gender in the same sample (154 male, 194 female
 - [Sense of coherence correlates positively with GPA among medical and nursing students (r = 0.519)](soc-positive-correlation-gpa-medical-nursing.md) — related
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — related
 - [Students' perceptions of university lectures are significantly below neutral, with female students rating lectures more positively than males](ul-perceptions-below-neutral-females-higher.md) — related
+- [After the experiential learning program, intervention-group supporters' SOC-13J meaningfulness subscale scores increased significantly, with no significant SOC-13J change in the control group](meaningfulness-subscale-increase-experiential-program.md) — related

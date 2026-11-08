@@ -46,7 +46,8 @@ The article recommends building a systematic XR-based neonatal care simulation h
 - [Students with prior handoff training perceived higher neonatal and family handoff training needs than students without prior handoff training](../claims/prior-handoff-training-higher-handoff-training-needs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop adult nursing VR simulation programs by first analyzing clinical practice limitations and then building in students' enumerated needs](vr-nursing-program-development-from-student-needs.md)
 
 ## Examples
 -

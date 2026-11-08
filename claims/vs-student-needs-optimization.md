@@ -72,3 +72,4 @@ Synthesized case-optimization finding; one student suggested a ward environment 
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Participants identified five categories of educational needs: training methods, content, objectives, institutional and policy support, and other specific requirements](fgi-five-educational-needs-categories.md) — related
 - [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](residents-perceive-vr-safe-flexible-emergency-care.md) — related
+- [Nursing students want VR-based simulation to offer difficulty-phased scenarios, immediate game-like feedback, emergency and rare cases, and communication practice](student-needs-vr-simulation-scenarios-feedback-communication.md) — related

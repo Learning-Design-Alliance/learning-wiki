@@ -47,3 +47,4 @@ Narrative synthesis of longitudinal studies examining team reflection, sharing a
 ## Related Claims
 - [Team reflection relates positively to team performance over time, but knowledge sharing and team activity do not](team-reflection-performance-over-time.md) — related
 - [Quantitative longitudinal studies mostly show minor change in team learning behaviours, with dynamics in boundary crossing and team activity](quantitative-studies-mostly-minor-change-team-learning.md) — related
+- [Reflection is perceived as a fundamental prerequisite for learning but shared reflection was not part of daily work at the departments](reflection-cornerstone-lacking-daily-work.md) — related

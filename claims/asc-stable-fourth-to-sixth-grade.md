@@ -50,3 +50,4 @@ Unconditional multilevel latent growth models on annual ASC self-reports of 679 
 - [Boys report moderately higher academic self-concept than girls in fourth and fifth grades, but not in sixth grade](boys-higher-asc-grades-4-5-not-6.md) — related
 - [Variance in ASC change is statistically significant at individual, clique, and classroom levels, with a slight average decline in ASC across the school year](asc-change-variance-all-three-levels.md) — related
 - [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related
+- [Peer-evaluated effectiveness shows significant slope variance across participants, whereas self-reported effectiveness shows no significant development across rounds](barnga-slope-variance-outcome-difference.md) — related

@@ -73,3 +73,4 @@ Thematic synthesis codes 14 studies to authentic interaction simulation, reporti
 - [Students preferred online simulation approaches that provide clear instruction, correction and caring feedback](students-prefer-clear-instruction-correction-caring-feedback.md) — related
 - [Meaning-oriented approaches providing rich, authentic input with high involvement load tend to be more successful in FL learning](meaning-oriented-rich-input-involvement-load.md) — related
 - [Feedback on videotaped patient consultations is reported to increase trainees' powers of perception and support adaptive, case-tailored application of expertise](video-based-feedback-perception-adaptive-expertise.md) — related
+- [Intelligent tutoring systems are automated teaching platforms that provide individualized performance feedback to learners using a variety of simulators](its-automated-individualized-feedback.md) — related

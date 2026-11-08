@@ -85,6 +85,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
 - [Use the tool predominantly for reflective learning conversations within an intentional programme of peer coaching for simulation faculty development](fbat-reflective-learning-conversations-strategy.md)
 - [Run multi-cycle faculty development workshops on student assessment using active teaching–learning strategies](fd-workshop-cycles-active-strategies-strategy.md)
+- [Support international implementation by adapting the model locally, relying on local leaders, and providing long-term job-embedded professional development](international-implementation-adaptability-leadership.md)
 
 ## Examples
 -

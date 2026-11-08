@@ -70,3 +70,4 @@ Authors' interpretation in the Discussion of the same 400-dentist cross-sectiona
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
 - [Dental interns report strongly positive attitudes toward early detection of OPMDs and oral cancer](dental-interns-positive-attitudes-opmd-early-detection.md) — related
+- [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related

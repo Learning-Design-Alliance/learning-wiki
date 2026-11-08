@@ -50,6 +50,7 @@ The authors recommend including reflective questions after the lesson and before
 - [Design recommendations for inclusive-pedagogy simulations: nuanced options, emotion-surfacing prompts, structured feedback](simulation-design-recommendations-inclusive-pedagogy.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
+- [Use Pendleton's feedback model so the learner reflects first on their own performance](pendleton-feedback-model-strategy.md)
 
 ## Examples
 -

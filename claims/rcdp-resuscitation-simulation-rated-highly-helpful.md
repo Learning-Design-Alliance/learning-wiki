@@ -53,3 +53,4 @@ Postparticipation survey item asking "How helpful did you find this training ses
 - [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related
 - [Participants rate the SIMULATE URS curriculum highly for educational value, reporting improved skills and OR-transferrable skills](simulate-curriculum-high-educational-value-ratings.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
+- [Respondents rated online class usefulness modestly: 31.5% very helpful, 44.9% somewhat helpful, 23.5% not helpful on a 1–10 Likert scale](likert-usefulness-online-classes-distribution.md) — related

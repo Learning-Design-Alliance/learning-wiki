@@ -71,3 +71,4 @@ Multiple regression analysis of GM-ITE scores by program requirement, adjusted f
 - [Mini-Z well-being measures show minimal differences across scholarly activity groups among Japanese PGY1-2 residents](mini-z-wellbeing-minimal-differences.md) — related
 - [Required scholarly activity shows a small adjusted ACE tool score difference and higher odds of future academic interest compared to no scholarly activity](required-scholarly-activity-ace-and-interest.md) — related
 - [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related
+- [No clear pattern was found that early incorporation of EBM into practice results in better ACE scores](no-pattern-early-ebm-incorporation-better-ace.md) — related

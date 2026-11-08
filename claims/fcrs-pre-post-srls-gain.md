@@ -49,3 +49,4 @@ Within-group pre/post comparison of the SRLSs scale for the 30 experimental-grou
 - [The flipped classroom strategy showed a very large effect size on achievement (d = 3) and a large effect size on self-regulated learning skills (d = 0.8)](fcrs-effect-sizes-achievement-srls.md) — related
 - [Students taught with the flipped classroom strategy scored significantly higher on a self-regulated learning skills scale than traditionally taught students](fcrs-raises-srls-versus-control.md) — related
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
+- [The self-awareness metacognition subscale improved more in the traditionally taught control group than in the flipped classroom group](self-awareness-gain-greater-in-control-group.md) — related

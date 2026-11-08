@@ -52,6 +52,7 @@ The article describes placing a 3D printed clavicle, scapula, and humerus beside
 ## Related Strategies
 
 - [Interdisciplinary scenario stations combining 3D models, CT-A interpretation, and expert-led clinical discussion](interdisciplinary-ica-scenario-stations.md)
+- [Use personal 3D-printed bone sets to augment reduced laboratory time via mock oral-examination practice at home](3dp-bones-mock-viva-home-practice-strategy.md)
 
 ## Examples
 -

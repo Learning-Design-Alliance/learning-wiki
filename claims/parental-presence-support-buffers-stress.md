@@ -78,3 +78,4 @@ Narrative review synthesis of human studies of parental buffering. The review re
 - [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)
 - [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
 - [Variations in maternal care causally alter DNA methylation at the glucocorticoid receptor promoter with lasting effects on stress reactivity, as the review reports from Meaney and colleagues](maternal-care-dna-methylation-stress-reactivity.md) — related
+- [Parental enjoyment buffers the association between conflictual relationships and offspring behavioural disorders at age 16](enjoyment-buffers-conflict-behavioural-disorders.md) — a narrower finding that bears on this claim

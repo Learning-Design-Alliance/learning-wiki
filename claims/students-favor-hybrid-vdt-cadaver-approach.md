@@ -62,3 +62,4 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 - [Students want anatomy concepts taught through both PBL and lectures](anatomy-preferred-via-both-pbl-and-lectures.md) — related
 - [Anatomage-based gross anatomy study of the pelvis and musculoskeletal system appears equivalent to cadaveric dissection](anatomage-pelvis-musculoskeletal-equivalent-cadaveric.md) — related
 - [Medical students report high satisfaction with Anatomage-based anatomy learning across multiple studies](anatomage-student-satisfaction-studies.md) — related
+- [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](students-prefer-blended-future.md) — related

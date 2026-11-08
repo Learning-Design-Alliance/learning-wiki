@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/repeated-osce-exposure-with-formative-feedback-strategy.md
+---
+
+# Revision history: [strategies/repeated-osce-exposure-with-formative-feedback-strategy](../strategies/repeated-osce-exposure-with-formative-feedback-strategy.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-7488334 (Stress, anxiety, self-efficacy, and the meanings that physical therapy students attribute to their experience with an objective structured clinical examination.) via eval_harness.py + ingest_extractions.py

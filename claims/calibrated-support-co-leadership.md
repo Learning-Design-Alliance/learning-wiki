@@ -125,3 +125,5 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [The local team gradually gained expertise and skills from the visiting missions, which also arranged external training for institute staff](skill-transfer-through-visiting-missions.md) — related
 - [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related
 - [The stepwise ramp let critical team skills be taught and reinforced in a manageable way, with leadership skills easier in smaller team structures before commanding larger teams in later cycles.](stepwise-complexity-eases-leadership-skill-teaching.md) — related
+- [Effective online teaching requires viewing learners as active, capable, and independent individuals rather than passive recipients](independent-learners-online-teaching-perspective.md) — a broader claim this one bears on
+- [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related

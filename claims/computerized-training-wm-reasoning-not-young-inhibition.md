@@ -79,3 +79,4 @@ Narrative review reporting failed computerized inhibitory-control training in 4-
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
 - [Digitalised task training shows highly inconsistent evidence, appearing particularly suited to improving working memory](digitalised-task-training-inconsistent-wm.md) — reports the opposite
 - [Training executive function shows mixed effects: near transfer in children without far transfer, near and far transfer in adults, and no causal evidence that EF training improves academic achievement](ef-training-mixed-transfer-and-achievement.md) — related
+- [Adaptive computerized math training (XtraMath) produced higher teacher-rated academic growth than active working-memory control immediately after intervention in preterm first graders](xtramath-short-term-taas-growth-preterm.md) — a narrower finding that bears on this claim

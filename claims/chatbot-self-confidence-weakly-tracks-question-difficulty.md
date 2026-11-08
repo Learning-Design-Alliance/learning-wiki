@@ -48,3 +48,4 @@ Spearman correlations (Table 3, N = 1188) with printed effect sizes: ChatGPT-4 r
 ## Related Claims
 - [Self-assessed confidence predicted actual answer accuracy for ChatGPT-4 and Claude but not Gemini](self-assessed-confidence-correlates-with-actual-accuracy.md) — related
 - [Experience with people with dementia is associated with higher baseline self-efficacy but not with self-efficacy change](dementia-experience-baseline-efficacy-not-change.md) — related
+- [NBME exam scores correlated weakly with IUD insertion self-assessment (rho = 0.22)](nbme-iud-self-assessment-weak-correlation.md) — related

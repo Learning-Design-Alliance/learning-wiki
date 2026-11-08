@@ -51,3 +51,4 @@ Interview data from 15 dietitians analysed thematically; a participant stated th
 - [Participants view virtual training as a resource-efficient supplement to, not a replacement for, real-life exercises](virtual-training-supplement-not-replacement.md) — possibly the same claim (merge candidate)
 - [Years of professional experience was the only significant predictor of current SBE use among Irish dietitians](experience-only-predictor-sbe-use.md) — related
 - [Facilitators reported that real delivery experience, not role-play training alone, was needed to become confident and competent](experiential-learning-facilitator-competence.md) — related
+- [Students recommended virtual patient simulation only in addition to bedside training, never as stand-alone use](vr-recommended-only-additional-to-bedside.md) — a narrower finding that bears on this claim

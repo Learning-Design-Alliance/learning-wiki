@@ -52,3 +52,4 @@ At the end of the exchanges, 564 participants completed a four-item satisfaction
 - [Healthcare providers report high satisfaction with an asynchronous virtual care CPD module](virtual-care-cpd-module-high-satisfaction.md) — related
 - [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
 - [Cross-territory virtual bedside teaching with patient case exchange expanded students' disease exposure, with 82.2% agreement](cross-territory-case-exchange-disease-exposure.md) — related
+- [Students report the digital SP cases were realistic and would recommend the course to others](digital-sp-cases-realistic-recommendable.md) — related

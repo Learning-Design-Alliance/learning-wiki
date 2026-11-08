@@ -58,6 +58,7 @@ The article synthesizes FL literature recommendations that online lectures shoul
 - [Segment recorded lectures into shorter videos with embedded interaction](segmented-short-lecture-videos-strategy.md)
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
+- [Structure online medical classes under one governing authority, with a pre-announced timetable, short topic-focused sessions, and sufficient doubt-clearing time](structured-short-scheduled-online-medical-classes.md)
 
 ## Examples
 -

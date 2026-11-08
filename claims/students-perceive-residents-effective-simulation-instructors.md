@@ -66,3 +66,4 @@ In the same qualitative interview study, a student participant explained that re
 ## Related Claims
 - [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — related
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — a broader claim this one bears on
+- [Australian families interviewed after RBI bootcamp training described the interview as cathartic, beneficial, and relaxing, with functional goal development most valuable](rbi-family-interviews-noahs-ark.md) — related

@@ -55,3 +55,5 @@ Student focus group conducted two weeks after the laboratory with six participan
 - [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
 - [Students used manipulable de-articulated 3D printed bones to visualize anatomical structures and their positioning during palpation practice](3d-printed-models-visualization-anatomy.md) — related
 - [Virtual dissection showed tendential benefit on muscle listing and 2D/3D reporting of anatomical structures, but not on listing vessels, nerves and bones](virtual-dissection-2d-3d-reporting-tendential-benefit.md) — related
+- [Owning 3D-printed bones increased students' confidence and, for a smaller proportion, reduced viva-related anxiety](3dp-bones-confidence-anxiety-psychological-theme.md) — a broader claim this one bears on
+- [Most students report 3D-printed bones improved their anatomy viva performance and overall unit experience (80.1% and 89.2% positive)](3dp-bones-improved-viva-performance-reports.md) — related

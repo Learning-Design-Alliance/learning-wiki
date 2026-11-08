@@ -51,3 +51,4 @@ Qualitative survey responses during the field trial: a student described the dai
 - [Weekly reflections were barely used while learning goals and daily reflections dominated actual app use](weekly-reflections-barely-used-goals-daily-dominant.md) — related
 - [SEC-focused app use was limited (7 of 15 students) but involved students used the app longer and reported greater benefits](sec-focused-use-limited-but-longer-and-greater-benefit.md) — related
 - [The dominant barrier to EPAAs was high workload, and most interns could not easily fit EPAAs into their day](high-workload-dominant-barrier-to-epaas.md) — related
+- [The authors hypothesize four factors—videos, interactive questions, smartphones, and audio explanations—drove understanding, pending further study](four-hypothesized-factors-video-elearning-understanding.md) — related

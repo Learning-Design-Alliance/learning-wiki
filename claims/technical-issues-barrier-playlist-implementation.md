@@ -110,3 +110,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
 - [Trainees' main perceived challenges with the e-Learning pilot were limited computer-laboratory workspace (33%), slow internet/intranet speed (29%), and limited training of ICT staff (28%)](ghana-elearning-pilot-challenges-workspace-speed-capacity.md) — related
 - [Technological challenges, including platform access failures and unavailable resources, reduced the effectiveness of online learning](technological-challenges-reduce-online-learning-effectiveness.md) — related
+- [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related

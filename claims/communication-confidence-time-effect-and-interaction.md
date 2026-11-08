@@ -71,3 +71,4 @@ The same repeated measures ANOVA on communication confidence reported a "signifi
 - [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related
+- [Both groups improved from pre- to post-intervention, with a larger within-group effect in the intervention group](ebp-within-group-gains-both-groups.md) — related

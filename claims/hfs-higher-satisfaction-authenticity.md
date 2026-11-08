@@ -50,3 +50,4 @@ Satisfaction was a secondary outcome measured with study-specific 7-point Likert
 - [VR and HFS did not differ significantly in their effect on interns' desaturation confidence change, though the trial was not powered as a noninferiority study](no-group-difference-confidence-change.md) — related
 - [Novices training on a high-fidelity VR arthroscopy simulator report significantly greater satisfaction with instrument handling and with the overall knee arthroscopy training experience than novices on a low-fidelity simulator](high-fidelity-greater-instrument-handling-and-overall-satisfaction.md) — related
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
+- [Practitioners rate the simulation and its collaborative process as rather authentic](practitioners-rate-simulation-authentic.md) — related

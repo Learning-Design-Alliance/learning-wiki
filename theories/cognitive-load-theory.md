@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 140 claims (93 for, 36 mixed, 11 against) · 116 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 5 associational, 3 design, 1 qualitative), `q1`–`q4` · 22 of 116 report an effect size · 128 claims rest on one study
+> **Evidence** · 141 claims (94 for, 36 mixed, 11 against) · 117 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 5 associational, 3 design, 2 qualitative), `q1`–`q4` · 22 of 117 report an effect size · 129 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -211,6 +211,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Poor-quality video production increases learners' cognitive load and decreases learning gains](../claims/poor-video-quality-increases-cognitive-load.md) [+W] — attached 2026-11-07 from Krumm Ilana Roberts MD et al. (2021), which proposed "Dual-channel processing and cognitive load theory as the basis for educational video design".
 - [High state-anxiety immediately after the simulation scenario is associated with higher extraneous cognitive load, but not intrinsic load or self-perceived learning](../claims/state-anxiety-associated-with-extraneous-load.md) [~M] — attached 2026-11-08 from Fredericks Salim et al. (2021), which proposed "Cognitive load theory's three-component framework, with germane load reinterpreted as self-perceived learning, applied to simulation".
 - [The benefit of computer-assisted instruction over inquiry-based learning was larger for students with higher working memory capacity](../claims/cai-benefit-moderated-by-working-memory.md) [+W] — attached 2026-11-08 from Chevalère Johann et al. (2021), which proposed "Working memory demands account for the differential effectiveness of CAI and IBL".
+- [Talk-aloud interviews with 28 junior residents and expert physicians identified 5 thematic sources of cognitive load in trauma resuscitation videos](../claims/cinevr-talk-aloud-five-cognitive-load-sources.md) [+W] — attached 2026-11-08 from Devika Patel et al. (2020), which proposed "Cognitive Load Theory as a framework for overlaying cineVR videos with visual and auditory teaching points".
 
 ## The evidence by question
 

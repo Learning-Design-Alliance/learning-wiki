@@ -52,3 +52,4 @@ Focus group theme on family factors. One participant described supportive relati
 - [Interpersonal and social factors — mentors, peers, leaders, living pressure, social consensus and life goals — influence trainees' SDL](interpersonal-social-factors-sdl.md) — related
 - [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related
 - [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](organizational-culture-enhances-sdl-hcp.md) — related
+- [Trainees reported a favorable institutional atmosphere for EBM implementation](favorable-institutional-atmosphere-ebm.md) — related

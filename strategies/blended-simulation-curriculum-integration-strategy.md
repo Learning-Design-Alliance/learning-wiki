@@ -60,6 +60,7 @@ The review recommends embedding simulation into the fabric of surgical education
 - [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 - [Include simulation training with practice-and-feedback cycles in surgical fellowship curricula for uncommon procedures](simulation-practice-feedback-cycles-surgical-curriculum.md)
+- [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 
 ## Examples
 -

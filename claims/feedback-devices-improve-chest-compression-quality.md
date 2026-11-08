@@ -58,3 +58,5 @@ Manual chest compression tests at Resusci Anne QCPR stations with Session Viewer
 - [Feedback device use dramatically increases complete chest relaxation during simulated CPR](truecpr-feedback-increases-chest-relaxation.md) — related
 - [Real-time feedback device use increases chest compression depth by trainee doctors in simulated CPR](truecpr-feedback-increases-compression-depth.md) — related
 - [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — related
+- [Medical students and PA students differ in CPR profiles: medical students compress deeper while PA students compress faster, ventilate more, and complete more cycles](medical-vs-pa-student-cpr-profiles.md) — related
+- [QCPR-measured CPR quality rose from pre-test to post-test after retraining, in one uncontrolled pre-post study, with all numerical items nearly meeting AHA guideline targets](qcpr-numerical-data-meet-guidelines-after-retraining.md) — related

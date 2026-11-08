@@ -54,3 +54,4 @@ Ventricular fibrillation scenario with 10 teams per arm. "Time to first defibril
 - [Other timed ACLS actions (first pulse check, compressions, defibrillation, epinephrine, antiarrhythmic) did not differ significantly between RCDP and IS groups, though trends favored RCDP](rcdp-other-timed-acls-metrics-null.md) — related
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related
 - [App-guided laypersons significantly delayed the call for help and first chest compression compared with unassisted controls in a simulated cardiac arrest](app-use-delays-call-and-first-compression.md) — related
+- [In the pilot simulation study, median time to first epinephrine administration was significantly longer for teams using the PediAppRREST app than for control teams](pediaprrrest-longer-epinephrine-time.md) — related

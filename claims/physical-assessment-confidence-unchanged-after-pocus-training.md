@@ -48,3 +48,4 @@ Authors' interpretation of the null paired t-test result for question 1 in the 1
 - [Documented cannulation difficulties rose from under 2% to 5% of treatments after POCUS implementation, attributed mainly to increased reporting](cannulation-difficulty-reporting-rose-post-pocus.md) — related
 - [A four-module POCUS education programme significantly increased haemodialysis nurses' perceived confidence in ultrasound-based vascular access assessment (n = 15)](pocus-training-increases-nurse-cannulation-confidence.md) — related
 - [Nurses' self-reported comfort with ultrasound-guided PIV placement increased after asynchronous training, while comfort without ultrasound did not change](comfort-us-piv-increased-post-training.md) — related
+- [Confidence in POCUS rose from 1.5 to 3.1 on a 4-point scale after the two-day course and remained unchanged at one year (2.73)](iscan-confidence-increase-maintained.md) — related

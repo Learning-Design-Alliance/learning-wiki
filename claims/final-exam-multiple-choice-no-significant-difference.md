@@ -50,3 +50,4 @@ Comparison of mean correct responses on the 25 multiple-choice questions of the 
 - [After approximately 12 weeks of embedded support, underprepared students significantly outperformed college-ready peers on late-semester common questions](late-semester-underprepared-outperform-college-ready.md) — related
 - [After approximately 6 weeks of embedded support, underprepared students' midsemester scores were not significantly different from college-ready peers](midsemester-equivalence-after-six-weeks-support.md) — related
 - [Entrance measures confirmed the nonequivalence of underprepared and college-ready groups](entrance-measures-confirmed-nonequivalence.md) — related
+- [In the pilot, there was no difference in scores between open-ended and multiple-choice versions of the test](pilot-open-ended-mcq-no-difference.md) — related

@@ -48,3 +48,4 @@ Narrative review of comparative studies on peer-to-peer ultrasound instruction; 
 - [Peer teaching effectiveness varies by ultrasound application and student prior knowledge, with faculty favored for complex applications and novices](peer-teaching-limits-complex-applications-novices.md) — reports the opposite
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — a broader claim this one bears on
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related
+- [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — related

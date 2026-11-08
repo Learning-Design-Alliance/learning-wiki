@@ -74,3 +74,4 @@ Same regression model predicting CPR confidence; gender was entered with female 
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [Grade incentives in formative assessments were associated with student performance in one group with no comparison group (odds ratio 6.19)](grade-incentives-fa-strongest-remediation-predictor-or-6-19.md) — related
 - [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related
+- [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related

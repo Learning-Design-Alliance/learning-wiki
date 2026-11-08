@@ -48,3 +48,4 @@ Preliminary survey with ten separate undergraduate nursing students who used VEG
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Nursing students rated VEGA's overall usability at 3.62 ± 1.04 on the MARS, with information the highest domain (4.25 ± 0.87) and engagement the lowest (3.40 ± 1.09)](vega-mars-usability-pilot.md) — related
 - [Students perceived VEGA's on-demand vignette generation as compensating for limited clinical practicum opportunities](vega-unlimited-vignettes-compensate-practicum.md) — related
+- [Undergraduates reported more difficulty understanding online content and less doubt-clearing than postgraduates and faculty](undergraduates-greater-difficulty-online-content.md) — related

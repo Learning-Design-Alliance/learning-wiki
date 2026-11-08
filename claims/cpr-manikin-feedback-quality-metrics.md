@@ -56,3 +56,5 @@ Objective manikin-based metrics recorded during the 2-minute compression task in
 - [Prior theoretical coursework does not ensure adequate chest-compression quality: 89% of participants had prior pediatric CRA training yet pre-test technique was inadequate](prior-cra-coursework-insufficient-for-compression-quality.md) — a broader claim this one bears on
 - [Only 27% of students performed adequately on infant chest compressions immediately after two-hour pediatric BLS training](only-27-percent-pass-immediately-after-bls-training.md) — related
 - [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related
+- [After standard AHA BLS training, medical and PA students maintain guideline-adherent compression rate, depth, and recoil for a majority of a two-minute CPR cycle](bls-training-compressions-majority-adherent.md) — related
+- [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related

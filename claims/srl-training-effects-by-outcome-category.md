@@ -67,3 +67,4 @@ Pooled effect sizes from the same three-level meta-analysis, broken down by outc
 - [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — related
 - [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](self-regulation-training-positive-effect-university.md) — related
 - [Each training type enhances learners' use of its own strategy category: memory training raises memory-strategy use and cognitive training raises cognitive-strategy use](strategy-training-enhances-matching-strategy-use.md) — related
+- [Academic motivation positively predicts metacognitive strategies and critical thinking, which positively predict academic performance](motivation-predicts-strategies-thinking-which-predict-performance.md) — related

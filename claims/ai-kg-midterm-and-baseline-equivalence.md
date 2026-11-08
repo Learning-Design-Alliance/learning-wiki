@@ -67,3 +67,4 @@ Table 1 of the cluster-randomized trial reports baseline prerequisite (Human Ana
 - [Students taught with Tronclass plus team-based learning scored higher on the Mid-term than the previous cohort](tronclass-tbl-cohort-higher-midterm-grades.md) — related
 - [First theoretical assessment showed no significant difference among the four groups, indicating equivalent baseline learning ability](baseline-theoretical-scores-equivalent.md) — related
 - [The Study Smart cohort showed greater knowledge growth across exams than the prior, untrained cohort](study-smart-cohort-greater-exam-growth.md) — related
+- [Simulation participants also scored higher on the pulmonary physiology section of the block test](sbe-higher-pulmonary-physiology-section-scores.md) — related

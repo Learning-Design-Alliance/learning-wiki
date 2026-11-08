@@ -45,7 +45,8 @@ The authors recommend that family medicine residency programs add radiology trai
 - [Diagnostic confidence correlates positively with diagnostic accuracy in chest X-ray interpretation](../claims/cxr-confidence-accuracy-correlation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement a unified emergency imaging course across medical schools and ensure life-threatening chest X-ray interpretation is taught in all radiology rotations](unified-emergency-imaging-course-strategy.md)
 
 ## Examples
 -

@@ -42,7 +42,8 @@ From their implementation experience the authors recommend supplementing the ten
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](../claims/orthotrainer-sus-and-olrs-favourable.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Keep smartphone e-learning videos short and ensure good Internet access so they stream smoothly on any device](keep-elearning-videos-short-smooth-streaming.md)
 
 ## Examples
 -

@@ -134,6 +134,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Combine real SPs for doctor-patient communication with virtual scenarios for clinical examination](hybrid-sp-virtual-scenario-osce-strategy.md)
 - [Use reviewing medical records, discussions with physicians, VR-based programs, and bedside practice to prepare healthcare professionals for pre-treatment services](records-discussion-vr-bedside-preparation-strategy.md)
 - [Teach with simulated patients before bedside teaching in pain-medicine training](simulation-before-bedside-teaching-strategy.md)
+- [Multi-level preparation strategy for converting SP cases to digital delivery](sp-case-digital-conversion-preparation-strategy.md)
 
 ## Examples
 -

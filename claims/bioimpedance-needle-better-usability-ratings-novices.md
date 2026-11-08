@@ -69,3 +69,4 @@ In the same SUS-based usability questionnaire administered after the phantom LP,
 - [Successful lumbar punctures performed with the bioimpedance needle involve fewer stylet removals than those performed with the conventional spinal needle](bioimpedance-needle-fewer-stylet-removals.md) — related
 - [The duration of successful lumbar punctures does not differ significantly between the bioimpedance and conventional needles](no-significant-duration-difference-bioimpedance-needle.md) — related
 - [The number of attempts to achieve lumbar puncture success does not differ significantly between the bioimpedance and conventional needles](no-difference-attempts-bioimpedance-vs-conventional.md) — related
+- [No difference between simulation and control groups in students' subjective experience or number of puncture attempts at first real LP](lp-simulation-no-difference-experience-attempts.md) — related

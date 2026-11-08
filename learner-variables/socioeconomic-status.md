@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 279 claims (151 show a difference, 64 mixed, 64 no difference) · 208 studies (92 associational, 81 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 208 report an effect size · 278 claims rest on one study
+> **Evidence** · 280 claims (151 show a difference, 64 mixed, 65 no difference) · 209 studies (93 associational, 81 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 209 report an effect size · 279 claims rest on one study
 
 ## How to read this page
 
@@ -364,6 +364,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Intervention effects on cognitive and mental health outcomes were not significantly moderated by sex, socioeconomic status or baseline cardiorespiratory fitness](../claims/fit-to-study-null-moderators.md) [-M] — an instructional effect differs by group
 - [Lower family income is associated with higher parental economic stress about needs and wants and lower parental SSS](../claims/income-parent-stress-sss.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Parent and youth economic perceptions are selectively linked: needs worries align, parent wants worries relate to lower youth SSS, but parent and youth SSS are unrelated](../claims/parent-youth-perception-links.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Family income shows no association with academic performance in this sample once governmental class and other covariates are controlled](../claims/family-income-null-academic-performance-india.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

@@ -53,6 +53,7 @@ The article's recommendation section proposes concrete school-level actions base
 - [Provide counselling services and an academically supportive environment for LGBTQ+ college students](counselling-and-academic-support-lgbtq-students.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Organize mindfulness and adaptability courses and workshops for university students, especially new students](mindfulness-adaptability-workshops-strategy.md)
+- [Implement educational programmes that enrich university class dynamics so students feel more motivated and can channel academic stress positively](enrich-class-dynamics-programmes-stress-motivation.md)
 
 ## Examples
 -

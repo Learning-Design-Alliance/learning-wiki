@@ -78,3 +78,5 @@ Same SET-M post-simulation survey. The article reports "94%, N = 15" strongly ag
 - [Trainees report increased confidence as aesthetic practitioners and increased motivation to learn injection techniques after 3D simulation training](3d-simulation-app-confidence-motivation-perceptions.md) — related
 - [Second-year nursing students who received empathy mapping with mini-simulation showed significantly higher post-test communication self-confidence than controls](empathy-mapping-mini-simulation-higher-communication-confidence.md) — related
 - [Nearly all simulation participants agreed they could provide ALS more confidently in their future careers, and rated the training 4.88 of 5](high-satisfaction-confidence-after-als-simulation.md) — related
+- [Managers perceive that nurses need confidence in their practical role before they can lead, distribute and prioritise work](confidence-before-leadership-nurses.md) — related
+- [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related

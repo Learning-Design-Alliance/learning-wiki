@@ -203,6 +203,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Run short report-based debriefing sessions in which coach and coachee pinpoint problems and set improvement plans for the next case](../strategies/report-based-debriefing-improvement-plan-strategy.md)
 - [Run compared simulation conditions on separate days with debriefing to limit carryover of stress between sessions](../strategies/separate-days-debriefing-between-simulation-conditions.md)
 - [Use a two-step debriefing process: immediate written self-debrief followed by a large group debrief](../strategies/two-step-self-then-group-debrief-vgs.md)
+- [Two-question structured debriefing after each simulation scenario](../strategies/two-question-structured-debriefing-strategy.md)
 
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)

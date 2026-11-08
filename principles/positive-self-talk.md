@@ -26,7 +26,7 @@ sources:
 # Positive Self-talk
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 7 mixed) · 22 studies (8 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 7 of 22 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 23 studies (9 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 7 of 23 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Claims bearing on self-talk that the earlier page did not cite and that are not 
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](../claims/private-speech-associated-l2-development-motivation.md) [+W]: one small self-report study, described in an interview, in which interested language students reported more L2 private speech than requirement-enrolled ones; associational, and says nothing about teaching self-talk.
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](../claims/self-affirmation-improves-outcomes.md) [~M]: another brief self-directed exercise whose effects proved fragile at scale; a caution on single-session psychological interventions, not a test of self-talk.
 - [Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.](../claims/cognitive-versus-behavioural-coaching-differential-effects.md) [~M]: a dissertation with trainee accountants in which cognitive-only coaching (not described as self-talk) reduced anxiety while performance fell relative to control; a reminder that changing how learners think about a task need not change performance. Its content is not described closely enough to say how far it bears on self-talk.
+- [Effort self-talk, compared to no self-talk, benefited the mathematics performance of children with negative competence beliefs](../claims/effort-self-talk-benefits-negative-competence-beliefs-math.md) [+W] — attached 2026-11-08 from Thomaes et al. (2020), which proposed "Prompt children with negative competence beliefs to engage in effort self-talk before and during challenging mathematics work"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -51,3 +51,4 @@ Downstream pilot of the full workshop (didactic, simulation with competency rubr
 - [Knowledge and confidence improvements show no significant differences among specialties](menopause-simulation-no-specialty-differences.md) — related
 - [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — related
 - [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related
+- [Users reported technical difficulties — low resolution (n = 17), irregular audio (n = 9), and dizziness after use — that qualify the simulation's usability.](360-vr-technical-difficulties-dizziness.md) — related

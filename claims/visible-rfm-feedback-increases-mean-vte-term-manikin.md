@@ -51,3 +51,4 @@ Paired t-test with BCa bootstrap estimates comparing hidden versus visible condi
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly reduced breath-to-breath variability in tidal volume and mask leak](visible-rfm-feedback-reduces-ventilation-variability-preterm.md) — related
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly increased the proportion of breaths with leak≤30%](visible-rfm-feedback-increases-low-leak-breaths-preterm.md) — related
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — reports the opposite
+- [After BLS training, students fail to meet AHA ventilation guidelines: fewer than half of ventilations deliver adequate tidal volume and missed ventilations average 2.2 per cycle](bls-training-ventilation-inadequate.md) — related

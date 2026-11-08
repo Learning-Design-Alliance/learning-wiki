@@ -51,3 +51,4 @@ Authors' interpretation from the Discussion of the randomized study: without beh
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — a broader claim this one bears on
 - [The authors recommend longer-term use of integrated STEM education and process-oriented assessment to clarify its effects on achievement](longer-term-integrated-stem-process-oriented-assessment-recommendation.md) — related
 - [Students' impressions of what improves their learning may not align with actual learning outcomes](student-perceptions-misalign-with-actual-learning.md) — related
+- [Behavioral marker systems offer greater objectivity than self-report but are more resource intensive](behavioral-marker-systems-objective-but-costly.md) — related

@@ -51,3 +51,4 @@ Inductive thematic analysis across the review's 27 articles; the review reports,
 - [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
 - The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies — related
 - [Dialogic leadership is associated with increased social cohesion, including social unity, lasting friendships and greater community involvement](dialogic-leadership-increases-social-cohesion.md) — related
+- [Teachers taught for social cohesion through inclusive environments, culturally inclusive pedagogies, heterogeneous cooperative groupings, and developing personal and social responsibility](teaching-social-cohesion-hpe-practices.md) — related

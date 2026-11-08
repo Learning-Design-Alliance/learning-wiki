@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (84 show a difference, 26 mixed, 9 no difference) · 94 studies (35 associational, 17 causal, 15 review, 9 qualitative, 8 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 94 report an effect size · 114 claims rest on one study
+> **Evidence** · 123 claims (87 show a difference, 26 mixed, 10 no difference) · 96 studies (37 associational, 17 causal, 15 review, 9 qualitative, 8 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 96 report an effect size · 118 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -163,6 +163,10 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Accessing the course via PC/laptop versus tablet/smartphone predicted the problem solving score, but not the total medical statistics score](../claims/access-device-predicts-problem-solving-not-total-score.md) [~M] — learners who differ on it differ in outcomes
 - [The Super Divya platform was largely accessible on phones, but internet connectivity and device capability were cited concerns for distribution to Nurse Mentors](../claims/super-divya-accessibility-connectivity-concerns.md) [~M] — measured as an outcome of the instruction studied
 - [Poor internet connectivity and device incompatibility limited access to online courses for students in developing countries during COVID-19](../claims/poor-connectivity-blocked-online-access-developing-countries.md) [+M] — measured as an outcome of the instruction studied
+- [Mild hearing impairment is associated with lower Year 3 Writing and Spelling scores in remote-living Aboriginal children](../claims/mild-hi-lower-writing-spelling-naplan.md) [+M] — learners who differ on it differ in outcomes
+- [Moderate or worse hearing impairment is associated with lower Year 3 Writing and Numeracy scores in remote-living Aboriginal children](../claims/moderate-worse-hi-lower-writing-numeracy.md) [+M] — learners who differ on it differ in outcomes
+- [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](../claims/connectivity-timing-hindrances-online-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Unilateral hearing loss shows no evidence of association with Year 3 academic outcomes](../claims/unilateral-hl-no-association-naplan.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

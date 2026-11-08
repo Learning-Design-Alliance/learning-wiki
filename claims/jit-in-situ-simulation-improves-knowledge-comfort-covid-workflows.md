@@ -51,3 +51,6 @@ Pre/post survey of 110 of 428 simulation participants (25.7%) using 1-tailed sig
 - [Free-text responses showed appreciation for training that was timely, hands-on, and interprofessional, alongside logistical and organizational limitations](qualitative-themes-jit-simulation-value-and-limitations.md) — related
 - [Nursing staff showed larger knowledge and comfort gains than anesthesia and surgery in the airway management drill](nursing-larger-gains-airway-management-drill.md) — a narrower finding that bears on this claim
 - [Daily feedback from simulation drills drove iterative improvement: simulation materials were modified 7 times and more than 20 amendments were made to organizational SOPs](simulation-feedback-drove-iterative-sop-improvement.md) — related
+- [Simulation comfort gains did not differ significantly between providers who had and had not previously performed an AGP on a suspected COVID-19 patient](insitu-sim-comfort-gain-independent-of-prior-agp.md) — related
+- [In-situ simulation significantly increases physician comfort with PPE donning and doffing for COVID-19 aerosol-generating procedures](insitu-sim-ppe-comfort-gain.md) — related
+- [In-situ simulation significantly increases physician comfort in understanding their role in COVID-19 airway management](insitu-sim-role-comfort-gain.md) — related

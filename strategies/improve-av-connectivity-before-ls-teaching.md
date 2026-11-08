@@ -45,6 +45,7 @@ The authors recommend concrete improvements before using first-person–view liv
 - [Use multi-camera close-ups and point-of-view shots during live-streamed clinical demonstrations to enhance visibility](multi-camera-live-streamed-demonstration-strategy.md)
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
 - [Invest in high-quality prescripted vodcasts and consider combining vodcasts with live teaching (e.g., flipped classroom)](high-quality-vodcasts-flipped-combination.md)
+- [Keep smartphone e-learning videos short and ensure good Internet access so they stream smoothly on any device](keep-elearning-videos-short-smooth-streaming.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Usability survey item completed by 14 final-year students, reported in the surve
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Only half of students could clearly tell the AI-generated videos were AI-generated, the item with the highest variance](half-students-could-not-detect-ai-videos.md) — related
 - [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](rejection-of-ai-replacing-instructor-expertise.md) — related
+- [Only 15% of surveyed Indian medical respondents felt online classes were better than classroom teaching, with most disagreeing or neutral](online-classes-not-preferred-over-classroom-15-percent.md) — related

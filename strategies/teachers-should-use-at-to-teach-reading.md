@@ -45,6 +45,7 @@ The article recommends that "Teachers of CHI should be able to use A T to teach 
 
 - [All children with hearing impairment should be exposed to auditory training skills.](all-chi-exposed-to-at-skills.md)
 - [Teacher preparation institutions should incorporate auditory training into their course contents.](institutions-incorporate-at-training.md)
+- [Support hearing-impaired students through classroom sound amplification, improved acoustics and teacher training](classroom-supports-for-hearing-impaired-students.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Independent t-tests comparing each reader's mean DSC between rounds 1 and 3 were
 - [Novices show learning progress in prostate MRI segmentation across feedback rounds but remain less accurate than residents](novice-segmentation-learning-progress.md) — related
 - [Segmentation accuracy varies more among novices than among radiology residents, in the cases each group segmented](novice-inter-reader-variability-higher.md) — related
 - [Prostate segmentation accuracy is highest in the mid-gland and lower in the apex and base](segmentation-accuracy-varies-by-prostate-region.md) — related
+- [Technologists' segmentation similarity metrics and proportion of accurate segmentations did not differ significantly between the first and second batches in one uncontrolled pre-post study after supplementary training](supplementary-training-no-significant-metric-change.md) — related

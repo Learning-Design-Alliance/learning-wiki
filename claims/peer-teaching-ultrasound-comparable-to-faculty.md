@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 sources:
   - id: winter-lone-2024
     resource: "https://doi.org/10.1186/s12909-024-06345-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among six comparative studies, five found peer-assisted learning comparably effective and one found it better than faculty-led courses. [→ Winter Lone 2024](#winter-lone-2024)
@@ -54,3 +55,4 @@ Systematic review synthesis of six comparative studies of peer- versus faculty-l
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related
 - [Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge](peer-tutors-comparable-outcomes-ultrasound.md) — a narrower finding that bears on this claim
+- [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — a narrower finding that bears on this claim

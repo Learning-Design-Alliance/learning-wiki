@@ -59,3 +59,4 @@ ICC analysis of MUL measurements by two independent faculty members on the 20 te
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
 - [XR-based POCUS training is non-inferior to standard training for TAPSE measurement accuracy](xr-training-non-inferior-tapse.md) — related
 - [XR-based POCUS training is non-inferior to standard training for EPSS measurement accuracy](xr-training-non-inferior-epss.md) — related
+- [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related

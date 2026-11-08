@@ -67,3 +67,4 @@ Descriptive statistics from Table 2 of the same survey show interns' attitude me
 - [PGY trainees spend less daily self-directed learning time after work than medical interns, alongside differences in hospital level](pgy-less-self-directed-learning-time.md) — related
 - [Self-efficacy shows weak or negative associations with digital learning attitude domains, unlike other motivational dimensions](self-efficacy-weak-negative-attitude-correlations.md) — related
 - [Learning environment incentives show the strongest positive correlation with learning attitude among motivational dimensions](env-incentives-strongest-attitude-correlation.md) — related
+- [For 52% of participating GP-trainees the attitude towards e-learning changed positively through participation in the digital seminars.](positive-attitude-change-e-learning-trainees.md) — related

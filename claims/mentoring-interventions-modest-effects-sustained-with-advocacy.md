@@ -48,3 +48,4 @@ A meta-analysis of 73 independent evaluations of mentoring program effects found
 - [Psychosocial interventions for low-income urban youth are more effective when delivered in community-based settings than within schools.](community-based-interventions-more-effective-than-school-based-in-urban-poverty.md) — related
 - [Coping interventions moderately predict positive youth outcomes overall, but effects are larger for social and behavioral outcomes than academic outcomes and deteriorate at follow-up.](coping-interventions-moderate-effects-deteriorate-over-time.md) — related
 - [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](mentor-modeling-shapes-novice-advocacy-beliefs.md) — related
+- [Mentoring relationship quality, not just mentor access, was significantly associated with youth outcomes](mentoring-relationship-quality-youth-outcomes.md) — related

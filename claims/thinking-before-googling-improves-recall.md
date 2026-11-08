@@ -51,3 +51,4 @@ Randomized two-condition experiment with 104 undergraduates (52 per group) searc
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — related
 - [A 10-minute pre-testing review improves multiple-choice performance in all three learning conditions](pre-testing-review-additive-benefit.md) — related
+- [Students who first answered without ESR eGUIDE improved significantly when subsequently using it](eguide-improvement-after-unaided-first-set.md) — related

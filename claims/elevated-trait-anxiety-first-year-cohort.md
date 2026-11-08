@@ -54,3 +54,4 @@ Trait anxiety measured weeks before the first simulation with the STAI-T among 5
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
 - [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related
 - [Most participants with elevated pre-simulation anxiety scores fell below the elevated-anxiety cut-off at 3 months](elevated-anxiety-participants-below-cutoff-at-3-months.md) — related
+- [A high proportion of physical therapy students showed high trait anxiety before an OSCE, with trait anxiety scores significantly elevated above normative values](osce-students-high-trait-anxiety-elevated.md) — related

@@ -53,6 +53,7 @@ Because online teaching could not fully replace face-to-face teaching for clinic
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
+- [Improve platform technical support and academic-related interactions, and use blended learning with virtual simulation for students in higher learning phases](platform-support-interactions-virtual-simulation-strategy.md)
 
 ## Examples
 -

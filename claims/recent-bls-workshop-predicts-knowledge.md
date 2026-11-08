@@ -62,3 +62,4 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Younger nurses (<20 years) had significantly higher odds of NCI-prevention knowledge than nurses aged 20–40 and 41–60, contrary to prior literature](younger-nurses-higher-nci-knowledge-odds.md) — related
 - [Prior BLS knowledge was not associated with the probability of registering for a practice session, obtaining a certificate, or enlisting as a first responder](prior-bls-knowledge-not-associated-participation.md) — related
 - [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related
+- [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related

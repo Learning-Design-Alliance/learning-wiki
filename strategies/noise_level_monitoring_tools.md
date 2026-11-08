@@ -77,9 +77,11 @@ The tools work primarily as an antecedent stimulus and feedback mechanism: a vis
 5. Fade the display over time — run it intermittently or remove it — so students internalize the standard rather than depending on the external cue [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the broader environmental design problem; monitoring tools are one tactic within it
 - [Group Contingencies](group-contingencies.md) — pairing the display with a shared reward or consequence strengthens the signal's motivational force
 - [Check-In](../elements/check-in.md) — a low-cost reset routine to pair with threshold alerts
+- [Support hearing-impaired students through classroom sound amplification, improved acoustics and teacher training](classroom-supports-for-hearing-impaired-students.md)
 
 ## Examples
 - **Bouncy Balls** (https://bouncyballs.org) — free browser tool; animated balls bounce higher as noise rises, giving even young children an intuitive volume cue.

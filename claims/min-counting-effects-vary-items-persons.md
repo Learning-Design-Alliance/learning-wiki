@@ -49,3 +49,4 @@ Model 2 added random slopes for min-counting to the crossclassified EIRT model o
 - [A minority of adolescents were model-predicted to benefit greatly from min-counting yet used it significantly less often than peers and scored about one standard deviation below average in broad math achievement](min-benefiters-low-achievement-immature-strategies.md) — related
 - [Min-counting becomes increasingly maladaptive as addition problem sizes increase](min-counting-maladaptive-larger-problems.md) — a narrower finding that bears on this claim
 - [EIRT addition-strategy parameters show convergent validity with broad mathematics achievement (R² = .42) but not reading efficiency (R² = .08)](eirt-parameters-math-not-reading-validity.md) — related
+- [Peer-evaluated effectiveness shows significant slope variance across participants, whereas self-reported effectiveness shows no significant development across rounds](barnga-slope-variance-outcome-difference.md) — related

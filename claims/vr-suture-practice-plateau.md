@@ -60,3 +60,4 @@ Analysis of the five training results and final test across 26 students (Table 1
 - [Residents achieved DaVinci Skills Simulator targets after a median of 3 repetitions and about 8 hours of VR training](rostrac-vr-training-targets.md) — related
 - [Total suture scores improved over the training sessions in both groups](scores-improved-over-training-sessions-both-groups.md) — related
 - [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related
+- [Learning curves on the VR hysterectomy module plateau after the third training session for time, path length and number of movements](vr-hysterectomy-module-learning-curve-plateau-third-session.md) — related

@@ -54,3 +54,4 @@ Observational analysis of Excerpt 2 in the description phase, where the facilita
 - [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](merged-technical-understanding-minecraft-nomenclature.md) — related
 - [Educators used social networks to guide reflection on engagement, roles, and shared mindset during debriefing](educators-used-social-networks-for-engagement-roles-reflection.md) — related
 - [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related
+- [Qualitative analysis of 18 mentors identifies 4 distinct mentoring positions: facilitator, coach, monitor, and exemplar](four-mentoring-positions-facilitator-coach-monitor-exemplar.md) — related

@@ -50,3 +50,4 @@ Countywide need 4 as printed in the Executive Summary needs table, derived from 
 - [Community engagement for the needs assessment reached nearly 630 community members who provided over 1,400 points of collected data](yolo-engagement-630-members-1400-data-points.md) — related
 - [Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities](listening-session-shared-findings-themes.md) — related
 - [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related
+- [Cross-sector professional learning communities aligned SEL between school day and expanded learning organizations](pcy-360-365-plc-evaluation-strengths.md) — related

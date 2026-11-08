@@ -51,3 +51,4 @@ Network analysis of a cross-sectional survey of clinical nurses using a self-des
 - [Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection](students-lack-antimicrobial-prescribing-competence.md) — related
 - [Final-year medical students show a general lack of preparedness, self-confidence, knowledge and skills for prescribing, especially in general and antimicrobial prescribing and pharmacovigilance](final-year-students-insufficient-prescribing-competencies.md) — related
 - [General Physical Examination is the most central OSCE node by expected influence, followed by Pediatric Skills and Gynecological Obstetrical Skills](general-physical-examination-highest-expected-influence.md) — related
+- [No recorded incidents of participant harm resulted from structured clinical debriefing, and 37 of 71 teams documented it as useful](clinical-debriefing-no-recorded-harm.md) — related

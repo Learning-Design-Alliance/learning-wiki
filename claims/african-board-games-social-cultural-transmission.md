@@ -65,3 +65,4 @@ The review reports, citing de Voogt (2017a, 2017b) and de Voogt et al. (2013), t
 
 ## Related Claims
 - [Classic African board games function as learning spaces where multidomain learning occurs](classic-african-board-games-learning-spaces.md) — a broader claim this one bears on
+- [Teachers taught for social cohesion through inclusive environments, culturally inclusive pedagogies, heterogeneous cooperative groupings, and developing personal and social responsibility](teaching-social-cohesion-hpe-practices.md) — related

@@ -47,3 +47,4 @@ Analysis of first-session videos from all 6 participants, with scores averaged a
 ## Related Claims
 - [Prior years of surgical practice correlated with faster and higher-quality anastomoses overall, but this influence was no longer detectable by the third session](prior-experience-correlation-fades-by-session-three.md) — related
 - [Simulator-generated analytic scores correlate moderately and significantly with blinded human OSATS assessments of single surgical knot performance](simulator-analytic-scores-correlate-osats.md) — related
+- [Passing the one-year hands-on test correlated with number of clip uploads (r = 0.85), attendance at hands-on teaching sessions (r = 0.7), and attendance at monthly conferences (r = 0.5)](iscan-clip-uploads-hands-on-attendance-correlate-success.md) — related

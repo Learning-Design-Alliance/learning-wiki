@@ -55,3 +55,4 @@ Linear regression of age 16 GCSE capped points score on school enjoyment in the 
 - [School enjoyment at age 6 shows no clear socioeconomic patterning by parental occupational class or maternal education](no-socioeconomic-patterning-school-enjoyment.md) — related
 - [Children who enjoyed school at age 6 were more likely to obtain 5+ A*-C GCSEs including English and Maths, though the adjusted association was marginal](school-enjoyment-age6-five-a-c-gcses.md) — related
 - [Children who reported the strongest relationships with their teachers were over nine times as likely to report enjoying school](teacher-relationship-strongly-associated-enjoyment.md) — related
+- [Parental enjoyment is negatively associated with English GCSE grades at age 16, independent of stimulation and teaching](enjoyment-negatively-associated-english-grades.md) — related

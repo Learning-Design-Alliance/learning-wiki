@@ -49,6 +49,7 @@ The summary recommends that LLI Interventionists receive formal 3-day LLI traini
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
 - [Run an after-school literacy tutoring program pairing an existing after-school site, a structured scripted curriculum, and service-learning college student tutors](service-learning-after-school-tutoring-model.md)
 - [Formalize peer tutoring through clear program structures, tutor training in pedagogy and communication, and recognition or incentives](structured-peer-tutoring-program-support.md)
+- [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
 
 ## Examples
 -

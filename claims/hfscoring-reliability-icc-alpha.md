@@ -74,3 +74,4 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related
 - [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related
 - [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — a narrower finding that bears on this claim
+- [The purpose-developed portrayal instrument showed good inter-rater reliability, with ICCs of 0.62–0.82 across assessor pairs](portrayal-instrument-good-inter-rater-reliability.md) — related

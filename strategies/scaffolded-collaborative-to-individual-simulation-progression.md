@@ -63,6 +63,7 @@ The article recommends that collaborative simulation "should not be restricted t
 - [Use short, gamified low-cost simulation tasks as an introductory pre-clinical training method before real laparoscopic exposure](gamified-low-cost-simulation-before-real-laparoscopy.md)
 - [Repeatedly expose medical students to high-fidelity simulation to build psychological stability before clinical encounters](repeated-high-fidelity-simulation-exposure-strategy.md)
 - [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
+- [Embed peer simulation with targeted portrayal education as a lower-cost alternative to simulated-patient SBE](embed-peer-simulation-with-portrayal-education-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Czech path model: PSS negatively predicted coping with study demands (B = -0.26 
 - [Czech students' variables formed a complex interacting network whereas Chinese students' effects on academic achievement were separated into distinct clusters](network-versus-clustered-country-patterns.md) — related
 - [Extraversion, Agreeableness, and Conscientiousness are positively associated with non-performance and performance components of academic achievement](personality-traits-academic-achievement-paths.md) — related
 - [Resilience is positively related to non-performance components of academic achievement, but only for Czech students](resilience-positive-nonperformance-czech-only.md) — related
+- [Teacher psychological control positively predicts academic stress while autonomy support negatively predicts it in university students](teacher-psychological-control-positively-predicts-academic-stress.md) — related

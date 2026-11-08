@@ -80,3 +80,8 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [At 4-week follow-up, intervention-group clerks more often applied the acquired skills and reported more satisfied patients, with better retention](oscar-followup-transfer-retention.md) — related
 - [TBL students maintain clinical reasoning scores above the accomplishment rate at 2 weeks while LBL students fall below it](tbl-maintains-clinical-reasoning-above-accomplishment-rate.md) — related
 - [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related
+- [Knowledge declined significantly in both groups at seven months, with a significantly more marked decrease in the traditional group](als-knowledge-decline-more-marked-traditional.md) — related
+- [Student confidence in focused PE skills declined at 4-month follow-up to below both pre- and postsession levels](hdpe-confidence-decline-four-months.md) — reports the opposite
+- [Dementia knowledge increased after training in both groups, but at three months only the intervention group's knowledge gain remained significant](knowledge-gain-fades-in-control-group.md) — related
+- [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
+- [Perceived value of and interest in the simulation was high immediately post-session but declined significantly at 4 and 8 months](simulation-interest-declines-months.md) — related

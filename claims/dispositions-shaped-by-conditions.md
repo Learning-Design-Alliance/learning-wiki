@@ -76,3 +76,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Creating a community context with mediational tools toward a genuine purpose for writing is more effective than fixing individual writing attitudes](community-context-writing-attitudes.md) — a narrower finding that bears on this claim
 - [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related
 - [Learner behaviour is self-organised and emergent, so learning paths are nonlinear and individual](self-organisation-emergent-clinical-learning.md) — related
+- [Effective online teaching requires viewing learners as active, capable, and independent individuals rather than passive recipients](independent-learners-online-teaching-perspective.md) — related

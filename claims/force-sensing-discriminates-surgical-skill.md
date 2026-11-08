@@ -72,3 +72,4 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Force parameters decrease over trials for novices and experts but not intermediates](force-decrease-learning-curve-novices-experts-only.md) — related
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — a narrower finding that bears on this claim
 - [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — related
+- [Machine learning applied to virtual reality simulation data can automatically differentiate surgical expertise and provide feedback on operative performance](ml-differentiates-surgical-expertise-vr.md) — related

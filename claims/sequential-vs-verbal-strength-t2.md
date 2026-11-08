@@ -50,3 +50,4 @@ Discussion of the SEM results comparing the three relationships in the fitted mo
 - [Math achievement at the end of second grade is predicted by fluid intelligence, verbal working memory, and prior math achievement](math-achievement-t2-predictors.md) — related
 - [Spatial–sequential working memory remains influential in 9–10-year-olds beyond the age at which the declarative shift from visuospatial to verbal reliance is predicted (around 7 years)](sequential-wm-past-declarative-shift.md) — related
 - [All correlations between working memory measures and mathematics at both time points are statistically significant](wm-math-correlations-all-significant.md) — related
+- [The EI intervention improves mathematics performance in the first year, and the gain is maintained through the second year, while the comparison group shows no change](edi-intervention-improves-mathematics-performance.md) — related

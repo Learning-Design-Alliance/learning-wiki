@@ -51,3 +51,4 @@ In the L3 stage of the RCT, the stepwise CBME group had significantly shorter op
 - [Stepwise CBME training improves multiple secondary outcome measures across all three training stages](stepwise-cbme-improves-secondary-outcomes.md) — related
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — related
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
+- [Simulator training did not significantly reduce operative time, and showed no difference in blood loss or direct complications](simulator-training-no-significant-difference-operative-time-blood-loss.md) — related

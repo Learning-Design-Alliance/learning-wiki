@@ -87,6 +87,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Adopt blended learning combining e-learning with traditional classrooms for medical education amid crises](blended-learning-medical-education-crisis-strategy.md)
 - [Implement the validated otoscopy simulator as a complementary tool alongside traditional teaching in medical curricula](vr-otoscopy-simulator-complementary-curriculum-strategy.md)
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
+- [Incorporate blended learning into the dental curriculum by combining the best features of classroom and distance learning](blended-learning-dental-curriculum-strategy.md)
+- [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 
 ## Examples
 -

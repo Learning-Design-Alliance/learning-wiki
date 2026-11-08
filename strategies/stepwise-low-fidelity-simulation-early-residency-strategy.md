@@ -48,6 +48,7 @@ The article recommends a structured residency curriculum that begins with low-fi
 
 - [Formally integrate intensive simulation-based surgical education into ophthalmology residency programmes as a complement to conventional teaching](formal-integration-sbse-ophthalmology-residency.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
+- [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
 
 ## Examples
 -

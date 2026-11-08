@@ -57,3 +57,4 @@ The authors' interpretive argument in the Discussion, contrasting VDT practice w
 - [Students favoured practical, hands-on experience over lecture-based tutorials and saw simulation, including VR, as a safe way to practise without consequences for real patients.](practical-experience-preferred-over-lectures.md) — related
 - [Digital visualization of structures that are hard to see on body donors improved the quality of preparation in dissection courses](digital-visualization-improves-dissection-quality.md) — related
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
+- [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — a broader claim this one bears on

@@ -54,3 +54,4 @@ Descriptive participant-characteristic reporting for all 14 participating precep
 - [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — related
 - [Certified preceptors' open-ended feedback most frequently cited standardized teaching processes (49.0%), knowledge consolidation (46.2%), and professional recognition (37.2%), with 62.8% calling for stronger pre-assessment training](open-ended-feedback-standardization-and-training-needs.md) — related
 - [Medical students receive little or no formal teacher training before peer teaching assignments in the undergraduate curriculum](no-formal-training-peer-teachers-medical-curriculum.md) — related
+- [Most participating Nigerian health workers had no previous formal spirometry training](majority-no-prior-spirometry-training.md) — related

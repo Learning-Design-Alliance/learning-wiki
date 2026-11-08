@@ -54,3 +54,4 @@ Single-arm pre-post study of 17 primary care clinicians (8 physiotherapists, 9 A
 - [Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts](pr-training-largest-gains-core-delivery-competencies.md) — related
 - [Clinicians' self-reported confidence in managing tobacco use disorder rose from baseline to after a 13-day SMS microlearning series, with a statistically significant pre-post change, in a single-arm pre-post pilot](sms-microlearning-increased-tobacco-confidence-pilot.md) — related
 - [Weight-related communication skills scores rose from pre-test to post-test among health care professionals in one uncontrolled pre-post study of VITAL-COMS training](vital-coms-improved-self-assessed-communication-skills.md) — related
+- [A one-day hands-on spirometry training workshop significantly improved health workers' spirometry knowledge scores](one-day-spirometry-workshop-improved-knowledge.md) — related

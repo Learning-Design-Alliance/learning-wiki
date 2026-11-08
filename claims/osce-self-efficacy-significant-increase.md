@@ -50,3 +50,4 @@ Wilcoxon signed-rank pre-post comparison of self-efficacy scores among 48 occupa
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — related
 - [Professional identity and self-efficacy were positively correlated before OSCE (r = .354)](pi-self-efficacy-correlation-before-osce.md) — related
 - [CALD occupational therapy students experience both heightened anxiety and personal-professional growth in high-fidelity simulation-based learning](cald-ot-students-fear-and-growth-in-sbl.md) — related
+- [Self-efficacy scores showed a moderate, significant direct correlation with physical therapy students' OSCE performance](osce-self-efficacy-correlates-with-performance.md) — related

@@ -48,3 +48,4 @@ Narrative review attributing this to Koriat et al. (2002) on judgments of learni
 - [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](study-test-practice-reduces-foresight-bias.md) — related
 - [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related
 - [Calibration of JOLs shifts toward underconfidence across learning cycles for action phrases under both verbal and enactive encoding, without first-cycle overconfidence](uwp-underconfidence-shift-action-phrases.md) — related
+- [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related

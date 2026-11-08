@@ -80,3 +80,4 @@ The review's thematic synthesis of challenges across the included studies identi
 - [Faculty in the reported study paradoxically valued virtual care for patients but were reluctant to involve learners in it](faculty-paradox-vc-valuable-patients-not-learners.md) — related
 - [Desktop VR and face-to-face simulation with simulated patients produce no significant difference in psychological stress responses during team training for clinical deterioration](desktop-vr-similar-psychological-stress-to-face-to-face-simulation.md) — related
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
+- [Students judge conventional simulation training unrealistic, confined to pre-established scenario behaviors, and variable in effectiveness across instructors](conventional-simulation-unrealistic-instructor-variability.md) — related

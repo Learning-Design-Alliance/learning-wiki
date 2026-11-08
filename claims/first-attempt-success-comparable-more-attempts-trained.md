@@ -51,3 +51,4 @@ Puncture success outcomes recorded for students' first clinical arterial punctur
 - [Compared with students receiving no prior training, structured-training students report lower apprehension about causing pain but lower postprocedure satisfaction](sensitivity-analysis-pain-apprehension-satisfaction.md) — related
 - [Mental imagery reduces procedural complications and the number of skin punctures in simulated PVC insertion](mental-imagery-complications-punctures-pvc.md) — related
 - [Nursing students trained with NIR light visualization achieved the highest first-attempt PVC success rate (67.3%) compared to isometric exercise (40%) and control (29.2%) groups](nir-visualization-highest-first-attempt-pvc-success.md) — related
+- [Simulation-trained residents show higher first-attempt arterial puncture success, shorter puncture time and higher patient comfort, with no difference in complications](st-arterial-puncture-performance.md) — reports the opposite

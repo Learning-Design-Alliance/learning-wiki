@@ -51,3 +51,4 @@ Within-group comparison of self-assessment survey forms (0–10 scales) complete
 - [Participants rated the simulation session highly on meeting learner expectations and practical organization (mean 9 of 10, SD 1)](dam-simulation-high-satisfaction-scores.md) — related
 - [The 3-hour difficult airway management simulation program cost an estimated 17,892€ overall, approximately 406€ per resident](dam-simulation-program-cost-406-euros-per-resident.md) — related
 - [Airway management knowledge increased with simulation but remained below the 70% expected performance](airway-management-remained-below-70.md) — related
+- [LP simulation training significantly improves fifth-year medical students' self-assessed theoretical knowledge and confidence in performing LP](lp-simulation-improves-knowledge-confidence.md) — a narrower finding that bears on this claim

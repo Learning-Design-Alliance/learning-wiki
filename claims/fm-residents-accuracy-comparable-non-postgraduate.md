@@ -48,3 +48,4 @@ In the same 205-physician survey study, a Mann-Whitney U test comparing family m
 - [Self-reported adequate chest X-ray training is associated with higher diagnostic accuracy and confidence, but only 25.7% of family medicine residents report adequate training](adequate-cxr-training-associated-accuracy.md) — related
 - [Family medicine residents' diagnostic accuracy for emergency chest X-rays (58.0%) is significantly lower than diagnostic radiology residents' (90.5%)](fm-residents-cxr-accuracy-lower-than-radiology-residents.md) — related
 - [Being a diagnostic radiology resident and having higher diagnostic confidence are the only independent predictors of high diagnostic accuracy](radiology-residency-and-confidence-predict-accuracy.md) — related
+- [Prior studies reviewed found students' chest X-ray accuracy comparable to some resident groups, supporting the students' performance level](students-cxr-accuracy-comparable-residents-prior-studies.md) — related

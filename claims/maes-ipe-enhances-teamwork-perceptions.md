@@ -57,3 +57,4 @@ Qualitative thematic analysis of focus groups and structured debriefings with 23
 - [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — a broader claim this one bears on
 - [Participants believe leadership training for trauma resuscitation should be multidisciplinary and interprofessional, involving emergency physicians, trauma surgeons, and nurses](interprofessional-trauma-leadership-training.md) — related
+- [Expert clinicians evaluate the VR interprofessional team training prototype as feasible and useful for medical training](expert-endorsement-vr-interprofessional-training-feasible.md) — related

@@ -31,7 +31,7 @@ sources:
 # Within-study comparison (WSC) methodology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 8 studies (5 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 9 studies (6 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 1 of 9 report an effect size · 12 claims rest on one study
 
 ## Description
 A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark.
@@ -51,6 +51,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - **Analogous-students method for computing individual normalized gains across non-overlapping cohorts.**: Because the same students did not experience both methodologies, the authors introduced the “analogous students” concept: students in the FT and TM groups occupying the same position in a lab-grade ranking within low/high grade subgroups are paired, and the individual normalized gain gi is computed for each FT student from the paired TM student's grade. The introduction of the concept allowed the authors “to associate confidence intervals with the results of the gain and perform a more robust statistical study.” Random exclusion balanced unequal subgroup sizes, giving a final sample of 613 students. (Gómez-Tejedor et al. (2020))
 - **Ecological validity of RCTs as a threat arising from the experimental design itself**: The article frames ecological validity specifically as the effect of the experimental design itself, rather than as a generic kind of external validity. It argues that an experiment's validity is threatened when controls or processes required for internal or external validity cause the program to deviate from how it would run outside the experiment, citing Gibson's perception studies and Cole and colleagues' critique of laboratory cognitive psychology. The authors use this framing to ask whether recruiting, training, supporting, randomizing, and measuring for the RCT positively or negatively affect outcomes, and to motivate comparing RCT treatment schools with Scale-up schools implementing the same program. (Newman et al. (2016))
 - **Cross-over design with short instructional interval to isolate instructional modality effects**: The study used a cross-over design in which half the students attended course day 28 online and day 29 face-to-face, while the other half did the reverse, with a simulated examination one day after the second course day. This short, well-defined instructional period controlled for confounders such as "prolonged self-study, intensive use of external learning resources, formation of peer learning groups, and cumulative assessment effects" that plague longer-course comparisons. (Sternecker K et al. (2026))
+- **Randomized cross-over design for evaluating e-learning decision support effectiveness**: The study design assigns learners randomly to two groups with reversed tool-availability order across two parallel scenario sets, allowing within- and across-group comparisons of learning with and without the tool. "Medical student group A first answered set 1 of 20 clinical scenarios without ESR eGUIDE, followed by set 2 with ESR eGUIDE. Medical student group B first answered set 1 of 20 clinical scenarios with ESR eGUIDE, followed by set 2 without ESR eGUIDE." The authors note the "random evaluation and cross-over design are advantages that allow balanced comparisons." (Diekhoff Torsten et al. (2020))
 
 ### Claims
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](../claims/rd-individual-estimates-substantial-bias-variation.md) [+W]
@@ -63,6 +64,8 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - [RCT schools had lower levels of program-related characteristics associated with scale-up, and Scale-up schools showed higher effectiveness but lower fidelity ratings](../claims/rct-lower-scaleup-characteristics.md) [+M]
 - [Characteristics associated with successful adoption are higher in Scale-up schools and do not overlap with characteristics associated with student outcomes](../claims/adoption-determinants-higher-in-scaleup-nonoverlap.md) [+M]
 - [No significant main effect of participation mode (online vs face-to-face) on microscopic anatomy learning outcomes](../claims/no-significant-main-effect-participation-mode-anatomy.md) [+M]
+- [Students who first answered without ESR eGUIDE improved significantly when subsequently using it](../claims/eguide-improvement-after-unaided-first-set.md) [+M]
+- [Appropriate test selection remained stable without ESR eGUIDE after students had first used it](../claims/eguide-skills-persist-without-tool.md) [+M]
 
 ## Related Research Methods
 
@@ -82,6 +85,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - Gómez-Tejedor, J. A., Vidaurre, A., Tort-Ausina, I., Molina-Mateo, J., Serrano, M.-A., Meseguer-Dueñas, J. M., Martínez Sala, R. M., Quiles, S., & Riera, J. (2020). Effectiveness of flip teaching on engineering students’ performance in the physics lab. Computers & Education. https://doi.org/10.1016/j.compedu.2019.103708
 - Newman, D., Lazarev, V., & Zacamy, J. (2016). Comparing a Program Implemented Under the Constraints of an RCT and in the Wild. SREE Spring 2016 Conference. https://www.sree.org
 - Sternecker K, Schmitz C, Berndt M. (2026). Students’ Learning Outcomes in a Virtual Microscopic Online and Face-to-Face Anatomy Course: Cross-Over Comparative Study. JMIR Medical Education. https://doi.org/10.2196/82012
+- Diekhoff Torsten, Kainberger Franz, Oleaga Laura, Dewey Marc, Zimmermann Elke. (2020). Effectiveness of the clinical decision support tool ESR eGUIDE for teaching medical students the appropriate selection of imaging tests: randomized cross-over evaluation. European Radiology. https://doi.org/10.1007/s00330-020-06942-2
 
 # Within-study comparison (WSC) methodology
 

@@ -48,3 +48,4 @@ Categorical analysis of responses to "Which system was more beneficial for learn
 - [After PAIRR, most students prefer combined peer and AI feedback over either source alone](pairr-builds-confidence-in-ai-while-affirming-human-feedback.md) — related
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — related
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
+- [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](students-prefer-blended-future.md) — related

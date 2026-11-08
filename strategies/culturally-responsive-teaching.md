@@ -89,6 +89,7 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 - [Supports teachers need to enact formative assessment for English learners](teacher-supports-formative-assessment-el.md)
 - [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](place-based-culturally-harmonious-ccss-instruction.md)
 - [Embed brief identity interventions within school-wide inclusive diversity-climate efforts; treat them as complements to, not substitutes for, structural change](brief-identity-interventions-within-inclusive-climates.md)
+- [Use culturally inclusive pedagogies, such as incorporating indigenous language and values authentically into HPE lessons](culturally-inclusive-hpe-pedagogy-strategy.md)
 
 ## Examples
 

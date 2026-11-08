@@ -70,3 +70,4 @@ The review states that reviews of simulation's impact on neonatal mortality and 
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — related
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
 - [Rapid cycle deliberate practice improves neonatal resuscitation performance and confidence compared with standard training](rcdp-improves-neonatal-resuscitation-performance.md) — related
+- [Conducting one or more neonatal resuscitations per month and having more than 5 years in service were associated with reduced competence retention](resuscitation-volume-and-seniority-reduced-retention.md) — related

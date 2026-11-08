@@ -76,3 +76,4 @@ Narrative review attributing this to Bernardi et al.'s prospective study of pati
 - [Within the high-fidelity simulation group, cardiac auscultation knowledge, skill, and overall scores improved significantly from pretest to post-test, while the traditional-instruction control group's gains were not statistically significant](hfs-within-group-gains-control-null.md) — related
 - [Medical interns taught via the smartphone application scored significantly higher than traditionally taught peers on pediatric, cardiovascular and respiratory exam topics](mobile-app-interns-higher-exam-scores-three-topics.md) — related
 - [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — a broader claim this one bears on
+- [Simulation participants also scored higher on the pulmonary physiology section of the block test](sbe-higher-pulmonary-physiology-section-scores.md) — related

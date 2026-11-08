@@ -91,3 +91,6 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related
 - [Feedback device use shows no significant difference in correct hand positioning during simulated CPR](truecpr-feedback-hand-position-null.md) — reports the opposite
 - [Feedback device use dramatically increases complete chest relaxation during simulated CPR](truecpr-feedback-increases-chest-relaxation.md) — a narrower finding that bears on this claim
+- [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related
+- [Male students show greater mean compression depth than female students, a difference maintained among medical students but absent among PA students](gender-compression-depth-difference.md) — related
+- [Medical students and PA students differ in CPR profiles: medical students compress deeper while PA students compress faster, ventilate more, and complete more cycles](medical-vs-pa-student-cpr-profiles.md) — related

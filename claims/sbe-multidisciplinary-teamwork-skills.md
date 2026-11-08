@@ -56,3 +56,4 @@ A clinical instructor in the qualitative interview data described simulation as 
 - [Lecturers and clinical instructors perceive SBE as a gap-filler that relieves overloaded curricula and congested clinical sites in Malawian nursing and midwifery education](sbe-gap-filler-overloaded-curricula-malawi.md) — related
 - [Students perceive interprofessional CPR training as more aligned with real-world work dynamics than discipline-separate training](ipe-cpr-training-real-world-readiness.md) — related
 - [Participants believe leadership training for trauma resuscitation should be multidisciplinary and interprofessional, involving emergency physicians, trauma surgeons, and nurses](interprofessional-trauma-leadership-training.md) — related
+- [Managers describe a gap between practical skills learned in nursing education and the situations encountered in working life](education-work-gap-practical-clinical-skills.md) — related

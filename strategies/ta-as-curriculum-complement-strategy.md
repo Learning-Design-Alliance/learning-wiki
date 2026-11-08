@@ -43,6 +43,7 @@ The article recommends deploying TAs as an augmentation of district-adopted curr
 ## Related Strategies
 
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
+- [Use computerized fact-fluency training to complement, not substitute, classroom teaching](computerized-fluency-training-complements-classroom-teaching.md)
 
 ## Examples
 -

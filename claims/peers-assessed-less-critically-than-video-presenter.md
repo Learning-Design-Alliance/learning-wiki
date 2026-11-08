@@ -48,3 +48,4 @@ Authors' interpretation of the descriptive comparison between the direct (video 
 ## Related Claims
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — a broader claim this one bears on
 - [Higher-performing students took peer assessment seriously while lower-performing students questioned its credibility due to friendship bias and perceived lack of peer expertise](peer-feedback-credibility-distrust-lower-performers.md) — related
+- [Trainees judged assessor credibility by domain expertise and the credibility and constructiveness of feedback, not by whether they knew the assessor](credibility-depends-on-domain-expertise-and-feedback-quality.md) — related

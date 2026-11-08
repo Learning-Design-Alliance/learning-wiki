@@ -49,3 +49,4 @@ Follow-up survey across all respondent groups (certified, non-certified, incompl
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — a broader claim this one bears on
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
+- [Lack of time during the workday was the principal barrier to clinical POCUS use, reported by 68% of participants](iscan-time-principal-barrier-pocus-use.md) — related

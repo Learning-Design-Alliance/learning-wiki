@@ -55,3 +55,4 @@ Randomized controlled trial of 22 novice ORL residents randomized 1:1 to case-sp
 - [After one drilling session, AR‐trained novices scored 19.5 on the Welling Scale, above the novice group score of 13.9 reported by Frithioff et al.](ar-group-19-5-exceeds-frithioff-novice-13-9.md) — related
 - [Adding cochlear implant VR simulation training to mastoidectomy VR training did not significantly improve cadaver dissection performance](ci-vr-training-no-significant-cadaver-transfer.md) — related
 - [VR anatomy training produces no significant differences from traditional training in operational time, self-assessment, expert-rated surgical outcome, or injuries in novices' first mastoidectomy](vr-training-no-difference-mastoidectomy-performance-outcomes.md) — related
+- [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related

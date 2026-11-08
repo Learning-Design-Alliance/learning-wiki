@@ -52,3 +52,4 @@ Survey of 105 neonatal trainees across 24 UEMS countries found variation in prog
 - [Postgraduate curricula at SCFHS show significant discrepancies in educational-activity terminology and methods across programs](scfhs-curricula-ea-terminology-discrepancies.md) — related
 - [Summative EUS assessment requires ratings of ready for independent practice across two DOPS by two different assessors, one external to the trainee's unit](summative-dops-two-assessors-one-external.md) — related
 - [Structured interviews have two to three times the predictive value of unstructured interviews but are rarely used in EU selection](structured-interviews-predictive-value-selection.md) — related
+- [Only 56% of 41 surveyed European countries provided postgraduate psychiatric training in intellectual disability in 2014](56-percent-european-countries-id-psychiatry-training.md) — related

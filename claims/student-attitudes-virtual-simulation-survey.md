@@ -70,3 +70,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — related
+- [Students report the digital SP cases were realistic and would recommend the course to others](digital-sp-cases-realistic-recommendable.md) — related

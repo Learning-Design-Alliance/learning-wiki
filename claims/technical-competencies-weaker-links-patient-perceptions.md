@@ -72,3 +72,4 @@ Same 167-dyad correlation analysis (Results). The highest printed coefficient fo
 - [Students' Patient Care competence shows the strongest associations with patients' Assurance and Interpersonal Relationships perceptions](patient-care-competence-correlates-assurance-relationships.md) — related
 - [Caring perception is highest in Professional Knowledge and Attitude subdimension](caring-perception-highest-professional-knowledge-attitude.md) — related
 - [Total competence score correlates strongly with total care perception (r = 0.812), with Assurance and Interpersonal Relationships showing the strongest subscale correlations](total-competence-total-care-perception-correlation.md) — related
+- [Interactive learning activities yield significantly higher professional-factor scores (theoretical knowledge, critical thinking, clinical competence) than traditional learning](interactive-learning-higher-professional-factors.md) — related

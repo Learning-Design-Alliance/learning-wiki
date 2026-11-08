@@ -90,3 +90,4 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 - [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related
 - [Prior knowledge predicts problem-solving ability](prior-knowledge-predicts-problem-solving.md) — related
 - [Extraneous cognitive load does not correlate significantly with usability, and germane load does not correlate significantly with post-training knowledge](cognitive-load-usability-null-correlations.md) — related
+- [Prior-knowledge groups differ in reported intrinsic cognitive load, decreasing with prior knowledge](prior-knowledge-groups-intrinsic-load.md) — a broader claim this one bears on

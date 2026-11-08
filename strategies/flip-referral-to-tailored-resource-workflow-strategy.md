@@ -49,7 +49,8 @@ This is FLiP's implementable service workflow. Electronic referrals from affilia
 - [After at least 6 months of navigator participation, students showed statistically significant knowledge improvements across multiple food insecurity domains (p < .001 for each)](../claims/flip-significant-knowledge-gains-six-months.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement distress screening as an integrated, evidence-based programme covering implementation, referral, and follow-up](integrated-evidence-based-distress-screening-programme.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Authors' interpretation of the co-design workshop findings: the suite "seemed to
 - [High-resolution clinical cases with feedback helped residents link theory to practice and recognize conditions in daily practice](elearning-cases-link-theory-practice.md) — related
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related
 - [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
+- [Blended learning has the potential to improve healthcare learners' clinical competencies and bridge the gap between theory and practice](blended-learning-bridges-theory-practice-clinical-competencies.md) — related

@@ -60,3 +60,4 @@ Same adjusted binary logistic regression model on the 400-dentist survey, with e
 - [Interns who experienced real patient CPR had higher skill confidence and skill test scores than those who did not](real-cpr-experience-higher-confidence-skill.md) — related
 - [In a multivariate logistic model, SS knowledge is predicted by experience (OR = 0.373), a master's degree (OR = 27.451), and SS training (OR = 25.293)](soft-skills-knowledge-multivariate-predictors.md) — related
 - [Prior BLS knowledge was not associated with the probability of registering for a practice session, obtaining a certificate, or enlisting as a first responder](prior-bls-knowledge-not-associated-participation.md) — related
+- [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related
