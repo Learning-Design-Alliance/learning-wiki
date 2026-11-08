@@ -60,3 +60,5 @@ Meta-analysis of 15 RCTs reporting knowledge at course conclusion, synthesized i
 - [For cognitive outcomes, high-fidelity simulation shows the largest effect size (0.50)](hfs-largest-cognitive-outcome-effect.md) — related
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](simulation-nursing-education-pooled-effect-070.md) — related
 - [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related
+- [In all eight reviewed laparoscopic skill training studies, high-fidelity simulators did not yield outcomes superior to low-fidelity simulators](laparoscopic-hf-not-superior-eight-studies.md) — reports the opposite
+- [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — related

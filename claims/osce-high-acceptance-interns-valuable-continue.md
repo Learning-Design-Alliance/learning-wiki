@@ -64,3 +64,4 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [After training, 85%–92% of nurses self-reported agreeing or strongly agreeing that the VR materials achieved their purpose and that they would recommend them](nurses-positive-responses-vr-materials-85-92-percent.md) — related
 - [Most residents strongly agree the simulator is an effective training device that should be included in the ENT residency program](otoskills-resident-acceptance-strong-agreement.md) — related
 - [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related
+- [Learners reported high satisfaction, rating the simulation 97% relevant, 97% effective, and 90% high quality](brown-bag-simulation-high-satisfaction.md) — related

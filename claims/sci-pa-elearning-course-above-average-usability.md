@@ -54,3 +54,4 @@ Descriptive secondary outcome from the evaluation study (total group n = 36) usi
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
+- [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related

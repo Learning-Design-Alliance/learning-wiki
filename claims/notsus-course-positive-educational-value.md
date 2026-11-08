@@ -54,3 +54,6 @@ Post-simulation evaluation questionnaire with 5-point Likert items and comment b
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
+- [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
+- [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
+- [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related

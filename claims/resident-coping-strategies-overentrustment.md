@@ -68,3 +68,4 @@ Interview subthemes also documented emotion-focused coping, with one resident de
 - [Residents use clinical team members other than the official supervisor as unofficial sources of supervision](clinical-team-as-supervision-substitute.md) — related
 - [Levels of resident supervision are shaped by social norms for self-entrustment, situational complexity, and entrustment-based discussions](factors-influencing-supervision-levels-residents.md) — related
 - [Residents perceive supervision as suboptimal when feedback is delayed, time is lacking, communication is ambivalent, or decision-making is opaque](suboptimal-supervision-resident-perceptions.md) — related
+- [Interns and residents disagreed on supervision level needed: 77% of interns felt they needed no supervision versus 35% of residents saying so](supervision-level-self-assessment-discrepancy.md) — related

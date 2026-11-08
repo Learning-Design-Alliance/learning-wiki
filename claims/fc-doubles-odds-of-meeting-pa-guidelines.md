@@ -46,3 +46,4 @@ Generalized linear mixed model on the binary IPAQ-SF-derived indicator (≥150 m
 
 ## Related Claims
 - [Flipped classroom intervention significantly increases college students' total physical activity and moderate-to-vigorous physical activity compared with traditional instruction immediately post-course.](fc-increases-total-pa-and-mvpa-post-course.md) — related
+- [Students attending all gamification lectures were far more likely to meet physical activity recommendations every week](lecture-attendance-associated-meeting-pa-recommendations.md) — related

@@ -69,3 +69,4 @@ Observational analysis of tool use (P1Obs4) in the same paired evaluation; Table
 ## Related Claims
 - [Collaborative MAR gameplay raises children's observable enjoyment and mood more than competitive gameplay](collaborative-mar-higher-observed-affect.md) — related
 - [Both competitive and collaborative MAR game modes are highly enjoyable and easy to use for primary school children, with no significant differences between modes](mar-modes-enjoyment-ease-no-difference.md) — related
+- [Gaze similarity is significantly higher in the collaborative than the competitive game version, while scores do not differ](collaborative-versus-competitive-gaze-similarity.md) — related

@@ -129,3 +129,7 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim
 - [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related
 - [Slow test-takers perform as well as fast ones when given the time they need, and may perform better on difficult items](slow-test-takers-perform-as-well-as-fast-ones.md) — related
+- [Discussing low test performance with a mentor is associated with much higher odds of serious test-taking behavior in a low-stakes progress test](mentor-discussion-low-performance-serious-test-taking.md) — related
+- [Nonserious test-taking behavior varies widely across medical schools in the low-stakes BPT, from 1% to 26%](nonserious-test-taking-range-schools.md) — related
+- [Presentation type and individuality of discussed results show no significant relation to serious test-taking behavior as main effects](null-presentation-type-individuality-results.md) — related
+- [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related

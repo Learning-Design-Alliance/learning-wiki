@@ -57,3 +57,4 @@ Propensity-matched comparison (40 pairs) of end-of-term OSCE scores with real st
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related
 - [Clinical interview skills improved significantly from baseline to post-intervention only in the VSP group, not in the control group](vsp-group-within-group-interview-skill-gain.md) — related
 - [Average practical session grades were significantly lower in the VSP-based course than in the paper-based course](vsp-session-grades-lower.md) — related
+- [Previous voluntary history-taking group participation is associated with better self-rated conversational structure](history-taking-groups-better-self-rated-structure.md) — related

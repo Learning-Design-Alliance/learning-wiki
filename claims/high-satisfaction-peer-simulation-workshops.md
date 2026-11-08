@@ -64,3 +64,5 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
+- [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
+- [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related

@@ -57,3 +57,5 @@ Structural equation multiple mediation model in the Geneva child sample. The art
 - [No relationship between cardiorespiratory fitness and text comprehension and expression grades was observed](no-crf-text-comprehension-relation.md) — related
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md) — related
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
+- [Inhibition and cognitive flexibility partially mediated the association between CRF and academic achievement in language and mathematics](inhibition-cognitive-flexibility-partially-mediate-crf-achievement.md) — a broader claim this one bears on
+- [Working memory did not mediate the association between CRF and academic achievement](working-memory-does-not-mediate-crf-achievement.md) — related

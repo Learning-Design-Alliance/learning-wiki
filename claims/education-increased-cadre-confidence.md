@@ -50,3 +50,4 @@ Wilcoxon rank-sum comparison of the 7-item confidence scale (7–35) across grou
 - [The education programme significantly improved health assessment, communication and attitude skill scores, which the intervention group maintained at endline](scenario-training-improved-cadre-skills-domains.md) — related
 - [A 3-week scenario-based education programme significantly increased health cadres' competency scores compared with no education](education-programme-increased-health-cadre-competency.md) — related
 - [The control group showed unexpected improvement from midline to endline, attributed to the John Henry effect, which reduced the apparent sustainability of the programme effect](control-group-john-henry-improvement.md) — related
+- [Gains from end of training to 24–60 months post-training were statistically marginal for both trained and comparison teams](lethho-post-training-sustainability-marginal.md) — related

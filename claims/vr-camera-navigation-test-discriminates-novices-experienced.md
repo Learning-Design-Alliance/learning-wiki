@@ -55,3 +55,4 @@ Single-center validation trial comparing 12 novice medical students with 12 expe
 - [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — a narrower finding that bears on this claim
 - [VR-based MCQ test scores discriminate significantly between medical students of three different emergency medicine experience levels](vr-mcq-scores-discriminate-experience-levels.md) — related
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related
+- [Residents outperform students on execution time and errors in the simplest laparoscopic tasks (construct validity)](labot-construct-validity-residents-outperform-students.md) — related

@@ -54,3 +54,4 @@ Table 2 paired-sample t-test results: intervention knowledge rose from 9.4 ± 1.
 - [Low-fidelity otoscopy simulation raises anatomical knowledge scores by 32% over control instruction](otoscopy-simulation-knowledge-gain.md) — related
 - [First-year medical students taught respiratory physiology with simulation-based education showed significantly greater knowledge gain than students receiving traditional small group teaching](sbe-greater-knowledge-gain-than-tsgt-first-year-physiology.md) — possibly the same claim (merge candidate)
 - [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — a broader claim this one bears on
+- [Cardiology rotation training is not associated with greater cardiac auscultation accuracy among junior doctors](cardiology-rotation-no-auscultation-advantage.md) — related

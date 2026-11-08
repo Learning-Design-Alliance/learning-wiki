@@ -98,3 +98,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [Simulation scores correlate moderately with OSCE scores (r = 0.45, p < 0.01), supporting the generalization inference](simulation-osce-moderate-correlation.md) — related
 - [First-year DPT student SCT scores show no significant correlation with academic records including GPA, OSCE, benchmark exam, and course grades](sct-scores-uncorrelated-academic-records-dpt.md) — related
 - [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — related
+- [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related

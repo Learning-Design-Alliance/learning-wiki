@@ -55,3 +55,4 @@ One-way ANOVAs across four feedback conditions (n = 6 novices per condition) wit
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — related
 - [Grit was not associated with any measure of laparoscopic performance in this novice sample](grit-not-associated-laparoscopic-performance.md) — related
+- [EEG-measured awakeness during learning does not differ significantly between the text-only, 3DM and MR groups](eeg-bis-awakeness-no-group-differences.md) — related

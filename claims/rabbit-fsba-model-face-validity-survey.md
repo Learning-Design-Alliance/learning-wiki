@@ -55,3 +55,4 @@ Anonymous online survey of fetal surgeons worldwide (response rate 53%, 26/49) a
 - [Surgeons rated the 3D hernia model as easy to use, realistic, and anatomically representative](surgeons-rate-hernia-3d-model-realistic-easy-to-use.md) — related
 - [Skilled endoscopists rated the cadaver model's realism favorably on 19 of 22 survey items, with technical difficulty comparable to living-patient colonoscopy](rhccs-face-validity-realism.md) — related
 - [The seven fetoscopic experts who personally used the model confirmed its realism and usefulness even more strongly than survey non-users](rabbit-fsba-model-user-subanalysis.md) — related
+- [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related

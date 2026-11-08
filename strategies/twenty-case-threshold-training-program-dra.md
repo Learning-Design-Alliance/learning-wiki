@@ -48,6 +48,7 @@ The article recommends incorporating its 20-case learning-curve threshold into t
 ## Related Strategies
 
 - [Dose simulation training at about 29 procedures with focused early practice](simulation-dosing-29-procedures-competency-benchmark.md)
+- [Use CUSUM analysis of procedure time to quantify the surgical learning curve for a novice team adopting a new procedure](cusum-learning-curve-analysis-surgical-training.md)
 
 ## Examples
 -

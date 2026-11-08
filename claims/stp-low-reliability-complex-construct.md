@@ -90,3 +90,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related
 - [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
 - [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — related
+- [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related

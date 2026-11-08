@@ -72,3 +72,5 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — related
 - [Students report the digital SP cases were realistic and would recommend the course to others](digital-sp-cases-realistic-recommendable.md) — related
 - [Online assessment was conducted by a minority of educators but favored by a majority](online-assessment-conducted-versus-favored.md) — related
+- [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related
+- [Most students had received some CPR training and wanted to learn CPR, but fewer were willing to perform it](training-exposure-and-willingness-gap-shanghai-students.md) — related

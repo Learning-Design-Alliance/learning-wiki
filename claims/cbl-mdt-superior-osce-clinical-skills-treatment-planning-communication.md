@@ -81,3 +81,4 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related
 - [Interactive learning activities yield significantly higher professional-factor scores (theoretical knowledge, critical thinking, clinical competence) than traditional learning](interactive-learning-higher-professional-factors.md) — a broader claim this one bears on
 - [Case-based learning improves practical knowledge application (OSCE scores) over traditional approaches, as reported in a cited study](cbl-improves-osce-practical-knowledge.md) — related
+- [Previous voluntary history-taking group participation is associated with better self-rated conversational structure](history-taking-groups-better-self-rated-structure.md) — related

@@ -48,3 +48,4 @@ Second-hand report: the review narrates Ivers et al's 2012 Cochrane update, whic
 
 - [The review attributes to Kluger and DeNisi the largest beneficial feedback elements: changes since previous attempt (0.55), specific challenging goals (0.51), low self-esteem threat (0.47) and correct-outcome information (0.43)](kluger-denis-feedback-elements-effect-sizes.md)
 - [Across all 11 included trials, verbal face-to-face feedback versus no feedback yielded a pooled SMD of 1.09 before excluding high-risk-of-bias studies](feedback-vs-no-feedback-all-studies-smd-109.md)
+- [A prior randomized trial of monthly Press-Ganey email feedback for EM attendings did not improve patient-satisfaction scores, in contrast with this study's results](press-ganey-feedback-trial-null-contrast.md) — related

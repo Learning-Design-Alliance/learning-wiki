@@ -54,3 +54,4 @@ SEM main-effects results from the Chinese high school sample show perseverance o
 - [Exhaustion mediates links of demands and both grit facets to depression and life satisfaction; engagement mediates perseverance of effort to life satisfaction](exhaustion-engagement-mediation-paths.md) — related
 - [Grit does not buffer the effect of academic demands: no significant demands × grit interactions on exhaustion or engagement](no-demands-grit-interaction-effects.md) — related
 - [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](engagement-not-correlated-l2-achievement.md) — related
+- [Grit-perseverance, but not grit-passion, is significantly and positively related to college academic performance](perseverance-not-passion-predicts-grades.md) — related

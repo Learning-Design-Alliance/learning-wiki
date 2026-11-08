@@ -55,3 +55,4 @@ The editorial reports, citing Finn and Tauber (2015), that fluency of processing
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
+- [MR learners rate user perception, perceived long-term retention and memorability significantly higher than text-only learners; 3DM rates higher than text-only on user perception and usability](mr-higher-engagement-and-perception-ratings.md) — related

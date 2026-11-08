@@ -69,3 +69,4 @@ Word-count analysis of free verbalization interviews with 77 anesthesia personne
 - [Positive and negative statements about Visual Clot did not differ by participants' specialty or level of experience](visual-clot-perceptions-independent-of-specialty-experience.md) — related
 - [Positive design features was the most frequently mentioned theme about Visual Clot](visual-clot-positive-design-features-dominant-theme.md) — related
 - [Focus group participants found the smart speaker easy to use and described interacting with it as like conversing with a person](smart-speaker-mmt-focus-group-usability.md) — related
+- [Students reported that maximal simplicity and usability drove adoption of Learning Moment, while extraneous entry steps felt burdensome](lm-simplicity-maximal-usability-theme.md) — related

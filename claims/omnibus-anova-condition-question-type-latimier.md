@@ -51,3 +51,4 @@ Omnibus mixed ANOVA on final test scores (learning condition between-subject, qu
 - [A marginal, non-significant interaction between question type and language was observed for LLM accuracy (F(2,10) = 3.57, P = 0.068)](marginal-question-type-language-interaction.md) — related
 - [Two-way ANOVA showed significant main effects of group allocation and question on score, with a group-by-question interaction approaching significance](anova-group-and-question-main-effects-score.md) — related
 - [Histology topic, not LLM platform, was the primary factor in performance variance (η2 = 0.452 vs 0.006), with a significant system-by-topic interaction](topic-effect-dominates-system-effect-llm-histology.md) — related
+- [Learning groups differ significantly in change of anatomy test scores over one month (group × time × question type interaction)](retention-group-by-time-interaction-significant.md) — related

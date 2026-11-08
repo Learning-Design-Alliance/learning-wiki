@@ -47,3 +47,4 @@ Perceived-effectiveness questionnaire data from the randomized trial's three-poi
 ## Related Claims
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — a broader claim this one bears on
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — related
+- [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related

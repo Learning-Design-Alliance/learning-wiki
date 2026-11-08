@@ -42,6 +42,7 @@ Based on their findings, the authors recommend holding interprofessional OMP wor
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
 - [Design for long-range engagement and systematic follow-up in teacher professional learning](systematic-follow-up-instructional-shifts.md)
 - [Design shared interprofessional learning so both professions contribute in a balanced, mutually transactive way, supported by trac training](balanced-trac-design-strategy.md)
+- [Expand the simulation to an interprofessional audience by adding profession-specific content, faculty, and adjusted assessments](interprofessional-expansion-med-rec-simulation-strategy.md)
 
 ## Examples
 -

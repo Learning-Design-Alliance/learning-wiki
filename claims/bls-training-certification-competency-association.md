@@ -74,3 +74,4 @@ Spearman's rank correlation for years in practice and a paired samples t-test fo
 - [Nurses at Cape Town district hospitals show very low BLS knowledge and skill scores, with only 3.0% reaching the 80% knowledge threshold](nurses-district-hospital-low-bls-competency.md) — related
 - [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related
 - [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related
+- [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related

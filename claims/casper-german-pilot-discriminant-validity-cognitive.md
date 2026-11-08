@@ -71,3 +71,4 @@ Pearson correlations with the HAM-Nat science knowledge and arithmetic problem s
 - [The standardized M1 licensing examination is predicted more accurately than the preclinical grade point average (PCGPA)](m1-predicted-better-than-pcgpa.md) — related
 - [Among admitted students selected via multiple compensating criteria, high-school GPA and admission test scores show no significant correlation, unlike among all test-takers](compensating-selection-decoupling-gpa-test-correlation.md) — related
 - [Both admission tests show substantial incremental validity over high-school GPA for predicting preclinical performance, whereas GPA adds little beyond admission test scores](admission-tests-incremental-validity-over-gpa.md) — related
+- [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related

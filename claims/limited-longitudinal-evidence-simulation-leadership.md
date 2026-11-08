@@ -60,3 +60,4 @@ The review's own limitations analysis of its 12 included studies, many of which 
 - [Evidence for transfer of SBE-gained knowledge and skills to clinical practice is weak, with scarce control groups and longitudinal studies](sbe-evidence-gaps-transfer-weak.md) — related
 - [Evidence for bootcamp benefits is limited by absent control groups, self-reported subjective measures and lack of long-term follow-up](bootcamp-evidence-limits-no-control-no-followup.md) — a narrower finding that bears on this claim
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related
+- [Evaluation of the auscultation lab is limited to Kirkpatrick level one perception data, with insufficient data on knowledge retention in clinical practice](auscultation-lab-evaluation-limited-to-level-one.md) — a narrower finding that bears on this claim

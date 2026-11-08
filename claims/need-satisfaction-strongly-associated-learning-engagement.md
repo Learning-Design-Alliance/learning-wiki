@@ -76,3 +76,4 @@ In the same CB-SEM structural model of 498 medical undergraduates, the path from
 - [In bilingual Tai Chi instruction, teacher support has significant positive direct effects on basic psychological needs, learning motivation, and psychological well-being](teacher-support-direct-effects-embodied-bilingual.md) — related
 - [Basic psychological needs positively predict college students' mindfulness](bpn-predict-mindfulness-chinese-college.md) — related
 - [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](moderate-needs-identity-descriptives.md) — related
+- [Perceived teacher autonomy support positively predicts students' basic psychological needs satisfaction in college classes](autonomy-support-predicts-bpn-satisfaction-college.md) — related

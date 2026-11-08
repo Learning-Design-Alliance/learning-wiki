@@ -39,6 +39,7 @@ The delivery team used social network analysis surveys with all teaching staff t
 ## Related Strategies
 
 - [Discovery-phase data collection: surveys, listening sessions, and project inventories to map the current system](discovery-phase-data-collection-tools.md)
+- [Establish communities of practice, including an in-school PAL champion and connections to wider PAL networks](pal-community-of-practice-strategy.md)
 
 ## Examples
 -

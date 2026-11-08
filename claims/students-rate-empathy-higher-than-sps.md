@@ -49,3 +49,4 @@ Paired t-test on the two-item empathy subscale of the shared rubric for the same
 - [Third-year medical students rate their own SDM skills lower than standardized patients rate them](students-rate-sdm-lower-than-sps.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
 - [Final-year medical students self-rated their communication and interpersonal skills significantly higher than simulated patients rated them](students-self-ratings-exceed-simulated-patient-ratings-comcare.md) — related
+- [Medical residents rated their own patient-centeredness significantly lower than simulated patients rated them, with a large effect size](residents-self-rate-patient-centeredness-lower-than-sps.md) — reports the opposite

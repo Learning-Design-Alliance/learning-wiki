@@ -54,3 +54,4 @@ Qualitative content analysis of 138 focus-group comments from the five student g
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Students unanimously preferred the VR simulation to the PC simulation after completing both, regardless of which version they used first](unanimous-preference-vr-over-pc.md) — related
 - [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related
+- [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related

@@ -49,3 +49,4 @@ Authors' interpretive statement (type e) from the Conclusion, grounded in their 
 - [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — a broader claim this one bears on
 - [No included study reported long-term follow-up, leaving durability of OSS effects unclear](oss-no-long-term-follow-up.md) — a broader claim this one bears on
 - [Educational interventions for FM residents targeting the informal curriculum rarely produced behavior change: most were evaluated only at Kirkpatrick level 2 and study quality was low](informal-curriculum-interventions-low-kirkpatrick-quality.md) — related
+- [Evaluation of the auscultation lab is limited to Kirkpatrick level one perception data, with insufficient data on knowledge retention in clinical practice](auscultation-lab-evaluation-limited-to-level-one.md) — related

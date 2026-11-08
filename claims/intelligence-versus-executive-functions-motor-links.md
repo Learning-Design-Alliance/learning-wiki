@@ -54,3 +54,4 @@ Exploratory mixed-effects regression with a motor × cognitive-skill (intelligen
 - [FMS subdomain correlations vary within academic domains: nonword reading strongest, letter reading weakest, intelligence strongest among cognitive skills](fms-subdomain-differentiated-links.md) — related
 - [Total gross motor scores show a very weak to moderate positive association with mathematical skills despite conflicting findings](total-gross-motor-scores-mathematics-association.md)
 - [Domain-specific ASQ gains favoured Montessori but were not statistically significant for communication, gross motor, fine motor, or problem solving](montessori-domain-gains-not-significant.md) — related
+- [Whole-body gross motor competence tasks are more consistently related to academic performance than more specific motor competence tasks, per the authors' interpretation](whole-body-motor-tasks-more-consistently-related-academic-performance.md) — reports the opposite

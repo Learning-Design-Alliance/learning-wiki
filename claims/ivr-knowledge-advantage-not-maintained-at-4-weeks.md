@@ -49,3 +49,4 @@ Follow‐up assessment in the same RCT after sample loss (n = 22 IVR, n = 23 con
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Two implementation-strategies interventions showed mixed effectiveness, with gains immediately after intervention but not at follow-up](implementation-strategies-mixed-followup-results.md) — related
+- [The training effect on agreement with experts (MAD) was not maintained at the 2-week follow-up once the training resource was withdrawn](oracles-mad-effect-not-maintained-two-weeks.md) — related

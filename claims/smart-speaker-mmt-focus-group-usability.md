@@ -49,3 +49,4 @@ Qualitative focus group interviews with 28 MMT participants after the course, us
 - [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](social-robotic-vp-technical-and-user-related-limitations.md) — reports the opposite
 - [Smart speaker–based metamemory training significantly improved delayed free recall in older adults (Cohen d=0.84)](smart-speaker-mmt-improved-delayed-free-recall.md) — related
 - [Smart speaker–based metamemory training significantly improved verbal fluency in older adults (Cohen d=0.85)](smart-speaker-mmt-improved-verbal-fluency.md) — related
+- [Students reported that maximal simplicity and usability drove adoption of Learning Moment, while extraneous entry steps felt burdensome](lm-simplicity-maximal-usability-theme.md) — related

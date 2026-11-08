@@ -71,3 +71,4 @@ Table 1 entry for Cirino et al. (2019), late elementary school children (n = 846
 - [Metacognition mediates the relationship between EF and SRL](metacognition-mediation-ef-srl.md) — related
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
 - [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — related
+- [A performance-based EF model (cognitive flexibility accuracy, working memory) raised explained variance to 25% but no individual predictor was significant](ant-performance-ef-model-25-percent-none-significant.md) — related

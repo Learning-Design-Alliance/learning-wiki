@@ -50,3 +50,4 @@ Self-reported knowledge dissemination from the follow-up impact survey of the 20
 - [Genetic counselors most commonly develop teaching skills through informal resources and rarely have formal degree-based education training](gc-teaching-training-informal-dominates.md) — related
 - [Participants in the 2024 and 2025 UAB/SNMMI Nuclear Medicine Therapy Intensive showed marked pre-to-post knowledge gains, reaching near-universal mastery across assessed domains](therapy-intensive-prepost-knowledge-gains.md) — related
 - [Informally talking to colleagues is the most used strategy for reflective practice, followed by analyzing critical incidents, discussion groups and mentor support](ot-reflective-practice-strategies-colleagues-most-used.md) — related
+- [Most workshop participants planned to apply the training in clinical practice and to share it with other health professionals and students](breathlessness-workshop-participants-plan-practice-change.md) — related

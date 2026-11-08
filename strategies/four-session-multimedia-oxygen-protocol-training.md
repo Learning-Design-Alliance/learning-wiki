@@ -49,6 +49,7 @@ The article's intervention trained nurses in five groups, each receiving four 45
 
 - [Deliver a multifaceted education package combining formal training sessions, knowledge assessment, and patient education pamphlets](psd-multifaceted-education-package-strategy.md)
 - [Combine a 45-minute lecture with paired, hands-on simulation tasks guided by structured written instructions](lecture-plus-paired-hands-on-simulation-strategy.md)
+- [Deliver standard precautions training as biweekly mixed media sessions combining lectures, videos, role-play, and individual online supervision with feedback](mixed-media-sp-training-session-structure-strategy.md)
 
 ## Examples
 -

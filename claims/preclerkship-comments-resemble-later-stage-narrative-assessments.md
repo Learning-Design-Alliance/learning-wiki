@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion: the preclerkship comments "align with
 - [Only 6.4% of preclerkship narrative comments offered guidance on how to improve](preclerkship-narrative-comments-rarely-suggest-improvement.md) — related
 - [Preclerkship narrative comments on clinical skills most often addressed attitude (47.8% of units) and only rarely addressed clinical reasoning (10.8%)](preclerkship-narrative-comment-content-distribution.md) — related
 - [Negative narrative comments were nearly absent in knowledge, cognitive processes, and general comments, with similar percentages for attitude and clinical reasoning](negative-narrative-comments-nearly-absent-knowledge-general.md) — related
+- [Narrative comment themes shift over training: medical knowledge emphasized in year 1, autonomy, leadership, and teaching in later years](comment-themes-shift-over-training-years.md) — related

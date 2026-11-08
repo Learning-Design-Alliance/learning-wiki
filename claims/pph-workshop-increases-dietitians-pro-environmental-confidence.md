@@ -51,3 +51,4 @@ Pre–post survey of 46 conference workshop participants (pre n = 42, post n = 4
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — a broader claim this one bears on
+- [A 3-day chronic breathlessness training workshop significantly increased health professionals' confidence across all course objectives](breathlessness-workshop-increases-confidence-all-objectives.md) — related

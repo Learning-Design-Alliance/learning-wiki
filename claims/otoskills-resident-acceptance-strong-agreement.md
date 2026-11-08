@@ -50,3 +50,4 @@ Acceptability data from the before-after study of 16 ENT residents (9 novices, 7
 - [Most fellows rate VRFF-SSTS helpful and support its integration into residency programs, but rate its haptic feedback inferior to the sawbone model](fellows-rate-vrff-ssts-helpful-haptics-inferior.md) — related
 - [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related
 - [Residents' total performance score on microscopic ossiculoplasty tasks rose from pre-test to post-test after repeated low-fidelity simulator training, in one uncontrolled pre-post study (+0.52 points/min, p < 0.001)](otoskills-training-increases-total-performance-score.md) — related
+- [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related

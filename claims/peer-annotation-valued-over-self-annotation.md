@@ -47,3 +47,4 @@ Mandatory online course evaluation of the expanded fourth-year communication ski
 ## Related Claims
 - [Peer annotation of students' own recorded encounters is broadly acceptable to medical students](peer-video-annotation-acceptable.md) — related
 - [An expanded communication skills course with video annotations and tutor-led group discussion is feasible and well received, with a mean student mark of 4.6](video-annotation-course-feasible-well-received.md) — related
+- [Video-based peer feedback and expert coaching were valued features of the digital training prototypes, with privacy safeguards and expert involvement recommended](video-peer-feedback-and-expert-coaching-valued.md) — related

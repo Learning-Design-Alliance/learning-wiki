@@ -47,3 +47,4 @@ Online evaluation of the expanded communication skills course; all 247 students 
 ## Related Claims
 - [Medical students report gaining more from annotating a peer's video than from annotating their own video in communication skills training](peer-annotation-valued-over-self-annotation.md) — related
 - [An expanded communication skills course with video annotations and tutor-led group discussion is feasible and well received, with a mean student mark of 4.6](video-annotation-course-feasible-well-received.md) — related
+- [Video-based peer feedback and expert coaching were valued features of the digital training prototypes, with privacy safeguards and expert involvement recommended](video-peer-feedback-and-expert-coaching-valued.md) — related

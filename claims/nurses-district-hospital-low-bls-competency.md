@@ -51,3 +51,4 @@ Cross-sectional survey of 243 nurses at three district hospitals using an adapte
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [BLS competency is significantly associated with education level and professional rank, with bachelor's-degree nurses and professional nurses scoring higher](bls-competency-education-rank-association.md) — related
 - [Nurses hold positive attitudes towards BLS but report needing more training, particularly for infants and AED use](nurses-positive-attitudes-need-more-bls-training.md) — related
+- [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — a narrower finding that bears on this claim

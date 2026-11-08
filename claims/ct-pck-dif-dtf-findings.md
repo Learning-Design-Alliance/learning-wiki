@@ -61,3 +61,4 @@ Differential item and test functioning analyses across seven teacher characteris
 - [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — related
 - [Expert sensitivity review attributed most DIF-flagged items to poor item writing or unclear images](sensitivity-review-item-flaws-unclear-images.md) — related
 - [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related
+- [Pre-university GPA was positively related to performance on six of 19 selection items, while gender and age effects outweighed each other and did not affect overall performance.](pu-gpa-dif-selection-items-gender-age-null.md) — related

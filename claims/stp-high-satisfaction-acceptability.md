@@ -53,3 +53,4 @@ Post-training satisfaction questionnaire in the 26-participant sample. "The mean
 - [Post-training attitudes improved overall, but only the attitude towards telerehabilitation changed significantly](stp-attitude-change-telerehabilitation-only.md) — related
 - [Qualitative interviews identified three themes: positive feedback and experience, limitations of the STP, and applicability of the training](stp-qualitative-themes-experience-limitations-applicability.md) — related
 - [GP-trainees showed high acceptance of the converted digital seminar format, with 99% willing to participate in an online seminar again and 58% satisfied or very satisfied with the implementation.](kwbw-webinar-high-acceptance-gp-trainees.md) — related
+- [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related

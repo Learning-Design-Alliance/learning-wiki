@@ -95,3 +95,4 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [Pre-test scores showed no significant difference between experimental and control groups, confirming group comparability](pbl-pre-test-groups-comparable.md) — related
 - [Medical record writing scores do not differ between TSP, spRP, and non-spRP groups](no-difference-medical-record-writing.md) — related
 - [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related
+- [No statistically significant differences emerge across grades 7, 8, and 9 in the experimental group's mathematics self-concept pretest, posttest, or gain scores](no-grade-differences-math-self-concept.md) — related

@@ -53,3 +53,6 @@ SEM analysis of questionnaire data from 518 university students in bilingual Tai
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
 - [Academic motivation significantly and positively predicts students' mental well-being (β = 0.317)](acm-positive-predicts-mental-wellbeing.md) — related
 - [Basic psychological needs positively predict college students' mindfulness](bpn-predict-mindfulness-chinese-college.md) — related
+- [In PE classes, perceived autonomy-supportive teaching style positively predicts students' satisfaction of basic psychological needs, while a controlling style negatively predicts it](as-positive-cs-negative-predict-bpn-satisfaction-pe.md) — related
+- [Perceived teacher autonomy support positively predicts students' basic psychological needs satisfaction in college classes](autonomy-support-predicts-bpn-satisfaction-college.md) — related
+- [Perceived autonomy support relates indirectly to academic performance through needs satisfaction, intrinsic motivation, and perseverance, but not through passion](perseverance-mediation-autonomy-support-grades.md) — related

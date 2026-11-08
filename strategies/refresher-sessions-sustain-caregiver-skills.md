@@ -72,6 +72,8 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Provide ongoing refresher training covering PPIUD eligibility and birth-spacing importance to sustain provider knowledge and reduce bias](ongoing-refresher-training-ppiud-eligibility-birth-spacing.md)
+- [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
+- [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
 
 ## Examples
 -

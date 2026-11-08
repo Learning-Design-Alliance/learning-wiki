@@ -51,3 +51,4 @@ Thematic synthesis of challenges reported across the included studies. The revie
 - [Grief training in medical education is most often delivered as short voluntary workshops focused on transmitting knowledge about death, dying and bereavement](grief-training-short-voluntary-knowledge-focused-workshops.md)
 - [Only 14% of the reviewed grief-training articles provided a theoretical framework or empirical definition of grief, and all focused on bereavement grief](few-articles-define-grief-bereavement-focus.md) — related
 - [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related
+- [Two-thirds of attendees reflected on their attitudes towards dying, death and grief and about one in five changed their attitude because of the seminar](seminar-prompted-attitude-reflection-and-change-eolc.md) — related

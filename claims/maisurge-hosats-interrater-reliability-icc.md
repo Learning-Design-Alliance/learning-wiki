@@ -50,3 +50,4 @@ Reliability analysis of the rater-blinded controlled trial: two trained, blinded
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
+- [Blind OSATS global rating scoring of simulator sessions showed high interrater agreement between two expert observers](osats-high-interrater-agreement-bg-pdt-simulator.md) — related

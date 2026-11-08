@@ -103,3 +103,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](d-study-raters-items-phi-acls.md) — related
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [The expected-actions checklist achieved excellent inter-rater agreement (ICC = 0.899, Cronbach's alpha = 0.908)](checklist-icc-0899-cronbach-0908.md) — related
+- [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related

@@ -47,3 +47,4 @@ Univariate ordinal logistic regression result from the Results section of the 1,
 ## Related Claims
 - [URM concordance between rater and student moderated the negative effect of URM status, lessening or reversing it in the observation/monitoring domain](urm-concordance-moderates-ncat-em-scores.md) — related
 - [In a sensitivity analysis comparing Black to non-Black students, lower scores appeared in history/physical and prioritized differential domains with large positive race-concordance interactions](black-students-lower-scores-concordance-interactions.md) — related
+- [Interpreter and faculty raters gave similar scores on the interpreter-use subcompetency](interpreter-faculty-raters-similar-scores.md) — related

@@ -48,3 +48,4 @@ This finding emerged from the confirmatory factor analysis of the refined two-fa
 - [Convergent validity is supported by strong correlations between DKSCQ-N subdomains and the Knowledge of Dysphagia Scale.](dkscqn-convergent-validity-kds-correlations.md) — related
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
+- [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related

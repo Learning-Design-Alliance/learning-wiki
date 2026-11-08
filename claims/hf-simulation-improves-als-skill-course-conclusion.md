@@ -61,3 +61,5 @@ Meta-analysis of 21 RCTs measuring skill performance at course conclusion. The p
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
 - [Nurses trained with simulation showed higher skill scores than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-scores-nurses-exploratory.md) — related
 - [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](pal-simulation-pgy-cpe-significant-gains.md) — related
+- [In all eight reviewed laparoscopic skill training studies, high-fidelity simulators did not yield outcomes superior to low-fidelity simulators](laparoscopic-hf-not-superior-eight-studies.md) — reports the opposite
+- [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — related

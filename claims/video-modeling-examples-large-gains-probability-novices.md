@@ -71,3 +71,4 @@ Same mixed ANOVA on the two near transfer items: posttest (M = 1.85) significant
 - [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related
 - [Alternating observation and performance in dyads yielded better transfer than individual practice or a control condition in a video-game task](dyad-observation-performance-alternation-transfer.md) — related
 - [OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study](qr-code-linked-videos-improve-ospe-performance.md) — related
+- [Learning scores rose strongly from pretest to first posttest but did not change further from first to second posttest after the game, in one uncontrolled pre-post study](learning-gain-poster-game-phases.md) — related

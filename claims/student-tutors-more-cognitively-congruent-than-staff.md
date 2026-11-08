@@ -58,3 +58,4 @@ Questionnaire study in two eight-week first-year law courses (202 and 150 studen
 - [Focus group data indicate student tutors show more social congruence, being more involved with the group and more open to student opinions](student-tutors-social-congruence-focus-group.md) — related
 - [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — related
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
+- [PBL tutorial groups tutored online synchronously score higher on cognitive aspects than groups with the tutor present in the room](online-synchronous-tutor-higher-cognitive-scores.md) — related

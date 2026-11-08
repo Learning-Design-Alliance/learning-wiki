@@ -55,3 +55,4 @@ Online Delphi survey with 13 experts (anesthesiology, intensive medicine, nephro
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
 - [Delphi panel reaches broad consensus on CAMHS crisis team competencies and outcomes, with over 90% of proposed items meeting the consensus threshold](delphi-consensus-camhs-crisis-competencies-outcomes.md) — related
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
+- [Applicants from the authors' institution performed similarly overall to other applicants, with better results on some checklist items](home-institution-applicants-similar-stemi-performance.md) — related

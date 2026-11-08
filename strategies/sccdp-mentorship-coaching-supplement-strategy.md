@@ -45,6 +45,7 @@ Because the SCCDP improved technical and performance outcomes but not self-effic
 - [Phased internship mentorship: build self-efficacy before introducing complex teaching responsibilities](phased-internship-efficacy-before-competence-tasks.md)
 - [Treat post-course mentoring and institutional supports as a core implementation requirement when running innovation courses for novice nurses](post-course-mentoring-core-implementation-requirement.md)
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
+- [Train-the-trainer workshop to build coach competency and self-efficacy before delivery](train-the-trainer-coach-workshop.md)
 
 ## Examples
 -

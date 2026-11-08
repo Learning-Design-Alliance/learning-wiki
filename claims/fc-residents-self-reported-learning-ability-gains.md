@@ -64,3 +64,4 @@ Anonymous questionnaire completed by all 127 residents (100% response rate) afte
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
 - [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related
+- [Students' self-reported mastery of knowledge improved after the flipped classroom across all four measured knowledge factors](flipped-classroom-knowledge-mastery-improvement-radiology.md) — related

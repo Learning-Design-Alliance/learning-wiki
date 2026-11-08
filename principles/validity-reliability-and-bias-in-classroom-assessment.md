@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 431 claims (203 for, 200 mixed, 28 against) · 324 studies (104 associational, 77 design, 52 causal, 47 review, 27 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 28 of 324 report an effect size · 424 claims rest on one study
+> **Evidence** · 434 claims (204 for, 202 mixed, 28 against) · 326 studies (104 associational, 78 design, 53 causal, 47 review, 27 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 28 of 326 report an effect size · 427 claims rest on one study
 
 ## Conditional relationship
 
@@ -275,6 +275,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Self-reported Risk Preference is negatively related to student grades, but this relationship is fully explained by heterogeneous scale use and is no longer significant after vignette correction](../claims/risk-preference-grades-fully-scale-use-artifact.md) [~W] — attached 2026-11-08 from Coenen Johan et al. (2021), which proposed "Use anchoring vignettes or more objective personality measures when studying relationships between personality and academic outcomes, because uncorrected subjective measures overestimate predictive power"; tests this page's relationship.
 - [Reliability is context-dependent rather than a static attribute of a measurement tool](../claims/reliability-context-dependent-not-static.md) [+W] — attached 2026-11-08 from Santomauro Chiara M. et al. (2020), which proposed "Appraise reliability evidence against rules of thumb such as Cronbach alpha of at least 0.70 for research or evaluation purposes".
 - [High school GPA correlates significantly but weakly (0.3) with graduating GPA among Jordanian dental students](../claims/hs-gpa-weak-positive-correlation-dental-aa-gpa.md) [+M] — attached 2026-11-08 from Al-Asmar Ayah A. et al. (2021), which proposed "Use multiple admission criteria beyond high school GPA because HS-GPA has limited predictive value"; tests this page's relationship.
+- [Two OS-12 items — attending to timekeeping and checking the patient's understanding — show insufficient interrater reliability (ICC below 0.5)](../claims/os12-items-7-and-9-insufficient-icc.md) [~W] — attached 2026-11-08 from Iversen Else Dalsgaard et al. (2020), which proposed "Retain all OS-12 items and maintain the 5-point scale; use 'not applicable' only for technical recording problems".
+- [Score variability across examiner pairs is lower than variability across individual examiners in a mock clinical assessment](../claims/paired-examiners-lower-score-variability.md) [+W] — attached 2026-11-08 from Faherty Aileen et al. (2020), which proposed "Use paired examiners with consensus scoring in high-stakes clinical assessments"; tests this page's relationship.
+- [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](../claims/paired-single-examiner-reliability-comparable.md) [~W] — attached 2026-11-08 from Faherty Aileen et al. (2020), which proposed "Use paired examiners with consensus scoring in high-stakes clinical assessments"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Scoping review following PRISMA guidelines searched five databases until June 20
 - [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](growth-mindset-moderates-nrp-simulation-performance.md) — related
 - [Self-reported confidence increased after e-learning boosters but did not relate to knowledge or performance](confidence-increases-unrelated-to-nrp-performance.md) — related
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
+- [Playing the RETAIN board game improved NRP providers' knowledge retention of the neonatal resuscitation algorithm in a small single-site study](retain-board-game-improves-knowledge-retention.md) — related

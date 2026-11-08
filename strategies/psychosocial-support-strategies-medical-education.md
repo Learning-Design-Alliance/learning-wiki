@@ -75,6 +75,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Improve student well-being and adjustment by promoting social support seeking and reducing disengaged and avoidant coping](promote-support-seeking-reduce-avoidant-coping-strategy.md)
 - [Implement educational programmes that enrich university class dynamics so students feel more motivated and can channel academic stress positively](enrich-class-dynamics-programmes-stress-motivation.md)
 - [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
+- [Daily teleconferences and interval wellness surveys to protect team psychosocial well-being during remote rotations](daily-teleconference-wellbeing-monitoring-strategy.md)
 
 ## Examples
 -

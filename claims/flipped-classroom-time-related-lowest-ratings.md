@@ -48,3 +48,5 @@ Descriptive item-level results from the same 14-item perception survey (N=70 int
 - [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
 - [Pre-service teachers reported coming to class prepared and completing assignments in class as the flipped classroom's main positive aspects](fc-positive-aspects-participant-opinions.md) — related
 - [Teachers viewed the flipped classroom favourably overall but raised workload and student-preparation concerns, with experienced flipped teachers more receptive](fc-teacher-perception-workload-resistance.md) — related
+- [Students named conducting research among the difficult aspects of the CRE and called for clearer guidelines, topic options, and more class time](cre-student-difficulties-and-suggestions.md) — related
+- [Teacher preparation time for the flipped classroom was roughly three times that of the traditional classroom, contributing to teacher reluctance](flipped-classroom-teacher-preparation-burden.md) — related

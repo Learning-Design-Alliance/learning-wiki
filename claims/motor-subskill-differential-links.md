@@ -49,3 +49,4 @@ Subskill meta-regressions (Table 4) controlling for study quality. Table 4 print
 - [Fine motor skills correlate more strongly with overall academic-cognitive skills (r = .302) than gross motor skills (r = .170) in children aged 3–16](fims-stronger-than-gms-overall-academic-cognitive.md) — related
 - [Graphomotor skills show the strongest links of the FMS subdomains with academic-cognitive skills, significantly exceeding dexterity](graphomotor-strongest-fms-subdomain.md) — related
 - [Children's baseline motor skills do not correlate with reading-related outcomes or with their use of movement when naming letter-sounds](motor-skills-no-correlation-reading-outcomes.md) — reports the opposite
+- [Whole-body gross motor competence tasks are more consistently related to academic performance than more specific motor competence tasks, per the authors' interpretation](whole-body-motor-tasks-more-consistently-related-academic-performance.md) — reports the opposite

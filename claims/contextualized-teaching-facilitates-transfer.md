@@ -174,3 +174,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Managers describe a gap between practical skills learned in nursing education and the situations encountered in working life](education-work-gap-practical-clinical-skills.md) — related
 - [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — a narrower finding that bears on this claim
 - [Students identify with nurses who master complex environments and stay close to patients, viewing them as professional models](nurses-as-models-complex-units.md) — related
+- [Higher-level clinical reasoning, handling of lines and wires, and dealing with out-of-textbook situations could not be achieved with the e-learning module alone](elearning-alone-limits-reasoning-lines.md) — related

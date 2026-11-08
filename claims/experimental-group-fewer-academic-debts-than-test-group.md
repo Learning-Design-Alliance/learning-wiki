@@ -46,3 +46,4 @@ Group-division results in Table 1 (2013/2014): test group 42 students, experimen
 
 ## Related Claims
 - [The experimental group outgained the control group on adaptation indicators: debts down 8%, adequate self-esteem up 24%, socio-psychological adaptability up 14%, knowledge motivation up 19%, overall adaptation up 14%](experimental-group-adaptation-indicator-gains-versus-control.md) — related
+- [A low percentage of students (about 10–15%) do not improve academically or psychologically from peer tutoring, with reluctance and limited pair differences cited as causes](peer-tutoring-low-percentage-non-improvement.md) — related

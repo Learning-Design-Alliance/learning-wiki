@@ -55,3 +55,4 @@ Thematic analysis of 300-word written reflections from 151 participants, coded i
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
 - [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related
 - [Small-group training in the HMSS was associated with students strengthening communication skills and resolving team conflicts](hmss-small-group-conflict-resolution.md) — related
+- [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related

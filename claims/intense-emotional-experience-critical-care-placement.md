@@ -52,3 +52,4 @@ Thematic analysis of the journals found that "negative emotions predominated" be
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
+- [The highest individual clinical stressors are witnessing critically ill patients, instructor admonition before staff, and communication with the instructor](instructor-related-stressors-highest-in-clinical-learning.md) — related

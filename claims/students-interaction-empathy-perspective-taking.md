@@ -101,3 +101,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — a narrower finding that bears on this claim
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
 - [Content analysis of post-program interviews yielded six categories of dementia supporters' thoughts and learning, including changed images of people with dementia and possible community support](six-interview-categories-supporter-learning.md) — related
+- [Students reported the empathy project improved their understanding of empathy and empathic communication skills](pbl-empathy-student-reflections.md) — a narrower finding that bears on this claim

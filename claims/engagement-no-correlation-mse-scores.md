@@ -51,3 +51,4 @@ Pearson correlation analyses within the cluster-RCT using self-reported time on 
 - [No group difference appeared on any of the three subtest video cases used for follow-up assessment](no-subtest-video-group-differences-mse.md) — related
 - [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related
 - [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — a narrower finding that bears on this claim
+- [Time spent on pre-placement work correlates positively with end-of-placement knowledge test performance](preparation-time-correlates-with-knowledge-test.md) — related

@@ -49,3 +49,4 @@ Authors' interpretation of focus-group responses on training difficulties: three
 - [Focus-group interviews of HMSS course students yielded three main themes: learner-centeredness, competencies, and career development](hmss-focus-group-three-themes.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Teachers perceive roda viva as useful for debates and for student-led resolution of intra-group conflicts](roda-viva-perceived-useful-debates-conflict-resolution.md) — related
+- [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — a broader claim this one bears on

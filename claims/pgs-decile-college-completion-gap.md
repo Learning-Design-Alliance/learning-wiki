@@ -47,3 +47,4 @@ The commentary describes this as an example of empirical data on genetics and so
 ## Related Claims
 - [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md) — related
 - [A polygenic score for educational attainment explains about 15% of individual differences in out-of-sample prediction among people of European descent, with a correlation of approximately 0.4 with outcomes](pgs-educational-attainment-15-percent-out-of-sample.md) — related
+- [Decile extremes differ by more than 1.2 SD (GPS) and 1.5 SD (SES) in age-16 achievement, but individual distributions overlap substantially](decile-extremes-differences-with-overlap.md) — related

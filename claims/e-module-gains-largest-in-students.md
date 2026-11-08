@@ -48,3 +48,4 @@ Authors' interpretation of the pre-post results across the 75 trainees by traini
 - [Knowledge scores rose from pre-test to post-test after the emergency module, with the largest rise among Year 4 students and smallest among Year 6 students, in one study with no comparison group](year4-highest-emergency-knowledge-gain.md) — related
 - [Score improvement varied by training level: second-year residents improved most while third-year residents scored highest and improved least](training-level-differences-module-gains.md) — related
 - [A perioperative medicine e-module completed during clinical rotations significantly improves trainees' knowledge test scores](perioperative-e-module-improves-knowledge.md) — related
+- [Earlier trainees (third-year medical students and first-year residents) had the lowest baseline comfort but the largest absolute comfort gains](earlier-trainees-lowest-baseline-largest-comfort-change.md) — related

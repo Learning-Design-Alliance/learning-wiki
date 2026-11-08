@@ -60,6 +60,7 @@ The article recommends scalable, self-directed VR practice to support skill main
 - [Offer immersive VR patient safety education as a scalable alternative to live mock simulation for operating room teams](scalable-vr-patient-safety-education-strategy.md)
 - [Encourage at least weekly virtual simulation practice until competence, then at least monthly for retention](venc-monthly-practice-frequency-strategy.md)
 - [Involve students in real-life resuscitations and adopt competency-based assessments with regular practice rather than relying on course certifications](real-resuscitation-involvement-competency-assessment.md)
+- [Use immersive and interactive VR self-practice as a practical and engaging way for novices to learn the fundamentals of the ABCDE approach](immersive-vr-self-practice-clinical-skills-strategy.md)
 
 ## Examples
 -

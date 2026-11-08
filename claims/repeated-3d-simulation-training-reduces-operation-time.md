@@ -53,3 +53,4 @@ Descriptive within-group training data for the five 3D-model trainees (Table 2 a
 - [Scrub nurses' iVR learning curves showed no average plateau across the three assessments, though the best performers began plateauing by the third assessment on time, prompts and errors](ivr-learning-curve-no-plateau.md) — related
 - [Across repeated simulation sessions, residents showed a slight increase in skills assessment score and a decline in operative time](repeated-simulation-sessions-slight-score-increase-time-decline.md) — related
 - [In one single-group pre-post study, VSD and RVOT patch appliance times fell significantly from the first to third simulation surgery among inexperienced cardiothoracic surgeons on a 3D-printed TOF model](simulation-surgery-3d-tof-model-reduces-patch-appliance-time.md) — related
+- [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related

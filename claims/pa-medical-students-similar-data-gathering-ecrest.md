@@ -48,3 +48,5 @@ Retrospective comparison of 159 medical and 54 PA students completing eCREST Cas
 - [Both PA and medical students improve diagnostic accuracy during eCREST cases, with PAs starting higher and medical students improving more steeply](both-groups-improve-diagnostic-accuracy-ecrest.md) — related
 - [PA and medical students show similar flexibility in thinking about diagnoses when using eCREST](pa-medical-students-similar-diagnostic-flexibility-ecrest.md) — related
 - [Medical and PA students' reflective takeaways differ: medical students more often cite open-mindedness, PAs more often cite knowledge improvement](reflection-themes-differ-pa-medical-students.md) — related
+- [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related
+- [eCREST did not significantly change relevance of history taking or flexibility in diagnoses](ecrest-no-effect-relevance-flexibility.md) — related

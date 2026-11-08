@@ -49,3 +49,4 @@ Qualitative content analysis (Mayring approach) of 73 semi-structured interviews
 - [Motivation to adopt routine PRO assessment differs by professional target group: survival benefit motivates oncologists while standardised care pathways support nursing engagement](pro-adoption-motivation-differs-by-target-group.md) — related
 - [HCPs favour a modular e-learning structure with units of 10–25 minutes, a total programme of 1.5–2 hours, and certification options](modular-structure-unit-length-certificate-preferences.md) — related
 - [Clinicians and patients interpreted personalization differently: homogenous sub-cohort versus individual patient](personalization-interpretation-divergence.md) — related
+- [Oncologists' most prominent learning needs for information provision are tailoring information to the individual patient, structuring and prioritising information, and dealing with patients' emotions](oncologist-information-provision-learning-needs.md) — related

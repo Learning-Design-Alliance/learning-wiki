@@ -51,3 +51,4 @@ A student participant in Theme 4 anticipated reduced medication errors: "If you 
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Professional hierarchy and low student confidence are key barriers to interprofessional education](hierarchy-and-confidence-barriers-ipe.md) — related
 - [Stakeholders at a Ugandan medical school perceive interprofessional collaboration, mutual learning, and preparation for future teamwork as key facilitators of simulation-enhanced IPE](sim-ipe-significance-facilitator-uganda.md) — related
+- [Students report that an interprofessional facilitator team providing immediate feedback helped consolidate learning and promote clinical reasoning](interprofessional-facilitator-feedback-consolidates-learning.md) — related

@@ -61,3 +61,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [MMNS alone and combined PA+MMNS significantly improved Kiswahili performance, while PA alone showed no significant association](kazifya-mmns-improved-kiswahili-scores.md) — related
 - [Leisure-time moderate-to-vigorous physical activity is positively associated with competency in all academic skills, with the strongest relationships for mathematics and classroom concentration](mvpa-academic-skill-competency-math-strongest.md) — related
 - [Substituting academic classes with two weekly PA sessions was neither detrimental to cognitive performance nor academic achievement](pa-substitution-not-detrimental.md) — related
+- [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related

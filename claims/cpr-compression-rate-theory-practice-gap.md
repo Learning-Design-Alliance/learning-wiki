@@ -52,3 +52,4 @@ In the same 586-participant multi-centre assessment, the theory-versus-practice 
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
 - [Gaza doctors and nurses show significant BLS knowledge gaps in resuscitation sequence, compression depth, advanced-airway ventilation and choking response](gaza-hcw-bls-knowledge-gaps.md) — related
 - [Compression skill success rates among final-year medical students are low despite generally high self-efficacy perceptions](low-compression-success-rates-despite-high-sep.md) — related
+- [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related

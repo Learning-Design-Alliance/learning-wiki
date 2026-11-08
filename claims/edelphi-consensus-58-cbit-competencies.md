@@ -66,3 +66,5 @@ Three-round e-Delphi study (March–May 2024) with an international expert panel
 - [An international Delphi panel of 19 experienced urologists reached consensus on a reference set of RARP performance metrics](delphi-consensus-rarp-metrics.md) — related
 - [A checklist-based BPMN model of ultrasound-guided CVC placement reached expert consensus in two Delphi rounds, producing a final model of 32 activities](bpmn-cvc-delphi-consensus-32-activities.md) — related
 - [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related
+- [Panel consensus on the required level was reached for 32 of 46 competencies, all categorized as practical rather than theoretical](consensus-level-32-of-46-competencies-practical.md) — related
+- [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — related

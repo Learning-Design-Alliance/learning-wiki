@@ -53,3 +53,4 @@ Self-report questionnaire (Module 1, six items, 5-point Likert scale) administer
 - [Recruitment and retention exceeded expectations, supporting feasibility of virtually delivered telemedicine skills training](virtual-recruitment-retention-feasible.md) — related
 - [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related
 - [Most residents strongly agree the simulator is an effective training device that should be included in the ENT residency program](otoskills-resident-acceptance-strong-agreement.md) — related
+- [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related

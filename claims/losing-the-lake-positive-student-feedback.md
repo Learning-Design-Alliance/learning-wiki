@@ -61,3 +61,4 @@ Post-intervention feedback survey administered only to the experimental group (n
 - [Teacher interviews attributed increased motivation and engagement to the visual and interactive features of learning objects in both settings](teacher-interviews-los-motivation-both-settings.md) — related
 - [PointSolutions wagering questions help keep poorly performing teams engaged in review games](wager-questions-engagement.md) — related
 - [Novice trainees rate PLAN A as engaging and helpful for understanding escalation rationale, though feedback was informal and not formally measured](plan-a-learner-engagement-feedback.md) — related
+- [Students showed a very positive attitude toward the exergame, driven by novelty, fun, music and their affinity with technology](student-positive-attitude-exergame-affinity.md) — related

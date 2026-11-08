@@ -63,3 +63,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
 - [Students uniformly agreed the CBL session improved understanding, integrated anatomy content, and was well organized](cbl-session-survey-agreement-understanding-integration.md) — related
 - [Students reported that the narrated cases created a perception of reality and supported learning the story organization](mobile-vp-qualitative-realism-story-organization.md) — related
+- [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](fc-ebm-open-ended-feedback-ebook-case-discussion.md) — related

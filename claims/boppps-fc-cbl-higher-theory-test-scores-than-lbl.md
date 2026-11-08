@@ -59,3 +59,4 @@ Randomized controlled trial with 38 general practice residents (19 per group) ov
 - [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](cbl-fc-higher-post-test-scores-pulmonary-imaging.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — reports the opposite
 - [FC-TBL students outperformed LBL students in four subsequent molecular-biology-related courses in the seventh and eighth semesters](fc-tbl-improves-subsequent-course-outcomes.md) — related
+- [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related

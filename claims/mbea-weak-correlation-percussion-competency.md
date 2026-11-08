@@ -50,3 +50,4 @@ Cross-sectional correlation/regression analysis of 250 pre-clinical medical stud
 - [Percussion competency scores show broad heterogeneity, with participants scoring both below 50% and above 90%](percussion-competency-score-heterogeneity.md) — related
 - [Logistic regression combining prior training and MBEA score shows limited predictive performance, with poor prediction for musically trained students](logreg-mbea-training-limited-prediction.md) — related
 - [Logistic regression predicting percussion competency from prior music training performs poorly for trained students (class 1 F1 = 0.00), with odds ratio 1.17](logistic-regression-poor-class1-prediction-percussion.md) — related
+- [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related

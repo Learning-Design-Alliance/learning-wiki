@@ -70,3 +70,4 @@ External factors theme of the synthesis covering policy (education and health) a
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
+- [Policy-level priorities for PAL include self-governance support, Ofsted compatibility, and investment in initial teacher training](pal-policy-priorities-ofsted-itt.md) — a narrower finding that bears on this claim

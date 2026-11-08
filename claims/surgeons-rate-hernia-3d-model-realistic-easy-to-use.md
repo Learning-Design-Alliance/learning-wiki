@@ -50,3 +50,4 @@ Post-training questionnaire from a simulation exercise in which 28 of 30 invited
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
 - [Compared with a biological tissue model, the 3D-printed model showed less dissection sensitivity but higher anatomical representation and easier reuse](hernia-model-vs-biological-model-tradeoff.md) — related
 - [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related
+- [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related

@@ -49,3 +49,4 @@ Correlational analysis in the subsample with both stress measures (n = 135 and n
 - [Only students high on both perceived stress and hair cortisol were at significantly increased risk of lower Year-1 pass rates, particularly male students](high-stress-high-cortisol-poor-performance.md) — related
 - [Serum cortisol shows no continuous correlation with perceived stress, perceived memory, or physical activity](cortisol-no-continuous-correlation-stress-memory-activity.md) — related
 - [Higher perceived stress and higher hair cortisol were each associated with lower Year-1 performance](stress-measures-associated-lower-performance.md) — related
+- [More than half of midwifery students in clinical learning report severe perceived stress](midwifery-students-severe-clinical-stress.md) — related

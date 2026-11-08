@@ -102,3 +102,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [Most students expressed misinformation concerns and lacked confidence in their AI-related skills](students-report-misinformation-concerns-low-ai-confidence.md) — related
 - [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — possibly the same claim (merge candidate)
 - [LLM use in nursing education is associated with enhanced cognitive skills and increased quality and accessibility of education](llm-nursing-education-positive-consequences.md) — reports the opposite
+- [Lack of standardisation across medical schools creates an opportunity gap and unequal baseline competence in surgical skills](surgical-curriculum-nonstandardisation-opportunity-gap.md) — related

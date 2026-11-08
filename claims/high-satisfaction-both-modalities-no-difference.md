@@ -52,3 +52,4 @@ Learner satisfaction was evaluated post-training using a 5-point Likert scale in
 - [District leaders reported high satisfaction with the key features of the Learning Salon model across all three surveyed salons](district-leaders-satisfied-learning-salon-features.md) — related
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
 - [Satisfaction with simulation is high regardless of modality or experience level, with no significant differences between telesimulation and in-person groups](high-satisfaction-regardless-modality-experience.md) — possibly the same claim (merge candidate)
+- [Overall satisfaction with the shock simulation training was high in both leaders and followers](high-satisfaction-both-roles-shock-simulation.md) — related

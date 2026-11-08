@@ -77,3 +77,4 @@ A national U.S. Department of Education survey found "1 in 4 public school teach
 - [GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation](gstg-recipients-high-need-schools-subjects.md) — a narrower finding that bears on this claim
 - [Grow Your Own program graduates remain in teaching longer than typical beginning teachers and teach in high-need schools at high rates](grow-your-own-graduates-retain-in-high-need-schools.md) — a narrower finding that bears on this claim
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](nih-spends-millions-annually-ugsp-scholarships.md) — a narrower finding that bears on this claim
+- [Simulation-based learning may serve as a springboard for surgical speciality recruitment by encouraging students to consider surgical careers](sbl-career-recruitment-springboard.md) — related

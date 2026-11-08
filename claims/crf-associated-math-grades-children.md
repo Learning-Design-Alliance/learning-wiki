@@ -53,3 +53,4 @@ Cross-sectional Pearson correlations in a sample of 8- to 12-year-olds from eigh
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](ef-mediate-crf-gsv-grades.md) — related
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](ef-mediate-crf-math-grades.md) — related
 - [No relationship between cardiorespiratory fitness and text comprehension and expression grades was observed](no-crf-text-comprehension-relation.md) — related
+- [Inhibition and cognitive flexibility partially mediated the association between CRF and academic achievement in language and mathematics](inhibition-cognitive-flexibility-partially-mediate-crf-achievement.md) — related

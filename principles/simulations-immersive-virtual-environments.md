@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 523 claims (327 for, 171 mixed, 25 against) · 332 studies (142 causal, 81 review, 39 quant-synthesis, 32 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 332 report an effect size · 518 claims rest on one study
+> **Evidence** · 527 claims (331 for, 171 mixed, 25 against) · 336 studies (143 causal, 81 review, 39 quant-synthesis, 35 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 336 report an effect size · 522 claims rest on one study
 
 ## Conditional relationship
 
@@ -521,6 +521,10 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](../claims/expert-validation-above-80-percent-all-aspects.md) [+W] — attached 2026-11-08 from Fonseca LMM et al. (2020), which proposed "High technology is not necessary for successful simulation-based learning".
 - [3D display reduces overall Parkour performance time compared to 4K across all experience levels in a randomized cross-over training trial](../claims/3d-display-shorter-parkour-time-than-4k.md) [+W] — attached 2026-11-08 from Wahba R et al. (2020), which proposed "Use 3D laparoscopic display rather than 4K for minimally invasive surgical training and performance, regardless of trainee expertise level".
 - [Trainees' self-rated non-technical skills and textbook knowledge for nighttime HEC missions improved after indoor simulation training](../claims/indoor-night-hec-simulation-self-rated-skill-gains.md) [+W] — attached 2026-11-08 from Pietsch Urs et al. (2020), which proposed "Three-day indoor night-HEC simulation curriculum: classroom refresher, escalating simulated scenarios with debriefing, and transfer discussion"; tests this page's relationship.
+- [Physician residents rated the LSM prototype's nipples and breast tissue as realistic (5.5/7) and reported it helped them learn breast assessment in a 2017 workshop](../claims/resident-lsm-prototype-realism-2017.md) [+W] — attached 2026-11-08 from Sadovnikova A et al. (2020), which proposed "Use high-fidelity simulation as the ideal learning modality for breastfeeding education because lactation skills require confident, deliberate practice touching intimate body tissue".
+- [The simulator was built for a fixed cost of US $30 plus US $4 per use, enabling multiple iterations per assembly](../claims/bg-pdt-simulator-cost-us30-fixed-us4-per-use.md) [+W] — attached 2026-11-08 from Kattan Eduardo MD et al. (2019), which proposed "Prefer low-cost, easy-to-construct simulators to enable simulation training in settings where commercial simulators are unaffordable or unavailable".
+- [Cardiac auscultation diagnostic accuracy rose from 28% before to 61% after a simple sound simulation lesson among junior doctors, in a single-group pre-post study with no comparison group](../claims/sound-simulation-lesson-improves-auscultation-accuracy.md) [+W] — attached 2026-11-08 from Tokuda Yasuharu et al. (2020), which proposed "Combine pre-test, sound simulation lesson and post-test with gamification to teach cardiac auscultation to large groups"; tests this page's relationship.
+- [Beginner participants improved their simulator scores after repeated practice, with significant improvement after 10 experiments](../claims/epidurosim-beginners-improve-repeated-practice.md) [+W] — attached 2026-11-08 from Lee Jong Joo et al. (2020), which proposed "Use virtual simulators to train risky interventional procedures because they avoid the ethical problems and hazards of practicing on real patients".
 
 ## Objective and learner-valued goal
 

@@ -54,3 +54,4 @@ Voluntary end-of-course group survey (10 of 24 groups responded, a 42% group res
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md) — related
 - [Students in the experimental group perceived that strategy instruction and labels positively impacted their online discussion and learning](positive-student-perceptions-of-strategy-labels.md) — related
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
+- [Students in an introductory CRE through PBL perceive the course structure, group work, and their learning experience positively, with all survey items averaging over 4.0 out of 5](pbl-cre-students-positive-perceptions.md) — related

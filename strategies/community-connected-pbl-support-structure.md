@@ -45,6 +45,7 @@ LAUSD's CSI made community-connected PBL a cornerstone of its classroom-practice
 - [Curate and connect open education resources for making, re-formatted and linked to standards, to meet champions' demand for student project guides](curate-open-education-resources-for-making.md)
 - [Racial Equity in PBL - Create Space for Students to Reflect](racial_equity_in_pbl_-_create_space_for_students_to_reflect.md)
 - [Analyzing Projects for ELL Support](analyzing_projects_for_ell_support.md)
+- [Establish communities of practice, including an in-school PAL champion and connections to wider PAL networks](pal-community-of-practice-strategy.md)
 
 ## Examples
 -

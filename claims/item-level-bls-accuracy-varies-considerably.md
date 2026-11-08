@@ -53,3 +53,4 @@ Item-level analysis of 20 BLS knowledge questions among 2,017 HCPs. The article 
 - [Only 26.0% of surveyed dentists in Saudi Arabia demonstrated good knowledge of BLS/CPR, with 41.0% moderate and 33.0% low knowledge](quarter-dentists-saudi-good-bls-knowledge.md) — related
 - [Specific advanced hypothermia decision items showed low accuracy, ranging from 45% to 94% across the scenario's 16 questions](vr-scenario-item-accuracy-range-45-94.md) — related
 - [Long-term-care students have the highest number of weak competencies requiring improvement](long-term-care-most-weak-competencies.md) — related
+- [Only about 7.7% of surveyed Shanghai senior high school students reached the CPR knowledge qualification threshold, with pass rates lowest for defibrillation items](shanghai-high-school-cpr-qualification-rate-7-7-percent.md) — related

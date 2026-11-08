@@ -71,3 +71,4 @@ Mann-Whitney U comparisons of attitude items by EBM training status in the same 
 - [Prior EBM training is associated with higher self-rated EBM skills across all skill domains among Palestinian medical students](ebm-training-higher-self-rated-skills-palestinian-students.md) — related
 - [GPs hold mixed attitudes toward EBM: majority positive but a minority perceive limited value or threat](mixed-gp-attitudes-toward-ebm.md) — related
 - [Palestinian medical students report limited access to paid databases, funding, and mentorship as barriers to EBM engagement](structural-barriers-ebm-palestinian-students.md) — related
+- [Attitudes towards EBM are positive overall; EBM-trained students agree more strongly on most attitude statements but remain neutral on whether EBM incorporates physician expertise and patient preferences](ebm-attitudes-positive-training-strengthens-agreement.md) — related

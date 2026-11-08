@@ -46,3 +46,4 @@ In the ALSPAC SEM with mutually adjusted parenting factors, the stimulation and 
 
 ## Related Claims
 - [Parental enjoyment is negatively associated with English GCSE grades at age 16, independent of stimulation and teaching](enjoyment-negatively-associated-english-grades.md) — related
+- [Cognitive stimulation in the home at age 14 is positively related to academic achievement at age 16, controlling for age-14 achievement, among low-income African American adolescents](cognitive-stimulation-home-predicts-achievement-gains-african-american-adolescents.md) — related

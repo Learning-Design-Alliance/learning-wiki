@@ -48,6 +48,7 @@ The article's procedure for consensus-based curriculum development: experts rate
 ## Related Strategies
 
 - [Use a systematic review plus Delphi process to derive competency frameworks from empirical evidence](systematic-review-delphi-competency-derivation.md)
+- [Use nominal group technique in expert workshops to reach consensus on training principles](nominal-group-technique-expert-consensus.md)
 
 ## Examples
 -

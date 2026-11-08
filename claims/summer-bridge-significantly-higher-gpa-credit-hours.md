@@ -50,3 +50,4 @@ Second-stage analysis comparing intervention and control groups using t tests an
 - [Summer Bridge participants at a Hispanic-serving community college outperformed non-participants in gatekeeper course pass rates, with gains growing across cohorts](summer-bridge-gatekeeper-pass-rates-hispanic-community-college.md) — possibly the same claim (merge candidate)
 - [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](nvcc-bridge-program-full-retention.md) — related
 - [Student engagement with the STAR Lite program increased across successive cohorts](star-lite-engagement-increased-cohorts.md) — related
+- [Credits earned and GPA are strongly correlated (r = .59) in Dutch higher education](credits-earned-gpa-strongly-correlated-dutch-higher-education.md) — related

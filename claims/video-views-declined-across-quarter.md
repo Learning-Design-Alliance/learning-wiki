@@ -64,3 +64,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [Most of the full third-year cohort reported reviewing the pre-module educational materials in advance each week (97%, 89.2%, and 91.7% in weeks one to three)](cohort-material-engagement-rates.md) — related
 - [FCCL students showed high engagement with pre-class videos (average 2.8 of 3 videos viewed weekly; 78.5% average viewing proportion)](fccl-high-pre-class-video-engagement.md) — related
 - [Active demonstration of the e-learning platform within the curriculum sharply increased daily activities, peaking on the announcement day (7 July 2019)](active-demonstration-boosts-elp-activity.md) — related
+- [Video-group participants largely watched the training videos on the assessment day, amounting to just-in-time training](just-in-time-video-viewing-assessment-day.md) — related

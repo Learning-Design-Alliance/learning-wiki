@@ -56,3 +56,4 @@ The CCSR report compares Chicago Public Schools reforms that sorted algebra stud
 - [Pre-policy, classroom average ability related positively to test scores but positively to failure, with effects strongest for high-ability students](pre-policy-composition-test-scores-failure-opposite.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — reports the opposite
 - [Quality of explanations is higher in groups containing above-average students than in groups without them](group-expertise-raises-explanation-quality.md) — related
+- [The average positive effect of rank feedback under relative grading is driven by improvement of low-performing students, consistent with a pass-threshold mechanism](pass-threshold-mechanism-drives-average-effect.md) — related

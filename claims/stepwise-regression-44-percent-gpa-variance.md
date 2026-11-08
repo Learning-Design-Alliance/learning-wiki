@@ -57,3 +57,4 @@ Stepwise multiple linear regression on 256 students, with entry threshold p < 0.
 - [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — related
 - [Gender shows no significant correlation with career and satisfaction factors among dental graduates](gender-no-correlation-career-factors-dental.md) — related
 - [Increased perceived stress correlated negatively with results in the most challenging exam, physiology](stress-inversely-related-physiology-exam.md) — related
+- [Regression models combining demographics, lifestyle, and fitness explain 23.7% to 58.0% of variance in academic performance](regression-models-variance-academic-performance.md) — related

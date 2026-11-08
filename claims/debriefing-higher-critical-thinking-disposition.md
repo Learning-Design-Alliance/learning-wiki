@@ -90,3 +90,4 @@ Same study reporting that Truth-seeking, Maturity, and Open-mindedness dimension
 - [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](mooc-blended-critical-thinking-mixed.md) — related
 - [Four CTDI-CV dimensions (open-mindedness, inquisitiveness, cognitive maturity, systematicity) scores rose significantly from pre-test to post-test after mind mapping, in one uncontrolled pre-post study](mind-mapping-improved-four-ctdi-dimensions.md) — related
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](mind-mapping-improves-critical-thinking-disposition-nursing.md) — related
+- [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related

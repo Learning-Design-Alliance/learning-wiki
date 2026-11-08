@@ -56,3 +56,4 @@ Self-designed satisfaction survey distributed to all 34 experimental group stude
 - [Nearly all simulation participants agreed they could provide ALS more confidently in their future careers, and rated the training 4.88 of 5](high-satisfaction-confidence-after-als-simulation.md) — related
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related
+- [eCREST was highly acceptable to students, with acceptability higher in the integrated cohort](ecrest-high-student-acceptability.md) — related

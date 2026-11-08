@@ -65,3 +65,4 @@ Self-administered 5-point Likert questionnaire completed by the CBL-FC group onl
 - [Flipped classroom students reported higher satisfaction with the teaching model and course duration and higher learning interest](flipped-classroom-satisfaction-interest-gains.md) — related
 - [MPH students reported high overall satisfaction with the FC+CBL format in Introduction to Environmental Health Science](mph-high-satisfaction-fc-cbl-environmental-health.md) — related
 - [All FC+CBL students perceived blended learning as beneficial for the course](mph-unanimous-blended-learning-beneficial.md) — related
+- [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related

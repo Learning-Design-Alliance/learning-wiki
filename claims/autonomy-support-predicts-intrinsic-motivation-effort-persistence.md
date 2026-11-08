@@ -60,3 +60,4 @@ Bayesian Multilevel-SEM estimated separately for each of four outcomes (intrinsi
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related
 - [Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction](autonomy-support-and-structure-complementary.md) — related
 - [In bilingual Tai Chi instruction, teacher support has significant positive direct effects on basic psychological needs, learning motivation, and psychological well-being](teacher-support-direct-effects-embodied-bilingual.md) — related
+- [Perceived teacher autonomy support positively predicts students' basic psychological needs satisfaction in college classes](autonomy-support-predicts-bpn-satisfaction-college.md) — related

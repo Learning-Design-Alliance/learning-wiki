@@ -55,3 +55,4 @@ Univariate behavioral genetic model of parent-rated learning motivation in the E
 - [The reverse math-to-motivation genetic pathway is not moderated by SES, supporting a directional motivation-to-achievement relation](reverse-pathway-not-ses-moderated.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
 - [The observed gene-by-environment pattern supports the diathesis-stress model over the bioecological model of G × E interaction on reading, in this sample of unrelated children](diathesis-stress-model-supported-reading-gxe.md) — related
+- [GPS-by-SES interaction is small and opposite in direction to the gene-by-environment amplification hypothesis](gps-ses-interaction-small-opposite-direction.md) — related

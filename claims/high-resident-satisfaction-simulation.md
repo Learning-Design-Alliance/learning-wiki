@@ -56,3 +56,5 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related
+- [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
+- [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related

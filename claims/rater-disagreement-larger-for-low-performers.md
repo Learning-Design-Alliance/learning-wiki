@@ -50,3 +50,5 @@ Bootstrapping analysis (10,000 resamples) of 45 examiner-pair combinations per v
 - [Simple heuristics applied to examiner pairs reproduce the ten-examiner majority verdict better than random decisions](heuristics-improve-examiner-pair-decisions.md) — related
 - [A ten-examiner majority-rule verdict is robust across experienced and most-confident subgroups](majority-rule-gold-standard-robust.md) — related
 - [Grade discrepancies span about half a grade for excellent candidates but two to three grades for weaker candidates](grade-discrepancy-half-grade-versus-two-three-grades.md) — a narrower finding that bears on this claim
+- [Score variability across examiner pairs is lower than variability across individual examiners in a mock clinical assessment](paired-examiners-lower-score-variability.md) — related
+- [The borderline (average) candidate's outcome differed between solo and paired marking, with pairs never failing that performance](paired-marking-changes-borderline-candidate-outcome.md) — related

@@ -52,3 +52,4 @@ Post-course overall assessment on 5-point scales covering simulator effectivenes
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Participants report high satisfaction with simulation design, with feedback/reflection scoring highest](high-satisfaction-simulation-design-ed.md) — related
+- [Overall satisfaction with the shock simulation training was high in both leaders and followers](high-satisfaction-both-roles-shock-simulation.md) — related

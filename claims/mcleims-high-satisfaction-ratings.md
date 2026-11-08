@@ -67,3 +67,5 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Students report high satisfaction with all three course formats, particularly the blended learning approach](high-satisfaction-blended-local-anaesthesia-course.md) — related
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
+- [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
+- [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related

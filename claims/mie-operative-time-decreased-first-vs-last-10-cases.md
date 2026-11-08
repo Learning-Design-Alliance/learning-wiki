@@ -52,3 +52,6 @@ Comparative analysis of initial 10 versus final 10 cases (Fig. 4) in the retrosp
 - [Surgical training did not compromise survival: no significant difference in 2-year overall (p = 0.436) or disease-free (p = 0.305) survival between trainer and trainee patients](mie-training-no-survival-difference.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [After completion of the learning phase, the experienced robotic surgeon's skin-to-skin operative time was significantly shorter than the trainee's (52 vs 65 min, p = 0.0001)](post-learning-skin-to-skin-expert-shorter.md) — related
+- [Billroth I reconstruction time with the augmented rectangle technique is similar between trainees and trainers](art-reconstruction-time-similar-trainees-trainers.md) — related
+- [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related
+- [Total operation time is significantly longer for trainee surgeons than trainers in TLDG](trainee-tldg-longer-operation-time.md) — related

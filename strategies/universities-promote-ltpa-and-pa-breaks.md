@@ -46,7 +46,8 @@ Based on the finding that LTPA related to all studied outcomes and PA breaks to 
 - [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](../claims/active-break-dose-response-academic-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Universities should promote physical activity through innovative motivational teaching strategies such as gamification](universities-promote-pa-innovative-motivational-strategies.md)
 
 ## Examples
 -

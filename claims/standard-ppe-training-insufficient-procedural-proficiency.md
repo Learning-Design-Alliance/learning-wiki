@@ -53,3 +53,5 @@ Baseline assessment of 155 medical students, of whom 73 (62.9%) reported additio
 - [Nursing students report that clinical simulation strengthens their understanding of biosafety practices, particularly PPE use and risk perception](simulation-strengthens-biosafety-ppe-understanding.md) — related
 - [Students most frequently recommend regular infection control training sessions, easier access to PPE and supplies, and more faculty supervision to improve adherence](student-proposed-adherence-improvement-methods.md) — related
 - [The majority of participants experienced problems with simulated self-contamination during PPE doffing](majority-participants-self-contamination-doffing.md) — related
+- [Video training and instructor-led training produce no statistically significant difference in PPE doffing scores one month after training](video-vs-instructor-doffing-no-significant-difference.md) — related
+- [Video training and instructor-led training produce no statistically significant difference in PPE donning scores one month after training](video-vs-instructor-donning-no-significant-difference.md) — related

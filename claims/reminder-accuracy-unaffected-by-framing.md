@@ -49,3 +49,4 @@ Experiment 2 repeated-measures ANOVA on accuracy data: main effect of condition 
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
 - [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — related
 - [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related
+- [Physical reminder gadgets as an add-on to the digital training were discarded because no participant saw added value in them](physical-reminders-discarded.md) — related

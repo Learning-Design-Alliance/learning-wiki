@@ -80,3 +80,4 @@ Multicentre RCT in which 65 residents performed 139 ETIs, comparing simulation-b
 - [Attending physicians achieved higher first-pass intubation success rates than medical students, postgraduate trainees and residents in simulated difficult airway scenarios](seniority-predicts-simulated-intubation-success-rate.md) — related
 - [Students who received LP simulation training had a higher first-LP success rate in real patients than untrained controls (67% vs 14%)](lp-simulation-higher-first-lp-success.md) — related
 - [Just-in-time training videos before procedures yield faster learning and more successful performance than reading textbooks (Level 1b, Grade B)](jitt-videos-faster-learning-procedural-skills.md) — related
+- [First-pass endotracheal intubation success did not differ between cadaver-trained and manikin-trained students](cadaver-vs-manikin-first-pass-success-null.md) — related

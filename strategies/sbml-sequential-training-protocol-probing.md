@@ -77,6 +77,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 - [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
+- [Use the simulator as the first step toward a BG-PDT simulation-based training program with multimodal competency assessment](bg-pdt-simulation-training-program-strategy.md)
 
 ## Examples
 -

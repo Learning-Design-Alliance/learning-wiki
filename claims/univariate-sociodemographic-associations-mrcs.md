@@ -53,3 +53,4 @@ Univariate chi-square analysis of first-attempt pass/fail outcomes for 5780 Part
 - [Male sex showed higher first-sitting pass rates in this cohort, contrasting with earlier MRCP studies that found no difference or the reverse direction](mrcp-part1-male-higher-pass-rate-vs-prior-studies.md) — related
 - [UK graduates from more socioeconomically deprived backgrounds are less likely to pass written, but not clinical, postgraduate examinations at first attempt](ukg-deprivation-lower-written-pass-odds.md) — related
 - [Being a non-graduate on entry to medicine independently predicts first-attempt success at both MRCS Part A (OR 1.98) and Part B (OR 1.77)](non-graduate-independent-predictor-mrcs.md) — related
+- [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related

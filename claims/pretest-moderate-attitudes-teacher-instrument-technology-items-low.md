@@ -50,3 +50,4 @@ Descriptive pretest analysis across both groups before application: highest mean
 - [Traditional song teaching with educational music repertoire produced significant attitude increases only on performance-related items and no significant change on other items](traditional-repertoire-song-teaching-limited-attitude-change.md) — related
 - [Using Turkish pop music samples with karaoke recordings in song learning produced significant pretest-posttest increases in middle school students' attitudes to music lessons on most scale items](pop-music-song-learning-increased-music-lesson-attitudes.md) — related
 - [Training gains were largest for task-oriented technical items and smallest for internal self-trust items](technical-items-gain-more-than-self-trust-items.md) — related
+- [Students showed a very positive attitude toward the exergame, driven by novelty, fun, music and their affinity with technology](student-positive-attitude-exergame-affinity.md) — related

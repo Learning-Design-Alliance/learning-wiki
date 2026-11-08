@@ -52,3 +52,4 @@ Pragmatic randomized controlled trial; 39 clinicians completed either in-person 
 - [Satisfaction with simulation is high regardless of modality or experience level, with no significant differences between telesimulation and in-person groups](high-satisfaction-regardless-modality-experience.md) — related
 - [Telesimulation produces clinical reasoning improvements comparable to in-person simulation, with a numerically greater but non-significant change in the telesimulation group](telesimulation-comparable-clinical-reasoning-in-person.md) — related
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
+- [The training effect on agreement with experts (MAD) was not maintained at the 2-week follow-up once the training resource was withdrawn](oracles-mad-effect-not-maintained-two-weeks.md) — related

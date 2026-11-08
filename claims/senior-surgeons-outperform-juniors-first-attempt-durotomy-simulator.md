@@ -53,3 +53,4 @@ Validation study of the simulator with 21 participants across training levels; s
 - [Senior trainees scored approximately 30–40% higher than juniors on technical performance measures in simulation studies](senior-junior-technical-performance-gap-simulation.md) — a broader claim this one bears on
 - [All training groups improved repair times with repeated exposure to the simulator](repeated-exposure-improves-durotomy-repair-times.md) — related
 - [Optimal number of procedures for a reproducible assessment is 10, 17, 15, and 17 for PGY 2, 3, 4, and 5 respectively, with senior years requiring more procedures](optimal-procedures-increase-by-pgy.md) — related
+- [Median assessment scores decreased from PGY 3 to PGY 1, which the authors cite as construct validity evidence for the simulation assessment](pgy-subgroup-scores-support-construct-validity.md) — related

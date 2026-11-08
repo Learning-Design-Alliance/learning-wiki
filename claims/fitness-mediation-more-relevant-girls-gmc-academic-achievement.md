@@ -55,3 +55,4 @@ Sex-specific serial multiple mediation analysis in a cross-sectional study of 29
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](ef-mediate-crf-gsv-grades.md) — related
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](ef-mediate-crf-math-grades.md) — related
 - [Complex movement test times (soda pop foot, soda pop hand, Illinois Agility) correlate with multiple academic outcomes in fourth-grade girls](complex-movement-tests-correlate-academics-girls.md) — related
+- [For girls, dynamic balance shows direct, waist-circumference-mediated, and total associations with academic performance, with waist circumference mediating 20% of the total association](girls-balance-mediated-by-waist-circumference.md) — related

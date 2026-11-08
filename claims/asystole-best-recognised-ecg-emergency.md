@@ -52,3 +52,4 @@ Results on ECG emergency tracings in the cross-sectional questionnaire study of 
 - [PGY-5 residents report autonomy for ventricular tachycardia, hyperkalemia, and MI without bundle branch block despite known physician accuracy limitations](unperceived-gaps-pgy5-overconfidence.md) — related
 - [Correct-answer rates varied by tracing category: ECG emergencies highest (26.3%), common abnormalities 10.3%, primary ECG parameters lowest (8.3%)](ecg-category-variation-correct-answers.md) — related
 - [Generalist practitioners in South Africa correctly interpreted only 14.7% of ECG tracings overall](sa-generalists-ecg-competence-14-7-percent.md) — related
+- [Diagnosis recognition, transfer persistence and communication are the weakest checklist items in simulated STEMI care](stemi-checklist-diagnosis-transfer-communication-gaps.md) — related

@@ -55,3 +55,4 @@ Before-and-after study of a short multifaceted EBM course for 5th-year medical s
 - [Medical students who received multifaceted EBM training and searched PubMed or Medline more than three times per week increased from 9.7% to 31.7% (P<0.001)](search-frequency-increased-after-ebm-training.md) — related
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — related
+- [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related

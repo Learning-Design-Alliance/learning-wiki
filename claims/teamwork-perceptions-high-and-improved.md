@@ -50,3 +50,4 @@ Same one-group pretest-posttest student survey. Table 3 shows e.g. "Most student
 ## Related Claims
 - [Self-rated perceived benefits of TBL rose significantly from pre-test to post-test on all items except two teamwork-value items that were highly rated at both time points, in one group with no comparison group](tbl-benefits-improved-except-teamwork-value-items.md) — related
 - [In one uncontrolled pre-test/post-test study, after implementation of the standardized TBL framework in a 6-week course, students' self-reported perception of the TBL process rose significantly from pre-test to post-test on all items except pre-class preparation](tbl-process-perception-improved-post-intervention.md) — related
+- [Students report positive interprofessional attitudes after the TBL session, with majorities agreeing that viewpoints were respected and shared learning helps teamwork](ip-tbl-students-value-interprofessional-learning.md) — related

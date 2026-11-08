@@ -49,6 +49,7 @@ The authors recommend that surgical teams introducing a new procedure use CUSUM 
 ## Related Strategies
 
 - [Use risk-adjusted cumulative sum (RA-CUSUM) analysis to account for case-mix heterogeneity in learning curve assessment](ra-cusum-learning-curve-assessment.md)
+- [Use CUSUM analysis of procedure time to quantify the surgical learning curve for a novice team adopting a new procedure](cusum-learning-curve-analysis-surgical-training.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Paired t-test comparing 120 post-clerkship students' self-assessments with SP as
 - [SDM and empathy scores do not significantly predict student-SP treatment agreement](sdm-empathy-scores-not-predictive-of-treatment-agreement.md) — related
 - [Students rate their own empathy higher than standardized patients rate them](students-rate-empathy-higher-than-sps.md) — related
 - [Medical students rated their delivery simulation performance lower than faculty assessed them (8.63 vs 8.93)](self-assessment-lower-than-faculty-delivery.md) — related
+- [Medical residents rated their own patient-centeredness significantly lower than simulated patients rated them, with a large effect size](residents-self-rate-patient-centeredness-lower-than-sps.md) — related

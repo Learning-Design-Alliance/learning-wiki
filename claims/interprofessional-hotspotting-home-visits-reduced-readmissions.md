@@ -48,3 +48,4 @@ The review reports on the study by Alderman which "utilised hotspotting in home 
 - [The effectiveness of home visiting and befriending schemes for social isolation and loneliness among older people remains unclear](home-visiting-befriending-effectiveness-unclear.md) — related
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
+- [Community-centered and patient-centered interprofessional experiences broaden students' perception of families' needs beyond the health-disease process](ipe-broadens-perception-of-family-needs.md) — related

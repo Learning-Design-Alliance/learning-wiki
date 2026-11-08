@@ -49,3 +49,4 @@ Descriptive analysis of baseline Fair Grader 2000 scores (maximum 100 points) fo
 - [Within-group baseline-to-final Fair Grader 2000 score changes were not statistically significant in either residency group](fair-grader-within-group-change-not-significant.md) — related
 - [Procedural checklist competence after simulation training does not differ significantly between residents and practicing clinicians](pudendal-block-checklist-no-difference-residents-clinicians.md) — related
 - [Practicing clinicians show higher baseline competency, comfort, and confidence than residents despite low pudendal nerve block volumes](practicing-clinicians-higher-baseline-pudendal-block.md) — related
+- [Residents in training (MIR) score lower than specialty-completed professionals on the knowledge test](mir-lower-scores-than-specialists-knowledge-test.md) — related

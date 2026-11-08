@@ -60,3 +60,5 @@ Partial correlation analysis in the same 713-adolescent cross-sectional sample, 
 - [The escape room-based physical activity intervention significantly improves cognitive flexibility on the Stroop Task in adolescents](escape-room-pa-improves-stroop-cognitive-flexibility.md) — related
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
 - [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
+- [Poorer cognitive flexibility and working memory performance correlate moderately with poorer academic progress (r = −.33 to −.35)](ant-flexibility-working-memory-correlate-academic-progress.md) — reports the opposite
+- [Academic achievement was positively correlated with all three executive function domains in both boys and girls](executive-function-categories-higher-academic-grades.md) — reports the opposite

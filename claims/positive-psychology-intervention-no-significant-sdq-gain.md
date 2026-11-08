@@ -46,3 +46,4 @@ In this pretest/posttest experimental study of 40 boys with learning difficultie
 
 ## Related Claims
 - [Intervention-group means on SDQ impact-supplement items decreased from pretest to posttest across distress, everyday-life interference, friendships, classroom learning, leisure, and burden on others](sdq-impact-supplement-means-decreased-posttest.md) — related
+- [No statistically significant differences emerge across grades 7, 8, and 9 in the experimental group's mathematics self-concept pretest, posttest, or gain scores](no-grade-differences-math-self-concept.md) — related

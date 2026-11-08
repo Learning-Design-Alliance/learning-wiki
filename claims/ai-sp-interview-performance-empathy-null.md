@@ -95,3 +95,4 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [Clustered communication and therapy checklist scores increased in both groups between examinations but without a significant group difference](communication-therapy-scores-no-group-difference.md) — related
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
 - [Pre-registration trainees who used virtual patients reported communication skill development not reported by non-interactive case study users](vp-communication-skills-self-reported.md) — related
+- [Previous voluntary history-taking group participation is associated with better self-rated conversational structure](history-taking-groups-better-self-rated-structure.md) — related

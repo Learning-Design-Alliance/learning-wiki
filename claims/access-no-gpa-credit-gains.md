@@ -52,3 +52,4 @@ Latent growth curve analysis of registrar-recorded credits earned in the RCT fou
 - [ACCESS does not improve self-reported interpersonal functioning relative to delayed treatment among college students with ADHD](access-no-interpersonal-gains.md) — related
 - [ACCESS produces a small improvement in self-reported well-being relative to delayed treatment among college students with ADHD](access-improves-well-being.md) — related
 - [ADHD symptoms were not significantly related to GPA in this sample](adhd-symptoms-not-related-gpa-ethiopian-sample.md) — related
+- [Credits earned and GPA are strongly correlated (r = .59) in Dutch higher education](credits-earned-gpa-strongly-correlated-dutch-higher-education.md) — related

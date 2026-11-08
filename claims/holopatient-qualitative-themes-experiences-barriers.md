@@ -70,3 +70,5 @@ Barrier sub-theme from the same focus groups; some HoloLens wearers reported cyb
 - [Nursing students report positive learning attitudes following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-positive-learning-attitude.md) — related
 - [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
+- [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related
+- [Wi-Fi signal interruptions and smartphone technical failures were a major barrier to the Just Dance Now exergame, causing student frustration](wifi-technical-failures-major-barrier.md) — related

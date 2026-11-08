@@ -73,3 +73,4 @@ Multiple-mediator multilevel analysis (Krull & MacKinnon procedure, N = 787) tes
 - [Cognitive and behavioral engagement fully mediate the relationship between students' academic self-perceptions and academic achievement](engagement-mediation-academic-self-perceptions-achievement.md) — related
 - [Teacher psychological control positively predicts academic stress while autonomy support negatively predicts it in university students](teacher-psychological-control-positively-predicts-academic-stress.md) — related
 - [At the class level, teacher‐reported autonomy support is negatively associated with students' autonomous motivation](class-level-autonomy-support-negative-autonomous-motivation.md) — related
+- [Perceived teacher autonomy support positively predicts students' basic psychological needs satisfaction in college classes](autonomy-support-predicts-bpn-satisfaction-college.md) — related

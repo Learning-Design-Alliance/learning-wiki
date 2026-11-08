@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-08
 recheck_by: 2023
 sources:
   - id: munro-malcolm-g-md-2020
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
+> **Currency** · newest study 2020 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Novices took significantly longer than mid-level residents and proficient surgeons longer than experts on both hysteroscopic exercises (H-1 targeting; H-2 polyp removal), but the differences were not as profound as in the laparoscopic tasks. [→ Munro Malcolm G. MD 2020](#munro-malcolm-g-md-2020)

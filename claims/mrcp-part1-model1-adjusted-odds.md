@@ -75,3 +75,5 @@ Same Model 1 regression, contrasting programme types against standard entry. Gat
 - [Being male is an independent predictor of passing MRCS Part A at the first attempt after adjusting for prior academic attainment and all sociodemographic factors (OR 2.34)](male-independent-predictor-mrcs-part-a.md) — related
 - [Being a non-graduate on entry to medicine independently predicts first-attempt success at both MRCS Part A (OR 1.98) and Part B (OR 1.77)](non-graduate-independent-predictor-mrcs.md) — related
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
+- [Gateway students enter UK medical school with substantially lower A-level attainment and UCAT scores than SEMED students (Cohen's d = 1.254 and 1.066)](gateway-lower-entry-attainment-aptitude.md) — related
+- [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related

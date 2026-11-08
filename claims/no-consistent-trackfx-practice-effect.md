@@ -72,3 +72,4 @@ First-versus-last-session regression analysis (Fig. 7); despite the nonsignifica
 - [Proportion of correctly identified targets dropped linearly with game level for both children and adults, confirming the dynamic leveling technique adjusts difficulty nearly linearly](dynamic-leveling-linear-difficulty-adjustment.md)
 - [Students initially struggled with game questions but acquired the concepts through repeated play](repeated-game-play-overcomes-initial-difficulty.md) — reports the opposite
 - [No significant performance improvement was detected at the midterm assessment after two training sessions, suggesting a threshold of repeated exposure precedes measurable gains](no-midterm-gain-exposure-threshold.md) — related
+- [Switch and mixing costs reach asymptote after approximately four to six training sessions](switch-cost-asymptote-four-to-six-sessions.md) — related

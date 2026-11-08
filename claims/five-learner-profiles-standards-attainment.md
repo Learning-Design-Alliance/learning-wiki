@@ -58,3 +58,4 @@ A hierarchical agglomerative clustering of CDM attainment probabilities for the 
 - [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
+- [K-means clustering of admissions data yields four student signatures distinguished mainly by uGPA level and trajectory](four-medical-student-signatures-clustering.md) — related

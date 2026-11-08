@@ -78,3 +78,4 @@ In the graphing MANCOVA (n = 120 students analysed, of 199 who took part, after 
 - [Prior knowledge favored the lecture condition at pretest and conditions were equivalent at posttest 2](daa-pretest-posttest-comparability.md) — related
 - [Prior knowledge of AMOLED displays was low and did not differ between the video and text/image groups before instruction](prior-knowledge-amoled-no-group-differences.md) — related
 - [Prior knowledge of the law-related learning topic was low and did not differ between the four experimental groups](prior-knowledge-low-and-equivalent-across-groups.md) — related
+- [Prior VR experience did not interact with condition, indicating VR experience did not improve learning in the VR condition](vr-experience-no-interaction-learning.md) — related

@@ -100,6 +100,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Offer interactive E-book apps for nurses' self-paced in-service education](ebook-app-self-paced-in-service-education-strategy.md)
 - [Embed expert and family videos and self-paced flexible delivery in online professional education to widen reach and consistency](elearning-expert-family-videos-self-paced-strategy.md)
 - [Leverage online and asynchronous learning strategies to supplement lecture and lab components of wheelchair-related content](online-asynchronous-wheelchair-content-strategy.md)
+- [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

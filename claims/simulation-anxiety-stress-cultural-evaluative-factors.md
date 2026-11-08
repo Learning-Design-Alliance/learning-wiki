@@ -54,3 +54,4 @@ Theme 3 'Feeling of anxiety and stress' from the qualitative interviews and focu
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — related
 - [Students' anxiety rose from pre-test to post-test and cortisol output increased after simulation, in a single-group pre-post study; workload ratings differed between simulation types](stress-from-simulation-scenario-not-task-complexity.md) — related
 - [Students experienced stress during simulation sessions from being observed and evaluated, and some expected stress to decline with repetition](sbe-observation-stress-dental-students.md) — related
+- [Cultural and religious traditions are the greatest reported barrier to examining patients of the opposite sex in this Jordanian cohort](cultural-religious-barrier-opposite-sex-examination.md) — related

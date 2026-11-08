@@ -56,3 +56,4 @@ Test successfulness histogram for the 2010 control and experimental groups (Fig.
 - [Experimental class shows higher average SPS observation percentages across all three meetings](experimental-class-higher-sps-observation-across-meetings.md) — related
 - [Experimental groups' post-test mean scores far exceeded control groups' across all three school categories](pbl-post-test-means-exceed-control.md) — related
 - [Cooperative learning benefits higher-achieving students more on competency tests](cooperative-learning-benefits-higher-achievers.md) — related
+- [Hand hygiene passing rate measured by bacterial colony count was significantly higher in the intervention group (95.0%) than the control group (57.5%) at posttest](mixed-media-intervention-improved-hand-hygiene-passing.md) — related

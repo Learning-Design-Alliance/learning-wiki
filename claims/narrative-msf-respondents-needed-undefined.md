@@ -48,3 +48,4 @@ Iterative readings of all assessments by four authors; respondents per trainee v
 - [Narrative MSF comments are predominantly positive and rarely constructive, and respondents use very polite language that can mask criticism](narrative-msf-comment-quality.md) — related
 - [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](msf-written-comments-quality-varies-actionability-limited.md) — related
 - [Experienced supervisors can discriminate between trainees based on narrative MSF reports, with reports of concerning trainees containing significantly more negative and constructive comments](narrative-msf-discriminating-capacity.md) — related
+- [More specific and actionable (relevant) feedback is weakly negatively associated with quantitative ratings (β = −0.09)](feedback-relevance-negative-rating-association.md) — related

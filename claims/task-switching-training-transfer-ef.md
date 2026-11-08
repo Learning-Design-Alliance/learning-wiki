@@ -93,3 +93,5 @@ The review reports, citing Zinke et al. (2012), task-switching training in 10- t
 - [Physical activity interventions in childhood improve fluid intelligence with a small summary effect, based on moderate-certainty evidence](pa-interventions-improve-fluid-intelligence-childhood.md) — related
 - [Training executive function shows mixed effects: near transfer in children without far transfer, near and far transfer in adults, and no causal evidence that EF training improves academic achievement](ef-training-mixed-transfer-and-achievement.md) — related
 - [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md)
+- [Training produces near transfer to an untrained switching task, limited to switch cost at short CSIs](near-transfer-switch-cost-short-csi.md) — a narrower finding that bears on this claim
+- [No far-transfer effects of task-switching training on interference control, response inhibition, working memory, or intelligence](no-far-transfer-executive-functions.md) — reports the opposite

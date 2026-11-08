@@ -60,3 +60,4 @@ Paired t tests compared first versus last attempt times within groups. "For firs
 - [Medical students' task completion times on all four trained laparoscopic tasks decreased significantly from pre-test to post-test after a hands-on laparoscopic training workshop, in one uncontrolled pre-post study](laparoscopic-workshop-reduced-task-completion-times.md) — related
 - [Junior residents who completed more at-home laparoscopic curriculum tasks performed assessment tasks in less time](more-at-home-laparoscopic-tasks-faster-assessment-performance.md) — related
 - [iVR training immediately preceded successful real-operative SCFE revision by a PGY-5 trainee, the first reported direct patient care after iVR](ivr-to-or-immediate-skill-transfer-case.md) — related
+- [All participants improve on a second attempt, with students showing greater improvement on the simplest task](labot-second-attempt-improvement-learning-curve.md) — related

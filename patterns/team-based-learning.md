@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 118 claims (78 for, 36 mixed, 4 against) · 61 studies (20 causal, 17 quant-synthesis, 8 review, 6 associational, 6 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 19 of 61 report an effect size · 110 claims rest on one study
+> **Evidence** · 121 claims (79 for, 38 mixed, 4 against) · 62 studies (20 causal, 17 quant-synthesis, 8 review, 7 design, 6 associational, 3 theoretical, 1 qualitative), `q1`–`q4` · 19 of 62 report an effect size · 113 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In a TBL physiology course, higher-cognitive-level questions were associated with significantly more conceptual explanations in team discussions than lower-level questions](../claims/higher-level-questions-more-conceptual-explanations.md) [~W] — attached 2026-11-08 from Leupen et al. (2020), which proposed "Preclass readiness assurance appears to be a prerequisite for high-quality conceptual team discussion".
 - [Midwifery students taught postpartum hemorrhage via team-based learning show significantly higher clinical reasoning scores than lecture-based learning students at post-test and 2 weeks post-test](../claims/tbl-higher-clinical-reasoning-than-lbl-midwifery.md) [+W] — attached 2026-11-08 from Ulfa Yunefit et al. (2021), which proposed "TBL session sequence for clinical-topic learning: pre-reading, iRAT/tRAT with immediate feedback, appeal, mini-lecture, and application exercise with inter-team debate"; tests this page's relationship.
 - [TBL students report significantly higher classroom engagement than LBL students across all three class sessions](../claims/tbl-higher-classroom-engagement-than-lbl.md) [+W] — attached 2026-11-08 from Ulfa Yunefit et al. (2021), which proposed "TBL session sequence for clinical-topic learning: pre-reading, iRAT/tRAT with immediate feedback, appeal, mini-lecture, and application exercise with inter-team debate".
+- [Students report positive interprofessional attitudes after the TBL session, with majorities agreeing that viewpoints were respected and shared learning helps teamwork](../claims/ip-tbl-students-value-interprofessional-learning.md) [+W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
+- [No significant difference between medical and physiotherapy students' perceptions of the TBL experience](../claims/no-discipline-difference-tbl-perceptions.md) [~W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
+- [Uneven team ratios and late integration of physiotherapy students into established medical teams hindered interprofessional contributions](../claims/uneven-team-ratio-hindered-physio-contribution.md) [~W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
 
 ## Illustrative design instance and observation record
 

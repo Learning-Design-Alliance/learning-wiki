@@ -56,3 +56,4 @@ Analysis of the three review-revise iterations (Table 7) scoring accepted proble
 - [LLM simulation, reflection, and refinement elevates the quality of LLM-generated teaching plans above their unenhanced baselines](llm-simulation-reflection-enhances-teaching-plans.md) — related
 - [Reading intervention gains tend to be optimal between kindergarten and grade 2, stabilizing thereafter](early-reading-intervention-window-kindergarten-grade-2.md) — related
 - [Iterative revision of EPAs based on feedback was undertaken in two included studies.](iterative-revision-of-epas-from-feedback.md) — a narrower finding that bears on this claim
+- [Iterative revisions to the implementation plan produced no evidence of increased implementation outcomes across the three waves](no-uptake-increase-across-waves.md) — related

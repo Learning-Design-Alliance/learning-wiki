@@ -51,3 +51,4 @@ Self-reported evaluation questionnaire from 68 voluntary respondents after compl
 - [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related
 - [Correct rates on fundamental physiology questions increased significantly from Quiz 1 to Quiz 2 during interprofessional OFST](ofst-quiz-fundamental-correct-rate-increase.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
+- [Students report positive interprofessional attitudes after the TBL session, with majorities agreeing that viewpoints were respected and shared learning helps teamwork](ip-tbl-students-value-interprofessional-learning.md) — related

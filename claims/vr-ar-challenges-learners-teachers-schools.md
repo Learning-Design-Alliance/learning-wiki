@@ -84,3 +84,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related
 - [Perceived barriers to implementing ophthalmic simulation in SSA include cost, inadequate supervision, lack of equipment or facilities, resistance to change and sustainability concerns](sbse-implementation-barriers-ssa.md) — related
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
+- [Lack of teacher confidence and competence is a central barrier to PAL implementation](pal-teacher-confidence-competence-barrier.md) — related

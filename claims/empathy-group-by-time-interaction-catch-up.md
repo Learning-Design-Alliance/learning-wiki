@@ -86,3 +86,4 @@ At pretest, measured before any course content, control-group empathy was signif
 - [Communication self-confidence improved significantly over time in both groups, with a significant group-by-time interaction favoring the experimental group](communication-confidence-time-effect-and-interaction.md) — related
 - [Empathic tendency scores changed over time across all groups, rising after simulation and returning near baseline during counseling](empathy-changed-over-time-all-groups.md) — related
 - [Fear of childbirth decreased immediately after wearable birth simulation across all groups, then rose again during follow-up](simulation-temporarily-reduced-childbirth-fear.md) — related
+- [Students with lower pre-test empathy improved significantly in empathy scores after the project-based course, while higher-empathy students did not](pbl-empathy-lower-group-improved.md) — related

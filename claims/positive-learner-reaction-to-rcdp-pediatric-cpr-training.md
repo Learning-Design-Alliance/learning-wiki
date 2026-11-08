@@ -57,3 +57,4 @@ Anonymous post-training reaction survey using Likert-scale multiple-choice quest
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — a narrower finding that bears on this claim
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
 - [First-year medical students reported that the simulation session increased their knowledge of the pulmonary system](students-report-increased-pulmonary-knowledge-from-sbe.md) — related
+- [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related

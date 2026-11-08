@@ -91,3 +91,4 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
 - [The ad hoc 16-item Likert-5 questionnaire measuring motivation, autonomy and self-regulation showed acceptable validity and reliability (KMO = 0.807; α = 0.81)](adhoc-questionnaire-mot-aut-ser-validity.md) — related
+- [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related

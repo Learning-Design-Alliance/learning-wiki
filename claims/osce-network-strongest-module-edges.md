@@ -49,3 +49,4 @@ EBICglasso network estimation over 11 OSCE items in the same cohort; of 55 edges
 - [General Physical Examination is the most central OSCE node by expected influence, followed by Pediatric Skills and Gynecological Obstetrical Skills](general-physical-examination-highest-expected-influence.md) — related
 - [Students perform weakest on auxiliary examination analysis and case analysis and strongest on history taking and basic operations in the OSCE](osce-module-strengths-weaknesses-profile.md) — related
 - [Knowledge gains varied by workshop topic, largest for pulmonary auscultation and smallest for rectal and breast examination](knowledge-gain-varies-by-workshop-topic.md) — related
+- [The cardiac auscultation lab has run annually since 2016, reaching 549 second-year medical students in three cohorts](auscultation-lab-549-students-since-2016.md) — related

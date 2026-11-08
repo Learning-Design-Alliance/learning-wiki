@@ -53,3 +53,6 @@ Cross-sectional study (N = 50 RNs, RTs, NNPs, neonatal consultants and fellows) 
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
 - [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](pretraining-mindset-predicts-posttraining-math.md) — related
 - [There is not enough evidence that e-learning interventions prevent neonatal resuscitation knowledge and performance decay in already-certified providers](insufficient-evidence-elearning-prevents-nrp-decay.md) — related
+- [Self-reported growth mindset moderated HCPs' task performance in the RETAIN video game](growth-mindset-moderates-retain-performance.md) — possibly the same claim (merge candidate)
+- [Pre-course preparation with NRP eSim plus textbook improved performance on several NRP algorithm steps but not the time to perform key steps](nrp-esim-improves-algorithm-steps-not-time.md) — related
+- [Playing the RETAIN board game improved NRP providers' knowledge retention of the neonatal resuscitation algorithm in a small single-site study](retain-board-game-improves-knowledge-retention.md) — related

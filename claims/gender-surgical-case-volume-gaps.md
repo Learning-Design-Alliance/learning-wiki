@@ -56,3 +56,4 @@ The review reports, citing Gong et al. and a systematic review, that female trai
 - [Female trainees report more perceived anxiety, longer operating times and reduced confidence after a surgical hiatus](female-trainees-greater-perceived-decay-and-confidence-loss.md) — related
 - [Surgical aspiration significantly sped skill acquisition among male students but showed no significant impact among female students](aspiration-effect-male-only-female-null.md) — related
 - [Gender affects non-dominant completion time, significant only in the novice group](gender-nd-completion-time-novice-only.md) — related
+- [Gender divide in intimate examination exposure is pronounced, with males far more likely to have performed male genitalia and prostate examinations and females breast examinations](intimate-examination-gender-divide-jordan.md) — a narrower finding that bears on this claim

@@ -77,3 +77,4 @@ Curriculum-integrated interactive learning exercise (n=158) for second-year stud
 - [Discharge-medication knowledge for EV and PUD increased significantly only when all residents were combined (p = .01), not at individual PGY levels](discharge-medication-knowledge-combined-gain.md) — related
 - [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](trainee-feedback-knowledge-confidence-gains.md) — related
 - [After completing AaLplus, preclinical medical students report high confidence in history taking, physical examination and practical skills](aalplus-high-self-assessed-confidence.md) — related
+- [A brown bag medication reconciliation simulation significantly increased second-year medical students' self-efficacy across all four assessed domains](brown-bag-simulation-increased-self-efficacy.md) — related

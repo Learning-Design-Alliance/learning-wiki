@@ -65,3 +65,6 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
 - [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related
 - [In situ simulation for staff managing critically ill COVID-19 patients can identify safety issues and optimise workflow](in-situ-simulation-covid-icu-safety-workflow.md) — related
+- [Students report that an interprofessional facilitator team providing immediate feedback helped consolidate learning and promote clinical reasoning](interprofessional-facilitator-feedback-consolidates-learning.md) — related
+- [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — related
+- [Simulation-based training improves immediate knowledge-test scores of primary care professionals in critical patient care](simulation-training-improves-pc-knowledge-critical-care.md) — related

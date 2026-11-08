@@ -53,6 +53,7 @@ Debriefing was "structured based on the three-phase approach, including reaction
 - [Debrief the postvention scenario with \"The Diamond\" model across descriptive, analytical and application phases](diamond-model-three-phase-debriefing-postvention.md)
 - [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 - [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
+- [Use a structured three-phase debriefing after each resuscitation scenario, including reaction, advocacy-inquiry, and generalization phases](three-phase-debriefing-shock-simulation-strategy.md)
 
 ## Examples
 -

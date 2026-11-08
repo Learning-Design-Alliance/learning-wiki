@@ -43,6 +43,7 @@ The article's concluding recommendation is that institutions responsible for you
 - [Create opportunities and environments promoting physical activity in students with low academic achievement to help reduce school dropout](pa-opportunities-for-low-achievers-strategy.md)
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 - [Create inclusive, supportive, process-oriented sports environments that prioritize participation experience over competition for adolescents with high BMI](inclusive-supportive-sports-environments-high-bmi.md)
+- [Develop school-based healthy-lifestyle education and free intervention programs (workshops, afterschool programs) targeting eating, sleep, and screen-time habits](healthy-lifestyle-school-intervention-programs.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The article argues that developing a competency framework alone does not change 
 - [Develop an evidence-based framework of five policy recommendations, with implementation proposals, to inform a statutory primary-secondary transitions strategy in England](five-policy-recommendations-transitions-strategy.md)
 - [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
 - [Engineer purpose-built solutions using fit-to-context analysis and a Heilmeier Catechism-style question set](purpose-built-solutions-heilmeier-catechism-questions.md)
+- [Revaluate optometric academic training and create a national competency framework to support professional regulation](optometric-curriculum-revaluation-competency-framework.md)
 
 ## Examples
 -

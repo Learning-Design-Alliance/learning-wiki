@@ -51,3 +51,4 @@ PPI functional connectivity was computed in the high minus low task difficulty c
 - [Task difficulty sensitivity mediates the relationship between math anxiety and math avoidance tendency](difficulty-sensitivity-mediation-math-avoidance.md) — related
 - [HMA individuals show heightened sensitivity to task difficulty but not reward in drift-diffusion modeling of math decisions](hma-task-difficulty-sensitivity-ddm.md) — related
 - [Under high task difficulty, HMA individuals accept significantly fewer math problem challenges than LMA individuals, with no group difference under low difficulty](hma-avoid-high-difficulty-math-acceptance.md) — related
+- [A linear support vector machine using 4 performance metrics classified skilled versus novice participants in a virtual reality brain tumor resection task with 92% accuracy, 100% sensitivity and 82% specificity](svm-classifies-skilled-novice-vr-neurosurgery-92-accuracy.md) — related

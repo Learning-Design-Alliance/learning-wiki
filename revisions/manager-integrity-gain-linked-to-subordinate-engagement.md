@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/manager-integrity-gain-linked-to-subordinate-engagement.md
+---
+
+# Revision history: [claims/manager-integrity-gain-linked-to-subordinate-engagement](../claims/manager-integrity-gain-linked-to-subordinate-engagement.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-6970398 (The effects of training managers on management competencies to improve their management practices and work engagement of their subordinates: A single group pre- and post-test study.) via eval_harness.py + ingest_extractions.py

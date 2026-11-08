@@ -55,3 +55,5 @@ Authors' stated limitations of the study: results reflect a specific simulated c
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — related
 - [Open questions remain on whether VGS improves clinical practice or can replace clinical hours](vgs-clinical-practice-effectiveness-unknown.md) — related
 - [Retention was subtopic-dependent: participants retained minimum competency only in indications/contraindications short- and long-term, and in adverse events long-term](highflow-retention-varied-by-subtopic.md) — related
+- [Evaluation of the auscultation lab is limited to Kirkpatrick level one perception data, with insufficient data on knowledge retention in clinical practice](auscultation-lab-evaluation-limited-to-level-one.md) — related
+- [The article reports that simulation-tested cognitive aids may not perform the same in real clinical situations, and that urban versus rural effects were not examined](simulation-to-real-world-transfer-untested-for-cognitive-aids.md) — related

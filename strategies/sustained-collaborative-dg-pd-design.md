@@ -56,6 +56,7 @@ The article's PD design recipe: a weeklong summer institute followed by six half
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Prepare GSP activities beyond geometry and train teachers in dynamic geometry pedagogy](gsp-teacher-training-and-extension-strategy.md)
+- [Train health teachers with nutrition experts and provide resources and required lessons to promote school nutrition education](tot-expert-training-resources-required-course-strategy.md)
 
 ## Examples
 -

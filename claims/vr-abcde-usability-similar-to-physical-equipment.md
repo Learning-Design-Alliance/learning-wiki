@@ -47,3 +47,6 @@ Two RCTs cited as the effect evaluation of the application: 578 first-year medic
 ## Related Claims
 - [A pop-up quiz tablet refocused idle multiplayer players during long observation steps](quiz-tablet-refocus-multiplayer-players.md) — related
 - [Eight basic ABCDE observations were selected for the VR application based on UK resuscitation guidelines and expert input](eight-abcde-observations-selected.md) — related
+- [Students practicing the ABCDE approach in VR liked the way they practiced and rated it a better way to learn more often than students practicing with traditional equipment](vr-abcde-practice-satisfaction-superior.md) — related
+- [VR students more often correctly observed respiratory frequency than traditional-practice students, while other individual ABCDE observations were similar](vr-respiratory-frequency-observation-advantage.md) — a narrower finding that bears on this claim
+- [Individual self-practice of the ABCDE approach in an immersive and interactive VR application is non-inferior to individual self-practice with traditional equipment for first-year medical and nursing students](vr-self-practice-abcde-non-inferior.md) — a narrower finding that bears on this claim

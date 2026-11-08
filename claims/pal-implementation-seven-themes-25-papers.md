@@ -49,3 +49,4 @@ A five-stage thematic synthesis (PRISMA-guided searches of seven databases, Gars
 - [Ten of the 14 Theoretical Domains Framework domains aligned with PAL implementation themes](ten-of-fourteen-tdf-domains-aligned-pal.md) — related
 - [Time was the most pervasive resource barrier, identified by two-thirds of studies](time-barrier-two-thirds-pal-studies.md) — related
 - [Five barriers hinder implementation of physically active university teaching: uncertainty, lack of space, lack of time, students' unwillingness to move, and organisational social norms](five-barriers-physically-active-teaching.md) — related
+- [Lack of teacher confidence and competence is a central barrier to PAL implementation](pal-teacher-confidence-competence-barrier.md) — a narrower finding that bears on this claim

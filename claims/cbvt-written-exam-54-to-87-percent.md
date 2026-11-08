@@ -49,3 +49,4 @@ Pre/post 10-question multiple-choice exam in the 221-student elective cohort; th
 - [Students' self-ratings of ability across 11 knot-tying and suturing skills rise from 1.4 to 3.9 (scale 1–5) after the CBVT elective (P < 0.01)](cbvt-self-ratings-rise-all-skills.md) — related
 - [Novice medical students' product quality, technique (GRS), and speed rose significantly from pre-test to post-test across all six assessed knot-tying and suturing skills after a self-directed sequential CBVT course, in one uncontrolled pre-post study](cbvt-improves-pqs-grs-speed-six-skills.md) — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
+- [An objective pre/post knowledge quiz showed improvement, but the sample remains too small for formal analysis](objective-knowledge-quiz-improvement-small-sample.md) — related

@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 138 claims (103 for, 32 mixed, 3 against) · 96 studies (40 associational, 20 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 24 of 96 report an effect size · 132 claims rest on one study
+> **Evidence** · 144 claims (108 for, 33 mixed, 3 against) · 99 studies (43 associational, 20 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 25 of 99 report an effect size · 138 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -194,6 +194,12 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Within‐classroom variation in teacher and student perceptions of need support is considerably larger than between‐classroom variation, indicating teachers differentiate between students](../claims/within-class-variation-need-support-larger-than-between-class.md) [+W] — attached 2026-11-08 from Domen et al. (2020), which proposed "Self‐determination theory: need‐supportive teaching through autonomy support and structure as two independent dimensions".
 - [Teacher perceptions of student‐specific autonomy support are positively associated with students' autonomous motivation at the student level](../claims/student-specific-autonomy-support-autonomous-motivation.md) [+W] — attached 2026-11-08 from Domen et al. (2020), which proposed "Self‐determination theory: need‐supportive teaching through autonomy support and structure as two independent dimensions"; tests this page's relationship.
 - [Gamification increased external regulation in university PE students only in the gamified group, with no change in other regulations](../claims/gamification-increased-external-regulation-university-pe.md) [~W] — attached 2026-11-08 from Ferriz-Valero Alberto; Østerlie Ove; García Martínez Salvador; García-Jaén Miguel (2020), which proposed "Self-determination theory continuum of motivation as framework for evaluating gamification in PE".
+- [Autonomous motivation is more specific to the situational school-subject level than controlled motivation](../claims/autonomous-motivation-more-subject-specific-than-controlled.md) [+W] — attached 2026-11-08 from Chanal J (2020), which proposed "The school-subject-specificity hypothesis within the Hierarchical Model of Intrinsic and Extrinsic Motivation".
+- [Situational specificity of regulation types increases along the motivational continuum from external to intrinsic regulation](../claims/specificity-increases-along-motivational-continuum.md) [+W] — attached 2026-11-08 from Chanal J (2020), which proposed "The school-subject-specificity hypothesis within the Hierarchical Model of Intrinsic and Extrinsic Motivation".
+- [In PE classes, perceived autonomy-supportive teaching style positively predicts students' satisfaction of basic psychological needs, while a controlling style negatively predicts it](../claims/as-positive-cs-negative-predict-bpn-satisfaction-pe.md) [+W] — attached 2026-11-08 from Montero-Carretero C. et al. (2020), which proposed "Self-determination theory model of bullying in physical education"; tests this page's relationship.
+- [Students' self-determined motivation in PE negatively predicts bullying perpetration and victimization](../claims/sdi-negative-predicts-bullying-pe.md) [+W] — attached 2026-11-08 from Montero-Carretero C. et al. (2020), which proposed "Self-determination theory model of bullying in physical education".
+- [Autonomy support has indirect negative effects and controlling style indirect positive effects on bullying perpetration and victimization](../claims/indirect-teaching-style-effects-bullying.md) [+W] — attached 2026-11-08 from Montero-Carretero C. et al. (2020), which proposed "Self-determination theory model of bullying in physical education"; tests this page's relationship.
+- [Giving students choice of date or place is associated with sharply lower odds of serious test-taking, unless the test is presented as assessment](../claims/choice-reduces-serious-test-taking-assessment-moderation.md) [~W] — attached 2026-11-08 from Schüttpelz-Brauns et al. (2020), which proposed "Self-determination theory as a framework for classifying institutional strategies affecting test-taking effort".
 
 ## The evidence by question
 
@@ -238,6 +244,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Design running programs to support autonomy, competence and relatedness needs](../strategies/sdt-aligned-running-program-design.md)
 - [Support basic psychological needs and mindfulness through family education sessions and school conditions](../strategies/family-education-sessions-needs-mindfulness.md)
 - [Develop gender-specific, motivation-based curricula that support autonomy and increase intrinsic motivation in PE teacher education](../strategies/gender-specific-motivation-based-pe-curriculum.md)
+- [PE teachers should support autonomy (offering choices, justifying decisions, minimizing pressure) and avoid controlling strategies to help reduce bullying](../strategies/pe-autonomy-support-anti-bullying-strategies.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

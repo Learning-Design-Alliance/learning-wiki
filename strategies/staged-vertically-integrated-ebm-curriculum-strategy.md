@@ -55,6 +55,8 @@ The authors recommend organising EBM instruction around the five steps (Ask, Acq
 - [Implement workplace and curricular EBP training programs targeting question formulation, literature search, retrieval and critical appraisal](ebp-training-programs-workplace-curricula-ghana.md)
 - [Integrate EBM teaching with clinical practice rather than standalone instruction](clinically-based-ebm-teaching-strategy.md)
 - [Implement SDM EPAs through longitudinal workplace training integrated with EBM curricula and supervisor role modeling](longitudinal-workplace-training-sdm-epas-strategy.md)
+- [Follow the EBM course with clinical laboratory counseling or real multidisciplinary patient-care questions to strengthen application skills](post-course-clinical-counseling-questions-ebm.md)
+- [Combine targeted EBM courses with integration of EBM terminology and concepts into other courses, with course placement after the second year](targeted-ebm-training-plus-integration-strategy.md)
 
 ## Examples
 -

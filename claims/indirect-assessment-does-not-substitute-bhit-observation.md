@@ -49,3 +49,4 @@ Pearson correlations among the three assessment forms in the 30-resident cohort.
 - [Post-CBD residents performed worse on the bHIT and MCQ than the pre-CBD cohort, with no improvement in video interpretation](bhit-performance-worse-after-cbd.md) — related
 - [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — related
 - [Most fourth-year Canadian Otolaryngology residents are not competent in performing the bedside head impulse test as judged by two expert examiners](pgy4-otl-residents-not-competent-bhit.md) — related
+- [Resident and intern ratings of the intern's consult-calling ability show only a moderate positive correlation (r = .43)](moderate-correlation-resident-intern-consult-ability.md) — related

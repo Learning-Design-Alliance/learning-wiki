@@ -47,6 +47,7 @@ The authors recommend combining the particular strengths of the two tested forma
 ## Related Strategies
 
 - [Choose or blend asynchronous and synchronous e-learning based on skills targeted, student and teacher preferences, and organisational needs rather than performance alone](blend-sync-async-by-needs-and-preferences.md)
+- [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
 
 ## Examples
 -

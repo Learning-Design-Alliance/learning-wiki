@@ -53,7 +53,8 @@ The article recommends that parents set aside time to assist children because "i
 - [Interest in learning mathematics is the strongest significant positive predictor of students' mathematics achievement in a PLS-SEM model of Indonesian secondary students](../claims/interest-strongest-predictor-math-achievement-pls-sem.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Support lower secondary teachers' ability to connect with students in emotionally supportive ways during the transition](supportive-teacher-connections-transition-strategy.md)
 
 ## Examples
 -

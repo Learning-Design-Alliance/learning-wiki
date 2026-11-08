@@ -76,3 +76,6 @@ Same intervention trial, control schools keeping the 7:30am start time; Table 6 
 - [School-based sleep education improves children's sleep duration and quality](sleep-education-improves-childrens-sleep.md) — related
 - [After app use, students were significantly better at identifying factors affecting sleep quality and benefits of later school start times, but not effects of sleep deprivation](cityhacks-openended-sleep-understanding-mixed.md) — related
 - [Most students believe their sleep pattern affects academic performance, and 85.7% reported performance decreases during sleep disturbance](student-beliefs-sleep-affects-performance.md) — related
+- [Delaying school start times is associated with improved mood, less illness absenteeism, better attention and reaction time, and reduced vehicle accident rates (by 16.5%)](later-start-secondary-outcomes-mood-accidents.md) — related
+- [Delaying school start times substantially delays students' wake time and increases total sleep duration](later-start-times-increase-adolescent-sleep-duration.md) — possibly the same claim (merge candidate)
+- [Delaying school start times reduces adolescent daytime sleepiness, with two exceptions among the reviewed studies](later-start-times-reduce-daytime-sleepiness.md) — a broader claim this one bears on

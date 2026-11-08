@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/nonpunitive-responses-grades-achievement-signal-fades-with-prior-achievement-control.md
+---
+
+# Revision history: [claims/nonpunitive-responses-grades-achievement-signal-fades-with-prior-achievement-control](../claims/nonpunitive-responses-grades-achievement-signal-fades-with-prior-achievement-control.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-7182545 (The Role of Cognitive Stimulation in the Home and Maternal Responses to Low Grades in Low-Income African American Adolescents' Academic Achievement.) via eval_harness.py + ingest_extractions.py

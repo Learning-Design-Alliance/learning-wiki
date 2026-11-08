@@ -50,3 +50,4 @@ Within-school randomized controlled trial with 4,350 students taught by 64 teach
 - [PBE shows no statistically significant effect on teachers' self-reported pedagogical practices, and the survey measure may lack sensitivity](pbe-no-pedagogical-practice-effect.md) — related
 - [PBE professional development shows no statistically significant effect on teachers' economics content knowledge, possibly masked by a ceiling effect](pbe-no-teacher-knowledge-effect.md) — related
 - [PBE-trained teachers report significantly higher satisfaction with teaching materials and methods than control teachers (effect size 1.09)](pbe-teachers-more-satisfied-materials-methods.md) — related
+- [Prior professional eye care training is associated with slightly higher PEC knowledge and skill scores](prior-eye-training-associated-higher-pec-scores.md) — related

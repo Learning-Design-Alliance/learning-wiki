@@ -48,3 +48,4 @@ Edge-weight results of the regularized network of five AI motivation types (Mode
 - [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related
 - [Psychological needs correlate more strongly with more self-determined motivation types, from intrinsic motivation down to near-zero with external regulation](needs-gradient-correlations-motivation-types.md) — related
 - [Need satisfaction and autonomy support did not predict external regulation, and introjected associations did not hold in the full model](needs-autonomy-support-not-predict-external-regulation.md) — related
+- [Situational specificity of regulation types increases along the motivational continuum from external to intrinsic regulation](specificity-increases-along-motivational-continuum.md) — related

@@ -42,7 +42,8 @@ The article proposes a next step for using simulated-patient evaluations predict
 - [Only simulated-patient evaluations remain significant OSCE predictors when all three assessment types are modeled jointly](../claims/simulated-patient-evaluations-remain-significant-in-combined-models.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use patients as assessors of trainee communication to lessen resource demands of standardized patients and OSCEs](patient-as-assessor-communication-strategy.md)
 
 ## Examples
 -

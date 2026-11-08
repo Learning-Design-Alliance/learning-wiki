@@ -111,3 +111,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [High-fidelity simulator realism was rated higher but participant comfort lower than the low-cost simulator, without affecting overall perceived efficacy](hf-realism-higher-comfort-lower-than-lc.md) — a narrower finding that bears on this claim
 - [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — reports the opposite
 - [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — a narrower finding that bears on this claim
+- [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related

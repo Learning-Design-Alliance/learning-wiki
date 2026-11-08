@@ -48,6 +48,7 @@ The review recommends targeted faculty and preceptor development so educators ca
 
 - [Eleven proposed competency areas for the next generation of pre-licensure nursing informatics education](eleven-digital-health-competency-areas.md)
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
+- [Design blended preceptor education by combining web-based modules with face-to-face case-based learning and planning logistics in the initial design phase](blend-wcp-case-based-preceptor-training-strategy.md)
 
 ## Examples
 -

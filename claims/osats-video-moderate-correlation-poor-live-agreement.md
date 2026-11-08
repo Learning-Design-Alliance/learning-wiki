@@ -50,3 +50,4 @@ Inter-rater reliability analysis using Pearson's correlation and Cohen's kappa b
 - [Both A-OSATS versions showed excellent interrater and high intrarater reliability when two blinded raters scored video-recorded anastomoses](a-osats-interrater-intrarater-reliability.md) — related
 - [R-OSAT scoring showed excellent inter-rater reliability between the two independent expert assessors](r-osat-excellent-inter-rater-reliability.md) — related
 - [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — related
+- [Blind OSATS global rating scoring of simulator sessions showed high interrater agreement between two expert observers](osats-high-interrater-agreement-bg-pdt-simulator.md) — related

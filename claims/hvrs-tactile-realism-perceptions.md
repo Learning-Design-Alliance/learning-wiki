@@ -59,3 +59,4 @@ Likert-scale perception survey of all 14 participants. While 71.5% agreed images
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
 - [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — related
 - [Students rated the VR system as more realistic and immersive than theoretical coursework and complementary to it](vr-system-rated-realistic-immersive-complementary.md) — related
+- [Nurse-midwifery students rated Essential and Advanced LSMs realistic when engorged (6.3/7) and not engorged (6.5/7) but were unsure the skin felt realistic (4.3/7)](midwifery-student-lsm-realism-2017.md) — related

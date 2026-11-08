@@ -59,3 +59,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — a narrower finding that bears on this claim
 - [The OSCE performance measure showed acceptable internal consistency (Cronbach's alpha = 0.858)](osce-performance-measure-cronbach-alpha-0858.md) — a narrower finding that bears on this claim
 - [The basic thoracic ultrasound OSCE shows high internal consistency reliability (Cronbach's alpha 0.87 across practical stations)](osce-tus-internal-consistency-alpha-087.md) — a narrower finding that bears on this claim
+- [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related

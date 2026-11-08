@@ -50,3 +50,4 @@ The multivariate linear regression model in the retrospective cohort reported "t
 - [Female gender, CAMS college, program type and earlier graduation year each predicted cumulative GPA alongside admission scores](gender-college-program-year-predict-gpa.md) — related
 - [Mean cumulative GPA and admission scores varied across the 13 allied health programs, highest GPA in occupational therapy and lowest in biomedical instrumentation](program-level-variation-gpa-allied-health.md) — related
 - [Course achievement statistically predicts students' cumulative GPA, leading the authors to predict GPA gains if blended flipped learning continued to graduation](achievement-predicts-cumulative-gpa-blended-flipped.md) — related
+- [Regression models combining demographics, lifestyle, and fitness explain 23.7% to 58.0% of variance in academic performance](regression-models-variance-academic-performance.md) — related

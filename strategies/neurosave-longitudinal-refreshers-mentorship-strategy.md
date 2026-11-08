@@ -54,6 +54,8 @@ Because retention at follow-up was variable, the article recommends that a singl
 - [Continue offering monthly optional anatomy workshops and add a formative anatomy readiness exam before Step 1](monthly-anatomy-workshops-readiness-exam-strategy.md)
 - [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
 - [Sustain framework use with rotation-start references, embedded evaluation prompts, and ongoing self-feedback](sustain-narrative-framework-with-references-and-self-feedback.md)
+- [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
+- [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
 
 ## Examples
 -

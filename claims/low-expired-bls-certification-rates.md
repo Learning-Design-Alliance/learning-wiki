@@ -49,3 +49,4 @@ Descriptive participant-characteristic data from the cross-sectional survey (Tab
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [Nurses at Cape Town district hospitals show very low BLS knowledge and skill scores, with only 3.0% reaching the 80% knowledge threshold](nurses-district-hospital-low-bls-competency.md) — related
 - [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related
+- [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related

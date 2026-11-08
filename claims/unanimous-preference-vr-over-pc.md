@@ -52,3 +52,4 @@ Results statement from the randomized 2×2 crossover study with 22 students in f
 - [Preclinical medical students rated the VR version of a gynecologic pelvic exam simulation significantly higher than the PC version on all five Likert metrics regardless of order of use](vr-scored-higher-than-pc-gpe-simulation.md) — possibly the same claim (merge candidate)
 - [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
+- [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related

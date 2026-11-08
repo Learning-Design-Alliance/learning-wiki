@@ -50,3 +50,4 @@ SEM analysis with MLR estimator (due to normality violation) on data from 207 me
 - [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related
 - [The ACE-HE measurement model of institutional support for ABC engagement also fits the data well](ace-he-institutional-support-model-good-fit.md) — related
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [The measurement and structural models both showed acceptable fit in this college sample](sem-model-acceptable-fit-grit-autonomy.md) — related

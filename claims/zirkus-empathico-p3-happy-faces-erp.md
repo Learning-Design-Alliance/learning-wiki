@@ -68,3 +68,4 @@ Post-training EEG ANOVAs on early ERP components. Contrary to hypothesis, "N170 
 - [Six-week Zirkus Empathico training increased parent-rated empathy (EMK 3-6) but not GEM-rated or child-assessed empathy in preschoolers](zirkus-empathico-empathy-gains-measure-dependent.md) — related
 - [Zirkus Empathico increased parent-rated prosocial behavior but not child-assessed prosocial behavior](zirkus-empathico-prosocial-behavior-parent-rated.md) — related
 - [Zirkus Empathico reduced parent-rated behavioral problems in preschoolers](zirkus-empathico-reduced-behavioral-problems.md) — related
+- [N170 peak latency differs by category (faces fastest, tools slowest) but is unaffected by training or training group](n170-latency-category-differences-no-training-effect.md) — related

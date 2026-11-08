@@ -53,3 +53,4 @@ Hierarchical regression variance decomposition (n = 174): Block 1 explained 11.5
 - [Log-data measures of learning approach and time predict course marks more strongly than self-reported measures, explaining around 22% of the variance versus 5%](log-data-explains-more-variance-in-marks.md) — related
 - [Higher strategic approach scores are associated with better exam grades among first-year occupational therapy students](strategic-approach-better-exam-grades-ot-students.md) — related
 - [Lower surface approach scores are associated with better exam grades among first-year occupational therapy students](surface-approach-lower-grades-ot-students.md) — related
+- [Regression models combining demographics, lifestyle, and fitness explain 23.7% to 58.0% of variance in academic performance](regression-models-variance-academic-performance.md) — related

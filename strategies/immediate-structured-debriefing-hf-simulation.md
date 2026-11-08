@@ -69,6 +69,7 @@ The review recommends that debriefing be treated as a critical phase of high-fid
 - [Use low-cost task simulators within high-fidelity scenarios as a first step in a train-the-trainer cascade for bleeding control](train-the-trainer-cascade-bleeding-control.md)
 - [Video-based structured debriefing with a plus-delta approach immediately after each simulation scenario](video-plus-delta-debriefing-strategy.md)
 - [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
+- [Use a structured three-phase debriefing after each resuscitation scenario, including reaction, advocacy-inquiry, and generalization phases](three-phase-debriefing-shock-simulation-strategy.md)
 
 ## Examples
 -

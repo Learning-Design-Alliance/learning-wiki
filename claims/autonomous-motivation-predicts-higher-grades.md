@@ -51,3 +51,4 @@ Two-sample longitudinal study: motivation measured in class at T1, grades collec
 - [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](sdt-path-strengths-effort.md) — related
 - [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](curvilinear-autonomous-motivation-grades.md) — related
 - [Controlled motivation negatively predicts school grades and does not compensate for low autonomous motivation](controlled-motivation-negative-no-compensation.md) — related
+- [The more specific the motivation measure, the more correlations with students' grades are found](specificity-predicts-grade-correlations.md) — related

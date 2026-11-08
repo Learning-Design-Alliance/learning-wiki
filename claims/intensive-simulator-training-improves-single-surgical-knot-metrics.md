@@ -54,3 +54,4 @@ Observational cohort analysis of 55 course participants (N=54, 43, 51 assessed o
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
 - [Overall SARMS-rated anastomosis quality improved significantly across sessions, with the motion and speed categories showing the strongest significant gains](sarms-quality-improves-motion-speed-significant.md) — related
 - [Knot quality improved much more slowly than time efficiency in laparoscopic knotting training](knot-quality-improves-slower-than-time-efficiency.md) — related
+- [Laparoscopic suturing task performance rose significantly from pre-test to post-test after an intensive hands-on training course, in one uncontrolled pre-post study](suturing-scores-improve-after-training-course.md) — related

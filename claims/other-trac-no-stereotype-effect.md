@@ -49,3 +49,4 @@ Same correlative regression study of the interprofessional practice session. The
 - [More intensive one's own transactive communication, the more negative the stereotypes of the other profession became, contrary to hypothesis](own-trac-negative-stereotype-change.md) — related
 - [The intensity of physiotherapy trainees' transactive communication positively predicts medical students' self-reported knowledge gains in interprofessional peer tutoring](other-trac-predicts-medical-students-knowledge-gains.md) — related
 - [Medical students and physiotherapy trainees differed in knowledge gains, stereotype changes, and rated transactive communication](profession-differences-trac-knowledge-stereotypes.md) — related
+- [Collaborative practice develops students' recognition of their own and other professions' roles and reduces professional stereotypes](ipe-develops-role-recognition-competency.md) — related

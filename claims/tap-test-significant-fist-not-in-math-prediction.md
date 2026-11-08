@@ -77,3 +77,4 @@ Model 2 of the hierarchical regressions, in which the PPVT alone was entered at 
 - [Cognitive flexibility does not add unique explained variance to literacy or mathematics achievement in Grade 2](cognitive-flexibility-no-unique-contribution-grade-2.md) — related
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
 - [Behavioral regulation (inhibition, self-monitoring) and emotional regulation (flexibility, emotional control) scales were not significant predictors of academic achievement at ages 6–9](behavioral-emotional-ef-scales-not-significant-6-9.md) — reports the opposite
+- [A performance-based EF model (cognitive flexibility accuracy, working memory) raised explained variance to 25% but no individual predictor was significant](ant-performance-ef-model-25-percent-none-significant.md) — possibly the same claim (merge candidate)

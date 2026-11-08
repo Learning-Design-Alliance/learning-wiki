@@ -70,3 +70,4 @@ Example of student feedback quoted under the fourth theme: students lacking acco
 - [Free-text student feedback on the 2021 OSCE clustered into four themes, including that the longer examination was too tiring and feedback was lacking](2021-osce-free-text-four-themes.md) — related
 - [Students identified authentic cases, collaborative learning, feedback, worksheets, journal writing, and appropriate difficulty as beneficial, with time constraints and workload as challenges](focus-group-benefits-challenges-flipped-reasoning.md) — related
 - [Faculty focus groups on the PBL-FDP yielded five themes spanning self-insight, challenges, preparation, feedback, and workshop improvement](pbl-focus-groups-five-themes.md) — related
+- [Students cite research skill development, collaboration skills, active learning, and increased motivation as the most beneficial aspects of the PBL-based CRE](cre-open-ended-benefits.md) — related

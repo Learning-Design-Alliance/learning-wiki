@@ -53,3 +53,4 @@ Survey results from 550 learners for modules 1-4 and 223 learners for module 5 s
 - [Students strongly favored the jigsaw peer learning module, with 93% rating it good or excellent and 94% endorsing regular use](student-feedback-favors-jigsaw.md) — related
 - [Participants approved the simulation-based laparoscopic training program at very high rates, with module ratings of excellent or very good for all respondents](high-satisfaction-simulation-laparoscopic-program.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
+- [Learners reported high satisfaction, rating the simulation 97% relevant, 97% effective, and 90% high quality](brown-bag-simulation-high-satisfaction.md) — related

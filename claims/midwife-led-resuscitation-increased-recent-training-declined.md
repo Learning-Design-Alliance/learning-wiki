@@ -51,3 +51,4 @@ Descriptive analysis of resuscitation characteristics among the 1320 ventilated 
 - [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — related
 - [Training in resuscitation skills in a simulated environment alone is not enough to change clinical practice; witnessing successful bag-and-mask ventilation in live resuscitation builds confidence and changes beliefs and behaviors](simulation-alone-insufficient-live-bmv-builds-confidence.md) — related
 - [Clinical application of knowledge performance remained low from pre-test to post-test across training sessions in one group with no comparison group](highflow-clinical-application-low-throughout.md) — related
+- [Among unqualified students, willingness to perform CPR and recent training both decline as school grade increases](willingness-and-recent-training-decline-with-grade.md) — related

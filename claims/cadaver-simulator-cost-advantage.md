@@ -47,3 +47,4 @@ Discussion-section cost review, not a head-to-head experiment. The article repor
 ## Related Claims
 - [The blended UBE course was delivered at a fraction of typical commercial training cost](blended-ube-course-low-cost-efficiency.md) — related
 - [COLOMASTER is priced comparably to cadaver use and above porcine models, but avoids cadaver facility and animal anesthesia costs](colomaster-cost-comparison-cadaver-porcine.md) — related
+- [The simulator was built for a fixed cost of US $30 plus US $4 per use, enabling multiple iterations per assembly](bg-pdt-simulator-cost-us30-fixed-us4-per-use.md) — related

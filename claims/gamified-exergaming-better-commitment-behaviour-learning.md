@@ -51,3 +51,5 @@ The teacher's ratings on a 1-5 scale of each student's commitment and behaviour 
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Rhythmic motor skill academic performance is better after a gamified exergaming intervention than after traditional PE teaching](gamified-exergaming-better-rhythmic-motor-skill.md) — related
+- [Teachers judged the intervention applicable because it was compatible with conventional didactic methods and the school curriculum](intervention-compatible-with-curriculum.md) — related
+- [Teachers' attitudes toward the gamified exergaming intervention were very positive after initial skepticism, but expectations of future use were inconclusive](teacher-attitudes-positive-future-use-inconclusive.md) — related

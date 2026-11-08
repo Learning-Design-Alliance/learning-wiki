@@ -59,3 +59,4 @@ Genetic covariance structure modeling in a classical twin design (2479 MZ and 44
 - In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age — related
 - [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related
 - [For childhood outcomes (academic achievement, ADHD symptoms), genetic-nurturing designs found only direct genetic effects and no genetic nurturing](no-genetic-nurturing-childhood-outcomes.md) — related
+- [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related

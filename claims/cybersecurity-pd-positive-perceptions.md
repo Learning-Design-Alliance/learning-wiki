@@ -53,3 +53,5 @@ Descriptive analysis of post-PD Likert survey responses from the 50 participants
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
 - [Participants rated the training positively on organization, content, material, assessment, and overall competency after each session, with slight declines in most domains except materials.](hbb-training-satisfaction-positive-all-domains.md) — related
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
+- [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
+- [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related

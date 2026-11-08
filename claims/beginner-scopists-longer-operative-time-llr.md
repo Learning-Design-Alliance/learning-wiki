@@ -53,3 +53,4 @@ Retrospective comparison of 161 LLRs by a single surgeon (82 expert-assisted, 79
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
 - [Longer operational time is associated with more assistance requests during novices' first mastoidectomy](operational-time-assistance-correlation-mastoidectomy.md) — related
+- [Time to reach the virtual target did not differ between expert and beginner groups (83.50 s vs. 83.00 s; P = 0.194)](epidurosim-time-to-target-no-group-difference.md) — related

@@ -66,6 +66,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Teach genAI operations, prompt engineering, failure modes, and supervised overreliance before graded genAI-assisted writing](genai-writing-instruction-before-use-strategy.md)
 - [Develop research programs across four areas of K-12 AI education: Learning & Teaching, Integration into STEM/Language Arts/Social Science, Professional Development, and Assessment](four-areas-k12-ai-education-research.md)
 - [Train instructional designers in prompt engineering, articulating prompt objectives, context, and example outputs to improve GenAI-assisted design](prompt-engineering-training-for-instructional-designers.md)
+- [Integrate AI-based teaching platforms with human instructors and rigorous validation](integrate-ai-teaching-with-human-instructors.md)
 
 ## Examples
 -

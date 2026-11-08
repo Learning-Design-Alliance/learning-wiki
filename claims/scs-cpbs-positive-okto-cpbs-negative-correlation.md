@@ -55,3 +55,4 @@ Spearman correlation analysis among the three instrument components in the 434-p
 - [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related
 - [Residents' interest in the field correlated with their self-assessed practical abilities but not with self-assessed theoretical knowledge, and theoretical knowledge showed no correlation with practical abilities](interest-correlates-with-practical-not-theoretical-ability.md) — related
 - [Baseline self-confidence in ECG interpretation does not correlate with baseline ECG exam performance](no-correlation-confidence-ecg-exam-score.md) — related
+- [Resident and intern ratings of the intern's consult-calling ability show only a moderate positive correlation (r = .43)](moderate-correlation-resident-intern-consult-ability.md) — related

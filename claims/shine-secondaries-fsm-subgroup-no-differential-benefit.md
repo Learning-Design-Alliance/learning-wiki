@@ -78,3 +78,4 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [The programme significantly improved enjoyment of reading for pupils not eligible for free school meals but not for FSM-eligible pupils](sarp-enjoyment-fsm-differential.md) — related
 - [Programme effects on reading comprehension did not differ significantly between FSM-eligible and non-FSM pupils](sarp-fsm-subgroup-attainment.md) — a narrower finding that bears on this claim
 - [Subgroup analysis finds no interaction between intervention and subgroup, though benefit appears uneven across sex and handedness](sa-training-subgroup-no-interaction.md) — related
+- [No associations between school health improvement variables and Key Stage 4 attainment in high or low FSM schools](no-health-ks4-attainment-association.md) — related

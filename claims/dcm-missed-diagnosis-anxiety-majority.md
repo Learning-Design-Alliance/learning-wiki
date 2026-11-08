@@ -47,3 +47,4 @@ Fear‐of‐missed‐diagnosis survey item (Table 4): “58.33% expressed concer
 - [Lack of guidelines and lack of training are the most frequently identified barriers to DCM assessment and diagnosis](dcm-barriers-guidelines-and-training.md) — related
 - [Despite high confidence, many MSK physiotherapists misjudge DCM prevalence and diagnostic delay](dcm-prevalence-and-delay-knowledge-gaps.md) — related
 - [MSK physiotherapists recognise conventional DCM symptoms well but unconventional symptoms poorly](dcm-symptom-awareness-conventional-vs-unconventional.md) — related
+- [Fear of not meeting professional standards and of legal responsibility are the main reasons students are unwilling to perform CPR, with the professional-standard worry more common in females](barriers-to-cpr-willingness-standards-and-legal-fear.md) — related

@@ -49,6 +49,7 @@ The article provided teachers eight hours of weekend professional development on
 
 - [Focus additional instruction on items that proved resistant to change or where students still scored low](target-resistant-nutrition-items-strategy.md)
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
+- [Train health teachers with nutrition experts and provide resources and required lessons to promote school nutrition education](tot-expert-training-resources-required-course-strategy.md)
 
 ## Examples
 -

@@ -65,3 +65,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [Formative assessment and continuous feedback are prioritized over traditional offline final examinations in the evaluation phase](formative-assessment-over-final-exams-bmooc.md) — related
 - [Seminar-linked videos and earlier release timing are associated with higher video viewing, viewing index and question response, and lower non-access](seminar-status-and-early-release-drive-engagement.md) — related
 - [No factor showed a significant effect on early drop-out rate, and embedded questions showed only non-significant trends on other outcomes](null-early-dropout-and-nonsignificant-embedded-question-effects.md) — related
+- [Video-group participants largely watched the training videos on the assessment day, amounting to just-in-time training](just-in-time-video-viewing-assessment-day.md) — related

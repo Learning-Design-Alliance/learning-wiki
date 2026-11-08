@@ -52,3 +52,4 @@ Behavioral analysis of the go/no-go data from the same 123-child sample. When mi
 - [Children showed post-error slowing, unaffected by growth mindset, and no baseline post-error accuracy effect](post-error-slowing-children-no-mindset-effect.md)
 - [Growth mindset is unrelated to the ERN (early, automatic error-processing component) in children](mindset-unrelated-ern-children.md) — related
 - [The KITS intervention produced no significant group differences in the ERN or Pe on incorrect trials, nor in behavioral task performance](kits-no-group-effects-ern-pe-behavior.md) — related
+- [Self-reported growth mindset moderated HCPs' task performance in the RETAIN video game](growth-mindset-moderates-retain-performance.md) — related

@@ -71,3 +71,4 @@ Paired t-test comparison of mean i-RAT vs t-RAT scores in the same session. The 
 - [Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance](trat-scores-exceed-irat-scores.md) — a broader claim this one bears on
 - [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](rat-section-difference-same-trend.md) — related
 - [TBL sessions improved knowledge acquisition: tRAT and end-of-session test scores were significantly higher than iRAT scores (p < 0.0001).](tbl-improved-knowledge-acquisition-irat-comparison.md) — related
+- [Team readiness assurance test (TRAT) scores are significantly higher than individual readiness assurance test (IRAT) scores in an interprofessional TBL session](tbl-trat-scores-significantly-higher-than-irat.md) — a broader claim this one bears on

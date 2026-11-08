@@ -52,3 +52,4 @@ Theoretical argument from the abstract, elaborated in the introduction: the arti
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
+- [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — a narrower finding that bears on this claim

@@ -59,8 +59,10 @@ Clear pre-task instructions reduce extraneous cognitive load by eliminating the 
 6. Fade instructional detail as learners gain experience with the task type [Guidance that helps novices can hinder more knowledgeable learners.](../claims/expertise-reversal-effect.md) [+M]
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — pre-task preparation that complements instructions by connecting the task to what learners already know
 - [Action-Oriented Feedback](action-oriented-feedback.md) — feedback during work extends the clarity established by pre-task instructions
+- [Provide students the research skill rubric as a guide before they begin their research](rubric-as-research-guide-strategy.md)
 
 ## Examples
 - **Gagné's "inform learners of objectives" event** — the first instructional event in [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) is precisely this strategy: state what learners will be able to do before instruction begins

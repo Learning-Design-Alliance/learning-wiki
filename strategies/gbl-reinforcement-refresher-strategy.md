@@ -49,6 +49,7 @@ Because performance gains from game-based learning diminished by two months, the
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Add post-training support measures and competency-refresh strategies to sustain effects and enable real-world implementation of change-agent actions](post-training-support-measures-ca-role.md)
 - [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
+- [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 
 ## Examples
 -

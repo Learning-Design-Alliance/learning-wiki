@@ -68,3 +68,4 @@ Interview participants reported that activities helped them relax, gain self-con
 - [Students' most frequent independent learning techniques are seeking extra resources, practice questions, self-questioning, note-making, and group contribution](most-common-independent-learning-techniques.md) — related
 - [Most pharmacy students at a Saudi public university had not used the Saudi Digital Library in the year preceding the study](sdl-unused-past-year-pharmacy-students.md) — related
 - [International medical students in China were pushed by high cost and competitive admission at home and pulled by recommendations, perceived education quality, and safety](china-mbbs-push-pull-motivation.md) — related
+- [Library visiting frequency and book borrowing are associated with academic performance among medical and dental students](library-usage-academic-performance-medical-dental.md) — related

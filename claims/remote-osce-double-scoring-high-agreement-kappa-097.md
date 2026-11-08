@@ -53,3 +53,4 @@ Analysis of scoring data from a pilot remote OSCE administered to 550 clinical m
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
 - [The OSCE performance measure showed acceptable internal consistency (Cronbach's alpha = 0.858)](osce-performance-measure-cronbach-alpha-0858.md) — related
 - [Blinded dual-rater scoring of the modified Welling Scale shows substantial inter‐rater reliability (overall ICC 0.822)](welling-scale-dual-rater-relicability-icc-0822.md) — related
+- [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related

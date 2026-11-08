@@ -47,6 +47,7 @@ The authors recommend moving beyond online lectures toward dedicated online modu
 - [Add dedicated research methodology, ethics, and mentoring components to case-based curricula to address competency gaps](add-research-ethics-components-to-cbl.md)
 - [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Design blended preceptor education by combining web-based modules with face-to-face case-based learning and planning logistics in the initial design phase](blend-wcp-case-based-preceptor-training-strategy.md)
 
 ## Examples
 -

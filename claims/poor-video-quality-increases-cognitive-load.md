@@ -47,3 +47,4 @@ The article reports, citing Guo et al, that "poor-quality videos increase the le
 ## Related Claims
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
 - [Limited camera views and poor sound quality are the two main weaknesses of live video observation](lvo-weaknesses-limited-view-poor-sound.md) — related
+- [Live video streaming engaged a wider audience but poor lighting and audio limited its efficacy](video-streaming-engaged-audience-limited-by-audio-lighting.md) — a narrower finding that bears on this claim

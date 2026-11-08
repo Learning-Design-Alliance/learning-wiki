@@ -98,3 +98,4 @@ A second meta-analysis reported in the same section found introjected and extern
 - [Effort's relation to achievement differs by operationalization: quality-of-learning effort shows a positive link, quantity-of-learning effort is weak, conditional, or negative](effort-mediation-quality-versus-quantity.md) — related
 - [Controlled motivation negatively predicts school grades and does not compensate for low autonomous motivation](controlled-motivation-negative-no-compensation.md) — related
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — possibly the same claim (merge candidate)
+- [The more specific the motivation measure, the more correlations with students' grades are found](specificity-predicts-grade-correlations.md) — related

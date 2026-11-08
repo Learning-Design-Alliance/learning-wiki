@@ -49,3 +49,4 @@ Psychometric analysis of the 50-item scale in 208 rehabilitation therapy student
 - [The three-parameter logistic model was selected for estimating SEL and knowledge-point difficulty because lower-scoring students showed more Guttman errors, indicating guessing](3plm-selected-guessing-parameter.md) — related
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — a broader claim this one bears on
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related

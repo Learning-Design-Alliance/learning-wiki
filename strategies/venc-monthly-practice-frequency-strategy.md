@@ -45,6 +45,7 @@ The article recommends that health professionals use the virtual simulations fre
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
 - [Integrate validated virtual simulation scenarios into nursing curricula and continuing education for Standard Precautions training](integrate-validated-virtual-scenarios-nursing-curricula-strategy.md)
+- [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 
 ## Examples
 -

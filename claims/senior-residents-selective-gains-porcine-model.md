@@ -47,3 +47,4 @@ Paired pre/post questionnaire ratings from "Ten senior OB/GYN residents (fourth-
 ## Related Claims
 - [Junior OB/GYN residents show significant self-rated gains in understanding and confidence for both cesarean uterine suturing and cervical laceration suturing after the porcine stomach simulation course](junior-residents-confidence-gains-porcine-model.md) — related
 - [Surveyed Italian residents report high experience and confidence with simple and complex cesarean sections](italian-residents-cesarean-experience-confidence.md) — related
+- [The cesarean section simulation produced statistically significant improvement in perceived instrument knowledge and suturing skills among all participants](cs-simulation-improved-instrument-knowledge-suturing-all-participants.md) — related

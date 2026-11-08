@@ -52,3 +52,4 @@ Mixed-model repeated-measures analysis of the Empathic Tendency Scale across fou
 - [The simulation-plus-counseling intervention did not change the frequency of applying privacy-protective behaviors](no-change-privacy-protective-behavior-frequency.md) — related
 - [In situ simulation improved teamwork behaviours in 12 of 14 domains during the simulation phase, but benefits returned to baseline when the program was discontinued](in-situ-simulation-teamwork-gains-lost-without-continuation.md) — related
 - [Empathy showed no significant post-test group difference but a significant group-by-time interaction, with the experimental group catching up from a lower baseline](empathy-group-by-time-interaction-catch-up.md) — related
+- [Lower-empathy students' gains appeared in fantasy, empathic concern and personal distress sub-scales but not perspective-taking](pbl-empathy-subscale-pattern.md) — related

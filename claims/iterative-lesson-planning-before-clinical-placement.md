@@ -52,3 +52,4 @@ Program-design description from the case study's lesson planning section, based 
 - Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent — related
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
+- [Iterative revisions to the implementation plan produced no evidence of increased implementation outcomes across the three waves](no-uptake-increase-across-waves.md) — related

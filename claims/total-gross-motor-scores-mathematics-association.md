@@ -52,3 +52,4 @@ Review synthesis of 13 observational studies of total gross motor scores and mat
 - [Total fine motor scores are significantly and positively associated with mathematics performance in school-aged children, with strong review-level evidence](total-fine-motor-scores-positive-mathematics-association.md) — related
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related
 - [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — possibly the same claim (merge candidate)
+- [Whole-body gross motor competence tasks are more consistently related to academic performance than more specific motor competence tasks, per the authors' interpretation](whole-body-motor-tasks-more-consistently-related-academic-performance.md) — related

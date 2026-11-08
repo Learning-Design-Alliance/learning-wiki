@@ -46,3 +46,4 @@ The review reports four studies on perceptions of being recorded: Parker et al. 
 
 ## Related Claims
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
+- [Residents reported discomfort being videotaped and watched in groups, and facilitators struggled to link video feedback with theoretical references](vf-real-consultations-challenges-discomfort-theory-linkage.md) — reports the opposite

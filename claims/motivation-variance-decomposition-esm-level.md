@@ -48,3 +48,4 @@ Unconditional cross-classified multilevel model (M0, Table 2) decomposed varianc
 - [No significant associations between instructional clarity indicators and individual SEVT motivation facets emerged in the main facet-level models](ic-no-effect-sevt-facets.md) — related
 - [Variance in beginning STEM students' test-specific motivation and performance during a math test is primarily between-student, with smaller content-level and residual situation-specific components](cross-classified-variance-math-test-motivation-person-dominated.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
+- [Autonomous motivation is more specific to the situational school-subject level than controlled motivation](autonomous-motivation-more-subject-specific-than-controlled.md) — related

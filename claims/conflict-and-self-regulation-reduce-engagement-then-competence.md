@@ -69,3 +69,4 @@ Post-hoc MODEL INDIRECT analyses in Mplus tested mediation: a "significant indir
 - [In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring](fall-htks-predicts-literacy-gains.md) — related
 - [Kindergarten-spring conflict is positively associated with first-grade closeness, driven by high-conflict children, suggesting an opportunity for a fresh start](high-conflict-children-can-form-new-closer-relationships.md) — related
 - [Teacher-child conflict does not predict subsequent increases in children's inattention and impulsivity, contradicting a bidirectional transaction](no-bidirectional-conflict-to-self-regulation-effect.md) — related
+- [Conflict with teachers after the transition directly undermines subsequent academic achievement, and low achievement predicts increased later conflict with teachers](teacher-conflict-undermines-achievement.md) — related

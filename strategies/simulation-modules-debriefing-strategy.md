@@ -71,6 +71,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Offer unexpected death simulation training as a regular part of health professional curricula](unexpected-death-simulation-regular-curriculum-strategy.md)
 - [Five improvement recommendations: refined modules, more CPX scenarios, evaluator training, video debriefing, and contingency planning](five-gap-closing-recommendations-clinical-curriculum.md)
 - [Small-group, tutor-led VPS training sessions (5–9 students) as an accessible simulation strategy](small-group-tutor-led-vps-session-strategy.md)
+- [Use realistic simulation scenarios of STEMI assistance, adjusted to the local health system, in undergraduate medical teaching](realistic-stemi-simulation-teaching-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,5 @@ Development-phase selection process: findings from literature and 18 participant
 ## Related Claims
 - [Iterative testing with 120 participants across about 10 versions drove major redesigns, especially of onboarding](iterative-testing-120-testers-onboarding.md) — related
 - [The application's usability in two RCTs was similar to practicing the ABCDE approach with physical equipment](vr-abcde-usability-similar-to-physical-equipment.md) — related
+- [VR students more often correctly observed respiratory frequency than traditional-practice students, while other individual ABCDE observations were similar](vr-respiratory-frequency-observation-advantage.md) — related
+- [Individual self-practice of the ABCDE approach in an immersive and interactive VR application is non-inferior to individual self-practice with traditional equipment for first-year medical and nursing students](vr-self-practice-abcde-non-inferior.md) — related

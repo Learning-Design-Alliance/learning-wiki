@@ -49,3 +49,4 @@ Pre-post survey analysis of the same intern cohort using t tests on 5-point Like
 - [Station checklists identified performance gaps in all four stations despite orientation education and inpatient practice, enabling targeted actionable feedback](osce-checklists-identified-performance-gaps-all-stations.md) — related
 - [Self-reflection prompts increase observed interpersonal consultation skills, especially confidence in delivering consultations (medium effect)](self-reflection-raises-interpersonal-skills-and-delivery-confidence.md) — related
 - [All respondents reported confidence in performing virtual consultations after the experiential learning phase](vc-module-practical-phase-confidence.md) — related
+- [The assessment did not measure improvement over time because fewer than three observations per intern were collected](no-repeated-observation-improvement-measured.md) — related

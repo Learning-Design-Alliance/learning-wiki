@@ -61,3 +61,4 @@ Item-level analysis of the 11-task checklist at one month in the RCT; Table 4 re
 - [Flipped classroom training produced significantly better clinical skills only on some hemodialysis procedures (aseptic technique, fistula puncture and management, catheter management), with no significant difference on pre-dialysis preparation or machine maintenance](fc-clinical-skills-mixed-across-procedures.md) — related
 - [NIVR training sped up patient reception and ward-exit tasks only, with no significant difference in the other four tasks](nivr-faster-task3-task6-only.md) — related
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
+- [Mixed media education intervention significantly improved nursing students' compliance with standard precautions compared with control at 6-week follow-up](mixed-media-intervention-improved-sp-compliance.md) — related

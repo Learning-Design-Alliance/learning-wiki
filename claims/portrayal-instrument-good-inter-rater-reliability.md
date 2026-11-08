@@ -50,3 +50,4 @@ Inter-rater reliability analysis using intraclass correlation coefficients on bl
 - [Quality-of-portrayal (SP skills) sub-scores rose significantly from pre-test to post-test after Peer Patient education, in one single-group pre-post study](peer-patient-improves-portrayal-quality-subtotal.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
+- [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related

@@ -48,3 +48,6 @@ Prospective self-controlled study of 199 registrants completing 10-item pre- and
 - [In a simulation-based pilot, residents' SAAAR scores improved significantly from pretraining to posttraining across all four domains](saaar-prepost-improvements-all-domains.md) — related
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — related
 - [Individual students' error counts varied from pretraining to posttraining, with 12 students making more errors after training than before](individual-variability-training-response.md) — related
+- [The cardiac auscultation lab has run annually since 2016, reaching 549 second-year medical students in three cohorts](auscultation-lab-549-students-since-2016.md) — related
+- [Cardiology rotation training is not associated with greater cardiac auscultation accuracy among junior doctors](cardiology-rotation-no-auscultation-advantage.md) — related
+- [Cardiac auscultation diagnostic accuracy rose from 28% before to 61% after a simple sound simulation lesson among junior doctors, in a single-group pre-post study with no comparison group](sound-simulation-lesson-improves-auscultation-accuracy.md) — related

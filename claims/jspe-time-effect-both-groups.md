@@ -56,3 +56,4 @@ Repeated-measures ANOVA main effect of time on JSPE-HPS total, Perspective Takin
 - [Simulation-based learning is associated with statistically significant improvements in self-efficacy, engagement (vigor, absorption, total), and empathy (compassionate care, total) among undergraduate physiotherapy students, with small effect sizes](sbl-improves-self-efficacy-engagement-empathy-pt-students.md) — related
 - [Clinical teachers function as mentors and professional exemplars whose modelled conduct transmits empathy, professionalism and clinical reasoning to students](clinical-teachers-as-mentors-and-exemplars.md) — related
 - [Empathy is unrelated to medical students' academic performance](empathy-unrelated-academic-performance-medical-students.md) — related
+- [An 8-hour introductory MI training significantly and substantially increases therapeutic empathy among undergraduate students](8-hour-mi-training-increases-therapeutic-empathy.md) — related

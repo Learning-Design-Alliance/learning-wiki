@@ -52,3 +52,4 @@ National combined online and telephone survey of 346 FY2 doctors in UK EDs; the 
 - [Foundation and SHO doctors working in UK general EDs lack confidence in managing ophthalmic emergencies](foundation-sho-doctors-lack-confidence-ophthalmic-emergencies.md) — related
 - [Confidence in slit-lamp use among junior ED doctors declined between 1993 and 2018](slit-lamp-confidence-declined-junior-ed-doctors.md) — related
 - [Undergraduate ophthalmology teaching is widely perceived as inadequate preparation for ED work](undergraduate-ophthalmology-teaching-inadequate.md) — related
+- [Ophthalmic assistants, PHCWs and the district health manager all agree PEC training is needed, and PHCWs state willingness and time to be trained](stakeholders-agree-pec-training-needed-phcws-willing.md) — related

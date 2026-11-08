@@ -50,3 +50,4 @@ Descriptive comparison of completion-time medians across repeated segments withi
 - [Intermediate microsurgeons show shorter idle times than novices, though not significantly in the first segment for tweezers and both instruments](intermediates-shorter-idle-time.md) — related
 - [Repeated attempts within a two-hour basic laparoscopy training significantly decrease novices' completion times on both tasks, and failure rates decrease significantly on task 1 but not task 2](novice-laparoscopy-learning-curve-two-hour-training.md) — related
 - [A sensor-based objective metric framework differentiates novice from intermediate microsurgeons in line with ALI-based subjective assessment](sensor-metrics-differentiate-microsurgery-proficiency.md) — related
+- [All participants improve on a second attempt, with students showing greater improvement on the simplest task](labot-second-attempt-improvement-learning-curve.md) — a narrower finding that bears on this claim
