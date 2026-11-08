@@ -71,3 +71,4 @@ Bivariate correlations between gender and empathy subscales; the article interpr
 - [Programs reduce rape myth acceptance relative to control (g = −0.47)](tdv-programs-reduce-rape-myth-acceptance.md) — related
 - [Female medical students were reported to have higher empathy scores than male students in 18 of the included studies, with no gender differences found in seven cross-sectional studies](female-medical-students-higher-empathy-scores.md) — related
 - [Female students reported significantly higher empathic care intentions than male students, but the sex difference in empathy was not significant](sex-differences-empathic-care-intentions.md) — related
+- [Lecturers show selective acceptance toward PLHIV, extending more empathy to those seen as innocent victims than to those perceived as responsible for infection](selective-acceptance-plhiv-innocent-victims.md) — related

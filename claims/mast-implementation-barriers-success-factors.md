@@ -61,3 +61,4 @@ Qualitative thematic analysis of interviews with the five teachers implementing 
 - [Six factors complicate implementing inclusive innovations and their perception by teachers, including lack of skills, diagnostic mechanisms and resources](six-barriers-inclusive-innovation-implementation.md) — related
 - [Providers identified learning materials, mentorship, practice, staff rotation, ongoing training, and equipment availability as factors influencing retention](qualitative-factors-influencing-retention.md) — related
 - [Deductive thematic analysis of student feedback identified five major themes, with 98% of participants crediting teachers' dedication for their academic success](five-themes-student-feedback-remediation.md) — related
+- [Qualitative thematic analysis identified teacher, student, institutional and community factors facilitating the transition to e-learning](facilitating-factors-e-learning-transition-optometry.md) — related

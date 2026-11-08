@@ -52,3 +52,4 @@ A generalizability-theory decision study (reported in Appendix 5) projected how 
 - [The generic rating scale attributes significantly lower performance scores than the extended scale in abdominal ultrasound OSCEs](generic-scale-lower-scores-ultrasound-osce.md) — related
 - [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](d-study-raters-items-phi-acls.md) — related
 - [The assessment showed high inter-station reliability and acceptable inter-rater reliability, but 14 stations would be required for absolute (Phi ≥ 0.8) reliability](sim-assessment-reliability-alpha-icc-generalizability.md) — related
+- [Measurement reliability of the formative OSCE with student examiners is fully in line with the summative comparison OSCEs (Eρ2=0.647, Φ=0.525)](formative-osce-reliability-comparable-summative.md) — related

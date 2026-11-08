@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 343 claims (240 show a difference, 65 mixed, 38 no difference) · 227 studies (88 associational, 62 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 49 of 227 report an effect size · 335 claims rest on one study
+> **Evidence** · 345 claims (242 show a difference, 65 mixed, 38 no difference) · 228 studies (88 associational, 63 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 50 of 228 report an effect size · 337 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -383,6 +383,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Avoidant coping fully mediates the relationship between resilience resources and somatic health symptoms](../claims/avoidant-coping-fully-mediates-somatic-symptoms.md) [+M] — learners who differ on it differ in outcomes
 - [Neither mindfulness nor perceived stress correlated with first-year exam results, apart from a negligible stress-biology correlation](../claims/no-mindfulness-stress-first-year-exam-correlation.md) [-W] — learners who differ on it differ in outcomes
 - [Students experienced stress during simulation sessions from being observed and evaluated, and some expected stress to decline with repetition](../claims/sbe-observation-stress-dental-students.md) [~M] — measured as an outcome of the instruction studied
+- [Music-based CBT significantly reduces test anxiety of primary school children in basic science at posttest compared with a control group](../claims/cbt-music-reduces-test-anxiety-posttest.md) [+M] — measured as an outcome of the instruction studied
+- [The music-based CBT effect on children's test anxiety is maintained at a 2-month follow-up relative to control](../claims/cbt-music-test-anxiety-followup-maintained.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

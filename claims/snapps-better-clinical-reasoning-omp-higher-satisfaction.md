@@ -53,3 +53,8 @@ The article reports, citing comparison research (ref 31), that SNAPPS performed 
 - [In the only midwifery study, SNAPPS-trained fourth-year midwifery students performed better in history taking, diagnosis, and management planning than teacher-centered education](snapps-midwifery-gynecology-trial.md) — related
 - [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related
 - [The article argues OMP suits busy preceptor-directed settings because it needs only a single brief teacher training session, unlike SNAPPS](omp-preceptor-directed-busy-settings-single-training.md) — related
+- [The One-Minute Preceptor model shows high learner and instructor satisfaction, with learners preferring it over traditional precepting (Level 2b, Grade B)](omp-high-satisfaction-preferred-over-traditional.md) — related
+- [SNAPPS use yields benefits over traditional teaching and the OMP model, including increased learner satisfaction and clinical reasoning (Level 1b, Grade B)](snapps-benefits-over-traditional-and-omp.md) — reports the opposite
+- [SNAPPS students more often take the initiative to present and justify diagnoses and management plans than OMP students](snapps-more-initiative-case-presentation.md) — related
+- [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — reports the opposite
+- [SNAPPS versus OMP outcomes do not differ between simple and complex cases](snapps-omp-no-simple-complex-difference.md) — related

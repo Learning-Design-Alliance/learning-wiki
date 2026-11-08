@@ -54,3 +54,4 @@ Descriptive frequency analysis of the 26 included articles in the scoping review
 - [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — related
 - [A BEME review found the OMP and SNAPPS models were the only clinical teaching strategies that consistently improved learners' clinical knowledge and skills](beme-review-omp-snapps-consistently-improved-skills.md) — related
 - [The article argues OMP suits busy preceptor-directed settings because it needs only a single brief teacher training session, unlike SNAPPS](omp-preceptor-directed-busy-settings-single-training.md) — related
+- [The One-Minute Preceptor model shows high learner and instructor satisfaction, with learners preferring it over traditional precepting (Level 2b, Grade B)](omp-high-satisfaction-preferred-over-traditional.md) — related

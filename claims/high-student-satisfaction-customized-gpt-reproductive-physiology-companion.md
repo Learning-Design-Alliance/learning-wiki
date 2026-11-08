@@ -54,3 +54,4 @@ Survey of 47 third-year medical students using a 20-item Likert questionnaire (C
 - [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
+- [Almost 100% of learners would recommend the modules to others and intended to take future UMC courses](almost-100-percent-recommend-modules-and-intend-future-courses.md) — related

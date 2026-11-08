@@ -50,6 +50,7 @@ The article recommends identifying students at risk of failing the NMLE as early
 ## Related Strategies
 
 - [Provide targeted support and resources (mentorship programmes, greater flexibility, grants and bursaries) to candidate groups at increased risk of failing MRCS](targeted-support-at-risk-mrcs-groups.md)
+- [Use in-training examination scores to identify students needing early intervention to reduce final OSCE failure rates](early-intervention-poor-in-training-performance.md)
 
 ## Examples
 -

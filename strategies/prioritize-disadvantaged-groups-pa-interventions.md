@@ -48,6 +48,7 @@ The authors recommend that future physical activity interventions targeting acad
 - [Prioritize early fine-motor-skill interventions for socioeconomically disadvantaged populations](early-fine-motor-interventions-disadvantaged-populations.md)
 - [Create inclusive, supportive, process-oriented sports environments that prioritize participation experience over competition for adolescents with high BMI](inclusive-supportive-sports-environments-high-bmi.md)
 - [Improving educational outcomes for very preterm children may require mitigating social disadvantage and addressing modifiable early-life medical risks](multisectoral-support-very-preterm-school-outcomes.md)
+- [Create opportunities and environments promoting physical activity in students with low academic achievement to help reduce school dropout](pa-opportunities-for-low-achievers-strategy.md)
 
 ## Examples
 -

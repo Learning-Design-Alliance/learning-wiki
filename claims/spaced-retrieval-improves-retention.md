@@ -161,3 +161,5 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Research-supported study techniques (high elaboration, retrieval practice, focusing) correlate positively with secondary school grades, while spacing and low elaboration do not](supported-techniques-correlate-grades-secondary.md) — related
 - [Massed instruction may potentiate learning in certain circumstances, particularly those involving motor learning](massed-learning-motor-learning-circumstances.md) — related
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — a narrower finding that bears on this claim
+- [Reducing cognitive load, interleaving, spaced/retrieval practice, and increased wait-times are recommended to support learning in clinical teaching (Level 2a, Grade B)](cognitive-load-interleaving-spaced-retrieval-waittime-recommendation.md) — related
+- [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related

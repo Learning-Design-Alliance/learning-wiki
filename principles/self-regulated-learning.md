@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 192 claims (82 for, 99 mixed, 11 against) · 131 studies (47 causal, 25 review, 23 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 131 report an effect size · 181 claims rest on one study
+> **Evidence** · 193 claims (83 for, 99 mixed, 11 against) · 132 studies (48 causal, 25 review, 23 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 132 report an effect size · 182 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Metacognitive strategy use positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/metacognition-predicts-elementary-literacy-math.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Elementary classrooms should give students supported opportunities to plan, monitor, and evaluate their learning".
 - [Effort regulation positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/effort-regulation-predicts-elementary-achievement.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Elementary classrooms should give students supported opportunities to plan, monitor, and evaluate their learning".
 - [Home-based self-regulated training and centralized instructor-regulated training produce no significant inter-group differences in laparoscopic performance at pretest, posttest, or 6-month retention test](../claims/hsrt-cirt-no-intergroup-performance-differences.md) [~W] — attached 2026-11-08 from Sloth Sigurd Beier et al. (2021), which proposed "Offer home-based self-regulated laparoscopic training as a feasible and effective alternative to centralized instructor-regulated training only inside a supportive instructional design"; tests this page's relationship.
+- [Adding metacognitive strategy training to working memory training produces greater working memory gains at 3 months than working memory training alone](../claims/metacognitive-addition-greater-wm-gains-3-months.md) [+W] — attached 2026-11-08 from Jones JS et al. (2020), which proposed "Combine working memory training with metacognitive strategy instruction (planning, monitoring, evaluating) to broaden and consolidate transfer"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -48,3 +48,4 @@ Qualitative focus group and individual interview study of twelve nurses from sev
 - [Nurses' initial training for register work was insufficient, but knowledge improved quickly through learning and doing](insufficient-initial-training-learning-by-doing-register-work.md) — related
 - [Nurses took main responsibility for register work, and lack of routines and collaboration made the work time-consuming](nurse-register-responsibility-lacking-routines-time-consuming.md) — related
 - [Nurses used the register form as a template and checklist that structured and improved the content of their consultations](register-form-template-structures-consultations.md) — related
+- [Most CVD fellowship training programs do not provide extensive exposure to cardio-obstetrics despite ACGME requiring competence in heart disease in pregnancy](cvd-fellowships-lack-cardio-obstetrics-exposure.md) — related

@@ -51,3 +51,4 @@ This is the authors' interpretation offered in the Discussion, not a tested resu
 - [Combining VR and layered model training produced no statistically significant additive benefit over either modality alone in this short-term trial](no-additive-effect-dual-modality-simulation.md) — related
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — related
+- [The authors attribute the 4-step group's short-term advantage to Step 3 verbalization producing deeper cognitive processing](step3-verbalization-cognitive-processing.md) — related

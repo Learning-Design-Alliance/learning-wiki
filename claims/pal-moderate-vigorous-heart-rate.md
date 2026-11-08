@@ -48,3 +48,4 @@ Heart-rate monitoring (Polar RS400) in a subset of eight participants across all
 - [Physically active learning weeks increase children's cumulative weekly step counts compared with non-active learning weeks](pal-increases-weekly-steps.md) — related
 - [Children's time on task is about 10 percentage points higher during PAL lessons (97%) than NAL lessons (87%)](pal-raises-time-on-task.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
+- [Children accumulated an average of 19.4 minutes (44.81%) of moderate-to-vigorous heart rate intensity per physical education lesson](mvpa-time-pe-lessons-19-4-min.md) — related

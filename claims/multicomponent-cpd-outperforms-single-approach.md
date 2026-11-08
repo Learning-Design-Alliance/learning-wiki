@@ -49,3 +49,4 @@ Scoping review synthesis of 17 included studies. The review reports that "multi-
 - [Organizational support, clear protocols, and ongoing reinforcement are associated with the most impactful CPD interventions](cpd-organizational-support-protocols-reinforcement.md) — related
 - [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — related
 - [Positive patient outcomes were reported in 14 of 17 included CPD studies](cpd-positive-outcomes-14-of-17-studies.md) — related
+- [Single-component interventions (teacher training alone) appeared more promising for academic performance than combined or multicomponent PE interventions](single-intervention-strategies-more-effective.md) — reports the opposite

@@ -46,6 +46,7 @@ Although open surgical volume is decreasing, the authors recommend that training
 - [Integrate simulation-based training into gynaecology training programs to compensate for declining hands-on experience in vaginal hysterectomy](simulation-integration-gynaecology-training.md)
 - [Structured training programs with simulation, biotissue training, and video study to shorten the RDP learning curve](structured-rdp-training-programs-simulation-biotissue-video.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
+- [Use dynamic perfused-cadaver simulation to overcome insufficient annual caseload in subspecialized surgical training](dynamic-cadaver-simulation-for-low-caseload-subspecialties.md)
 
 ## Examples
 -

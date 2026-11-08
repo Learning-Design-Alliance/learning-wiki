@@ -50,3 +50,4 @@ Prospective randomised study of 30 medical students randomised to VR (n = 16) or
 - [VR anatomy training produces no significant differences from traditional training in operational time, self-assessment, expert-rated surgical outcome, or injuries in novices' first mastoidectomy](vr-training-no-difference-mastoidectomy-performance-outcomes.md) — related
 - [Complete novices rate VR-based mastoidectomy training higher than traditional book-based training, especially for 3D perception](vr-training-higher-satisfaction-mastoidectomy-novices.md) — related
 - [Novice surgeons completed temporal bone anatomy tasks significantly faster in VR than in cross-sectional PACS viewing](novices-faster-tb-anatomy-tasks-vr-than-pacs.md) — related
+- [VR-enhanced anatomy training improves overall ultrasonography task performance in novice medical students](vr-anatomy-improves-ultrasound-task-performance.md) — related

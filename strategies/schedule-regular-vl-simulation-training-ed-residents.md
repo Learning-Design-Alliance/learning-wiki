@@ -50,6 +50,7 @@ Based on their findings, the authors recommend that "This kind of training shoul
 
 - [Expand curriculum scope, increase hands-on practice time, and optimize scheduling in response to resident feedback](ultrasound-curriculum-feedback-driven-expansion-strategy.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
+- [Schedule hands-on skills courses early in the training pathway, before trainees accumulate substantial procedure experience](attend-hands-on-courses-early-in-training.md)
 
 ## Examples
 -

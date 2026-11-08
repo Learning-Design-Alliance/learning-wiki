@@ -58,3 +58,8 @@ The review reports, from an included study attributed to reference [75], that SN
 - [A 45-minute SNAPPS lecture significantly improves psychiatry residents' case-discussion teaching scores across outpatient, ward, and emergency settings](snapps-lecture-improves-resident-teaching-scores.md) — related
 - [A BEME review found the OMP and SNAPPS models were the only clinical teaching strategies that consistently improved learners' clinical knowledge and skills](beme-review-omp-snapps-consistently-improved-skills.md) — related
 - [An OMP-based preceptor education program produced no statistically significant change in preceptor nurses' clinical core competency (CCCP) or communication competence (GICC-15) scores](omp-pep-no-significant-cccp-gicc-change.md) — related
+- [SNAPPS use yields benefits over traditional teaching and the OMP model, including increased learner satisfaction and clinical reasoning (Level 1b, Grade B)](snapps-benefits-over-traditional-and-omp.md) — a broader claim this one bears on
+- [SNAPPS students express significantly more questions and uncertainties than OMP students in both simple and complex cases](snapps-more-questions-uncertainties.md) — related
+- [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — reports the opposite
+- [SNAPPS versus OMP outcomes do not differ between simple and complex cases](snapps-omp-no-simple-complex-difference.md) — related
+- [SNAPPS lengthens student speech but not total session time compared with OMP](snapps-time-efficient-student-speech.md) — related

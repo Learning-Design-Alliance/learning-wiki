@@ -52,3 +52,4 @@ Descriptive comparison across the same randomized trial's live-pig assessment: t
 - [All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST](structured-vrst-improves-all-goals-subdomains.md) — related
 - [Trained participants show safer tissue handling, more consistent vessel exposure, and improved stapler positioning in qualitative blinded assessment](qualitative-safer-tissue-handling-trained-group.md) — related
 - [Agreement on GEARS surgical-performance domains is poor for force control, tissue handling, autonomy, and robot control, and marginal for depth perception, bimanual skill, and efficiency](gears-domain-agreement-poor.md) — related
+- [Most aviation errors stem from poor decision making rather than technical skill deficiency, and fewer than half of surgical errors are technical](decision-making-dominates-errors-aviation-surgery.md) — related

@@ -62,3 +62,4 @@ The page's abstract reports a comparison study of disengagement on an adaptive i
 - [Remote and in-person MAP Growth test scores showed consistent trends for students in grades 3-8 in fall 2020](map-growth-remote-in-person-consistent-score-trends-grades-3-8.md) — related
 - [Findings of reliability, engagement, and consistent score trends increase confidence in the quality of remotely administered MAP Growth data in grades 3 and up](remote-map-growth-data-quality-confidence-grades-3-up.md) — related
 - [Remote versus in-person EF assessment did not differ on accuracy indices, though time scores differed and were excluded](remote-ef-assessment-accuracy-equivalence-time-excluded.md) — related
+- [Phone-based numeracy assessments show a similar distribution of skill levels to face-to-face ASER testing at the population level in the same regions and grades](phone-numeracy-assessment-matches-aser-distribution.md) — related

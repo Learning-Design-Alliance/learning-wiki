@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (101 show a difference, 33 mixed, 21 no difference) · 74 studies (41 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 23 of 74 report an effect size · 155 claims rest on one study
+> **Evidence** · 163 claims (108 show a difference, 34 mixed, 21 no difference) · 77 studies (44 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 24 of 77 report an effect size · 163 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -190,6 +190,14 @@ Personality traits are relatively stable individual differences, most often meas
 - [Only perseverance of effort, not consistency of interests, is positively related to schoolwork engagement](../claims/perseverance-effort-engagement-consistency-null.md) [+W] — learners who differ on it differ in outcomes
 - [Conscientiousness is positively related to student grades, but the estimated relationship is strongly biased upward when heterogeneous scale use is not corrected with anchoring vignettes](../claims/conscientiousness-grades-overestimated-uncorrected.md) [+M] — learners who differ on it differ in outcomes
 - [Students in the first decile of Conscientiousness Index scores have significantly lower Educational Performance Measure decile scores than the remaining students](../claims/ci-first-decile-lower-epm.md) [+M] — learners who differ on it differ in outcomes
+- [Big Five factors are positively associated with undergraduate self-regulation except neuroticism, which is negatively associated](../claims/big-five-self-regulation-associations-undergraduates.md) [+M] — learners who differ on it differ in outcomes
+- [Big Five factors relate to achievement emotions stably across class, study and testing situations, with neuroticism linked to negative emotions and conscientiousness to positive emotions](../claims/big-five-achievement-emotions-three-situations.md) [+M] — learners who differ on it differ in outcomes
+- [Big Five traits correlate significantly with Academic Behavioural Confidence subscales, positively except neuroticism, with conscientiousness showing the strongest correlations](../claims/big-five-correlations-academic-behavioural-confidence.md) [+M] — learners who differ on it differ in outcomes
+- [Conscientiousness and intellect mediate the relationship between intrinsic motivation and academic performance, with the indirect effect via conscientiousness significant only in men](../claims/mediation-intrinsic-motivation-gpa-conscientiousness-intellect.md) [~M] — learners who differ on it differ in outcomes
+- [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](../claims/hierarchical-regression-gpa-predictors-pe-students.md) [+M] — learners who differ on it differ in outcomes
+- [Multiple regression models predict each Academic Behavioural Confidence subscale from sex and personality, with conscientiousness the strongest predictor and sex itself not a significant contributor](../claims/regression-personality-predicts-academic-confidence-conscientiousness.md) [+M] — learners who differ on it differ in outcomes
+- [Neuroticism is negatively associated with self-regulation globally and with its decision-making and learning-from-mistakes factors](../claims/neuroticism-negative-self-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [Neuroticism is positively associated with emotion-focused coping (especially emotional venting and isolation) while conscientiousness is positively associated with problem-focused coping](../claims/personality-coping-strategy-profiles.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

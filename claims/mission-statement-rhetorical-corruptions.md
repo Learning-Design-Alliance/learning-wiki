@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-08
 recheck_by: 2031
 sources:
   - id: tristan-b-taylor-travis-lacroix-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Academic institutions are particularly susceptible to the Entertainer's and Advertiser's stances in their mission statements, so their authenticity warrants scrutiny. [→ Tristan B. Taylor & Travis LaCroix 2026](#tristan-b-taylor-travis-lacroix-2026)

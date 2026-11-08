@@ -71,3 +71,4 @@ Authors' interpretation of the videotaped-OSCE rater study, as reported in the r
 - [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md) — related
 - [OSCEs provide standardized, objective practical assessment but carry high organizational effort and scenario-preparation risks](osce-advantages-limitations-ultrasound.md) — related
 - [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related
+- [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — related

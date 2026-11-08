@@ -54,3 +54,4 @@ Review reports Kusnoor et al. 2022 randomised parallel trial: "No difference bet
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related
 - [Gas exchange question scores did not differ between small groups led by study coauthors versus nonauthors (74.7% vs. 75.8%)](no-facilitator-author-effect-on-gas-exchange-scores.md) — related
+- [No difference in learning outcomes was found between resident-given and faculty-given lectures, and nurse-given lectures received equivalent evaluation scores](resident-faculty-lecture-outcomes-equivalent.md) — related

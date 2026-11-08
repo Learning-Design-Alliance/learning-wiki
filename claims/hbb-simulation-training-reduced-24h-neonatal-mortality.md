@@ -65,3 +65,4 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 - [Early neonatal death rates at 24 hours and 7 days were significantly lower in 2019 than in 2017 during implementation](early-neonatal-death-reduction-2019-vs-2017.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
 - [Multidisciplinary obstetric simulation team training with human factors components is associated with reduced maternal mortality and obstetric adverse outcomes](obstetric-simulation-team-training-outcomes-review.md) — related
+- [LDHF/m-mentoring trainees reported reductions in maternal and neonatal morbidity and mortality and improved knowledge and skills in qualitative follow-up](qualitative-trainee-reported-outcome-improvements.md) — related

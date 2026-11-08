@@ -42,6 +42,8 @@ Because classroom teachers rarely seek out research, the report recommends reach
 - [Facilitate educator networks and knowledge-sharing hubs for educational AI](educator-networks-knowledge-sharing-ai.md)
 - [Disseminate evidence on effective peer tutoring types to practitioners in further and higher education](disseminate-effective-peer-tutoring-types.md)
 - [Five recommendations for scientists venturing into science communication with teachers](five-recommendations-scientists-scicomm.md)
+- [Require dissemination and implementation plans so dementia education research reaches practice](dementia-research-dissemination-implementation-strategy.md)
+- [Use professional societies, advocacy programs, and social media to disseminate cardio-obstetrics knowledge and training](society-advocacy-social-media-cardio-obstetrics-strategy.md)
 
 ## Examples
 -

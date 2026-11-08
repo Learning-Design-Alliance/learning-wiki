@@ -87,3 +87,4 @@ Observational note from the synchronous spring 2021 semester: classroom response
 - [First-generation students asked fewer questions overall than continuing-generation students in both sessions](first-generation-students-ask-fewer-ai-questions.md) — related
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
+- [The program's first teleconferenced academic conference drew 30 attendees, and a straw poll showed residents and faculty were happy with the format and interested in continuing remotely](first-teleconference-30-attendees-straw-poll-positive.md) — related

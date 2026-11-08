@@ -69,3 +69,4 @@ Univariate follow-ups within the same MANOVA each reached significance; for exam
 - [General security training produced no statistically significant difference in students' propensity to use built-in device features for protection](no-training-effect-device-features.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md)
 - [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](gamified-security-games-confidence-understanding.md)
+- [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related

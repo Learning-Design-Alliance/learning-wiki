@@ -67,3 +67,4 @@ Grade-correlation analysis in the results section maps summative grades to stati
 - [Summative OSCE stations passed differed significantly across the three groups: 3-D skills attendees, unguided practice attendees, and year 3 students who did not attend.](cl-kruskal-wallis-three-group-summative-difference.md) — related
 - [Summative OSCE scores were numerically higher in the peer-led mock OSCE group but did not reach statistical significance](mock-osce-osce-performance-non-significant-trend.md) — related
 - [The summative OSCE difference between the 3-D skills cohort and the unguided practice cohort did not reach statistical significance.](cl-3d-vs-unguided-summative-difference-not-significant.md) — related
+- [About three quarters of students pass the formative four-station OSCE, with higher station-level pass rates](aalplus-osce-pass-rates.md) — related

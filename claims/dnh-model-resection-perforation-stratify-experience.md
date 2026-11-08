@@ -48,3 +48,4 @@ Procedural outcome analysis (Table 1) of the same 15-operator simulation study, 
 - [Operation times on the DNH hydrogel ESD model discriminate between physicians of different experience levels](dnh-model-operation-times-discriminate-experience-levels.md) — related
 - [Experts rated the DNH model strongly on training efficacy (skills, confidence, risk reduction) but only moderately on operability](dnh-model-content-validity-ratings.md) — related
 - [Technical-step realism was uneven: marking and circumferential incision scored higher than submucosal injection and dissection](dnh-model-step-realism-uneven.md) — related
+- [ESGE ESD training curriculum prescribes a stepwise pathway (at least 20 animal-model ESDs, then observation and supervised human cases) with quality benchmarks of 90% en bloc resection and <3% perforation](esge-esd-training-curriculum.md) — related

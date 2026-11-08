@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (91 show a difference, 24 mixed, 16 no difference) · 80 studies (27 causal, 25 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 80 report an effect size · 130 claims rest on one study
+> **Evidence** · 134 claims (94 show a difference, 24 mixed, 16 no difference) · 81 studies (27 causal, 26 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 81 report an effect size · 133 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -167,6 +167,9 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Social–emotional competence and academic achievement are strongly canonically correlated among Korean nursing students](../claims/sec-aa-canonical-correlation-nursing-students.md) [+M] — learners who differ on it differ in outcomes
 - [A two-year school-based EI intervention significantly increases trait emotional intelligence in pre-adolescent elementary students](../claims/edi-intervention-increases-trait-ei.md) [+M] — measured as an outcome of the instruction studied
 - [Without intervention, trait EI remains stable in the first year and significantly decreases during the second year (6th grade)](../claims/ei-declines-without-intervention-sixth-grade.md) [~W] — measured as an outcome of the instruction studied
+- [Cybervictimization negatively predicts emotional intelligence (β = −0.61, p < 0.001) and academic performance (β = −0.31, p < 0.01)](../claims/cybervictimization-negatively-predicts-ei-and-grades.md) [+M] — measured as an outcome of the instruction studied
+- [Emotional intelligence negatively predicts cybervictimization (β = −0.49, p < 0.001)](../claims/ei-negatively-predicts-cybervictimization.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional intelligence positively predicts academic performance among secondary students (β = 0.42, p < 0.001)](../claims/ei-positively-predicts-academic-performance-adolescents.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

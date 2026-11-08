@@ -53,3 +53,6 @@ Correlation analysis of the full sample (Table 2) found the accuracy/consistency
 - [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — related
 - [Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls](higher-fitness-cluster-better-attention.md) — related
 - [Selective attention (d2 test accuracy) showed no significant changes in either group over the 16-week intervention](d2-attention-no-significant-change.md) — related
+- [Higher percentage of body fat mass is associated with lower selective attention and concentration in pre-adolescents](body-fat-mass-negative-association-attention.md) — related
+- [Cardiorespiratory fitness is the physical fitness measure that best predicts selective attention, concentration, and academic performance in pre-adolescents](cardiorespiratory-fitness-best-predictor-attention-academic.md) — related
+- [Maximum oxygen consumption correlates positively, and sprint and change-of-direction times negatively, with d2 attention measures, while omissions, commissions and variation index relate to no fitness variable](fitness-correlations-d2-attention-measures.md) — related

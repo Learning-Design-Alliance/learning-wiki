@@ -93,3 +93,5 @@ Follow-up comparison within the male-model condition: female students (M = 3.11)
 - [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
 - [Male and female students show different tendencies in which media scaffolding they use](gender-tendencies-media-scaffolding-choice.md) — related
+- [Male and female students differ in reported technical difficulties with eduVote and in tendency to join the majority when a teacher asks a question](ars-gender-differences-technical-difficulties.md) — related
+- [The effect of raising the Year-1 standard on pass rates was greater for male than for female students](standard-raising-effect-stronger-male-students.md) — related

@@ -56,3 +56,4 @@ Descriptive comparison of self-reported grades among 1,658 boys and 1,730 girls 
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — related
 - [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — related
 - [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — related
+- [Boys experience grade retention more frequently than girls, supporting hypothesis H1a](boys-retained-more-frequently-than-girls.md) — related

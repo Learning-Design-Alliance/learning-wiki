@@ -51,3 +51,4 @@ Subgroup multilevel regression comparing facilities implementing both organisati
 - [Supervision combined with training shows the strongest association with clinical quality among the modalities tested](supervision-with-training-associated-with-quality.md) — related
 - [A perceived supportive work environment is positively associated with higher-quality care](supportive-environment-associated-with-quality.md) — related
 - [SDL alone is insufficient for CPR training; instructor presence is needed for quality assurance.](sdl-insufficient-cpr-training.md) — a narrower finding that bears on this claim
+- [Disciplinary and organisational contexts were not especially influential on supervision training outcomes](disciplinary-organisational-contexts-not-influential.md) — reports the opposite

@@ -40,6 +40,7 @@ Drawing on complex learning theory and whole-task approaches, the article recomm
 
 - [Simple-to-Difficult Examples](simple-to-difficult_examples.md)
 - [Ensure teacher receptiveness and organise clinical practice so students encounter varied situations before graduating](teacher-receptiveness-and-varied-clinical-exposure-strategy.md)
+- [Sequence case questions from simple to complex, emphasizing molecular-mechanism questions](simple-to-mechanistic-question-sequencing.md)
 
 ## Examples
 -

@@ -76,3 +76,6 @@ d’ Cohen = 0.58, 95% CI [0.21, 0.95])"
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
 - [In the high-achievement network, age was negatively correlated with sustained (−0.58) and alternating attention (−0.47), while physical fitness was positively correlated with motor coordination (0.39) and physical activity (0.32)](high-achievement-network-age-attention-fitness-edges.md) — related
 - [Selective attention (d2 test accuracy) showed no significant changes in either group over the 16-week intervention](d2-attention-no-significant-change.md) — related
+- [Higher percentage of body fat mass is associated with lower selective attention and concentration in pre-adolescents](body-fat-mass-negative-association-attention.md) — related
+- [Pre-adolescents in the higher-fitness cluster score better on selective attention and concentration than those in the lower-fitness cluster](higher-fitness-cluster-better-selective-attention-concentration.md) — related
+- [Pre-adolescents in the higher-fitness cluster show higher academic performance than those in the lower-fitness cluster](higher-fitness-cluster-higher-academic-performance.md) — related

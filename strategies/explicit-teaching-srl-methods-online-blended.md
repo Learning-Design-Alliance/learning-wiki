@@ -47,6 +47,7 @@ The article recommends that educators give students structured guidance on regul
 - [Support SRL in the clinical context with a dual approach: improve individuals' goal setting, reflection skills and SRL confidence while creating a learning environment that lets students use their skills](dual-approach-srl-clinical-context.md)
 - [Design web-based metacognitive training with structural reflection, social interaction, and self-awareness activities](web-metacognitive-training-design-suggestions.md)
 - [Apply seven principles for blending positive aspects of web-facilitated, hybrid, and online environments in undergraduate education](seven-principles-blended-undergraduate-education.md)
+- [Train trainees, teachers and supervisors in documenting SRL, not only in the technical and assessment aspects of an e-portfolio](srl-documentation-training-for-portfolio-users.md)
 
 ## Examples
 -

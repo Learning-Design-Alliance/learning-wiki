@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 305 claims (144 for, 146 mixed, 15 against) · 224 studies (69 causal, 68 associational, 28 review, 18 quant-synthesis, 15 qualitative, 15 theoretical, 11 design), `q1`–`q4` · 51 of 224 report an effect size · 289 claims rest on one study
+> **Evidence** · 307 claims (146 for, 146 mixed, 15 against) · 225 studies (69 causal, 69 associational, 28 review, 18 quant-synthesis, 15 qualitative, 15 theoretical, 11 design), `q1`–`q4` · 51 of 225 report an effect size · 291 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -352,6 +352,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Medical students in a flipped competency-based curriculum frequently report planning and reflection strategies but rarely report monitoring strategies during pre-class independent learning](../claims/medical-students-srl-planning-reflection-over-monitoring.md) [~W] — attached 2026-11-08 from Zheng et al. (2020), which proposed "A three-phase self-regulated learning strategy framework with seven strategies (adopted and modified from Pintrich, 2004)".
 - [Students who self-perceive as high achieving report monitoring-phase SRL strategies more often than low- and middle-achieving peers](../claims/high-achievers-use-more-monitoring-strategies.md) [~W] — attached 2026-11-08 from Zheng et al. (2020), which proposed "A three-phase self-regulated learning strategy framework with seven strategies (adopted and modified from Pintrich, 2004)".
 - [Second-year students report more planning and monitoring strategy use than first-year students in the flipped competency-based curriculum](../claims/second-year-students-more-srl-strategies.md) [~W] — attached 2026-11-08 from Zheng et al. (2020), which proposed "A three-phase self-regulated learning strategy framework with seven strategies (adopted and modified from Pintrich, 2004)".
+- [Learning goals in GP trainee e-portfolios lack specificity but are mostly challenging and mutually congruent](../claims/goal-specificity-low-challenge-high-in-eportfolios.md) [+W] — attached 2026-11-08 from van der Gulden R et al. (2020), which proposed "Portfolio-supported SRL process framework: self-assessment via reflection and feedback, goal-setting and planning, and monitoring".
+- [About three-quarters of GP trainee e-portfolios show signs of monitoring, but in a third of these cases monitoring is limited to a single feedback request](../claims/monitoring-signs-in-three-quarters-of-eportfolios.md) [+W] — attached 2026-11-08 from van der Gulden R et al. (2020), which proposed "Portfolio-supported SRL process framework: self-assessment via reflection and feedback, goal-setting and planning, and monitoring".
 
 ## The evidence by question
 

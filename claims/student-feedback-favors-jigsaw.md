@@ -49,3 +49,4 @@ Self-reported structured feedback from all 150 students using a pre-validated Li
 - [Student perceptions of peer instruction were generally favorable.](pi-favorable-student-perceptions.md) — related
 - [The jigsaw peer learning module produced a larger score improvement than conventional tutorials, about 10% higher and statistically significant](plm-gain-exceeds-ct-gain.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
+- [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related

@@ -51,3 +51,4 @@ Wilcoxon signed-rank pre-post comparison of self-efficacy scores among 48 occupa
 - [Professional identity and self-efficacy were positively correlated before OSCE (r = .354)](pi-self-efficacy-correlation-before-osce.md) — related
 - [CALD occupational therapy students experience both heightened anxiety and personal-professional growth in high-fidelity simulation-based learning](cald-ot-students-fear-and-growth-in-sbl.md) — related
 - [Self-efficacy scores showed a moderate, significant direct correlation with physical therapy students' OSCE performance](osce-self-efficacy-correlates-with-performance.md) — related
+- [A structured, early, active motor learning course significantly increased physical therapy students' ML self-efficacy on both PTP-ML parts](active-ml-course-increased-pt-student-self-efficacy.md) — related

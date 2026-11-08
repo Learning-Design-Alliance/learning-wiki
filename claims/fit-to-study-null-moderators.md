@@ -50,3 +50,4 @@ Exploratory subgroup analyses in the cluster RCT tested moderation of effects on
 ## Related Claims
 - [One-year changes in cardiorespiratory fitness were not significantly related to changes in cognitive performance or mental health](fit-to-study-null-change-change.md) — related
 - [A one-academic-year HIIT-style vigorous physical activity intervention delivered during school PE did not significantly improve cardiorespiratory fitness in young adolescents](fit-to-study-null-crf.md) — related
+- [Socioeconomic status and epilepsy-related clinical variables show no significant effect on cognitive test scores in this sample](clinical-variables-no-cognitive-effect.md) — related

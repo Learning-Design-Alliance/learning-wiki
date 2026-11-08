@@ -55,6 +55,7 @@ The review recommends distance-learning formats as an adjunct for teaching ultra
 - [Integrate e-learning as an adjunct to face-to-face teaching in emergency medicine curricula](el-as-adjunct-to-face-to-face-em-teaching.md)
 - [Home simulation of sonography with a dummy transducer under tutor guidance via video seminar](dummy-transducer-home-video-seminar-strategy.md)
 - [Embed expert and family videos and self-paced flexible delivery in online professional education to widen reach and consistency](elearning-expert-family-videos-self-paced-strategy.md)
+- [Use simulation-based and video-based training and assessment as adjuncts where local experts and case volume are lacking](simulation-video-training-adjuncts-novel-endoscopy.md)
 
 ## Examples
 -

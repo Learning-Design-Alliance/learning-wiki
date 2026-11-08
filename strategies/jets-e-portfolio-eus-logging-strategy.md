@@ -44,7 +44,9 @@ Trainees should preferably log all training procedures onto the JETS e-portfolio
 - [Summative EUS assessment requires ratings of ready for independent practice across two DOPS by two different assessors, one external to the trainee's unit](../claims/summative-dops-two-assessors-one-external.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Pre-procedure trainee preparation: assess skill level, set objectives, and agree on scope takeover](pre-procedure-trainee-preparation-endoscopy.md)
+- [Train-the-trainer (TTT) programs to standardize endoscopy training](train-the-trainer-endoscopy-programs.md)
 
 ## Examples
 -

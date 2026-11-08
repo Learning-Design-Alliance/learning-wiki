@@ -57,3 +57,4 @@ The review's narrative synthesis of predictive validity studies (peer ratings, p
 - [Mid-training professionalism SJT scores remain an independent predictor of professionalism lapses after adjusting for academic and cognitive performance](nms-sjt-independent-predicts-lapses.md) — a narrower finding that bears on this claim
 - [The three SJT scores intercorrelate only modestly, and the mid-training SJT has the lowest cognitive load](sjt-low-intercorrelation-cognitive-load.md) — related
 - [Conscientiousness Index scores in years 1–2 of medical school significantly correlate with later UK Foundation Programme Situational Judgement Test scores](ci-predicts-foundation-programme-sjt.md) — a narrower finding that bears on this claim
+- [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — a narrower finding that bears on this claim

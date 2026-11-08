@@ -77,6 +77,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 - [Use computerized fact-fluency training to complement, not substitute, classroom teaching](computerized-fluency-training-complements-classroom-teaching.md)
 - [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
+- [Combine immersive VR simulation with existing traditional teaching resources for venipuncture training](combine-vr-with-traditional-venipuncture-teaching.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Narrative discussion in which the article attributes these case-count benchmarks
 - [Operative time is independently associated with obstructive median lobe, number of implants, implant deployment failure, and early case number](pul-operative-time-predictors-multivariate.md) — related
 - [PUL performed by PUL-naïve urologists achieves functional-outcome improvements comparable to those of an experienced urologist](pul-naive-vs-experienced-comparable-functional-outcomes.md) — related
 - [Content validity of the Aquablation simulator is rated excellent by experts, with an S-CVI/Ave of 0.91 but unanimous agreement on only half of the items (S-CVI/UA = 0.50)](aquablation-simulator-content-validity-scvi.md) — related
+- [Endoscopic sleeve gastroplasty learning-curve efficiency thresholds varied from 7 to 38 cases in studies of already-experienced suturing endoscopists](esg-learning-curve-7-to-38-cases.md) — related

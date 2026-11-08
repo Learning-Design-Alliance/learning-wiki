@@ -53,6 +53,7 @@ During the COVID-19 pandemic, teams used simulation embedded in plan-do-study-ac
 - [Use a Plan-Do-Study-Act ramp to build simulation complexity stepwise, repeating a cycle when objectives are unmet before escalating.](pdsa-ramp-simulation-complexity-strategy.md)
 - [Deliver brief, interprofessional, in situ simulation drills in vacant clinical spaces within days of real cases to implement urgent workflow changes](jit-in-situ-simulation-implementation-strategy.md)
 - [Use in-situ simulation within a PDSA cycle to gather real-time user feedback and iteratively refine a new clinical protocol](insitu-sim-pdsa-protocol-refinement.md)
+- [Simulate the direct pathophysiological impact of COVID-19 on obstetric patients: symptom recognition, modified early warning systems, respiratory compromise, critical care collaboration, and pregnant-patient ACLS](covid19-pathophysiology-obstetric-simulation-priorities.md)
 
 ## Examples
 -

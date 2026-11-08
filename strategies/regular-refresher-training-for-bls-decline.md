@@ -65,6 +65,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Integrate basic life support as a mandatory curricular activity and use multi-professional simulation in teaching-service settings](bls-mandatory-curricula-multiprofessional-simulation.md)
 - [Involve students in real-life resuscitations and adopt competency-based assessments with regular practice rather than relying on course certifications](real-resuscitation-involvement-competency-assessment.md)
+- [Provide frequent continuing professional development refresher courses on ECG interpretation for generalist practitioners](frequent-cpd-refresher-ecg-interpretation.md)
 
 ## Examples
 -

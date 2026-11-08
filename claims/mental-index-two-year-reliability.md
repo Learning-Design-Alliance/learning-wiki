@@ -75,3 +75,4 @@ The same 46-case retest study found lower correspondence for absolute achievemen
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
+- [BUSS shows three-week test-retest reliability of .70 for Tenacity and .77 for Self-composure](buss-test-retest-reliability.md) — related

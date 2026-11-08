@@ -87,3 +87,4 @@ Thematic analysis found overload and resistance codes more prevalent in directiv
 - [Adult learners identify metacognition and crafting diverse, high-quality questions at different cognitive levels as crucial supports for learner-AI cognitive interaction](metacognition-question-crafting-ai-cognitive-interaction.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
 - [Teaching using comprehension and reflective reading techniques predicts greater likelihood of resilience than routine, systematic, repetitive reading practices](comprehension-reflective-teaching-beats-routine-practices-for-resilience.md) — related
+- [Socratic questioning is the most frequently used ED teaching method, with broadening, targeting, and up-the-ladder question types most effective for learning](socratic-questioning-types-effective.md) — related

@@ -50,6 +50,7 @@ The article recommends a simulation setting combining a basic open suturing mode
 
 - [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 - [Use validated EEG and eye-tracking models to provide objective, expert-free performance and learning-rate feedback in surgical residency training](eeg-eye-tracking-objective-ras-training-assessment.md)
+- [Deploy portable low-cost VR simulation for ubiquitous learning and preoperative warm-up before surgery](portable-vr-preoperative-warm-up-strategy.md)
 
 ## Examples
 -

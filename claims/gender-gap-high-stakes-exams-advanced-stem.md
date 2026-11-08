@@ -59,3 +59,4 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [Students with minoritized identities earned lower overall lab grades regardless of group formation: women lower than men, URM students lower than non-URM, and first-generation students lower than continuing-generation](demographic-disparities-overall-lab-grades.md) — related
 - [SETs are significantly associated with instructor gender and grade expectation but generally not with final exam performance](sets-gender-grade-expectation-not-effectiveness.md) — related
 - [No evidence of cumulative or over-time demographic performance effects emerged across the semester of TBL.](no-cumulative-performance-effects-over-semester.md) — reports the opposite
+- [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — related

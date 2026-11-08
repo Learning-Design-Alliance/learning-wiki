@@ -48,6 +48,7 @@ The article concludes that virtual learning is an acceptable and beneficial adju
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use AI-powered virtual patients for deliberate, psychologically safe communication practice with automated personalized feedback](ai-virtual-patient-deliberate-practice-strategy.md)
 - [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
+- [Offer theory-driven web-based interventions, optionally combined with face-to-face support, to reach students facing access barriers](web-based-mental-health-interventions-for-students.md)
 
 ## Examples
 -

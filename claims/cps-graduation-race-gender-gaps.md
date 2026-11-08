@@ -79,3 +79,4 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [A significant retention x ethnicity x gender interaction indicates the negative effect of retention is strongest for African American and Hispanic girls](retention-ethnicity-gender-interaction-girls.md) — related
 - [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](stem-problems-tailoring-instruction-challenge.md) — a broader claim this one bears on
 - [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — related
+- [Boys experience grade retention more frequently than girls, supporting hypothesis H1a](boys-retained-more-frequently-than-girls.md) — related

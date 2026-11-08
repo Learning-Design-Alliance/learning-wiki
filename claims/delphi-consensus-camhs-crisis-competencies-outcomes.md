@@ -62,3 +62,5 @@ Three-round Delphi study with 69 initial participants, of whom 43 (62%) complete
 - [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related
 - [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](delphi-52-he-teacher-competencies-eight-domains.md) — related
 - [Expert consensus above 90.2% was achieved on admission and development criteria of teaching resource for nursing undergraduates comprising 6 domains and 43 items](nursing-teaching-resource-criteria-consent-902.md) — related
+- [A checklist-based BPMN model of ultrasound-guided CVC placement reached expert consensus in two Delphi rounds, producing a final model of 32 activities](bpmn-cvc-delphi-consensus-32-activities.md) — related
+- [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related

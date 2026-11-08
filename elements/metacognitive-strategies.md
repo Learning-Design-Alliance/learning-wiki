@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (6 for, 6 mixed, 2 against) · 15 studies (4 causal, 3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 15 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (7 for, 6 mixed, 2 against) · 16 studies (5 causal, 3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 16 report an effect size · 14 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -55,6 +55,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+W] — attached 2026-11-01 from Gbenga-Akanmu & Jegede (2019), which proposed "Meta-cognitive Training Manual (MCTM) with the CRIME strategy acronym"; tests this page's relationship.
 - [Heuristic-methodological instruction shows no significant effect on pupils' reported learning planning](../claims/heuristic-instruction-no-effect-learning-planning.md) [-W]
 - [Control-group combined planners also improved fluency, attributed to double planning time](../claims/control-polp-planners-fluency-gain.md) [~W]
+- [Adding metacognitive strategy training to working memory training produces greater working memory gains at 3 months than working memory training alone](../claims/metacognitive-addition-greater-wm-gains-3-months.md) [+W] — attached 2026-11-08 from Jones JS et al. (2020), which proposed "MetaCogmed metacognitive strategy workbook".
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

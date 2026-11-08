@@ -47,3 +47,4 @@ C-CUSUM analysis of six procedures per participant after competence was reached,
 ## Related Claims
 - [Surgeons, including novices, achieve robotic OSB repair competency on the simulator within 15–21 procedures](competency-within-15-21-frost-procedures.md) — related
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related
+- [Twenty-eight of 30 participants completed the simulated procedure, including four of five left-handed users](vida-nursing-completion-28-of-30.md) — related

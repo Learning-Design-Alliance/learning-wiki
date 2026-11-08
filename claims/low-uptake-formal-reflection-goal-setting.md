@@ -46,3 +46,4 @@ Questionnaire item 10 (mean rating 3.43, N = 89): "only 47.20% of students found
 
 ## Related Claims
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
+- [Students reported positive satisfaction with the Moodle module, rating self-test exercises (71.4% positive) and review usefulness (71.4%) highest](module-satisfaction-questionnaire-chinese-herbs.md) — related

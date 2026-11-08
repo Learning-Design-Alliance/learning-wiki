@@ -60,3 +60,4 @@ In the 32-intern longitudinal study, extremity skill scores (max 20) fell from 1
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
 - [Student confidence in focused PE skills declined at 4-month follow-up to below both pre- and postsession levels](hdpe-confidence-decline-four-months.md) — related
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
+- [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related

@@ -47,6 +47,7 @@ Synthesizing prior parent-involvement research, the authors identify three more 
 - [Parent Workshops](parent-workshops.md)
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 - [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md)
+- [Involve parents through post-session education and environment customization so execution strategies transfer to home homework routines](parent-education-home-strategy-transfer-cog-fun.md)
 
 ## Examples
 -

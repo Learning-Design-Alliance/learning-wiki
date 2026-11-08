@@ -55,3 +55,4 @@ Null cross-lagged finding from the CLPM of 489 university teachers; the article 
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](task-coping-positive-affect-feedback-loop.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - [Affective reactivity can override adolescents' regulatory intentions for digital engagement](affective-reactivity-overrides-digital-regulation-intentions.md) — related
+- [Emotion-focused coping strategies positively predict negative achievement emotions, while problem-focused coping strategies predict no type of emotion](emotion-focused-coping-predicts-negative-emotions.md) — related

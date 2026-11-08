@@ -61,3 +61,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Multi-modal training combining role-plays with immediate feedback, field practice and participatory teaching contributed to early competence development](multimodal-training-role-plays-feedback-field-practice.md) — related
 - [Students valued the SBE process structure of pre-brief, simulation activity, and debrief, including feedback from supervisors and simulated patients](sbe-process-prebrief-simulation-debrief-valued.md) — related
 - [Simulated persons show a descriptively positive attitude towards digital teaching](sp-positive-attitude-digital-teaching.md) — related
+- [Adequate preparation, including setting clear expectations, priming the learner, and seeking patient permission, is crucial to successful clinical teaching (Level 2b, Grade B)](preparation-crucial-clinical-teaching.md) — related

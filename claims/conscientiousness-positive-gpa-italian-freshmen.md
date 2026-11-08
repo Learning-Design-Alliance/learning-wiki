@@ -54,3 +54,4 @@ OLS regression of standardized GPA on standardized Big Five scores for 3,242 fre
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
 - [Extraversion, agreeableness and emotional stability show no significant association with GPA](other-big-five-traits-no-gpa-effect.md) — related
 - [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](conscientiousness-predicts-achievement-srl-link.md) — a broader claim this one bears on
+- [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](hierarchical-regression-gpa-predictors-pe-students.md) — related

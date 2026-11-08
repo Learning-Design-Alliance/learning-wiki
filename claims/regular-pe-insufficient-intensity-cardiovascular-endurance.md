@@ -51,3 +51,4 @@ Authors' interpretation (type e) of the control groups' results in the discussio
 - [A ten-week in-class fitness circuit intervention significantly improved cardiovascular endurance among Malaysian secondary school boys](fitness-circuit-improved-cardiovascular-endurance-boys.md) — related
 - [A ten-week in-class fitness circuit intervention significantly improved cardiovascular endurance among Malaysian secondary school girls](fitness-circuit-improved-cardiovascular-endurance-girls.md) — related
 - [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](exercise-intensity-moderates-academic-gains.md) — a broader claim this one bears on
+- [Single-component interventions (teacher training alone) appeared more promising for academic performance than combined or multicomponent PE interventions](single-intervention-strategies-more-effective.md) — related

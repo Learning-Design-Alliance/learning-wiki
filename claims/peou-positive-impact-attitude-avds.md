@@ -59,3 +59,4 @@ SEM analysis using IBM SPSS AMOS 27 on TAM questionnaire data from the experimen
 - [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — related
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Perceived ease of use was the strongest predictor of both perceived usefulness (β = 1.02) and behavioral intention to use 3D Organon (β = 1.01)](ease-of-use-strongest-predictor-usefulness-intention.md) — related
+- [Perceived ease of use of Zoom is positively correlated with perceived usefulness, attitude and behavioral intention](peu-positive-correlation-tam-zoom.md) — related

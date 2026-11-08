@@ -50,3 +50,4 @@ Cross-sectional survey (N = 231) comparing self-rated knowledge categories again
 - [Dentists rating their trauma knowledge as Good or Very Good found the case scenarios significantly easier than those rating themselves Acceptable, and dentists more than 20 years past graduation found them easier than those 6–10 years out](self-assessed-knowledge-and-experience-predict-perceived-difficulty.md) — related
 - [Trainees who overestimated themselves were rated less competent by the expert](overestimators-rated-less-competent.md) — related
 - [Nurses substantially overestimated their end-of-life care competence: about 80% rated themselves competent or confident while only 15% passed the knowledge quiz](nurses-overestimate-eol-competence.md) — related
+- [Practitioners' poor self-ratings corresponded with their actual number of correct answers](ecg-self-rating-corresponds-performance.md) — reports the opposite

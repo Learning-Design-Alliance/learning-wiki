@@ -49,3 +49,4 @@ Meta-analysis of BRIEF cognitive subscales across RCTs found "not effective in i
 - [Game-based digital interventions significantly improve visuospatial working memory in children and adolescents with ADHD](game-based-interventions-improve-visuospatial-working-memory-adhd.md) — related
 - [Game-based digital interventions show no significant effect on affective outcomes (shifting and emotional control) in children with ADHD](game-based-interventions-no-effect-affective-outcomes-adhd.md) — related
 - [Game-based digital interventions show no significant effect on behavioral outcomes (inhibition and monitoring) in children with ADHD](game-based-interventions-no-effect-behavioral-outcomes-adhd.md) — related
+- [Working memory, planning/organization, and organization of materials showed greater BRIEF changes than emotional control or inhibition after Cog-Fun](brief-metacognition-subitems-greater-changes.md) — related

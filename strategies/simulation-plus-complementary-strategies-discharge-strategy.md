@@ -54,6 +54,7 @@ The review recommends that caregiver training for discharge use clinical simulat
 - [Simulated family ward training with a pre-discharge competency assessment gate](family-ward-simulation-assessment-gate-strategy.md)
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
+- [Involving nursing students in patients' education from admission to discharge in hospitals with nursing shortage](nursing-students-patient-education-strategy.md)
 
 ## Examples
 -

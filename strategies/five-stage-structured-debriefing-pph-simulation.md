@@ -43,6 +43,7 @@ After the simulated scenario, the facilitator conducted a debriefing focused on 
 
 - [Use structured SENSE-model debriefing to consolidate VR simulation learning](sense-model-debriefing-vr-simulation.md)
 - [Facilitate debriefing as guided reflection linking theory to practice](guided-reflection-debriefing-facilitation.md)
+- [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
 
 ## Examples
 -

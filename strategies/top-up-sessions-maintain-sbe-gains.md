@@ -52,6 +52,7 @@ Because knowledge gained in a short simulation workshop declined significantly b
 - [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Use repeated observational competence assessments to target top-up training and give immediate structured feedback](enact-based-targeted-topup-training-and-feedback.md)
+- [Organise refresher courses or simulation team training with a focus on CRM skills after an initial ABCDE simulation course](crm-focused-refresher-team-training-strategy.md)
 
 ## Examples
 -

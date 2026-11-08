@@ -65,3 +65,4 @@ LCD post hoc results (Table 6): SML+AI scored 20.25 points above C (p = 0.000) a
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [Anatomy teaching hours fell from over 800 hours around 1930 to about 200 hours today, and clinicians increasingly report inadequate anatomical knowledge of students](anatomy-hours-reduced-800-to-200-clinician-complaints.md) — related
+- [Without repetition, students lost about 30% of anatomical knowledge over six months, versus about 20% with any repetition activity](knowledge-loss-30-percent-without-repetition.md) — related

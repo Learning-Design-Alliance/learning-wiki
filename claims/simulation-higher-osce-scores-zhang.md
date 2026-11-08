@@ -73,3 +73,4 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related
 - [Game-based virtual training with PlaSurIn yields higher OSCE setup scores and more bonuses than lecture-based virtual training among OR novices](plasurin-game-higher-osce-score-and-bonus-than-lecture.md) — a narrower finding that bears on this claim
 - [A brief mentored simulation session added to didactic teaching improves coronary angiographic interpretation test scores more than didactic teaching alone](simulation-plus-didactic-improves-angiographic-interpretation.md) — related
+- [Simulation training is reported as the most effective way to train surgeons' non-technical skills](simulation-most-effective-nts-training-review.md) — related

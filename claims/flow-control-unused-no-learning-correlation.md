@@ -56,3 +56,4 @@ Correlation analysis between logged use of navigation elements (stop, start, spo
 - [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
 - [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — reports the opposite
 - [Delegates who stayed for extra practice all successfully navigated the bronchoscope to specified bronchopulmonary segments](bronchoscopy-workshop-informal-skill-assessment.md) — related
+- [Poor knowledge retention and infrequent high flow use were observed during the study period in one uncontrolled pre-post study](highflow-poor-retention-low-clinical-use.md) — related

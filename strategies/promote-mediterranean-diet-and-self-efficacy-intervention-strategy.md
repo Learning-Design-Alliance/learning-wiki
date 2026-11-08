@@ -51,6 +51,7 @@ Based on the longitudinal findings, the authors conclude that "education interve
 - [Promote gradual transition toward a Mediterranean-style dietary approach, starting with low-sugar intermediate patterns, as an initial nutrition and public health strategy](gradual-transition-mediterranean-style-diet-strategy.md)
 - [Avoid simplistic good/bad food narratives and weight-control-centered framing in school nutrition education to protect psychosocial well-being](avoid-weight-centered-good-bad-food-framing.md)
 - [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
+- [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
 
 ## Examples
 -

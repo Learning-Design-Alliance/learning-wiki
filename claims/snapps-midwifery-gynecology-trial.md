@@ -47,3 +47,5 @@ The article reports a clinical trial in Iran comparing SNAPPS to teacher-centere
 ## Related Claims
 - [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related
 - [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — related
+- [SNAPPS students more often propose the appropriate management plan, with no difference in making the correct diagnosis](snapps-higher-management-plan-proportion.md) — related
+- [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — related

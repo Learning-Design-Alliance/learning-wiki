@@ -57,3 +57,4 @@ Systematic review synthesis of three high-quality longitudinal cohort studies (n
 - [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](obesity-achievement-indirect-attitude-perception.md)
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — reports the opposite
+- [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related

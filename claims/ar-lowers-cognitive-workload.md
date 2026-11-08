@@ -81,3 +81,4 @@ Crossover RCT (n=60 laparoscopic novices) using iSurgeon AR telestration versus 
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related
 - [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related
 - [Perceived task load (NASA-TLX) was significantly lower with 3D than 4K for all experience levels](3d-display-lower-nasa-tlx-task-load.md) — related
+- [Debriefing after a surgical crisis reduces cognitive workload and improves performance before the next case](debriefing-reduces-cognitive-workload-surgical-crisis.md) — related

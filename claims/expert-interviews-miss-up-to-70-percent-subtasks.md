@@ -46,3 +46,4 @@ The article reports, citing Sullivan et al., that expert interviews are often in
 
 ## Related Claims
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
+- [The article reports that experts may omit up to 70% of the knowledge needed to perform a procedure when teaching, motivating explicit task breakdown](expert-omission-up-to-70-percent-procedural-knowledge.md) — possibly the same claim (merge candidate)

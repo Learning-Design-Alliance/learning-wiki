@@ -49,3 +49,5 @@ Spearman correlation analysis among 106 preclinical medical students found no si
 - [High perceived stress combined with elevated cortisol tertile is associated with poorer perceived memory performance](high-stress-high-cortisol-poorer-perceived-memory.md) — related
 - [Lower physical activity combined with higher perceived stress is associated with poorer perceived memory performance](low-activity-high-stress-poorer-perceived-memory.md) — related
 - [Perceived academic stress correlates positively with perceived memory problems among preclinical medical students (rS = 0.445)](perceived-stress-correlates-poorer-perceived-memory-medical-students.md) — related
+- [Moderate and active physical activity are associated with lower salivary cortisol and higher serum serotonin in adolescents](pa-associated-lower-cortisol-higher-serotonin.md) — related
+- [Perceived stress and hair cortisol were not significantly correlated in this sample](pss-hcc-not-significantly-correlated.md) — related

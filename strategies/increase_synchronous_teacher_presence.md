@@ -71,6 +71,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 - [Design synchronous online sessions as interactive lessons rather than recorded-style lectures](interactive-synchronous-sessions-strategy.md)
 - [Use breakout rooms and audience-response platforms to enhance learner engagement in remote teaching environments](breakout-rooms-audience-response-rt-engagement.md)
 - [Improve the teaching quality of online content delivery and use video strategies such as interactive elements and cognitive-load management](improve-recorded-lecture-quality-and-video-strategies.md)
+- [Run academic conferences by teleconference with live-chat question submission and recorded sessions stored for later review](teleconferenced-academic-conferences-live-chat-recording.md)
 
 ## Examples
 - **Zoom-based seminar courses** — instructor opens camera-on, runs a two-minute check-in, alternates mini-lectures with breakout discussions, and closes by naming student contributions.

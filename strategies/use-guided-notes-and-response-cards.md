@@ -55,6 +55,7 @@ The article presents two implementable classroom techniques recommended by behav
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+M]
 - [Generating information produces a memory advantage over passively reading it (the generation effect)](../claims/generation-effect-memory-advantage.md) [+W]
 - [Interactive Note Taking](interactive-note-taking.md)
+- [Use guided notes rather than distributed slide copies to increase attention during lectures](guided-notes-hierarchical-outline-lectures.md)
 
 ## Examples
 -

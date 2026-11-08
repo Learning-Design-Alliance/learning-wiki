@@ -66,3 +66,4 @@ Grade-correlation analysis in the results section: the unguided practice cohort 
 - [Third-year medical students taught with the 3-D skills model at a formative OSCE achieved significantly higher summative OSCE station pass rates than the rest of the year cohort, with a higher median grade banding of educational significance.](cl-3d-skills-summative-osce-improvement.md) — related
 - [The summative OSCE difference between the 3-D skills cohort and the unguided practice cohort did not reach statistical significance.](cl-3d-vs-unguided-summative-difference-not-significant.md) — related
 - [Summative OSCE stations passed differed significantly across the three groups: 3-D skills attendees, unguided practice attendees, and year 3 students who did not attend.](cl-kruskal-wallis-three-group-summative-difference.md) — related
+- [About three quarters of students pass the formative four-station OSCE, with higher station-level pass rates](aalplus-osce-pass-rates.md) — related

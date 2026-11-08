@@ -51,3 +51,5 @@ Multivariate linear regression in the cohort of 1634 graduates found "female gen
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [High school grade average is the strongest multivariate predictor of cumulative GPA at graduation among allied health students at King Saud University](hsga-strongest-admission-predictor-allied-health-gpa.md) — reports the opposite
 - [Mean cumulative GPA and admission scores varied across the 13 allied health programs, highest GPA in occupational therapy and lowest in biomedical instrumentation](program-level-variation-gpa-allied-health.md) — related
+- [Course achievement statistically predicts students' cumulative GPA, leading the authors to predict GPA gains if blended flipped learning continued to graduation](achievement-predicts-cumulative-gpa-blended-flipped.md) — related
+- [Female gender and private school attendance predict high achievement in the socio-demographic model but are overshadowed by health behaviors](gender-school-type-overshadowed-by-health-behaviors.md) — related

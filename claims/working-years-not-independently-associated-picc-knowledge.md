@@ -52,3 +52,4 @@ Multiple linear regression on the full sample (N = 3528); Table 3 reports B = -0
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
 - [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related
 - [Sex, level of education and years of working experience showed no significant association with nurses' knowledge of NCI preventive measures](sex-education-experience-no-knowledge-association.md) — related
+- [Gender, age, professional title, work setting and previous training independently predict PICC maintenance knowledge in a generalised linear model](glm-factors-picc-maintenance-knowledge.md) — related

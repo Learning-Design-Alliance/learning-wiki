@@ -50,3 +50,4 @@ In the OLS results (Table 4), emotional stability is significant only in the spe
 ## Related Claims
 - [Higher conscientiousness predicts higher first-year university GPA among Italian freshmen](conscientiousness-positive-gpa-italian-freshmen.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [Polish PE students have higher GPA, emotional stability, and extroversion than Ukrainian PE students, but the two samples do not differ in academic motivation](polish-ukrainian-pe-gpa-personality-no-motivation-difference.md) — related

@@ -69,3 +69,4 @@ Follow-up multi-group comparison of the latent cross-lagged model: "invariance w
 - Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04) — related
 - [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
 - [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related
+- [Effects of mathematics tutoring quality were similar across below-average, average, and above-average performing students](tutoring-quality-effects-similar-across-achievement-subgroups.md) — related

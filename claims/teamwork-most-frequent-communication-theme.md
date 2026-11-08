@@ -51,3 +51,4 @@ Documentary content analysis of 16 course syllabi identified 467 quotes related 
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
 - [Emotionally sensitive communication and interpersonal relationship skills are the least represented themes with limited systematic longitudinal development](emotional-competencies-least-represented.md) — related
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
+- [Collaboration within the medical team is more explicitly represented in surgical curricula than interprofessional cooperation on healthcare sector issues](surgery-collaborator-team-emphasis-over-interprofessional.md) — related

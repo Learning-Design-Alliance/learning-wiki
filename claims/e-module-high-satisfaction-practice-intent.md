@@ -75,3 +75,6 @@ Self-reported intent to change practice on the postmodule survey; 60 (87%) said 
 - [87% of surveyed pediatric cardiologists would attend a Chagas-related lecture and 64% said such education would yield practical clinical knowledge](chagas-education-demand-lecture-attendance.md) — related
 - [Text mining of positive-feedback responses found 'easy', 'clear' and 'concise' as the three most common words, while improvement responses most often said 'nothing'](text-mining-frequent-words-feedback.md) — related
 - [Trainees reported high satisfaction with the module, with all respondents agreeing the training was excellent and 91% finding the content relevant to practice](wbl-module-satisfaction-neonatal-cus.md) — related
+- [Almost 100% of learners would recommend the modules to others and intended to take future UMC courses](almost-100-percent-recommend-modules-and-intend-future-courses.md) — related
+- [Staff who attended the therapist-assisted e-learning rated it positively, saying it exceeded expectations](e-learning-exceeded-staff-expectations.md) — related
+- [Most learners thought they would be able to apply the knowledge in practice, though fewer for module 5 than modules 1-4](most-learners-could-apply-knowledge-in-practice.md) — related

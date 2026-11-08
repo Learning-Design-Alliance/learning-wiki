@@ -53,3 +53,4 @@ Educator survey from the District-Charter Collaboration Grant evaluation. Respon
 - [Compact collaboration activities did not yield systemic change within the grant period but were perceived to have produced small-scale improvements in instructional quality and human capital practices and increased availability of school effectiveness information](compact-activities-small-scale-improvements-not-systemic-change.md)
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Nearly 90% of participants reported sharing their program knowledge with others through formal training, workshops, or informal mentoring and case discussions](therapy-intensive-knowledge-dissemination.md) — related
+- [Grantees reported very high satisfaction with NTTAC technical assistance and products](high-satisfaction-nttac-ta-recipients.md) — related

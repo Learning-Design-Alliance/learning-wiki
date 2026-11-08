@@ -44,6 +44,7 @@ Based on participants' improvement suggestions from the qualitative interviews, 
 ## Related Strategies
 
 - [Before disseminating an e-learning program, condense already-known content, keep statistically grounded explanations, and offer a face-to-face alternative](condense-elearning-content-offer-face-to-face-alternative.md)
+- [Future e-learning developments should add practical exercises, an interactive forum, and more practical examples based on learner feedback](add-practical-exercises-forum-and-examples-to-e-learning.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-08
 recheck_by: 2023
 sources:
   - id: james-hk-2020
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
+> **Currency** · newest study 2020 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Checklists demonstrate reasonable construct validity, concurrent validity, and reliability, but do not capture quality of performance and show an early ceiling effect, making them most appropriate for novice learners in formative settings. [→ James H.K. 2020](#james-hk-2020)

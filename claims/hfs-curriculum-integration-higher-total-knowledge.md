@@ -54,3 +54,4 @@ Quasiexperimental comparison of two groups of third-year nursing students (inter
 - [Students report high satisfaction (91% ± 7.6) with the HFS/curriculum-integrated session across instructor, effectiveness, and active-learning domains](hfs-integration-high-satisfaction.md) — related
 - [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](hf-simulation-improves-als-knowledge-course-conclusion.md) — related
 - [Courses without HFS exposure recorded overall OSCE means of 81.80 in child health and 83.54 in maternal health nursing](no-hfs-courses-osce-means-child-maternal.md) — related
+- [Senior nursing students taught with an integrative team-based-PBL-plus-simulation curriculum self-rated higher core nursing competencies than students under traditional teaching](integrative-curriculum-higher-self-rated-core-nursing-competencies.md) — related

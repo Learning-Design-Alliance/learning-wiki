@@ -51,3 +51,4 @@ The article reports, citing two prior studies [14, 33], that "lack of time (66�
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
 - [Lack of resources relevant to faculty lectures was the most frequently cited reason for not using e-learning resources](lack-of-relevant-resources-top-reason-non-use.md) — related
+- [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related

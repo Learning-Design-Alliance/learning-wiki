@@ -60,6 +60,7 @@ The review recommends exploring COTS gesture-detection technology as the basis f
 - [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
 - [Use the K technique as a basis for building VR training models at scale](k-technique-basis-for-vr-training-models.md)
 - [Use low-cost finger tracking on a suturing simulator for independent, expert-free training and objective self-assessment of open suturing skills](low-cost-finger-tracking-independent-suturing-assessment-strategy.md)
+- [Deploy portable low-cost VR simulation for ubiquitous learning and preoperative warm-up before surgery](portable-vr-preoperative-warm-up-strategy.md)
 
 ## Examples
 -

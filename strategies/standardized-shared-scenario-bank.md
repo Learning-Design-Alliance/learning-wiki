@@ -46,6 +46,7 @@ Participants requested "a collection of standardized, case-based training scenar
 ## Related Strategies
 
 - [Scenario-guided, conversation-level expert evaluation of AI tutors in three stages](scenario-guided-conversation-level-ai-tutor-evaluation.md)
+- [Use previously published, validated, easy-to-build simulation models and support inter-institutional simulation exchange](published-models-and-simulation-exchange-strategy.md)
 
 ## Examples
 -

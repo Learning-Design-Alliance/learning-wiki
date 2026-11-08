@@ -49,3 +49,4 @@ Secondary endpoint from the same randomized trial (Table 1); the article states 
 - [IVR-trained residents complete the thyroidectomy task faster than control-trained residents](ivr-faster-task-completion-thyroidectomy.md) — related
 - [IVR-trained participants self-assessed their performance more accurately than e-learning participants](ivr-accurate-self-assessment-confidence.md) — related
 - [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related
+- [No significant difference between VR and control groups in time spent on ultrasonographic tasks](no-time-difference-vr-ultrasound-tasks.md) — related

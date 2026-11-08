@@ -55,3 +55,4 @@ Within the PF condition (n = 55), correlations between solution attempt measures
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quantity-no-mediation.md) — related
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
 - [Awareness of knowledge gaps and curiosity do not mediate the effect of collaboration on conceptual knowledge in PF](pf-knowledge-gaps-curiosity-no-mediation.md) — related
+- [Content analysis of Learning by Doing logs showed students applied 23 of 25 predetermined ML elements to their own skill acquisition, with few conceptual mistakes](students-applied-ml-elements-in-learning-by-doing.md) — related

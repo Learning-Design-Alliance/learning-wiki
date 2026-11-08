@@ -51,7 +51,9 @@ During resuscitation training, give learners a feedback device that displays com
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](../claims/ar-cpr-training-no-improvement-over-manikin.md) [-W]
 
 ## Related Strategies
+
 - Truecpr Feedback Device
+- [Use fluorescent-marked solution and ultra-violet light to give direct visual feedback on hand hygiene technique](fluorescent-uv-hand-hygiene-visual-feedback-strategy.md)
 
 ## Examples
 -

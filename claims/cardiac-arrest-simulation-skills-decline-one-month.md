@@ -49,3 +49,4 @@ Wilcoxon signed-rank comparison of the same participants' scores between T0 and 
 - [One month after simulation training for ACS, the trained group maintains its scores and continues to improve on its trained scenario, unlike the untrained control group](acs-simulation-skills-maintained-one-month.md) — related
 - [Maximum scores declined after primary intervention except in fluidity and speed, which rose significantly](max-scores-decline-except-fluidity-speed.md) — related
 - [Immediately after simulation training, residents outperform the cross-over control group on the scenario they were trained for, on both the cardiac-arrest and the ACS scenarios](simulation-immediate-advantage-trained-scenario.md) — related
+- [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related

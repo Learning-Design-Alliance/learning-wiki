@@ -52,3 +52,4 @@ Validity and reliability analysis comparing the modified NoTSUS scale against th
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
 - [Essay scoring showed acceptable inter-rater reliability at both pretest and posttest](writing-scale-inter-rater-reliability.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
+- [Novices taught ureteroscopy and NTS in a full immersion/distributed simulation ('igloo') environment gained significantly higher NoTSS scores than novices taught by didactic methods](fids-igloo-outperformed-didactic-notss-novices.md) — related

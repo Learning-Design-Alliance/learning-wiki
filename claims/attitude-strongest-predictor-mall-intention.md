@@ -49,3 +49,4 @@ Path analysis of Rasch-calibrated person measures from 293 Vietnamese learners s
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [MALL effect sizes show no visible correlation with grade level or sample size](mall-effect-independent-of-grade-and-sample-size.md) — related
+- [Perceived usefulness of Zoom is strongly positively correlated with students' attitude toward it and their behavioral intention to use it in language learning](pu-strongly-correlated-attitude-behavioral-intention-zoom.md) — related

@@ -50,3 +50,4 @@ The review reports that "Supervised resident training reduced operative time aft
 - [Individual progression of residents had a positive effect on patient outcomes, reported in seven studies](individual-resident-progression-positive-outcomes.md) — a broader claim this one bears on
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — related
 - [Stepwise CBME training significantly shortens operative time for supervised breast-conserving surgery compared to conventional training](stepwise-cbme-shortens-bcs-operative-time.md) — related
+- [ESGE ESD training curriculum prescribes a stepwise pathway (at least 20 animal-model ESDs, then observation and supervised human cases) with quality benchmarks of 90% en bloc resection and <3% perforation](esge-esd-training-curriculum.md) — related

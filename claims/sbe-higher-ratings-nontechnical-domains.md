@@ -55,3 +55,4 @@ Self-report questionnaire on a 10-point scale administered to both groups after 
 - [Face-to-face students rate learning motivation, clinical thinking, communication and teamwork higher, while self-learning skills and basic knowledge mastery do not differ](self-evaluation-f2f-vs-online-neurosurgery.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Students taught with step-by-step teaching rate their instructors' teaching ability and teaching methods significantly higher than traditionally taught students do](sbs-students-rate-teaching-ability-methods-higher.md) — related
+- [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related

@@ -50,6 +50,7 @@ The article recommends that educators minimize negative consequences of distance
 - [Keep in continual contact with distance students to reduce disappearing, isolation, and anxiety](continual-contact-reduce-isolation-anxiety.md)
 - [Vary online teaching and learning activities to counter fatigue and anxiety in lengthy online sessions](vary-online-activities-lengthy-sessions.md)
 - [Reduce students' COVID-19-related anxiety to enhance distance e-learning outcomes in nursing education](reduce-covid19-anxiety-distance-e-learning-strategy.md)
+- [Use social media communities such as the International Microsurgery Club for remote peer learning and expert contact](social-media-microsurgery-peer-learning-strategy.md)
 
 ## Examples
 -

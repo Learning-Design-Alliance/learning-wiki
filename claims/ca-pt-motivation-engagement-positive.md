@@ -50,3 +50,4 @@ Motivation and engagement items (adapted Short Motivation and Engagement Scale) 
 - [Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue](ofd-learner-perceptions-seven-themes.md) — related
 - [Residents perceived preceptorship positively, reporting more structured learning and gains in knowledge, skills, and motivation](preceptorship-positive-resident-perceptions-structured-learning.md) — related
 - [Most students experienced the CA-PT as more difficult than the conventional PT and felt insecure about their performance](students-experience-ca-pt-more-difficult.md) — related
+- [Most residents felt more anxious with the hybrid model, while a majority found technical practice easier with the pelvic trainer](hybrid-model-anxiety-technical-ease.md) — related

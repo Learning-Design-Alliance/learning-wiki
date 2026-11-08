@@ -51,6 +51,7 @@ The article recommends that "Teachers should expose students to practical works 
 - [Place an immersive virtual field trip as the introductory experience of an instructional module](immersive-field-trip-as-module-introduction-strategy.md)
 - [Expose students to active class activities such as questioning, discussing and practical work to boost learning and skills acquisition](active-class-activities-questioning-discussing-practical-work.md)
 - [Use a VFT as the field-study alternative when real field trips are blocked by cost, logistics, safety or permission barriers](vft-as-field-trip-alternative-strategy.md)
+- [Add a post-trip Moodle review module (atlas, photo sharing, and drag-and-drop self-test exercises) after an experiential field trip](post-trip-moodle-review-module-strategy.md)
 
 ## Examples
 -

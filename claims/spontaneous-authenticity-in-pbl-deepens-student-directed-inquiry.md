@@ -75,3 +75,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
 - [Qualitative observations and interviews indicated learners learned to identify and solve problems and experienced the intervention positively](qualitative-support-for-intervention-experience.md) — related
 - [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related
+- [Reflection logs indicate students in the integrative curriculum engaged in self-directed inquiry, richer peer and instructor interaction, and enthusiasm for simulation scenarios](reflection-logs-show-engagement-and-collaborative-inquiry.md) — related

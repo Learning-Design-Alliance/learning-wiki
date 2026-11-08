@@ -47,6 +47,7 @@ The panel's top-priority improvement actions target prebriefing quality: setting
 - [Gender-sensitive pre-briefing and debriefing practices to support psychological safety in simulation-based assessment](gender-sensitive-prebriefing-debriefing-strategy.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Reduce extraneous uncertainty and cognitive load through a thorough pre-brief, clear simulation plan and educator support](prebrief-reduce-extraneous-uncertainty-cognitive-load.md)
+- [Structured prebriefing to establish psychological safety before the simulated scene](structured-prebriefing-psychological-safety.md)
 
 ## Examples
 -

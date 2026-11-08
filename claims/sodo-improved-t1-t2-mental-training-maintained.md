@@ -47,3 +47,4 @@ Intragroup T1-to-T2 comparison within the same quasi-experimental study. The con
 ## Related Claims
 - [Mental Training produced significantly better structured facial examination performance than See One, Do One immediately after training](mental-training-beats-sodo-immediate-facial-examination.md) — related
 - [Mental Training showed significantly better long-term retention of the structured facial examination skill at 5–10 weeks](mental-training-better-retention-five-ten-weeks.md) — related
+- [The See One, Do One group's long-term improvement is attributed to summative assessment driving learning](assessment-drives-learning-sodo-catchup.md) — a broader claim this one bears on

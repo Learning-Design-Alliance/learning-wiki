@@ -71,3 +71,5 @@ The same adjusted models found no association of screen viewing measures with ex
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — a narrower finding that bears on this claim
 - [Recreational screen time is negatively associated with academic performance among Chinese middle school students](recreational-screen-time-negative-academic-performance-chinese-adolescents.md) — related
 - [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related
+- [Concurrent heavy television and computer use at grade 5 were associated with lower numeracy scores at grade 5](concurrent-tv-computer-grade5-lower-numeracy.md) — a narrower finding that bears on this claim
+- [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — a narrower finding that bears on this claim

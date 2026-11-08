@@ -54,3 +54,4 @@ Non-parametric binned scatterplots (Figs. 2 and 3) of change in overall test sco
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related
 - [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](resilience-satisfaction-correlations.md) — related
 - [Grit was not associated with any measure of laparoscopic performance in this novice sample](grit-not-associated-laparoscopic-performance.md) — related
+- [Teacher reports predict student academic outcomes better than survey effort measures or performance tasks, though they are subject to similar biases](teacher-reports-outperform-survey-effort-predictors.md) — related

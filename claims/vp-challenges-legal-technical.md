@@ -57,3 +57,4 @@ Qualitative content analysis of VP descriptions. The Challenges subcategory repo
 - [The standard training program showed intermediate effects on three values-related competencies but no effect on three technical competencies](values-competencies-intermediate-technical-no-effect.md) — related
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
+- [Free-text keyword-recognition problems in virtual patients did not distract most trainees from learning](vp-keyword-recognition-issues-not-detracting.md) — related

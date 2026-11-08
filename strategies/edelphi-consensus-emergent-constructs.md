@@ -46,6 +46,7 @@ The article demonstrates using a Delphi methodology to generate consensus among 
 - [Multistage consensus process combining nominal-group scope definition, two-stage blinded screening, a modified Delphi process with anonymous voting plus structured online discussion, and blinded categorisation](multistage-delphi-core-set-process.md)
 - [Iterate simulation scenarios through expert Delphi rounds plus a student pilot, adding clarity, printed results, and structured assessment](iterative-scenario-refinement-experts-pilot.md)
 - [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
+- [Use a Delphi panel with predefined inclusion and stopping criteria to build cross-institution consensus on procedure steps](delphi-consensus-for-procedure-breakdown.md)
 
 ## Examples
 -

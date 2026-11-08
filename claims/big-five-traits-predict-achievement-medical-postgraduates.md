@@ -60,3 +60,4 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [Broad conscientiousness is the strongest Big Five predictor of both academic GPA and clinical marks in dental students](conscientiousness-predicts-dental-gpa-and-clinic.md) — related
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — related
 - [Agreeableness predicts clinical performance while extraversion and openness relate only to academic achievement and neuroticism to neither](other-big-five-domains-dental-performance-patterns.md) — reports the opposite
+- [Big Five traits correlate significantly with Academic Behavioural Confidence subscales, positively except neuroticism, with conscientiousness showing the strongest correlations](big-five-correlations-academic-behavioural-confidence.md) — related

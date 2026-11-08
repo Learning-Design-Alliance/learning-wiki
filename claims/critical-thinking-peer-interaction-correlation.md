@@ -51,3 +51,4 @@ Correlational analysis in the same survey study found a positive relationship be
 ## Related Claims
 - [Critical thinking and engagement were positively correlated in online discussion activity](critical-thinking-engagement-positive-correlation.md) — possibly the same claim (merge candidate)
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
+- [Self-reflection and critical thinking scores were significantly positively correlated in first-year nursing students](self-reflection-critical-thinking-positive-correlation-nursing.md) — related

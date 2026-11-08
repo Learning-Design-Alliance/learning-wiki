@@ -52,6 +52,7 @@ The article recommends embedding non-technical skills stressors in simulation sc
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Medical educators should account for incidental emotions during clinical training by incorporating realistic clinical distractors into simulation](train-with-realistic-clinical-distractors.md)
 - [Combined lecture plus simulated video-scenario sessions for teaching non-technical skills](lecture-plus-video-scenario-nts-training-strategy.md)
+- [Multiprofessional in situ simulation of procedural complications to develop situational awareness](in-situ-simulation-endoscopy-complications-situational-awareness.md)
 
 ## Examples
 -

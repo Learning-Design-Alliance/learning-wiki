@@ -26,7 +26,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (11 for, 15 mixed) · 36 studies (12 causal, 10 review, 8 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 36 report an effect size · 16 claims rest on one study
+> **Evidence** · 27 claims (12 for, 15 mixed) · 37 studies (13 causal, 10 review, 8 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 37 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [~M] — about highlighting printed text (memory 0.36, comprehension 0.20); bears on "annotated reading notes" only as a warning that marking alone is weak. Its model is on [Annotating](annotating.md).
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+W] — the same 28-student study as the review-notes claim; revising one's summary associated with larger gains. Associational.
 - [Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative](../claims/notetaking-feedback-limits-grammar-resolution.md) [~W] — a single-participant case study in second-language writing, where "notetaking" means a learner noting a model text as feedback on their own draft. A different practice from this page's; it bears only on note-taking used as feedback in L2 writing.
+- [Notetaking during lectures and higher THM retention are each associated with better resident knowledge one month later](../claims/notetaking-retention-associated-knowledge.md) [+W] — attached 2026-11-08 from Lautrette Alexandre et al (2020), which proposed "Lecturers should provide take-home messages in written form on their slides, and encourage notetaking, because written THMs, retention and knowledge are strongly linked"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Test-retest reliability check: recordings of ten students from another instituti
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - [The equal-group tests showed high test-retest and between-group correlations, supporting the reliability of the arithmetical-reasoning marking method.](high-correlations-reasoning-tests.md) — related
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
+- [BUSS shows three-week test-retest reliability of .70 for Tenacity and .77 for Self-composure](buss-test-retest-reliability.md) — related

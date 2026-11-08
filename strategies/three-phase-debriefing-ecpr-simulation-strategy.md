@@ -51,6 +51,8 @@ Debriefing was "structured based on the three-phase approach, including reaction
 - [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
 - [Structure peer debriefing around observed actions, good judgement, and closing performance gaps](structured-peer-debriefing-form-strategy.md)
 - [Debrief the postvention scenario with \"The Diamond\" model across descriptive, analytical and application phases](diamond-model-three-phase-debriefing-postvention.md)
+- [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
+- [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
 
 ## Examples
 -

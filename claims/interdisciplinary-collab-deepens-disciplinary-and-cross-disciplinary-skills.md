@@ -56,3 +56,4 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Evolved disciplinary modules produced more motivating and more efficient learning outcomes closer to employer expectations](evolved-modules-more-motivating-efficient-employer-aligned.md) — related
 - [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](group-work-positive-student-perceptions-mathematics.md) — related
 - [Before the experiment, most students lacked sufficient knowledge for cross-disciplinary integration and were unfamiliar with the target equipment](baseline-low-technological-preparation.md) — related
+- [Involving apprentices in handmaking the simulators deepened knowledge and taught extracurricular skills, an innovation the authors report finding in no similar literature](apprentice-involvement-in-simulator-making.md) — related

@@ -49,3 +49,4 @@ Kruskal–Wallis test of MCQ scores across the three cohorts reported "Kruskal�
 - [In SIDRA and R-G-SIDRA cohorts, higher in-system MCQ scores (by tertile) predicted higher final exam grades, but in the RB-G-SIDRA cohort the tertile groups did not differ significantly.](mcq-tertiles-predict-final-exam-by-cohort.md) — related
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
 - [Gamified activities did not significantly change students' perceived engagement in the online course](gamification-no-engagement-change.md) — related
+- [Gamification's exam advantage extended across most percentiles but not the highest, with gender-differentiated lowest and highest scores](gamification-percentile-gender-performance-differences.md) — related

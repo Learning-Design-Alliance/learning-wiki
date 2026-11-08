@@ -46,6 +46,7 @@ In the intervention arm, HBB simulation practice sessions were video-recorded an
 ## Related Strategies
 
 - [Before scaling up video-debriefing for HBB, conduct a larger mixed-methods study with qualitative and cost-benefit analyses](mixed-methods-study-before-video-debriefing-scale-up.md)
+- [Temporal social distancing with video recording: run participants sequentially, record scenarios, and combine into a shared debrief to build a shared mental model](temporal-social-distancing-video-recording-debrief.md)
 
 ## Examples
 -

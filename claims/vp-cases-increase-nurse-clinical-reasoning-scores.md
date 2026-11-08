@@ -47,3 +47,5 @@ Pre-post study of 56 in-service nurses at 10 Rwandan health centers who complete
 ## Related Claims
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
+- [Virtual patient simulation sessions significantly increase medical students' clinical reasoning scores without lecturer supervision](vps-increases-clinical-reasoning-scores.md) — related
+- [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — related

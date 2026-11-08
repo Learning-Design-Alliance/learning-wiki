@@ -51,3 +51,4 @@ ANCOVA on cumulative final exam scores (40 multiple-choice items) for the 112 st
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) — related
 - [Overall cumulative final exam scores showed no significant difference before versus after implementing the story](final-exam-overall-no-significant-difference.md) — related
 - [No significant effect of learning activity type on quiz performance remains after adjusting for device used and previous neuroscience experience](ancova-no-effect-learning-activity-on-quiz-scores.md) — related
+- [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related

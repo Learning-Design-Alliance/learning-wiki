@@ -57,3 +57,4 @@ Analytical derivation in the commentary: assuming standardized parallel items, a
 - [The reliability of the IELTS-based proficiency test used for participant selection was supported by a Cronbach's Alpha of 0.81](ielts-proficiency-test-alpha-081.md) — a narrower finding that bears on this claim
 - [DLISt7 demonstrated excellent internal reliability, with a slightly higher alpha coefficient obtained in the main study using a larger sample](dlist7-internal-reliability-excellent-alpha.md) — a narrower finding that bears on this claim
 - [Six cases are required for formative assessment (reliability > 0.7) and 10 cases for summative assessment (reliability > 0.8)](foi-test-case-requirements-formative-summative.md) — related
+- [The 40-item tests showed poor to moderate reliability, with the pre-course test highly random (alpha −0.022)](anatomical-test-reliability-poor-moderate.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Engagement measure from the intervention arm of the chart-review study: slides w
 - [Contact information for district EL leaders is often incomplete, and few web-form or superintendent emails receive responses](incomplete-contact-info-few-responses.md) — related
 - [Internists document preeclampsia history far less often than traditional CVD risk factors at well-woman visits](preeclampsia-history-asked-less-than-traditional-risk-factors.md) — related
 - [In-person and emailed provider education interventions did not significantly change preeclampsia screening documentation](provider-education-no-change-preeclampsia-screening.md) — related
+- [Many CVD specialists are unaware of the cardiovascular risks posed by adverse pregnancy outcomes and few take a detailed pregnancy history](cvd-specialists-unaware-apo-risks.md) — related

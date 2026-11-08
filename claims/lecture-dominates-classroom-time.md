@@ -50,3 +50,4 @@ Quantitative survey data on time allocation in faculty's largest enrolment cours
 - [Instructors in traditional fixed-seat classrooms report more lecture than those in classrooms designed to accommodate group work](fixed-seat-classrooms-more-lecture.md) — related
 - [Very active researchers lecture more than other instructors, while instructors involved in education research lecture less](research-activity-and-education-research-lecture-patterns.md) — related
 - [Greater percent teaching time allocation is associated with lower learner-centered teaching practices](teaching-time-allocation-negative-rtop.md) — related
+- [University teachers report difficulty applying active teaching practices in large groups of more than 50 students](teachers-report-active-teaching-difficult-large-groups.md) — related

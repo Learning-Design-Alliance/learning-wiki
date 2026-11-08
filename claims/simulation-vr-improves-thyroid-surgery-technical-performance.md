@@ -62,3 +62,4 @@ Systematic review of educational interventions in thyroid surgery (2011–2025),
 - [Adding immersive VR training to an online module yields higher mannequin-based technical skill scores (OSATS) than the online module alone in novice medical students](vr-plus-online-higher-osats-chest-tube.md) — related
 - [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — a narrower finding that bears on this claim
 - [The high cost of virtual reality simulators limits widespread adoption, and their cost-effectiveness for robotic surgery has not been clearly demonstrated](vr-simulator-cost-effectiveness-undemonstrated.md) — related
+- [Trainees' self-rated non-technical skills and textbook knowledge for nighttime HEC missions improved after indoor simulation training](indoor-night-hec-simulation-self-rated-skill-gains.md) — related

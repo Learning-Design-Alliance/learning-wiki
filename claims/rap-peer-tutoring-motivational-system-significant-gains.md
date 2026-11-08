@@ -70,3 +70,4 @@ Paired t-tests for group 2 (n=10 tutees) across the same measurement points. The
 - [All group 1 tutees improved from t1 to t3, while three group 2 tutees scored lower at t3 than at t1](rap-responder-pattern-group-differences.md) — related
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a broader claim this one bears on
 - [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](lower-ability-students-benefited-most-peer-tutoring.md) — related
+- [Single-component interventions (teacher training alone) appeared more promising for academic performance than combined or multicomponent PE interventions](single-intervention-strategies-more-effective.md) — reports the opposite

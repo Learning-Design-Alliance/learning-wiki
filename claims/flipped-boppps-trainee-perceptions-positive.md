@@ -51,3 +51,4 @@ Post-rotation 10-question survey completed by the 33 experimental-group trainees
 - [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related
 - [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related
 - [All FC+CBL students perceived blended learning as beneficial for the course](mph-unanimous-blended-learning-beneficial.md) — related
+- [Experienced prescribers found the intervention not new but useful for consolidating learning and enabling self-reflection](intervention-consolidates-learning-self-reflection.md) — related

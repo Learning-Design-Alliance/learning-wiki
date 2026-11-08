@@ -42,6 +42,7 @@ The authors' forward-looking recommendations for improving the reformed course: 
 
 - [Develop bridging techniques linking cognitive strategies to content knowledge areas](bridging-cognitive-strategies-to-content-knowledge.md)
 - [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](future-extensions-interferometer-and-bayesian-unit.md)
+- [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
 
 ## Examples
 -

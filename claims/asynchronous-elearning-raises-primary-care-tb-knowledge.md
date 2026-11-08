@@ -69,3 +69,4 @@ Same regression model in the quasi-experiment, dose-response specification: the 
 - [Traditional face-to-face training had no significant impact on TB knowledge for any staff type](face-to-face-cme-no-significant-knowledge-impact.md) — related
 - [Pre-post knowledge scores rose for all staff groups during the project period, but univariate change-score comparisons against non-pilot areas were null for physicians](prepost-knowledge-gains-descriptive.md) — related
 - [Public health physicians showed no statistically significant knowledge improvement under any training format](public-health-physicians-no-benefit-any-format.md) — related
+- [Non-participation in diabetes training is a significant predictor of poor diabetes care knowledge among primary care physicians](diabetes-training-nonparticipation-predicts-poor-knowledge.md) — related

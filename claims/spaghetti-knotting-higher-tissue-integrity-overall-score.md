@@ -49,3 +49,4 @@ Post-training comparison in the RCT of 40 residents, scored by two blinded surge
 - [In LESS suture teaching, residents trained with spaghetti knotting complete knotting significantly faster than residents trained with conventional knotting](spaghetti-knotting-faster-knotting-time.md) — related
 - [Spaghetti knotting and conventional knotting training do not differ on needle insertion accuracy, knotting stability, or tissue tightness](spaghetti-knotting-no-difference-accuracy-stability-tightness.md) — related
 - [Spaghetti knotting training lowers perceived mental demand, temporal demand and effort workload more than conventional knotting training](spaghetti-knotting-lower-nasa-tlx-workload.md) — related
+- [Multidirectional stitching training causes less suture-tissue damage compared with traditional instruction](multidirectional-stitching-tissue-integrity.md) — related

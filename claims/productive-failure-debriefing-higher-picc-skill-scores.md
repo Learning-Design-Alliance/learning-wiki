@@ -51,3 +51,4 @@ Table 4 of the quasi-experimental post-intervention comparison (73 intervention 
 - [Productive failure plus debriefing training raises total learning motivation and all WPI dimension scores relative to traditional training](productive-failure-debriefing-raises-learning-motivation.md) — related
 - [Productive failure plus debriefing training shifts problem-solving style toward rational-positive and away from negative-avoidant approaches](productive-failure-debriefing-problem-solving-styles.md) — related
 - [Productive failure plus debriefing training raises satisfaction with teaching level, method, and effect, but not teaching attitude](productive-failure-debriefing-teaching-satisfaction.md) — related
+- [Nurses who previously received PICC maintenance training scored significantly higher on PICC maintenance knowledge than those who had not](prior-picc-training-associated-higher-knowledge.md) — related

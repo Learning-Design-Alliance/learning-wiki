@@ -71,3 +71,4 @@ In the repeated measures ANOVA on the questionnaire subset, "CE and PT both had 
 - [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](testing-effect-endodontics-final-exam.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Emotions measured early in the semester longitudinally predict cumulative grades and exam scores, with negative deactivating emotions (hopelessness, boredom) showing stronger coefficients than activating negative emotions](emotions-longitudinally-predict-achievement.md) — related
+- [Post-course ML self-efficacy was moderately correlated with performance on an objective ML knowledge exam](self-efficacy-correlated-with-knowledge-exam.md) — related

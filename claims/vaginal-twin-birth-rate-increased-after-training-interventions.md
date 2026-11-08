@@ -53,3 +53,4 @@ Retrospective multicenter pre/post study of 278 twin pregnancies (131 pre, 147 p
 - [Monochorionic pregnancies had slightly higher cesarean section rates than dichorionic pregnancies](monochorionic-pregnancies-higher-cs-rates.md) — related
 - [Hospitals in the Appropriate Delivery Project pilot showed a significant, sustained increase in the percentage of vaginal deliveries across the three observation periods](ppa-pilot-vaginal-delivery-increase.md) — related
 - [Private hospitals showed significant increases in vaginal deliveries across all period contrasts, while public hospitals showed no significant change](private-hospitals-gains-public-null.md) — related
+- [Well-run multidisciplinary teams reduce adverse cardiovascular outcomes in high-risk pregnancies](multidisciplinary-teams-reduce-adverse-outcomes.md) — related

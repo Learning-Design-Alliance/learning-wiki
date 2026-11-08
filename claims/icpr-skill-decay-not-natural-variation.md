@@ -50,3 +50,4 @@ Conclusion drawn from the full within-day and between-day reliability analysis o
 - [Reliability is lower and variability higher once iCPR metrics are converted into guideline-based quality indices, with between-day rate-QI ICC falling to .52 and MDC reaching 101% of the mean](icpr-quality-indices-lower-reliability.md) — related
 - [Simulated infant CPR performance shows a high degree of within-day reliability, with excellent ICCs for chest compression rate, depth, residual leaning and duty cycle](icpr-within-day-reliability-excellent.md) — related
 - [Between-day iCPR reliability one week after training remains good to excellent, with compression depth the highest ICC (.92) and duty cycle the lowest (.75)](icpr-between-day-reliability-good-excellent.md) — possibly the same claim (merge candidate)
+- [After 365 days of nonuse, average performance on a skill decays by nearly a full standard deviation (d = -0.92)](skill-decay-365-days-nonuse-d-092.md) — related

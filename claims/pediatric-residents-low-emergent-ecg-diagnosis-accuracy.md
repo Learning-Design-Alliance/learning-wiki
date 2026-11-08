@@ -51,3 +51,4 @@ Cross-sectional survey of 95 pediatric and child health residents at Addis Ababa
 - [Junior residents more often correctly diagnosed sinus rhythm, sinus arrhythmia, and SVT than senior residents](junior-residents-better-some-ecg-diagnoses.md) — related
 - [Residents report low self-perceived autonomy for bifascicular block, failure to capture, Brugada pattern, and acute MI with bundle branch block](low-resident-autonomy-critical-ecg-diagnoses.md) — related
 - [PGY-5 residents report autonomy for ventricular tachycardia, hyperkalemia, and MI without bundle branch block despite known physician accuracy limitations](unperceived-gaps-pgy5-overconfidence.md) — related
+- [Asystole was the best-recognised ECG emergency (69.9% correct) while third-degree A-V block was the least recognised](asystole-best-recognised-ecg-emergency.md) — related

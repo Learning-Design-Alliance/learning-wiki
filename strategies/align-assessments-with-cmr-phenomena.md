@@ -39,6 +39,7 @@ The article recommends aligning assessments with instruction by including free-r
 ## Related Strategies
 
 - [Incorporate practical and procedural knowledge into the Readiness Assessment Test](include-procedural-knowledge-in-rat.md)
+- [Sequence case questions from simple to complex, emphasizing molecular-mechanism questions](simple-to-mechanistic-question-sequencing.md)
 
 ## Examples
 -

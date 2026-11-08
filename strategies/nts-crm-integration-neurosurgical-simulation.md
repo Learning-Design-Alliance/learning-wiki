@@ -51,6 +51,7 @@ The article recommends that "future simulation programmes should prioritize the 
 - [Invest in structured coach development alongside curricular planning for simulation-based surgical education](structured-coach-development-surgical-simulation.md)
 - [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 - [Apply evidence-based NTS stressors — inexperienced theatre staff and a conscious, anxious patient — within surgical simulation scenarios](nts-stressors-in-simulation-scenarios.md)
+- [Structure NTS curricula as classroom introduction first, then simulation once basic technical proficiency is reached, with debriefing and level- and specialty-specific adaptation](nts-curriculum-classroom-then-simulation-strategy.md)
 
 ## Examples
 -

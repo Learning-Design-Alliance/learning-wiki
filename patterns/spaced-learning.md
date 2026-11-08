@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 94 claims (39 for, 50 mixed, 5 against) · 69 studies (37 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 14 of 69 report an effect size · 89 claims rest on one study
+> **Evidence** · 95 claims (40 for, 50 mixed, 5 against) · 70 studies (38 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 14 of 70 report an effect size · 90 claims rest on one study
 
 ## Description
 
@@ -115,6 +115,7 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 - [No significant performance differences between students trained every 3 months and every 6 months](../claims/no-difference-3-versus-6-month-cpr-training.md) [~W] — attached 2026-11-06 from Joyce Kelly Barreto Silva et al. (2025), which proposed "Schedule CPR refresher training every 6 months rather than every 3 months when using feedback-equipped simulators"; tests this page's relationship.
 - [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](../claims/short-versus-long-intervals-no-difference-time-to-proficiency.md) [~W] — attached 2026-11-07 from Tang Diana Hai Yen et al. (2024), which proposed "Schedule distributed skills training so sessions are separated by at least one night of sleep, and keep programs flexible for trainee schedules"; tests this page's relationship.
 - [Both schedule groups reached proficiency significantly faster at the retention test than during initial training, with no between-group difference in retention level](../claims/retention-test-faster-than-initial-training-no-group-effect.md) [~W] — attached 2026-11-07 from Tang Diana Hai Yen et al. (2024), which proposed "Schedule distributed skills training so sessions are separated by at least one night of sleep, and keep programs flexible for trainee schedules"; tests this page's relationship.
+- [Repeated simulation training with a one-month interval accelerated the learning curve and reduced inter-individual variability](../claims/repeated-simulation-sets-accelerate-learning-curve.md) [+W] — attached 2026-11-08 from Oh Eun Jung et al. (2020), which proposed "Use distributed repeated simulation training sets with an inter-training interval rather than massed training"; tests this page's relationship.
 
 ## Elements
 

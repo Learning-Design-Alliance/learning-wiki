@@ -53,3 +53,4 @@ Objective evaluation of 30 physicians performing three simulated implant operati
 - [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — related
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [No statistically significant difference in vertical bracket placement deviation between virtual simulation and traditional training](no-vertical-deviation-difference-virtual-traditional.md) — related
+- [Combined training groups show smaller CBCT implant deviations (linear and angular) than single-method groups](combined-groups-better-implant-accuracy-cbct.md) — related

@@ -54,3 +54,4 @@ Cross-lagged panel model results (Table 3; Figure 1) in the same 489-teacher two
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](task-coping-positive-affect-feedback-loop.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - [Self-blame coping is positively associated with e-learning satisfaction](self-blame-coping-positive-e-learning-satisfaction.md) — related
+- [Emotion-focused coping strategies positively predict negative achievement emotions, while problem-focused coping strategies predict no type of emotion](emotion-focused-coping-predicts-negative-emotions.md) — related

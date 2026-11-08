@@ -52,3 +52,4 @@ Three-way comparison of satisfaction ratings (0–10) across online breakout roo
 - [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
 - [Virtual surgical skills teaching significantly improved students' perceptions of supervision, view of demonstrations and interaction with instructors](virtual-skills-teaching-improved-perceptions.md) — related
+- [Blocked weekly didactic formats show higher learner satisfaction, improved attendance, and fewer interruptions than shorter daily formats, but no objective outcome differences](blocked-weekly-didactics-satisfaction-attendance.md) — related

@@ -48,3 +48,4 @@ Pilot study with ten fourth-year undergraduate medical students (five female, fi
 - [Participants rated the human actor video as more realistic than the humanoid robot simulation of psychiatric symptoms](actor-video-rated-more-realistic-than-robot.md) — related
 - [Eight of 37 respondents reported OSCEai scenarios or elements that were confusing or not representative of real-life practice](osceai-limitations-realism-confusion.md) — related
 - [Pilot students requested clearer instructions, more accessible hints, and more mystery in escape room design](escape-room-improvement-suggestions.md) — related
+- [Expert suggestions were incorporated to improve the scenario's realism and information](expert-suggestions-improved-scenario.md) — related

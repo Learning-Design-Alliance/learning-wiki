@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 620 claims (330 show a difference, 139 mixed, 151 no difference) · 442 studies (219 associational, 164 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 64 of 442 report an effect size · 612 claims rest on one study
+> **Evidence** · 628 claims (335 show a difference, 142 mixed, 151 no difference) · 446 studies (222 associational, 165 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 446 report an effect size · 620 claims rest on one study
 
 ## How to read this page
 
@@ -659,6 +659,14 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The author concludes absenteeism is a negative predictor of academic success for male but not female medical sciences students in Saudi Arabia](../claims/absenteeism-negative-predictor-males-not-females.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students show higher academic performance than male students in this sample](../claims/female-higher-academic-performance-indian-adolescents.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Self-confidence levels did not differ significantly by GPA, gender, or university](../claims/cxr-confidence-no-differences-gpa-gender-university.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Bias against female classmates was stronger in physical science courses: participants in life science courses selected higher proportions of women in all four nomination categories](../claims/course-type-moderates-peer-gender-bias.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Both women and men nominated female classmates at proportions below women's actual success rates, with men underestimating women most consistently](../claims/peers-undervalue-outperforming-women-stem.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys experience grade retention more frequently than girls, supporting hypothesis H1a](../claims/boys-retained-more-frequently-than-girls.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female Spanish undergraduates report higher academic confidence than male students in grades, studying and attendance, while male students report higher verbalising confidence](../claims/sex-differences-abc-subscale-confidence-spanish-undergraduates.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The effect of raising the Year-1 standard on pass rates was greater for male than for female students](../claims/standard-raising-effect-stronger-male-students.md) [+M] — an instructional effect differs by group
+- [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](../claims/women-higher-course-grades-stem-courses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women had significantly higher university-wide GPAs than men, with the gap reversing for first-year students](../claims/women-higher-university-gpa-level-gender-interaction.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women were marginally about 1.5 times more likely than men to earn a top grade (A or A+), failing to support the variability hypothesis](../claims/women-more-likely-top-grades-stem.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

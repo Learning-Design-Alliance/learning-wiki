@@ -50,3 +50,4 @@ Systematic review synthesis of four studies measuring transfer of simulation-bas
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
+- [Crisis resource management training improved NTS at follow-up in some studies, but other studies do not show retention](crm-training-nts-retention-mixed.md) — related

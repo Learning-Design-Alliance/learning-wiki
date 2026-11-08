@@ -53,3 +53,4 @@ Cross-sectional survey of biology graduate students in North America (n = 255 co
 - [Disciplinary and academic cultures send mixed messages, valuing researcher recognition over teaching respect](macrosystem-mixed-culture-messages.md) — related
 - [Graduate students report their departments support research more than teaching across exosystem cultural measures](exosystem-culture-favors-research.md) — related
 - [No significant difference in RTN perceptions between master's and doctoral students](no-degree-type-rtn-difference.md) — related
+- [Research performance indicators show little to no relationship with student evaluations of teaching, consistent with a neutral research-teaching nexus](neutral-research-teaching-nexus.md) — related

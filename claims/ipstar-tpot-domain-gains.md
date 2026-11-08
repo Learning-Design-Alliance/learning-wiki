@@ -52,3 +52,4 @@ Pre-post comparison of TPOT scores (n = 12 sessions, Wilcoxon signed rank test) 
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — reports the opposite
 - [Teams score best in situation monitoring and worst in mutual support, with profession-specific strengths across TeamSTEPPS domains](teamstepps-domain-strengths-by-profession.md) — related
 - [The stepwise ramp let critical team skills be taught and reinforced in a manageable way, with leadership skills easier in smaller team structures before commanding larger teams in later cycles.](stepwise-complexity-eases-leadership-skill-teaching.md) — related
+- [Mutual support was perceived as the most influential and effective TeamSTEPPS skill to implement, increasing transparency, speaking up and use of the Two-Challenge Rule](mutual-support-most-influential-teamwork-skill-change.md) — related

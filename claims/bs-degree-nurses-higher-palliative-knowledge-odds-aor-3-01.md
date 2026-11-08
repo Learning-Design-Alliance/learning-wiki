@@ -56,3 +56,4 @@ Meta-analysis of educational status as a factor associated with nurses' palliati
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — related
 - [Nurses with a master's degree were significantly more likely to have good knowledge of ACS than Bachelor degree holders (AOR=3.801)](masters-degree-associated-good-acs-knowledge.md) — related
 - [Nurses with a master's degree had almost four times higher odds of good practice regarding ACS care than nurses with a bachelor degree (AOR=4.258)](masters-degree-associated-good-acs-practice.md) — related
+- [Holding a BSc degree or above was associated with over four times higher odds of neonatal resuscitation skill retention](bsc-degree-associated-nr-skill-retention.md) — related

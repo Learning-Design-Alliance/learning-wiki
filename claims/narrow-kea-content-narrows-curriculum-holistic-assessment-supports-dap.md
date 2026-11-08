@@ -51,3 +51,4 @@ A literature-synthesis assertion in the report's introduction, citing prior stud
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](business-case-discussion-reveals-business-mindsets.md) — related
 - [Only 15 states and the District of Columbia mandate kindergarten attendance, and 11 of those states require students to take a KEA](15-states-mandate-kindergarten-attendance.md) — related
 - [High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.](no-high-stakes-on-observational-measures.md) — related
+- [Prior testing is reported to enhance knowledge retention, and assessment is described as driving learning](repetitive-testing-enhances-knowledge-retention.md) — related

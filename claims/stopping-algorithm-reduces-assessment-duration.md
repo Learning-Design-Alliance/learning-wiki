@@ -65,3 +65,4 @@ Analysis of the right tail of the duration distribution. The number of assessmen
 
 ## Related Claims
 - [An RNN-based stopping algorithm reduces ALEKS PPL assessment length by over 26% while maintaining high accuracy](rnn-stopping-reduces-aleks-assessment-length.md) — possibly the same claim (merge candidate)
+- [The e-learning module took longer to complete than the video, but paramedics judged its duration more adequate](elearning-longer-completion-adequate-duration.md) — related

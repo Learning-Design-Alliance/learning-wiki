@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-08
 sources:
   - id: golash-vidushi-2021
     resource: "https://doi.org/10.4103/ijo.IJO_242_21"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports, citing a randomized controlled trial, that home microsurgical training using an iPad or jeweller's microscope produced similar outcomes in time for suture placement, anastomosis formation, and anastomosis leak rate compared with a laboratory microscope. [→ Golash Vidushi 2021](#golash-vidushi-2021)

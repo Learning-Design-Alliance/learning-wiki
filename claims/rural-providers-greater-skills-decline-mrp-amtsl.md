@@ -47,3 +47,4 @@ One-way ANOVA comparing skills decline by residence among 210 providers. MRP sho
 ## Related Claims
 - [Skills scores declined significantly across all five assessed HMS/HBS domains after training](hms-hbs-skills-decline-all-five-domains.md) — related
 - [Knowledge declines differed by residence: urban providers declined more in pre-eclampsia but rural providers declined more in helping babies breathe](residence-differences-knowledge-decline-pre-eclampsia-hbb.md) — related
+- [At 12 months post-training, the LDHF/m-mentoring arm had better scores for specific BEmONC skills including assisted normal birth, AMTSL, manual removal of placenta, bimanual and abdominal aortic compression, and PE/E management](ldhf-better-per-skill-scores-12-months.md) — related

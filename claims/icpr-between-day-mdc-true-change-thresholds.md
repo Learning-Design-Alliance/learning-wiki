@@ -50,3 +50,4 @@ Between-day MDC analysis across the 1-week interval in the same 27-participant r
 - [Reliability is lower and variability higher once iCPR metrics are converted into guideline-based quality indices, with between-day rate-QI ICC falling to .52 and MDC reaching 101% of the mean](icpr-quality-indices-lower-reliability.md) — related
 - [Between-day iCPR reliability one week after training remains good to excellent, with compression depth the highest ICC (.92) and duty cycle the lowest (.75)](icpr-between-day-reliability-good-excellent.md) — related
 - [Because iCPR performance is highly repeatable over a week, performance changes after training can be attributed to true skill decay rather than inconsistent performance](icpr-skill-decay-not-natural-variation.md) — related
+- [After 365 days of nonuse, average performance on a skill decays by nearly a full standard deviation (d = -0.92)](skill-decay-365-days-nonuse-d-092.md) — related

@@ -72,3 +72,4 @@ Independent-samples t-test on the mean number of steps students selected across 
 - [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](se-prompts-increase-time-per-problem.md) — related
 - [Intervention students spent more preparation time and control students more often felt disadvantaged, while other feedback items did not differ](student-feedback-prep-time-and-allocation-fairness.md) — related
 - [Time spent using the app versus course notes did not differ significantly between groups](app-versus-notes-usage-time-null.md) — related
+- [No significant difference between VR and control groups in time spent on ultrasonographic tasks](no-time-difference-vr-ultrasound-tasks.md) — related

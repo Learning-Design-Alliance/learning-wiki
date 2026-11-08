@@ -49,3 +49,4 @@ Cross-sectional mediation models in TEDS tested emotional and behavioural functi
 - [Mediation effects of non-cognitive skills remain significant after controlling for general cognitive ability and family socioeconomic status](mediation-robust-to-cognitive-ability-and-ses-controls.md) — related
 - [Direct and indirect Reading-PGS effects remain largely after controlling for educational-attainment and cognitive-ability polygenic scores](reading-pgs-effects-specific-to-reading-not-education-iq.md) — related
 - [Time-lagged mediation effects persist longitudinally, with non-cognitive skills at earlier ages mediating polygenic score associations with later academic achievement](longitudinal-time-lagged-mediation-noncognitive-skills.md) — related
+- [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related

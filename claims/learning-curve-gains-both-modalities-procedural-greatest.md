@@ -50,3 +50,4 @@ Learning curve analysis of simulator metric data plotted for the first five atte
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — a broader claim this one bears on
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — related
 - [The largest learning-curve gains in basic laparoscopic skills occur within the first three training sessions](largest-pi-gains-first-three-sessions.md) — related
+- [The decline in actor errors across sequential simulations was greatest during each standardized family member's first 12 simulations](greatest-error-decline-first-12-simulations.md) — a narrower finding that bears on this claim

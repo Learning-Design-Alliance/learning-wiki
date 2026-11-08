@@ -69,3 +69,4 @@ Post-hoc analysis reported in the Discussion found a weak correlation (r = 0.41)
 - [Most programs (93%) combine in-house content with open-source and provincial/local resources, drawing heavily on RESNA, WHO and Wheelchair Skills Program materials](wheelchair-teaching-resource-mix-canadian-ot.md) — related
 - [Lectures and instructor-led laboratories are the most frequent pedagogic approaches, with wheelchair content mostly delivered as part of mandatory courses rather than full courses](lecture-lab-dominant-wheelchair-pedagogy.md) — related
 - [Written evaluation is the most common assessment method, but the Funding, Fitting, and Follow-up steps are not evaluated at least half of the time](written-evaluation-gaps-funding-fitting-followup.md) — related
+- [Use of pre-structured e-portfolio forms varies greatly between trainees, with substantial percentages of non-use even for mandatory forms in later cohorts](high-variability-nonuse-of-eportfolio-forms.md) — related

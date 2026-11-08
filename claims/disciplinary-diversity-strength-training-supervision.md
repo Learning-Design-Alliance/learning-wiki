@@ -47,3 +47,4 @@ Discussion-section statement of an unanticipated thematic finding from the inter
 ## Related Claims
 - [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
 - [Interactivity between colleagues with diverse clinical experience is perceived as the main strength of group clinical supervision](group-interactivity-main-strength-group-supervision.md) — related
+- [Disciplinary and organisational contexts were not especially influential on supervision training outcomes](disciplinary-organisational-contexts-not-influential.md) — related

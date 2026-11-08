@@ -54,3 +54,4 @@ Item-level analysis of the 12-item content-validation questionnaire completed by
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [Twelve expert urologists rate an Aquablation training simulator as realistic, with face-validity item means of 3.25 to 3.75 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
 - [Experts unanimously recommend integrating the Aquablation simulator into structured Aquablation training programs](aquablation-simulator-unanimous-training-endorsement.md) — related
+- [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](expert-validation-above-80-percent-all-aspects.md) — a narrower finding that bears on this claim

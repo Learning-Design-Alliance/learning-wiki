@@ -50,3 +50,4 @@ Prospective observational study of 55 senior medical students undergoing a 30-mi
 - [Students' mean heart rates are significantly higher during VR simulation than during desktop simulation](vr-simulation-higher-mean-heart-rate-than-desktop.md) — related
 - [Desktop VR and face-to-face simulation produce no significant difference in biophysiological stress responses (systolic blood pressure and heart rate)](desktop-vr-similar-biophysiological-stress-to-face-to-face-simulation.md) — related
 - [Heart rate was significantly elevated in the threat appraisal group at the early time point of both scenarios and the mid juncture of Scenario 1](threat-group-elevated-hr-early-mid-junctures.md) — related
+- [Experiential learning produces smaller increases in systolic blood pressure and pulse rate after pit and fissure sealant than Tell-Show-Do](el-smaller-sbp-pr-increases-vs-tsd.md) — related

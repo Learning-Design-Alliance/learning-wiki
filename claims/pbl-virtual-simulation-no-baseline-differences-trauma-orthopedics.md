@@ -78,3 +78,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - PBL combined with situational simulation teaching yields higher job competency questionnaire scores than conventional teaching, from equivalent baselines — related
 - [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — related
 - [SBS & CBL trainees earned significantly higher professional knowledge and surgical skills examination grades than LBL & CBL trainees after training](sbs-cbl-higher-examination-grades.md) — related
+- [No baseline difference among the four groups on the first theoretical examination](no-baseline-difference-first-theory-exam.md) — related

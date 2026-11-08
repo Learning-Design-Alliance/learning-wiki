@@ -54,3 +54,4 @@ Secondary outcome of the randomized trial: duration from patient setup to first 
 - [VR-trained students were not significantly faster at performing puncture cricothyrotomy than video-trained students; the time difference reached only trend level](vr-cricothyrotomy-time-trend-not-significant.md) — related
 - [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related
 - [Students who received LP simulation training had a higher first-LP success rate in real patients than untrained controls (67% vs 14%)](lp-simulation-higher-first-lp-success.md) — related
+- [The first simulator version implements 14 of 16 listed procedural requirements, excluding needle cap removal and safety-device activation](vida-nursing-14-of-16-steps-implemented.md) — related

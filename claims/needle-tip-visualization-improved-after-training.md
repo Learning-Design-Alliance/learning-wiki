@@ -51,3 +51,4 @@ Two ultrasonography experts who did not attend the seminars rated recorded ultra
 - [After MR simulator training, correct angle and direction of the puncture needle improved from 22/40 to 35/40 (p = 0.0001).](mr-training-improved-needle-angle-direction.md) — related
 - [Pre-test success rates differed by professional role, while puncture accuracy rose from pre-test to post-test for participants after the system, in a single-group pre-post study](background-skill-level-may-not-affect-acquired-skill.md) — related
 - [AR-US trainees required less instructor assistance during CVC placement steps than S-US trainees](ar-us-less-instructor-assistance.md) — related
+- [Simulation training improved dynamic needle-tip positioning ability in real patients](simulation-training-improves-dynamic-needle-tip-positioning.md) — related

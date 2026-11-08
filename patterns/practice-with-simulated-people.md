@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 277 claims (148 for, 110 mixed, 19 against) · 154 studies (48 causal, 36 review, 24 design, 18 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 28 of 154 report an effect size · 272 claims rest on one study
+> **Evidence** · 279 claims (150 for, 110 mixed, 19 against) · 155 studies (48 causal, 36 review, 24 design, 19 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 28 of 155 report an effect size · 274 claims rest on one study
 
 ## Description and scope
 
@@ -205,6 +205,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Simulated GBV video consultations increased nursing students' awareness of the GBV problem and the nursing role in detecting and addressing it](../claims/gbv-simulation-awareness-role-learning.md) [+W] — attached 2026-11-08 from Jiménez-Rodríguez D. et al. (2020), which proposed "High-fidelity simulated video consultation scenario with pre-briefing, briefing, scenario, and GAS debriefing phases".
 - [Students reported gaining non-technical skills (active listening, communication, empathy, trust-building) from simulated GBV video consultations](../claims/gbv-simulation-non-technical-skills.md) [+W] — attached 2026-11-08 from Jiménez-Rodríguez D. et al. (2020), which proposed "High-fidelity simulated video consultation scenario with pre-briefing, briefing, scenario, and GAS debriefing phases".
 - [Simulation-based training modestly improved board members' perceived skills and confidence in communicating during board meetings (d=0.40, one-sided p=0.068)](../claims/simulation-training-communication-skills-confidence.md) [~M] — attached 2026-11-08 from Faulkner Nicholas et al. (2020), which proposed "Place learners in realistic simulations that provide guided practice and reflection in a safe environment to build difficult-conversation skills"; tests this page's relationship.
+- [Virtual patient users reported confidence for future practice, which was not reported by non-interactive case study users](../claims/vp-confidence-for-future-practice.md) [+W] — attached 2026-11-08 from Thompson Jessica; White Simon; Chapman Stephen (2020), which proposed "Use virtual patient simulations to let pre-registration trainees practise realistic scenarios in a safe environment and bridge training variation".
+- [All virtual patient users reported learning by doing as the most effective way to develop pharmacist skills and knowledge](../claims/vp-experiential-learning-by-doing.md) [+W] — attached 2026-11-08 from Thompson Jessica; White Simon; Chapman Stephen (2020), which proposed "Use virtual patient simulations to let pre-registration trainees practise realistic scenarios in a safe environment and bridge training variation".
 
 ## Illustrative design instance and observation record
 

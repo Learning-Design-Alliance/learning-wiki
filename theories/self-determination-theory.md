@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 135 claims (101 for, 31 mixed, 3 against) · 94 studies (39 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 23 of 94 report an effect size · 129 claims rest on one study
+> **Evidence** · 138 claims (103 for, 32 mixed, 3 against) · 96 studies (40 associational, 20 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 24 of 96 report an effect size · 132 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -191,6 +191,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](../claims/amotivation-correlates-burnout-intrinsic-motivation.md) [+W] — attached 2026-11-07 from Usán Pablo et al. (2022), which proposed "Self-determination theory continuum of academic motivation".
 - [Identified regulation for interpersonal relationships positively predicts behavioral, emotional, and cognitive engagement in university collaborative learning](../claims/identified-regulation-predicts-engagement-collaborative-learning.md) [+M] — attached 2026-11-07 from Ito Takamichi (2022), which proposed "Self-determination theory's four-type motivation continuum applied to interpersonal motivation in collaborative learning".
 - [Teacher psychological control positively predicts academic stress while autonomy support negatively predicts it in university students](../claims/teacher-psychological-control-positively-predicts-academic-stress.md) [+W] — attached 2026-11-08 from Trigueros R. et al. (2020), which proposed "Self-Determination Theory as a framework for teacher influence on student motivation and stress"; tests this page's relationship.
+- [Within‐classroom variation in teacher and student perceptions of need support is considerably larger than between‐classroom variation, indicating teachers differentiate between students](../claims/within-class-variation-need-support-larger-than-between-class.md) [+W] — attached 2026-11-08 from Domen et al. (2020), which proposed "Self‐determination theory: need‐supportive teaching through autonomy support and structure as two independent dimensions".
+- [Teacher perceptions of student‐specific autonomy support are positively associated with students' autonomous motivation at the student level](../claims/student-specific-autonomy-support-autonomous-motivation.md) [+W] — attached 2026-11-08 from Domen et al. (2020), which proposed "Self‐determination theory: need‐supportive teaching through autonomy support and structure as two independent dimensions"; tests this page's relationship.
+- [Gamification increased external regulation in university PE students only in the gamified group, with no change in other regulations](../claims/gamification-increased-external-regulation-university-pe.md) [~W] — attached 2026-11-08 from Ferriz-Valero Alberto; Østerlie Ove; García Martínez Salvador; García-Jaén Miguel (2020), which proposed "Self-determination theory continuum of motivation as framework for evaluating gamification in PE".
 
 ## The evidence by question
 
@@ -234,6 +237,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Build students' competence in AI-enriched environments by choosing appropriate tools, giving clear guidance, establishing role models, and offering frequent encouragement](../strategies/build-competence-ai-learning-strategies.md)
 - [Design running programs to support autonomy, competence and relatedness needs](../strategies/sdt-aligned-running-program-design.md)
 - [Support basic psychological needs and mindfulness through family education sessions and school conditions](../strategies/family-education-sessions-needs-mindfulness.md)
+- [Develop gender-specific, motivation-based curricula that support autonomy and increase intrinsic motivation in PE teacher education](../strategies/gender-specific-motivation-based-pe-curriculum.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

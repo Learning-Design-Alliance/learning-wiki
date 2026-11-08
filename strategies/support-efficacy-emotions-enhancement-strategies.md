@@ -58,6 +58,7 @@ Based on the mediation findings, the article recommends that educators move beyo
 - [Adopt autonomy-supportive practices to cultivate emotionally supportive EFL environments](autonomy-supportive-practices-efl-emotional-support.md)
 - [Build supportive classroom and home environments and use constructive feedback to strengthen self-efficacy and engagement](supportive-environment-feedback-self-efficacy-strategy.md)
 - [Implement teacher training to enhance supportive teaching practices and strengthen students' academic self-efficacy](teacher-training-supportive-practices-self-efficacy.md)
+- [Fostering students' academic self-efficacy through feedback, encouragement and peer-success modeling](foster-academic-self-efficacy-feedback-peers.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Cross-sectional survey of 308 Saudi PE students (147 males, 161 females) using W
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](gender-difference-online-srl-females.md) — related
 - [Gender, GPA, and prior online-learning experience jointly predict PNS and amotivation; intrinsic motivation is predicted by GPA and prior experience only](mlr-predictors-pns-motivation.md) — related
+- [Female PE students show higher GPA and higher intrinsic and extrinsic motivation and lower amotivation than male PE students](women-pe-students-higher-gpa-motivation.md) — related

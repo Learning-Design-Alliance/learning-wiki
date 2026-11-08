@@ -48,3 +48,4 @@ Welch's t-tests on the PE-MS motivation subscales in the same 308-student survey
 ## Related Claims
 - [Female Saudi PE students report higher autonomy and competence than males during online PE learning, with no gender difference in relatedness](gender-difference-autonomy-competence-online-pe.md) — related
 - [Gender, GPA, and prior online-learning experience jointly predict PNS and amotivation; intrinsic motivation is predicted by GPA and prior experience only](mlr-predictors-pns-motivation.md) — related
+- [Female PE students show higher GPA and higher intrinsic and extrinsic motivation and lower amotivation than male PE students](women-pe-students-higher-gpa-motivation.md) — reports the opposite

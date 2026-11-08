@@ -74,3 +74,4 @@ Complications were categorized as severe or non-severe per Pediatric Difficult I
 - [Just-in-time expert coaching on a manikin within one hour of clinical care increases first attempt success of infant intubation by inexperienced clinicians](just-in-time-coaching-improves-first-attempt-infant-intubation.md) — related
 - [In one uncontrolled pre-post study, median LP completion time among EM interns fell from 12.9 to 10.3 minutes after viewing a brief just-in-time instructional video](jit-video-reduced-lp-completion-time.md) — related
 - [CUSUM-based studies suggest 22 to 45 intubation attempts are needed to reach a less-than-20% failure rate, rising to 57 to 75 attempts at a less-than-10% failure rate](intubation-attempts-competency-cusum-ranges.md) — related
+- [Just-in-time training videos before procedures yield faster learning and more successful performance than reading textbooks (Level 1b, Grade B)](jitt-videos-faster-learning-procedural-skills.md) — related

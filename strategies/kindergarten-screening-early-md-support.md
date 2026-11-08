@@ -60,6 +60,7 @@ The article recommends transferring prediction models of the kind it validated i
 - [Identify children with weak inhibition skills in kindergarten and provide intervention or training programs to support later monitoring accuracy](early-inhibition-screening-and-training-for-monitoring.md)
 - [Use broader baseline cognitive predictors beyond conventional phonological measures to detect at-risk learners and personalize literacy intervention](broad-predictors-personalized-dyslexia-intervention.md)
 - [Develop screening measures and targeted interventions specific to the preterm population's learning difficulties](preterm-specific-screening-and-targeted-interventions.md)
+- [Use validated context-specific resilience measures to identify students vulnerable to early dropout and target support](measure-academic-resilience-to-support-at-risk-students.md)
 
 ## Examples
 -

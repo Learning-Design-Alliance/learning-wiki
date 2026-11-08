@@ -51,3 +51,4 @@ Second retrospective chart review using the same inclusion criteria and data col
 - [Only 69% of providers who received the educational slides by email opened them](email-slide-engagement-69-percent-opened.md) — related
 - [A context-relevant safe anesthesia checklist developed with East African professionals increased completion of critical actions in simulated preeclampsia and PPH care](east-africa-checklist-critical-actions-increase.md) — related
 - [Exploratory post hoc subgroup analysis suggests the postpartum haemorrhage e-learning module outperformed the preeclampsia module](pph-elearning-outperformed-pe-explorative.md) — related
+- [Many CVD specialists are unaware of the cardiovascular risks posed by adverse pregnancy outcomes and few take a detailed pregnancy history](cvd-specialists-unaware-apo-risks.md) — related

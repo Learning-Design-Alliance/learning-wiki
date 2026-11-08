@@ -59,6 +59,7 @@ The review identifies implementation strategies that "significantly enhanced exp
 - [Integrate web-based decision support with simulation practice for medication safety training](decp-simulation-integration-strategy.md)
 - [Align simulation topics with students' clinical interests and enhance feedback processes such as video feedback](align-simulation-topics-clinical-interests-video-feedback.md)
 - [Pair e-learning video with embedded feedback and debriefing to target complex decision-making knowledge](video-plus-feedback-for-complex-decision-making.md)
+- [Use a locally trained facilitator to lead debriefings and sustain the curriculum, with debriefing time lengthened as learners gain experience](local-facilitator-debriefing-sustainability.md)
 
 ## Examples
 -

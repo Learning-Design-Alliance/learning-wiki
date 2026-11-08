@@ -48,3 +48,4 @@ Post-hoc Mann–Whitney U comparisons of final exam grades across three academic
 - [MCQ test scores were higher with both gamified systems than with the non-gamified SIDRA, but ranking plus teams plus points without badges did not differ from badges.](gamified-crs-higher-mcq-scores.md) — related
 - [In SIDRA and R-G-SIDRA cohorts, higher in-system MCQ scores (by tertile) predicted higher final exam grades, but in the RB-G-SIDRA cohort the tertile groups did not differ significantly.](mcq-tertiles-predict-final-exam-by-cohort.md) — related
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
+- [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related

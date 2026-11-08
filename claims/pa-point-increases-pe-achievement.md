@@ -53,3 +53,4 @@ In the Physical Education MLR model (F(2170) = 23.07, p ≤ 0.001), only EF defi
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
+- [Academic achievement and executive functioning correlate positively with gender, serotonin and physical activity score, and negatively with age, BMI and salivary cortisol](achievement-correlates-gender-serotonin-pa-negative-age-bmi-cortisol.md) — a broader claim this one bears on

@@ -54,3 +54,4 @@ In the interview study, thematic analysis found placement experiences described 
 - [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related
 - [Chronic psychiatric placement shortage in the UAE left most mental health nursing practicum students without traditional placements, motivating AI simulation](clinical-placement-shortage-uae-mental-health.md) — a narrower finding that bears on this claim
 - [Dental students reported that clinical routine automatization and lack of reflection opportunities produced a mechanistic approach and reduced their sense of agency.](dental-care-automatization-depersonalization-students.md) — related
+- [Nursing students perceive clinical training in health care institutions as an essential, unsubstitutable part of their education](clinical-training-perceived-indispensable.md) — related

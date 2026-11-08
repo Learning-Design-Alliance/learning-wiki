@@ -72,6 +72,7 @@ Parent workshops work when they change what parents *do*, not just what they kno
 - [Implement home-based digital SEC trainings with screen-time limits and family-participation options](digital-sec-training-implementation-safeguards.md)
 - [Combine written take-home packets, make-and-take workshops, and supervised parent training programs](three-component-parent-training-strategy.md)
 - [Involve families in the SDLMI through homework assistance, activity sheet conversations, and CICO cards](family-involvement-homework-activity-sheets-cico.md)
+- [Involve parents through post-session education and environment customization so execution strategies transfer to home homework routines](parent-education-home-strategy-transfer-cog-fun.md)
 
 ## Examples
 - **Dialogic reading workshops** based on Whitehurst's shared-reading research: parents learn to ask expansion questions ("What happened next? Why?") during read-alouds; randomized trials show gains in children's expressive language when parents are trained with modeling and feedback.

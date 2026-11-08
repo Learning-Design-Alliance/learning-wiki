@@ -55,3 +55,4 @@ In the same cross-sectional survey (N = 600), the chi-square test found "no sign
 - [Living with one's family is associated with increased odds of a high GPA among Saudi physical therapy students](living-with-family-higher-odds-high-gpa-saudi-pt-students.md) — related
 - [Older age is associated with lower odds of high GPA among Saudi physical therapy students](older-age-lower-odds-high-gpa-saudi-pt-students.md) — related
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — related
+- [Baseline depressive symptoms, but not anxiety symptoms, predict lower GPA at six-month follow-up, though not after controlling for baseline GPA](depression-not-anxiety-predicts-followup-gpa.md) — related

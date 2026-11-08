@@ -66,3 +66,4 @@ Same survey sample; the gender contrast names male versus female participants wi
 - [Nursing students report high learning motivation following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-high-learning-motivation.md) — related
 - [Nursing students report positive learning attitudes following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-positive-learning-attitude.md) — related
 - [Learning motivation and learning attitude are significantly positively correlated after HoloPatient-based simulation (r = .59–.78)](motivation-attitude-positive-correlation-holopatient.md) — related
+- [Male and female students differ in reported technical difficulties with eduVote and in tendency to join the majority when a teacher asks a question](ars-gender-differences-technical-difficulties.md) — related

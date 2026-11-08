@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 recheck_by: 2029
 sources:
   - id: xu-binbin-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q3 i?` The overall mean PICC care knowledge score was 48.67 ± 12.94 on a 0–100 scale, with 17.2% of nurses passing (score ≥60). [→ Xu Binbin 2026](#xu-binbin-2026)
@@ -51,3 +52,4 @@ Cross-sectional web-based survey of 3528 nurses from 18 hospitals in Guizhou, Ch
 - [Higher professional title, higher education, PICC care experience, workplace guidelines, prior training, self-reported training needs, and tertiary hospital employment are each significantly associated with higher PICC care knowledge scores](seven-factors-associated-with-picc-knowledge.md) — related
 - [Nurses who reported a need for further PICC care training scored higher on knowledge, possibly reflecting reverse causation consistent with the Dunning–Kruger effect](training-need-positive-association-dunning-kruger.md) — related
 - [Working years were not independently associated with PICC care knowledge after adjustment for other variables](working-years-not-independently-associated-picc-knowledge.md) — related
+- [Nurses in Hunan province, China show a medium level of PICC maintenance knowledge, with a mean score of 72.86±14.86](picc-maintenance-knowledge-medium-level-hunan-nurses.md) — related

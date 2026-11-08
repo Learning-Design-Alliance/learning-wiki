@@ -70,3 +70,4 @@ Secondary Likert outcome on recommendation likelihood in the same trial. 23/35 e
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
 - [Senior medical students following a highly interactive e-learning module acquire more NIHSS knowledge asynchronously than students following the traditional didactic video](e-learning-module-outperforms-didactic-video-nihss-medical-students.md) — related
 - [Respondents rated online class usefulness modestly: 31.5% very helpful, 44.9% somewhat helpful, 23.5% not helpful on a 1–10 Likert scale](likert-usefulness-online-classes-distribution.md) — related
+- [Paramedics who used the e-learning module were more likely to recommend the course to a colleague than those who used the video](elearning-higher-recommendation-nihss-paramedics.md) — related

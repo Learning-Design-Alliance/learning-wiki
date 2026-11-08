@@ -48,3 +48,4 @@ Authors' interpretation of focus-group responses on training difficulties: three
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
 - [Focus-group interviews of HMSS course students yielded three main themes: learner-centeredness, competencies, and career development](hmss-focus-group-three-themes.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
+- [Teachers perceive roda viva as useful for debates and for student-led resolution of intra-group conflicts](roda-viva-perceived-useful-debates-conflict-resolution.md) — related

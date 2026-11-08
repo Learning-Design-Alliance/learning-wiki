@@ -51,3 +51,4 @@ Subgroup analysis in the results section: the ANOVA found "a statistically signi
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
 - [Only 17.7% of nurses had good patient safety practice before training, rising to 79.6% after the intervention](low-baseline-practice-rises-after-training.md) — related
 - [Scores on all 10 context-specific additional competencies increased significantly after training, with the largest gains in ECG and arterial blood gas interpretation](additional-competencies-all-significant-gains.md) — related
+- [No correlation between years in practice and ECG interpretation competence, with performance slightly lower among practitioners with more than 15 years' experience](ecg-competence-no-correlation-years-practice.md) — related

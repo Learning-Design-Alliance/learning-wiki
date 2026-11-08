@@ -69,3 +69,4 @@ Observational analytics finding reported in the Results text and Figure 3, indic
 - [Students accessed the website extensively outside school hours, with use spanning up to 20 hours per day](website-access-extends-beyond-school-hours.md) — related
 - [Most surveyed PA/DPT and MD students reported using the modules 1-2 hours per week, both with the donor and as a stand-alone study tool](module-usage-survey-hours-and-contexts.md) — related
 - [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related
+- [Students accessed the Moodle module heavily during the 6-day review period, peaking in the last 2 days before assessment, with the herbal plant atlas the most-used activity](moodle-access-patterns-herbal-review.md) — a narrower finding that bears on this claim

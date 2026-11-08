@@ -70,3 +70,4 @@ Log-data analysis of average message length across the four conditions; a Kruska
 - [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](ai-ta-condition-no-effect-other-perceptions.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [Socratic-mode participants progressively disengaged from the chatbot: message counts declined after question 5 and EEG engagement fell to its lowest value at question 10](socratic-mode-progressive-disengagement.md) — related
+- [Socratic questioning is the most frequently used ED teaching method, with broadening, targeting, and up-the-ladder question types most effective for learning](socratic-questioning-types-effective.md) — related

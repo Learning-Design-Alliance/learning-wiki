@@ -47,6 +47,7 @@ The article recommends running branching-tree virtual patients as a facilitated,
 ## Related Strategies
 
 - [Conduct virtual patient clinical reasoning training in dyads or small groups of two to three students rather than individually](vp-training-in-dyads-small-groups.md)
+- [Use virtual patient simulations in large lecture-hall classes to train clinical reasoning with minimal lecturer supervision](lecture-hall-vps-clinical-reasoning-strategy.md)
 
 ## Examples
 -

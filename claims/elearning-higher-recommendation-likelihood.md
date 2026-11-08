@@ -55,3 +55,4 @@ Subjective Likert-scale questionnaire administered to all completers after the l
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](sbl-highest-ranked-student-satisfaction-nma.md) — related
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
 - [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — possibly the same claim (merge candidate)
+- [Paramedics who used the e-learning module were more likely to recommend the course to a colleague than those who used the video](elearning-higher-recommendation-nihss-paramedics.md) — related

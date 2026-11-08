@@ -48,6 +48,7 @@ Because the progressive blended case-based model left research skills and profes
 
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
+- [Develop dedicated online competency modules combined with blended learning and telehealth interactions for clinical skills](blended-learning-telehealth-modules-optometry-strategy.md)
 
 ## Examples
 -

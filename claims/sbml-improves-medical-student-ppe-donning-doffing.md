@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-08
 sources:
   - id: miller-danielle-t-md-2022
     resource: "https://doi.org/10.5811/westjem.2022.2.54748"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After an SBML intervention, 151 of 153 medical students (98.7%) reached the 21/21 mastery standard for PPE donning and doffing, and mean scores improved significantly from baseline. [→ Miller Danielle T. MD 2022](#miller-danielle-t-md-2022)
@@ -49,3 +50,4 @@ Prospective pre-test/post-test study of 155 medical students at a university tea
 - [Medical students almost universally fail a proficiency standard for PPE donning and doffing after standard hospital training, including mandatory CDC video viewing.](standard-ppe-training-insufficient-procedural-proficiency.md) — related
 - [Pre-clinical and clinical medical students show no significant difference in baseline PPE donning and doffing performance.](no-baseline-ppe-difference-preclinical-clinical.md) — related
 - [Two pre-clinical students with very limited clinical exposure did not reach mastery after more than four post-testing attempts within a two-hour session, in one single-group pre-post study.](sbml-requires-time-unlimited-deliberate-practice.md) — related
+- [The majority of participants experienced problems with simulated self-contamination during PPE doffing](majority-participants-self-contamination-doffing.md) — related

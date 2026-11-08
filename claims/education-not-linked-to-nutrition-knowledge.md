@@ -56,3 +56,4 @@ Same multivariable regression (n = 88 complete cases). Because lower scores mean
 - [Nurses with master's or doctoral degrees scored significantly lower in infectious disease emergency response competence than nurses with diploma or associate degrees](higher-degree-lower-competence.md) — related
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — reports the opposite
 - [Nurses with a master's degree had almost four times higher odds of good practice regarding ACS care than nurses with a bachelor degree (AOR=4.258)](masters-degree-associated-good-acs-practice.md) — reports the opposite
+- [Holding a BSc degree or above was associated with over four times higher odds of neonatal resuscitation skill retention](bsc-degree-associated-nr-skill-retention.md) — related

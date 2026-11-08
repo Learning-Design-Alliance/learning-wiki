@@ -51,3 +51,4 @@ Table 4 reports pre- vs post-training performance on the mannequin: correct need
 - [Junior cardiothoracic surgery residents significantly improved modified OSATS skill scores and anastomosis time on the low-cost simulator across all three anastomosis types](junior-residents-osats-improvement-low-cost-anastomosis-simulator.md) — related
 - [Puncture accuracy improved for needle tip distance but not for needle shaft distance after training with the modular system](needle-tip-accuracy-improved-shaft-not.md) — related
 - [Needle tip visualization during the in-plane approach rose from pre-test to posttest after training with the modular system, in one uncontrolled pre-post study](needle-tip-visualization-improved-after-training.md) — related
+- [Simulation training improved dynamic needle-tip positioning ability in real patients](simulation-training-improves-dynamic-needle-tip-positioning.md) — related

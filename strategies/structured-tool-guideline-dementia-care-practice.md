@@ -44,6 +44,8 @@ This strategy pairs dementia education with a structured tool or guideline that 
 
 - [Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods](dementia-elearning-design-key-features.md)
 - [Provide clinicians with best-practice guidelines for delivering a dementia diagnosis and opportunities to reflect on their practice](guidelines-plus-reflection-for-diagnosis-delivery.md)
+- [Recruit and retain a dementia-capable workforce by identifying motivations and meeting training needs](dementia-workforce-recruitment-retention-strategy.md)
+- [Train an interprofessional workforce for dementia care coordination and care transitions](interprofessional-dementia-care-coordination-training.md)
 
 ## Examples
 -

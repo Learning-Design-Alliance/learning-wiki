@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 sources:
   - id: el-menabawey-tareq-2024
     resource: "https://doi.org/10.1136/gutjnl-2023-329800"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Formative EUS DOPS assessments should be performed at least every 10 training procedures to track progression and provide targeted feedback. [→ El Menabawey Tareq 2024](#el-menabawey-tareq-2024)
@@ -51,3 +52,4 @@ Delphi consensus recommendation (strong, low-quality evidence, 95% consensus) co
 - [Certification eligibility requires auditable key performance indicators: FNA/B diagnostic adequacy above 85%, photo documentation in over 90% of procedures, and a 30-day complication rate under 5%](eus-certification-kpi-thresholds.md) — related
 - [Teaching-related, novice personal, patient-related and feedback-related factors affected mini-CEX and DOPS implementation efficacy](mini-cex-dops-multifactor-efficacy.md) — related
 - [Newly certified EUS practitioners should receive a minimum of one year of postcertification mentorship because performance continues to improve after certification](one-year-postcertification-eus-mentorship.md) — related
+- [Current US endoscopic credentialing lacks national standards, exposing the process to conflicts of interest, and the authors argue for national consensus standards and independent proctoring](credentialing-lacks-national-standards.md) — related

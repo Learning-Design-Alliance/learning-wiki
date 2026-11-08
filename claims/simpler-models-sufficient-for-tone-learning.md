@@ -51,3 +51,4 @@ Analysis of the Chinese tone learning dataset (48,443 observations, 97 adults in
 - [No single learner model was best across the six datasets, justifying a broad multi-model approach](no-single-learner-model-best-across-datasets.md) — a broader claim this one bears on
 - [Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary](recency-weighting-models-better-assistments-kdd.md) — related
 - [The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial](ppe-best-fitting-andes-physics.md) — related
+- [Declarative knowledge decays more slowly than procedural knowledge](declarative-decays-slower-than-procedural.md) — related

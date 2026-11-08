@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 sources:
   - id: nouira-hajer-2024
     resource: "https://doi.org/10.62438/tunismed.v102i8.4972"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Díaz-Guio study reported by the review, all participants failed PPE donning and doffing at pre-test with high cognitive load (7.43±0.9) and low performance (2.5±0.8), while at post-test 100% succeeded, cognitive load fell (4.1±1.4) and performance rose (7.9±1.1). [→ Nouira Hajer 2024](#nouira-hajer-2024)
@@ -56,3 +57,4 @@ Pre-post simulation-based educational intervention on PPE donning/doffing, repor
 - [Medical students almost universally fail a proficiency standard for PPE donning and doffing after standard hospital training, including mandatory CDC video viewing.](standard-ppe-training-insufficient-procedural-proficiency.md) — related
 - [Higher cognitive load during simulation is associated with a reduced odds of subsequently identifying a trained clinical sign](cognitive-load-negatively-associated-diagnostic-performance.md) — related
 - [In-situ simulation significantly increases physician comfort with PPE donning and doffing for COVID-19 aerosol-generating procedures](insitu-sim-ppe-comfort-gain.md) — related
+- [The majority of participants experienced problems with simulated self-contamination during PPE doffing](majority-participants-self-contamination-doffing.md) — related

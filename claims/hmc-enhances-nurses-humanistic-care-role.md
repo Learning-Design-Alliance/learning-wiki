@@ -51,3 +51,4 @@ Interview theme 2.2: nurses reported that HMC tools saved time previously spent 
 - [Emergency nurses report that human-machine collaboration reduces their work pressure and improves clinical work efficiency](hmc-reduces-nurse-workload-improves-efficiency.md) — related
 - [The intervention improved all five dimensions of aesthetic nursing care, with very large between-group effect sizes across dimensions](aesthetic-care-dimensions-all-improved.md) — related
 - [Human-machine collaboration raises the demand for emergency nurses' critical thinking in recognizing AI output information](critical-thinking-demand-for-ai-output-recognition.md) — related
+- [Students propose humanizing care for critically ill patients and better supporting their families, including adequate information and comfortable visiting](improving-care-families-critically-ill.md) — related

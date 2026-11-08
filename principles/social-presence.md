@@ -178,6 +178,7 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Instructors apply chatbots to support goal setting and social presence in fully online activities](../strategies/instructor-strategy-chatbots-goal-setting-social-presence.md)
 - [Use video-based feedback to provide socio-emotional support and social presence in remote learning](../strategies/video-feedback-socio-emotional-support.md)
 - [Combine social web tools enabling social presence, teacher interaction and enjoyable collaboration to foster active learning](../strategies/swbcl-tool-combination-strategy.md)
+- [Use social media communities such as the International Microsurgery Club for remote peer learning and expert contact](../strategies/social-media-microsurgery-peer-learning-strategy.md)
 
 ### Validated
 - Richardson, Maeda, Lv & Caskurlu (2017) meta-analyzed 51 studies of online courses and found social presence significantly related to student satisfaction (r ≈ .54) and perceived learning (r ≈ .45), with instructor presence behaviors among the strongest predictors [+S].

@@ -44,6 +44,7 @@ This strategy recommends that early-warning identification of at-risk students s
 - [Proactively monitor engagement trajectories and address students who fail to improve or catch up](proactively-address-lack-of-engagement-catch-up.md)
 - [Early identification and preventive school health approaches addressing trauma exposure to improve academic trajectories](early-identification-preventive-school-health-aces.md)
 - [Make SEL measurement narrower in focus but broader in context and depth, choosing specific measures guided by development and skill trajectories](narrower-focus-broader-context-sel-measurement.md)
+- [Use validated context-specific resilience measures to identify students vulnerable to early dropout and target support](measure-academic-resilience-to-support-at-risk-students.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Narrative review of international training frameworks from North America, Europe
 - [AATS certification requires substantial prior cardiac surgery experience and at least 50 supervised robotic cases](aats-certification-prerequisites-supervised-cases.md) — a narrower finding that bears on this claim
 - [Brazilian regulations lack specialty-specific criteria for robotic cardiac surgery training](brazilian-regulations-lack-cardiac-specific-criteria.md) — related
 - [The vast majority of academic global surgery programs are based in the Region of the Americas (North America), particularly in high-income countries](ags-programs-concentrated-in-north-america.md) — related
+- [Current US endoscopic credentialing lacks national standards, exposing the process to conflicts of interest, and the authors argue for national consensus standards and independent proctoring](credentialing-lacks-national-standards.md) — related

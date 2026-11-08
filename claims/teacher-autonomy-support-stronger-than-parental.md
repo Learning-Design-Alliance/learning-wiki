@@ -92,3 +92,4 @@ Publication bias analyses (trim and fill, Egger's regression, published–unpubl
 - [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](competence-strongest-need-predictor-student-motivation.md) — related
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
 - [Psychological needs correlate more strongly with more self-determined motivation types, from intrinsic motivation down to near-zero with external regulation](needs-gradient-correlations-motivation-types.md) — related
+- [School type predicted autonomy and self-regulation but not motivation in regression models, with modest explained variance](school-type-predicts-autonomy-selfregulation-not-motivation.md) — related

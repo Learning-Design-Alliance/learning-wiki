@@ -66,3 +66,4 @@ In the same focus group discussions, facilitators appreciated the resource-savin
 ## Related Claims
 - [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
 - [In a pilot cluster-randomised trial, endline total EENC skill scores were 3.67 points and knowledge scores 0.59 points higher in the intervention arm than the control arm at three months, with confidence intervals crossing zero](eenc-pilot-total-skill-score-3-67-points-higher.md) — related
+- [Facilitator characteristics is a key mechanism triggering both positive and negative outcomes for extended-duration supervision training interventions](facilitator-characteristics-extended-duration-mechanism.md) — related

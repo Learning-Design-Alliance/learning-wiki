@@ -124,3 +124,5 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [In the control group, diagnostic accuracy rose from the initial hypothesis to the end of simulation-based learning with virtual students without reflection phases](diagnostic-process-improves-during-simulation-learning.md) — a narrower finding that bears on this claim
 - [Within VP cases, history and treatment section scores were consistently lower than lab and imaging scores, and first-two-year final grades were lower than later years](vp-section-score-differences.md) — related
 - [Students judged the virtual patient platform realistic for clinical assessment, diagnostic activity and treatment management](virtual-platform-realism-ratings.md) — related
+- [Virtual patient simulation sessions significantly increase medical students' clinical reasoning scores without lecturer supervision](vps-increases-clinical-reasoning-scores.md) — related
+- [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — related

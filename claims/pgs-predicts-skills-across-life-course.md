@@ -71,3 +71,4 @@ Same study as reported by the review: a mediation analysis found "about half the
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
 - [Non-transmitted parental polygenic scores predict offspring educational attainment, evidencing genetic nurturing effects in adults](genetic-nurturing-nontransmitted-pgs-adult-attainment.md) — related
 - [Education-specific non-cognitive skills mediate polygenic score associations with academic achievement, with effects increasing across compulsory education](noncognitive-skills-mediate-pgs-achievement-developmentally-increasing.md) — related
+- [The transmitted EA polygenic score is significantly associated with childhood academic achievement (β = 0.24), but the non-transmitted EA PGS is not, showing no genetic nurturing for achievement around the end of primary school](transmitted-ea-pgs-childhood-academic-achievement.md) — related

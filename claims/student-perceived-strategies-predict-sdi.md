@@ -72,3 +72,4 @@ Multiple-mediator multilevel analysis (Krull & MacKinnon procedure, N = 787) tes
 - [Students' autonomy need satisfaction fully mediates the effect of teacher autonomy support on autonomous motivation and positive academic emotions, but does not mediate the effect on negative emotions](autonomy-need-satisfaction-full-mediation.md) — related
 - [Cognitive and behavioral engagement fully mediate the relationship between students' academic self-perceptions and academic achievement](engagement-mediation-academic-self-perceptions-achievement.md) — related
 - [Teacher psychological control positively predicts academic stress while autonomy support negatively predicts it in university students](teacher-psychological-control-positively-predicts-academic-stress.md) — related
+- [At the class level, teacher‐reported autonomy support is negatively associated with students' autonomous motivation](class-level-autonomy-support-negative-autonomous-motivation.md) — related

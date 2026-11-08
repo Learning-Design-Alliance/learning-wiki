@@ -60,3 +60,4 @@ A narrative review-style assertion within the article's discussion of the educat
 - [The WSCC model explicitly incorporates the five social determinants of health and aligns health and education sector goals](wscc-incorporates-social-determinants.md) — related
 - [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — related
 - [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](principals-want-whole-child-pd.md) — related
+- [Health status is significantly related to academic performance: vision problems, nutrition, stress, obesity, anxiety and behavioral disorders are associated with poor performance](health-status-associated-with-poor-academic-performance.md) — possibly the same claim (merge candidate)

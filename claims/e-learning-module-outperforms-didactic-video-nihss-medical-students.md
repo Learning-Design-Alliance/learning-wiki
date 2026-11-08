@@ -50,3 +50,4 @@ Randomized, data analyst–blinded web-based trial at the University of Geneva (
 - [Both the e-learning module and the didactic video significantly improved NIHSS knowledge in previously trained health care professionals](both-methods-improve-nihss-knowledge.md) — related
 - [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — related
 - [The e-learning advantage concentrates in five NIHSS quiz elements: key concepts, consciousness-global, facial palsy, ataxia, and sensory items](nihss-item-level-advantages-interactive-e-learning.md) — a narrower finding that bears on this claim
+- [Paramedics who used the e-learning module were more likely to recommend the course to a colleague than those who used the video](elearning-higher-recommendation-nihss-paramedics.md) — related

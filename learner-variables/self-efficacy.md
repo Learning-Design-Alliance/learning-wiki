@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 329 claims (251 show a difference, 44 mixed, 34 no difference) · 263 studies (88 causal, 86 associational, 33 review, 24 qualitative, 14 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 54 of 263 report an effect size · 325 claims rest on one study
+> **Evidence** · 330 claims (252 show a difference, 44 mixed, 34 no difference) · 264 studies (88 causal, 87 associational, 33 review, 24 qualitative, 14 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 54 of 264 report an effect size · 326 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -360,6 +360,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [In one pre-post study with no comparison group, in-service ECEs' self-rated task and barrier self-efficacy rose significantly from pre- to post-course; pre-service ECEs' self-rated barrier self-efficacy changed significantly, while task self-efficacy did not significantly change](../claims/teach-elearning-self-efficacy-group-differences.md) [~M] — measured as an outcome of the instruction studied
 - [Reading self-confidence is the student variable most strongly linked to academic resilience, significant and positive in every country analyzed](../claims/reading-self-confidence-predicts-academic-resilience-all-countries.md) [+M] — learners who differ on it differ in outcomes
 - [FIRST IV alumni differ from paired colleagues: lower knowledge-transmission beliefs and intentions, higher teaching-methods self-efficacy, and classroom infrastructure seen as more challenging](../claims/first-iv-comparison-faculty-differences.md) [+M] — measured as an outcome of the instruction studied
+- [Academic self-efficacy and intention are positively associated with high academic achievement, with self-efficacy showing the most prominent effect](../claims/self-efficacy-intention-academic-achievement-lebanon.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

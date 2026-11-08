@@ -72,3 +72,4 @@ Figure 3 caption reporting the paired t-test on percentage assessment outcomes (
 - [90% of PBL-STH residents recalled key diagnostic details at two-week post-session testing](pbl-sth-two-week-knowledge-retention.md) — related
 - [No statistically significant difference in practical pathology and practical semiology scores between e-learning and in-person education](no-significant-difference-practical-courses-e-learning.md) — reports the opposite
 - [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related
+- [Case-based learning improves practical knowledge application (OSCE scores) over traditional approaches, as reported in a cited study](cbl-improves-osce-practical-knowledge.md) — related

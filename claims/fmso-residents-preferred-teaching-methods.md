@@ -50,3 +50,4 @@ Residents' opinions, not a tested comparison: this is the article's own summary 
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related
 - [Residency year is the only independent predictor of residents' contribution to teaching at FMSo](residency-year-predictor-teaching-contribution.md) — related
 - [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related
+- [Incomplete participation in a short supervision training workshop was associated with no significant improvement in teaching ability](incomplete-participation-no-teaching-ability-gain.md) — related

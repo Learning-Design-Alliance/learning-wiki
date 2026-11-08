@@ -68,3 +68,4 @@ Retrospective self-rating items (Q7 before, Q8 after, 1-6 scale) in the same fee
 - [The MICRO online PD significantly increased teachers' confidence that they could integrate computing into their classrooms (g = 0.72)](micro-pd-increased-teacher-integration-confidence.md) — related
 - [A structured 15-hour critical thinking foundation course improved first-year postgraduate trainees' median CT knowledge score from 17 to 23 out of 27](ct-foundation-course-median-knowledge-score-gain.md) — related
 - [After the course, 69.2% of postgraduate trainees were rated strong critical thinkers (score 4) on the HCTSR assessment of written and verbal work](hctsr-post-course-strong-thinker-proportion.md) — related
+- [Most learners thought they would be able to apply the knowledge in practice, though fewer for module 5 than modules 1-4](most-learners-could-apply-knowledge-in-practice.md) — related

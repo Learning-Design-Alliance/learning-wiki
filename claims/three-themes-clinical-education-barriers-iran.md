@@ -47,3 +47,4 @@ Qualitative content analysis (Graneheim and Lundman's six-step framework, MAXQDA
 ## Related Claims
 - [Faculty and students report declining senior-faculty engagement in clinical teaching, with educational duties delegated to residents without ensuring learner competence.](reduced-faculty-mentoring-engagement-iran.md) — related
 - [Systemic, cultural and resource barriers—patient availability, gender and consent constraints, faculty shortages and exam-focused study—impede clinical learning in the studied LMIC setting](lmic-systemic-barriers-clinical-teaching.md) — related
+- [Qualitative analysis in a surgical-department PAR identified three main problems affecting clinical competencies: professional insufficiency, basic shortages and external influences.](par-three-competency-problems-surgical-ward.md) — related

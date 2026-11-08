@@ -69,3 +69,4 @@ Paired within-group comparisons in Study 1 between T1 and T2 (exploratory, no mu
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Neither training modality produced measurable improvement beyond the initial workshop; both groups showed a small comparable decline in modified OSAUS performance](no-improvement-beyond-workshop-both-modalities.md) — related
 - [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — related
+- [Students' adaptation to confinement e-learning unfolded in two phases: an initial shock phase of about 7–10 days with reduced concentration, followed by a normalization phase with new routines](shock-then-normalization-phases-confinement.md) — related

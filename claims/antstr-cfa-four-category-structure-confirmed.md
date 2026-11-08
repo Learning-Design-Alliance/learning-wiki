@@ -72,3 +72,4 @@ First-level CFA fit indices reported after establishing covariance between the 1
 - [The Turkish-adapted Mindfulness in Teaching scale confirms its two-dimensional structure with adequate fit in the study sample](mindfulness-in-teaching-scale-turkish-cfa.md) — related
 - [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related
 - [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related
+- [The Brazilian SEPC scale replicates the original three-factor structure and achieves satisfactory confirmatory factor analysis fit once correlations between items' errors are modelled](sepc-br-cfa-replicates-original-factors.md) — related

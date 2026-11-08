@@ -50,6 +50,7 @@ Based on the moderated mediation findings, the authors recommend that schools su
 - [Structure group work to facilitate collaborative discussions and help-seeking behaviors among peers, particularly for low self-efficacy students](structure-group-work-for-discussion-and-help-seeking.md)
 - [Embed structured self-regulation and time management supports in higher education instruction, advising, and first-year curricula](embed-sr-tm-supports-higher-education.md)
 - [Design educational strategies that foster self-regulation and self-efficacy to support academic success](foster-self-regulation-and-self-efficacy-strategies.md)
+- [Fostering students' academic self-efficacy through feedback, encouragement and peer-success modeling](foster-academic-self-efficacy-feedback-peers.md)
 
 ## Examples
 -

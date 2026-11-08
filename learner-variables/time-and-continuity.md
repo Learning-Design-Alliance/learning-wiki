@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 231 claims (153 show a difference, 52 mixed, 26 no difference) · 199 studies (99 causal, 47 associational, 22 review, 15 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 41 of 199 report an effect size · 227 claims rest on one study
+> **Evidence** · 233 claims (153 show a difference, 53 mixed, 27 no difference) · 201 studies (100 causal, 47 associational, 23 review, 15 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 41 of 201 report an effect size · 229 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -288,6 +288,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Lower Year 2 school attendance is a strong predictor of poorer Year 3 NAPLAN outcomes, with larger effects below 60% attendance](../claims/year2-attendance-predicts-naplan.md) [+M] — learners who differ on it differ in outcomes
 - [Passing the one-year hands-on test correlated with number of clip uploads (r = 0.85), attendance at hands-on teaching sessions (r = 0.7), and attendance at monthly conferences (r = 0.5)](../claims/iscan-clip-uploads-hands-on-attendance-correlate-success.md) [+M] — learners who differ on it differ in outcomes
 - [Per-task performance time was shorter with 3D in 100% of tasks, significant for all tasks except needle recapping](../claims/3d-shorter-time-all-tasks-except-needle-recapping.md) [~M] — measured as an outcome of the instruction studied
+- [Blocked weekly didactic formats show higher learner satisfaction, improved attendance, and fewer interruptions than shorter daily formats, but no objective outcome differences](../claims/blocked-weekly-didactics-satisfaction-attendance.md) [~M] — measured as an outcome of the instruction studied
+- [No significant difference between VR and control groups in time spent on ultrasonographic tasks](../claims/no-time-difference-vr-ultrasound-tasks.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

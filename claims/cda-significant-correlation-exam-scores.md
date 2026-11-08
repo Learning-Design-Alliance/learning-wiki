@@ -49,3 +49,4 @@ Pearson correlation analysis comparing CDA results with end-of-trimester written
 - [Clinical Diagnosis Assessment total scores show modest but significant correlation with OSCE total scores in second-year optometry students](cda-modest-significant-correlation-osce-total.md) — related
 - [CDA3 correlates with OSCE Procedural stations but not with OSCE Communication stations](cda3-osce-procedural-not-communication.md) — related
 - [No significant correlation between Diagnostic Thinking Inventory scores and assessment scores](dti-o-no-correlation-with-assessments.md) — related
+- [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — related

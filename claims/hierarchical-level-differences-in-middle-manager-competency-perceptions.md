@@ -51,3 +51,4 @@ Qualitative descriptive study comparing perceptions across three managerial leve
 - [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md) — related
 - [Intrapersonal and interpersonal competencies are widely represented across curricula whereas organizational-level competencies appear in relatively few studies](mlm-organizational-competencies-underrepresented.md) — related
 - [Personality is identified as the most essential personal trait for successful middle managers, cited by 67% of respondents](personality-most-essential-personal-trait-middle-managers.md) — related
+- [Patient safety and handling of errors and complications are the most emphasized Manager/Leader topics in surgical curricula, while time management, career planning and leadership are not addressed](surgery-manager-error-emphasis-leadership-gap.md) — related

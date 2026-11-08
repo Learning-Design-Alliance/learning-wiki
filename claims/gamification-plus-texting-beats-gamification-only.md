@@ -54,3 +54,4 @@ Stage 2 of a SMART: before implementation, students were randomly assigned to th
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related
 - [Texting parents about tests, homework and lesson content produced a small positive effect on maths attainment (ES 0.067) in a cluster RCT](pep-texting-small-maths-attainment-gain.md) — related
 - [Implementation of assigned communication was incomplete but high for weekly messages](communication-implementation-fidelity.md) — related
+- [In Botswana piloting, a text message followed by a call yielded the highest pick-up rates, while about 70% answered calls alone and few replied to texts alone](text-then-call-highest-pickup-rates.md) — related

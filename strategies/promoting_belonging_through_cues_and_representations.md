@@ -85,12 +85,14 @@ Belonging matters because doubt about it is self-confirming. Learners uncertain 
 8. **Check the experience matches.** Track who speaks, who is called on, and who comes to office hours; cues that promise inclusion the interaction does not deliver make the gap more legible.
 
 ## Related Strategies
+
 - [Cultivating Belonging Through Environmental Cues](cultivating_belonging_through_environmental_cues.md) — the environmental half in detail
 - [Belonging Interventions](belonging-interventions.md) — the brief narrative interventions that address belonging doubt directly
 - [Creating a Sense of Belonging](creating_a_sense_of_belonging.md) — the broader relational practices this sits inside
 - [Addressing Stereotype Threat](addressing_stereotype_threat.md) — the performance-situation counterpart
 - [Windows, Mirrors, and Sliding Glass Doors](mirrors-windows-and-sliding-glass-doors.md) — representation applied to text selection
 - [Classroom Design for Engagement](classroom-design-for-engagement.md) — the wider environmental design this competes with for wall space
+- [Address gender bias in STEM classrooms through interventions and explicit discussion rather than assuming representation gains suffice](address-gender-bias-explicitly-stem-classrooms.md)
 
 ## Examples
 

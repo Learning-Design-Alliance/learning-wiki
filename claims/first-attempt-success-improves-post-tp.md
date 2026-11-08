@@ -48,3 +48,4 @@ Pre/post-TP comparison in the same 180-procedure cohort; Table 2 reports the fir
 ## Related Claims
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
 - [Puncture-related complication incidence does not differ significantly between the learning and proficiency phases](complications-not-different-pre-post-tp.md) — related
+- [Simulation-based training on a vessel phantom improved first attempt success rate for ultrasound-guided radial artery cannulation in real patients](simulation-phantom-training-improves-first-attempt-success.md) — related

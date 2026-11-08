@@ -46,6 +46,7 @@ The article recommends recording live virtual classroom sessions and making them
 - [Offer course lectures both live and as posted recordings to balance equity of access with schedule and accountability](offer-lectures-synchronous-and-recorded.md)
 - [Record ECHO sessions for later viewing and add clinical shadowing and non-physician staff involvement to address time barriers](echo-session-recordings-and-support-improvements.md)
 - [Recording Devices](recording_devices.md)
+- [Run academic conferences by teleconference with live-chat question submission and recorded sessions stored for later review](teleconferenced-academic-conferences-live-chat-recording.md)
 
 ## Examples
 -

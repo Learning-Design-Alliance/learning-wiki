@@ -49,3 +49,4 @@ Sub-theme 'VP potential' from the thematic analysis. One student noted "you can 
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
 - [Students perceive virtual simulation as standardising interprofessional learning experiences across clinical placements and campuses](virtual-simulation-standardises-ipe-experiences.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
+- [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related

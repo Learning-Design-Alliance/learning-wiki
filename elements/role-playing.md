@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (14 for, 7 mixed, 3 against) · 18 studies (8 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 18 report an effect size · 24 claims rest on one study
+> **Evidence** · 26 claims (16 for, 7 mixed, 3 against) · 19 studies (9 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 19 report an effect size · 26 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -60,6 +60,8 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Role-playing improves nursing students' clinical self-efficacy, producing a 55.7% improvement (p < 0.001, d = 1.55)](../claims/role-playing-improves-nursing-clinical-self-efficacy.md) [+W] — attached 2026-11-06 from Fallah-Karimi Samaneh et al. (2025), which proposed "Structured role-playing session design with four assigned roles and an observer checklist for peer feedback".
 - [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](../claims/peer-roleplay-improves-msk-mini-cex-scores.md) [+W] — attached 2026-11-08 from Yamauchi Kazuyo et al. (2021), which proposed "Peer role-playing simulation programme for MSK physical examination and clinical reasoning"; tests this page's relationship.
 - [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](../claims/peer-roleplay-null-domains-mini-cex.md) [-W] — attached 2026-11-08 from Yamauchi Kazuyo et al. (2021), which proposed "Peer role-playing simulation programme for MSK physical examination and clinical reasoning"; tests this page's relationship.
+- [Adding profession-role exchange to interprofessional community service learning markedly further increases medical and pharmacy students' positive attitudes toward physician-pharmacist collaboration compared with the control IPE activity](../claims/role-exchange-increases-physician-pharmacist-collaboration-attitudes.md) [+W] — attached 2026-11-08 from Wang J et al. (2020), which proposed "Profession-role exchange component in an interprofessional student team-based community health service-learning experience"; tests this page's relationship.
+- [Profession-role exchange further increases role clarification scores on the RIPLS Roles and responsibilities subscale among students from all three health-care professions](../claims/role-exchange-increases-ripls-role-clarification.md) [+W] — attached 2026-11-08 from Wang J et al. (2020), which proposed "Profession-role exchange component in an interprofessional student team-based community health service-learning experience"; tests this page's relationship.
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

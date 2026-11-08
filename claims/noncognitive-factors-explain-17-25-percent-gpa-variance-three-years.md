@@ -61,3 +61,4 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 - [A regression model combining self-regulation, engagement and self-efficacy explains 36% of variance in perceived academic success](three-predictors-explain-36-percent-variance-academic-success.md) — related
 - [GPA is positively predicted by behavioral and cognitive engagement but not by emotional engagement, with only 6% of variance explained](engagement-dimensions-predict-gpa.md) — a narrower finding that bears on this claim
 - [Higher conscientiousness predicts higher first-year university GPA among Italian freshmen](conscientiousness-positive-gpa-italian-freshmen.md) — a narrower finding that bears on this claim
+- [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](hierarchical-regression-gpa-predictors-pe-students.md) — related

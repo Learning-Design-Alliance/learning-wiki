@@ -47,3 +47,4 @@ The Language MLR model was significant (F(3169) = 22.41, p ≤ 0.001), explainin
 ## Related Claims
 - [Executive function deficits are negatively associated with academic achievement and carry the strongest weight in every regression model tested](ef-deficits-negative-academic-achievement-secondary.md) — a broader claim this one bears on
 - [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
+- [Physical activity, demographic parameters and stress-related hormones explain around 61.9–77.9% of academic performance and executive functioning variation, especially in females](regression-model-explains-619-779-percent-variance.md) — related

@@ -75,3 +75,4 @@ Narrative review synthesis of narrative and meta-analytic reviews of acute exerc
 - [Acute on-task behaviour improvements from classroom-based physical activity may dissipate over time, with no chronic between-group difference in behaviour incidents](behaviour-gains-dissipate-chronic-follow-up.md) — related
 - [Chronic physical activity shows a medium positive effect on academic achievement while acute physical activity shows a null effect](chronic-pa-medium-acute-pa-null-effect.md) — related
 - [The HIIT-style VPA intervention did not significantly improve executive function, relational memory or processing speed in young adolescents](fit-to-study-null-cognition.md) — related
+- [Adolescents with moderate and active physical activity scores show significantly higher academic achievement and executive functioning scores than mildly active peers](pa-groups-higher-academic-achievement-adolescents.md) — a narrower finding that bears on this claim

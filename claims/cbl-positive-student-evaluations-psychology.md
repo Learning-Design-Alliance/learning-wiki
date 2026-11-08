@@ -56,3 +56,4 @@ Qualitative synthesis of questionnaire and open-ended survey data from eleven of
 - [Students reported that case-based learning positively affected socialization, communication and cooperative working](cbl-social-impact-student-opinions.md) — a narrower finding that bears on this claim
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
 - [Students report uniformly positive attitudes toward the SSC, with all reporting improved communication and comprehension](ssc-positive-student-attitudes.md) — related
+- [Randomized study found case-based learning comparable to problem-based learning with better student satisfaction](cbl-comparable-to-pbl-better-satisfaction.md) — related

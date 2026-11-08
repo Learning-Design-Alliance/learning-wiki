@@ -49,3 +49,4 @@ Univariate comparison in a cross-sectional study of 1916 medical staff at the Th
 - [No significant gender difference in scenario scores before or after training.](no-gender-difference-trauma-scenario-scores.md) — reports the opposite
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
 - [Gender differences appear in progression outcomes and workplace-based assessments, including ARCP outcomes, milestone ratings, feedback language and granted autonomy, with direction varying by specialty and rater](gender-progression-workplace-assessment-gaps.md) — related
+- [Women had a higher any-type injury incidence than men (43.3% vs 26.0%), including when accounting for exposure time](female-recruits-higher-injury-incidence.md) — related

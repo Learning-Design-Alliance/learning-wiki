@@ -58,3 +58,4 @@ Synthesis of 88 studies in this scoping review found "The positive impacts of IP
 - [Control facilitators reported role ambiguity while intervention facilitators did not.](control-facilitators-role-ambiguity.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](essential-competencies-sim-ipe-participation.md) — related
+- [Students' self-rated positive attitudes toward interprofessional collaboration rose from pre-test to post-test in the control group during the control IPE activity of cooperative learning plus interprofessional community service learning](cooperative-learning-community-service-alone-improves-ipe-attitudes.md) — a narrower finding that bears on this claim

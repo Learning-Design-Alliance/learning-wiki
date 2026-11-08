@@ -56,3 +56,4 @@ Three-round online Delphi survey (November 2024–February 2025) with 30 experts
 - [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related
 - [The Delphi-derived competence framework shows considerable reliability, with importance-score concordance above 80% in both rounds](delphi-framework-reliability-concordance-over-80.md) — related
 - [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](delphi-52-he-teacher-competencies-eight-domains.md) — related
+- [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related

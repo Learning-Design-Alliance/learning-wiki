@@ -50,3 +50,4 @@ Program-level evaluation of a single-institution 12-month simulation-based curri
 - [Learner DASH-SV ratings of instructor debriefing were high, with mean scores above 5.8/7 across all six elements and element three lowest](dash-sv-instructor-ratings-above-5-8.md)
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md)
 - [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md)
+- [Within 12 months of implementation, 12 different fellows developed and implemented simulations in the pathophysiology curriculum](twelve-fellows-developed-simulations-twelve-months.md) — related

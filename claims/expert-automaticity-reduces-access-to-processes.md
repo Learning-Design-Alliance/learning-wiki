@@ -69,3 +69,4 @@ The article cites Wiley (1998) showing domain knowledge can act as a mental set 
 - [In reading textually constrained period poetry, experts' organized domain knowledge (schemata) is the major factor differentiating them from novices, enabling allusion, contextualization and anticipation.](poetry-experts-schemata-allusion-contextualization-anticipation.md) — related
 - [Comparing novice and expert activation signatures can guide optimisation of an intervention](novice-expert-signature-optimisation.md) — related
 - [Apprentice learner models act as a check against expert blind spots because they start without target skills](apprentice-learner-models-check-expert-blind-spots.md) — a narrower finding that bears on this claim
+- [The article reports that experts may omit up to 70% of the knowledge needed to perform a procedure when teaching, motivating explicit task breakdown](expert-omission-up-to-70-percent-procedural-knowledge.md) — related

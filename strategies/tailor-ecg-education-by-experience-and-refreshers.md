@@ -51,6 +51,7 @@ Based on the finding that less experienced nurses gained most from the SDL packa
 - [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 - [Run brief, frequent reversed-classroom ECG workshops during cardiology internships, with students selecting, presenting and discussing real patient ECGs under cardiologist supervision](five-minute-reversed-classroom-ecg-workshops.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
+- [Provide frequent continuing professional development refresher courses on ECG interpretation for generalist practitioners](frequent-cpd-refresher-ecg-interpretation.md)
 
 ## Examples
 -

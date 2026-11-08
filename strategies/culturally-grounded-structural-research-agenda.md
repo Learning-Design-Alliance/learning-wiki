@@ -50,6 +50,7 @@ The review's concluding recommendation is that "Longitudinal, culturally grounde
 - [Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research](equity-centred-genai-research-priorities.md)
 - [Researchers developing technology integration surveys should explicitly define TI, ground instruments in theory, and report validity and reliability information.](recommendations-ti-survey-development.md)
 - [Research agenda: develop an existential hope scale, then test the framework with SEM and network analysis in longitudinal designs](existential-hope-research-agenda.md)
+- [Use validated context-specific resilience measures to identify students vulnerable to early dropout and target support](measure-academic-resilience-to-support-at-risk-students.md)
 
 ## Examples
 -

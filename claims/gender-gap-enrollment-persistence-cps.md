@@ -62,3 +62,4 @@ Observational finding from the six-year tracking of CPS graduates in the classes
 - [Gender disparities favouring men in publication rates are documented across countries, disciplines and time periods](gender-disparities-publication-rates-documented.md) — related
 - [Scholarship impacts on first-year credits were significant across all analyzed subgroups, with subgroup differences not significant except gender](pbs-impacts-consistent-across-subgroups.md) — related
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
+- [Women had significantly higher university-wide GPAs than men, with the gap reversing for first-year students](women-higher-university-gpa-level-gender-interaction.md) — related

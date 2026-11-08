@@ -51,3 +51,4 @@ Kruskal-Wallis comparison of TAM latent variables across the 3 simulator configu
 - [No significant relationships were found between demographic co-variates and interprofessional socialisation scores](no-significant-covariate-relationships-with-is-scores.md) — related
 - [Course evaluation scores did not differ significantly across occupational groups](course-evaluation-no-occupational-difference.md) — related
 - [Simulator ratings differed significantly by experience level, with experts highest on environmental realism and fellows highest on training effectiveness](vr-simulator-ratings-differ-by-experience-level.md) — related
+- [Fidelity and content validity ratings did not differ significantly by training level or experience, except Task 6, which residents and less-trained participants rated lower](simisgest-vr-ratings-no-training-experience-differences-except-task-6.md) — related

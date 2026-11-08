@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 205 claims (131 show a difference, 44 mixed, 30 no difference) · 109 studies (39 causal, 32 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 28 of 109 report an effect size · 201 claims rest on one study
+> **Evidence** · 211 claims (136 show a difference, 45 mixed, 30 no difference) · 114 studies (39 causal, 36 associational, 17 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 28 of 114 report an effect size · 207 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -242,6 +242,12 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Change-of-direction ability (T-half test) is positively correlated with academic performance in schoolchild handball players](../claims/change-of-direction-positively-correlated-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Lower-limb jump performance is positively correlated with academic performance in schoolchild handball players](../claims/lower-limb-jump-positively-correlated-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Upper-limb strength and sprint speed show no correlation with academic performance in schoolchild handball players](../claims/upper-limb-strength-sprint-no-correlation-academic.md) [-W] — learners who differ on it differ in outcomes
+- [Cardiorespiratory fitness is the physical fitness measure that best predicts selective attention, concentration, and academic performance in pre-adolescents](../claims/cardiorespiratory-fitness-best-predictor-attention-academic.md) [+M] — learners who differ on it differ in outcomes
+- [Health status is significantly related to academic performance: vision problems, nutrition, stress, obesity, anxiety and behavioral disorders are associated with poor performance](../claims/health-status-associated-with-poor-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Maximum heart rate during physical education is positively associated with maths, Catalan language, physical education, and GPA in 9–13-year-olds](../claims/max-hr-pe-positively-associated-academic-indicators.md) [+M] — learners who differ on it differ in outcomes
+- [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](../claims/overweight-obesity-achievement-mixed.md) [~M] — learners who differ on it differ in outcomes
+- [Students classified as fit show better academic achievement than unfit students across fitness components](../claims/fit-vs-unfit-groups-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Time in the hard heart rate zone (80–90% HRmax) during physical education is positively associated with physical education and GPA grades](../claims/hard-hr-zone-associated-pe-gpa.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

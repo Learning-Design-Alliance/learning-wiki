@@ -93,6 +93,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 - [Periodically assess teaching strategies to derive the most adequate and effective teaching plan](periodically-assess-teaching-strategies-strategy.md)
 - [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
+- [Combine immersive VR simulation with existing traditional teaching resources for venipuncture training](combine-vr-with-traditional-venipuncture-teaching.md)
 
 ## Examples
 -

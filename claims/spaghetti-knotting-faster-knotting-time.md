@@ -51,3 +51,4 @@ Randomized controlled trial of 40 first-year gynecology residents randomized to 
 - [Spaghetti knotting training lowers perceived mental demand, temporal demand and effort workload more than conventional knotting training](spaghetti-knotting-lower-nasa-tlx-workload.md) — related
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
 - [LSPPDM group completed basic laparoscopic model tasks faster, with fewer failures and higher scores](lsppdm-better-basic-laparoscopic-skills.md) — related
+- [Multidirectional stitching training shortens laparoscopic suturing time compared with traditional instruction in junior residents](multidirectional-stitching-faster-suturing.md) — related

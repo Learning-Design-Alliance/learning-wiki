@@ -53,3 +53,4 @@ Narrative review attributing to Santos-Espino et al. (2016) a survey of instruct
 - [Flipped classroom effects differ by subject type, favoring science (SMD = 0.75) and liberal arts (SMD = 0.72) over engineering (SMD = 0.34)](flipped-classroom-effect-varies-by-subject-type.md) — related
 - [75% of recent studies report a direct relation between Open Teaching and MOOC, dependent on MOOC design](mooc-open-teaching-relation-design-dependent.md) — related
 - [Learning-preference differences by discipline: political science students least interested in project-based classes](political-science-least-project-based-preference.md) — related
+- [Teaching quality ratings differ by discipline, with Humanities faculty rated highest and Engineering lowest](discipline-differences-in-set-ratings.md) — related

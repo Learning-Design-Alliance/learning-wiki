@@ -49,3 +49,4 @@ Mixed effects regression analysis of procedure time and instrument path length a
 - [Mental imagery before VRST did not significantly improve novice surgeons' overall OSATS scores or their performance on the Time and motion, Instrument handling, and Instrument knowledge subscales](mental-imagery-no-overall-osats-improvement.md) — related
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](mental-practice-enhances-mis-performance.md) — a broader claim this one bears on
 - [Prior reviews of mental imagery in surgical education report mixed findings, with study quality and heterogeneity limiting conclusions](surgical-mental-imagery-reviews-mixed-heterogeneous.md) — a broader claim this one bears on
+- [Procedure time did not differ significantly between simulation and control groups](procedure-time-no-significant-difference.md) — related

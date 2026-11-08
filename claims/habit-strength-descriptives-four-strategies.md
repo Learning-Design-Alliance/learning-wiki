@@ -48,3 +48,5 @@ Descriptive analysis of the same 64-student proof-of-concept survey, reported wi
 - [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — possibly the same claim (merge candidate)
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Mind mapping was reported ineffective for improving problem-solving skills and seen as time-consuming](mind-mapping-not-problem-solving-time-consuming.md) — related
+- [Practice testing and distributed practice are the learning techniques with strong effect sizes; learner-initiated summarization, highlighting, mnemonics, imagery, and rereading have not been shown to enhance learning](practice-testing-distributed-practice-strong-effects.md) — related

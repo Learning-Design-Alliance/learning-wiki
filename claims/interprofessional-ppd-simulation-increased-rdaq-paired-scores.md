@@ -49,3 +49,4 @@ Pretest–posttest study of midwifery, WHGRNP, and PMHNP students at one private
 - [Only the professional confidence subscale of the modified R‐DAQ reached statistical significance, while therapeutic optimism did not](rdaq-subscale-changes-professional-confidence-significant.md) — related
 - [No significant differences in modified R‐DAQ scores between PMHNP and midwifery/WHGRNP students on pretest, posttest, or change scores](no-specialty-differences-rdaq-scores.md) — related
 - [Within the simulation group, total self-confidence rose significantly from pretest to posttest (d = 0.693)](hfs-within-group-selfconfidence-increase-d0693.md) — related
+- [Hospital nurses held neutral to slightly favorable attitudes toward depression (R-DAQ mean 71.76)](nurses-neutral-slightly-favorable-attitudes-rdaq.md) — related

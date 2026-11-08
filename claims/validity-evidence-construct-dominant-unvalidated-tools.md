@@ -73,3 +73,4 @@ Among the 24 studies with validity evidence, the review reports "construct valid
 - [Few EBP intervention studies used high-quality instruments, and no high-quality instrument covers all five EBP steps](few-high-quality-ebp-instruments-used.md) — related
 - [The 105 included studies of orthopaedic technical-skills assessment were predominantly conducted in simulated settings with 2,088 resident participants](orthopaedic-skills-assessment-review-105-studies-mostly-simulated.md) — related
 - [Interventions covered different steps of the EBP domains: research question, sources of evidence, evidence appraisal, and implementation into practice](ebp-domain-steps-covered-by-interventions.md) — related
+- [Consequence validity evidence for simulation-based surgical assessments is rarely reported and remains unevaluated for the EMIG systems](emig-consequence-validity-evidence-gap.md) — related

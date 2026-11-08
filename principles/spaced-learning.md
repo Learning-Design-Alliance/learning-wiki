@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (51 for, 41 mixed, 3 against) · 67 studies (38 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 67 report an effect size · 87 claims rest on one study
+> **Evidence** · 96 claims (51 for, 42 mixed, 3 against) · 68 studies (39 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 68 report an effect size · 88 claims rest on one study
 
 ## Description
 
@@ -188,6 +188,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [After retraining nine months after first training, theoretical knowledge and practical skills declined less over nine months than after first training among nursing professionals, in a single-group pre-post study](../claims/cpr-retraining-greater-retention-than-first-training.md) [+W] — attached 2026-11-07 from de Araujo Nyagra Ribeiro R et al. (2022), which proposed "Maintain regular CPR training with a defined interval of up to twelve months to retain nursing professionals' resuscitation competencies"; tests this page's relationship.
 - [Nine months after retraining, CPR knowledge and skills were statistically higher than nine months after the first training](../claims/cpr-nine-month-scores-higher-after-retraining.md) [+W] — attached 2026-11-07 from de Araujo Nyagra Ribeiro R et al. (2022), which proposed "Maintain regular CPR training with a defined interval of up to twelve months to retain nursing professionals' resuscitation competencies"; tests this page's relationship.
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](../claims/spaced-massed-anatomy-retention-null-dpt.md) [~W] — attached 2026-11-08 from Amabile Amy H. et al. (2021), which proposed "Front-loading content-heavy basic science material is a viable curricular option when compressed delivery serves broader program goals"; tests this page's relationship.
+- [The type of repetition activity (test-only, lecture, e-learning module, or small-group dissession) did not affect long-term retention of anatomical knowledge](../claims/repetition-format-no-effect-retention.md) [~W] — attached 2026-11-08 from Kooloos Jan G.M. et al. (2020), which proposed "Facilitate retrieval of earlier learned knowledge at the right position in a spiral curriculum, in any format".
 
 ## Source verification and open tests
 

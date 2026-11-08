@@ -51,3 +51,4 @@ Pearson correlation and gender comparison on the 206-student survey data; the pr
 - [Age correlates moderately and GPA weakly with self-directed learning](age-gpa-sdl-correlations.md) — related
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
 - [Age shows a moderate positive correlation with MEQ scores, while high school graduation grade and self-efficacy show no significant correlation](age-correlates-meq-grades-selfefficacy-do-not.md) — related
+- [Tenacity and self-composure scores increase with age in university students in both studies](buss-age-related-trend-tenacity.md) — a narrower finding that bears on this claim

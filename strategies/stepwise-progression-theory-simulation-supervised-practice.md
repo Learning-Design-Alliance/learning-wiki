@@ -71,6 +71,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Use DSJ as an objective waypoint metric marking transition from simulated learning to supervised practice](dsj-waypoint-metric-training-progression-strategy.md)
 - [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
 - [Develop structured in vitro training curricula with objectively evaluated procedural metrics for endovascular skills](structured-in-vitro-endovascular-curriculum-strategy.md)
+- [Structure NTS curricula as classroom introduction first, then simulation once basic technical proficiency is reached, with debriefing and level- and specialty-specific adaptation](nts-curriculum-classroom-then-simulation-strategy.md)
 
 ## Examples
 -

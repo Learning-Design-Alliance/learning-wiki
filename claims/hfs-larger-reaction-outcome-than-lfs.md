@@ -47,3 +47,4 @@ Subgroup analysis of reaction outcomes by fidelity level in the 40-study meta-an
 ## Related Claims
 - [Effect sizes are larger for high-fidelity simulation, medium-fidelity simulation, and standardized patients than for low-fidelity and hybrid simulation](fidelity-subgroup-hfs-mfs-sp-larger-than-lfs-hybrid.md) — related
 - [For affective outcomes, high-fidelity simulation (0.80) and standardized patients (0.73) show the largest effect sizes](hfs-sp-largest-affective-outcome-effect.md) — related
+- [Residents valued the HFS hybrid model higher than the task trainer-SP-voice model on all three attitude components](hybrid-model-higher-attitude-components.md) — related

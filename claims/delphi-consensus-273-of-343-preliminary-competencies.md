@@ -66,3 +66,5 @@ First Delphi round of the national consensus-development study evaluating specia
 - [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](delphi-52-he-teacher-competencies-eight-domains.md) — related
 - [A three-round modified Delphi process led Taiwanese experts to consensus on 42 of 62 health literacy competencies (12 knowledge, 9 attitude, 21 skill items)](delphi-taiwan-consensus-42-of-62-competencies.md) — related
 - [Expert consensus above 90.2% was achieved on admission and development criteria of teaching resource for nursing undergraduates comprising 6 domains and 43 items](nursing-teaching-resource-criteria-consent-902.md) — related
+- [A checklist-based BPMN model of ultrasound-guided CVC placement reached expert consensus in two Delphi rounds, producing a final model of 32 activities](bpmn-cvc-delphi-consensus-32-activities.md) — related
+- [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related

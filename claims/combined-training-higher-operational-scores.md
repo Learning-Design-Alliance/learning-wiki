@@ -51,3 +51,6 @@ Operational assessment of inlay preparation on extracted first premolars, scored
 - [Combined virtual-jaw training produces higher supragingival scaling operation process scores than jaw-model or virtual-reality training alone](combined-training-higher-operation-process-scores.md) — related
 - [Combining virtual simulation with jaw-model training improves second theoretical examination scores in undergraduate periodontal training compared with either method alone](combined-vr-jaw-training-improves-theoretical-scores.md) — related
 - [Jaw-model-before-VR training order yields the best supragingival scaling effect, with combined sequences outperforming single methods](jaw-before-vr-order-best-scaling-effect.md) — related
+- [Combined virtual-plus-jaw training groups score higher on the blinded operation assessment than single-method groups](combined-groups-higher-operation-scores.md) — related
+- [Combined virtual-then-jaw (V-J) training yields higher second theoretical examination scores than single-method training in preclinical implant education](vj-combined-training-higher-second-theory-scores.md) — related
+- [The V-J order may outperform the J-V order on theoretical scores, but not on operation scores or implant accuracy](vj-order-better-than-jv-for-theory-only.md) — related

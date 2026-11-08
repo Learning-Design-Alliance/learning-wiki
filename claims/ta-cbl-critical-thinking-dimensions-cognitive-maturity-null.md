@@ -59,3 +59,4 @@ Post-training comparison across the seven dimensions of the Critical Thinking Ab
 - [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](dops-higher-critical-thinking-three-months.md) — related
 - [The e-PBL program improved systematicity and self-confidence but not healthy skepticism, intellectual eagerness/curiosity, or intellectual fairness subscales](e-pbl-subscales-mixed-gains.md) — related
 - [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](mooc-blended-critical-thinking-mixed.md) — related
+- [Four CTDI-CV dimensions (open-mindedness, inquisitiveness, cognitive maturity, systematicity) scores rose significantly from pre-test to post-test after mind mapping, in one uncontrolled pre-post study](mind-mapping-improved-four-ctdi-dimensions.md) — related

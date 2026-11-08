@@ -73,3 +73,4 @@ Final-trial comparisons in the same experiment: the ATV group was descriptively 
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [Students who began training with HVRS completed the subsequent laboratory pulpotomy task faster than those who began with the conventional model, suggesting transfer of procedural fluency](hvrs-first-faster-lab-drilling-time.md) — related
 - [Both VR training paradigms improved real-task performance, with significant improvement across trial runs but no significant main effect of training group on completion times](vr-training-improves-real-tyre-change-completion-times.md) — related
+- [No significant difference between VR and control groups in time spent on ultrasonographic tasks](no-time-difference-vr-ultrasound-tasks.md) — related

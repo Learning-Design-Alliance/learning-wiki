@@ -53,3 +53,4 @@ Classroom observation study of 34 life sciences courses; paired t tests compared
 - [Participation gender gaps vary substantially from class to class, with females less likely to participate in 11 classes and more likely in one](participation-gaps-vary-by-classroom.md) — related
 - [A higher overall call rate (proportion of raised hands called on) predicts greater female verbal participation](call-rate-predicts-female-participation.md) — related
 - [Female under-participation persists when only each student's first participation event is counted, so talkers do not explain the gap](participation-gap-not-explained-by-talkers.md) — related
+- [Bias against female classmates was stronger in physical science courses: participants in life science courses selected higher proportions of women in all four nomination categories](course-type-moderates-peer-gender-bias.md) — related

@@ -51,3 +51,4 @@ Item-level descriptive analysis of CTBI responses across 88 encounters (table 1)
 - [Interviews with 14 Pakistani preceptors identified six categories of clinical teaching practice, from commitment to teaching to supportive behaviour](preceptor-interview-six-teaching-categories.md) — related
 - [Confidence in understanding and interest in the topic are the highest-endorsed factors influencing active learning participation, followed by teacher factors](contextual-and-teacher-factors-drive-participation.md) — related
 - [Students rated the clinical learning environment's Satisfaction subcategory at only 41.6% agreement, with Individualization the lowest-rated CLEI subcategory](clei-clinical-learning-environment-ratings-tanzanian-referral-hospitals.md) — related
+- [Students identify with nurses who master complex environments and stay close to patients, viewing them as professional models](nurses-as-models-complex-units.md) — related

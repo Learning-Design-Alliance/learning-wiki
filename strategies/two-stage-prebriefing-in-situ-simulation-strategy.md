@@ -43,6 +43,7 @@ Because the simulation mimicked the spontaneity of a real fall and aimed to mini
 - [Reduce extraneous uncertainty and cognitive load through a thorough pre-brief, clear simulation plan and educator support](prebrief-reduce-extraneous-uncertainty-cognitive-load.md)
 - [Gender-sensitive pre-briefing and debriefing practices to support psychological safety in simulation-based assessment](gender-sensitive-prebriefing-debriefing-strategy.md)
 - [Offer unexpected death simulation training as a regular part of health professional curricula](unexpected-death-simulation-regular-curriculum-strategy.md)
+- [Structured prebriefing to establish psychological safety before the simulated scene](structured-prebriefing-psychological-safety.md)
 
 ## Examples
 -

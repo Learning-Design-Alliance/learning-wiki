@@ -45,6 +45,7 @@ For educators at increased risk, the brief recommends regular mental health chec
 - [Provide universal schoolwide supports for educator wellbeing through peer-to-peer structures, leader actions, and shared community norms](universal-schoolwide-educator-wellbeing-supports.md)
 - [Programming clubs should target upsolving discipline and peer network density through structured post-contest review and mentor-buddy systems](structured-upsolving-and-mentor-buddy-retention-strategy.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
+- [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
 
 ## Examples
 -

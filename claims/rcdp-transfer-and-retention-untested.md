@@ -54,3 +54,4 @@ Authors' stated limitations of the study: results reflect a specific simulated c
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — a broader claim this one bears on
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — related
 - [Open questions remain on whether VGS improves clinical practice or can replace clinical hours](vgs-clinical-practice-effectiveness-unknown.md) — related
+- [Retention was subtopic-dependent: participants retained minimum competency only in indications/contraindications short- and long-term, and in adverse events long-term](highflow-retention-varied-by-subtopic.md) — related
