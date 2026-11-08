@@ -48,3 +48,4 @@ Quasi-experimental one-group pretest-posttest study of 64 professional nurses in
 - [The web-based EBP training program significantly improved nurses' self-reported EBP skills scores](web-based-ebp-training-improved-nurse-skills.md) — related
 - [A 40-hour EBP training program produces statistically significant posttest improvements in all five HS-EBP competency domains relative to no intervention in hospital nurses](40-hour-ebp-training-improves-all-five-hs-ebp-domains.md) — related
 - [Nurse self-rated attitudes toward EBP were more positive post-intervention than pre-intervention in one uncontrolled pre-post study](web-based-ebp-training-improved-nurse-attitudes.md) — related
+- [An EBP educational program produces a statistically significant intervention-by-time interaction on undergraduate nursing students' EBP knowledge and skills](ebp-program-interaction-ebp-knowledge-skills.md) — related

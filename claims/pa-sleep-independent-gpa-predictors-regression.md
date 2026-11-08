@@ -68,3 +68,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — related
 - [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
 - [Each additional point of physical activity score was associated with a 0.423-point increase in Physical Education achievement](pa-point-increases-pe-achievement.md) — related
+- [BMI is negatively correlated with science and mathematics GPA in schoolchild handball players](bmi-negatively-correlated-academic-gpa-handball-players.md) — reports the opposite

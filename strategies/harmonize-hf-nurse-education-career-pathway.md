@@ -50,6 +50,7 @@ The article recommends developing "a European HF nurse career pathway that aims 
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
 - [Develop a standardised and accredited training pathway from undergraduate through to postgraduate level for CEP competency](standardised-undergraduate-postgraduate-cep-pathway.md)
 - [Standardize EA wording and align activities with competency-based curricula through stakeholder consultation](standardize-ea-wording-cbme-alignment.md)
+- [Harmonize ID training between and within countries and across the psychiatrist lifespan from CAP to old age psychiatry](harmonized-lifespan-id-training-strategy.md)
 
 ## Examples
 -

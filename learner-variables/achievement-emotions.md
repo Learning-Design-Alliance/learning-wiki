@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 259 claims (179 show a difference, 57 mixed, 23 no difference) · 160 studies (58 associational, 53 causal, 17 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 38 of 160 report an effect size · 256 claims rest on one study
+> **Evidence** · 263 claims (181 show a difference, 58 mixed, 24 no difference) · 161 studies (59 associational, 53 causal, 17 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 39 of 161 report an effect size · 260 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -294,6 +294,10 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [After learning, the experimental group's happiness decreased and frustration and boredom increased significantly, while the control group's emotions did not change significantly.](../claims/post-learning-emotion-declines-after-funny-video-induction.md) [+W] — measured as an outcome of the instruction studied
 - [Students' emotions vary before, during and after simulation, unfolding in a rollercoaster from negatively to positively loaded across the session](../claims/emotional-rollercoaster-during-simulation.md) [+W] — measured as an outcome of the instruction studied
 - [Enjoyment, but not mental effort, mediated the effect of explaining on text-based comprehension in exploratory analyses](../claims/enjoyment-mediation-explaining-effect.md) [+M] — learners who differ on it differ in outcomes
+- [Autonomy support predicts enjoyment but not boredom, and enjoyment predicts PE grades, in the mediation model](../claims/mediation-model-paths-enjoyment-boredom-pe-grades.md) [~M] — learners who differ on it differ in outcomes
+- [Boredom with PE does not mediate the relation between autonomy support and PE academic performance](../claims/boredom-no-mediation-autonomy-support-pe-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Perceived autonomy support correlates positively with PE enjoyment and PE score and negatively with boredom](../claims/autonomy-support-correlations-pe-enjoyment-score-boredom.md) [+M] — measured as an outcome of the instruction studied
+- [Satisfaction/enjoyment with PE mediates the relation between perceived autonomy support and PE academic performance](../claims/enjoyment-mediation-autonomy-support-pe-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

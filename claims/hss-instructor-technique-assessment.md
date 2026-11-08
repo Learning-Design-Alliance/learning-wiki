@@ -49,3 +49,4 @@ Live instructor evaluation using commercial audiometry units with peers role-pla
 - [UK MSK physiotherapists report high self‐perceived confidence in assessing, diagnosing and managing DCM](msk-physiotherapists-high-self-perceived-dcm-confidence.md) — related
 - [Speech-language pathology students who used the hearing screening simulator showed greater confidence than controls in explaining screening procedures to a child and in judging otoscopy results normal or abnormal](hss-simulator-confidence-gains-significant-items.md) — related
 - [Test-group students reported that the simulator's hands-on experience was easy to use, useful, and increased their confidence in performing hearing screenings](hss-qualitative-hands-on-confidence.md) — related
+- [VR training outperformed traditional training on specific test questions covering speech audiometry, otoscopy, tympanometry and speech recognition thresholds](vr-gains-larger-on-specific-audiometry-questions.md) — related

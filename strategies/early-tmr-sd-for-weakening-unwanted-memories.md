@@ -53,6 +53,7 @@ The authors propose TMR-SD as a candidate intervention for weakening unwanted me
 ## Related Strategies
 
 - [Measure and optimize sleep quality when applying targeted memory reactivation](measure-sleep-quality-in-tmr-applications.md)
+- [Use school-based, nightmare-focused screening and intervention as an accessible first-line entry point for trauma-related sleep problems in students](school-based-nightmare-focused-first-line-entry.md)
 
 ## Examples
 -

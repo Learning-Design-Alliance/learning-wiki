@@ -50,3 +50,4 @@ Cross-module synthesis of Mann-Whitney U results for the differential diagnosis 
 - [Integrated videos improved perceived explanation quality but not overall confidence for hip/ankle/foot examinations](integrated-video-explanation-quality-hip-ankle-foot.md) — related
 - [No significant differences between intervention and control groups for any knee examination survey item](no-significant-difference-knee-examination-video.md) — related
 - [Clinical tests used most often broadly match the most sensitive and specific tests, except the Tromner test is little known or used](dcm-clinical-test-use-tromner-exception.md) — related
+- [A hypothesis-driven physical exam session significantly increases rising third-year students' confidence in performing a problem-focused PE and using a differential diagnosis to select PE maneuvers](hdpe-session-increases-student-confidence.md) — related

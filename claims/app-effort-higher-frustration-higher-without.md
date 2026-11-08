@@ -73,3 +73,4 @@ Same randomized simulation-based feasibility trial. The frustration subscale sho
 - [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
 - [The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)](alerting-guiding-dashboard-reduces-teacher-workload.md) — related
+- [Students who first answered without ESR eGUIDE improved significantly when subsequently using it](eguide-improvement-after-unaided-first-set.md) — related

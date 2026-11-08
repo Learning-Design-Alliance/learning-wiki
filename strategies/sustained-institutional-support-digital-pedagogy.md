@@ -56,6 +56,8 @@ The article's concluding recommendation is that one-time training is insufficien
 - [Structured cross-disciplinary faculty training, leadership resource allocation, and dedicated administrative support to overcome interdisciplinary implementation barriers](faculty-training-resources-admin-support-interdisciplinary.md)
 - [Implement faculty development programs, continuous formative assessment, and curriculum reform to support student-centred learning](faculty-development-continuous-assessment-strategy.md)
 - [Institutional expert support and one-on-one matching to help faculty adopt digital education tools](faculty-one-on-one-matching-digital-adoption-strategy.md)
+- [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
+- [Develop a suitable mix of presence and digital formats for continuing medical education seminar programs.](mix-presence-and-digital-formats-cme.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ In Theme 3, trainees requested multiple scenarios per simulator, consequences fo
 - [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — related
 - [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related
 - [Educators and trainees expressed remarkably similar views, with trainees emphasising logbooks, protected time, scenario complexity and feedback detail](educator-trainee-response-similarity.md) — related
+- [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related

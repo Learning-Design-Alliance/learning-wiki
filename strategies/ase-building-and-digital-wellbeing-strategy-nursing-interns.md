@@ -56,6 +56,7 @@ The article recommends that nursing schools routinely assess SMA and nomophobia 
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
 - [Reduce classroom smartphone use and strengthen resilience while lowering test anxiety to support secondary students' achievement](reduce-smartphone-use-build-resilience-lower-test-anxiety-strategy.md)
 - [University administrators and policymakers should implement a smartphone use policy for learning, teaching, and campus residence](smartphone-use-policy-implementation-strategy.md)
+- [Repeat clinical skills assessments with formative feedback to build self-efficacy and buffer the negative effects of assessment anxiety](repeated-osce-exposure-with-formative-feedback-strategy.md)
 
 ## Examples
 -

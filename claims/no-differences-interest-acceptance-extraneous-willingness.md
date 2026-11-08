@@ -50,3 +50,4 @@ Null findings from the RCT's planned contrasts and follow-up ANOVAs (N = 269). T
 - [Expert-explanation feedback enhanced germane cognitive load, perceived usefulness and perceived utility for medical communication](expert-explanations-raise-germane-load-and-perceived-utility.md) — related
 - [Post-test (delayed) task-based feedback raised perceived competence more than immediate feedback and more than performance-based feedback](post-test-feedback-raises-perceived-competence.md) — related
 - [Post-test feedback was perceived as fairer and produced more positive affect than immediate feedback and than performance-based feedback](post-test-feedback-higher-fairness-positive-affect.md) — related
+- [Expert interviews and cognitive pretests indicate generally very good acceptance of the voLeA video-based SJT](volea-sjt-good-acceptance-pretests.md) — related

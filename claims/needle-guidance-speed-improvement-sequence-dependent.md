@@ -52,3 +52,4 @@ Paired t-tests comparing speed improvement between sequence groups: "NG: AC 136,
 - [A practice learning effect occurred: novices were significantly faster on their second attempt at E-BLUS exercises, except needle guidance](second-attempt-learning-effect-e-blus.md) — related
 - [Median error counts were similar for conventional and motorized articulating instruments across E-BLUS exercises](similar-error-rates-cli-ali.md) — related
 - [Novices preferred conventional instruments for weight and handling, yet majorities valued the articulating instruments' extra degrees of freedom, especially for circular cutting](usability-preferences-cli-ali-novices.md) — related
+- [Sequence order affected performance time and mistakes: later runs were faster, and switching to 3D reduced mistakes in the 4K-first sequence](sequence-order-effects-parkour-performance.md) — related

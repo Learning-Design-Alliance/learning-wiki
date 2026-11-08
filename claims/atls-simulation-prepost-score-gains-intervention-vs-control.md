@@ -52,3 +52,4 @@ Descriptive results from the quasi-experimental study (intervention n = 31, cont
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related
 - [VR simulation as ATLS course preparation shows no significant difference from control in knowledge test scores, clinical scenario pass rates, or course completion.](vr-atls-no-objective-effectiveness-difference.md) — related
 - [New graduate nurses who completed the standard clinical training program showed a greater mean increase in total competency scores than untrained nurses, with an intermediate effect size](standard-clinical-training-greater-competency-increase-did.md) — related
+- [Both traditional and VR training significantly improved post-training test scores over pre-test](both-training-modes-significantly-improve-scores.md) — related

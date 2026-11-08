@@ -62,6 +62,7 @@ The article recommends immersive VR simulation as a strategy for settings where 
 - [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 - [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
 - [Use immersive VR headset training as a feasible, accessible option for robotic set-up training in resource-limited settings](ivr-resource-limited-robotic-setup-training-strategy.md)
+- [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 
 ## Examples
 -

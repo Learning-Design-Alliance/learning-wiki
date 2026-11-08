@@ -46,6 +46,7 @@ The article recommends that during initial vocabulary acquisition, teachers use 
 - [Bundle GMT with explicit training on desirable difficulties, metacognitive miscalibration, and effective study strategies such as retrieval practice](bundle-gmt-with-retrieval-practice-training.md)
 - [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](encoding-elaboration-reactivation-strategy.md)
 - [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](consolidation-sleep-spacing-interleaving-strategy.md)
+- [Teachers employ cognitive learning strategies — spaced practice, interleaving, elaboration, retrieval practice, reflection and mindfulness — to deepen knowledge processing](cognitive-learning-strategies-to-enhance-cognition.md)
 
 ## Examples
 -

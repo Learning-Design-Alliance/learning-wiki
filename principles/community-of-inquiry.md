@@ -130,6 +130,7 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 
 - [Wiki learning environment with knowledge bars and participation bars at individual, group, and subgroup levels](../designs/gat-wiki-environment-bar-visualizations.md)
 - [Use information-exchange prompts in online PD discussion forums to elicit transactive discourse](../strategies/information-exchange-prompts-strategy-online-pd.md)
+- [Facilitate a learning community in which the teacher-learner knowledge boundary is blurred and social presence is cultivated](../strategies/online-learning-community-facilitation-roles.md)
 
 ### Illustrative
 

@@ -60,9 +60,11 @@ Culturally responsive instruction works by connecting new content to existing kn
 6. Reflect and adjust: audit materials and participation patterns regularly for whose culture is present and whose is missing
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the cognitive mechanism that cultural responsiveness leverages
 - [Accessible Syntax](accessible_syntax.md) — pairing cultural relevance with linguistic accessibility
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking work that supports inclusive classroom climates
+- [Use culturally inclusive pedagogies, such as incorporating indigenous language and values authentically into HPE lessons](culturally-inclusive-hpe-pedagogy-strategy.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the relationship-building routine that supplies authentic cultural knowledge

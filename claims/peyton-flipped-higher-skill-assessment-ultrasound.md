@@ -50,3 +50,4 @@ Randomized comparison of 66 residents split into control (n = 33) and observatio
 - [Residents in the Peyton's four-step and flipped classroom group reported greater improvement in learning interest than control group residents](peyton-flipped-greater-learning-interest.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [First-year OB-GYN residents taught with the refined Peyton four-step method score higher on basic skill operation assessments than residents taught with traditional simulation-based instruction](refined-peyton-higher-skill-operation-scores.md) — related
+- [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related

@@ -70,3 +70,4 @@ Logistic regression analysis by program requirement among 1,152 Japanese junior 
 - [Mini-Z well-being measures show minimal differences across scholarly activity groups among Japanese PGY1-2 residents](mini-z-wellbeing-minimal-differences.md) — related
 - [Scholarly activity without clinical research is associated with a small adjusted difference in ACE tool EBM competency scores among Japanese PGY1-2 residents](scholarly-activity-small-ace-ebm-difference-pgy1-2.md) — related
 - [GM-ITE clinical knowledge scores are similar across scholarly activity groups among Japanese PGY1-2 residents](gm-ite-scores-similar-scholarly-activity.md) — related
+- [No clear pattern was found that early incorporation of EBM into practice results in better ACE scores](no-pattern-early-ebm-incorporation-better-ace.md) — related

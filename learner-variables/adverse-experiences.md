@@ -13,7 +13,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (49 show a difference, 10 mixed, 4 no difference) · 37 studies (16 associational, 13 review, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 4 of 37 report an effect size · 63 claims rest on one study
+> **Evidence** · 65 claims (51 show a difference, 10 mixed, 4 no difference) · 39 studies (17 associational, 14 review, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 4 of 39 report an effect size · 65 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -99,6 +99,8 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 - [Parental hostility, emotional rejection, and harsh family interactions in early adolescence predict lower academic aspirations in late adolescence](../claims/harsh-parenting-lowers-late-adolescent-academic-aspirations.md) [-M] — learners who differ on it differ in outcomes
 - [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](../claims/covariates-sex-poverty-maltreatment-school-outcomes.md) [+W] — learners who differ on it differ in outcomes
 - [A safe and orderly school environment is the teaching-related variable with the greatest predictive capacity for academic resilience, raising likelihood by up to 62 percentage points](../claims/safe-orderly-school-environment-raises-resilience-62-points.md) [+M] — learners who differ on it differ in outcomes
+- [Collaborative research and policy efforts converge on the reparative role of identity-safe, relationship-rich environments](../claims/sold-convergent-findings-relationship-rich-environments.md) [+M] — measured as an outcome of the instruction studied
+- [Higher ACE scores were associated with more favorable attitudes toward EBM, though differences did not exceed 2.1 points](../claims/favorable-attitudes-associated-higher-ace.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

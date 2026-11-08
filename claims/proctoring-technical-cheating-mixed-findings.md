@@ -70,3 +70,4 @@ Narrative synthesis of practical issues in online OBE delivery. The review repor
 - [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](student-preference-and-logistical-advantages-of-obe.md) — related
 - [Remote proctoring shows no statistically significant performance differences versus test centres](remote-proctoring-no-performance-difference.md) — related
 - [The most commonly reported difficulty with online exams was the limited allocated time for each exam](limited-allocated-time-main-online-exam-difficulty.md) — related
+- [The 2020 online open book mid-semester mean score (62.8%) was statistically significantly lower than the 2019 invigilated mid-semester mean (71.8%), a pattern the author reads as evidence against cheating](online-open-book-midsemester-lower-mean-no-cheating.md) — related

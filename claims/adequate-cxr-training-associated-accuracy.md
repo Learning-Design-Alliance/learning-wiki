@@ -68,3 +68,4 @@ Descriptive cross-tabulation (Table 3) of reported adequate training by training
 - [Diagnostic confidence correlates positively with diagnostic accuracy in chest X-ray interpretation](cxr-confidence-accuracy-correlation.md) — related
 - [Being a diagnostic radiology resident and having higher diagnostic confidence are the only independent predictors of high diagnostic accuracy](radiology-residency-and-confidence-predict-accuracy.md) — related
 - [Family medicine residents' diagnostic accuracy is comparable to physicians without postgraduate training (medical interns and general practitioners)](fm-residents-accuracy-comparable-non-postgraduate.md) — related
+- [Prior studies reviewed found students' chest X-ray accuracy comparable to some resident groups, supporting the students' performance level](students-cxr-accuracy-comparable-residents-prior-studies.md) — related

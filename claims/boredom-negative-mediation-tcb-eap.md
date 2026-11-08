@@ -55,3 +55,4 @@ Bootstrapped SEM mediation analysis (5000 resamples) among 702 high school stude
 - [Academic boredom mediates the relationship between EFL PsyCap and EFL achievement](boredom-mediates-psycap-achievement.md) — related
 - [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related
 - [Enjoyment positively mediates the relationship between teacher caring behavior and English academic performance](enjoyment-positive-mediation-tcb-eap.md) — related
+- [Boredom with PE does not mediate the relation between autonomy support and PE academic performance](boredom-no-mediation-autonomy-support-pe-performance.md) — related

@@ -48,3 +48,4 @@ Exploratory Kruskal-Wallis subgroup analysis by discipline; nursing respondents 
 - [JIT in situ simulation produced statistically significant improvements in perioperative staff's perceived knowledge of and comfort with new COVID-19 workflows](jit-in-situ-simulation-improves-knowledge-comfort-covid-workflows.md) — a broader claim this one bears on
 - [Simulation-based training shows no significant benefit over non-simulation based training for knowledge acquisition in airway management](sbt-no-knowledge-benefit-airway.md) — related
 - [Airway management knowledge increased with simulation but remained below the 70% expected performance](airway-management-remained-below-70.md) — related
+- [In-situ simulation significantly increases physician comfort in understanding their role in COVID-19 airway management](insitu-sim-role-comfort-gain.md) — related

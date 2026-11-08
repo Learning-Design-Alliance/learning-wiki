@@ -48,6 +48,7 @@ The authors recommend that experiential learning with synthetic cultures be inte
 - [Debriefing](debriefing.md)
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 - [Deliver sensitive-conversation training as a blend of simulation practice with facilitator-led and role-play elements](blend-simulation-with-facilitated-roleplay-strategy.md)
+- [Experiential intercultural training: create ambiguity, behavioural experimentation and reflection rather than centralising cultural knowledge](experiential-intercultural-training-ambiguity-reflection.md)
 
 ## Examples
 -

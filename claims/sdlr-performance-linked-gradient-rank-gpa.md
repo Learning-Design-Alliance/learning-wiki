@@ -72,3 +72,4 @@ One-way ANOVA across self-reported GPA terciles (n = 546). Domain analyses confi
 - [Grade effects of GenAI availability do not differ across terciles of students' prior academic preparation, robust across multiple ability proxies](null-grade-effects-across-prior-performance-terciles.md) — related
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
 - [Students' perceived effectiveness of e-learning was not associated with their e-learning readiness scores overall or in any domain](e-learning-readiness-not-associated-perceived-effectiveness.md) — related
+- [Students with high self-reported academic performance (top 10%) give lower evaluations of and are less satisfied with online education than lower-ranked peers](high-academic-performance-lower-online-evaluations.md) — related

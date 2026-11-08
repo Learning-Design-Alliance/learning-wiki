@@ -50,3 +50,4 @@ Repeated-measures comparison across six weekly offline VSTES sessions (two-way A
 - [Most students reported that the system's realistic simulation and unlimited practice helped them, and most preferred the offline haptic section for three-dimensional adjustment and real-time feedback](student-preference-offline-haptic-feedback.md) — related
 - [Online VLNP test scores for etching, rinsing, bracket positioning and total score rose 3–17% from formative test to final online test](online-vlnp-formative-to-final-gains.md) — related
 - [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related
+- [Learning curves on the VR hysterectomy module plateau after the third training session for time, path length and number of movements](vr-hysterectomy-module-learning-curve-plateau-third-session.md) — related

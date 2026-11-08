@@ -62,3 +62,5 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 - [Students were relatively satisfied with online exams (74.5% found them well-structured) despite 63% facing technical problems while attempting them](online-exams-well-structured-despite-connectivity-problems.md) — related
 - [Saudi nursing students during COVID-19 reported somewhat satisfied e-learning perceptions, high technology access, and moderate e-learning motivation](saudi-nursing-students-descriptive-elearning-levels.md) — related
 - [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — related
+- [During COVID-19 online medical education, students rated instructors highly responsible but found platform support insufficient, with moderate overall satisfaction](perceptions-instructors-platforms-satisfaction-descriptives.md) — related
+- [Most sixth-year medical students gave a positive evaluation of fully online virtual reality training during the COVID-19 pandemic](positive-evaluation-online-vr-training-covid.md) — reports the opposite

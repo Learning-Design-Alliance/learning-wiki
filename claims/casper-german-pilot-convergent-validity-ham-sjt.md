@@ -68,3 +68,4 @@ Pearson correlations with two communication-targeting OSCE stations in small sub
 - [German medical school applicants evaluate the open-ended online SJT Casper favorably, rating it fair and less stressful than other exams](casper-german-pilot-acceptable-test-takers.md) — related
 - [After correcting for range restriction, the HAM-SJT's relation to OSCE Interaction performance in the high-stakes sample rises to r = .20, comparable to the communal scale](ham-sjt-range-restriction-corrected-osce.md) — reports the opposite
 - [No SJT scale correlated significantly with OSCE performance in the low-stakes sample](sjt-osce-null-low-stakes.md) — related
+- [The article argues SJTs offer more efficient implementation and evaluation than simulated conversations and can complement, but not replace, them](sjt-more-efficient-than-simulated-conversations.md) — related

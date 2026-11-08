@@ -57,3 +57,4 @@ Meta-analysis of four comparative trials reporting time to complete task. The po
 - [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related
 - [Just-in-time coaching improved technical skill metrics (airway views, advancement maneuvers, technical difficulties, intubation time) but complications did not differ significantly](jit-coaching-technical-metrics-complications-null.md) — related
 - [Airway management knowledge increased with simulation but remained below the 70% expected performance](airway-management-remained-below-70.md) — related
+- [A meta-analysis found simulation-based airway training superior to non-SBT only for behavior performance, with no significant benefit in skill performance time or procedural success](sbt-benefits-limited-to-behavior-performance.md) — a broader claim this one bears on

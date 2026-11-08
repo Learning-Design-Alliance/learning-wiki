@@ -61,3 +61,4 @@ Pre-specified subgroup meta-regression on expressive and receptive language outc
 - [Outcome proximity moderates the dose–response relation: distal outcomes outperform proximal outcomes at dosages at or below 5.43 h, while proximal outcomes exceed distal outcomes at or above 22.6 h](proximity-by-dosage-interaction.md) — related
 - [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](moderation-dosage-celf-small.md) — related
 - [Even schools with high LRS usage showed insufficient evidence of a positive effect](lrs-dose-analysis-no-effect.md) — related
+- [Simulation training effects on board communication were smaller than typical simulation effects in clinical settings, possibly due to self-assessed outcomes and brief dosage](simulation-effect-smaller-than-clinical-meta-analyses.md) — related

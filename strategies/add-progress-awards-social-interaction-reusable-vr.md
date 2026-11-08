@@ -46,6 +46,7 @@ For VR simulations that can be used repeatedly, the authors recommend adding gam
 - [Gamification](gamification.md)
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
+- [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
 
 ## Examples
 -

@@ -63,3 +63,4 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
 - [Adding physical fitness measures did not significantly enhance GPA prediction beyond motor competence, age, and BMI](fitness-block-did-not-enhance-gpa-prediction.md) — related
+- [Aerobic fitness (Yo-Yo IR1) is positively correlated with mathematics and science GPA in schoolchild handball players](aerobic-fitness-yoyo-positively-correlated-academic-gpa.md) — related

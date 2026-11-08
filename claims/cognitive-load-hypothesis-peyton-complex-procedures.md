@@ -53,3 +53,4 @@ Authors' theoretical interpretation in the Discussion, invoking cognitive load t
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in change in student confidence after a simulated lumbar puncture workshop](peyton-vs-see-one-do-one-no-confidence-change-difference-slp.md) — related
 - [The authors attribute the absent additive effect to possible cognitive overload of novice learners exposed to multiple complex modalities simultaneously](cognitive-overload-explanation-dual-modality.md) — related
 - [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — related
+- [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](stepped-models-simple-vs-complex-skills.md) — related

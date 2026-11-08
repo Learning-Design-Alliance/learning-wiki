@@ -67,3 +67,4 @@ Same open-ended coding of end-of-session answers: 336 participants (34.36%) ment
 - [Students across all school levels rated the iBuddy session as enjoyable, useful and important, with importance highest (M = 8.96)](ibuddy-session-high-satisfaction-ratings.md) — related
 - [Teachers who engaged with EducaSim generally viewed it as a positive experience](educasim-positive-teacher-sentiment-254-sessions.md) — related
 - [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](students-enjoyed-image-creation-most.md) — related
+- [Students appreciated the three-part tutored session structure and the selected cases and allotted time](session-structure-and-case-suitability-appreciated.md) — related

@@ -47,3 +47,4 @@ Authors' interpretation in the Discussion, not a tested result. They add that cl
 ## Related Claims
 - [Any VR training (procedural or basic) yields significantly higher GEARS scores than no training in novices transferring robotic skills to a cadaveric RARP task](any-vr-training-higher-gears-than-no-training.md) — related
 - [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — a broader claim this one bears on
+- [IVR-trained residents scored higher on verbal questioning about pathology recognition and procedural decision-making than video-trained controls](ivr-training-higher-verbal-questioning-scores.md) — related

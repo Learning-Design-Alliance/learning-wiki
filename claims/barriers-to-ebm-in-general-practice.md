@@ -52,3 +52,4 @@ Systematic review synthesis of survey and qualitative findings on barriers to EB
 - [Direct observation found GPs rarely engaged in the traditional five-step EBM process, relying instead on 'mindlines'](gps-rely-on-mindlines-not-five-step-ebm.md) — related
 - [Self-reported frequent engagement with traditional EBM steps is low among UK GPs](low-self-reported-ebm-activity-uk-gps.md) — related
 - [Resident EBM log activity led to real-time changes in ED patient care in 3.7% of logs and planned future care changes in 18.7% of logs](pbl-logs-real-time-ebm-care-change.md) — related
+- [Lack of knowledge, resources, and time were the most reported barriers to utilizing EBM among trainees](knowledge-resources-time-top-ebm-barriers.md) — a narrower finding that bears on this claim

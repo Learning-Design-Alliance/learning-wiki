@@ -53,3 +53,4 @@ Post hoc two-factor ANOVA including allocation group and sex in the cluster-RCT 
 - [Male students show large advantages with live demonstration in knowledge, knowledge gain, and procedural grading, while female students perform equally in both groups; gender-by-group interactions are nonsignificant](male-students-benefit-more-from-live-demonstration.md) — related
 - [Male students scored higher than female students on the agricultural science achievement test under both teaching methods](male-students-outperform-female-agricultural-science.md) — related
 - [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
+- [Female students show higher academic performance than male students in this sample](female-higher-academic-performance-indian-adolescents.md) — related

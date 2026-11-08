@@ -49,3 +49,4 @@ Pre/post evaluation of the eLearning course using a generalised linear mixed-eff
 - [Knowledge improvement varies across course modules, with the largest gains where baseline knowledge was lowest and a ceiling effect for the counselling-role module](cmv-elearning-module-level-knowledge-variation.md) — a narrower finding that bears on this claim
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
 - [Awareness of free CMV education resources rises from 10% to 97% after course completion](cmv-elearning-increases-resource-awareness.md) — related
+- [Obstetric providers show low baseline knowledge of congenital cytomegalovirus, answering just under 50% of knowledge items correctly](obstetric-provider-low-baseline-ccmv-knowledge.md) — related

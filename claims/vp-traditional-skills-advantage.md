@@ -97,3 +97,4 @@ Random-effects meta-analysis of randomized trials comparing virtual patients wit
 - [VR simulation training produces higher DOPS procedural skill scores than real-patient or mannequin training for ECG lead placement](vr-training-higher-dops-ecg-lead-placement.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — a narrower finding that bears on this claim
 - [No statistically significant difference between VR and control groups in offline image interpretation or patient inquiry scores](no-difference-offline-image-reading-patient-inquiry.md) — reports the opposite
+- [A meta-analysis found blended learning in the health professions seems more effective or at least as effective as traditional instruction for knowledge acquisition](blended-learning-meta-analysis-knowledge-acquisition.md) — related

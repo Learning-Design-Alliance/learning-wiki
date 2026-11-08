@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (46 for, 22 mixed, 2 against) · 82 studies (47 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 82 report an effect size · 60 claims rest on one study
+> **Evidence** · 71 claims (47 for, 22 mixed, 2 against) · 83 studies (48 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 83 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](../claims/simulation-ascites-puncture-three-month-skill-retention.md) [+W] — attached 2026-11-07 from Hammami Aya et al. (2024), which proposed "Four-stage learning sequence for procedural simulation: demonstration without comment, commented demonstration, learner explanation, then learner performance with real-time feedback".
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](../claims/rcdp-shortens-cpr-pause-duration-vs-is.md) [+W] — attached 2026-11-07 from Raper Jaron D. MD et al. (2024), which proposed "Use RCDP for algorithmic, procedurally demanding skills such as ACLS-based resuscitation".
 - [Skill retention 4–8 weeks after VAD training is superior after practice-based training: theory-trained participants deteriorated significantly while practice-trained participants remained stable](../claims/practice-based-vad-training-superior-retention.md) [+W] — attached 2026-11-08 from Marschalek Julian et al. (2021), which proposed "For procedural skills needed under stressful, unscheduled conditions, include one-to-one instructed hands-on practice in training programs because practice-based training better retains skills than theory-only training"; tests this page's relationship.
+- [Students who received LP simulation training had a higher first-LP success rate in real patients than untrained controls (67% vs 14%)](../claims/lp-simulation-higher-first-lp-success.md) [+W] — attached 2026-11-08 from Gaubert Sinead et al (2021), which proposed "Include theoretical teaching in all simulation-based sessions for technical procedures".
 
 ## Objective and learner-valued goal
 

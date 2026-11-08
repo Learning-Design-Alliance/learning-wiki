@@ -50,3 +50,4 @@ One-way ANOVA with Tukey's HSD post-hoc comparisons on the 554-student survey sa
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
 - [Study region significantly moderates the ANS-well-being correlation among K-12 youth, with the abstract reporting a stronger association in East Asian contexts](region-moderates-ans-wellbeing-k12.md) — related
 - [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](geographic-region-moderation-sex-differences-mathematics.md) — related
+- [Trainees with South Asian medical education backgrounds scored higher on the ACE tool than those from other regions](south-asian-background-higher-ace-scores.md) — related

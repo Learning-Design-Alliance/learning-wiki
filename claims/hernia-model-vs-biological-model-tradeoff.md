@@ -48,3 +48,4 @@ Authors' discussion-section comparison of their 3D-printed model with the biolog
 - [3D-printed silicone models have tensile strengths close to human gastrointestinal tissue, and PVA/PAM hydrogel components match human tissue conductivity, thermal conductivity and viscoelasticity](3d-silicone-models-physical-properties-match-human-tissue.md) — related
 - [Training on 3D-printed LRYGB models transfers to porcine organ models: trained residents performed comparably to untrained intermediates](3d-training-transfers-to-porcine-models.md) — related
 - [Surgeons rated the 3D hernia model as easy to use, realistic, and anatomically representative](surgeons-rate-hernia-3d-model-realistic-easy-to-use.md) — related
+- [Participants rate porcine tissue as similar to human tissue and all three tasks as effective for training](participant-ratings-tissue-similarity-task-effectiveness.md) — related

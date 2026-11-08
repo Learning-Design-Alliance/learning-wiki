@@ -61,6 +61,8 @@ The review's forward-looking recommendations for integrating simulation into vas
 - [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
 - [Recommendations for oral and maxillofacial surgery residency training: simulation-based skill modules, mandatory trainee-status disclosure with patient education, and stronger undergraduate basic clinical skills training](oms-residency-simulation-transparency-undergraduate-skills-strategy.md)
 - [Enhance lacrimal irrigation simulation training with force-sensitive gloves, longitudinal validation, and motion analytics](future-enhanced-simulation-validation-motion-analytics.md)
+- [Develop structured in vitro training curricula with objectively evaluated procedural metrics for endovascular skills](structured-in-vitro-endovascular-curriculum-strategy.md)
+- [Incorporate a 2-week mentored simulation course into vascular resident training](two-week-mentored-vascular-simulation-course.md)
 
 ## Examples
 -

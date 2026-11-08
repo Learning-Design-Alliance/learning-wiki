@@ -64,3 +64,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [Scores in the basic-medicine and clinical-medicine integrated PBL courses did not differ significantly within the experimental group when comparing the two course stages](two-integrated-pbl-stages-similar-scores.md) — related
 - [The online and offline groups showed no significant difference in prior third-year examination marks](baseline-third-year-marks-no-group-difference.md) — related
 - [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — reports the opposite
+- [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related

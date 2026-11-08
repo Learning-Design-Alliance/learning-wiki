@@ -49,3 +49,4 @@ Thematic analysis of group interviews after the full module. The authors report 
 - [Technicians and collaborators disagree on whether technicians should perform roles in simulation scenarios](technician-role-scenario-disagreement.md) — related
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Students perceived the euthanasia simulation module as a substantial added value to their nursing education and future practice](simulation-module-added-value-nursing-education.md) — related
+- [Students propose varied timing for VR-based simulation—before, after, or both before and after clinical practice—with no consensus on a single best point](vr-simulation-timing-before-after-clinical-practice.md) — related

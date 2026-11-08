@@ -41,6 +41,7 @@ The article argues that 'infrastructure-less evaluations are becoming less tenab
 
 - [Use process and usage data alongside impact data in edtech evaluations](process-usage-data-alongside-impact.md)
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
+- [Establish a centralized database of anonymized simulation data accessible to global research groups](centralized-anonymized-simulation-database.md)
 
 ## Examples
 -

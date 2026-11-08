@@ -52,6 +52,7 @@ The review frames retrieval as an active process initiating reconsolidation that
 - [Interactive Video Quizzing](interactive-video-quizzing.md)
 - [Cueing category-level components of learned material as a low-effort reactivation strategy to support long-term retention](component-cue-reactivation-strategy.md)
 - [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](consolidation-sleep-spacing-interleaving-strategy.md)
+- [Teachers employ cognitive learning strategies — spaced practice, interleaving, elaboration, retrieval practice, reflection and mindfulness — to deepen knowledge processing](cognitive-learning-strategies-to-enhance-cognition.md)
 
 ## Examples
 -

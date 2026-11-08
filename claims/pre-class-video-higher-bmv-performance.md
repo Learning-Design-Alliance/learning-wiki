@@ -47,3 +47,4 @@ Comparison of BMV performance scores (mean of two blinded assessors) among 5th-y
 ## Related Claims
 - [Pre-class video watching showed no significant difference in intravenous cannulation performance scores, unlike bag mask ventilation](pre-class-video-no-ivc-performance-difference.md) — related
 - [Students who watched the IVC video before class received fewer peer interventions during triad practice, but intervention count was not correlated with skill performance](pre-class-video-fewer-peer-interventions-ivc.md) — related
+- [Video-debriefing improved bag-mask ventilation skill at immediate post-test, the only individual skill component significant at that time point](video-debriefing-improved-bmv-post-test.md) — related

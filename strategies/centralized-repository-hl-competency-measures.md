@@ -43,6 +43,7 @@ The review proposes that a centralized repository of measures to assess health p
 ## Related Strategies
 
 - [Adopt a tiered or modular design for future competency measurement tools](tiered-modular-design-hl-competency-tools.md)
+- [Establish a centralized database of anonymized simulation data accessible to global research groups](centralized-anonymized-simulation-database.md)
 
 ## Examples
 -

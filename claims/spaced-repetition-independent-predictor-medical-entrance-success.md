@@ -49,3 +49,4 @@ Retrospective single-center cohort survey of 523 candidates (84.6% of 618) at th
 - [More frequent use of evidence-based learning strategies is independently associated with higher odds of excellent academic performance among medical students](evidence-based-strategies-associated-excellent-performance-medical-students.md) — a broader claim this one bears on
 - [Successful candidates reported using spaced repetition far more often than unsuccessful candidates in univariate analysis](spaced-repetition-univariate-success-difference.md) — a broader claim this one bears on
 - [Conscientiousness is independently and positively associated with academic achievement (adjusted OR 1.89) in multivariate analysis](conscientiousness-independent-positive-factor-gpa.md) — related
+- [Perceived efficiency had the highest odds ratio among factors associated with students' preference for distance learning](efficiency-highest-odds-ratio-distance-learning-preference.md) — related

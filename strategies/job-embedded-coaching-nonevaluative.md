@@ -48,6 +48,7 @@ For targeting professional learning opportunities, the guide's practice descript
 - [Policy and practice recommendations for supporting evidence-based professional development](pd-policy-recommendations.md)
 - [Provide socially embedded, collaborative professional learning — mentoring, dialogue and reflective practice — for late-career teachers](collaborative-professional-learning-late-career-teachers.md)
 - [Engage in FA development opportunities: peer observation, PLCs, and coaching](fa-development-opportunities.md)
+- [Support international implementation by adapting the model locally, relying on local leaders, and providing long-term job-embedded professional development](international-implementation-adaptability-leadership.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Cross-sectional study (Massey, 2021) of 352 3rd and 5th graders with a mean of 2
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — related
+- [Schools with Playworks programs show more physical activity, less bullying, and more attentive students than schools without](playworks-impact-findings.md) — related

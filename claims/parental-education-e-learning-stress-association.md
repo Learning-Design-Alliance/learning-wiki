@@ -50,3 +50,4 @@ Adjusted results of the multinomial logistic regression in the 1145-student cros
 - [Students who did not prefer e-learning had significantly higher adjusted odds of high-level perceived e-learning stress](non-preference-e-learning-high-stress.md) — related
 - [Sub-optimal e-learning readiness is significantly associated with higher odds of moderate and high perceived e-learning stress among Bangladeshi university students](sub-optimal-e-learning-readiness-higher-perceived-stress-bangladesh.md) — related
 - [Students outside Dhaka reported higher odds of moderate perceived e-learning stress than students in Dhaka](non-dhaka-residence-moderate-e-learning-stress.md) — related
+- [Perceived efficiency had the highest odds ratio among factors associated with students' preference for distance learning](efficiency-highest-odds-ratio-distance-learning-preference.md) — related

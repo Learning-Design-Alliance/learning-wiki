@@ -54,6 +54,7 @@ The article distills participants' recommendations for making flipped-classroom 
 - [Combine varied teaching formats with regular knowledge-testing questions and direct feedback in flipped-classroom e-learning](e-learning-formats-questions-direct-feedback-strategy.md)
 - [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
+- [Deliver pre-procedure patient education via an anytime-reviewable smartphone multimedia program](smartphone-multimedia-preprocedure-education-strategy.md)
 
 ## Examples
 -

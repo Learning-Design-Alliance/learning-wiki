@@ -70,3 +70,4 @@ Same FC questionnaire, offline-course items: 90.5% liked teacher-student interac
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [After the flipped classroom transition, students submitted significantly more course evaluation comments, and nearly all agreed the course was enjoyable and the format effective](more-scef-comments-and-high-agreement-after-fc.md) — related
+- [Most experimental-group students reported agreement with, interest in, and engagement from the flipped classroom plus web-based learning system](student-perceptions-flipped-anatomy-web-system.md) — related

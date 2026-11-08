@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (22 for, 5 mixed) · 24 studies (11 causal, 4 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 24 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (24 for, 5 mixed) · 25 studies (11 causal, 5 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 25 report an effect size · 28 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -66,6 +66,8 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](../claims/chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) [+W] — attached 2026-11-05 from An Alternative Approach in Anatomy Education: Design of a Learning Environment Based on Ar, which proposed "Web-based anatomy learning module integrating 3D virtual manipulatives with a ChatGPT sidebar".
 - [Cadaveric ultrasound-guided injection workshops significantly increase physicians' self-reported confidence for hip, knee, and ankle injections, with the largest gain for hip injections](../claims/cadaveric-workshop-confidence-gains-three-joints.md) [+W] — attached 2026-11-06 from Zure Mert et al. (2025), which proposed "One-day cadaveric musculoskeletal ultrasound-guided injection workshop with theoretical sessions and four hands-on stations".
 - [Total laparoscopic hysterectomy operative time was significantly shorter for residents trained after SLSST implementation than before it](../claims/slsst-shortens-tlh-operative-time.md) [+W] — attached 2026-11-07 from Lobão Gonçalves Anna Luiza et al. (2019), which proposed "Systematic Laparoscopic Skills and Suture Training (SLSST) program".
+- [First-year osteopathy students report strongly positive perceptions of 3D-printed anatomy models' usefulness for review, viva preparation, independent learning, motivation, and viva performance, with only note-reduction rated neutrally](../claims/3dp-bones-survey-positive-perceptions-block-mode.md) [+W] — attached 2026-11-08 from Tripodi N et al. (2020), which proposed "Take-home 3D-printed upper limb bone sets with putty muscle overlays as anatomy learning resources".
+- [The tactile, kinesthetic nature and take-home availability of 3D-printed bones increased students' engagement with class activities and unit content](../claims/3dp-bones-tactile-engagement-behavioral-theme.md) [+W] — attached 2026-11-08 from Tripodi N et al. (2020), which proposed "Take-home 3D-printed upper limb bone sets with putty muscle overlays as anatomy learning resources"; tests this page's relationship.
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

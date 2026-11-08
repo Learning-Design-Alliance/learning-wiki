@@ -58,3 +58,4 @@ T-tests comparing female (n = 100) and male (n = 44) preservice teachers on all 
 - [No gender differences were found in any dimension according to teacher SEL training](ruler-no-gender-differences.md) — related
 - [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — a narrower finding that bears on this claim
 - [Preferences for visual, written, or board-exam-oriented e-learning resources did not differ significantly by gender, year, GPA bracket, background, or research participation](no-demographic-differences-elearning-preferences.md) — related
+- [Self-confidence levels did not differ significantly by GPA, gender, or university](cxr-confidence-no-differences-gpa-gender-university.md) — related

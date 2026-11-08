@@ -53,3 +53,4 @@ Spearman correlation analysis in the same 30-student sample. Faster 2-back react
 - [Omission and commission errors in n-back tasks have different correlates and may represent different processes](nback-omission-commission-different-correlates.md) — related
 - [Seven nonacademic variables are selected as predictors of GMKT performance from 98 candidate nonacademic factors in Chinese medical students](seven-nonacademic-predictors-gmkt.md) — related
 - [Longer working memory reaction time predicts lower GMKT performance, but working memory accuracy shows no such correlation](working-memory-rt-negative-gmkt.md) — related
+- [Auditory and visual reaction time are moderately negatively correlated with academic performance in undergraduate medical and dental students](rt-moderate-negative-correlation-academic-performance.md) — related

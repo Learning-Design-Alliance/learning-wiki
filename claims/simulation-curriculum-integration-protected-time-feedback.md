@@ -72,3 +72,4 @@ In Theme 2, participants held that facilitators should be trained in observation
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related
 - [Participation in the Puzzle activity is higher when integrated into the regular academic schedule than when offered in ad hoc sessions](puzzle-participation-higher-in-regular-schedule.md) — related
+- [Trainees desired strategies for improvement and coaching rather than mere assessment of performance](trainees-desire-coaching-not-scoring.md) — related

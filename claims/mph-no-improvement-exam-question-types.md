@@ -67,3 +67,4 @@ Bayesian complement to the per-category ANOVAs in the same randomized experiment
 - [Methylphenidate does not change total exam points or final grades relative to placebo](mph-no-change-total-points-grades.md) — possibly the same claim (merge candidate)
 - [The number of students passing the exam does not differ between placebo and either methylphenidate group](mph-no-difference-pass-rates.md) — related
 - [The authors argue that improvements in working memory and processing speed from MPH do not translate into better exam performance](cognitive-gains-do-not-translate-to-exam-performance.md) — a broader claim this one bears on
+- [In the pilot, there was no difference in scores between open-ended and multiple-choice versions of the test](pilot-open-ended-mcq-no-difference.md) — related

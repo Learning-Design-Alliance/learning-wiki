@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: piñeros-alvarez-jl-2026
     resource: "https://doi.org/10.5811/westjem.50647"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant differences were found between groups in the total ventilation target, and both groups delivered tidal volumes well below the recommended range. [→ Piñeros-Alvarez JL 2026](#pineros-alvarez-jl-2026)
@@ -58,3 +59,5 @@ In the randomized study's 30:2 test, ventilation target compliance was 0% in bot
 - [Manikin-measured ventilation time is stable from immediately after the course to 6 months, while appropriate ventilation rates show no significant change](venc-manikin-ventilation-stable.md) — related
 - [Vortex-trained students more often successfully ventilated the patient with a face mask (82.4% vs 55.6%, P=0.04) and no Vortex-group participant failed to ventilate with any device](vortex-better-face-mask-ventilation.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — related
+- [After BLS training, students fail to meet AHA ventilation guidelines: fewer than half of ventilations deliver adequate tidal volume and missed ventilations average 2.2 per cycle](bls-training-ventilation-inadequate.md) — related
+- [Medical students and PA students differ in CPR profiles: medical students compress deeper while PA students compress faster, ventilate more, and complete more cycles](medical-vs-pa-student-cpr-profiles.md) — related

@@ -50,3 +50,4 @@ Interview data showed students "misinterpreted as postoperative awakening, psych
 - [First encounters with delirium produce intense fear, professional inadequacy, and empathy-based emotional burden in nursing students](delirium-first-encounter-emotional-burden.md) — related
 - [Observing nurse role models shapes nursing students' clinical behavior, communication, and professional values during delirium care](nurse-role-models-shape-student-development.md) — related
 - [Physical restraint practices and inadequate communication during delirium care trigger ethical and moral discomfort in nursing students](restraint-triggers-ethical-discomfort.md) — related
+- [Lack of ID training carries clinical costs including diagnostic overshadowing, mis-diagnosis, off-label antipsychotic prescribing and over-use of physical restraint](untrained-psychiatrists-id-diagnostic-overshadowing-costs.md) — related

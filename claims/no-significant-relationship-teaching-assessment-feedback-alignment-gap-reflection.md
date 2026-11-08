@@ -48,3 +48,4 @@ Abstract-level null findings from the logistic regression in the cross-sectional
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — reports the opposite
 - [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](high-fidelity-simulation-enhances-core-competencies.md) — reports the opposite
+- [Blended learning has the potential to improve healthcare learners' clinical competencies and bridge the gap between theory and practice](blended-learning-bridges-theory-practice-clinical-competencies.md) — reports the opposite

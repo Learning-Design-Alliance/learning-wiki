@@ -45,7 +45,8 @@ A concrete design step for instructors moving instruction online: attend to stud
 - [Types of interaction correlated with African American students' success in an undergraduate online course, per Kuo and Belland's exploratory study as revisited here](../claims/interaction-types-correlated-african-american-student-success-online.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design and facilitate four types of interaction: with resources, instructor, peers, and self](four-online-interactions-design.md)
 
 ## Examples
 -

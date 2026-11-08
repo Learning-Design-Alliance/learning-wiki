@@ -50,3 +50,4 @@ SNP heritability estimated by LD score regression and GREML on the three subject
 - [Maths and science retain significant SNP-based heritability after removing variance shared with other subjects or with IQ](residual-heritability-maths-science-after-regression.md) — related
 - [One genome-wide significant SNP (rs9529641) is associated with science attainment in adolescence, with no genome-wide significant associations for English or maths](rs9529641-genome-wide-significant-science-attainment.md) — related
 - [Educational achievement is highly heritable across school years and subjects, with twin heritability around 60% and SNP heritability around 30%](educational-achievement-heritability-60-percent-twin-30-snp.md) — related
+- [SNP-based heritability of the three early parenting domains is small and estimated with low precision](low-snp-heritability-parenting-domains.md) — related

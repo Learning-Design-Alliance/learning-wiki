@@ -74,3 +74,4 @@ Self-reported intent to change practice on the postmodule survey; 60 (87%) said 
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
 - [87% of surveyed pediatric cardiologists would attend a Chagas-related lecture and 64% said such education would yield practical clinical knowledge](chagas-education-demand-lecture-attendance.md) — related
 - [Text mining of positive-feedback responses found 'easy', 'clear' and 'concise' as the three most common words, while improvement responses most often said 'nothing'](text-mining-frequent-words-feedback.md) — related
+- [Trainees reported high satisfaction with the module, with all respondents agreeing the training was excellent and 91% finding the content relevant to practice](wbl-module-satisfaction-neonatal-cus.md) — related

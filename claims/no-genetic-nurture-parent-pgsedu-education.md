@@ -51,3 +51,5 @@ Trio SEM (Figure 1A) in MoBa trios; authors conclude the incidental null direct 
 - [Children's language at age 5 mediates the effect of their education polygenic scores on educational performance and is associated with maternal parenting](language-mediation-pgsedu-education.md) — related
 - [Mothers' and fathers' education polygenic scores are unexpectedly negatively associated with maternal positive and literacy-focused parenting](parent-pgsedu-negative-parenting-association.md) — related
 - [Non-transmitted parental polygenic scores predict offspring educational attainment, evidencing genetic nurturing effects in adults](genetic-nurturing-nontransmitted-pgs-adult-attainment.md) — reports the opposite
+- [Mothers' education genetics predict children's attainment over and above genetic transmission, mainly via cognitively stimulating parenting (genetic nurture)](genetic-nurture-mediated-by-cognitive-stimulation.md) — reports the opposite
+- [Controlling for children's education polygenic scores slightly reduces parenting-attainment associations, indicating modest genetic confounding](slight-genetic-confounding-parenting-attainment.md) — reports the opposite

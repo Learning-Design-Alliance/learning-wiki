@@ -48,6 +48,7 @@ The review recommends induction programmes incorporate on-call simulation, parti
 ## Related Strategies
 
 - [Adopt tabletop and virtual formats, and interprofessional participation, to address resource burden and the absence of IPE in on-call simulation](tabletop-and-ipe-innovation-for-on-call-simulation.md)
+- [Use interprofessional, simulation-inclusive training toward a universal airway management approach, blending simulation, clinical volume, and effective learning strategies](interprofessional-universal-airway-training-strategy.md)
 
 ## Examples
 -

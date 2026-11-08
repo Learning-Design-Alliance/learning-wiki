@@ -50,3 +50,4 @@ Students reported that "the theory remains somewhat abstract" and that seeing de
 - [Nurses who encounter delirium cases during follow-up report higher confidence than those without such experience](clinical-exposure-reinforces-confidence.md) — related
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
+- [Managers describe a gap between practical skills learned in nursing education and the situations encountered in working life](education-work-gap-practical-clinical-skills.md) — related

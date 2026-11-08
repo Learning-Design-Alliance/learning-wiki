@@ -48,3 +48,4 @@ Pre- and post-session cybersickness screening of all pilot participants, motivat
 - [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - [Six of seven students found the VR environment interactive and collaborative and recommended future MHW use, and most agreed it could be a game changer in pharmacology education](mhw-tbl-recommended-future-pharmacology-use.md) — related
+- [Continuous online class screen exposure caused frequent health complaints, most commonly eyestrain (56.1%) and headache (31.1%)](screen-exposure-health-complaints-eyestrain.md) — related

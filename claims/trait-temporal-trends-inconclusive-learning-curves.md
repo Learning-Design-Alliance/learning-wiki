@@ -56,3 +56,4 @@ Temporal analysis plotting mean scores of the significant traits (Table 2) over 
 - [Domain-specific question-asking fluency, originality, and complexity significantly increased over a semester of domain knowledge acquisition](domain-specific-question-asking-improves-with-knowledge.md) — related
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related
 - [Task progression graphs show difficult Narrative Manager events raise the distance-to-goal curve while assistive events such as hiding materials produce flat zones that cost user time](event-effects-on-task-progression.md)
+- [Learning curves across repeated training sessions show no constant trend among participants](learning-curves-repeated-training-no-constant-trend.md) — related

@@ -57,6 +57,7 @@ A session recipe for in situ simulation in clinical environments: keep the simul
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 - [Deliver brief, interprofessional, in situ simulation drills in vacant clinical spaces within days of real cases to implement urgent workflow changes](jit-in-situ-simulation-implementation-strategy.md)
 - [Combine pre-learning, lectures, skill stations and simulated multi-disciplinary scenarios with structured debriefing for trauma team training](ttrrt-session-structure-strategy.md)
+- [Tailor simulation scenarios to each board via a pre-workshop chair briefing selecting a starting point](pre-workshop-chair-briefing-scenario-tailoring.md)
 
 ## Examples
 -

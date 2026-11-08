@@ -49,3 +49,4 @@ Genome-wide complex trait analysis (GCTA-GREML) of teacher expectation accuracy 
 - [Teacher expectations of achievement are strongly associated with pupils' realised national exam scores at ages 11 and 14](teacher-expectations-strongly-track-achievement-ks2-ks3.md) — related
 - [Educational achievement is highly heritable across school years and subjects, with twin heritability around 60% and SNP heritability around 30%](educational-achievement-heritability-60-percent-twin-30-snp.md) — a broader claim this one bears on
 - [Pupils with higher polygenic scores for educational attainment outperform their teachers' expectations relative to pupils with lower scores](pgs-educational-attainment-expectation-accuracy.md) — related
+- [SNP-based heritability of the three early parenting domains is small and estimated with low precision](low-snp-heritability-parenting-domains.md) — related

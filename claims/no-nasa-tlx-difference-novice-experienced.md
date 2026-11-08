@@ -64,3 +64,5 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — reports the opposite
 - [Perceived mental, physical and technical workload on the cadaver model was higher the lower the participant's endoscopic experience level](rhccs-workload-nasa-tlx.md) — reports the opposite
 - [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related
+- [ESSQ-qualified surgeons show higher GOALS/ALL scores and lower NASA-TLX scores compared with non-qualified surgeons](essq-qualified-surgeons-higher-scores-lower-workload.md) — related
+- [NASA-TLX mental workload scores are higher in novices and differ significantly by experience level in tasks 1 and 2](nasa-tlx-mental-workload-differs-by-laparoscopic-experience.md) — reports the opposite

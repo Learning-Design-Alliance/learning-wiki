@@ -50,3 +50,4 @@ Multicenter investigator-masked RCT; 10 trainees in the simulation group and 9 i
 - [The authors attribute the observed error reduction to guided deliberate practice on the simulator, in which trainees repeated each tunnel-construction step until competent](guided-deliberate-practice-explanation-error-reduction.md) — related
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [Novices made fewer total errors in VR than in cross-sectional viewing, with a trend approaching significance](novices-fewer-errors-vr-trend.md) — related
+- [IVR-trained residents made fewer critical procedural errors in guide pin insertion, glenoid reaming, and baseplate sizing than video-trained controls](ivr-training-fewer-critical-errors-rsa.md) — related

@@ -50,3 +50,4 @@ Interview thematic analysis found "most yoga providers were reasonably confident
 - [UK yoga providers report general awareness of attendees' health conditions and clinical knowledge of arthritis gained through yoga training](yoga-providers-arthritis-clinical-knowledge.md) — related
 - [Providers tailor yoga through gentle modifications and prefer inclusive group delivery (teachers) versus goal-focused one-to-one delivery (therapists)](yoga-modification-teacher-therapist-styles.md) — related
 - [Yoga providers want arthritis-specific, evidence-based continuing training covering pathophysiology, modifications, rationale, and contraindications](arthritis-specific-yoga-training-needs.md) — related
+- [Managers perceive that nurses need confidence in their practical role before they can lead, distribute and prioritise work](confidence-before-leadership-nurses.md) — related

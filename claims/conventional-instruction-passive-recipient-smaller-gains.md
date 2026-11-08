@@ -49,3 +49,4 @@ Phase 2 quasi-experimental comparison of the leaflet control group against the E
 - [The control group also improved significantly from pre-test to post-test under direct instruction, but less than the experimental group](control-group-smaller-significant-gain-direct-instruction.md) — related
 - [Control-group students also improved significantly from pre-test to post-test under the 2018 Turkish Course Curriculum, gaining about 9 points](control-group-curriculum-gain.md) — related
 - [The control group also improved from pre-test to post-test under conventional teaching, but less than the experimental group](control-group-also-improved-conventional-teaching.md) — related
+- [Effective online teaching requires viewing learners as active, capable, and independent individuals rather than passive recipients](independent-learners-online-teaching-perspective.md) — related

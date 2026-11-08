@@ -54,3 +54,4 @@ Prospective single-center crossover study of 16 medical students and 16 resident
 - [Novice surgeons complete phacoemulsification surgeries significantly faster on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-shorter-novice-surgical-duration.md) — related
 - [After crossover to the non-familiar viewing mode, 3D-trained and 2D-4 K-trained novices do not differ significantly in time or success rate on a precision transfer task](crossover-nonfamiliar-system-no-performance-difference.md) — related
 - [Novice students achieved better Navigation Training Level 1 scores in Completing Objects and Tissue Treatment than in Instrument and Microscope Handling](novices-better-target-tissue-than-instrument-handling.md) — related
+- [3D display reduces overall Parkour performance time compared to 4K across all experience levels in a randomized cross-over training trial](3d-display-shorter-parkour-time-than-4k.md) — related

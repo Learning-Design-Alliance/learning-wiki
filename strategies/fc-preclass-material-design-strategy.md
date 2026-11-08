@@ -52,6 +52,7 @@ The authors recommend concrete design choices to mitigate study-load resistance 
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
 - [Implementation strategies for flipped clinical reasoning courses: manage pre-learning load, simplify quizzes, orient thoroughly, and use reflective journals for assessment](flipped-reasoning-implementation-strategies.md)
+- [Collect student feedback via online surveys and act on it: prioritize live video-lectures over posted presentations, manageable task loads, and extended thesis deadlines](strategy-student-suggestions-improve-e-learning.md)
 
 ## Examples
 -

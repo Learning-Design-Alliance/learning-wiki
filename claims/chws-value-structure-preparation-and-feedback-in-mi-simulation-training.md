@@ -60,3 +60,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Digital SP-based teaching units on medical conversation received positive feedback from students and SPs and allowed conversation techniques to be trained](digital-sp-teaching-positive-feedback-technique-training.md) — related
 - [Multi-modal training combining role-plays with immediate feedback, field practice and participatory teaching contributed to early competence development](multimodal-training-role-plays-feedback-field-practice.md) — related
 - [Students valued the SBE process structure of pre-brief, simulation activity, and debrief, including feedback from supervisors and simulated patients](sbe-process-prebrief-simulation-debrief-valued.md) — related
+- [Simulated persons show a descriptively positive attitude towards digital teaching](sp-positive-attitude-digital-teaching.md) — related

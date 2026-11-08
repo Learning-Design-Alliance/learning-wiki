@@ -49,3 +49,4 @@ The article's background section reports that "recent studies in Ohio, the Unite
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — related
 - [Consequences of clinical readiness include personal and job-related satisfactory outcomes](consequences-personal-job-related-outcomes.md) — related
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related
+- [Nearly half of Croatian health sciences students feared the lack of practical education during e-learning could not be compensated, and a majority feared permanent consequences for job preparedness](fear-uncompensated-practical-education-loss.md) — related

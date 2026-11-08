@@ -54,6 +54,7 @@ Because VR's head-mounted displays prevented tutors from observing intern perfor
 - [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
 - [Prepare backup head-mounted displays and on-site technical knowledge for VR simulation sessions, and develop scenarios through co-creative processes with end-users](vr-simi-backup-hmd-cocreative-scenario-development-strategy.md)
 - [Enhance gesture-aided e-learning platforms with automated pose estimation, real-time feedback, and wearable sensors](ml-pose-estimation-future-e-gal.md)
+- [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
 
 ## Examples
 -

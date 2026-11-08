@@ -47,3 +47,4 @@ Post-administration psychometric analysis of the 16-item MCQ test in the Results
 
 ## Related Claims
 - [Behavioural, cognitive and conceptual-to-consequential subscales of the QCGE-SAS show acceptable reliability, while the social engagement subscale shows unacceptable internal consistency](qcge-sas-social-subscale-unacceptable-reliability.md) — related
+- [Internal consistency is acceptable for diagnostic accuracy and efficiency but low for information sharing skills](low-internal-consistency-information-sharing.md) — related

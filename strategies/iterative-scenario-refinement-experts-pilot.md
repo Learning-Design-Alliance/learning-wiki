@@ -48,6 +48,7 @@ The article demonstrates a concrete refinement recipe: build the scenario from e
 
 - [Use eDelphi studies with expert panels to establish consensus on definitions of emergent learning design constructs](edelphi-consensus-emergent-constructs.md)
 - [Use closed beta-testing with anonymous postsession questionnaires to refine VR educational software](closed-beta-testing-vr-education-refinement.md)
+- [Implement four user-suggested improvements when deploying interactive clinical avatar simulations](avatar-implementation-improvement-strategy.md)
 
 ## Examples
 -

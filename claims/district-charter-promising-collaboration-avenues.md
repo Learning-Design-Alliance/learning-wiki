@@ -56,3 +56,4 @@ Implementation study based on semistructured interviews with central office admi
 - The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Cross-sector committee members report that an organizing intermediary's structure made collaboration generative and productive](intermediary-structure-supports-cross-sector-codesign.md) — related
+- [Cross-sector professional learning communities aligned SEL between school day and expanded learning organizations](pcy-360-365-plc-evaluation-strengths.md) — related

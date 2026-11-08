@@ -54,3 +54,4 @@ Interrater reliability analysis in the RCT: two blinded attending surgeons indep
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [Both A-OSATS versions showed excellent interrater and high intrarater reliability when two blinded raters scored video-recorded anastomoses](a-osats-interrater-intrarater-reliability.md) — related
 - [Self-directed learning by video did not produce a statistically significant difference in total OSATS score between surgery resident groups](sdl-video-no-significant-osats-difference.md) — related
+- [GOALS and ALL scores show good interrater and intrarater reliability for assessing laparoscopic skills](goals-all-scores-interrater-intrarater-reliability.md) — related

@@ -48,3 +48,4 @@ Results section comparing mean MCQ percentages at 3 and 6 months post training i
 - [Simulation training added roughly a 12-percentage-point knowledge gain in the intervention group, from 66.7% to 79.2% mean MCQ correct](simulation-added-twelve-point-mcq-gain.md) — related
 - [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — related
 - [PoCUS competency declines across all I-AIM domains over 1–12 months, with Acquisition showing the most pronounced decline (median −11.8%)](pocus-acquisition-domain-most-pronounced-retention-decline.md) — related
+- [Knowledge declined significantly in both groups at seven months, with a significantly more marked decrease in the traditional group](als-knowledge-decline-more-marked-traditional.md) — related

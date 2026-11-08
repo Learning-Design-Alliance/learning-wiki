@@ -73,3 +73,4 @@ Narrative review discussion citing references [31,32] (systematic reviews by Coo
 - [MDT-CDIO integrated teaching yields higher student satisfaction across all five evaluated dimensions than traditional teaching](mdt-cdio-higher-satisfaction-all-dimensions.md) — related
 - [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — a narrower finding that bears on this claim
 - [Systematic review evidence cited: virtual patient education is more effective than traditional education for acquiring clinical skills and knowledge](virtual-patients-more-effective-than-traditional-education.md) — related
+- [A review reports that all 17 included studies of computer-based communication training showed self-efficacy and knowledge learning effects](review-17-studies-elearning-communication-effects.md) — related

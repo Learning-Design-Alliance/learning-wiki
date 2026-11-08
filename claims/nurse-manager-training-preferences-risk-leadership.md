@@ -68,3 +68,4 @@ Descriptive preference items in the same survey; the article reports preferences
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related
 - [Self-perceived readiness and confidence at first appointment is associated with managerial competence, with the largest effect for leadership confidence](readiness-confidence-associated-competence.md) — related
 - [Nurses prefer short-term training of 3 days to 1 week, with scenario-based simulation and emergency drills the most popular methods](nurse-training-preferences-short-simulation.md) — related
+- [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related

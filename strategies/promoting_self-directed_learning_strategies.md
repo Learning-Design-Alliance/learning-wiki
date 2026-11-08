@@ -80,6 +80,7 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - [Explicitly teach and intensively practice self-regulated strategies in speaking classes](explicitly-teach-srl-strategies-speaking-classes.md)
 - [Train students to serve as discussion leaders within small online discussion groups](train-student-discussion-leaders.md)
 - [Integrating intervention training on indirect metacognitive strategies (self-planning, self-monitoring, self-evaluating) into English lessons to manage vocabulary learning.](metacognitive-strategy-intervention-training-lessons.md)
+- [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — how teachers make self-regulatory decisions visible

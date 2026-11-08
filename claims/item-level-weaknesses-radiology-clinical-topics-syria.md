@@ -50,3 +50,4 @@ Item-level analysis of 20 MCQs among 500 participants. Only "9.0% answered the n
 - [Item-level BLS knowledge accuracy varied considerably, with the lowest accuracy on airway-management, defibrillation, and quality-control items.](item-level-bls-accuracy-varies-considerably.md) — related
 - [Medical students report weak statistical mastery, with most struggling to select correct methods and a third having misused statistical methods in research](weak-statistical-mastery-and-misuse-medical-students.md) — related
 - [Residents' correct answers vary widely across nutrition topics, lowest for macronutrient distribution and highest for fish portions](topic-level-nutrition-knowledge-gaps-residents.md) — related
+- [Respondents scored lowest on the clinical features of COVID-19 (11% knew most patients present with mild symptoms) and highest on handwashing duration (91.7%)](covid19-knowledge-item-level-highest-lowest.md) — a narrower finding that bears on this claim

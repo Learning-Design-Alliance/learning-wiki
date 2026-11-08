@@ -48,3 +48,4 @@ Implementation finding from the randomised controlled trial: because randomisati
 - [Eligibility for the animation course increased pupils' productive thinking and metacognitive skilfulness](animation-course-eligibility-increased-metacognition.md) — related
 - [Offering parents the Parent Academy did not improve pupils' reading or mathematics outcomes in a three-arm randomised controlled trial](parent-academy-no-pupil-attainment-impact.md) — related
 - [Low attendance at Saturday sessions was a barrier to implementation, driven by pupil availability, variable parental engagement, and limited recruitment time](hsom-low-attendance-barrier.md) — related
+- [Recruitment of preterm families into home computerized training was low, with screen-time concerns a stated barrier](low-recruitment-screen-time-barrier-computerized-training.md) — a narrower finding that bears on this claim

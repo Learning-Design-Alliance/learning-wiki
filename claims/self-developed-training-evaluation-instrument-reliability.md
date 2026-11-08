@@ -57,3 +57,4 @@ Reliability testing on pilot data from 10 trainee nurses and 10 clinical instruc
 - [Trainee nurses' self-rated competency is significantly higher than clinical instructors' ratings of the same trainees, with a moderate effect size](trainee-self-rating-exceeds-instructor-rating-tcm-hospital.md) — related
 - [Teacher satisfaction with teaching is significantly higher for the simulation group than the control group on all five measured aspects, though teachers reported implementation difficulties](teacher-satisfaction-higher-with-implementation-difficulties.md) — related
 - [A training intervention improved only the Results Orientation competency among hospital personnel, with no significant change in the other trained competencies](training-intervention-improved-only-results-orientation.md) — related
+- [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related

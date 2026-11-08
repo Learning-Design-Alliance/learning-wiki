@@ -57,3 +57,4 @@ Study 1, a three-cell randomized online experiment (N = 297) comparing lecture, 
 - [Receiving knowledge passively hampers the development of relational competence](receiving-knowledge-passively-hampers-relational-competence.md) — a narrower finding that bears on this claim
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [Access to voluntary multiple-choice questions accompanying lectures improves medical students' final examination grades and points](voluntary-mcq-access-improves-final-exam-performance.md) — related
+- [In the pilot, there was no difference in scores between open-ended and multiple-choice versions of the test](pilot-open-ended-mcq-no-difference.md) — related

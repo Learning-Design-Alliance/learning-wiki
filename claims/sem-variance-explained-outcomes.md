@@ -57,3 +57,4 @@ R² values from the structural model of 533 respondents; the article states the 
 - [Epistemic orientation and intellectual values jointly predict students’ critical use of genAI, accounting for about one-third of its variance](epistemic-orientation-intellectual-values-predict-critical-genai-use.md) — related
 - [The integrated mediation-moderation model fits the data well and explains 38% of variance in academic performance](sem-model-fit-r2-38-percent.md) — related
 - [The fitted path model shows self-efficacy, critical thinking, and self-regulation explaining 32.9%, 35%, and 46.1% of variance respectively](path-model-variance-explained-endogenous-variables.md) — related
+- [Academic stress negatively predicts motivation, metacognitive strategies, critical thinking and academic performance](academic-stress-negatively-predicts-motivation-strategies-thinking-performance.md) — related

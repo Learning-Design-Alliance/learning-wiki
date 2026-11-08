@@ -50,3 +50,4 @@ Questionnaire survey of BSc Medical Physiology and Therapeutics students, first-
 - [Most participants in both groups rated their randomized training tool as helpful and enjoyable, and three quarters wanted more digitalization in medical education](positive-subjective-ratings-both-training-tools.md) — related
 - [Most students preferred virtual microscopy over recorded e-lecturing for learning histology and reported higher motivation with it](students-prefer-virtual-microscopy-histology.md) — related
 - [The majority of BSc students said virtual microscope sessions could not be run adequately without staff present.](vm-sessions-need-staff-present.md) — related
+- [Undergraduates reported more difficulty understanding online content and less doubt-clearing than postgraduates and faculty](undergraduates-greater-difficulty-online-content.md) — related

@@ -55,6 +55,7 @@ The article suggests that the optimal timing for bolus refresher education may b
 - [Reevaluate and shorten the time intervals between pediatric CPR training sessions to optimize retention](shorter-intervals-between-cpr-training-sessions.md)
 - [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
+- [Divide lengthy clinical-skills workshops into a longitudinal series of shorter sessions to ameliorate fatigue and enable spaced repetition](longitudinal-shorter-clinical-skills-sessions-strategy.md)
 
 ## Examples
 -

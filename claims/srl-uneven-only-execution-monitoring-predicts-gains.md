@@ -69,3 +69,4 @@ Pearson correlations between the four SRL dimensions and value-added scores foun
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related
 - [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — related
+- [Students who self-perceive as high achieving report monitoring-phase SRL strategies more often than low- and middle-achieving peers](high-achievers-use-more-monitoring-strategies.md) — related

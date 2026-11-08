@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-08
 sources:
   - id: kim-sun-hee-2021
     resource: "https://doi.org/10.3390/ijerph18041752"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within the canonical structure, critical thinking disposition (Rs = 0.89), problem-solving (Rs = 0.86), and collaboration (Rs = 0.80) had the highest correlations with SEC, and clinical performance had the highest correlation with AA (Rs = 0.95). [→ Kim Sun-Hee 2021](#kim-sun-hee-2021)

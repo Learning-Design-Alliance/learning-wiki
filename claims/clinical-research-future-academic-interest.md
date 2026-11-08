@@ -71,3 +71,4 @@ Multiple regression analysis of ACE tool scores by clinical research experience,
 - [Depression symptom odds are heterogeneous across scholarly activity subgroups, with higher odds among those without clinical research or without requirements](depression-odds-heterogeneous-scholarly-subgroups.md) — related
 - [GM-ITE clinical knowledge scores are similar across scholarly activity groups among Japanese PGY1-2 residents](gm-ite-scores-similar-scholarly-activity.md) — related
 - [Mini-Z well-being measures show minimal differences across scholarly activity groups among Japanese PGY1-2 residents](mini-z-wellbeing-minimal-differences.md)
+- [No clear pattern was found that early incorporation of EBM into practice results in better ACE scores](no-pattern-early-ebm-incorporation-better-ace.md) — related

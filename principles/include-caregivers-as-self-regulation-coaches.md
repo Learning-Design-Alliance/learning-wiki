@@ -170,6 +170,7 @@ Adult knowledge, adult practice, the young person's regulation with the adult pr
 - [Parent Workshops](../strategies/parent-workshops.md)
 - [Mentoring](../strategies/mentoring.md)
 - [Deliver social-emotional skills through short, frequent structured lessons with teacher manuals and parallel parent handbooks](../strategies/positive-action-lesson-delivery-strategy.md)
+- [Build shared adult capacity across disciplines, systems, and settings to support whole child development](../strategies/shared-adult-capacity-across-settings-strategy.md)
 
 ## Key Sources
 - Murray, D. W. & Rosanbalm, K. (2017). Promoting Self-Regulation in Adolescents and Young Adults: A Practice Brief. OPRE Report #2015-82. https://www.acf.hhs.gov/opre/resource/self-regulation-and-toxic-stress-implications-for-programs-and-practice

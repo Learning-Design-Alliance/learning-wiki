@@ -181,3 +181,4 @@ The review reports countervailing findings in the same category, including that 
 - [Diagnostic accuracy in standardized role-plays at 16 months was 78.1% in RESHAPE versus 66.7% in control in a pilot trial](reshape-roleplay-diagnostic-accuracy.md) — related
 - [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](peer-roleplay-null-domains-mini-cex.md) — related
 - [Role-play scores did not correlate with next-day patient-encounter scores when the complaint was the same](same-complaint-no-correlation-roleplay-encounter.md) — related
+- [Students judged the virtual patient platform realistic for clinical assessment, diagnostic activity and treatment management](virtual-platform-realism-ratings.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Multivariable linear regression taking the ChatGPT usage score as the dependent 
 - [Among Arab university students aware of ChatGPT, 46.8% had heard of it and 52.6% of those had used it before the study](arab-students-chatgpt-awareness-usage-rates.md) — related
 - [Students with very good or good GPA reported significantly higher ChatGPT usage than students with excellent GPA](lower-gpa-higher-chatgpt-usage.md) — related
 - [Older age was significantly associated with lower ChatGPT usage scores (r = −0.18)](older-age-lower-chatgpt-usage.md) — related
+- [Total diagnostic score differed significantly by university but was not related to GPA or gender](cxr-score-varies-by-university-not-gpa-or-gpa.md) — related

@@ -59,6 +59,7 @@ The paper adopts Kolb's (1984) definition of experiential learning as "the proce
 - [Transform community climate attitudes through student fieldwork using learning by doing, demonstrations and workshops](../strategies/community-transformation-learning-by-doing-strategy.md)
 - [Active Learning–GenAI Synergy Framework](../designs/active-learning-genai-synergy-framework.md)
 - [Integrate Peyton's structured four-step approach into CPR training programs, particularly for critical procedural skills, and consider combining it with Kolb's experiential cycle](../strategies/integrate-peyton-structured-approach-in-cpr-training.md)
+- [Experiential intercultural training: create ambiguity, behavioural experimentation and reflection rather than centralising cultural knowledge](../strategies/experiential-intercultural-training-ambiguity-reflection.md)
 
 ## Key Sources
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940

@@ -54,6 +54,7 @@ The article describes a JIT in situ simulation implementation strategy: new SOPs
 - [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 - [Six practical solutions for implementing interprofessional in situ simulation on a working ward](in-situ-simulation-implementation-solutions.md)
 - [Use plan-do-study-act cycles incorporating simulation to identify and revise process, infection control, and equipment threats in new workflows](pdsa-simulation-cycles-workflow-testing.md)
+- [Use in-situ simulation within a PDSA cycle to gather real-time user feedback and iteratively refine a new clinical protocol](insitu-sim-pdsa-protocol-refinement.md)
 
 ## Examples
 -

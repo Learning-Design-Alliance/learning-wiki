@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (30 for, 54 mixed, 11 against) · 69 studies (36 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 22 of 69 report an effect size · 88 claims rest on one study
+> **Evidence** · 96 claims (30 for, 55 mixed, 11 against) · 70 studies (37 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 22 of 70 report an effect size · 89 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Teacher guidance integrating argumentative scripts produces deeper whole-class collaborative argumentation than minimal teacher guidance in middle level science classrooms](../claims/argumentative-scripts-teacher-guidance-deepen-collaborative-argumentation.md) [+W] — attached 2026-11-01 from Hsu et al. (2015), which proposed "Use extended teacher guidance rather than minimal guidance to lead middle level students in high-level cognitive tasks in large-class settings"; tests this page's relationship.
 - [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](../claims/direct-scaffolding-outperforms-indirect-inquiry.md) [+W] — attached 2026-11-03 from Wu et al. (2016), which proposed "Provide direct instructional scaffolding in web-based scientific inquiry to support hypothesis generation and conclusion drawing".
 - [Scaffolding instruction produces significantly higher learning achievement than traditional instruction in undergraduate emergency language courses.](../claims/scaffolding-higher-achievement-emergency-language.md) [+M] — attached 2026-11-04 from Zhu An (2026), which proposed "Use scaffolding rather than traditional lecture-based teaching to promote achievement in foreign language instruction"; tests this page's relationship.
+- [Scaffolding behaviour (pointing or demonstration) did not reduce dogs' perseveration errors in an A-not-B detour task](../claims/dogs-insensitive-scaffolding-a-not-b.md) [~M] — attached 2026-11-08 from Neilands P. et al. (2021), which proposed "Scaffolding effectiveness may depend on learners interpreting ostensive cues as informative rather than merely attending to them"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

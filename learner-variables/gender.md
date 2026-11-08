@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 618 claims (329 show a difference, 139 mixed, 150 no difference) · 440 studies (217 associational, 164 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 64 of 440 report an effect size · 610 claims rest on one study
+> **Evidence** · 620 claims (330 show a difference, 139 mixed, 151 no difference) · 442 studies (219 associational, 164 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 64 of 442 report an effect size · 612 claims rest on one study
 
 ## How to read this page
 
@@ -657,6 +657,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No overall gender differences in examination performance, with one exception at T1 for Rater 1](../claims/no-gender-difference-facial-examination-osce.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex differences across personality and behavioural measures are small (ES = .01 to .09), with the largest for neuroticism, and no sex difference in examination performance](../claims/small-sex-differences-personality-achievement.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The author concludes absenteeism is a negative predictor of academic success for male but not female medical sciences students in Saudi Arabia](../claims/absenteeism-negative-predictor-males-not-females.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students show higher academic performance than male students in this sample](../claims/female-higher-academic-performance-indian-adolescents.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Self-confidence levels did not differ significantly by GPA, gender, or university](../claims/cxr-confidence-no-differences-gpa-gender-university.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -49,3 +49,4 @@ Prospective pre/post survey of 15 surgeons (13 pediatric, 2 general) attending t
 - [Chronic subdural evacuation confidence showed only a non-significant trend after the workshop, and suboccipital craniectomy and subdural drain implantation showed borderline results](neurosave-non-significant-steps.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Patient positioning with pinning and flap design, ICP probe insertion, and EVD insertion were ranked the three highest-priority procedural skills for neurosurgical SBE](top-three-neurosurgical-sbe-skills-positioning-icp-evd.md) — related
+- [Delegates' mOSATS scores for burr-hole skill rose from pre- to post-workshop assessment at a neurosurgical simulation workshop, in one single-group pre-post study](mosats-significant-pre-post-improvement-burr-hole.md) — related

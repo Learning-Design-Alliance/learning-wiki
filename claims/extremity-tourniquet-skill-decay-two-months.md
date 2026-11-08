@@ -58,3 +58,5 @@ In the 32-intern longitudinal study, extremity skill scores (max 20) fell from 1
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [Novices show skill decay in pericardiocentesis at the 3-month assessment after handmade-phantom training when they lack clinical observation of the procedure](pericardiocentesis-skill-decay-three-months.md) — a narrower finding that bears on this claim
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
+- [Student confidence in focused PE skills declined at 4-month follow-up to below both pre- and postsession levels](hdpe-confidence-decline-four-months.md) — related
+- [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related

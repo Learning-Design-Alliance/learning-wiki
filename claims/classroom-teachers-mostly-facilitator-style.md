@@ -49,3 +49,4 @@ Survey of 301 classroom teachers; teaching styles scored low/medium/high on the 
 - [Majority of classroom teachers adopt experimentalist philosophy](classroom-teachers-mostly-adopt-experimentalism.md) — related
 - [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md) — related
 - [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — related
+- [Delegator is the most common preferred teaching style among medical faculty in seven PBL medical schools, with a median of 2.38 and mean of 2.45](delegator-most-common-teaching-style-medical-faculty.md) — reports the opposite

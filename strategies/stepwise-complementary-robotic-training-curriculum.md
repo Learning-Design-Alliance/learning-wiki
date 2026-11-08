@@ -99,6 +99,8 @@ The review recommends that training modalities be combined in a progressive curr
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 - [Replace live animal and cadaver robotic surgery training with validated synthetic organ models, enabled by scalable mass production](scale-mass-production-synthetic-models.md)
 - [Use VR simulation as a complement to conventional theoretical training for dental implant surgical skill development](vr-simulation-complement-conventional-implant-training-strategy.md)
+- [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
+- [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 
 ## Examples
 -

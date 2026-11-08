@@ -74,6 +74,7 @@ The article recommends that GAI-based teaching be adopted as a complement to, no
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 - [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 - [Combine E-learning with traditional teaching methods so each benefits from the other](combine-elearning-with-traditional-teaching-gp-residency.md)
+- [Use computerized fact-fluency training to complement, not substitute, classroom teaching](computerized-fluency-training-complements-classroom-teaching.md)
 
 ## Examples
 -

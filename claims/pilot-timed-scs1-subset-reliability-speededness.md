@@ -52,3 +52,4 @@ Pilot evaluation with 10 students from the same recruitment pool, run with the s
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
 - [A pilot test with 20 nursing students found no difficulties in understanding or completing the questionnaire](csl-lts-pilot-comprehensibility.md) — related
 - [Time-limited tests are less equitable because speededness disproportionately impacts some groups](speededness-disproportionate-equity-impact.md) — reports the opposite
+- [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related

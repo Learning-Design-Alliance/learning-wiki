@@ -48,7 +48,8 @@ The authors' recommended next step is provider education: "Future steps for our 
 - [Most U.S. pediatric cardiologists have neither seen nor tested for a case of Chagas disease](../claims/pediatric-cardiologists-chagas-low-experience-testing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deliver brief grand-rounds presentations on cCMV to raise obstetric provider knowledge and counseling intent](brief-grand-rounds-ccmv-education-strategy.md)
 
 ## Examples
 -

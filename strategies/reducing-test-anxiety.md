@@ -70,6 +70,7 @@ Test anxiety consumes working-memory resources during assessment, so its reducti
 - [Use CBT-based psycho-educational group skill training to help university students cope with future and trait anxiety](cbt-group-skill-training-for-future-anxiety-strategy.md)
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
 - [Identify highly anxious adolescent girls and provide graduated coping supports, from lifestyle regulation to psychotherapy](identify-anxious-girls-coping-support-strategy.md)
+- [Repeat clinical skills assessments with formative feedback to build self-efficacy and buffer the negative effects of assessment anxiety](repeated-osce-exposure-with-formative-feedback-strategy.md)
 
 ## Examples
 - **Expressive writing before exams** — Ramirez & Beilock's classroom study had students write about test worries for 10 minutes before the final exam; anxious students nearly closed the performance gap with non-anxious peers.

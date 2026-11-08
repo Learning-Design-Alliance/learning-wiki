@@ -49,3 +49,4 @@ Finding from the discussion of the qualitative study; a focus group participant 
 - [94.1% of obstetric care providers expressed the need for additional partograph training](providers-need-additional-partograph-training.md) — related
 - [Cultural beliefs about suctioning and tilting newborns conflict with HBB-trained resuscitation practice and can delay appropriate care](cultural-beliefs-delay-neonatal-resuscitation.md) — related
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
+- [A know-do gap exists in weighing neonates: 92% of IHCPs endorsed weight-based dosing but only 9% actually measured babies' weights](ihcp-know-do-gap-weighing-neonates.md) — related

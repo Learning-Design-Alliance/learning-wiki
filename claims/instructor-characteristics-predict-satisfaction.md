@@ -69,3 +69,4 @@ Descriptive item means from the survey's instructor-dimension discussion: timely
 - [System & technical dimension significantly predicts e-learning satisfaction (β = 0.241), with lecture recording and remote access rated low by students](system-technical-dimension-predicts-satisfaction.md) — related
 - [Perceived usefulness is the strongest predictor of e-learning satisfaction (β = 0.610) among Vietnamese pharmacy students during COVID-19](perceived-usefulness-strongest-satisfaction-predictor.md) — related
 - [Overall e-learning satisfaction among nursing students in synchronous virtual learning is relatively low](low-elearning-satisfaction-synchronous-nursing.md) — related
+- [During COVID-19 online medical education, students rated instructors highly responsible but found platform support insufficient, with moderate overall satisfaction](perceptions-instructors-platforms-satisfaction-descriptives.md) — related

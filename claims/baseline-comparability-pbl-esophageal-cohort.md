@@ -52,3 +52,4 @@ Baseline comparison in the 132-intern cohort: pre-rotation theoretical scores sh
 - [PBL is associated with higher theoretical examination scores, including pathophysiology, diagnostic interpretation, and treatment principle sub-domains, in esophageal cancer teaching](pbl-theoretical-knowledge-esophageal-cancer.md) — related
 - [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related
 - [Baseline characteristics of the integrated PBL + LBC and LBC groups did not differ significantly in gender, nationality, or age](baseline-equivalence-integrated-pbl-groups.md) — related
+- [Baseline characteristics did not differ between the simulation and conventional training groups in this retrospective cohort](st-ct-baseline-groups-balanced.md) — related

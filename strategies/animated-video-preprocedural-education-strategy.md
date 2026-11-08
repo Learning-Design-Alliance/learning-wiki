@@ -54,6 +54,7 @@ The article recommends that healthcare providers convert conventional pre-proced
 - [Video Based Instruction](video-based-instruction.md)
 - [Multimodal Presentation](multimodal-presentation.md)
 - [Offer preimaging educational animated videos as a cost-effective, view-anywhere preparation that children can watch repeatedly](repeat-viewing-animated-video-mri-strategy.md)
+- [Deliver pre-procedure patient education via an anytime-reviewable smartphone multimedia program](smartphone-multimedia-preprocedure-education-strategy.md)
 
 ## Examples
 -

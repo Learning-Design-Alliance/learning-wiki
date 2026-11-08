@@ -54,3 +54,5 @@ Exploratory post-training survey during a demonstration session with five final-
 - [Students highlighted raised risk awareness and professional relevance as the main positive outcomes of the room of horror](roh-raised-risk-awareness-highlighted.md) — related
 - [All participating nursing students evaluated the room of horror as relevant and educational for professional practice and would recommend it to peers](roh-students-rated-format-relevant-educational.md) — related
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
+- [Health service board members rated the simulation-based training as relevant and useful, and reported behaviour change in board meetings](board-members-rated-simulation-training-useful.md) — related
+- [Expert clinicians evaluate the VR interprofessional team training prototype as feasible and useful for medical training](expert-endorsement-vr-interprofessional-training-feasible.md) — related

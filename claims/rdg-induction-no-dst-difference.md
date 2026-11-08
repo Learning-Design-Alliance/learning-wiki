@@ -49,3 +49,5 @@ Comparison of early RDG cases (5, 6, and 4 cases by DSTs-1, Cs-1, Cs-2) limited 
 - [For one trainee, surgical time in laparoscopic distal gastrectomy was significantly reduced after DST introduction despite longer intervals between operations](dsts1-significant-surgical-time-reduction-p3.md) — related
 - [For the second trainee, surgical time and other outcomes showed no significant differences from pre-test to post-test after DST introduction, in one uncontrolled pre-post study](dsts2-no-significant-phase-differences.md) — related
 - [The authors state the study's design limits causal attribution of the observed improvements to DST](dst-study-design-limitations.md) — related
+- [ESSQ-qualified surgeons show higher GOALS/ALL scores and lower NASA-TLX scores compared with non-qualified surgeons](essq-qualified-surgeons-higher-scores-lower-workload.md) — related
+- [GOALS score effectively identifies ESSQ qualification status with high sensitivity and specificity across all three tasks](goals-score-identifies-essq-qualification-status.md) — related

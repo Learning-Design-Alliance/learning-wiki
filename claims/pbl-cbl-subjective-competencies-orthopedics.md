@@ -148,3 +148,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
 - [Clinical thinking improvement and learning pressure showed no significant difference between the SBS & CBL and LBL & CBL groups](clinical-thinking-no-group-difference.md) — related
 - [SBS & CBL trainees rated learning interest, surgical ability, intraoperative acting capacity, complication reduction and teaching satisfaction significantly better than LBL & CBL trainees](sbs-cbl-better-questionnaire-feedback.md) — related
+- [Interactive learning activities yield significantly higher personal-factor scores (enthusiasm, initiative, self-confidence, cooperation) than traditional learning](interactive-learning-higher-personal-factors.md) — related

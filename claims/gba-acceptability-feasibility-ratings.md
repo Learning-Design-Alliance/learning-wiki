@@ -67,3 +67,4 @@ Questionnaire difficulty ratings across games and samples. The article reports "
 - [Gamified test scores correlate significantly with technical aptitude test scores (r=0.46), remaining significant after controlling for video game experience (semipartial r=0.38)](gba-technical-aptitude-correlation.md) — related
 - [The gamified surgical-resident selection test shows satisfactory item discrimination and high internal reliability (α=0.76) in a sample of 152 medical interns](gba-test-reliability-discrimination-surgical-selection.md) — related
 - [Males scored significantly higher than females on the gamified test (Cohen d=0.52), but the gender difference was no longer significant after controlling for video game experience](gba-gender-difference-explained-by-video-game-experience.md) — related
+- [Expert interviews and cognitive pretests indicate generally very good acceptance of the voLeA video-based SJT](volea-sjt-good-acceptance-pretests.md) — related

@@ -70,3 +70,4 @@ Table 4 item: 37.3% disagreed, 8.7% strongly disagreed, and 24.2% were unsure th
 - [The article asserts that students prefer self-directed learning because it improves understanding of the subject and helps clear doubts, without reporting preference data](asserted-student-preference-for-sdl-understanding.md) — related
 - [Student-generated annotated e-workbooks were rated the most valuable resource for examination preparation.](student-generated-eworkbooks-best-revision-resource.md) — related
 - [Undergraduate students on a BSc programme found the virtual microscope easy to use and enjoyable despite finding histology subject matter difficult.](vm-easy-enjoyable-despite-difficult-subject.md) — related
+- [Most sixth-year medical students gave a positive evaluation of fully online virtual reality training during the COVID-19 pandemic](positive-evaluation-online-vr-training-covid.md) — related

@@ -75,6 +75,8 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use HVRS as an adjunct to, not a replacement for, conventional mannequin-based pre-clinical paediatric dentistry simulation](hvrs-as-adjunct-to-conventional-simulation-strategy.md)
 - [Implement the validated otoscopy simulator as a complementary tool alongside traditional teaching in medical curricula](vr-otoscopy-simulator-complementary-curriculum-strategy.md)
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
+- [Use computerized fact-fluency training to complement, not substitute, classroom teaching](computerized-fluency-training-complements-classroom-teaching.md)
+- [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 
 ## Examples
 -

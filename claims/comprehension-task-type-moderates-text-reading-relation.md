@@ -47,3 +47,4 @@ Meta-regression (Table 5) comparing reading comprehension task types, controllin
 ## Related Claims
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related
 - [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
+- [In the pilot, there was no difference in scores between open-ended and multiple-choice versions of the test](pilot-open-ended-mcq-no-difference.md) — related

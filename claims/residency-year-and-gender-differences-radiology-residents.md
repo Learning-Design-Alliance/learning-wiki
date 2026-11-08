@@ -70,3 +70,4 @@ Same ANOVA, gender contrast. "Males reported experiencing more work stress than 
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — reports the opposite
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Resilience is positively associated with competency among Chinese radiology residents](resilience-positive-competency-radiology-residents.md) — related
+- [Physicians' work experience associated with self-rated psychosocial competencies, with only the lowest and highest experience groups differing significantly](work-experience-associated-psychosocial-competencies.md) — related

@@ -54,3 +54,4 @@ Random-effects meta-analysis of trials comparing virtual patients with tradition
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
+- [A meta-analysis found blended learning in the health professions seems more effective or at least as effective as traditional instruction for knowledge acquisition](blended-learning-meta-analysis-knowledge-acquisition.md) — related

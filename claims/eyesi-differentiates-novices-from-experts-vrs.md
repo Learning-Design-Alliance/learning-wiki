@@ -64,3 +64,4 @@ Qualitative synthesis of seven included studies in a systematic review. The revi
 - [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — related
 - [A non-significant trend links self-rated microsurgical ability to Eyesi Navigation Level 1 total score](trend-self-rating-objective-score-correlation.md) — related
 - [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related
+- [Machine learning applied to virtual reality simulation data can automatically differentiate surgical expertise and provide feedback on operative performance](ml-differentiates-surgical-expertise-vr.md) — related

@@ -52,3 +52,4 @@ Randomized controlled trial using adapted NASA Task Load Index (6 questions, sco
 - [Cognitive load did not differ significantly between the C, SML, and SML+AI groups, though the SML+AI group's load decreased descriptively](chatgpt-virtual-manipulatives-cognitive-load-no-group-difference.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
+- [Using the PediAppRREST app was not associated with increased team leaders' perceived workload compared with usual practice](pediaprrrest-no-workload-increase.md) — related

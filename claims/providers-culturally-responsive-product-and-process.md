@@ -47,3 +47,4 @@ Interview analysis of providers' beliefs about cultural and contextual alignment
 ## Related Claims
 - [BIPOC solution providers' motivations blend general prosociality with equity and social justice purposes](bipoc-provider-motivations-prosociality-equity.md) — related
 - Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience — related
+- [Teachers taught for social cohesion through inclusive environments, culturally inclusive pedagogies, heterogeneous cooperative groupings, and developing personal and social responsibility](teaching-social-cohesion-hpe-practices.md) — related

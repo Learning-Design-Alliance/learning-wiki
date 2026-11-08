@@ -89,3 +89,4 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Students in combined virtual-jaw training groups report higher satisfaction across questionnaire items than single-method groups](combined-training-higher-student-satisfaction.md) — related
 - [Participants report high satisfaction with simulation design, with feedback/reflection scoring highest](high-satisfaction-simulation-design-ed.md) — related
 - [More than 80% of SBME students were satisfied with the SBME course and its projects](sbme-student-satisfaction-over-80-percent.md) — related
+- [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related

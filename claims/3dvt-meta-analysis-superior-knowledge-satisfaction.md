@@ -65,3 +65,4 @@ The article cites this meta-analysis as context. "a 2015 meta-analysis by Yammin
 - [Meta-analytic evidence cited by the review finds simulation-trained medical students outperformed traditionally trained peers in technical and non-technical skills assessments](meta-analysis-sbt-outperforms-traditional-training.md) — related
 - [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related
 - [70% of virtual dissection students reported the tool was beneficial to learning and more engaging than textbooks, while still judging real dissection superior](virtual-dissection-student-perceptions-beneficial-engaging.md) — related
+- [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related

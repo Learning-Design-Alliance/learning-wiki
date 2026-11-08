@@ -164,3 +164,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Technological challenges, including platform access failures and unavailable resources, reduced the effectiveness of online learning](technological-challenges-reduce-online-learning-effectiveness.md) — related
 - [Poor internet connectivity and device incompatibility limited access to online courses for students in developing countries during COVID-19](poor-connectivity-blocked-online-access-developing-countries.md) — related
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
+- [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related

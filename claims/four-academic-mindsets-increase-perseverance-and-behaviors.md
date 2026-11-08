@@ -90,3 +90,4 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — a narrower finding that bears on this claim
 - [Programme outcome and experience ratings were moderately associated with self-efficacy, while only learning-from-success-and-failure and goal-thinking items were weakly associated with mindset](self-efficacy-outcome-associations.md) — related
 - [Basic psychological needs positively predict college students' academic self-efficacy](bpn-predict-academic-self-efficacy.md) — related
+- [A \"never quit\" award and reflexive questions created concrete opportunities for preschool children to persevere and develop participation and effort](never-quit-award-preschool-effort.md) — a narrower finding that bears on this claim

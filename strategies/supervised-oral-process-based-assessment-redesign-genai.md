@@ -52,6 +52,7 @@ Participants described moving away from unsupervised written essays toward more 
 - [Provide AI-free proctored spaces so some take-home work is verifiably unassisted](ai-free-study-halls-verifiable-unassisted-work.md)
 - [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 - [Replace or supplement essay assessment with interactive oral assessments (viva voces) where writing is not the skill being assessed](oral-viva-assessment-replace-essays.md)
+- [Use online viva voce as an alternative when assessment duration cannot be kept as short as the invigilated original](online-viva-voce-alternative-open-book.md)
 
 ## Examples
 -

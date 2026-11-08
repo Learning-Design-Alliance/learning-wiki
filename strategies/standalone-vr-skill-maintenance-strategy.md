@@ -59,6 +59,7 @@ The article recommends scalable, self-directed VR practice to support skill main
 - [Run digital skills-maintenance programmes as a monthly self-practise model with practise corners, formal hospital leadership involvement and facilitator training in online supervision](monthly-practise-model-practise-corners-leadership-strategy.md)
 - [Offer immersive VR patient safety education as a scalable alternative to live mock simulation for operating room teams](scalable-vr-patient-safety-education-strategy.md)
 - [Encourage at least weekly virtual simulation practice until competence, then at least monthly for retention](venc-monthly-practice-frequency-strategy.md)
+- [Involve students in real-life resuscitations and adopt competency-based assessments with regular practice rather than relying on course certifications](real-resuscitation-involvement-competency-assessment.md)
 
 ## Examples
 -

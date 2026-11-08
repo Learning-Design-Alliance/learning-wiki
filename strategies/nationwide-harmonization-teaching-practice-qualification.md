@@ -44,6 +44,7 @@ The article recommends that a working group of GHA and DEGAM reach a nationwide 
 ## Related Strategies
 
 - [Harmonize VRS training practices and use remote mentoring and multimodal simulation to broaden access](harmonize-vrs-practices-remote-mentoring-strategy.md)
+- [Harmonize ID training between and within countries and across the psychiatrist lifespan from CAP to old age psychiatry](harmonized-lifespan-id-training-strategy.md)
 
 ## Examples
 -

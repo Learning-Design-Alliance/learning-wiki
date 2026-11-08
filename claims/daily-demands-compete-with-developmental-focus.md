@@ -51,3 +51,4 @@ Across interviews in seven CHSRI schools, teachers attributed the rarity of deve
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — possibly the same claim (merge candidate)
 - [Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation](management-reduces-daily-instruction-240-minutes.md) — related
 - [No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed](300-minutes-requires-360-400-minute-day.md) — related
+- [Reflection is perceived as a fundamental prerequisite for learning but shared reflection was not part of daily work at the departments](reflection-cornerstone-lacking-daily-work.md) — related

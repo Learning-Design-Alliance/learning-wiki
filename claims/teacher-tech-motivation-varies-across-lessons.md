@@ -51,3 +51,4 @@ Variance component analysis of experience sampling data from 18 in-service teach
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [Instructional interaction variables show low stability across the academic year within classrooms](instructional-interactions-low-stability-icc.md) — related
 - [Student teachers' emotions fluctuate substantially between lessons, with most variance located at the lesson level](between-lesson-fluctuation-emotions-icc.md) — related
+- [Mentoring positions are dynamic and context-specific rather than stable innate traits, and mentors may draw on multiple positions](mentoring-positions-dynamic-context-specific.md) — related

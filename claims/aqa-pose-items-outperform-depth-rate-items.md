@@ -69,3 +69,4 @@ Same fivefold cross-validated MAE comparison, reported per item in the Results a
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Feedback-equipped CPR training does not significantly change chest recoil or hand position, which were already near ceiling at baseline](feedback-cpr-no-change-recoil-hand-position.md) — related
 - [Fusing pose information from multiple camera views makes the model's pose-related ratings more robust than single-view human judgements, which are limited by participant angle and initial posture.](multiview-fusion-robust-pose-ratings.md) — related
+- [Ergonomic working posture quality varies by component: students succeeded best at clock position and shoulder rest, least at neck inclination and lumbar lordosis](ergonomic-posture-component-variation.md) — related

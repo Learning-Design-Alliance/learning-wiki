@@ -60,3 +60,4 @@ Pearson correlation analysis (Table 3) of MAWSQ, W-GCTA, and writing test scores
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related
+- [Academic motivation positively predicts metacognitive strategies and critical thinking, which positively predict academic performance](motivation-predicts-strategies-thinking-which-predict-performance.md) — related

@@ -70,3 +70,4 @@ Independent samples t-test for digital learning self-efficacy in the same study,
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — reports the opposite
 - [High school students report higher innovativeness, academic resilience, and academic performance than middle school students, with only a small grade gap in DL self-efficacy](grade-level-differences-innovation-resilience-performance.md) — related
+- [Female students show higher academic performance than male students in this sample](female-higher-academic-performance-indian-adolescents.md) — reports the opposite

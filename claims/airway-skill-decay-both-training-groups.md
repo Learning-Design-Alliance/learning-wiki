@@ -51,3 +51,4 @@ Skill-retention analysis of three studies evaluating BMV, DL and cricoid pressur
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
 - [Simulation-based training produces a small improvement in behavior performance compared with non-simulation based training for airway management](sbt-small-behavior-performance-benefit-airway.md) — related
 - [The proficiency-based training program is resistant to skills decay over 3-5 weeks for both training approaches](proficiency-based-training-resistant-skills-decay.md) — related
+- [Video-assisted reflection after simulation produces similar airway skill gains to recall-assisted reflection but better retention at 1 month](var-better-retention-than-rar.md) — related

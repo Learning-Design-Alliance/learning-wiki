@@ -55,3 +55,4 @@ Post-course student feedback questionnaire (chi-square tests on Likert items) in
 - [SP-based simulation improved TCM syndrome differentiation and therapeutic regimen scores, with the SSP-TCM advantage not significant in 2018](sp-simulation-improves-syndrome-differentiation-scores.md) — related
 - [Both SSP-TCM and OSP-TCM simulation training improved TCM clinical skills performance relative to traditional didactic training](sp-simulation-improves-tcm-clinical-skills.md) — related
 - [Students trained with VSP-TCM report greater gains in TCM thinking, history collection, communication, and autonomous learning than traditionally trained students](vsp-tcm-student-feedback-gains.md) — related
+- [Post-training satisfaction and self-confidence ratings were significantly higher for VR training than traditional training](vr-training-higher-satisfaction-self-confidence.md) — related

@@ -51,6 +51,7 @@ The article recommends building collections in which similar clinical presentati
 - [Compare and Contrast Sources](compare_and_contrast_sources.md)
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
 - [Choose-your-own-adventure storytelling templates for training differential diagnosis](cyoa-storytelling-differential-diagnosis-strategy.md)
+- [Four-action strategy for rapidly adapting a virtual patient collection to a changed clinical context](four-action-vp-context-adaptation-strategy.md)
 
 ## Examples
 -

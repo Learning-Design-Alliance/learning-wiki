@@ -65,3 +65,4 @@ Face-validity Likert ratings collected only from the IVR group after the operati
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
 - [Novices and experts rate the simulator's anatomical realism highly (means 4.4–5.39 on a 6-point scale), except the haptic realism of the pinna](vr-otoscopy-simulator-face-validity-ratings.md) — related
 - [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related
+- [Students rated the VR system as more realistic and immersive than theoretical coursework and complementary to it](vr-system-rated-realistic-immersive-complementary.md) — related

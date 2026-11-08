@@ -51,6 +51,7 @@ The article recommends adopting "mastery learning and peer-assisted learning mod
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 - [Train teachers and tutors on instructional use rather than device mastery, and include school-level storage and maintenance training](ict-capacity-building-instructional-focus.md)
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
+- [Deploy video-based student-tutor courses to expand ultrasound course availability and relieve faculty staffing constraints](vist-for-course-availability-faculty-resource-allocation.md)
 
 ## Examples
 -

@@ -67,3 +67,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [NSW teachers rated the program higher than SA teachers on motivation, accessibility, mix of materials and lesson duration](state-differences-nsw-higher-ratings-than-sa.md) — related
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Participants in two faculty development workshops reported high ratings for clarity, organization, and relevance of the workshop](faculty-development-virtual-teaching-workshop-high-ratings.md) — related
+- [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related

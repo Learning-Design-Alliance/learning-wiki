@@ -56,3 +56,4 @@ The review reports, citing Sangster et al. and Diab and Elgahsh, that connectivi
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [Connectivity and access problems during online study were accompanied by self-reported depression, stress, and anxiety among students in developing countries](online-access-problems-student-psychological-distress.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — possibly the same claim (merge candidate)
+- [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](connectivity-timing-hindrances-online-learning.md) — possibly the same claim (merge candidate)

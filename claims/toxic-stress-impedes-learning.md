@@ -69,3 +69,4 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 - [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — related
 - [E-learning material designed on brain-compatible principles has a positive effect on Technical Programming 1 students' achievement and motivation](bce-elearning-positive-effect-achievement-motivation.md) — related
 - [Reduced anxiety redirects attention from task-irrelevant worry to the writing assignment itself](anxiety-reduction-frees-attention-for-writing.md) — related
+- [Collaborative research and policy efforts converge on the reparative role of identity-safe, relationship-rich environments](sold-convergent-findings-relationship-rich-environments.md) — a broader claim this one bears on

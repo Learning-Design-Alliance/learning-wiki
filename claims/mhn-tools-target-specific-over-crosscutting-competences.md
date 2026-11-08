@@ -51,3 +51,4 @@ Mapping of the 100 identified tools in the scoping review. The review reports va
 - [Of 100 assessment tools for mental health nursing competences, 66 are validated and 34 are researcher-developed](mhn-100-tools-66-validated-34-researcher-developed.md) — related
 - [Mental health nursing assessment overemphasizes knowledge and attitudes relative to practical skills, risking theoretically knowledgeable but hands-on incompetent clinicians](mhn-assessment-overemphasizes-knowledge-attitudes-over-skills.md) — related
 - [PHASe and ACMQ are the most frequently used scales in mental health nursing competence assessment](phase-and-acmq-most-used-mhn-scales.md) — related
+- [Lack of ID training carries clinical costs including diagnostic overshadowing, mis-diagnosis, off-label antipsychotic prescribing and over-use of physical restraint](untrained-psychiatrists-id-diagnostic-overshadowing-costs.md) — related

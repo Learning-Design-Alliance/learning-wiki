@@ -69,3 +69,4 @@ Same modified NASA-TLX workload analysis; the Results section reports the mental
 - [On the reperfused cadaver colonoscopy model, skilled participants reached the descending colon more frequently and faster than intermediate and novice participants](rhccs-skilled-faster-descending-colon.md) — related
 - [Subjective workload (NASA-TLX) did not differ between beginners and experts during simulated angiographies](nasa-tlx-did-not-differ-between-beginners-and-experts.md) — reports the opposite
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — reports the opposite
+- [NASA-TLX mental workload scores are higher in novices and differ significantly by experience level in tasks 1 and 2](nasa-tlx-mental-workload-differs-by-laparoscopic-experience.md) — a narrower finding that bears on this claim

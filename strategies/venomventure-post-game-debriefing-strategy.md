@@ -46,6 +46,7 @@ After Phase 2 gameplay, VENOMventure participants took part in a debriefing peri
 
 - [Use a structured debrief based on PEARLS covering teamwork, communication, and clinical reasoning](pearls-structured-debrief-strategy.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
+- [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Exploratory endpoints in the pilot randomized trial reported in Table 1: procedu
 ## Related Claims
 - [No significant group difference in procedure time or number of fluoroscopic images; experienced surgeons used more fluoroscopy, which the authors argue should not compromise care quality](no-significant-difference-time-fluoroscopy-count.md) — related
 - [The iVR-prepared revision surgery used approximately 7.6 times less cumulative fluoroscopic radiation than the index procedure](ivr-prepared-revision-reduced-radiation-dose.md) — related
+- [Simulation training reduces fluoroscopy time and cumulative air kerma but not dose area product in resident angiography procedures](st-reduces-fluoroscopy-time-and-radiation-dose.md) — reports the opposite

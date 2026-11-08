@@ -54,3 +54,4 @@ Review discussion of concurrent-validity studies comparing manikin airway anatom
 - [VR simulation improves anesthesia technical skills training across airway management, spinal/epidural anesthesia, nerve block skills, and pain management](vr-improves-anesthesia-technical-training.md) — related
 - [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related
 - [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — related
+- [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related

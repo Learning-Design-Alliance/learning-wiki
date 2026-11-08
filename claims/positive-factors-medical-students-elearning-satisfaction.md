@@ -72,3 +72,4 @@ Same synthesis section: each of these design- and delivery-related factors was r
 - [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](resilience-satisfaction-correlations.md) — related
 - [Lecturers frequently accompanied students in clinical practice, but only about half agreed lecturers dedicated adequate time](lecturer-clinical-involvement-time-concerns.md) — related
 - [Students most often reported that recorded lectures, supportive multimedia, and an easy-to-use platform enhanced their subject understanding in eLearning](recorded-lectures-multimedia-enhance-understanding.md) — related
+- [During COVID-19 online medical education, students rated instructors highly responsible but found platform support insufficient, with moderate overall satisfaction](perceptions-instructors-platforms-satisfaction-descriptives.md) — related

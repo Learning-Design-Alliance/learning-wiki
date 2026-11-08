@@ -52,3 +52,4 @@ The review reports the one included qualitative study (Hameed et al.), which sur
 - [GPs hold mixed attitudes toward EBM: majority positive but a minority perceive limited value or threat](mixed-gp-attitudes-toward-ebm.md) — related
 - [Students hold mixed opinions on making peer teaching mandatory in the medical curriculum](mixed-opinions-mandatory-peer-teaching.md) — related
 - [AI-assisted coaching shows no significant differences versus self-learning in overall surgical efficiency or intraoperative adverse events](smartcoach-no-efficiency-or-iae-difference.md) — related
+- [Trainees desired strategies for improvement and coaching rather than mere assessment of performance](trainees-desire-coaching-not-scoring.md) — related

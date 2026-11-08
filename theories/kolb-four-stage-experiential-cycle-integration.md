@@ -50,6 +50,7 @@ The article adopts Kolb's four-stage cycle as the organizing structure of its pr
 - [Operationalise the PAOR cycle across Plan, Act, Observe, and Reflect stages](../strategies/paor-plan-act-observe-reflect-cycle-vhv.md)
 - [Active Learning–GenAI Synergy Framework](../designs/active-learning-genai-synergy-framework.md)
 - [Use experiential learning cycles to structure continuing health education for chronic disease management](../strategies/experiential-learning-cycle-continuing-health-education.md)
+- [Design online course structure and flow around the experiential learning cycle rather than one-off lecturing](../strategies/online-experiential-learning-cycle-design.md)
 
 ## Key Sources
 - Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932

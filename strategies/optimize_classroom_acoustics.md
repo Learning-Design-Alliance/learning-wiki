@@ -86,6 +86,7 @@ Speech is the primary instructional medium, and degraded acoustics impose a cont
 - [Clear Structure and Presentation](../principles/clear-structure.md) — verbal clarity complements acoustic clarity; both reduce reconstruction effort
 - [Apply acoustic treatment, lowered ceilings and visual barriers when utilising open-plan classroom spaces](acoustic-treatment-and-visual-barriers-for-open-plan-classrooms.md)
 - [Provide pre-service training courses and well-equipped listening rooms to support listening instruction](listening-training-and-equipped-rooms-strategy.md)
+- [Support hearing-impaired students through classroom sound amplification, improved acoustics and teacher training](classroom-supports-for-hearing-impaired-students.md)
 
 ## Examples
 - **ANSI S12.60 classroom acoustics standard (USA)** — specifies maximum background noise (35 dBA) and reverberation times for core learning spaces; used as the benchmark for school construction and retrofit. ([https://www.ansi.org](https://www.ansi.org))

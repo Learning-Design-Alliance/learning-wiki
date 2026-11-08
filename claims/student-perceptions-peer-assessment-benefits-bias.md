@@ -49,3 +49,4 @@ Content analysis of open-ended suggestions from the ten student groups at course
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
 - [Higher-performing students took peer assessment seriously while lower-performing students questioned its credibility due to friendship bias and perceived lack of peer expertise](peer-feedback-credibility-distrust-lower-performers.md) — related
 - [Students perceived peer assessment as a fair way of assessing intervention reports and presentations](peer-assessment-perceived-fair.md) — related
+- [Student peer-to-peer feedback is perceived as beneficial but raises concerns about honesty and accuracy](peer-feedback-benefits-and-concerns.md) — possibly the same claim (merge candidate)

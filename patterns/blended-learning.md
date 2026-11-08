@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 107 claims (68 for, 37 mixed, 2 against) · 76 studies (38 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 76 report an effect size · 105 claims rest on one study
+> **Evidence** · 110 claims (69 for, 38 mixed, 3 against) · 78 studies (39 causal, 14 quant-synthesis, 10 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 78 report an effect size · 108 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In a bedside clinical examination course, an app-based blended-learning group improved significantly more on multiple-choice tests than a control group using paper course notes](../claims/app-blended-learning-higher-mc-improvement-pilot.md) [+W] — attached 2026-11-08 from Sonne C et al. (2021), which proposed "Pair app-based blended-learning material with bedside clinical skills courses to deepen theoretical learning, while keeping practical courses"; tests this page's relationship.
 - [MOOC-based blended teaching yields higher operational performance, theoretical achievements, and final grades than face-to-face teaching in Fundamental Nursing, but lower daily performance](../claims/mooc-blended-higher-final-grades-nursing.md) [~W] — attached 2026-11-08 from Cao W et al. (2021), which proposed "Blend MOOC self-study with structured in-class application rather than replacing face-to-face teaching wholesale"; tests this page's relationship.
 - [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](../claims/mooc-blended-critical-thinking-mixed.md) [~W] — attached 2026-11-08 from Cao W et al. (2021), which proposed "Blend MOOC self-study with structured in-class application rather than replacing face-to-face teaching wholesale"; tests this page's relationship.
+- [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](../claims/blended-als-knowledge-posttest-equivalent.md) [~W] — attached 2026-11-08 from Chaves Juan et al. (2020), which proposed "Use blended methodology with e-learning to reduce face-to-face session duration in ALS courses without apparent loss of performance"; tests this page's relationship.
+- [General course satisfaction was significantly higher in the traditional face-to-face group than in the blended e-learning group](../claims/als-satisfaction-higher-face-to-face.md) [-W] — attached 2026-11-08 from Chaves Juan et al. (2020), which proposed "Use blended methodology with e-learning to reduce face-to-face session duration in ALS courses without apparent loss of performance".
+- [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](../claims/students-prefer-blended-future.md) [+W] — attached 2026-11-08 from Puljak Livia et al. (2020), which proposed "Deliver health sciences education as blended learning, with practical education in person, as the post-pandemic norm".
 
 ## Illustrative design instance and observation record
 

@@ -53,3 +53,5 @@ Descriptive results from the same cross-sectional survey of 363 trainees on perc
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
+- [High connectivity cost was a potential implementation threat despite high smartphone utilization among Ghanaian health trainees](high-connectivity-cost-threat-e-learning-pilot-ghana.md) — related
+- [Low bandwidth and lack of seamless internet connectivity constrained health trainees' use of e-learning opportunities in Ghana](low-bandwidth-poor-connectivity-constrain-e-learning-ghana-trainees.md) — related

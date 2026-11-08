@@ -44,6 +44,7 @@ The review recommends blended learning for fields whose curricula require hands-
 - [Implement blended learning, combining online and on-site methods, in post-pandemic dental education rather than fully online delivery](blended-learning-dental-education-strategy.md)
 - [Incorporate puzzle-based blended learning into undergraduate EBM curricula, particularly for complex clinical reasoning and evidence appraisal skills](puzzle-blended-learning-ebm-curriculum-strategy.md)
 - [Integrate puzzle-based techniques regularly into applied nursing curricula and train instructors in their use](regular-puzzle-integration-nursing-curricula-strategy.md)
+- [Incorporate blended learning into the dental curriculum by combining the best features of classroom and distance learning](blended-learning-dental-curriculum-strategy.md)
 
 ## Examples
 -

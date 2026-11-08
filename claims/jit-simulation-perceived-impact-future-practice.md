@@ -55,3 +55,4 @@ Same postsimulation survey (110 respondents). Figure 6 reports mean perceived-im
 - [Frontline nursing home staff rate in situ fall simulation training highly, with 98.5% rating the simulation good or very good](nursing-home-staff-rate-fall-simulation-highly.md) — related
 - [More than 80% of participants indicated they will apply simulation learning when caring for a resident who falls](participants-intend-apply-fall-simulation-learning.md) — related
 - [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
+- [All participants agreed the VR simulation would benefit their future clinical practice, and several valued the safe learning environment for attempting risky communication.](vr-safe-environment-perceived-benefits.md) — related

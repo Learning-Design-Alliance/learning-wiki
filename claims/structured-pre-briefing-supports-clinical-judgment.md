@@ -48,3 +48,4 @@ Authors' interpretive discussion (attributed to cited prior work) about why pre-
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — a broader claim this one bears on
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
 - [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](students-overestimate-clinical-judgment.md) — related
+- [Interactive learning activity supports intern nurses' transition toward clinically competent licensed nurses](interactive-learning-clinical-competence-transition.md) — related

@@ -73,3 +73,4 @@ Six-month ENC 2 knowledge-check results for the cohort, showing stable median sc
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
 - [Manikin-measured ventilation time is stable from immediately after the course to 6 months, while appropriate ventilation rates show no significant change](venc-manikin-ventilation-stable.md) — related
 - [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related
+- [A two-day introductory POCUS course increased hospitalist knowledge from 58% to 85% correct, with a slight decline to 81% at one year](iscan-knowledge-gain-two-day-course.md) — related

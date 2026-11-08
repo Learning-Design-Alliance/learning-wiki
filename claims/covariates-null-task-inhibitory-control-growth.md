@@ -52,3 +52,4 @@ Exploratory analyses within the latent growth curve models of SST performance in
 - [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related
 - [Rate of growth in task-based inhibitory control is unrelated to later delinquent behavior](inhibitory-control-growth-rate-unrelated-delinquency.md) — related
 - [Parent-reported inhibitory control (EATQ-R) shows no detectable growth from early to middle adolescence](parent-reported-inhibitory-control-no-growth.md) — related
+- [Family income shows no association with academic performance in this sample once governmental class and other covariates are controlled](family-income-null-academic-performance-india.md) — related

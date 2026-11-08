@@ -50,3 +50,4 @@ Testing-phase analysis of the four-group counterbalanced experiment on total tes
 - [After crossover to the non-familiar viewing mode, 3D-trained and 2D-4 K-trained novices do not differ significantly in time or success rate on a precision transfer task](crossover-nonfamiliar-system-no-performance-difference.md) — related
 - [On a novel, spatially complex laparoscopic task, visual-spatial ability and perceived task demands predict performance beyond viewing mode](visual-spatial-ability-predicts-novel-task.md) — related
 - [Novices training in 3D take fewer repetitions and achieve lower time-plus-error performance scores than novices training in 2D during proficiency-based laparoscopic training](3d-training-fewer-repetitions-lower-scores-laparoscopic.md) — related
+- [Performance improved across repetitions with a training effect, and participants switching to 3D reached their shortest times at the end](training-effect-display-switch-parkour-course.md) — related

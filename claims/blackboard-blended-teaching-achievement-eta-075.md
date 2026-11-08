@@ -74,3 +74,4 @@ Effect-size estimation reported in the Results and Discussion section of the sam
 - [The utilization of educational technology techniques and innovations has a high effect size on academic achievement (η² = 0.916, D = 6.60)](edtech-high-effect-size-academic-achievement.md) — related
 - [Blended Blackboard CMC instruction using discussion boards, blogs and wikis significantly improves integrated reading/writing performance in EFL college students](blackboard-cmc-improves-integrated-reading-writing.md) — related
 - [The study reports an eta-squared value of 75% indicating the variance in integral practice accounted for by the main themes](eta-squared-75-percent-integral-practice-variance.md) — related
+- [Both traditional and blended ALS training produced high normalized learning gain (Hake Index g > 0.7) of similar magnitude](als-hake-index-high-gain-both-groups.md) — related

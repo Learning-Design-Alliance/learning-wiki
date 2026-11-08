@@ -57,3 +57,4 @@ Kirkpatrick Level 1 (Reaction) evaluation: 122 course evaluations on a five-poin
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
+- [Respondents rated online class usefulness modestly: 31.5% very helpful, 44.9% somewhat helpful, 23.5% not helpful on a 1–10 Likert scale](likert-usefulness-online-classes-distribution.md) — related

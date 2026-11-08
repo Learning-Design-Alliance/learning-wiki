@@ -67,3 +67,4 @@ Final assessment scores compared between the 2019 (control) and 2020 (experiment
 - [SBME most improves humanistic care and doctor–patient communication, and only slightly improves basic knowledge and operation skills](sbme-lost-points-humanistic-care-communication.md) — related
 - [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](peer-roleplay-null-domains-mini-cex.md) — reports the opposite
 - [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — related
+- [Interactive learning activities yield significantly higher professional-factor scores (theoretical knowledge, critical thinking, clinical competence) than traditional learning](interactive-learning-higher-professional-factors.md) — a broader claim this one bears on

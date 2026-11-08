@@ -50,3 +50,4 @@ The article's discussion cites a meta-analysis on video-feedback training format
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related
 - [An expanded communication skills course with video annotations and tutor-led group discussion is feasible and well received, with a mean student mark of 4.6](video-annotation-course-feasible-well-received.md) — related
+- [A review reports that all 17 included studies of computer-based communication training showed self-efficacy and knowledge learning effects](review-17-studies-elearning-communication-effects.md) — related

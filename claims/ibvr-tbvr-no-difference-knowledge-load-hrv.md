@@ -71,3 +71,4 @@ Generalized estimating equations controlling for age, sex, residence level, and 
 - [Thematic analysis of group interviews identifies usability of instructional content and easy engagement as key themes, with 70% positive on IBVR and 50% on TBVR](qualitative-themes-usability-engagement-vr-modules.md) — related
 - [TBVR yields higher global satisfaction and hedonic appeal than IBVR despite IBVR's performance advantage](tbvr-higher-satisfaction-hedonic-than-ibvr.md) — related
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
+- [Talk-aloud interviews with 28 junior residents and expert physicians identified 5 thematic sources of cognitive load in trauma resuscitation videos](cinevr-talk-aloud-five-cognitive-load-sources.md) — related

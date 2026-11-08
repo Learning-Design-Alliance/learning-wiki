@@ -51,6 +51,7 @@ The article describes spaced learning as an online-deliverable method in which c
 ## Related Strategies
 
 - [Embed low-burden spaced review structures such as a 48-hour recap and a 1-week revisit with automated reminders](spaced-review-structures-strategy.md)
+- [Divide lengthy clinical-skills workshops into a longitudinal series of shorter sessions to ameliorate fatigue and enable spaced repetition](longitudinal-shorter-clinical-skills-sessions-strategy.md)
 
 ## Examples
 -

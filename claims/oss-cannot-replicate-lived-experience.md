@@ -51,3 +51,4 @@ The review reports that three studies [16, 25, 28] acknowledged this limitation;
 - [No included study reported long-term follow-up, leaving durability of OSS effects unclear](oss-no-long-term-follow-up.md) — related
 - [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — related
 - [Specialist HCPs should additionally understand novel technologies, intervention costs, stigma, personal attitudes and psychological constructs of obesity](desirable-additional-obesity-specialist-competencies.md) — related
+- [Simulation-based healthcare improvement outcomes should be interpreted cautiously because healthcare is a complex adaptive system](simulation-improvement-outcomes-interpret-cautiously.md) — related

@@ -68,3 +68,4 @@ Phone-calling phase of the contact protocol using a script at main district numb
 - [District websites rarely specify which department or administrator oversees services for English Learners](district-websites-rarely-specify-el-leader.md) — related
 - [English Learner programs and services across districts are led by administrators with varied titles, many without apparent links to English Learners](varied-administrator-titles-el-services.md) — related
 - [Districts use no consistent way of referring to English Learner programs and their offices](no-consistent-el-program-terminology.md) — related
+- [Only 69% of providers who received the educational slides by email opened them](email-slide-engagement-69-percent-opened.md) — related

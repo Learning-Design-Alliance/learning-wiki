@@ -47,3 +47,4 @@ Second-hand survey figure reported in section 2.2 to motivate mobile learning: t
 
 ## Related Claims
 - [In a 2012-13 survey of 241 junior-level engineering students, 92% identified as visual learners and 93% owned a smartphone or tablet](survey-visual-learners-device-ownership.md) — related
+- [Nearly all surveyed Ghanaian nursing and midwifery trainees owned smartphones, which they used mostly for learning purposes](ghana-health-trainees-smartphone-ownership-nearly-100.md) — related

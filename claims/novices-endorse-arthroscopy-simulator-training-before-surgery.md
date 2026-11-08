@@ -56,3 +56,4 @@ Agree/Disagree/Undecided items completed by all 109 satisfaction-sample particip
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
 - [All 51 students agreed the simulator trained motor coordination and 2D perception, improved understanding, consolidated learning, and should be used before real surgery](unanimous-student-endorsement-of-simulator-skills-training.md) — related
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
+- [Students propose varied timing for VR-based simulation—before, after, or both before and after clinical practice—with no consensus on a single best point](vr-simulation-timing-before-after-clinical-practice.md) — reports the opposite

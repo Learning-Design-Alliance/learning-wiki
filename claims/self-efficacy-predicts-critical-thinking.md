@@ -52,3 +52,4 @@ Path analysis of the same 250-student sample. The results section reports the di
 - [Critical thinking positively predicts academic engagement, an effect the authors grade as large](critical-thinking-predicts-academic-engagement.md) — related
 - [Critical thinking positively predicts academic competence among Chinese college students](critical-thinking-predicts-academic-competence-chinese-college.md) — related
 - [In a structural model, self-regulation predicts time management (β = 0.72), time management predicts academic self-efficacy (β = 0.61), and self-regulation directly predicts academic self-efficacy (β = 0.44)](sem-direct-paths-sr-tm-ase.md) — related
+- [Academic motivation positively predicts metacognitive strategies and critical thinking, which positively predict academic performance](motivation-predicts-strategies-thinking-which-predict-performance.md) — related

@@ -51,3 +51,4 @@ Skills were assessed with a 13-item validated checklist during the simulated sce
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](hfs-knowledge-acquisition-practising-nurses.md) — related
 - [Among health professionals, a high-fidelity active simulator configuration supported improved performance during hands-on training](high-fidelity-active-best-for-experienced-professionals.md) — related
 - [Item-level skill performance varied between fidelity groups: the high-fidelity group did better on dressing selection and wound edges but worse on anatomic location](item-level-skill-differences-fidelity-groups.md) — related
+- [Kappa agreement on pressure injury cleaning improved from 0.81 to 0.91 after realistic simulation](realistic-simulation-improves-wound-cleaning-kappa.md) — related

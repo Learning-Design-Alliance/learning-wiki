@@ -48,3 +48,4 @@ Process evaluation finding from the mixed-methods evaluation of Saturday school 
 - [Participation in the animation course was very low, so trial results estimate the effect of eligibility rather than participation](animation-course-low-participation-eligibility-effect.md) — related
 - [The Hallé SHINE on Manchester Saturday school programme showed no evidence of impact on reading attainment across all three trial years](hsom-no-impact-reading-attainment.md) — related
 - [Pupils who attended the Saturday school showed positive engagement, improved behaviour, confidence, and social skills per the process evaluation](hsom-positive-engagement-attenders.md) — related
+- [Recruitment of preterm families into home computerized training was low, with screen-time concerns a stated barrier](low-recruitment-screen-time-barrier-computerized-training.md) — a narrower finding that bears on this claim

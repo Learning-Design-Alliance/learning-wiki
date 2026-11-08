@@ -58,3 +58,4 @@ Likert-scale perception survey of all 14 participants. While 71.5% agreed images
 - [None of the participants found VR microscope maneuvering realistic and all reported they would not use the platform in its current state for microscope training, prompting a weight-based lock solution](surgisim-microscope-maneuverability-lock-solution.md) — related
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
 - [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — related
+- [Students rated the VR system as more realistic and immersive than theoretical coursework and complementary to it](vr-system-rated-realistic-immersive-complementary.md) — related

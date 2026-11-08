@@ -77,6 +77,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 - [Adapt GOSCE case scenarios to the specific sensory, cultural, and individual challenges of the target recruitment population](gosce-case-adaptation-strategy.md)
 - [Use immersive VR to give scrub nurses a safe, low-pressure environment for repetitive practice of complex operations](ivr-safe-practice-environment-scrub-nurses.md)
+- [Future direction: more dynamic adaptation of virtual patients to contextual factors for a diverse, adaptable learning experience](dynamic-vp-contextual-adaptation-future-direction.md)
 
 ## Examples
 -

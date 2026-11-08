@@ -65,3 +65,4 @@ Perception data from the mixed-methods study of 30 first-year EAP students, anal
 - [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](hybrid-llm-knowledge-tracing-outperforms-either-alone.md) — related
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related
 - [A majority of students (53.1%) preferred a combination of AI and expert feedback over either source alone](majority-prefer-combined-ai-expert-feedback.md) — related
+- [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](students-prefer-blended-future.md) — related

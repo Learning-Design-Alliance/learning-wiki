@@ -54,3 +54,4 @@ This is an author interpretation stated in the review's Background section, not 
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — a narrower finding that bears on this claim
 - [A single simulation session appears insufficient for acquiring cardiac-arrest skills; several sessions may be needed to progress on this topic](single-simulation-session-insufficient-cardiac-arrest.md) — related
 - [Students rate debriefing feedback as easy to understand, relevant, and constructive, and generally feel positive about debriefing](debriefing-feedback-clear-relevant-constructive.md) — a narrower finding that bears on this claim
+- [Only 31% of reported cardiac arrests were debriefed, highlighting a missed educational opportunity](low-cardiac-arrest-debriefing-rate.md) — related

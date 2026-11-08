@@ -55,3 +55,4 @@ The review reports a randomized controlled trial comparing VR-trained and non-VR
 - [VR training improves surgical performance and reduces the learning curve for complex procedures](vr-training-improves-surgical-performance.md) — a broader claim this one bears on
 - [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related
 - [VR training produced more efficient radiography students with fewer errors and faster diagnostic imaging than traditional simulation training](vr-training-more-efficient-fewer-errors-radiography.md) — related
+- [IVR-trained residents made fewer critical procedural errors in guide pin insertion, glenoid reaming, and baseplate sizing than video-trained controls](ivr-training-fewer-critical-errors-rsa.md) — related

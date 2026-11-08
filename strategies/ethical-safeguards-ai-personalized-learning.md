@@ -67,6 +67,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Six APA-informed ethical considerations for integrating AI into systemic practice](apa-informed-ethical-considerations-ai-integration.md)
+- [Establish a centralized database of anonymized simulation data accessible to global research groups](centralized-anonymized-simulation-database.md)
 
 ## Examples
 -

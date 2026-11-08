@@ -14,7 +14,7 @@ generated:
 # Peyton's four-step approach
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (1 causal, 1 review, 1 design), `q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 A structured clinical-skills teaching framework that sequences demonstration, deconstruction, comprehension, and independent performance, used by instructors to teach procedural skills.
@@ -28,6 +28,7 @@ A structured clinical-skills teaching framework that sequences demonstration, de
 - [Residents taught with Peyton's four-step approach plus flipped classroom and CBL scored higher on ultrasound skills assessment than residents taught with traditional methods](../claims/peyton-flipped-higher-skill-assessment-ultrasound.md) [+M]
 - [The combined Peyton's four-step and flipped classroom intervention produced higher clinical case analysis scores than traditional teaching](../claims/peyton-flipped-higher-case-analysis-scores.md) [+M]
 - [Correct answers on the knowledge question about Peyton's four-step model improved significantly from 0% to 90% after the workshop](../claims/peyton-knowledge-question-improved-0-to-90.md) [+M]
+- [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](../claims/peyton-four-step-superior-controlled-trial.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -35,8 +36,8 @@ A structured clinical-skills teaching framework that sequences demonstration, de
 ## Key Sources
 - Wang Jiajia, Zhan Yunyun, Sun Biyun, Bi Yu, Li Rubing, Jiang Fan, Peng Mei. (2024). Flipped classroom-based application of Peyton’s four-step approach in standardized training of ultrasound residents for thyroid and cervical lymph node zoning. PeerJ. https://doi.org/10.7717/peerj.18633
 - Smith Christopher J. MD, Rohlfsen Cory MD, Wardian Jana PhD, MSW, Sahak Khalid MD. (2024). Teaching Procedural Skills: Integrating Educational Theory Into Practice. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.11476
-
 <!-- merged 2026-11-07 from products/peytons-four-step-model ("Peyton's four-step model"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Burgess A, van Diggele C, Roberts C, Mellis C. (2020). Tips for teaching procedural skills. BMC Medical Education. https://doi.org/10.1186/s12909-020-02284-1
 
 # Peyton's four-step model
 

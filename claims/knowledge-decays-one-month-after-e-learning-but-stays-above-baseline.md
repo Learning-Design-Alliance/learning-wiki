@@ -59,3 +59,4 @@ Bonferroni post hoc within-group pairwise comparisons of knowledge scores in the
 - [Self-reported confidence gains from on-call simulation may not persist: at 6-month follow-up, confidence was lower than immediately after simulation](confidence-gains-decline-six-months-followup.md) — related
 - [Gamification-based addiction prevention training significantly increases male adolescents' knowledge of substance and internet addiction, sustained one month after training](gamification-training-increases-adolescent-addiction-knowledge.md) — related
 - [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related
+- [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related

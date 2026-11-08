@@ -70,6 +70,7 @@ Inclusive curriculum works through relevance and belonging: when learners see th
 - [Incorporate culturally responsive, anti-racist, and multicultural curricula in higher education STEM programs](culturally-responsive-antiracist-stem-curricula.md)
 - [Belonging-Centered Instruction: real-world examples and integration of students' culture and community priorities into mathematics curricula](belonging-centered-instruction-components.md)
 - [Organize school inclusion across three directions: inclusive culture, inclusive policy, and inclusive practices](three-directions-culture-policy-practices.md)
+- [Use culturally inclusive pedagogies, such as incorporating indigenous language and values authentically into HPE lessons](culturally-inclusive-hpe-pedagogy-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the primary vehicle for diversifying whose scholarship and voices students encounter

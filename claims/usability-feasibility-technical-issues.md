@@ -55,3 +55,4 @@ Review synthesis of practical usability and feasibility outcomes in the Results 
 - [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — a narrower finding that bears on this claim
 - [The CA-PT is feasible to administer: 90% finished within two hours with no system performance issues](ca-pt-feasible-administration.md) — related
 - [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — a narrower finding that bears on this claim
+- [Users reported technical difficulties — low resolution (n = 17), irregular audio (n = 9), and dizziness after use — that qualify the simulation's usability.](360-vr-technical-difficulties-dizziness.md) — related

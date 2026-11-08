@@ -51,6 +51,7 @@ The article recommends that "Simulator training should be incorporated into the 
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
 - [Integrate surgical simulator training into the undergraduate medical curriculum before residency](integrate-surgical-simulation-before-residency.md)
+- [Incorporate a 2-week mentored simulation course into vascular resident training](two-week-mentored-vascular-simulation-course.md)
 
 ## Examples
 -

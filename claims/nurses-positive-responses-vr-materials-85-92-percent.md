@@ -52,3 +52,4 @@ Post-training satisfaction items (Table 1 questions 5–7) in the pilot study of
 - [Trainees report increased confidence as aesthetic practitioners and increased motivation to learn injection techniques after 3D simulation training](3d-simulation-app-confidence-motivation-perceptions.md) — related
 - [Nurses' self-rated confidence in bedside pre-treatment education skills rose from pre-test to post-test after blended VR-based training, in a single-group pre-post study with no comparison group](vr-blended-training-increased-nurse-confidence-bedside-education-skills.md) — related
 - [Blended VR-based training significantly increased nurses' familiarity with treatment decision-related knowledge in an oral cancer ward](vr-blended-training-increased-nurse-familiarity-treatment-knowledge.md) — related
+- [Students recommended virtual patient simulation only in addition to bedside training, never as stand-alone use](vr-recommended-only-additional-to-bedside.md) — related

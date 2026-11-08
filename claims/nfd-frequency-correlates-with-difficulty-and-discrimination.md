@@ -53,3 +53,4 @@ Pearson correlation analysis of NFD frequency against item DF and DS in both tes
 - [Three-option MCQ items tend to discriminate better between high and low performers than five-option items, but not significantly](three-option-mcq-discrimination-index-higher-not-significant.md) — related
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
 - [High-scoring students produce more poor-functioning and non-functioning distractors than moderate/poor-scoring students](non-functioning-distractors-high-scorers.md) — related
+- [Functional distractors per item correlate negatively with difficulty index and positively with discrimination index, but far from perfectly](fds-item-correlations-difi-disi.md) — related

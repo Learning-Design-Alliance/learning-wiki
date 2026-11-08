@@ -49,3 +49,5 @@ Spearman correlation computed in the 205-physician survey study between self-rat
 - [Family medicine residents' diagnostic accuracy for emergency chest X-rays (58.0%) is significantly lower than diagnostic radiology residents' (90.5%)](fm-residents-cxr-accuracy-lower-than-radiology-residents.md) — related
 - [Higher self-rated confidence in interpreting IOC correlates with better quiz performance, especially for normal IOC and BDI](confidence-correlates-ioc-quiz-performance.md) — related
 - [Being a diagnostic radiology resident and having higher diagnostic confidence are the only independent predictors of high diagnostic accuracy](radiology-residency-and-confidence-predict-accuracy.md) — a broader claim this one bears on
+- [Students reported high self-confidence in their X-ray diagnoses, highest for tension pneumothorax and lowest for flail chest](high-self-confidence-cxr-diagnosis-tension-pneumothorax-highest.md) — related
+- [Prior studies reviewed found students' chest X-ray accuracy comparable to some resident groups, supporting the students' performance level](students-cxr-accuracy-comparable-residents-prior-studies.md) — related

@@ -52,6 +52,7 @@ The article recommends faculty development workshops to standardize how TBL sess
 - [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
 - [Sustain the workshop by expanding to biannual sessions run through a medical student organization](biannual-student-organization-cbl-expansion.md)
 - [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](faculty-development-and-orientation-for-tbl.md)
+- [Implement structured clinical debriefing programs supported by faculty development and interdisciplinary prompting, with a less active team member as facilitator](interdisciplinary-prompted-clinical-debriefing-strategy.md)
 
 ## Examples
 -

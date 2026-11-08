@@ -49,3 +49,4 @@ Kruskal–Wallis comparisons of 23 self-rated skill items between 59 trainers an
 - [OH trainer physicians self-assess their mental health competence higher than trainee physicians, though the difference is not statistically significant](oh-trainers-rate-mental-health-competence-higher-than-trainees.md) — related
 - [Trainer physicians' self-assessed mental health competence decreases slowly over time as a trainer](trainer-competence-decreases-over-time.md) — related
 - [Trainee physicians' self-assessed mental health competence shows no statistically significant association with time in training, though perceived competence appears to decrease after 7 years](trainee-competence-time-trend-dips-after-seven-years.md) — related
+- [Physicians rated their psychosocial education and knowledge as moderate but their psychosocial skills and abilities as higher](physicians-knowledge-moderate-skills-higher.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 429 claims (201 for, 200 mixed, 28 against) · 322 studies (103 associational, 77 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 27 of 322 report an effect size · 422 claims rest on one study
+> **Evidence** · 431 claims (203 for, 200 mixed, 28 against) · 324 studies (104 associational, 77 design, 52 causal, 47 review, 27 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 28 of 324 report an effect size · 424 claims rest on one study
 
 ## Conditional relationship
 
@@ -273,6 +273,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](../claims/ai-moderate-agreement-bean-drop-assessment.md) [~W] — attached 2026-11-08 from Belmar Francisca et al. (2022), which proposed "Expand AI automated assessment to additional basic laparoscopic exercises as a preliminary framework"; tests this page's relationship.
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](../claims/competence-frameworks-cvi-085-all-items.md) [+W] — attached 2026-11-08 from Miranda Fernanda Berchelli Girão; Alves Gerson Pereira-Junior; Mazzo Alessandra (2021), which proposed "Involve experts throughout construction and validation of competence-based training and assessment material".
 - [Self-reported Risk Preference is negatively related to student grades, but this relationship is fully explained by heterogeneous scale use and is no longer significant after vignette correction](../claims/risk-preference-grades-fully-scale-use-artifact.md) [~W] — attached 2026-11-08 from Coenen Johan et al. (2021), which proposed "Use anchoring vignettes or more objective personality measures when studying relationships between personality and academic outcomes, because uncorrected subjective measures overestimate predictive power"; tests this page's relationship.
+- [Reliability is context-dependent rather than a static attribute of a measurement tool](../claims/reliability-context-dependent-not-static.md) [+W] — attached 2026-11-08 from Santomauro Chiara M. et al. (2020), which proposed "Appraise reliability evidence against rules of thumb such as Cronbach alpha of at least 0.70 for research or evaluation purposes".
+- [High school GPA correlates significantly but weakly (0.3) with graduating GPA among Jordanian dental students](../claims/hs-gpa-weak-positive-correlation-dental-aa-gpa.md) [+M] — attached 2026-11-08 from Al-Asmar Ayah A. et al. (2021), which proposed "Use multiple admission criteria beyond high school GPA because HS-GPA has limited predictive value"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

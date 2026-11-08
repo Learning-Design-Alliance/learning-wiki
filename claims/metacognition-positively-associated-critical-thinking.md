@@ -54,3 +54,4 @@ SEM Model 2 tested metacognition against the five W-GCTA critical thinking subte
 - [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — a broader claim this one bears on
 - [Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly](metacognition-coding-experience-predict-ct-profile.md) — related
 - [Metacognition is significantly and positively related to EFL students' academic writing performance (Model 1)](metacognition-positively-related-efl-academic-writing.md) — related
+- [Academic motivation positively predicts metacognitive strategies and critical thinking, which positively predict academic performance](motivation-predicts-strategies-thinking-which-predict-performance.md) — related

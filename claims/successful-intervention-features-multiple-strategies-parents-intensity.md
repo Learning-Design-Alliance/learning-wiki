@@ -56,3 +56,4 @@ Review synthesis across the 25 included studies. Nine studies involved parents d
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md)
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
 - [Caregivers perceived only minimal changes in children's healthy eating and physical activity knowledge, attitudes and behaviour](hl-perceived-impact-minimal.md) — related
+- [A weekly \"responsibility card\" involving parents was a key strategy for fostering transference of responsibility goals in preschool](responsibility-card-parent-transfer-strategy.md) — a narrower finding that bears on this claim

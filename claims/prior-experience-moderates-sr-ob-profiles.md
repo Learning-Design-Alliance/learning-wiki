@@ -51,3 +51,4 @@ Subgroup latent profile analyses compared teachers with prior AI literacy experi
 - [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](subjective-objective-ai-literacy-low-correlation.md) — related
 - [Misalignment profiles predict growth-oriented disengagement: students can endorse self-change while withdrawing when routes are perceived as infeasible](misalignment-profiles-predict-growth-oriented-disengagement.md) — related
 - [Less surgical experience is associated with overestimation of abilities](less-experience-overestimation.md) — reports the opposite
+- [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related

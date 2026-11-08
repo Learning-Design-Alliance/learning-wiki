@@ -55,3 +55,4 @@ In the cohort 1 randomized experiment, treatment-school teachers reported less r
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
 - [Having some recess is associated with better teacher-reported classroom behavior than no or minimal recess](recess-associated-better-teacher-reported-behavior.md) — related
 - [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related
+- [Schools with Playworks programs show more physical activity, less bullying, and more attentive students than schools without](playworks-impact-findings.md) — a broader claim this one bears on

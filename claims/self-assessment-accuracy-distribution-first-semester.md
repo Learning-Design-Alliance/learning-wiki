@@ -55,3 +55,4 @@ Descriptive analysis of the self-assessment accuracy distribution in the same N 
 - [Judgment accuracy varies across student characteristic profiles: struggling and uninterested profiles are diagnosed more accurately than strong, underestimating, and overestimating profiles](profile-main-effect-judgment-accuracy.md) — related
 - [The gap between raters' predictions and actual performance was inconsistent across UGMLE domains, ranging from 30.4% underestimation in domain thirteen to overestimation in domain three](ugmle-mean-gap-inconsistent-across-domains.md) — related
 - [The better residents perform objectively, the more they underestimate their performance, while the worst quartile overestimates it](better-performance-more-underestimated.md) — related
+- [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related

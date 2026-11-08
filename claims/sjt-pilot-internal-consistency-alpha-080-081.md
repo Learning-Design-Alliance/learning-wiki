@@ -86,3 +86,4 @@ The pilot samples were two consecutive applicant cohorts for the International C
 - [SJT scores showed no significant differences across ethnic subgroups in two Indonesian applicant cohorts](sjt-no-ethnic-score-differences-indonesia-pilot.md) — related
 - [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [The article argues SJTs offer more efficient implementation and evaluation than simulated conversations and can complement, but not replace, them](sjt-more-efficient-than-simulated-conversations.md) — related

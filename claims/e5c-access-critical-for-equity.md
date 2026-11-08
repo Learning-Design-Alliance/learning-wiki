@@ -53,3 +53,4 @@ Authors' conclusion in the Discussion of the design-based case study of 82 girls
 - [Girls produced 34 comprehensive PSAs and dozens of mini-Scratch projects, providing project-based evidence of computing knowledge gain](e5c-scratch-project-artifacts.md) — related
 - [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related
 - [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related
+- [Teachers acted on social inequities by flexibly distributing resources, promoting marginalized groups, and critically reflecting on power and their own positionality](acting-on-social-inequities-hpe.md) — related

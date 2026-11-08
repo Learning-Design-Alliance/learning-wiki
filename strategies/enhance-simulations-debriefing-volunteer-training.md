@@ -52,6 +52,7 @@ The article reports implementation enhancements drawn from the literature and it
 - [Include facilitated social learning opportunities (introduction and debriefing) around individual IVR safety scenarios](facilitated-introduction-and-debriefing-around-ivr-scenarios.md)
 - [Use timely facilitator-led debriefing, realistic scenario fidelity, and immediate feedback to enhance simulation learning](debriefing-fidelity-feedback-strategies.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
+- [Implement structured clinical debriefing programs supported by faculty development and interdisciplinary prompting, with a less active team member as facilitator](interdisciplinary-prompted-clinical-debriefing-strategy.md)
 
 ## Examples
 -

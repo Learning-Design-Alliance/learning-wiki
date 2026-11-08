@@ -53,3 +53,5 @@ Cohort comparison of 57 RP residents (2022 intake) with 59 TTM residents (2021 i
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](modified-peyton-one-month-retention.md) — related
 - [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related
 - [RCDP training yields significantly higher immediate post-training forceps operation scores than traditional teaching among G&O residents](rcdp-higher-immediate-forceps-scores.md) — related
+- [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
+- [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](stepped-models-simple-vs-complex-skills.md) — related

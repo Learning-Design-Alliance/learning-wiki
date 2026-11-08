@@ -69,3 +69,4 @@ Barrier sub-theme from the same focus groups; some HoloLens wearers reported cyb
 - [Nursing students report high learning motivation following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-high-learning-motivation.md) — related
 - [Nursing students report positive learning attitudes following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-positive-learning-attitude.md) — related
 - [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related
+- [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related

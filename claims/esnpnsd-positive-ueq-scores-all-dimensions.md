@@ -53,3 +53,4 @@ Cross-sectional UEQ evaluation with 72 nursing students from three cohorts (27, 
 - [Users rated the pediatric endocrinology e-learning tool positively across all six UEQ categories, with attractiveness and stimulation highest and dependability lowest](ueq-positive-evaluation-pediatric-elearning.md) — related
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
 - [No significant differences in UEQ dimension scores were found across the three student cohort groups](esnpnsd-ueq-no-differences-three-groups.md) — related
+- [The PediAppRREST app received positive usability evaluations across all six UEQ scales in a simulation pilot with pediatric residents](pediaprrrest-positive-usability-ueq-pilot.md) — related

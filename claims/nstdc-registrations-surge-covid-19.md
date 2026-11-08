@@ -50,3 +50,4 @@ Observational program evaluation of NSTDC registration data comparing March–Ap
 - [Learning groups created on the NSTDC in March–April 2020 shifted toward academic programs and toward the Midwest region compared with the previous 12 months](nstdc-learning-group-composition-shift-covid-19.md) — related
 - [Creation of NSTDC learning groups increased 300% in March 2020 and 467% in April 2020 above the prior 12-month monthly average during the early COVID-19 pandemic](nstdc-learning-group-creation-surge-covid-19.md) — related
 - [COVID-19 lockdown significantly increases first-year medical students' acceptance of an e-learning platform, with registration rising from 68 of 251 to 201 of 255 enrolled students](lockdown-increases-elp-registration-medical-students.md) — related
+- [Inquiries to use the VP collection increased markedly from April 2020, including new users from Latin America](vp-collection-use-increase-april-2020.md) — related

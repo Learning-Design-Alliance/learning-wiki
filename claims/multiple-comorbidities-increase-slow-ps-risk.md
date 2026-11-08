@@ -53,3 +53,4 @@ Logistic regression in 636 diagnosed youth compared comorbidity levels, controll
 - [All diagnostic groups of referred youth, including those without full diagnoses, show processing speed below the population norm](ps-below-norms-all-clinical-groups.md) — related
 - [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)
 - [Comorbidity explains much of the apparent association between individual mental disorder diagnoses and educational outcomes, as fully adjusted associations are greatly attenuated](comorbidity-attenuates-diagnosis-associations.md) — related
+- [Excluding psychiatric comorbidity groups one at a time leaves the association between social anxiety disorder and educational outcomes largely unchanged](sad-educational-association-robust-to-comorbidity.md) — related

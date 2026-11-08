@@ -160,6 +160,7 @@ Feeling heard, voicing a view, explaining a problem systemically, imagining an a
 - [Threading, Weaving, Patternmaking](../designs/threading-weaving-patternmaking.md) (an 8th-grade physics unit using critical speculative design; the design in one of the studies above)
 - [Producing Counter-texts](../strategies/producing_counter-texts.md)
 - [Multimodal Composition](../strategies/composition_projects-multimodal.md)
+- [Build shared adult capacity across disciplines, systems, and settings to support whole child development](../strategies/shared-adult-capacity-across-settings-strategy.md)
 
 ## Key Sources
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865

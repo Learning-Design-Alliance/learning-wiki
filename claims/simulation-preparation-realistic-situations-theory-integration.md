@@ -55,3 +55,4 @@ Theme 2 'Preparation for realistic situations' from the qualitative interviews. 
 - [Male nursing students report developing proficiency in essential obstetric procedures through high-fidelity simulation](hfs-develops-essential-obstetric-skills.md) — related
 - [Realistic simulation gave students insight into future professional responsibilities, communication and teamworking, and asking for help](simulation-realism-professional-responsibility-insight.md) — related
 - [86%–94% of students reported that experiential learning helped them apply theoretical knowledge to practical applications](el-application-theory-practice-gains-86-94-percent.md) — related
+- [Blended learning has the potential to improve healthcare learners' clinical competencies and bridge the gap between theory and practice](blended-learning-bridges-theory-practice-clinical-competencies.md) — related

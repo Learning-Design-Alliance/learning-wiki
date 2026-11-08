@@ -51,3 +51,4 @@ Randomized controlled single-blind trial in junior gynecology residents at three
 - [Simulation training improves adjusted procedural steps knowledge for vaginal hysterectomy and posterior repair but not anterior repair](simulation-improves-procedural-steps-knowledge-vh-pr.md) — related
 - [Resident satisfaction with training is significantly higher for simulation-trained residents for vaginal hysterectomy only](simulation-satisfaction-higher-vh-only.md) — related
 - [Simulator training also significantly improves global rating scale scores (7.1 points, p = 0.023)](otoskills-training-improves-grs-score.md) — related
+- [Simulator training improves blinded assessors' Visual Analog Scale ratings of overall management of the first laparoscopic hysterectomy](simulator-training-improves-vas-overall-management.md) — related

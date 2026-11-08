@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 134 claims (100 for, 31 mixed, 3 against) · 93 studies (38 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 22 of 93 report an effect size · 128 claims rest on one study
+> **Evidence** · 135 claims (101 for, 31 mixed, 3 against) · 94 studies (39 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 23 of 94 report an effect size · 129 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -190,6 +190,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Basic psychological needs directly predict successful academic identity](../claims/bpn-direct-effect-academic-identity.md) [+M] — attached 2026-11-07 from Chen Shuya (2024), which proposed "Self-determination theory model of successful academic identity with mindfulness and self-efficacy mediators"; tests this page's relationship.
 - [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](../claims/amotivation-correlates-burnout-intrinsic-motivation.md) [+W] — attached 2026-11-07 from Usán Pablo et al. (2022), which proposed "Self-determination theory continuum of academic motivation".
 - [Identified regulation for interpersonal relationships positively predicts behavioral, emotional, and cognitive engagement in university collaborative learning](../claims/identified-regulation-predicts-engagement-collaborative-learning.md) [+M] — attached 2026-11-07 from Ito Takamichi (2022), which proposed "Self-determination theory's four-type motivation continuum applied to interpersonal motivation in collaborative learning".
+- [Teacher psychological control positively predicts academic stress while autonomy support negatively predicts it in university students](../claims/teacher-psychological-control-positively-predicts-academic-stress.md) [+W] — attached 2026-11-08 from Trigueros R. et al. (2020), which proposed "Self-Determination Theory as a framework for teacher influence on student motivation and stress"; tests this page's relationship.
 
 ## The evidence by question
 

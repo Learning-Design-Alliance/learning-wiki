@@ -49,3 +49,4 @@ The mixed-methods systematic review examined how professional learning is define
 - [Late-career teachers prefer socially embedded and collaborative learning opportunities such as mentoring, dialogue and reflective practice](late-career-teachers-prefer-socially-embedded-learning.md) — related
 - [The literature defines late-career teachers inconsistently, by age, experience or perceived expertise, with no coherent conceptualisation](late-career-teacher-definition-inconsistent.md) — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
+- [Managers value the centrally organised, obligatory residency programme with reflection as a supportive structure for continued learning](residency-programme-supportive-structure-continued-learning.md) — related

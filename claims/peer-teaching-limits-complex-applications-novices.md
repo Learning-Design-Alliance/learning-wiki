@@ -49,3 +49,4 @@ Review synthesis of subgroup findings: the review reports ocular ultrasound as m
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — reports the opposite
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related
 - [Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge](peer-tutors-comparable-outcomes-ultrasound.md) — reports the opposite
+- [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — related

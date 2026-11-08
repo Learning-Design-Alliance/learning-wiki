@@ -48,3 +48,4 @@ Linear Mixed Model analysis of the control group (n = 7), adjusted for education
 - [The group-by-time interaction was significant for general EBP knowledge and Fresno Test scores but not for the ACE test](group-time-interaction-ebp-outcomes.md) — related
 - [The EBP course significantly improved ACE test scores in the intervention group, with a 10.8% gain](ebp-course-improves-ace-scores.md) — related
 - [The EBP course significantly improved Fresno Test scores in the intervention group, with a 24.2% gain](ebp-course-improves-fresno-scores.md) — related
+- [At post-intervention the intervention group scored significantly higher than the control group on EBP knowledge and skills](ebp-posttest-group-difference.md) — related

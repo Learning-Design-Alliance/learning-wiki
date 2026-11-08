@@ -72,3 +72,4 @@ Near-threshold Kruskal–Wallis result for postural drainage importance in the s
 - [Experienced physiotherapists (≥6 years) rate their pulmonary rehabilitation experience significantly higher than second-year students](experienced-clinicians-higher-experience-ratings-than-students.md) — related
 - [Perceived importance of the EPAs did not differ significantly across universities (p = 1)](no-university-difference-epa-importance.md) — related
 - [Patients perceived no differences between trained and untrained students, rating both groups very positively](patients-perceive-no-communication-training-differences.md) — related
+- [COVID-19 knowledge scores did not differ significantly among nurses, physicians, dentists, allied health professionals, and medical students across the four knowledge domains](no-professional-group-differences-covid19-knowledge.md) — related

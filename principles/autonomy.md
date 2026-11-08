@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (36 for, 34 mixed, 3 against) · 67 studies (17 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 8 of 67 report an effect size · 65 claims rest on one study
+> **Evidence** · 76 claims (38 for, 35 mixed, 3 against) · 69 studies (17 causal, 14 associational, 13 review, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 9 of 69 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,9 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](../claims/majority-vote-choice-raises-intrinsic-motivation-biology.md) [+M] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Implement classroom topic choice through a transparent majority vote with caring teacher support"; tests this page's relationship.
 - [Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction](../claims/autonomy-support-and-structure-complementary.md) [+W] — attached 2026-11-04 from Neufeld A (2026), which proposed "Distinguish necessary clinical direction from psychologically controlling pressure"; tests this page's relationship.
 - [High control predicts need frustration even when autonomy support is also present](../claims/high-control-predicts-need-frustration-despite-autonomy-support.md) [+W] — attached 2026-11-04 from Neufeld A (2026), which proposed "Distinguish necessary clinical direction from psychologically controlling pressure"; tests this page's relationship.
+- [Satisfaction/enjoyment with PE mediates the relation between perceived autonomy support and PE academic performance](../claims/enjoyment-mediation-autonomy-support-pe-performance.md) [+M] — attached 2026-11-08 from Baños Raúl et al. (2020), which proposed "Pair an autonomy-supportive teaching style with strategies that make students enjoy PE to improve performance".
+- [Perceived autonomy support does not directly predict PE academic performance in Mexican secondary students](../claims/autonomy-support-no-direct-prediction-pe-score.md) [~M] — attached 2026-11-08 from Baños Raúl et al. (2020), which proposed "Pair an autonomy-supportive teaching style with strategies that make students enjoy PE to improve performance".
+- [Teacher psychological control positively predicts academic stress while autonomy support negatively predicts it in university students](../claims/teacher-psychological-control-positively-predicts-academic-stress.md) [+M] — attached 2026-11-08 from Trigueros R. et al. (2020), which proposed "Support student autonomy rather than exercising psychological control to reduce academic stress".
 
 ## Objective and learner-valued goal
 

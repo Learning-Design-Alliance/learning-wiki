@@ -74,3 +74,4 @@ Skill transfer strategies were coded 9 times (17% of n = 53); managers recommend
 - [Managerial commitment and clinical educator support are crucial for establishing a workplace learning culture enabling SDL.](managers-educators-learning-culture-sdl.md) — related
 - [Healthcare leaders in the Balkans acquire leadership skills through experiential learning and mentorship rather than formal training programs](leadership-skills-experiential-mentorship.md) — related
 - [Management and clinical staff prioritise different aspects of ED simulation training](clinician-management-priority-split-sbt.md) — related
+- [Managers value the centrally organised, obligatory residency programme with reflection as a supportive structure for continued learning](residency-programme-supportive-structure-continued-learning.md) — related

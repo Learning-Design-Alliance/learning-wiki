@@ -49,3 +49,4 @@ Secondary endpoint of the pilot randomized trial, assessed with a 25-question mu
 - [Simulation-trained students committed fewer procedural safety red flags than conventionally trained students in a simulated coronary angiography](simulation-training-fewer-safety-red-flags.md) — related
 - [Mentored simulation training with a 3D-printed coronary simulator produced higher procedural efficacy scores than conventional video training in final-year medical students](simulation-training-higher-ica-efficacy-score.md) — related
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
+- [Vascular simulation training residents score higher on theoretical knowledge tests than conventionally trained residents](st-higher-theoretical-scores-vascular-residents.md) — related

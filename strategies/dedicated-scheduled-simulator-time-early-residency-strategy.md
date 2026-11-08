@@ -46,6 +46,7 @@ The article recommends embedding simulator practice into residency training rath
 - [Integrate SSL into the nursing curriculum by blocking out dedicated time slots and attaching credits to its utilisation](integrate-ssl-curriculum-time-slots-credits.md)
 - [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
+- [Incorporate a 2-week mentored simulation course into vascular resident training](two-week-mentored-vascular-simulation-course.md)
 
 ## Examples
 -

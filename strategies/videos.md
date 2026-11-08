@@ -72,6 +72,7 @@ Video's learning value comes from how well its design manages [Cognitive Load Ma
 - [Combine varied teaching formats with regular knowledge-testing questions and direct feedback in flipped-classroom e-learning](e-learning-formats-questions-direct-feedback-strategy.md)
 - [Improve the teaching quality of online content delivery and use video strategies such as interactive elements and cognitive-load management](improve-recorded-lecture-quality-and-video-strategies.md)
 - [Create a narrated expert video library of specific surgical techniques coupled with existing workshops and lectures](narrated-expert-video-library-surgical-curriculum.md)
+- [Train novices for image-annotation tasks via an image-rich anatomy curriculum, an SOP with a short demonstration video, and recorded interactive videoconferencing sessions](image-rich-curriculum-videoconference-training-for-annotation.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — video is a scalable delivery vehicle for expert modeling

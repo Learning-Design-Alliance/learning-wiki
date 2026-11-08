@@ -47,3 +47,4 @@ Single cross-sectional survey study (Puljak et al., 9 health science institution
 ## Related Claims
 - [On a relative leaderboard, intrinsic motivation is equal across top, middle, and bottom ranked students](relative-leaderboard-equal-intrinsic-motivation.md) — related
 - [Effects on affirming motivations are larger when total intervention duration is longer and when the share of boys in the sample is higher](duration-and-gender-moderators.md) — related
+- [Most Croatian health sciences students reported motivation and attendance for exclusive e-learning equal to classroom lessons](e-learning-motivation-attendance-equal-classroom.md) — related

@@ -54,3 +54,4 @@ In the limitations section, the authors discuss the contested status of self-rep
 - [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — possibly the same claim (merge candidate)
 - [Self-report survey measures of integrity may diverge from actual behaviour, as illustrated by participants' self-perceptions versus admitted conduct](self-report-diverges-from-behaviour-ri.md) — a narrower finding that bears on this claim
 - [Self-reported perceptions of regulatory activities often differ from learners' actual regulatory behaviour](self-reports-differ-actual-regulation-behaviour.md) — related
+- [Behavioral marker systems offer greater objectivity than self-report but are more resource intensive](behavioral-marker-systems-objective-but-costly.md) — possibly the same claim (merge candidate)

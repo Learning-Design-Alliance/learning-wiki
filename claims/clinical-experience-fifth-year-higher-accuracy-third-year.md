@@ -48,3 +48,4 @@ Post-hoc pairwise comparisons following a significant Kruskal-Wallis test on cor
 - [ChatGPT-4o showed higher consistency in correct answer rates than students, with a narrow interquartile range versus wide variability among third-year students](chatgpt-4o-consistency-narrow-iqr-endodontic-accuracy.md) — related
 - [ChatGPT-4o outperformed both third-year and fifth-year dental students in diagnostic accuracy on endodontic multiple-choice questions with radiographic and clinical images](chatgpt-4o-outperforms-dental-students-endodontic-diagnosis.md) — related
 - [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related
+- [Students scored higher on the EBM topics taught in their current course year, suggesting knowledge depends on recency and context of learning](students-score-higher-recently-taught-topics.md) — related

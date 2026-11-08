@@ -52,6 +52,7 @@ To address barriers including limited training resources, time constraints, and 
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 - [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
 - [Include a directly-observed clinic-based assessment of the bHIT as a specific component of EPAs for evaluating dizzy patients](direct-bhit-assessment-in-epas-strategy.md)
+- [Involve students in real-life resuscitations and adopt competency-based assessments with regular practice rather than relying on course certifications](real-resuscitation-involvement-competency-assessment.md)
 
 ## Examples
 -

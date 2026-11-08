@@ -106,3 +106,4 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 - [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related
 - [Individual trainings alone are unlikely to overcome the impact of broader inequities on student outcomes](individual-trainings-unlikely-overcome-structural-inequities.md) — related
 - [Exporting individualistic, universalized well-being curricula across contexts can promote deficit discourse and epistemic injustice](universalized-wellbeing-curricula-promote-deficit-discourse.md) — related
+- [Teachers acted on social inequities by flexibly distributing resources, promoting marginalized groups, and critically reflecting on power and their own positionality](acting-on-social-inequities-hpe.md) — related

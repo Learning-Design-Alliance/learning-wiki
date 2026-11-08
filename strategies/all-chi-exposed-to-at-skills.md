@@ -45,6 +45,7 @@ The article recommends that "All the children with hearing impairment should be 
 ## Related Strategies
 
 - [Teachers of children with hearing impairment should use auditory training to teach reading.](teachers-should-use-at-to-teach-reading.md)
+- [Support hearing-impaired students through classroom sound amplification, improved acoustics and teacher training](classroom-supports-for-hearing-impaired-students.md)
 
 ## Examples
 -

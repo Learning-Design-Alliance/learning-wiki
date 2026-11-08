@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-10-20
+source_checked: 2026-11-08
 sources:
   - id: li-shenghui-2013
     resource: "https://doi.org/10.1371/journal.pone.0067928"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
-> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` At follow-up, children with frequent daytime sleepiness had greater odds of impaired attention (OR = 1.14, p = 0.030), learning motivation (OR = 1.11, p = 0.015), and academic achievement (OR = 1.18, p = 0.005). [→ Li Shenghui 2013](#li-shenghui-2013)
@@ -86,3 +86,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Headache, stress/anxiety, and fasting-affected sleep are associated with markedly higher sleepiness and fatigue during fasting](fasting-symptoms-associated-sleepiness-fatigue.md) — related
 - [77.2% of students reported poor or very poor academic performance during remote classes, linked to daytime sleepiness](poor-academic-performance-remote-classes-sleepiness.md) — a narrower finding that bears on this claim
 - [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](student-sleepiness-associated-lower-achievement-2019.md) — a narrower finding that bears on this claim
+- [Treatment-seeking war-affected youth show chronic, frequent nightmares with severe sleep disturbance and daytime sleepiness at school](chronic-nightmares-sleep-disturbance-school-sleepiness.md) — related

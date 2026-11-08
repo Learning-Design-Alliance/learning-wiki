@@ -72,3 +72,4 @@ Meta-analysis of randomized trials comparing virtual patients with traditional e
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
 - [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — related
 - [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md)
+- [A meta-analysis found blended learning in the health professions seems more effective or at least as effective as traditional instruction for knowledge acquisition](blended-learning-meta-analysis-knowledge-acquisition.md) — related

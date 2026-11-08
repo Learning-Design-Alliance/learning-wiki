@@ -44,6 +44,7 @@ In the discussion the authors recommend moving from broad multi-device workshops
 - [Combine a briefing with a simulation scenario and individual expert feedback when training staff on a new medical device](briefing-plus-simulation-with-feedback-for-device-training.md)
 - [Replace passive theoretical IT instruction with hands-on active technological creation and algorithmic troubleshooting](hands-on-active-technological-creation-curriculum.md)
 - [Improve security training efficacy through more hands-on, repeated, and systematically exposed training rather than one-off awareness videos](repeated-hands-on-security-training-strategy.md)
+- [Use interprofessional, simulation-inclusive training toward a universal airway management approach, blending simulation, clinical volume, and effective learning strategies](interprofessional-universal-airway-training-strategy.md)
 
 ## Examples
 -

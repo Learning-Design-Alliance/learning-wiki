@@ -53,3 +53,4 @@ Blinded randomized controlled trial of 17 randomized residents (8 IVR, 8 control
 - [Adding immersive VR training to an online module yields higher mannequin-based technical skill scores (OSATS) than the online module alone in novice medical students](vr-plus-online-higher-osats-chest-tube.md) — related
 - [Medical students trained with a gamified VR cricothyrotomy simulation achieved significantly higher total procedural-step scores than students who watched an educational video](vr-cricothyrotomy-higher-procedural-score.md) — related
 - [Self-directed learning by video did not produce a statistically significant difference in total OSATS score between surgery resident groups](sdl-video-no-significant-osats-difference.md) — related
+- [Senior orthopedic residents trained with immersive virtual reality achieved higher OSATS scores on a cadaveric reverse shoulder arthroplasty than video-trained controls](ivr-training-higher-osats-scores-rsa-residents.md) — related

@@ -67,3 +67,4 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [The authors interpret real-time feedback within the ESNPNSD as helping minimize documentation errors before students enter clinical practice](esnpnsd-realtime-feedback-error-minimization.md) — related
 - [Graduate anatomy students preferred feedback-based formative assessments over quiz-based assessments for their perceived individualized nature and facilitation of deeper learning](students-prefer-feedback-based-assessments-deeper-learning.md) — related
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
+- [Anxiety during standardized-patient simulation can be managed by increasing simulation opportunities and providing sufficient debriefing time, according to the authors' interpretation.](debriefing-to-manage-sp-simulation-anxiety.md) — related

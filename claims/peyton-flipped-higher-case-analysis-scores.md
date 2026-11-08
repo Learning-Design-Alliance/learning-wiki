@@ -50,3 +50,4 @@ Case analysis was assessed with five questions worth 20 points each, including C
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](modified-peyton-one-month-retention.md) — related
 - [Residents in the Peyton's four-step and flipped classroom group reported greater improvement in learning interest than control group residents](peyton-flipped-greater-learning-interest.md) — related
+- [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related

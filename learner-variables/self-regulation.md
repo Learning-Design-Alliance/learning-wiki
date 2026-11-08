@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 269 claims (192 show a difference, 45 mixed, 32 no difference) · 194 studies (69 causal, 47 associational, 39 review, 14 quant-synthesis, 11 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 36 of 194 report an effect size · 260 claims rest on one study
+> **Evidence** · 270 claims (193 show a difference, 45 mixed, 32 no difference) · 195 studies (69 causal, 47 associational, 39 review, 14 quant-synthesis, 12 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 36 of 195 report an effect size · 261 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -318,6 +318,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-regulation is negatively associated with academic procrastination in adolescents](../claims/self-regulation-negatively-associated-adolescent-procrastination.md) [+M] — learners who differ on it differ in outcomes
 - [Self-regulation is positively associated with academic self-efficacy in adolescents](../claims/self-regulation-positively-associated-academic-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [Self-regulation is the most potent personal predictor of academic achievement in Colombian adolescents](../claims/self-regulation-strongest-personal-predictor-adolescent-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Students who self-perceive as high achieving report monitoring-phase SRL strategies more often than low- and middle-achieving peers](../claims/high-achievers-use-more-monitoring-strategies.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

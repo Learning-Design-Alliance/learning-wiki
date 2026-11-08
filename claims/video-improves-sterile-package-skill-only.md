@@ -68,3 +68,4 @@ Same laboratory assessment (Table 5): for the other three skills the means were 
 - [Video-assisted teaching and skill demonstration produce equivalent post-test knowledge of surgical aseptic technique in first-year nursing students](video-vs-demonstration-equivalent-aseptic-knowledge.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
+- [Knowledge of sterile spatula use rose from regular (0.30) to good (0.76) from pre-test to post-test in one uncontrolled pre-post study, but did not reach ideal agreement](spatula-knowledge-regular-to-good.md) — related

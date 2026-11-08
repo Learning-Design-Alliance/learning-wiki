@@ -96,3 +96,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - PBL combined with situational simulation teaching yields higher nursing practice satisfaction scores than conventional teaching — related
 - [Rubric-graded PowerPoint team presentations in all three biology courses showed learning gains in knowledge integration and synthesis](mbcl-presentations-show-deep-learning-gains.md) — related
 - [Blended GC-plus-traditional teaching produced non-inferior learning satisfaction and academic achievement compared with traditional teaching, with no significant between-group differences in progress](blended-gc-non-inferior-outcomes.md) — related
+- [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related

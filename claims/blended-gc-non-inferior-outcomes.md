@@ -56,3 +56,4 @@ Generalized estimating equation (time × group interaction) analysis across both
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related
 - [Nursing students showed high acceptance of Google Classroom, with perceived ease of use, intention to use, and overall technology acceptance increasing significantly from mid- to end-of-semester](gc-high-acceptance-increased-over-semester.md) — related
 - [The experimental group scored significantly higher than the control group only on the mid-semester procedure-and-interaction satisfaction subscale](midterm-procedure-interaction-advantage.md) — reports the opposite
+- [Students in the flipped classroom adult-health nursing course report high satisfaction approaching agreement at semester end](flipped-classroom-high-satisfaction-nursing-students.md) — related

@@ -49,6 +49,7 @@ The article recommends integrating game-based learning into medical curricula â€
 - [Integrate puzzle-based techniques regularly into applied nursing curricula and train instructors in their use](regular-puzzle-integration-nursing-curricula-strategy.md)
 - [Integrate classic African board games into teaching mathematics, STEM skills, and AI topics, with teacher training](integrate-african-board-games-teaching-strategy.md)
 - [Integrate structured, scenario-based game-based learning into clinical nursing internships alongside standard instruction](integrate-gbl-into-nursing-internships.md)
+- [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
 
 ## Examples
 -

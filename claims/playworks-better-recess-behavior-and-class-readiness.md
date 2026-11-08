@@ -63,3 +63,4 @@ In the cohort 1 randomized experiment, treatment teachers reported significantly
 - [The prior RCT found no treatment effects on recess social interactions or academic skills](schoolmax-no-effect-recess-academic-outcomes.md) — related
 - [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — related
 - [Students and teachers perceive increased physical activity inside and outside the classroom and reduced screen time, but observed no changes in children's physical fitness](pal-perceived-pa-gains-no-fitness-change.md) — related
+- [Schools with Playworks programs show more physical activity, less bullying, and more attentive students than schools without](playworks-impact-findings.md) — a broader claim this one bears on

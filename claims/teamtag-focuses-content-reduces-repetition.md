@@ -68,3 +68,4 @@ Figure 3 heatmap analysis of repetition patterns across debriefings: control gro
 - [Using the TeamTAG cognitive aid does not change the number of teamwork principles discussed in debriefings compared with roughly structured GAS debriefings](teamtag-no-difference-number-principles-discussed.md) — reports the opposite
 - [Debriefing with versus without TeamTAG shows no difference in participant satisfaction, perceived relevance of CRM principles, or teamwork quality](teamtag-no-difference-satisfaction-teamwork.md) — related
 - [Debriefing effects on learning remain highly dependent on the individual instructor even when a structuring cognitive aid is used](debriefing-effects-dependent-on-instructor.md) — related
+- [Brief structured clinical debriefings (mean 10.93 min) using a cognitive aid appeared to foster learning in a time-constrained emergency department](brief-structured-clinical-debriefings-feasible.md) — related

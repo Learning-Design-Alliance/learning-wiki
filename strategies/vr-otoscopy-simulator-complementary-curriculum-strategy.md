@@ -51,6 +51,7 @@ The article recommends embedding the validated virtual reality otoscopy simulato
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
 - [Incorporate immersive VR simulation into radiography education to build clinical preparedness](immersive-vr-simulation-radiography-education-strategy.md)
+- [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 
 ## Examples
 -

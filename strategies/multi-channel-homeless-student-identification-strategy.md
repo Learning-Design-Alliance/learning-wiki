@@ -40,6 +40,7 @@ Study districts increased self-referrals and staff referrals through several imp
 
 - [Raise teacher awareness of new features through professional development and outreach](raise-teacher-awareness-new-feature-pd-outreach.md)
 - [Dedicate more staff time to homeless liaison responsibilities and designate school-site liaisons to improve identification and reengagement](school-site-liaisons-identification-homeless-students.md)
+- [Bundle multiple provider education modalities (workshops, lectures, outreach visits, distributed materials) rather than a single session](bundle-provider-education-interventions.md)
 
 ## Examples
 -

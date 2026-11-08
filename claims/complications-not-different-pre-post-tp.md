@@ -53,3 +53,4 @@ Null comparison of puncture-related complications (local hematoma, one vasospasm
 - [In one uncontrolled pre-post study, neurological complication rates fell from 3.2% before to 1.0% after CDHT, and allergic reaction rates fell from 4.3% to 3.2%; neither change was statistically significant](cdht-no-safety-compromise-neurologic-allergic.md) — related
 - [The study indicates a correlation between the reduction in mechanical complications and the decrease in multiple punctures](complication-reduction-correlated-with-fewer-multiple-punctures.md) — related
 - [Vocal cord palsy remained frequent even in the proficient stage, at 19.0%, despite overall learning-curve improvement](laspme-vocal-cord-palsy-persists-in-proficient-stage.md) — related
+- [Simulation-trained residents show higher first-attempt arterial puncture success, shorter puncture time and higher patient comfort, with no difference in complications](st-arterial-puncture-performance.md) — related

@@ -47,3 +47,4 @@ Analysis of variance with repeated measures of students' reading and writing sco
 ## Related Claims
 - [Both DS-integrated and traditional writing instruction significantly improved narrative writing scores from pre-test to post-test](both-instruction-types-improved-narrative-writing.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
+- [Both groups improved from pre- to post-intervention, with a larger within-group effect in the intervention group](ebp-within-group-gains-both-groups.md) — related

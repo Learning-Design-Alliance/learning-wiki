@@ -45,7 +45,8 @@ The authors recommend a set of forward-looking actions to enhance the platform's
 - [Learners completing the ESPE CME e-learning modules came from all inhabited continents, with most practicing in Europe (59%) and 12% in resource-limited countries](../claims/espe-cme-global-participation-distribution.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use professional exchange programs and technology-supported CME to extend ID training beyond local provision](exchange-programs-and-cme-technology-id-training.md)
 
 ## Examples
 -

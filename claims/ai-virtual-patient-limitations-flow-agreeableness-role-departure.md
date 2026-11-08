@@ -85,3 +85,4 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](student-critical-perspectives-simulations.md) — related
 - [OSCE raters perceive the examination as fundamentally inauthentic, including its scenarios, simulated patients and marking systems](raters-perceive-osces-inauthentic.md) — related
 - [Video analysis suggested SP role portrayal of highly emotional scenarios remained authentic in the digital format](sp-role-portrayal-authenticity-unaffected-digital.md) — related
+- [Students judge conventional simulation training unrealistic, confined to pre-established scenario behaviors, and variable in effectiveness across instructors](conventional-simulation-unrealistic-instructor-variability.md) — related

@@ -71,3 +71,4 @@ Results section reporting session-level collaboration under PBL-STH: "Peer-to-pe
 - [Diagnostic accuracy rose from 40% before to 86.6% after PBL-STH teaching in one Oral Pathology resident group with no comparison group, assessing complex lymphoma cases](pbl-sth-diagnostic-accuracy-dlbcl.md) — related
 - [In one uncontrolled pre-post study, 93% of residents self-reported highly favorable ratings of PBL-STH sessions versus 50% for traditional sessions in the feedback survey](pbl-sth-resident-satisfaction-survey.md) — related
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — a broader claim this one bears on
+- [Participants reported the book club contributed to peer bonding and engagement with the residency program](book-club-bonding-engagement.md) — related

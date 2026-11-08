@@ -24,7 +24,7 @@ sources:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (24 for, 7 mixed) · 44 studies (13 causal, 10 review, 6 qualitative, 5 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 44 report an effect size · 21 claims rest on one study
+> **Evidence** · 32 claims (25 for, 7 mixed) · 45 studies (13 causal, 11 review, 6 qualitative, 5 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 45 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Claims that mention modelling but bear on this page little or not at all:
 - [Peer-expert modeling videos interspersed with instructional guidance produce significant medium-to-large positive effects on IPS performance compared to practice-only groups](../claims/peer-expert-modeling-improves-ips-performance.md) [+W] — attached 2026-10-20 from Boetje et al. (2026), which proposed "Provide opportunities for students to observe short fragments of peer-expert models interspersed with instructional guidance to increase IPS performance"; tests this page's relationship.
 - [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](../claims/pacing-control-video-model-understanding.md) [+W] — attached 2026-10-21 from Wouters et al. (2007), which proposed "Guidelines for interactivity in video-based modeling mapped to cognitive processes and skill-acquisition stages"; tests this page's relationship.
 - [Observers of peer models who made and corrected key errors learned to identify and eliminate such errors, whereas observers of expert models missed the error-correction information](../claims/peer-model-error-correction-observers.md) [+W] — attached 2026-10-21 from Wouters et al. (2007), which proposed "Guidelines for interactivity in video-based modeling mapped to cognitive processes and skill-acquisition stages"; tests this page's relationship.
+- [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](../claims/peyton-four-step-superior-controlled-trial.md) [+W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Break skills into small discrete steps and demonstrate every detail when teaching"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

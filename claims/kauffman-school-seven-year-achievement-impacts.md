@@ -73,3 +73,4 @@ Quasi-experimental evaluation matching Kauffman students to a comparison group o
 - [Kauffman School attendance impacts were positive and significant in some grades and not significantly different from zero in others](kauffman-attendance-impacts-mixed-by-grade.md) — related
 - [Charter school entrants have similar or lower achievement than incumbents in all studied cities, suggesting no cream skimming](credo-cohort1-charter-no-cream-skimming.md) — related
 - [Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages](credo-cohort1-magnet-strong-positive-growth.md) — related
+- [Schools partnering with City Year were more likely to improve ELA and math proficiency rates than non-partner schools](city-year-whole-school-whole-child-impact.md) — related

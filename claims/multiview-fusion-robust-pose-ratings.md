@@ -51,3 +51,4 @@ Authors' interpretation (qualitative exemplar analysis in the Results and discus
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related
 - [Limited camera views and poor sound quality are the two main weaknesses of live video observation](lvo-weaknesses-limited-view-poor-sound.md) — related
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
+- [Ergonomic working posture quality varies by component: students succeeded best at clock position and shoulder rest, least at neck inclination and lumbar lordosis](ergonomic-posture-component-variation.md) — related

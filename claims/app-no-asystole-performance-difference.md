@@ -51,3 +51,4 @@ Asystole scenario with 10 teams per arm. "Across all key ALS performance metrics
 - [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related
 - [The control group's means and standard deviations were higher than the experimental group's on five performance metrics, though not significantly](control-group-higher-descriptive-means-five-metrics.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
+- [Overall team resuscitation performance (CPT) and median c-DEVplus deviation scores were similar between app and control teams in the pilot](pediaprrrest-cpt-and-devplus-comparable.md) — related

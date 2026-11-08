@@ -50,3 +50,4 @@ Review of 7 studies using global rating scales including OSATS and GOALS, with o
 - [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — a narrower finding that bears on this claim
 - [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — related
 - [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — a narrower finding that bears on this claim
+- [Virtual reality simulator training before the first laparoscopic hysterectomy improves residents' Global Rating Scale OSATS scores in the live operation](vr-simulator-training-improves-grs-osats-first-laparoscopic-hysterectomy.md) — a narrower finding that bears on this claim

@@ -69,3 +69,4 @@ Same regression models (Table 2): session coefficient -5.85 (p 0.01) significant
 - [Resident workload is predicted by PGY level, sleep, operative time, case number, and pre-procedure anxiety in both simulated and live robotic bariatric surgery](workload-regression-predictors-pgy-sleep-time-stai.md) — related
 - [Medical students' state anxiety (STAI-Y) scores rose after both high-fidelity and procedural simulation sessions, with no significant difference between the two procedures](stai-y-anxiety-increased-after-both-hf-and-ps-simulation.md) — related
 - [Salivary cortisol fold increase was significantly higher after high-fidelity simulation (1.46) than after procedural simulation (1.22)](cortisol-fold-increase-higher-hf-than-ps.md) — related
+- [Salivary cortisol measured before an OSCE was not associated with self-reported anxiety and did not differ from reference values](osce-cortisol-anxiety-not-associated.md) — reports the opposite

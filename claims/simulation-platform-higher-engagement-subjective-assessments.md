@@ -73,3 +73,4 @@ Questionnaire domain assessing proactive learning behavior; the simulation group
 - [A significantly larger proportion of integrated-teaching trainees positively evaluate the teaching method (100% vs. 86.0%)](teaching-satisfaction-proportion-chi-square.md) — related
 - [CMRL trainees rated the teaching method higher than MBL trainees on satisfaction and perceived improvement of practice, theoretical, and operational knowledge](cmrl-trainee-teaching-evaluations-higher.md) — related
 - [SDTM raised trainee engagement and enjoyment ratings with large effect sizes](sdtm-higher-engagement-and-enjoyment-ratings.md) — related
+- [Residents rated IVR training as more enjoyable, easier to use, and with greater teaching capacity than video training, except for implant-specific steps](resident-experience-ratings-ivr-vs-video.md) — related

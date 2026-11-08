@@ -47,6 +47,7 @@ Based on the trial's finding that motivation was poor in both settings, the auth
 
 - [Allocate 10–15% of curriculum hours to structured soft skills training with mandatory modules and OSCE/portfolio assessment](soft-skills-curriculum-hours-allocation-strategy.md)
 - [Implementation recommendations: increase pupil motivation, clarify session structure in training, and trial an expanded dialogic reading component separately](chatterbooks-implementation-recommendations.md)
+- [Incorporate dedicated simulation learning centers within active hospital environments for accessible, distanced skills practice](dedicated-in-hospital-simulation-learning-centers.md)
 
 ## Examples
 -

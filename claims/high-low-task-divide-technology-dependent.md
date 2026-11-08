@@ -49,3 +49,4 @@ Theoretical argument in the task-definition section. The paper contrasts the com
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — related
 - Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments — related
 - [Computer programmer employment is projected to decline 10% from 2021 to 2031 due to automation, and apprenticeships placed in automation-vulnerable pathways risk reinforcing disparities](automation-declines-programmer-jobs-apprenticeship-risk.md) — related
+- [Reliability is context-dependent rather than a static attribute of a measurement tool](reliability-context-dependent-not-static.md) — a narrower finding that bears on this claim

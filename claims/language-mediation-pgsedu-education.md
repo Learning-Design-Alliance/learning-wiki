@@ -48,3 +48,5 @@ Two longitudinal SEMs (hypothesis 3) in MoBa trios using a mother-reported SLAS 
 - [Children's education polygenic scores are not significantly associated with maternal positive parenting at age 5 after controlling for parental polygenic scores](child-pgsedu-no-evocative-effect-positive-parenting.md) — related
 - [Literacy-focused (but not positive) maternal parenting mediates the effect of children's education polygenic scores on educational performance](literacy-focused-parenting-mediation-pgsedu-education.md) — related
 - [No robust evidence of genetic nurture: direct effects of parents' education polygenic scores on children's educational performance and language were not significant in trio models](no-genetic-nurture-parent-pgsedu-education.md) — related
+- [Mothers' education genetics predict children's attainment over and above genetic transmission, mainly via cognitively stimulating parenting (genetic nurture)](genetic-nurture-mediated-by-cognitive-stimulation.md) — related
+- [Both children's education polygenic scores and the four parenting aspects predict educational attainment at age 18](pgs-and-parenting-predict-educational-attainment.md) — related

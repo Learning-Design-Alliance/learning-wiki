@@ -54,3 +54,4 @@ Qualitative descriptive study of 24 purposively sampled undergraduate health sci
 - [Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies](strategies-relate-wellbeing-health-achievement.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Over nine in ten fresh health sciences undergraduates score above-average emotional intelligence, with the lowest dimension being regulation of emotion](fresh-health-sciences-undergraduates-high-ei-prevalence.md) — related
+- [Mentoring positions are dynamic and context-specific rather than stable innate traits, and mentors may draw on multiple positions](mentoring-positions-dynamic-context-specific.md) — related

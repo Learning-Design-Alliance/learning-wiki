@@ -54,3 +54,4 @@ Gender-stratified adjusted mixed models (Table 5) on the linked WEC–NAPLAN/PAT
 - [The emotional well-being index has the least predictive power on academic outcomes, with effect sizes in the hundredth-of-a-SD range](well-being-index-least-predictive-academic-outcomes.md) — related
 - [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
 - [The overall WEC well-being index has a weak positive association with academic outcomes, with effect sizes no larger than 0.1 SD](wec-index-weak-positive-association-academic-outcomes.md) — related
+- [Male sex is associated with poorer Year 3 NAPLAN achievement in all five domains](male-sex-poorer-naplan-all-domains.md) — related

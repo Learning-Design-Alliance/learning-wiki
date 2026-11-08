@@ -45,6 +45,7 @@ The review's research team proposes "the implementation of a continuous professi
 - [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Use optional professional development sessions for administrators and educators to support Imagine Math implementation](imagine-math-optional-pd-sessions.md)
+- [Develop a suitable mix of presence and digital formats for continuing medical education seminar programs.](mix-presence-and-digital-formats-cme.md)
 
 ## Examples
 -

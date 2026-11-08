@@ -56,3 +56,4 @@ Anonymous post-training reaction survey using Likert-scale multiple-choice quest
 - [Junior anesthesiology residents completing an RCDP-based ACLS simulation curriculum report high satisfaction and expect improved clinical performance](rcdp-acls-residents-high-satisfaction.md) — related
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — a narrower finding that bears on this claim
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
+- [First-year medical students reported that the simulation session increased their knowledge of the pulmonary system](students-report-increased-pulmonary-knowledge-from-sbe.md) — related

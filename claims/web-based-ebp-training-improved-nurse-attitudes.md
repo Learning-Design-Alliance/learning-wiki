@@ -50,3 +50,4 @@ The abstract and Fig 2 report the distribution of attitudes toward EBP pre- and 
 - [EBP interventions significantly increased nursing students' EBP efficacy scores from a mean of 2.30 ('a little confident') to 3.05 ('confident')](nursing-ebp-efficacy-scores-increased.md) — related
 - [Nurses' total EBP knowledge scores rose from pre-test to post-test after a four-week web-based EBP training program, in one uncontrolled quasi-experimental pretest-posttest study](web-based-ebp-training-improved-nurse-knowledge.md) — related
 - [The web-based EBP training program significantly improved nurses' self-reported EBP skills scores](web-based-ebp-training-improved-nurse-skills.md) — related
+- [An EBP educational program produces a statistically significant intervention-by-time interaction on undergraduate nursing students' EBP knowledge and skills](ebp-program-interaction-ebp-knowledge-skills.md) — related

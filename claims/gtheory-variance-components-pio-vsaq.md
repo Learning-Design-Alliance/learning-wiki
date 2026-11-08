@@ -49,3 +49,4 @@ Two-facet fully crossed random-effects (P×I×O) generalizability analysis of 94
 - [Generalizability decision study: one occasion of ISF-VSAQ requires about 25 items for acceptable reliability (Phi = 0.72), while two occasions with ten items suffice (Phi = 0.71)](gtheory-vsaq-items-occasions-dstudy.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
 - [Student self-marking of ISF-VSAQ answers shows excellent inter-rater reliability with teacher ratings (rs = 0.87–0.98 per item; overall r = 0.97)](isf-vsaq-self-marking-teacher-reliability.md) — related
+- [Reliability is context-dependent rather than a static attribute of a measurement tool](reliability-context-dependent-not-static.md) — a broader claim this one bears on

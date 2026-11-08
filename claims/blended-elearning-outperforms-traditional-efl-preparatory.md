@@ -66,3 +66,4 @@ Quasi-experiment at KAU Community College: two parallel classes taught by routin
 - [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](blended-teaching-higher-academic-achievement-medical-students.md) — related
 - [Students taught with an eclectic learning approach achieved significantly higher post-test scores in English than students taught with a traditional learning approach.](eclectic-approach-higher-english-achievement.md) — related
 - [Students receiving RG-UClass-based blended teaching consistently outperform traditionally taught peers on pre-course, in-class, and post-course tests](rg-uclass-blended-teaching-higher-stage-test-scores.md) — related
+- [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related

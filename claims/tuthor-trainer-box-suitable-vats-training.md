@@ -51,3 +51,4 @@ The review describes Domhan and collaborators' TuThor device, combining a porcin
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
 - [Participants rated telesimulation positively on enjoyment, knowledge gain, suitability, and practical training opportunities](positive-perception-of-telesimulation.md) — related
 - [Ten general thoracic surgeons found the pediatric VATS simulator very difficult but unanimously agreed it was worth using for rehearsal training](ten-surgeons-rehearsal-training-consensus.md) — related
+- [Participants rate porcine tissue as similar to human tissue and all three tasks as effective for training](participant-ratings-tissue-similarity-task-effectiveness.md) — related

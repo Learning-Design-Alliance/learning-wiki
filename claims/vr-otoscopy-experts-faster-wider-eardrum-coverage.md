@@ -50,3 +50,4 @@ In the same controlled trial, task completion time and percentage of assessed ea
 - [Otolaryngologists significantly outperform medical students on a modified OSATS otoscopy assessment in the virtual reality simulator, supporting construct validity](vr-otoscopy-simulator-construct-validity-osats.md) — related
 - [Examination time differs by training group, with the low-fidelity-only group taking significantly longer without examining more tympanic membrane](examination-time-group-differences-otoscopy.md) — related
 - [Feedback during high-fidelity simulator training increases the percentage of the tympanic membrane examined in a subsequent practical exam](simulator-feedback-increases-tympanic-membrane-coverage.md) — related
+- [VR training outperformed traditional training on specific test questions covering speech audiometry, otoscopy, tympanometry and speech recognition thresholds](vr-gains-larger-on-specific-audiometry-questions.md) — related

@@ -57,3 +57,4 @@ Cross-sectional survey of training base representatives; Table 6 listed major ch
 - [Nearly one-third of Mini-CEX students cited limited faculty availability and insufficient training as implementation barriers](mini-cex-faculty-availability-barriers.md) — related
 - [91.8% of interns using ultrasound experienced barriers, most commonly insufficient scanning routine (70.5%), lack of supervision (46.7%) and insufficient knowledge (41.4%)](intern-ultrasound-use-barriers-scanning-routine-supervision.md) — related
 - [Trainers report financial incentives, partner choice, institutional recognition and dedicated time as motivators, and lack of time and of trainee awareness as main barriers to dissemination](trainer-reported-motivators-and-barriers-pfa-o.md) — related
+- [Lack of knowledge, resources, and time were the most reported barriers to utilizing EBM among trainees](knowledge-resources-time-top-ebm-barriers.md) — related

@@ -49,3 +49,4 @@ Comparison of crude, socioeconomically adjusted, and fully comorbidity-adjusted 
 - [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md) — related
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [Communication disorders remain significantly associated with lower marks across all academic outcomes after controlling for co-occurring conditions, though attenuated](communication-disorders-attenuated-significant.md) — reports the opposite
+- [Excluding psychiatric comorbidity groups one at a time leaves the association between social anxiety disorder and educational outcomes largely unchanged](sad-educational-association-robust-to-comorbidity.md) — reports the opposite

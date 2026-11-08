@@ -102,3 +102,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Middle-grade students' e-learning performance correlates strongly with self-efficacy for learning and performance](middle-grade-self-efficacy-correlation.md) — related
 - [Metacognitive self-regulation is positively associated with college course grades and GPA](metacognitive-self-regulation-grades-gpa-association.md) — related
 - [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](motivational-strategies-little-difference-bl-dt.md) — related
+- [Academic stress negatively predicts motivation, metacognitive strategies, critical thinking and academic performance](academic-stress-negatively-predicts-motivation-strategies-thinking-performance.md) — related

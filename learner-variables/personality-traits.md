@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (100 show a difference, 33 mixed, 21 no difference) · 73 studies (40 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 23 of 73 report an effect size · 154 claims rest on one study
+> **Evidence** · 155 claims (101 show a difference, 33 mixed, 21 no difference) · 74 studies (41 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 23 of 74 report an effect size · 155 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -189,6 +189,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Grit was not associated with any measure of laparoscopic performance in this novice sample](../claims/grit-not-associated-laparoscopic-performance.md) [-M] — learners who differ on it differ in outcomes
 - [Only perseverance of effort, not consistency of interests, is positively related to schoolwork engagement](../claims/perseverance-effort-engagement-consistency-null.md) [+W] — learners who differ on it differ in outcomes
 - [Conscientiousness is positively related to student grades, but the estimated relationship is strongly biased upward when heterogeneous scale use is not corrected with anchoring vignettes](../claims/conscientiousness-grades-overestimated-uncorrected.md) [+M] — learners who differ on it differ in outcomes
+- [Students in the first decile of Conscientiousness Index scores have significantly lower Educational Performance Measure decile scores than the remaining students](../claims/ci-first-decile-lower-epm.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

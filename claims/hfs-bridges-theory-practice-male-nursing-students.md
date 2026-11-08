@@ -56,3 +56,5 @@ Qualitative theme from interviews and focus groups with 28 male nursing students
 - [High-resolution clinical cases with feedback helped residents link theory to practice and recognize conditions in daily practice](elearning-cases-link-theory-practice.md) — related
 - [The suite of mLearning tools appeared to support knowledge transfer between academic and clinical learning contexts, bridging the theory-practice gap](mlearning-suite-supports-knowledge-transfer.md) — related
 - [Practitioners reported high perceived realism during the simulation scenarios, confirming they felt they were supporting a newborn rather than a simulator](practitioners-reported-scenario-realism.md) — related
+- [Blended learning has the potential to improve healthcare learners' clinical competencies and bridge the gap between theory and practice](blended-learning-bridges-theory-practice-clinical-competencies.md) — related
+- [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related

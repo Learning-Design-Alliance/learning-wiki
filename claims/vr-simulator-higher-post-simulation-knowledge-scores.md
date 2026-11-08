@@ -51,3 +51,4 @@ Cluster randomized crossover trial of 111 fourth-year medical students in 20 cli
 - [Both VR and mannequin simulation situational-awareness scores rose significantly from pre-test to post-test within each group](both-modalities-improved-sa-within-groups.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — related
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
+- [Both traditional and VR training significantly improved post-training test scores over pre-test](both-training-modes-significantly-improve-scores.md) — related

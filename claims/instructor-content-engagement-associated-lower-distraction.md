@@ -57,3 +57,4 @@ ARM single-antecedent rules in the 530-student survey. Table 2 shows LI rules (e
 - [Attending to students' experiences and three interaction types is proposed as a route to more equitable online courses](equitable-online-courses-through-interaction-design.md) — related
 - [Technology sometimes distracted students from the learning experience, but distraction was balanced by the usefulness of content and structure](pda-distraction-balanced-by-structure.md) — related
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related
+- [Interaction among peers and instructors is found to be crucial for meaningful learning experiences and effectiveness in online learning](interaction-crucial-online-learning-effectiveness.md) — related

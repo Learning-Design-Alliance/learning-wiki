@@ -66,3 +66,4 @@ Secondary proficiency criterion analyzed in the same registry dataset using the 
 ## Related Claims
 - [Cumulative endotracheal intubation experience is associated with increased first attempt success among emergency medicine trainees after adjustment for device, indication, and airway difficulty](cumulative-eti-experience-increases-first-attempt-success.md) — a broader claim this one bears on
 - [A first attempt success rate of ≥ 85% is a defensible proficiency benchmark for emergency intubation, consistent with a meta-analytic ED benchmark of 84.1%](fas-85-percent-proficiency-benchmark.md) — related
+- [CUSUM-based studies suggest 22 to 45 intubation attempts are needed to reach a less-than-20% failure rate, rising to 57 to 75 attempts at a less-than-10% failure rate](intubation-attempts-competency-cusum-ranges.md) — related

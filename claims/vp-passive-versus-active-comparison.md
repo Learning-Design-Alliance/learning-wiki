@@ -88,3 +88,4 @@ Exploratory visual analysis of albatross plots (Figures 6 and 7) after planned s
 - [Active learning methods significantly improve safety motivation and internal locus of control compared to traditional passive instruction.](active-learning-improves-safety-motivation-locus-of-control.md) — related
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
 - [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md)
+- [A meta-analysis found blended learning in the health professions seems more effective or at least as effective as traditional instruction for knowledge acquisition](blended-learning-meta-analysis-knowledge-acquisition.md) — related
