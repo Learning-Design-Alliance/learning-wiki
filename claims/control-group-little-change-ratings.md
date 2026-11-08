@@ -48,3 +48,4 @@ Descriptive comparison of the 3 of 9 control participants who completed the post
 - [Instruction on contrastive stress did not significantly improve fluency ratings of intermediate learners' spontaneous speech](contrastive-stress-instruction-no-fluency-gain.md) — related
 - [The relationship between reading fluency and comprehension was inconsistent among struggling adolescent readers in both groups](inconsistent-fluency-comprehension-relationship.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
+- [Students struggled to complete synchronous e-learning activities: only 53% completed the pretest and 45% the posttest](low-synchronous-completion-kmtc-research-course.md) — related

@@ -50,3 +50,4 @@ Randomized controlled study of 69 final-year medical students randomized to HFS 
 - [High-fidelity simulation training produced higher team skills scores than interactive video-case training on the Mayo High Performance Teamwork Scale](hfs-higher-team-skills-score.md) — related
 - [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related
 - [Student satisfaction was higher for high-fidelity simulation training than for interactive video-case training](hfs-higher-student-satisfaction.md) — related
+- [Knowledge of asthma diagnosis and treatment improves after simulation training in both groups, with no between-group difference](knowledge-improves-after-asthma-simulation.md) — related

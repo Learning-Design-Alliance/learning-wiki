@@ -59,6 +59,7 @@ The article recommends that institutions delivering remote education mix asynchr
 - [Use blended bookend learning combining self-paced online modules with synchronous interactive discussion and case supervision](blended-bookend-learning-psychiatric-education.md)
 - [Mitigations for delivering virtual surgical skills courses: facilitators, re-playable demonstrations, and connectivity safeguards](virtual-course-technical-mitigations-strategy.md)
 - [Choose or blend asynchronous and synchronous e-learning based on skills targeted, student and teacher preferences, and organisational needs rather than performance alone](blend-sync-async-by-needs-and-preferences.md)
+- [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
 
 ## Examples
 -

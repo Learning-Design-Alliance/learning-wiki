@@ -63,3 +63,4 @@ Pre-post self-comparison of 24 paediatric postgraduates at one hospital; skills 
 - [Within the mobile-based learning group, skill scores rose significantly from pre-test to post-test on all four operating theatre procedures](mbl-within-group-skill-gains-pre-post.md) — related
 - [Simulation assessment improvements in nasal packing and tracheostomy care were confined to the hands-on-trained groups](simulation-gain-limited-to-trained-scenario.md) — related
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related
+- [Medical students and residents trained with the hybrid learning method completed significantly more endotracheal intubation steps correctly on real patients than the conventional simulation group](hybridlab-higher-eti-step-completion.md) — related

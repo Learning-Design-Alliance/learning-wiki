@@ -47,3 +47,4 @@ Observational analysis of DHIS2 routine data on 10,255 total births in 2017 and 
 ## Related Claims
 - [Among ventilated nonbreathing newborns, fresh stillbirths decreased significantly from 3.2% to 0.7% during the intervention, remaining significant after risk-factor adjustment](fresh-stillbirths-reduced-among-ventilated-newborns.md) — related
 - [Perinatal mortality showed no statistically significant change for all births, and the mortality reduction among ventilated newborns lost significance after adjustment](perinatal-mortality-no-significant-change-all-births.md) — related
+- [The intervention detected no significant differences in newborn morbidity and mortality indicators, with asphyxia proportions rising and stillbirth rates slightly declining across study periods.](hbb-no-detectable-mortality-morbidity-change.md) — related

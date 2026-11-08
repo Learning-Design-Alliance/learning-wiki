@@ -64,3 +64,4 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
 - [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related
 - [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — related
+- [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related

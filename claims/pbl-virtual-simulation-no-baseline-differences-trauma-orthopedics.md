@@ -76,3 +76,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [No statistically significant difference in pre-course theoretical test scores between the virtual simulation and MOOC groups](no-pretest-difference-virtual-simulation-mooc-groups.md) — a narrower finding that bears on this claim
 - [Final NRP test scores did not differ significantly between lecture-then-simulation and simulation-then-lecture training orders](nrp-final-scores-no-order-difference.md) — related
 - PBL combined with situational simulation teaching yields higher job competency questionnaire scores than conventional teaching, from equivalent baselines — related
+- [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — related

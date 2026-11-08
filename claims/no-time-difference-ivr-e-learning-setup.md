@@ -48,3 +48,4 @@ Secondary endpoint from the same randomized trial (Table 1); the article states 
 - [IVR headset training produces better (lower) overall set-up scores than e-learning for robot-naive learners in operating room configuration of the CMR Versius](ivr-beats-e-learning-robot-setup-overall-score.md) — related
 - [IVR-trained residents complete the thyroidectomy task faster than control-trained residents](ivr-faster-task-completion-thyroidectomy.md) — related
 - [IVR-trained participants self-assessed their performance more accurately than e-learning participants](ivr-accurate-self-assessment-confidence.md) — related
+- [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related

@@ -98,3 +98,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [No significant gender differences in examination performance within any of the three teaching-modality groups](no-gender-difference-anatomy-modality-groups.md) — related
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — reports the opposite
 - [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related
+- [Satisfaction with the computer laboratory was the most favorably rated e-Learning component while satisfaction with teaching faculty was the least rated, with significant differences by gender, school, age and year of study](ghana-elearning-satisfaction-lab-highest-faculty-lowest.md) — related

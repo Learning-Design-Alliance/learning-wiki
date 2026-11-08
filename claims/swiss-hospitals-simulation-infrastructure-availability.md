@@ -47,3 +47,4 @@ Cross-sectional online survey of heads of departments at all certified Swiss sur
 ## Related Claims
 - [Two-thirds of Swiss training centers cooperate in educational networks, most of which created their own laparoscopy-focused curriculum](swiss-training-networks-shared-curricula.md) — related
 - [Structured laparoscopic training curricula and assessments are rare despite wide simulator availability, and self-training sites are used infrequently](simulation-access-utilization-gap-switzerland.md) — related
+- [Surgical simulators were present in 35% of surveyed German surgical clinics, with 143 simulators in use](35-percent-german-clinics-simulators-143-devices.md) — related

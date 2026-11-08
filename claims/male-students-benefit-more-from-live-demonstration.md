@@ -90,3 +90,4 @@ The gender analyses were exploratory with limited subgroup sizes; Table 3 footno
 - [Female and male students' histology post-test scores did not differ significantly](no-gender-difference-histology-posttest.md) — related
 - [Student perceptions of the two demonstration methods do not differ significantly, though the video group tended to prefer its assigned method](no-perception-differences-ld-vd-survey.md) — related
 - [Female students achieved higher MSE accuracy than male students across intervention groups](sex-difference-mse-accuracy-females-higher.md) — related
+- [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — reports the opposite

@@ -68,3 +68,6 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Implementing a VR simulation curriculum requires extensive upfront resource investment, including equipment costs, cocreation time, and ongoing software maintenance](vr-curriculum-resource-investment-barriers.md) — possibly the same claim (merge candidate)
 - [Reported barriers to simulation-based education implementation are lack of time, lack of teacher training, and cost of equipment and/or space](sbe-implementation-barriers-time-training-cost.md) — related
 - [Scaling robotic training to all medical students faces cost and access barriers, favoring targeted bootcamps](robotic-training-scalability-cost-barriers.md) — a narrower finding that bears on this claim
+- [Barriers to simulation uptake include belief in the apprenticeship model, low fidelity, cost, access and logistics](barriers-simulation-uptake-apprenticeship-cost-access.md) — related
+- [Equipment design, availability, and maintenance threats are common in operating theaters, reported in 58% of reports and 86% of sites](equipment-threats-common-operating-theater-lst.md) — related
+- [Pre-recording lectures added little production time once equipment was set up, but moving problem sets online increased grading workload](production-time-and-grading-workload-remote.md) — related

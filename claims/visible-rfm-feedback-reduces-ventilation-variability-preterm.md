@@ -51,3 +51,4 @@ Multicentre crossover simulation study of 49 analysed clinicians; Wilcoxon signe
 - [Most ventilation adjustments occurred when RFM feedback was visible, suggesting real-time feedback prompted corrective action](ventilation-adjustments-occur-under-visible-rfm-feedback.md) — related
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly increased the proportion of breaths with leak≤30%](visible-rfm-feedback-increases-low-leak-breaths-preterm.md) — related
 - [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — related
+- [Air leak in the simulators was inversely related to airway resistance: Premature Anne showed no measurable leak while two simulators leaked more than 80%](vlbw-simulator-air-leak-varies.md) — related

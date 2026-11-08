@@ -70,3 +70,4 @@ Analysis of second-semester B4 outcomes for 28,980 QR Category II-IV non-complet
 - [Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters](stretch-models-same-instructor-cohort-across-semesters.md) — related
 - [Lower initial quiz average predicted retake participation, suggesting retakes particularly benefited lower-scoring students](initial-quiz-average-predicts-retake-participation.md) — related
 - [Study completers had significantly better first-semester academic performance than non-completers, while baseline psychiatric symptoms did not differ between groups](completers-higher-gpa-than-non-completers.md) — related
+- [Inter-course test-score correlations were generally higher in 2020 than 2019, including all 30 inter-semester pairs for second-year students](higher-inter-course-score-correlations-2020.md) — related

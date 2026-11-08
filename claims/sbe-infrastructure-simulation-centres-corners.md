@@ -69,3 +69,4 @@ A senior lecturer cited two SBE training sessions and examples from South Africa
 - [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Student nurses booked and used the clinical simulation laboratory for SSL at far lower rates than other health science students in 2019](nursing-students-low-ssl-booking-rates.md) — related
+- [Perceived barriers to implementing ophthalmic simulation in SSA include cost, inadequate supervision, lack of equipment or facilities, resistance to change and sustainability concerns](sbse-implementation-barriers-ssa.md) — related

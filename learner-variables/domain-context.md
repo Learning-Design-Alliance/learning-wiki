@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (75 show a difference, 24 mixed, 7 no difference) · 93 studies (21 causal, 20 review, 19 qualitative, 16 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 11 of 93 report an effect size · 102 claims rest on one study
+> **Evidence** · 108 claims (76 show a difference, 25 mixed, 7 no difference) · 95 studies (22 causal, 20 review, 20 qualitative, 16 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 12 of 95 report an effect size · 104 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -147,6 +147,8 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](../claims/ebp-skills-age-workplace-experience-differences.md) [+M] — learners who differ on it differ in outcomes
 - [Participants rated the simulation training as highly relevant, with relevance to shortening DNT rated 90% by physicians versus 72% by nurses](../claims/participant-reaction-ratings-simulation-stroke-training.md) [+M] — learners who differ on it differ in outcomes
 - [College athletes reported lower doping likelihood than non-athletes in benefit situations](../claims/athletes-lower-doping-likelihood-benefit-situations.md) [~M] — learners who differ on it differ in outcomes
+- [IBO theoretical items increasingly addressed authentic pieces of life science research (6% in 1993 to 48% in 2017), while relevance to students' everyday life-worlds remained low](../claims/ibo-authentic-research-contexts-increase.md) [~M] — measured as an outcome of the instruction studied
+- [Participants rated the training highly relevant and reported clear objectives and applicability to practice](../claims/training-rated-relevant-and-applicable.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

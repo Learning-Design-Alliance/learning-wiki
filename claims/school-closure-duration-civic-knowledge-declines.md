@@ -55,3 +55,4 @@ Separate regression model from the same fixed-effects analysis of ICCS 2016/2022
 - [Stricter, longer lockdowns are associated with increases (or smaller declines) in students' expected protest participation, strongest for legal protest](lockdown-protest-participation-increases.md) — related
 - Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent — related
 - [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related
+- [Whether longer school closures cause larger learning deficits remains an open question requiring cross-country comparison](longer-lockdowns-larger-learning-deficits-open-question.md) — related

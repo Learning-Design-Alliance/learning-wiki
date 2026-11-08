@@ -82,3 +82,5 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [LSPPDM-based laparoscopic training improved technical and non-technical skills versus traditional training](lsppdm-improves-laparoscopic-training-outcomes.md) — related
 - [Video-based SA training with interposed questions improves post-test OSATS performance in laparoscopic novices](sa-video-training-improves-osats.md) — related
 - [Trainees with additional virtual reality simulator training performed significantly more surgical steps without supervisor intervention than the other groups](vr-group-more-steps-without-supervisor-intervention.md) — related
+- [Skills acquired through SimNow VR training transferred to validated inanimate drills, with significant improvements in time, errors, and OSATS scores](simnow-vr-to-inanimate-transferability.md) — related
+- [Virtual-reality training in laparoscopic surgery produced significantly better performance than no training, per a cited meta-analysis](vr-training-better-performance-than-no-training.md) — a broader claim this one bears on

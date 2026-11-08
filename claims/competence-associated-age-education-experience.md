@@ -69,3 +69,4 @@ Same ANCOVA analysis of the 450-nurse survey (Table 3 prints F = 41.7, P<0.001 f
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — related
+- [Intervention effectiveness is moderated by demographics: younger, less experienced, female, and Bachelor's-degree nurses improved more](demographics-moderate-nontechnical-skill-intervention-effect.md) — related

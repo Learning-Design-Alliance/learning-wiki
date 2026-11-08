@@ -69,3 +69,4 @@ Post-hoc comparisons in the same trial found no significant IMMS difference betw
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
 - [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related
+- [Hybrid-group learners reported significantly higher satisfaction with the module than conventional-group learners, while confidence to pass the final test did not differ](hybridlab-satisfaction-higher-confidence-similar.md) — related

@@ -70,3 +70,4 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [The CKAPQ measurement model shows adequate construct validity, with composite reliability 0.729–0.848 and AVE 0.516–0.669 exceeding discriminant MSV values](ckapq-construct-validity-cr-ave.md) — related
 - [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](acls-rubric-cronbach-alpha-076.md) — related
 - [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related
+- [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related

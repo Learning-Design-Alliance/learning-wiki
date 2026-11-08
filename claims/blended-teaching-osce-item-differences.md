@@ -48,3 +48,4 @@ Randomized controlled comparison of the same 6-station OSCE between Group A (ble
 - [Blended teaching produced higher total OSCE scores than traditional offline teaching in a clinical skills training course](blended-teaching-higher-osce-total-clinical-skills.md) — a broader claim this one bears on
 - [Blended teaching's advantage was smaller for practice-demanding skills (CPR, puncture operations) than for content-rich, simpler skills](blended-teaming-advantage-smaller-practice-demanding-skills.md) — a narrower finding that bears on this claim
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
+- [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related

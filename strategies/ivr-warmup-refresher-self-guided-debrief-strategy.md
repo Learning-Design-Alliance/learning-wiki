@@ -48,6 +48,7 @@ A concrete integration recipe proposed by the study's participants for exploitin
 ## Related Strategies
 
 - [Include facilitated social learning opportunities (introduction and debriefing) around individual IVR safety scenarios](facilitated-introduction-and-debriefing-around-ivr-scenarios.md)
+- [Use iVR refresher training before infrequently performed procedures to refresh skill and knowledge](ivr-refresher-before-rare-procedures-strategy.md)
 
 ## Examples
 -

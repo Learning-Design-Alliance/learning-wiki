@@ -50,3 +50,4 @@ Quantitative survey arm of a single-center mixed methods study at Keck Medicine 
 - [Trainees were more confident in endotracheal intubation and postnatal surfactant administration than in nasal intubation, ECMO referral, and tracheostomy referral](trainee-confidence-varies-by-procedure.md) — related
 - [Mayo High Performance Teamwork Scale responses shifted from a 71% presurvey average to a 95% postsurvey average of consistent teamwork behavior](mayo-teamwork-scale-71-to-95-shift.md) — related
 - [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related
+- [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related

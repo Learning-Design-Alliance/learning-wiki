@@ -50,6 +50,7 @@ The authors identify the "free-rider" phenomenon in teams as a threat to TBL lea
 - [Cooperative Learning](cooperative-learning.md)
 - [Implement TBL with dedicated teaching teams, systematic teacher training, and diversified assessment](tbl-implementation-strategy-dedicated-teams.md)
 - [Address unequal contribution in peer-evaluation-free team-based learning by assessing individual contributions and establishing group rules that create psychological safety](address-social-loafing-mtbl-strategy.md)
+- [Promote student accountability for team answers through simultaneous report and individual random call](simultaneous-report-and-random-call-accountability-strategy.md)
 
 ## Examples
 -

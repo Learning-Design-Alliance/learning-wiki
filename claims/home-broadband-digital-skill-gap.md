@@ -66,3 +66,4 @@ The report cites a study of rural Michigan school districts: "students with no h
 - [High-scoring Chilean 10th graders focused and concentrated on school assignments online and adopted cognitive and organizational strategies when using the Internet](high-scorers-concentration-and-strategies-digital-skills.md) — related
 - [Challenges of asynchronous e-learning include lack of real-time feedback, computer-skill gaps, and insufficiency for confidence and practical skills](asynchronous-elearning-challenges-nurses.md) — related
 - [Students used electronic devices a median of 4 hours daily for non-academic purposes](median-four-hours-daily-device-use-university-students.md) — related
+- [The Super Divya platform was largely accessible on phones, but internet connectivity and device capability were cited concerns for distribution to Nurse Mentors](super-divya-accessibility-connectivity-concerns.md) — related

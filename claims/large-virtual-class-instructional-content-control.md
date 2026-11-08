@@ -55,3 +55,6 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [Most students in a hybrid PA programme agreed that live online classes, questions, and breakout rooms encouraged engagement, but only half felt connected to other class members](hybrid-pa-survey-connection-engagement.md) — related
 - [Interview participants identified unsuitable teaching approaches, low engagement, and boredom as the main weaknesses of virtual education](virtual-education-weakness-engagement-boredom.md) — related
 - [Small-group teaching, online or face-to-face, receives higher satisfaction ratings than didactic large-group lectures for feedback, instruction clarity and answers to questions](small-group-higher-satisfaction-than-didactic.md) — related
+- [A multidisciplinary e-learning team allowed 22 lecturers to teach 933 students, roughly half the staff a face-to-face approach would require](e-learning-team-halves-lecturer-workload-large-class.md) — related
+- [Students reported gaining research competencies from the online course, though some found online delivery unsuited to some content](students-gained-research-competencies-online-course.md) — related
+- [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related

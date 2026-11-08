@@ -50,3 +50,4 @@ Two-way repeated-measures ANOVA in the same 100-student controlled trial on the 
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
 - [A 12-week classroom-based physical activity break program significantly improves physical fitness on standing long jump, Harvard step, push-up and sit-and-reach tests](active-breaks-improve-physical-fitness.md) — related
 - [A 12-week classroom-based physical activity break program significantly increases scholastic self-efficacy in adolescents compared with regular lessons](active-breaks-increase-scholastic-self-efficacy.md) — related
+- [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — reports the opposite

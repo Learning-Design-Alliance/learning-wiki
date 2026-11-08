@@ -57,3 +57,5 @@ Learning-curve analysis of the first 10 training attempts (Z-scores standardizin
 - [Residents achieved DaVinci Skills Simulator targets after a median of 3 repetitions and about 8 hours of VR training](rostrac-vr-training-targets.md) — related
 - [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — related
 - [Learning curves showed similar shapes between the PoLaRS and dVSS systems and between the test and control groups](similar-learning-curve-shapes-polars-dvss.md) — related
+- [Learning curves improve under both basic and procedural VR training, with the greatest improvements seen in the procedural tasks](learning-curve-gains-both-modalities-procedural-greatest.md) — related
+- [Robotic simulation shows early learning-curve superiority over laparoscopic simulation, but both plateau at similar scores by round 10](rs-early-superiority-learning-curve-plateaus-similarly.md) — related

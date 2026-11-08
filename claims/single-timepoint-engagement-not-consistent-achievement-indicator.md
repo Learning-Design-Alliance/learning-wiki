@@ -52,3 +52,4 @@ Observational analysis of complete Moodle trace logs and course grades for a ful
 - [Adolescents in the Stable High motivation trajectory earned higher science grades, took more AP science courses, and reported higher STEM career aspirations than the other trajectory groups](stable-high-motivation-best-science-outcomes.md) — related
 - [Students in steadily or sharply declining motivation trajectories showed lower STEM career aspirations and lower science grades than stable-trajectory peers](declining-motivation-lower-science-outcomes.md) — related
 - [Patterns of Full Code use were similar across students of different academic performance](full-code-use-patterns-similar-across-performance.md) — related
+- [Students earning F grades attempted the most Quizzical questions, while A–C students showed similar, regular engagement patterns](grade-category-engagement-patterns.md) — related

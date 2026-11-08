@@ -51,3 +51,4 @@ Exploratory subgroup analysis within the crossover study, stratifying the catara
 - [Students tended to prefer the 3D system while residents more often preferred the conventional microscope, a non-significant difference](student-resident-preference-divergence.md) — related
 - [A significant score difference between visualization systems appeared only in the navigation task, in both the cataract and vitrectomy modules](navigation-task-only-significant-task-level-difference.md) — related
 - [Increased use of microscopes (26.3%) and navigation systems (31.6%) was reported by a minority, with no change for the majority](cadaver-course-modest-navigation-microscope-adoption.md) — related
+- [Lack of simulation-training facilities prevented a majority of surveyed ophthalmology residents from performing cataract surgery during the pandemic](simulation-facility-access-barrier-pandemic.md) — related

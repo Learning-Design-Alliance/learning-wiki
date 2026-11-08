@@ -49,3 +49,4 @@ Quasi-experimental one-group pre-post analysis of team OSCE scores (20 binary-sc
 - [Inter-rater reliability was high for both Team OSCE (Kappa 0.80 pre, 0.76 post) and TPOT (ICC 0.94 pre, 0.93 post)](ipstar-interrater-reliability.md) — related
 - [TPOT scores improved significantly across all five TeamSTEPPS domains, with greatest gains in team structure and leadership](ipstar-tpot-domain-gains.md) — related
 - [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](isbar-simulation-improves-communication-clarity.md) — related
+- [Team communication scores rose significantly from pre-test to post-test after KSS training, in one uncontrolled pre-post study, with the median rising from 5.00 to 10.00](kss-training-improves-team-communication-scores.md) — related

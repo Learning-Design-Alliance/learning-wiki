@@ -50,3 +50,4 @@ Class rhythm heatmap analysis (Figure 3) of the pilot cohort's temporal interact
 - [Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students](syntea-temporal-patterns-weekday-daytime.md) — reports the opposite
 - [A temporal extraction rule classified the GENERAL INSTRUCTION -> PLANNER action pattern as Planning in the first 15 minutes but as Monitoring in the last 30 minutes](temporal-rule-planning-monitoring-distinction.md) — related
 - [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related
+- [Active demonstration of the e-learning platform within the curriculum sharply increased daily activities, peaking on the announcement day (7 July 2019)](active-demonstration-boosts-elp-activity.md) — related

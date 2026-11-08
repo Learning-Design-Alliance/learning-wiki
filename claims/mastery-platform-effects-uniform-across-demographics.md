@@ -56,3 +56,4 @@ Moderation analysis within the same longitudinal panel study examined treatment 
 - [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — reports the opposite
 - [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
 - [No significant treatment by demographic interactions were detected in moderation analyses](no-significant-treatment-demographic-interactions.md) — related
+- [The lab–grade correlation shrinks similarly across demographic subgroups, with no subgroup showing a distinct lab benefit](lab-effect-no-subgroup-differences.md) — related

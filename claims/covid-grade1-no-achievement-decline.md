@@ -51,3 +51,4 @@ Cohort-control regression analysis of N = 2740 first graders (Cohort 1 pre-pande
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](covid-2020-21-average-gains-most-grades.md) — related
 - [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related
 - [Low teacher–student contact during pandemic closures was associated with negative effects on first-grade students' reading and writing motivation](low-teacher-contact-motivation-decline.md) — related
+- [The COVID-19 school closures in the Netherlands produced declines in learning gains in reading, spelling and math for almost 300,000 primary students](covid-dutch-primary-learning-gain-declines-three-domains.md) — reports the opposite

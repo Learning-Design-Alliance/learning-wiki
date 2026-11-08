@@ -51,3 +51,4 @@ Postparticipation survey item asking "How helpful did you find this training ses
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
 - [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related
 - [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related
+- [Participants rate the SIMULATE URS curriculum highly for educational value, reporting improved skills and OR-transferrable skills](simulate-curriculum-high-educational-value-ratings.md) — related

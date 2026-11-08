@@ -50,3 +50,6 @@ Within- and between-group comparison of the rate of healthy tissue removal in th
 - [Blinded expert OSATS ratings favored the VOA group on overall performance and economy of movement despite measured efficiency losses, exposing a limitation of granular metric-based assessment](osats-economy-of-movement-discrepancy.md) — related
 - [The AI-enhanced curriculum reduced the rate of tumor resection relative to control, diverging further below the expertise benchmark](voa-reduced-tumor-resection-rate.md) — related
 - [The AI-enhanced curriculum slowed dominant-hand velocity and acceleration relative to control, diverging from expert benchmarks](voa-slower-dominant-hand-movement.md) — related
+- [AI tutoring feedback (VOA) produced significantly higher practice Expertise Scores than remote expert instruction and no-feedback control in simulated tumor resection](voa-feedback-higher-practice-expertise-scores.md) — a broader claim this one bears on
+- [VOA-trained students achieved significantly higher Expertise Scores in the realistic (transfer) resection than instructor and control groups](voa-higher-realistic-resection-expertise.md) — related
+- [Feedback on 4 AI-selected metrics improved 3 trained metrics and generalized to 8 of 16 untrained ICEMS performance metrics](voa-metric-feedback-extended-effect-untrained-metrics.md) — related

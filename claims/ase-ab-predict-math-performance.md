@@ -69,3 +69,4 @@ Same structural model; the academic buoyancy path to mathematics performance was
 - [Parental involvement has a significant positive direct effect on middle school students' mathematics performance](parental-involvement-direct-effect-math-performance.md) — related
 - [Perceived teacher support has a significant positive direct effect on middle school students' mathematics performance after controlling for gender and age](teacher-support-direct-effect-math-performance.md) — related
 - [Gender differences appear in academic self-efficacy and buoyancy but not in mathematics performance, and age shows no differences](gender-differences-ase-ab-not-math.md) — related
+- [Higher self-efficacy and stronger intention at baseline are each associated with higher academic achievement six months later, while attitude and social norms are not](self-efficacy-intention-correlate-achievement.md) — related

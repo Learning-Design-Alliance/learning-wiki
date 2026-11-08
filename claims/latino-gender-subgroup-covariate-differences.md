@@ -61,3 +61,4 @@ Covariate results from Model 2 of the hierarchical regression (n = 1,552 belongi
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Girls were more likely than boys to belong to the Mixed or Negative profile relative to the Positive profile](girls-more-likely-mixed-negative-profiles.md) — related
 - [Students' individual background of gender and academic level significantly positively affects both knowledge and experiential dHealth competences](individual-background-dhealth-competences.md) — related
+- [Gender significantly predicts academic performance: boys score higher on cognitive aptitudes, girls higher on emotional aptitudes and GPA at all three timepoints, and gender explains 8.85% of T3 GPA variance](gender-differences-aptitudes-and-gpa.md) — related

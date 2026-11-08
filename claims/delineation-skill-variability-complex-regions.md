@@ -50,3 +50,4 @@ The article's performance analysis reports an initial OSPE assessment of radiati
 - [Students with access to online cadaveric image repositories achieve significantly higher practical exam scores than controls in the image-covered regions](online-cadaveric-images-improve-practical-exam-performance.md) — related
 - [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — related
 - [Common delineation errors centered on lymph node regions, anatomical barriers, tumor motion, and over-inclusion of non-target anatomy, with site-specific frequencies](common-delineation-errors-lymph-nodes-motion-overinclusion.md) — related
+- [Anatomage images showed higher similarity with histopathology than CT and MRI for detecting extranodal extension in head and neck cancer](anatomage-extranodal-extension-histopathology-similarity.md) — related

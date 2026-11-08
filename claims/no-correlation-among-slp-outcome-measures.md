@@ -49,3 +49,4 @@ Pearson correlation analysis across the full cohort (N = 35) and both teaching-m
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in change in student confidence after a simulated lumbar puncture workshop](peyton-vs-see-one-do-one-no-confidence-change-difference-slp.md) — related
 - [Students taught with Peyton's 4-step method complete a simulated lumbar puncture significantly faster than students taught with \"see one, do one\"](peyton-method-faster-slp-completion-time.md) — related
 - [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related
+- [Performance competencies show positive intercorrelations during asthma simulation, with patterns differing between groups](sbt-competency-correlations-asthma-simulation.md) — reports the opposite

@@ -59,3 +59,4 @@ One-way ANOVA results for these measures: mid-term exam F = .38, p = .68; journa
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
 - [Flipped classroom did not alter overall student performance on midterm tests or exam grades](fc-no-overall-performance-change.md) — related
 - [Facilitator group was a significant factor in student self-assessed SDL total scores at course midpoint but not at endpoint](facilitator-effect-midpoint-only.md) — related
+- [Introducing a mid-term check on day 8 of online ligation practice did not significantly increase examination scores](midterm-check-no-significant-score-increase.md) — related

@@ -50,3 +50,4 @@ Interview findings: dedicated space was commented on by all 32 participants (65.
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — related
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
+- [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related

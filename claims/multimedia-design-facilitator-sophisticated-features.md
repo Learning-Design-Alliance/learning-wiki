@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: bower-k-2026
     resource: "https://doi.org/10.1186/s12909-026-08709-7"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Multimedia design, especially videos, was frequently stated as a facilitator of learning across included studies. [→ Bower K 2026](#bower-k-2026)
@@ -73,3 +74,4 @@ The review reports, citing one included study, that "e-modules with more sophist
 - [CD-group learners perceived the interactive multimedia CD module as a whole as more effective than face-to-face teaching, print, and online learning](cd-group-perceived-cd-module-more-effective.md) — related
 - [Multimedia materials alone are insufficient: attitude changes required interactivity and hands-on use](interactivity-hands-on-required-attitude-change.md) — related
 - [Text story modules were rated the most helpful content type in WeChat literature articles, ahead of pictures and audio-video](wechat-text-story-most-helpful-module.md) — related
+- [Nurse Mentor Supervisors found the Super Divya animated video module entertaining, innovative, and relatable, with a storyline that maintained interest](nms-found-super-divya-entertaining-relatable.md) — related

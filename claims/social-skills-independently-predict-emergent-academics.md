@@ -60,3 +60,4 @@ HLM models with 467 children in 84 classrooms, using the SSRS teacher-rated soci
 - [Prevalence of sustained shared thinking in preschool settings predicts children's outcomes on academic and social-behavioral measures](sustained-shared-thinking-predicts-child-outcomes.md) — related
 - [The zero-to-two responsive stimulation intervention shows sustained impacts on social skills and behavior problems into the preschool period despite severe disadvantage](sustained-impacts-early-intervention-preschool-period.md) — related
 - [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](early-homelessness-maltreatment-associated-school-outcomes.md) — related
+- [Attention problems independently increase the risk of poor grades across all three academic subjects in school students aged 5–17](attention-problems-risk-school-underachievement.md) — related

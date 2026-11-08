@@ -49,3 +49,4 @@ In the randomized controlled pilot (19 intervention, 22 control students at two 
 - [Senior medical students have low baseline familiarity with trauma-informed care principles despite valuing TIC](students-low-baseline-tic-familiarity.md) — related
 - [Trauma-informed training before simulation does not increase time to scenario completion relative to control](tic-training-no-simulation-time-penalty.md) — related
 - [Student attitudes on the importance of TIC are strongly endorsed at baseline and do not change after training](tic-attitudes-high-baseline-unchanged.md) — related
+- [Prior exposure to simulation training improves checklist completion in a subsequent asthma exacerbation simulation for novice medical students](prior-sbt-exposure-improves-checklist-completion.md) — related

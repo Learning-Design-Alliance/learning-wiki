@@ -53,3 +53,4 @@ Study 1 results, mixed-model ANOVA on the meeting deadlines facet; the interacti
 - [In Study 1 the treatment group reported a significant decrease in stress while the control group reported no change](stress-decrease-time-management-intervention.md) — related
 - [The time management intervention did not improve self-reported time management skills relative to control in skill-bucket analyses](tm-intervention-no-self-reported-skill-gain.md) — related
 - [Students in the treatment group decreased in self-awareness while control students increased, a finding the authors attribute to the self-consciousness measure used.](rd-program-self-awareness-decreased-in-treatment-group.md) — related
+- [Brief time management training increased sense of control over time and decreased stress and procrastination in small-scale interventions](brief-time-management-training-control-stress.md) — a broader claim this one bears on

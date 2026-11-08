@@ -49,6 +49,7 @@ The study's central instrument is a set of four rubrics, one per competency modu
 ## Examples
 
 - [Use a four-week MOOC seminar with rubric self-assessment to develop teachers' OER competencies](../strategies/mooc-seminar-rubric-self-assessment-oer-strategy.md)
+- [Use an online self-assessment rubric to evaluate MOOC learning](../strategies/online-rubric-self-assessment-mooc.md)
 
 ## Key Sources
 - García-López, R.-I., Cuevas Salazar, O., Ramírez-Montoya, M.-S., & Tenorio-Sepúlveda, G.-C. (2017). Competencies for Production, Search, Diffusion and Mobilization of Open Educational Resources. International Education Studies, 10(4). https://doi.org/10.5539/ies.v10n4p78

@@ -47,3 +47,4 @@ BLS Classroom Course Evaluation feedback collected from students after the sessi
 ## Related Claims
 - [DVRS students rated the simulator as user-friendly, with clear automatic scoring and timely, effective feedback](dvrs-students-rate-usability-and-feedback-positively.md) — related
 - [FC residents rated good teaching and generic skills higher, and appropriate assessment lower, than LB residents, with no differences on clear goals or workload](fc-ceq-dimension-differences.md) — related
+- [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related

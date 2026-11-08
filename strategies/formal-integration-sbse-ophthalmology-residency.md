@@ -50,6 +50,7 @@ The article recommends that intensive simulation-based surgical education be for
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Use the PlaSurIn game as an alternative or complement to traditional lecture-based training for surgical instruments setup](plasurin-as-alternative-or-complement-to-lecture-strategy.md)
+- [Incorporate stepwise, low-fidelity simulation training and assessment early in ophthalmology residency, with safe transition to live surgical teaching](stepwise-low-fidelity-simulation-early-residency-strategy.md)
 
 ## Examples
 -

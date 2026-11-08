@@ -51,3 +51,4 @@ Hierarchical regression in the cross-sectional survey (N = 1,208) with four bloc
 - [GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor](genai-literacy-predicts-critical-monitoring.md) — related
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Trait-based DT dispositions add no incremental explanatory value for teaching behaviours once skills are controlled](trait-based-dt-dispositions-no-incremental-value.md) — related
+- [Narrow conscientiousness traits add incremental prediction of dental performance beyond global conscientiousness](narrow-traits-incremental-validity-dental-performance.md) — related

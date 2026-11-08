@@ -55,6 +55,7 @@ The article describes a three-part instructional design that optimises cognitive
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Simulation Based Training](simulation-based-training.md)
 - [Sequence a basics lecture before simulation practice to manage cognitive load](basics-lecture-before-simulation-cognitive-load.md)
+- [Progressive scenario complexity with consequences and gamified motivators to sustain simulator practice](progressive-scenario-complexity-gamified-motivators.md)
 
 ## Examples
 -

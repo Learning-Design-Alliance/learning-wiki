@@ -50,3 +50,4 @@ Spearman rank correlations between 26 study variables and the APS total score (n
 - [Students with ADHD or autism show substantially lower end-of-primary-school achievement, with roughly 4–5 times higher risk of ineligibility for upper secondary school](adhd-autism-lower-grades-eligibility-swedish-twins.md) — related
 - [Screen time correlates negatively with assessment scores and depression correlates negatively with academic integrity](screen-time-depression-correlate-academic-outcomes-ghana.md) — related
 - [Both gaming disorder and ADHD symptoms correlate negatively with academic performance (r = -.18 each)](gd-adhd-negative-correlation-academic-performance.md) — related
+- [Higher SES and lower depressive symptoms are associated with higher total A-Level scores](ses-depression-a-level-scores.md) — related

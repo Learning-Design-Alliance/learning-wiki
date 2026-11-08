@@ -48,6 +48,7 @@ The article recommends a multicomponent capacity-building strategy for PHC worke
 - [Expand sarcopenia coverage in medical curricula, add primary-care guidelines, and provide equipment support for screening and diagnosis](sarcopenia-curriculum-guideline-equipment-strategy.md)
 - [Provide competency-based in-service training through the CPD system for OBE-trained nurses and supervisors](cpd-in-service-cbe-training-for-obe-staff.md)
 - [Implement scientific and comprehensive pain management and control educational programs for emergency nurses and health workers](comprehensive-pain-management-education-programs.md)
+- [Integrate staff training into the organisation's own schedule and LMS, simplify the program, and assess home readiness before implementation](integrate-training-organisation-lms-readiness-assessment.md)
 
 ## Examples
 -

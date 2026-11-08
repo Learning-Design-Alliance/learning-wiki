@@ -47,3 +47,4 @@ Correlational 2002 and 2003 study comparing TRIO SSS students enrolled in an IL 
 ## Related Claims
 - [IL course attendance and grades correlated strongly with biology course attendance and final grades (r = 0.588 to 0.848), and were stronger predictors than preentry AAR scores](il-attendance-grade-correlations-biology.md) — related
 - [TRIO students enrolled in the IL course linked to introductory psychology earned statistically significantly higher final course grades than matched and TRIO control students](il-course-higher-psychology-final-grades.md) — related
+- [Unconditionally, students who self-enroll in the paired lab are more likely to complete nonmajors introductory biology and earn higher grades than students who do not](lab-enrollment-unconditional-outcome-advantage.md) — related

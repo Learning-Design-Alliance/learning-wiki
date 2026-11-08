@@ -51,3 +51,4 @@ Summary of a seven-item post-session survey with three open-ended items administ
 - [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](completers-rate-preparation-highly-90-percent.md) — related
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
 - [Participants rated the liver model positively and 93% deemed it helpful preparation for clinical practice](participants-rate-liver-model-helpful.md) — related
+- [70% of participants planned to \"definitely use\" the knowledge in their work, with profession differences (public health 75.8% vs other 62.3%, P < 0.001), and relevance also differed by profession (P < 0.001)](intention-to-use-knowledge-70-percent-profession-differences.md) — related

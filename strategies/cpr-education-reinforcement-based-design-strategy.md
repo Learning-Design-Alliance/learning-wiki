@@ -73,6 +73,8 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 - [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
+- [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
+- [Use staged, short-interval, high-frequency emergency training with immediate practice while knowledge is fresh to consolidate first aid knowledge and skills](staged-short-interval-emergency-training-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Serial mediation (Hayes macro) in the N = 122 experiment tested disorientation a
 - [Concept maps with low salience of map structure increase learners' perceived disorientation compared with high-salience maps](low-salience-concept-map-structure-increases-disorientation.md) — related
 - [Counter to hypothesis, learners with low-salience concept maps were more time-efficient than high-salience learners](low-salience-map-higher-learning-efficiency.md) — related
 - [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related
+- [High state-anxiety immediately after the simulation scenario is associated with higher extraneous cognitive load, but not intrinsic load or self-perceived learning](state-anxiety-associated-with-extraneous-load.md) — related

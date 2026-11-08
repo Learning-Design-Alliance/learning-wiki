@@ -62,3 +62,5 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
 - [Blended learning positively impacts satisfaction and engagement of medical imaging students, per the authors' overall interpretation](blended-learning-positive-impact-medical-imaging-students.md) — a broader claim this one bears on
 - [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related
+- [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
+- [Most students in the HBOPPPS cohort were satisfied, perceived improved learning ability, and preferred HBOPPPS over offline or online-only teaching](hboppps-student-satisfaction-and-preference.md) — related

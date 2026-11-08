@@ -62,3 +62,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
 - [In situ SBTT provides an experience of coping after an initial failed scenario, which participants saw as significant for transfer of learning](sbtt-second-scenario-coping-experience.md) — related
 - [Focus group participants reported post-pandemic communication difficulties and psychological impacts, though two reported improved communication](focus-group-post-pandemic-communication-difficulties.md) — related
+- [Students' emotions vary before, during and after simulation, unfolding in a rollercoaster from negatively to positively loaded across the session](emotional-rollercoaster-during-simulation.md) — related

@@ -49,3 +49,4 @@ One-way ANOVA of the first theoretical examination, administered after the share
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related
+- [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — possibly the same claim (merge candidate)

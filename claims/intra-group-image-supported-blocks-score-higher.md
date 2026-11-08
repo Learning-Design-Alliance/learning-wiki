@@ -50,3 +50,4 @@ Intra-group comparison across all 180 intervention students using Wilcoxon match
 - [Trainees show variable delineation skills, with greatest difficulty in anatomically complex regions such as the head and neck](delineation-skill-variability-complex-regions.md) — related
 - [LLM performance on anatomy MCQs varies significantly across anatomical topics, with Head & Neck and Abdomen highest and Upper Limb lowest](llm-anatomy-topic-performance-variation.md) — related
 - [Enhanced CT was the predominant simulation imaging method (70% of cases), with multiple image fusion used more often for head and neck tumors](enhanced-ct-predominant-simulation-imaging.md) — related
+- [Anatomage-based gross anatomy study of the pelvis and musculoskeletal system appears equivalent to cadaveric dissection](anatomage-pelvis-musculoskeletal-equivalent-cadaveric.md) — reports the opposite

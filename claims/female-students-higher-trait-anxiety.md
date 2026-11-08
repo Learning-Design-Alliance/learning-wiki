@@ -52,3 +52,5 @@ Mixed-effects regression on trait anxiety in the study sample; gender was the on
 - [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
 - [Female Ukrainian medical students reported significantly higher anxiety, stress, and PTSD symptoms than male students during the war](gender-disparity-war-mental-health-medical-students.md) — related
+- [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](female-and-high-trait-anxiety-higher-state-anxiety.md) — related
+- [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related

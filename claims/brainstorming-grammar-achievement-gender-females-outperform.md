@@ -57,3 +57,4 @@ T-test comparing experimental-group post-test scores by gender: males (n = 70) m
 - [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — related
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related
 - [Female students outperform male students academically in the studied Thai school](female-students-better-academic-performance-thai-school.md) — related
+- [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — reports the opposite

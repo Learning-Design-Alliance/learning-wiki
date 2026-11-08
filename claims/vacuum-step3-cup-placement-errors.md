@@ -48,3 +48,4 @@ Error analysis across 24 training sessions: 24 mistakes among 21 vacuum AVBs wit
 - [Novice learners require fewer attempts to master OdonAssist than the Vacca 5-step vacuum technique in simulation training](odonassist-fewer-attempts-than-vacca-5-step.md) — related
 - [Training sessions with OdonAssist are perceived as easier and produce fewer errors than vacuum training](odonassist-lower-perceived-difficulty-and-errors.md) — related
 - [Individual vacuum procedures are faster than OdonAssist procedures, but duration is not independently associated with technique](vacuum-faster-per-case-not-independent.md) — related
+- [Cup application accuracy relative to the flexion point at 4–8 weeks remained significantly improved over baseline only in the practice-based group](cup-placement-retained-practice-based-only.md) — related

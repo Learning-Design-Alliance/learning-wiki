@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 evidence_strength: weak
+source_checked: 2026-11-08
 sources:
   - id: van-eeden-2017
     title: van Eeden 2017
@@ -21,7 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The intervention group's Social-Emotional Scale scores increased numerically after the intervention, moving performance into the very superior range. [→ van Eeden 2017](#van-eeden-2017)

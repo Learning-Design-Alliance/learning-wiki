@@ -50,6 +50,7 @@ The authors recommend that "Extending support services to students over the summ
 - [Embed near-peer members within established community youth-serving organizations during extended-day hours rather than creating parallel systems](embed-members-in-community-partners-extended-day.md)
 - [Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs](post-entry-mentorship-support-alternative-stem-programs.md)
 - [Proactive summer outreach via advisors or personalized text messages to college-intending graduates](proactive-summer-outreach-advisors-or-text.md)
+- [Course-based near-peer mentorship as a scalable alternative to faculty mentorship in large-enrollment STEM programs](scalable-course-based-near-peer-mentorship.md)
 
 ## Examples
 -

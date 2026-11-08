@@ -46,6 +46,7 @@ Practitioners recommended cross-department coordination and administrative strea
 - [Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising](multiple-access-strategies-diverse-ec-candidates.md)
 - [Define emergencies with flexibility and trust rather than rigid proof-based criteria](flexible-trust-centered-emergency-definitions.md)
 - [Treat Precision Education as organizational transformation: add advising capacity, response protocols, and financial supports around the model](organizational-readiness-preventive-student-success.md)
+- [Train students on the e-learning platform before teaching and strengthen institutional readiness and support](platform-orientation-and-institutional-support-elearning.md)
 
 ## Examples
 -

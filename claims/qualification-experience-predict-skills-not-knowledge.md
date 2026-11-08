@@ -83,3 +83,5 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — related
 - [Pre-education, optometrists with glaucoma qualifications showed significantly higher specificity at <25%; post-education, performance was similar between qualification groups](glaucoma-qualification-subgroup-converges-post-education.md) — related
 - [Knowledge gains after patient safety training were larger for female nurses and nurses working fewer weekly hours; demographic factors showed no significant relation to attitude change](demographic-moderators-patient-safety-learning.md) — related
+- [Intervention effectiveness is moderated by demographics: younger, less experienced, female, and Bachelor's-degree nurses improved more](demographics-moderate-nontechnical-skill-intervention-effect.md) — related
+- [Frequency of performing blood transfusions is associated with knowledge score, while gender, qualification, ward, experience and training are not](transfusion-frequency-associated-with-knowledge.md) — related

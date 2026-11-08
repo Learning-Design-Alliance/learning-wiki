@@ -58,3 +58,4 @@ Growth analysis of fall 2020 MAP Growth data from nearly 4.4 million students in
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
 - [Effect sizes for within-grade reading and math growth declined as students progressed from Grade 1 to Grade 5](growth-effect-sizes-decline-grades-1-5.md) — related
 - [More than half of teachers reported students performed below grade expectations during 2020–2021, with drops reported more frequently in lower-SES classrooms](teachers-report-performance-decline-ses-gradient.md) — related
+- [The COVID-19 school closures in the Netherlands produced declines in learning gains in reading, spelling and math for almost 300,000 primary students](covid-dutch-primary-learning-gain-declines-three-domains.md) — a narrower finding that bears on this claim

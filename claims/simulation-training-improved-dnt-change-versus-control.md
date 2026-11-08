@@ -52,3 +52,4 @@ Nationwide cohort comparison of 17,134 thrombolysed patients from 41 certified C
 - [Clinical experience does not significantly moderate the benefit of team simulation training on door-to-needle time](no-experience-simulation-interaction-on-dnt.md) — related
 - [Shortened door-to-needle time after simulation training did not compromise safety: parenchymal haemorrhage occurred in 3.5% of trained-centre patients versus 5.4% in untrained centres (p=0.054)](simulation-training-no-safety-compromise-parenchymal-haemorrhage.md) — related
 - [Treatment times dropped significantly between 2016 and 2017 after introduction of the simulation training](treatment-times-dropped-after-simulation-training.md) — related
+- [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related

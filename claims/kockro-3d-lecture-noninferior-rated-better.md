@@ -99,3 +99,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [AR/VR and digital tools in anatomy learning show consistently high student acceptance and better 3D understanding, but effects on knowledge gain vary widely across studies](arvr-anatomy-high-acceptance-mixed-knowledge-gain.md) — related
 - [A short PBL-VR training session significantly increased both apparel spatial visualization and fit correction skills](pbl-vr-improves-spatial-visualization-fit-correction.md) — related
 - [Complete novices rate VR-based mastoidectomy training higher than traditional book-based training, especially for 3D perception](vr-training-higher-satisfaction-mastoidectomy-novices.md) — related
+- [The 3D feature is rated as moderately interesting relative to 2D video, with no difference between novice and experienced groups](3d-feature-moderate-added-interest.md) — related
+- [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — related

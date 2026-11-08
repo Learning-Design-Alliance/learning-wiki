@@ -71,3 +71,4 @@ Postsurvey factor analysis from the same study, using 26 records and yielding 3 
 - [Descriptive pre/post survey results show trainees shifted toward agreement on ECMO knowledge and role items after team-based simulation training](ecmo-sim-descriptive-prepost-survey-shift.md) — related
 - [The app embeds a 14-item pre/post assessment questionnaire with 5-level responses, 9 items shared across both surveys](pre-post-14-item-in-app-questionnaire.md) — related
 - [Mayo High Performance Teamwork Scale responses shifted from a 71% presurvey average to a 95% postsurvey average of consistent teamwork behavior](mayo-teamwork-scale-71-to-95-shift.md) — related
+- [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related

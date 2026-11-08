@@ -47,3 +47,4 @@ Overall participation across intervention groups was 40.29%. Authors attribute h
 ## Related Claims
 - [Attendance at offered SI sessions is low and highly variable: on average 2.3 of 7 sessions, with 29% never attending](si-attendance-low-variable.md) — related
 - [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
+- [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related

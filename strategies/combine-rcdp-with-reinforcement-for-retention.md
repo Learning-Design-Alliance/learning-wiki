@@ -51,6 +51,7 @@ Because RCDP improved immediate but not one-year forceps skill performance, the 
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
 - [Provide regular simulation training for all providers, with additional individualised training for those lacking competency](regular-simulation-training-all-providers-strategy.md)
+- [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 
 ## Examples
 -

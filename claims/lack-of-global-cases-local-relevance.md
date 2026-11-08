@@ -53,3 +53,4 @@ Interview finding from the case study. Students noted courses focused on U.S. ex
 - [ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking](acta-global-leadership-expertise-components.md) — related
 - [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](global-change-holistic-and-local-analysis-challenge.md) — related
 - [Choice-based personalization increased self-reported understanding of local climate issues without reducing understanding of global issues](choice-personalization-local-understanding-gain.md) — related
+- [HCPs want interactive components and personal exchange in e-learning to enhance knowledge-practice transfer](interactive-components-knowledge-practice-transfer.md) — related

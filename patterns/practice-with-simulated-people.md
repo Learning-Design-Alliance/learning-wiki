@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 262 claims (138 for, 105 mixed, 19 against) · 144 studies (44 causal, 36 review, 20 design, 16 quant-synthesis, 16 qualitative, 8 associational, 4 theoretical), `q1`–`q4` · 26 of 144 report an effect size · 257 claims rest on one study
+> **Evidence** · 265 claims (141 for, 105 mixed, 19 against) · 146 studies (45 causal, 36 review, 21 design, 16 quant-synthesis, 16 qualitative, 8 associational, 4 theoretical), `q1`–`q4` · 26 of 146 report an effect size · 260 claims rest on one study
 
 ## Description and scope
 
@@ -190,6 +190,9 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Students emphasise feedback after simulations as crucial, with feedback from professional actors offering the patient's viewpoint especially valued](../claims/actor-simulation-feedback-crucial.md) [+W] — attached 2026-11-07 from Antila Asta Kristiina et al. (2024), which proposed "Small-group actor simulation with structured reflective debriefing for communication skills".
 - [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](../claims/student-critical-perspectives-simulations.md) [~W] — attached 2026-11-07 from Antila Asta Kristiina et al. (2024), which proposed "Small-group actor simulation with structured reflective debriefing for communication skills".
 - [Parasympathetic activity shows no change with repetition during peer‐discussion phases of the simulation](../claims/no-hf-change-repeated-peer-discussion.md) [~W] — attached 2026-11-07 from Nakayama et al. (2023), which proposed "Phased peer‐learning simulation cycle alternating individual patient observation with peer discussion".
+- [Simulated-patient-rated communication performance increases significantly from pre- to postinstruction encounters](../claims/simulated-patient-competence-scores-increase-postlecture.md) [+W] — attached 2026-11-08 from Padilla L et al. (2022), which proposed "Introduce patient communication training early in medical physics graduate education, before residency"; tests this page's relationship.
+- [Trainee radiographers trained in an immersive VR SLE selected empathic responses significantly better on average than role-play trainees (5% higher, P < 0.05)](../claims/vr-trainees-select-empathic-responses-better-than-roleplay.md) [+W] — attached 2026-11-08 from Sapkaroski Daniel et al. (2021), which proposed "Use immersive VR simulated learning environments for empathic clinical communication training where repetition, determinism and a safe environment are needed".
+- [Communication self-efficacy scores rose significantly from pre-test to post-test in the TVR, CVR and TRP groups but not the CRP group in within-group pre-post analyses, with larger gains in VR groups (11% TVR, 7.2% CVR, 4.3% TRP)](../claims/se12-self-efficacy-gains-vr-versus-roleplay.md) [+W] — attached 2026-11-08 from Sapkaroski Daniel et al. (2021), which proposed "Use immersive VR simulated learning environments for empathic clinical communication training where repetition, determinism and a safe environment are needed".
 
 ## Illustrative design instance and observation record
 

@@ -51,3 +51,4 @@ Prospective pre-test post-test evaluation with 15 nurses at three regional haemo
 - [Lack of training is the most significant perceived barrier to POCUS practice, and dedicated practice with an ultrasound machine is the most preferred proficiency intervention](lack-of-training-top-pocus-barrier.md) — related
 - [After training, all participating nurses used POCUS to identify new cannulation sites, shifting practice from area cannulation toward rope-ladder technique](pocus-training-shifts-practice-to-rope-ladder-cannulation.md) — related
 - [Nurses' self-reported comfort with ultrasound-guided PIV placement increased after asynchronous training, while comfort without ultrasound did not change](comfort-us-piv-increased-post-training.md) — related
+- [Patient communication training significantly increases medical physics graduate students' self-reported confidence on four communication measures](confidence-gains-patient-communication-training-medphys.md) — related

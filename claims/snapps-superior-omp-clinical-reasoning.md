@@ -55,3 +55,4 @@ Assertion recorded in the review's Table 2 summary of SNAPPS benefits, which als
 - [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related
 - [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related
 - [A 45-minute SNAPPS lecture significantly improves psychiatry residents' case-discussion teaching scores across outpatient, ward, and emergency settings](snapps-lecture-improves-resident-teaching-scores.md) — related
+- [A BEME review found the OMP and SNAPPS models were the only clinical teaching strategies that consistently improved learners' clinical knowledge and skills](beme-review-omp-snapps-consistently-improved-skills.md) — related

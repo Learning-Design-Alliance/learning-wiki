@@ -91,6 +91,8 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 - [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
 - [Supplement preclinical operative dentistry live demonstrations with procedure-specific educational videos delivered through an E-learning platform](procedure-video-supplement-live-demonstration-strategy.md)
+- [Improve the teaching quality of online content delivery and use video strategies such as interactive elements and cognitive-load management](improve-recorded-lecture-quality-and-video-strategies.md)
+- [Use short in-house videos to complement lectures by making instruments, locations, and processes accessible, then engage students with a question](short-videos-complement-lectures-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

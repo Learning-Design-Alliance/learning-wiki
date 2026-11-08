@@ -53,6 +53,7 @@ The authors conclude that implementing simulation-enhanced interprofessional edu
 ## Related Strategies
 
 - [Adopt tabletop and virtual formats, and interprofessional participation, to address resource burden and the absence of IPE in on-call simulation](tabletop-and-ipe-innovation-for-on-call-simulation.md)
+- [Address cost, time and organizational barriers to integrate simulation into NICU training, risk management and quality improvement](overcome-barriers-simulation-integration-nicu-strategy.md)
 
 ## Examples
 -

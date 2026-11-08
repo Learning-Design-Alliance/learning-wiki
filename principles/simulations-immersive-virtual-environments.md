@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 492 claims (302 for, 165 mixed, 25 against) · 310 studies (127 causal, 80 review, 39 quant-synthesis, 26 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 59 of 310 report an effect size · 487 claims rest on one study
+> **Evidence** · 496 claims (303 for, 168 mixed, 25 against) · 313 studies (127 causal, 81 review, 39 quant-synthesis, 28 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 59 of 313 report an effect size · 491 claims rest on one study
 
 ## Conditional relationship
 
@@ -490,6 +490,10 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Desktop VR and face-to-face simulation produce no significant difference in clinical performance outcomes for assessing and managing clinical deterioration](../claims/desktop-vr-similar-performance-to-face-to-face-simulation.md) [~W] — attached 2026-11-07 from Liaw Sok Ying et al. (2023), which proposed "Design desktop VR simulation with high functional fidelity — close alignment between simulation tasks and clinical tasks — rather than prioritising physical resemblance".
 - [Novice surgeons completed temporal bone anatomy tasks significantly faster in VR than in cross-sectional PACS viewing](../claims/novices-faster-tb-anatomy-tasks-vr-than-pacs.md) [+W] — attached 2026-11-07 from Timonen Tomi et al. (2022), which proposed "Use immersive 3D VR viewing to help novice surgeons evaluate complex anatomy faster and with fewer errors than 2D cross-sectional viewing".
 - [Novices made fewer total errors in VR than in cross-sectional viewing, with a trend approaching significance](../claims/novices-fewer-errors-vr-trend.md) [~W] — attached 2026-11-07 from Timonen Tomi et al. (2022), which proposed "Use immersive 3D VR viewing to help novice surgeons evaluate complex anatomy faster and with fewer errors than 2D cross-sectional viewing".
+- [Moderate stress and anxiety can facilitate health professional students' learning in simulation, improving preparedness and performance](../claims/moderate-stress-anxiety-facilitates-simulation-learning.md) [~W] — attached 2026-11-08 from Madsgaard et al. (2022), which proposed "Educators should consider the full range of students' emotions, including curiosity, interest and confusion, when planning and performing simulation-based education".
+- [Stress and anxiety are the predominant emotions reported in simulation-based education research and affect academic outcomes mainly in an obstructive way](../claims/stress-anxiety-predominant-sbe-review.md) [~W] — attached 2026-11-08 from Madsgaard et al. (2022), which proposed "Educators should consider the full range of students' emotions, including curiosity, interest and confusion, when planning and performing simulation-based education".
+- [Cited studies report home microsurgical training produced outcomes similar to laboratory-microscope training](../claims/home-microsurgery-training-similar-outcomes-cited.md) [~M] — attached 2026-11-08 from Golash Vidushi et al. (2021), which proposed "Use low-cost home simulation as a regular adjunct to surgical training when facility access is limited".
+- [Novice residents show marked OSATS performance improvement across consecutive SIMULATE curriculum scenarios with transfer to the operating room for both semi-rigid and flexible URS](../claims/simulate-curriculum-osats-improvement-or-transfer.md) [+W] — attached 2026-11-08 from Aydın Abdullatif et al. (2021), which proposed "Multi-modality simulation curriculum combining didactic lectures, VR, bench models and cadavers"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

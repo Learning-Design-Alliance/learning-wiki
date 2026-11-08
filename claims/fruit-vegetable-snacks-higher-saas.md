@@ -50,3 +50,4 @@ Linear regression row from the 1677-student cross-sectional study: "Snack- veget
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
 - [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related
+- [Non-HPS students consumed more vegetables and fewer sugary drinks than HPS students](non-hps-students-healthier-diet.md) — related

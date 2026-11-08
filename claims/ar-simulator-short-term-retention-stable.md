@@ -52,3 +52,4 @@ Retention analysis with only 18 of 23 participants returning after a minimum one
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — related
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
+- [Repeated iVR practice improved virtual performance metrics: Precision Score rose from 70% to 93%, case time fell from 8:44 to 3:46, and virtual fluoroscopic images fell from 42 to 5](ivr-practice-improved-precision-score-and-efficiency.md) — related

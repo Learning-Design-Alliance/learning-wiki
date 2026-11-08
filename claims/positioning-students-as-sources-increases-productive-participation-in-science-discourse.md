@@ -66,3 +66,4 @@ The authors are explicit that the co-variation between student-resource invocati
 - [Pupils taught with prior knowledge questions showed greater involvement and participation in lessons](prior-knowledge-questions-increase-engagement.md) — a narrower finding that bears on this claim
 - [Prior research indicates argumentative scripts improve argumentation skill development but not participation and interactivity](argumentative-scripts-improve-skills-not-participation.md) — related
 - [Only a third of observed teachers showed an alternative construction of the learning process with a creative approach](third-teachers-alternative-learning-process.md) — related
+- [Co-construction of answers was common in team discourse, particularly in response to higher-level questions](co-construction-common-with-higher-level-questions.md) — related

@@ -78,3 +78,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [High school admission grades correlated significantly with graduating GPA for IGCSE, JGSC, IB and Kuwaiti entrants but not for other degree types](high-school-grades-correlate-with-graduating-gpa-select-degrees.md) — a narrower finding that bears on this claim
 - [Young elite athletes attain lower overall academic performance than control students from the same high school on both Baccalaureate GPA and University Entrance Examinations](elite-athletes-lower-academic-performance-than-controls.md) — related
 - [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — related
+- [Secondary-school background strongly predicts university GPA, with technical/vocational students trailing liceo students](school-background-predicts-university-gpa.md) — related

@@ -50,3 +50,4 @@ Paired-sample t-test comparing pre- and post-training work quality in 20 junior 
 - [The circulating work execution rate rose from pre-test to post-test among junior operating room nurses after BOPPPS-integrated scenario simulation training, in one uncontrolled pre-post study](boppps-simulation-improves-execution-rate.md) — related
 - [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related
 - [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related
+- [A face-to-face educational intervention significantly improves circulating nurses' overall nontechnical skill scores](educational-intervention-improves-circulating-nurses-nontechnical-skills.md) — related

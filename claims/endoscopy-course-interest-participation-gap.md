@@ -54,3 +54,4 @@ Self-reported survey data from the same 273-respondent cross-sectional study. Th
 - [Only 23.1% of respondents routinely perform intraoperative endoscopy despite 71.3% having an endoscopy tower available in the operating room](intraoperative-endoscopy-low-adoption-despite-resources.md) — related
 - [Nearly half (46.9%) of early-career bariatric surgeons lack confidence in endoscopic management of MBS-related postoperative complications, and only about one-third are personally involved in such procedures](low-confidence-endoscopic-complication-management.md) — related
 - [Half of surveyed residents received no specialized GBT examination and 43% no formal GBT courses during residency training](gbt-training-assessment-curriculum-gaps.md) — related
+- [Simulators were not integrated into surgical specialist training in 81.8% of clinics, though 94% favored future integration](simulator-training-rarely-integrated-into-surgical-training.md) — related

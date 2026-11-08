@@ -50,3 +50,4 @@ Comparison of exam test scores per topic between the face-to-face group (FtFgrou
 - [On the non-randomized circulation topic, the 182 students taught on site answered the exam questions significantly better than the 16 students taught online](circulation-topic-onsite-outperformed-online.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [Online non-lecture physiology teaching during COVID-19 yielded summative scores 4.80±0.92% lower than on-site teaching (Cohen's d = 0.42)](online-non-lecture-physiology-lower-summative-scores.md) — related
+- [Online and offline interactive teaching produce no significant difference in summative assessment scores among dental undergraduates in Periodontics](online-offline-interactive-summative-equivalence-periodontics.md) — reports the opposite

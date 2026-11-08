@@ -49,3 +49,4 @@ Perceived impact reported by the initial teacher development group (n = 10) afte
 - [Embedding movement into routine lessons was perceived as feasible, acceptable and beneficial when designed as whole-class, creative, curriculum-based activity](movement-feasible-whole-class-design.md) — related
 - [A new independent teacher group endorsed the refined intervention's feasibility, practice-change potential and scalability](refinement-group-endorsement.md) — related
 - [Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity](self-talk-authentic-modelling.md) — related
+- [Perceived pupil benefits of PAL were the most widely reported theme, led by educational outcomes](pal-benefits-most-widely-reported-theme.md) — related

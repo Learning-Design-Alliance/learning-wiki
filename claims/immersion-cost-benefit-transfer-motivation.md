@@ -100,3 +100,5 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related
 - [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — related
 - [Positive pre-learning emotions induced by funny videos improved knowledge transfer but not knowledge retention in elementary students learning from a video lecture.](positive-pre-learning-emotion-improves-transfer-not-retention.md) — a narrower finding that bears on this claim
+- [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
+- [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — related

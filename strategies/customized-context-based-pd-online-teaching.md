@@ -41,6 +41,7 @@ The article's discussion recommends that professional development for online tea
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 - [Tailor professional development to demographic subgroups of teachers (gender, education level, school level)](demographic-tailored-pd-programs.md)
 - [Provide tailored teacher training on communication-course learning methods and outcomes](tailored-teacher-training-communication-courses.md)
+- [Progressive, refreshed PAL teacher training with tailored ongoing support](progressive-refreshed-pal-teacher-training-strategy.md)
 
 ## Examples
 -

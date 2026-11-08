@@ -48,3 +48,4 @@ Trainer-versus-trainee ranking comparison irrespective of WBA use (Table 3) in t
 - [Most South African specialist trainers and trainees report educational gaps, with a recurrent theme of lack of supervision](specialist-training-educational-gaps-south-africa.md) — related
 - [Trainees' self-assessed levels of supervision were slightly lower than supervisors' ratings, with no statistically significant difference](trainees-rate-own-supervision-level-slightly-lower.md) — reports the opposite
 - [Specialist trainees and trainers using WBAs rate trainee supervision, feedback quality and the training program significantly higher than WBA non-users](wba-users-rate-supervision-feedback-program-higher.md) — related
+- [Trainees rate patience, good communication, supervision and enthusiasm as the most important attributes of a good ophthalmic surgical trainer](good-surgical-trainer-attributes-ssa.md) — related

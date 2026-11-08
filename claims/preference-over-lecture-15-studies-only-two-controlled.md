@@ -80,3 +80,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [For community health and clinical medicine topics students prefer community postings and bedside teaching over PBL or lectures](chs-icm-prefer-community-bedside-teaching.md) — related
 - [Blended PbL students report course satisfaction, CbL attitudes and ILIAS familiarity comparable to conventional PbL students](bpbl-comparable-course-evaluation.md) — related
 - [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — related
+- [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — a narrower finding that bears on this claim

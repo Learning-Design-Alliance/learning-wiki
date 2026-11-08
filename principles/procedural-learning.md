@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (45 for, 22 mixed, 2 against) · 81 studies (46 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 81 report an effect size · 59 claims rest on one study
+> **Evidence** · 70 claims (46 for, 22 mixed, 2 against) · 82 studies (47 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 82 report an effect size · 60 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Medical students' task completion times on all four trained laparoscopic tasks decreased significantly from pre-test to post-test after a hands-on laparoscopic training workshop, in one uncontrolled pre-post study](../claims/laparoscopic-workshop-reduced-task-completion-times.md) [+W] — attached 2026-11-07 from Chen Pin-Chun et al. (2024), which proposed "Workshop session structure: live demonstration, unassisted timed baseline attempt, about one hour of directed practice with feedback, then an unassisted timed final attempt".
 - [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](../claims/simulation-ascites-puncture-three-month-skill-retention.md) [+W] — attached 2026-11-07 from Hammami Aya et al. (2024), which proposed "Four-stage learning sequence for procedural simulation: demonstration without comment, commented demonstration, learner explanation, then learner performance with real-time feedback".
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](../claims/rcdp-shortens-cpr-pause-duration-vs-is.md) [+W] — attached 2026-11-07 from Raper Jaron D. MD et al. (2024), which proposed "Use RCDP for algorithmic, procedurally demanding skills such as ACLS-based resuscitation".
+- [Skill retention 4–8 weeks after VAD training is superior after practice-based training: theory-trained participants deteriorated significantly while practice-trained participants remained stable](../claims/practice-based-vad-training-superior-retention.md) [+W] — attached 2026-11-08 from Marschalek Julian et al. (2021), which proposed "For procedural skills needed under stressful, unscheduled conditions, include one-to-one instructed hands-on practice in training programs because practice-based training better retains skills than theory-only training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -212,6 +213,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Use brief instructor-guided relaxation and visualization imagery sessions immediately before practicing decomposed surgical skill steps](../strategies/guided-imagery-before-decomposed-step-practice.md)
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](../strategies/demonstrate-group-practice-report-revision-simulation-session.md)
 - [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](../strategies/peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
+- [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](../strategies/algorithm-driven-stepwise-procedure-algorithms.md)
 
 ### Illustrative
 

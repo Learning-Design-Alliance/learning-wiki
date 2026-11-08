@@ -55,6 +55,7 @@ The article recommends structured off-the-job training via dry laboratories to r
 - [Provide all medical students with opportunities to learn surgical skills in dry laboratory training to foster interest in surgery](dry-lab-opportunities-foster-surgical-interest.md)
 - [Use non-organic silicone materials for accessible, reproducible tendon repair simulation](non-organic-materials-tendon-simulation-strategy.md)
 - [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
+- [Use discarded inedible livestock organs as surgical training models to reduce live-animal use](discarded-livestock-organs-surgical-training-strategy.md)
 
 ## Examples
 -

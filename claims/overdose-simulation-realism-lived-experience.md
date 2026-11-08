@@ -53,3 +53,4 @@ Qualitative content analysis of debriefings and interviews from the SOONER simul
 - [Simulation increased participants' self-efficacy in overdose response and was experienced as positive, confidence-building and identity affirming](simulation-self-efficacy-overdose-bystanders.md) — related
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
 - [Overdose simulation stimulated introspective reflection and gave participants a new perspective, including the responder's vantage point](simulation-new-perspective-reflection-overdose.md) — related
+- [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related

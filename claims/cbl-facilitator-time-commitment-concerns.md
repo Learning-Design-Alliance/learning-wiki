@@ -51,3 +51,4 @@ IPA interview theme on workload: each case required four 90-minute sessions tota
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Teachers viewed the flipped classroom favourably overall but raised workload and student-preparation concerns, with experienced flipped teachers more receptive](fc-teacher-perception-workload-resistance.md) — related
+- [Students felt overwhelmed by the course workload and found contact time with lecturers inadequate](students-overwhelmed-workload-inadequate-contact-time.md) — related

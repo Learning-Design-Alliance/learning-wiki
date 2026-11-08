@@ -48,6 +48,7 @@ The article's tested training sequence: trainees first undergo animal-based simu
 - Animal Experiment Simulation Platform Endoscopic Thyroidectomy
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Use discarded inedible livestock organs as surgical training models to reduce live-animal use](discarded-livestock-organs-surgical-training-strategy.md)
 
 ## Examples
 -

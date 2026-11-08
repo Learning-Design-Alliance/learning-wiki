@@ -63,3 +63,4 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [Rwandan medical students recommend integrating simulation into the curriculum with early procedural skills training to improve patient outcomes](students-recommend-curriculum-integration-early-simulation.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
 - [Experts recommended curriculum scaffolding with introductory phantom exposure in Year 1 and advanced hands-on planning in Year 2](year1-intro-year2-hands-on-scaffolding.md) — related
+- [HCPs want interactive components and personal exchange in e-learning to enhance knowledge-practice transfer](interactive-components-knowledge-practice-transfer.md) — a narrower finding that bears on this claim

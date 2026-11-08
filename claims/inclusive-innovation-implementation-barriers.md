@@ -76,3 +76,4 @@ Thematic analysis of interviews across the pilot districts identified four barri
 - [Six factors complicate implementing inclusive innovations and their perception by teachers, including lack of skills, diagnostic mechanisms and resources](six-barriers-inclusive-innovation-implementation.md) — related
 - [Teachers in the project increased expertise and improved internal motivation through self-reflection and consultations.](clil-teacher-expertise-motivation.md) — related
 - [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related
+- [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related

@@ -48,3 +48,4 @@ An expert-theoretical communication stating two conditions of use: the examiner 
 
 ## Related Claims
 - [A mental appraisement of an individual is even more dependent upon the adequate training and quality of the examiner than upon the standardization of the tests used](examiner-training-over-test-standardization-for-appraisal.md) — related
+- [Believing the OSCE is fake, examiners seek glimpses of authenticity and reward or penalise idiosyncratic elements of performance](examiners-seek-glimpses-of-authenticity.md) — related

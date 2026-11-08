@@ -54,3 +54,5 @@ Multiple linear regression with GPA as dependent variable and depression, anxiet
 - [Anxiety can have a positive, statistically significant association with medical students' academic performance when manageable](anxiety-positive-effect-academic-performance-medical-students.md) — related
 - [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](depression-anxiety-negative-academic-performance-medical-students.md) — related
 - [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related
+- [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
+- [Higher SES and lower depressive symptoms are associated with higher total A-Level scores](ses-depression-a-level-scores.md) — related

@@ -49,6 +49,7 @@ An implementable teaching activity: before practicing each decomposed action and
 - [Structured/Segmented Instruction](structured-segmented-instruction.md)
 - [Breathing Exercises](breathing_exercises.md)
 - [Use mental practice as an addition to physical practice for procedural skill learning in medical education](mental-practice-for-procedural-learning-strategy.md)
+- [Deliver a mental imagery session combining relaxation, teacher-guided mentalization of each protocol step, and independent rehearsal within time matched to conventional review](relaxation-guided-mentalization-rehearsal-protocol.md)
 
 ## Examples
 -

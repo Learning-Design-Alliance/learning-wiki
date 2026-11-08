@@ -46,7 +46,8 @@ The article's questionnaire results support delivering automated feedback that i
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](../claims/feature-importance-spread-across-many-features.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deliver formative feedback on quantifiable, AI-derived performance metrics with actionable goals during surgical simulation practice](metric-based-formative-feedback-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Register-based analysis of all 113,785 vertex deliveries. The study reports "the
 - [Documentation of oxytocin infusion interruption during shoulder dystocia increased significantly after simulation training (0% vs 15.8%)](oxytocin-interruption-documentation-increased.md) — related
 - [Permanent brachial plexus birth injury incidence decreased after implementation of systematic simulation training despite rising shoulder dystocia incidence](simulation-training-reduced-permanent-bpbi-incidence.md) — related
 - [Among shoulder dystocia cases, the risk of permanent brachial plexus birth injury was significantly lower after simulation training (43.5% vs 6.0%)](sd-cases-bpbi-risk-lower-post-training.md) — related
+- [Multidisciplinary simulation training for shoulder dystocia reduced neonatal brachial plexus injury rates (RR 0.37), but the effect declined over time](shoulder-dystocia-simulation-brachial-plexus-reduction.md) — related

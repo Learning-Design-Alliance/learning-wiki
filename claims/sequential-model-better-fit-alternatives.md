@@ -56,3 +56,4 @@ Model-fit comparison of five competing SEMs (Table 5), with the hypothesized mod
 - [Self-concept and physical-mental health chain-mediate the PA–AA link: PA enhances SC, which improves PMH and thereby AA (β = 0.031, 8.86%)](chain-mediation-sc-pmh-pa-aa.md) — related
 - [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — a narrower finding that bears on this claim
 - [The hypothesized path model from interpersonal motivation through engagement to performance fits the data well](path-model-fit-interpersonal-motivation-engagement-performance.md) — related
+- [The EU→EM→achievement cascade proposed by the cascading model of EI is not supported for academic achievement](no-eu-em-cascade-academic-achievement.md) — related

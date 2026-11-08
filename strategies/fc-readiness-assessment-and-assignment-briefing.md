@@ -53,6 +53,7 @@ From the study's problems and conclusions, the article recommends that "students
 - [Flipped Classroom](flipped-classroom.md)
 - [Flipped Learning](flipped-learning.md)
 - [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](third-party-preassignment-strategy.md)
+- [Brief students on the flipped classroom model's intention and value before class to foster self-active study](brief-students-on-fc-intention-before-class.md)
 
 ## Examples
 -

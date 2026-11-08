@@ -48,6 +48,7 @@ The authors recommend that teachers new to flipped learning "make an extra effor
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 - [Invest in high-quality prescripted vodcasts and consider combining vodcasts with live teaching (e.g., flipped classroom)](high-quality-vodcasts-flipped-combination.md)
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
+- [Use short in-house videos to complement lectures by making instruments, locations, and processes accessible, then engage students with a question](short-videos-complement-lectures-strategy.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ Qualitative focus-group study: six in-person focus groups with 47 BSN students a
 - [Students in the PBL-SP group perceive the standardized patient as more helpful for learning than LBL-SP students](pbl-sp-students-perceive-sp-more-helpful.md) — related
 - [Nursing students report that OSVE's structured video scenarios sharpen observational skills and support analysis of psychiatric presentations in a controlled environment](osve-structured-video-scenarios-sharpen-observation.md) — related
 - [Nursing students report that role-play and video simulations fostered empathy, enhanced communication, and built confidence in a safe practice environment](role-play-video-simulation-empathy-confidence.md) — related
+- [Patient communication training significantly increases medical physics graduate students' self-reported confidence on four communication measures](confidence-gains-patient-communication-training-medphys.md) — related

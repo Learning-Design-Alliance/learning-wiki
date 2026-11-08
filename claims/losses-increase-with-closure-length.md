@@ -56,3 +56,4 @@ Numerical regression estimates shown in Fig. 1 compare predicted losses at the 1
 - [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — a broader claim this one bears on
+- [Whether longer school closures cause larger learning deficits remains an open question requiring cross-country comparison](longer-lockdowns-larger-learning-deficits-open-question.md) — reports the opposite

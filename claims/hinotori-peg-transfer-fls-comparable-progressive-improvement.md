@@ -53,3 +53,4 @@ Peg-transfer FLS results from the ten-surgeon crossover simulation study; median
 - [Laparoscopic tasks produce significantly higher jerk and angular velocity than robotic tasks in surgical novices](lap-higher-jerk-angular-velocity-than-ra.md) — related
 - [Physiological stress and subjective fatigue changes did not differ significantly between robotic and laparoscopic approaches, though trends favored the robotic approach](hinotori-stress-fatigue-no-significant-difference.md) — related
 - [No significant differences in rating-scale or TABLT task-performance scores were observed among the five STALS batches](stals-no-batch-differences-task-scores.md) — related
+- [Overall laparoscopic and robotic simulator peg transfer scores do not differ significantly among novice medical students](no-overall-ls-rs-score-difference-peg-transfer.md) — possibly the same claim (merge candidate)

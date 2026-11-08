@@ -54,3 +54,4 @@ Longitudinal DOPS re-assessment of 100 students at 1 month, 6 months and 1 year 
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — reports the opposite
 - [BLS training significantly improves first-year MBBS students' BLS knowledge scores (p < 0.001)](bls-training-improves-mbbs-knowledge-scores.md) — related
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — related
+- [Skill retention 4–8 weeks after VAD training is superior after practice-based training: theory-trained participants deteriorated significantly while practice-trained participants remained stable](practice-based-vad-training-superior-retention.md) — related

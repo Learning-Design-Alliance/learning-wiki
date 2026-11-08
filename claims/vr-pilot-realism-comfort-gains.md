@@ -52,3 +52,4 @@ Descriptive analysis of the matched pre-post online questionnaire (Table 1) in t
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Conversation length with virtual patients increased significantly after VITAL-COMS training in both scenarios](vital-coms-conversation-length-increase.md) — related
+- [Patient communication training significantly increases medical physics graduate students' self-reported confidence on four communication measures](confidence-gains-patient-communication-training-medphys.md) — related

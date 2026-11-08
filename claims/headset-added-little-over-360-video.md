@@ -49,3 +49,4 @@ Focus-group finding on the headset: participants noted the headset lacked contro
 - [Students reported that VR-based orientation to the clinic layout relieved anxiety when they had not yet been exposed to clinics, but offered little extra once they had clinical experience.](vr-orientation-useful-before-clinical-exposure.md) — related
 - [Teachers perceive 360° VR videos as engaging, feasible, and useful for explaining concepts difficult to demonstrate traditionally](teacher-focus-groups-vr-engagement.md) — related
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related
+- [Pre-recording lectures added little production time once equipment was set up, but moving problem sets online increased grading workload](production-time-and-grading-workload-remote.md) — related

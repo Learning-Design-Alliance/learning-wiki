@@ -58,3 +58,5 @@ Cross-sectional analysis of physical activity measures against grades, adjusted 
 - [Sports participation frequency is positively associated with Chinese grades in Chinese primary school children, with the highest odds at 3 or more times per week](sports-participation-chinese-grades-positive-association.md) — related
 - [Associations between sports participation and grades are stronger for boys than girls, and girls showed no significant dose relationship in Chinese and math](sports-participation-grades-sex-differences.md) — related
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
+- [Leisure-time physical activity alone statistically significantly but modestly predicts overall academic competence in primary school children (about 3% of variance in girls, 4% in boys)](leisure-pa-modest-predictor-academic-competence.md) — related
+- [Non-HPS students did more physical activity while HPS students more often walked or cycled to school](non-hps-more-physical-activity-hps-active-transport.md) — related

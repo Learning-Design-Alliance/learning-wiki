@@ -59,6 +59,7 @@ The article recommends structured training programmes for newly appointed nurse 
 - [Integrate structured mentorship and reflective coaching alongside technical competency programs to support psychological outcomes](sccdp-mentorship-coaching-supplement-strategy.md)
 - [Screen for SMA and nomophobia and build academic self-efficacy through mastery experiences, role models, feedback, and coaching](ase-building-and-digital-wellbeing-strategy-nursing-interns.md)
 - [Differentiate safety education content and teaching methods for novice versus experienced nurses](differentiate-safety-education-novice-experienced-nurses.md)
+- [Progressive, refreshed PAL teacher training with tailored ongoing support](progressive-refreshed-pal-teacher-training-strategy.md)
 
 ## Examples
 -

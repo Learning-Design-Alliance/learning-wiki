@@ -47,3 +47,4 @@ Reflexive thematic analysis of think-aloud transcripts and semi-structured inter
 ## Related Claims
 - [Most participating examiners found the OD rubric useful and agreed the OD directly assesses clinical reasoning skills](od-acceptable-to-examiners.md) — related
 - [Communication feedback in adult nursing assessment is perfunctory unless tied to functional safety tasks such as SBAR handover and escalation of concerns](communication-feedback-perfunctory-except-functional-contexts.md) — related
+- [Less experienced OSCE raters judge more stringently and adhere rigidly to instructions, while experienced raters deviate and rely on gestalt](rater-experience-stringency-and-deviation.md) — related

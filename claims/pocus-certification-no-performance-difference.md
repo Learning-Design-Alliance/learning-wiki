@@ -49,3 +49,4 @@ Post hoc independent samples t-test with BCa 95% confidence intervals using 5,00
 - [Training participation predicts progression from poor to general GI-POCUS proficiency but not from general to good](training-predicts-early-but-not-advanced-gi-pocus-proficiency.md) — related
 - [Younger GPs and those with prior POCUS experience tended to score higher, while no clear relationship was found between number of performed scans and competence](osaus-scores-age-prior-experience-not-scan-count.md) — related
 - [German emergency physicians show high learning motivation for POCUS but correctly identify only about 60% of pathologies on ultrasound loops](pocus-high-motivation-low-diagnostic-accuracy.md) — related
+- [Students without prior ligation training scored the same as experienced students in the online practice](no-score-difference-experienced-inexperienced-ligation.md) — related

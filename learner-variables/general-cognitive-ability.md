@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 221 claims (142 show a difference, 45 mixed, 34 no difference) · 151 studies (58 causal, 55 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 36 of 151 report an effect size · 218 claims rest on one study
+> **Evidence** · 222 claims (143 show a difference, 45 mixed, 34 no difference) · 152 studies (58 causal, 56 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 36 of 152 report an effect size · 219 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -257,6 +257,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Beyond crystallized abilities, preschool fluid abilities retain only small direct contributions to later-grade achievement, while cognitive flexibility contributes none](../claims/modest-direct-fluid-contributions-later-grades.md) [~W] — learners who differ on it differ in outcomes
 - [Non-verbal fluid intelligence (Raven matrices) declined in the standing desk intervention group while the control group increased slightly](../claims/raven-matrices-declined-intervention-group.md) [~M] — measured as an outcome of the instruction studied
 - [Sex, IQ and dataset were not associated with arithmetic, symbolic number or reading ability in this grade 4 sample](../claims/no-sex-iq-dataset-association-academic-measures.md) [-M] — learners who differ on it differ in outcomes
+- [Cognitive aptitudes each explain unique variance in future academic performance, jointly 5.77% (numerical 3.08%, verbal 1.54%, abstract reasoning 1.15%)](../claims/cognitive-aptitudes-unique-variance-t3-gpa.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

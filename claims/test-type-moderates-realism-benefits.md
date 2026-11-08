@@ -71,3 +71,4 @@ Narrative review statement citing Menendez et al. (2020) and Fyfe et al. (2014):
 - [Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions](schematic-visuals-outperform-realistic.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized](exploring-3d-anatomy-compartmental-conceptual-cognition.md) — related
+- [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — related

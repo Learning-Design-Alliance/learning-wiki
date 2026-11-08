@@ -57,3 +57,4 @@ Repeated measures ANOVA in the intervention group (n = 20) showed a significant 
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
 - [Puzzle-based teaching increases academic self-efficacy in nursing students](puzzle-teaching-increases-academic-self-efficacy.md) — related
 - [GBL benefits on diagnostic accuracy persisted at one-month follow-up for both GBL groups compared with control](gbl-one-month-persistence.md) — related
+- [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related

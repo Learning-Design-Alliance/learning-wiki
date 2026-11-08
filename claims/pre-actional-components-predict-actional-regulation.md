@@ -100,3 +100,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](literacy-difficulties-moderate-trait-anxiety-gpa.md) — related
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
 - [Middle-grade students' e-learning performance correlates strongly with self-efficacy for learning and performance](middle-grade-self-efficacy-correlation.md) — related
+- [Metacognitive self-regulation is positively associated with college course grades and GPA](metacognitive-self-regulation-grades-gpa-association.md) — related

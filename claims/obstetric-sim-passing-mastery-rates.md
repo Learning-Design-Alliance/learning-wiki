@@ -68,3 +68,4 @@ Same pre-post comparison against the 70-point mastery learning level established
 - [Post-training performance relative to experts varied by module: inexperienced trainees matched experts in modules 1–3 but stayed inferior in module 4, while experienced trainees outperformed experts in module 3](obstetric-sim-module-specific-mastery.md) — related
 - [Small-group size (1–4 persons) did not significantly affect outcomes in a short simulation-based obstetric ultrasound course](group-size-no-effect-ultrasound-simulation.md) — related
 - [Improvements after MR simulator training were seen in both experienced and non-experienced participants.](mr-training-improved-experienced-and-novice.md) — related
+- [Simulation-based assessment revealed a 40% pass rate for interns managing failed obstetric intubation despite prior emergency training](simulation-assessment-failed-intubation-pass-rate.md) — related

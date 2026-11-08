@@ -52,3 +52,4 @@ Same meta-analytic synthesis section; the contrast between active and traditiona
 - [Mathematics is the subject where positive associations with physical activity are found most consistently in systematic reviews, though meta-analytic effects range from null to medium](mathematics-most-consistent-positive-subject.md) — related
 - [Students report higher enjoyment of active classrooms than of traditional classrooms](active-classrooms-higher-enjoyment.md) — related
 - [Effects of ALCs on physical activity are mixed, with some studies showing lower PA in ALCs than traditional classrooms](alc-mixed-physical-activity.md) — related
+- [Elementary classrooms that are physically active support greater academic achievement compared to traditional sedentary elementary classrooms](active-elementary-classrooms-greater-academic-achievement.md) — reports the opposite

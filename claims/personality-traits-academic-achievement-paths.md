@@ -73,3 +73,4 @@ Chinese path model: AASA ~ PEX B = 0.15, AASA ~ PAG B = 0.11, AASD ~ PCO B = 0.2
 - [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](other-big-five-traits-no-moderation-stress-achievement.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
+- [Agreeableness predicts clinical performance while extraversion and openness relate only to academic achievement and neuroticism to neither](other-big-five-domains-dental-performance-patterns.md) — related

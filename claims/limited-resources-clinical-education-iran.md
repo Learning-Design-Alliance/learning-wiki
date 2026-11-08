@@ -54,3 +54,4 @@ Faculty interview testimony in the limited-resources category; an instructor (P8
 - [Participants saw the internship model as an opportunity for greater university-hospital interaction and for relieving shortages of anesthesiologists, instructors, and affordable clinical labor](anesthesia-internship-opportunities-workforce-interaction.md) — related
 - [Implementation problems — faculty weaknesses, exam organizers, and the physical exam environment — are perceived causes of nursing students' cheating](implementation-problems-nursing-exam-cheating.md) — related
 - [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related
+- [Perceived barriers to implementing ophthalmic simulation in SSA include cost, inadequate supervision, lack of equipment or facilities, resistance to change and sustainability concerns](sbse-implementation-barriers-ssa.md) — related

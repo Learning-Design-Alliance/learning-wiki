@@ -62,3 +62,4 @@ Anonymous questionnaire completed by all 127 residents (100% response rate) afte
 - [PTEBL-based Stop the Bleed training produces greater self-reported improvement in teamwork skills than traditional teaching (94.8% vs 81.6%, P = 0.011)](ptebl-improves-teamwork-skills-stb.md) — related
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on
+- [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related

@@ -99,6 +99,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Choose or blend asynchronous and synchronous e-learning based on skills targeted, student and teacher preferences, and organisational needs rather than performance alone](blend-sync-async-by-needs-and-preferences.md)
 - [Offer interactive E-book apps for nurses' self-paced in-service education](ebook-app-self-paced-in-service-education-strategy.md)
 - [Embed expert and family videos and self-paced flexible delivery in online professional education to widen reach and consistency](elearning-expert-family-videos-self-paced-strategy.md)
+- [Leverage online and asynchronous learning strategies to supplement lecture and lab components of wheelchair-related content](online-asynchronous-wheelchair-content-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

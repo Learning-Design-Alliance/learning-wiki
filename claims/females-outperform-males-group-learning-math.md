@@ -77,3 +77,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related
 - [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite
 - [Female students outperformed males in the live lecture condition, but not in the flipped conditions](gender-difference-live-lecture-gains.md) — related
+- [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — reports the opposite

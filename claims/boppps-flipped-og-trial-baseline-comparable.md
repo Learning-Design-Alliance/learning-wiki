@@ -59,3 +59,5 @@ Baseline simulation examination before training: experimental thinking scores av
 - [The simulation-trained and traditionally trained nurse groups were comparable at baseline on gender, age, working years, and education level](baseline-comparability-simulation-vs-traditional-groups.md) — related
 - [Baseline characteristics of the integrated PBL + LBC and LBC groups did not differ significantly in gender, nationality, or age](baseline-equivalence-integrated-pbl-groups.md) — related
 - [First theoretical assessment showed no significant difference among the four groups, indicating equivalent baseline learning ability](baseline-theoretical-scores-equivalent.md) — related
+- [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — related
+- [Randomization produced comparable demographic baselines between the flipped and traditional classroom groups](fc-tc-baseline-demographics-comparable.md) — related

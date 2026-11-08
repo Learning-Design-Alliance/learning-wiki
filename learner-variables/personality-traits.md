@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (90 show a difference, 32 mixed, 17 no difference) · 67 studies (35 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 21 of 67 report an effect size · 139 claims rest on one study
+> **Evidence** · 148 claims (96 show a difference, 33 mixed, 19 no difference) · 70 studies (38 associational, 15 review, 10 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 22 of 70 report an effect size · 148 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -174,6 +174,15 @@ Personality traits are relatively stable individual differences, most often meas
 - [Higher agreeableness and higher emotional stability are each associated with higher odds of a better National Residency Exam score](../claims/agreeableness-emotional-stability-associated-with-exam-odds.md) [+M] — learners who differ on it differ in outcomes
 - [In men with low academic performance, GPA is multivariately associated with admission exam test, self-motivation, neuroticism and having a romantic partner positively, and with having children and weekly physical activity hours negatively](../claims/men-gpa-multivariate-model-low-performers.md) [~W] — learners who differ on it differ in outcomes
 - [Low extraversion is associated with higher odds of a better National Residency Exam score among Romanian medical graduates](../claims/low-extraversion-associated-with-higher-residency-exam-odds.md) [+W] — learners who differ on it differ in outcomes
+- [Agreeableness predicts clinical performance while extraversion and openness relate only to academic achievement and neuroticism to neither](../claims/other-big-five-domains-dental-performance-patterns.md) [~M] — learners who differ on it differ in outcomes
+- [Big Five personality traits do not moderate the effects of verbal intelligence or strategic EI on adolescents' GPA](../claims/personality-does-not-moderate-ability-effects-gpa.md) [-M] — an instructional effect differs with it
+- [Broad conscientiousness is the strongest Big Five predictor of both academic GPA and clinical marks in dental students](../claims/conscientiousness-predicts-dental-gpa-and-clinic.md) [+M] — learners who differ on it differ in outcomes
+- [Extraversion, agreeableness and emotional stability show no significant association with GPA](../claims/other-big-five-traits-no-gpa-effect.md) [-M] — learners who differ on it differ in outcomes
+- [Four conscientiousness facets (competence, dutifulness, achievement, self-discipline) predict academic performance; dutifulness also predicts clinical marks](../claims/conscientiousness-facets-predict-dental-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Higher conscientiousness predicts higher first-year university GPA among Italian freshmen](../claims/conscientiousness-positive-gpa-italian-freshmen.md) [+M] — learners who differ on it differ in outcomes
+- [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](../claims/openness-positive-gpa-italian-freshmen.md) [+M] — learners who differ on it differ in outcomes
+- [Narrow conscientiousness traits add incremental prediction of dental performance beyond global conscientiousness](../claims/narrow-traits-incremental-validity-dental-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](../claims/literature-review-conscientiousness-most-consistent-predictor.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

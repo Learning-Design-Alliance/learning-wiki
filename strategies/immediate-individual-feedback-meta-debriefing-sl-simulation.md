@@ -44,7 +44,8 @@ After each roughly 10-minute simulated debriefing, the trainer delivers about 20
 - [Trainees' self-confidence in managing simulation-based medical education rose from pre-test to post-test across standardized-learner simulation sessions in one group with no comparison group](../claims/sl-simulation-self-confidence-increase-per-session.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Record home simulation practice on the smartphone and review it with a trainer for feedback](record-home-practice-trainer-feedback-strategy.md)
 
 ## Examples
 -

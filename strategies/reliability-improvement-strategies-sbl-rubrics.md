@@ -56,6 +56,7 @@ The article recommends concrete tactics for raising the reliability of simulatio
 - [Multidimensional rater-improvement strategy combining expert training, monitoring and evaluation, quality assurance mechanisms, and item banking](ugmle-multidimensional-rater-improvement-strategy.md)
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
 - [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
+- [Use one T-NOTECHS rater for routine quality assessment and three raters for research or quality improvement analyses](tnotechs-rater-count-by-purpose-strategy.md)
 
 ## Examples
 -

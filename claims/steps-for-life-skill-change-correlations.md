@@ -49,3 +49,4 @@ Table 5 reports Pearson correlation coefficients between changes of all dimensio
 - [Correlations between socioemotional skills dimensions are statistically significant and mostly high, ranging from 0.91 to 0.17, with Problem Solving most correlated with other dimensions](socioemotional-dimension-correlations-range-091-to-017.md) — related
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
 - [Development in life skills correlated positively with development in language learning strategies](life-skills-strategies-positive-correlation.md) — related
+- [In the intervention group, self-assessed improvement correlated significantly with physician-assessed improvement; in the regular group it did not](self-physician-correlation-intervention-only.md) — related

@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 257 claims (177 show a difference, 57 mixed, 23 no difference) · 158 studies (58 associational, 52 causal, 16 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 38 of 158 report an effect size · 254 claims rest on one study
+> **Evidence** · 258 claims (178 show a difference, 57 mixed, 23 no difference) · 159 studies (58 associational, 52 causal, 17 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 38 of 159 report an effect size · 255 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -292,6 +292,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Teacher mindset-practice moderation extends to secondary outcomes in study 1 (achievement goals, felt respect, anticipated shame), which showed the same interaction effects as the assignment-choice measure](../claims/mindset-moderation-secondary-outcomes-study1.md) [+M] — measured as an outcome of the instruction studied
 - [Positive academic emotions increase the likelihood of academic resilience among disadvantaged students in all three grades](../claims/positive-academic-emotions-predict-resilience.md) [+M] — learners who differ on it differ in outcomes
 - [After learning, the experimental group's happiness decreased and frustration and boredom increased significantly, while the control group's emotions did not change significantly.](../claims/post-learning-emotion-declines-after-funny-video-induction.md) [+W] — measured as an outcome of the instruction studied
+- [Students' emotions vary before, during and after simulation, unfolding in a rollercoaster from negatively to positively loaded across the session](../claims/emotional-rollercoaster-during-simulation.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

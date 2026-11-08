@@ -41,6 +41,7 @@ The article recommends finding classroom ways to support children with WM diffic
 
 - [Accommodate slower processing speed in academic interventions for children with ADHD, alongside existing WM-focused approaches](accommodate-processing-speed-adhd-interventions.md)
 - [Use WM capacity measures for early identification and give clear, one-item-at-a-time instructions to children with attention deficits](wm-screening-and-clear-instructions-attention-deficits.md)
+- [Adapt CAI conditions of use for students with below-average working memory capacity](adapt-cai-for-low-wm-students.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Final block of the hierarchical linear regression (n = 89) in the cross-sectiona
 - [The overall hierarchical regression model is statistically significant, F(5, 442) = 128.848](hierarchical-model-omnibus-significant.md) — related
 - [Depressive symptoms are negatively related to GPA among college students](depressive-symptoms-negatively-related-to-gpa.md) — related
 - [Grit's positive relationship with GPA is non-significant when depressive symptoms and social desirability are included in the model](grit-gpa-non-significant-with-covariates.md) — related
+- [Higher SES and lower depressive symptoms are associated with higher total A-Level scores](ses-depression-a-level-scores.md) — related

@@ -54,3 +54,4 @@ Aggregated GPA regression across the three TOSCA studies with all students, Mode
 - [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md) — related
 - [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](openness-predicts-standardized-tests-most.md) — related
 - [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — a broader claim this one bears on
+- [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — possibly the same claim (merge candidate)

@@ -59,3 +59,4 @@ Subgroup meta-analyses of flipped-classroom design features (Table 3 and text). 
 - [Videos under 5 minutes have higher audience retention and higher response rates to embedded questions in a flipped undergraduate medical classroom](videos-under-5-minutes-higher-retention-and-question-response.md) — related
 - [Effect sizes for quiz and final exam scores were largest for the flipped physical classroom blended learning group](effect-size-largest-fpcr-bl.md) — related
 - [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — related
+- [Students taught with flipped classroom combined with case-based learning scored higher on post-class quizzes than lecture-based classroom students in undergraduate pathology](fc-cbl-higher-post-quiz-scores-pathology.md) — a narrower finding that bears on this claim

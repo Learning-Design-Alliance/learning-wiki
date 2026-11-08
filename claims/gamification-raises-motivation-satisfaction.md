@@ -69,3 +69,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 - [Gamification of web-based learning improves academic achievement among primary school students learning English](gamification-web-learning-improves-primary-achievement.md) — related
 - [Gamification improves engagement and learning in diabetes education, with strongest results in board and escape games and smaller gains for digital games](gamification-board-escape-games-strongest.md) — a broader claim this one bears on
 - [Midwifery students reported significantly greater satisfaction with the gamified training method than with the traditional lecture method](gamification-greater-satisfaction-midwifery-students.md) — related
+- [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related

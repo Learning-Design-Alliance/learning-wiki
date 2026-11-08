@@ -52,3 +52,4 @@ Randomized controlled trial of 16 residents (9 experimental, 7 analyzed control)
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
 - [Repeated mental imagery based on a cognitive aid improves the non-technical skills of novice anesthesia residents in simulated cardiopulmonary resuscitation at 6 months](mental-imagery-cognitive-aid-improves-nontechnical-skills-cpr-simulation.md) — related
+- [Mental imagery training developed epidural anesthesia technical skills as effectively as low-fidelity haptic simulators in novices](mental-imagery-as-effective-as-haptic-simulator.md) — related

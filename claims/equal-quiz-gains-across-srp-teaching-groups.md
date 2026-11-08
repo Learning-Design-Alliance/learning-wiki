@@ -54,3 +54,4 @@ Analysis of identical pre- and after-class quizzes for all 178 participants in a
 - [The periodontal endoscopy-assisted in-person group outperformed the other two groups on operative skill assessment, driven by calculus removal](pe-inperson-higher-skill-calculus-removal.md) — related
 - [IBVR and TBVR show no significant differences in quiz knowledge gain, cognitive load, or most HRV metrics](ibvr-tbvr-no-difference-knowledge-load-hrv.md) — related
 - [A large-class flipped classroom with design thinking produced no statistically significant difference in classroom quiz scores versus traditional large-class teaching](dt-flipped-classroom-no-quiz-score-difference.md) — related
+- [Students in the TBL physiology course showed significant pre–post gains on a conceptual physiology test and daily concept quizzes](tbl-physiology-pre-post-gains.md) — related

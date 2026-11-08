@@ -47,6 +47,7 @@ The article recommends that "Nurse educators, infection control teams and hospit
 ## Related Strategies
 
 - [Multimodal infection-prevention training combining theory with clinical practice, delivered by qualified internal experts with employer-supported time](multimodal-nosocomial-training-strategy.md)
+- [Recommend ongoing delivery of the PBM education programme to interns with yearly evaluation](ongoing-pbm-education-yearly-evaluation-strategy.md)
 
 ## Examples
 -

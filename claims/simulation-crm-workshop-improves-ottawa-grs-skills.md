@@ -53,3 +53,4 @@ Evaluator ratings on the seven-point Ottawa GRS (1 = novice, 7 = clearly excel) 
 - [Ottawa GRS scores rated both leaders within the competent range while TEAM scores differentiated the expert and novice leaders more clearly](ottawa-grs-versus-team-score-differentiation.md) — related
 - [PGY trainees' TEAM self-assessment identified situation monitoring and composure as weaknesses while team morale, leadership, and communication scored highest.](team-self-assessment-monitoring-composure-weaknesses.md) — related
 - [Participants regard post-simulation debriefing, role allocation, and interprofessional knowledge-sharing as critical to learning CRM skills](fgd-debriefing-role-allocation-knowledge-sharing-crm.md) — related
+- [Team communication scores rose significantly from pre-test to post-test after KSS training, in one uncontrolled pre-post study, with the median rising from 5.00 to 10.00](kss-training-improves-team-communication-scores.md) — related

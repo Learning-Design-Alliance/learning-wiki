@@ -52,3 +52,4 @@ The review describes debriefing as a guided discussion after simulation sessions
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
 - [Implementing a structured PRD tool is feasible in acute clinical areas, with debriefs averaging 14.2 minutes](prd-feasible-short-debriefs-acute-care.md) — a narrower finding that bears on this claim
+- [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related

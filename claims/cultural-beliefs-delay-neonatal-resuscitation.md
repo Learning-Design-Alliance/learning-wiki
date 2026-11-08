@@ -50,3 +50,4 @@ Focus group data in the qualitative study; a participant quoted mothers believin
 - [High patient volume and inadequate supplies adversely affect midwives' neonatal resuscitation performance and neonatal survival in a low-resource referral hospital](patient-volume-supplies-hamper-neonatal-resuscitation.md) — related
 - [Knowledge gaps in perinatal care persist despite HBB training, and midwives report a need for recurrent and more comprehensive training](knowledge-gaps-persist-despite-hbb-training.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
+- [The proclivity to perform suction first delays ventilation during neonatal resuscitation, and suction is rarely clinically indicated](suction-first-delays-ventilation-air-air-air.md) — related

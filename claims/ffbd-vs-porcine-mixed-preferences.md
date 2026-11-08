@@ -51,3 +51,4 @@ Comparative study synthesised by the review (Wyles et al. 2011; 66 body donor an
 - [Rabbit model outperformed porcine model for pediatric MIS training, with higher surgical performance scores (8.1 versus 6.0)](rabbit-beats-porcine-pediatric-mis-training.md) — related
 - [Trainees rated both case-specific and generic-anatomy 3D-printed models highly for realism, planning, and preparedness despite objective transfer differences](high-perceived-realism-both-model-types.md) — related
 - [Fresh frozen cadaver use in the SIMULATE ureteroscopy curriculum showed no statistically significant performance advantage over non-cadaver cohorts](ffc-no-performance-advantage-simulate.md) — related
+- [Fresh frozen cadavers are the most highly rated training modality for content validity, while VR is rated relatively inferior to other modalities](content-validity-ffc-highest-rated-vr-inferior.md) — related

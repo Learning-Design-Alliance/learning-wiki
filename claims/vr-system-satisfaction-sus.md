@@ -53,3 +53,4 @@ Descriptive analysis of the Chinese-version System Usability Scale completed by 
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
 - [One round of VR-based geriatric oral health simulation training improves nursing students' knowledge and self-efficacy more than no training](vr-training-round1-knowledge-self-efficacy.md) — related
 - [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related
+- [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related

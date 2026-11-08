@@ -47,7 +47,8 @@ Drawing on the PHABS-PSS framework, the review recommends that practitioners ens
 - [Positive coping styles show larger coefficients than negative coping styles, suggesting improving positive coping strategies may be more beneficial than minimising negative ones](../claims/positive-coping-coefficients-larger-than-negative.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer multidisciplinary degree programmes to emphasize the resources of conscientious and open students](multidisciplinary-programs-for-conscientious-open-students.md)
 
 ## Examples
 -

@@ -66,3 +66,4 @@ Review synthesis of skill-assessment methods; the authors report the OSTE as the
 ## Related Claims
 - [Most reviewed simulation studies demonstrated face and content validity, but few assessed construct or predictive validity](simulation-validity-face-content-yes-predictive-rare.md) — related
 - [NOTSS was the most used NTS tool with strong validity evidence, but self-assessment without validity evidence was the most frequent form of NTS assessment (n=78)](self-assessment-most-frequent-nts-assessment.md) — related
+- [Written evaluation is the most common assessment method, but the Funding, Fitting, and Follow-up steps are not evaluated at least half of the time](written-evaluation-gaps-funding-fitting-followup.md) — related

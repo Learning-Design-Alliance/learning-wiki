@@ -17,7 +17,7 @@ sources:
 # Introduce targeted communication skills training early in clinical training rather than waiting until the internship phase
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors recommend positioning targeted communication skills training with simulation patients at the entry level of students’ clinical training. Their observation that students confirmed significant improvement from the course despite already being in internships "indicates the need to consider implementing these training sessions at the entry level of their clinical training, rather than waiting until the internship phase", so students can practice communication when they first start interacting with patients.
@@ -38,7 +38,7 @@ The authors recommend positioning targeted communication skills training with si
 
 ## Claims
 
-- [Dental students’ communication skills rose significantly from pre-test to post-test after targeted communication training followed by simulated patient encounters, in one uncontrolled pre-post study](../claims/targeted-training-simulated-patients-improved-communication-skills.md) [+W]
+- [Dental students rated their communication skills slightly but not significantly higher after targeted communication training with simulated patients, in one uncontrolled pre-post study, although the abstract reports a significant improvement](../claims/targeted-training-simulated-patients-improved-communication-skills.md) [~W]
 - [Self-assessed communication skills improved only non-significantly between the beginning and end of the internship despite the training](../claims/self-assessed-skills-nonsignificant-change-over-term.md) [+W]
 - [Students rated the communication training with simulated patients as very good and especially valued the small-group format](../claims/students-rated-small-group-simulated-patient-training-useful.md) [+W]
 - [After the communication course, dental students paid significantly more attention to asking open-ended questions of patients](../claims/open-ended-questions-attention-increased-after-training.md) [+W]

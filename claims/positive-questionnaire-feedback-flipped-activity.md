@@ -55,3 +55,4 @@ Descriptive analysis of a revalidated five-point Likert questionnaire (Cronbach'
 - [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related
 - [Teachers viewed the flipped classroom favourably overall but raised workload and student-preparation concerns, with experienced flipped teachers more receptive](fc-teacher-perception-workload-resistance.md) — related
 - [Students preferred the virtual flipped learning format over the virtual traditional format on all survey items except opportunity to ask questions](students-prefer-vfl-over-vtl-perception.md) — related
+- [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related

@@ -55,3 +55,4 @@ Meta-analysis of two intervention samples (n = 137 students) from a single Swiss
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — related
 - [A 12-week classroom-based physical activity break program significantly improves objective study-test performance (comprehension and memorization) in adolescents](active-breaks-improve-objective-study-tests.md) — related
 - [A 12-week classroom-based physical activity break program significantly increases scholastic self-efficacy in adolescents compared with regular lessons](active-breaks-increase-scholastic-self-efficacy.md) — related
+- [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — related

@@ -66,3 +66,4 @@ Model results indicate that many attempts predict a lower grade, which the autho
 ## Related Claims
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Preschoolers' recall of repeated items exceeds the maximum predicted by encoding variability theories assuming independent encodings](preschoolers-recall-exceeds-encoding-variability-prediction.md) — related
+- [Students earning F grades attempted the most Quizzical questions, while A–C students showed similar, regular engagement patterns](grade-category-engagement-patterns.md) — related

@@ -46,3 +46,4 @@ Cross-sectional pre/post survey of 117 APPE students with Wilcoxon signed-rank t
 
 ## Related Claims
 - [In IPPE2, pre-test satisfaction was significantly higher for all five technical-domain items, while exercise, instructor and communication domains showed no significant pre-post differences](ippe2-pretest-higher-technical-satisfaction.md) — related
+- [Virtual surgical skills teaching significantly improved students' perceptions of supervision, view of demonstrations and interaction with instructors](virtual-skills-teaching-improved-perceptions.md) — related

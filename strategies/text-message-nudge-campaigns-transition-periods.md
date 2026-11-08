@@ -52,7 +52,8 @@ The article recommends text messaging as "a highly efficient, scalable, and dire
 - [A 7-week summer text-message nudge campaign increased fall reenrollment among first-year community college students by 7 percentage points relative to control](../claims/summer-nudge-campaign-increases-community-college-reenrollment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Course-based near-peer mentorship as a scalable alternative to faculty mentorship in large-enrollment STEM programs](scalable-course-based-near-peer-mentorship.md)
 
 ## Examples
 -

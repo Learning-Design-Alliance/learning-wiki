@@ -47,3 +47,4 @@ Longitudinal qualitative study of 24 post-graduate health-profession students in
 ## Related Claims
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
 - [Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences](students-own-bodily-responses-vr.md) — related
+- [Phenomenological interviews identified four themes of graduate nurses' lived experience: pleasant discovery, useful learning, emotional change, and an active learning process](lived-experience-four-themes-repeated-simulation.md) — related

@@ -55,3 +55,4 @@ Focus group theme on structure and processes: while tailored ad hoc content suit
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
 - [International SBL trainers perceive their primary role as facilitators and consider structuring sessions, facilitating group learning, and stimulating reflection crucial themes](sbl-trainers-perceive-facilitator-role-three-themes.md) — related
+- [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related

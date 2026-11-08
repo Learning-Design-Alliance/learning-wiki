@@ -60,3 +60,5 @@ Correlational analysis of CLM and QCM subscales in the same algebra study: "intr
 - [Intrinsic cognitive load during the scenario negatively predicted problem-solving performance (ANCOVA, p = .01)](cognitive-load-negatively-predicts-problem-solving.md) — related
 - [MRT and VVIQ scores are uncorrelated (r = 0.01), and neither significantly affected survey scores except VVIQ on extraneous cognitive load (p < 0.05)](mrt-vviq-uncorrelated-null-main-effects.md) — related
 - [Subdimension correlations partly support distinct load constructs but show an unexpected negative intrinsic–germane correlation (r = − 0.192)](turkish-clt-tool-intrinsic-germane-negative-correlation.md) — related
+- [Student self-reported anxiety is negatively correlated with perceived instructor support in large introductory biology classes](anxiety-negatively-correlated-perceived-instructor-support.md) — related
+- [High state-anxiety immediately after the simulation scenario is associated with higher extraneous cognitive load, but not intrinsic load or self-perceived learning](state-anxiety-associated-with-extraneous-load.md) — related

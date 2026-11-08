@@ -56,3 +56,5 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
 - [All 51 students agreed the simulator trained motor coordination and 2D perception, improved understanding, consolidated learning, and should be used before real surgery](unanimous-student-endorsement-of-simulator-skills-training.md) — related
 - [Physicians rate the PallPan palliative care e-learning tool as highly feasible, satisfying, and useful for their work](pallpan-elearning-high-feasibility-ratings-physicians.md) — related
+- [Simulators were not integrated into surgical specialist training in 81.8% of clinics, though 94% favored future integration](simulator-training-rarely-integrated-into-surgical-training.md) — related
+- [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related

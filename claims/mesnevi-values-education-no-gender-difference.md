@@ -53,3 +53,4 @@ Mann-Whitney U analysis of the 31-student experimental group (15 female, 16 male
 - [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related
 - [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related
 - [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related
+- [ECG quiz scores and final ECG examination scores do not differ between female and male medical students](no-gender-difference-ecg-quiz-final-scores.md) — related

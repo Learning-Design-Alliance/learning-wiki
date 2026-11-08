@@ -56,6 +56,7 @@ The authors conclude that simulation-trained providers' skills "remain effective
 - [Share the simulation scenario with learners in advance and repeat the scenario within sessions](advance-scenario-sharing-and-repetition-strategy.md)
 - [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
 - [Schedule top-up or refresher sessions after short SBE workshops to maintain knowledge gains](top-up-sessions-maintain-sbe-gains.md)
+- [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 
 ## Examples
 -

@@ -154,3 +154,4 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [A 12-week classroom-based physical activity break program significantly improves physical fitness on standing long jump, Harvard step, push-up and sit-and-reach tests](active-breaks-improve-physical-fitness.md) — related
 - [A 12-week classroom-based physical activity break program significantly increases scholastic self-efficacy in adolescents compared with regular lessons](active-breaks-increase-scholastic-self-efficacy.md) — related
 - [No significant intervention effect of classroom-based activity breaks was found for didactic material development and attitude towards school](active-breaks-null-didactic-material-attitude.md) — related
+- [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — related

@@ -51,6 +51,7 @@ The article recommends incorporating an asynchronously delivered e-module into c
 
 - [Incorporate case-based learning and interactive components into asynchronous virtual care CPD modules](strategy-case-based-learning-virtual-care-cpd.md)
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
+- [Leverage online and asynchronous learning strategies to supplement lecture and lab components of wheelchair-related content](online-asynchronous-wheelchair-content-strategy.md)
 
 ## Examples
 -

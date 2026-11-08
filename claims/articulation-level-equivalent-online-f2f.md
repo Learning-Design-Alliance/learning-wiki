@@ -48,3 +48,4 @@ Primary-endpoint analysis of the validation study: demonstrators rated whether d
 - [Demonstrator-rated competency after online breakout-room surgical skills teaching does not differ from face-to-face small-group teaching for suturing, tendon repair and vascular anastomosis](online-f2f-competency-ratings-equivalent.md) — related
 - [Small-group teaching, online or face-to-face, receives higher satisfaction ratings than didactic large-group lectures for feedback, instruction clarity and answers to questions](small-group-higher-satisfaction-than-didactic.md) — related
 - [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — related
+- [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related

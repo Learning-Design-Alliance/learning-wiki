@@ -53,3 +53,4 @@ The review reports, citing Koney et al. (2024), a 34% engagement increase for vi
 - [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — related
 - [VR simulation is more cost-effective than cadaver-based and mannequin-based training](vr-training-cost-effectiveness.md) — related
 - [The VR-based station saves approximately €750 per semester in recurring costs, which must be weighed against approximately €25,000 in development costs](vrs-cost-savings-offset-development.md) — related
+- [Fresh frozen cadavers are the most highly rated training modality for content validity, while VR is rated relatively inferior to other modalities](content-validity-ffc-highest-rated-vr-inferior.md) — related

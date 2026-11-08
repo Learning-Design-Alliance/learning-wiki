@@ -55,3 +55,4 @@ A clinical instructor in the qualitative interview data described simulation as 
 - [Interprofessional CPR training with MAES is perceived by nursing and medical students to enhance teamwork and nontechnical skill development](maes-ipe-enhances-teamwork-perceptions.md) — related
 - [Lecturers and clinical instructors perceive SBE as a gap-filler that relieves overloaded curricula and congested clinical sites in Malawian nursing and midwifery education](sbe-gap-filler-overloaded-curricula-malawi.md) — related
 - [Students perceive interprofessional CPR training as more aligned with real-world work dynamics than discipline-separate training](ipe-cpr-training-real-world-readiness.md) — related
+- [Participants believe leadership training for trauma resuscitation should be multidisciplinary and interprofessional, involving emergency physicians, trauma surgeons, and nurses](interprofessional-trauma-leadership-training.md) — related

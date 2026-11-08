@@ -52,3 +52,4 @@ Phenomenological analysis of debriefing data, performed by a senior surgical att
 - [Interviews with intervention-group interns yield 9 core themes in four clusters about how situational simulation with CBL supported learning](qualitative-nine-themes-four-clusters-simulation-cbl.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
+- [Phenomenological interviews identified four themes of graduate nurses' lived experience: pleasant discovery, useful learning, emotional change, and an active learning process](lived-experience-four-themes-repeated-simulation.md) — related

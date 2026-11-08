@@ -57,6 +57,7 @@ The article recommends that future programmes address skill decay by building in
 - [Schedule repeated simulation sessions across the psychiatric attachment and extend the program to other clinicians](repeated-psychiatric-simulation-sessions-strategy.md)
 - [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
 - [Provide ongoing objective feedback and structured, supervised POCUS training to maintain emergency physicians' competencies](ongoing-objective-feedback-pocus-training.md)
+- [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 
 ## Examples
 -

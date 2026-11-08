@@ -53,3 +53,4 @@ Pilot implementation of study period 1 in an online graduate-level course: a web
 - [Project satisfaction strongly positively correlated with instruction ratings (0.50 < r < 0.70)](project-satisfaction-correlates-instruction-ratings.md) — related
 - [Interest in cultural comparison increases vocabulary learning](cultural-comparison-increases-vocabulary-learning.md) — related
 - [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related
+- [Most online ligation students were first-time learners, and 73% reported high satisfaction with the online practice](first-time-learners-high-satisfaction-online-ligation.md) — related

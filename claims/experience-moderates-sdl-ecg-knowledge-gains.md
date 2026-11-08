@@ -50,3 +50,4 @@ Subgroup analysis in the results section: the ANOVA found "a statistically signi
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
 - [Only 17.7% of nurses had good patient safety practice before training, rising to 79.6% after the intervention](low-baseline-practice-rises-after-training.md) — related
+- [Scores on all 10 context-specific additional competencies increased significantly after training, with the largest gains in ECG and arterial blood gas interpretation](additional-competencies-all-significant-gains.md) — related

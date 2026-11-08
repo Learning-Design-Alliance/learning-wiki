@@ -50,3 +50,4 @@ Post-course survey of 21 participants from the eight offerings of the RCDP ACLS 
 - [Learners rated RCDP-based simulations highly acceptable and educationally valuable, with most reporting positive impact on task ability, rotation objectives, and comfort managing deteriorating patients](rcdp-high-acceptability-perceived-impact.md) — related
 - [Participants rated RCDP training positively: 95.7% responded, 97% agreed the theme was important for daily practice, and 78% judged repetition more effective than traditional simulation](positive-learner-reaction-to-rcdp-pediatric-cpr-training.md) — related
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
+- [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related

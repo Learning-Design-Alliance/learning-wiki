@@ -45,6 +45,7 @@ Because mastery learning requires unlimited deliberate practice until the minimu
 ## Related Strategies
 
 - [Simulation-based mastery learning course with at-home simulator practice supported by written and video instructions](sbml-course-home-practice-video-instructions.md)
+- [Offer additional debriefing and practice opportunities to students who find simulation-based training stressful](additional-debriefing-for-stressed-sbt-students.md)
 
 ## Examples
 -

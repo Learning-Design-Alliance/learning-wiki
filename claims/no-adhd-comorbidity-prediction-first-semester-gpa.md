@@ -52,3 +52,4 @@ Hierarchical regression (Table 8) on the Time 1 sample predicted weighted first-
 - [Psychological symptom burden is independently and negatively associated with self-perceived academic performance](psychological-symptom-burden-negative-aps.md) — related
 - [Study completers had significantly better first-semester academic performance than non-completers, while baseline psychiatric symptoms did not differ between groups](completers-higher-gpa-than-non-completers.md) — related
 - [Depressive symptoms are negatively related to GPA among college students](depressive-symptoms-negatively-related-to-gpa.md) — related
+- [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related

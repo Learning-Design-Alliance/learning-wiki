@@ -55,3 +55,4 @@ Pre-post theory test comparison with no control group (45 multiple-choice questi
 - [Subjective competence increases after the ultrasound course are significant only for knowledge of anatomical spatial relationships (p = 0.009), with the overall subjective score rising without statistical significance](ultrasound-course-subjective-asr-gain.md) — related
 - [Subjective and objective competency scores are uncorrelated before the course but show a significant positive linear relationship after it (R = 0.35, p = 0.0031)](subjective-objective-correlation-emerges-post-course.md) — related
 - [Dynamic ultrasound images produce higher overall theory test scores than static images in abdominal sonography training](dynamic-images-higher-overall-ultrasound-theory-scores.md) — related
+- [Structured VR simulator training significantly increases visual spatial ability scores compared with no training](vr-training-increases-vsa-scores.md) — related

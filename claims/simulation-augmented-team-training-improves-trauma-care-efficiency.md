@@ -63,3 +63,4 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](total-teamwork-events-nonsignificant-increase.md) — related
 - [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — related
 - [The stepwise ramp let critical team skills be taught and reinforced in a manageable way, with leadership skills easier in smaller team structures before commanding larger teams in later cycles.](stepwise-complexity-eases-leadership-skill-teaching.md) — related
+- [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related

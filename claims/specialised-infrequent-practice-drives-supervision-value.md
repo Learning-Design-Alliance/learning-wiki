@@ -51,3 +51,4 @@ Focus group theme on specialised area of practice: rotating staff found pool ses
 - [The ad hoc structure of group supervision sessions is perceived to limit reflective learning; participants want pre-determined structured content](adhoc-structure-limits-group-supervision-reflection.md) — related
 - [Reflective practice, supported by individual and group supervision, helped facilitators learn from rather than be derailed by challenging cases](reflective-practice-supervision-challenging-cases.md) — related
 - [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
+- [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related

@@ -52,3 +52,4 @@ Thematic analysis of open-ended resident feedback collected alongside the struct
 - [Resident feedback identifies expanded training scope, more practice time, and better scheduling as the top improvement requests](resident-feedback-curriculum-improvements.md) — related
 - [Fresh frozen cadaver use in the SIMULATE ureteroscopy curriculum showed no statistically significant performance advantage over non-cadaver cohorts](ffc-no-performance-advantage-simulate.md) — related
 - [Daily feedback from simulation drills drove iterative improvement: simulation materials were modified 7 times and more than 20 amendments were made to organizational SOPs](simulation-feedback-drove-iterative-sop-improvement.md) — related
+- [Fresh frozen cadavers are the most highly rated training modality for content validity, while VR is rated relatively inferior to other modalities](content-validity-ffc-highest-rated-vr-inferior.md) — related

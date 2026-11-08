@@ -69,3 +69,4 @@ In the same GCRS analysis of the trial's second assessment, Table 1 shows buildi
 - [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
 - [Workshop students scored significantly higher on listening and on providing the patient with information during the OSCE](listening-and-information-skills-higher-after-workshop.md) — related
+- [Within the OSCAR framework, the A-step (aiding patient understanding with audiovisual materials) showed the largest self-assessed improvement](oscar-a-step-largest-improvement.md) — related

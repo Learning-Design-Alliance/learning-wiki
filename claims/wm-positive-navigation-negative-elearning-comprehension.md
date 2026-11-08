@@ -50,3 +50,4 @@ Study 2 generalized linear regression (normal distribution, identity link) predi
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
 - [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
 - [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](wmc-predicts-retention-only-disfluency-condition.md) — related
+- [Prior knowledge, working memory capacity and academic self-concept positively predicted, and socioeconomic status negatively predicted, Science and Technology performance](socio-cognitive-predictors-science-performance.md) — related

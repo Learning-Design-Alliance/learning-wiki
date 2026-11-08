@@ -49,3 +49,4 @@ Baseline check in the randomized study: 20-item MCQ before training. The article
 - [High-fidelity simulation training produced larger immediate MCQ knowledge gains than interactive video-case training for acute asthma management in final-year medical students](hfs-larger-mcq-gains-than-ivc-acute-asthma.md) — related
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
+- [Knowledge of asthma diagnosis and treatment improves after simulation training in both groups, with no between-group difference](knowledge-improves-after-asthma-simulation.md) — related

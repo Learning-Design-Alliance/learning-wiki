@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 171 claims (104 for, 63 mixed, 4 against) · 108 studies (61 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 35 of 108 report an effect size · 163 claims rest on one study
+> **Evidence** · 175 claims (107 for, 64 mixed, 4 against) · 111 studies (64 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 35 of 111 report an effect size · 167 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,10 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Undergraduate students taught Neurosurgery with a flipped classroom obtained a significantly higher mean exam score than students taught by traditional lecture in the same academic year](../claims/fc-neurosurgery-higher-mean-score.md) [+W] — attached 2026-11-07 from Gutiérrez-González R et al. (2023), which proposed "Whole-curriculum flipped classroom design combining pre-class videos, problem-based seminars, puzzle activities and gamification"; tests this page's relationship.
 - [Dropout rate, pass rate, academic achievement and correct-answer rate favoured the flipped classroom but did not reach statistical significance](../claims/fc-neurosurgery-secondary-outcomes-not-significant.md) [~W] — attached 2026-11-07 from Gutiérrez-González R et al. (2023), which proposed "Whole-curriculum flipped classroom design combining pre-class videos, problem-based seminars, puzzle activities and gamification"; tests this page's relationship.
 - [Both blended learning groups (flipped physical and flipped virtual) achieved higher histology quiz scores than the traditional learning group](../claims/blended-learning-higher-quiz-scores-histology.md) [+W] — attached 2026-11-07 from Zhong Jinjie et al. (2022), which proposed "Flipped classroom blended learning design for histology practical: asynchronous online preview followed by instructor-led synchronous classroom session"; tests this page's relationship.
+- [Clinical interns taught with a flipped classroom score higher on the overall OSCE average than interns taught with a traditional classroom](../claims/fc-interns-higher-osce-average-score.md) [+M] — attached 2026-11-08 from Zhang Weihao et al. (2021), which proposed "Flipped classroom course structure for clinical skills training: pre-class videos plus weekly interactive offline sessions"; tests this page's relationship.
+- [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](../claims/fc-questionnaire-high-acceptance-interns.md) [~W] — attached 2026-11-08 from Zhang Weihao et al. (2021), which proposed "Flipped classroom course structure for clinical skills training: pre-class videos plus weekly interactive offline sessions".
+- [Students in flipped active-learning sections score significantly higher on common exam questions in general biology, with the gap widening across the semester](../claims/flipped-sections-higher-common-exam-questions.md) [+W] — attached 2026-11-08 from Riedl Ann et al. (2021), which proposed "Flipped active-learning sections structured around preclass work, daily quizzes, and group in-class activities"; tests this page's relationship.
+- [Clinical teachers' MCQ knowledge scores rose stepwise from pre-test to mid-test to post-test in one uncontrolled pre-post study of TOTR flipped-classroom training](../claims/totr-stepwise-knowledge-gain.md) [+W] — attached 2026-11-08 from Chen Kuo-Su et al. (2021), which proposed "Include a brief mini-lecture in flipped classroom class time to reinforce pre-class knowledge".
 
 ## Objective and learner-valued goal
 

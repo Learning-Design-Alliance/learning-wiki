@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 326 claims (230 show a difference, 62 mixed, 34 no difference) · 214 studies (77 associational, 61 causal, 33 review, 16 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 48 of 214 report an effect size · 318 claims rest on one study
+> **Evidence** · 335 claims (237 show a difference, 63 mixed, 35 no difference) · 219 studies (82 associational, 61 causal, 33 review, 16 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 48 of 219 report an effect size · 327 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -366,6 +366,15 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Psychological stress response is negatively correlated with confidence levels, with no association between stress response and performance score](../claims/psychological-stress-negatively-correlated-with-confidence-no-performance-association.md) [~M] — learners who differ on it differ in outcomes
 - [Religious coping is positively associated with e-learning satisfaction](../claims/religion-coping-positive-e-learning-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 - [Self-blame coping is positively associated with e-learning satisfaction](../claims/self-blame-coping-positive-e-learning-satisfaction.md) [+M] — learners who differ on it differ in outcomes
+- [Amotivation negatively affects academic achievement while self-regulation positively affects it](../claims/amotivation-negatively-predicts-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Children's perceived PAS as a companion positively affects adolescents' self-regulation and academic achievement three years later](../claims/companion-pas-improves-self-regulation-and-achievement.md) [+M] — measured as an outcome of the instruction studied
+- [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](../claims/female-and-high-trait-anxiety-higher-state-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Perceived PAS as a manager has no effect on adolescents' self-regulation or academic achievement but increases amotivation](../claims/manager-pas-increases-amotivation.md) [~M] — measured as an outcome of the instruction studied
+- [Self-reported task difficulty, stress, and engagement during the laboratory stress task show no association with A-level performance](../claims/task-ratings-null-a-level.md) [-M] — learners who differ on it differ in outcomes
+- [Students outside Dhaka reported higher odds of moderate perceived e-learning stress than students in Dhaka](../claims/non-dhaka-residence-moderate-e-learning-stress.md) [+M] — measured as an outcome of the instruction studied
+- [Students who did not prefer e-learning had significantly higher adjusted odds of high-level perceived e-learning stress](../claims/non-preference-e-learning-high-stress.md) [+M] — measured as an outcome of the instruction studied
+- [Students with any eye problems had significantly higher adjusted odds of high-level perceived e-learning stress](../claims/eye-problems-high-e-learning-stress.md) [+M] — measured as an outcome of the instruction studied
+- [Test anxiety was universally negatively associated with exam scores across community college, inclusive, and selective institutions](../claims/test-anxiety-negatively-associated-exam-scores-all-contexts.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

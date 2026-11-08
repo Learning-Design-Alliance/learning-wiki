@@ -51,3 +51,4 @@ Mann–Whitney U comparison of knowledge gain between the video and simulation g
 - [Within both training groups, knowledge scores rose significantly from pre-test to post-test, with very large within-group effect sizes](bls-prepost-knowledge-gain-both-groups.md) — related
 - [The CRI-HT gain difference between baseline subgroups is not statistically significant](aisp-cri-ht-subgroup-gain-not-significant.md) — related
 - [Observer tool use improved theoretical knowledge scores on an end-of-day MCQ](observer-tool-improves-cpr-knowledge-mcq.md) — related
+- [BLS and ALS knowledge scores rose significantly from pre-test to post-test after KSS training in one uncontrolled pre-post study, with BLS rising 15 points](kss-training-improves-bls-als-scores.md) — related

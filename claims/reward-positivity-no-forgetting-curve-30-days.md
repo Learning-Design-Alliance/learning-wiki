@@ -47,3 +47,4 @@ Comparison of reward positivity amplitude between the last block of module 1 and
 ## Related Claims
 - [Behavioral accuracy improved strongly over blocks but did not significantly differ among the 2D, 3D, and 2D/3D learning groups despite neural differences](behavioral-accuracy-no-group-differences-stereopsis.md) — related
 - [Interleaved 2D/3D learning produced decreased reward positivity amplitude compared to 2D-only and 3D-only groups during the second (retention/transfer) module](interleaved-2d3d-decreased-reward-positivity-retention.md) — related
+- [Graduate nursing students' self-confidence dropped slightly but significantly during the 15-day interval between simulation modules while performance did not](self-confidence-slight-drop-15-day-interval.md) — related

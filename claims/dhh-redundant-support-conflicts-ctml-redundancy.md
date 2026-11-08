@@ -53,3 +53,4 @@ Content analysis of open-ended survey responses from DHH students identified a '
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Automated CTML metrics show significant improvement in temporal contiguity and coherence for CTML-informed videos, while modality, redundancy, and image quality show no significant difference](automated-metrics-temporal-contiguity-coherence.md) — related
 - [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) — related
+- [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — related

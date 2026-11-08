@@ -73,3 +73,4 @@ Participant quote from focus groups capturing the tension some students felt bet
 - [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
 - [Undergraduate dental students perceive that PBL enhances motivation by making learning purposeful through authentic clinical cases](pbl-authentic-cases-enhance-motivation-perceptions.md) — related
 - [Students perceived the problematization methodology as enabling student-centered problem-solving and transforming their perceptions of their problem-solving abilities.](problematization-methodology-student-centered-problem-solving-perceptions.md) — related
+- [Students felt overwhelmed by the course workload and found contact time with lecturers inadequate](students-overwhelmed-workload-inadequate-contact-time.md) — related

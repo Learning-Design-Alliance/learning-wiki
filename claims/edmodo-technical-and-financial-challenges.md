@@ -58,3 +58,4 @@ Descriptive analysis of the six-item challenges scale completed by the 21 experi
 - [Experimental students' perceptions of Edmodo were highly positive, ranking pedagogical purposes highest and social interaction lowest](highly-positive-student-perceptions-of-edmodo.md) — related
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
+- [Trainees' main perceived challenges with the e-Learning pilot were limited computer-laboratory workspace (33%), slow internet/intranet speed (29%), and limited training of ICT staff (28%)](ghana-elearning-pilot-challenges-workspace-speed-capacity.md) — related

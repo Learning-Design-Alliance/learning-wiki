@@ -51,3 +51,4 @@ Post-operation Likert questionnaire in the randomized trial: "the participants r
 - [Physiotherapy students reported far higher satisfaction with IVR‐based learning than with textbook study](ivr-higher-satisfaction-neuroanatomy.md) — a narrower finding that bears on this claim
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
 - [SDTM raised trainee engagement and enjoyment ratings with large effect sizes](sdtm-higher-engagement-and-enjoyment-ratings.md) — related
+- [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related

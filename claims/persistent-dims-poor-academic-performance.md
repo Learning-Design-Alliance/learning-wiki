@@ -51,3 +51,4 @@ Logistic regression in the Bergen Child Study longitudinal cohort (N = 3453) com
 - [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
 - [Inattention mediates the association between daytime sleepiness and reading and mathematics in Grade 3](inattention-mediation-sleep-achievement.md) — related
+- [Screen time, sleep duration, and ethnicity are not associated with grades once psychopathology and other confounders are jointly adjusted](lifestyle-associations-attenuate-full-adjustment.md) — reports the opposite

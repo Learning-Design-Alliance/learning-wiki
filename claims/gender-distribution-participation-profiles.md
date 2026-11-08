@@ -60,3 +60,4 @@ Chi-square test of profile membership by gender in the clustered sample, with ad
 - [Girls reported higher follow-up impact than boys on all items, and 14 of the 20 top-ranking participants were girls](girls-report-higher-privacy-impact-than-boys.md) — related
 - [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related
 - [Girls were more likely than boys to belong to the Mixed or Negative profile relative to the Positive profile](girls-more-likely-mixed-negative-profiles.md) — related
+- [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — related

@@ -54,3 +54,4 @@ Correlational analysis shown in Figure 2's scatterplot matrix of GRS, checklist 
 - [Checklist scores, task completion speed, and confidence change show no significant bivariate correlations in a simulated lumbar puncture workshop cohort](no-correlation-among-slp-outcome-measures.md) — related
 - [Procedure timing improved for probe positioning but not consistently for time to successful puncture](timing-improves-start-to-touch-not-puncture-time.md) — related
 - [Higher first-test scores correlated with faster first-test completion (r = -0.547), and scores correlated across tests](5cardsgame-score-time-correlations.md) — related
+- [Performance competencies show positive intercorrelations during asthma simulation, with patterns differing between groups](sbt-competency-correlations-asthma-simulation.md) — related

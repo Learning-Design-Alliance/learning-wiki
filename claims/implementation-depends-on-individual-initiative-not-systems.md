@@ -61,3 +61,4 @@ Survey of 120 complete responses distributed via AAC&U's member directory to fac
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [None of the participating nursing faculty received institutionally structured training in soft skills pedagogy, leaving teaching dependent on individual initiative](no-institutional-soft-skills-training-faculty.md) — related
 - [Most surveyed faculty predicted e-learning would be used more in medical education, but fewer than 30% felt they received adequate institutional support](faculty-predict-increasing-e-learning-use-inadequate-support.md) — related
+- [Graduate students report their departments support research more than teaching across exosystem cultural measures](exosystem-culture-favors-research.md) — related

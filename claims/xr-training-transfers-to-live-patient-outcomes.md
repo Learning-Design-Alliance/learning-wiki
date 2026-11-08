@@ -51,3 +51,4 @@ The review reports that only three of the included studies projected XR training
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — a narrower finding that bears on this claim
 - [Simulation-based training contributes to patient safety in laparoscopic surgery](simulation-training-contributes-to-patient-safety.md) — related
+- [Novice residents show marked OSATS performance improvement across consecutive SIMULATE curriculum scenarios with transfer to the operating room for both semi-rigid and flexible URS](simulate-curriculum-osats-improvement-or-transfer.md) — a narrower finding that bears on this claim

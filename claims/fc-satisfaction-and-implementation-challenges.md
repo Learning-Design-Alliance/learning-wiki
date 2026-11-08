@@ -67,3 +67,5 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related
 - [Residents reported high satisfaction with the COVID-19-adapted simulation activity](high-satisfaction-covid-simulation.md) — related
 - [Residents who prepared and gave supervised video lectures all reported learning a lot from it, and most advisors valued teaching a colleague](resident-presentation-preparation-benefits.md) — related
+- [Students reported higher pre-class burden with FC+CBL but no increase in in-class pressure relative to LBC](fc-cbl-pre-class-burden-not-in-class-pressure.md) — related
+- [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related

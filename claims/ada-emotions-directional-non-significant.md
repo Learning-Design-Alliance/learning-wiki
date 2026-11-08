@@ -54,3 +54,4 @@ Mann-Whitney U group comparison of post-intervention emotion scores in the clust
 - [Negative-deactivating emotions show no association with political learning, but the evidence base is very small](negative-deactivating-emotions-no-association-political-learning.md) — related
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
 - [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](eda-learners-enthusiasm-and-reduced-anxiety.md) — related
+- [Cognitive load and positive/negative activating emotions did not differ among feedback conditions, but instructor-led debriefing produced stronger positive deactivating emotions (relief/relaxation)](affective-cognitive-load-equivalence-instructor-relief.md) — related

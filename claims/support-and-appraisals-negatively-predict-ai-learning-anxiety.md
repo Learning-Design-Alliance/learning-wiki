@@ -57,3 +57,4 @@ SEM structural model in the same 547-student sample. The article reports that "A
 - [In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy](informational-support-unique-dimension-path-self-efficacy.md) — related
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
 - [Instructors' self-efficacy positively affects perceived ease of use of e-learning platforms in Nigerian universities](self-efficacy-predicts-ease-of-use-nigerian-instructors.md) — related
+- [Student self-reported anxiety is negatively correlated with perceived instructor support in large introductory biology classes](anxiety-negatively-correlated-perceived-instructor-support.md) — related

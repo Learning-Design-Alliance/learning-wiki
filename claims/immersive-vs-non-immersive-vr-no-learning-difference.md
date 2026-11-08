@@ -56,3 +56,5 @@ Quasi-experimental study (Omlor et al., 2022) summarized in the review's VR tabl
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
 - [Systematic review by Barteit et al. found AR and VR head-mounted devices achieved results at least non-inferior to conventional teaching](ar-vr-head-mounted-non-inferior-conventional-teaching.md) — related
 - [VR-based and 3D computer-based SimBIE formats produce statistically equivalent TeamSTEPPS performance gains](vr-versus-computer-simbie-equivalent-team-performance.md) — related
+- [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
+- [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — related

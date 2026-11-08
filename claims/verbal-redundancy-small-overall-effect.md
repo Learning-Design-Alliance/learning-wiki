@@ -55,3 +55,4 @@ Meta-analysis of 57 independent effect sizes from 33 reports (N = 3,452) compari
 - [In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)](modality-effect-holds-middle-school-electricity.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
+- [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — related

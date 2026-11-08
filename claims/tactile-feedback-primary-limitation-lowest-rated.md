@@ -57,3 +57,4 @@ Descriptive analysis of tactile-aspect questionnaire items among the 23 expert o
 - [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related
 - [Trainees with fewer than ten cerclage procedures reported higher satisfaction with the simulator than experts](trainees-rate-simulator-higher-than-experts.md) — related
 - [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — related
+- [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — related

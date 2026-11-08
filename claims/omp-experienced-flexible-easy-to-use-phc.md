@@ -50,3 +50,4 @@ Qualitative content analysis of eight follow-up group interviews with 26 tutors 
 - [Tutors reported the OMP may foster more specific and frequent feedback and feedforward, though feedforward remained difficult](omp-fosters-feedback-feedforward.md) — related
 - [OMP preceptor training improves preceptors' teaching behaviors, self-confidence, and willingness to precept](omp-training-improves-preceptor-confidence-willingness.md) — related
 - [After an OMP workshop, tutors' self-rated tutoring competence and frequency of giving feedback on what was not done well increased significantly](omp-workshop-increases-self-rated-competence.md) — related
+- [An OMP-based preceptor education program produced no statistically significant change in preceptor nurses' clinical core competency (CCCP) or communication competence (GICC-15) scores](omp-pep-no-significant-cccp-gicc-change.md) — related

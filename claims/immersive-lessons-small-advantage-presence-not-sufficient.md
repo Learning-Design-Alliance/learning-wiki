@@ -87,3 +87,4 @@ The review reports, citing multiple studies, that using XR without considering i
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — related
 - [Umbrella review by Tene et al. found no significant association between immersive technologies and improvements in medical education and training versus traditional methods](immersive-technologies-no-significant-association-umbrella-review.md) — related
 - [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — a narrower finding that bears on this claim
+- [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related

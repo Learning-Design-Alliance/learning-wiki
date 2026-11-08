@@ -49,3 +49,4 @@ In the same cohort, insertion X-ray counts "decreased significantly" from 4.6 to
 - [Experts consistently performed faster than non-experts, with performance differences decreasing across runs](ar-simulator-expert-non-expert-gap-narrowing.md) — related
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related
 - [Task completion time for nail insertion decreased significantly across simulation runs and remained stable during retention](ar-simulator-insertion-time-decrease-retention.md) — related
+- [Repeated iVR practice improved virtual performance metrics: Precision Score rose from 70% to 93%, case time fell from 8:44 to 3:46, and virtual fluoroscopic images fell from 42 to 5](ivr-practice-improved-precision-score-and-efficiency.md) — a narrower finding that bears on this claim

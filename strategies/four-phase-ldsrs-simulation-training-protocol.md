@@ -64,6 +64,8 @@ The article describes a standardized simulation-based training protocol structur
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 - [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
 - [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
+- [Use a first-person 3D procedure video as an educational precursor to simulation-based training](3d-video-precursor-to-simulation-strategy.md)
+- [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 
 ## Examples
 -

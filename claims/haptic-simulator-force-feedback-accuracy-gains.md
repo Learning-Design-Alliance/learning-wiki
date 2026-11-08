@@ -71,3 +71,4 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
 - [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related
 - [Augmenting conventional pre-clinical simulation with HVRS training produced no significant differences in pulpotomy performance scores, instructor prompts, or procedural time compared with conventional simulation alone](hvrs-augmentation-no-performance-difference-pulpotomy.md) — related
+- [The article reports, citing prior systematic review evidence, that haptic-enhanced VR simulation is significantly more effective than simulation without haptics for surgical skill training, particularly in novices](haptic-enhanced-vr-more-effective-skill-training.md) — related

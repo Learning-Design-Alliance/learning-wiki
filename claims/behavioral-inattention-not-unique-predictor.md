@@ -58,3 +58,4 @@ In the hierarchical regression models, "behavioral inattention was not uniquely 
 - [NAT significantly reduced homeroom teacher-rated inattention and hyperactivity/impulsivity relative to control](nat-teacher-rated-symptoms-improvement.md) — related
 - [Observed off-task behavior positively correlates with teacher ratings of hyperactiveness/impulsivity and attention/concentration](observed-off-task-teacher-rating-correlations.md) — related
 - [Inattention symptoms, but not hyperactivity-impulsivity symptoms, predict academic performance and academic adjustment in South African first-year undergraduates](inattention-not-hyperactivity-predicts-academic-success.md) — related
+- [All CBCL symptom scales relate to lower grades when examined separately, but somatic, social, and aggressive problems lose significance once comorbid symptoms are controlled](comorbid-symptoms-confound-single-scale-findings.md) — related

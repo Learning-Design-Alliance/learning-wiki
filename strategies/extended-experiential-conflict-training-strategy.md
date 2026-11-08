@@ -52,6 +52,7 @@ Based on the null results, the article recommends that conflict orientation trai
 - [Build an orientation activity into XR study designs and use multiple sessions to increase tool familiarity](xr-orientation-activity-multiple-sessions.md)
 - [Faculty induction through flexible one-to-one tailored drop-in training sessions over an extended timeframe](one-to-one-faculty-haptics-induction.md)
 - [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
+- [Give the User Training step further attention in entry-to-practice programs, using 2–4 hours of experiential bootcamp-style wheelchair skills learning](user-training-step-attention-strategy.md)
 
 ## Examples
 -

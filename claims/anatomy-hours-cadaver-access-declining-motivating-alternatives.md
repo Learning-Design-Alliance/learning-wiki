@@ -51,3 +51,4 @@ The review's own synthesis asserts a significant reduction in anatomy hours, att
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](anatomage-vr-engagement-34-percent.md) — related
 - [COLOMASTER is priced comparably to cadaver use and above porcine models, but avoids cadaver facility and animal anesthesia costs](colomaster-cost-comparison-cadaver-porcine.md) — related
+- [Anatomage-based gross anatomy study of the pelvis and musculoskeletal system appears equivalent to cadaveric dissection](anatomage-pelvis-musculoskeletal-equivalent-cadaveric.md) — related

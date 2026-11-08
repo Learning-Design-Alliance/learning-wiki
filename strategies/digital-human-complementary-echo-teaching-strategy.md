@@ -50,6 +50,7 @@ The article recommends that "while the digital human provides a more engaging an
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 - [Integrate simulation-based ultrasound training into peer-teaching programs rather than treating them as rivals](integrate-simut-into-peer-teaching-programs.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Implement the validated otoscopy simulator as a complementary tool alongside traditional teaching in medical curricula](vr-otoscopy-simulator-complementary-curriculum-strategy.md)
 
 ## Examples
 -

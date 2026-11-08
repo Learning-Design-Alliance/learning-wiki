@@ -52,3 +52,5 @@ Descriptive frequency analysis of the 26 included articles in the scoping review
 - [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — a narrower finding that bears on this claim
 - [OMP preceptor training improves preceptors' teaching behaviors, self-confidence, and willingness to precept](omp-training-improves-preceptor-confidence-willingness.md) — a narrower finding that bears on this claim
 - [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — related
+- [A BEME review found the OMP and SNAPPS models were the only clinical teaching strategies that consistently improved learners' clinical knowledge and skills](beme-review-omp-snapps-consistently-improved-skills.md) — related
+- [The article argues OMP suits busy preceptor-directed settings because it needs only a single brief teacher training session, unlike SNAPPS](omp-preceptor-directed-busy-settings-single-training.md) — related

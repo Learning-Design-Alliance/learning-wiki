@@ -50,6 +50,7 @@ The article draws practical implications from its findings: measures of WM capac
 
 - [Accommodate slower processing speed in academic interventions for children with ADHD, alongside existing WM-focused approaches](accommodate-processing-speed-adhd-interventions.md)
 - [Support children with working memory difficulties in the classroom through approaches other than WM training, including teacher training about WM](classroom-support-working-memory-difficulties.md)
+- [Adapt CAI conditions of use for students with below-average working memory capacity](adapt-cai-for-low-wm-students.md)
 
 ## Examples
 -

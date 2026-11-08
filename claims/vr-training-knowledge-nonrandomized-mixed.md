@@ -92,3 +92,4 @@ Prospective cohort study of 299 undergraduate nursing students using a VP game d
 - [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related
 - [Weight-related communication skills scores rose from pre-test to post-test among health care professionals in one uncontrolled pre-post study of VITAL-COMS training](vital-coms-improved-self-assessed-communication-skills.md) — related
 - [Knowledge of perinatal mental health assessment improved in both intervention and control groups after the e-learning course, with no group difference](elearning-kpmha-improved-both-groups.md) — related
+- [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related

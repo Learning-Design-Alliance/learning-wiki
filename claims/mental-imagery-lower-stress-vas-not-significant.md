@@ -47,3 +47,4 @@ Secondary outcome measured on the day of the final evaluation, just prior to the
 ## Related Claims
 - [Repeated mental imagery based on a cognitive aid improves the non-technical skills of novice anesthesia residents in simulated cardiopulmonary resuscitation at 6 months](mental-imagery-cognitive-aid-improves-nontechnical-skills-cpr-simulation.md) — related
 - [Students who complete VR haptic simulator training before artificial-tooth practice report lower stress before and after access cavity preparation than students who start with artificial teeth](vr-first-lower-stress-artificial-teeth.md) — related
+- [Mental imagery training developed epidural anesthesia technical skills as effectively as low-fidelity haptic simulators in novices](mental-imagery-as-effective-as-haptic-simulator.md) — related

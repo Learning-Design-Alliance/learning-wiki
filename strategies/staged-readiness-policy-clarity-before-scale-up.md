@@ -52,6 +52,7 @@ The article recommends that institutions sequence AI and online expansion so tha
 - [Develop a centralised, strategically governed SBE framework with embedded leadership and faculty development](centralised-strategically-governed-sbe-framework.md)
 - [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 - [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
+- [Develop statutory e-Learning guidelines through multi-stakeholder policy dialogues and build staff capacity in e-Learning content development before scaling up](statutory-elearning-guidelines-policy-dialogue-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Bardin's content analysis of pre-simulation expectation narratives (Table 2) yie
 - [First clinical simulation encounters with standardized patients evoke intense initial emotions in first-year nursing students, chiefly nervousness and fear of error](first-sp-simulation-evokes-intense-initial-emotions.md) — related
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — related
 - [First simulation experiences with standardized patients strengthen practical self-confidence and contribute to professional identity development in novice nursing students](simulation-builds-self-confidence-and-professional-identity.md) — related
+- [Students' emotions vary before, during and after simulation, unfolding in a rollercoaster from negatively to positively loaded across the session](emotional-rollercoaster-during-simulation.md) — related

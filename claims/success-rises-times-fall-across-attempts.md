@@ -49,3 +49,4 @@ Descriptive trend across the three attempts in the mannequin study of 130 studen
 - [Success rate and intubation time are strongly negatively correlated for both methods (DL r = -0.86, VL r = -0.83)](negative-correlation-success-time-dl-vl.md) — possibly the same claim (merge candidate)
 - [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related
 - [Video laryngoscopy produces shorter intubation times than direct laryngoscopy on the second and third attempts, but not on the first](vl-shorter-times-second-third-attempt.md) — related
+- [Male students show a trend toward more quiz attempts, and time spent per attempt decreases with each new attempt](males-trend-more-quiz-attempts.md) — related

@@ -51,3 +51,4 @@ Quadratic-function models fitted for both poverty measures, with results shown i
 - [Local educational poverty explains more between-subdistrict variance in achievement than economic poverty](educational-poverty-explains-more-subdistrict-variance.md) — related
 - [Subdistrict educational poverty has a stronger and statistically significant negative association with secondary achievement than economic poverty in Bangladesh](educational-poverty-stronger-than-economic-poverty-achievement-bangladesh.md) — related
 - [The negative association between local poverty and achievement is steeper for the science stream than for arts/general and business streams](science-stream-poverty-association-steeper-bangladesh.md) — related
+- [The well-being–achievement association is approximately linear, with no threshold level of depression or well-being where performance benefits or suffers most](linear-wellbeing-achievement-association.md) — related

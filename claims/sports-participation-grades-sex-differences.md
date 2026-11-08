@@ -71,3 +71,4 @@ Authors' interpretation of the sex-stratified results in the Discussion, attribu
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Girls who engage in sport at least one hour per week show better math and reading results; this relationship did not hold for boys](girls-sport-one-hour-better-math-reading.md) — reports the opposite
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
+- [Gender-specific PA characteristics predict academic competence: PA frequency for girls and sports club participation for boys](gender-specific-pa-predictors-academic-competence.md) — reports the opposite

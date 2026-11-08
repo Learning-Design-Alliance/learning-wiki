@@ -54,3 +54,4 @@ Randomized controlled study of 20 undergraduate medical students; the SawBone he
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
 - [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — related
+- [The article reports, citing prior systematic review evidence, that haptic-enhanced VR simulation is significantly more effective than simulation without haptics for surgical skill training, particularly in novices](haptic-enhanced-vr-more-effective-skill-training.md) — reports the opposite

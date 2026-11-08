@@ -75,3 +75,4 @@ Survey item on current institutional infrastructure in the same sample: "Only 16
 - [Institutional RT training structures are inconsistent, with simulation facilities present in only 61.17% of departments and high-risk low-volume competencies incorporated in 54.37%](inconsistent-institutional-rt-training-structures.md) — related
 - [A quarter of surveyed surgeons trained at centers where VRS is a mandatory prerequisite for patient access, and a majority favor a surgical license](vrs-surgical-license-mandatory-patient-access.md) — related
 - [Most early-career bariatric surgeons want formal endoscopy training but most have never attended a formal upper endoscopy course](endoscopy-course-interest-participation-gap.md) — related
+- [Simulators were not integrated into surgical specialist training in 81.8% of clinics, though 94% favored future integration](simulator-training-rarely-integrated-into-surgical-training.md) — related

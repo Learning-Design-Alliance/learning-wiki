@@ -49,3 +49,4 @@ Item-level descriptive analysis of Competence Questionnaire accuracy rates befor
 - [During clicker implementation, students' average answering time decreased for both correct and incorrect answers while accuracy stayed nearly stable](clicker-answering-time-decreased-accuracy-stable.md) — a broader claim this one bears on
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
 - [General Section scores rose significantly from 3.59 to 4.02 after the CBLC, in one uncontrolled pre-post study, with a small effect size (Cohen's d = 0.33)](cblc-general-knowledge-improvement.md) — related
+- [Intern scores improved in all PBM knowledge domains, but only general knowledge and pillar 3 (anaemia tolerance) improved significantly](pbm-domain-scores-general-knowledge-pillar3-significant.md) — related

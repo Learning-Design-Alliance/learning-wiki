@@ -53,3 +53,4 @@ Multiple linear regression on the 627-nurse survey: "36–40: β = 0.199, p < 0.
 - [Nurses with junior titles score higher on PED KAP than senior-title nurses](junior-title-higher-ped-kap.md) — related
 - [Knowledge influences frailty-management practice both directly and indirectly through attitude, which mediates 20.03% of the total effect](attitude-partially-mediates-knowledge-to-practice-frailty.md) — related
 - [Nurses' attitudes toward pain management become more negative with greater work experience, age, education and prior retraining participation](pain-attitudes-negative-demographic-correlations.md) — reports the opposite
+- [Age 25 years or older is the only significant demographic predictor of simulator score, with older students scoring lower](age-25-plus-lower-simulator-scores.md) — related

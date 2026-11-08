@@ -50,6 +50,7 @@ The review's authors recommend a structured return-to-work program focused on re
 
 - [Structured training programs with simulation, biotissue training, and video study to shorten the RDP learning curve](structured-rdp-training-programs-simulation-biotissue-video.md)
 - [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
+- [Use iVR refresher training before infrequently performed procedures to refresh skill and knowledge](ivr-refresher-before-rare-procedures-strategy.md)
 
 ## Examples
 -

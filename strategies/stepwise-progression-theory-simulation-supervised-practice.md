@@ -66,6 +66,8 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Incorporate simulator training into cardiovascular surgery curricula with independent resident access](incorporate-simulator-training-cardiovascular-curriculum.md)
 - [Integrate simulation courses and structured sub-step assistance, including an Education Team-Time-Out, into emergency surgical training](simulation-and-substep-integration-emergency-surgery-training.md)
 - [Formally integrate intensive simulation-based surgical education into ophthalmology residency programmes as a complement to conventional teaching](formal-integration-sbse-ophthalmology-residency.md)
+- [Incorporate stepwise, low-fidelity simulation training and assessment early in ophthalmology residency, with safe transition to live surgical teaching](stepwise-low-fidelity-simulation-early-residency-strategy.md)
+- [Structured, competency-based procedural VR training programme for robotic surgery curricula](structured-competency-based-procedural-vr-programme.md)
 
 ## Examples
 -

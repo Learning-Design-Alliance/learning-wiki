@@ -108,3 +108,5 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
 - [Authentic learning raised achievement similarly across low, medium and high socioeconomic status schools](authentic-learning-effective-across-ses-levels.md) — related
 - [The pandemic negatively affected most children's lifestyle domains regardless of vulnerability status](pandemic-negative-lifestyle-effects-across-groups.md) — reports the opposite
+- [Income-related differences in COVID-19 learning losses were estimated net of parental education via additional interaction controls](covid-income-effects-net-of-parental-education.md) — a narrower finding that bears on this claim
+- [COVID-19 learning losses in Dutch primary education were larger for students from disadvantaged backgrounds than for their fellow students](covid-learning-loss-unequally-distributed-disadvantaged.md) — possibly the same claim (merge candidate)

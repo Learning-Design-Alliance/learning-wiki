@@ -45,6 +45,7 @@ The article states that "investment in structured coach development—alongside 
 
 - [Integrate immersive non-technical skills and crisis resource management training into neurosurgical simulation programmes](nts-crm-integration-neurosurgical-simulation.md)
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
+- [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
 
 ## Examples
 -

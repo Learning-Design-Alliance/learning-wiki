@@ -54,3 +54,7 @@ Univariate comparison of Big Five Inventory domain scores between the AA-group (
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
 - [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](openness-predicts-standardized-tests-most.md) — related
+- [Broad conscientiousness is the strongest Big Five predictor of both academic GPA and clinical marks in dental students](conscientiousness-predicts-dental-gpa-and-clinic.md) — related
+- [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related
+- [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — related
+- [Agreeableness predicts clinical performance while extraversion and openness relate only to academic achievement and neuroticism to neither](other-big-five-domains-dental-performance-patterns.md) — reports the opposite

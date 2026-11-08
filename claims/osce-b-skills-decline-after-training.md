@@ -55,3 +55,4 @@ Paired t-tests of providers' standardised HBB OSCE B simulation scores at 4 and 
 - [The proportion of resuscitations provided by midwives increased throughout the study, while recent NeoNatalie Live training among providers declined sharply after the campaign](midwife-led-resuscitation-increased-recent-training-declined.md) — related
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — reports the opposite
 - [HBB simulation training significantly increases health care workers' newborn resuscitation skills on both OSCE A and OSCE B](hbb-training-increases-hcw-osce-skills.md) — related
+- [HBB knowledge and OSCE A pass rates rose significantly from pre-test to post-test after trainings one and two only, with no significant change after the third session, in one uncontrolled pre-post study](hbb-knowledge-osce-a-improved-first-two-trainings.md) — reports the opposite

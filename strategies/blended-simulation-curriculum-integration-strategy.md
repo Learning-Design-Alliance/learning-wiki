@@ -56,6 +56,8 @@ The review recommends embedding simulation into the fabric of surgical education
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Incorporate simulator training into cardiovascular surgery curricula with independent resident access](incorporate-simulator-training-cardiovascular-curriculum.md)
 - [Concomitant use of VR and physical simulators, matched to procedural versus task-based training needs](concomitant-vr-physical-simulator-use-strategy.md)
+- [Structured, competency-based procedural VR training programme for robotic surgery curricula](structured-competency-based-procedural-vr-programme.md)
+- [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
 
 ## Examples
 -

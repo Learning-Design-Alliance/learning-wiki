@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (15 for, 5 mixed, 1 against) · 12 studies (8 causal, 3 quant-synthesis, 1 design), `q1`–`q3` · 4 of 12 report an effect size · 21 claims rest on one study
+> **Evidence** · 23 claims (17 for, 5 mixed, 1 against) · 13 studies (9 causal, 3 quant-synthesis, 1 design), `q1`–`q3` · 5 of 13 report an effect size · 23 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -68,6 +68,8 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [PBL produced no significant group effect or change over time in general self-efficacy (GSES)](../claims/pbl-no-self-efficacy-effect.md) [~W] — attached 2026-11-07 from Andreae Christina et al. (2023), which proposed "COR-PRIM 1-year nurse-led PBL group programme for coronary heart disease patients in primary care".
 - [The e-PBL infection control program significantly improved overall critical thinking disposition in nursing home staff compared with e-learning without PBL](../claims/e-pbl-improves-critical-thinking-disposition-nh-staff.md) [+W] — attached 2026-11-07 from Choi Young-Rim et al. (2022), which proposed "e-PBL-based infection control education program for nursing home staff (three chapters, web-based, chatbot-supported)"; tests this page's relationship.
 - [The e-PBL program improved systematicity and self-confidence but not healthy skepticism, intellectual eagerness/curiosity, or intellectual fairness subscales](../claims/e-pbl-subscales-mixed-gains.md) [~W] — attached 2026-11-07 from Choi Young-Rim et al. (2022), which proposed "e-PBL-based infection control education program for nursing home staff (three chapters, web-based, chatbot-supported)"; tests this page's relationship.
+- [Medical students given access to problem-based learning modules within a blended learning course had a significantly higher problem solving score than students in the blended-learning-only course](../claims/pbl-modules-higher-problem-solving-score-medical-statistics.md) [+M] — attached 2026-11-08 from Bukumiric Zoran et al. (2022), which proposed "Moodle-based problem-based learning modules for medical statistics with guiding questions following the steps of statistical analysis"; tests this page's relationship.
+- [Students with access to problem-based learning modules in the blended course had a significantly higher total medical statistics score than blended-learning-only students](../claims/pbl-modules-higher-total-medical-statistics-score.md) [+M] — attached 2026-11-08 from Bukumiric Zoran et al. (2022), which proposed "Moodle-based problem-based learning modules for medical statistics with guiding questions following the steps of statistical analysis"; tests this page's relationship.
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

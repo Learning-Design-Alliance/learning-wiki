@@ -46,7 +46,8 @@ The article advises medical schools to review admission criteria in light of the
 - [Medical students with prior healthcare vocational training are rated by supervisors as behaving more assured-dominant, controlling for cognitive admission criteria, gender, and age](../claims/prequalification-predicts-assured-dominant-behavior.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use a locally designed SJT alongside cognitive tests to widen participation in medical selection](sjt-widening-participation-selection-strategy.md)
 
 ## Examples
 -

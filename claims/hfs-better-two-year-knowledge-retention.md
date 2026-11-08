@@ -49,3 +49,4 @@ Two-year follow-up: students retook the same MCQ online. Relative improvement ov
 - [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related
 - [Both high-fidelity simulation and case-based discussion increased theoretical knowledge scores, with no significant difference between groups](hfs-cbd-equal-knowledge-gains.md) — related
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [Knowledge of asthma diagnosis and treatment improves after simulation training in both groups, with no between-group difference](knowledge-improves-after-asthma-simulation.md) — related

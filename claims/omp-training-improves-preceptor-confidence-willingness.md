@@ -73,3 +73,6 @@ The article reports, citing Miura et al, a pilot training program for NPs using 
 - [Clinical tutors in Swedish primary care experienced the OMP as a flexible, easy-to-use model applicable across student levels and clinical situations](omp-experienced-flexible-easy-to-use-phc.md) — related
 - [Tutors identified probing for underlying reasoning (micro-skill 2) as the main benefit of the OMP, changing how they elicited students' clinical reasoning](omp-probing-reasoning-main-benefit.md) — related
 - [After an OMP workshop, tutors' self-rated tutoring competence and frequency of giving feedback on what was not done well increased significantly](omp-workshop-increases-self-rated-competence.md) — a narrower finding that bears on this claim
+- [DEFT condenses the one-minute preceptor from five microskills to four by merging the two feedback steps](deft-condenses-omp-five-to-four-microskills.md) — related
+- [An OMP-based preceptor education program produced no statistically significant change in preceptor nurses' clinical core competency (CCCP) or communication competence (GICC-15) scores](omp-pep-no-significant-cccp-gicc-change.md) — related
+- [The article argues OMP suits busy preceptor-directed settings because it needs only a single brief teacher training session, unlike SNAPPS](omp-preceptor-directed-busy-settings-single-training.md) — related

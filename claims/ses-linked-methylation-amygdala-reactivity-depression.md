@@ -51,3 +51,4 @@ The Perspective reports, citing a longitudinal multimethod study of stress-relat
 - [Higher serotonin is associated with persisting in challenging situations, and serotonin synthesis is greater when tryptophan is consumed in the morning or early afternoon](serotonin-persistence-tryptophan-timing.md) — related
 - [Unpredictability and lack of contingent caregiver responding in childhood is associated with increased adolescent externalizing behaviors and altered prefrontal-hippocampal-amygdala circuits](environmental-unpredictability-externalizing-circuits.md) — related
 - [Biological aging can be quantified early in the life course via methylation profile scores applied to child and adolescent samples](mps-biological-aging-quantified-early-life-course.md) — related
+- [Higher SES and lower depressive symptoms are associated with higher total A-Level scores](ses-depression-a-level-scores.md) — related

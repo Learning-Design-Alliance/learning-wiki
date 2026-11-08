@@ -47,3 +47,4 @@ Observational megacode checklist assessment (19 items from 6 NRP lessons, maximu
 ## Related Claims
 - [Senior pediatric residents' overall neonatal resuscitation MCQ scores rose from pre-test to post-test after team-based simulation training, in one single-group pre-post study](team-simulation-increases-nrp-knowledge.md) — related
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — related
+- [Team training in neonatal resuscitation improved team performance on simulated re-evaluation at 3 and 6 months, but studies of neonatal outcomes are inconclusive](resuscitation-team-training-simulated-performance.md) — related

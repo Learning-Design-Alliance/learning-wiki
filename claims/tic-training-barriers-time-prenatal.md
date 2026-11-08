@@ -53,3 +53,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "a key ch
 - [Prenatal clinicians recommend system-wide TIC training targeting the whole workforce including leadership](tic-system-wide-training-recommendation.md) — related
 - [Stakeholders identified an educational-support gap: LEDs stabilise the workforce but receive less structured teaching than HEE trainees, with lack of protected time a key barrier](led-education-support-gap-protected-time.md) — related
 - [Clinical educators lacked specific training in teaching telehealth competencies and relied on assumed workplace knowledge](educator-lack-telehealth-training-simulation.md) — related
+- [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — possibly the same claim (merge candidate)

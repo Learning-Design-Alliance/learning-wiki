@@ -45,4 +45,4 @@ The review reports on simulation-based learning using electronic/digital stethos
 
 
 ## Related Claims
--
+- [Higher cognitive load during simulation is associated with a reduced odds of subsequently identifying a trained clinical sign](cognitive-load-negatively-associated-diagnostic-performance.md) — related

@@ -52,3 +52,4 @@ Crossover simulation study, hidden-first group, preterm manikin; Wilcoxon signed
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly reduced breath-to-breath variability in tidal volume and mask leak](visible-rfm-feedback-reduces-ventilation-variability-preterm.md) — related
 - [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — related
 - [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — related
+- [Air leak in the simulators was inversely related to airway resistance: Premature Anne showed no measurable leak while two simulators leaked more than 80%](vlbw-simulator-air-leak-varies.md) — related

@@ -55,3 +55,4 @@ Null finding on the hands-on laparoscopic simulator task scored on suture placem
 - [Physical simulator training improved suturing and knot-tying performance versus conventional methods in a cited randomized controlled trial](physical-simulator-suturing-knot-tying-rct.md) — reports the opposite
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — reports the opposite
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
+- [Students reported improved confidence in instrument handling, cable knot tying and suture tying after the virtual session](virtual-session-confidence-gains-surgical-skills.md) — related

@@ -50,3 +50,4 @@ Matched comparison of correct video-question answers among 959 pairs of GM-ITE 2
 - [Among the non-verbal cues embedded in the simulation video, tachypnea showed the largest identification-rate difference between correct and incorrect responders](tachypnea-largest-cue-detection-gap.md) — related
 - [The authors interpret clinical experience, motivational factors, and patient exposure as contributors to non-verbal cue detection ability](experience-and-motivation-cue-detection-interpretation.md) — related
 - [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related
+- [Simulator training was most frequently used by medical students (41.1%) and physicians in further education (32.5%)](simulator-use-mostly-students-trainees.md) — related

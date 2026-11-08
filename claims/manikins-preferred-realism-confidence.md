@@ -55,3 +55,4 @@ Descriptive survey results from the 229-student comparison section: 79.9% (n=183
 - [IVR application shows face validity for realism of anatomy and equipment, but tissue-interaction realism is rated low due to suboptimal haptic feedback](ivr-face-validity-haptic-limitation.md) — related
 - [Most students reported that the system's realistic simulation and unlimited practice helped them, and most preferred the offline haptic section for three-dimensional adjustment and real-time feedback](student-preference-offline-haptic-feedback.md) — related
 - [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — reports the opposite
+- [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related

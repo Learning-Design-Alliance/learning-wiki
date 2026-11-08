@@ -68,3 +68,4 @@ From the same stakeholder thematic analysis: stakeholders felt simulation-based 
 - [Prenatal clinicians identify lack of protected time and competing priorities as barriers to TIC training](tic-training-barriers-time-prenatal.md) — related
 - [Prenatal clinicians describe inadequate, generic, and disengaging TIC training relying heavily on self-directed learning](inadequate-generic-tic-training-prenatal.md) — related
 - [LEDs reported low initial confidence in acute medical scenarios and named staff shortages, workload and absence of dedicated learning time as barriers to attending teaching](led-low-initial-confidence-attendance-barriers.md) — a narrower finding that bears on this claim
+- [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related

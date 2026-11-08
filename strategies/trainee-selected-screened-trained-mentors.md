@@ -40,6 +40,7 @@ After the residential period, each trainee selects a mentor who is then screened
 
 - Three Phase Residential Quasi Military Mentoring Pattern
 - [Assign a counselor/mentor who continuously monitors students and coordinates multi-context support](alas-counselor-mentor-monitoring-strategy.md)
+- [Place mannequins and self-study resources in each community midwife's practice setting with virtually proctored practice sessions by peer mentors to reduce dropout at scale-up.](mannequins-self-study-peer-mentored-practice-strategy.md)
 
 ## Examples
 -

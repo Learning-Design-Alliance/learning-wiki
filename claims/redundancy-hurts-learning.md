@@ -140,3 +140,4 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Students built food chains more easily from anonymous images of living beings than from their names, suggesting visual aids convey more information than verbal labels](images-beat-verbal-names-food-chains.md) — related
 - [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](ai-mode-outperformed-ait-mode-music-theory.md) — a narrower finding that bears on this claim
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
+- [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — related

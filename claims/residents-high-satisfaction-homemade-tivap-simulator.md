@@ -51,3 +51,4 @@ Post-course feedback survey of 28 first-year surgery residents after completing 
 - [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
 - [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related
 - [Participants rated the simulation session highly on meeting learner expectations and practical organization (mean 9 of 10, SD 1)](dam-simulation-high-satisfaction-scores.md) — related
+- [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related

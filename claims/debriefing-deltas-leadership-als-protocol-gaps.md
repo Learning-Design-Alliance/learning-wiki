@@ -53,3 +53,4 @@ Analysis of plus/delta debriefing results from both universities' simulation gro
 - [The PDSA ramp simulations identified knowledge gaps, performance deficiencies, and latent safety threats that were addressed in real time and through later cycles.](pdsa-simulations-identified-gaps-and-lsts.md) — related
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — possibly the same claim (merge candidate)
 - [Participants valued hands-on practice in simulation because resuscitation skills could not be acquired without it and simulation revealed knowledge gaps](simulation-hands-on-practice-knowledge-gaps-overdose.md) — related
+- [Individual staff knowledge and skill gaps are the most common latent safety threat in operating theater simulations, reported in 82% of reports and 90% of sites](staff-knowledge-skills-most-common-lst.md) — related

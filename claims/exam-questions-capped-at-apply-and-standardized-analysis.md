@@ -53,3 +53,4 @@ Content-specialist coding of all 319 calculus and 205 physics exam questions on 
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — reports the opposite
 - [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — related
 - [Students creating homemade PowerPoint games in an environmental chemistry class wrote primarily knowledge-level questions](ppt-games-primarily-knowledge-questions.md) — related
+- [IBO practical exams emphasized higher-order cognitive processes more than theory exams, with two-thirds of practical items requiring analyze, evaluate, or create and three-fourths encompassing procedural knowledge](ibo-practicals-higher-order-emphasis.md) — related

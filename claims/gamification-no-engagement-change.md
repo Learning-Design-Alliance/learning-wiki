@@ -50,3 +50,4 @@ Wilcoxon matched pairs signed-rank tests (n = 44) on five engagement items showe
 - [Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest](motivational-pa-null-conceptual-gains.md) — related
 - [Graduate students in a gamified online statistics course scored significantly higher on exams than students in a non-gamified control group](lms-gamification-higher-exam-scores.md) — related
 - [Providers' self-rated readiness for engaging in ACP did not change from pre-test to post-test after the ACP workshop, in one single-group pre-post study](acp-workshop-no-readiness-change.md) — related
+- [MCQ test scores were higher with both gamified systems than with the non-gamified SIDRA, but ranking plus teams plus points without badges did not differ from badges.](gamified-crs-higher-mcq-scores.md) — related

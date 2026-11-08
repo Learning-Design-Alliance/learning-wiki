@@ -49,3 +49,4 @@ Pre-post test design with 75 trainees (39 students, 18 interns, 18 residents) at
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Knowledge and confidence gains from the e-module are largest for medical students and smallest for residents](e-module-gains-largest-in-students.md) — related
 - [Anaesthetists' scores on a ten-question multiple-choice test of neuromuscular monitoring knowledge rose from pre-course to post-course after completing the e-learning module, in one uncontrolled pre-post study](elearning-improved-nmba-knowledge-test-scores.md) — related
+- [A dedicated perioperative PBM educational intervention improves intern knowledge, with mean correct scores rising from 7/15 to 9/15 (p=0.02)](correct-answer-percentage-46-6-to-60-percent.md) — related

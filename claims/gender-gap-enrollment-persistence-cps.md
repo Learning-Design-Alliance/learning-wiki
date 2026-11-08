@@ -61,3 +61,4 @@ Observational finding from the six-year tracking of CPS graduates in the classes
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — related
 - [Gender disparities favouring men in publication rates are documented across countries, disciplines and time periods](gender-disparities-publication-rates-documented.md) — related
 - [Scholarship impacts on first-year credits were significant across all analyzed subgroups, with subgroup differences not significant except gender](pbs-impacts-consistent-across-subgroups.md) — related
+- [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related

@@ -50,6 +50,7 @@ The article operationalizes five recommendations for flipped simulation: learnin
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
 - [Use blended learning with 'internet plus' and flipped classroom in evidence-based medicine teaching](internet-plus-fc-strategy-ebm-teaching.md)
+- [Brief students on the flipped classroom model's intention and value before class to foster self-active study](brief-students-on-fc-intention-before-class.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Content-validation stage of a descriptive study: 12 experts (eight women, four m
 - [Pediatric sedation simulation participants rated the scenarios as clinically relevant, comfort-improving, and the debrief as valuable and safe, with means above 4 on a 5-point Likert scale](sedation-simulation-likert-ratings-favorable.md) — related
 - [Expert judges rated every item of the postvention simulation scenario at CVI 0.90 or higher, exceeding the 0.80 acceptance criterion](postvention-scenario-cvi-all-items-090-or-higher.md) — related
 - [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
+- [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related

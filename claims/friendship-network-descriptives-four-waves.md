@@ -47,3 +47,5 @@ Descriptive network analysis of four waves (Table 2) from about 1,419 students. 
 ## Related Claims
 - [Friendship selection reinforces academic similarity: adolescents befriend similarly achieving peers, high achievers receive more nominations](achievement-homophily-friendship-selection.md) — related
 - [Chinese adolescents' academic achievement becomes increasingly similar to their friends' achievement over time](friendship-influence-academic-achievement-chinese-adolescents.md) — a narrower finding that bears on this claim
+- [Close friend and admire networks show similar structural features including reciprocity and cohesive peer group structures](network-structure-friends-admired-peers.md) — related
+- [Adolescents who are similar in academic engagement more often become close friends over the school year](similar-engagement-friend-selection.md) — related

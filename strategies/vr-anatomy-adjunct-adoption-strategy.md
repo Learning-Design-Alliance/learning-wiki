@@ -55,6 +55,7 @@ The article recommends that universities and hospitals consider VR as a tool in 
 - [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
 - [Use VR simulation as a primer or distance-learning complement to mannequin simulation in a blended approach](vr-as-primer-or-distance-complement-to-mannequin.md)
 - [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
+- [Deploy the Anatomage Table through an online platform to sustain anatomy and surgical training during emergencies](anatomage-online-platform-pandemic-training-strategy.md)
 
 ## Examples
 -

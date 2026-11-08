@@ -56,3 +56,4 @@ HLM regression of preliteracy, language, and mathematics on inattention, aggress
 - [Prevalence of sustained shared thinking in preschool settings predicts children's outcomes on academic and social-behavioral measures](sustained-shared-thinking-predicts-child-outcomes.md) — related
 - [Baseline levels of aggressive and antisocial behavior did not interact with any other predictor variables](baseline-aggression-no-moderation.md) — related
 - [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](four-anxiety-measures-predict-no-grades.md) — related
+- [All CBCL symptom scales relate to lower grades when examined separately, but somatic, social, and aggressive problems lose significance once comorbid symptoms are controlled](comorbid-symptoms-confound-single-scale-findings.md) — related

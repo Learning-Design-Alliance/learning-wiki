@@ -70,3 +70,4 @@ Residual/scatter analysis section reporting the girls' regression outcome: susta
 - [MVPA and average daily steps positively predict mathematics scores in both male and female middle school students](mvpa-steps-predict-math-scores-middle-school.md) — related
 - [Bootstrap analysis found no mediating effects of attention measures or aerobic fitness between physical activity and mathematics achievement](no-mediation-pa-attention-math.md) — related
 - [The spatial pathway to mathematical competence is relatively more important for boys and the in-class attention pathway for girls, confirming the differential contributions hypothesis](differential-contributions-pathways-confirmed.md) — reports the opposite
+- [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](sex-female-advantage-not-mathematics.md) — related

@@ -50,3 +50,4 @@ Narrative synthesis of feasibility outcomes across seven PAL and four CMB studie
 - [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — related
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
 - [Teachers perceive that the PAL program improves student attention and focus immediately after sessions, an effect that faded over the course of the day](pal-temporary-attention-focus-benefit.md) — related
+- [Perceived pupil benefits of PAL were the most widely reported theme, led by educational outcomes](pal-benefits-most-widely-reported-theme.md) — related

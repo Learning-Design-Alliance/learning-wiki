@@ -50,3 +50,4 @@ Deductive qualitative content analysis of four open-ended survey questions, code
 - [Perceived barriers and facilitators differ between sepsis recognition and sepsis management](recognition-vs-management-barriers.md) — a narrower finding that bears on this claim
 - [Most SDL-in-CPD behavior-change factors fall in four TDF domains: environmental context and resources, social influences, beliefs about consequences, and behavioral regulation](sdl-cpd-four-key-tdf-domains.md) — related
 - [Six months after courses, reported barriers to behavior adoption mapped most often to the TDF domain of environmental context and resources, while facilitators mapped most often to beliefs about capabilities and skills](tdf-barriers-resources-facilitators-capabilities-skills.md) — related
+- [Ten of the 14 Theoretical Domains Framework domains aligned with PAL implementation themes](ten-of-fourteen-tdf-domains-aligned-pal.md) — related

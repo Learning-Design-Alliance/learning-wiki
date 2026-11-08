@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 441 claims (290 show a difference, 106 mixed, 45 no difference) · 313 studies (115 associational, 107 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 86 of 313 report an effect size · 429 claims rest on one study
+> **Evidence** · 445 claims (292 show a difference, 108 mixed, 45 no difference) · 315 studies (116 associational, 108 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 86 of 315 report an effect size · 433 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -491,6 +491,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Intrinsic motivation correlates positively with both conscientiousness and exam score, while extrinsic motivation correlates negatively with conscientiousness and shows no significant relationship with score](../claims/intrinsic-motivation-positive-extrinsic-null-with-exam-score.md) [~M] — learners who differ on it differ in outcomes
 - [Intrinsic motivation predicted study completion, with a small effect (OR=1.05)](../claims/intrinsic-motivation-predicted-study-completion.md) [+M] — learners who differ on it differ in outcomes
 - [Motivational persistence correlates positively with conscientiousness and with National Residency Exam score, though individual persistence factors differ in direction](../claims/motivational-persistence-correlates-with-conscientiousness-and-score.md) [~M] — learners who differ on it differ in outcomes
+- [Admired peers' academic engagement also contributes to adolescents' own engagement over time](../claims/admired-peer-engagement-influence.md) [+M] — learners who differ on it differ in outcomes
+- [Close friends' academic engagement contributes to adolescents' own academic engagement over time](../claims/close-friend-engagement-influence.md) [+M] — learners who differ on it differ in outcomes
+- [Social influence on academic engagement is strongest when adolescents' engagement is low](../claims/influence-strongest-low-engagement.md) [~M] — an instructional effect differs with it
+- [In one pre-post study with no comparison group, in-service ECEs' self-rated task and barrier self-efficacy rose significantly from pre- to post-course; pre-service ECEs' self-rated barrier self-efficacy changed significantly, while task self-efficacy did not significantly change](../claims/teach-elearning-self-efficacy-group-differences.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

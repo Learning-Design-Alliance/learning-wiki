@@ -49,3 +49,4 @@ Descriptive analysis of resuscitation characteristics among the 1320 ventilated 
 - [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — related
+- [Training in resuscitation skills in a simulated environment alone is not enough to change clinical practice; witnessing successful bag-and-mask ventilation in live resuscitation builds confidence and changes beliefs and behaviors](simulation-alone-insufficient-live-bmv-builds-confidence.md) — related

@@ -50,6 +50,7 @@ The review proposes a ten-item checklist guiding institutions through adopting v
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
+- [Place mannequins and self-study resources in each community midwife's practice setting with virtually proctored practice sessions by peer mentors to reduce dropout at scale-up.](mannequins-self-study-peer-mentored-practice-strategy.md)
 
 ## Examples
 -

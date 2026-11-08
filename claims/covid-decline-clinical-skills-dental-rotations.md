@@ -69,3 +69,4 @@ ANOVA cohort comparison in Results §3.2. Declines were attributed by the author
 - [Post-COVID time management scores declined significantly, with partial recovery for the class of 2022](covid-decline-time-management-dental-rotations.md) — related
 - [Student self-assessments and faculty evaluations of patient care domains diverge, with self-reported scores generally lower than faculty-assigned scores](self-assessment-faculty-score-discrepancy-dental-rotations.md) — related
 - [Professionalism scores increased after COVID-19, but the increase was not statistically significant](covid-nonsignificant-increase-professionalism-dental-rotations.md) — related
+- [Test scores significantly decreased in 10 of 16 integrated courses (62.5%) after the transition to online classes in 2020](online-transition-significant-score-decrease-10-of-16-courses.md) — related

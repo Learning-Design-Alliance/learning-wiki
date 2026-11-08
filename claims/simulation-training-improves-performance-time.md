@@ -55,3 +55,4 @@ Review of 13 studies measuring performance time at posttest evaluation, with "th
 - [Simulation-based surgical skills are retained for extended periods and transfer to the operating room, per the review's cited studies](simulation-skill-retention-and-or-transfer.md) — related
 - [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — related
 - [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — reports the opposite
+- [Novice residents show marked OSATS performance improvement across consecutive SIMULATE curriculum scenarios with transfer to the operating room for both semi-rigid and flexible URS](simulate-curriculum-osats-improvement-or-transfer.md) — a narrower finding that bears on this claim

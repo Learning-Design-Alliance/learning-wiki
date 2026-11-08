@@ -58,3 +58,4 @@ RCT of 227 primary health care professionals comparing a VP game intervention to
 - [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related
 - [Nursing students' and professionals' NIV knowledge rose from 82.2% correct preintervention to 90.2% postsimulation after a combined theoretical-practical and simulation-based intervention, in one uncontrolled pre-post study](niv-training-knowledge-gain-82-to-90-percent.md) — related
 - [Game ratings do not differ significantly between health care professionals and students and the general public, though playtime is shorter among health care respondents](no-rating-differences-hcp-versus-general-public.md) — related
+- [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related

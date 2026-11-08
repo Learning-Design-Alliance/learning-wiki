@@ -70,3 +70,4 @@ The article's abstract summarizing the same video-rating reliability analysis: "
 - [Both A-OSATS versions differentiated novices, intermediates, and experts when grouped by OSATS GRS skill, but could not differentiate novices from intermediates when grouped by number of prior anastomoses](a-osats-discriminates-experience-levels.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Student knot-tying attempts scored with an adapted OSATS tool showed high median scores and good interrater reliability between two blinded surgeon assessors](adapted-osats-good-interrater-reliability.md) — related
+- [Video OSATS assessments by two expert raters show moderate correlation but poor agreement with live rating](osats-video-moderate-correlation-poor-live-agreement.md) — related

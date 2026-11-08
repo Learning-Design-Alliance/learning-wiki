@@ -54,3 +54,4 @@ Pre-/post-intervention study in which 191 treatment and 191 control students (ra
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](mastery-learning-higher-quantitative-chemistry-posttest.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](pbl-beats-traditional-mixtures-achievement.md) — related
+- [Prior randomized and quasi-experimental studies of labs as a treatment generally found no significant difference in content-knowledge outcomes](prior-lab-treatment-studies-no-content-gain.md) — related

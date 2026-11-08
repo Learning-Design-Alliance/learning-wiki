@@ -49,3 +49,4 @@ Marginal structural model (Tables 1 and Figure 1) on 634 students who authored q
 - [Deeper engagement in cooperative question authoring with peer feedback predicts metabolism exam performance on both multiple-choice and short-answer sections](cooperative-question-authoring-predicts-metabolism-exam.md) — related
 - [Self-testing via answering PeerWise questions showed no significant effect on the molecular biology multiple-choice exam section](no-significant-self-testing-effect-mcq-section.md) — related
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — related
+- [Requiring students to author multiple-choice questions is associated with higher course performance after controlling for prior academic performance](mcq-authoring-course-performance.md) — related

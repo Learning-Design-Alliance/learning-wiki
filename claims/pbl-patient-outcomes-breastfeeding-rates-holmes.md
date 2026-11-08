@@ -48,3 +48,5 @@ The review reports the single Level 4 study (Holmes et al.), a comparison betwee
 - [PBL in family medicine residency programs is associated with high learner satisfaction, though not always rated above lectures](pbl-high-learner-satisfaction-family-medicine-pgme.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Only one study linked physicians' prior training site to later patient outcomes, ranking programs by graduates' complication rates](single-study-training-background-patient-outcomes.md) — related
+- [Regional exclusive breastfeeding rates increased between 2017 and 2019, but attribution to PBL training is unresolved](ebf-rates-increase-2017-2019-attribution-open.md) — related
+- [PBL in-service breastfeeding training improved health professionals' knowledge, attitudes and practices, with retention at 4–6 months](pbl-breastfeeding-kap-improvement-retention.md) — related

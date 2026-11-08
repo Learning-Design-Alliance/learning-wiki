@@ -49,6 +49,7 @@ Before each flipped anatomy session, students take a short closed-book specimen 
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Pre Reading Quizzes](pre-reading-quizzes.md)
 - [Retrieval Practice Openers](retrieval-practice-openers.md)
+- [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 
 ## Examples
 -

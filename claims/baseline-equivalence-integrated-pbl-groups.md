@@ -51,3 +51,4 @@ Zhan H-Q, Zhang X-X, Qin R, Fei J, Dong G-Y, Hao J-H. (2023). Application of int
 - [Baseline characteristics (age, sex, pre-rotation theoretical scores) did not differ significantly between the PBL and lecture cohorts](baseline-comparability-pbl-esophageal-cohort.md) — related
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
 - [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related
+- [Randomization produced comparable demographic baselines between the flipped and traditional classroom groups](fc-tc-baseline-demographics-comparable.md) — related

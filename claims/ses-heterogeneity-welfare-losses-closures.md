@@ -75,3 +75,4 @@ Simulation by parental education: lower college attendance rates drive welfare l
 - [Adverse impacts of school closures are most pronounced for younger school-age children, driven by self-productivity and dynamic complementarity in human capital production](younger-children-hurt-more-by-closures.md) — related
 - [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related
 - [Commuting-time effects are larger for left-behind children and children of less-educated parents, with no significant heterogeneity by household wealth.](commuting-time-left-behind-parental-education-heterogeneity.md) — related
+- [Learning losses varied by parental education and parental income, on top of already existing inequalities](covid-learning-loss-inequality-parental-education-income.md) — related

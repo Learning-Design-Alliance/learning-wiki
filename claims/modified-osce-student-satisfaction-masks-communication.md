@@ -68,3 +68,4 @@ Questionnaire item Q7 from the same anonymous survey of modified OSCE respondent
 - [The 4-station 56-minute modified 2020 OSCE produced higher mean marks and more first-class honours than the 2019 and 2021 OSCEs](covid-2020-56-minute-osce-higher-marks.md) — related
 - [Internal reliability (Cronbach's alpha) remained similar across the unmodified 2019 and the modified 2020 and 2021 OSCEs](osce-reliability-stable-across-modified-formats.md) — related
 - [Spidergram learning-outcome data showed safety practice marks higher in 2020 and communication skills marks higher in 2021](spidergram-safety-communication-year-differences.md) — related
+- [Interns in both groups report high acceptance of OSCE as a fair and ability-reflecting assessment format](osce-questionnaire-high-acceptance-interns.md) — related

@@ -71,3 +71,4 @@ Students were asked to describe attributes of teachers who fell short in perform
 - [Graduating medical students' strongest motivations for a teaching career are contributing to the future of medicine and self-centered motivations such as passion](motivations-teaching-career-medical-students.md) — related
 - [Teaching is the second most prevalent aspiring professional role among graduating medical students, chosen by 59% after the clinical role (90%)](teaching-second-aspiring-role-medical-students.md) — related
 - [Teachers overwhelmingly rank inspiring student enthusiasm for learning as the most important characteristic for earning professional respect](inspiring-enthusiasm-top-teacher-value.md) — related
+- [Trainees rate patience, good communication, supervision and enthusiasm as the most important attributes of a good ophthalmic surgical trainer](good-surgical-trainer-attributes-ssa.md) — related
