@@ -85,3 +85,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Internet abusive use is negatively correlated with academic performance (GPA) in nursing students](internet-abusive-use-gpa-negative-correlation.md) — related
 - [State Graduation Exam score predicted final-year medical school GPA, explaining 12.3% of variance](sge-predicts-final-medical-school-gpa.md) — related
 - [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — reports the opposite
+- [Female gender, CAMS college, program type and earlier graduation year each predicted cumulative GPA alongside admission scores](gender-college-program-year-predict-gpa.md) — related

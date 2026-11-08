@@ -45,6 +45,7 @@ The program combined synchronous live tutorials with asynchronous resources: aft
 - [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 - [Deliver database instruction asynchronously online using either interactive tutorials or screencasts](asynchronous-online-database-instruction-strategy.md)
+- [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
 
 ## Examples
 -

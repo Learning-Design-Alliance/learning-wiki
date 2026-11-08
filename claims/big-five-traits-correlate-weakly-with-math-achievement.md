@@ -88,3 +88,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — a broader claim this one bears on
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — related
 - [Extraversion, agreeableness and emotional stability show no significant association with GPA](other-big-five-traits-no-gpa-effect.md) — related
+- [Conscientiousness is positively related to student grades, but the estimated relationship is strongly biased upward when heterogeneous scale use is not corrected with anchoring vignettes](conscientiousness-grades-overestimated-uncorrected.md) — related

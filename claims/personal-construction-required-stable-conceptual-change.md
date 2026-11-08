@@ -73,3 +73,4 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related
 - [In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
 - Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning — related
+- [Prior knowledge predicts how much students benefit from active-learning practices requiring self-constructed understanding; students with little prior knowledge often struggle](prior-knowledge-predicts-benefit-construction-based-learning.md) — related

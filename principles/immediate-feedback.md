@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (16 for, 18 mixed, 2 against) · 41 studies (14 causal, 12 review, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 41 report an effect size · 30 claims rest on one study
+> **Evidence** · 38 claims (18 for, 18 mixed, 2 against) · 42 studies (15 causal, 12 review, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 42 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Real-time feedback training increases compliance with the combined compression rate-and-depth target in hands-only CPR among medical students](../claims/real-time-feedback-improves-compression-target-hands-only-cpr.md) [+W] — attached 2026-11-04 from Piñeros-Alvarez JL et al. (2026), which proposed "Integrate real-time feedback devices into CPR training to optimize skill acquisition"; tests this page's relationship.
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](../claims/real-time-feedback-no-ventilation-improvement.md) [~W] — attached 2026-11-04 from Piñeros-Alvarez JL et al. (2026), which proposed "Integrate real-time feedback devices into CPR training to optimize skill acquisition"; tests this page's relationship.
 - [Novice trainees' recorded operational errors fell from 78.1 to 59.4 from pre-test to post-test within Group A during laparoscopic simulation practice after AEDS activation](../claims/aeds-real-time-feedback-reduces-laparoscopic-errors-within-group.md) [+W] — attached 2026-11-06 from Luo Yitian et al. (2025), which proposed "Integrate automated objective error-detection feedback into surgical simulation training to reduce errors and mitigate overconfidence"; tests this page's relationship.
+- [A brief BLS training session with real-time feedback improves future schoolteachers' CPR knowledge, raising self-declared ability to perform CPR from 58% to 100%](../claims/brief-bls-training-improves-teacher-cpr-knowledge.md) [+M] — attached 2026-11-08 from Jorge-Soto Cristina et al. (2019), which proposed "Implement BLS training in university curricula for schoolteachers to promote their engagement in training schoolchildren".
+- [After brief hands-on training with real-time feedback, more than 80% of chest compressions met the adequate-rate standard and all compressions used correct hand positions](../claims/cpr-quality-metrics-after-brief-feedback-training.md) [+M] — attached 2026-11-08 from Jorge-Soto Cristina et al. (2019), which proposed "Implement BLS training in university curricula for schoolteachers to promote their engagement in training schoolchildren".
 
 ## Objective and learner-valued goal
 

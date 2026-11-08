@@ -71,3 +71,4 @@ Internal consistency was examined using Cronbach's alpha. Values were acceptable
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
+- [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related

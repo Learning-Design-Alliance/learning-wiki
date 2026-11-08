@@ -74,3 +74,4 @@ Stoet G, Geary DC (2013) Sex Differences in Mathematics and Reading Achievement 
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
 - [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](sex-variability-in-excellence-1912.md) — related
 - [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — related
+- [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — related

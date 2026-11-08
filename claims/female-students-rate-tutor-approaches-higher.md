@@ -47,3 +47,4 @@ Independent t-tests comparing male (n = 176) and female (n = 108) students' rati
 ## Related Claims
 - [Female students assign significantly higher ratings than male students to specific e-learning aspects, including planning, presential sessions, content, self-evaluation, tutor contribution and illustrations](female-higher-ratings-specific-aspects.md) — related
 - [Students' lowest ratings fell in the intra-personal behavior category, indicating a need for further PBL faculty development](intra-personal-behavior-lowest-rated-category.md) — related
+- [Male and female students reported no significant differences in perceptions of either teaching module on the course questionnaire](no-gender-difference-questionnaire-perceptions.md) — reports the opposite

@@ -75,3 +75,4 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — related
 - [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related
 - [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
+- [Blended learning is as effective as face-to-face lecture and e-learning alone for acquiring practical local anaesthesia skills](blended-equal-practical-skills-local-anaesthesia.md) — a narrower finding that bears on this claim

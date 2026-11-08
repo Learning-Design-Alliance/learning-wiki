@@ -47,3 +47,4 @@ Qualitative theme from analysis of moderator-participant exchanges; 4 subthemes 
 ## Related Claims
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
+- [The suite of mLearning tools appeared to support knowledge transfer between academic and clinical learning contexts, bridging the theory-practice gap](mlearning-suite-supports-knowledge-transfer.md) — related

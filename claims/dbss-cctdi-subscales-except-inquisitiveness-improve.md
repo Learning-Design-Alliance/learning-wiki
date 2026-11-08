@@ -60,3 +60,4 @@ CCTDI-CV subscale comparisons across the two phases for the same NAs; the articl
 - [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
+- [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](mooc-blended-critical-thinking-mixed.md) — related

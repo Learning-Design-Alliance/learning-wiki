@@ -44,7 +44,9 @@ The article's forward-looking recommendation is that TMR alone may not suffice d
 - [Fast auditory TMR cues during rest strengthen alpha-band functional connectivity centered on the lateral orbitofrontal cortex relative to same-speed cues](../claims/lofc-connectivity-tmr-fast-cues.md) [+M]
 
 ## Related Strategies
+
 - [Wakeful Tmr Accelerated Cue Strategy](wakeful-tmr-accelerated-cue-strategy.md)
+- [Design creative and challenging motor tasks during sensitive periods to support confidence, memory, and anticipation](creative-challenging-motor-tasks-sensitive-periods.md)
 
 ## Examples
 -

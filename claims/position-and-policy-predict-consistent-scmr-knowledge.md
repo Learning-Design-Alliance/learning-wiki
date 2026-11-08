@@ -71,3 +71,4 @@ The same regression (Table 7) found departments lacking SCMR rules reduced odds 
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
 - [Neither years of experience managing invasive mechanical ventilation nor professional title is associated with the ability to identify asynchrony waveforms](experience-and-title-not-associated-with-recognition.md) — related
 - [In a multivariate logistic model, SS knowledge is predicted by experience (OR = 0.373), a master's degree (OR = 27.451), and SS training (OR = 25.293)](soft-skills-knowledge-multivariate-predictors.md) — reports the opposite
+- [Being a diagnostic radiology resident and having higher diagnostic confidence are the only independent predictors of high diagnostic accuracy](radiology-residency-and-confidence-predict-accuracy.md) — related

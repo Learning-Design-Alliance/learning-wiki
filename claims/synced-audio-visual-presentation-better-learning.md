@@ -54,3 +54,4 @@ The review reports, citing Mayer and colleagues (2019), a series of studies on m
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
 - [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — reports the opposite
+- [After the intervention, students rated visual stimuli higher than audio stimuli for DRM factual learning and knowledge retention (PS +1.05 to +1.27 versus +0.77 to +0.83), in one pre-post study with no comparison group](visual-over-audio-stimuli-video-learning.md) — related

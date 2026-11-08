@@ -66,3 +66,4 @@ MANOVA on CCTDI pretest/posttest scores across the three instructional groups sh
 - [Critical thinking skills scores rose from pretest to posttest after simulation-based training among Vietnamese nursing students in a single-group pre-post study; the change was not statistically significant](simulation-training-no-critical-thinking-change-vietnam.md) — related
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
 - [The PBL step-by-step process from problem to solution is credited by the authors with improving learners' systematicity and self-confidence](pbl-stepwise-process-systematicity-self-confidence.md) — reports the opposite
+- [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](mooc-blended-critical-thinking-mixed.md) — related

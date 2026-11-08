@@ -52,6 +52,7 @@ Based on the mixed validation results, the authors recommend deploying VPs in fo
 
 - [Adopt a hybrid model combining virtual and in-person OSCE components, assigning telehealth-suitable skills to virtual stations](hybrid-virtual-in-person-osce-strategy.md)
 - [Combine real SPs for doctor-patient communication with virtual scenarios for clinical examination](hybrid-sp-virtual-scenario-osce-strategy.md)
+- [Mitigation measures when using menu-based virtual patients as an alternative to standardized patients in assessment](vp-assessment-mitigation-measures.md)
 
 ## Examples
 -

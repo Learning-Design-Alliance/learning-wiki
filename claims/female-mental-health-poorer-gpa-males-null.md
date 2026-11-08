@@ -57,3 +57,4 @@ Logistic regression analysis of 6,923 students (2,153 male, 4,770 female) at a S
 - [Parenting style's association with academic performance is almost identical for male and female students, with no significant gender difference in performance](no-gender-difference-parenting-performance.md) — related
 - [Diagnosis with mental illness independently predicts low self-esteem among Saudi medical students](mental-illness-diagnosis-predicts-low-self-esteem.md) — related
 - [Female gender and depressive symptomatology are statistically significant, lower-power predictors of poor academic performance during distance education](gender-depression-predictors-poor-performance.md) — related
+- [Lower academic achievement predicts higher later depressive symptoms in girls around the later stages of compulsory education, and poor results at age 16 predict later depressive symptoms in both sexes](low-achievement-predicts-depression-girls-and-age-16-both-sexes.md) — related

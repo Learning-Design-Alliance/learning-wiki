@@ -50,3 +50,4 @@ Authors' interpretation (Discussion) of their RCT results: simple interrupted su
 - [Both video-based peer feedback and video-based expert feedback significantly improve first-year surgical residents' OSCE performance across three fundamental clinical skills](vpf-vef-significant-pre-post-improvement.md) — related
 - [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — a broader claim this one bears on
 - [Among Professional Master of Medicine candidates, video-based peer feedback outperforms expert feedback on wound dressing change and catheterization, but not among other residents](vpf-advantage-professional-master-candidates.md) — related
+- [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — related

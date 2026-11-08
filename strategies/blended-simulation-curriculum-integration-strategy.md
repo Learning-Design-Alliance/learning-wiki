@@ -59,6 +59,7 @@ The review recommends embedding simulation into the fabric of surgical education
 - [Structured, competency-based procedural VR training programme for robotic surgery curricula](structured-competency-based-procedural-vr-programme.md)
 - [Integrate simulation training into surgical residency via structured curricula, rotation plans, mentor instruction and feedback, and regional simulation centers](structured-simulation-integration-strategy.md)
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
+- [Include simulation training with practice-and-feedback cycles in surgical fellowship curricula for uncommon procedures](simulation-practice-feedback-cycles-surgical-curriculum.md)
 
 ## Examples
 -

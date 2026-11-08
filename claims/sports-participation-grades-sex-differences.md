@@ -73,3 +73,4 @@ Authors' interpretation of the sex-stratified results in the Discussion, attribu
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
 - [Gender-specific PA characteristics predict academic competence: PA frequency for girls and sports club participation for boys](gender-specific-pa-predictors-academic-competence.md) — reports the opposite
 - [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — related
+- [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — related

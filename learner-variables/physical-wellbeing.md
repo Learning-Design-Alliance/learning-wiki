@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (124 show a difference, 42 mixed, 25 no difference) · 103 studies (37 causal, 28 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 25 of 103 report an effect size · 187 claims rest on one study
+> **Evidence** · 199 claims (126 show a difference, 44 mixed, 29 no difference) · 108 studies (39 causal, 31 associational, 16 review, 14 quant-synthesis, 6 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 27 of 108 report an effect size · 195 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -228,6 +228,14 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Active learning health education improves arterial stiffness (CAVI) more than didactic health education in older adults with low health literacy](../claims/active-learning-education-improves-cavi-older-adults-low-health-literacy.md) [+M] — measured as an outcome of the instruction studied
 - [Active learning health education increases self-reported total physical activity more than didactic education in older adults with low health literacy](../claims/active-learning-education-increases-physical-activity-low-health-literacy.md) [+M] — measured as an outcome of the instruction studied
 - [Higher accelerometer-assessed daily physical activity predicts better interference task performance in adolescents](../claims/physical-activity-predicts-msit-accuracy-adolescents.md) [+M] — learners who differ on it differ in outcomes
+- [A one-academic-year HIIT-style vigorous physical activity intervention delivered during school PE did not significantly improve cardiorespiratory fitness in young adolescents](../claims/fit-to-study-null-crf.md) [-M] — measured as an outcome of the instruction studied
+- [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](../claims/overweight-status-similar-achievement-fourth-graders.md) [-M] — learners who differ on it differ in outcomes
+- [Adding physical fitness measures did not significantly enhance GPA prediction beyond motor competence, age, and BMI](../claims/fitness-block-did-not-enhance-gpa-prediction.md) [-M] — learners who differ on it differ in outcomes
+- [Combined breakfast and exercise improved Go/No-Go reaction time more than exercise alone by mid-morning, an advantage that did not last to the end of the morning, with no error-rate differences](../claims/breakfast-exercise-gonogo-reaction-time.md) [~M] — learners who differ on it differ in outcomes
+- [Combined breakfast and exercise improves mathematics computation time more than fasting-sedentary and fasted-exercise conditions](../claims/breakfast-exercise-improve-math-speed.md) [+M] — learners who differ on it differ in outcomes
+- [Each additional point of physical activity score was associated with a 0.423-point increase in Physical Education achievement](../claims/pa-point-increases-pe-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [GPA correlates positively and significantly with almost all motor competence and physical fitness measures but negatively with BMI in young school-aged children](../claims/gpa-correlates-positively-motor-competence-fitness-negatively-bmi.md) [~W] — learners who differ on it differ in outcomes
+- [Simple fitness, body composition, and physical activity show little correlation with academic achievement in fourth graders](../claims/simple-fitness-body-composition-uncorrelated-academics.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

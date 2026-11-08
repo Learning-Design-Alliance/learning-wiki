@@ -17,7 +17,7 @@ sources:
 # Teachers reflect on student, EdTech, and teacher agency levels when selecting classroom EdTech
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that teachers, facing varied and uneven-quality EdTech, deliberately evaluate the agency configuration of tools before classroom use. The article states: "We suggest that teachers reflect on students', EdTech's, and their own levels of agency in an activity and apply our guiding principles for selecting appropriate EdTech products." Because more agency does not always enhance learning and optimal levels differ between and within learners over time, the extent of agency should be adapted to the specific learner systematically.

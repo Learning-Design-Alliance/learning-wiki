@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 104 claims (67 for, 35 mixed, 2 against) · 74 studies (36 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 74 report an effect size · 102 claims rest on one study
+> **Evidence** · 107 claims (68 for, 37 mixed, 2 against) · 76 studies (38 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 76 report an effect size · 105 claims rest on one study
 
 ## Description and scope
 
@@ -131,6 +131,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [A structured procedure alternating short e-Learning units with separate hands-on exercises improves syringe pump skills test performance compared with e-Learning only, but the benefit is significant only immediately after learning](../claims/structured-alternating-hands-on-improves-skills.md) [+W] — attached 2026-11-07 from Grundgeiger et al. (2023), which proposed "Pair e-Learning with hands-on device practice only when trainees receive clear instructions on how to combine the two; providing the device and leaving usage to the learner is insufficient"; tests this page's relationship.
 - [Providers exposed to blended learning show a non-significant trend toward fewer median total errors per participant across the three electrical procedures pooled than those exposed to face-to-face learning only](../claims/blended-learning-fewer-total-defibrillator-errors-trend.md) [~W] — attached 2026-11-07 from Siebert JN et al. (2022), which proposed "Adopt blended learning that integrates learner-centred online content with face-to-face instruction to teach manual defibrillator skills in hospitals"; tests this page's relationship.
 - [More blended learning participants performed error-free procedures than face-to-face participants, though not statistically significant, with cardioversion the most error-prone procedure](../claims/blended-learning-more-error-free-procedures.md) [~W] — attached 2026-11-07 from Siebert JN et al. (2022), which proposed "Adopt blended learning that integrates learner-centred online content with face-to-face instruction to teach manual defibrillator skills in hospitals"; tests this page's relationship.
+- [In a bedside clinical examination course, an app-based blended-learning group improved significantly more on multiple-choice tests than a control group using paper course notes](../claims/app-blended-learning-higher-mc-improvement-pilot.md) [+W] — attached 2026-11-08 from Sonne C et al. (2021), which proposed "Pair app-based blended-learning material with bedside clinical skills courses to deepen theoretical learning, while keeping practical courses"; tests this page's relationship.
+- [MOOC-based blended teaching yields higher operational performance, theoretical achievements, and final grades than face-to-face teaching in Fundamental Nursing, but lower daily performance](../claims/mooc-blended-higher-final-grades-nursing.md) [~W] — attached 2026-11-08 from Cao W et al. (2021), which proposed "Blend MOOC self-study with structured in-class application rather than replacing face-to-face teaching wholesale"; tests this page's relationship.
+- [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](../claims/mooc-blended-critical-thinking-mixed.md) [~W] — attached 2026-11-08 from Cao W et al. (2021), which proposed "Blend MOOC self-study with structured in-class application rather than replacing face-to-face teaching wholesale"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -221,6 +224,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](../strategies/blended-learning-for-clinical-reasoning.md)
 - [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](../strategies/online-theory-face-to-face-practice-strategy.md)
 - [Adopt a mixed mode combining classroom and e-learning for post-graduate health-professions education](../strategies/mixed-mode-classroom-elearning-postgraduate-strategy.md)
+- [Use e-learning as structured preparation before a lecture and practical seminar (blended design for skills courses)](../strategies/elearning-structured-preparation-before-lecture-seminar.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

@@ -51,3 +51,4 @@ Paired t-test on the human-graded sample (N=50) found no growth in MSP, with a p
 - [No significant change was found in the importance of creating a safe learning environment, likely due to a ceiling effect](lq-no-change-importance-safe-environment-ceiling.md) — related
 - [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](brief-rubric-assessment-limited-sensitivity-ceiling.md) — a narrower finding that bears on this claim
 - [No significant changes in self-efficacy for CPR or uterine balloon tamponade, likely reflecting high baseline confidence and a ceiling effect](no-significant-change-cpr-balloon-tamponade-ceiling-effect.md) — related
+- [The study was affected by a ceiling effect despite control measures aimed at avoiding it](msf-ceiling-effect-despite-controls.md) — related

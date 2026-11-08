@@ -72,3 +72,4 @@ Discussion section attributing this second-hand: the article reports, citing a C
 - [79% of surveyed surgeons believe 10–30 vaginal hysterectomy cases are required to achieve and to maintain proficiency](vh-perceived-10-30-cases-proficiency.md) — related
 - [Surveyed surgeons perceive opening the uterovesical fold as the most difficult vaginal hysterectomy step to learn and colpotomy as the easiest](vh-step-difficulty-uterovesical-fold-hardest.md) — related
 - [About 90% of surveyed surgeons consider emergency surgery an indispensable basic skill, yet fewer than 30% report sufficient learning opportunities in everyday clinical practice](emergency-surgery-core-competence-but-few-learning-opportunities.md) — related
+- [Most surveyed Italian senior residents had never performed a hysterectomy by any surgical approach, and few exceeded the 30-procedure learning-curve threshold](italian-residents-never-performed-hysterectomy-survey.md) — related

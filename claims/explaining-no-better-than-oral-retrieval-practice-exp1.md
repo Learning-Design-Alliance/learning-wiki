@@ -48,3 +48,4 @@ In Experiment 1's three-group contrast analysis (in-between explaining and after
 - [Generating explanations (oral or written) outperforms retrieval practice on inference-based questions for the high-difficult text](explaining-outperforms-retrieval-high-difficult-text.md) — related
 - [In-between explaining enhanced university students' conceptual knowledge more than after-study explaining (Experiment 1)](in-between-explaining-beats-after-study-explaining-conceptual-knowledge.md) — related
 - [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](oral-explaining-improves-meta-comprehension-accuracy.md) — related
+- [Explaining did not outperform retrieval on comprehension, failing to replicate prior explaining effects](explaining-did-not-outperform-retrieval-null-replication.md) — a broader claim this one bears on

@@ -52,3 +52,4 @@ Descriptive statistics from the survey of 387 nurses (Table 2). Means printed: E
 - [Working as a clinical nurse and working in inpatient units negatively predict EBP competence and clinical decision-making](clinical-inpatient-roles-negative-predictors.md) — related
 - [Knowledge score correlated strongly and positively with skills total score](knowledge-skills-positive-correlation-burn-assessment.md) — related
 - [Knowledge, skill and experience domain scores rose significantly from pre-test to post-test, while attitude and value domain scores did not show a statistically significant change, in one self-rated uncontrolled pre-post study](iccn-domain-mixed-gains-attitude-value-null.md) — related
+- [Graduating dental students showed satisfactory self-perceived preparedness overall, but evidence-based practice skills were weakest](preparedness-satisfactory-evidence-based-skills-weak.md) — related

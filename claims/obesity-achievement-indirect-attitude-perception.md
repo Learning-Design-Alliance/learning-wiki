@@ -54,3 +54,4 @@ Focus group findings from four adolescent girls with obesity and their parents/g
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related
 - [Girls with low mathematics achievement are at higher risk of developing mathematics anxiety and poor mathematics attitudes than low-achieving boys](low-achieving-girls-higher-anxiety-risk.md) — related
 - [Sixth-grade mathematics anxiety and attitudes do not predict seventh-grade mathematics achievement; the relation is directional from competence to affect, not reciprocal](competence-to-affect-directional-not-reciprocal.md) — reports the opposite
+- [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related

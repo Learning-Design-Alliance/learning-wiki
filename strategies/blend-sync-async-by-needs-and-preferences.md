@@ -51,6 +51,7 @@ The authors recommend that decisions between asynchronous and synchronous delive
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 - [Modality-sensitive online course design: structured templates for COC and synchronous elements embedded in asynchronous lessons](modality-sensitive-online-course-design-strategy.md)
 - [Blended Learning](blended_learning.md)
+- [Combine online and role-playing formats in an inverted classroom for smoking cessation training](inverted-classroom-combining-online-roleplay.md)
 
 ## Examples
 -

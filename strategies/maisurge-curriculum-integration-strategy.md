@@ -51,6 +51,7 @@ The strategy is to use a realistic, procedure-specific, electrosurgery-capable u
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
+- [Include simulation training with practice-and-feedback cycles in surgical fellowship curricula for uncommon procedures](simulation-practice-feedback-cycles-surgical-curriculum.md)
 
 ## Examples
 -

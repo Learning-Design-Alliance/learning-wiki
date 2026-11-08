@@ -74,3 +74,4 @@ Despite literature suggesting catheterization time may shorten with experience, 
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
 - [Postoperative hospital stay and anastomotic fistula incidence decreased significantly from the preliminary to the proficient stage](laspme-postoperative-outcomes-improve-by-proficient-stage.md) — related
+- [Trainee operations show longer hospital stay and higher perioperative blood loss than experienced surgeons, while experienced-surgeon patients report more days of painkillers at home](tvt-resource-outcome-differences.md) — related

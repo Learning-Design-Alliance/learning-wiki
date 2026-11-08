@@ -46,6 +46,7 @@ The course pairs roughly ten hours of self-paced online study with two interacti
 - [Deliver RGR instruction via incremental self-paced online professional development completed before and after instruction begins](rgr-incremental-online-pd-strategy.md)
 - [Release videos early in the course and attach them to mandatory seminars with group homework](early-release-and-seminar-attachment-strategy.md)
 - [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
+- [Use e-learning as structured preparation before a lecture and practical seminar (blended design for skills courses)](elearning-structured-preparation-before-lecture-seminar.md)
 
 ## Examples
 -

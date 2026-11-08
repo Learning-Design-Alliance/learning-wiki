@@ -53,3 +53,4 @@ Prospective quasi-randomized cluster study of 54 fourth-year medical students (3
 - [Blended learning (virtual flipped classroom plus demonstration) achieves higher laboratory OSPE scores than traditional lectures in practical immunohematology training](blended-learning-higher-laboratory-ospe-immunohematology.md) — related
 - [Blended learning produces higher posttest medication dosage calculation scores than video-based e-learning alone among paramedic students](bl-beats-vbl-mdc-posttest-paramedic.md) — a narrower finding that bears on this claim
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — a narrower finding that bears on this claim
+- [Blended learning is as effective as face-to-face lecture and e-learning alone for acquiring practical local anaesthesia skills](blended-equal-practical-skills-local-anaesthesia.md) — related

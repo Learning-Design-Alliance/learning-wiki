@@ -49,3 +49,4 @@ Descriptive grade-scale ratings (1–6) from the 43-student evaluation: video "8
 - [Most students in the electronic ward round cohort reported a subjective knowledge gain from the streamed bedside teaching](e-visite-subjective-knowledge-gain.md) — related
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](learners-prefer-video-over-audio-materials.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
+- [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related

@@ -77,3 +77,4 @@ Authors' discussion in the introduction's themes section about state tests, whic
 - [Online learning's advantage may be limited to simple learning goals assessed by objective multiple-choice instruments](online-advantage-limited-to-simple-goals.md) — related
 - [A 20-item multiple-choice check confirmed participants were almost completely unfamiliar with the target phrasal verbs before treatment](prior-knowledge-check-phrasal-verbs-unfamiliar.md) — a narrower finding that bears on this claim
 - [Clinical evaluators reported that current SMA COAs show ceiling effects in treated infants and floor effects in strong sitters and ambulant individuals](sma-coa-ceiling-floor-effects.md) — a narrower finding that bears on this claim
+- [In its current form the four-item scale may not adequately differentiate students with poor communication skills from those who perform better](cs-scale-poor-differentiation-low-performers.md) — related

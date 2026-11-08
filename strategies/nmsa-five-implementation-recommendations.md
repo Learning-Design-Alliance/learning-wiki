@@ -39,6 +39,7 @@ The article closes with five recommendations from NMSA: connect the science of l
 ## Related Strategies
 
 - [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
+- [Implementation recommendations: a full-time dedicated lead, progressive deployment starting from a single course level, and free open-source tools commonly used in the discipline](educe-implementation-recommendations-strategy.md)
 
 ## Examples
 -

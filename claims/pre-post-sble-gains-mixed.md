@@ -58,3 +58,4 @@ Kirkpatrick levels 1 and 2 evaluation in the Fluharty et al. study (370 BSN and 
 - [Nurses substantially overestimated their end-of-life care competence: about 80% rated themselves competent or confident while only 15% passed the knowledge quiz](nurses-overestimate-eol-competence.md) — related
 - [Standardized-patient-rated communication attitudes (SPS) did not differ significantly between the intervention and control groups after the EOL simulation program](sps-score-null-between-groups.md) — related
 - [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related
+- [All three groups report significant self-assessed gains in theoretical knowledge and practical skills after the seminar, with no differences between groups](self-assessed-gains-similar-across-groups.md) — related

@@ -53,3 +53,4 @@ Mixed factorial ANCOVA on inference-based questions with learning activity as be
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](low-difficult-text-no-modality-differences.md) — related
 - [The modality effect on inference-based questions is serially mediated by personal references and comprehensiveness of explanations](serial-mediation-social-presence-comprehensiveness.md) — related
 - [Oral explanations contain more personal references and more concepts than written explanations, but not more elaborations](oral-explanations-more-references-concepts.md) — related
+- [Explaining did not outperform retrieval on comprehension, failing to replicate prior explaining effects](explaining-did-not-outperform-retrieval-null-replication.md) — related

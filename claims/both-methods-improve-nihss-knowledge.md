@@ -47,3 +47,4 @@ Within-group pre-post comparison on the 50-question quiz in the randomized contr
 ## Related Claims
 - [Previously NIHSS-trained health care professionals who followed an interactive e-learning module scored higher on a knowledge acquisition quiz than those who followed a didactic video](elearning-beats-video-nihss-acquisition.md) — related
 - [Knowledge retention at 1 month was higher after the interactive e-learning module than after the didactic video](elearning-nihss-retention-one-month.md) — related
+- [Senior medical students following a highly interactive e-learning module acquire more NIHSS knowledge asynchronously than students following the traditional didactic video](e-learning-module-outperforms-didactic-video-nihss-medical-students.md) — related

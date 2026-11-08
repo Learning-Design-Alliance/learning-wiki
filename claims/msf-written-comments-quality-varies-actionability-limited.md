@@ -59,3 +59,4 @@ Narrative review reporting Canavan et al's analysis of phrases in written MSF fe
 - [Experienced supervisors can discriminate between trainees based on narrative MSF reports, with reports of concerning trainees containing significantly more negative and constructive comments](narrative-msf-discriminating-capacity.md) — related
 - [Trainees and supervisors overwhelmingly prefer a purely narrative MSF to a numerical scale-based MSF](narrative-msf-preferred-over-numeric.md) — related
 - [No specific number of respondents needed for reliable narrative MSF could be defined; feedback detail matters more than assessor count](narrative-msf-respondents-needed-undefined.md) — related
+- [The two-factor MSF structure supports graphical feedback reports that guide reflection on global domains rather than single items](msf-factor-based-feedback-reports.md) — related

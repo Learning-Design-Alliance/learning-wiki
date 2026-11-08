@@ -46,6 +46,7 @@ Based on the attitudinal and knowledge findings, the review recommends that "Fut
 ## Related Strategies
 
 - [Free Play](free-play.md)
+- [Design creative and challenging motor tasks during sensitive periods to support confidence, memory, and anticipation](creative-challenging-motor-tasks-sensitive-periods.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Post-testing survey in the randomized cadaveric study of 24 primary care physici
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Personalised video-assisted feedback raises confidence in learning but not satisfaction with current learning](personalised-video-feedback-confidence-not-satisfaction-subdimension.md) — related
 - [Screen-based simulation training raises nursing students' post-test self-efficacy in pediatric drug administration compared with verbal instruction](screen-simulation-raises-pediatric-drug-self-efficacy.md) — related
+- [First subcutaneous injection success rate is higher with simulation-tool training (73.33%) than traditional training (46.67%)](simulation-training-first-injection-success-rate.md) — related

@@ -53,3 +53,4 @@ Meta-analysis of four trials assessing learner skill acquisition on patients or 
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
 - [Simulation-based training produces a small improvement in behavior performance compared with non-simulation based training for airway management](sbt-small-behavior-performance-benefit-airway.md) — related
 - [Both the control and experimental groups demonstrated a perfect success rate in completing phlebotomy on actual patients](both-groups-perfect-phlebotomy-success-rate.md) — a narrower finding that bears on this claim
+- [Hypoglycemia incidence does not differ significantly between simulation-trained and traditionally trained patients](hypoglycemia-no-significant-difference-training.md) — a narrower finding that bears on this claim

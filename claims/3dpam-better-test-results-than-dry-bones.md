@@ -73,3 +73,4 @@ The review reports, citing Chen et al., that 3DPAM students were "better at reco
 - [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — a narrower finding that bears on this claim
 - [Dissection and 3D software groups outperform plastic models across all question types (tag, MCQ, Bloom 1, Bloom 2)](dissection-3d-outperform-plastic-models-all-question-types.md) — related
 - [Residents who did virtual temporal bone dissections reported improved learning of anatomy](virtual-temporal-bone-anatomy-learning.md) — related
+- [Virtual dissection showed tendential benefit on muscle listing and 2D/3D reporting of anatomical structures, but not on listing vessels, nerves and bones](virtual-dissection-2d-3d-reporting-tendential-benefit.md) — related

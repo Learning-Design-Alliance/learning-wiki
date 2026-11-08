@@ -48,3 +48,4 @@ Narrative review reporting a longitudinal study of 250 doctors who participated 
 - [Feedback usefulness from multisource feedback is enhanced by increasing its specificity, and specific, patient-sourced feedback on communication skills is most consistently used](msf-feedback-specificity-enhances-usefulness.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related
+- [Significant discrepancies were detected between the three feedback sources, with supervisors awarding the highest scores](msf-source-discrepancies-supervisors-highest.md) — related

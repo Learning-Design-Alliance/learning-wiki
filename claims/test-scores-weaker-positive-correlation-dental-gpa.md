@@ -52,3 +52,4 @@ Pearson correlation analysis of the same 900-student questionnaire dataset, repo
 - [FSRs correlate positively but weakly with GPA (r = .17) and course grades (r = .16)](fsr-weak-correlation-gpa-grades.md) — a broader claim this one bears on
 - [Emotional intelligence is significantly but weakly positively correlated with academic success in undergraduate MD programs (r = .13)](ei-weakly-predicts-md-academic-success.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [High school GPA correlates significantly but weakly (0.3) with graduating GPA among Jordanian dental students](hs-gpa-weak-positive-correlation-dental-aa-gpa.md) — related

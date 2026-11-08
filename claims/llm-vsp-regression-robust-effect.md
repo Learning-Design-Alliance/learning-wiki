@@ -60,3 +60,4 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [VSP training produced significantly greater improvement in theoretical knowledge scores than traditional case-based teaching](cl-vsp-greater-theoretical-knowledge-gains.md) — related
 - [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
 - [The simulation-first advantage on OSATS was not robust in sensitivity and multivariate analyses adjusting for baseline robotic experience](simulation-first-advantage-not-robust-sensitivity.md) — related
+- [The e-learning advantage is robust to prior NIHSS knowledge, prior NIHSS courses, ward experience, and multi-day completion, but only immediate retention was tested](e-learning-nihss-advantage-robust-sensitivity-immediate-only.md) — related

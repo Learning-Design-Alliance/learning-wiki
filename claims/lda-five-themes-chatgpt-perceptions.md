@@ -56,3 +56,4 @@ Topic modeling of Spanish-language open-ended responses using LDA (following Ble
 - Current research focus on Linked Data in education overlaps with modern PLE topics — related
 - [LDA topic modelling of 6,087 written student feedback responses yields six SET-related topics](lda-six-topics-from-student-feedback.md) — related
 - [Students' spontaneous associations with the Planetary Health Diet were mostly nutrition-related, with sustainability terms third-largest](planetary-health-diet-associations-nutrition-related.md) — related
+- [LDA topic modelling of free-text feedback yielded six topics consolidated into themes of ease, assessment, comprehension, interactivity, clarity and summary](lda-six-topics-course-feedback.md) — related

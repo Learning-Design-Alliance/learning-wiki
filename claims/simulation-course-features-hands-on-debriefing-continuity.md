@@ -57,3 +57,5 @@ Inductive thematic analysis of free-text post-simulation questionnaire responses
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
 - [International SBL trainers perceive their primary role as facilitators and consider structuring sessions, facilitating group learning, and stimulating reflection crucial themes](sbl-trainers-perceive-facilitator-role-three-themes.md) — related
 - [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related
+- [Students rate debriefing feedback as easy to understand, relevant, and constructive, and generally feel positive about debriefing](debriefing-feedback-clear-relevant-constructive.md) — related
+- [Facilitator questioning during debriefing is perceived as mostly open-ended and encouraging of self-reflection, though perceptions are mixed](open-ended-questioning-perceived-mixed.md) — related

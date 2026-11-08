@@ -49,3 +49,4 @@ Inter-rater reliability analysis using Pearson's correlation and Cohen's kappa b
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Both A-OSATS versions showed excellent interrater and high intrarater reliability when two blinded raters scored video-recorded anastomoses](a-osats-interrater-intrarater-reliability.md) — related
 - [R-OSAT scoring showed excellent inter-rater reliability between the two independent expert assessors](r-osat-excellent-inter-rater-reliability.md) — related
+- [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — related

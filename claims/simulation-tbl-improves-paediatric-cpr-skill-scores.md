@@ -64,3 +64,5 @@ Pre-post self-comparison of 24 paediatric postgraduates at one hospital; skills 
 - [Simulation assessment improvements in nasal packing and tracheostomy care were confined to the hands-on-trained groups](simulation-gain-limited-to-trained-scenario.md) — related
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related
 - [Medical students and residents trained with the hybrid learning method completed significantly more endotracheal intubation steps correctly on real patients than the conventional simulation group](hybridlab-higher-eti-step-completion.md) — related
+- [Correct answers on AED/defibrillator questions rose from an average of 42.2% to 89.5% after the course, in one uncontrolled pre-post study](aed-question-gains-post-course.md) — related
+- [Intensive repeated practice over 3 days reduced Macintosh intubation failures to zero by day 3 on both manikins, indicating skill improvement with repeated performance](three-day-repeated-practice-reduces-intubation-failures.md) — related

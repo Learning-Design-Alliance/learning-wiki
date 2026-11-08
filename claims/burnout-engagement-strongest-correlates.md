@@ -50,3 +50,4 @@ Correlates results (Table 3): "The strongest significant correlate with all five
 - [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](cmse-teacher-burnout-strongest-teacher-level-correlate.md) — related
 - [Teacher-student relationships are the strongest interpersonal predictor of hedonic, occupational, and overall teacher wellbeing](teacher-student-relationships-strongest-interpersonal.md) — related
 - [Occupational commitment is the strongest positive consequence and turnover intentions the strongest negative consequence of teacher wellbeing](wellbeing-consequences-commitment-turnover.md) — related
+- [Magnitude of competency change correlated positively with age and job satisfaction and negatively with burnout and complaints](change-magnitude-correlates-sociodemographic-organizational.md) — related

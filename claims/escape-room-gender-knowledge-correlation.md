@@ -49,3 +49,4 @@ Pearson correlational analyses in the study of 45 medical students (82.2% female
 
 ## Related Claims
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related
+- [Female students scored higher than male students on the medical English exam in both teaching module groups](female-students-higher-medical-english-exam-scores.md) — related

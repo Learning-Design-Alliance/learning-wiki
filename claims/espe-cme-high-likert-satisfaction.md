@@ -61,3 +61,5 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [A vast majority of students rated the online research course as valuable and of acceptable quality](students-rate-online-research-course-valuable-acceptable-quality.md) — related
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
 - [Teachers rated the online training module positively, with all dimension and item scores averaging or mediating at 4](online-training-module-acceptable.md) — related
+- [Participants in two faculty development workshops reported high ratings for clarity, organization, and relevance of the workshop](faculty-development-virtual-teaching-workshop-high-ratings.md) — related
+- [A massive online e-learning course for clinical study investigators achieved high user satisfaction, with a mean overall rating of 4.56/5 among 1067 feedback respondents](imagine-elearning-high-satisfaction-4-56.md) — related

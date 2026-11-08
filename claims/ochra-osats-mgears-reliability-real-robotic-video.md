@@ -71,3 +71,4 @@ Rater training analysis on 10 JIGSAWS videos before the main annotation. The art
 - [Structured grading rubrics such as OSATS and GEARS are validated to reliably distinguish levels of surgical expertise and remain the standard approach to surgical skill assessment](structured-rubrics-standard-surgical-skill-assessment.md) — a broader claim this one bears on
 - [The assessment tools show strong concurrent validity, correlating moderately to strongly in dry and VR tasks](concurrent-validity-m-gears-apms-ochra.md) — related
 - [The OCHRA error-assessment tool shows excellent inter-rater reliability in robotic basic skills assessment](ochra-inter-rater-reliability-excellent.md) — related
+- [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related

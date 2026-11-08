@@ -53,3 +53,4 @@ In the RCT's assessment session, both groups completed a 12-item multiple-choice
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
 - [VR simulator training improves overall pedicle screw placement success relative to traditional training](vr-training-higher-overall-screw-placement-success.md) — related
 - [VR-trained trainees show shorter screw penetration distances and fewer displaced screws per resident](vr-training-shorter-penetration-fewer-displaced-screws.md) — related
+- [Video-platform students made significantly fewer incorrect exam choices than textbook-prepared students](video-group-fewer-incorrect-choices.md) — reports the opposite

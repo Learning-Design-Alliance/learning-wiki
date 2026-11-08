@@ -61,3 +61,4 @@ Follow-up PGY-CPE questionnaire completed by 18 of 29 trainees three months afte
 - [Teamwork ability and clinical thinking ability scores rose from pretraining to day 1 after simulation and day 30 of clinical practice in one single-group pre-post study (Kirkpatrick learning level)](cpr-training-improves-teamwork-clinical-thinking.md) — related
 - [Confidence increases significantly after high-fidelity simulation in both sessions](confidence-increases-after-high-fidelity-simulation.md) — related
 - [A three-day high-fidelity simulation-based ECMO course significantly improved physicians' cognitive self-assessments of ECMO management (p<0.001)](simulation-ecmo-course-improves-cognitive-self-assessment.md) — related
+- [Confidence in using a defibrillator rose significantly from 38.8% to 67.9% from pre-test to post-test in one group with no comparison group](defibrillator-confidence-increase.md) — related

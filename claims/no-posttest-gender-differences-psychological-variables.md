@@ -54,3 +54,4 @@ Independent-samples t-tests comparing males (n = 37) and females (n = 47) at pos
 - [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — related
 - [No significant gender differences in examination performance within any of the three teaching-modality groups](no-gender-difference-anatomy-modality-groups.md) — related
+- [No overall gender differences in examination performance, with one exception at T1 for Rater 1](no-gender-difference-facial-examination-osce.md) — related

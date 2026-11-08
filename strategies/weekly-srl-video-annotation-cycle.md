@@ -41,7 +41,8 @@ The intervention iterated a five-day weekly schedule: students set one to two we
 - [Zimmerman Cyclical Srl Model Acting Intervention](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Teach a detailed pre-exam Plan of Study with weekly intention setting and accountability check-ins](plan-of-study-intentions-accountability-strategy.md)
 
 ## Examples
 -

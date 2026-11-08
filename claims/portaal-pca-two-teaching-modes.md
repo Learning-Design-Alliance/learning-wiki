@@ -51,3 +51,4 @@ Exploratory PCA at the course level (146 courses, 10 aggregated PORTAAL practice
 - [Overall intensity of use of the ten PORTAAL practices shows no significant correlation with student exam scores](practice-intensity-no-exam-correlation.md) — related
 - [The exam-score benefit of medium learner-centered practice levels is larger for male than female students, with no gender difference at medium-high or high levels](gender-interaction-learner-centered-exam.md) — related
 - [First-generation and non-first-generation students benefit from learner-centered practices at different quartiles: non-FGN more at medium-high, FGN more at high levels](fgn-interaction-learner-centered-exam.md) — related
+- [Satisfaction with course leadership correlates with perceived benefit from instructor feedback only in tutor-taught groups, not in the lecturer-taught group](satisfaction-feedback-link-tutor-only.md) — related

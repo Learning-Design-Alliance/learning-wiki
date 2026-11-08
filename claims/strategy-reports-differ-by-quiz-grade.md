@@ -48,3 +48,4 @@ Chi-squared tests of strategy report frequencies by quiz grade category across 1
 - [Greater follow-through with planned study strategies correlates with larger quiz grade gains (R² = 0.17)](follow-through-correlates-with-grade-gains.md) — related
 - [Students' intent to change study strategies after a quiz differs by quiz grade, but intended new strategies do not](intent-to-change-strategies-differs-by-grade.md) — related
 - [81% of students accurately report their self-testing; high-completion non-reporters underperform equally-completing accurate reporters](self-testing-report-accuracy-and-performance.md) — related
+- [Among students participating in CoC, active-strategy responses were more common at post-assessment than at pre-assessment, and prioritizing study was the top reported strategy post-assessment, in one group with no comparison group](coc-shift-passive-to-active-strategies.md) — related

@@ -69,3 +69,4 @@ The discussion reports the log-data learning-time contrast between perception gr
 - [Students adopting a preparation-oriented log-data approach earned significantly higher course marks and spent more online time than assessment-oriented students](preparation-oriented-approach-higher-marks.md) — related
 - [Self-reported data identify two clusters of students in a flipped classroom, one using a deep approach more frequently and one using a surface approach more frequently](self-report-deep-surface-clusters-flipped-classroom.md) — related
 - [Intervention students spent about 2 more hours in the course than controls, without higher perceived stress](intervention-cost-two-extra-hours-no-stress-increase.md) — related
+- [Participants with higher perception scores achieved better knowledge scores (one-way ANOVA across four PS groups, p < 0.001)](perception-score-linked-to-knowledge-score.md) — related

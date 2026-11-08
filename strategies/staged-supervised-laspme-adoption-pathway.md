@@ -56,6 +56,7 @@ In the discussion the authors recommend how surgeons learning this procedure sho
 - [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
 - [Maintain trainee exposure to open and reconstructive procedures using real cases, simulation-based and cadaveric education, and video libraries despite declining open case volume](maintain-open-reconstructive-exposure-simulation-cadaver-video.md)
 - [Reserve cadaveric simulation for later-stage masterclasses rather than novice training](cadaveric-masterclasses-later-stage-training.md)
+- [Use external observational training before mental practice of an unfamiliar procedure](external-observational-training-before-imagery.md)
 
 ## Examples
 -

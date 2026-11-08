@@ -59,3 +59,4 @@ Anonymous paper questionnaire (modified course evaluation questionnaire, Kirkpat
 - [Students in the 3D+CBL group rated the teaching higher than the CBL group on hip fundamentals, diagnostic and treatment-planning ability, interest, willingness to communicate, and satisfaction](3d-cbl-higher-questionnaire-ratings-ddh.md) — related
 - [Interns and trainees rated the disease-teaching application positively, with overall scores above 4 of 5 across satisfaction, efficiency, learning, usability and scientific-educational domains](positive-student-evaluation-med-app-five-domains.md) — related
 - Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related
+- [Clinical thinking improvement and learning pressure showed no significant difference between the SBS & CBL and LBL & CBL groups](clinical-thinking-no-group-difference.md) — related

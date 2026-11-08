@@ -388,3 +388,4 @@ Experiment 1 of the article. Undergraduates at a US university learned to count 
 - [Retention after 3–5 weeks does not differ between short-interval and long-interval proficiency-based simulator training schedules](interval-length-no-difference-retention-test-time.md) — related
 - [Massed instruction may potentiate learning in certain circumstances, particularly those involving motor learning](massed-learning-motor-learning-circumstances.md) — related
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — a narrower finding that bears on this claim
+- [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — related

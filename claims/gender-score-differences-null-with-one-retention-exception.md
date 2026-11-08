@@ -73,3 +73,5 @@ Exploratory subgroup analysis in Study 1 at the seven-day retention test; female
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
 - [Female participants reported worse self-assessments than male participants, and self-assessment–score consistency differed by sex only at one time point](gender-self-assessment-inconsistency.md) — related
+- [No significant sex differences in ComCare ratings, and no final-year advancement differences except one item rated lower late in the final year](comcare-no-sex-differences-one-advancement-item-lower.md) — related
+- [No overall gender differences in examination performance, with one exception at T1 for Rater 1](no-gender-difference-facial-examination-osce.md) — related

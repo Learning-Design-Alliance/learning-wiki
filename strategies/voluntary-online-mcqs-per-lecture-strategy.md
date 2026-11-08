@@ -48,7 +48,8 @@ The strategy is to accompany each lecture of a semester-long course with a small
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](../claims/practice-feedback-memory-beats-lecture.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Include additional learning materials — MCQ tests with accessible correct answers, clinical cases, and a reflective written assignment with anonymous peer review — to provide feedback and support motivation](additional-learning-materials-feedback-strategy.md)
 
 ## Examples
 -

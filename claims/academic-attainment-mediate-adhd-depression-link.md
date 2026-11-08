@@ -52,3 +52,4 @@ Potential-outcomes causal mediation analysis in ALSPAC (n = 2161) using GCSE poi
 - [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](peer-mediation-not-solely-victimisation.md) — related
 - [Genetic liability for ADHD predicts lower GCSE attainment but not greater school absence (ALSPAC cohort)](adhd-genetic-liability-attainment-not-absence.md) — related
 - [After controlling for selection factors and EduYears GPS, genetic differences between school types disappear and school type explains less than 1% of GCSE variance (down from 7%)](school-type-explains-under-1-percent-gcse-after-controls.md) — related
+- [Higher depressive symptoms predict lower later academic achievement up to the end of compulsory education (age 16), after which the direction of the association reverses](depressive-symptoms-predict-lower-achievement-until-16-reversal.md) — related

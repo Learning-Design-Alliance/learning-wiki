@@ -46,3 +46,4 @@ Questionnaire item on individual work within the end-of-term survey; the qualita
 
 ## Related Claims
 - [Most Annenberg partners found the Challenge's twice-yearly written reporting requirements burdensome and detrimental to their work with schools](annenberg-reporting-requirements-onerous.md) — related
+- [Student preference for individual written reports over group posters was inconsistent within the same questionnaire (39.9% vs 11.2%)](inconsistent-preference-individual-report-poster.md) — related

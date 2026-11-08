@@ -51,6 +51,7 @@ Because knowledge gained in a short simulation workshop declined significantly b
 - [Repeat simulation training 6 months after initial training to sustain PPH knowledge and skills](repeat-simulation-training-six-months-pph.md)
 - [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
+- [Use repeated observational competence assessments to target top-up training and give immediate structured feedback](enact-based-targeted-topup-training-and-feedback.md)
 
 ## Examples
 -

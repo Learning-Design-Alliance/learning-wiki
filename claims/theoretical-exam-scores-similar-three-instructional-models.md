@@ -56,3 +56,4 @@ ANOVA on the 20-item multiple-choice theoretical exam in the three-arm randomize
 - [No conclusive difference in theoretical knowledge between face-to-face and remote students in a hybrid chest physiotherapy seminar](hybrid-no-conclusive-difference-theoretical-knowledge.md) — related
 - [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related
 - [Hybrid-group learners reported significantly higher satisfaction with the module than conventional-group learners, while confidence to pass the final test did not differ](hybridlab-satisfaction-higher-confidence-similar.md) — related
+- [All three groups report significant self-assessed gains in theoretical knowledge and practical skills after the seminar, with no differences between groups](self-assessed-gains-similar-across-groups.md) — related

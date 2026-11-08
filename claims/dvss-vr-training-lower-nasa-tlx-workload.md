@@ -56,3 +56,4 @@ NASA TLX self-assessments collected between tasks in the randomized controlled s
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — a narrower finding that bears on this claim
 - [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related
 - [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related
+- [VR-trained groups reported significantly higher real-task workload than the real-only control group, with no significant difference between the two VR groups](vr-trained-groups-higher-real-task-workload.md) — reports the opposite

@@ -87,3 +87,4 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](pri-e-student-ability-development-ratings.md) — related
 - [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](pbl-develops-critical-thinking-communication-iuhpe-competencies.md) — related
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
+- [Students in the MOOC-based blended group report higher satisfaction with teaching and learning effects, with no differences in self-study, operational practice, or teamwork](mooc-blended-higher-satisfaction-feedback.md) — related

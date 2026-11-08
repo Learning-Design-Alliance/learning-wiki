@@ -57,3 +57,4 @@ Focus-group theme on practical experience: students wanted opportunities to prac
 - [Blended simulation using virtual environments and simulated patients improved students' patient communication on placement](blended-simulation-improved-patient-communication.md) — related
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
 - [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related
+- [Trainees rated interactive lectures the most beneficial boot camp component, ahead of simulated case scenarios and procedural skills training](ent-boot-camp-interactive-lectures-preferred.md) — reports the opposite

@@ -53,3 +53,4 @@ Pre-post comparison of total examination time for the complete 16-view protocol 
 - [Simulation-trained residents achieve significantly higher total live pediatric TEE performance scores than apprenticeship-trained residents one week after training](simulation-training-higher-live-tee-total-scores.md) — related
 - [Simulation training's advantage is concentrated in the technically demanding views 5–11, with no significant difference on the first four basic mid-esophageal views](simulation-advantage-limited-to-demanding-views-5-11.md) — related
 - [All participants successfully demonstrated TEE skills after simulator-based training](simulator-tee-training-skills-mastery.md) — related
+- [Simulation-tool training shortens the detailed teaching and mastery stages of insulin injection learning compared with traditional training](simulation-tool-shortens-insulin-injection-learning-time.md) — a narrower finding that bears on this claim

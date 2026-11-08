@@ -48,3 +48,4 @@ Cross-sectional comparison across 16 European medical schools comparing exam sco
 - [Students at schools with a final CPT examination in the curriculum score higher on the European Prescribing Exam](final-cpt-examination-higher-exam-scores.md) — related
 - [European medical students' prescribing knowledge and skills are inadequate on a standardized pan-European exam](medical-students-prescribing-competence-inadequate.md) — a broader claim this one bears on
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
+- [Students in an integrated PBL pharmacology/CPT programme had significantly higher prescribing knowledge scores than students in a traditional programme](pbl-programme-higher-prescribing-knowledge.md) — related

@@ -55,3 +55,4 @@ Operational evidence collected by the instructor during the Winter 2026 term in 
 - [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related
 - [Automated tool reduces correction time by 43% (raw) and 33% (normalised)](automated-tool-reduces-correction-time-43-percent.md) — related
 - [In one course section with no comparison group, the instructor's grading time fell from before to after AGLS implementation, and the instructor required twelve assignments instead of five.](agls-reduced-grading-time-more-assignments.md) — related
+- [Embedding case conferences in higher education curricula is feasible and effective at a group size of 200 students](case-conference-curriculum-feasible-200-students.md) — related

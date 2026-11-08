@@ -47,3 +47,4 @@ Qualitative analysis of teachers' responses to the question about benefits of th
 ## Related Claims
 - [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related
 - [Teachers perceived the differentiation-approach activities as creative, useful, and suitable to students' levels and intelligence domains.](teachers-perceive-differentiation-activities-creative-useful.md) — related
+- [Participants rated telesimulation positively on enjoyment, knowledge gain, suitability, and practical training opportunities](positive-perception-of-telesimulation.md) — related

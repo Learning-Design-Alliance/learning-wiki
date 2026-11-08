@@ -49,3 +49,4 @@ In Phase I, 31 expert nurse educators from five Spanish universities evaluated 3
 - [Expert surgeons confirmed strong content validity, with all items receiving mean scores above 4.0](content-validity-expert-ratings-ldsrs-model.md) — related
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
+- [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related

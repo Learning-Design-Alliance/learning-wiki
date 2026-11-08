@@ -60,3 +60,4 @@ Post-workshop satisfaction survey of the 53 participants (Table 4). The article 
 - [Most pre-clerkship students report satisfaction with simulation-based venipuncture training and recommend extending it](student-satisfaction-sbpt-venipuncture.md) — a narrower finding that bears on this claim
 - [Physicians rate the PallPan palliative care e-learning tool as highly feasible, satisfying, and useful for their work](pallpan-elearning-high-feasibility-ratings-physicians.md) — related
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
+- [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — a narrower finding that bears on this claim

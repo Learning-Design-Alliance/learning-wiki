@@ -53,3 +53,4 @@ Gender-stratified regression (Table 4) in the same cross-sectional study; both p
 - [Higher psychological safety is significantly associated with greater satisfaction with simulation-based learning among nursing students after summative simulation-based assessments](psychological-safety-associated-satisfaction-simulation-assessment.md) — a broader claim this one bears on
 - [Better perceived simulation design features are significantly associated with greater satisfaction with simulation-based learning](simulation-design-features-associated-satisfaction.md) — related
 - [Male nursing students report lower perceived simulation fidelity than female students, despite no overall gender difference in perceived design features](male-students-lower-perceived-fidelity.md) — related
+- [Multi-predictor regression models of total grade scores explain 30.5% of variance in females but only 4.3% in males](regression-fitness-academics-gender-variance.md) — related

@@ -61,3 +61,4 @@ Content validity evaluation from the expert consultation stage, in which 20 expe
 - [A 200-item clinical performance checklist was developed and content-validated through Delphi, CVI, Kappa, and CVR filtering](validated-200-item-performance-checklist.md) — related
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
 - [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
+- [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related

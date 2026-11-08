@@ -74,3 +74,4 @@ The same multivariate analyses found poor test performance did not significantly
 - [CPS graduates with higher ACT scores had higher overall and four-year enrollment rates, and at least an ACT score of 18 gave at least a 50 percent probability of four-year enrollment](act-scores-predict-college-enrollment-cps.md) — related
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related
 - [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related
+- [HSGA, APT and ACT scores were each significantly positively associated with cumulative GPA at graduation](admission-scores-positively-associated-gpa.md) — related

@@ -73,3 +73,4 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](wm-indirect-effects-via-four-math-components.md) — related
 - [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related
 - [Working memory factor relationships are similar across mathematical subdomains at age 9–10, with one exception: the verbal working memory link to operations is higher](wm-betas-similar-across-math-domains.md) — related
+- [The authors propose working memory and attention links as possible mechanisms between complex movement and academic achievement](complex-movement-academics-mechanism-proposal.md) — related

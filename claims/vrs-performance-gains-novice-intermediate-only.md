@@ -58,3 +58,4 @@ Review reports on one included study (Thomsen): significant improvement of OSACS
 - [Experienced physicians with extensive multi-port experience report limited perceived learning gains from single-port transition training](prior-expertise-limits-sp-training-gains.md) — a narrower finding that bears on this claim
 - [Approximately 92% of novices reported improved surgical performance after training on the MaiSurge model, while few experts did](maisurge-novices-perceived-improvement.md) — a narrower finding that bears on this claim
 - [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — related
+- [On the simulator's first exercise, expert and intermediate surgeons completed the trajectory faster than inexperienced interns and novices](experts-intermediates-faster-exercise1.md) — related

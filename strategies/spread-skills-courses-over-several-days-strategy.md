@@ -49,6 +49,7 @@ For time-limited skills courses that typically use massed practice, the authors 
 - [Implement DICE with 20-40 students in heterogeneous groups of 3-5, over a full day or several days, with most time on design steps](dice-classroom-implementation-strategy.md)
 - [Distributed Practice (Spaced Learning)](distributed-practice-spaced-learning.md)
 - [Distributed Practice (Spacing Effect)](distributed-practice-spacing-effect.md)
+- [Structure surgical skills courses as short weekly spaced sessions instead of a single massed day](spaced-weekly-sessions-surgical-skills-courses.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ RFECV feature-selection analysis of 300 primary school students (151 boys, 149 g
 - [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — related
 - [Sex is ranked the most significant single factor for academic achievement by the XGB feature-selection algorithm](sex-most-significant-factor-xgb.md) — reports the opposite
 - [Cardiorespiratory fitness is associated with working memory and cognitive flexibility but not inhibition in children](crf-associated-wm-cf-not-inhibition.md) — related
+- [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related

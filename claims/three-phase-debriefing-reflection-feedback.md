@@ -79,3 +79,6 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — a broader claim this one bears on
 - [Debriefing is a critical component of learning in simulation-based education, consistent with prior randomized trials of observer versus active roles](debriefing-critical-component-simulation-learning.md) — related
 - [RCDP trainees report higher satisfaction with debriefing and reflection, driving a higher overall SSE score, while confidence in independent operation does not differ](rcdp-higher-debriefing-reflection-satisfaction.md) — related
+- [Students rate debriefing feedback as easy to understand, relevant, and constructive, and generally feel positive about debriefing](debriefing-feedback-clear-relevant-constructive.md) — related
+- [Students perceive debriefing as meaningful when it is linked to simulation learning objectives and allows comparison of performance with outcomes](debriefing-linked-to-learning-outcomes-meaningful.md) — related
+- [Students valued the SBE process structure of pre-brief, simulation activity, and debrief, including feedback from supervisors and simulated patients](sbe-process-prebrief-simulation-debrief-valued.md) — related

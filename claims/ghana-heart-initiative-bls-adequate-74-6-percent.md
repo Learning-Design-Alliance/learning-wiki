@@ -50,3 +50,4 @@ Cross-sectional, training-based study assessing 229 BLS trainees immediately aft
 - [BLS trainees working in tertiary facilities were 80% less likely than those in primary facilities to have adequate BLS knowledge and skills](tertiary-facility-lower-adequate-bls-odds.md) — related
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — related
 - [BLS knowledge and skill scores were significantly associated with profession, facility type, and region](bls-scores-associated-profession-facility-region.md) — related
+- [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related

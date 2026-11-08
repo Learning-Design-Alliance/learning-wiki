@@ -52,3 +52,4 @@ Self-assessment of learning objectives from 23 post-scenario questionnaires (two
 - [A bilingual cross-border simulation training for German and Polish emergency medical teams is feasible despite pandemic-related curtailment](bilingual-cross-border-ems-simulation-feasible.md) — related
 - [A purpose-built 24-item trichotomous assessment tool for ABCDE adherence shows high intra-observer reliability (ICC 0.87)](abcde-adherence-assessment-tool-icc-087.md) — related
 - [Overall adherence to the ABCDE algorithm among neonatal healthcare providers during simulated NALS is low (mean 31.5%)](low-overall-abcde-adherence-simulation.md) — related
+- [Only about half of students report applying seminar learning in the subsequent training session, hindered by a change of scenarios between sessions](limited-transfer-to-second-training-session.md) — related

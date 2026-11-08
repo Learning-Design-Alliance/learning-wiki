@@ -56,6 +56,7 @@ The authors recommend that "clinical education programmes incorporate reflective
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Integrate PBL modules into existing clinical nursing curricula to cultivate reflective thinking and engagement](integrate-pbl-modules-clinical-curricula-strategy.md)
+- [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
 
 ## Examples
 -

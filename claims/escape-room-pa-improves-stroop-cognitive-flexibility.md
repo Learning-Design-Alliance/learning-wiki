@@ -53,3 +53,4 @@ Paired t-test on the Stroop Task in the experimental group of the pilot RCT; the
 - [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — related
 - [Repeated-measures ANOVA shows significant group-by-time interactions for all key physiological, stress, cognitive, well-being, and academic outcomes](anova-group-time-interaction-all-outcomes.md) — related
 - [The escape room-based physical activity intervention significantly increases adolescent well-being](escape-room-pa-increases-well-being.md) — related
+- [The HIIT-style VPA intervention did not significantly improve executive function, relational memory or processing speed in young adolescents](fit-to-study-null-cognition.md) — related

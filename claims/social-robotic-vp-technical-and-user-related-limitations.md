@@ -76,3 +76,4 @@ Discussion of interview findings; none of the participants were native English s
 - [Several perceived-advantage comparisons between the social robotic and computer-based platforms did not reach statistical significance](social-robotic-vp-nonsignificant-comparisons.md) — related
 - [Medical students perceive an LLM-driven social robotic virtual patient platform as more authentic than a computer-based semilinear virtual patient platform](social-robotic-vp-perceived-more-authentic-than-computer-based.md) — related
 - [Technical limitations of the social robotic platform included lack of physical examination options and occasionally mechanical dialogue with interruptions during pauses](social-robotic-vp-technical-limitations.md) — related
+- [Focus group participants found the smart speaker easy to use and described interacting with it as like conversing with a person](smart-speaker-mmt-focus-group-usability.md) — reports the opposite

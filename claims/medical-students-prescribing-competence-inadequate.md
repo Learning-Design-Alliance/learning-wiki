@@ -51,3 +51,4 @@ Descriptive analysis of 3109 participating students across 16 schools. The artic
 - [Students in problem-based learning curricula outperform students in traditional curricula on the European Prescribing Exam](pbl-curriculum-higher-prescribing-exam-scores.md) — a narrower finding that bears on this claim
 - [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md) — related
+- [PBL students reported greater prescribing confidence and preparedness and completed more drug prescriptions during training, but confidence did not correlate with assessed skill](pbl-confidence-preparedness.md) — related

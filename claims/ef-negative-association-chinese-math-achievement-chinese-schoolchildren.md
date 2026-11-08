@@ -70,3 +70,4 @@ Hierarchical regression analysis (Model 3, N = 733) predicting mathematics perfo
 - [Higher DAUF sustained attention scores (poorer sustained attention) are significantly negatively correlated with academic performance in children with LD](dauf-attention-negative-correlation-academic-ld.md) — related
 - [Working memory is the strongest predictor within the executive function latent construct, followed by inhibitory control](working-memory-strongest-ef-predictor.md) — reports the opposite
 - [General executive functions predict 14.7% of general academic achievement and 12.3% and 12.2% of Language Arts and Mathematics achievement in children aged 6–9](executive-functions-predict-achievement-6-9.md) — reports the opposite
+- [Executive function deficits are negatively associated with academic achievement and carry the strongest weight in every regression model tested](ef-deficits-negative-academic-achievement-secondary.md) — related

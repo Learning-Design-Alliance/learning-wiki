@@ -50,3 +50,4 @@ Multi-group SEM invariance testing across gender, age groups, and academic disci
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
 - [The mediation pattern from online class-related enjoyment to achievement is moderated by gender but not by major or grade](gender-moderates-enjoyment-mediation-pattern.md) — related
+- [Associations among economic perceptions and academic outcomes do not differ between preadolescents and early adolescents](no-age-moderation-economic-stress.md) — related

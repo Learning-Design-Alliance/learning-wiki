@@ -67,3 +67,5 @@ In the same ANOVA analysis, the tangential view (P = 0.07) and AP view (P = 0.7)
 ## Related Claims
 - [A composite fluoroscopy score on the iVR simulator discriminates novices from experienced surgeons with a very large effect size (partial eta squared = 0.54)](ivr-fluoroscopy-composite-score-discriminates-experience.md) — a broader claim this one bears on
 - [Time to complete the task and number of images taken do not discriminate between novices and experienced surgeons on the simulator](no-significant-difference-time-fluoroscopy-count.md) — related
+- [Experienced operators achieved higher image quality scores, but estimated fetal weight did not differ between groups](image-score-higher-efw-null-between-groups.md) — related
+- [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related

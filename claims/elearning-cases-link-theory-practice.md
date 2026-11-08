@@ -49,3 +49,4 @@ Qualitative themes 'exposure to cases' and 'link with practice' from template an
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — a broader claim this one bears on
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — possibly the same claim (merge candidate)
 - [Male nursing students report that mannequin-based simulation bridges the gap between theoretical knowledge and practical application in maternal-newborn nursing education](hfs-bridges-theory-practice-male-nursing-students.md) — related
+- [The suite of mLearning tools appeared to support knowledge transfer between academic and clinical learning contexts, bridging the theory-practice gap](mlearning-suite-supports-knowledge-transfer.md) — related

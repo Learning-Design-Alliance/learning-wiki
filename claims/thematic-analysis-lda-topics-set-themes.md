@@ -51,3 +51,4 @@ Qualitative evaluation in which three authors applied theory-driven codes from G
 - [Feedback questionnaire wording affects LDA topic results, more for emotional value than content](questionnaire-wording-affects-lda-topics.md) — related
 - Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid — related
 - [No themes in the thematic analysis related to the Evaluation and Feedback step of Kern's curriculum design process.](no-themes-evaluation-feedback-step.md) — related
+- [LDA topic modelling of free-text feedback yielded six topics consolidated into themes of ease, assessment, comprehension, interactivity, clarity and summary](lda-six-topics-course-feedback.md) — related

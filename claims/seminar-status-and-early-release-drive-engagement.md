@@ -89,3 +89,4 @@ Multiple regression of response rate to embedded questions (R² = 0.843); semina
 - [Earlier participation relative to project deadlines (higher APTTD) predicts higher project grades](early-posting-apttd-predicts-grades.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Videos under 5 minutes have higher audience retention and higher response rates to embedded questions in a flipped undergraduate medical classroom](videos-under-5-minutes-higher-retention-and-question-response.md) — related
+- [Academic year was not retained in any of the seven regression models and showed no significant association with any achievement measure](academic-year-not-associated-achievement.md) — related

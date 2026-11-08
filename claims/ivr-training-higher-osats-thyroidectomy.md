@@ -52,3 +52,4 @@ Blinded randomized controlled trial of 17 randomized residents (8 IVR, 8 control
 - [Dental students using ChatGPT-3.5 alongside videos achieve higher operational skill test scores than students using videos alone](chatgpt-supplement-raises-dental-operational-skill-scores.md) — related
 - [Adding immersive VR training to an online module yields higher mannequin-based technical skill scores (OSATS) than the online module alone in novice medical students](vr-plus-online-higher-osats-chest-tube.md) — related
 - [Medical students trained with a gamified VR cricothyrotomy simulation achieved significantly higher total procedural-step scores than students who watched an educational video](vr-cricothyrotomy-higher-procedural-score.md) — related
+- [Self-directed learning by video did not produce a statistically significant difference in total OSATS score between surgery resident groups](sdl-video-no-significant-osats-difference.md) — related

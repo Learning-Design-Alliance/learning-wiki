@@ -58,3 +58,4 @@ Cross-sectional online survey of 333 students from 16 programs across 7 Turkish 
 - [Nursing students' knowledge of avulsion management is inadequate: only four students would reinsert an avulsed tooth](nursing-students-avulsion-management-inadequate.md) — related
 - [Most undergraduate nursing students believe they have insufficient knowledge about dental trauma (79.8% self-report inadequate knowledge)](nursing-students-self-report-insufficient-dental-trauma-knowledge.md) — related
 - [70% of nursing students would attend an educational program on dental trauma](nursing-students-willing-attend-dental-trauma-education.md) — related
+- [Most future schoolteachers value first-aid training and are willing to include BLS content in lessons with their students](teachers-willing-to-teach-bls.md) — related

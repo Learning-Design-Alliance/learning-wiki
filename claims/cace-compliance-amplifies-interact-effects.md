@@ -49,3 +49,4 @@ CACE mixture-model analyses of the cluster RCT, classifying compliers by a binar
 - [The INTERACT teacher coaching intervention produced small, statistically significant ITT improvements in student-perceived emotional support, classroom organization, and instructional support in upper secondary school](interact-itt-significant-tsi-improvements.md) — related
 - [Delivering Concept Cat as intended (CACE) is associated with up to three months of additional progress in early conceptual vocabulary, but this estimate has low robustness](concept-cat-cace-three-months-low-robustness.md) — related
 - [ITT sensitivity analysis shows effect persists and enlarges (d=0.70)](llm-vsp-itt-sensitivity-effect.md) — related
+- [Complier-average causal effect estimates were in line with the intention-to-treat null results](fit-to-study-cace-null.md) — related

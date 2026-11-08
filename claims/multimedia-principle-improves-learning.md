@@ -182,3 +182,4 @@ Open questions include how the effect scales across media formats (static illust
 - [Comic pictures may help struggling readers reach good readers' pace through greater picture use](comic-pictures-help-struggling-readers.md) — a narrower finding that bears on this claim
 - [Comic materials reduce abstraction and present text patterns sequentially through framed pictures](comics-reduce-abstraction-sequential-presentation.md) — related
 - [Text story modules were rated the most helpful content type in WeChat literature articles, ahead of pictures and audio-video](wechat-text-story-most-helpful-module.md) — reports the opposite
+- [After the intervention, students rated visual stimuli higher than audio stimuli for DRM factual learning and knowledge retention (PS +1.05 to +1.27 versus +0.77 to +0.83), in one pre-post study with no comparison group](visual-over-audio-stimuli-video-learning.md) — related

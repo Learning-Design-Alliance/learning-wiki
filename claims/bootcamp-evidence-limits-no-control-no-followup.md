@@ -53,3 +53,4 @@ Authors' stated limitations: no control group; a "small sample size from a singu
 - [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — related
 - [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](sbe-supports-knowledge-skills-acquisition.md) — related
 - [Self-reported confidence and preparedness rose significantly from pre-test to post-test among newly appointed ENT ST3 registrars after a two-day ENT bootcamp, in one uncontrolled pre-post study](ent-bootcamp-increases-st3-confidence-preparedness.md) — related
+- [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — related

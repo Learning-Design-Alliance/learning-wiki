@@ -74,3 +74,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [None of the participants found VR microscope maneuvering realistic and all reported they would not use the platform in its current state for microscope training, prompting a weight-based lock solution](surgisim-microscope-maneuverability-lock-solution.md) — related
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
 - [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
+- [Participants engaging with interactive tools as learners let them experience each tool's advantages and disadvantages firsthand](experiencing-tools-as-learners-builds-tool-selection-insight.md) — related

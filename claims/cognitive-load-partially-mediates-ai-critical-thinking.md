@@ -53,3 +53,4 @@ PROCESS Model 14 mediation analysis with bias-corrected bootstrap confidence int
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Affect, motivation, and cognitive load did not mediate the relationship between error condition and CVS learning](no-mediation-affect-motivation-cognitive-load.md) — related
 - [Digital informal learning partially mediates the relationship between digital competence and academic performance](dil-partial-mediator-competence-performance.md) — related
+- [Support-seeking partially mediates the relationship between resilience resources and university adjustment](support-seeking-partially-mediates-adjustment.md) — related

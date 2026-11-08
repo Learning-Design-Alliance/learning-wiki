@@ -54,3 +54,4 @@ Procedure opportunities were tracked via observation and video review across the
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
 - [Fellows reported high acceptance of the VR curriculum and both groups rated it as meeting their needs](high-acceptance-vr-curriculum.md) — related
 - [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](vr-small-group-no-case-level-difference.md) — related
+- [Even residents with 12 consecutive successful simulated procedures later made critical mistakes, so competency cannot be declared based on procedure count or training time](late-procedure-failures-require-continued-supervision.md) — related

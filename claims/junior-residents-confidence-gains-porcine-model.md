@@ -49,3 +49,5 @@ Questionnaire study in which "Twenty-three junior OB/GYN residents (first- to th
 - [Senior OB/GYN residents improved understanding and confidence only for cervical laceration suturing, not for cesarean uterine suturing, after the porcine stomach course](senior-residents-selective-gains-porcine-model.md) — related
 - [Most participants rated the porcine stomach model as having higher tissue and physiologic fidelity than the towel uterus model](porcine-stomach-fidelity-beats-towel-uterus.md) — related
 - [Residents' vaginal surgery experience in the past 12 months was largely limited to obstetric procedures rather than gynecologic ones](ghana-residents-vaginal-experience-largely-obstetric.md) — related
+- [Surveyed Italian residents report high experience and confidence with simple and complex cesarean sections](italian-residents-cesarean-experience-confidence.md) — related
+- [Surveyed Italian residents show high volume and near-universal confidence in low-complexity procedures such as uterine curettage and low-degree tear sutures](italian-residents-low-complexity-procedure-confidence.md) — related

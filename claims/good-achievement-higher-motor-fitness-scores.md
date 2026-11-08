@@ -53,3 +53,4 @@ t-Tests on PROESP-BR fitness tests and KTK motor coordination tasks comparing ac
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — reports the opposite
 - [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — related
 - [Students with good school achievement were significantly older and showed higher alternating selective attention than peers with insufficient performance](good-achievement-older-higher-alternating-attention.md) — related
+- [Adding KTK motor competence significantly improved GPA prediction over age and BMI, but KTK MQ was not significant in the full model](ktk-mq-improves-prediction-not-significant-full-model.md) — related

@@ -54,3 +54,4 @@ Systematic review following PRISMA guidelines, registered in PROSPERO, searching
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
 - [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — related
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
+- [Ten general thoracic surgeons found the pediatric VATS simulator very difficult but unanimously agreed it was worth using for rehearsal training](ten-surgeons-rehearsal-training-consensus.md) — related

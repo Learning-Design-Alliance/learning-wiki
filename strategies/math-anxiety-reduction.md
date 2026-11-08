@@ -67,6 +67,7 @@ Because anxious learners' working memory is partially occupied by worry, reducin
 - [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
 - [Incorporate self-regulation or classroom-management components into mathematics interventions for lower-achieving students](self-regulation-components-for-low-attention-math-students.md)
 - [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
+- [Support low-efficacy and socially anxious students with low-stakes mastery-focused assignments and by mitigating anxiety-exacerbating classroom features](low-stakes-mastery-assignments-support-anxious-students.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based, untimed practice with hints and unlimited retries removes speed pressure and public failure from math practice.

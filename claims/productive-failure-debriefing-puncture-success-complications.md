@@ -52,3 +52,4 @@ Mann–Whitney U / chi-square comparison of recorded clinical complications duri
 - [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](productive-failure-debriefing-improves-critical-thinking.md) — related
 - [Productive failure plus debriefing training raises general self-efficacy from average to high level versus traditional training](productive-failure-debriefing-raises-self-efficacy.md) — related
 - [Procedure timing improved for probe positioning but not consistently for time to successful puncture](timing-improves-start-to-touch-not-puncture-time.md) — related
+- [First subcutaneous injection success rate is higher with simulation-tool training (73.33%) than traditional training (46.67%)](simulation-training-first-injection-success-rate.md) — related

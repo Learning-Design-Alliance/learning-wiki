@@ -59,3 +59,4 @@ The commentary's background synthesis of existing reviews reports that "other sy
 - [Evidence for physical activity benefits on academic achievement in youth is inconsistent: six of twelve reviews concluded benefits, six mixed or inconclusive](pa-academic-evidence-inconsistent-six-six.md) — related
 - [The PA intervention's benefit appeared in mathematics but not significantly in reading outcomes](pa-intervention-more-beneficial-for-mathematics.md) — a narrower finding that bears on this claim
 - [Prior reviews report inconsistent effects of physical activity on academic achievement, with small positive relationships in some meta-analyses and null findings in other studies](inconsistent-pa-achievement-literature.md) — related
+- [Physical activity is positively associated with academic achievement in all tested models except English, where no relationship appears](physical-activity-positive-achievement-except-english.md) — related

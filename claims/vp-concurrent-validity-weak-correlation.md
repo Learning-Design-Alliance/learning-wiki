@@ -56,3 +56,5 @@ Concurrent validity study: the same 42 students completed two three-station OSCE
 - [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](weak-correlation-virtual-sba-mce.md) — related
 - [VP exam grades correlate only minimally with bedside oral exam grades (r = 0.101), suggesting the two modalities assess different skills](vp-oral-exam-grade-correlation-minimal.md) — related
 - [Within VP cases, history and treatment section scores were consistently lower than lab and imaging scores, and first-two-year final grades were lower than later years](vp-section-score-differences.md) — related
+- [Diagnostic accuracy is higher for standardized patients than for virtual patients, and the two methods were not equivalent in grading](diagnostic-accuracy-higher-sps-than-vps.md) — related
+- [Exam-question performance does not differ between groups and does not correlate with OSCE performance](exam-no-group-differences-no-osce-correlation.md) — related

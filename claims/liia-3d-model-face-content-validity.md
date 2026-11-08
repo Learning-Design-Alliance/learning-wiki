@@ -67,3 +67,4 @@ Content-validity questionnaire from the same five experts; all content items had
 ## Related Claims
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — possibly the same claim (merge candidate)
 - [Expert surgeons confirmed strong content validity, with all items receiving mean scores above 4.0](content-validity-expert-ratings-ldsrs-model.md) — related
+- [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related

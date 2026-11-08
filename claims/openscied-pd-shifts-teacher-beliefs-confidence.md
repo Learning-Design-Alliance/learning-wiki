@@ -90,3 +90,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [A one-year PD program emphasizing IBI significantly increased middle school science teachers' overall belief about IBI from pre- to post-survey.](pd-increased-teacher-beliefs-ibi.md) — a narrower finding that bears on this claim
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related
 - [In one uncontrolled pre-post study, self-reported creative self-efficacy and psychological empowerment responses fell overall from pretest to posttest but rose significantly from pretest to posttest in 2023](hcd-workshop-gains-year-interaction.md) — related
+- [Longer-serving clinical faculty show lower preference for teacher-centeredness, suggesting teaching conceptions shift with experience](longer-serving-faculty-less-teacher-centered.md) — related

@@ -58,3 +58,4 @@ Cross-sectional study of 562 Spanish schoolchildren aged 9-11 using serial multi
 - [In the total sample of children, executive functions partially mediate the positive association between gross motor competence and academic achievement](efs-partially-mediate-gmc-aa-total-sample.md) — possibly the same claim (merge candidate)
 - [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](ef-mediate-crf-math-grades.md) — related
+- [Complex movement test times (soda pop foot, soda pop hand, Illinois Agility) correlate with multiple academic outcomes in fourth-grade girls](complex-movement-tests-correlate-academics-girls.md) — related

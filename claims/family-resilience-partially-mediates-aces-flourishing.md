@@ -71,3 +71,4 @@ FPL-stratified indirect-effect estimates from the same probit model; all direct,
 - [The moderated-mediation effect of family resilience on the ACEs-curiosity-in-learning relationship is significantly greater for Black than for White children](moderated-mediation-curiosity-greater-black-children.md) — related
 - [Above-FPL children improved more in staying calm and in control as family resilience increased, but no significant FPL moderated-mediation effects emerged](fpl-moderation-calm-control-no-moderated-mediation.md) — related
 - [Behavioral health conditions and school processes partially mediate the association between cumulative ACEs and school outcomes](aces-school-outcomes-mediated-behavioral-health-school-processes.md) — a broader claim this one bears on
+- [Support-seeking partially mediates the relationship between resilience resources and university adjustment](support-seeking-partially-mediates-adjustment.md) — related

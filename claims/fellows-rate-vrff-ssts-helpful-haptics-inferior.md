@@ -48,3 +48,4 @@ Questionnaire on VRFF-SSTS usefulness administered to the 64 fellows after train
 ## Related Claims
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [Most participants agreed the simulator can teach basic instrument handling and clip application skills and should be integrated into training and workflows](medusa-basic-skills-and-integration-endorsement.md) — related
+- [Most residents strongly agree the simulator is an effective training device that should be included in the ENT residency program](otoskills-resident-acceptance-strong-agreement.md) — related

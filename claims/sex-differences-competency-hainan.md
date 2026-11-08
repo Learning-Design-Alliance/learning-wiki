@@ -58,3 +58,5 @@ Group-comparison analysis (Table 2) of the 54 participants (39 female, 15 male) 
 - [Casper performance favors female participants and participants without a migration background, with native language explaining the migration-background effect](casper-german-pilot-subgroup-differences.md) — related
 - [Men rate their emergency surgical self-competence significantly higher than women across indication, laparoscopic and open surgery items](gender-differences-emergency-surgery-self-assessed-competence.md) — related
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
+- [No significant sex differences in ComCare ratings, and no final-year advancement differences except one item rated lower late in the final year](comcare-no-sex-differences-one-advancement-item-lower.md) — reports the opposite
+- [Male students entered with lower English entrance exam scores than female students in both teaching module groups](male-students-lower-english-entrance-exam-scores.md) — related

@@ -66,3 +66,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Healthcare professionals rated the e-learning resource as useful, easy to use and relevant to practice, and about one-third reported applying it in clinical practice at 4 weeks](elearning-usefulness-usability-ratings.md) — related
 - [NSW teachers rated the program higher than SA teachers on motivation, accessibility, mix of materials and lesson duration](state-differences-nsw-higher-ratings-than-sa.md) — related
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
+- [Participants in two faculty development workshops reported high ratings for clarity, organization, and relevance of the workshop](faculty-development-virtual-teaching-workshop-high-ratings.md) — related

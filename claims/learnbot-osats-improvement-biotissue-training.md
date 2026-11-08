@@ -48,3 +48,4 @@ Video-assessed analysis of consecutive robotic pancreaticojejunostomy and hepati
 - [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](learnbot-error-decrease-residual-errors.md) — related
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — related
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — a broader claim this one bears on
+- [Repeated execution of a biotissue pancreatico-jejunostomy drill improves surgical fellows' OSATS-rated technical proficiency](biotissue-pj-drill-improves-osats-proficiency.md) — related

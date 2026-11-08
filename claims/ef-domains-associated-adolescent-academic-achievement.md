@@ -59,3 +59,4 @@ Partial correlation analysis in the same 713-adolescent cross-sectional sample, 
 - [The authors argue that improvements in working memory and processing speed from MPH do not translate into better exam performance](cognitive-gains-do-not-translate-to-exam-performance.md) — related
 - [The escape room-based physical activity intervention significantly improves cognitive flexibility on the Stroop Task in adolescents](escape-room-pa-improves-stroop-cognitive-flexibility.md) — related
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
+- [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related

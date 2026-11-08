@@ -49,3 +49,4 @@ Within-treatment-group Cohen's d comparisons across T1, T2 and T3 (no control-gr
 - [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](music-training-verbal-working-memory-backward-span.md) — reports the opposite
 - [Boys in the treatment group improved BNST results at both post-tests compared with boys in the control group](wm-training-boys-bnst-improved-t2-and-t3.md) — related
 - [The integrated program was associated with improved Digit Span Backward (working memory) performance but not Digit Span Forward performance](breakfast-morning-sport-improves-digit-span-backward-not-forward.md) — reports the opposite
+- [Smart speaker–based metamemory training significantly improved digit span forward in older adults (Cohen d=0.50)](smart-speaker-mmt-improved-digit-span-forward.md) — reports the opposite

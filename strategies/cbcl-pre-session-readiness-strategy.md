@@ -49,6 +49,7 @@ The article describes a flipped-classroom preparation phase in which residents r
 - [Standard Inverted Classroom](standard_inverted_classroom.md)
 - [Require brief pre-session comprehension checks to improve pre-class preparation](pre-session-comprehension-checks-strategy.md)
 - [Ensure self-study materials for inverted-classroom teaching are not too complex and avoid redundancies with classroom phases](icm-self-study-materials-complexity-strategy.md)
+- [Deliver flipped-learning pre-simulation briefing materials (short online videos plus a theory-based briefing form) before simulation practice](flipped-pre-simulation-briefing-strategy.md)
 
 ## Examples
 -

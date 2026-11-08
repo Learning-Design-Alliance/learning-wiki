@@ -51,3 +51,4 @@ Semi-structured interviews with study participants, transcribed and inductively 
 - [Residents strongly prefer VR as an adjunct to conventional training rather than a replacement (89% support adjunct use; only 3.4% prefer VR alone)](residents-prefer-vr-as-adjunct.md) — related
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](hololens-value-depends-on-implementation.md) — related
+- [Students endorsed e-learning as an adjunct to face-to-face DRM teaching (PS +1.12) but disagreed that it should replace F2F sessions (PS −0.36)](e-learning-adjunct-not-replacement-drm.md) — related

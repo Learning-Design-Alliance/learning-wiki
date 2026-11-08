@@ -56,3 +56,4 @@ Controlled trial of 14 two-hour weekly EBM sessions for medical students (n=289)
 - [Prior EBM training is associated with higher self-rated EBM skills across all skill domains among Palestinian medical students](ebm-training-higher-self-rated-skills-palestinian-students.md) — related
 - [Palestinian medical students understand basic EBM terms better than advanced appraisal-related terms, and prior EBM training is associated with higher knowledge of most terms](ebm-terminology-gradient-basic-advanced-palestinian-students.md) — related
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
+- [Quarantine increased student collaboration with colleagues, especially among fifth-year students](quarantine-increased-peer-collaboration-fifth-year.md) — related

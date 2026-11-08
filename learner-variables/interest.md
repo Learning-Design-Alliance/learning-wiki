@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 277 claims (198 show a difference, 46 mixed, 33 no difference) · 189 studies (82 causal, 53 associational, 22 review, 14 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 189 report an effect size · 271 claims rest on one study
+> **Evidence** · 279 claims (199 show a difference, 46 mixed, 34 no difference) · 190 studies (82 causal, 53 associational, 22 review, 15 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 190 report an effect size · 273 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -312,6 +312,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [In usability testing, 76% of 25 laypersons were interested or very interested in the EBM e-learning material, 88% found it easy to follow, and 72% found it useful in daily life](../claims/ebm-elearning-usability-questionnaire-interest-easy-useful.md) [+M] — measured as an outcome of the instruction studied
 - [Situational interest declines significantly during independent VPs sessions after a lecture, with the lowest score at the end of the session](../claims/independent-vps-si-declines-after-lecture.md) [+M] — measured as an outcome of the instruction studied
 - [The lecture showed the highest total cognitive load and lowest situational interest descriptively, but total-load differences were not significant](../claims/lecture-total-load-highest-not-significant.md) [~M] — measured as an outcome of the instruction studied
+- [Undergraduates' self-reported interest in bioinformatics shifted from medium to high between surveys before and after a 5-hour EDUCE module in MICB 301, with no comparison group](../claims/educe-micb301-bioinformatics-interest-increase.md) [+M] — measured as an outcome of the instruction studied
+- [After the MICB 301 EDUCE module, computer science interest remained constant while computer science experience gained, and statistics showed no significant changes in interest or experience](../claims/educe-micb301-cs-constant-statistics-null.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

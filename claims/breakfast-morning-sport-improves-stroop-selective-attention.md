@@ -75,3 +75,6 @@ Pearson correlation analysis of individual change scores (post minus pre) within
 - [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](active-breaks-improve-executive-function-stroop.md) — related
 - [Selective attention (d2 test accuracy) showed no significant changes in either group over the 16-week intervention](d2-attention-no-significant-change.md) — related
 - [Both intervention and control groups improved over time in academic achievement, memory span, and inhibitory function, with no between-group difference](time-effects-achievement-memory-inhibition-both-groups.md) — reports the opposite
+- [Combined breakfast and exercise improves mathematics test score over a morning in adolescents compared with fasting and sedentary behavior](breakfast-exercise-improve-math-score-adolescents.md) — related
+- [Blood glucose falls over the morning in fasted groups relative to the combined breakfast-and-exercise group](fasted-groups-blood-glucose-decline.md) — related
+- [No effects of combined breakfast and exercise on working memory (Digit-Span) or oral word fluency](no-effect-digit-span-oral-word-fluency.md) — related

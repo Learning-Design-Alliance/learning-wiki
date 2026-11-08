@@ -56,3 +56,4 @@ Mann-Whitney comparison of graduating GPA between female and male students withi
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [No GPA difference between male and female older learners, or across faculties](no-gender-faculty-gpa-difference-older-learners.md) — related
+- [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — reports the opposite

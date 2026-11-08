@@ -58,3 +58,4 @@ Pre–post OLS by gender (Table 3) on npost = 136 students. Female career-intere
 - [Recognition of AI's role in entertainment platforms rose from pre-test to post-test for both genders after the workshop, and females' recognition of TikTok also rose, in one uncontrolled pre-post study](platform-recognition-gains-netflix-spotify.md) — related
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related
 - [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — reports the opposite
+- [After the MICB 301 EDUCE module, computer science interest remained constant while computer science experience gained, and statistics showed no significant changes in interest or experience](educe-micb301-cs-constant-statistics-null.md) — related

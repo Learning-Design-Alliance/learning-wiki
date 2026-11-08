@@ -53,6 +53,8 @@ The article's training recipe: all groups first viewed a standard instructional 
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 - [Use a first-person 3D procedure video as an educational precursor to simulation-based training](3d-video-precursor-to-simulation-strategy.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
+- [Use external observational training before mental practice of an unfamiliar procedure](external-observational-training-before-imagery.md)
+- [Repeated hands-on simulation surgeries on a 3D-printed congenital heart disease model at approximately 1-week intervals](strategy-repeated-3d-printed-simulation-surgeries.md)
 
 ## Examples
 -

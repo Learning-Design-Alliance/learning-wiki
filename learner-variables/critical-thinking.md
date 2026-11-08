@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (148 show a difference, 36 mixed, 22 no difference) · 139 studies (71 causal, 24 review, 15 associational, 8 quant-synthesis, 8 design, 7 theoretical, 6 qualitative), `q1`–`q3` · 28 of 139 report an effect size · 204 claims rest on one study
+> **Evidence** · 207 claims (149 show a difference, 36 mixed, 22 no difference) · 140 studies (71 causal, 24 review, 16 associational, 8 quant-synthesis, 8 design, 7 theoretical, 6 qualitative), `q1`–`q3` · 28 of 140 report an effect size · 205 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -247,6 +247,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [The authors report that digital objective evaluation systems reduced teachers' subjective evaluation bias and enabled students' critical self-assessment](../claims/digital-objective-evaluation-systems-reduced-subjective-bias.md) [+W] — measured as an outcome of the instruction studied
 - [The authors suggest that training in evaluating CPR performance may improve V-CPR evaluation, since judging others' CPR is not taught in any course](../claims/training-may-improve-vcpr-evaluation.md) [+W] — measured as an outcome of the instruction studied
 - [Video quality has no significant impact on correct evaluation of CPR performance in video sequences, with even low quality yielding an acceptable correct-evaluation rate](../claims/video-quality-no-impact-cpr-evaluation.md) [-M] — measured as an outcome of the instruction studied
+- [Critical thinking disposition, problem-solving, and collaboration contribute most to SEC, and clinical performance dominates academic achievement](../claims/sec-structure-coefficients-ranking-nursing.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

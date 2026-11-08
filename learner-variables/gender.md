@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 609 claims (326 show a difference, 133 mixed, 150 no difference) · 433 studies (212 associational, 162 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 63 of 433 report an effect size · 601 claims rest on one study
+> **Evidence** · 618 claims (329 show a difference, 139 mixed, 150 no difference) · 440 studies (217 associational, 164 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 64 of 440 report an effect size · 610 claims rest on one study
 
 ## How to read this page
 
@@ -648,6 +648,15 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male students reported higher e-learning readiness than female students, with no difference by age](../claims/e-learning-readiness-higher-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No statistically significant gender differences in MEQ* or MEQ-1 total scores](../claims/no-gender-differences-meq-scores.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Nonmajor women’s attitudes improve in single-gender CL groups but decline in mixed-gender CL groups relative to TL](../claims/nonmajor-women-single-gender-cl-benefit-mixed-gender-decline.md) [~M] — an instructional effect differs by group
+- [A 2×2 MANOVA shows a significant multivariate main effect of STEM selection on personality and behavioural measures (ES = .15) and of sex (ES = .13), with no sample-by-sex interaction](../claims/manova-sample-sex-main-effects-gifted-adolescents.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys outperformed girls in pedometer physical activity, sit-ups, long jump, and Illinois Agility, while girls attained better sit-and-reach scores](../claims/gender-differences-fitness-measures-fourth-graders.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students scored higher than male students on the medical English exam in both teaching module groups](../claims/female-students-higher-medical-english-exam-scores.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Higher academic achievement at age 15 predicts lower subjective well-being two years later among adolescent girls, but not boys](../claims/achievement-predicts-lower-wellbeing-girls.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Higher subjective well-being at age 15 predicts higher academic achievement two years later among adolescent girls, but not boys](../claims/wellbeing-predicts-achievement-girls.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](../claims/scim-sex-moderates-academic-effects.md) [~M] — an instructional effect differs by group
+- [No overall gender differences in examination performance, with one exception at T1 for Rater 1](../claims/no-gender-difference-facial-examination-osce.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences across personality and behavioural measures are small (ES = .01 to .09), with the largest for neuroticism, and no sex difference in examination performance](../claims/small-sex-differences-personality-achievement.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The author concludes absenteeism is a negative predictor of academic success for male but not female medical sciences students in Saudi Arabia](../claims/absenteeism-negative-predictor-males-not-females.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

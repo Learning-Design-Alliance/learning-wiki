@@ -54,3 +54,4 @@ Narrative synthesis of the systematic review. Six high-quality longitudinal stud
 - [Obesity is associated with lower maths attainment in adolescent girls but not younger girls or boys](obesity-associated-lower-maths-adolescent-girls.md)
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md)
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
+- [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — a narrower finding that bears on this claim

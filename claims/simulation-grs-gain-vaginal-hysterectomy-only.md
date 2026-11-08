@@ -50,3 +50,4 @@ Adjusted regression analysis in the same randomized trial, reported per index pr
 - [Simulation training improves adjusted procedural steps knowledge for vaginal hysterectomy and posterior repair but not anterior repair](simulation-improves-procedural-steps-knowledge-vh-pr.md) — related
 - [Resident satisfaction with training is significantly higher for simulation-trained residents for vaginal hysterectomy only](simulation-satisfaction-higher-vh-only.md) — related
 - [Simulation training improves resident self-confidence in the real operating room, with the greatest gains in PGY-1 residents](simulation-improves-or-self-confidence-junior-residents.md) — related
+- [Simulator training also significantly improves global rating scale scores (7.1 points, p = 0.023)](otoskills-training-improves-grs-score.md) — related

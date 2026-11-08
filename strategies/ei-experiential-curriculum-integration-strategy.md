@@ -72,6 +72,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Integrate emotional intelligence development into residency training through humanistic care courses and social activities](ei-development-in-residency-training-strategy.md)
 - [Integrate pedagogic-didactic competence, content knowledge and socio-emotional skills in authentic teaching practice within health education teacher education](integrated-authentic-practice-he-teacher-education.md)
 - [Design targeted empathy training that reduces affective empathy and improves cognitive empathy within an appropriate range](targeted-empathy-training-reduce-affective-improve-cognitive.md)
+- [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
 
 ## Examples
 -

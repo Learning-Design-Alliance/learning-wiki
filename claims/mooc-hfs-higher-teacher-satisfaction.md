@@ -51,3 +51,4 @@ Five-item teacher experience questionnaire (Cronbach's α = 0.91) covering satis
 - [The e-learning group reported significantly higher motivation to learn than the lecture-based group](ecme-motivation-higher-than-lecture.md) — related
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
 - [Teacher satisfaction with teaching is significantly higher for the simulation group than the control group on all five measured aspects, though teachers reported implementation difficulties](teacher-satisfaction-higher-with-implementation-difficulties.md) — related
+- [Students in the MOOC-based blended group report higher satisfaction with teaching and learning effects, with no differences in self-study, operational practice, or teamwork](mooc-blended-higher-satisfaction-feedback.md) — related

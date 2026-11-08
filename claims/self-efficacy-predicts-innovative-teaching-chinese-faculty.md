@@ -52,3 +52,4 @@ Path coefficient from the revised SEM model fitted to survey data from 357 facul
 - [Faculty autonomous motivation positively predicts teacher self-efficacy in Chinese higher education](autonomous-motivation-predicts-self-efficacy-chinese-faculty.md) — related
 - [Controlled motivation does not predict self-efficacy but has a small direct positive effect on innovative teaching](controlled-motivation-small-direct-effect-innovation.md) — related
 - [Self-innovativeness, accountability, DL self-efficacy, and DL teaching practices are all positively and significantly intercorrelated](dl-dimensions-positive-correlations.md) — related
+- [Higher teaching-methods self-efficacy is associated with more learner-centered teaching practices among biology faculty](teaching-self-efficacy-predicts-learner-centered-practices.md) — a narrower finding that bears on this claim

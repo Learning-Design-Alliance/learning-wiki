@@ -67,3 +67,4 @@ Same randomised trial, reporting mean training trials to proficiency: 5.92 for f
 - [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — related
 - [Total PBP training cost crosses the apprenticeship cost-equivalence point at about 25 trainees and saves 110% at 500 trainees](pbp-total-cost-equivalence-point-25-trainees.md) — related
 - [Full PBP robotic training costs nearly 100% more per trainee than apprenticeship training for 12 trainees but becomes cheaper as cohort size grows](pbp-per-trainee-cost-cohort-size.md) — related
+- [Prospective randomised blinded trials in other interventional disciplines show PBP training yields 40%–60% better intraoperative performance than traditional training](pbp-simulation-better-intraoperative-performance.md) — related

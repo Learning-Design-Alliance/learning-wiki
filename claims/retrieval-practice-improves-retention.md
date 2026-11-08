@@ -340,3 +340,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [After one-week delay, high-fidelity reinstatement benefited recall only following incongruent pre-recall reinstatement prompts, suggesting a desirable-difficulty effect](fidelity-incongruent-prompt-one-week-interaction.md) — a narrower finding that bears on this claim
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — a broader claim this one bears on
 - [Practice tests are probably more effective than restudying for both retention of information and transfer of knowledge or skills.](practice-tests-probably-more-effective-than-restudying.md) — related
+- [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — related

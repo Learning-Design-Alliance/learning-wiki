@@ -53,3 +53,4 @@ Review synthesis of a 12-week working memory training study (Buschkuehl et al.) 
 - [Multitasking training transferred to untrained working memory and sustained attention tasks in older adults, unlike control training](multitasking-training-transfers-working-memory-sustained-attention.md) — related
 - [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — related
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
+- [Smart speaker–based metamemory training significantly improved digit span backward in older adults (Cohen d=0.84)](smart-speaker-mmt-improved-digit-span-backward.md) — related

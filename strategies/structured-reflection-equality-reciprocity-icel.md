@@ -41,7 +41,8 @@ The article recommends that "reflective exercises are incorporated into any (I)C
 - [Lightbody Equality Framework Cel](../theories/lightbody-equality-framework-cel.md)
 
 ## Related Strategies
-- 
+
+- [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
 
 ## Examples
 -

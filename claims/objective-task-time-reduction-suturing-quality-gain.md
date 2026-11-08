@@ -61,3 +61,4 @@ Pre-/post-training objective assessment of 37 participants on standardized tasks
 - [Progressive simulation-based laparoscopic training raised residents' suture test performance from 29% to 43% to 88% across three test points with significant differences between all mean scores](simulation-training-raises-laparoscopic-performance-29-43-88.md) — related
 - [In one single-group pre-post study, residents' time to complete a laparoscopic stitching exercise in a simulation box fell from pre-test to post-test after a short-term theoretical-practical laparoscopic course](short-low-cost-laparoscopic-course-reduced-exercise-time.md) — related
 - [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related
+- [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related

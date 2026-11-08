@@ -52,3 +52,4 @@ Authors' theoretical interpretation in the Discussion, invoking cognitive load t
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in simulated lumbar puncture checklist scores among first-year medical students](peyton-vs-see-one-do-one-no-checklist-score-difference-slp.md) — related
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in change in student confidence after a simulated lumbar puncture workshop](peyton-vs-see-one-do-one-no-confidence-change-difference-slp.md) — related
 - [The authors attribute the absent additive effect to possible cognitive overload of novice learners exposed to multiple complex modalities simultaneously](cognitive-overload-explanation-dual-modality.md) — related
+- [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — related

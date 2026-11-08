@@ -52,3 +52,4 @@ Cross-sectional survey of 402 doctors and nurses in six Gaza governmental hospit
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [Practical compression-rate performance (57.17%) falls significantly below theoretical knowledge (96.76%) among emergency healthcare providers](cpr-compression-rate-theory-practice-gap.md) — related
 - [Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.](defibrillation-knowledge-lowest-domain-accuracy.md) — related
+- [Hospital staff's average correct answers on ERC guideline knowledge rose from 62.3% to 93.7% after a 2-hour BLS-D informative meeting, in one single-group pre-post study](blsd-informative-meeting-knowledge-gain.md) — related

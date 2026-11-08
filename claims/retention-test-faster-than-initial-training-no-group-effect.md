@@ -56,3 +56,4 @@ Two-way repeated measurement ANOVA over training and retention phases for the ra
 - [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](short-versus-long-intervals-no-difference-time-to-proficiency.md) — related
 - [Variable practice group reaches proficiency on basic laparoscopic skills faster than the self-directed group during the intervention phase](variable-practice-faster-basic-skills-acquisition.md) — related
 - [Variable practice yields higher transfer to a procedural task (salpingectomy) than self-directed training](variable-practice-higher-transfer-procedural-task.md) — related
+- [Novice surgeons in cognitive and integrational learning phases are especially vulnerable to skill decay after short retention intervals](novice-surgeons-decay-susceptible.md) — reports the opposite

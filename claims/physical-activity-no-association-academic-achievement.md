@@ -56,3 +56,5 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Fitness mediates the association between vigorous physical activity and academic performance, although the direct VPA–grades association was not significant and the test was post hoc](fitness-mediation-vpa-grades.md) — related
 - [A 10-minute increase in daily school-day MVPA has a significant positive indirect association with math, writing, and spelling grades through cardiorespiratory fitness](mvpa-indirect-positive-cardiorespiratory-fitness.md) — related
 - [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — related
+- [A one-academic-year HIIT-style vigorous physical activity intervention delivered during school PE did not significantly improve cardiorespiratory fitness in young adolescents](fit-to-study-null-crf.md) — related
+- [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related

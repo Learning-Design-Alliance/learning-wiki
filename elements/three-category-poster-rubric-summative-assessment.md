@@ -47,7 +47,8 @@ A rubric used to score individual poster presentations as a summative assessment
 - [Performance-Based Assessment](performance-based-assessment.md)
 
 ## Examples
--
+
+- [Use structured poster presentations with a marking rubric to assess research projects in large undergraduate cohorts](../strategies/poster-presentation-large-cohort-research-assessment-strategy.md)
 
 ## Key Sources
 - Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)

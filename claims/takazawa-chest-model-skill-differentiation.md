@@ -58,3 +58,6 @@ Study in which 53 surgeons each performed an endoscopic intracorporeal suturing 
 - [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related
 - [Skill and error scores did not differ across surgeon seniority groups, so construct validity was not established for the simpler suturing task](no-construct-validity-seniority-dvc-suturing.md) — related
 - [The TuThor porcine heart-lung trainer box was rated suitable and realistic by most participants at hands-on courses](tuthor-trainer-box-suitable-vats-training.md) — related
+- [An expert thoracic surgeon rated the 3D-printed EATEF phantom higher than a conventional simulator for effectiveness (5 vs 3) and rated its realism 5](expert-surgeon-phantom-evaluation-ratings.md) — related
+- [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related
+- [Ten general thoracic surgeons found the pediatric VATS simulator very difficult but unanimously agreed it was worth using for rehearsal training](ten-surgeons-rehearsal-training-consensus.md) — related

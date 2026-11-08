@@ -49,3 +49,4 @@ Delphi round 3 results. The therapeutic alliance domain showed the strongest ove
 - [Key outcomes with high consensus include improved communication with support networks, better understanding of the young person, feeling validated and reduced involuntary inpatient admissions](high-consensus-crisis-outcomes.md) — related
 - [Holistic mental state examination achieves the highest consensus within the case formulation domain](holistic-mental-state-examination-consensus.md) — related
 - [Panelists identified cultural competence, equity, and a student-centered mindset as a core collaboration domain, including trauma-informed approaches](smh-collab-cultural-competence-equity-domain.md) — related
+- [Therapeutic alliance competencies (e.g., empathy, trust) showed the earliest and greatest improvements, while problem-solving and giving advice saw the least improvement over 12 months](therapeutic-alliance-competencies-improve-earliest-problem-solving-lag.md) — related

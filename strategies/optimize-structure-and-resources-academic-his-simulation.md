@@ -55,6 +55,7 @@ Based on student feedback from both groups, the authors recommend reallocating c
 - [Prioritize systematic integration of instructional resources and timely feedback of assessment information in online teaching platforms](prioritize-resources-and-assessment-feedback-platforms.md)
 - [Equip instructors with concrete personalization strategies when adopting flipped designs dominated by group activities](personalization-strategies-flipped-designs.md)
 - [Expand contextualised simulation to non-technical skills and co-create future cases with students as partners](expand-simulated-cases-nontechnical-cocreation.md)
+- [Optimize the medical English course by adding application class hours and rehabilitation-specific materials](optimize-medical-english-add-application-practice-hours.md)
 
 ## Examples
 -

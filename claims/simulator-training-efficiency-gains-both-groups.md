@@ -92,3 +92,4 @@ Within-group comparison across later clinical cases; "From Case 4 onward, studen
 - [Hands-on time per trainee decreased sharply with increasing group size and correlated negatively with group size](hands-on-time-decreases-group-size.md) — related
 - [Ocular POCUS scan time decreased with scan sequence within a single session for both training groups](scan-time-reduced-with-sequence.md) — a narrower finding that bears on this claim
 - [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related
+- [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related

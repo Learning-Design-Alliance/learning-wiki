@@ -52,3 +52,4 @@ Confirmatory factor analysis (maximum likelihood, Stata 17) of rubric ratings fr
 - [In the G-study, the student (person) facet accounts for 20.33% of total score variance in the ACLS rubric](g-study-student-variance-20-percent.md) — related
 - [Confirmatory factor analysis supports a three-factor structure of the six-item PtBL rubric with good fit](cfa-three-factor-rubric-good-fit.md) — related
 - [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related
+- [The MUSCAT shows acceptable model fit and internal consistency as a 10-item, two-factor scale (Cronbach's alpha 0.903)](muscat-acceptable-fit-reliability.md) — related

@@ -66,3 +66,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
 - [Surgeons using force feedback report a significant reduction in mental demand over time, with no significant between-cohort differences in SURG-TLX ratings](ffb-reduces-mental-demand-over-time.md) — related
 - [Cognitive workload measures (SURG-TLX, heart rate, pupil size, fixation, blink frequency) are similar between virtual and face-to-face MIS training groups](similar-cognitive-workload-virtual-f2f.md) — related
+- [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related

@@ -93,3 +93,4 @@ Table 4 proportions for three dimensions: 97.14% vs 54.29% for practical operati
 - [Experimental-group students' approval rates were significantly higher than the control group's for four teaching-effect items, including creating an active classroom atmosphere](higher-approval-teaching-effect-items-blended-group.md) — related
 - [Teacher ratings favored control for independent learning but SDTM for doctor–patient communication](sdtm-communication-up-independent-learning-down.md) — related
 - Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related
+- [Clinical thinking improvement and learning pressure showed no significant difference between the SBS & CBL and LBL & CBL groups](clinical-thinking-no-group-difference.md) — related

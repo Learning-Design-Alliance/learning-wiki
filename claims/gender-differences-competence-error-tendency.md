@@ -47,3 +47,4 @@ One-way MANOVA across the 125-student survey's descriptive characteristics (Tabl
 ## Related Claims
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](sex-difference-competence-significant-except-core-skills.md) — reports the opposite
+- [No significant sex differences in ComCare ratings, and no final-year advancement differences except one item rated lower late in the final year](comcare-no-sex-differences-one-advancement-item-lower.md) — reports the opposite

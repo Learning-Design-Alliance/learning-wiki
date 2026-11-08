@@ -68,3 +68,4 @@ QNTS path model fit: CFI = .98, TLI = .95, RMSEA = .05. Variance accounted for r
 - [The mediating contribution of preschool crystallized abilities to school achievement is time-limited, fading after grade 3](crystallized-contribution-time-limited-after-grade-3.md) — related
 - [Preschool crystallized abilities are the strongest predictors of early-grade school achievement over and above fluid abilities and controls](preschool-crystallized-strongest-predictor-early-achievement.md) — related
 - [Achievement rank-order stability is high across primary school, with written-language stability (β = 0.62–0.75) exceeding mathematics stability (β = 0.38–0.45)](high-achievement-stability-primary-school.md) — possibly the same claim (merge candidate)
+- [Academic achievement is highly stable across two years while well-being changes substantially during the transition to upper secondary school](achievement-stable-wellbeing-changes.md) — related

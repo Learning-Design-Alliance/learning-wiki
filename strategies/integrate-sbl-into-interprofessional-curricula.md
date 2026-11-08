@@ -55,6 +55,7 @@ The authors recommend integrating simulation into interprofessional curricula, c
 - [Embed short, high-frequency RCDP-based interprofessional simulation sessions early in undergraduate health curricula](embed-rcdp-ipse-sessions-undergraduate.md)
 - [Embed the shared competencies into undergraduate and postgraduate interprofessional education curricula](embed-shared-competencies-ipe-curricula.md)
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
+- [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
 
 ## Examples
 -

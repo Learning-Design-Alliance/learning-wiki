@@ -56,3 +56,4 @@ From the same qualitative content analysis of 26 experimental-group students: 17
 - [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related
 - [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](ece-perceived-problem-solving-professionalism-confidence.md) — related
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
+- [Students valued online group discussions positively, with fifth-year students valuing them most](online-group-discussions-positive-value-fifth-year.md) — related

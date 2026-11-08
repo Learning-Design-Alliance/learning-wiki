@@ -54,3 +54,4 @@ Cross-study synthesis of the 54 included empirical studies; the review reports l
 - [On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option](llm-style-over-fit-uniform-deviation.md) — related
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](minimal-technical-english-limits-training.md) — related
 - [Technical challenges include lack of stability, security, and limitations in modeling complex learning behaviors](technical-challenges-srl-recommenders.md) — a broader claim this one bears on
+- [Different cultures can interpret the same OSCE presentation contrarily, yielding a valid assessment of competence for one group but not another](cultural-interpretation-valid-assessment-one-group-not-another.md) — a narrower finding that bears on this claim

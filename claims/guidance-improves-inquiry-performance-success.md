@@ -52,3 +52,4 @@ Random-effects meta-analysis of studies assessing performance success, defined a
 - [Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry](guidance-improves-inquiry-learning-activities.md) — related
 - [Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)](innovative-learning-more-effective-problem-solving-meta-analysis.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Guidance improves K–12 students' learning outcomes across inquiry-based practices and STEM domains, but high levels of guidance can harm students with high knowledge or abilities](guidance-improves-k12-inquiry-outcomes-inverted-u.md) — related

@@ -49,3 +49,4 @@ Results of the console phase of the 30-resident study, analyzed with t-tests and
 - [In the experienced group only, years of training correlate positively with patient-cart exercise score on the daVinci Xi](years-training-correlates-cart-score-group-a.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Residents with prior robotic experience score significantly higher than novices on total patient-side cart score after a short video-tutorial training on the daVinci Xi](prior-robotic-experience-higher-patient-cart-score-davinci-xi.md) — related
+- [Experienced operators achieved higher image quality scores, but estimated fetal weight did not differ between groups](image-score-higher-efw-null-between-groups.md) — related

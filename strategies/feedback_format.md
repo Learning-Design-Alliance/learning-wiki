@@ -63,6 +63,7 @@ Feedback content quality matters more than delivery medium, but format affects h
 - **Dialogic Feedback** — treats feedback as exchange rather than transmission; format determines how easily dialogue can occur
 - [Provide audio group feedback on assignments to raise students' perception that the instructor cares about their learning while saving instructor time](audio-group-feedback-strategy.md)
 - [Use clinical transcripts as a time-saving route to formative feedback on clinical performance](transcript-based-formative-feedback-strategy.md)
+- [Include additional learning materials — MCQ tests with accessible correct answers, clinical cases, and a reflective written assignment with anonymous peer review — to provide feedback and support motivation](additional-learning-materials-feedback-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — verbal and video formats approximate the coaching relationship at scale

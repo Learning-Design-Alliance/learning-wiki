@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 227 claims (151 show a difference, 50 mixed, 26 no difference) · 195 studies (98 causal, 45 associational, 22 review, 15 quant-synthesis, 7 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 40 of 195 report an effect size · 223 claims rest on one study
+> **Evidence** · 228 claims (151 show a difference, 51 mixed, 26 no difference) · 196 studies (98 causal, 46 associational, 22 review, 15 quant-synthesis, 7 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 40 of 196 report an effect size · 224 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -284,6 +284,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Mean post-test anatomy scores rose substantially from pre-test but remained low in one uncontrolled pre-post study](../claims/low-posttest-anatomy-knowledge-loss-18-months.md) [~W] — learners who differ on it differ in outcomes
 - [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](../claims/nasa-tlx-workload-correlates-task-time.md) [+M] — learners who differ on it differ in outcomes
 - [Novice medical students required far more time and clutch use on robotic tasks than an expert benchmark](../claims/novice-expert-performance-gap-robotic-tasks.md) [+M] — learners who differ on it differ in outcomes
+- [The author concludes absenteeism is a negative predictor of academic success for male but not female medical sciences students in Saudi Arabia](../claims/absenteeism-negative-predictor-males-not-females.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

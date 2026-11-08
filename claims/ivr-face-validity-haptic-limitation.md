@@ -64,3 +64,4 @@ Face-validity Likert ratings collected only from the IVR group after the operati
 - [All four tested participants found the VR microscope appearance realistic and satisfied with VR graphics, requiring no appearance updates across design iterations](surgisim-microscope-appearance-realistic.md) — related
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
 - [Novices and experts rate the simulator's anatomical realism highly (means 4.4–5.39 on a 6-point scale), except the haptic realism of the pinna](vr-otoscopy-simulator-face-validity-ratings.md) — related
+- [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related

@@ -66,3 +66,4 @@ Association rule mining (ARM) on survey data from 530 students at a public unive
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — reports the opposite
 - [Predictors of study success in the reviewed studies draw on two broad data sets: online behaviour trace data and students' background information](la-predictors-trace-and-background.md) — related
 - [Technology sometimes distracted students from the learning experience, but distraction was balanced by the usefulness of content and structure](pda-distraction-balanced-by-structure.md) — related
+- [Greater distraction while studying negatively predicted exam scores after controlling for preparation, absences, and total study time](study-distraction-negatively-predicts-exam-score.md) — related

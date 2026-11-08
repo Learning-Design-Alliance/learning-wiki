@@ -61,6 +61,7 @@ The authors' forward-looking recommendations for strengthening VSP-based psychia
 - [Develop next-generation virtual communication-training tools that integrate natural language processing, nonverbal cue detection, and conceptual and psychological fidelity](integrate-nlp-and-multifidelity-in-virtual-tools.md)
 - [Optimize teaching structure and expand case resources when integrating an academic HIS into case simulation](optimize-structure-and-resources-academic-his-simulation.md)
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
+- [Blended-learning sequencing: learn concrete conversation techniques online first, then deepen non-verbal and emotional aspects in physical SP units](blended-sp-techniques-online-first-physical-second.md)
 
 ## Examples
 -

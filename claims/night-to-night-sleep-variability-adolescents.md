@@ -57,3 +57,4 @@ Descriptive actigraphy statistics from the week of monitoring in 160 adolescents
 - [Study time is negatively correlated with sleep duration, strengthening toward the exam day (r = −0.444), and higher study time is associated with poorer PSQI sleep quality](study-time-trades-off-against-sleep.md) — related
 - [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](sleep-duration-associated-entrance-success.md) — related
 - [Device-recorded sleep and PSQI self-report showed discrepancies, with very low Fitbit sleep durations co-occurring with PSQI scores indicating little sleep problems](fitbit-psqi-sleep-discrepancies-adolescents.md) — related
+- [Sleep duration the night before a test positively predicts test scores in both samples](test-eve-sleep-predicts-performance.md) — related

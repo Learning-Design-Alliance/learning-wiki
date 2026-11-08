@@ -55,3 +55,4 @@ Serial mediation path analysis in the same 221-participant longitudinal sample; 
 - [Higher extracurricular physical activity correlates with lower psychological distress, better cognitive ability, and better academic performance at follow-up](correlations-activity-distress-cognition-academics.md) — related
 - [Academic performance improved significantly over the one-year interval while mental health scores showed no significant change](academic-gains-stable-mental-health-over-year.md) — related
 - [Homework time is positively correlated, tutoring class time negatively correlated, and extracurricular physical activity non-significantly related to academic performance](homework-tutoring-physical-activity-control-findings.md) — related
+- [Simple fitness, body composition, and physical activity show little correlation with academic achievement in fourth graders](simple-fitness-body-composition-uncorrelated-academics.md) — related

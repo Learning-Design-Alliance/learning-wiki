@@ -51,3 +51,4 @@ Pre-post analysis of paired questionnaires from 29 UK ENT ST3 trainees who compl
 - [Learner confidence consistently improved following e‐learning interventions in ENT education](elearning-ent-confidence-consistently-improved.md) — related
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [On-call simulation improves self-reported confidence and preparedness for on-call tasks immediately after the activity in medical student and newly qualified doctor cohorts](on-call-simulation-improves-self-reported-confidence.md) — related
+- [ENT emergency-safe boot camp training increased trainees' self-assessed competence in managing post-thyroidectomy haematoma, epistaxis and post-tonsillectomy haemorrhage, with the largest gain for post-tonsillectomy haemorrhage](ent-boot-camp-self-assessed-competence-gains.md) — related

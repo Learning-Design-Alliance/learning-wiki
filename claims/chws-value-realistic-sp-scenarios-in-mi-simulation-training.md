@@ -68,3 +68,5 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related
 - [Educators and trainees expressed remarkably similar views, with trainees emphasising logbooks, protected time, scenario complexity and feedback detail](educator-trainee-response-similarity.md) — related
+- [Digital SP-based teaching units on medical conversation received positive feedback from students and SPs and allowed conversation techniques to be trained](digital-sp-teaching-positive-feedback-technique-training.md) — related
+- [Video analysis suggested SP role portrayal of highly emotional scenarios remained authentic in the digital format](sp-role-portrayal-authenticity-unaffected-digital.md) — related

@@ -51,3 +51,4 @@ Meta-analytic database of ten studies (2008–2017) meeting inclusion criteria f
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](working-memory-strongest-component-association-ecls-k.md) — related
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
 - [Organization and planning and self-control show the strongest loadings on the latent EF construct](ef-strongest-loadings-organization-self-control.md) — related
+- [Executive function deficits are negatively associated with academic achievement and carry the strongest weight in every regression model tested](ef-deficits-negative-academic-achievement-secondary.md) — related

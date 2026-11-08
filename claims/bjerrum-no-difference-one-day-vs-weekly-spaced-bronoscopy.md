@@ -10,6 +10,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-08
 sources:
   - id: fahl-jan-torge-2023
     resource: "https://doi.org/10.1186/s12909-023-04046-1"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`–`q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
@@ -72,3 +73,4 @@ Randomized study (Bjerrum et al., n = 20 pulmonology residents) with pre-test, p
 - [Daily training on consecutive days appears more effective than weekly or massed schedules for VR-based psychomotor skill acquisition](daily-consecutive-days-optimal-vr-spacing-interval.md) — reports the opposite
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — a broader claim this one bears on
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — related
+- [Spaced learning produces higher microsurgical suturing scores than mass learning at 1 month after training](spaced-learning-better-1-month-microsurgery-retention.md) — related

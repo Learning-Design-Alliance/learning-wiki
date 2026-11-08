@@ -55,3 +55,4 @@ Independent t-test of CASP-rubric critique scores, double-rated (Cohen's kappa a
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Total academic performance favored the blended AI-integrated curriculum group but the difference was not statistically significant](total-performance-nonsignificant-trend-blended-ai-curriculum.md) — related
 - [No significant differences between chatbot and traditional groups in total completion time, time per question, or question revisits](no-time-or-navigation-differences-chatbot.md) — related
+- [Blended GC-plus-traditional teaching produced non-inferior learning satisfaction and academic achievement compared with traditional teaching, with no significant between-group differences in progress](blended-gc-non-inferior-outcomes.md) — related

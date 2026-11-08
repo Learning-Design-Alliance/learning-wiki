@@ -46,6 +46,7 @@ The authors' forward-looking design recommendation is that "Future versions of t
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 - [Increase challenge and interactivity in future versions of the Ethics Quarter](increase-eq-challenge-and-interactivity-strategy.md)
+- [Design e-learning with user-friendly responsive software, concise modules, and interactive clinical-vignette assessment throughout](elearning-design-recommendations-imagine.md)
 
 ## Examples
 -

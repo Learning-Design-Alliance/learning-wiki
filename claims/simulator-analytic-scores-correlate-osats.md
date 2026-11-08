@@ -51,3 +51,4 @@ Correlational analysis comparing simulator analytic scores with blinded OSATS ra
 - [TSM and OSATS scores strongly positively correlated (Spearman's ρ = 0.88)](tsm-osats-strong-correlation.md) — related
 - [Operative time on the 3D Stapes Trainer did not correlate with overall OSATS score, with the fastest surgeon receiving the lowest scores](3dst-operative-time-not-correlated-with-osats.md) — related
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
+- [First-session operative time did not correlate with surgical skills assessment score in this cohort](no-correlation-operative-time-skills-score-first-session.md) — related

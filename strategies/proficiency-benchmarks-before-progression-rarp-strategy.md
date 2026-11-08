@@ -53,6 +53,7 @@ The article recommends implementing proficiency-based progression (PBP) training
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
+- [Deliver the initial CIED learning curve in metrics-based simulation to a proficiency benchmark before in vivo practice](simulation-first-learning-curve-cied-strategy.md)
 
 ## Examples
 -

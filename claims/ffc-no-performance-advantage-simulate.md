@@ -52,3 +52,4 @@ The SIMULATE international prospective trial examined transfer of ureteroscopy s
 - [Adding fresh frozen cadaver training to the curriculum shows no significant difference in OR performance versus VR-plus-bench training](ffc-addition-no-or-performance-difference.md) — a narrower finding that bears on this claim
 - [Adding URO Mentor VR simulator training shows no statistically significant difference in OR performance versus non-VR training](vr-addition-no-or-performance-difference.md) — related
 - [No studies validated the use of cadavers for robotic surgical training, and no empirical evidence demonstrates transfer of cadaver training skills to live operating rooms](no-validated-cadaver-robotic-training-studies.md) — related
+- [Residents rated the mannequin-based simulator more useful than past practice methods but less useful than operating room experience, and equivalent to cadaver head](simulator-usefulness-versus-other-methods-eyelid-repair.md) — related

@@ -58,3 +58,5 @@ ANOVA of task completion times in the same 41-participant simulation study showe
 - [GRS summed scores and final competency ratings effectively discriminate between experience levels in the simulated cholecystectomy module](chole-vop-grs-final-rating-discriminate-levels.md) — related
 - [Intermediate microsurgeons complete task segments faster than novices, significantly in the first three segments](intermediates-faster-completion-time-microsurgery.md) — related
 - [Time to complete the HMD ultrasound task did not differ significantly between expertise groups](osaus-hmd-task-time-no-group-differences.md) — related
+- [On the simulator's first exercise, expert and intermediate surgeons completed the trajectory faster than inexperienced interns and novices](experts-intermediates-faster-exercise1.md) — related
+- [The Otoskills simulator discriminates among novice, intermediate and expert surgeons at baseline in both performance scores and GRS scores](otoskills-simulator-discriminates-experience-levels.md) — related

@@ -54,3 +54,4 @@ Correlational analysis of post-test scores among the 64 participants. The study 
 - [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related
 - [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](systemic-barriers-marginalize-creativity.md) — related
 - [School reform toward making-centered curricula requires substantial adaptation of educators' skills and beliefs](maker-reform-requires-educator-adaptation.md) — related
+- [Longer-serving clinical faculty show lower preference for teacher-centeredness, suggesting teaching conceptions shift with experience](longer-serving-faculty-less-teacher-centered.md) — related

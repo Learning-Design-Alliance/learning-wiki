@@ -59,3 +59,4 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 - [Delay between learning and testing reduces accuracy only after one day, and equally across learning strategies](one-day-delay-reduces-accuracy-equally.md) — related
 - [Combining instructional video and self-study immediately before testing yields equally high scores regardless of sequence](immediate-video-self-study-combination-sequence-null.md) — related
 - [Knowledge scores decline significantly between an immediate quiz and an eight-week quiz after both eModule and Wikipedia-like learning activities](significant-knowledge-decline-after-both-cal-activities.md) — a narrower finding that bears on this claim
+- [Real-world practice yields higher instrument-identification accuracy than tablet-based simulation or text-based study, with all conditions declining after one week](real-world-practice-beats-tablet-text-accuracy.md) — related

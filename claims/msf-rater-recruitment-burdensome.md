@@ -54,3 +54,4 @@ Feasibility findings from the pilot's post-evaluation survey (Table 3), where st
 - [External feedback from supervisors, tutors, and peers supports students' completion and accuracy of self-assessment, with high achievers more likely to use tutor feedback](external-feedback-supports-self-assessment-implementation.md) — related
 - [Text-oriented MSF tools with large free-text boxes are perceived as more useful for feedback on communication and professionalism than numerical-scale tools](text-oriented-msf-tools-perceived-more-useful.md) — related
 - [Most Annenberg partners found the Challenge's twice-yearly written reporting requirements burdensome and detrimental to their work with schools](annenberg-reporting-requirements-onerous.md) — related
+- [The two-factor MSF structure supports graphical feedback reports that guide reflection on global domains rather than single items](msf-factor-based-feedback-reports.md) — related

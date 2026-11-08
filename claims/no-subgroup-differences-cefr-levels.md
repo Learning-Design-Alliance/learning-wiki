@@ -49,3 +49,4 @@ Sub-group comparisons (Tables 5–8) using independent samples t tests after mer
 - [Both groups were highly heterogeneous in language competence, spanning A1 to C1, which the author identifies as the primary reason for the scarce efficiency of training](heterogeneous-groups-hinder-strategy-training.md) — related
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
 - [Self-assessed language competence increased in both groups, but perceived progress diverged among low-level students in the contrast group](self-assessed-competence-increased-both-groups.md) — related
+- [No significant differences between blended-learning and control groups in satisfaction or self-assessed history-taking and physical examination skills](blended-learning-no-difference-satisfaction-self-assessment.md) — related

@@ -50,3 +50,4 @@ Comparison across the four surgeons during the C-CUSUM quality control period, a
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Skill and error scores did not differ across surgeon seniority groups, so construct validity was not established for the simpler suturing task](no-construct-validity-seniority-dvc-suturing.md) — related
+- [The rabbit fSBA-repair model shows construct validity: novices and experts differed significantly on all measured surgical outcomes during their first six cases](rabbit-fsba-model-construct-validity.md) — related

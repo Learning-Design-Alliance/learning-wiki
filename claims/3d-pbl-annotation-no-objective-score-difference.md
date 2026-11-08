@@ -59,3 +59,4 @@ In the same RCT, the t-test comparison of objective multiple-choice scores betwe
 - [No statistically significant difference between the BOPPPS and traditional teaching groups on multiple-choice (theoretical) question scores](boppps-his-no-difference-multiple-choice.md) — related
 - [No significant between-group difference in objective-question scores](no-difference-objective-question-scores.md) — related
 - [Spinal surgery trainees taught traditionally scored higher on objective multiple-choice questions than trainees taught with PBL plus 3D visualization](lecture-higher-objective-question-scores-spinal-surgery.md) — reports the opposite
+- [PBL students made significantly fewer inappropriate therapy choices; the difference in erroneous prescriptions was not statistically significant](pbl-fewer-inappropriate-therapy-choices.md) — related

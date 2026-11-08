@@ -48,3 +48,4 @@ Null finding from the same manikin study's timed-phase analysis: pairwise VFT co
 - [Fixation and ventilation time differs significantly across laryngoscopes, with VDO significantly faster than UE but not different from LANJA](fvt-vdo-faster-than-ue.md) — related
 - [Intubation success rates among novices differ significantly across the three laryngoscopes, with LANJA highest (89.5%) and VDO lowest (63.2%)](lanja-highest-novice-success-rate.md) — related
 - [Among novices trained on three video laryngoscopes, the LANJA laryngoscope yields significantly shorter intubation visualization time than the UE and VDO laryngoscopes](lanja-shortest-ivt-novices.md) — related
+- [AirwayScope training produced significantly shorter total intubation and vocal-cord visualization times than the Macintosh on all 3 days with the AMT manikin, while tube-passage time did not differ among scopes](aws-shorter-intubation-times-amt.md) — related

@@ -61,3 +61,4 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 - [Students report lower satisfaction with and lower evaluation of curriculum effectiveness for online neurosurgery teaching than face-to-face teaching](satisfaction-effectiveness-lower-online-neurosurgery.md) — a narrower finding that bears on this claim
 - [Students were relatively satisfied with online exams (74.5% found them well-structured) despite 63% facing technical problems while attempting them](online-exams-well-structured-despite-connectivity-problems.md) — related
 - [Saudi nursing students during COVID-19 reported somewhat satisfied e-learning perceptions, high technology access, and moderate e-learning motivation](saudi-nursing-students-descriptive-elearning-levels.md) — related
+- [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — related

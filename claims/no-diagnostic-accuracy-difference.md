@@ -55,3 +55,4 @@ Exam-phase analysis of the randomized comparison found no between-group differen
 - [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — related
 - [No differences in quality and correctness of final energy-chain diagrams between interface conditions](no-difference-final-diagram-quality-interfaces.md) — related
 - [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related
+- [Exam-question performance does not differ between groups and does not correlate with OSCE performance](exam-no-group-differences-no-osce-correlation.md) — related

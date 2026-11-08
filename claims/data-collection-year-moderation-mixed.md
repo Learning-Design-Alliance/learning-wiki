@@ -68,3 +68,4 @@ Sensitivity meta-regression including the outlier study (Gumus & Atalmis, 2011) 
 - [Educational stage significantly moderates the digital reading-comprehension association: negative at primary and middle school, positive at high school and university](educational-stage-moderates-digital-reading-comprehension.md) — related
 - [Leisure digital reading habits show a small positive association with reading comprehension (r = .055), much smaller than for print reading habits](leisure-digital-reading-small-positive-comprehension-association.md) — related
 - Most school-based intensive longitudinal studies collect data digitally (65.3%), and paper-and-pencil use has decreased significantly since 2020 — related
+- [Academic year was not retained in any of the seven regression models and showed no significant association with any achievement measure](academic-year-not-associated-achievement.md) — related

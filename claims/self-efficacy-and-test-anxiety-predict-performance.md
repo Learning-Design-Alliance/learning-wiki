@@ -83,3 +83,4 @@ Across the regression analyses in the same survey, "students who reported higher
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
 - [Academic stress dimensions show a dual pattern: professional study stress positively predicts achievement while scientific research, ecological, and employment stress negatively predict it](stress-dimensions-dual-pattern-achievement.md) — related
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
+- [High-academic-self-efficacy students rate some individual practices as causing less anxiety and rate some practices as contributing more to learning](self-efficacy-predicts-practice-perceptions.md) — related

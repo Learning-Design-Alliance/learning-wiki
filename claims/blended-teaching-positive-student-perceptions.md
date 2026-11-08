@@ -48,3 +48,4 @@ Secondary outcome: an anonymous Likert questionnaire (alpha 0.941) administered 
 - [Blended teaching produced higher total OSCE scores than traditional offline teaching in a clinical skills training course](blended-teaching-higher-osce-total-clinical-skills.md) — related
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](students-prefer-blended-teaching-orthodontics.md) — related
+- [More than half of dental students felt less engaged and motivated in following up with distant e-learning](reduced-engagement-distant-e-learning-dental.md) — related

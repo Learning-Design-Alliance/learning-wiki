@@ -50,3 +50,4 @@ Paired pre- and posttraining confidence surveys were analyzed on a per-question 
 - [Perceived realism of virtual patient scenarios and comfort interacting in VR rose substantially from pre to post (realism 2.9 to 4.4; VR comfort 3.0 to 4.6)](vr-pilot-realism-comfort-gains.md) — related
 - [A four-module POCUS education programme significantly increased haemodialysis nurses' perceived confidence in ultrasound-based vascular access assessment (n = 15)](pocus-training-increases-nurse-cannulation-confidence.md) — related
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
+- [Post-graduate dental students perceived increased confidence and self-efficacy in handling communication situations similar to those experienced in SBE sessions](sbe-perceived-confidence-dental-postgraduates.md) — related

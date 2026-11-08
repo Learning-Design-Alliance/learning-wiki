@@ -52,6 +52,7 @@ The authors recommend specific refinements to improve HBOPPPS efficiency while r
 - [Implementation recommendations for WeChat-based PBL: small teams, 1-week advance materials, active facilitation, and workload refinements](wechat-pbl-implementation-recommendations.md)
 - [Continuously optimize BOPPPS-simulation training by refining objectives, personalizing scenario difficulty, and tracking long-term outcomes](optimize-boppps-training-objectives-difficulty-tracking.md)
 - [Refine program materials based on teacher process evaluation to reduce preparation burden and content density](process-evaluation-driven-material-refinement.md)
+- [Optimize the medical English course by adding application class hours and rehabilitation-specific materials](optimize-medical-english-add-application-practice-hours.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Descriptive per-case results from 83 students interpreting 11 panoramic radiogra
 - [Self-confidence significantly predicts dental students' diagnostic accuracy in radiographic interpretation](self-confidence-predicts-radiographic-diagnostic-accuracy.md) — related
 - [Participants over 35 demonstrated higher diagnostic accuracy than younger participants across all seven cases, with gaps most pronounced on the hardest case](older-participants-higher-diagnostic-accuracy.md) — related
 - [Confidence is not a reliable indicator of diagnostic competency for certain lesion types, notably facial nerve palsy (case 7)](overconfidence-on-difficult-oral-cancer-cases.md) — related
+- [Case difficulty varies widely: COVID-19 pneumonia (85.4%) and pneumoperitoneum (80.5%) were best interpreted, while pneumomediastinum (42.0%) and left lower lobe pneumonia (43.4%) were worst](cxr-case-difficulty-variation.md) — related

@@ -50,3 +50,4 @@ Model comparison of four nested structural models (Table 2) showed M2a, in which
 - [School climate directly and indirectly influences perceived academic performance in secondary students](school-climate-direct-indirect-influence-pap.md) — related
 - [The full variable set explains 27% of variance in perceived academic performance](pap-variance-explained-27-percent.md) — related
 - [Resilience is the strongest predictor of life satisfaction among the variables studied](resilience-strongest-predictor-life-satisfaction.md) — related
+- [Avoidant coping fully mediates the relationship between resilience resources and somatic health symptoms](avoidant-coping-fully-mediates-somatic-symptoms.md) — related

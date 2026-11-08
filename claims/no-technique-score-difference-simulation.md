@@ -49,3 +49,4 @@ Two-tailed t-test comparing surgeon rubric scores (1–25 scale) in the randomiz
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](high-fidelity-simulation-associated-with-superior-acquisition-retention.md) — related
 - [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related
 - [Clinician training level shows no clear correlation with subacromial injection accuracy](training-level-no-accuracy-correlation.md) — related
+- [First subcutaneous injection success rate is higher with simulation-tool training (73.33%) than traditional training (46.67%)](simulation-training-first-injection-success-rate.md) — reports the opposite

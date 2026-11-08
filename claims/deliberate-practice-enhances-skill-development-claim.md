@@ -48,3 +48,4 @@ The article's Methods section states a conceptual analysis evaluated deliberate-
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — a broader claim this one bears on
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related
 - [Deliberate practice carries stated limitations: it is time-consuming, mentally and physically demanding, and risks burnout without rest](deliberate-practice-limitations-burnout.md) — related
+- [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](attentional-capacity-novice-implant-automation.md) — a narrower finding that bears on this claim

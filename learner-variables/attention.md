@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (136 show a difference, 43 mixed, 27 no difference) · 152 studies (53 causal, 40 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 31 of 152 report an effect size · 200 claims rest on one study
+> **Evidence** · 209 claims (138 show a difference, 43 mixed, 28 no difference) · 155 studies (54 causal, 41 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 31 of 155 report an effect size · 203 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -244,6 +244,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Neither inhibitory/attentional control nor delay aversion predicts early academic skills in preschoolers](../claims/inhibition-delay-aversion-no-academic-prediction.md) [-M] — learners who differ on it differ in outcomes
 - [Selective attention (d2 test accuracy) showed no significant changes in either group over the 16-week intervention](../claims/d2-attention-no-significant-change.md) [-M] — measured as an outcome of the instruction studied
 - [Sustained attention predicted mathematics scores in boys but not in girls, a sex difference the study reports as contradicting its assumption](../claims/sustained-attention-math-boys-only.md) [~M] — learners who differ on it differ in outcomes
+- [Greater distraction while studying negatively predicted exam scores after controlling for preparation, absences, and total study time](../claims/study-distraction-negatively-predicts-exam-score.md) [+M] — learners who differ on it differ in outcomes
+- [Most participants (81.4%) did not feel distracted by the music, and overall course satisfaction was high (9.2/10)](../claims/low-subjective-distraction-high-satisfaction-music-training.md) [-M] — measured as an outcome of the instruction studied
+- [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](../claims/attentional-capacity-novice-implant-automation.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

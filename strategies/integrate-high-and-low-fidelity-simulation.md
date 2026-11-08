@@ -57,6 +57,7 @@ The review recommends combining high-fidelity body donor models with low-fidelit
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 - [Simulation-first framework: acquire foundational procedural skills on simulation models before clinical practice](simulation-first-foundational-skills-before-clinical.md)
 - [Reserve cadaveric simulation for later-stage masterclasses rather than novice training](cadaveric-masterclasses-later-stage-training.md)
+- [Use a graduated simulation curriculum combining deliberate knot-tying practice, synthetic-model practice, and cadaveric porcine bowel repair within a 2-hour session](graduated-enterotomy-simulation-curriculum.md)
 
 ## Examples
 -

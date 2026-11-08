@@ -48,3 +48,4 @@ Authors' interpretive argument in the Discussion, noting that despite including 
 ## Related Claims
 - [Increased physical activity does not negatively affect academic performance, but academic performance is not caused solely by increased physical activity](pa-does-not-harm-academic-performance-not-sole-cause.md) — a broader claim this one bears on
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
+- [Each additional point of physical activity score was associated with a 0.423-point increase in Physical Education achievement](pa-point-increases-pe-achievement.md) — related

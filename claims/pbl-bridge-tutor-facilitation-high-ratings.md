@@ -49,3 +49,4 @@ Tutor evaluation questionnaire using a 5-point Likert scale across seven cohorts
 - [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0](coi-presence-uneven-profile-mba.md) — related
 - [Students' lowest ratings fell in the intra-personal behavior category, indicating a need for further PBL faculty development](intra-personal-behavior-lowest-rated-category.md) — related
 - [Students rated PBL tutors' mean performance ranking above halfway on a 10-point scale, with most tutors ranked in the sufficient range](pbl-tutor-mean-performance-ranking-above-halfway.md) — related
+- [Facilitator questioning during debriefing is perceived as mostly open-ended and encouraging of self-reflection, though perceptions are mixed](open-ended-questioning-perceived-mixed.md) — related

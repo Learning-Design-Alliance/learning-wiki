@@ -57,3 +57,4 @@ HLM regression of preliteracy, language, and mathematics on inattention, aggress
 - [Baseline levels of aggressive and antisocial behavior did not interact with any other predictor variables](baseline-aggression-no-moderation.md) — related
 - [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](four-anxiety-measures-predict-no-grades.md) — related
 - [All CBCL symptom scales relate to lower grades when examined separately, but somatic, social, and aggressive problems lose significance once comorbid symptoms are controlled](comorbid-symptoms-confound-single-scale-findings.md) — related
+- [The negative association between childhood aggressive behavior and academic attainment attenuates to non-significance once comorbid attention problems are accounted for](aggressive-behavior-association-explained-by-attention-problems.md) — possibly the same claim (merge candidate)

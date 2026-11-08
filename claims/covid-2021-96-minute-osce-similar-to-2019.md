@@ -48,3 +48,4 @@ Post-hoc pairwise comparisons following ANOVA on anonymised results of the 2020 
 - [The 4-station 56-minute modified 2020 OSCE produced higher mean marks and more first-class honours than the 2019 and 2021 OSCEs](covid-2020-56-minute-osce-higher-marks.md) — related
 - [High users of the PPES online course scored an average of 7.0 percentage points higher on the paediatrics OSCE station than low users after propensity score matching](ppes-high-users-osce-7-point-ate.md) — related
 - [In the unmatched analysis, the OSCE failure rate was significantly lower for high users than low users of the PPES course](ppes-high-users-lower-failure-rate.md) — related
+- [An adapted PAL ultrasound course format during the COVID-19 pandemic achieved its learning goals, with OSCE results comparable to previous semesters](pal-ultrasound-osce-comparable-pandemic-format.md) — related

@@ -56,3 +56,4 @@ Null finding on the hands-on laparoscopic simulator task scored on suture placem
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — reports the opposite
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
 - [Students reported improved confidence in instrument handling, cable knot tying and suture tying after the virtual session](virtual-session-confidence-gains-surgical-skills.md) — related
+- [Skills trained in the FLS suture-with-intracorporeal-knot exercise did not easily transfer to the more complex SUTT1 stitching and knot-tying task](fls-suture-skills-poor-transfer-sutt1.md) — related

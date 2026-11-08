@@ -59,3 +59,4 @@ Daily activity analysis in the within-class experiment, shown in Fig. 2 with the
 - [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related
 - [Active demonstration of the e-learning platform within the curriculum sharply increased daily activities, peaking on the announcement day (7 July 2019)](active-demonstration-boosts-elp-activity.md) — related
 - [Reviewing early-term Quizzical questions in the weeks before the final is associated with higher scores on the cumulative portion of the final exam](early-topic-review-cumulative-final.md) — related
+- [Spacing potential — days in advance studying began and days studied per week — was not a significant predictor of performance on immediate or delayed tests](spacing-potential-not-predictive-biology-exams.md) — related

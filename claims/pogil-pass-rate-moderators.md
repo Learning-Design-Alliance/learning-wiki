@@ -68,3 +68,4 @@ Subgroup meta-analysis of pass rates by reported instructor training. Heterogene
 - [Students in POGIL classrooms have roughly twice the odds of passing a course as students in standard lecture classrooms (OR = 2.02)](pogil-doubles-course-pass-odds.md) — related
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](pogil-effect-smaller-in-chemistry.md) — related
 - [POGIL instruction produces a small but statistically significant improvement in student achievement outcomes compared to standard lecture (g = 0.29)](pogil-small-achievement-effect.md) — related
+- [Instructors of very large introductory STEM classes (100+ students) report more lecture time than instructors of smaller classes, though active learning occurs at every class size](large-class-size-more-lecture-national-survey.md) — related

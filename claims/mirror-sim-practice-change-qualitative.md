@@ -69,3 +69,4 @@ Thematic summary of free-text responses to the question about especially useful 
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
 - [PGY-3 team leaders averaged 65% on a graded ACLS checklist, with most leaders assigning compressions and airway roles but fewer assigning IV access or medication administration](mirror-sim-checklist-performance.md) — related
 - [Debriefing deltas revealed a lack of leadership and gaps in ALS protocol knowledge that delayed critical tasks, alongside strong teamwork, communication, and technical performance](debriefing-deltas-leadership-als-protocol-gaps.md) — related
+- [Knowledge gained from the standardized-patient DNR encounter was retained by PGY-3 residents approximately one year after training](dnr-simulation-one-year-retention.md) — related

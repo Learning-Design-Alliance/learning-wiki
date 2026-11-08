@@ -48,3 +48,4 @@ Prequestionnaire investigation administered to 1628 students who had completed t
 ## Related Claims
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Teachers hold a positive view of VSP-TCM as a cost-effective adjunct that should be built around syndromes rather than diseases](teachers-positive-vsp-tcm-perspective.md) — related
+- [Students express far more desire for additional simulated-patient practice than for additional role-play](students-want-more-sp-practice.md) — related

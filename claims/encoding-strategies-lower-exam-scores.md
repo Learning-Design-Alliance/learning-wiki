@@ -52,3 +52,4 @@ Final OLS regression (Table 4) of total midterm scores on Week 10 strategy-time 
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Studying with friends is not associated with exam performance after controlling for demographics and prior achievement](study-friends-no-exam-score-association.md) — related
 - [Exploratory correlations linked strategy knowledge and use to first-midterm performance](strategy-knowledge-use-correlate-exam1.md) — related
+- [Greater distraction while studying negatively predicted exam scores after controlling for preparation, absences, and total study time](study-distraction-negatively-predicts-exam-score.md) — related

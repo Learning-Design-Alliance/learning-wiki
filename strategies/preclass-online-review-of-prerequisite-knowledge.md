@@ -49,6 +49,7 @@ Because neuroanatomy is taught in the first year and forgotten by the fourth yea
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 - [Use pre-class online discussion on Moodle followed by in-class instruction responsive to the discussion](pre-class-moodle-discussion-then-responsive-lesson.md)
+- [Optimize the medical English course by adding application class hours and rehabilitation-specific materials](optimize-medical-english-add-application-practice-hours.md)
 
 ## Examples
 -

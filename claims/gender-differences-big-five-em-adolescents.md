@@ -50,3 +50,4 @@ ANOVA gender comparison in the 227-student sample (146 female); "girls scored hi
 - [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — related
 - [Personality traits change across the lifespan and in response to interventions, with the greatest change in adolescence and early adulthood](personality-traits-are-malleable.md) — related
 - [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](other-big-five-traits-no-moderation-stress-achievement.md) — related
+- [Sex differences across personality and behavioural measures are small (ES = .01 to .09), with the largest for neuroticism, and no sex difference in examination performance](small-sex-differences-personality-achievement.md) — related

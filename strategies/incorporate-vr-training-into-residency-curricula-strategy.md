@@ -72,6 +72,7 @@ Based on the pooled findings, the review recommends that training programs adopt
 - [Use the PlaSurIn game as an alternative or complement to traditional lecture-based training for surgical instruments setup](plasurin-as-alternative-or-complement-to-lecture-strategy.md)
 - [Use VR surgical simulators to expand training opportunities when operative exposure is reduced, as during the COVID-19 pandemic](vr-simulation-training-during-reduced-operative-exposure.md)
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
+- [Integrate the simulator into the formal oculoplastics curriculum with dedicated scheduled practice time early in residency](dedicated-scheduled-simulator-time-early-residency-strategy.md)
 
 ## Examples
 -

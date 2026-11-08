@@ -85,3 +85,4 @@ Checklist 6 results for the cerebral-palsy scenario: "The results were statistic
 ## Related Claims
 - [Checklist-assessed clinical performance was significantly higher at the six-month POST assessment than at the initial PRE assessment across all six simulation scenarios](simulation-checklist-gains-six-months.md) — a broader claim this one bears on
 - [Scores improved significantly at six-month re-evaluation in the three simulator-based scenarios (hypertensive crisis, asthmatic crisis, chronic renal failure)](simulator-scenarios-significant-gains.md) — related
+- [Hypoglycemia incidence does not differ significantly between simulation-trained and traditionally trained patients](hypoglycemia-no-significant-difference-training.md) — related

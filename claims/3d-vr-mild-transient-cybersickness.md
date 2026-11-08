@@ -62,3 +62,4 @@ Descriptive safety outcome of the feasibility RCT. The article reports "3 partic
 - [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — a broader claim this one bears on
 - [Viewing the 3D LP video is well tolerated, with cybersickness in a small minority](cybersickness-minority-3d-lp-video.md) — a broader claim this one bears on
 - [Simulator sickness and workload do not differ by viewing-mode group during training, and perceived workload at test is lower only for the 2D→3D transfer group](simulator-sickness-workload-null-group-effects.md) — related
+- [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related

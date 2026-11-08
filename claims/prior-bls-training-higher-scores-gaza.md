@@ -53,3 +53,4 @@ Multivariate linear regression adjusting for all baseline characteristics in the
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [Prior BLS knowledge was not associated with the probability of registering for a practice session, obtaining a certificate, or enlisting as a first responder](prior-bls-knowledge-not-associated-participation.md) — related
+- [CBR worker competence varied between workers with consistent rankings over time, and those with prior community work experience tended to score higher](prior-community-work-experience-linked-higher-competence.md) — related

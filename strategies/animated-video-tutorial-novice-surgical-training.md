@@ -43,6 +43,7 @@ The article used a manufacturer-produced training video that demonstrated the st
 - [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
 - [Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks](hierarchical-hybrid-teaching-vocational-skills.md)
 - [Use web-based preview before simulation practice so students prepare autonomously](web-based-preview-before-simulation-practice.md)
+- [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Reconstructive grounded-theory analysis of focus group discussions and problem-c
 - [Experimental-group trainees reported more frequent observations and more systematic, adequate feedback than control-group trainees](csm-more-observations-feedback.md) — related
 - [Residents perceive supervision as suboptimal when feedback is delayed, time is lacking, communication is ambivalent, or decision-making is opaque](suboptimal-supervision-resident-perceptions.md) — related
 - [Residents use clinical team members other than the official supervisor as unofficial sources of supervision](clinical-team-as-supervision-substitute.md) — related
+- [Most graduating dental students preferred post-graduation supervision and doubted readiness for independent practice](reservations-independent-practice-graduating-dentists.md) — related

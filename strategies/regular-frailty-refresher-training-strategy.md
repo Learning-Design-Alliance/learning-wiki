@@ -50,6 +50,7 @@ Based on the graded association between recency of frailty education and KAP sco
 - [Equip clinical nurses with frailty knowledge and skills through practical continuing-education programs, operation manuals, and targeted training](frailty-kap-targeted-training-programs-strategy.md)
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 - [Recommend ongoing delivery of the PBM education programme to interns with yearly evaluation](ongoing-pbm-education-yearly-evaluation-strategy.md)
+- [Provide ongoing refresher training covering PPIUD eligibility and birth-spacing importance to sustain provider knowledge and reduce bias](ongoing-refresher-training-ppiud-eligibility-birth-spacing.md)
 
 ## Examples
 -

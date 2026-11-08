@@ -47,3 +47,4 @@ Pairwise Fisher's exact tests in the same RCT comparing the self-directed arm, w
 ## Related Claims
 - [An extra 67.6% of the PBP group became proficient from pre- to post-intervention, significantly more than either comparison group](pbp-elearning-greater-proficiency-gains.md) — related
 - [Post-intervention, PBP e-learning produced the highest simulation proficiency (81.1%) among the three training groups, significantly above both comparison groups](pbp-elearning-highest-post-simulation-proficiency.md) — related
+- [The same simulation training delivered without validated metrics produces only minimal performance improvement over traditional training](simulation-without-metrics-minimal-gain.md) — related

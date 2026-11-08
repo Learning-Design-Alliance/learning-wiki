@@ -53,3 +53,4 @@ ANCOVA on post-test CCT-X scores of the experimental (n=60) and control (n=54) g
 - [Within the experimental group, the modeling based science education program was followed by a statistically significant increase in critical thinking scores from pre-test to post-test](mbsep-experimental-group-prepost-gain.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [After adjusting for pre-test differences, there was no statistically significant difference in writing improvement between students of experienced and inexperienced flipped-learning teachers](no-teacher-experience-difference-flipped-ancova.md) — related
+- [The flipped-learning briefing increased critical thinking relative to the control group, despite a pre-intervention difference favouring controls](flipped-briefing-increased-critical-thinking.md) — related

@@ -69,3 +69,5 @@ Exploratory sub-group analysis of the numeracy outcome using the same Group-by-G
 - [Exploratory analyses found videos more beneficial for retention among boys than girls and among fifth graders more than sixth graders](modality-gender-grade-interactions.md) — related
 - [Teacher-targeted nudges showed significant negative interactions with child sex, with negative learning impacts for girls](teacher-only-nudge-negative-learning-girls.md) — related
 - [SEL competency associations with reading are invariant by sex, but associations of Self-Awareness and Self-Management with numeracy are significantly stronger for boys than girls](sel-numeracy-associations-stronger-boys.md) — related
+- [A nine-month school-based physical activity intervention improved numeracy performance in 14-year-old adolescents compared with controls, with very small to small effect sizes](scim-pa-intervention-improved-numeracy-adolescents.md) — related
+- [The physical activity interventions also improved reading performance versus controls, with very small effect sizes for both PAL and DWBH](scim-pa-intervention-improved-reading-adolescents.md) — related

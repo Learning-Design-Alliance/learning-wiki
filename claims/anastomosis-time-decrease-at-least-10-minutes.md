@@ -51,3 +51,4 @@ Authors' discussion of their own 90-day multicenter training study with 140 resi
 - [Senior residents achieved significantly faster final anastomosis times than junior residents in S-T-S, E-T-S, and E-T-E anastomoses (P=0.039)](senior-faster-final-anastomosis-time-than-junior.md) — related
 - [Senior cardiothoracic surgery residents significantly improved most modified OSATS motor skills and anastomosis time across all three anastomosis types](senior-residents-osats-improvement-low-cost-anastomosis-simulator.md) — related
 - [Coronary anastomosis simulation training is associated with faster task completion than no formal simulation training](simulation-improves-coronary-anastomosis-time.md) — related
+- [Both control and SDL-V groups significantly improved total OSATS score between the two anastomoses three weeks apart](both-groups-improved-osats-over-three-weeks.md) — related

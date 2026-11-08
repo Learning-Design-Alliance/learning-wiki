@@ -49,3 +49,4 @@ Blinded video grading of four consecutive robotic HJ and PJ anastomoses per surg
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — a broader claim this one bears on
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — related
+- [Repeated execution of a biotissue pancreatico-jejunostomy drill improves surgical fellows' OSATS-rated technical proficiency](biotissue-pj-drill-improves-osats-proficiency.md) — related

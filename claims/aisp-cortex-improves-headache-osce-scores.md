@@ -66,3 +66,4 @@ Single-group pre-post study of 25 third-year medical students completing a one-w
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [A six-week microlearning and simulation-based virtual consultation module significantly improved senior medical students' virtual consultation skills from pre-test to post-test](vc-module-significant-pre-post-skill-improvement.md) — related
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
+- [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related

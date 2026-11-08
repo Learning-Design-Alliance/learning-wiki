@@ -40,6 +40,7 @@ The review identifies common elements influential to undergraduate EBP success: 
 
 - [Incorporate reflection-promoting activities into health professions curricula at all educational levels](incorporate-reflection-activities-health-curricula.md)
 - [Reflection Exercises](reflection_exercises.md)
+- [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
 
 ## Examples
 -

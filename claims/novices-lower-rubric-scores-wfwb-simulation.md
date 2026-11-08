@@ -55,3 +55,4 @@ In an independent-measures simulation study of 41 participants (12 novices, 13 i
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
 - [GRS summed scores and final competency ratings effectively discriminate between experience levels in the simulated cholecystectomy module](chole-vop-grs-final-rating-discriminate-levels.md) — related
 - [VR-based MCQ test scores discriminate significantly between medical students of three different emergency medicine experience levels](vr-mcq-scores-discriminate-experience-levels.md) — related
+- [The Otoskills simulator discriminates among novice, intermediate and expert surgeons at baseline in both performance scores and GRS scores](otoskills-simulator-discriminates-experience-levels.md) — related

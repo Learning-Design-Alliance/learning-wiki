@@ -43,6 +43,7 @@ In Future Directions the authors recommend pairing PBL skills courses with didac
 
 - Pbl Critical Thinking Experimental Design Graduate Course
 - [Implementation recipe for a graduate PBL course: administration support, facilitator buy-in, group continuity, curricular coordination, and recognized effort](pbl-graduate-course-implementation-strategy.md)
+- [Design cocurricular data science activities to be accessible in cost, content, and schedule and coordinated with course modules rather than stand-alone](educe-coordinated-cocurricular-activities-strategy.md)
 
 ## Examples
 -

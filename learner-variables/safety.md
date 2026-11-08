@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 166 claims (119 show a difference, 33 mixed, 14 no difference) · 101 studies (29 associational, 23 review, 17 qualitative, 13 causal, 8 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 101 report an effect size · 166 claims rest on one study
+> **Evidence** · 167 claims (120 show a difference, 33 mixed, 14 no difference) · 102 studies (30 associational, 23 review, 17 qualitative, 13 causal, 8 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 102 report an effect size · 167 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -202,6 +202,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [The fixed-versus-growth mindset teacher moderation of the mindset–choice link replicated for comfort with academic risk-taking across all four studies, with slight differences in simple effects in a few cases](../claims/mindset-moderation-academic-risk-taking.md) [~M] — measured as an outcome of the instruction studied
 - [Bullied 9-year-olds report poorer attitudes towards school and mathematics but not literacy](../claims/bullied-children-poorer-school-and-maths-attitudes.md) [+M] — learners who differ on it differ in outcomes
 - [Psychological difficulties at age 13 partially mediate the effect of bullying at age 9 on later mathematics achievement](../claims/psychological-difficulties-partially-mediate-bullying-math-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Peer victimization is strongly positively associated with adolescent depressive symptoms and negatively associated with academic achievement in both sexes](../claims/peer-victimization-depression-and-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

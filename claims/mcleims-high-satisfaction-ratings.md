@@ -65,3 +65,5 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
 - [Residents reported high satisfaction with the COVID-19-adapted simulation activity](high-satisfaction-covid-simulation.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
+- [Students report high satisfaction with all three course formats, particularly the blended learning approach](high-satisfaction-blended-local-anaesthesia-course.md) — related
+- [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related

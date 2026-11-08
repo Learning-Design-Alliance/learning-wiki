@@ -51,7 +51,8 @@ The article's implementable recipe: replace early lectures with self-study using
 - [Residents in the intervention group reported reduced residency examination pressure compared with the control group](../claims/peyton-flipped-reduced-exam-pressure.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
 
 ## Examples
 -

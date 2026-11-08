@@ -49,3 +49,4 @@ Logistic regression within the fully crossed 2×2×2 design on continuation to t
 - [UV dosage shows a nonmonotonic pattern: one or three UV essays outperform two for grades and continuation](uv-dosage-one-or-three-doses-effective.md) — related
 - [A utility-value writing intervention increases continuation to the second course of the biology sequence](uv-intervention-increases-sequence-continuation.md) — a broader claim this one bears on
 - [Timing of a single UV essay is moderated by prior performance: early UV essays help low performers, late UV essays help high performers](uv-timing-moderated-by-prior-gpa.md) — related
+- [CoC participants persisted into and performed better in subsequent biology courses, especially students with low and medium preparedness](coc-improves-persistence-future-courses.md) — related

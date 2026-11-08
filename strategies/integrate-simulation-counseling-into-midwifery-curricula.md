@@ -51,6 +51,7 @@ The authors recommend combining wearable simulation with structured counseling a
 
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Increase patients' practice opportunities with an inexpensive wearable simulation tool to overcome limited nurse training time](wearable-simulation-increase-practice-opportunities.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ The authors summarize their own Year 1 brief learning trials and Year 2 feasibil
 - [The Year 3 pilot is a randomized control trial assigning at-risk first graders within schools to FUSION or at-risk control, with an additional average control condition](fusion-pilot-rct-design.md) — related
 - [A truncated three-month pilot of the Cities Mentor Project with 17 intervention and 18 control youth indicates the intervention is feasible, usable, and appreciated by participants.](cities-mentor-pilot-feasible-usable.md) — a narrower finding that bears on this claim
 - [The FC/TPS pilot demonstrated high feasibility and learner acceptability but not proven efficacy](fc-tps-pilot-feasibility-not-efficacy.md) — related
+- [Embedding case conferences in higher education curricula is feasible and effective at a group size of 200 students](case-conference-curriculum-feasible-200-students.md) — related

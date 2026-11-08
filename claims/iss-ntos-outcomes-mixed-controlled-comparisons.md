@@ -97,3 +97,4 @@ The review reports four controlled comparisons with null results: lecture-based 
 - [In situ fall simulation can be run within a typical nursing home shift, averaging 16.3 minutes including debrief](in-situ-fall-simulation-feasible-within-shift.md) — a narrower finding that bears on this claim
 - [A brief in-situ simulation intervention mitigated an MRSA outbreak in a newly renovated NICU and improved hand hygiene compliance](in-situ-simulation-mrsa-outbreak-nicu.md) — related
 - [In situ and off-site simulation-based obstetric anesthesia training produced similar individual and team outcomes, with greater fidelity reported for in situ training](in-situ-versus-off-site-simulation-similar-outcomes.md) — related
+- [Most trainees reported the boot camp added to their knowledge, improved technical skills and increased confidence managing ENT on-call problems](ent-boot-camp-perceived-knowledge-skills-confidence.md) — related

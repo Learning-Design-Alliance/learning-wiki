@@ -50,3 +50,4 @@ Secondary outcome measured with a six-item short-form of the Spielberger State�
 - [Post-intervention self-reported state anxiety (STAI) did not significantly differ between the simulation-intervention and control groups](stai-no-difference-post-simulation.md) — related
 - [Post-course state anxiety did not differ between cohorts](post-course-stai-s-similar-across-cohorts.md) — related
 - [LSAS scores on simulation days did not differ significantly from baseline (p = 0.30)](lsas-simulation-days-not-different-baseline.md) — related
+- [State and trait anxiety before simulation practice do not differ between individual and peer groups](pre-simulation-stai-no-group-difference.md) — related

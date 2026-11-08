@@ -68,3 +68,4 @@ The review quotes Lazonder and Harmsen's (2016) own conclusion that "all six typ
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry](guidance-improves-inquiry-learning-activities.md) — related
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — related
+- [Guidance improves K–12 students' learning outcomes across inquiry-based practices and STEM domains, but high levels of guidance can harm students with high knowledge or abilities](guidance-improves-k12-inquiry-outcomes-inverted-u.md) — possibly the same claim (merge candidate)

@@ -62,3 +62,4 @@ Qualitative thematic finding from focus group discussions with 40 undergraduate 
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
 - [The authors conclude that clinical simulation helps nursing students increase their confidence and satisfaction for facing real clinical scenarios](simulation-increases-confidence-satisfaction-authors-conclusion.md) — related
+- [Practitioners reported high perceived realism during the simulation scenarios, confirming they felt they were supporting a newborn rather than a simulator](practitioners-reported-scenario-realism.md) — related

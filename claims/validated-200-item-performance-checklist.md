@@ -49,3 +49,4 @@ Checklist development phase: 350 competencies extracted from literature, reduced
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
 - [Face validity assessment with 10 ICU nurses using the Impact Score formula led to removal of two items that demonstrated inconsistent interpretations of abstract concepts or partial conceptual overlap.](crcdc-face-validity-impact-score.md) — related
+- [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related

@@ -49,3 +49,5 @@ Authors' conclusion from the single-site semi-randomized trial in one Italian pr
 - [The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition](qt-meditation-reduces-sdq-difficulties.md) — related
 - [After the waiting-list classes received Quiet Time, their emotional and behavioral difficulties stabilized or improved despite end-of-year exam stress](qt-waiting-list-crossover-stabilization.md) — related
 - [SDQ total difficulties and external symptoms showed the largest between-group improvements after Quiet Time, while prosocial behavior and internal symptoms did not differ significantly](sdq-subscales-qt-between-group-pattern.md) — related
+- [A Mental Training protocol was feasible to implement in a curricular setting with full participation](mental-training-curricular-feasibility.md) — related
+- [Most third-year medical students reported positive learning experiences from the compulsory research training, including protocol writing and the ethics application](students-positive-learning-research-training-selective02.md) — related

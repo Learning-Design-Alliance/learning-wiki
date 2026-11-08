@@ -40,6 +40,7 @@ A funder strategy of drawing on individuals with diverse racial and ethnic backg
 ## Related Strategies
 
 - [Build cultural competence and humility: engage and listen to communities before acting, using funded advisory boards and listening sessions](cultural-competence-humility-listen-first.md)
+- [Recruit diverse community-based standardized patients who act as credible experts on living with their condition in their community](diverse-community-standardized-patients-experts.md)
 
 ## Examples
 -
