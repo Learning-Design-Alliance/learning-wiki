@@ -52,3 +52,5 @@ Three-month follow-up analysis of limited available T3 data (n = 27, 7% of basel
 - [Self-reported CMV counselling behaviour changes after the course, with midwives not discussing CMV dropping from 70% to 22%](cmv-elearning-changes-counselling-behaviour.md) — related
 - [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
+- [Primary assessment performance declines significantly between the end of the course and 3–4 months later, but remains above the pre-course level](abcde-performance-declines-but-remains-above-baseline.md) — related
+- [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related

@@ -76,3 +76,4 @@ The authors' interpretation of the same feedback themes, stating the prototype "
 - [Follow-up qualitative content analysis found no negative comments about the VR in a classroom instructional setting and nine suggestions for additions that would add visual and navigational complexity](classroom-qualitative-followup-no-negative-comments-complexity-suggestions.md) — related
 - [Free-text feedback was dominated by praise (71.3% of 384 comments), with improvement suggestions including more interactive cases, more algorithms, and less text-heavy content](espe-cme-free-text-feedback-themes.md) — related
 - [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
+- [Most Movement Simulation Reality items required revision, and students flagged 18 items overall versus nine for workers](movement-reality-items-require-revision.md) — related

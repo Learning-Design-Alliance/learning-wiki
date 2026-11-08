@@ -54,3 +54,4 @@ Paired pre/post analysis of self-reported confidence on a 5-point Likert scale, 
 - [In one uncontrolled pre-post study, adequate pediatric CPR chest-compression technique rose from 26% to 91% among multidisciplinary hospital professionals after RCDP simulation training](rcdp-raises-adequate-pediatric-cpr-technique-26-to-91-percent.md) — related
 - [The e-learning program significantly increases participants' confidence in responding to suspected abuse cases](elearning-abuse-program-raises-confidence.md) — related
 - [Adult cardiorespiratory resuscitation knowledge scores rose significantly from pre-test to post-test after health simulation training in a multi-professional hospital team, in one single-group pre-post study](simulation-training-increases-crr-knowledge.md) — related
+- [Simulation-group residents reported increased self-confidence after training](simulation-training-self-confidence-gains.md) — related

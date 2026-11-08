@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (32 for, 18 mixed, 3 against) · 59 studies (32 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 59 report an effect size · 42 claims rest on one study
+> **Evidence** · 54 claims (32 for, 19 mixed, 3 against) · 60 studies (33 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 60 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Improvement (N-gain) in mathematical reasoning ability is greater for students learning with mind mapping strategy than for students receiving conventional learning](../claims/mind-mapping-greater-kpm-n-gain.md) [+W] — attached 2026-11-03 from Ayal et al. (2016), which proposed "Mind mapping learning activity sequence: guided concept learning, identifying main ideas, constructing mind maps, and class presentation"; tests this page's relationship.
 - [Concept mapping supports retention of science knowledge over five days](../claims/concept-mapping-supports-retention-delayed-posttest.md) [+W] — attached 2026-11-03 from Berry et al. (2014), which proposed "Pair concept mapping with informational interactive read-alouds to strengthen science and literacy learning"; tests this page's relationship.
 - [Concept maps are structurally and semantically more similar to an expert solution than written texts](../claims/concept-maps-more-similar-to-expert-than-written-texts.md) [+W] — attached 2026-11-03 from Ifenthaler (2010), which proposed "Use concept mapping rather than written text when the goal is structural alignment with expert knowledge".
+- [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](../claims/mind-mapping-improves-critical-thinking-disposition-nursing.md) [~W] — attached 2026-11-08 from Wu Hang-Zhou; Wu Qiu-Ting (2020), which proposed "Use mind mapping training in clinical nursing education to cultivate critical thinking disposition".
 
 ## Objective and learner-valued goal
 

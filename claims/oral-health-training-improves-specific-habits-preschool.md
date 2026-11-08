@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: tamtekin-erdoğan-elif-ayşe-2026
     resource: "https://doi.org/10.1186/s12903-026-08787-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After training, there was a statistically significant positive change regarding the importance of regular and proper toothbrushing, using dental floss and fluoride-containing children's toothpaste, tongue cleaning, reducing unhealthy snack consumption and visiting the dentist regularly, with parental support. [→ Tamtekin Erdoğan Elif Ayşe 2026](#tamtekin-erdogan-elif-ayse-2026)

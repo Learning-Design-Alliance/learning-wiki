@@ -53,3 +53,4 @@ Theoretical argument using an analogy of head circumference and body height as s
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
 - [Validity coefficients with external criteria provide a lower bound for a test's reliability](validity-lower-bound-reliability.md) — related
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — a narrower finding that bears on this claim
+- [The 40-item tests showed poor to moderate reliability, with the pre-course test highly random (alpha −0.022)](anatomical-test-reliability-poor-moderate.md) — related

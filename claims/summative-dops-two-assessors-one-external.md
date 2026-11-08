@@ -49,3 +49,4 @@ Delphi consensus recommendation (89% agreement) on summative assessment design t
 - [The Delphi panel recommends a minimum of 250 hands-on EUS cases before assessment for certification, with 125 pancreatic assessments](minimum-250-eus-cases-before-competency-assessment.md) — related
 - [Certification eligibility requires auditable key performance indicators: FNA/B diagnostic adequacy above 85%, photo documentation in over 90% of procedures, and a 30-day complication rate under 5%](eus-certification-kpi-thresholds.md) — related
 - [There is no unified pathway for training, curricula, and formal assessments across UEMS member countries](no-unified-neonatal-training-pathway-uems.md) — related
+- [Current US endoscopic credentialing lacks national standards, exposing the process to conflicts of interest, and the authors argue for national consensus standards and independent proctoring](credentialing-lacks-national-standards.md) — related

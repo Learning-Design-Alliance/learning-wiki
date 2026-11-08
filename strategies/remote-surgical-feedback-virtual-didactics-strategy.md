@@ -47,6 +47,7 @@ In the context of COVID-19 restrictions on surgical training, the article recomm
 - [Implement blended learning, combining online and on-site methods, in post-pandemic dental education rather than fully online delivery](blended-learning-dental-education-strategy.md)
 - [Use VR surgical simulators to expand training opportunities when operative exposure is reduced, as during the COVID-19 pandemic](vr-simulation-training-during-reduced-operative-exposure.md)
 - [Use simulation training prior to actual surgery when elective surgical experience for trainees is disrupted](simulation-training-before-surgery-during-disruption.md)
+- [Use high-quality surgical videos, ideally in faculty-led group study, to compensate for lost operating room time](faculty-led-surgical-video-group-review-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Independent samples t-test comparing GPA of the Jigsaw Cooperative Learning Grou
 - [The Jigsaw and control groups differed significantly in scientific process skills before treatment](spst-pretest-group-difference.md) — related
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](no-opinion-difference-between-laboratory-approaches.md) — related
 - [No statistically significant post-test difference was found between the Jigsaw IV and Jigsaw II groups](jigsaw-iv-vs-ii-no-posttest-difference.md) — related
+- [Before the intervention, the experimental and control groups were statistically equivalent in entering cumulative GPA](equivalent-entering-gpa-blended-flipped-quasi-experiment.md) — related

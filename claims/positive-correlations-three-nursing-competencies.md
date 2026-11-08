@@ -49,3 +49,4 @@ Pearson correlation analysis across the three outcome measures in the cohort of 
 - [PBL teaching produced significantly higher post-intervention self-directed learning ability scores than traditional teaching among nursing interns (P = 0.005)](pbl-higher-self-directed-learning-nursing-interns.md) — related
 - [Nursing interns randomised to PBL combined with comparative nursing rounds scored higher on a health education ability questionnaire than traditionally taught interns (P = 0.003)](pbl-higher-health-education-ability-nursing-interns.md) — related
 - [Self-directed learning competence is positively associated with core competence among infectious disease nurses](self-directed-learning-competence-core-competence-infectious-disease-nurses.md) — related
+- [Self-reflection and critical thinking scores were significantly positively correlated in first-year nursing students](self-reflection-critical-thinking-positive-correlation-nursing.md) — related

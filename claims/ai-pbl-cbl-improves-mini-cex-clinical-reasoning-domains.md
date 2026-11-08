@@ -106,3 +106,4 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - PBL combined with situational simulation teaching yields higher small and special presentation scores than conventional teaching in radiology interns — related
 - [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related
 - [Interactive learning activities yield significantly higher professional-factor scores (theoretical knowledge, critical thinking, clinical competence) than traditional learning](interactive-learning-higher-professional-factors.md) — a broader claim this one bears on
+- [PDPG trainees outperformed RE trainees in history taking, physical examination, and clinical diagnosis/treatment regimen, but not in communication skills/humanistic care](pdpg-domain-advantages-communication-comparable.md) — related

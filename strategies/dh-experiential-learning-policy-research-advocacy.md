@@ -55,6 +55,7 @@ The review recommends that dental hygiene programs embed hands-on opportunities 
 - [Future directions: formalized AI-literacy curricula, collaboration, research, and advocacy for CMFT](future-directions-ai-cmft-training-and-collaboration.md)
 - [Tailored osteoporosis education by degree track plus interdisciplinary exchange and paired public-health outreach](tailored-osteoporosis-education-by-track.md)
 - [Use outreach community dental care experiences to build student clinical confidence](outreach-community-dental-care-confidence-strategy.md)
+- [Incorporate experiential learning programs into the learning process so students strengthen attitudes, abilities, and skills](incorporate-elp-into-learning-process-strategy.md)
 
 ## Examples
 -

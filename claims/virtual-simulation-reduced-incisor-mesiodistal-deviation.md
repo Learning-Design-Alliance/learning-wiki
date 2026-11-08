@@ -54,3 +54,4 @@ Pilot RCT: 20 orthodontically inexperienced dental interns randomized to traditi
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [Bracket positioning accuracy rose from before to after virtual training, most for upper and lower anterior teeth, in one uncontrolled pre-post study](bracket-position-accuracy-anterior-teeth.md) — related
 - [VR-trained physicians show significantly smaller implant placement deviations than conventionally trained peers across mesiodistal, buccolingual, depth, and angle dimensions](vr-dental-implant-training-lower-placement-deviations.md) — related
+- [Combined training groups show smaller CBCT implant deviations (linear and angular) than single-method groups](combined-groups-better-implant-accuracy-cbct.md) — related

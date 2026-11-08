@@ -89,6 +89,7 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [Video-based structured debriefing with a plus-delta approach immediately after each simulation scenario](video-plus-delta-debriefing-strategy.md)
 - [Use a two-step debriefing process: immediate written self-debrief followed by a large group debrief](two-step-self-then-group-debrief-vgs.md)
 - [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
+- [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following Fanning & Gaba's framework treat the scenario as merely the stimulus for the debrief.

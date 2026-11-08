@@ -76,3 +76,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Practitioners reported high perceived realism during the simulation scenarios, confirming they felt they were supporting a newborn rather than a simulator](practitioners-reported-scenario-realism.md) — related
 - [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
 - [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related
+- [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related

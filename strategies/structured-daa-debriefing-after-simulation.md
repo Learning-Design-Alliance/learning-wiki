@@ -49,6 +49,7 @@ Each simulation session in the program paired 40 minutes of scenario execution u
 - [Pair the simulation with a structured 30–40 minute debrief including a PowerPoint lecture, reflection, and checklist review](simulation-debrief-lecture-checklist-review.md)
 - [Three-phase debriefing (reaction, analysis, summary) with formative critical-actions feedback](three-phase-debriefing-ecpr-simulation-strategy.md)
 - [The Golden Minute Campaign: a multifaceted data-guided QI/simulation intervention combining trained local-champion facilitators, monthly scenario team training, clinical debriefings, and clinical data feedback loops](golden-minute-campaign-qi-simulation-intervention.md)
+- [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
 
 ## Examples
 -

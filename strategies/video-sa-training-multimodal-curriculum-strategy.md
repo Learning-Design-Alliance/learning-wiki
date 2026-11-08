@@ -51,6 +51,7 @@ The article recommends adding video-based situational awareness training with in
 ## Related Strategies
 
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
+- [Multiprofessional in situ simulation of procedural complications to develop situational awareness](in-situ-simulation-endoscopy-complications-situational-awareness.md)
 
 ## Examples
 -

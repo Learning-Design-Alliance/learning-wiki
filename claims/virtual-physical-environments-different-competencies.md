@@ -75,3 +75,4 @@ The review's synthesis of five studies highlighting the physical environment (re
 - [Help-seeking was the only self-regulation construct favored by 3D VR co-creation; the other five constructs were favored by 2D digital co-creation](help-seeking-prominent-in-vr-cocreation.md) — related
 - [VR assessments target three of the six ACGME core competencies: Patient Care, Interpersonal and Communication Skills, and Medical Knowledge](vr-assessments-target-three-acgme-competencies.md) — related
 - [In VR resuscitation simulation, participants primarily relied on the virtual patient's physical examination rather than the cardiorespiratory monitor as their source of clinical data](vr-simulation-participants-prioritize-virtual-patient-exam.md) — related
+- [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — a narrower finding that bears on this claim

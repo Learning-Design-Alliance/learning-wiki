@@ -53,3 +53,4 @@ In semi-structured interviews with 10 female trainee ANPs in Northern Ireland, t
 - [Prenatal clinicians describe inadequate, generic, and disengaging TIC training relying heavily on self-directed learning](inadequate-generic-tic-training-prenatal.md) — related
 - [None of the participating nursing faculty received institutionally structured training in soft skills pedagogy, leaving teaching dependent on individual initiative](no-institutional-soft-skills-training-faculty.md) — possibly the same claim (merge candidate)
 - [Clinical educators lacked specific training in teaching telehealth competencies and relied on assumed workplace knowledge](educator-lack-telehealth-training-simulation.md) — possibly the same claim (merge candidate)
+- [Nursing students perceive clinical training in health care institutions as an essential, unsubstitutable part of their education](clinical-training-perceived-indispensable.md) — related

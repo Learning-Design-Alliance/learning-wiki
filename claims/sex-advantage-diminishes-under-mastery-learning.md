@@ -84,3 +84,4 @@ Authors' interpretation of the treatment-group correlation comparisons (Table 4)
 - [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related
 - [Female students increased their attitudes toward physical education classes more than male students.](female-students-greater-attitude-increase.md) — related
 - [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — a narrower finding that bears on this claim
+- [Female Spanish undergraduates report higher academic confidence than male students in grades, studying and attendance, while male students report higher verbalising confidence](sex-differences-abc-subscale-confidence-spanish-undergraduates.md) — related

@@ -73,3 +73,4 @@ Analysis of propensity score logit distributions (Figure 3) shows the remaining 
 - [SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments](simcalc-texas-experiments-effect-sizes.md) — related
 - [One year of Utah Compose exposure raised students' SAGE ELA scale scores by 9.14 points (ES = 0.12) versus no exposure](uc-one-year-ela-ate-9-points.md) — related
 - [Experimental-group post-test descriptive scores on conceptual understanding exceeded control-group scores](bbl-polyhedron-descriptive-means-higher.md) — related
+- [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related

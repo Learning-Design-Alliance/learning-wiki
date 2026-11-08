@@ -71,3 +71,4 @@ Table 3 reports all four subscale t-tests as significant (e.g., PSCV: APPS M = 3
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
 - [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — related
 - [Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none](mixed-prior-evidence-label-effects-forensic.md) — related
+- [Lecturers show selective acceptance toward PLHIV, extending more empathy to those seen as innocent victims than to those perceived as responsible for infection](selective-acceptance-plhiv-innocent-victims.md) — related

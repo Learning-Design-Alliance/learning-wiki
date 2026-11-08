@@ -59,3 +59,4 @@ Three-level meta-analysis combining EF sub-domains (127 effect sizes, 45 studies
 - [School physical activity interventions did not significantly improve language, reading, or composite academic scores compared with controls](pa-interventions-no-effect-language-reading-composite.md) — a narrower finding that bears on this claim
 - [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md) — related
 - [Physical activity moderates but does not eliminate the elevated academic risk of the high-risk profile](physical-activity-moderates-academic-risk-partially.md) — reports the opposite
+- [Adolescents with moderate and active physical activity scores show significantly higher academic achievement and executive functioning scores than mildly active peers](pa-groups-higher-academic-achievement-adolescents.md) — reports the opposite

@@ -105,3 +105,4 @@ Primary adjusted proportional odds analysis (Table 3) of 3322 grade 3 and 2084 g
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
 - [Children in this sample averaged more than 3 hours of screen time per day, about three times recommended limits](children-exceed-3-hours-daily-screen-time.md) — related
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — a narrower finding that bears on this claim
+- [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ The monograph's own overall assessment, a narrative synthesis of the literatures
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
+- [Practice testing and distributed practice are the learning techniques with strong effect sizes; learner-initiated summarization, highlighting, mnemonics, imagery, and rereading have not been shown to enhance learning](practice-testing-distributed-practice-strong-effects.md) — possibly the same claim (merge candidate)

@@ -51,4 +51,5 @@ Review synthesis of four RCTs comparing cadaveric with low-fidelity simulation. 
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
 - [Cadaveric specimens are rated the most beneficial PTED simulation modality and low-fidelity bench-top models the least](cadaveric-specimens-preferred-pted-simulation-modality.md) — related
 - [Evidence on surgical console simulators for skill development is mixed, with some studies showing no benefit or inferior performance versus dry lab or cadaveric training](simulator-training-effectiveness-mixed-evidence.md) — possibly the same claim (merge candidate)
+- [Fidelity findings are mixed: one study found no significant difference between low-fidelity (€14) and high-fidelity (€2600) model groups, while nursing evidence favours fidelity for technical skills only](model-fidelity-nts-outcomes-mixed.md) — related
 

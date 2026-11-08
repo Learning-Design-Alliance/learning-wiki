@@ -52,6 +52,7 @@ The authors recommend that faculty deliberately use mental practice — mental r
 
 - [Mental skills training (mental imagery rehearsal of procedural steps) as a component of training for high-stakes clinical procedures](mental-skills-training-rehearses-procedural-steps.md)
 - [Use mental practice as an addition to physical practice for procedural skill learning in medical education](mental-practice-for-procedural-learning-strategy.md)
+- [Practise PPE procedures in simulation without consuming scarce equipment: verbal walkthroughs, PPE stickers, and simulated props](ppe-scarcity-simulation-adaptations.md)
 
 ## Examples
 -

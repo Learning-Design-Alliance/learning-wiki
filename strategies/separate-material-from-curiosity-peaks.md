@@ -47,6 +47,7 @@ The article suggests that piquing strong curiosity can interfere with encoding o
 
 - [Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge](problem-first-then-explanation.md)
 - [Pre Questioning](pre-questioning.md)
+- [Open each learning chapter with challenging questions before presenting key material to stimulate curiosity](chapter-opening-questions-stimulate-curiosity.md)
 
 ## Examples
 -

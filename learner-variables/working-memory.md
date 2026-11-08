@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (91 show a difference, 45 mixed, 22 no difference) · 126 studies (47 causal, 33 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 126 report an effect size · 149 claims rest on one study
+> **Evidence** · 161 claims (94 show a difference, 45 mixed, 22 no difference) · 128 studies (49 causal, 33 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 128 report an effect size · 152 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -201,6 +201,9 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Short-term memory (digit span backward) positively predicts reading, spelling and math computation in rural Bangladeshi children](../claims/short-term-memory-predicts-achievement-rural-bangladesh.md) [+M] — learners who differ on it differ in outcomes
 - [Task monitoring and working memory jointly predict 32.5% of general academic achievement and 25.5% and 27.1% of Language Arts and Mathematics achievement](../claims/task-monitoring-working-memory-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory factor relationships are similar across mathematical subdomains at age 9–10, with one exception: the verbal working memory link to operations is higher](../claims/wm-betas-similar-across-math-domains.md) [~M] — learners who differ on it differ in outcomes
+- [Adding metacognitive strategy training to working memory training produces greater working memory gains at 3 months than working memory training alone](../claims/metacognitive-addition-greater-wm-gains-3-months.md) [+M] — measured as an outcome of the instruction studied
+- [The authors attribute the 4-step group's short-term advantage to Step 3 verbalization producing deeper cognitive processing](../claims/step3-verbalization-cognitive-processing.md) [+W] — measured as an outcome of the instruction studied
+- [Working memory training improves children's working memory performance relative to an adaptive control group, immediately and at 3 months](../claims/wm-training-near-transfer-adaptive-control-children.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

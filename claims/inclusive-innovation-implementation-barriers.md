@@ -77,3 +77,4 @@ Thematic analysis of interviews across the pilot districts identified four barri
 - [Teachers in the project increased expertise and improved internal motivation through self-reflection and consultations.](clil-teacher-expertise-motivation.md) — related
 - [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related
 - [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related
+- [Lack of staff time was the most significant barrier to implementing the e-learning and care-planning intervention](staff-time-barrier-implementation.md) — related

@@ -87,3 +87,4 @@ Bootstrap mediation (5000 resamples) for negative academic emotions. The article
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related
 - [Positive academic emotions mediate most of the association between autonomy-supportive teaching and agentic engagement](pae-mediate-ast-agentic-engagement.md) — related
 - [Self-efficacy partially mediates the relationship between autonomous motivation and innovative teaching](self-efficacy-partially-mediates-motivation-innovation.md) — related
+- [Teacher perceptions of student‐specific autonomy support are positively associated with students' autonomous motivation at the student level](student-specific-autonomy-support-autonomous-motivation.md) — related

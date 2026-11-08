@@ -99886,5 +99886,909 @@
  "test-format\tvideo-based Situational Judgement Test\tstandardized simulated conversations": {
   "label": "video-based Situational Judgement Test vs standardized simulated conversations",
   "treatment_is_a": true
+ },
+ "active-learning\t60-h motor-learning course with a Learning by Doing project\tpre-course assessment": {
+  "label": "Learning by Doing vs pre-course assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\t60-hour ML course with Learning by Doing\texperienced physical therapists": {
+  "label": "Learning by Doing vs experienced physical therapists",
+  "treatment_is_a": true
+ },
+ "active-learning\t60-hour ML course with Learning by Doing\tlast-semester students with conventional ML education": {
+  "label": "Learning by Doing vs conventional machine-learning education",
+  "treatment_is_a": true
+ },
+ "active-learning\tAaLplus near-peer teaching curriculum\tno comparator reported": {
+  "label": "Near-peer teaching vs no comparator reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tAaLplus near-peer teaching curriculum followed by formative OSCE\tno comparator reported": {
+  "label": "Near-peer teaching plus formative OSCE vs no comparator reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning by Doing project with biweekly reflective logs\tnone reported": {
+  "label": "Learning by Doing with reflective logs vs no comparator reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tSNAPPS model\ttraditional teaching and the OMP model": {
+  "label": "SNAPPS vs traditional teaching or OMP",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive teaching practices\ttraditional theoretical presentation of content": {
+  "label": "Active teaching vs traditional theoretical presentation",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning\tproblem-based learning": {
+  "label": "Case-based learning vs problem-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning\ttraditional approach": {
+  "label": "Case-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\te-learning module or small-group work\ttraditional lecture": {
+  "label": "E-learning or small-group learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\te-learning or small-group repetition\ttraditional lecture repetition": {
+  "label": "Active repetition (e-learning or small-group) vs traditional lecture repetition",
+  "treatment_is_a": true
+ },
+ "active-learning\te-learning repetition activity\ttraditional lecture repetition activity": {
+  "label": "E-learning repetition vs traditional lecture repetition",
+  "treatment_is_a": true
+ },
+ "active-learning\te-learning repetition module\ttraditional lecture repetition": {
+  "label": "E-learning repetition vs traditional lecture repetition",
+  "treatment_is_a": true
+ },
+ "active-learning\tmixed pedagogies including active or experiential learning, social learning and protected time\tnot stated": {
+  "label": "Mixed active, experiential and social learning with protected time vs no comparator stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tmixed pedagogies with active or experiential learning, social learning and protected time\tother supervision training configurations": {
+  "label": "Mixed active, experiential and social learning with protected time vs other supervision training configurations",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipatory action research with improved education and nursing-student involvement in patient education\tbefore the interventions": {
+  "label": "Participatory action research with learner involvement vs pre-intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipatory action research with staff-led education, peer evaluation and student involvement\tbefore the interventions": {
+  "label": "Participatory action research with staff and learner involvement vs pre-intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer feedback in collaborative learning\tnot stated": {
+  "label": "Peer feedback in collaborative learning vs no comparator stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tquestioning during teaching\tteaching without first asking a question": {
+  "label": "Questioning before teaching vs teaching without an initial question",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group dissection-room repetition activity\ttraditional lecture repetition activity": {
+  "label": "Small-group dissection-room repetition vs traditional lecture repetition",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group repetition in the dissection room\ttraditional lecture repetition": {
+  "label": "Small-group dissection-room repetition vs traditional lecture repetition",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured role-playing\ttraditional theoretical presentation": {
+  "label": "Structured role-playing vs traditional theoretical presentation",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based PBL with emergency-care scenario simulation\ttraditional teacher-led, lecture-based teaching": {
+  "label": "Team-based problem-based learning with simulation vs traditional teacher-led lecture",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher class-average teacher-reported autonomy support\tlower class-average teacher-reported autonomy support": {
+  "label": "higher class-average teacher-reported autonomy support vs lower class-average teacher-reported autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher student-specific autonomy support\tlower student-specific autonomy support": {
+  "label": "higher student-specific autonomy support vs lower student-specific autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher teacher-perceived student-specific autonomy support\tlower teacher-perceived student-specific autonomy support": {
+  "label": "higher teacher-perceived student-specific autonomy support vs lower teacher-perceived student-specific autonomy support",
+  "treatment_is_a": true
+ },
+ "case-comparison\tinteractive animation contrasting patient-centred and non-patient-centred no-antibiotic consultations\tpreintervention confidence baseline": {
+  "label": "interactive animation vs preintervention confidence baseline",
+  "treatment_is_a": true
+ },
+ "case-comparison\tinteractive animation contrasting patient-centred and non-patient-centred no-antibiotic consultations\tprior prescribing practice": {
+  "label": "interactive animation vs prior prescribing practice",
+  "treatment_is_a": true
+ },
+ "debriefing\tdebriefing after a procedure\tno debriefing": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tdebriefing after a procedure\tno debriefing or control condition": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tdebriefing after a surgical crisis\tno debriefing": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\treal-time spectator viewing and shared debriefing\tearlier scenarios before subsequent trainees observed and debriefed": {
+  "label": "real-time shared debriefing vs delayed sequential debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tsimulations after one group feedback session\tsimulations before any group feedback session": {
+  "label": "after group feedback vs before group feedback",
+  "treatment_is_a": true
+ },
+ "debriefing\tsimulations after the first group feedback session (Period 1)\tsimulations before the first group feedback session (Period 0)": {
+  "label": "after group feedback vs before group feedback",
+  "treatment_is_a": true
+ },
+ "debriefing\tsimulations after the second group feedback session (Period 2)\tsimulations before the first group feedback session (Period 0)": {
+  "label": "after group feedback vs before group feedback",
+  "treatment_is_a": true
+ },
+ "debriefing\tsimulations after the third group feedback session (Period 3)\tsimulations before the first group feedback session (Period 0)": {
+  "label": "after group feedback vs before group feedback",
+  "treatment_is_a": true
+ },
+ "debriefing\tsimulations after three group feedback sessions\tsimulations before any group feedback session": {
+  "label": "after group feedback vs before group feedback",
+  "treatment_is_a": true
+ },
+ "debriefing\tsimulations after two group feedback sessions\tsimulations before any group feedback session": {
+  "label": "after group feedback vs before group feedback",
+  "treatment_is_a": true
+ },
+ "debriefing\tstructured PEARLS debriefing after simulation\tno comparison condition reported": {
+  "label": "structured PEARLS debriefing vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-month refresher training\tpre-12-month refresher assessment": {
+  "label": "12-month refresher training vs pre-12-month refresher assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t3-month refresher training\tpre-3-month refresher assessment": {
+  "label": "3-month refresher training vs pre-3-month refresher assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInstruction to include written take-home messages in slides\tNo such instruction": {
+  "label": "written take-home messages on slides vs no written take-home messages",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInstruction to include written take-home messages on slides\tNo instruction to include written take-home messages": {
+  "label": "written take-home messages on slides vs no written take-home messages",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInstruction to include written take-home messages on slides\tNo such instruction": {
+  "label": "written take-home messages on slides vs no written take-home messages",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tadditional hour of didactic nontechnical-skills training\tcomparison condition": {
+  "label": "didactic nontechnical-skills training vs comparison condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbaseline high-flow training\tpre-baseline assessment": {
+  "label": "baseline high-flow training vs pre-baseline assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdidactic NTS seminar\tcontrol group": {
+  "label": "didactic nontechnical-skills seminar vs control group",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction to include written take-home messages on slides\tno such instruction": {
+  "label": "written take-home messages on slides vs no written take-home messages",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpresimulation orientation on roles, verbalized orders, and closed-end communication\tinitial simulation without explicit orientation": {
+  "label": "presimulation explicit orientation vs no explicit orientation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsingle didactic NTS seminar\tcontrol group": {
+  "label": "didactic nontechnical-skills seminar vs control group",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttrain-the-trainer programs with structured curricula\tinformal see-one, do-one, teach-one training": {
+  "label": "structured train-the-trainer curriculum vs informal see-one, do-one, teach-one training",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tStructured in-depth feedback during the formative OSCE\tno-feedback comparison not reported": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tassignments with feedback\tassignments without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tformative OSCE with structured tutor feedback\tnot stated": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsimulations after group feedback sessions\tsimulations before the first group feedback session": {
+  "label": "after feedback vs before feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstructured in-depth feedback during the formative OSCE\tno comparator reported": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstructured in-depth tutor feedback during the formative OSCE\tno feedback comparison condition reported": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tanimated, individualised VP feedback\tgeneral NI model-answer feedback": {
+  "label": "Individualised vs general feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tsupervisor feedback\tteacher feedback": {
+  "label": "Supervisor vs teacher feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAaLplus curriculum followed by a formative OSCE with structured tutor feedback\tno comparison group reported": {
+  "label": "formative OSCE with structured tutor feedback vs no comparison group reported",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative General Medicine OSCE\tsummative Internal Medicine and Surgery OSCEs": {
+  "label": "formative OSCE vs summative OSCE",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative General Medicine OSCE\tsummative comparison OSCEs": {
+  "label": "formative OSCE vs summative OSCE",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative OSCE in General Medicine\tsummative OSCEs in Internal Medicine and Surgery": {
+  "label": "formative OSCE vs summative OSCE",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative OSCE in general medicine\tsummative OSCEs in internal medicine and surgery": {
+  "label": "formative OSCE vs summative OSCE",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative OSCE with student examiners\tsummative OSCEs in Internal Medicine and Surgery": {
+  "label": "formative OSCE with student examiners vs summative OSCE",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative general-medicine OSCE with student examiners\tsummative OSCEs in internal medicine and surgery": {
+  "label": "formative OSCE with student examiners vs summative OSCE",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative general-medicine OSCE with student examiners\tsummative OSCEs with expert examiners": {
+  "label": "formative OSCE with student examiners vs summative OSCE with expert examiners",
+  "treatment_is_a": true
+ },
+ "gamification\t5-minute interactive animated e-learning intervention\tpreintervention baseline": {
+  "label": "interactive animated e-learning intervention vs preintervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tClasscraft gamification\tconventional control instruction": {
+  "label": "gamification vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tClasscraft gamification\tnon-gamified control": {
+  "label": "gamification vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tClasscraft gamification\tnon-gamified control classes": {
+  "label": "gamification vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tFlipped Classroom combined with gamification using digital badges, missions and challenges\tPre-test before the didactic unit": {
+  "label": "gamified flipped classroom vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified group\tcontrol group": {
+  "label": "gamified instruction vs non-gamified control",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified group post-intervention\tcontrol group post-intervention": {
+  "label": "gamified instruction vs non-gamified control",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified group post-intervention\tgamified group pre-intervention": {
+  "label": "post-intervention vs pre-intervention within gamified instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\talternating between semi-related clinical topics\tfocusing exclusively on one topic": {
+  "label": "interleaving vs blocked practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaving\tblocked practice": {
+  "label": "interleaving vs blocked practice",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tESGE ESD training curriculum with quality benchmarks\tnot stated": {
+  "label": "mastery learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tGerman instructional-video prototype with chapters, multiple views, enlargements, replays, and key points\titerative expert and trainee review with no alternative instructional condition": {
+  "label": "feature-rich instructional video vs no alternative instructional condition",
+  "treatment_is_a": true
+ },
+ "media-design\tTake-home messages written on slides\tTake-home messages delivered only orally": {
+  "label": "written take-home messages on slides vs orally delivered take-home messages",
+  "treatment_is_a": true
+ },
+ "media-design\tlectures instructed to include written take-home messages on slides\tcontrol lectures without that instruction": {
+  "label": "written take-home messages on slides vs no written take-home messages",
+  "treatment_is_a": true
+ },
+ "media-design\ttake-home messages written on slides\ttake-home messages delivered only orally": {
+  "label": "written take-home messages on slides vs orally delivered take-home messages",
+  "treatment_is_a": true
+ },
+ "modelling\twatching good practice in the e-learning scenario\tprescribers' prior/current practice": {
+  "label": "good-practice modelling vs prior/current practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t100–200 ERCP cases\tmore than 350 ERCP cases": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\t26 animal-model cases\tfewer than 26 cases": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t35 ERCP cases\t100–200 ERCP cases": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\t365 days of nonuse or nonpractice\tcontinued use or practice": {
+  "label": "continued practice vs discontinued practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\t7-case efficiency threshold\t38-case efficiency threshold": {
+  "label": "higher vs lower practice threshold",
+  "treatment_is_a": false
+ },
+ "practice-amount\tPOEM training on ex vivo and live swine models\tbefore mastery": {
+  "label": "practice/training vs no practice/training",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadditional SFM performance\tfewer SFM performances": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tany repetition activity\tno repetition activity": {
+  "label": "repetition vs no repetition",
+  "treatment_is_a": true
+ },
+ "practice-amount\tconfidence after two simulation training sets\tconfidence after the first simulation training set": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\teach additional simulation performance\tfewer prior simulation performances": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfixed 200-ERCP competency threshold\tstudy-specific procedural threshold": {
+  "label": "fixed vs study-specific procedural threshold",
+  "treatment_is_a": true
+ },
+ "practice-amount\tindoor simulation training\tusual outdoor HEC training": {
+  "label": "indoor simulation training vs usual outdoor training",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlower reported POEM learning-curve plateau\thigher reported POEM learning-curve plateau": {
+  "label": "higher vs lower learning-curve plateau",
+  "treatment_is_a": false
+ },
+ "practice-amount\trepetition activity\trestricted repetition activity consisting of the multiple-choice test": {
+  "label": "more repetition vs restricted repetition",
+  "treatment_is_a": true
+ },
+ "practice-amount\treturn-day repetition activity or test\tno repetition activity": {
+  "label": "repetition vs no repetition",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsingle fixed procedural threshold\tthresholds ranging from 79 to 300 ERCPs": {
+  "label": "fixed vs variable procedural threshold",
+  "treatment_is_a": true
+ },
+ "prompts\tCogmed plus metacognitive strategy training\tCogmed working-memory training alone": {
+  "label": "metacognitive strategy prompts vs no metacognitive strategy prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tCogmed plus metacognitive strategy training\tadaptive visual search training plus placebo workbook": {
+  "label": "metacognitive strategy prompts vs no metacognitive strategy prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tCogmed plus metacognitive strategy workbook\tCogmed plus placebo workbook": {
+  "label": "metacognitive strategy prompts vs no metacognitive strategy prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tCogmed plus metacognitive strategy workbook\tadaptive visual search training plus placebo workbook": {
+  "label": "metacognitive strategy prompts vs no metacognitive strategy prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tMetaCogmed working memory plus metacognitive strategy training\tadaptive visual search training": {
+  "label": "metacognitive strategy prompts vs no metacognitive strategy prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tMetaCogmed: Cogmed plus metacognitive workbook\tadaptive visual search control": {
+  "label": "metacognitive strategy prompts vs no metacognitive strategy prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice testing\trestudy or none": {
+  "label": "retrieval practice vs restudy or no practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttest-only repetition\tlecture, e-learning, or small-group repetition": {
+  "label": "retrieval practice vs non-retrieval learning",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tparticipatory action research including peer evaluation and nurse-of-the-week recognition\tbefore the interventions": {
+  "label": "rewards/incentives vs no rewards/incentives",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation\tnot stated": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "simulation\t1-day simulation-based training curriculum followed by a simulator-based OSCE\tno comparison condition stated": {
+  "label": "simulation-based training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\t1-day simulation-based training curriculum with theoretical instruction, technical skills training, and simulator-based algorithm training\tno comparison condition stated": {
+  "label": "simulation-based training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\t15-min low-tech simulator pre-training\tearlier training without low-tech pre-training": {
+  "label": "low-tech simulator pre-training vs no low-tech pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t15-minute low-tech simulator practice\tno reported low-tech simulator practice": {
+  "label": "low-tech simulator practice vs no low-tech simulator practice",
+  "treatment_is_a": true
+ },
+ "simulation\t15-minute supervised practice on a low-tech simulator before full-scale simulation\tfull-scale simulation without the low-tech pre-training step": {
+  "label": "low-tech simulator pre-training vs no low-tech pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day ABCDE simulation course, assessed 3–4 months later\tbefore the course": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day ABCDE simulation course, assessed directly afterward\tbefore the course": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day ABCDE simulation-based course\tbefore the course": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day PAG examination simulation workshop\tpre-workshop self-assessment": {
+  "label": "post-workshop vs pre-workshop",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day simulation-based ABCDE course\tbefore the course": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day simulation-based ABCDE course\timmediately after the course": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": false
+ },
+ "simulation\t3–4-month follow-up after the ABCDE course\timmediately after the course": {
+  "label": "delayed post-training vs immediate post-training",
+  "treatment_is_a": true
+ },
+ "simulation\tBody Interact VPS class\tpre-test baseline": {
+  "label": "virtual patient simulation vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tBody Interact virtual patient simulation\tpre-test baseline": {
+  "label": "virtual patient simulation vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tCRM intervention\tpre-intervention NTS performance": {
+  "label": "CRM intervention vs pre-intervention performance",
+  "treatment_is_a": true
+ },
+ "simulation\tFIDS-based ureteroscopy and NTS training\tdidactic ureteroscopy and NTS training": {
+  "label": "simulation-based training vs didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\tHFS hybrid model\tpelvic trainer-SP-voice model": {
+  "label": "hybrid high-fidelity simulation vs pelvic trainer plus standardized patient and voice",
+  "treatment_is_a": true
+ },
+ "simulation\tHFS hybrid model\ttask trainer-SP-voice model": {
+  "label": "hybrid high-fidelity simulation vs task trainer plus standardized patient and voice",
+  "treatment_is_a": true
+ },
+ "simulation\tHFS hybrid model\ttrainer-SP-voice model": {
+  "label": "hybrid high-fidelity simulation vs trainer plus standardized patient and voice",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife endocrine surgery simulation\taverage performance benchmark": {
+  "label": "simulation training vs average performance benchmark",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife endocrine surgery simulation\taverage performance or benchmark not otherwise specified": {
+  "label": "simulation training vs average performance benchmark",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife endocrine surgery simulation\tno comparison condition stated": {
+  "label": "simulation training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife endocrine surgery simulation\tno comparison stated": {
+  "label": "simulation training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife endocrine surgery simulation\tnone stated": {
+  "label": "simulation training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife hyper-realistic simulation\tnone stated": {
+  "label": "high-fidelity simulation training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife simulation training\taverage performance benchmark": {
+  "label": "simulation training vs average performance benchmark",
+  "treatment_is_a": true
+ },
+ "simulation\tSimLife simulation training\tno comparator": {
+  "label": "simulation training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tVirtual patient simulation using Body Interact\tPre-test before the simulation": {
+  "label": "virtual patient simulation vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tchecklist of expected actions in the simulation scenario\tnot stated": {
+  "label": "checklist-based assessment vs unspecified assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tclass using low-cost handmade simulators\tno comparison condition": {
+  "label": "low-cost handmade simulator class vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tcombined virtual and jaw-model training\tsingle simulation method": {
+  "label": "combined virtual and jaw-model training vs single simulation method",
+  "treatment_is_a": true
+ },
+ "simulation\texperiential learning with simulated dental-clinic role play\tconventional Tell-Show-Do": {
+  "label": "simulated dental-clinic role play vs Tell-Show-Do",
+  "treatment_is_a": true
+ },
+ "simulation\tfellow-developed pathophysiology simulation\tno comparison condition reported": {
+  "label": "simulation-based training vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tfull immersion/distributed simulation with ureteroscopy and NTS teaching\tdidactic teaching": {
+  "label": "immersive distributed simulation vs didactic teaching",
+  "treatment_is_a": true
+ },
+ "simulation\thands-on ESD practice on animal models\tno or less animal-model practice": {
+  "label": "hands-on animal-model practice vs no or less animal-model practice",
+  "treatment_is_a": true
+ },
+ "simulation\thands-on training on animal models before human cases\tundertaking human cases without this preparatory training": {
+  "label": "animal-model preparation before human cases vs no preparatory training",
+  "treatment_is_a": true
+ },
+ "simulation\thealth care simulation training\tnot stated": {
+  "label": "health-care simulation training vs unspecified comparator",
+  "treatment_is_a": true
+ },
+ "simulation\thumanized childbirth and birth simulation scenario\t80% minimum adequacy criterion": {
+  "label": "humanized childbirth simulation scenario vs adequacy criterion",
+  "treatment_is_a": true
+ },
+ "simulation\thumanized childbirth and birth simulation scenario with validated checklist\tnone; expert validation ratings": {
+  "label": "validated simulation checklist vs no checklist or expert ratings",
+  "treatment_is_a": true
+ },
+ "simulation\tindoor HEC simulation\ttraditional outdoor helicopter HEC training": {
+  "label": "indoor helicopter emergency-care simulation vs outdoor helicopter training",
+  "treatment_is_a": true
+ },
+ "simulation\tindoor HEC training\toutdoor HEC flight training": {
+  "label": "indoor helicopter emergency-care training vs outdoor flight training",
+  "treatment_is_a": true
+ },
+ "simulation\tindoor nighttime HEC simulation\tpre-course assessment": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tindoor nighttime HEC simulation\tpre-training self-assessment": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tindoor nighttime HEC simulation\tusual outdoor HEC training": {
+  "label": "indoor helicopter emergency-care simulation vs outdoor training",
+  "treatment_is_a": true
+ },
+ "simulation\tindoor simulated HEC training\trequired outdoor helicopter HEC training": {
+  "label": "indoor helicopter emergency-care simulation vs outdoor training",
+  "treatment_is_a": true
+ },
+ "simulation\tindoor simulated HEC training\tstandard outdoor helicopter HEC training": {
+  "label": "indoor helicopter emergency-care simulation vs outdoor training",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-cost handmade obstetric simulators\tself-reported anxiety before or without simulator training": {
+  "label": "low-cost handmade obstetric simulation vs pre-training or no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-cost handmade obstetric simulators\tself-reported state before or without simulator training": {
+  "label": "low-cost handmade obstetric simulation vs pre-training or no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-cost handmade simulator class\tno explicit comparison condition": {
+  "label": "low-cost handmade simulator class vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-cost handmade simulator class\tno simulator / pre-training self-report": {
+  "label": "low-cost handmade simulator class vs no simulation or pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-fidelity emergency medicine simulation curriculum\tinitial simulation cases before learners became more comfortable": {
+  "label": "low-fidelity simulation curriculum vs initial simulation cases",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-fidelity emergency medicine simulation curriculum\tinitial simulation cases with less learner experience": {
+  "label": "low-fidelity simulation curriculum vs less-experienced initial cases",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-fidelity emergency medicine simulation curriculum\tno prior simulation training": {
+  "label": "low-fidelity simulation curriculum vs no prior simulation training",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-fidelity model (€14)\thigh-fidelity model (€2600)": {
+  "label": "low-fidelity simulator vs high-fidelity simulator",
+  "treatment_is_a": false
+ },
+ "simulation\tobstetric training using handmade simulators\tbefore the class": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tonsite LDHF simulation plus mobile mentoring\toffsite traditional group-based training": {
+  "label": "onsite low-dose high-frequency simulation with mentoring vs offsite traditional group training",
+  "treatment_is_a": true
+ },
+ "simulation\tonsite low-dose, high-frequency simulation plus mobile mentoring\toffsite traditional group-based training": {
+  "label": "onsite low-dose high-frequency simulation with mentoring vs offsite traditional group training",
+  "treatment_is_a": true
+ },
+ "simulation\tperformance 3–4 months after the ABCDE simulation course\tperformance directly after the course": {
+  "label": "delayed post-training vs immediate post-training",
+  "treatment_is_a": true
+ },
+ "simulation\tperformance directly after the simulation-based course\tperformance 3–4 months after the course": {
+  "label": "immediate post-training vs delayed post-training",
+  "treatment_is_a": true
+ },
+ "simulation\tperformance directly after the simulation-based course\tperformance before the course": {
+  "label": "immediate post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tschool-based experiential learning with simulated dental-clinic role play\tconventional Tell-Show-Do behavior management": {
+  "label": "simulated dental-clinic role play vs Tell-Show-Do",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based NTS training\tdidactic lectures": {
+  "label": "simulation-based nontechnical-skills training vs didactic lectures",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based emergency medicine learning\tbook learning": {
+  "label": "simulation-based learning vs book learning",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based emergency medicine learning\tusual or prior preparation for live cases": {
+  "label": "simulation-based learning vs usual or prior preparation",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training and assessment program\tnone reported": {
+  "label": "simulation-based training and assessment vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training in GI endoscopy\tstandard endoscopic training without simulation-based practice": {
+  "label": "simulation-based endoscopy training vs standard training without simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tsingle-day CRM course with didactic and simulation training\tpre-course NTS performance": {
+  "label": "post-course performance vs pre-course performance",
+  "treatment_is_a": true
+ },
+ "simulation\tstatus epilepticus simulation case\tno comparison condition reported": {
+  "label": "simulation case vs no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tstructured indoor nighttime HEC simulation with classroom instruction and debriefing\tpre-training baseline": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tstructured indoor nighttime HEC simulation with debriefing\tpre-training baseline": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tthree virtual patient simulations\tthree non-interactive case studies": {
+  "label": "interactive virtual patient simulation vs non-interactive case studies",
+  "treatment_is_a": true
+ },
+ "simulation\ttwo sets of vessel-phantom simulation training\tvideo viewing and observing skilled clinicians perform cannulation": {
+  "label": "vessel-phantom simulation training vs video and observation training",
+  "treatment_is_a": true
+ },
+ "simulation\ttwo-hour virtual patient simulation session\tpre-test before the simulation": {
+  "label": "virtual patient simulation vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tuse of low-cost handmade obstetric simulators\tno simulator or less realistic training": {
+  "label": "low-cost handmade obstetric simulation vs no simulation or less realistic training",
+  "treatment_is_a": true
+ },
+ "simulation\tvalidated humanized-childbirth simulation scenario and checklist\t80% minimum expert-agreement criterion": {
+  "label": "validated humanized-childbirth simulation checklist vs adequacy criterion",
+  "treatment_is_a": true
+ },
+ "simulation\tvessel-phantom simulation training\tvideo and observation of standard clinical training": {
+  "label": "vessel-phantom simulation training vs video and observation training",
+  "treatment_is_a": true
+ },
+ "simulation\tvessel-phantom simulation training\tvideo and observation-based standard curriculum": {
+  "label": "vessel-phantom simulation training vs video and observation training",
+  "treatment_is_a": true
+ },
+ "simulation\tvessel-phantom simulation training\tvideo and observed standard curriculum": {
+  "label": "vessel-phantom simulation training vs video and observation training",
+  "treatment_is_a": true
+ },
+ "simulation\tvessel-phantom simulation training\tvideo observation and observation of skilled performers": {
+  "label": "vessel-phantom simulation training vs video and observation training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual patient case studies\tnon-interactive case studies": {
+  "label": "virtual patient case studies vs non-interactive case studies",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual patient simulation\tknowledge-item performance": {
+  "label": "virtual patient simulation vs knowledge-item performance",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual patient simulation\tpre-test before the simulation": {
+  "label": "virtual patient simulation vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual patient simulations\tnon-interactive case studies": {
+  "label": "virtual patient simulation vs non-interactive case studies",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation followed by jaw model\tjaw model followed by virtual simulation": {
+  "label": "virtual simulation followed by jaw-model simulation vs jaw-model simulation followed by virtual simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation followed by jaw model\tvirtual simulation alone": {
+  "label": "virtual simulation followed by jaw-model simulation vs virtual simulation alone",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation followed by jaw simulation\tjaw simulation followed by virtual simulation": {
+  "label": "virtual simulation followed by jaw-model simulation vs jaw-model simulation followed by virtual simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation followed by jaw simulation\tvirtual simulation alone": {
+  "label": "virtual simulation followed by jaw-model simulation vs virtual simulation alone",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation plus jaw model\tsingle simulation method: virtual simulation or jaw model": {
+  "label": "combined virtual and jaw-model simulation vs single simulation method",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation plus jaw model\tvirtual simulation alone": {
+  "label": "combined virtual and jaw-model simulation vs virtual simulation alone",
+  "treatment_is_a": true
+ },
+ "spacing\tany repetition activity\tno repetition activity": {
+  "label": "repetition vs no repetition",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed practice or spaced repetition\tmassed practice or cramming": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\trepeated simulation training set after a one-month inter-training interval\tfirst simulation training set": {
+  "label": "repeated vs initial simulation training",
+  "treatment_is_a": true
+ },
+ "spacing\trepeated simulation training set after a one-month interval\tfirst simulation training set": {
+  "label": "repeated vs initial simulation training",
+  "treatment_is_a": true
+ },
+ "spacing\trepeated simulation training set after one-month interval\tfirst simulation training set": {
+  "label": "repeated vs initial simulation training",
+  "treatment_is_a": true
+ },
+ "spacing\tspreading studying or recall over time\tmassed studying or recall": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "technology-tool\t20-item Likert questionnaire evaluating interactive clinical avatars\tnone stated": {
+  "label": "interactive clinical-avatar technology vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360-degree video VR delivered via HMD\tnone; single-arm usability evaluation": {
+  "label": "HMD-delivered 360-degree VR vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D before 4K sequence\t3D after 4K sequence": {
+  "label": "3D-before-4K sequence vs 3D-after-4K sequence",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D display system\t2D-4K display system": {
+  "label": "3D display vs 2D-4K display",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D display system\t4K display system": {
+  "label": "3D display vs 4K display",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D laparoscopic display\t2D-4K display": {
+  "label": "3D laparoscopic display vs 2D-4K laparoscopic display",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D laparoscopic display system\t2D-4K display system": {
+  "label": "3D laparoscopic display vs 2D-4K laparoscopic display",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical bones and associated learning activities\tneutral or negative survey responses": {
+  "label": "3D-printed anatomical models vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical models and interactive learning activities\tneutral or negative questionnaire responses": {
+  "label": "3D-printed anatomical models vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed bone models with mock peer-to-peer viva practice\tno comparison condition reported": {
+  "label": "3D-printed anatomical models with mock viva practice vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bone models and associated activities\tno comparison condition reported": {
+  "label": "3D-printed upper-limb bone models vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bone models used in class and at home\tno comparison condition reported": {
+  "label": "3D-printed upper-limb bone models used in class and at home vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bones and associated learning activities\tneutral or negative questionnaire responses": {
+  "label": "3D-printed upper-limb bones vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bones available for class and independent study\tnot stated": {
+  "label": "3D-printed upper-limb bones for class and independent study vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bones available in class and at home\tneutral or negative questionnaire responses": {
+  "label": "3D-printed upper-limb bones for class and home use vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bones used for assessment preparation\tnot stated": {
+  "label": "3D-printed upper-limb bones for assessment preparation vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bones used for viva preparation and mock examinations\tneutral or negative questionnaire responses": {
+  "label": "3D-printed upper-limb bones for viva preparation and mock examinations vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bones with associated learning activities\tnot stated": {
+  "label": "3D-printed upper-limb bones with associated learning activities vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed upper-limb bones with mock viva and anatomy activities\tnot stated": {
+  "label": "3D-printed upper-limb bones with mock viva and anatomy activities vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t4K before 3D sequence\t4K after 3D sequence": {
+  "label": "4K-before-3D sequence vs 4K-after-3D sequence",
+  "treatment_is_a": true
+ },
+ "test-format\tsingle problem-of-the-day assessment\tcomprehensive ASER numeracy assessment": {
+  "label": "comprehensive assessment vs single-problem assessment",
+  "treatment_is_a": false
  }
 }

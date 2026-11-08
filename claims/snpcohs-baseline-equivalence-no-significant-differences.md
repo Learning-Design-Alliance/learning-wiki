@@ -50,3 +50,4 @@ Independent t-tests on baseline outcome scores for 60 NPs (30 per group); Table 
 - [Baseline characteristics and prior laparoscopic experience did not differ significantly between the structured VRST and control groups](no-baseline-differences-vrst-groups.md) — related
 - [NPs in the SNPCOHS program scored significantly higher than the comparison group on professional attributes, knowledge, skills, and perceived self-efficacy at both week 4 and week 8](snpcohs-higher-than-comparison-week4-week8.md) — related
 - [Virtual and F2F teaching groups showed no significant baseline differences in characteristics or prior laparoscopic experience](no-baseline-differences-groups.md) — related
+- [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related

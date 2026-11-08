@@ -50,3 +50,4 @@ Kruskal-Wallis H test of PRMQ scores across combined physical-activity and stres
 - [Perceived academic stress correlates positively with perceived memory problems among preclinical medical students (rS = 0.445)](perceived-stress-correlates-poorer-perceived-memory-medical-students.md) — related
 - [Physical activity moderates but does not eliminate the elevated academic risk of the high-risk profile](physical-activity-moderates-academic-risk-partially.md) — related
 - [Preclinical medical students report significantly higher perceived stress than clinical students](preclinical-students-higher-perceived-stress.md) — related
+- [Moderate and active physical activity are associated with lower salivary cortisol and higher serum serotonin in adolescents](pa-associated-lower-cortisol-higher-serotonin.md) — related

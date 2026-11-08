@@ -48,3 +48,4 @@ Mixed ANOVA on the real tyre-change task with 42 participants randomly allocated
 - [A learning-curve offset method estimates augmented-cues VR training as equivalent to 0.93 real tyre-change sessions versus 0.37 for conventional VR training](equivalent-training-sessions-learning-curve-offset.md) — related
 - [The augmented-cues VR group completed the first real trial significantly faster than the no-training control group, while the conventional VR group's advantage was not statistically significant](atv-first-trial-faster-than-real-only-control.md) — related
 - [Task completion time for nail insertion decreased significantly across simulation runs and remained stable during retention](ar-simulator-insertion-time-decrease-retention.md) — related
+- [No significant difference between VR and control groups in time spent on ultrasonographic tasks](no-time-difference-vr-ultrasound-tasks.md) — related

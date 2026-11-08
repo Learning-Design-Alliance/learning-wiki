@@ -51,3 +51,5 @@ Semi-structured interviews with 4 experimental-group participants (2 male, 2 fem
 - [Asynchronous voice-based MMC offers more opportunities for noticing non-target items than synchronous voice MMC](avmmc-more-noticing-than-svmmc.md) — related
 - [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](discussion-board-lowers-l2-writing-anxiety.md) — reports the opposite
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related
+- [Students rated asynchronous and rigid online methodologies (uploaded documents, chat-only, homework) as sub-standard, citing limited learning and lack of feedback](asynchronous-methodologies-rated-substandard.md) — related
+- [Nursing students during COVID-19 confinement clearly preferred face-to-face teaching over e-learning, while evaluating synchronous videoconferences as the best online methodology](nursing-students-prefer-face-to-face-videoconference-best.md) — related

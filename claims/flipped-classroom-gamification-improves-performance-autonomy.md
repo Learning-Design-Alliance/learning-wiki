@@ -49,3 +49,4 @@ The review reports, citing Carpena Arias & Esteve Mon (2022), that research in S
 - [The review reports a positive relationship between gamification and motivation in learning processes](gamification-motivation-positive-relationship-review.md) — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
+- [Flipped Classroom and badge-based gamification in a nutrition didactic unit were followed by higher post-test scores in motivation, autonomy and self-regulation among sixth-grade primary students](flipped-gamification-nutrition-unit-post-test-gains.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Retrospective chart review of well-woman visit notes, past medical history, obst
 - [No provider gender difference in asking about preeclampsia history](no-provider-gender-difference-preeclampsia-inquiry.md) — related
 - [In-person and emailed provider education interventions did not significantly change preeclampsia screening documentation](provider-education-no-change-preeclampsia-screening.md) — related
 - [Only 69% of providers who received the educational slides by email opened them](email-slide-engagement-69-percent-opened.md) — related
+- [Many CVD specialists are unaware of the cardiovascular risks posed by adverse pregnancy outcomes and few take a detailed pregnancy history](cvd-specialists-unaware-apo-risks.md) — a broader claim this one bears on

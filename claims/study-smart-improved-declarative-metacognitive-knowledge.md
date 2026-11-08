@@ -51,3 +51,4 @@ Pre-post and long-term repeated-measures analysis of effectiveness ratings in th
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — a broader claim this one bears on
 - [Two versions of a retrieval-practice intervention left students with equal declarative metacognitive knowledge about retrieval practice, which declined over three weeks regardless of version](declarative-knowledge-no-version-difference-declines.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Practice testing and distributed practice are the learning techniques with strong effect sizes; learner-initiated summarization, highlighting, mnemonics, imagery, and rereading have not been shown to enhance learning](practice-testing-distributed-practice-strong-effects.md) — related

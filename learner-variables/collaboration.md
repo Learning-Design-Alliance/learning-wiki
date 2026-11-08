@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (144 show a difference, 27 mixed, 12 no difference) · 157 studies (62 causal, 29 review, 23 qualitative, 13 associational, 13 design, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 13 of 157 report an effect size · 183 claims rest on one study
+> **Evidence** · 186 claims (147 show a difference, 27 mixed, 12 no difference) · 160 studies (63 causal, 30 review, 24 qualitative, 13 associational, 13 design, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 13 of 160 report an effect size · 186 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -225,6 +225,9 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Situation awareness education produced no significant improvement in TEAM teamwork and overall subscale scores in ICU teams](../claims/sa-education-no-teamwork-overall-effect-icu-teams.md) [-M] — measured as an outcome of the instruction studied
 - [Cooperation was the personal ability most frequently reported as enhanced by the competition, endorsed by roughly 89–93% of team leaders, students, and volunteers](../claims/guanghua-cup-cooperation-most-reported-benefit.md) [+W] — measured as an outcome of the instruction studied
 - [Critical thinking disposition, problem-solving, and collaboration contribute most to SEC, and clinical performance dominates academic achievement](../claims/sec-structure-coefficients-ranking-nursing.md) [+M] — learners who differ on it differ in outcomes
+- [A single didactic NTS seminar significantly improved medical students' teamwork, situational awareness and error handling, but decision making and patient outcomes did not differ from control](../claims/didactic-seminar-improves-teamwork-situational-awareness.md) [+W] — measured as an outcome of the instruction studied
+- [Interprofessional team training using TeamSTEPPS led healthcare professionals to experience greater awareness and knowledge of their common teamwork skills during a 12-month implementation on a surgical ward](../claims/teamstepps-team-training-greater-awareness-teamwork-skills.md) [+M] — measured as an outcome of the instruction studied
+- [Students' self-rated positive attitudes toward interprofessional collaboration rose from pre-test to post-test in the control group during the control IPE activity of cooperative learning plus interprofessional community service learning](../claims/cooperative-learning-community-service-alone-improves-ipe-attitudes.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

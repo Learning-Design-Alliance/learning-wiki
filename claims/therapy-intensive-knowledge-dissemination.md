@@ -49,3 +49,4 @@ Self-reported knowledge dissemination from the follow-up impact survey of the 20
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Genetic counselors most commonly develop teaching skills through informal resources and rarely have formal degree-based education training](gc-teaching-training-informal-dominates.md) — related
 - [Participants in the 2024 and 2025 UAB/SNMMI Nuclear Medicine Therapy Intensive showed marked pre-to-post knowledge gains, reaching near-universal mastery across assessed domains](therapy-intensive-prepost-knowledge-gains.md) — related
+- [Informally talking to colleagues is the most used strategy for reflective practice, followed by analyzing critical incidents, discussion groups and mentor support](ot-reflective-practice-strategies-colleagues-most-used.md) — related

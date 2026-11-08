@@ -48,3 +48,4 @@ Checklist-based analysis of communication and therapy item clusters in the rando
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related
 - [Within the RCDP experimental group, ACLS performance skill and team communication rose significantly from the first to the second simulation](rcdp-second-simulation-performance-communication-gains.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
+- [The pattern of checklist score change from first to second video differed between examiner groups, suggesting viewing order as a possible confound](osce-video-order-effect-checklist-scores.md) — related

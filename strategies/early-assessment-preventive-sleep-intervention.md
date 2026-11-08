@@ -44,6 +44,7 @@ The article recommends that schools and services attend to children's sleep diff
 - [Combine sleep hygiene education and physical activity promotion in campus student support programs](campus-sleep-hygiene-pa-combined-strategy.md)
 - [Map chronotype differences and implement targeted sleep hygiene interventions in schools](school-chronotype-mapping-sleep-hygiene-intervention.md)
 - [Schools assessing and tracking student depression and delivering school-based depression prevention programs](school-based-depression-tracking-and-prevention.md)
+- [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
 
 ## Examples
 -

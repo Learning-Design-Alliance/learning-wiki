@@ -52,6 +52,7 @@ The authors recommend that postoperative structured feedback and video debriefin
 
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
+- [Use high-quality surgical videos, ideally in faculty-led group study, to compensate for lost operating room time](faculty-led-surgical-video-group-review-strategy.md)
 
 ## Examples
 -

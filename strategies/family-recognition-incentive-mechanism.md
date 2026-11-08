@@ -56,6 +56,7 @@ The article describes an incentive mechanism in which "the 3-person guidance tea
 - [Leaderboards](leaderboards.md)
 - [Use TGT tournaments with team recognition tiers to motivate students](tgt-team-recognition-tiers-strategy.md)
 - [Gamified Practice](gamified-practice.md)
+- [Weekly peer evaluation with a nurse-of-the-week recognition programme to increase nurse motivation](peer-evaluation-nurse-of-week-strategy.md)
 
 ## Examples
 -

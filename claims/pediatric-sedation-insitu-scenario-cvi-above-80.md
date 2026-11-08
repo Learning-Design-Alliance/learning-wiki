@@ -57,3 +57,4 @@ Content-validation stage of a descriptive study: 12 experts (eight women, four m
 - [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related
 - [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related
+- [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](expert-validation-above-80-percent-all-aspects.md) — a narrower finding that bears on this claim

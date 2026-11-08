@@ -47,6 +47,7 @@ The article recommends expanding simulation-based training during residency: pel
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
+- [Use dynamic perfused-cadaver simulation to overcome insufficient annual caseload in subspecialized surgical training](dynamic-cadaver-simulation-for-low-caseload-subspecialties.md)
 
 ## Examples
 -

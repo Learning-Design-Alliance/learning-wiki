@@ -55,6 +55,7 @@ The authors recommend structured simulator-based practice as a low-risk adjunct 
 - [Add direct observation of the learner's simulated encounter before the coaching session](direct-observation-before-coaching-strategy.md)
 - [Supervise cadaver-based colonoscopy training with skilled endoscopist feedback and debriefing, since the model lacks objective performance metrics](cadaver-colonoscopy-supervised-debriefing-strategy.md)
 - [Provide fine-grained simulator feedback on intubation performance as a complement to traditional training](fine-grained-simulator-feedback-intubation-training.md)
+- [Use simulation-based and video-based training and assessment as adjuncts where local experts and case volume are lacking](simulation-video-training-adjuncts-novel-endoscopy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Cross-sectional online survey of 234 Finnish registered nurses using the GGNPS-C
 - [Nurses who rate their genomics understanding as excellent/good score significantly higher on the Knowledge Score than those rating it poor](self-rated-genomics-understanding-associated-with-knowledge-score.md) — related
 - [Poorer self-rated understanding of ethics and equity is associated with lower Knowledge Scores; importance of ethics education is also associated with KS](genomic-ethics-self-ratings-associated-with-knowledge-score.md) — related
 - [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related
+- [Practitioners' poor self-ratings corresponded with their actual number of correct answers](ecg-self-rating-corresponds-performance.md) — reports the opposite

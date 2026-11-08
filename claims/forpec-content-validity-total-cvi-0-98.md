@@ -56,3 +56,4 @@ Content validation by eight Brazilian simulation experts using the Content Valid
 - [Facilitators' feasibility agreement was at least 96.43% on every statement except ease of use, which 25% did not agree with](forpec-feasibility-ease-of-use-75-percent.md) — related
 - [Focus group discussion of ForPEC yielded comments categorized as completeness, practicality and usefulness](forpec-focus-group-completeness-practicality-usefulness.md) — related
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related
+- [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](expert-validation-above-80-percent-all-aspects.md) — a narrower finding that bears on this claim

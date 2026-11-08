@@ -44,7 +44,9 @@ Drawn from philosophy of science (Machamer, Darden & Craver, 2000) and operation
 - (none yet linked)
 
 ## Examples
+
 - [Evaluating and Justifying Mechanistic Explanations](../elements/evaluating-and-justifying-mechanistic-explanations.md)
+- [Sequence case questions from simple to complex, emphasizing molecular-mechanism questions](../strategies/simple-to-mechanistic-question-sequencing.md)
 
 ## Key Sources
 - Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M. (2025). Mechanistic reasoning in biology among elementary school children: Epistemic criteria for evaluation and construction. *Journal of the Learning Sciences, 34*(1), 35-70. [https://doi.org/10.1080/10508406.2024.2432682](https://doi.org/10.1080/10508406.2024.2432682)

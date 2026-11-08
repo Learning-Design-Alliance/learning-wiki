@@ -51,3 +51,4 @@ Pearson correlation analysis in the portfolio study of 105 students found "none 
 - [Ultrasound-guided phase OSCE performance scores and overall ratings were nominally higher than landmark-phase performance among EM residents with paired data](us-guided-osce-nominally-higher-than-landmark.md) — related
 - [Both general and specific IC show borderline, moderate associations with VR-OSCE station performance (r=0.41, P=.06; r=0.37, P=.09) but neither relates to overall analog OSCE performance](ic-borderline-association-vr-osce-not-analog-osce.md) — related
 - [Self-esteem, empathy and self-assessed OSCE success showed no significant intergroup differences and did not correlate with OSCE success](null-self-esteem-empathy-self-assessment.md) — related
+- [Post-course ML self-efficacy was moderately correlated with performance on an objective ML knowledge exam](self-efficacy-correlated-with-knowledge-exam.md) — related

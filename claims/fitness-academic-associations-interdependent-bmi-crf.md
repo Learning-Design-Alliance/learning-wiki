@@ -64,3 +64,8 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
 - [Adding physical fitness measures did not significantly enhance GPA prediction beyond motor competence, age, and BMI](fitness-block-did-not-enhance-gpa-prediction.md) — related
 - [Aerobic fitness (Yo-Yo IR1) is positively correlated with mathematics and science GPA in schoolchild handball players](aerobic-fitness-yoyo-positively-correlated-academic-gpa.md) — related
+- [Cardiorespiratory fitness is positively associated with general intelligence in adolescents on both the D48 and Raven tests, adjusting for sex and age](crf-associated-with-intelligence-adolescents.md) — related
+- [Students classified as fit show better academic achievement than unfit students across fitness components](fit-vs-unfit-groups-academic-achievement.md) — related
+- [Cardiorespiratory fitness, flexibility and overall fitness are positively associated with academic achievement in all subjects, but muscular strength is not associated with Spanish language or mathematics](fitness-components-associated-with-academic-achievement.md) — related
+- [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related
+- [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related

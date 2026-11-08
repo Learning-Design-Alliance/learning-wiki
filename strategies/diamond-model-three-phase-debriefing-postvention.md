@@ -42,6 +42,7 @@ The scenario's debriefing stage follows "The Diamond" model, developed "through 
 - [Use the GAS (Gather, Analyze, Summarize) structured debriefing model after simulated emergency scenarios](gas-structured-debriefing-model.md)
 - [Three-phase debriefing (reaction, analysis, summary) with formative critical-actions feedback](three-phase-debriefing-ecpr-simulation-strategy.md)
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
+- [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ A search of the Cochrane Database of Systematic Reviews conducted to identify ef
 - [Public participants without friends diagnosed with cancer were more likely to want information on survival rates of all cancer types](no-friend-with-cancer-survival-rates-need.md) — related
 - [Booklets or leaflets and internet text-and-figures were the public's preferred delivery modes for cancer information](public-preferred-delivery-booklets-internet.md) — related
 - [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related
+- [Lecturers' restrictive teaching practices risk transmitting stigma to students and doing harm to stigma-reduction efforts](lecturer-practices-transmit-stigma-intergenerational.md) — related

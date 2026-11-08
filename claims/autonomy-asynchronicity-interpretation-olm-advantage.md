@@ -53,3 +53,4 @@ Authors' theoretical interpretation in the Discussion, not a tested result; they
 - [Healthcare providers' confidence in virtual care delivery rose from pre-test to post-test after an asynchronous virtual care CPD module, in one uncontrolled pre-post study](virtual-care-cpd-module-improves-confidence.md) — related
 - [Nurses enjoyed the asynchronous self-directed training, with no one reporting dissatisfaction with self-directed learning or learning without an instructor](nurses-enjoy-asynchronous-self-directed-training.md) — related
 - [Students experience interaction differently across formats: synchronous immediate feedback versus asynchronous delayed, more reflective questioning](sync-immediate-feedback-async-reflection-theme.md) — related
+- [Students rated asynchronous and rigid online methodologies (uploaded documents, chat-only, homework) as sub-standard, citing limited learning and lack of feedback](asynchronous-methodologies-rated-substandard.md) — related

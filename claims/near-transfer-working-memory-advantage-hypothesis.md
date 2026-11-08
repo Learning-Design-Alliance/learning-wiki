@@ -53,3 +53,4 @@ This is the article's theoretical argument in the introduction for expecting the
 - [Training in metacognitive regulation combined with a cognitive learning strategy transfers to better metacognitive regulation of mental effort (far transfer), with small effect sizes](far-transfer-metacognitive-regulation-mental-effort.md) — related
 - [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](far-metacognitive-transfer-effort-regulation.md) — related
 - [Initial patient impressions improved significantly for far transfer (r = 0.73) but not for near transfer (p = 0.12)](initial-impressions-far-transfer-gain.md) — related
+- [Near transfer after working memory training is greatest on tasks structurally similar to the training tasks, and metacognitive strategy training extends transfer to the least similar task](near-transfer-depends-on-task-similarity.md) — related

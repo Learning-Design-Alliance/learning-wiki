@@ -48,3 +48,4 @@ Learning Salon Post-Engagement Survey responses from 17 solution providers, item
 - [In the first Learning Salon, half of providers felt unable to showcase their solution's impact and a quarter felt unable to collaborate on co-design](first-salon-showcase-codesign-limits.md) — related
 - [90% of surveyed district leaders and solution providers would participate in another Learning Salon even if no changes were made](ninety-percent-would-repeat-salon.md) — related
 - [District leaders reported high satisfaction with the key features of the Learning Salon model across all three surveyed salons](district-leaders-satisfied-learning-salon-features.md) — related
+- [Grantees reported very high satisfaction with NTTAC technical assistance and products](high-satisfaction-nttac-ta-recipients.md) — related

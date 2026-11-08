@@ -50,3 +50,4 @@ Between-day reliability analysis comparing time point 1 (immediately after train
 - [Simulated infant CPR performance shows a high degree of within-day reliability, with excellent ICCs for chest compression rate, depth, residual leaning and duty cycle](icpr-within-day-reliability-excellent.md) — related
 - [Reliability is lower and variability higher once iCPR metrics are converted into guideline-based quality indices, with between-day rate-QI ICC falling to .52 and MDC reaching 101% of the mean](icpr-quality-indices-lower-reliability.md) — related
 - [Because iCPR performance is highly repeatable over a week, performance changes after training can be attributed to true skill decay rather than inconsistent performance](icpr-skill-decay-not-natural-variation.md) — possibly the same claim (merge candidate)
+- [After 365 days of nonuse, average performance on a skill decays by nearly a full standard deviation (d = -0.92)](skill-decay-365-days-nonuse-d-092.md) — related

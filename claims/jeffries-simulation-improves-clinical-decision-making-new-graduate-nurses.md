@@ -58,3 +58,4 @@ Same single-group pretest/posttest study (n = 60); preceptors rated decision-mak
 - [MCQ scores in the control group without structured reflection fell from pre-test to post-test in a within-group pre-test–post-test measurement](no-reflection-mcq-decline.md) — related
 - [Nurses who completed a tailored 72-hour training program scored significantly higher on overall clinical performance than untrained nurses in cardiac surgery wards](tailored-training-higher-nurse-clinical-performance.md) — related
 - [New graduate nurses who completed the standard clinical training program showed a greater mean increase in total competency scores than untrained nurses, with an intermediate effect size](standard-clinical-training-greater-competency-increase-did.md) — related
+- [Structured preceptor training may contribute to improved transition to practice and first-year retention of new graduate nurses](structured-preceptor-training-transition-retention.md) — related

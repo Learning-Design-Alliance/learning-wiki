@@ -64,6 +64,7 @@ Templates work by offloading the structural demands of a task so working memory 
 - [Self-Regulated Strategy Development](../products/self-regulated-strategy-development-srsd.md) — SRSD embeds planning templates within explicit strategy instruction and self-monitoring
 - [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 - [Provide teacher scaffolding throughout all stages of the writing process, giving feedback on drafts and gradually transferring responsibility to learners.](teacher-scaffolding-throughout-writing-process.md)
+- [Use a collaborative, work-in-progress writing template shared between clinical and simulation teams](collaborative-work-in-progress-writing-template-strategy.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — Graham and Harris's extensively validated approach uses mnemonic planning templates (e.g., POW+TREE for persuasive writing) that are explicitly taught, modeled, and faded as students internalize the strategy ([https://srsdonline.ca](https://srsdonline.ca))

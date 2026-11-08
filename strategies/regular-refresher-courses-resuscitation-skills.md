@@ -55,6 +55,7 @@ Because the study observed that resuscitation skills and patient safety attitude
 - [Adapt simulation session length and content to learner experience level, and emphasize maintenance training for low-frequency procedures](adapt-sim-session-to-experience-and-maintain.md)
 - [Use e-learning as a low-dose, high-frequency skill maintenance tool after an initial blended learning course to counter skill decay](e-learning-low-dose-high-frequency-maintenance-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
+- [Organise refresher courses or simulation team training with a focus on CRM skills after an initial ABCDE simulation course](crm-focused-refresher-team-training-strategy.md)
 
 ## Examples
 -

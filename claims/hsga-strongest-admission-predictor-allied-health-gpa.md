@@ -50,3 +50,4 @@ Multivariate linear regression in a retrospective cohort of 1634 complete gradua
 - [Female gender, CAMS college, program type and earlier graduation year each predicted cumulative GPA alongside admission scores](gender-college-program-year-predict-gpa.md) — reports the opposite
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a broader claim this one bears on
 - [Mean cumulative GPA and admission scores varied across the 13 allied health programs, highest GPA in occupational therapy and lowest in biomedical instrumentation](program-level-variation-gpa-allied-health.md) — related
+- [Course achievement statistically predicts students' cumulative GPA, leading the authors to predict GPA gains if blended flipped learning continued to graduation](achievement-predicts-cumulative-gpa-blended-flipped.md) — related

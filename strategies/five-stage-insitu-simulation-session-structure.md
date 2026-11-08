@@ -45,6 +45,7 @@ The validated scenario organizes each in-situ simulation session into an explici
 - [Debriefing](debriefing.md)
 - [Three-phase simulation session: expectation-setting, observing an inappropriate-model video, then an appropriate-model video with discussion and communication practice](three-phase-sdm-video-simulation-strategy.md)
 - [Tailor simulation scenarios to each board via a pre-workshop chair briefing selecting a starting point](pre-workshop-chair-briefing-scenario-tailoring.md)
+- [Multiprofessional in situ simulation of procedural complications to develop situational awareness](in-situ-simulation-endoscopy-complications-situational-awareness.md)
 
 ## Examples
 -

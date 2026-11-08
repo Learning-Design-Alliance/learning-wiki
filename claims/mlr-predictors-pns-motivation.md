@@ -50,3 +50,4 @@ Multiple linear regressions on the 308-student sample with gender, experience, a
 - [Students with low GPA report lower PNS and intrinsic motivation and higher amotivation than students with high GPA](low-gpa-lower-pns-intrinsic-motivation.md) — related
 - [Students with prior online-learning experience report higher PNS and motivation and lower amotivation than inexperienced peers](prior-online-experience-higher-pns-motivation.md) — related
 - [Female Saudi PE students report higher autonomy and competence than males during online PE learning, with no gender difference in relatedness](gender-difference-autonomy-competence-online-pe.md) — related
+- [Female PE students show higher GPA and higher intrinsic and extrinsic motivation and lower amotivation than male PE students](women-pe-students-higher-gpa-motivation.md) — reports the opposite

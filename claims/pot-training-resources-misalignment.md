@@ -70,3 +70,4 @@ Survey resource items (Table 6): Assistant PoTs received higher start-up funds (
 - [Assistant (pre-tenure) PoTs report being expected to spend significantly more time on scholarly activities than tenured PoTs](assistant-pots-expected-more-scholarship-time.md) — related
 - [Assistant PoTs report spending more time on scholarship and less on service, but the scholarship difference did not remain significant after multiple-comparison correction](actual-time-scholarship-service-by-rank.md) — related
 - [PoTs who engage in DBER and generate peer-reviewed publications report greater influence on colleagues' teaching, while mentoring student researchers correlates negatively](scholarship-correlates-teaching-influence.md) — related
+- [Despite being valued, the scholar role receives insufficient time in practice, forcing clinicians to enact it on personal time](ot-scholar-role-enacted-on-personal-time.md) — related

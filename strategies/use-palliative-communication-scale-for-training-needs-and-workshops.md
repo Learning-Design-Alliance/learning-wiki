@@ -45,6 +45,7 @@ The authors recommend deploying the validated scale as a practical tool for comm
 
 - [Enhance SBLE quality by applying standards, specifying objectives, using externally validated scenarios, and employing rigorous evaluation](four-recommendations-quality-sble-communication.md)
 - [Use the DKSCQ-N to identify training needs and evaluate dysphagia training outcomes in hospital settings.](dkscqn-training-needs-assessment-strategy.md)
+- [Use validated self-efficacy and thanatophobia scales to evaluate palliative care programmes and tailor pedagogical approaches](scales-to-evaluate-palliative-care-programmes.md)
 
 ## Examples
 -

@@ -65,3 +65,5 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related
 - [SP and examiner scores differ significantly on the total score and three of ten rubric items in the dental OSCE station](wilcoxon-sp-examiner-score-differences-osce-items.md) — related
 - [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related
+- [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — a broader claim this one bears on
+- [Inter-rater reliability of OSCE scores was fair and similar for accented and non-accented videos](osce-fleiss-kappa-fair-reliability-both-accents.md) — related

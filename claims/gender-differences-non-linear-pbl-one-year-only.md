@@ -48,3 +48,4 @@ Two-way ANOVA with Bonferroni post-test on grades by gender across five academic
 - [Male and female students taught algebra with problem-based learning show no statistically significant difference in retention scores](pbl-no-gender-retention-difference.md) — related
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
 - [Overall module grades showed no significant difference across five academic years of non-linear PBL use](module-grades-stable-across-five-years.md) — related
+- [Final pediatrics grades were stable across three academic years, with grade C the most common outcome](final-grades-stable-across-three-years.md) — related

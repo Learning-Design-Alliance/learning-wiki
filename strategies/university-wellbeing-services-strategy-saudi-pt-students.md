@@ -54,6 +54,7 @@ The article recommends that universities address student well-being holistically
 - [Implement student-support mechanisms and embed well-being in the medical curriculum to sustain strength of motivation](student-support-mechanisms-sustain-motivation.md)
 - [Promote healthy dietary habits and mental well-being among university students as a lever for academic success](promote-healthy-habits-mental-wellbeing-university.md)
 - [Institutions and supervisors should improve doctoral students' well-being and engagement rather than using fear and stress as motivators](support-based-doctoral-supervision-strategy.md)
+- [Routinely signpost academically struggling students to mental health support, building on academic staff depression literacy](signpost-struggling-students-mental-health-support.md)
 
 ## Examples
 -

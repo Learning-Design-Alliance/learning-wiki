@@ -54,6 +54,7 @@ The authors used the PEARLS (Promoting Excellence And Reflective Learning in Sim
 - [Three-phase debriefing (reaction, analysis, summary) with formative critical-actions feedback](three-phase-debriefing-ecpr-simulation-strategy.md)
 - [Use ONA-derived network visualizations to target debriefing on communication bottlenecks and assessment-to-action transitions](ona-informed-debriefing-strategy.md)
 - [Debrief the postvention scenario with \"The Diamond\" model across descriptive, analytical and application phases](diamond-model-three-phase-debriefing-postvention.md)
+- [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 
 ## Examples
 -

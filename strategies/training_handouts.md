@@ -59,9 +59,11 @@ Handouts work when they function as an external memory aid plus an engagement de
 5. Distribute reference material after the session and attach it to a follow-up task or reminder so it is actually revisited
 
 ## Related Strategies
+
 - [Advance organizers](../elements/advance-organizers.md) — a partial-outline handout is an advance organizer delivered on paper
 - [Active learning](../principles/active-learning.md) — handouts are a low-cost vehicle for embedding activity into lecture-based training
 - [Check-ins](../principles/check-ins.md) — handout rating scales and response prompts can double as structured check-in tools
+- [Use guided notes rather than distributed slide copies to increase attention during lectures](guided-notes-hierarchical-outline-lectures.md)
 
 ## Related Elements
 - [Annotating](../principles/annotating.md) — the core learner behavior a well-designed handout elicits

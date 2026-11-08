@@ -49,3 +49,4 @@ Narrative review section on the teacher's role in online teaching, reporting res
 - [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related
 - [Information quality, system quality, instructor attitude, assessment diversity, and learner interaction predict satisfaction](five-determinants-of-elearning-satisfaction.md) — related
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
+- [Educators delivered online teaching via multi-device video conferencing tools, educational portals and social media apps, modifying learning objectives for online sessions](online-tools-and-modified-objectives-optometry.md) — related

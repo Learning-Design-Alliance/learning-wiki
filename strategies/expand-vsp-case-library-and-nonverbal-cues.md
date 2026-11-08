@@ -63,6 +63,7 @@ The authors' forward-looking recommendations for strengthening VSP-based psychia
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 - [Blended-learning sequencing: learn concrete conversation techniques online first, then deepen non-verbal and emotional aspects in physical SP units](blended-sp-techniques-online-first-physical-second.md)
 - [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
+- [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
 
 ## Examples
 -

@@ -60,3 +60,4 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](short-versus-long-intervals-no-difference-time-to-proficiency.md) — related
 - [No overall difference in training-session scores between mass and spaced learning groups](no-group-difference-during-training-sessions.md) — reports the opposite
 - [Spaced learning produces higher microsurgical suturing scores than mass learning at 1 month after training](spaced-learning-better-1-month-microsurgery-retention.md) — a narrower finding that bears on this claim
+- [Repeated simulation training with a one-month interval accelerated the learning curve and reduced inter-individual variability](repeated-simulation-sets-accelerate-learning-curve.md) — related

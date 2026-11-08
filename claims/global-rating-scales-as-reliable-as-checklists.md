@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-08
 recheck_by: 2015
 sources:
   - id: morris-marie-c-2012
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
+> **Currency** · newest study 2012 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports that global scoring tools used by expert practitioners are as reliable an assessment method as item specific checklists and considerably less labour intensive to devise. [→ Morris Marie C. 2012](#morris-marie-c-2012)

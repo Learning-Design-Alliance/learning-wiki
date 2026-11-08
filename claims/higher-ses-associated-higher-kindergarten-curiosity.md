@@ -57,3 +57,4 @@ Adjusted main-effects regression on the weighted ECLS-B sample of 4,750 children
 - [The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.](ses-cognitive-relationship-peaks-prekindergarten.md) — related
 - [The SES–positive behavior relationship follows the same curvilinear pattern but is weaker in magnitude than the SES–cognitive relationship at every wave.](ses-behavior-relationship-weaker-curvilinear.md) — related
 - [Higher socioeconomic status was associated with increased caries risk in this sample](higher-ses-associated-increased-caries-risk.md) — reports the opposite
+- [Socioeconomic status and epilepsy-related clinical variables show no significant effect on cognitive test scores in this sample](clinical-variables-no-cognitive-effect.md) — reports the opposite

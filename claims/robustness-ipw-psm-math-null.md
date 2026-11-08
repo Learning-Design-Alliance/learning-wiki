@@ -51,3 +51,4 @@ Robustness checks on the same DiD models: IPW weights aligning the sample with t
 - [Post-COVID 15–17-year-old girls in India had 1.5–1.6% lower reading ability than matched pre-COVID girls](post-covid-girls-literacy-loss-india.md) — related
 - [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related
 - [The main associations are not driven by children with high problem scores, by IQ adjustment, or by attrition selection bias](sensitivity-analyses-robust-associations.md) — related
+- [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related

@@ -49,6 +49,7 @@ The article recommends that Hungarian physiotherapy education add explicit diffe
 
 - [Include dedicated CWM skill development alongside general medical communication training in physiotherapy curricula](add-cwm-training-to-pt-curricula.md)
 - [Tailor e-learning by pre-scoring knowledge of red flags and spinal pathologies and offering additional content before continuing](tailored-e-learning-red-flags-pre-scoring.md)
+- [Emphasise life-threatening adverse events in take-away points and add a case-based example to improve retention of safety-critical content](emphasise-adverse-events-case-example-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 160 claims (98 show a difference, 28 mixed, 34 no difference) · 101 studies (39 associational, 29 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 101 report an effect size · 158 claims rest on one study
+> **Evidence** · 162 claims (99 show a difference, 28 mixed, 35 no difference) · 102 studies (40 associational, 29 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 102 report an effect size · 160 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -197,6 +197,8 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](../claims/ef-mediate-crf-gsv-grades.md) [+M] — learners who differ on it differ in outcomes
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and mathematics grades](../claims/ef-mediate-crf-math-grades.md) [+M] — learners who differ on it differ in outcomes
 - [General executive functions predict 14.7% of general academic achievement and 12.3% and 12.2% of Language Arts and Mathematics achievement in children aged 6–9](../claims/executive-functions-predict-achievement-6-9.md) [+M] — learners who differ on it differ in outcomes
+- [Heart rate measures during physical education show no clear associations with executive function despite slight associations with academic performance](../claims/hr-pe-no-clear-executive-function-association.md) [-M] — measured as an outcome of the instruction studied
+- [Minimum heart rate during physical education is inversely associated with visual scanning and number sequencing (cognitive flexibility) subdomains](../claims/min-hr-inverse-cognitive-flexibility-subdomains.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

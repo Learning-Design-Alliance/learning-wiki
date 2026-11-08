@@ -58,6 +58,7 @@ The article states that "Theoretical knowledge in the low-fidelity setting seems
 - [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](theory-course-application-piece.md)
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
+- [Use hybrid simulation with high psychological fidelity, including induced stress, when teaching complex intimate-examination skills](hybrid-simulation-psychological-fidelity-strategy.md)
 
 ## Examples
 -

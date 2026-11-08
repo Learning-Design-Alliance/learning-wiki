@@ -53,6 +53,7 @@ The article recommends that institutions embed physical movement in academic lif
 - [Tailored institutional support for fasting students: flexible schedules, sleep hygiene programs, and fatigue monitoring](ramadan-student-support-flexible-schedules-fatigue-monitoring.md)
 - [Integrate structured physical activity programs into the daily school curriculum to sustain MVPA](structured-daily-school-physical-activity-programs.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
+- [Schools and sports organizations should create active lifestyles and facilitate access to physical practice for children and adolescents](schools-facilitate-access-physical-practice.md)
 
 ## Examples
 -

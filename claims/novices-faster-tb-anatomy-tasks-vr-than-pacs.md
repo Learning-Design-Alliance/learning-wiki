@@ -50,3 +50,4 @@ Controlled within-participant comparison of five novice surgeons performing land
 - [Novices trained with VR anatomy materials request less assistance during their first mastoidectomy than novices trained with traditional materials](vr-anatomy-training-less-assistance-first-mastoidectomy.md) — related
 - [Both novice and expert surgeons rated the VR environment significantly higher than cross-sectional viewing on overall user experience](vr-higher-user-experience-ratings.md) — related
 - [Novices' task performance in VR approached expert level after five temporal bone sessions, suggesting a shorter learning curve](vr-shorter-learning-curve-novices.md) — related
+- [VR-enhanced anatomy training improves overall ultrasonography task performance in novice medical students](vr-anatomy-improves-ultrasound-task-performance.md) — related

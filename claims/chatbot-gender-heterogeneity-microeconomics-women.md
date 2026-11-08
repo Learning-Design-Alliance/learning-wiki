@@ -60,3 +60,4 @@ Subgroup ITT analysis in the Microeconomics RCT (915 randomized students) with f
 - [ITS program completers earned an average final course grade of 2.18 on a 4.0 scale (SD = 1.388, N = 39)](its-completers-average-course-grade-2-18.md) — related
 - [No significant gender difference in scenario scores before or after training.](no-gender-difference-trauma-scenario-scores.md) — related
 - [Women participated in the case-study course more than men regardless of allocation group](women-participate-more-than-men-case-study.md) — related
+- [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — related

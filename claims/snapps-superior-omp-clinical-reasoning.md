@@ -56,3 +56,5 @@ Assertion recorded in the review's Table 2 summary of SNAPPS benefits, which als
 - [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related
 - [A 45-minute SNAPPS lecture significantly improves psychiatry residents' case-discussion teaching scores across outpatient, ward, and emergency settings](snapps-lecture-improves-resident-teaching-scores.md) — related
 - [A BEME review found the OMP and SNAPPS models were the only clinical teaching strategies that consistently improved learners' clinical knowledge and skills](beme-review-omp-snapps-consistently-improved-skills.md) — related
+- [SNAPPS use yields benefits over traditional teaching and the OMP model, including increased learner satisfaction and clinical reasoning (Level 1b, Grade B)](snapps-benefits-over-traditional-and-omp.md) — a broader claim this one bears on
+- [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — reports the opposite

@@ -49,3 +49,4 @@ Authors' interpretation in the Results section describing the framework's first 
 - [Interpersonal capabilities — building connectedness and seeking permission — foster trust and psychosocial safety in serious illness conversations](sic-interpersonal-connectedness-permission.md) — related
 - [The intervention improved all five dimensions of aesthetic nursing care, with very large between-group effect sizes across dimensions](aesthetic-care-dimensions-all-improved.md) — related
 - [Patient values and choices and benefit-not-harming show the strongest associations with PCC competency; providing fair care the weakest](strongest-ethical-dimensions-pcc-values-benefit.md) — related
+- [Students propose humanizing care for critically ill patients and better supporting their families, including adequate information and comfortable visiting](improving-care-families-critically-ill.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: imbroane-m-2026
     resource: "https://doi.org/10.15766/mep_2374-8265.11606"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comfort delivering bad news increased for intrauterine fetal demise (61% vs 84%), cancer diagnosis (38% vs 69%), and previable PPROM (46% vs 77%). [→ Imbroane M 2026](#imbroane-m-2026)

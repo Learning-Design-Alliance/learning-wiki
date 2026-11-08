@@ -67,3 +67,4 @@ Multiple-mediator multilevel analysis of teacher-reported strategies (Table 4.4)
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related
 - [Teacher and student perceptions of strategy use converge only for involvement; teacher perceptions of student self-determination predict student-reported self-determination](teacher-student-perception-concordance.md) — related
 - [Teachers' self-determination does not predict students' self-determination or corresponding motivational regulations](teacher-sdi-no-student-sdi-link.md) — related
+- [Teacher perceptions of student‐specific autonomy support are negatively associated with students' controlled motivation at the student level](student-specific-autonomy-support-controlled-motivation.md) — related

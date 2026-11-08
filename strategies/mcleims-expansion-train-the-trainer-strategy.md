@@ -51,6 +51,7 @@ The authors recommend that "mCLEIMS may be expanded through faculty-development 
 
 - [Use faculty development workshops to standardize TBL facilitation with diverse team composition and case integration](faculty-development-tbl-facilitation.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
+- [Develop simulation cases from an informal needs assessment of local ED census and staff input, keeping cases uncomplicated for simulation-naive learners](local-needs-assessment-case-development.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ The article's relatedness section links IE's care element to SDT's relatedness n
 - [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](school-side-support-genai-engagement.md) — related
 - [Qualitative studies depict teachers as emotional socialisers whose modelling, warmth, and structure are perceived to foster students' SEC and classroom engagement](qualitative-teacher-emotional-socialiser-perceptions.md) — related
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
+- [Student‐perceived need support is positively associated with students' autonomous motivation at both the student and class levels](student-perceived-need-support-autonomous-motivation.md) — related

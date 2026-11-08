@@ -54,3 +54,4 @@ Reliability analysis of blinded dual-rater scoring in the 17-case video review, 
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [Patient communication and situation awareness are associated with high technical performance in obstetric teams managing real-life shoulder dystocia](patient-communication-situation-awareness-associated-high-technical-performance-shoulder-dystocia.md) — related
+- [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — related

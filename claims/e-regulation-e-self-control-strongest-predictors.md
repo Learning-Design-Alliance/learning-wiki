@@ -54,3 +54,4 @@ Multi-group structural equation model (ADF estimation) on n = 776 students, with
 - [Emotional e-independence predicts habitual digital behaviors only in girls and older students, while emotional e-awareness predicts them only in boys](e-independence-e-awareness-differential-predictors.md) — related
 - [Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data](social-e-competency-positive-predictor.md) — related
 - Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students — related
+- [In SEM models for each emotional context, self-regulation negatively predicts coping strategies and negative emotions but does not positively predict positive emotions](sem-self-regulation-negative-emotions-buffering.md) — related

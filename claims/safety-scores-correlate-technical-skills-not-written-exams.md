@@ -50,3 +50,4 @@ The review's synthesis of relationship-to-other-variables evidence reports that 
 ## Related Claims
 - [Reliability and validity evidence for patient safety assessment tools is modest: internal structure reported for 22 tools, content validity for 14, and correlations with other assessments for only eight](modest-validity-evidence-safety-tools.md) — related
 - [Oral exam scores correlate only modestly with written exams and OSCEs (r = 0.10–0.74), suggesting oral exams assess distinct skills](oral-exam-distinct-validity-correlations.md) — related
+- [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — related

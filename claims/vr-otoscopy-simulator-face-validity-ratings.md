@@ -53,3 +53,4 @@ Cross-sectional questionnaire study of 39 medical students and 25 otolaryngologi
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [IVR application shows face validity for realism of anatomy and equipment, but tissue-interaction realism is rated low due to suboptimal haptic feedback](ivr-face-validity-haptic-limitation.md) — related
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
+- [Trainees reported high satisfaction with SimLife on learning ease, anatomic fidelity, realism and overall satisfaction](simlife-high-trainee-satisfaction.md) — related

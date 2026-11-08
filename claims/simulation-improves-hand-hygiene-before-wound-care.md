@@ -50,3 +50,4 @@ Quasi-experimental before-and-after study with 50 nursing students; skills obser
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
 - [Clinical simulation improves physical examination skills and recognition of surgical wound infection signs](simulation-improves-infection-sign-recognition.md) — related
 - [Nursing students' documentation and recording of surgical wound assessment and care rose from pre-test to post-test after clinical simulation, in one uncontrolled pre-post study](simulation-improves-wound-care-documentation.md) — related
+- [Most students attribute their basic medical skills to the AaLplus program, except hand disinfection and blood pressure measurement](aalplus-skill-acquisition-attribution.md) — related

@@ -44,6 +44,7 @@ The authors recommend that medical schools standardize emergency imaging trainin
 ## Related Strategies
 
 - [Implement radiology training on emergency conditions in family medicine residency, or use tele-radiology in primary care](emergency-cxr-radiology-training-course-strategy.md)
+- [Emphasise life-threatening adverse events in take-away points and add a case-based example to improve retention of safety-critical content](emphasise-adverse-events-case-example-strategy.md)
 
 ## Examples
 -

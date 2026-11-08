@@ -73,3 +73,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Remote assessment of low-stake skills was viewed as comparable to in-person assessment and able to standardise competency assessment](remote-assessment-standardises-low-stake-competency.md) — related
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — related
+- [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related

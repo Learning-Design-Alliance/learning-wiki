@@ -55,3 +55,4 @@ Logistic regressions of each off-track indicator on background covariates withou
 - [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related
 - [Girls report higher school engagement at time 1 and higher cumulative GPA than boys](girls-higher-engagement-and-gpa-than-boys.md) — related
 - [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [Female gender and private school attendance predict high achievement in the socio-demographic model but are overshadowed by health behaviors](gender-school-type-overshadowed-by-health-behaviors.md) — related

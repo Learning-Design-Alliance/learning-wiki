@@ -78,3 +78,5 @@ Temporal stability assessed using a test–retest design with 30 participants wh
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
 - [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related
+- [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related
+- [The Spanish ARS shows satisfactory internal consistency, discriminant validity and temporal stability for its three factors](spanish-ars-reliability-temporal-stability.md) — related

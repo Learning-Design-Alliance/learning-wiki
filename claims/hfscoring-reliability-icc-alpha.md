@@ -75,3 +75,5 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related
 - [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — a narrower finding that bears on this claim
 - [The purpose-developed portrayal instrument showed good inter-rater reliability, with ICCs of 0.62–0.82 across assessor pairs](portrayal-instrument-good-inter-rater-reliability.md) — related
+- [Self-assessed skills and OSCE results are consistent across five annual cohorts, indicating routine viability](aalplus-cross-cohort-consistency.md) — related
+- [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — reports the opposite

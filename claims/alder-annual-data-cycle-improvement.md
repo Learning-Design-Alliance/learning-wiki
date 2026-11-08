@@ -52,3 +52,4 @@ Descriptive account of Alder's continuous improvement infrastructure from the ca
 - [States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding](state-summer-data-collection-uses.md) — related
 - [Engaging students as partners in analyzing and discussing student experience data creates authentic engagement and signals responsiveness to students](students-as-partners-in-data-use.md) — related
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related
+- [Grantees reported a significant increase in continuous quality improvement implementation from 2016 to 2018](significant-cqi-increase-over-time.md) — related

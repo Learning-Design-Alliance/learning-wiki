@@ -52,3 +52,4 @@ Survey of Swiss teaching-hospital department heads (48 respondents). The Results
 - [Only 24% of prosthodontics postgraduate trainees received regular training on simulators despite reported SBL availability](quarter-trainees-regular-simulator-training-pakistan.md) — related
 - [Most Swiss teaching hospitals provide self-training sites and in-house laparoscopy courses, with high-fidelity trainers in a minority](swiss-hospitals-simulation-infrastructure-availability.md) — related
 - [Surgical simulators were present in 35% of surveyed German surgical clinics, with 143 simulators in use](35-percent-german-clinics-simulators-143-devices.md) — related
+- [Use of pre-structured e-portfolio forms varies greatly between trainees, with substantial percentages of non-use even for mandatory forms in later cohorts](high-variability-nonuse-of-eportfolio-forms.md) — related

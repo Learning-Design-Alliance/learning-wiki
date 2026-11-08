@@ -49,6 +49,7 @@ The article recommends sequencing hands-on jaw-model practice before virtual sim
 ## Related Strategies
 
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
+- [Combine a virtual simulation system with a jaw simulation model in preclinical implant training, teaching the virtual system first](combine-virtual-and-jaw-simulation-implant-training.md)
 
 ## Examples
 -

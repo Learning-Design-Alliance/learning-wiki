@@ -64,6 +64,7 @@ Response devices convert passive audiences into active respondents and give inst
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a low-tech variant with the same commit-discuss-share structure
 - [Formative Assessment](formative-assessment-cycles.md) — response devices are one instrument for enacting it
 - [Combine anonymous clicker questions with small-group discussion of conceptual questions](cps-anonymity-group-discussion-strategy.md)
+- [Use an anonymous audience response system to activate students who hesitate to answer questions publicly](anonymous-ars-activate-hesitant-students.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each question is a retrieval practice opportunity

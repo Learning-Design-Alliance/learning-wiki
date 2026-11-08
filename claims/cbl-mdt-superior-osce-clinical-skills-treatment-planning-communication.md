@@ -80,3 +80,4 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [A larger share of the combined-method group reported improved doctor–patient communication skills (82.69% vs 56.86%)](cbl-clinical-pathway-communication-skills-improved.md) — possibly the same claim (merge candidate)
 - [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related
 - [Interactive learning activities yield significantly higher professional-factor scores (theoretical knowledge, critical thinking, clinical competence) than traditional learning](interactive-learning-higher-professional-factors.md) — a broader claim this one bears on
+- [Case-based learning improves practical knowledge application (OSCE scores) over traditional approaches, as reported in a cited study](cbl-improves-osce-practical-knowledge.md) — related

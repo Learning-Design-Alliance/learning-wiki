@@ -54,3 +54,7 @@ Stepwise linear regression analysis (Table 3) regressing d2 measures on fitness 
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
 - [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — related
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related
+- [Higher percentage of body fat mass is associated with lower selective attention and concentration in pre-adolescents](body-fat-mass-negative-association-attention.md) — related
+- [Cardiorespiratory fitness is the physical fitness measure that best predicts selective attention, concentration, and academic performance in pre-adolescents](cardiorespiratory-fitness-best-predictor-attention-academic.md) — related
+- [Maximum oxygen consumption correlates positively, and sprint and change-of-direction times negatively, with d2 attention measures, while omissions, commissions and variation index relate to no fitness variable](fitness-correlations-d2-attention-measures.md) — related
+- [Pre-adolescents in the higher-fitness cluster score better on selective attention and concentration than those in the lower-fitness cluster](higher-fitness-cluster-better-selective-attention-concentration.md) — related

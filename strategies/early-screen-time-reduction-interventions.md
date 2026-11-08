@@ -45,7 +45,8 @@ The article's stated recommendation is that "early interventions to reduce scree
 - [Video game use (any vs none) in young children is associated with lower grade 3 reading achievement in the combined sample](../claims/video-game-use-lower-grade3-reading.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Media plans for children should consider the type and timing of media exposure, with cumulative heavy television and computer use as a focus](media-plans-type-timing-exposure-strategy.md)
 
 ## Examples
 -

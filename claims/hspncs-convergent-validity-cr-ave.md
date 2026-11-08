@@ -52,3 +52,4 @@ Convergent validity and internal consistency assessment via CFA in the validatio
 - [Composite reliability was adequate for both factors of the MID competency scale](mid-competency-instrument-composite-reliability.md) — related
 - [The CKAPQ measurement model shows adequate construct validity, with composite reliability 0.729–0.848 and AVE 0.516–0.669 exceeding discriminant MSV values](ckapq-construct-validity-cr-ave.md) — related
 - [The BSEC shows convergent and discriminant validity: CR > .87, AVE > .63, and AVE square roots exceeding inter-factor correlations](bsec-convergent-discriminant-validity.md) — related
+- [The BBKS meets convergent validity criteria (CR above .7, AVE greater than .50) and discriminant validity criteria (square root of AVE exceeding interconstruct correlations)](bbks-convergent-discriminant-validity.md) — related

@@ -57,3 +57,4 @@ Synthesis of the Bangladesh Bureau of Statistics ICT Access and Use Survey FY202
 - [English dominates CA interaction languages: 17 of 23 prototypes relied exclusively on English even though only seven studies originated from English-speaking countries](english-dominance-ca-programming-prototypes.md) — related
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — related
 - [The West-European context of the TPD review limits its international generalisability, since about half the world's students lack household computer access](tpd-review-west-european-context-limit.md) — related
+- [The imposition of e-learning during confinement created disproportionate limitations for older students, students in rural areas, and those with work and family responsibilities or limited electronic resources](e-learning-disadvantages-older-rural-family-students.md) — related

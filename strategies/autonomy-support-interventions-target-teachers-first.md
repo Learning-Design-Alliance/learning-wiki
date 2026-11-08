@@ -54,6 +54,7 @@ Autonomy-supportive teaching interventions (training teachers in empathy, provid
 ## Related Strategies
 
 - [Go beyond autonomy support with competence-supporting behaviors such as high-quality feedback](competence-support-high-quality-feedback.md)
+- [Develop gender-specific, motivation-based curricula that support autonomy and increase intrinsic motivation in PE teacher education](gender-specific-motivation-based-pe-curriculum.md)
 
 ## Examples
 -

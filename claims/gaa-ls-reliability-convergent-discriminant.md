@@ -70,3 +70,5 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — a narrower finding that bears on this claim
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
 - [The BSEC shows convergent and discriminant validity: CR > .87, AVE > .63, and AVE square roots exceeding inter-factor correlations](bsec-convergent-discriminant-validity.md) — related
+- [The BBKS meets convergent validity criteria (CR above .7, AVE greater than .50) and discriminant validity criteria (square root of AVE exceeding interconstruct correlations)](bbks-convergent-discriminant-validity.md) — related
+- [The Spanish ARS shows satisfactory internal consistency, discriminant validity and temporal stability for its three factors](spanish-ars-reliability-temporal-stability.md) — related

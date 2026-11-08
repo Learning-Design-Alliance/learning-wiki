@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: chen-yuanshuai-2026
     resource: "https://doi.org/10.1186/s12909-026-09607-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Chen Yuanshuai 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
@@ -63,3 +64,4 @@ Pre-post intervention analysis of the 50-resident single-group cohort using pair
 - [A five-week simulation-based clinical readiness module was associated with statistically significant pre-to-post OSCE improvements in five pediatric dentistry outcomes (Medical History Taking, Child–Parent Communication, Team Dynamics, Fissure Sealant Application, Fluoride Application)](readiness-module-osce-gains-five-outcomes.md) — related
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
+- [Virtual patient simulation sessions significantly increase medical students' clinical reasoning scores without lecturer supervision](vps-increases-clinical-reasoning-scores.md) — related

@@ -63,3 +63,4 @@ Anonymous questionnaire completed by all 127 residents (100% response rate) afte
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
+- [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related

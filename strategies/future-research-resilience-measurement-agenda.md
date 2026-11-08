@@ -46,6 +46,7 @@ The review's forward-looking recommendation is that the field move beyond compos
 ## Related Strategies
 
 - [Future academic resilience work should add resilience measures to longitudinal LD datasets and combine person-centered (e.g., LPA) with variable-centered analyses](longitudinal-person-centered-resilience-methods.md)
+- [Use validated context-specific resilience measures to identify students vulnerable to early dropout and target support](measure-academic-resilience-to-support-at-risk-students.md)
 
 ## Examples
 -

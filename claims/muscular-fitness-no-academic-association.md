@@ -54,3 +54,4 @@ Null multilevel-analysis result in the 544-child sample: muscular fitness, measu
 - [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related
 - [Cardiovascular fitness is positively associated with spelling but not with reading in primary school children](cardiovascular-fitness-spelling-not-reading.md) — related
 - [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — reports the opposite
+- [Cardiorespiratory fitness, flexibility and overall fitness are positively associated with academic achievement in all subjects, but muscular strength is not associated with Spanish language or mathematics](fitness-components-associated-with-academic-achievement.md) — related

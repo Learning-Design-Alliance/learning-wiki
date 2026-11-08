@@ -48,3 +48,4 @@ Descriptive Likert results from the 43-student evaluation: "55,81 %" fully agree
 - [A minority of students judged the electronic ward round a good alternative to the conventional attendance clerkship, despite lacking practical training](e-visite-alternative-to-clerkship.md) — related
 - [Most students in the electronic ward round cohort reported a subjective knowledge gain from the streamed bedside teaching](e-visite-subjective-knowledge-gain.md) — related
 - [Students rated video and audio transmission quality, connection stability, case comprehensibility and interaction options consistently good to very good](e-visite-technical-quality-ratings.md) — related
+- [Most learners would have appreciated the possibility to interact with educators and/or other learners during the course](learners-requested-interaction-during-course.md) — related

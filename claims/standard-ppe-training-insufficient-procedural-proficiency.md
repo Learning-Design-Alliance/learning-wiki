@@ -52,3 +52,4 @@ Baseline assessment of 155 medical students, of whom 73 (62.9%) reported additio
 - [Sudanese clinical medical students show specific knowledge gaps in hand hygiene duration, PPE donning and doffing sequences, and surgical mask purpose](infection-control-knowledge-gaps-hygiene-ppe.md) — related
 - [Nursing students report that clinical simulation strengthens their understanding of biosafety practices, particularly PPE use and risk perception](simulation-strengthens-biosafety-ppe-understanding.md) — related
 - [Students most frequently recommend regular infection control training sessions, easier access to PPE and supplies, and more faculty supervision to improve adherence](student-proposed-adherence-improvement-methods.md) — related
+- [The majority of participants experienced problems with simulated self-contamination during PPE doffing](majority-participants-self-contamination-doffing.md) — related

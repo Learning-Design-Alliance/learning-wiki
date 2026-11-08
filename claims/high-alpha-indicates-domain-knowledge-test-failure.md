@@ -71,3 +71,4 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — a narrower finding that bears on this claim
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — reports the opposite
 - [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related
+- [The 40-item tests showed poor to moderate reliability, with the pre-course test highly random (alpha −0.022)](anatomical-test-reliability-poor-moderate.md) — related

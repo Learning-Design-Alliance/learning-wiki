@@ -52,3 +52,4 @@ Univariate linear regressions on the retrospective cohort of allied health gradu
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
 - [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
 - [Mean cumulative GPA and admission scores varied across the 13 allied health programs, highest GPA in occupational therapy and lowest in biomedical instrumentation](program-level-variation-gpa-allied-health.md) — related
+- [Course achievement statistically predicts students' cumulative GPA, leading the authors to predict GPA gains if blended flipped learning continued to graduation](achievement-predicts-cumulative-gpa-blended-flipped.md) — related

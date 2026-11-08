@@ -48,3 +48,4 @@ Adjusted GEE models from the national cohort. The quote reports the contrasting 
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related
 - [Preterm comorbidities — necrotizing enterocolitis, retinopathy of prematurity, and bronchopulmonary dysplasia — are associated with higher odds of poor outcomes, while sepsis shows no association](preterm-comorbidities-attainment.md) — related
 - [Exclusive breastfeeding doubled the odds of good academic performance](exclusive-breastfeeding-doubled-odds-good-performance.md) — related
+- [Current smoking is associated with lower odds of high academic achievement among Lebanese adolescents](current-smoking-lower-academic-achievement.md) — related

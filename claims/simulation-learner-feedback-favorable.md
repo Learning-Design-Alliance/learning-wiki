@@ -52,3 +52,5 @@ Anonymous post-simulation Likert and open-ended feedback from thirty-eight surve
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
+- [Fellows strongly agreed that fellow-developed simulation cases were relevant, challenging, and would improve their clinical practice (cases 1 and 2)](pcc-fellow-simulation-relevant-challenging-ratings.md) — related
+- [Ratings for the status epilepticus case were slightly less uniform: five of six fellows strongly agreed on relevance, challenge, and expected practice improvement](status-epilepticus-case-five-of-six-strongly-agree.md) — related

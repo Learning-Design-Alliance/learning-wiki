@@ -49,3 +49,4 @@ Meta-analysis of BRIEF shifting and emotional control subscales across two to th
 - [Game-based digital interventions show no significant effect on BRIEF-measured working memory, initiation, planning/organization, or organizing materials in children with ADHD](game-based-interventions-no-effect-brief-cognitive-subdomains-adhd.md) — related
 - [Game-based digital interventions significantly improve visuospatial working memory in children and adolescents with ADHD](game-based-interventions-improve-visuospatial-working-memory-adhd.md) — related
 - [Game-based digital interventions significantly improve visuospatial short-term memory in children and adolescents with ADHD](game-based-interventions-improve-visuospatial-short-term-memory-adhd.md) — related
+- [Working memory, planning/organization, and organization of materials showed greater BRIEF changes than emotional control or inhibition after Cog-Fun](brief-metacognition-subitems-greater-changes.md) — related

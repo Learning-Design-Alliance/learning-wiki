@@ -51,3 +51,4 @@ Pre-post paired t-test analysis of OSCE station scores for the full 50-resident 
 - [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — a broader claim this one bears on
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — reports the opposite
 - [No significant difference between SP-trained and control students in clinical judgement, medical record writing, or overall capabilities](no-significant-gain-clinical-judgement-medical-record.md) — related
+- [Self-perceived PAG examination skills increased significantly after the workshop, with no change for adult examination skills](self-perceived-pag-skills-increased.md) — related

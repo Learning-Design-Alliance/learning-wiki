@@ -74,3 +74,4 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [Self-reported confidence gains from on-call simulation may not persist: at 6-month follow-up, confidence was lower than immediately after simulation](confidence-gains-decline-six-months-followup.md) — related
 - [Maximum scores declined after primary intervention except in fluidity and speed, which rose significantly](max-scores-decline-except-fluidity-speed.md) — related
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
+- [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related

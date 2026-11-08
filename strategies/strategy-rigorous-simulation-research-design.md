@@ -64,6 +64,7 @@ The review recommends that future research strengthen study designs through adeq
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
 - [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
+- [Use multiple actors, accent types, scripts and OSCE scenarios in future examiner-bias experiments to improve blinding and validity](multi-video-variations-examiner-bias-studies.md)
 
 ## Examples
 -

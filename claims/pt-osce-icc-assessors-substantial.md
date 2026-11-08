@@ -75,3 +75,5 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — a narrower finding that bears on this claim
 - [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related
+- [The expected-actions checklist achieved excellent inter-rater agreement (ICC = 0.899, Cronbach's alpha = 0.908)](checklist-icc-0899-cronbach-0908.md) — related
+- [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — reports the opposite

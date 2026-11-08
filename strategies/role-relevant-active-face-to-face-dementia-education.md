@@ -44,6 +44,7 @@ This strategy directs program designers to tailor dementia education to what par
 
 - [Segment security-training content by learner age group to maximize personal relevance](age-segmented-security-training-content.md)
 - [Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods](dementia-elearning-design-key-features.md)
+- [Make dementia workforce education and training cost-effective and evaluate its costs](dementia-training-cost-effectiveness-strategy.md)
 
 ## Examples
 -

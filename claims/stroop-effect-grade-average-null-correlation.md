@@ -49,3 +49,4 @@ Pearson bivariate correlation analysis of 107 university students' Stroop Test s
 - [University students with lower grade averages made more mistakes (incorrect color identifications) during the Stroop Test](stroop-errors-negative-grade-correlation.md) — related
 - [Grade averages show no statistically significant relationship with Stroop reaction times or time-limit exceedances](grade-average-stroop-reaction-time-null.md) — related
 - [An information test correlates only weakly with college class grades, with r = .13 for freshmen and r = 0 for seniors](information-test-weak-correlation-class-grades.md) — related
+- [Stroop color-word scores improved significantly during Cog-Fun intervention for all three participants](stroop-color-word-improved-cog-fun.md) — related

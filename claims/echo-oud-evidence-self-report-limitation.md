@@ -50,3 +50,4 @@ The review's own quality assessment across the seven included studies. It states
 - [A hub-and-spoke ECHO-supported OUD program reported majority-physician gains in knowledge, reduced isolation, improved MOUD ability, and reduced patient wait times](echo-hub-spoke-kawasaki-outcomes.md) — a narrower finding that bears on this claim
 - [OUD-focused ECHO programs are associated with more buprenorphine-waivered and prescribing physicians](echo-oud-buprenorphine-waiver-increases.md) — related
 - [Project ECHO participation is associated with increased self-reported knowledge and self-efficacy for treating opioid use disorder](echo-oud-self-reported-knowledge-self-efficacy-gains.md) — related
+- [Some prescribers reported intended or actual practice changes toward involving patients in decisions and safety-netting](prescriber-practice-changes-patient-involvement-safety-netting.md) — related

@@ -50,3 +50,4 @@ Focus group data from the seven control students surveyed at the end of their el
 - [Explicitly communicated learning outcomes made clinical teachers more attentive to students' individual learning needs](famuplus-teacher-attentiveness-communication.md) — related
 - [Students found it challenging to formulate measurable, realistic learning outcomes, especially for affective goals such as empathy](famuplus-measurable-outcomes-challenge-affective.md) — related
 - [The MOOC's structured modules and clinical cases supported students' learning about structured, prioritized data collection and cue catching](mooc-structured-data-collection.md) — related
+- [Care home staff showed persistent uncertainty about the purpose of the individualised intervention, undermining its coherence](staff-uncertainty-intervention-purpose-coherence.md) — related

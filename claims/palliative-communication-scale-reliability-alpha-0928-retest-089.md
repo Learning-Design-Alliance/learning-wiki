@@ -79,3 +79,4 @@ Test-retest reliability was assessed with a 2-week interval by randomly selectin
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
 - [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related
+- [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related

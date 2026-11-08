@@ -52,3 +52,4 @@ In the stratified randomized posttest comparison of 60 third-year TCM undergradu
 - [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — related
 - [RTS-trained students scored significantly higher than controls on both theoretical and drawing tests of RPD framework design (Cohen d = 1.1)](rts-improves-rpd-design-test-scores.md) — related
+- [VR-enhanced anatomy training improves overall ultrasonography task performance in novice medical students](vr-anatomy-improves-ultrasound-task-performance.md) — related

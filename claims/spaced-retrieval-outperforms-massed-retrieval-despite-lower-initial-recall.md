@@ -114,3 +114,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — related
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
+- [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related

@@ -55,3 +55,4 @@ Correlational survey of the Thorndike-McCall against other reading tests and int
 - [Clement's five group intelligence tests intercorrelated only modestly, with the Indiana Mental Survey below 0.40 against all others](clement-five-test-intercorrelations-modest.md) — related
 - [School subjects intercorrelate lowly except reading comprehension with reading rate (0.85)](low-school-subject-intercorrelations.md) — related
 - [Of the so-called reading tests used, Thorndike's Visual Vocabulary is the best measure of reading ability](visual-vocabulary-best-of-reading-tests.md) — related
+- [A single daily problem-of-the-day score correlates strongly with performance on the comprehensive ASER numeracy test (correlation of 69%, R-squared 0.74)](problem-of-day-correlates-with-aser.md) — related

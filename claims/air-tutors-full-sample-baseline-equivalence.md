@@ -57,3 +57,4 @@ Baseline balance analysis for the full analytic sample (1,049 treatment students
 - [The Irûmi robot-based program improved second-graders' computational thinking scores by 0.089 standard deviations in Paraguay](irumi-ct-score-effect-0-089-sd.md) — related
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — reports the opposite
 - [Baseline characteristics and baseline outcome scores did not differ significantly between the experimental and comparison groups](snpcohs-baseline-equivalence-no-significant-differences.md) — related
+- [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related

@@ -52,6 +52,7 @@ Based on their findings, the authors recommend that educators establish an infor
 - [Establish Guidelines for Discussions](establish_guidelines_for_discussions.md)
 - [Protocolize the prebriefing with a fiction contract, a preplanned written briefing script, and a case-design checklist](protocolized-prebriefing-fiction-contract.md)
 - [Two-stage prebriefing strategy: advance written communication plus a short in-person prebrief on the day of the simulation](two-stage-prebriefing-in-situ-simulation-strategy.md)
+- [Structured prebriefing to establish psychological safety before the simulated scene](structured-prebriefing-psychological-safety.md)
 
 ## Examples
 -

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/health-status-associated-with-poor-academic-performance.md
+---
+
+# Revision history: [claims/health-status-associated-with-poor-academic-performance](../claims/health-status-associated-with-poor-academic-performance.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-7432077 (Current State and Future Trends: A Citation Network Analysis of the Academic Performance Field.) via eval_harness.py + ingest_extractions.py

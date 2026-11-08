@@ -76,3 +76,4 @@ Curriculum-integrated interactive learning exercise (n=158) for second-year stud
 - [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — a broader claim this one bears on
 - [Discharge-medication knowledge for EV and PUD increased significantly only when all residents were combined (p = .01), not at individual PGY levels](discharge-medication-knowledge-combined-gain.md) — related
 - [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](trainee-feedback-knowledge-confidence-gains.md) — related
+- [After completing AaLplus, preclinical medical students report high confidence in history taking, physical examination and practical skills](aalplus-high-self-assessed-confidence.md) — related

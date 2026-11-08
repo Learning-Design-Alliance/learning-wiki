@@ -47,3 +47,4 @@ Group comparisons (197 high-GPA vs 111 low-GPA students) in the cross-sectional 
 ## Related Claims
 - [High GPA is positively associated with prior online-learning experience, autonomy, competence, and intrinsic motivation, and negatively with amotivation](logistic-regression-gpa-predictors.md) — related
 - [Gender, GPA, and prior online-learning experience jointly predict PNS and amotivation; intrinsic motivation is predicted by GPA and prior experience only](mlr-predictors-pns-motivation.md) — related
+- [Female PE students show higher GPA and higher intrinsic and extrinsic motivation and lower amotivation than male PE students](women-pe-students-higher-gpa-motivation.md) — related

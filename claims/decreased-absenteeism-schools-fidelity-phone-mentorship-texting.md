@@ -72,3 +72,4 @@ Figure 3 comparison of text-messaging fidelity between the decrease group (n = 8
 - [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related
 - [CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools](ccspp-suspension-reduction-15-percent.md) — related
 - [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related
+- [In Botswana piloting, a text message followed by a call yielded the highest pick-up rates, while about 70% answered calls alone and few replied to texts alone](text-then-call-highest-pickup-rates.md) — related

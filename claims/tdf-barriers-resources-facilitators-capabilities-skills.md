@@ -52,3 +52,4 @@ Qualitative thematic deductive coding of open-ended six-month questionnaire resp
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Ten of the 14 Theoretical Domains Framework domains aligned with PAL implementation themes](ten-of-fourteen-tdf-domains-aligned-pal.md) — related
+- [Both individual and organizational factors are perceived to influence competency enactment, with individual factors seen as easier to modify](ot-individual-organizational-factors-influence-competency.md) — related

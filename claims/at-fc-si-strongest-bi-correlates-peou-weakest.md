@@ -69,3 +69,6 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
 - [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related
 - [All six technology-acceptance subscales correlated positively with intention to use, with the strongest correlation between perceived playfulness and intention to use (r = 0.76)](ta-subscales-correlate-intention.md) — related
+- [Computer self-efficacy is positively correlated with all TAM variables in students' use of Zoom for language learning](computer-self-efficacy-positive-correlation-tam-zoom.md) — related
+- [Perceived ease of use of Zoom is positively correlated with perceived usefulness, attitude and behavioral intention](peu-positive-correlation-tam-zoom.md) — related
+- [Perceived usefulness of Zoom is strongly positively correlated with students' attitude toward it and their behavioral intention to use it in language learning](pu-strongly-correlated-attitude-behavioral-intention-zoom.md) — related

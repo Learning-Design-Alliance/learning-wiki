@@ -53,3 +53,4 @@ One-sample t-test on a 17-item satisfaction questionnaire (Cronbach's alpha = 0.
 - [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related
 - [Flipped classroom students reported higher satisfaction with the teaching model and course duration and higher learning interest](flipped-classroom-satisfaction-interest-gains.md) — related
 - [Intervention-group students perceived a moderate level of effectiveness of the flipped teaching classroom, rating logical thinking and application of knowledge highest](flipped-teaching-moderate-perceived-effectiveness.md) — related
+- [Educators reported overall satisfaction of 3.44 on a 5-point Likert scale with switching to online mode](educator-satisfaction-e-learning-3-44.md) — related

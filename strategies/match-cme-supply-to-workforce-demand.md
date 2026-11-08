@@ -49,7 +49,8 @@ The article concludes that E-learning effectiveness in continuing medical educat
 - [Public health physicians showed no statistically significant knowledge improvement under any training format](../claims/public-health-physicians-no-benefit-any-format.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Build periodic diabetes care training for primary care physicians into mandatory annual CME](periodic-cme-diabetes-training-for-pcps.md)
 
 ## Examples
 -

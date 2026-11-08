@@ -63,6 +63,7 @@ Extended latency converts questioning from rapid recall checking into genuine [c
 - [Think-Pair-Share](../patterns/think-pair-share.md) — structures the latency period with peer rehearsal
 - [No Hands Up](no_hands_up.md) — distributes answering after the pause rather than letting volunteers dominate
 - [Revise the RRRP to increase item difficulty and lengthen the wait interval before 'go'](rrrp-revision-increase-difficulty-and-wait-time.md)
+- [Faculty facilitate by questioning and guiding rather than answering, with random group call-ons and peer assistance](facilitator-guide-dont-answer-strategy.md)
 
 ## Examples
 - **Rowe's original protocol** — teachers audiotaped their lessons, charted their own latency with a peer observer, and set a target of 3+ seconds; within weeks student response length tripled and "I don't know" responses dropped sharply ([Rowe, 1974](https://doi.org/10.1002/tea.3660110204)).

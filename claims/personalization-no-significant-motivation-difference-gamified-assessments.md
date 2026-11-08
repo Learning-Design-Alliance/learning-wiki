@@ -51,3 +51,4 @@ Confirmatory robust (20% trimmed means) mixed ANOVAs on 58 students across three
 - [Performance moderated personalization's effect on external motivation, correlating positively with external motivation only in the OSFA condition](performance-moderates-external-motivation.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](gamification-motivation-mathematics-meta-effect.md) — related
+- [Gamification did not change intrinsic motivation or amotivation in university PE students](gamification-no-intrinsic-motivation-amotivation-change.md) — related

@@ -45,7 +45,8 @@ A practical application strategy the authors propose for schools: programs that 
 - [Sleep duration shows a curvilinear association with adolescent academic achievement, with optimal grades at 7–9 hours per night rather than the recommended 8–10](../claims/sleep-duration-curvilinear-adolescent-grades.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Consider optimal physical activity when planning the school curriculum](consider-pa-in-school-curriculum-planning.md)
 
 ## Examples
 -

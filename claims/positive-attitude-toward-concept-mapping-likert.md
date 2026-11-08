@@ -49,3 +49,4 @@ A 14-item five-point Likert questionnaire administered to the 35 experimental-gr
 - [Participants expressed overall agreement (positive attitudes) towards using e-Mind Maps in teaching the English curriculum, with a general mean of 2.15 out of 3.00](positive-attitudes-toward-e-mind-maps-descriptive.md) — related
 - [Student-based instruction enhanced students' attitudes toward probability relative to teacher-based instruction](student-based-instruction-enhanced-probability-attitudes.md) — related
 - [Treatment-group pre-service teachers held positive attitudes toward peer instruction, with questionnaire item means ranging from 3.4000 to 4.5500](positive-attitudes-toward-peer-instruction-treatment-group.md) — related
+- [Nursing students held positive attitudes toward mind mapping as a teaching method (average survey score 4.13 ± 0.73)](positive-attitudes-mind-mapping-teaching-nursing.md) — related

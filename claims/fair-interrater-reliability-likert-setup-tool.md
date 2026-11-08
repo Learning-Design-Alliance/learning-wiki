@@ -55,3 +55,4 @@ Reliability analysis in the Results section of the randomized trial; the article
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [Inter-rater reliability was high for both Team OSCE (Kappa 0.80 pre, 0.76 post) and TPOT (ICC 0.94 pre, 0.93 post)](ipstar-interrater-reliability.md) — related
 - [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
+- [Inter-rater reliability of OSCE scores was fair and similar for accented and non-accented videos](osce-fleiss-kappa-fair-reliability-both-accents.md) — related

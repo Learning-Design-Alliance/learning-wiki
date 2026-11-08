@@ -48,3 +48,4 @@ Within-cohort pairwise comparisons (Wilcoxon matched-pairs signed-ranks tests) o
 - [The MBSR intervention prevented a significant drop in mindfulness, which declined significantly in controls](mbsr-maintained-mindfulness-six-months.md) — related
 - [Mindfulness and perceived stress are inversely correlated in preclinical medical students at both measurement points](mindfulness-stress-inverse-correlation-medical-students.md) — related
 - [MBSR participation transiently improved exam performance, detectable only at completion of the intervention](mbsr-transient-exam-improvement.md) — related
+- [Raising the Year-1 standard increased perceived stress, with the increase confined to female students](raising-standard-increased-perceived-stress-females.md) — related

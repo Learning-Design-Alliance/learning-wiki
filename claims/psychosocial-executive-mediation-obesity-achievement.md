@@ -61,3 +61,4 @@ Review of six studies performing mediation analysis. "Psychosocial distress in t
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md) — related
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related
+- [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related

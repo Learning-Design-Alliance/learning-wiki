@@ -50,6 +50,7 @@ The ACoRD project employed a set of strategies to improve RLO usage: identifying
 - [Embed product rollout into existing routines with structured cadences, teacher champions, and stipends to accelerate adoption](embed-product-rollout-into-existing-routines.md)
 - [Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions](build-trust-early-quick-wins-tiered-rollout.md)
 - [Disseminate SNPCOHS as a self-directed e-learning resource for NPs in primary care units](snpcohs-elearning-dissemination-strategy.md)
+- [Require dissemination and implementation plans so dementia education research reaches practice](dementia-research-dissemination-implementation-strategy.md)
 
 ## Examples
 -

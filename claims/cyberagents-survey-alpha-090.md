@@ -100,3 +100,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related
 - [A 50-knowledge-point Mokken scale extracted from a difficulty-rating questionnaire shows high internal consistency for measuring student self-efficacy for learning](mokken-scale-50-kp-sel-high-reliability.md) — related
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
+- [The ad hoc 16-item Likert-5 questionnaire measuring motivation, autonomy and self-regulation showed acceptable validity and reliability (KMO = 0.807; α = 0.81)](adhoc-questionnaire-mot-aut-ser-validity.md) — related

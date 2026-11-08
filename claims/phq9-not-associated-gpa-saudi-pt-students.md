@@ -54,3 +54,4 @@ In the cross-sectional survey (N = 600), the chi-square test found no significan
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [Women showed more severe depression levels and better visual memory retention than men in the sample](gender-differences-severe-depression-visual-memory.md) — related
 - [Learning motivating factor scores vary significantly across depression severity categories, with challenging goals showing the widest differences](motivating-factors-vary-across-depression-categories.md) — related
+- [Baseline depressive symptoms, but not anxiety symptoms, predict lower GPA at six-month follow-up, though not after controlling for baseline GPA](depression-not-anxiety-predicts-followup-gpa.md) — related

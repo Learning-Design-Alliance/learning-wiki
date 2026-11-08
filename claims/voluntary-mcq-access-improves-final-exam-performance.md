@@ -48,3 +48,4 @@ Prospective randomized trial of 675 medical students at Erlangen University Hosp
 - [The examination advantage of the multiple-choice group varied across semesters, with no significant difference in the 2014 summer term](mcq-effect-varied-by-semester-null-2014-summer.md) — a narrower finding that bears on this claim
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
 - [Offering voluntary multiple-choice questions was associated with overwhelmingly positive student evaluation comments each semester](voluntary-mcqs-positive-student-evaluation-comments.md) — related
+- [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related

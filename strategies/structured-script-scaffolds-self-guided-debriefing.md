@@ -53,6 +53,7 @@ In self-guided debriefing, dyads reflect on each VR scenario using the PEARLS de
 - [Use a structured debrief based on PEARLS covering teamwork, communication, and clinical reasoning](pearls-structured-debrief-strategy.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
+- [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 
 ## Examples
 -

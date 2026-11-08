@@ -68,3 +68,4 @@ Multivariate linear regression of the Polish cohort; attending training "1–3 t
 - [In the Spanish cohort, no analyzed variable significantly predicted knowledge scores](here-spain-knowledge-no-predictors.md) — related
 - [Spain scored higher on clinical preparedness and attitudes while Poland scored higher on knowledge](here-subscale-pattern-knowledge-reversal.md) — related
 - [In the Polish cohort, age was positively associated with clinical preparedness and physicians scored higher than nurses/midwives](here-poland-age-profession-predictors.md) — related
+- [Non-participation in diabetes training is a significant predictor of poor diabetes care knowledge among primary care physicians](diabetes-training-nonparticipation-predicts-poor-knowledge.md) — a narrower finding that bears on this claim

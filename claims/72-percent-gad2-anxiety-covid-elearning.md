@@ -52,3 +52,4 @@ Survey of 512 college students in six Chinese cities plus Weibo distribution dur
 - [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related
 - [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related
 - [Depressive symptom prevalence among Chinese college students rises from 26.7% in the first academic year to 36.7% in the second](ds-prevalence-rises-26-7-to-36-7-chinese-freshmen.md) — related
+- [Over a third of Emirati university students screen positive for possible major depressive disorder and about a fifth for possible generalized anxiety disorder](emirati-students-prevalence-possible-mdd-gad.md) — related

@@ -70,3 +70,4 @@ The review reports that in one middle-school study students feared the social co
 ## Related Claims
 - [Selection practices and differentiation shape adolescents' identities, but evidence on tracking's role in identity development remains inconclusive](selection-differentiation-identity-effects.md) — related
 - [Online spaces hold distinctive value for underrepresented adolescents for identity expression, supportive peer networks, and friendships](online-spaces-distinctive-value-underrepresented-adolescents.md) — related
+- [Lecturers' restrictive teaching practices risk transmitting stigma to students and doing harm to stigma-reduction efforts](lecturer-practices-transmit-stigma-intergenerational.md) — related

@@ -52,3 +52,4 @@ Qualitative workshop finding: participants described the AI as "a lubricant for 
 - [The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own](antagonistic-agent-broadens-stakeholder-coverage.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
 - [Small-group training in the HMSS was associated with students strengthening communication skills and resolving team conflicts](hmss-small-group-conflict-resolution.md) — related
+- [Teachers perceive roda viva as useful for debates and for student-led resolution of intra-group conflicts](roda-viva-perceived-useful-debates-conflict-resolution.md) — related

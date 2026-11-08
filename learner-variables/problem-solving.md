@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (143 show a difference, 19 mixed, 22 no difference) · 148 studies (85 causal, 18 review, 13 associational, 11 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 34 of 148 report an effect size · 180 claims rest on one study
+> **Evidence** · 186 claims (144 show a difference, 19 mixed, 23 no difference) · 150 studies (86 causal, 18 review, 13 associational, 11 quant-synthesis, 9 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 34 of 150 report an effect size · 182 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -222,6 +222,8 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Confronting learners with ill-structured, non-routine tasks and self-directed discovery is a key task/training characteristic for adaptive expertise](../claims/ill-structured-tasks-discovery-adaptive-expertise.md) [+M] — measured as an outcome of the instruction studied
 - [Critical thinking disposition, problem-solving, and collaboration contribute most to SEC, and clinical performance dominates academic achievement](../claims/sec-structure-coefficients-ranking-nursing.md) [+M] — learners who differ on it differ in outcomes
 - [Users of the interactive clinical avatar perceived clinical reasoning skill development to a greater extent than problem-solving or decision-making skill development](../claims/avatar-clinical-reasoning-over-lower-skills.md) [~M] — measured as an outcome of the instruction studied
+- [Mind mapping was reported ineffective for improving problem-solving skills and seen as time-consuming](../claims/mind-mapping-not-problem-solving-time-consuming.md) [-M] — measured as an outcome of the instruction studied
+- [Most aviation errors stem from poor decision making rather than technical skill deficiency, and fewer than half of surgical errors are technical](../claims/decision-making-dominates-errors-aviation-surgery.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

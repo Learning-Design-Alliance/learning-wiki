@@ -47,3 +47,4 @@ Association analysis in the cross-sectional study of 95 residents; the printed p
 ## Related Claims
 - [Pediatric residents rarely correctly diagnose life-threatening emergent ECG conditions, with correct rates from 42.1% for long QTc syndrome down to 4.2% for hyperkalemia](pediatric-residents-low-emergent-ecg-diagnosis-accuracy.md) — related
 - [Monthly ECG order volume was associated with correct SVT and acute pericarditis diagnosis, and prior clinical service years with atrial fibrillation diagnosis](ecg-exposure-associated-with-diagnosis-accuracy.md) — related
+- [Asystole was the best-recognised ECG emergency (69.9% correct) while third-degree A-V block was the least recognised](asystole-best-recognised-ecg-emergency.md) — related

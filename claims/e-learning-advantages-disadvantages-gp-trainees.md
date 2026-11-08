@@ -51,3 +51,4 @@ Reported advantages and disadvantages from the trainee and lecturer evaluation o
 - [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related
 - [Lecturers rated trainee interaction as worse or significantly worse in the digital format, and a majority assessed trainee learning success as worse than classical teaching.](lecturers-worse-interaction-learning-online.md) — related
+- [Students rated asynchronous and rigid online methodologies (uploaded documents, chat-only, homework) as sub-standard, citing limited learning and lack of feedback](asynchronous-methodologies-rated-substandard.md) — related

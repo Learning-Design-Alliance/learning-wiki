@@ -87,6 +87,7 @@ Biased language and symbols impose extraneous processing and identity threat: st
 - [Intentionally activate symbols so they assist transformative learning](intentionally-activate-symbols-for-learning.md)
 - [Use cultural informants from the target community to buffer against stereotyping and bias](cultural-informants-buffer-against-stereotyping.md)
 - [Strengthen women's practical computer knowledge, avoid stereotype-threat-prone situations, and teach functional attribution patterns](strengthen-women-computer-confidence-attribution-training.md)
+- [Address gender bias in STEM classrooms through interventions and explicit discussion rather than assuming representation gains suffice](address-gender-bias-explicitly-stem-classrooms.md)
 
 ## Examples
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** — K–12 curriculum whose problem-writing guidelines require varied, non-stereotyped names and contexts in word problems.

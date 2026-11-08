@@ -66,3 +66,4 @@ T tests in the longitudinal sample (N=214 at T1) showed girls higher on all thre
 - [Gender moderates only the path from prior academic performance to later behavioral control, which is significant for boys but not girls](gender-moderates-performance-to-control-path.md) — related
 - [Gender significantly predicts academic performance: boys score higher on cognitive aptitudes, girls higher on emotional aptitudes and GPA at all three timepoints, and gender explains 8.85% of T3 GPA variance](gender-differences-aptitudes-and-gpa.md) — a narrower finding that bears on this claim
 - [Boys and girls showed no significant differences in GPA or any motor competence or fitness measure](no-gender-differences-gpa-motor-fitness.md) — reports the opposite
+- [Girls outperform boys in academic achievement and executive functioning across all three physical activity groups in this sample](girls-outperform-boys-all-pa-groups.md) — related

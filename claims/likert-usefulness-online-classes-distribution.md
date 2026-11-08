@@ -48,3 +48,4 @@ Descriptive Likert-scale ratings of class usefulness from the survey results, re
 - [Participants rate the RCDP resuscitation simulation as very or extremely helpful, with a mean helpfulness score of 4.8 on a 5-point Likert scale](rcdp-resuscitation-simulation-rated-highly-helpful.md) — related
 - [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — related
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
+- [Educators reported overall satisfaction of 3.44 on a 5-point Likert scale with switching to online mode](educator-satisfaction-e-learning-3-44.md) — related

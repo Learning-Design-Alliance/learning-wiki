@@ -50,3 +50,4 @@ An anonymous post-training satisfaction survey developed by the investigators an
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — a broader claim this one bears on
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — a broader claim this one bears on
+- [Almost 100% of learners would recommend the modules to others and intended to take future UMC courses](almost-100-percent-recommend-modules-and-intend-future-courses.md) — related

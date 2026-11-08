@@ -57,3 +57,4 @@ Unadjusted comparisons across participant characteristics in the 931-nurse surve
 - [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
 - [Nurses in level III (tertiary) hospitals score higher on NM competence than counterparts in level II hospitals](tertiary-hospital-nurses-higher-nm-competence.md) — related
 - [Work setting relates to competence unevenly: core nursing skills score higher in primary healthcare while general performance scores higher in government hospitals](work-setting-competence-differences-by-domain.md) — related
+- [Gender, age, professional title, work setting and previous training independently predict PICC maintenance knowledge in a generalised linear model](glm-factors-picc-maintenance-knowledge.md) — related

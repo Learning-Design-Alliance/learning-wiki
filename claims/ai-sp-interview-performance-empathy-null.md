@@ -94,3 +94,4 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [Empathy is positively correlated with medical students' clinical competence, particularly communication skills](empathy-positive-clinical-competence-communication.md) — related
 - [Clustered communication and therapy checklist scores increased in both groups between examinations but without a significant group difference](communication-therapy-scores-no-group-difference.md) — related
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
+- [Pre-registration trainees who used virtual patients reported communication skill development not reported by non-interactive case study users](vp-communication-skills-self-reported.md) — related

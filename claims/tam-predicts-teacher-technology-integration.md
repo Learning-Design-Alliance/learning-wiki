@@ -62,3 +62,4 @@ The umbrella review reports this meta-analysis of 46 correlation matrices on in-
 - [Professional development, ease of understanding and user-friendliness are the criteria that individually predict the largest shares of trainer motivation](top-individual-predictors-professional-development-ease-user-friendliness.md) — a narrower finding that bears on this claim
 - [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related
 - [The TAM model explains e-learning continuance intention among students with general anxiety, with all hypotheses supported](tam-applicable-anxiety-group.md) — a narrower finding that bears on this claim
+- [Gender had no impact on students' acceptance of using Zoom for language learning, per the article's conclusion](gender-no-impact-tam-zoom-acceptance.md) — related

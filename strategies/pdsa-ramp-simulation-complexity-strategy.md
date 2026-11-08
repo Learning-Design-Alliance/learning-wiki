@@ -53,6 +53,7 @@ The article demonstrates a PDSA ramp as "a framework for creating increasingly c
 - [Run PDSA cycles in which researcher-practitioner teams test modified assignments against as-is versions across multiple classrooms](pdsa-assignment-modification-testing-strategy.md)
 - [Conduct on-site simulation sessions with a first announced session and a second unannounced session within a PDSA cycle](onsite-simulation-announced-then-unannounced-pdsa-strategy.md)
 - [Use plan-do-study-act cycles incorporating simulation to identify and revise process, infection control, and equipment threats in new workflows](pdsa-simulation-cycles-workflow-testing.md)
+- [Use a collaborative, work-in-progress writing template shared between clinical and simulation teams](collaborative-work-in-progress-writing-template-strategy.md)
 
 ## Examples
 -

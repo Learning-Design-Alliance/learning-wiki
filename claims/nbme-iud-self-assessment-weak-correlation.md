@@ -48,3 +48,4 @@ Correlational analysis of 2017 simulation outcome measures against the Reproduct
 - [Chatbot self-assessed confidence correlated weakly and positively with the population's exam results but was an unreliable difficulty indicator](chatbot-self-confidence-weakly-tracks-question-difficulty.md) — related
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Medical and nursing students showed no significant differences in IUD insertion, cervical examination, or contraception quiz scores in 2017](no-proficiency-difference-medical-nursing-students.md) — related
+- [Post-course ML self-efficacy was moderately correlated with performance on an objective ML knowledge exam](self-efficacy-correlated-with-knowledge-exam.md) — related

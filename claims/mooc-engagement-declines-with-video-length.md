@@ -65,3 +65,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [Overall quality was similar across durations and across the 21-lecture held-out set unused during system development](bespoke-quality-stable-across-durations-and-held-out-lectures.md) — related
 - [In a four-wave MOOC intervention study, statistically significant first-wave findings failed to replicate in subsequent preregistered waves](mooc-intervention-first-wave-findings-failed-to-replicate.md) — related
 - [Physiotherapists preferred digital learning materials of 6 to 15 minutes, longer than the under-6-minute guideline for educational videos](preferred-video-length-6-15-minutes-physiotherapists.md) — reports the opposite
+- [The e-learning module took longer to complete than the video, but paramedics judged its duration more adequate](elearning-longer-completion-adequate-duration.md) — a narrower finding that bears on this claim

@@ -67,3 +67,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [Teachers reported that students were more active, more motivated, and improved their academic and social skills during differentiation-approach lessons.](teachers-report-student-engagement-and-skill-gains.md) — related
 - [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related
 - [The authors attribute the competition group's advantage to stimulated motivation, peer guidance, and task-reporting debriefing rather than to additional equipment or instructor time](competition-mechanism-peer-evaluation-mechanism-account.md) — related
+- [Reflection logs indicate students in the integrative curriculum engaged in self-directed inquiry, richer peer and instructor interaction, and enthusiasm for simulation scenarios](reflection-logs-show-engagement-and-collaborative-inquiry.md) — related

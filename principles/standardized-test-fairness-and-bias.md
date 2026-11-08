@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (23 for, 39 mixed, 5 against) · 45 studies (13 causal, 13 associational, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 45 report an effect size · 66 claims rest on one study
+> **Evidence** · 69 claims (23 for, 41 mixed, 5 against) · 46 studies (14 causal, 13 associational, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 46 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ Claims found while rewriting, used in the default design or the situation table 
 - [Expert sensitivity review attributed most DIF-flagged items to poor item writing or unclear images](../claims/sensitivity-review-item-flaws-unclear-images.md) [+W] — attached 2026-11-07 from Dale Esther Dasari et al. (2025), which proposed "Conduct item-level DIF routinely as part of psychometric analyses for course and other assessments to ensure fairness".
 - [Free additional original tasks of the type 'concentrated and careful work' in all languages further reduced the gap between German-speaking candidates and French-speaking candidates from outside Fribourg to 0.24](../claims/free-original-tasks-reduced-outside-fribourg-gap.md) [+W] — attached 2026-11-07 from Klumb Petra L. (2024), which proposed "Offer comparable official preparation material free of charge to all language groups to enhance test fairness".
 - [GRE scores correlate with time to degree in opposite directions for international and URM students](../claims/gre-scores-ttd-demographic-specific.md) [+M] — attached 2026-11-07 from Walters T et al. (2022), which proposed "Use GRE percentiles rather than GRE scores within a nuanced holistic review"; tests this page's relationship.
+- [OSCE checklist item scores do not differ significantly between performances with and without a non-native English accent](../claims/nnea-no-effect-osce-checklist-scores.md) [~W] — attached 2026-11-08 from Kozato An et al. (2020), which proposed "Reassure students with non-native English accents that OSCE examiners mark performance, not accent, to prevent stereotype-threat impedance"; tests this page's relationship.
+- [OSCE global scores show no statistically significant difference by accent, though a minor non-significant increase favouring unaccented videos was observed](../claims/nnea-no-significant-effect-osce-global-scores.md) [~W] — attached 2026-11-08 from Kozato An et al. (2020), which proposed "Reassure students with non-native English accents that OSCE examiners mark performance, not accent, to prevent stereotype-threat impedance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

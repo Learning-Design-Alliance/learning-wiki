@@ -54,3 +54,4 @@ Single-group pretest/posttest quasi-experiment with 60 new graduate paediatric s
 - [Total knowledge-plus-performance scores rose significantly over time in all three groups, with between-group total-score differences significant at one and six weeks post-intervention](total-score-gains-all-groups-between-group-differences-post-intervention.md) — related
 - Competence-oriented simulated teaching raised CIRN postcompetency scores more than traditional training at 4 and 8 weeks — related
 - [New graduate nurses who completed the standard clinical training program showed a greater mean increase in total competency scores than untrained nurses, with an intermediate effect size](standard-clinical-training-greater-competency-increase-did.md) — related
+- [Structured preceptor training may contribute to improved transition to practice and first-year retention of new graduate nurses](structured-preceptor-training-transition-retention.md) — related

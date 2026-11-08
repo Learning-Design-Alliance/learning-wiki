@@ -47,3 +47,4 @@ Parental survey as a secondary outcome; the parents' response rate was 17.2%, wh
 ## Related Claims
 - [Most teaching staff easily adapted to TBL and preferred blended learning after the pandemic, but few favored TBL for all activities](staff-adapted-tbl-prefer-blended.md) — related
 - [Physical meetings and chatting during online lectures were the most frequent forms of student–educator interaction reported in digital and blended histology and pathology education](student-educator-interaction-physical-meetings-chat.md) — related
+- [Online assessment was conducted by a minority of educators but favored by a majority](online-assessment-conducted-versus-favored.md) — related

@@ -68,3 +68,4 @@ Focus group barrier theme on peer learning. Residents reported sessions "dominat
 - [Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [Physicians reported manikin-based training was regarded as inadequate for replicating technical nuances and anatomical variability of real patients](manikin-training-inadequate-real-patient-variability-cvc.md) — related
+- [Self-perceived PAG examination skills increased significantly after the workshop, with no change for adult examination skills](self-perceived-pag-skills-increased.md) — related

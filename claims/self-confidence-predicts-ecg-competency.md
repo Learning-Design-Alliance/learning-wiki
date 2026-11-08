@@ -51,3 +51,4 @@ Multivariable logistic regression using self-reported confidence ratings as pred
 - [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](randomised-case-order-attenuates-case1-effect.md) — related
 - [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related
 - [Being a diagnostic radiology resident and having higher diagnostic confidence are the only independent predictors of high diagnostic accuracy](radiology-residency-and-confidence-predict-accuracy.md) — related
+- [Correct-answer rates varied by tracing category: ECG emergencies highest (26.3%), common abnormalities 10.3%, primary ECG parameters lowest (8.3%)](ecg-category-variation-correct-answers.md) — related

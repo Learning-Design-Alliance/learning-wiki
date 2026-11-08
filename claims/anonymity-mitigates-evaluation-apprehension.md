@@ -52,3 +52,4 @@ Authors' interpretive discussion (type e) of how the technology addresses the fo
 - [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) — related
 - [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
 - [Anonymity in remote lectures increased student engagement in question-asking, while remote workshops suffered from absent non-verbal cues and reduced interactivity](remote-anonymity-engagement-workshop-communication-loss.md) — related
+- [Students who feel uncomfortable answering questions in front of others especially profit from an anonymous audience response system](ars-benefits-uncomfortable-students.md) — a narrower finding that bears on this claim

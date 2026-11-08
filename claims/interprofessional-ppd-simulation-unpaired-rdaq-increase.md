@@ -49,3 +49,4 @@ Unpaired analysis of 94 pretest and 90 posttest responses in the pretest–postt
 - [Only the professional confidence subscale of the modified R‐DAQ reached statistical significance, while therapeutic optimism did not](rdaq-subscale-changes-professional-confidence-significant.md) — a narrower finding that bears on this claim
 - [No significant differences in modified R‐DAQ scores between PMHNP and midwifery/WHGRNP students on pretest, posttest, or change scores](no-specialty-differences-rdaq-scores.md) — related
 - [Paired pre-post comparison of the whole sample showed a statistically significant increase in clinical decision-making scores (P < 0.001).](atls-prepost-paired-t-significant-increase-overall.md) — related
+- [Hospital nurses held neutral to slightly favorable attitudes toward depression (R-DAQ mean 71.76)](nurses-neutral-slightly-favorable-attitudes-rdaq.md) — related

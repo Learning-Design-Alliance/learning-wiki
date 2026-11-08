@@ -48,6 +48,7 @@ The article argues that "an opportunity to hasten learning and reduce patient co
 ## Related Strategies
 
 - [Use error-based learning and standardized error classification to accelerate microsurgical skill acquisition](error-based-learning-microsurgery-training-strategy.md)
+- [Schedule hands-on skills courses early in the training pathway, before trainees accumulate substantial procedure experience](attend-hands-on-courses-early-in-training.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Interview study of 34 academic physicians; the authors report that broader domai
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related
 - [Physicians engage in lifelong learning through contextual, social, and independent processes](contextual-social-independent-lifelong-learning-processes.md) — related
 - [Academic physicians conceptualize lifelong learning as serving three purposes: maintaining competence, personal growth and fulfillment, and professional stewardship](three-purposes-physician-lifelong-learning.md) — related
+- [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related

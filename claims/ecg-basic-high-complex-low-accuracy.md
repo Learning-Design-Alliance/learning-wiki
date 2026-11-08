@@ -53,3 +53,4 @@ Descriptive item-level results from the survey of 100 ICU nurses (Table 2): "ide
 - [Cardiac ICU nurses outperform general ICU nurses on specialist arrhythmia items](cardiac-icu-nurses-better-specialist-items.md) — related
 - [Interns recognize high-alarm ECG conditions well (STEMI 85.9%, ventricular fibrillation 84%) but perform poorly on nuanced abnormalities (second-degree block 41.8%)](ecg-pattern-recognition-high-alarm-versus-nuanced.md) — related
 - [Residents perform well on lower-order factual competencies but poorly on complex applied skills such as asynchrony correction (27.2% correct) and setting initial parameters in obstructive lung disease (25.9% correct)](complex-mv-competencies-low-performance.md) — a narrower finding that bears on this claim
+- [Correct-answer rates varied by tracing category: ECG emergencies highest (26.3%), common abnormalities 10.3%, primary ECG parameters lowest (8.3%)](ecg-category-variation-correct-answers.md) — related

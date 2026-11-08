@@ -101,3 +101,4 @@ Same pairwise correlation analysis; printed coefficients r = .18 to .65, with th
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [Perceived task difficulty negatively predicts mathematics achievement (β = −.374)](perceived-task-difficulty-negative-predictor-math-achievement.md) — related
 - [Question interest correlated negatively with difficulty for students but positively for teachers](pharmacotrophy-interest-difficulty-divergence.md) — related
+- [Course difficulty is the largest negative correlate of overall teaching quality ratings, while student interest is the second largest positive correlate](difficulty-negative-interest-positive-set.md) — related

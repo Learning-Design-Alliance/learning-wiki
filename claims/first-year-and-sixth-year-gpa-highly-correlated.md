@@ -50,3 +50,4 @@ Pearson correlation analysis of linked GPA variables in the prospective cohort s
 - [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](point-scale-school-mark-and-schooling-correlations.md) — related
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
 - [Spelling test scores correlate highly with teachers' year-long marks (average coefficient .69 across grades 3–8)](spelling-test-teacher-mark-correlations.md) — related
+- [Course achievement statistically predicts students' cumulative GPA, leading the authors to predict GPA gains if blended flipped learning continued to graduation](achievement-predicts-cumulative-gpa-blended-flipped.md) — related

@@ -389,3 +389,5 @@ Experiment 1 of the article. Undergraduates at a US university learned to count 
 - [Massed instruction may potentiate learning in certain circumstances, particularly those involving motor learning](massed-learning-motor-learning-circumstances.md) — related
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — a narrower finding that bears on this claim
 - [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — related
+- [Reducing cognitive load, interleaving, spaced/retrieval practice, and increased wait-times are recommended to support learning in clinical teaching (Level 2a, Grade B)](cognitive-load-interleaving-spaced-retrieval-waittime-recommendation.md) — related
+- [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related

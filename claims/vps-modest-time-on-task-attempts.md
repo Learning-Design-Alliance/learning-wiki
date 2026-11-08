@@ -47,3 +47,5 @@ Descriptive software time-stamp analysis of VPS activity in the RCT (single-user
 ## Related Claims
 - [Providers completed about two self-practise sessions per month over three months, fewer than the expected fortnightly schedule, with a median of 30 minutes spent practising](eenc-self-practise-two-sessions-per-month-fidelity.md) — related
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
+- [Without repetition, students lost about 30% of anatomical knowledge over six months, versus about 20% with any repetition activity](knowledge-loss-30-percent-without-repetition.md) — related
+- [Undergraduate students achieved a higher mean number of correct answers in the simulator than experienced health workers](students-higher-correct-answers-than-workers.md) — related

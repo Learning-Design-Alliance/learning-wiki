@@ -56,3 +56,4 @@ Randomized trial of 60 trainees (n = 30 per group) at one thyroid surgery depart
 - [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related
 - [Educator-guided D-Box simulator training enabled novices to perform acceptable wedge resection, though the educator's score advantage was not significant](educator-guided-dbox-training-novice-wedge-resection.md) — related
 - The simulation-system group outperformed the traditional-teaching group on theoretical, skill, and comprehensive ability assessments — related
+- [VR-enhanced anatomy training improves overall ultrasonography task performance in novice medical students](vr-anatomy-improves-ultrasound-task-performance.md) — related

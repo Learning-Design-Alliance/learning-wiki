@@ -71,3 +71,4 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - [Open questions remain on whether VGS improves clinical practice or can replace clinical hours](vgs-clinical-practice-effectiveness-unknown.md) — related
 - [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — possibly the same claim (merge candidate)
 - [Simulation training effects on board communication were smaller than typical simulation effects in clinical settings, possibly due to self-assessed outcomes and brief dosage](simulation-effect-smaller-than-clinical-meta-analyses.md) — related
+- [Retention was subtopic-dependent: participants retained minimum competency only in indications/contraindications short- and long-term, and in adverse events long-term](highflow-retention-varied-by-subtopic.md) — related

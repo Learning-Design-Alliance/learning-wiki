@@ -47,3 +47,5 @@ Thematic analysis of interviews with healthcare professionals, clinical educator
 ## Related Claims
 - [Managers identified challenges limiting peer learning, including weak teamwork culture, absent management development strategies, and restricted structured interactions](peer-learning-challenges-iranian-hospital-managers.md) — related
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
+- [Implementation of the individualised intervention was easier in smaller homes and those with less hierarchical, more facilitative management](implementation-easier-smaller-homes-facilitative-management.md) — related
+- [Managers who led by example were more likely to facilitate staff participation in the intervention](manager-leads-by-example-participation.md) — related

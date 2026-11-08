@@ -50,6 +50,7 @@ Participants proposed concrete programme improvements: increasing SP pay to rais
 - [Policy recommendations for protecting clinical education during health system reforms: protected teaching time, aligned evaluation, teaching-linked compensation, and embedded educational objectives](protecting-education-in-health-system-reforms-strategy.md)
 - [Integrate GTA teaching as part of a broader multi-modality strategy, with hybrid GTA–manikin models, co-produced standards, and longitudinal, patient-inclusive evaluation](gta-implementation-strategy-hybrid-and-coproduction.md)
 - [Federal strategy to develop and support a well-qualified ECE workforce through compensation, career-ladder scholarships, preparation programs, and coaching](federal-strategy-ece-workforce-compensation-preparation.md)
+- [Involve standardized patients in assessment and allow flexible portrayals, with training that standardizes responses to unsatisfactory, intermediate, and good examinee behavior](sp-assessment-flexible-portrayal-strategy.md)
 
 ## Examples
 -

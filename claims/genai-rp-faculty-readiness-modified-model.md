@@ -50,3 +50,4 @@ CFA of the faculty readiness scale (N=132): the initial three-factor model showe
 - [The student GenAI-RP readiness scale shows a validated three-factor structure: GenAI Comprehension, Ethical Awareness, and GenAI Utilization and Proficiency](genai-rp-student-readiness-three-factors.md) — related
 - A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related
 - [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — related
+- [The Brazilian SEPC scale replicates the original three-factor structure and achieves satisfactory confirmatory factor analysis fit once correlations between items' errors are modelled](sepc-br-cfa-replicates-original-factors.md) — related

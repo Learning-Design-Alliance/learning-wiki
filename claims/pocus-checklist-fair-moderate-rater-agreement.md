@@ -54,3 +54,4 @@ Multi-center mixed-methods study in which seven blinded expert raters scored vid
 - [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [Inter-rater reliability of OSCE scores was fair and similar for accented and non-accented videos](osce-fleiss-kappa-fair-reliability-both-accents.md) — related

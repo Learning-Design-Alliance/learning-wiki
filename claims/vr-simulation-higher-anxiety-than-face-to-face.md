@@ -59,3 +59,4 @@ The review reports this randomized pretest-posttest trial of 56 nursing students
 - [Male nursing students experience initial anxiety with maternal-newborn mannequins that decreases through instructor support and repeated practice](hfs-initial-anxiety-eased-by-instructors-and-repetition.md) — related
 - [Self-confidence showed small improvements on most NASC-CDM items after e-learning, with no overall mean change and some items declining](rlo-elearning-confidence-item-gains.md) — related
 - [Anxiety scores of children's nurses showed a small increase after the e-learning programme, with mixed results across NASC-CDM items](rlo-elearning-small-anxiety-increase.md) — related
+- [Nearly all respondents agreed the simulator class increased theoretical knowledge and problem-solving ability, and 29 of 31 reported decreased anxiety or stress](simulator-class-knowledge-anxiety-likert-results.md) — related

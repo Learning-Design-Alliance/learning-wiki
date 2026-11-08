@@ -48,3 +48,4 @@ Integration of quantitative and qualitative findings via joint display showed th
 - [Helping role is the highest self-assessed competence domain among newly graduated nurses over the transition period](helping-role-highest-competence-domain.md) — related
 - [Newly graduated registered nurses' self-assessed overall competence fluctuates over the first 5 months, dipping after 15 days and rising by 3 and 5 months](ngrn-competence-fluctuates-first-5-months.md) — related
 - [Preceptors identified nine potentialities through which simulation may support newly graduated nurses during their transition to independent practice](nine-simulation-potentialities-ngrn-transition.md) — related
+- [Structured preceptor training may contribute to improved transition to practice and first-year retention of new graduate nurses](structured-preceptor-training-transition-retention.md) — related

@@ -50,3 +50,4 @@ Correlational analysis in the mixed-methods study of 31 students with complete s
 - [Professional identity and self-efficacy were positively correlated before OSCE (r = .354)](pi-self-efficacy-correlation-before-osce.md) — related
 - [Self-efficacy scores of occupational therapy students increased significantly after OSCE with simulation-based learning](osce-self-efficacy-significant-increase.md) — related
 - [The correlation between professional identity and self-efficacy increased from before (r = .354) to after OSCE (r = .581)](pi-self-efficacy-correlation-increased-after-osce.md) — related
+- [A structured, early, active motor learning course significantly increased physical therapy students' ML self-efficacy on both PTP-ML parts](active-ml-course-increased-pt-student-self-efficacy.md) — related

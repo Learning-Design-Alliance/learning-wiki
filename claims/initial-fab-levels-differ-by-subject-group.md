@@ -52,3 +52,4 @@ In the conditional growth model, initial FABs were highest in mathematics‐inte
 - [FABs in physical education are the only group to increase over time (B = .33, d = .29)](pe-fabs-increase-over-time.md) — related
 - [FABs in social sciences and languages remain relatively stable over four years, while art/philosophy shows no significant slope difference](non-stem-fabs-stable.md) — related
 - [Mean course grades differ significantly across the six general education courses, with the lowest means in History and Statistics and the highest in Biology, Humanities, and Physical Science](gen-ed-course-mean-grades-differ-six-courses.md) — related
+- [Teaching quality ratings differ by discipline, with Humanities faculty rated highest and Engineering lowest](discipline-differences-in-set-ratings.md) — related

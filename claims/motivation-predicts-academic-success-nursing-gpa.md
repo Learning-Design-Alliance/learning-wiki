@@ -59,3 +59,6 @@ Direct-path coefficients (Table 4, paths c1–c3) from the path analysis of 261 
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — related
 - [Personal standard, organization, doubts about action, and motive for success are positively associated with GPA, with motive for success mediating the personal-standard and doubts-about-action effects](perfectionism-gpa-mediation.md) — related
 - [Amotivation negatively affects academic achievement while self-regulation positively affects it](amotivation-negatively-predicts-achievement.md) — reports the opposite
+- [Academic performance correlates positively with intrinsic motivation but is unrelated to extrinsic motivation and amotivation in PE students](intrinsic-motivation-gpa-correlation-pe-students.md) — reports the opposite
+- [Conscientiousness and intellect mediate the relationship between intrinsic motivation and academic performance, with the indirect effect via conscientiousness significant only in men](mediation-intrinsic-motivation-gpa-conscientiousness-intellect.md) — related
+- [Female PE students show higher GPA and higher intrinsic and extrinsic motivation and lower amotivation than male PE students](women-pe-students-higher-gpa-motivation.md) — related

@@ -51,3 +51,4 @@ Descriptive grade-scale ratings (1–6) from the 43-student evaluation: video "8
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
+- [Most learners would have appreciated the possibility to interact with educators and/or other learners during the course](learners-requested-interaction-during-course.md) — related

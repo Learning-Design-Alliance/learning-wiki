@@ -51,3 +51,4 @@ Non-controlled trial (Table 3) of 31 surgical residents naive to RAS who complet
 - [Resident workload is predicted by PGY level, sleep, operative time, case number, and pre-procedure anxiety in both simulated and live robotic bariatric surgery](workload-regression-predictors-pgy-sleep-time-stai.md) — related
 - [Both knotting training programs significantly improve residents' knotting skills and reduce their workload from pre- to post-training](both-groups-improved-after-knotting-training.md) — related
 - [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related
+- [Debriefing after a surgical crisis reduces cognitive workload and improves performance before the next case](debriefing-reduces-cognitive-workload-surgical-crisis.md) — related

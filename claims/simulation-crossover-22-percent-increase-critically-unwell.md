@@ -74,3 +74,5 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Eyesi training produced significantly higher fundus structure identification scores than traditional direct ophthalmoscope training](eyesi-higher-fundus-structure-identification-than-tdo.md) — related
 - [TMTD produces greater improvement in self-efficacy than the regular lecture method in MS patients](tmtd-superior-to-lecture-for-ms-self-efficacy.md) — a narrower finding that bears on this claim
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
+- [Novices taught ureteroscopy and NTS in a full immersion/distributed simulation ('igloo') environment gained significantly higher NoTSS scores than novices taught by didactic methods](fids-igloo-outperformed-didactic-notss-novices.md) — related
+- [Simulation training is reported as the most effective way to train surgeons' non-technical skills](simulation-most-effective-nts-training-review.md) — related

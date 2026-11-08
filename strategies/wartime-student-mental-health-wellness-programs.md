@@ -54,6 +54,8 @@ The article recommends that universities develop and implement activities and pr
 - [Implement psychological support programs, foster intrinsic motivation, integrate psychological assessments, establish support networks, and make tailored curricular adjustments for women doctoral students](psychological-support-programs-women-doctoral-strategy.md)
 - [Provide mental health services and periodic counseling to support medical students' self-esteem](mental-health-services-counseling-medical-students.md)
 - [Routinely screen health professions students for academic stress, anxiety, depression, and sleep disturbance during virtual learning, and incorporate sleep hygiene and resourcefulness training in curricula](routine-screening-sleep-hygiene-resourcefulness-training-strategy.md)
+- [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
+- [Routinely signpost academically struggling students to mental health support, building on academic staff depression literacy](signpost-struggling-students-mental-health-support.md)
 
 ## Examples
 -

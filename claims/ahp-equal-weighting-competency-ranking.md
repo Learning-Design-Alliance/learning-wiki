@@ -51,3 +51,4 @@ Step 5 of the process: the AHP numerically combined the graduate questionnaire u
 - [AHP weighting placed skill highest (0.405) among first-level dimensions, with implicit competencies (self-concept, trait, motivation) jointly carrying 53% of total weight](ahp-weights-skill-highest-implicit-53-percent.md) — related
 - [Survey of 132 recent Scottish UKFP graduates (16.2% response) rated perceived usefulness of further training in the 18 competency areas](graduate-survey-usefulness-ratings.md) — related
 - [A six-step stakeholder prioritisation process narrowed 370 UKFP competencies to 12 competency areas for a national simulation curriculum](six-step-prioritisation-370-to-12-competencies.md) — a broader claim this one bears on
+- [TOPSIS multi-criteria analysis ranks the integrative curriculum first over traditional teaching methods on overall course and teacher evaluation](topsis-ranks-integrative-curriculum-first.md) — related

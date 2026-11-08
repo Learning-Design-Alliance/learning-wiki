@@ -13,7 +13,7 @@ generated:
 # Journaling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 8 studies (4 causal, 2 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 3 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 9 studies (4 causal, 2 quant-synthesis, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 3 of 9 report an effect size · 11 claims rest on one study
 
 ## Description
 Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form. It is useful when learning benefits from continuity, introspection, and visible documentation of change.
@@ -49,6 +49,7 @@ Journaling is the element in which learners record reflections, observations, qu
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](../claims/educators-cannot-reliably-detect-genai-reflections.md) [-W]
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](../claims/minority-health-students-genai-reflective-writing.md) [~W]
 - [Tenth-grade students who wrote structured reflective science journals significantly outperformed control students on overall self-regulation strategies](../claims/reflective-journal-writing-improves-self-regulation-strategies.md) [+W] — attached 2026-11-01 from Nawar M. Al-Rawahi et al. (2015), which proposed "Structured reflective science journal writing model with six components"; tests this page's relationship.
+- [Final-year nursing students' reflective journals about emergency and ICU placements yield four themes and an overall positive learning experience with high emotional burden](../claims/rlj-four-themes-critical-care-placements.md) [+W] — attached 2026-11-08 from González-García María et al. (2020), which proposed "Reflective learning journal (RLJ) as a learning and assessment tool in clinical nursing education".
 
 ## The evidence by question
 

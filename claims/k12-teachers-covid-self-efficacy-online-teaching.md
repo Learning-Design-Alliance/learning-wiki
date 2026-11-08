@@ -53,3 +53,4 @@ Descriptive analysis of a 10-item Likert-scale feelings survey (Cronbach α of 0
 - [DG-group teachers felt more comfortable than effective using GSP, and teacher use of GSP exceeded student hands-on use during the school year](gsp-teacher-comfort-and-use-frequency.md) — related
 - [Most teaching staff easily adapted to TBL and preferred blended learning after the pandemic, but few favored TBL for all activities](staff-adapted-tbl-prefer-blended.md) — related
 - [All participants who took pandemic-era online classes preferred traditional face-to-face classes and felt they would have performed better in classrooms](online-vs-face-to-face-preference-mbbs.md) — related
+- [Nursing students during COVID-19 confinement clearly preferred face-to-face teaching over e-learning, while evaluating synchronous videoconferences as the best online methodology](nursing-students-prefer-face-to-face-videoconference-best.md) — related

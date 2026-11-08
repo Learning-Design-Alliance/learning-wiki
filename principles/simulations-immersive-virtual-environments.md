@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 520 claims (324 for, 171 mixed, 25 against) · 329 studies (141 causal, 81 review, 39 quant-synthesis, 30 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 329 report an effect size · 515 claims rest on one study
+> **Evidence** · 523 claims (327 for, 171 mixed, 25 against) · 332 studies (142 causal, 81 review, 39 quant-synthesis, 32 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 332 report an effect size · 518 claims rest on one study
 
 ## Conditional relationship
 
@@ -518,6 +518,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [First-year medical students who participated in supplemental high-fidelity simulation scored higher on the global cardio-pulmonary curriculum test than lecture-only peers](../claims/sbe-higher-global-cardiopulmonary-test-scores.md) [+W] — attached 2026-11-08 from Meyers Lori et al. (2020), which proposed "Supplemental high-fidelity simulation can be combined with preclinical lectures to enhance learning of basic physiology"; tests this page's relationship.
 - [Simulator training improves procedure-specific LH-OSATS and combined OSATS scores, the latter with a large printed effect size (Cohen's d 1.83)](../claims/simulator-training-improves-lh-osats-combined-large-effect.md) [+W] — attached 2026-11-08 from Jokinen Ewa et al. (2020), which proposed "Include a virtual reality laparoscopic hysterectomy module in the laparoscopic training curriculum before residents' first live procedure"; tests this page's relationship.
 - [Simulator training improves blinded assessors' Visual Analog Scale ratings of overall management of the first laparoscopic hysterectomy](../claims/simulator-training-improves-vas-overall-management.md) [+W] — attached 2026-11-08 from Jokinen Ewa et al. (2020), which proposed "Include a virtual reality laparoscopic hysterectomy module in the laparoscopic training curriculum before residents' first live procedure"; tests this page's relationship.
+- [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](../claims/expert-validation-above-80-percent-all-aspects.md) [+W] — attached 2026-11-08 from Fonseca LMM et al. (2020), which proposed "High technology is not necessary for successful simulation-based learning".
+- [3D display reduces overall Parkour performance time compared to 4K across all experience levels in a randomized cross-over training trial](../claims/3d-display-shorter-parkour-time-than-4k.md) [+W] — attached 2026-11-08 from Wahba R et al. (2020), which proposed "Use 3D laparoscopic display rather than 4K for minimally invasive surgical training and performance, regardless of trainee expertise level".
+- [Trainees' self-rated non-technical skills and textbook knowledge for nighttime HEC missions improved after indoor simulation training](../claims/indoor-night-hec-simulation-self-rated-skill-gains.md) [+W] — attached 2026-11-08 from Pietsch Urs et al. (2020), which proposed "Three-day indoor night-HEC simulation curriculum: classroom refresher, escalating simulated scenarios with debriefing, and transfer discussion"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

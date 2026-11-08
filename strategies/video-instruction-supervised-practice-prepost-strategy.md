@@ -50,6 +50,7 @@ The training protocol had residents first perform an end-to-end anastomosis with
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Simulation-based mastery learning course with at-home simulator practice supported by written and video instructions](sbml-course-home-practice-video-instructions.md)
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
+- [Test anastomosis patency using a saline bag infused with blue food colouring running at 10 drops per minute](blue-dye-saline-anastomosis-patency-testing-strategy.md)
 
 ## Examples
 -

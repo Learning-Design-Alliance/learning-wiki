@@ -49,3 +49,4 @@ Conceptual argument in the article's introduction, offered without data: perform
 - [Learning curve estimates in robot-assisted surgery vary substantially between studies of the same procedure and are subject to considerable uncertainty](robotic-learning-curve-estimates-heterogeneous-uncertain.md)
 - [Methods and terminology used to define the point at which the robot-assisted learning curve is overcome are inconsistent and often lack statistical validation](inconsistent-thresholds-terminology-learning-curve-overcome.md) — related
 - [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related
+- [POEM learning-curve plateau estimates conflict widely (7 to 100 cases), and one swine-model study reported mastery after 26 cases](poem-learning-curve-conflicting.md) — related

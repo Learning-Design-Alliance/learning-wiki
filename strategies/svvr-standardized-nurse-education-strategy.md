@@ -48,7 +48,8 @@ The authors recommend SVVR as a workforce development and continuing education s
 - [Nurses who encounter delirium cases during follow-up report higher confidence than those without such experience](../claims/clinical-exposure-reinforces-confidence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Make dementia workforce education and training cost-effective and evaluate its costs](dementia-training-cost-effectiveness-strategy.md)
 
 ## Examples
 -

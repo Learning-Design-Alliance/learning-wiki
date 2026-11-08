@@ -63,3 +63,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [In situ SBTT provides an experience of coping after an initial failed scenario, which participants saw as significant for transfer of learning](sbtt-second-scenario-coping-experience.md) — related
 - [Focus group participants reported post-pandemic communication difficulties and psychological impacts, though two reported improved communication](focus-group-post-pandemic-communication-difficulties.md) — related
 - [Students' emotions vary before, during and after simulation, unfolding in a rollercoaster from negatively to positively loaded across the session](emotional-rollercoaster-during-simulation.md) — related
+- [Clinical placements in emergency and ICU involve an intense emotional experience, with negative emotions before the placement and emotional ambivalence during it](intense-emotional-experience-critical-care-placement.md) — related

@@ -79,3 +79,4 @@ Checklist-item analysis in the same pilot. The article reports Cohen's d > 1 for
 - [In one uncontrolled pre-post study, adequate pediatric CPR chest-compression technique rose from 26% to 91% among multidisciplinary hospital professionals after RCDP simulation training](rcdp-raises-adequate-pediatric-cpr-technique-26-to-91-percent.md) — related
 - [Video feedback produces higher post-intervention performance than infographics on specific CPR techniques, including compression depth, compression rate, airway opening, and hand positioning](video-feedback-better-specific-cpr-techniques.md) — related
 - [Assessment of consciousness, airway obstruction and breathing, and body and arm positioning did not differ significantly between app and control groups](assessment-and-positioning-no-group-differences.md) — related
+- [Three of forty skills showed no significant improvement from pre-course to post-course](three-skills-no-significant-improvement.md) — related

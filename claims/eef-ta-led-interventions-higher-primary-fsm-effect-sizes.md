@@ -49,3 +49,4 @@ Subgroup meta-analysis by direct implementer across the EEF trials. The review r
 - [Interventions located in one or up to three geographical areas showed higher primary ITT and FSM effect sizes than interventions spread across more areas](eef-geographical-spread-moderates-effect-sizes.md) — related
 - [Effect sizes were higher for interventions with a total cost between £250k and £750k than for interventions that were more or less expensive](eef-total-cost-band-moderates-effect-sizes.md) — related
 - [Across 82 EEF RCT evaluations, overall meta-analysis weighted mean effect sizes were small: +0.04 SD for primary ITT, +0.01 SD for secondary ITT, and +0.03 SD for FSM subsample attainment outcomes](eef-trials-small-weighted-mean-effect-sizes.md) — related
+- [High users of TA reported significantly less implementation progress than low users on three of five SAIS domains](high-ta-users-less-reported-progress.md) — related

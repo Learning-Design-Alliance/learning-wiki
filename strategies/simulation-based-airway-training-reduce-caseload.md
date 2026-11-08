@@ -46,6 +46,7 @@ The strategy is to embed simulation-based training covering recognition and prep
 
 - [Use difficulty-scored manikins to sequence airway management training from standard to advanced modules](difficulty-scored-manikin-sequencing-strategy.md)
 - [Display non-hypoxic apnea duration as a real-time countdown in difficult-airway simulation scenarios](real-time-apnea-countdown-in-simulation.md)
+- [Use dynamic perfused-cadaver simulation to overcome insufficient annual caseload in subspecialized surgical training](dynamic-cadaver-simulation-for-low-caseload-subspecialties.md)
 
 ## Examples
 -

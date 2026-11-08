@@ -55,3 +55,4 @@ Qualitative arm of the mixed-methods sequential explanatory design: semi-structu
 - [Inductive analysis of 24 empathy canvases identified 32 learning gains and 18 pain points across self-awareness, teamwork, learning efficiency, and comprehensive ability](empathy-canvas-gains-pain-points-four-dimensions.md) — related
 - [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related
 - [Focus group analysis of simulation participants yields four themes — learning (32.6%), self-efficacy (29%), simulation method (21.3%), and development (16.5%)](focus-group-four-themes-als-simulation.md) — related
+- [A thematic analysis of an experts' symposium identified nine major suggestions for improving communication-competencies assessment in high-stakes OSCEs, classified into four areas](symposium-nine-suggestions-communication-osce.md) — related

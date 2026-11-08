@@ -45,6 +45,7 @@ The review's platform-development recommendation: over 25 platforms were built s
 
 - [Develop and validate a reusable, cost-effective, high-fidelity training platform and build homogeneous assessment tools for aneurysm clipping simulation](develop-validated-reusable-cost-effective-aneurysm-training-platform.md)
 - [Development strategies targeting AI virtual patient limitations: expert-reviewed content, iterative prompt engineering, behavioral rules, few-shot prompting, and conversational memory](ai-virtual-patient-mitigation-strategies.md)
+- [Use previously published, validated, easy-to-build simulation models and support inter-institutional simulation exchange](published-models-and-simulation-exchange-strategy.md)
 
 ## Examples
 -

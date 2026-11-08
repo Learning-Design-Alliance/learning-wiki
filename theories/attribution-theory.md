@@ -12,7 +12,7 @@ generated:
 # Attribution Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 10 studies (5 causal, 3 review, 2 qualitative), `q1`–`q3` · 1 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 11 studies (5 causal, 3 review, 3 qualitative), `q1`–`q3` · 1 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Attribution Theory (Weiner, 1986) holds that people try to explain the causes of their own successes and failures — attributing an outcome to ability, effort, luck, task difficulty, mood, fatigue, and so on — and that it is the *perceived* cause, whether or not it is the actual cause, that drives subsequent motivation and behavior ([Park, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design)). Weiner (2010) classifies these attributions along three independent dimensions:
@@ -61,6 +61,7 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 - [Higher practical computer knowledge predicts more external attribution of failure](../claims/practical-computer-knowledge-external-attribution.md) [~W]
 - [Stereotype threat affects women's attribution of failure in a computer task: under negative threat, women attribute failure more internally and men more externally](../claims/stereotype-threat-attribution-of-failure-computer-task.md) [+W] — attached 2026-10-30 from Koch et al. (2008), which proposed "Stereotype threat theory applied to the computer domain links threat to maladaptive attribution patterns".
 - [Students attributed the parallel-teaching experiment's failure to distraction, noise, shyness, and unchanged co-teacher roles](../claims/student-reported-reasons-parallel-teaching-failure.md) [+W]
+- [Lecturers show selective acceptance toward PLHIV, extending more empathy to those seen as innocent victims than to those perceived as responsible for infection](../claims/selective-acceptance-plhiv-innocent-victims.md) [+W] — attached 2026-11-08 from Mutiara Tirta Prabandari Lintang Kusuma et al. (2020), which proposed "Attribution theory as a framework explaining lecturers' ambivalence over teaching HIV".
 
 ## Related Theories
 

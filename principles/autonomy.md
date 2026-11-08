@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (38 for, 35 mixed, 3 against) · 69 studies (17 causal, 14 associational, 13 review, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 9 of 69 report an effect size · 68 claims rest on one study
+> **Evidence** · 78 claims (38 for, 37 mixed, 3 against) · 70 studies (17 causal, 15 associational, 13 review, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 9 of 70 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,8 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Satisfaction/enjoyment with PE mediates the relation between perceived autonomy support and PE academic performance](../claims/enjoyment-mediation-autonomy-support-pe-performance.md) [+M] — attached 2026-11-08 from Baños Raúl et al. (2020), which proposed "Pair an autonomy-supportive teaching style with strategies that make students enjoy PE to improve performance".
 - [Perceived autonomy support does not directly predict PE academic performance in Mexican secondary students](../claims/autonomy-support-no-direct-prediction-pe-score.md) [~M] — attached 2026-11-08 from Baños Raúl et al. (2020), which proposed "Pair an autonomy-supportive teaching style with strategies that make students enjoy PE to improve performance".
 - [Teacher psychological control positively predicts academic stress while autonomy support negatively predicts it in university students](../claims/teacher-psychological-control-positively-predicts-academic-stress.md) [+M] — attached 2026-11-08 from Trigueros R. et al. (2020), which proposed "Support student autonomy rather than exercising psychological control to reduce academic stress".
+- [Teachers perceive student‐specific autonomy support and structure as opposing dimensions, while students cannot distinguish the two](../claims/teacher-autonomy-structure-opposed-students-undistinguishable.md) [~W] — attached 2026-11-08 from Domen et al. (2020), which proposed "Teacher training and interventions should focus on combining autonomy support with structure for different students".
+- [Teacher perceptions of student‐specific structure positively predict students' controlled motivation, contrary to expectations](../claims/student-specific-structure-controlled-motivation.md) [~W] — attached 2026-11-08 from Domen et al. (2020), which proposed "Teacher training and interventions should focus on combining autonomy support with structure for different students".
 
 ## Objective and learner-valued goal
 

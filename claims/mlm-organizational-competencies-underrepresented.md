@@ -53,3 +53,4 @@ Aggregation of competencies across the 16 included publications, with counts per
 - [Perceptions of middle-manager competencies differ by hierarchical level: senior managers emphasize strategic traits while frontline managers emphasize interaction and communication](hierarchical-level-differences-in-middle-manager-competency-perceptions.md) — related
 - [Medical record documentation competencies show a longitudinal progression across courses but are absent in some curricular areas](documentation-longitudinal-progression.md) — related
 - [Qualitative findings identified five thematic competency gap domains](vhv-qualitative-gaps-in-five-domains.md) — related
+- [Patient safety and handling of errors and complications are the most emphasized Manager/Leader topics in surgical curricula, while time management, career planning and leadership are not addressed](surgery-manager-error-emphasis-leadership-gap.md) — related

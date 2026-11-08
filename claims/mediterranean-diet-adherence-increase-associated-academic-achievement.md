@@ -52,3 +52,4 @@ Linear mixed model analysis of three-wave longitudinal data from 563 Lebanese ad
 - [Mediterranean Diet adherence alone shows no significant association with self-regulation, but helps in combination with other habits](mediterranean-diet-adherence-alone-no-significant-self-regulation-association.md) — related
 - [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related
 - [Higher Mediterranean diet adherence is not associated with slower cognitive decline over 5 to 10 years](mediterranean-diet-not-associated-slower-decline.md) — related
+- [Higher adherence to the Mediterranean diet is associated with higher odds of high academic achievement among Lebanese adolescents](mediterranean-diet-adherence-academic-achievement-lebanon.md) — related

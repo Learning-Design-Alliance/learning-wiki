@@ -64,3 +64,4 @@ Meta-analysis reported in the self-determination theory section "confirmed that 
 - [No significant association of regulation type, sex, age, or mentoring style with form completion or competence](no-association-regulation-mentoring-completion-competence.md) — related
 - [Basic psychological needs positively predict college students' mindfulness](bpn-predict-mindfulness-chinese-college.md) — related
 - [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](moderate-needs-identity-descriptives.md) — related
+- [Student‐perceived need support is positively associated with students' autonomous motivation at both the student and class levels](student-perceived-need-support-autonomous-motivation.md) — a narrower finding that bears on this claim

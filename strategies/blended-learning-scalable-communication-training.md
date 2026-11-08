@@ -55,6 +55,7 @@ The article proposes blended learning as a response to the logistical challenges
 - [Use a practical role-play unit with standardized drama patients plus an online theory module for one-time communication training](drama-patient-roleplay-communication-training-strategy.md)
 - [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
 - [Diversify learners' virtual clinical exposure with alternative virtual learning experiences such as virtual patients and virtual OSCEs](alternative-virtual-learning-experiences-vc.md)
+- [Develop dedicated online competency modules combined with blended learning and telehealth interactions for clinical skills](blended-learning-telehealth-modules-optometry-strategy.md)
 
 ## Examples
 -

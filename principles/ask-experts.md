@@ -171,6 +171,7 @@ The present evidence establishes no length or frequency of consultation, no numb
 - [Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines](../strategies/educational-prompt-patterns-persona-context-manager-apprenticeship.md)
 - [Five-unit arc building classroom skills toward a community field trip and public sharing](../designs/five-unit-field-trip-arc-riparian.md)
 - [Author by tutoring a machine-learning agent rather than demonstrating solutions](../strategies/author-by-tutoring-machine-learning-agent.md)
+- [Use peers and colleagues as a primary source of evidence and competency support](../strategies/peers-as-source-of-evidence-strategy.md)
 
 ## Key Sources
 - Daley, B. J. (1999). Novice to expert: An exploration of how professionals learn. *Adult Education Quarterly, 49*(4), 133-147. [ERIC](https://eric.ed.gov/?id=EJ592654)

@@ -54,3 +54,4 @@ School-subject moderator analysis within the secondary meta-analysis (mathematic
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — related
 - [High-intensity physical activity shows a positive effect on mathematics achievement (SMD = 0.41)](high-intensity-activity-improves-mathematics-achievement.md) — related
 - [Cardiovascular fitness is positively associated with math and language grades in Swedish adolescents, though the association is weak](fitness-associated-math-language-grades.md) — related
+- [Cardiorespiratory fitness, flexibility and overall fitness are positively associated with academic achievement in all subjects, but muscular strength is not associated with Spanish language or mathematics](fitness-components-associated-with-academic-achievement.md) — reports the opposite

@@ -48,3 +48,4 @@ Discriminative validation of the collision measure in exercise 1 across the four
 - [Affine velocity discriminated expertise levels on the first exercise, including a significant difference between inexperienced interns and novices that time and collisions did not clearly show](affine-velocity-discriminates-exercise1.md) — related
 - [On the second, bi-manual exercise, only the novice group was systematically outperformed, with weaker discrimination among the surgical groups](exercise2-bimanual-weaker-discrimination.md) — related
 - [On the simulator's first exercise, expert and intermediate surgeons completed the trajectory faster than inexperienced interns and novices](experts-intermediates-faster-exercise1.md) — related
+- [Exercise errors are significantly fewer and accuracy greater in the expert group compared with all other cohorts](emig-accuracy-errors-expert-superior.md) — related

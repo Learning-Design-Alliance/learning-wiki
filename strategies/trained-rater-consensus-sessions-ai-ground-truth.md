@@ -49,6 +49,7 @@ The article recommends that, given the need for valid skill ratings in AI develo
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
 - [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
 - [Validate educational videos with both expert judges and the target audience](validate-videos-with-experts-and-target-audience.md)
+- [Adopt a modified GESEA-based scoring system for multidirectional suturing assessment](modified-gesea-scoring-multidirectional-suturing.md)
 
 ## Examples
 -

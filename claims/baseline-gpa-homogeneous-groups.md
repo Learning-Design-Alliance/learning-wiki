@@ -53,3 +53,4 @@ Pre-experiment ANOVA comparison of average Degree grades in IR and BA between th
 - [Before instruction, the jigsaw and traditional groups were equivalent on prior knowledge, unit pre-test, and prior grades](jigsaw-groups-equivalent-at-baseline.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [The flipped classroom per se neither improves nor worsens students’ performance in hard or soft skills relative to a semi-traditional class with active learning techniques](fc-per-se-no-effect-hard-soft-skills.md) — related
+- [Before the intervention, the experimental and control groups were statistically equivalent in entering cumulative GPA](equivalent-entering-gpa-blended-flipped-quasi-experiment.md) — related

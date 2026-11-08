@@ -41,6 +41,7 @@ The partnership plans to "Develop dissemination resources (blog posts, videos, i
 - [Disseminate partnership information through blog posts, videos, and infographics](dissemination-blog-posts-videos-infographics.md)
 - [Dissemination planning and accurate, accessible data visualization](dissemination-plan-and-visualization-tips.md)
 - [Develop dissemination resources to support acceptability and feasibility of the toolkit approach](tft-dissemination-resources-strategy.md)
+- [Require dissemination and implementation plans so dementia education research reaches practice](dementia-research-dissemination-implementation-strategy.md)
 
 ## Examples
 -

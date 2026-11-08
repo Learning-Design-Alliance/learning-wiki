@@ -51,3 +51,4 @@ Secondary analysis reported in Tables 4–6 correlating each salivary biomarker 
 - [Male students show significantly higher SBP and lower SpO2 than female students at each time point, with negligible clinical significance](males-higher-sbp-lower-spo2-across-time-points.md) — related
 - [Testosterone concentration is significantly higher 120 minutes after high-fidelity simulation than before and immediately after](testosterone-higher-at-t2-after-hfs.md) — related
 - [Hormone-based stress monitoring showed no statistically significant changes in several reviewed studies despite being the second most used physiological method](hormone-monitoring-null-changes-acute-stress.md) — a broader claim this one bears on
+- [Physical activity, demographic parameters and stress-related hormones explain around 61.9–77.9% of academic performance and executive functioning variation, especially in females](regression-model-explains-619-779-percent-variance.md) — related

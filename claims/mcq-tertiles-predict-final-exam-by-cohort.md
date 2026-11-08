@@ -47,3 +47,4 @@ One-way ANOVA and Kruskal–Wallis tests on final exam marks grouped by SIDRA-sc
 ## Related Claims
 - [Students using the badge-equipped gamified response system RB-G-SIDRA obtained higher final exam grades than students using the non-gamified SIDRA and the ranking-only R-G-SIDRA.](badges-gamified-crs-higher-final-exam-grades.md) — related
 - [MCQ test scores were higher with both gamified systems than with the non-gamified SIDRA, but ranking plus teams plus points without badges did not differ from badges.](gamified-crs-higher-mcq-scores.md) — related
+- [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related

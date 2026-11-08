@@ -73,3 +73,4 @@ The review attributes peer-feedback hesitation to Burgess et al. and Lerchenfeld
 - [Students found peer evaluation the most challenging aspect of TBL, citing difficulty of honest review and relationship-dependent fairness.](tbl-peer-evaluation-challenge.md) — related
 - [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related
 - [Students want peer-teacher training to include evidence-based educational theory and contextualized practical teaching experience with feedback](desired-training-content-theory-practice-feedback.md) — related
+- [A systematic review cited by the authors found positive results in 7 of 8 studies evaluating peer feedback for professional behavior development at the undergraduate level](peer-feedback-positive-7-of-8-studies-review.md) — related

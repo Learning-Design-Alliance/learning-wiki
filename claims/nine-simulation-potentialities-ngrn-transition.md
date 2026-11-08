@@ -53,3 +53,4 @@ Descriptive qualitative phase using four focus groups with 16 certified precepto
 - [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](simulation-improved-communication-teamwork-male-students.md) — a narrower finding that bears on this claim
 - Competence-oriented simulated teaching raised learning-effect scores (independent learning, interest, emergency handling, teamwork, communication) more than traditional training — related
 - [Interactive learning activity supports intern nurses' transition toward clinically competent licensed nurses](interactive-learning-clinical-competence-transition.md) — related
+- [Structured preceptor training may contribute to improved transition to practice and first-year retention of new graduate nurses](structured-preceptor-training-transition-retention.md) — related

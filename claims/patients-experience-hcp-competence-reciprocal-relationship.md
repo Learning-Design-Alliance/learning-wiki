@@ -74,3 +74,4 @@ The review's meta-aggregation (Table 4, Category 8) includes the finding 'Builds
 - [Stakeholders expect digital health navigators to build patient relationships marked by interpersonal warmth, empathy, and patience, not only technical support](dhn-interpersonal-warmth-empathy-expectations.md) — related
 - [Trainers view empathy-based teaching as helping older adults overcome fear of technology and build self-confidence](empathy-based-teaching-overcomes-tech-fear.md) — related
 - [The standard training program showed intermediate effects on three values-related competencies but no effect on three technical competencies](values-competencies-intermediate-technical-no-effect.md) — related
+- [Students propose humanizing care for critically ill patients and better supporting their families, including adequate information and comfortable visiting](improving-care-families-critically-ill.md) — related

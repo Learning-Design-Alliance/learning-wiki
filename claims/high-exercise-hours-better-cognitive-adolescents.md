@@ -54,3 +54,4 @@ Between-group ANOVA comparisons (with Bonferroni post hoc tests) among 208 adole
 - [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — related
 - [Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls](higher-fitness-cluster-better-attention.md) — related
 - [Adolescents exercising 0–3.5 h/week showed the highest academic scores, mental health and cognitive ability, while those above 3.5 h/week showed the highest physical fitness](descriptive-group-differences-activity-duration-groups.md) — reports the opposite
+- [Pre-adolescents in the higher-fitness cluster show higher academic performance than those in the lower-fitness cluster](higher-fitness-cluster-higher-academic-performance.md) — related

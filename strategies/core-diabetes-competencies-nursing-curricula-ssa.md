@@ -54,6 +54,7 @@ The review recommends strengthening diabetes training for frontline nurses, embe
 - [Incorporate palliative care into nursing curricula and provide regular palliative care training and continuing education for nurses](regular-palliative-care-training-and-curriculum-incorporation.md)
 - [Embed the Long COVID core competencies in training and professional development to standardize practices and improve patient outcomes](embed-competencies-in-long-covid-training.md)
 - [Include mental health content and clinical learning experiences in undergraduate children's nursing curricula, and use co-designed e-learning for continuing professional development](mental-health-content-nursing-curricula-elearning-cpd.md)
+- [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
 
 ## Examples
 -

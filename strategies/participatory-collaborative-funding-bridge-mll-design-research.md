@@ -41,6 +41,7 @@ The report recommends structural moves to connect design and research communitie
 
 - [AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos](researcher-developer-partnerships-bridge-ai-silos.md)
 - [Fund scheduled coplanning time and multidisciplinary team composition for pre-referral, assessment, and referral decisions](coplanning-time-multidisciplinary-teams-strategy.md)
+- [Require dissemination and implementation plans so dementia education research reaches practice](dementia-research-dissemination-implementation-strategy.md)
 
 ## Examples
 -

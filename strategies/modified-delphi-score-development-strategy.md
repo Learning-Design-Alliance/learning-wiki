@@ -54,6 +54,7 @@ This strategy builds a scoring system by drafting steps and definitions from the
 - [Use a systematic review plus Delphi process to derive competency frameworks from empirical evidence](systematic-review-delphi-competency-derivation.md)
 - [Use eDelphi studies with expert panels to establish consensus on definitions of emergent learning design constructs](edelphi-consensus-emergent-constructs.md)
 - [Use a two-round modified Delphi process with specialty Scientific Committees and a predefined consensus threshold to build national competency catalogs](modified-delphi-national-competency-catalog-strategy.md)
+- [Use a Delphi panel with predefined inclusion and stopping criteria to build cross-institution consensus on procedure steps](delphi-consensus-for-procedure-breakdown.md)
 
 ## Examples
 -

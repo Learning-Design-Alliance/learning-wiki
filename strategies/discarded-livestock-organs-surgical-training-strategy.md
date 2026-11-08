@@ -49,6 +49,7 @@ A sourcing strategy for surgical simulation training: instead of killing laborat
 - [Train for fetoscopic OSB repair on a high-fidelity simulator before animal models to reduce animals needed and improve efficiency](simulator-before-animal-model-frostraining.md)
 - [Provide animal-based simulation training before performing actual endoscopic surgeries](animal-simulation-before-actual-surgery-strategy.md)
 - [Replace live animal and cadaver robotic surgery training with validated synthetic organ models, enabled by scalable mass production](scale-mass-production-synthetic-models.md)
+- [Use dynamic perfused-cadaver simulation to overcome insufficient annual caseload in subspecialized surgical training](dynamic-cadaver-simulation-for-low-caseload-subspecialties.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The article recommends that in non-Mediterranean food cultures, where full MedDi
 ## Related Strategies
 
 - [Education intervention programs should promote healthy dietary patterns and increase self-efficacy perceptions to support adolescent achievement](promote-mediterranean-diet-and-self-efficacy-intervention-strategy.md)
+- [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
 
 ## Examples
 -

@@ -55,6 +55,7 @@ The review identifies contextual conditions under which experiential nutrition e
 - [Secure principal buy-in and an in-school ally before launching external vendor programs in schools](principal-buy-in-ally-for-vendor-programs.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Education intervention programs should promote healthy dietary patterns and increase self-efficacy perceptions to support adolescent achievement](promote-mediterranean-diet-and-self-efficacy-intervention-strategy.md)
+- [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
 
 ## Examples
 -

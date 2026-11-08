@@ -51,3 +51,4 @@ Omnibus ANOVAs across the three exercise-hour groups (n = 208 total) were signif
 - [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — related
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
+- [Higher percentage of body fat mass is associated with lower selective attention and concentration in pre-adolescents](body-fat-mass-negative-association-attention.md) — related

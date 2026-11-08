@@ -49,6 +49,7 @@ The article recommends two design and use changes for e-learning in clinical ski
 - [Five improvement recommendations: refined modules, more CPX scenarios, evaluator training, video debriefing, and contingency planning](five-gap-closing-recommendations-clinical-curriculum.md)
 - [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
+- [Keep residents involved in telehealth clinics through a staged model of trainee history-taking, attending discussion, joint patient video conference, and post-visit debrief](telehealth-clinic-resident-involvement-model.md)
 
 ## Examples
 -

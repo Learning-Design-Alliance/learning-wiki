@@ -49,3 +49,4 @@ The same path analysis of 87 fifth-year dental students found "academic performa
 - [Participation in a situational simulation course directly affects OSCE performance among fifth-year dental students](ssc-direct-effect-osce-performance-dental.md) — related
 - [EBM-BOPPPS clerks achieved significantly higher total OSCE scores than standalone BOPPPS clerks in a neurology clerkship RCT](ebm-boppps-higher-total-osce-neurology-clerkship.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
+- [End-of-block OSCE performance is positively correlated with final OSCE performance in pediatrics clerks (r = 0.508)](end-of-block-osce-correlates-final-osce-pediatrics.md) — related

@@ -37,7 +37,8 @@ The TAN project makes all professional development materials openly accessible: 
 - Teaching computational thinking concepts in K-8 classrooms
 
 ## Related Strategies
-- 
+
+- [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](open-source-release-of-handmade-simulators.md)
 
 ## Examples
 -

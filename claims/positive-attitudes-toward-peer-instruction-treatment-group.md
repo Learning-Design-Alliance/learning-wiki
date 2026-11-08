@@ -49,3 +49,4 @@ Safaa Mohammad Al-Hebaishi. (2017). The Effect of Peer Instruction Method on Pre
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Student-based instruction enhanced students' attitudes toward probability relative to teacher-based instruction](student-based-instruction-enhanced-probability-attitudes.md) — related
 - [Students taught with concept mapping expressed a positive attitude toward concept mapping on a 14-item Likert questionnaire](positive-attitude-toward-concept-mapping-likert.md) — related
+- [Nursing students held positive attitudes toward mind mapping as a teaching method (average survey score 4.13 ± 0.73)](positive-attitudes-mind-mapping-teaching-nursing.md) — related

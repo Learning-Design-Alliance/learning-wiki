@@ -49,3 +49,4 @@ Linear mixed model analysis of the same longitudinal adolescent sample found the
 - [Self-efficacy and intention sequentially mediate the relationship between parenting style and academic achievement six months later](serial-mediation-self-efficacy-intention-parenting-achievement.md) — related
 - [Parenting style relates to achievement indirectly through self-efficacy alone and through intention alone](indirect-effects-self-efficacy-intention-separately.md) — related
 - [Changes in attitude, social norms, and intention were not significantly associated with changes in academic achievement](attitude-norms-intention-change-null-achievement.md) — related
+- [Academic self-efficacy and intention are positively associated with high academic achievement, with self-efficacy showing the most prominent effect](self-efficacy-intention-academic-achievement-lebanon.md) — related

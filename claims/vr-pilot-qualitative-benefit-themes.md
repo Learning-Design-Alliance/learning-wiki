@@ -78,3 +78,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Participants reported improved communication skills after ACP-SCT, including patient listening, inferring message meanings, and responding to emotions](acp-sct-self-reported-communication-gains.md) — related
 - [Scores of perceived benefits for communication skills were relatively lower than scores of perceived usefulness for future practice.](communication-skills-utility-lower-than-practice.md) — related
 - [All participants agreed the VR simulation would benefit their future clinical practice, and several valued the safe learning environment for attempting risky communication.](vr-safe-environment-perceived-benefits.md) — related
+- [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related

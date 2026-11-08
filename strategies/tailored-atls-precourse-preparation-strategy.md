@@ -53,6 +53,7 @@ The article recommends adapting the ATLS course to its diverse participants rath
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
 - [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
 - [Differentiate the training program by surgeon experience level: synthetic exercises for young residents, biological exercises for senior groups](tes-experience-tiered-exercise-allocation.md)
+- [Provide separate training programmes tailored to different provider groups to improve refresher attendance and performance](provider-role-tailored-separate-training.md)
 
 ## Examples
 -

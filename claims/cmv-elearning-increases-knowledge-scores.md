@@ -50,3 +50,4 @@ Pre/post evaluation of the eLearning course using a generalised linear mixed-eff
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
 - [Awareness of free CMV education resources rises from 10% to 97% after course completion](cmv-elearning-increases-resource-awareness.md) — related
 - [Obstetric providers show low baseline knowledge of congenital cytomegalovirus, answering just under 50% of knowledge items correctly](obstetric-provider-low-baseline-ccmv-knowledge.md) — related
+- [Primary assessment performance declines significantly between the end of the course and 3–4 months later, but remains above the pre-course level](abcde-performance-declines-but-remains-above-baseline.md) — related

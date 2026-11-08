@@ -48,6 +48,9 @@ The article recommends designing continuing professional development (CPD) aroun
 - [Use consensus-derived teamwork competencies to develop a European curriculum for community-based interprofessional team specialists](eu-curriculum-development-from-consensus-competencies.md)
 - [Target QS graduate training programs at management and personality development, combining management content with personal image and innovative insight](qs-management-personality-training-programs.md)
 - [Expand sarcopenia coverage in medical curricula, add primary-care guidelines, and provide equipment support for screening and diagnosis](sarcopenia-curriculum-guideline-equipment-strategy.md)
+- [Make dementia workforce education and training cost-effective and evaluate its costs](dementia-training-cost-effectiveness-strategy.md)
+- [Recruit and retain a dementia-capable workforce by identifying motivations and meeting training needs](dementia-workforce-recruitment-retention-strategy.md)
+- [Train an interprofessional workforce for dementia care coordination and care transitions](interprofessional-dementia-care-coordination-training.md)
 
 ## Examples
 -

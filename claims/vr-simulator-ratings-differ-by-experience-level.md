@@ -48,3 +48,4 @@ Between-group comparison using Kruskal-Wallis tests across three experience grou
 - [Sentiment differs significantly across target audiences, with faculty-targeted guidelines more positive than student-targeted ones](audience-sentiment-difference-faculty-students.md) — related
 - [Simulator acceptability was high with no differences between groups in either population](high-simulator-acceptability-across-groups.md) — related
 - [The VR TTTS simulator received strong positive validation across five domains, with training effectiveness the highest-endorsed at 87%](vr-ttts-simulator-strong-positive-validation.md) — related
+- [Fidelity and content validity ratings did not differ significantly by training level or experience, except Task 6, which residents and less-trained participants rated lower](simisgest-vr-ratings-no-training-experience-differences-except-task-6.md) — reports the opposite

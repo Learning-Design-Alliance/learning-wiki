@@ -55,3 +55,4 @@ Faculty interview testimony in the limited-resources category; an instructor (P8
 - [Implementation problems — faculty weaknesses, exam organizers, and the physical exam environment — are perceived causes of nursing students' cheating](implementation-problems-nursing-exam-cheating.md) — related
 - [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related
 - [Perceived barriers to implementing ophthalmic simulation in SSA include cost, inadequate supervision, lack of equipment or facilities, resistance to change and sustainability concerns](sbse-implementation-barriers-ssa.md) — related
+- [Qualitative analysis in a surgical-department PAR identified three main problems affecting clinical competencies: professional insufficiency, basic shortages and external influences.](par-three-competency-problems-surgical-ward.md) — related

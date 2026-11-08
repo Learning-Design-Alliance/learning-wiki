@@ -47,3 +47,4 @@ Kirkpatrick level 3 video-based evaluation of trainer behaviour before and after
 ## Related Claims
 - [Post-refresher mini-STTAR* scores showed a statistically significant improvement in the Set item 'determines background knowledge' with a medium effect size, while other items showed no significant differences despite a positive trend](refresher-training-significant-set-item-improvement-only.md) — possibly the same claim (merge candidate)
 - [A one-on-one TCT refresher training delivered 6–9 months after the original course was highly valued by participants, with 83% believing it should become standard practice](tct-refresher-training-highly-valued-by-trainers.md) — related
+- [Overall knowledge scores rose from baseline to 3 and 12 months after refresher training sessions, in a single-group pre-post study, reaching minimum competency at 3 and 12 months](highflow-refresher-training-incremental-gains.md) — related

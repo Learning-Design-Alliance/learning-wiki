@@ -91,3 +91,5 @@ Simple ANOVA follow-up on amotivation within each group; the article reports amo
 - [A gamified exergaming intervention improves basic psychological needs in primary-school PE compared with a traditional didactic intervention](gamified-exergaming-improves-basic-psychological-needs-pe.md) — related
 - [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) — related
 - [Psychological needs correlate more strongly with more self-determined motivation types, from intrinsic motivation down to near-zero with external regulation](needs-gradient-correlations-motivation-types.md) — related
+- [Gamification increased external regulation in university PE students only in the gamified group, with no change in other regulations](gamification-increased-external-regulation-university-pe.md) — reports the opposite
+- [Gamification did not change intrinsic motivation or amotivation in university PE students](gamification-no-intrinsic-motivation-amotivation-change.md) — related

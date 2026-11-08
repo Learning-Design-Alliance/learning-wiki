@@ -85,3 +85,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Dementia knowledge increased after training in both groups, but at three months only the intervention group's knowledge gain remained significant](knowledge-gain-fades-in-control-group.md) — related
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Perceived value of and interest in the simulation was high immediately post-session but declined significantly at 4 and 8 months](simulation-interest-declines-months.md) — related
+- [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related

@@ -49,6 +49,7 @@ The authors recommend disseminating and supporting the SNPCOHS program as an e-l
 ## Related Strategies
 
 - [Use pragmatic implementation and dissemination strategies to boost e-learning usage and sustainability](pragmatic-rlo-implementation-strategies.md)
+- [Disseminate PICC maintenance knowledge through multiple channels and target education by dimension-specific performance](targeted-multichannel-picc-education-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Test-retest reliability analysis with 30 participants re-assessed after a 15-day
 - [The 43-item Korean HLCs shows strong internal consistency and test-retest reliability](korean-hlc-reliability-strong.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
+- [BUSS shows three-week test-retest reliability of .70 for Tenacity and .77 for Self-composure](buss-test-retest-reliability.md) — related

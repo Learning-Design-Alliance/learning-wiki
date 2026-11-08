@@ -70,3 +70,4 @@ Adjusted anthropometry regression (Table 3) in the same cohort: WAZ coefficients
 - [Short-term memory (digit span backward) positively predicts reading, spelling and math computation in rural Bangladeshi children](short-term-memory-predicts-achievement-rural-bangladesh.md) — related
 - [Children enrolled in private schools scored higher in reading and spelling than children in government schools in rural Bangladesh](private-school-advantage-reading-spelling-rural-bangladesh.md) — related
 - [Mothers' education predicts spelling and fathers' education predicts reading, but not math, in the fully adjusted model](parental-education-predicts-reading-spelling-rural-bangladesh.md) — related
+- [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related

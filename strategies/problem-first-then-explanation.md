@@ -52,6 +52,7 @@ This strategy sequences instruction so learners encounter a problem they cannot 
 - [Predicting](predicting.md)
 - [Separate challenging material in time from peak-curiosity moments, or build a sustained curiosity state before presenting less-interesting material](separate-material-from-curiosity-peaks.md)
 - [Use instructional technology to manage situational interest by matching learning styles, leveraging difficulty, segmenting goals, and arousing curiosity](technology-manage-situational-interest-four-factors.md)
+- [Open each learning chapter with challenging questions before presenting key material to stimulate curiosity](chapter-opening-questions-stimulate-curiosity.md)
 
 ## Examples
 -

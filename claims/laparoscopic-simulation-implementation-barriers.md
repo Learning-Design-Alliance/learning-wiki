@@ -71,3 +71,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Barriers to simulation uptake include belief in the apprenticeship model, low fidelity, cost, access and logistics](barriers-simulation-uptake-apprenticeship-cost-access.md) — related
 - [Equipment design, availability, and maintenance threats are common in operating theaters, reported in 58% of reports and 86% of sites](equipment-threats-common-operating-theater-lst.md) — related
 - [Pre-recording lectures added little production time once equipment was set up, but moving problem sets online increased grading workload](production-time-and-grading-workload-remote.md) — related
+- [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related

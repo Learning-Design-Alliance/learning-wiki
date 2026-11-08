@@ -51,3 +51,4 @@ The review reports that to facilitate the implementation of educational interven
 - [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — related
 - [Education programmes including perineal tear prevention training are associated with reduced severe perineal tear rates.](prevention-inclusive-training-reduces-tear-rates.md) — related
 - [Full participation in a management training programme is associated with significantly higher managerial competence scores](management-training-participation-higher-competence.md) — related
+- [Managers who led by example were more likely to facilitate staff participation in the intervention](manager-leads-by-example-participation.md) — a narrower finding that bears on this claim

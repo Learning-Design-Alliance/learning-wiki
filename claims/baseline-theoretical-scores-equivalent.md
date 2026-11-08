@@ -50,3 +50,4 @@ One-way ANOVA of the first theoretical examination, administered after the share
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related
 - [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — possibly the same claim (merge candidate)
+- [No baseline difference among the four groups on the first theoretical examination](no-baseline-difference-first-theory-exam.md) — possibly the same claim (merge candidate)

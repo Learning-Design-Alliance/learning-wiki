@@ -76,3 +76,5 @@ The article reports, citing Miura et al, a pilot training program for NPs using 
 - [DEFT condenses the one-minute preceptor from five microskills to four by merging the two feedback steps](deft-condenses-omp-five-to-four-microskills.md) — related
 - [An OMP-based preceptor education program produced no statistically significant change in preceptor nurses' clinical core competency (CCCP) or communication competence (GICC-15) scores](omp-pep-no-significant-cccp-gicc-change.md) — related
 - [The article argues OMP suits busy preceptor-directed settings because it needs only a single brief teacher training session, unlike SNAPPS](omp-preceptor-directed-busy-settings-single-training.md) — related
+- [Incomplete participation in a short supervision training workshop was associated with no significant improvement in teaching ability](incomplete-participation-no-teaching-ability-gain.md) — related
+- [Short-duration supervision training can produce negative outcomes when new skills are not reinforced or preceptors lack protected supervision time](short-training-negative-outcomes-no-reinforcement-no-protected-time.md) — related

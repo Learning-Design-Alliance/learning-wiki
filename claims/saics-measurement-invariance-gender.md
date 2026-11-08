@@ -47,3 +47,4 @@ A multiple-group CFA across gender (male: 222, female: 226) tested measurement i
 
 ## Related Claims
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
+- [The factor structure of the Spanish ARS is invariant with respect to gender at the measurement-weight level](spanish-ars-gender-invariance.md) — related

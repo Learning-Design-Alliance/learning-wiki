@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 310 claims (199 show a difference, 61 mixed, 50 no difference) · 194 studies (74 associational, 67 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 46 of 194 report an effect size · 302 claims rest on one study
+> **Evidence** · 313 claims (202 show a difference, 61 mixed, 50 no difference) · 196 studies (74 associational, 68 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 47 of 196 report an effect size · 305 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -346,6 +346,9 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](../claims/motivational-strategies-little-difference-bl-dt.md) [-M] — measured as an outcome of the instruction studied
 - [Social-evaluative anxiety related to COVID-19 negatively moderates the mediation effect of distance e-learning satisfaction on the learning flow–learning outcome relationship](../claims/sea-moderates-de-ls-mediation-covid19.md) [~M] — an instructional effect differs with it
 - [Infection-related anxiety did not differ significantly between the standardized-patient simulation and peer role-play groups, although the SP group's mean anxiety rose while the PRP group's fell.](../claims/infection-anxiety-no-between-group-difference.md) [-W] — measured as an outcome of the instruction studied
+- [Apprentices positively evaluate low-cost handmade obstetric simulators, perceiving gains in theoretical knowledge, clinical problem-solving ability, and reduced anxiety](../claims/handmade-obstetric-simulators-positive-apprentice-perception.md) [+M] — measured as an outcome of the instruction studied
+- [Music-based CBT significantly reduces test anxiety of primary school children in basic science at posttest compared with a control group](../claims/cbt-music-reduces-test-anxiety-posttest.md) [+M] — measured as an outcome of the instruction studied
+- [The music-based CBT effect on children's test anxiety is maintained at a 2-month follow-up relative to control](../claims/cbt-music-test-anxiety-followup-maintained.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

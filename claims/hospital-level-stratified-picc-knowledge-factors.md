@@ -60,3 +60,4 @@ Separate multiple linear regressions for secondary/primary (n = 1957) and tertia
 - [Biostatistics and research methodology coursework is associated with prior EBM training, while hospital clinical training is associated with lower EBM training](coursework-associated-ebm-training-clinical-training-inverse.md) — related
 - [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related
 - [Work setting relates to competence unevenly: core nursing skills score higher in primary healthcare while general performance scores higher in government hospitals](work-setting-competence-differences-by-domain.md) — related
+- [Gender, age, professional title, work setting and previous training independently predict PICC maintenance knowledge in a generalised linear model](glm-factors-picc-maintenance-knowledge.md) — related

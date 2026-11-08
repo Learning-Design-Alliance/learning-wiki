@@ -52,3 +52,4 @@ Randomized clinical trial at Boston Children's Hospital: 153 trainees (83 contro
 - [The just-in-time coaching benefit on first attempt success was significant with video laryngoscopy but not with direct laryngoscopy](jit-coaching-video-laryngoscopy-subgroup.md) — a narrower finding that bears on this claim
 - [Just-in-time coaching significantly lowered trainee cognitive load on the mental demand, temporal demand, effort, and frustration NASA-TLX domains](jit-coaching-lowers-cognitive-load-nasa-tlx.md) — related
 - [In one uncontrolled pre-post study, median LP completion time among EM interns fell from 12.9 to 10.3 minutes after viewing a brief just-in-time instructional video](jit-video-reduced-lp-completion-time.md) — related
+- [Just-in-time training videos before procedures yield faster learning and more successful performance than reading textbooks (Level 1b, Grade B)](jitt-videos-faster-learning-procedural-skills.md) — related

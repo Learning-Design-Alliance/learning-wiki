@@ -51,3 +51,4 @@ Covariate results from the LMMs in the quasi-experimental study; the quote repor
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
 - [Female medical and dental educators score higher on student-centred teaching than male educators in Karachi, Pakistan](female-educators-higher-student-centric-scores-pakistan.md) — related
 - [Female medical faculty score lower on the formal authority teaching style than male faculty (regression coefficient −0.20)](female-faculty-less-authoritative-teaching-style.md) — related
+- [Faculty tend to be rated more highly when male, of commonly White surname, scientifically younger, and of full professor rank](demographic-biases-in-set-ratings.md) — reports the opposite

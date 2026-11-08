@@ -158,6 +158,7 @@ Participation in the chat, the share of negotiated turns, self-correction, unaid
 - [Text Chats in Instruction](../strategies/text_chats_in_instruction.md) — the strategy page for running a chat during instruction.
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
 - [Text-based synchronous chat with two-pane chronological display in a graduate seminar](../elements/two-pane-scmd-chat-graduate-seminar.md)
+- [Run academic conferences by teleconference with live-chat question submission and recorded sessions stored for later review](../strategies/teleconferenced-academic-conferences-live-chat-recording.md)
 
 ## Key Sources
 - Heafner, T., & Plaisance, M. (2014). Exploring synchronous text chat in remotely delivered early field experiences. *Journal of Interactive Learning Research, 25*(3), 327-352.

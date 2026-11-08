@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 263 claims (181 show a difference, 58 mixed, 24 no difference) · 161 studies (59 associational, 53 causal, 17 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 39 of 161 report an effect size · 260 claims rest on one study
+> **Evidence** · 265 claims (182 show a difference, 59 mixed, 24 no difference) · 162 studies (60 associational, 53 causal, 17 review, 12 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 39 of 162 report an effect size · 262 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -298,6 +298,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Boredom with PE does not mediate the relation between autonomy support and PE academic performance](../claims/boredom-no-mediation-autonomy-support-pe-performance.md) [-M] — learners who differ on it differ in outcomes
 - [Perceived autonomy support correlates positively with PE enjoyment and PE score and negatively with boredom](../claims/autonomy-support-correlations-pe-enjoyment-score-boredom.md) [+M] — measured as an outcome of the instruction studied
 - [Satisfaction/enjoyment with PE mediates the relation between perceived autonomy support and PE academic performance](../claims/enjoyment-mediation-autonomy-support-pe-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Big Five factors relate to achievement emotions stably across class, study and testing situations, with neuroticism linked to negative emotions and conscientiousness to positive emotions](../claims/big-five-achievement-emotions-three-situations.md) [+M] — learners who differ on it differ in outcomes
+- [Emotion-focused coping strategies positively predict negative achievement emotions, while problem-focused coping strategies predict no type of emotion](../claims/emotion-focused-coping-predicts-negative-emotions.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

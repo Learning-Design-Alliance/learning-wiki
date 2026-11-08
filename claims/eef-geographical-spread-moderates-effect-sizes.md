@@ -51,3 +51,4 @@ Subgroup meta-analysis of effect sizes by geographical context across the EEF tr
 - [Effect sizes were higher for interventions with a total cost between £250k and £750k than for interventions that were more or less expensive](eef-total-cost-band-moderates-effect-sizes.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
 - [Smaller rural districts tend to outperform larger ones, but large geographic spread limits their capacity to manage turnaround efforts](small-rural-districts-outperform-larger-but-distance-limits-turnaround-capacity.md) — related
+- [High users of TA reported significantly less implementation progress than low users on three of five SAIS domains](high-ta-users-less-reported-progress.md) — related

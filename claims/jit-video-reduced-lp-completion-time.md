@@ -52,3 +52,4 @@ Pilot quasi-experimental study of all 9 EM interns in one academic Midwestern ED
 - [The first attempt success benefit of just-in-time coaching was significant among residents but not among fellows or student registered nurse anesthetists](jit-coaching-resident-subgroup-benefit.md) — related
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
 - [The just-in-time coaching benefit on first attempt success was significant with video laryngoscopy but not with direct laryngoscopy](jit-coaching-video-laryngoscopy-subgroup.md) — related
+- [Just-in-time training videos before procedures yield faster learning and more successful performance than reading textbooks (Level 1b, Grade B)](jitt-videos-faster-learning-procedural-skills.md) — related

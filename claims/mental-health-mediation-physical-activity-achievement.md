@@ -50,3 +50,4 @@ Nonlinear mediation analysis (Medcurve macro, SPSS) on the CEPS sample, grouping
 - [Physical activity directly and positively predicts adolescents' academic achievement (β = 0.241, 68.86% of total effect)](pa-direct-positive-predicts-aa-chinese-adolescents.md) — related
 - [Self-concept and physical-mental health chain-mediate the PA–AA link: PA enhances SC, which improves PMH and thereby AA (β = 0.031, 8.86%)](chain-mediation-sc-pmh-pa-aa.md) — related
 - [In one group measured before and after, an indirect statistical association involving self-reported mental health was reported between physical activity at T1 and academic motivation at T3, larger for extrinsic than intrinsic motivation](mental-health-mediates-pa-to-academic-motivation.md) — related
+- [Medium physical activity is associated with higher achievement, but the association is not significant once socio-cognitive factors are added](medium-physical-activity-achievement-mixed.md) — related

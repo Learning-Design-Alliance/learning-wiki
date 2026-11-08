@@ -48,6 +48,7 @@ The article recommends that educational institutions routinely use early-detecti
 
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Emphasize sleep hygiene as a regulating factor for academic performance in emergency remote teaching](sleep-hygiene-emergency-remote-teaching-strategy.md)
+- [Routinely signpost academically struggling students to mental health support, building on academic staff depression literacy](signpost-struggling-students-mental-health-support.md)
 
 ## Examples
 -

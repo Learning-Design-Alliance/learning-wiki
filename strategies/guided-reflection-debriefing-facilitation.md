@@ -48,6 +48,7 @@ In the debriefing stage, the facilitator reiterates the simulation objective, in
 - [Use required online discussion boards with specific prompts and peer commenting to facilitate reflection during SLT simulation placements](discussion-board-structured-prompts-simulation-reflection.md)
 - [Structured five-stage debriefing after simulated PPH care, moving through emotional, descriptive, evaluative, analytical and conclusive stages](five-stage-structured-debriefing-pph-simulation.md)
 - [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
+- [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 
 ## Examples
 -

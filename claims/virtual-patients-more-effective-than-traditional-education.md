@@ -48,3 +48,4 @@ The article reports, citing Kononowicz et al., the result of a systematic review
 - [Virtual patients and standardized patients are equally effective for acquiring clinical reasoning skills in ophthalmology residents, with both producing significant pretest-to-posttest gains](vp-sp-equally-effective-clinical-reasoning-ophthalmology.md) — related
 - [The review reports SBME yields positive outcomes across oncology subspecialties, including communication skills, chemotherapy safety, and radiation oncology competencies](sbme-positive-outcomes-oncology-subspecialties.md) — related
 - [Seventh-grade pupils taught chemical content with a virtual laboratory acquired more knowledge than pupils taught without dynamic visualization](virtual-laboratory-improves-chemical-knowledge-acquisition.md) — related
+- [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — related

@@ -51,3 +51,4 @@ Consistency analysis of paired SP and examiner scores for 146 residents assessed
 - [SP and examiner scores differ significantly on the total score and three of ten rubric items in the dental OSCE station](wilcoxon-sp-examiner-score-differences-osce-items.md) — related
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related
+- [Self-assessed skills and OSCE results are consistent across five annual cohorts, indicating routine viability](aalplus-cross-cohort-consistency.md) — related

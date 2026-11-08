@@ -51,3 +51,4 @@ Secondary outcomes in the stepped-wedge trial: vacuum extraction OR 1.00 (P=.99)
 - [Obstetric team training is associated with reduced delay of birth at emergency cesarean section (decision-to-delivery time excess of 30 min), with very low certainty evidence](obstetric-team-training-reduces-decision-to-delivery-delay.md) — related
 - [Global adverse event rates did not change significantly across the project periods, and the study could not establish an effect of training on obstetric complication rates](adverse-event-rates-no-significant-change.md) — related
 - [Multidisciplinary obstetric simulation team training with human factors components is associated with reduced maternal mortality and obstetric adverse outcomes](obstetric-simulation-team-training-outcomes-review.md) — related
+- [Well-run multidisciplinary teams reduce adverse cardiovascular outcomes in high-risk pregnancies](multidisciplinary-teams-reduce-adverse-outcomes.md) — related

@@ -82,3 +82,5 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Students rate debriefing feedback as easy to understand, relevant, and constructive, and generally feel positive about debriefing](debriefing-feedback-clear-relevant-constructive.md) — related
 - [Students perceive debriefing as meaningful when it is linked to simulation learning objectives and allows comparison of performance with outcomes](debriefing-linked-to-learning-outcomes-meaningful.md) — related
 - [Students valued the SBE process structure of pre-brief, simulation activity, and debrief, including feedback from supervisors and simulated patients](sbe-process-prebrief-simulation-debrief-valued.md) — related
+- [Reflection logs indicate students in the integrative curriculum engaged in self-directed inquiry, richer peer and instructor interaction, and enthusiasm for simulation scenarios](reflection-logs-show-engagement-and-collaborative-inquiry.md) — related
+- [Real-time spectator observation plus group debriefing was followed by constantly decreasing procedure time despite increasing scenario difficulty](spectator-debriefing-decreasing-procedure-time.md) — related

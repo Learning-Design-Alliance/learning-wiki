@@ -42,7 +42,8 @@ The article recommends that PAT training programs incorporate formal experientia
 - [KAT therapists report that personal psychedelic experience deepens their understanding of clients' experiences and strengthens rapport and therapeutic alliance](../claims/kat-therapists-value-personal-psychedelic-experience.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate experiential learning programs into the learning process so students strengthen attitudes, abilities, and skills](incorporate-elp-into-learning-process-strategy.md)
 
 ## Examples
 -

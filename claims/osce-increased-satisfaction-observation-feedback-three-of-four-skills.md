@@ -48,3 +48,4 @@ Pre-post survey analysis of 35 internal medicine interns after a 4-station OSCE,
 - [After the OSCE, interns' self-reported confidence significantly increased for obtaining informed consent, providing sign-out, and responding to nursing pages, but not for calling a consult](osce-increased-confidence-three-of-four-skills.md) — related
 - [Station checklists identified performance gaps in all four stations despite orientation education and inpatient practice, enabling targeted actionable feedback](osce-checklists-identified-performance-gaps-all-stations.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
+- [Students rate OSCE feedback as very helpful and report high subjective learning progress](aalplus-osce-feedback-ratings.md) — related

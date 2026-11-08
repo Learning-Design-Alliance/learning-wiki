@@ -48,3 +48,4 @@ Inter-rater comparison within the NoTSUS course evaluation between faculty who h
 - [Participants' ureteroscopy experience, overall clinical experience, and prior NTS training did not significantly affect NoTSUS scores](experience-did-not-affect-notsus-scores.md) — related
 - [The NoTSUS rating scale correlates strongly with the validated NoTSS scale and shows inter-rater agreement between the two NTS-trained expert raters](notsus-scale-correlates-with-notss.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — a broader claim this one bears on
+- [Novices taught ureteroscopy and NTS in a full immersion/distributed simulation ('igloo') environment gained significantly higher NoTSS scores than novices taught by didactic methods](fids-igloo-outperformed-didactic-notss-novices.md) — related

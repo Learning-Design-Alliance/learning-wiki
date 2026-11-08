@@ -66,3 +66,4 @@ Face-validity Likert ratings collected only from the IVR group after the operati
 - [Novices and experts rate the simulator's anatomical realism highly (means 4.4–5.39 on a 6-point scale), except the haptic realism of the pinna](vr-otoscopy-simulator-face-validity-ratings.md) — related
 - [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related
 - [Students rated the VR system as more realistic and immersive than theoretical coursework and complementary to it](vr-system-rated-realistic-immersive-complementary.md) — related
+- [VR-enhanced anatomy training improves overall ultrasonography task performance in novice medical students](vr-anatomy-improves-ultrasound-task-performance.md) — related

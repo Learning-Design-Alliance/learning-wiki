@@ -60,6 +60,7 @@ The article recommends structured training programmes for newly appointed nurse 
 - [Screen for SMA and nomophobia and build academic self-efficacy through mastery experiences, role models, feedback, and coaching](ase-building-and-digital-wellbeing-strategy-nursing-interns.md)
 - [Differentiate safety education content and teaching methods for novice versus experienced nurses](differentiate-safety-education-novice-experienced-nurses.md)
 - [Progressive, refreshed PAL teacher training with tailored ongoing support](progressive-refreshed-pal-teacher-training-strategy.md)
+- [Provide separate training programmes tailored to different provider groups to improve refresher attendance and performance](provider-role-tailored-separate-training.md)
 
 ## Examples
 -

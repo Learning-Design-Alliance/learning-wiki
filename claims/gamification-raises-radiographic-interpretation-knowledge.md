@@ -51,3 +51,4 @@ Quasi-experimental comparison of two groups of 41 fifth-year medical students; t
 - [Adding Kahoot and TikTok to traditional teaching raised final exam scores by 12.9% in a radiation oncology course for third-year medical students](kahoot-tiktok-raised-radiotherapy-exam-scores.md) — related
 - [Knowledge and skill outcomes of the gamified and routine groups do not differ significantly by gender](no-gender-difference-knowledge-skill-gamification.md) — related
 - [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](tam-satisfaction-above-cutoff-all-components.md) — related
+- [Gamification's exam advantage extended across most percentiles but not the highest, with gender-differentiated lowest and highest scores](gamification-percentile-gender-performance-differences.md) — related

@@ -52,3 +52,4 @@ Individual-progress analysis of the ten participants' session-by-session fluoros
 - [Video gaming experience is tentatively associated with greater fluoroscopy-time reduction in simulator training](video-gaming-experience-tentative-fluoroscopy-reduction-association.md) — related
 - [Individual students' self-efficacy values did not all increase across trials, with some dropping after the first real-time assessment](individual-self-efficacy-values-not-uniform-increase.md) — a broader claim this one bears on
 - [Learning curves across repeated training sessions show no constant trend among participants](learning-curves-repeated-training-no-constant-trend.md) — related
+- [Repeated simulation training with a one-month interval accelerated the learning curve and reduced inter-individual variability](repeated-simulation-sets-accelerate-learning-curve.md) — related

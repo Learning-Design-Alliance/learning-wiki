@@ -49,6 +49,7 @@ The article recommends that future developments include "provision of simulation
 
 - [Incorporate management, leadership opportunities, and career mentoring into training programmes so consultant skills are learnt during training](consultant-skills-during-training.md)
 - [Interprofessional learning opportunities such as joint supervision, shared case discussions and collaborative learning forums support ANPs to develop expertise while benefiting from specialist knowledge.](joint-supervision-and-shared-case-discussions.md)
+- [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
 
 ## Examples
 -

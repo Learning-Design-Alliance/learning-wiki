@@ -341,3 +341,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — a broader claim this one bears on
 - [Practice tests are probably more effective than restudying for both retention of information and transfer of knowledge or skills.](practice-tests-probably-more-effective-than-restudying.md) — related
 - [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — related
+- [Reducing cognitive load, interleaving, spaced/retrieval practice, and increased wait-times are recommended to support learning in clinical teaching (Level 2a, Grade B)](cognitive-load-interleaving-spaced-retrieval-waittime-recommendation.md) — related

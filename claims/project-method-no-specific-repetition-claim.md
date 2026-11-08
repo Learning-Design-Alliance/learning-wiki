@@ -53,3 +53,4 @@ The reviewer reports the movement's position: with Miss Wells, proponents say yo
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — reports the opposite
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
 - [Students Without Previous AI Knowledge Acquired Fundamental AI Skills Through Practical Challenges](students-acquire-ai-skills-without-prior-knowledge.md) — a narrower finding that bears on this claim
+- [Prior testing is reported to enhance knowledge retention, and assessment is described as driving learning](repetitive-testing-enhances-knowledge-retention.md) — reports the opposite

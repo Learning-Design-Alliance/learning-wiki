@@ -45,6 +45,7 @@ The report recommends having student-facing options available so students can ch
 - [Teachers reflect on student, EdTech, and teacher agency levels when selecting classroom EdTech](teachers-reflect-agency-levels-selecting-edtech.md)
 - [Incorporate optional choice features (remediation buttons, enrichment questions, self-check options) to support autonomy](optional-choice-features-support-autonomy.md)
 - [Use online-learning components with peer discussion groups and student choice to increase engagement and attitude toward art](olc-peer-discussion-engagement-strategy.md)
+- [Offer theory-driven web-based interventions, optionally combined with face-to-face support, to reach students facing access barriers](web-based-mental-health-interventions-for-students.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ The review describes a blended learning model in which "there was self-paced vir
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Embed tailored e-learning in blended, multimodal delirium training that combines face-to-face interaction with regular repetition](blended-multimodal-delirium-training-strategy.md)
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
+- [Pair each take-home simulation kit with an online module and virtual debriefing with senior residents and attendings](kit-online-module-virtual-debrief-strategy.md)
 
 ## Examples
 -

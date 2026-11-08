@@ -50,6 +50,7 @@ Performances at each test were filmed and anonymously viewed by a surgical educa
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Validate educational videos with both expert judges and the target audience](validate-videos-with-experts-and-target-audience.md)
+- [Combine case-specific checklist items capturing communication outcomes with a global rating scale for general communication competencies](combined-grs-checklist-communication-assessment-strategy.md)
 
 ## Examples
 -

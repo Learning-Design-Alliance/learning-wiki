@@ -46,6 +46,7 @@ Before the simulation scenarios began, the researchers ran a prebriefing in whic
 
 - Phased Peer Observation Discussion Simulation Cycle
 - [Use a sandbox tutorial letting students freely explore equipment, medications and the virtual patient before scripted scenarios](sandbox-tutorial-free-exploration-before-scenarios.md)
+- [Structured prebriefing to establish psychological safety before the simulated scene](structured-prebriefing-psychological-safety.md)
 
 ## Examples
 -

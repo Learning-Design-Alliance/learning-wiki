@@ -73,3 +73,4 @@ The authors' interpretation of the non-significant time (P = 0.6) and image-coun
 - [Experts consistently performed faster than non-experts, with performance differences decreasing across runs](ar-simulator-expert-non-expert-gap-narrowing.md) — reports the opposite
 - [Prior angiography experience, not instructional format, showed the most consistent association with objective performance](experience-most-consistent-performance-predictor.md) — reports the opposite
 - [Three of five fluoroscopic views (PA, straight lateral, lateral facet) discriminate experience level on the simulator, while tangential and AP views do not](three-of-five-fluoroscopic-views-discriminate.md) — related
+- [Procedure time did not differ significantly between simulation and control groups](procedure-time-no-significant-difference.md) — related

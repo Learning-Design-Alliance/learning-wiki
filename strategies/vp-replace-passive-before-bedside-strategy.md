@@ -71,6 +71,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Conduct virtual patient clinical reasoning training in dyads or small groups of two to three students rather than individually](vp-training-in-dyads-small-groups.md)
 - [Implement active learning strategies such as case studies, group discussions, and virtual collaborative projects to enhance engagement in virtual courses](active-learning-strategies-virtual-engagement-strategy.md)
 - [Replace interrupted bedside apprenticeship with tutored online virtual patient sessions combining tutor interaction and independent practice](tutored-online-virtual-case-replacement-strategy.md)
+- [Use virtual patient simulations in large lecture-hall classes to train clinical reasoning with minimal lecturer supervision](lecture-hall-vps-clinical-reasoning-strategy.md)
 
 ## Examples
 -

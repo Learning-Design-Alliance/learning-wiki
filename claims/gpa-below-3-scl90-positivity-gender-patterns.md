@@ -49,3 +49,4 @@ Comparison of SCL-90 positivity rates by academic performance group (Fig. 2), an
 - [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related
 - [Six SCL-90 factors show dose-dependent relationships with poor academic performance in female students only](scl90-dose-response-females-six-factors.md) — related
+- [The relationship between possible GAD and GPA is moderated by gender: anxious females have lower GPAs while males show no significant difference](gad-gpa-moderated-by-gender.md) — related

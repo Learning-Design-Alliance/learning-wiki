@@ -47,6 +47,7 @@ To address participants' criticism of supervision and feedback quality in telesi
 
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
 - [Run digital skills-maintenance programmes as a monthly self-practise model with practise corners, formal hospital leadership involvement and facilitator training in online supervision](monthly-practise-model-practise-corners-leadership-strategy.md)
+- [Videoconferencing-based simulation: distribute participants across locations to reduce on-site numbers while maximizing debriefing participation](videoconferencing-simulation-social-distancing.md)
 
 ## Examples
 -
