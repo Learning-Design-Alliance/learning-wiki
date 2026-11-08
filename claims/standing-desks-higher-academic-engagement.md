@@ -49,3 +49,4 @@ Table 4 entry for Dornhecker et al. (2015), a non-randomized controlled study ac
 - [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — related
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
 - [Higher kindergarten negative expressivity and steeper negative expressivity trajectories each inversely predicted first-grade observed school engagement](negative-expressivity-predicts-engagement.md) — related
+- [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — reports the opposite

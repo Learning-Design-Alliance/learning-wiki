@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: moll-lisa-2026
     resource: "https://doi.org/10.1186/s12909-026-09717-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After 12 months, the intervention group achieved a significantly higher overall mean performance score than the control group (4.7 ± 0.2 vs. 4.2 ± 0.3; p < 0.001), with Hedges' g = -2.13. [→ Moll Lisa 2026](#moll-lisa-2026)

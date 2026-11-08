@@ -17,12 +17,14 @@ sources:
     author: Iñarrairaegui M, Fernández-Ros N, Lucena F, Landecho MF, García N, Quiroga J, Herrero JI
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Discriminative power peaks for questions of moderate difficulty (0.4–0.7) and declines at both extremes in both groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Iñarrairaegui M, Fernández-Ros N, Lucena F, Landecho MF, García N, Quiroga J, Herrero JI. (2022). Evaluation of the quality of multiple-choice questions according to the students’ academic level. BMC Medical Education. https://doi.org/10.1186/s12909-022-03844-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Numerical plotting of discrimination against difficulty indices for 257 MCQ in both groups (Figs. 3 and 4). The text reports that "questions with difficulty indices between 0.4 and 0.7 had the highest discriminative indices" with progressive reduction at extremes; in group 1, 57.6% of questions above difficulty 0.7 fell below the discrimination index 0.2 revision threshold.
 

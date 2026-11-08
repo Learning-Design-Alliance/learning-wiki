@@ -50,6 +50,7 @@ The article describes how facilitators established shared ground rules during pr
 - [Establish Ground Rules for Peer Critique](establish_ground_rules_for_peer_critique.md)
 - [Briefing practices facilitators use to establish a safe simulation learning environment](simulation-briefing-safety-practices.md)
 - [Establish team ground rules—such as listening to others' opinions and controlling tone—to encourage discussion and team functioning](team-ground-rules-discussion-strategy.md)
+- [Use a pre-brief that explicitly establishes psychological safety and equal voice before interprofessional peer feedback](pre-brief-psychological-safety-equal-voice.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: Paech Daniel, Lehnen Nils, Lakghomi Asadeh, Schievelkamp Arndt, Gronemann Christian, Bode Felix J., Radbruch Alexander, Dorn Franziska
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Trainees disagreed that simulator training prepared them for possible complications and technical difficulties of thrombectomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Paech Daniel, Lehnen Nils, Lakghomi Asadeh, Schievelkamp Arndt, Gronemann Christian, Bode Felix J., Radbruch Alexander, Dorn Franziska. (2022). School of Thrombectomy—A 3-Step Approach to Perform Acute Stroke Treatment with Simulator Training and Virtual Supervision by Remote Streaming Support (RESS). Clinical Neuroradiology. https://doi.org/10.1007/s00062-022-01242-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Same five-trainee retrospective Likert questionnaire on step-1 simulator training. The item on preparation for complications averaged below neutral: "mean 2.60 ± 0.8, median 2". No effect size is printed.
 

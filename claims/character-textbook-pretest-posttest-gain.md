@@ -50,3 +50,4 @@ Descriptive score distributions from the experimental class (N=30 per the table 
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — related
 - [Mean student test scores rose from pretest 62.46 to posttest 81.21 after using the PBL-based civic education material](pbl-civic-pretest-posttest-gain.md) — related
 - [Inquiry-based integrated thematic instruction produces significantly higher character education scores than thematic instruction in primary school students](inquiry-integrated-thematic-beats-thematic-character-education.md) — related
+- [Both groups improved significantly from pretest to posttest, with the overall median rising from 75 to 86](pretest-posttest-gain-both-groups-ultrasound-training.md) — related

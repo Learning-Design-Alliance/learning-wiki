@@ -54,3 +54,4 @@ Authors' interpretation of the Table 2 benchmark results: model-specific biases 
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
 - [LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments](llms-differ-liberal-restrictive-balanced-grading-styles.md) — a broader claim this one bears on
 - [Unanimous-fail panels alone reduced benchmark activation by approximately 40% on average for three Critical evaluators, but were insufficient on their own](unanimous-panels-40-percent-activation-reduction.md) — related
+- [The method missed three errors and overdetected 11 errors (3.6%), with a trade-off between overdetection and oversight](missed-and-overdetected-errors-tradeoff.md) — a narrower finding that bears on this claim

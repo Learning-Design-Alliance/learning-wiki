@@ -67,3 +67,4 @@ PhD-or-equivalent completion within the same matched cohort: 13 cases (13.8%) vs
 - [BMedSc(Hons) graduates produce a greater number of post-graduation publications than matched controls](bmedschons-greater-publication-count.md) — related
 - [Medical students who complete an intercalated BMedSc(Hons) research degree are more than seven times as likely to have at least one post-graduation peer-reviewed publication than matched controls](bmedschons-sevenfold-postgrad-publication-odds.md) — related
 - [Completing a BMedSc(Hons) is not associated with a greater likelihood of attaining a faculty position post-graduation](bmedschons-no-faculty-position-association.md) — related
+- [AMSJ publication is associated with higher degree attainment, driven by Masters degrees but not PhDs or graduate certificates/diplomas](amsj-publication-associated-higher-degree-attainment.md) — related

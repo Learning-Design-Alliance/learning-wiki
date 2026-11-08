@@ -57,3 +57,4 @@ Correlation analysis (Pearson and Spearman) of the total sample of 210 adolescen
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related
 - [Anticipation correlated strongly with concentration in all teaching modality groups, and all promoting factors correlated significantly with one another](anticipation-concentration-correlation.md) — related
+- [Selective attention (d2 test accuracy) showed no significant changes in either group over the 16-week intervention](d2-attention-no-significant-change.md) — related

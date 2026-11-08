@@ -91,3 +91,5 @@ Table 4 proportions for three dimensions: 97.14% vs 54.29% for practical operati
 - [Medical postgraduate students rated the TCLEBL model significantly higher than LBL on eight satisfaction dimensions including interactivity, knowledge mastery, and perceived research-ability gains](tclebl-student-satisfaction-higher-than-lbl.md) — related
 - [DOPS-assessed nurses report higher satisfaction on self-directed learning, patient communication, learning effect, and clinical flexibility](dops-higher-training-satisfaction-four-items.md) — related
 - [Experimental-group students' approval rates were significantly higher than the control group's for four teaching-effect items, including creating an active classroom atmosphere](higher-approval-teaching-effect-items-blended-group.md) — related
+- [Teacher ratings favored control for independent learning but SDTM for doctor–patient communication](sdtm-communication-up-independent-learning-down.md) — related
+- Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related

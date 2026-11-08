@@ -24,6 +24,8 @@ sources:
     author: Yang Sun-Yi
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students with prior handoff training perceived higher neonatal and family handoff training needs than students without prior handoff training
@@ -52,7 +54,7 @@ Independent t-test comparison in the 132-student survey: prior handoff training 
 
 Yang Sun-Yi. (2023). Impact of the COVID-19 Pandemic on Neonatal Nursing Practicum and Extended Reality Simulation Training Needs: A Descriptive and Cross-Sectional Study. International Journal of Environmental Research and Public Health 20(1), 344. https://doi.org/10.3390/ijerph20010344
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Item-level independent t-tests (Table 4) comparing 55 students with versus 77 without prior handoff training; all eight named nursing-diagnosis items favored the experienced group with the printed t and p values.
 

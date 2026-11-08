@@ -51,3 +51,4 @@ Cross-sectional SEM analysis of 207 undergraduate medical students using MLR est
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [The hypothesized structural model of environmental factors, psychological health, and GPA fit the data well](sem-model-fit-environmental-psychological-gpa.md) — related
 - [In multiple regression, GPA was negatively associated with stress but positively associated with hyperarousal, anxiety, and depression, while intrusion and avoidance showed no significant influence](regression-stress-negative-hyperarousal-positive-gpa.md) — related
+- [There were no significant differences between surgical and internal medicine postgraduates in either mental health or academic performance during the pandemic](covid19-no-surgical-internal-differences-postgraduates.md) — related

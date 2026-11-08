@@ -59,3 +59,4 @@ Pre-/post-training self-assessment using a 10-point Likert scale among the enrol
 - [Trainees rate simultaneous remote laparoscopic training favorably, with remote-coached trainees rating self-practice proficiency higher](favorable-ratings-remote-training.md) — related
 - [No significant differences in rating-scale or TABLT task-performance scores were observed among the five STALS batches](stals-no-batch-differences-task-scores.md) — related
 - [Both feedback groups improved significantly from first score to approval score on every laparoscopic exercise](lapp-significant-improvement-first-to-approval-score.md) — related
+- [Trainees strongly supported a standardised laparoscopic curriculum and identified motivators including assessments, defined expectations, competitions and live-operating incentives](trainee-support-standardised-curriculum.md) — related

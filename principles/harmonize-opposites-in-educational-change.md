@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (44 for, 12 mixed, 2 against) · 47 studies (18 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 47 report an effect size · 56 claims rest on one study
+> **Evidence** · 61 claims (47 for, 12 mixed, 2 against) · 48 studies (19 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 48 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,9 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Gamification in a flipped learning environment produced higher knowledge-evaluation scores than gamification, flipped class and lecture methods in nursing students learning health assessment](../claims/gamification-flipped-environment-higher-knowledge-scores.md) [+W] — attached 2026-11-07 from Ghafouri Raziyeh et al. (2024), which proposed "Integrate complementary teaching methods according to situation, time, cost and available resources"; tests this page's relationship.
 - [Operational inlay-preparation scores on extracted teeth were significantly higher for combined-training groups (J-V, V-J) than for virtual-only or jaw-only groups, with no significant difference between Groups J and V](../claims/combined-training-higher-operational-scores.md) [+W] — attached 2026-11-07 from Sheng Jie et al. (2022), which proposed "Combine virtual simulation system training with jaw model training in preclinical inlay preparation teaching, sequencing the virtual system first"; tests this page's relationship.
 - [Combined virtual-simulation and jaw-model training yields higher second theoretical examination scores than either method alone, with Group V-J best](../claims/combined-training-higher-second-theoretical-scores.md) [+W] — attached 2026-11-07 from Sheng Jie et al. (2022), which proposed "Combine virtual simulation system training with jaw model training in preclinical inlay preparation teaching, sequencing the virtual system first"; tests this page's relationship.
+- [US residents trained with PBL combined with LBL scored significantly higher on the posttest theory examination than residents trained with LBL alone during pandemic-era online training](../claims/pbl-lbl-higher-posttest-theory-ultrasound-residents.md) [+W] — attached 2026-11-07 from Lin Zi-mei et al. (2022), which proposed "Combine PBL with LBL rather than using PBL alone when online training must cover basic theory"; tests this page's relationship.
+- [US residents trained with PBL combined with LBL scored significantly higher on the proctored practical ultrasound examination than residents trained with LBL alone](../claims/pbl-lbl-higher-practical-score-ultrasound-residents.md) [+W] — attached 2026-11-07 from Lin Zi-mei et al. (2022), which proposed "Combine PBL with LBL rather than using PBL alone when online training must cover basic theory"; tests this page's relationship.
+- [Resident satisfaction was significantly higher in the PBL+LBL group (96%) than in the LBL-only group (80%)](../claims/pbl-lbl-higher-resident-satisfaction-ultrasound.md) [+W] — attached 2026-11-07 from Lin Zi-mei et al. (2022), which proposed "Combine PBL with LBL rather than using PBL alone when online training must cover basic theory".
 
 ## Objective and learner-valued goal
 

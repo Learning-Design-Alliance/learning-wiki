@@ -24,6 +24,8 @@ sources:
     author: Gobet Fernand, Sala Giovanni
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Between-studies variability in cognitive-training far-transfer effects is artifactual, not true heterogeneity
@@ -52,7 +54,7 @@ Second-order meta-analysis result: residual sampling error fully accounts for be
 
 Gobet Fernand, Sala Giovanni. (2022). Cognitive Training: A Field in Search of a Phenomenon. Perspectives on Psychological Science. https://doi.org/10.1177/17456916221091830
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The authors report testing the hypothesis that intervention types differ in far-transfer effects and finding it incorrect; the null result holds both within and across training domains.
 

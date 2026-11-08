@@ -50,3 +50,4 @@ Post-course evaluation of the boot camp in which students rated training effects
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Intervention students rated the blended learning experience less favorably but rated learning-goal clarity, structure, and curricular alignment higher than controls](mixed-course-evaluation-favors-structure-not-format.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
+- [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related

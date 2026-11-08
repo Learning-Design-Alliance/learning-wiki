@@ -53,6 +53,7 @@ The article presents ongoing adjustment of practice difficulty as a component un
 - [Adaptive Learning](adaptive-learning.md)
 - [Adaptive speed-of-processing training protocol with tailored durations, feedback, and progressive difficulty](adaptive-speed-of-processing-training-protocol.md)
 - [Use the Three Step Question to link case conceptualization to a concrete intervention goal before rehearsal](three-step-question-decision-making.md)
+- [Use peer observation of random differences for history-taking training and predesigned DPs for procedural skills](peer-observation-random-dps-strategy.md)
 
 ## Examples
 -

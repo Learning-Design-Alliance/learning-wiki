@@ -94,3 +94,4 @@ The review attributes to Salazar et al.'s meta-analysis the conclusion that "the
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related
 - [Novice trainees who trained on case-specific 3D-printed temporal bone models scored lower in subsequent cadaveric mastoidectomy than those who trained on generic-anatomy models](case-specific-3d-printed-training-lower-cadaver-transfer-novices.md) — related
 - [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — a narrower finding that bears on this claim
+- [Residents who did virtual temporal bone dissections reported improved learning of anatomy](virtual-temporal-bone-anatomy-learning.md) — related

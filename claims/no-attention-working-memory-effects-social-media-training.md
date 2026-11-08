@@ -51,3 +51,5 @@ Mixed ANOVA results for the symbol digit modalities test (attention) and Wechsle
 - [Neither treatment nor typical-practice students with severe reading difficulties demonstrated significant standard-score growth over the 13-week study](no-significant-growth-severe-adolescent-readers-either-condition.md) — related
 - [Between groups, the intervention showed a moderate inhibitory-control advantage at 4 weeks (p = .052) and a large advantage at 4 months (η2 = .135), with a significant main effect of time for both groups](inhibitory-control-between-group-advantage-4-months.md) — related
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — related
+- [Selective attention (d2 test accuracy) showed no significant changes in either group over the 16-week intervention](d2-attention-no-significant-change.md) — related
+- [Both intervention and control groups improved over time in academic achievement, memory span, and inhibitory function, with no between-group difference](time-effects-achievement-memory-inhibition-both-groups.md) — related

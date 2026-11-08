@@ -54,6 +54,7 @@ The article recommends, on the strength of its predictive findings, that evaluat
 - [Identify specific comprehension deficits early and target intervention at comprehension rather than decoding](early-identification-comprehension-targeted-intervention.md)
 - [Use learning-based neurophysiological indicators of speech-print mapping difficulty for early diagnosis and intervention of developmental dyslexia](rhythmic-stimulation-dyslexia-indicator-strategy.md)
 - [Screen for speech-in-noise ability at school entry to identify children at risk of literacy delay](school-entry-speech-in-noise-screening-strategy.md)
+- [Early identification of and targeted intervention for preschoolers with low cognitive or low emotional/behavioral resilience](early-identification-intervention-low-resilience-preschoolers.md)
 
 ## Examples
 -

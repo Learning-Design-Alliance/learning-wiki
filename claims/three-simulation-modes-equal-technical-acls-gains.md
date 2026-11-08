@@ -74,3 +74,4 @@ Between-group ANOVA comparison at baseline and immediately after training found 
 - [RCDP ACLS simulation produces greater ACLS knowledge gains than traditional simulation, which showed no significant change](rcdp-acls-simulation-greater-knowledge-gains.md) — related
 - [Secondary task times (e.g., time to defibrillation) improved then decayed, with no between-group differences; compression quality showed no group differences](secondary-outcomes-no-group-differences.md) — related
 - [Other timed ACLS actions (first pulse check, compressions, defibrillation, epinephrine, antiarrhythmic) did not differ significantly between RCDP and IS groups, though trends favored RCDP](rcdp-other-timed-acls-metrics-null.md) — related
+- [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related

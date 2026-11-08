@@ -68,3 +68,4 @@ Experiment 2 (25% condition, n = 72 analysed) ANOVA produced significant main ef
 - [Suppression of the Pre response pattern between Pre and During phases positively predicts Post phase win rates when learning a new pattern, mainly after wins](obr-suppression-predicts-learning-new.md) — related
 - [Suppression of the old pattern predicts relearning-old success positively under punishment but negatively under reinforcement](suppression-relearning-old-valence-dependent.md) — related
 - [High reinforcement (75%, 88% fixed win rate) maintains a relearning-old advantage in Post phase win rates and OBR](reinforcement-maintains-relearning-old-advantage.md) — related
+- [Learning emerges under interacting individual, environmental and task constraints](constraints-interaction-shape-clinical-learning.md) — a broader claim this one bears on

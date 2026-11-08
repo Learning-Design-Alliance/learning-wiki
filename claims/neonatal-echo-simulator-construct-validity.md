@@ -48,3 +48,4 @@ The review reports this construct validity study attributed to Weidenbach et al.
 ## Related Claims
 - [In a randomized controlled trial reported by the review, neonatology residents receiving simulation-based echocardiography training scored higher than controls at 3 and 6 months](simulation-training-improves-neonatal-resident-echo-scores.md) — related
 - [Among 43 neonatal care providers, hands-on simulator training improved image quality scores and the number of acceptable or good views in a pre-post study reported by the review](simulation-training-improves-image-quality-neonatal-providers.md) — related
+- [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — reports the opposite

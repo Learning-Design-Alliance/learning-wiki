@@ -64,3 +64,4 @@ Pretest equivalence check on the 60 matched and randomly assigned teachers: Leve
 - [The intervention and control groups did not differ significantly in knowledge before the intervention](no-baseline-knowledge-difference-groups.md) — possibly the same claim (merge candidate)
 - [No significant difference between CST and control groups at baseline on either consent-scoring rubric, supporting attribution of post-test differences to the training](cst-trial-baseline-equivalence.md) — related
 - [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related
+- [Post-knowledge test scores did not differ significantly between the E-learning group and the traditional teaching group](no-significant-posttest-difference-elearning-vs-traditional.md) — related

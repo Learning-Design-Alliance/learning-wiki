@@ -49,3 +49,4 @@ Face validity evaluation in which 43 undergraduate medical students rated a 17-i
 - [Culturally adapted virtual patients achieve acceptable content validity for assessing history-taking and communication skills](vp-acceptable-content-validity.md) — related
 - [Expert raters rated the virtual patients' profile consistency, character cohesion, and dialogue realism favorably across 20 interviews](virtual-patient-qualitative-realism-ratings.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — reports the opposite
+- [PoLaRS achieved face validity with an average questionnaire score of 6.9 (SD 1.2) on a 1–10 Likert scale](polars-face-validity-questionnaire-6-9.md) — related

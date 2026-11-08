@@ -55,3 +55,4 @@ Descriptive analysis of survey responses from 1048 students who had heard of Cha
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
+- [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related

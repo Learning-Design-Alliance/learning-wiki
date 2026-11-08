@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: moll-lisa-2026
     resource: "https://doi.org/10.1186/s12909-026-09717-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Defibrillation-related scores (4.8 ± 0.4 vs. 4.5 ± 0.3; p = 0.035; g = -0.74) and CPR-related scores (4.0 ± 0.2 vs. 3.7 ± 0.3; p < 0.001; g = -1.34) were significantly higher in the intervention group at 12 months. [→ Moll Lisa 2026](#moll-lisa-2026)

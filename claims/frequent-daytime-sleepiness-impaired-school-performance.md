@@ -85,3 +85,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related
 - [Headache, stress/anxiety, and fasting-affected sleep are associated with markedly higher sleepiness and fatigue during fasting](fasting-symptoms-associated-sleepiness-fatigue.md) — related
 - [77.2% of students reported poor or very poor academic performance during remote classes, linked to daytime sleepiness](poor-academic-performance-remote-classes-sleepiness.md) — a narrower finding that bears on this claim
+- [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](student-sleepiness-associated-lower-achievement-2019.md) — a narrower finding that bears on this claim

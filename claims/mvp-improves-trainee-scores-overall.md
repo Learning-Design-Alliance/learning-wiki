@@ -16,12 +16,14 @@ sources:
     author: Jantausch Barbara A., Bost James E., Bhansali Priti, Hefter Yosefa, Greenberg Isabella, Goldman Ellen
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # An interactive online case-based malaria vignette tool improves medical trainees' overall pre- to post-test scores, including open-ended questions requiring critical thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jantausch Barbara A., Bost James E., Bhansali Priti, Hefter Yosefa, Greenberg Isabella, Goldman Ellen. (2023). Assessing trainee critical thinking skills using a novel interactive online learning tool. Medical Education Online. https://doi.org/10.1080/10872981.2023.2178871
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Pre/post comparison among 62 medical students, residents and fellows who completed the MVP between 2017 and 2019, analyzed with paired t-tests. The pre-test mean was "16.8" and post-test "20.0", significant at "p < 0.001"; no effect size is printed.
 

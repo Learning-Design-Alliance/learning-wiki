@@ -58,6 +58,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 - [Professional development on WCF should be practical, context-sensitive training rather than theoretical lectures](context-sensitive-wcf-teacher-development.md)
 - [Integrate mindfulness training into professional development programs for PE teachers](mindfulness-training-in-teacher-pd.md)
+- [Involve attending physicians in simulation-based training and conduct frequent needs analyses to fit training to local context](involve-attendings-sbt-needs-analyses.md)
 
 ## Examples
 -

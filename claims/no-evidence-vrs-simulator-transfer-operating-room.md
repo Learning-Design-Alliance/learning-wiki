@@ -71,3 +71,4 @@ Randomized trial (n = 14) by Jonas et al. as described in the review: simulator 
 - [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](xr-improves-surgical-skills-accuracy-reduces-or-time.md) — related
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — reports the opposite
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — reports the opposite
+- [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related

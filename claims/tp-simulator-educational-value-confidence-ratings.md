@@ -49,3 +49,4 @@ Educational value was rated by the 7 validation-study participants on a 1–5 Li
 - [The simulator shows construct validity for target biopsy: all experts identified the target lesion on ultrasound versus no novices (p = 0.01)](tp-simulator-target-lesion-identification-construct-validity.md) — related
 - [The simulator shows face validity: overall realism rated 4.57/5 with no significant expert–novice differences](tp-simulator-face-validity-realism-ratings.md) — related
 - [The simulator shows construct validity: experts significantly more accurate than novices in 12-core systematic biopsy (p = 0.02)](tp-simulator-construct-validity-systematic-accuracy.md) — related
+- [Trainees rate the simulation experience highly and overwhelmingly agree simulation training is essential in cardiovascular fellowship](high-trainee-satisfaction-with-simulation-training.md) — related

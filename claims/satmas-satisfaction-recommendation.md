@@ -53,3 +53,4 @@ Descriptive satisfaction results from the pooled feedback of 489 student respons
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
+- [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related

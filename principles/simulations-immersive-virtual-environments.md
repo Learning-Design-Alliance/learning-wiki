@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 488 claims (301 for, 162 mixed, 25 against) · 307 studies (124 causal, 80 review, 39 quant-synthesis, 26 design, 25 qualitative, 9 theoretical, 3 associational), `q1`–`q4` · 59 of 307 report an effect size · 483 claims rest on one study
+> **Evidence** · 492 claims (302 for, 165 mixed, 25 against) · 310 studies (127 causal, 80 review, 39 quant-synthesis, 26 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 59 of 310 report an effect size · 487 claims rest on one study
 
 ## Conditional relationship
 
@@ -486,6 +486,10 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [After six weeks of simulator training, novices' speed no longer differs significantly from DEGUM experts for 20 of 23 standard planes, though experts remain faster overall](../claims/sim-ut-novices-approach-expert-speed-20-of-23-planes.md) [~W] — attached 2026-11-07 from Freundt Paula et al. (2023), which proposed "Train ultrasound novices in simulated settings until proficiency before clinical training, as a safe and learner-centered route to quality assurance"; tests this page's relationship.
 - [Simulation training enhances psychomotor skills and supports the transition from classroom learning to clinical practice in obstetrics and gynaecology](../claims/simulation-enhances-psychomotor-skills-obgyn.md) [+W] — attached 2026-11-07 from Zimmerman Erin et al. (2021), which proposed "Expand simulation-based training across the obstetrics and gynaecology curriculum, from basic tool handling to subspecialty skills"; tests this page's relationship.
 - [Nursing students with high‐fidelity simulation exposure scored higher combined midterm and final OSCE results than students without HFS exposure](../claims/hfs-exposure-higher-combined-osce-results.md) [+W] — attached 2026-11-07 from Guerrero et al. (2023), which proposed "Supplement nursing clinical training with repeated high‐fidelity simulation exposure to enhance OSCE performance"; tests this page's relationship.
+- [Presence of trained confederates during full-scale crisis simulation does not significantly affect emergency medicine residents' overall CRM performance](../claims/confederates-no-effect-ogrs-overall-performance.md) [~W] — attached 2026-11-07 from Traoré Jérémie et al. (2022), which proposed "Do not assume trained confederates are necessary for residents' CRM performance in full-scale crisis simulation".
+- [Desktop VR and face-to-face simulation produce no significant difference in clinical performance outcomes for assessing and managing clinical deterioration](../claims/desktop-vr-similar-performance-to-face-to-face-simulation.md) [~W] — attached 2026-11-07 from Liaw Sok Ying et al. (2023), which proposed "Design desktop VR simulation with high functional fidelity — close alignment between simulation tasks and clinical tasks — rather than prioritising physical resemblance".
+- [Novice surgeons completed temporal bone anatomy tasks significantly faster in VR than in cross-sectional PACS viewing](../claims/novices-faster-tb-anatomy-tasks-vr-than-pacs.md) [+W] — attached 2026-11-07 from Timonen Tomi et al. (2022), which proposed "Use immersive 3D VR viewing to help novice surgeons evaluate complex anatomy faster and with fewer errors than 2D cross-sectional viewing".
+- [Novices made fewer total errors in VR than in cross-sectional viewing, with a trend approaching significance](../claims/novices-fewer-errors-vr-trend.md) [~W] — attached 2026-11-07 from Timonen Tomi et al. (2022), which proposed "Use immersive 3D VR viewing to help novice surgeons evaluate complex anatomy faster and with fewer errors than 2D cross-sectional viewing".
 
 ## Objective and learner-valued goal
 

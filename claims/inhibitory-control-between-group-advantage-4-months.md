@@ -51,3 +51,4 @@ Mixed ANOVA comparing intervention and control groups across three assessment pe
 - [Processing speed showed no significant group × time interaction, with only a marginal intervention advantage at 4 weeks](processing-speed-no-significant-social-media-effect.md) — related
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
 - [No significant differences in attention or working memory were found between intervention and control groups at either follow-up](no-attention-working-memory-effects-social-media-training.md) — related
+- [Both intervention and control groups improved over time in academic achievement, memory span, and inhibitory function, with no between-group difference](time-effects-achievement-memory-inhibition-both-groups.md) — reports the opposite

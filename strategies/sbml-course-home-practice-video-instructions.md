@@ -49,6 +49,7 @@ The article implemented the simulator within a simulation-based mastery learning
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](video-instruction-supervised-practice-prepost-strategy.md)
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
+- [Schedule SBML sessions with ample, non-limiting practice time and offer additional sessions for learners who need them](schedule-sbml-sessions-ample-time-strategy.md)
 
 ## Examples
 -

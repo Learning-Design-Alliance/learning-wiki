@@ -17,12 +17,14 @@ sources:
     author: Kashiwabara Tomoka, Fujiwara Takeo, Doi Satomi, Yamaoka Yui
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Hope for the future is not associated with time spent watching TV or DVDs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Kashiwabara Tomoka, Fujiwara Takeo, Doi Satomi, Yamaoka Yui. (2022). Association between Hope for the Future and Academic Performance in Adolescents: Results from the K-CHILD Study. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph191911890
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null result from conditional logistic regression on PS-matched K-CHILD pairs; Table 4 prints the matched TV/DVD OR = 1.05 (95% CI 0.87 to 1.26, p = 0.61), and the abstract reports "the time to watch TV or DVDs was not different (p = 0.61)".
 

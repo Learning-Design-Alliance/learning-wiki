@@ -54,3 +54,4 @@ Reflexive thematic analysis following Braun and Clarke's six-phase framework on 
 - [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related
 - [ICM students became more open to innovative and digital teaching methods and valued combining digital and face-to-face teaching](icm-openness-digital-teaching-methods.md) — related
 - [Most students wanted more laboratory time and to try other modalities, with cross-modality preferences favoring the alternative they had not experienced](students-want-more-lab-time-and-other-modalities.md) — related
+- [Interviews revealed three themes: e-learning structure and control, the need of technical background information, and mnemonic strategies including PLI color visualization](brainstem-elearning-interview-themes.md) — related

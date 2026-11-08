@@ -50,3 +50,4 @@ Static physiological results of the 26-participant study (Table 1), where paired
 - [Both threat and challenge appraisal groups improved their clinical scores significantly from Scenario 1 to Scenario 2](clinical-scores-improve-scenario1-to-2.md) — related
 - [Threat-appraising students showed a significant cortisol increase after Scenario 1, while the challenge group's rise was not significant](threat-appraisal-cortisol-increase-scenario1.md) — related
 - [FLS performance was positively correlated with heart-rate change across all trials, interpreted as task engagement rather than detrimental stress](fls-score-positive-correlation-heart-rate-change.md) — related
+- [Desktop VR and face-to-face simulation produce no significant difference in biophysiological stress responses (systolic blood pressure and heart rate)](desktop-vr-similar-biophysiological-stress-to-face-to-face-simulation.md) — related

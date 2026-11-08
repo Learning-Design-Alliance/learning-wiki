@@ -91,3 +91,4 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Communication skills, patient privacy protection, and compassion for patients showed no significant between-group differences after standardized training](cpoal-no-difference-communication-privacy-compassion.md) — related
 - [Medical students’ reflections in the e-learning course addressed all key communication topics conveyed in the course](reflections-recalled-course-content-communication.md) — related
 - [Personal simulations are perceived to substantially develop interns' communication skills, including empathy, listening, and coping with patient resistance](personal-simulations-develop-communication-skills.md) — related
+- [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related

@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 261 claims (184 show a difference, 45 mixed, 32 no difference) · 189 studies (69 causal, 43 associational, 38 review, 14 quant-synthesis, 11 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 35 of 189 report an effect size · 252 claims rest on one study
+> **Evidence** · 262 claims (185 show a difference, 45 mixed, 32 no difference) · 190 studies (69 causal, 43 associational, 39 review, 14 quant-synthesis, 11 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 35 of 190 report an effect size · 253 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -310,6 +310,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Fitness and executive function partially mediate the relationship between gross motor competence and academic achievement in schoolchildren aged 9-11](../claims/fitness-and-executive-function-partially-mediate-gmc-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Academic achievement is directly predicted by self-regulation and critical thinking, with self-regulation the more influential predictor](../claims/self-regulation-critical-thinking-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [At 6- to 12-week follow-up physiotherapists were highly competent in three HCS but showed lower competence in SMARTER goal-setting](../claims/mecc-hcs-smarter-goal-setting-lower-competence.md) [~M] — measured as an outcome of the instruction studied
+- [Interaction frequency of co-regulatory network engagement positively relates to students' self-reported regulation proficiency](../claims/crl-network-frequency-relates-srl-proficiency.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

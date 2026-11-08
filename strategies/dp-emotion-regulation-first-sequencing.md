@@ -46,6 +46,7 @@ The article recommends that when emotion regulation is necessary for skill perfo
 - [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 - [Use the Three Step Question to link case conceptualization to a concrete intervention goal before rehearsal](three-step-question-decision-making.md)
 - [Sequence microaggression curricula from foundational naming skills toward more complex debriefing skills](foundational-to-complex-microaggression-sequencing.md)
+- [Use peer observation of random differences for history-taking training and predesigned DPs for procedural skills](peer-observation-random-dps-strategy.md)
 
 ## Examples
 -

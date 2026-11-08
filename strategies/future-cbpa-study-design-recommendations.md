@@ -48,6 +48,7 @@ The review's forward-looking design recommendation is that "Future studies shoul
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 - [Future physical activity intervention studies should report activity intensity and include physical fitness measures as objective indicators](report-pa-intensity-and-fitness-measures-in-interventions.md)
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
+- [Future sedentary-behavior interventions should target both school and extra-school settings and vary break type, duration and intensity](target-school-and-extra-school-settings-strategy.md)
 
 ## Examples
 -

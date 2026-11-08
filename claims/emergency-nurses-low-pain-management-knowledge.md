@@ -17,12 +17,14 @@ sources:
     author: Ahmadi Sajjad, Vojdani Parya, MortezaBagi Hamid Reza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Most emergency-department nurses show low knowledge of pain management and control, with no participant reaching a high knowledge level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Ahmadi Sajjad, Vojdani Parya, MortezaBagi Hamid Reza. (2023). The study of nurses' knowledge and attitudes regarding pain management and control in emergency departments. BMC Emergency Medicine. https://doi.org/10.1186/s12873-023-00793-y
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Cross-sectional survey of 400 emergency-department nurses in 23 hospitals in East Azerbaijan, Iran, using the PMPAT knowledge questionnaire. The article reports the knowledge score was "low at 84.8% and moderate in 15.3%" with no high scorers; the standardized mean was 40.34 (± 8.92 SD).
 

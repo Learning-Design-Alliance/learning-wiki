@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: fonseca-guilherme-reis-borges-coelho-2026
     resource: "https://doi.org/10.1002/ase.70267"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In both experiments, absolute and normalized knowledge gains were higher in the demonstration group than in the control group. [→ Fonseca Guilherme Reis Borges Coelho 2026](#fonseca-guilherme-reis-borges-coelho-2026)
@@ -67,5 +68,5 @@ Year 1 experiment posttest comparison between groups. The article reports that "
 - [Preceding worked-example demonstrations increase instructional efficiency in technology-enhanced learning of sectional anatomy](worked-example-demonstrations-increase-instructional-efficiency.md) — related
 - [Preceding worked-example demonstrations lower extraneous cognitive load in technology-enhanced learning of sectional anatomy](worked-example-demonstrations-lower-extraneous-cognitive-load.md) — related
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — related
-- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
+- [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [Preceding worked-example demonstrations do not significantly impact perceptions of educational technology usability](worked-example-demonstrations-no-usability-impact.md) — related

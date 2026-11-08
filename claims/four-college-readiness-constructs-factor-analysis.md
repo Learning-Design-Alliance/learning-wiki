@@ -59,3 +59,4 @@ Factor analysis of roughly 40 variables identified as strongly predictive by ran
 - [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related
 - [Teachers' frequency of using data to inform instruction is among the strongest multivariate predictors of student achievement in the sample](teacher-data-use-frequency-predicts-achievement.md) — a narrower finding that bears on this claim
 - [Low-SES students who expect to complete higher education are more likely to be academically resilient, with the strongest association in grade 9](higher-educational-expectations-predict-academic-resilience.md) — a narrower finding that bears on this claim
+- [Report card scores load more strongly on the student achievement construct than school exam scores](report-card-loading-exceeds-school-exam-loading.md) — a narrower finding that bears on this claim

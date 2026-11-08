@@ -54,3 +54,4 @@ Randomized trial of 156 fourth-year dental students, 52 per group, paired t-test
 - [Knowledge scores rose significantly within the live demonstration group from pre- to postdemonstration, with a large effect size](ld-within-group-knowledge-improvement-dental.md) — related
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — related
+- [Virtual flipped learning produced no significant difference in short-term recall learning performance compared with virtual traditional live-video lectures in a dental orthodontics pilot crossover trial](vfl-vtl-no-learning-performance-difference-dental-pilot.md) — related

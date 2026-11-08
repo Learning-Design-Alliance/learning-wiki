@@ -16,12 +16,14 @@ sources:
     author: "Troost, A. A., van Ham, M., & Manley, D. J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Exposure to neighbourhood affluence during childhood and adolescence is positively associated with educational attainment at age 23, with similar effects for whole-childhood and early-childhood exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Troost, A. A., van Ham, M., & Manley, D. J. (2023). Neighbourhood effects on educational attainment. What matters more: Exposure to poverty or exposure to affluence? PLOS ONE. https://doi.org/10.1371/journal.pone.0281928
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Regression results from the cohort study of 140,338 Dutch individuals (Table 2), where the effects of exposure during the entire childhood and early years are "both positive and similar in size". The adolescence effect is smaller (b = 1.733, p < 0.001, beta = 0.118). No standardised effect size in the d/r family is printed, so impact is coded i? (no magnitude reported; not a null effect).
 

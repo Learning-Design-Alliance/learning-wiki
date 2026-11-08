@@ -57,3 +57,5 @@ Meta-analysis of three of nine questionnaire-survey studies (1,181 students eval
 - [PBL-CBL teaching increases resident satisfaction compared with traditional lecture-based teaching](pbl-cbl-increases-resident-satisfaction.md) — related
 - [IWCL+CBL students report higher satisfaction with the teaching model than LBL+CBL students](iwcl-cbl-higher-teaching-satisfaction.md) — related
 - [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — possibly the same claim (merge candidate)
+- [Domain-level satisfaction differs between PBL and LBL students, with the largest gaps in skill development and supervision and feedback](domain-level-satisfaction-pbl-lbl-gaps.md) — related
+- [Overall magnitude of academic satisfaction is similar for PBL (50.9%) and LBL (49.9%) students](similar-overall-satisfaction-magnitude-pbl-lbl.md) — related

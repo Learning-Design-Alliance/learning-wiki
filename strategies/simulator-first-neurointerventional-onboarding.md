@@ -17,7 +17,7 @@ sources:
 # Begin neurointerventional training with simulator sessions before patient contact
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The curriculum places simulator training as the first step so trainees can begin learning neurointerventional procedures "without potentially harming the patient and without any unnecessary radiation exposure". Sessions are initially supervised by an experienced neurointerventionalist and cover at least 25 h of contact time on the VIST G7 simulator. Trainees retrospectively rated this step as very valuable for learning, practice, and confidence.

@@ -48,6 +48,7 @@ The authors propose reducing vodcast duration as a solution to the time burden t
 
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
+- [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
 
 ## Examples
 -

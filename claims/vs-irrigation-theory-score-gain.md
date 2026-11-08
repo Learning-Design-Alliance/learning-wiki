@@ -49,3 +49,4 @@ Single-group pre-post study of 34 dental students; paired-sample t-test comparin
 - [Virtual simulation performance scores correlate strongly with post-training practical performance (r = 0.73)](vs-score-correlates-practical-performance.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
+- [Adding an endodontic e-learning application to the traditional curriculum significantly improved dental students' performance scores on their first real-patient root canal treatment](e-learning-app-improves-first-rct-performance.md) — related

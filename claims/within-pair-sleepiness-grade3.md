@@ -53,3 +53,4 @@ Within-pair BW effects in Grade 3, which control for family-level confounds, sho
 - [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](grade9-within-pair-sleep.md) — related
 - [Better between-pair sleep quality predicts better attention and less hyperactivity in every grade except Grade 7](sleep-quality-between-pair-attention.md) — related
 - [Sleep–achievement correlations are small and inconsistent across grades](sleep-achievement-small-correlations.md) — related
+- [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](student-sleepiness-associated-lower-achievement-2019.md) — related

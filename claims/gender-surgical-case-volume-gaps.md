@@ -55,3 +55,4 @@ The review reports, citing Gong et al. and a systematic review, that female trai
 - [Female surgeons trained longer on simulators while male surgeons had performed more cataract surgeries](gender-differences-simulator-time-versus-surgical-volume.md) — a narrower finding that bears on this claim
 - [Female trainees report more perceived anxiety, longer operating times and reduced confidence after a surgical hiatus](female-trainees-greater-perceived-decay-and-confidence-loss.md) — related
 - [Surgical aspiration significantly sped skill acquisition among male students but showed no significant impact among female students](aspiration-effect-male-only-female-null.md) — related
+- [Gender affects non-dominant completion time, significant only in the novice group](gender-nd-completion-time-novice-only.md) — related

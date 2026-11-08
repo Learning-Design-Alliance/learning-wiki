@@ -88,3 +88,4 @@ The review reports evaluations of the Better Conversations with Aphasia package 
 - [Direct comparisons find simulated patients as effective as real patients for CST outcomes](sp-equivalent-to-real-patients-cst.md) — related
 - [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
 - [CST improves GCRS communication domains of initiation, verbal communication, structuring, information provision and aiding understanding, but not building the relationship or incorporating the patient's perspective](cst-gcrs-domain-gains-selective.md) — related
+- [A 1-day e-learning programme improved empathic communication skills measured by a video-viewing test of a simulated patient among midwives and perinatal healthcare workers](elearning-improves-video-assessed-empathic-communication.md) — related

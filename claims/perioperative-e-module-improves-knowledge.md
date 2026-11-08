@@ -48,3 +48,4 @@ Pre-post test design with 75 trainees (39 students, 18 interns, 18 residents) at
 - [Trainees' self-rated confidence in making perioperative management decisions rose significantly from pre-test to post-test after the e-module, in one uncontrolled pre-post study](perioperative-e-module-improves-confidence.md) — related
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Knowledge and confidence gains from the e-module are largest for medical students and smallest for residents](e-module-gains-largest-in-students.md) — related
+- [Anaesthetists' scores on a ten-question multiple-choice test of neuromuscular monitoring knowledge rose from pre-course to post-course after completing the e-learning module, in one uncontrolled pre-post study](elearning-improved-nmba-knowledge-test-scores.md) — related

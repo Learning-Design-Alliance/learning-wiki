@@ -51,3 +51,4 @@ Four-factor ANOVA on crowding-analysis accuracy (set size eight spread vs crowde
 - [Adults with dyslexia use pre-cues to enhance discrimination accuracy, with pre-cued performance exceeding both post-cued and uncued conditions](awd-pre-cue-signal-enhancement-benefit.md) — related
 - [AwD showed significant set size effects in uncued conditions alongside difficulty effects, unlike controls](awd-uncued-setsize-difficulty-effects.md) — related
 - [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related
+- [The performance gap tied to dyslexia depends on task framing: dyslexia status and academic versus non-academic task type interact](academic-framing-by-dyslexia-interaction.md) — related

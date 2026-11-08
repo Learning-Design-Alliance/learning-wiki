@@ -57,3 +57,4 @@ Self-report satisfaction questionnaire completed by the 60 intervention-group st
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
 - [Physicians rate the PallPan palliative care e-learning tool as highly feasible, satisfying, and useful for their work](pallpan-elearning-high-feasibility-ratings-physicians.md) — related
+- [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related

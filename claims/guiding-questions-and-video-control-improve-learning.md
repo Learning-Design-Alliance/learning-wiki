@@ -72,3 +72,4 @@ The essay reports, citing Zhang et al. (2006), a comparison of interactive and n
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Children who watched AI-powered interactive videos with contingent feedback scored 0.32 standard deviations higher on a science post-test than children who watched the non-interactive broadcast version](ai-interactive-video-science-learning-gain.md) — related
 - [In a randomised experiment, young children who watched geography videos with whole-body movements showed no greater knowledge recall than children who watched the same videos seated](movement-videos-no-knowledge-gain-young-children.md) — related
+- [Learner control over video playback (pause and rewind) allows students to manage the intrinsic cognitive load of a task](video-playback-control-manages-intrinsic-load.md) — related

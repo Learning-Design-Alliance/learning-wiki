@@ -76,3 +76,4 @@ Wilcoxon Signed-Ranks test within the control group in the same quasi-experiment
 - [Within both training groups, knowledge scores rose significantly from pre-test to post-test, with very large within-group effect sizes](bls-prepost-knowledge-gain-both-groups.md) — a narrower finding that bears on this claim
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — related
 - [Scores rose significantly from pre-test to post-test in both groups, with a larger mean gain in the flipped classroom group](within-group-pre-post-gains-both-methods.md) — possibly the same claim (merge candidate)
+- [Students' short-term recall knowledge scores rose from pre-test to post-test in both virtual flipped and virtual traditional formats, based on within-group pre-test/post-test comparisons](both-vfl-and-vtl-improve-short-term-recall.md) — possibly the same claim (merge candidate)

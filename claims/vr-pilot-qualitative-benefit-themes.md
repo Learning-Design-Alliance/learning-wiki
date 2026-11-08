@@ -71,3 +71,7 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
 - [Students saw virtual patients as a safe, standardised complement to clinical rotations that guarantees exposure to representative diagnoses](vp-potential-safe-standardised-rotation-complement.md) — related
 - [Simulated high-stakes scenarios with moulage shifted students into observational roles, revealing affective-domain barriers](moulage-scenarios-affective-domain-observational-roles.md) — related
+- [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
+- [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related
+- [Free-text trainee comments yielded three additional learning-need themes: procedural skills, dealing with difficult colleagues, and acute care](trainee-free-text-three-themes.md) — related
+- [Small-group VPS training significantly improved perceived curricular integration on all 7 paired items](vps-training-improves-perceived-curricular-integration.md) — related

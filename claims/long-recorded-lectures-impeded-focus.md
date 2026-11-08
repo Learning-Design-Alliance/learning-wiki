@@ -69,3 +69,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Distraction during lecture was reported only by slideshow participants, suggesting VR is more engaging](vr-more-engaging-fewer-distractions.md) — related
 - [Students most often reported that recorded lectures, supportive multimedia, and an easy-to-use platform enhanced their subject understanding in eLearning](recorded-lectures-multimedia-enhance-understanding.md) — reports the opposite
 - [Cognitive impairment and fatigue from Long Covid hindered learning, and online learning from home was not always an appropriate substitute](lc-cognitive-impairment-online-learning-limits.md) — related
+- [Free comments from participants indicated the 1-hour practice session was perceived as too short for hands-on practice and that face-to-face training was valued during the pandemic](postcourse-comments-course-too-short-face-to-face-valued.md) — related

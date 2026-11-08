@@ -16,12 +16,14 @@ sources:
     author: Atlas Lauren Y, Dildine Troy C, Palacios-Barrios Esther E, Yu Qingbao, Reynolds Richard C, Banker Lauren A, Grant Shara S, Pine Daniel S.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Expectancy difference scores reverse as contingencies change in both groups, but only the Instructed Group's expectations varied significantly by phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Atlas Lauren Y, Dildine Troy C, Palacios-Barrios Esther E, Yu Qingbao, Reynolds Richard C, Banker Lauren A, Grant Shara S, Pine Daniel S. (2022). Instructions and experiential learning have similar impacts on pain and pain-related brain responses but produce dissociations in value-based reversal learning. eLife 11. https://doi.org/10.7554/eLife.73353
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Expectancy difference scores (Original High minus Original Low) computed for each pre-block rating across the entire task, analyzed as a function of Group and Phase (n=40).
 

@@ -52,3 +52,5 @@ Anonymous post-training reaction survey using Likert-scale multiple-choice quest
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Students report satisfaction with simulation-based maternity sessions, agreeing simulation assisted understanding of clinical practice and should precede real practice](satisfaction-simulation-maternity-sessions.md) — related
 - [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related
+- [All learners found the peer feedback received during the simulations useful to their daily clinical practice](peer-feedback-useful-daily-practice.md) — related
+- [Junior anesthesiology residents completing an RCDP-based ACLS simulation curriculum report high satisfaction and expect improved clinical performance](rcdp-acls-residents-high-satisfaction.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: zhang-li-dan-2026
     resource: "https://doi.org/10.1186/s12909-026-08694-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After integrated simulation with TBL, operational scores for hands-on CPR, endotracheal intubation, and defibrillation all rose significantly (P < 0.05) in a pre-post self-comparison of 24 paediatric postgraduates. [→ Zhang Li-dan 2026](#zhang-li-dan-2026)
@@ -61,3 +62,4 @@ Pre-post self-comparison of 24 paediatric postgraduates at one hospital; skills 
 - [Teamwork ability and clinical thinking ability scores rose from pretraining to day 1 after simulation and day 30 of clinical practice in one single-group pre-post study (Kirkpatrick learning level)](cpr-training-improves-teamwork-clinical-thinking.md) — related
 - [Within the mobile-based learning group, skill scores rose significantly from pre-test to post-test on all four operating theatre procedures](mbl-within-group-skill-gains-pre-post.md) — related
 - [Simulation assessment improvements in nasal packing and tracheostomy care were confined to the hands-on-trained groups](simulation-gain-limited-to-trained-scenario.md) — related
+- [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related

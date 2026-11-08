@@ -39,7 +39,8 @@ The study's intervention format pairs a 45-minute lecture tailored to each condi
 - reduced technophobia
 
 ## Related Strategies
-- 
+
+- [Deliver standardized oxygen-therapy training as four 45-minute small-group sessions combining lecture, discussion, and multimedia](four-session-multimedia-oxygen-protocol-training.md)
 
 ## Examples
 -

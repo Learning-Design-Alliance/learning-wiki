@@ -53,3 +53,4 @@ Mixed ANOVA on declarative metacognitive knowledge (belief that retrieval practi
 - [The overcoming-barriers intervention raises self-efficacy for using retrieval practice immediately after the intervention but not at three-week follow-up](overcoming-barriers-intervention-self-efficacy-immediate-only.md) — related
 - [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](overcoming-barriers-intervention-no-perceived-cost-reduction.md) — related
 - [Confidence in operating a syringe pump declines substantially in the two weeks after e-Learning-based device training, regardless of learning method](confidence-declines-after-device-training.md) — related
+- [The Study Smart program improved students’ declarative metacognitive knowledge about (in)effective learning strategies in the short and long term](study-smart-improved-declarative-metacognitive-knowledge.md) — related

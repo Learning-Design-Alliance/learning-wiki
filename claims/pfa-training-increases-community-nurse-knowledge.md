@@ -71,3 +71,4 @@ Between-group comparison at the 2-month follow-up in the same quasi-experiment. 
 - [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](pfa-training-improved-student-self-efficacy-preparedness.md) — related
 - [RAPID-PFA training improved nursing students' perceived competencies, disaster preparedness, helping capacity, and self-efficacy with effects maintained at follow-up](rapid-pfa-improved-student-competencies-maintained.md) — related
 - [The experiential learning program improves patient health engagement at the immediate posttest, but the difference is no longer significant 3 months later](elt-ehealth-program-patient-engagement-mixed.md) — related
+- [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related

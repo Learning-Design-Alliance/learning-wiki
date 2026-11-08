@@ -73,3 +73,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [O2O/PBL trainees scored higher on the clinical thinking examination than LBT trainees](o2o-pbl-higher-clinical-thinking-scores-nephrology.md) — related
 - [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related
 - [Combined virtual-simulation and jaw-model training yields higher second theoretical examination scores than either method alone, with Group V-J best](combined-training-higher-second-theoretical-scores.md) — related
+- The simulation-system group outperformed the traditional-teaching group on theoretical, skill, and comprehensive ability assessments — related

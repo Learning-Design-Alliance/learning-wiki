@@ -47,3 +47,4 @@ Phase 1 qualitative SWOT analysis with 10 of 30 enrolled master's students (90% 
 ## Related Claims
 - [Lecturers uniquely reported that students prioritize technical skills over communication skills even in non-life-threatening situations, and that balancing interprofessional groups with varying experience is challenging](lecturers-students-prioritize-technical-skills.md) — related
 - [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](essential-competencies-sim-ipe-participation.md) — related
+- [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related

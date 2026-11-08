@@ -67,3 +67,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [Student and teacher interviews identified three themes: a new learning experience, enhanced clinical critical thinking, and suggestions for improvement](ai-scenario-simulation-interview-three-themes.md) — related
 - [Self-emotional appraisal, appraisal of others, emotional control, emotional use and school community work experience independently predict humanistic care competence](regression-predictors-resident-humanistic-care.md) — related
 - [DOPS-assessed nurses report higher satisfaction on self-directed learning, patient communication, learning effect, and clinical flexibility](dops-higher-training-satisfaction-four-items.md) — related
+- [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related

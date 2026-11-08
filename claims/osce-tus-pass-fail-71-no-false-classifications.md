@@ -18,12 +18,14 @@ sources:
     author: Pietersen Pia Iben, Bhatnagar Rahul, Andreasen Freja, Konge Lars, Laursen Christian Borbjerg, Rahman Najib, Nielsen Anders Bo
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A contrasting-groups pass/fail score of 71 points on the OSCE produced no false positives or false negatives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 > **Currency** · newest study 2023 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -35,7 +37,7 @@ sources:
 
 Pietersen Pia Iben, Bhatnagar Rahul, Andreasen Freja, Konge Lars, Laursen Christian Borbjerg, Rahman Najib, Nielsen Anders Bo. (2023). Objective structured clinical examination in basic thoracic ultrasound: a European study of validity evidence. BMC Pulmonary Medicine. https://doi.org/10.1186/s12890-022-02285-4
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Consequences analysis in the 25-candidate validation study: normal distributions of novice and experienced scores intersected at 71 points. In the intermediate group six candidates passed (75%) and two failed (25%); categorisation was significant on Fisher's exact test, p < 0.001.
 

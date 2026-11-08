@@ -50,6 +50,7 @@ The article describes a logistically specific virtual administration: students w
 
 - [Use small-group standardized patient simulation series focused on therapeutic communication within psychiatric-mental health nursing courses](small-group-sp-simulation-therapeutic-communication-series.md)
 - [Use standardized patient encounters with immediate faculty feedback and peer observation for communication skills practice](sp-encounters-immediate-feedback-peer-observation-strategy.md)
+- [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Descriptive cluster-profile analysis (Table 3, Cluster 2, n = 54); approximately
 - [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related
 - [Female sex, baseline reading skills, and baseline medical terminology each predicted final exam scores, while writing, speaking, and listening skills did not](sex-reading-terminology-predict-final-exam-scores.md) — related
 - [Students with online education had higher final exam scores than those with in-person education in pre-clinical medical English coursework](online-education-higher-final-exam-scores-preclinical-medical-english.md) — reports the opposite
+- [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — related

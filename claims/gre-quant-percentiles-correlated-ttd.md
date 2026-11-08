@@ -16,12 +16,14 @@ sources:
     author: Walters T, Abeyta A, Bean AJ, Wilson MA
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Quantitative GRE percentiles negatively correlate with PhD time to degree for all students, females, and international students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Walters T, Abeyta A, Bean AJ, Wilson MA. (2022). The impact of holistic review on correlations between doctoral student outcomes, and GPA and GRE scores in the biomedical sciences. PLOS ONE 17(12): e0279258. https://doi.org/10.1371/journal.pone.0279258
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Pearson correlation of quantitative GRE percentiles with time to degree in the retrospective GSBS cohort (Table 5): significant negative correlations for all students (p = 0.0457, r = -0.117), females (p = 0.0421, r = -0.157), and international students (p = 0.0215, r = -0.2231); no significant slope or threshold differences.
 

@@ -16,12 +16,14 @@ sources:
     author: "Høllesli, L. J., Ajmi, S. C., Kurz, M. W., Tysland, T. B., Hagir, M., Dalen, I., Qvindesland, S. A., Ersdal, H., & Kurz, K. D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # After introduction of simulation-based team-training, the proportion of IVT-treated patients later diagnosed as stroke mimics rose significantly from 15.9% to 24.4%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Høllesli, L. J., Ajmi, S. C., Kurz, M. W., Tysland, T. B., Hagir, M., Dalen, I., Qvindesland, S. A., Ersdal, H., & Kurz, K. D. (2022). Simulation‐based team‐training in acute stroke: Is it safe to speed up? Brain and Behavior, 12, e2814. https://doi.org/10.1002/brb3.2814
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Prospective single-center registry comparison of 320 IVT-treated patients before versus 639 after the February 2017 introduction of weekly in situ simulation team-training, using Chi-squared testing. The study reports "rose from 51 (15.9%) ... to 156 (24.4%)" with p = .003; no effect size is printed.
 

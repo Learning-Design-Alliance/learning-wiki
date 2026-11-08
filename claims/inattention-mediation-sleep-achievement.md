@@ -53,3 +53,4 @@ Post-hoc product-of-coefficients mediation with cluster bootstrap (5,000 iterati
 - [Sleep–attention correlations are slightly stronger than sleep–achievement correlations but still small](sleep-attention-correlations.md) — related
 - [Sleep–achievement correlations are small and inconsistent across grades](sleep-achievement-small-correlations.md) — related
 - [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](grade9-within-pair-sleep.md) — related
+- [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](student-sleepiness-associated-lower-achievement-2019.md) — related

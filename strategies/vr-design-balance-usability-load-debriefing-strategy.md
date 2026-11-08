@@ -69,6 +69,8 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Add direct observation of the learner's simulated encounter before the coaching session](direct-observation-before-coaching-strategy.md)
 - [Integrate structured feedback and video debriefing with CVS annotation into preclinical and clinical surgical training](integrate-cvs-annotation-debriefing-into-surgical-training.md)
 - [Identify specific scenarios, learner populations and domains where VR surpasses or enhances traditional trauma training before integrating it into curricula](targeted-vr-integration-trauma-curricula-strategy.md)
+- [Include cognitive load as an outcome measure when evaluating cross-sectional e-learning anatomy methods](include-cognitive-load-outcome-cross-sectional-elearning.md)
+- [Incorporate VR-physical disparity workarounds into future VR tools for surgical rehearsal and education](vr-physical-disparity-workarounds-strategy.md)
 
 ## Examples
 -

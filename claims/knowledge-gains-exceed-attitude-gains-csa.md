@@ -16,12 +16,14 @@ sources:
     author: Schwartz Jacqueline, Schallenburger Manuela, Tenge Theresa, Batzler Yann-Nicolas, Schlieper Daniel, Kindgen-Milles Detlef, Meier Stefan, Niegisch Günter, Karger André, Roderburg Christoph, Neukirchen Martin
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Retrospective self-assessed learning gains are higher on the knowledge plane than on the attitude plane, with the lowest gains on items about the participants' own mortality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Schwartz Jacqueline, Schallenburger Manuela, Tenge Theresa, Batzler Yann-Nicolas, Schlieper Daniel, Kindgen-Milles Detlef, Meier Stefan, Niegisch Günter, Karger André, Roderburg Christoph, Neukirchen Martin. (2022). Palliative Care e-Learning for Physicians Caring for Critically Ill and Dying Patients during the COVID-19 Pandemic: An Outcome Evaluation with Self-Assessed Knowledge and Attitude. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph191912377
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Outcome-based evaluation using the retrospective Comparative Self-Assessment Gain method with 24 physicians; gains computed from pre/post self-ratings on the German school grading scale. The description quotes "CSA gain 78%, 78%, and 75%, respectively" for the top knowledge items and 27% for dealing with own mortality.
 

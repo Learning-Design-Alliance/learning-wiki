@@ -16,12 +16,14 @@ sources:
     author: Lukics Krisztina Sára, Lukács Ágnes
     q: 3
     i: 2
+    kind: causal
+    rigour: "?"
 ---
 
 # With serial presentation of stimuli, statistical learning is more effective in the auditory than in the visual modality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lukics Krisztina Sára, Lukács Ágnes. (2022). Modality, presentation, domain and training effects in statistical learning. Scientific Reports. https://doi.org/10.1038/s41598-022-24951-7
 
-`q3 · i2`
+`q3 · i2` · `causal · r?`
 
 Between-subjects experiment with 360 young adults learning a predictive category-based artificial grammar in a 2AFC test. The serial-presentation ANOVA showed "performance in the auditory modality was higher than in the visual modality" (ηp2 = 0.08).
 

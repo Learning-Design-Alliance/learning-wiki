@@ -71,3 +71,4 @@ Same qualitative study; debriefers compensated by shifting focus to verbal commu
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [Transitioning a realistic simulation to a virtual environment requires refocusing learning objectives from technical skills to non-technical competencies](virtualization-refocuses-objectives-to-nontechnical-competencies.md) — related
 - [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — possibly the same claim (merge candidate)
+- [Current virtual reality simulators target skill acquisition and lack authenticity for workflow and teamwork learning](cl-vr-simulators-skill-acquisition-lack-workflow-authenticity.md) — related

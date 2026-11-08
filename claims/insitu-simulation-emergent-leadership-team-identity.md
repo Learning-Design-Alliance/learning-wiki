@@ -48,3 +48,4 @@ Focus group finding from the qualitative phase: participants emphasized includin
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](simlab-confidence-teamwork-gains.md) — related
 - [Participants regard post-simulation debriefing, role allocation, and interprofessional knowledge-sharing as critical to learning CRM skills](fgd-debriefing-role-allocation-knowledge-sharing-crm.md) — related
+- [Learners' self-assessed ability to contribute to TTCA-24 teamwork domains improved after the simulation event, as team member and as team leader](ttca24-self-assessment-improved.md) — related

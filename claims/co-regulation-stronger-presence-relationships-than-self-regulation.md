@@ -58,3 +58,4 @@ Spearman correlation analysis under RQ2 in the survey of 47 graduate students in
 - [Students in higher SRL profiles perceive significantly higher teaching, social, and cognitive presence than students in lower SRL profiles](higher-srl-profiles-higher-coi-perceptions.md) — related
 - [SRL sub-constructs correlate substantially with all three CoI presences, and a seven-factor OSLQ model fits better than the original six-factor model](srl-coi-correlations-seven-factor-oslq.md) — related
 - [Teaching, social, and cognitive presence each significantly positively predict learning performance in blended learning](three-presences-predict-performance-blended.md) — related
+- [Higher social presence is strongly positively correlated with e-learning satisfaction](social-presence-positive-e-learning-satisfaction.md) — related

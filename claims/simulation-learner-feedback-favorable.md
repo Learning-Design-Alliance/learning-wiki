@@ -51,3 +51,4 @@ Anonymous post-simulation Likert and open-ended feedback from thirty-eight surve
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
+- [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related

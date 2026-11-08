@@ -52,3 +52,4 @@ Pearson correlation analysis in a cross-sectional study of 348 medical (65.2%) a
 - [Higher interest in the major is associated with higher SOC, lower (more internal) LOC, and higher GPA](academic-interest-soc-loc-gpa.md) — related
 - [LOC and interest in the major lose predictive significance for GPA after controlling for SOC in multivariate models](loc-interest-nonsignificant-after-soc-control.md) — related
 - [Academic performance correlates significantly with academic identity, positive and negative academic excitement, and academic enthusiasm among Iranian medical-sciences students](performance-correlates-identity-emotions-enthusiasm-jiroft.md) — related
+- [Internet abusive use is negatively correlated with academic performance (GPA) in nursing students](internet-abusive-use-gpa-negative-correlation.md) — related

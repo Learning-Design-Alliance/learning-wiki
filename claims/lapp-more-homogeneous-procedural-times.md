@@ -16,12 +16,14 @@ sources:
     author: Ulloa G, Neyem A, Escalona G, Ortiz C, Varas J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Participants trained with Lapp showed more homogeneous procedural completion times, though no significant differences in procedural times between groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ulloa G, Neyem A, Escalona G, Ortiz C, Varas J. (2022). Remote asynchronous feedback for unsupervised laparoscopic training: the "Lapp" platform. ABCD Arq Bras Cir Dig. https://doi.org/10.1590/0102-672020220002e1712
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 The authors' interpretation of the completion-time data from the two-group comparison: "there is more homogeneity in participants who trained using Lapp", with no significant between-group difference in procedural times. No variance statistic or effect size is printed for this observation.
 

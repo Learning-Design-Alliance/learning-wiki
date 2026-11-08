@@ -55,3 +55,4 @@ Prospective pre/post-test interventional study reported in the review's trained 
 - [Emergency department length of stay increased after a four-year trauma team training program](ttt-increases-ed-length-of-stay.md) — related
 - [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
 - [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](total-teamwork-events-nonsignificant-increase.md) — related
+- [Learners' self-assessed ability to contribute to TTCA-24 teamwork domains improved after the simulation event, as team member and as team leader](ttca24-self-assessment-improved.md) — related

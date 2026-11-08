@@ -51,3 +51,4 @@ Univariable chi-squared and rank tests in a retrospective longitudinal cohort of
 - [Candidates who passed MRCP Part 1 at first sitting had significantly higher medical school performance (EPM) and SJT scores than those who failed](mrcp-part1-passers-higher-epm-sjt.md) — related
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
 - [Panellist age and sex showed no statistically significant effect on Angoff ratings](panellist-age-sex-no-significant-effect.md) — related
+- [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related

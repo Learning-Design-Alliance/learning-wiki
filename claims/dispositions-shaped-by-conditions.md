@@ -75,3 +75,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Action research shifted teacher-researchers from a problem-fixing orientation to a problem-posing orientation](action-research-shifts-to-problem-posing.md) — related
 - [Creating a community context with mediational tools toward a genuine purpose for writing is more effective than fixing individual writing attitudes](community-context-writing-attitudes.md) — a narrower finding that bears on this claim
 - [Intervention reasoning requires collaborative and interprofessional activities in addition to cognitive processes](intervention-reasoning-collaborative-activities.md) — related
+- [Learner behaviour is self-organised and emergent, so learning paths are nonlinear and individual](self-organisation-emergent-clinical-learning.md) — related

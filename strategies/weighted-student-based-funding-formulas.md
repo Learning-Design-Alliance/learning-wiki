@@ -53,6 +53,7 @@ The report describes weighted funding formulas that fund schools based on the nu
 ## Related Strategies
 
 - [Allocate base state special education funding by prior-year count of students with disabilities, weighted by disability cost groupings](allocate-special-education-funding-by-child-count-cost-groupings.md)
+- [Provide targeted support and resources (mentorship programmes, greater flexibility, grants and bursaries) to candidate groups at increased risk of failing MRCS](targeted-support-at-risk-mrcs-groups.md)
 
 ## Examples
 

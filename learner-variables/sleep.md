@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (50 show a difference, 24 mixed, 9 no difference) · 34 studies (18 associational, 10 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 34 report an effect size · 83 claims rest on one study
+> **Evidence** · 85 claims (51 show a difference, 24 mixed, 10 no difference) · 36 studies (20 associational, 10 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 36 report an effect size · 85 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -119,6 +119,8 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Optimal combinations of sleep and physical activity for adolescent grades involve tradeoffs, and activity cannot buffer very low or very high sleep](../claims/sleep-activity-tradeoff-combinations-grades.md) [~M] — an instructional effect differs with it
 - [Physical activity and sleep duration interact in relation to adolescent academic achievement, such that the sleep–grades association is not uniform across activity levels](../claims/physical-activity-sleep-interaction-grades.md) [~M] — an instructional effect differs with it
 - [Sleep duration shows a curvilinear association with adolescent academic achievement, with optimal grades at 7–9 hours per night rather than the recommended 8–10](../claims/sleep-duration-curvilinear-adolescent-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep satisfaction, sleep quality and alcohol consumption frequency show no association or tendency with GPA in low-performing university students of either sex](../claims/sleep-quality-no-gpa-association-low-performers.md) [-M] — learners who differ on it differ in outcomes
+- [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](../claims/student-sleepiness-associated-lower-achievement-2019.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

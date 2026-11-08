@@ -54,3 +54,4 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
 - [Most students in a hybrid PA programme agreed that live online classes, questions, and breakout rooms encouraged engagement, but only half felt connected to other class members](hybrid-pa-survey-connection-engagement.md) — related
 - [Interview participants identified unsuitable teaching approaches, low engagement, and boredom as the main weaknesses of virtual education](virtual-education-weakness-engagement-boredom.md) — related
+- [Small-group teaching, online or face-to-face, receives higher satisfaction ratings than didactic large-group lectures for feedback, instruction clarity and answers to questions](small-group-higher-satisfaction-than-didactic.md) — related

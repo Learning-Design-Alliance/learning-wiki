@@ -53,3 +53,4 @@ Retrospective cohort analysis of 349 admitted students. Pearson correlations com
 - [Using ML-predicted MCAT scores would have changed 6.3% to 9.4% of admission decisions despite strong rank agreement](predicted-mcat-changes-admission-decisions.md) — related
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
+- [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related

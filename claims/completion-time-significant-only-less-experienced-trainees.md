@@ -54,3 +54,4 @@ The review reports, citing Kim et al., a porcine knee model training evaluation.
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — related
 - [More experienced surgeons rate knowledge of imaging anatomy and spatial perception as more important pre-operative general skills than trainees do](experience-level-differences-general-skill-importance-ratings.md) — related
 - [More experienced surgeons complete the training exercises faster, with specialists fastest, followed by senior residents and young residents](tes-training-experience-gradient-completion-time.md) — related
+- [Exercise duration does not differentiate experience levels on the arthroscopic simulator task](exercise-duration-null-metric.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Chuang Shu-Ting, Liao Pei-Lin, Lo Shu-Fen, Chang Ya-Ting, Hsu Hsiang-Tzu
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Nurses trained with the pressure-injury E-book app showed significantly greater attitude improvement than the control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Chuang Shu-Ting, Liao Pei-Lin, Lo Shu-Fen, Chang Ya-Ting, Hsu Hsiang-Tzu. (2022). Effectiveness of an E-Book App on the Knowledge, Attitudes and Confidence of Nurses to Prevent and Care for Pressure Injury. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph192315826
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same randomized trial, ANCOVA on posttest attitude scores (APIS) with baseline APIS and in-service PI education as covariates found "a significant difference in the APIS between the two groups (F = 33.20, p < 0.000)". No effect size printed.
 

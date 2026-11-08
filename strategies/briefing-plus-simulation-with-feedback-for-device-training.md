@@ -52,6 +52,7 @@ The article recommends that, when training on medical devices, teams combine a v
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Use simulation during device deployment to identify unexpected error-prone situations and involve caregivers in risk assessment](simulation-to-surface-unexpected-device-errors.md)
 - [Use interruptible simulation in a safe environment so errors can be pointed out and corrected during practice](interruptible-safe-environment-simulation-strategy.md)
+- [Use focused, device-specific student-centered training sessions rather than spreading practice across many devices](focused-device-specific-student-centered-dam-training.md)
 
 ## Examples
 -

@@ -52,6 +52,7 @@ The study demonstrates a replicable strategy for competency development: an inte
 - [Use a systematic review plus Delphi process to derive competency frameworks from empirical evidence](systematic-review-delphi-competency-derivation.md)
 - [Use a combined literature review, semi-structured expert interview, and two-round modified Delphi pipeline with AHP weighting to build context-specific competency indicator systems](delphi-ahp-competency-indicator-development-strategy.md)
 - [Multistage consensus process combining nominal-group scope definition, two-stage blinded screening, a modified Delphi process with anonymous voting plus structured online discussion, and blinded categorisation](multistage-delphi-core-set-process.md)
+- [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
 
 ## Examples
 -

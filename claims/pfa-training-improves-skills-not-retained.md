@@ -71,3 +71,4 @@ Follow-up between-group comparison at T2 in the same study. The skills advantage
 - [A 4-hour WHO-based PFA training program significantly increases community nurses' PFA knowledge immediately after training, with a smaller but sustained advantage at 2 months](pfa-training-increases-community-nurse-knowledge.md) — related
 - [Prescription competency improved after the lecture but returned to nearly baseline level at two-month follow-up](prescription-competency-decays-to-baseline.md) — a narrower finding that bears on this claim
 - [The experiential learning program improves patient health engagement at the immediate posttest, but the difference is no longer significant 3 months later](elt-ehealth-program-patient-engagement-mixed.md) — related
+- [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related

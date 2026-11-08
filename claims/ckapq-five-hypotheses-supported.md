@@ -46,3 +46,4 @@ Structural equation modelling (AMOS) of the five retained CKAPQ constructs from 
 
 ## Related Claims
 - [Technological complexity shows no significant effect on perceived ease of use or perceived usefulness of e-learning platforms](technological-complexity-paths-non-significant.md) — related
+- [E-learning environment shows no statistically significant relation to e-learning adoption](elearning-environment-adoption-null-ustf.md) — related

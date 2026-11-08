@@ -51,3 +51,4 @@ Randomized controlled study of 55 residents in 10 teams; timed metrics compared 
 - [No significant differences between RCDP and PSD on time to chest compressions: no interaction or group effects](no-rcdp-psd-difference-primary-outcome.md) — related
 - [Computer, mannequin, and combined simulation all significantly improve ACLS technical skills (megacode scores, CPR initiation time, defibrillation time) with no significant between-group differences](three-simulation-modes-equal-technical-acls-gains.md) — related
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related
+- [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related

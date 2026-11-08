@@ -16,12 +16,14 @@ sources:
     author: Sun Maji, Chu Fuchao, Gao Chunjiu, Yuan Feng
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Spinal surgery trainees taught with PBL plus 3D visualization self-rated their professional knowledge higher than traditionally taught trainees
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sun Maji, Chu Fuchao, Gao Chunjiu, Yuan Feng. (2022). Application of the combination of three-dimensional visualization with a problem-based learning mode of teaching to spinal surgery teaching. BMC Medical Education. https://doi.org/10.1186/s12909-022-03931-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Questionnaire survey of all 106 students (100% recovery) rating nine items on a 1-10 scale. For example "Spinal anatomy 6.53 ± 1.85 4.75 ± 2.00 4.75 <0.001" in the experimental versus control group (Table 2).
 

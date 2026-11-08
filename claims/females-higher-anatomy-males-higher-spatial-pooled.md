@@ -52,3 +52,4 @@ Cross-sectional comparison using independent t-tests on pooled 1st- and 2nd-year
 - [Male dental students scored significantly higher than females on both the PSVT-R and MRT spatial ability tests in the overall sample](gender-difference-spatial-ability-dental-students.md) — related
 - [Spatial ability test scores correlated weakly but significantly with gross anatomy scores in the pooled female group, with no correlation in the male group](weak-spatial-anatomy-correlation-females-only.md) — related
 - [PSVT-R and MRT scores correlated moderately and positively in the overall sample and within each gender group](psvtr-mrt-moderate-correlation.md) — related
+- [Male and female students' MRT scores did not differ significantly in this cohort](no-sex-difference-mrt-scores.md) — reports the opposite

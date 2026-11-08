@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/experienced-surgeons-ambidexterity-simulator.md
+---
+
+# Revision history: [claims/experienced-surgeons-ambidexterity-simulator](../claims/experienced-surgeons-ambidexterity-simulator.md)
+
+### 2026-11-07 · ingest · process:wiki-ingest
+Ingested from pmc-9464134 (Hand dominance and experience improve bimanual performance on arthroscopic simulator task.) via eval_harness.py + ingest_extractions.py

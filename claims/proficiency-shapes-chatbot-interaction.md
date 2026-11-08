@@ -73,3 +73,4 @@ Same chi-squared mosaic-plot analysis, low-proficiency group pattern: significan
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related
 - [Module users showed a different response-frequency pattern: more correct responses but also more extreme over- and under-diagnoses](chi2-response-frequency-pattern-module.md) — related
 - [Higher English proficiency was associated with more confident and successful interaction in paired tasks](proficiency-positively-related-to-interaction.md) — related
+- [Learning emerges under interacting individual, environmental and task constraints](constraints-interaction-shape-clinical-learning.md) — a broader claim this one bears on

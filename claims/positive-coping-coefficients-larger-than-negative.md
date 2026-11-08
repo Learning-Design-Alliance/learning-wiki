@@ -71,3 +71,4 @@ Within the personal disposition synthesis, the review reports that engaging in m
 - [In the whole sample, preference for self-disclosure with AI chatbots is associated with higher adaptive coping and lower maladaptive coping, linking to more prosocial behavior and less bullying](self-disclosure-chatbots-coping-whole-sample.md) — related
 - [The correlates of self-disclosure preference with AI chatbots diverge culturally: positive with adaptive coping in HK but not the US, and positively associated with maladaptive coping in the US but negatively in HK](self-disclosure-chatbots-cultural-divergence.md) — related
 - [Resilience functioned as a conditional protective factor for academic outcomes, with coping style the most modifiable proximal mechanism](resilience-conditional-protective-coping-mechanism.md) — related
+- [Self-blame coping is positively associated with e-learning satisfaction](self-blame-coping-positive-e-learning-satisfaction.md) — related

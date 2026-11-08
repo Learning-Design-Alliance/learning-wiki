@@ -52,3 +52,4 @@ Systematic review of 14 studies of FB SBT for novice trainees (pretest-posttest,
 - [The behavior performance benefit of simulation-based training is only significant for flexible laryngoscopy or bronchoscopy training, not direct laryngoscopy](sbt-behavior-benefit-only-fl-subgroup.md) — related
 - [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related
 - [VR bronchoscopy simulator training improves medical staff intubation skills and reduces complications](vr-bronoscopy-intubation-skills.md) — a narrower finding that bears on this claim
+- [A 2017 meta-analysis concluded that virtual bronchoscopy simulator training improves technical skills](bronchoscopy-simulator-training-improves-technical-skills.md) — related

@@ -53,3 +53,4 @@ Ordinal mixed-effect models in the INSchool cohort tested the dyslexia PGS exclu
 - [Polygenic scores for EA and dyslexia have opposite associations with school performance in all three subjects](pgs-ea-dyslexia-opposite-school-performance.md) — a broader claim this one bears on
 - [The discordant dyslexia-EA genetic partition is associated with worse school performance across all subjects and higher rates of psychopathology](dyslexia-discordant-partition-worse-outcomes.md) — related
 - [Concordant and discordant dyslexia partitions show opposite genetic covariance patterns with cognitive and psychiatric traits](dyslexia-partition-genetic-covariance.md) — related
+- [Dyslexia predicts poorer performance in academic literacy and academic mathematics tasks but not in non-academic literacy tasks among middle school students](dyslexia-impairs-academic-but-not-non-academic-task-performance.md) — related

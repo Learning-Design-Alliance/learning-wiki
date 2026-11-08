@@ -50,3 +50,5 @@ SEM path analysis from the same 659-student survey; all six engagement→outcome
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
 - [All three academic enthusiasm dimensions significantly predict academic performance, led by cognitive enthusiasm (β = 0.662)](enthusiasm-dimensions-predict-performance-jiroft.md) — related
+- [Behavioral engagement, but not emotional or cognitive engagement, positively predicts essay-based performance in collaborative learning](behavioral-engagement-predicts-performance-collaborative.md) — reports the opposite
+- [Intrinsic interpersonal motivation positively predicts emotional engagement, but not behavioral or cognitive engagement, in collaborative learning](intrinsic-motivation-predicts-emotional-engagement-only.md) — related

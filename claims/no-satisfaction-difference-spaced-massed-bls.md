@@ -47,3 +47,4 @@ SLS-OLE satisfaction comparison (34 items, seven-point Likert) between the space
 ## Related Claims
 - [Spaced E-learning produced higher BLS knowledge scores than massed E-learning at immediate, two-week and one-month post-tests in nursing students](spaced-elearning-higher-bls-knowledge-than-massed.md) — related
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
+- [No significant differences were found between the funny-video and control groups in learning motivation or learning satisfaction.](no-motivation-satisfaction-difference-funny-videos.md) — a narrower finding that bears on this claim

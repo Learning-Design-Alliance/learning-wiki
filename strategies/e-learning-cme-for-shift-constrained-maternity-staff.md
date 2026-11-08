@@ -45,7 +45,8 @@ The article recommends its e-learning approach as continuing medical education: 
 - [Baseline clinical skill performance did not differ between the randomized groups, while baseline knowledge did and was controlled in the analysis](../claims/baseline-differences-knowledge-controlled-skill-equivalent.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use short e-learning courses to expand empathic communication training for busy perinatal clinicians](short-elearning-empathic-communication-strategy.md)
 
 ## Examples
 -

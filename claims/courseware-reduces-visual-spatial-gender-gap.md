@@ -55,3 +55,4 @@ One-group pretest–posttest quasi-experiment in seventh-grade classes at two sc
 - [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — reports the opposite
 - [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](gsa-gains-females-only.md) — related
 - [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related
+- [Gender affects non-dominant completion time, significant only in the novice group](gender-nd-completion-time-novice-only.md) — related

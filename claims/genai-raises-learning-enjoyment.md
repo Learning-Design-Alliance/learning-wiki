@@ -83,3 +83,4 @@ Null result on the self-assessed knowledge outcome (0–10 scale) from Session O
 - [Students reported growing confidence in using AI after the lessons](students-perceived-ai-proficiency-gain.md) — related
 - [The sports education model raises students' interest/enjoyment in physical education lessons more than the direct teaching model](sem-raises-interest-enjoyment-over-direct-teaching.md) — related
 - [AI-assisted annotation raises dental students' self-reported confidence in detecting caries at all depths](ai-annotation-raises-caries-detection-confidence.md) — related
+- [SDTM raised trainee engagement and enjoyment ratings with large effect sizes](sdtm-higher-engagement-and-enjoyment-ratings.md) — related

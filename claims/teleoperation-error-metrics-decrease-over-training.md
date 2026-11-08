@@ -68,3 +68,4 @@ Paired comparison reported for ring-rail collisions in the same training study (
 - [A PCA-derived composite performance score improves reliably across the one-hour teleoperation training session](pca-composite-performance-improves-training.md) — related
 - [Teleoperation trainees become more efficient over training, with reduced translational path length and faster trial durations retained at delayed testing](teleoperation-efficiency-improves-over-training.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
+- [On the Sea Spikes 1 dVSS task, only the test group showed a significant reduction in instrument collisions across trials](sea-spikes-collision-reduction-test-group-only.md) — related

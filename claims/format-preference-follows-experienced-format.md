@@ -71,3 +71,4 @@ Descriptive comparison of preferred formats across the two randomized groups (Fi
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [Medical students prefer viewing anatomy on pinned cadavers over digital images during practical exams](students-prefer-pinned-cadavers-over-digital-images-practical-exams.md) — related
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related
+- [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — reports the opposite

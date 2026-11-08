@@ -53,3 +53,4 @@ Evaluation of GPT-4 redaction against corrected human ground truth on 3,505 foru
 - [GPT-4 over-redacts famous names, locations, and mythological creatures that are not PII in educational forum discussions](gpt4-over-redaction-of-non-pii-names-and-locations.md) — a narrower finding that bears on this claim
 - [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md) — related
 - [MOOCs failed to deliver on their proponents' promises of transforming higher education](moocs-failed-to-deliver-on-promises.md) — related
+- [The algorithm's U-net segmentation achieves 98% precision for locating grasper clamps in video frames](unet-segmentation-98-percent-clamp-precision.md) — related

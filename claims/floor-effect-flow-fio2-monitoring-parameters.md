@@ -54,3 +54,4 @@ Survey domain results in the Results section: "100% of the participants across a
 - [Most participants believed oxygen therapy training is necessary, with no significant difference between nurses and physicians](ot-training-perceived-necessary-majority.md)
 - [Training sources differed by profession: nurses reported more school and orientation training; attending physicians more conferences and course programs](ot-training-sources-differ-by-profession.md)
 - [Knowledge of oxygen toxicity was higher among physicians than nurses](oxygen-toxicity-awareness-higher-physicians-than-nurses.md)
+- [Nurses' excellent oxygen-therapy knowledge rose from 5.7% pre-intervention to 34.4% post-intervention after a standardized-protocol training program, in one uncontrolled pre-post study](oxygen-protocol-training-improves-nurse-knowledge.md) — related

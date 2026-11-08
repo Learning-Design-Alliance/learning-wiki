@@ -13,7 +13,7 @@ generated:
 # Rapid-cycle deliberate practice (RCDP)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 5 studies (5 causal), `q2`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 6 studies (5 causal, 1 design), `q1`–`q3` · 0 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 A simulation-based procedural-training framework used by clinical educators that structures repeated skill cycles with immediate targeted feedback and error correction until performance improves.
@@ -25,6 +25,7 @@ A simulation-based procedural-training framework used by clinical educators that
 - **Rapid cycle deliberate practice: a simulation model combining repetitive practice, targeted feedback, mastery learning, and progressive difficulty**: RCDP is a simulation instructional model the article describes as combining "repetitive practice, targeted feedback, mastery learning, and progressive difficulty". Sessions consist of consecutive rounds of increasing difficulty; learners must master predefined learning objectives before progressing. When the facilitator identifies a performance gap, the scenario is paused, direct feedback is given, and the scenario is repeated, creating a feedback-replay loop until mastery is achieved. The article contrasts this with PSD, which emphasizes reflection and discussion after scenario completion. (Coelho Laila Pinto et al (2024))
 - **Rapid Cycle Deliberate Practice: segmented skill practice with immediate per-segment feedback in iterative cycles**: RCDP is a simulation teaching strategy in which a complex skill is decomposed into sequential steps practiced in cumulative cycles, with the instructor pausing after each segment to give short, targeted feedback before practice resumes from the beginning. The article describes it as "a student-centered, simulated teaching strategy that identifies the needs of residents and provides immediate feedback." In this study the forceps procedure was segmented into preparation (A), placement (B), closing (C), and traction (D), cycled until performed flawlessly. (Wang Xiaoxue et al. (2024))
 - **Rapid cycle deliberate practice (RCDP) simulation protocol**: RCDP is a simulation-based instructional strategy in which learners begin a simulated scenario that is "frequently paused by the instructor", with each break used for corrective instruction, coaching, feedback, and supervised repetition until skill mastery. In this study, facilitators used an RCDP coaching guide targeting time-sensitive ACLS interventions, paused, rewound, or resumed cases at their discretion, allowed role rotation, and fit simulation and debriefing into 45 minutes per case. (Raper Jaron D. MD et al. (2024))
+- **Rapid cycle deliberate practice (RCDP) as a simulation-based education model**: RCDP is a form of simulation-based medical education built on Ericsson's deliberate practice with real-time feedback, using mastery learning and repetition to produce overlearning, perfection of microskills, and muscle memory. Unlike the traditional case-then-debrief model, instructors pause scenarios to give individualized feedback and restart or rewind the case so learners repeat actions "until they consistently perform a skill correctly." The article describes the model as having three principles: "psychological safety, expert feedback, and optimizing the number of correct repetitions." (Blanchard E et al. (2022))
 
 ### Claims
 - [RCDP training with an ex vivo porcine intussusception model produces higher post-training theoretical and practical assessment scores than traditional teaching methods in radiology residents](../claims/rcdp-exvivo-model-higher-air-enema-scores.md) [+M]
@@ -34,6 +35,8 @@ A simulation-based procedural-training framework used by clinical educators that
 - [RCDP and traditional teaching show no significant difference in forceps skill scores one year after training](../claims/rcdp-no-one-year-retention-advantage.md) [-M]
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](../claims/rcdp-shortens-cpr-pause-duration-vs-is.md) [+M]
 - [RCDP-trained residents rated their ability to participate in resuscitation more highly than IS-trained peers](../claims/rcdp-higher-rated-ability-to-participate.md) [+M]
+- [Junior anesthesiology residents completing an RCDP-based ACLS simulation curriculum report high satisfaction and expect improved clinical performance](../claims/rcdp-acls-residents-high-satisfaction.md) [+M]
+- [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](../claims/rcdp-acls-facilitator-observations.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -44,3 +47,4 @@ A simulation-based procedural-training framework used by clinical educators that
 - Coelho Laila Pinto et al. (2024). Rapid cycle deliberate practice versus postsimulation debriefing in pediatric cardiopulmonary resuscitation training: a randomized controlled study. Einstein (Sao Paulo). https://doi.org/10.31744/einstein_journal/2024AO0825
 - Wang Xiaoxue, Song Zixuan, Chen Xueting, Zhou Yangzi, Lou Yingze, Liu Tong, Zhang Dandan. (2024). Rapid cycle deliberate practice: application in forceps simulation training for gynecology and obstetrics residents. Annals of Medicine. https://doi.org/10.1080/07853890.2023.2301596
 - Raper Jaron D. MD, Khoury Charles A. MD, Marshall Anderson MD, Smola Robert MD, Pacheco Zachary MD, Morris Jason MD, Zhai Guihua PhD, Berger Stephanie MD, Kraemer Ryan MD, Bloom Andrew D. MD. (2024). Rapid Cycle Deliberate Practice Training for Simulated Cardiopulmonary Resuscitation in Resident Education. Western Journal of Emergency Medicine. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11000545/
+- Blanchard E, Booker D, Peterson DT, Carter T. (2022). Rapid Cycle Deliberate Practice: Application to Adult Advanced Life Support. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.11269

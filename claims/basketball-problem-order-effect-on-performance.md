@@ -49,3 +49,4 @@ In the same basketball task study, the article reports an order effect across th
 - [Basketball players solved average and percentage problems better when framed by basketball practices than as school math worksheets, using different strategies across contexts](basketball-players-better-on-basketball-framed-math-problems.md)
 - [Across everyday-mathematics studies, individuals tended to score higher on tasks linked to their everyday practices than on school-format versions of the same questions](everyday-practice-tasks-scored-higher-than-school-format.md)
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md)
+- [Among 540 NBA players, height shows no significant correlation with Win Shares or points scored despite clearly predicting basketball success in general](nba-height-no-correlation-among-selected-players.md) — related

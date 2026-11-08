@@ -88,6 +88,7 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - [Deliver pre-class content and practical-session videos through messaging platforms (Eitaa and Telegram) to enable non-attendance preparation](messaging-platform-preclass-content-strategy.md)
 - [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
 - [Improve fully online PBL by clarifying instructions, strengthening the group process and adding synchronous tutor contact](online-pbl-support-strategy.md)
+- [Deliver tailored written education material by timed email before appointments and reserve appointment time for question-and-answer collaborative learning](timed-email-flipped-classroom-patient-education-strategy.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

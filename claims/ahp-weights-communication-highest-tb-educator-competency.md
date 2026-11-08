@@ -56,3 +56,4 @@ AHP weight calculation in YAAHP 12.11 using pairwise comparisons on the 1–9 Sa
 - [The Delphi consensus process converged on a competency model of 8 primary indicators and 60 secondary indicators with assigned weights for each indicator.](cv-competency-model-8-primary-60-secondary-indicators.md) — related
 - [Stress resistance, workload management and tactfulness are the highest-ranked individual competencies, while resistance to monotony, numeracy and mathematical reasoning rank lowest](og-item-level-competence-ranking.md) — related
 - [O&G physicians rate Social sensibility and Psychomotor & multitasking abilities as the most important competence areas for daily professional activity](og-social-sensibility-psychomotor-top-areas.md) — related
+- [An analytical hierarchy process combined trainee-perceived usefulness and clinical significance with equal 50% weighting to rank the 18 competency areas](ahp-equal-weighting-competency-ranking.md) — related

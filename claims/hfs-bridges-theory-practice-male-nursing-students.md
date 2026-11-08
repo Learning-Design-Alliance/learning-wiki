@@ -53,3 +53,4 @@ Qualitative theme from interviews and focus groups with 28 male nursing students
 - [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related
 - [Male nursing students report developing proficiency in essential obstetric procedures through high-fidelity simulation](hfs-develops-essential-obstetric-skills.md) — related
 - [86%–94% of students reported that experiential learning helped them apply theoretical knowledge to practical applications](el-application-theory-practice-gains-86-94-percent.md) — related
+- [High-resolution clinical cases with feedback helped residents link theory to practice and recognize conditions in daily practice](elearning-cases-link-theory-practice.md) — related

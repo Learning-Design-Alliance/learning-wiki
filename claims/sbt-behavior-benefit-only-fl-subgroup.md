@@ -49,3 +49,4 @@ Pre-specified subgroup analysis by airway management technique, restricted to FL
 - [Flexible bronchoscopy simulation-based training improves novice trainees' skills when evaluated in a simulation setting](fb-sbt-effective-simulation-setting.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for knowledge acquisition in airway management](sbt-no-knowledge-benefit-airway.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
+- [A 2017 meta-analysis concluded that virtual bronchoscopy simulator training improves technical skills](bronchoscopy-simulator-training-improves-technical-skills.md) — a broader claim this one bears on

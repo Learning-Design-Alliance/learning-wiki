@@ -54,3 +54,4 @@ Multivariate logistic regression on 69,595 written and 38,485 clinical first att
 - [Lesbian, gay and homosexual candidates are significantly less likely than heterosexual candidates to pass written and clinical examinations at first attempt](lgb-candidates-lower-first-attempt-pass-odds.md) — related
 - [Prior academic attainment predicts success at postgraduate medical written and clinical examinations](prior-attainment-predicts-postgraduate-exam-success.md) — related
 - [First-attempt pass rates differed between TPK and ZPDT (theoretical 29% vs. 8% failure; practical 44% vs. 29%), with final failure rates converging after repeat exams](first-attempt-fail-rates-tpk-zpdt.md) — related
+- [Asian and Black candidates are significantly less likely than White candidates to pass MRCS Part B at the first attempt after adjustment (OR 0.49 and OR 0.41)](asian-black-candidates-less-likely-pass-mrcs-part-b.md) — related

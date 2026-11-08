@@ -56,6 +56,7 @@ The article recommends differentiating palliative care training by nurses' auton
 - [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Incorporate palliative care into nursing curricula and provide regular palliative care training and continuing education for nurses](regular-palliative-care-training-and-curriculum-incorporation.md)
+- [Provide targeted support and resources (mentorship programmes, greater flexibility, grants and bursaries) to candidate groups at increased risk of failing MRCS](targeted-support-at-risk-mrcs-groups.md)
 
 ## Examples
 -

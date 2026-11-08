@@ -72,3 +72,4 @@ Same questionnaire survey. "88.23% of students liked the relaxed and lively clas
 - [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related
 - [Nursing students rated knowledge mastery, classroom atmosphere, and communication and collaboration as the top three aspects of learning satisfaction in the in-class flipped classroom](satisfaction-top-three-in-class-flipped.md) — related
 - [86%–94% of students reported that experiential learning helped them apply theoretical knowledge to practical applications](el-application-theory-practice-gains-86-94-percent.md) — related
+- [Implementing a structured PRD tool is feasible in acute clinical areas, with debriefs averaging 14.2 minutes](prd-feasible-short-debriefs-acute-care.md) — related

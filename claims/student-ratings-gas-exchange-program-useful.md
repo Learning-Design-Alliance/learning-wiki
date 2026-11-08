@@ -51,3 +51,4 @@ Anonymous postcourse survey of the intervention class with a 34.7% response rate
 - [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
 - [Students rated activity-based lessons as more motivational than lecture-based lessons in post-lesson surveys](abl-rated-more-motivational-post-lesson.md) — related
+- [Small-group teaching, online or face-to-face, receives higher satisfaction ratings than didactic large-group lectures for feedback, instruction clarity and answers to questions](small-group-higher-satisfaction-than-didactic.md) — related

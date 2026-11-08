@@ -47,6 +47,7 @@ The article's discussion of challenges yields implementable guidance for classro
 - [Sustain tutoring participation, schedule it close to testing windows, and align content with classroom instruction to preserve gains](sustain-timing-alignment-tutoring-implementation.md)
 - [Implement Renzulli Learning as 2-3 hours of weekly use over 16 weeks in treatment classrooms](renzulli-learning-weekly-dosage-schedule.md)
 - [Brief professional development plus sequenced curriculum units with videoed implementation to support Pre-K teachers' engineering teaching](sos-pd-and-sequenced-implementation-strategy.md)
+- [Schedule the motivational intervention early in the academic year and consider longer practice sessions when recruiting students into first responder systems](early-motivational-intervention-longer-practice-strategy.md)
 
 ## Examples
 -

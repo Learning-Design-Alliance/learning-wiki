@@ -89,3 +89,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Working with live, real-world datasets promoted students' perception of real-world authenticity and career transferability in a high school data science curriculum](live-real-world-datasets-real-world-authenticity.md) — a narrower finding that bears on this claim
 - [Students want peer-teacher training to include evidence-based educational theory and contextualized practical teaching experience with feedback](desired-training-content-theory-practice-feedback.md) — related
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related
+- [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related

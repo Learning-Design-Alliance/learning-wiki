@@ -57,8 +57,10 @@ Redundant channels compete for limited working memory: when identical content ar
 5. Test with the target population; add captions deliberately for learners who need them ([Accommodations](../elements/accommodations.md)).
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — worked examples must themselves avoid redundant explanation of steps already shown
 - [Chunking](../principles/chunking.md) — both manage working memory load by controlling what enters it at once
+- [Provide captions or transcripts alongside videos to support accessibility](video-captions-transcripts-accessibility.md)
 
 ## Examples
 - **Khan Academy** videos use narration over evolving visuals rather than paragraphs of on-screen text, keeping each idea in one channel.

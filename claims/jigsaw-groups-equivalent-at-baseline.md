@@ -53,3 +53,5 @@ Independent samples t-tests on the 53 students' PKT and swtAT pre-test scores sh
 - [Experimental and control 7th-grade students did not differ significantly on achievement pre-test scores before the particulate nature of matter unit](concept-cartoon-study-pretest-equivalence.md) — related
 - [Game-based and traditional-instruction students show no significant difference in learning achievement at pre-test](game-vs-traditional-no-pretest-difference-system-analysis.md) — related
 - [No statistically significant difference in GPA between the Jigsaw and control groups before treatment](no-gpa-difference-jigsaw-control-groups.md) — a narrower finding that bears on this claim
+- [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related
+- [Post-knowledge test scores did not differ significantly between the E-learning group and the traditional teaching group](no-significant-posttest-difference-elearning-vs-traditional.md) — related

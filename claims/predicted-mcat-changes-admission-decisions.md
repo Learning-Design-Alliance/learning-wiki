@@ -52,3 +52,4 @@ Predicted MCAT scores were used to recalculate rankings for two pandemic-era coh
 - [Including MCAT scores in admissions composites weakens prediction of clinical skills performance measured by OSCE scores](mcat-inclusion-reduces-osce-prediction.md) — related
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
 - [Participants' and tutors' rankings of medical error types were highly similar, indicating strong agreement between the two perspectives](participant-tutor-ranking-agreement.md) — related
+- [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related

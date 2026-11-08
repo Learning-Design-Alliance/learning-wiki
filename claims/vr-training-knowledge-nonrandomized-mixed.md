@@ -91,3 +91,4 @@ Prospective cohort study of 299 undergraduate nursing students using a VP game d
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
 - [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related
 - [Weight-related communication skills scores rose from pre-test to post-test among health care professionals in one uncontrolled pre-post study of VITAL-COMS training](vital-coms-improved-self-assessed-communication-skills.md) — related
+- [Knowledge of perinatal mental health assessment improved in both intervention and control groups after the e-learning course, with no group difference](elearning-kpmha-improved-both-groups.md) — related

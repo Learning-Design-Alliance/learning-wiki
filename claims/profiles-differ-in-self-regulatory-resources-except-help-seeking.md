@@ -66,3 +66,4 @@ One-way ANOVAs comparing the four clusters with Tukey HSD post hoc tests. The HL
 - [Attitudinal outcomes did not differ significantly between roles across most studies, with isolated exceptions in self-efficacy and 3-month perceived learning transfer](attitudinal-outcomes-mostly-null-exceptions.md) — related
 - [Regardless of resource-use profile, students reported more frequent use of near-peer social resources (e.g., classmates) than non-peer supports such as instructors or tutoring centers.](near-peer-social-resource-preference.md) — related
 - [Students perceived flipped learning as increasing learning independence, including resource-seeking and time management](fl-increased-learning-independence-nursing.md) — related
+- [Most postgraduates did not seek psychological counseling during the pandemic, but most increased the frequency of academic communication with graduate tutors](covid19-postgraduates-counseling-and-tutor-communication.md) — related

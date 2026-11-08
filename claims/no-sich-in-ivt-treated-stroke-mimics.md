@@ -16,12 +16,14 @@ sources:
     author: "Høllesli, L. J., Ajmi, S. C., Kurz, M. W., Tysland, T. B., Hagir, M., Dalen, I., Qvindesland, S. A., Ersdal, H., & Kurz, K. D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # No symptomatic intracranial hemorrhage occurred in IVT-treated stroke-mimic patients; only two asymptomatic ICH cases appeared after simulation training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Høllesli, L. J., Ajmi, S. C., Kurz, M. W., Tysland, T. B., Hagir, M., Dalen, I., Qvindesland, S. A., Ersdal, H., & Kurz, K. D. (2022). Simulation‐based team‐training in acute stroke: Is it safe to speed up? Brain and Behavior, 12, e2814. https://doi.org/10.1002/brb3.2814
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Safety analysis of the before-after cohort classifying hemorrhage by ECASS II criteria, with sICH defined as ICH with NIHSS deterioration of four points or more. Both post-training hemorrhages were asymptomatic (5 mm right frontal; small subarachnoid blood), p = 1.0; no effect size printed.
 

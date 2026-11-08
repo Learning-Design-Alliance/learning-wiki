@@ -58,3 +58,4 @@ Review synthesis of Naik (2001), a randomised trial of a low-fidelity bench mode
 - [Cadaveric specimens are rated the most beneficial PTED simulation modality and low-fidelity bench-top models the least](cadaveric-specimens-preferred-pted-simulation-modality.md) — related
 - [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related
 - [VR bronchoscopy simulator training improves medical staff intubation skills and reduces complications](vr-bronoscopy-intubation-skills.md) — related
+- [Simulator training before real patients speeds bronchoscopy skill acquisition versus traditional training](simulator-training-transfers-to-real-patients.md) — related

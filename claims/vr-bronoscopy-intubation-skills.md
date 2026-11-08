@@ -49,3 +49,4 @@ The review describes a study evaluating the impact of VR bronchoscope simulator 
 - [Flexible bronchoscopy simulation-based training improves novice trainees' skills when evaluated in a simulation setting](fb-sbt-effective-simulation-setting.md) — a broader claim this one bears on
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
+- [A 2017 meta-analysis concluded that virtual bronchoscopy simulator training improves technical skills](bronchoscopy-simulator-training-improves-technical-skills.md) — possibly the same claim (merge candidate)

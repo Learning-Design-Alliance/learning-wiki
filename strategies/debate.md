@@ -70,6 +70,7 @@ Debate is a high-intensity form of [Active Learning](../principles/active-learni
 - [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](structured-debate-mandatory-speaking-roles.md)
 - [Use the Meeting-House Debate strategy to instruct critical thinking skills in EFL reading classes](meeting-house-debate-strategy.md)
 - [Use argumentation activities built around claims, reasons, supporters and rebuttals tied to curriculum achievements, with students designing experiments](argumentation-worksheets-claims-rebuttals-experiment-design.md)
+- [Use debates on controversial clinical issues as active-learning tools for higher-order thinking](debate-ethical-issues-active-learning.md)
 
 ## Examples
 - **Structured academic controversy in environmental science**: teams debate a land-use proposal, switch sides mid-activity, then jointly write a recommendation — the standard Johnson & Johnson classroom format

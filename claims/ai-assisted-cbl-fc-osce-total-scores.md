@@ -85,3 +85,4 @@ Station-level results show significant advantages for the AI-assisted group on m
 - [CBL/FC students report more positive perceptions of clinical skill gains than LBT students in both grades](cbl-fc-positive-skill-perceptions.md) — related
 - [Medical students taught with combined CBL/FC outperform lecture-based peers on clinical case scenarios in nephrology bedside teaching](cbl-fc-superior-clinical-case-scenario-nephrology.md) — related
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
+- [SDTM improved history-taking performance versus traditional training (d = 0.59)](sdtm-improved-history-taking-scores.md) — related

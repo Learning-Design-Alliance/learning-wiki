@@ -73,3 +73,4 @@ Authors' interpretation of Figure 2: "students at the high school rankin gs give
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related
 - [The SSML advantage in MPSA enhancement is significant for middle-MPK students but not for upper- and low-MPK students](ssml-advantage-significant-only-middle-mpk.md) — related
 - [Interaction between learning model and problem type on problem-solving ability](interaction-learning-model-problem-type.md) — related
+- [The benefit of simulation training over control is moderated by training level, with residents deriving the greatest benefit (significant interaction, p = 0.02)](simulation-benefit-moderated-by-education-status.md) — related

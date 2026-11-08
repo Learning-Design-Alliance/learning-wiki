@@ -24,6 +24,8 @@ sources:
     author: Haverkamp Frederike J. C., Rahim Idris, Hoencamp Rigo, Fluit Cornelia R. M. G., Van Laarhoven Kees J. H. M., Tan Edward C. T. H.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Self-assessed nontechnical, technical and bleeding management self-efficacy significantly increased after a multidisciplinary trauma masterclass
@@ -52,7 +54,7 @@ Pre-post comparison in the quantitative questionnaire of the mixed methods study
 
 Haverkamp Frederike J. C., Rahim Idris, Hoencamp Rigo, Fluit Cornelia R. M. G., Van Laarhoven Kees J. H. M., Tan Edward C. T. H. (2022). Self-efficacy and application of skills in the workplace after multidisciplinary trauma masterclass participation: a mixed methods survey and interview study. European Journal of Trauma and Emergency Surgery. https://doi.org/10.1007/s00068-022-02159-8
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Same pre-post questionnaire analysis (Wilcoxon signed-rank test, 40 paired responses). The pooled technical row shows "2.9 (SD 0.6) 3.6 (SD 0.6) < 0.001"; no effect size was printed.
 

@@ -55,6 +55,7 @@ Both interventions in the trial were built around role-play, which the authors d
 - [Use standardized patient social history encounters, reflective writing, and a mini-OSCE practice to teach SDH history collection](sp-social-history-reflective-writing-mini-osce-strategy.md)
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](ssp-role-rotation-debriefing-strategy.md)
 - [Teach critical thinking through varied interactive activities — role plays, case scenarios, essays, and discussions — within a short foundation workshop](interactive-varied-activities-ct-workshop-strategy.md)
+- [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
 
 ## Examples
 -

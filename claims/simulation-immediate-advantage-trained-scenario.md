@@ -16,18 +16,22 @@ sources:
     author: Ghazali Hanen, Ouaness Islem, Zaouch Khedija, Hamed Rym, Ines Chermiti, Manai Hela
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ghazali-hanen-2022-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9703463/"
     title: "Ghazali Hanen, Ouaness Islem, Zaouch Khedija, Hamed Rym, Ines Chermiti, Manai Hela. (2022). Skill retention following simulation learning in acute coronary syndrome versus cardiac arrest. La Tunisie Médicale. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9703463/"
     author: Ghazali Hanen, Ouaness Islem, Zaouch Khedija, Hamed Rym, Ines Chermiti, Manai Hela
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Immediately after simulation training, residents outperform the cross-over control group on the scenario they were trained for, on both the cardiac-arrest and the ACS scenarios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Ghazali Hanen, Ouaness Islem, Zaouch Khedija, Hamed Rym, Ines Chermiti, Manai Hela. (2022). Skill retention following simulation learning in acute coronary syndrome versus cardiac arrest. La Tunisie Médicale. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9703463/
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Immediate post-simulation cross-over evaluation in a prospective randomized study of family-medicine residents; each group served as control for the pathology it was not trained on. The trained group's mean was "significativement supérieure" (14,92 ± 2 versus 7,51± 3, p<0,001).
 
@@ -50,7 +54,7 @@ Immediate post-simulation cross-over evaluation in a prospective randomized stud
 
 Ghazali Hanen, Ouaness Islem, Zaouch Khedija, Hamed Rym, Ines Chermiti, Manai Hela. (2022). Skill retention following simulation learning in acute coronary syndrome versus cardiac arrest. La Tunisie Médicale. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9703463/
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same cross-over design, ACS scenario at T0: the SCA-trained group was "significativement supérieure" (13± 2 versus 11 ± 2, p=0,031). The article notes the improvement covered complication management and communication but not diagnosis (p=0,262) or therapeutic management (p=0,451).
 

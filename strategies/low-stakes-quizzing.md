@@ -94,6 +94,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
 - [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
 - [Program announced, graded fill-in-the-blank quizzes with immediate in-class answer-key review](announced-graded-quiz-answer-key-review-strategy.md)
+- [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](pre-quiz-unlocks-module-post-quiz-feedback.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

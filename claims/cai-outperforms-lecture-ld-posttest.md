@@ -49,3 +49,4 @@ Post-test comparison of the two matched LD groups (25 each); Table 3 reports mea
 - [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](lecture-no-significant-gain-ld-students.md) — related
 - [Experimental-group LD students taught through CAI show a significant pre-test to post-test achievement gain in English](cai-significant-pre-post-gain-ld-students.md) — related
 - [Lecture-taught LD students remain significantly behind normal-group students at post-test](lecture-ld-behind-normal-group.md) — related
+- [Effect of instructor intervention depends on pre-discussion activity: worksheet helped lecture groups but was associated with lower scores in self-study groups](intervention-effect-depends-on-pre-activity.md) — related

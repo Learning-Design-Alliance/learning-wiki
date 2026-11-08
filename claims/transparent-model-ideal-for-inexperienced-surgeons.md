@@ -49,3 +49,4 @@ Surgeon-feedback section reporting residents' qualitative assessments of the two
 - [Residents rate SAPIENS 3D-printed models as very similar to fresh-frozen human temporal bone across all surgical steps (4/5 and 4.2/5)](sapiens-similar-to-fresh-frozen-temporal-bone.md) — related
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](vsa-predicts-mis-simulator-performance-novices.md) — a broader claim this one bears on
 - [Digital visualization of structures that are hard to see on body donors improved the quality of preparation in dissection courses](digital-visualization-improves-dissection-quality.md) — related
+- [Residents who did virtual temporal bone dissections reported improved learning of anatomy](virtual-temporal-bone-anatomy-learning.md) — related

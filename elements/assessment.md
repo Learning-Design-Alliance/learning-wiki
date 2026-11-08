@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (17 for, 18 mixed, 3 against) · 35 studies (11 causal, 8 review, 6 quant-synthesis, 5 design, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 35 report an effect size · 36 claims rest on one study
+> **Evidence** · 40 claims (18 for, 19 mixed, 3 against) · 36 studies (11 causal, 8 review, 6 quant-synthesis, 6 design, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 36 report an effect size · 38 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -89,6 +89,8 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Simulated patient assessors awarded significantly lower total scores to the black fail-grade candidate than to the white fail-grade candidate in the same history-taking station](../claims/sp-lower-scores-black-fail-candidate.md) [~W] — attached 2026-11-07 from Brown Celia et al. (2025), which proposed "Video-based randomised simulated patient assessment platform with paired white/non-white candidate videos at three performance grades".
 - [Simulated patient assessors awarded significantly higher total scores to the black and Chinese borderline-grade candidates than to the white borderline-grade candidate](../claims/sp-higher-scores-black-chinese-borderline-candidates.md) [~W] — attached 2026-11-07 from Brown Celia et al. (2025), which proposed "Video-based randomised simulated patient assessment platform with paired white/non-white candidate videos at three performance grades".
 - [Student self-assessments and faculty evaluations of patient care domains diverge, with self-reported scores generally lower than faculty-assigned scores](../claims/self-assessment-faculty-score-discrepancy-dental-rotations.md) [~W] — attached 2026-11-07 from Shukla A (2025), which proposed "Community-Based Dental Education (CBDE) rotation assessment toolkit: five patient care domains on a five-point Likert scale".
+- [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](../claims/ai-almost-perfect-agreement-peg-transfer-assessment.md) [+W] — attached 2026-11-07 from Belmar Francisca et al. (2022), which proposed "AI assessment algorithm for basic laparoscopic simulation exercises (U-net and YOLO v4)"; tests this page's relationship.
+- [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](../claims/ai-moderate-agreement-bean-drop-assessment.md) [~W] — attached 2026-11-07 from Belmar Francisca et al. (2022), which proposed "AI assessment algorithm for basic laparoscopic simulation exercises (U-net and YOLO v4)"; tests this page's relationship.
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

@@ -57,3 +57,4 @@ A survey of Academy graduates described in the practitioner article found 100 pe
 - [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related
 - [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
+- [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related

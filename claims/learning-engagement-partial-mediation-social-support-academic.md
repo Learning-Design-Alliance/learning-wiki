@@ -52,3 +52,4 @@ Bootstrap mediation analysis (2000 samples) in the same 265-student study treate
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](emotion-regulation-mediation-peer-support-achievement.md) — related
 - [Learning engagement partially mediates the association between peer relationships and academic achievement](learning-engagement-partial-mediation-peer-achievement.md) — related
 - [Learning motivation partially mediates the association between peer relationships and academic achievement](learning-motivation-partial-mediation-peer-achievement.md) — related
+- [Academic engagement acts as a mediator between student attitudes and academic achievement and between student readiness and academic achievement](academic-engagement-mediation-elearning-achievement.md) — related

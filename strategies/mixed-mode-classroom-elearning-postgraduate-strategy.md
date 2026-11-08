@@ -48,6 +48,7 @@ The article reports that students proposed maintaining e-learning in the future 
 
 - [Adopt blended teaching strategies that combine face-to-face and virtual-world modes.](blended-face-to-face-and-vw-teaching-strategy.md)
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
+- [Adopt blended learning combining e-learning with traditional classrooms for medical education amid crises](blended-learning-medical-education-crisis-strategy.md)
 
 ## Examples
 -

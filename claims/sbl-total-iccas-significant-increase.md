@@ -54,3 +54,4 @@ Paired samples t-test on the full ICCAS in the same retrospective pre-post study
 - [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [Standardised scoring tools (ABCDE, NEWS, ISBAR) created a common language that participants experienced as strengthening clinical communication and confidence across service levels](standardised-language-scoring-tools-communication.md) — related
 - [Interprofessional and uniprofessional acute-care simulation produced no difference in overall self-assessed interprofessional competency gains (ICCAS) for medical or nursing students](no-iccas-difference-interprofessional-vs-uniprofessional-simulation.md) — related
+- [All participants agreed the simulation achieved each of the ICCAS interprofessional competencies](iccas-competencies-achieved.md) — related

@@ -56,3 +56,4 @@ Learning-curve analysis of the first 10 training attempts (Z-scores standardizin
 - [Residents reached the expert benchmark on small-intestine suturing after a median of 11 repetitions, with a plateau after roughly 11 repetitions](rostrac-learning-curve-suturing-plateau.md) — related
 - [Residents achieved DaVinci Skills Simulator targets after a median of 3 repetitions and about 8 hours of VR training](rostrac-vr-training-targets.md) — related
 - [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — related
+- [Learning curves showed similar shapes between the PoLaRS and dVSS systems and between the test and control groups](similar-learning-curve-shapes-polars-dvss.md) — related

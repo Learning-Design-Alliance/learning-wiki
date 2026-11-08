@@ -51,3 +51,4 @@ T-test comparison on Rose's QIWB (24 items, five subscales) in the quasi-experim
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Wiki-based instruction reduces writing anxiety of EFL business students relative to traditional instruction](wikis-reduce-writing-anxiety-efl.md) — related
 - [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related
+- [The flipped classroom per se neither improves nor worsens students’ performance in hard or soft skills relative to a semi-traditional class with active learning techniques](fc-per-se-no-effect-hard-soft-skills.md) — related

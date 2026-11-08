@@ -51,3 +51,4 @@ Randomized controlled non-inferiority trial with 97 analyzed medical students ra
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
 - [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — a narrower finding that bears on this claim
 - [The review reports that simulator training was not inferior to live training for beginners without prior transthoracic echocardiography experience](simulator-training-not-inferior-to-live-training-beginners.md) — related
+- [Twenty minutes of online learning produced ocular POCUS first-scan quality scores not inferior to a 30-minute hands-on session in novice emergency physicians](online-ocular-pocus-not-inferior-hands-on.md) — related

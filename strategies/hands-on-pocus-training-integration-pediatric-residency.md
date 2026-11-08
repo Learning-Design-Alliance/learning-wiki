@@ -49,6 +49,7 @@ The article recommends integrating POCUS training into pediatric residency progr
 
 - [Combine a short standardized didactic with one hour of hands-on simulation to initiate foundational pediatric TEE competency during residency](short-didactic-plus-one-hour-simulation-for-tee-competency.md)
 - [Provide ongoing objective feedback and structured, supervised POCUS training to maintain emergency physicians' competencies](ongoing-objective-feedback-pocus-training.md)
+- [Develop POCUS education programs by combining formal training, a formal competency assessment tool, and integration into real clinical practice](pocus-education-development-strategy.md)
 
 ## Examples
 -

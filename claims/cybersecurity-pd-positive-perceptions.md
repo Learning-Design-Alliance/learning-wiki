@@ -50,3 +50,4 @@ Descriptive analysis of post-PD Likert survey responses from the 50 participants
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
+- [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related

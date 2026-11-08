@@ -55,3 +55,4 @@ Self-designed satisfaction survey distributed to all 34 experimental group stude
 - [Students in the REPs-VS group rated gains in learning needs identification, clinical reasoning, and communication highly, with 98.3% agreeing the platform enhanced their understanding](reps-vs-perceptions-knowledge-skills.md) — related
 - [Nearly all simulation participants agreed they could provide ALS more confidently in their future careers, and rated the training 4.88 of 5](high-satisfaction-confidence-after-als-simulation.md) — related
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
+- Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related

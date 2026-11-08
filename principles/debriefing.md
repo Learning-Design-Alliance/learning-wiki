@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (26 for, 10 mixed, 2 against) · 53 studies (15 review, 14 causal, 13 quant-synthesis, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 53 report an effect size · 27 claims rest on one study
+> **Evidence** · 42 claims (27 for, 13 mixed, 2 against) · 55 studies (15 causal, 15 review, 13 quant-synthesis, 5 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 55 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,10 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [ER-VIPE with co-debriefing significantly lowered burnout relative to computer-based SIMBIE without debriefing, while the VR-based ER-VIPE arm showed no significant burnout differences](../claims/ervipe-burnout-reduction-versus-control.md) [+W] — attached 2026-11-06 from Lesselroth Blake et al. (2025), which proposed "Conduct co-debriefing with explicit psychological safety practices and address power imbalances between professions and co-debriefers".
 - [Peer-led debriefing improves undergraduate medical students' non-technical skills in simulated crises as effectively as instructor-led debriefing](../claims/peer-led-debriefing-as-effective-as-instructor-led.md) [~W] — attached 2026-11-07 from Jaffrelot M et al. (2024), which proposed "Use peer-led debriefing as a feasible, lower-cost alternative to instructor-led debriefing in simulation-based crisis training".
 - [Peer debriefers' non-technical crisis-management skill scores rose from pre-test to post-test and retention test in within-group comparisons](../claims/peer-debriefer-own-skill-improvement.md) [~W] — attached 2026-11-07 from Jaffrelot M et al. (2024), which proposed "Use peer-led debriefing as a feasible, lower-cost alternative to instructor-led debriefing in simulation-based crisis training".
+- [The PCP debriefing tool was rated as providing emotional support by more participants than DISCERN (65.2% vs 50%) in pediatric acute care settings](../claims/pcp-greater-emotional-support-than-discern.md) [~W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "Choose an institution- and setting-specific PRD tool based on team values, environmental constraints, and desired emotional support".
+- [PCP debriefings lasted longer on average than DISCERN debriefings (18.1 vs 11.1 minutes) in the crossover study](../claims/pcp-debriefs-longer-than-discern.md) [~W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "Choose an institution- and setting-specific PRD tool based on team values, environmental constraints, and desired emotional support".
+- [No significant differences between PCP and DISCERN in ease of use, debrief-process support, improvement opportunities, or participant comfort](../claims/no-significant-difference-pcp-discern-ease-comfort.md) [~W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "Choose an institution- and setting-specific PRD tool based on team values, environmental constraints, and desired emotional support".
+- [The debriefing session enabled bidirectional learning in which participants shared lived experience that identified barriers to resuscitation](../claims/bidirectional-learning-debriefing-non-clinicians.md) [+W] — attached 2026-11-07 from Whittall Jonathan P. et al. (2022), which proposed "Include a debriefing session in simulation protocols used with non-clinicians to consolidate learning and elicit lived-experience feedback".
 
 ## Objective and learner-valued goal
 

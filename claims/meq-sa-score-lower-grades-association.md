@@ -47,3 +47,4 @@ Multivariate generalized linear model (binomial, logit link) on the same 198-res
 ## Related Claims
 - [Higher loneliness scores were associated with higher odds of better standardized training grades](loneliness-associated-better-residency-grades.md) — related
 - [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — possibly the same claim (merge candidate)
+- [Higher agreeableness and higher emotional stability are each associated with higher odds of a better National Residency Exam score](agreeableness-emotional-stability-associated-with-exam-odds.md) — related

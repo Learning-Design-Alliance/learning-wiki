@@ -47,3 +47,4 @@ Needs-assessment questionnaire administered to 138 nurses (74%), 28 general prac
 ## Related Claims
 - [Borich and importance-performance analyses ranked gavage tube feeding, oxygen therapy, and fluid therapy as the highest-priority NICU training topics](borich-ipa-priority-nicu-topics-gavage-oxygen-fluid.md) — related
 - [Most participants believed oxygen therapy training is necessary, with no significant difference between nurses and physicians](ot-training-perceived-necessary-majority.md) — related
+- [Patients in the intervention group have fewer oxygen-therapy complications, with 62% having no complications versus 10.9% in the control group](protocol-intervention-reduces-oxygen-complications.md) — related

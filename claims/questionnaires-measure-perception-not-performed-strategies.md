@@ -68,3 +68,4 @@ The editorial's methodological-considerations section states this validity chall
 - [Self‐reported self‐efficacy questionnaires may not reflect actual teaching behaviour quality](self-report-self-efficacy-may-not-reflect-teaching-behaviour.md) — a narrower finding that bears on this claim
 - [Students' impressions of what improves their learning may not align with actual learning outcomes](student-perceptions-misalign-with-actual-learning.md) — related
 - [Self-reported self-care may not reflect real practical behavior in older people, a stated limitation of the HAPA trial](self-report-self-care-limitation-older-adults.md) — possibly the same claim (merge candidate)
+- [Self-reported perceptions of regulatory activities often differ from learners' actual regulatory behaviour](self-reports-differ-actual-regulation-behaviour.md) — possibly the same claim (merge candidate)

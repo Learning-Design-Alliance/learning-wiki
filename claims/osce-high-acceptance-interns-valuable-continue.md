@@ -57,3 +57,5 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
 - [Students unanimously rated working with standardized clients as beneficial and a valuable learning experience, developing communication skills and a sense of reality](standardized-clients-valuable-realistic-learning.md) — related
 - [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related
+- [Research staff rate the recruitment GOSCE as highly acceptable, with nearly all reporting it taught them something new and provided valuable feedback](gosce-recruitment-training-acceptable-to-research-staff.md) — related
+- [Trainees rate the simulation experience highly and overwhelmingly agree simulation training is essential in cardiovascular fellowship](high-trainee-satisfaction-with-simulation-training.md) — related

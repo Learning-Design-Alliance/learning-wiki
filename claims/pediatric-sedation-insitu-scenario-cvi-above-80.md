@@ -54,3 +54,4 @@ Content-validation stage of a descriptive study: 12 experts (eight women, four m
 - [Expert judges rated all items of the two infusion-therapy simulation scenarios with Modified Kappa values above 0.74 (N=11)](infusion-scenarios-mkc-above-074-judges.md) — related
 - [Pediatric sedation simulation participants rated the scenarios as clinically relevant, comfort-improving, and the debrief as valuable and safe, with means above 4 on a 5-point Likert scale](sedation-simulation-likert-ratings-favorable.md) — related
 - [Expert judges rated every item of the postvention simulation scenario at CVI 0.90 or higher, exceeding the 0.80 acceptance criterion](postvention-scenario-cvi-all-items-090-or-higher.md) — related
+- [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related

@@ -68,3 +68,4 @@ Interview finding on understanding formats and documentation: four interviewees 
 - [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — related
 - [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
 - Document analysis of teaching artefacts validated 25 of the 28 themes and identified 65 instances, supporting the trustworthiness of the interview findings — a broader claim this one bears on
+- [GP residents valued the E-learning programme's uniform format and constant availability as a starting point for learning](elearning-uniform-format-starting-point-residents.md) — related

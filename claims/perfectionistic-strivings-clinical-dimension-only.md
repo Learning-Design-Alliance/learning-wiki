@@ -49,3 +49,4 @@ Between-person covariate models using the 8-item Frost Multidimensional Perfecti
 - [Placements in which students report greater clinical self-efficacy show better clinical and professional performance](clinical-self-efficacy-better-placement-performance.md) — related
 - [Number of lifetime adversity categories positively predicts performance, while adversity frequency negatively predicts the professional dimension and age negatively predicts clinical performance](lifetime-adversity-and-age-effects-on-performance.md) — related
 - [Perfectionistic strivings (Rigid Perfectionism) were not associated with laparoscopic skill retention in either practice condition.](rigid-perfectionism-not-associated-with-skill-retention-in-either-condition.md) — related
+- [Only personal standard, among perfectionistic strivings facets, is significantly positively associated with extra training](personal-standard-positive-extra-training.md) — related

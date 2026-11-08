@@ -25,6 +25,8 @@ sources:
     author: Song Yinqiu, Meng Xianqiu, Jiang Jianhua
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # EGWO-MLP shows a significant advantage in Mathematics achievement prediction over AGWO-MLP, GWO-MLP, and GA-MLP, but is worse than evolutionary algorithms in training
@@ -53,7 +55,7 @@ Numerical simulation on the UCI Mathematics dataset (Tables 3 and 4, twenty runs
 
 Song Yinqiu, Meng Xianqiu, Jiang Jianhua. (2022). Multi-Layer Perception model with Elastic Grey Wolf Optimization to predict student achievement. PLoS One. https://doi.org/10.1371/journal.pone.0276943
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Statistical test results (Table 5) report significant rank-sum differences for EGWO-MLP versus AGWO-MLP (P<0.001), GWO-MLP (P=0.002), BA-MLP (P=0.038), and GA-MLP (P<0.001); comparisons versus DE-MLP and others were not significant or not tested.
 

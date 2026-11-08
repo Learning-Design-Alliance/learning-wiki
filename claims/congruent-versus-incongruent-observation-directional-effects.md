@@ -51,3 +51,4 @@ Review synthesis contrasting congruent versus incongruent observational practice
 - [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
 - [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](gesture-speech-incongruency-disrupts-processing.md) — related
+- [The BIAT experimental effect was induced: reaction times and error rates were higher in the doping-like (incongruent) block than the doping-dislike block](biat-doping-like-block-slower-more-errors.md) — related

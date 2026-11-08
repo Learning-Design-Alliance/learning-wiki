@@ -69,3 +69,4 @@ Same SEM on the MHH sample: the direct effect of Gymnasium attendance on M1 grad
 - [Bivariately, poorer M1 grades correlate moderately with lower school performance and higher age at enrolment, and M1 performance differs across admission quotas](bivariate-m1-correlates-and-route-differences.md) — related
 - [Parental education and family financial support show no direct association with medical school performance; maternal German nativity is an exception](parental-background-no-direct-performance-effect.md) — related
 - [Higher secondary-school grades and private preparatory class attendance were independently associated with entrance exam success](grades-and-preparatory-classes-predict-entrance-success.md) — related
+- [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — related

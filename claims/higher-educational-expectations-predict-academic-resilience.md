@@ -16,12 +16,14 @@ sources:
     author: Yan Yan, Gai Xiaosong
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Low-SES students who expect to complete higher education are more likely to be academically resilient, with the strongest association in grade 9
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yan Yan, Gai Xiaosong. (2022). High Achievers from Low Family Socioeconomic Status Families: Protective Factors for Academically Resilient Students. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph192315882
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multivariable logistic regression on students from grades 6, 9, and 11 in one northeast Chinese city, with predictors entered jointly. Educational expectation was the strongest predictor; Table 4 shows the postgraduate expectation category OR "8.24 (6.11–11.1)" in grade 9. No standardized effect size is printed for this finding.
 

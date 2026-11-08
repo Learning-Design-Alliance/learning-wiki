@@ -53,3 +53,4 @@ SEM Model 4 in the longitudinal sample, the model testing the study's main hypot
 - [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](spatial-and-attention-unique-predictors-math.md) — related
 - [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
 - [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related
+- [Sustained attention predicted mathematics scores in boys but not in girls, a sex difference the study reports as contradicting its assumption](sustained-attention-math-boys-only.md) — reports the opposite

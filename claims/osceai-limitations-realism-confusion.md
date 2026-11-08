@@ -51,3 +51,4 @@ Open-ended limitation items from the anonymized survey (n = 37), thematically gr
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
 - [In the pilot study, most of the ten participating medical students judged the simulator realistic but asked for clearer, less information-dense scenario instructions](pilot-students-realism-feedback.md) — related
 - [Pilot nurses gave the tested scenarios a total Educational Practices Questionnaire agreement score of 4.96 (SD=0.08) and importance score of 4.56 (SD=0.07)](epq-total-scores-pilot-nurses.md) — related
+- [Fourteen percent of test participants reported missing items, suggesting actor turning-point guidance and additional scenario details](forpec-missing-items-suggestions-fourteen-percent.md) — related

@@ -50,3 +50,4 @@ Findings from the LED analysis categorized into three educational themes: percep
 - [Playing Spiritfarer has the potential to impact gamers' outlook, knowledge, and behaviors, especially in relation to grief, empathy, and managing loss](spiritfarer-impacts-outlook-knowledge-behaviors.md) — a broader claim this one bears on
 - [Players formed personal connections with Spiritfarer characters, often because spirits reminded them of real loved ones](spiritfarer-personal-connection-characters.md) — related
 - [The course significantly reduced perceived difficulty of palliative care, increased recognition of its necessity, and corrected misconceptions equating palliative care with giving up treatment or shortening life](palliative-attitude-misconception-shifts.md) — related
+- [Overdose simulation stimulated introspective reflection and gave participants a new perspective, including the responder's vantage point](simulation-new-perspective-reflection-overdose.md) — related

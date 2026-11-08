@@ -52,3 +52,4 @@ Multivariate logistic regression in the 1916-participant cross-sectional study f
 - [Junior college–trained practitioners perceived lower school–clinical alignment in root canal treatment education than bachelor's and master's degree holders](junior-college-lower-perceived-rct-alignment.md) — related
 - [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related
 - [Personnel with a bachelor's degree scored significantly higher than associate-degree holders in managing complicated child delivery](bachelor-degree-higher-ccd-score.md) — related
+- [Doctoral postgraduates found it harder to relax in the COVID-19 environment and were more worried about not meeting graduation standards than master's postgraduates](covid19-doctoral-postgraduates-greater-academic-stress.md) — related

@@ -51,3 +51,4 @@ Thematic analysis of interviews with 12 first-year medical students in a non-cad
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
 - [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](spatial-ability-moderates-realism-effects.md) — related
 - [Students rate hologram-based AR anatomy learning positively, with high willingness to use it again for theoretical and practical learning](positive-user-experience-and-willingness-to-reuse-ar.md) — related
+- [Students subjectively evaluated the CLOSE checklist and the e-learning very positively](close-elearning-positive-subjective-evaluation.md) — related

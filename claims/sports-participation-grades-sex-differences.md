@@ -16,6 +16,8 @@ sources:
     author: Zhang Yao, Yan Jin, Jin Xiao, Yang Hongying, Zhang Ying, Ma Huijun, Ma Rui
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: zhang-yao-2023-2
     resource: "https://doi.org/10.3390/ijerph20043678"
     title: "Zhang Yao, Yan Jin, Jin Xiao, Yang Hongying, Zhang Ying, Ma Huijun, Ma Rui. (2023). Sports Participation and Academic Performance in Primary School: A Cross-Sectional Study in Chinese Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20043678"
@@ -42,7 +44,7 @@ sources:
 
 Zhang Yao, Yan Jin, Jin Xiao, Yang Hongying, Zhang Ying, Ma Huijun, Ma Rui. (2023). Sports Participation and Academic Performance in Primary School: A Cross-Sectional Study in Chinese Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20043678
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Sex-stratified ordered logistic regressions (Tables 3–5) on the same survey. Boys' ORs reached 1.44 (Chinese), 1.38 (math), 1.52 (English) at 3+ times/week, exceeding girls' corresponding ORs of 1.13, 1.17, 1.14.
 

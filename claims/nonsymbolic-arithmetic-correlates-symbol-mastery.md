@@ -56,3 +56,4 @@ In Experiment 2, verbal number knowledge was assessed by asking which of two ver
 - [Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic](visuo-motor-integration-and-arabic-numerals-predict-arithmetic.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
 - [School-entry assessment of numerosity judgments and Arabic number knowledge may identify children at risk of arithmetic difficulties](school-entry-numerosity-number-knowledge-risk-screening.md) — related
+- [The hypothesized mediation of the IPS-arithmetic association by symbolic number processing was not tested because no IPS-mathematics association was found](ips-mediation-by-symbolic-number-not-conducted.md) — related

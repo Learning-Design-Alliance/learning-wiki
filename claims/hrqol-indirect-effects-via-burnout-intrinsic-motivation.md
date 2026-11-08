@@ -56,3 +56,4 @@ Indirect-effect estimates (Table 4) from the path analysis of 261 nursing studen
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — related
 - [Learning burnout is negatively related to English learning performance](burnout-negatively-related-to-english-performance.md) — related
 - [Stress level negatively affects doctoral students' well-being, and well-being positively affects academic performance, giving stress an indirect negative effect on performance](stress-wellbeing-indirect-performance-effect.md) — related
+- [The hypothesized path model from interpersonal motivation through engagement to performance fits the data well](path-model-fit-interpersonal-motivation-engagement-performance.md) — related

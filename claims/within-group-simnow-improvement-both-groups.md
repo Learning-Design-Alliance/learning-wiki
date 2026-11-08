@@ -48,3 +48,6 @@ Within-group paired t tests in the same RCT (kit group n = 15, control n = 14). 
 - [Low-cost home simulation kits did not significantly improve medical students' Sea Spikes 1 scores on the da Vinci Skills Simulator relative to a no-kit control after two weeks](home-simulation-kit-no-dvss-score-gain.md) — related
 - [Amount of home practice time was not significantly associated with change in dVSS scores](practice-time-not-associated-score-change.md) — related
 - [Two randomized trials of dVSS or dV-Trainer training to proficiency found no significant differences between trained and control groups on operative performance](rcts-no-significant-difference-vr-trained-versus-controls.md) — related
+- [Control group participants were significantly quicker than the test group on the second trial of the Pick and Place dVSS task](control-quicker-second-trial-pick-and-place.md) — related
+- [Prior PoLaRS training produced no significant difference in dVSS post-test performance compared to controls](priors-polars-training-no-dvss-posttest-difference.md) — possibly the same claim (merge candidate)
+- [On the Sea Spikes 1 dVSS task, only the test group showed a significant reduction in instrument collisions across trials](sea-spikes-collision-reduction-test-group-only.md) — related

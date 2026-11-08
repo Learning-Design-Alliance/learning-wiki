@@ -60,3 +60,4 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Students rated the quality of peer feedback given and received highly, with 85–90% assigning scores of 4 or 5 in the first workshop](peer-feedback-quality-rated-high-galenic-pharmacy.md) — related
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
+- [Participants rated the simulation session highly on meeting learner expectations and practical organization (mean 9 of 10, SD 1)](dam-simulation-high-satisfaction-scores.md) — related

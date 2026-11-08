@@ -52,6 +52,8 @@ Because the study observed that resuscitation skills and patient safety attitude
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
 - [Individualize simulation training schedules by profession and skill element rather than applying one fixed interval](individualized-simulation-training-schedules.md)
 - [Reevaluate and shorten the time intervals between pediatric CPR training sessions to optimize retention](shorter-intervals-between-cpr-training-sessions.md)
+- [Adapt simulation session length and content to learner experience level, and emphasize maintenance training for low-frequency procedures](adapt-sim-session-to-experience-and-maintain.md)
+- [Use e-learning as a low-dose, high-frequency skill maintenance tool after an initial blended learning course to counter skill decay](e-learning-low-dose-high-frequency-maintenance-strategy.md)
 
 ## Examples
 -

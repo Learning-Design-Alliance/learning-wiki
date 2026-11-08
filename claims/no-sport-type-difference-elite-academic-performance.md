@@ -48,3 +48,4 @@ Sub-analyses of the 483 elite athletes by sport classification (Table 3: simple 
 - [Young elite athletes attain lower overall academic performance than control students from the same high school on both Baccalaureate GPA and University Entrance Examinations](elite-athletes-lower-academic-performance-than-controls.md) — related
 - [The lower academic performance of elite athletes is confirmed separately for both girls and boys](elite-athlete-academic-gap-both-sexes.md) — related
 - [Elite athletes attain lower grades than controls in all general subjects and in most specific subjects](elite-athletes-lower-grades-most-subjects.md) — related
+- [Elite sports students score higher than general students on novelty seeking, reward dependence, persistence, self-directedness, and self-transcendence](elite-sports-students-higher-tci-scores.md) — related

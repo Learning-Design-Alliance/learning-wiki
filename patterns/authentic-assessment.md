@@ -21,7 +21,7 @@ sources:
 # Authentic Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 32 studies (10 quant-synthesis, 8 causal, 6 review, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 32 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (15 for, 10 mixed, 1 against) · 33 studies (10 quant-synthesis, 8 causal, 6 review, 4 qualitative, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 10 of 33 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -114,6 +114,7 @@ Claims this page cited before the 2026-10-05 rewrite and not used above. Each ke
 
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with](../claims/checklist-evaluation-ineffective-online.md) [~M] — does not bear on this pattern. The earlier page cited it for "mechanical rubric application can substitute compliance for judgment", but the claim is about teaching students a checklist for judging websites in one library session (two quasi-experiments and a think-aloud study), not about rubrics used to assess performance. Kept for the record.
 - [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](../claims/authenticity-through-design-not-detection.md) [+W] — attached 2026-10-12 from Kickbusch et al. (2025), which proposed "AI-as-collaborator assessment patterns requiring critique, adaptation and verification of AI outputs".
+- [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](../claims/pocus-real-practice-competence-satisfactory-overall.md) [+W] — attached 2026-11-07 from Ienghong Kamonwon et al. (2022), which proposed "Assess POCUS trainees in the workplace on real patients in real time, because simulated assessments miss real clinical contexts".
 
 ## Illustrative design instance and observation record
 

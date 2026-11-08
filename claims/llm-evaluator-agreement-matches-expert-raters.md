@@ -82,3 +82,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite
 - [Two expert raters rating CPR cycles alone reached moderate agreement for Cycles 2-4 but poor agreement for Cycle 1, which the authors attribute to inconsistencies in an initial 'practice' cycle.](expert-rater-agreement-cpr-performance-cycles.md) — related
 - [Raters agreed strongly with each other (r = 0.725–0.838) but correlated only moderately with actual difficulty (r = 0.455–0.545)](ugmle-interrater-strong-actual-moderate-correlations.md) — related
+- [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](ai-moderate-agreement-bean-drop-assessment.md) — related

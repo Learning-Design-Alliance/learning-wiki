@@ -17,7 +17,7 @@ sources:
 # Replace massed Halstedian-style training with spaced VR simulator-based psychomotor training for novice doctors
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The review recommends that, given faster skill acquisition under spaced schedules, surgical trainees can reach proficiency in less total time by practising on VR simulators in a safe virtual environment before operating. It states it "would be reasonable to abandon the traditional Halstedian approach and its shortcomings, and instead implement VR simulator-based training using a spaced training schedule". Spaced curricula can be adjusted to individual schedules and learning curves.

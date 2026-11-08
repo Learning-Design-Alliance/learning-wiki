@@ -54,3 +54,4 @@ Randomized controlled curriculum evaluation with 10 teams (28 RCDP, 27 IS partic
 - [No significant differences between RCDP and PSD on time to chest compressions: no interaction or group effects](no-rcdp-psd-difference-primary-outcome.md) — related
 - [The feedback group shows longer hands-off time and total CPR time than the control group in 30:2 cycles](feedback-group-longer-hands-off-time.md) — related
 - [In one uncontrolled pre-post study, adequate pediatric CPR chest-compression technique rose from 26% to 91% among multidisciplinary hospital professionals after RCDP simulation training](rcdp-raises-adequate-pediatric-cpr-technique-26-to-91-percent.md) — related
+- [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related

@@ -72,3 +72,4 @@ Delayed assessment one year after training, in the clinical setting. Table 1 rep
 - [Overall end-of-clerkship performance of fifth-year medical students was significantly higher after simulation-based learning was integrated into the pediatric curriculum](sbl-improves-overall-pediatric-clerkship-performance.md) — related
 - [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related
 - [Standardized patients rate student venipuncture communication skills lower than real patients do](sp-patients-rate-communication-differently.md) — related
+- [Both cohorts showed increased median perceived confidence from pre- to post-intervention, with cohort 2 rising from 61.4 to 89.3](both-cohorts-median-confidence-increase.md) — related

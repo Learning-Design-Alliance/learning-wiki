@@ -49,3 +49,4 @@ Theoretical account in the review: trait constructs (sensation seeking, need for
 - [Situational and individual interest can be interpreted as phases of the same reward-learning knowledge-acquisition process](situational-individual-interest-reward-learning-phases.md) — related
 - [Iterative curiosity–resolution cycles can build knowledge networks and a foundation for individual interest](curiosity-resolution-cycle-individual-interest.md) — a narrower finding that bears on this claim
 - [Trainees identify personal factors — learning habits, personality and interests — as influences on SDL](personal-factors-shape-sdl-trainees.md) — related
+- [Elite sports students score higher than general students on novelty seeking, reward dependence, persistence, self-directedness, and self-transcendence](elite-sports-students-higher-tci-scores.md) — related

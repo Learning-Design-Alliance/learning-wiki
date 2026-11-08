@@ -69,6 +69,8 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
 - [Use clinical simulation scenarios in health institutions to develop and assess nurses' infusion-therapy clinical judgment](encourage-clinical-simulation-infusion-nurse-education.md)
 - [Offer unexpected death simulation training as a regular part of health professional curricula](unexpected-death-simulation-regular-curriculum-strategy.md)
+- [Five improvement recommendations: refined modules, more CPX scenarios, evaluator training, video debriefing, and contingency planning](five-gap-closing-recommendations-clinical-curriculum.md)
+- [Small-group, tutor-led VPS training sessions (5–9 students) as an accessible simulation strategy](small-group-tutor-led-vps-session-strategy.md)
 
 ## Examples
 -

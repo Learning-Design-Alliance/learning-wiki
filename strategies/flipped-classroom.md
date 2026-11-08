@@ -70,6 +70,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
 - [Flipped classroom: pre-class self-paced preparation followed by interactive problem-solving sessions](flipped-classroom-icu-overload-limiting.md)
+- [Deliver tailored written education material by timed email before appointments and reserve appointment time for question-and-answer collaborative learning](timed-email-flipped-classroom-patient-education-strategy.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

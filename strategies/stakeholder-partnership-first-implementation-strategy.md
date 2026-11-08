@@ -54,6 +54,7 @@ The article's concrete recommendation for researchers and practitioners beginnin
 - [Use structured argumentation activities to help teachers new to argumentation start and sustain argumentation in science courses](argumentation-activities-for-teachers-new-to-argumentation.md)
 - [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](ubd-teacher-design-groups-strategy.md)
 - [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
+- [Involve attending physicians in simulation-based training and conduct frequent needs analyses to fit training to local context](involve-attendings-sbt-needs-analyses.md)
 
 ## Examples
 -

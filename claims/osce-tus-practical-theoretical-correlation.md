@@ -16,12 +16,14 @@ sources:
     author: Pietersen Pia Iben, Bhatnagar Rahul, Andreasen Freja, Konge Lars, Laursen Christian Borbjerg, Rahman Najib, Nielsen Anders Bo
     q: 3
     i: 3
+    kind: design
+    rigour: 2
 ---
 
 # Practical and theoretical OSCE scores correlate strongly across experience groups (Pearson's r = 0.755)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · design `r2` · `q3` · `i3` large
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pietersen Pia Iben, Bhatnagar Rahul, Andreasen Freja, Konge Lars, Laursen Christian Borbjerg, Rahman Najib, Nielsen Anders Bo. (2023). Objective structured clinical examination in basic thoracic ultrasound: a European study of validity evidence. BMC Pulmonary Medicine. https://doi.org/10.1186/s12890-022-02285-4
 
-`q3 · i3`
+`q3 · i3` · `design · r2`
 
 Relationship-to-other-variables analysis plotting total practical scores against MCQ scores by study group (Fig. 3). The article reports "Pearson’s correlation coefficient = 0.755, p < 0.001", a strong association (r = 0.755).
 

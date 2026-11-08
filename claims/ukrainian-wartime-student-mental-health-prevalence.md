@@ -56,3 +56,5 @@ Cross-sectional online survey of Ukrainian university students conducted Septemb
 - [Female Ukrainian medical students reported significantly higher anxiety, stress, and PTSD symptoms than male students during the war](gender-disparity-war-mental-health-medical-students.md) — related
 - [44.2% of surveyed Ukrainian medical students reported significant PTSD symptoms, with the highest subscale score on hyperarousal](ptsd-significant-symptoms-medical-students-war.md) — related
 - [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — a narrower finding that bears on this claim
+- [72% of surveyed Chinese college students reported a certain level of general anxiety during first-wave COVID-19 e-learning](72-percent-gad2-anxiety-covid-elearning.md) — related
+- [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related

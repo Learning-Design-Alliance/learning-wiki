@@ -49,6 +49,7 @@ The authors' practice recommendation is for curriculum designers and educators "
 - [Embed the shared competencies into undergraduate and postgraduate interprofessional education curricula](embed-shared-competencies-ipe-curricula.md)
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
 - [Trial a combined debriefing strategy alternating RCDP practice cycles with interval reflective debriefing sessions](rcdp-with-interval-trd-strategy.md)
+- [Small-group, tutor-led VPS training sessions (5–9 students) as an accessible simulation strategy](small-group-tutor-led-vps-session-strategy.md)
 
 ## Examples
 -

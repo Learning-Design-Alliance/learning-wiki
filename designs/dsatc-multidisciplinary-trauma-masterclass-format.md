@@ -17,7 +17,7 @@ sources:
 # Multidisciplinary trauma masterclass combining individual preparation, lectures, small-group case discussions and cadaver and porcine laboratories
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The DSATC course is a three-day multidisciplinary masterclass combining the surgical and anesthetic trauma care courses. It consists of "individual theoretical preparation (DSTC course manual and recommended articles on anesthesiology) followed by three physical course days filled with lectures, small-group case discussions, and case-based hands-on workshops in the anatomy and operative porcine laboratories". In the porcine laboratory, surgical and anesthesia participants, nurses and faculty work at each operating table on simulated trauma cases, with interdisciplinary collaboration and communication integrated into all working formats.

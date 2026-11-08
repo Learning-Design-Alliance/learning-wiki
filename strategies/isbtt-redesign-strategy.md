@@ -52,6 +52,7 @@ The review's conclusions recommend that programs add "learning with, from and ab
 - [Reword learning outcomes with broadly applicable terms ('healthcare seeker', 'health professional') to support interprofessional application](reword-outcomes-with-healthcare-seeker-and-health-professional.md)
 - [Use structured debriefing questions to ensure learning objectives are met regardless of facilitator experience](structured-debriefing-questions-user-friendly-guide.md)
 - [Develop facilitator training, fellowships, and scholarly tracks so all simulation facilitators possess skills in simulation pedagogy](simulation-facilitator-training-strategy-em.md)
+- [Embed curricular support for co- and socially shared regulation: awareness discussions in debriefing and regulation-focused feedback](curriculum-support-crl-ssrl-strategy.md)
 
 ## Examples
 -

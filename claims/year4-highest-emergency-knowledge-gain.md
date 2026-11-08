@@ -49,3 +49,4 @@ Pre/post paired t-tests by school year from the same module (Year 4 N=577, Year 
 - [Dental students' knowledge test scores rose significantly from pre-test to post-test after a role-play simulation-based medical emergency module, in one uncontrolled pre-post study](roleplay-emergency-module-improves-knowledge-scores.md) — a broader claim this one bears on
 - [Score improvement varied by training level: second-year residents improved most while third-year residents scored highest and improved least](training-level-differences-module-gains.md) — related
 - [Knowledge and confidence gains from the e-module are largest for medical students and smallest for residents](e-module-gains-largest-in-students.md) — related
+- [Knowledge improvement varies across course modules, with the largest gains where baseline knowledge was lowest and a ceiling effect for the counselling-role module](cmv-elearning-module-level-knowledge-variation.md) — related

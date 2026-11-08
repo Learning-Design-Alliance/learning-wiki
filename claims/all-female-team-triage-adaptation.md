@@ -16,12 +16,14 @@ sources:
     author: Worabo Heidi J., Salt Rebekah, Grubesic Ruth, Farokhi Moshtagh R.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Students translated a reflected insight into active experimentation by matching female Afghan patients with all-female care teams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Worabo Heidi J., Salt Rebekah, Grubesic Ruth, Farokhi Moshtagh R. (2023). Promoting social justice through experiential learning at an interprofessional refugee clinic. Nurse Education Today, 121, 105699. https://doi.org/10.1016/j.nedt.2022.105699
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The article's descriptive account of abstract conceptualization and active experimentation at the clinic: students observed that with a male present, women "were likely to limit their responses and leave the clinic without their chief complaint being adequately addressed," then changed the triage process. No outcome evaluation of the change is reported.
 

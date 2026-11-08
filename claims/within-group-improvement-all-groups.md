@@ -56,3 +56,4 @@ Within-group Friedman ANOVA comparisons across the three test moments. The contr
 - [Finger tracking with SurgTrac shows construct validity for time, distance and smoothness across four basic open suturing tasks, discriminating novices from experts](surgtrac-finger-tracking-construct-validity-suturing.md) — related
 - [Secondary SurgTrac parameters show mixed construct validity: handedness differs for Tasks 2 and 3 and distance between hands for Task 4, while speed and acceleration do not discriminate](surgtrac-secondary-parameters-mixed-validity.md) — related
 - [Both feedback groups improved significantly from first score to approval score on every laparoscopic exercise](lapp-significant-improvement-first-to-approval-score.md) — related
+- [TEL does not change the speed of timed laparoscopic task performance compared with a standard simulation program](tel-no-difference-task-completion-times.md) — related

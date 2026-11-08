@@ -76,3 +76,4 @@ The review reports Haidet et al.'s controlled trial comparing PBL with slide-and
 - [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](blended-teq-above-program-average.md) — a narrower finding that bears on this claim
 - [Participants rated satisfaction with the e-PBL program content 3.5 out of 5](e-pbl-satisfaction-3-5-of-5.md) — a narrower finding that bears on this claim
 - [Residents who teach acquire the material they teach more effectively than through self-study or lectures](teaching-enhances-residents-own-learning.md) — related
+- [OSCE- and CPX-based teaching and evaluation were successfully installed for traditional medicine education with high student satisfaction](osce-cpx-installed-high-satisfaction-traditional-medicine.md) — related

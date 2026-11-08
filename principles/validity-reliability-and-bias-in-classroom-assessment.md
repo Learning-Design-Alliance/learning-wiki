@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 421 claims (195 for, 198 mixed, 28 against) · 317 studies (101 associational, 75 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 317 report an effect size · 414 claims rest on one study
+> **Evidence** · 424 claims (198 for, 198 mixed, 28 against) · 318 studies (102 associational, 75 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 318 report an effect size · 417 claims rest on one study
 
 ## Conditional relationship
 
@@ -265,6 +265,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [The assessment showed high inter-station reliability and acceptable inter-rater reliability, but 14 stations would be required for absolute (Phi ≥ 0.8) reliability](../claims/sim-assessment-reliability-alpha-icc-generalizability.md) [~W] — attached 2026-11-07 from Toale Conor et al. (2024), which proposed "Simulation-based assessment can provide validity evidence to inform operative competence decisions within competency-based surgical curricula"; tests this page's relationship.
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](../claims/three-vs-five-option-mcq-comparable-reliability.md) [~W] — attached 2026-11-07 from Al-lawama Manar (2023), which proposed "Adopt three-option MCQs after a school-specific review of item quality and distractor functioning"; tests this page's relationship.
 - [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](../claims/strict-cfa-acceptable-fit.md) [+W] — attached 2026-11-07 from Huang Pin-Hsiang et al. (2023), which proposed "Use frequency anchors rather than agreement anchors in teaching-rating scales to reduce acquiescence and social desirability bias".
+- [School VA mathematics scores show only moderate stability over two years in primary school (r = .34)](../claims/va-math-school-scores-moderate-two-year-stability.md) [+W] — attached 2026-11-07 from Emslander et al. (2022), which proposed "Restrict school VA scores to informative purposes rather than high-stakes decisions when stability is limited"; tests this page's relationship.
+- [School VA language scores show only moderate stability over two years (r = .37)](../claims/va-language-school-scores-moderate-two-year-stability.md) [+W] — attached 2026-11-07 from Emslander et al. (2022), which proposed "Restrict school VA scores to informative purposes rather than high-stakes decisions when stability is limited"; tests this page's relationship.
+- [Only about one third of primary schools kept a stable VA rank quartile over two years](../claims/only-one-third-schools-stable-va-quartile.md) [+W] — attached 2026-11-07 from Emslander et al. (2022), which proposed "Restrict school VA scores to informative purposes rather than high-stakes decisions when stability is limited"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

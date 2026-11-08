@@ -53,3 +53,4 @@ Self-assessment survey (5-point Likert, dichotomized) administered after the cou
 - [First trimester ultrasound showed the least improvement in competency while cardiac and lung applications improved most consistently](first-trimester-least-competency-improvement.md) — related
 - [Hands-on lung POCUS proficiency improved from a pre-course median score of 0% to a post-course median of 67%](lus-hands-on-proficiency-gain.md) — related
 - [Students rate the HMD-based course's learning experience comparable to tutor-led and significantly better than e-learning](hmd-learning-experience-better-than-elearning.md) — related
+- [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](pocus-real-practice-competence-satisfactory-overall.md) — related

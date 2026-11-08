@@ -50,3 +50,4 @@ Cross-cohort comparison with the authors' prior medical-student study using the 
 - [After brief cadaver simulation training, most PA students successfully complete an ultrasound-guided cyst drainage skills test, averaging 1.9 needle sticks and 143 seconds](pa-skills-test-performance-cyst-drainage.md) — related
 - [Prior ultrasound or clinical exposure eases acquisition of ultrasound-guided procedural skills for PA students](prior-us-exposure-eases-skill-acquisition.md) — related
 - [Instructor type (medical student, clinical anatomist, or emergency medicine physician) did not significantly affect procedure time, attempts, performance scores, or self-confidence](instructor-type-no-effect-on-outcomes.md) — related
+- [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related

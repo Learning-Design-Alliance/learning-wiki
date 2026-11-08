@@ -50,3 +50,4 @@ Retrospective analysis of all last-Baccalaureate students of the Spanish Elite S
 - [Academic performance of elite athletes does not differ by type of sport across multiple sport classifications](no-sport-type-difference-elite-academic-performance.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [Psychological skill training is suggested by preliminary evidence as a possible way to improve academic performance in young athletes, but more evidence is needed](psychological-skill-training-young-athletes-preliminary.md) — related
+- [Elite sports students score higher than general students on novelty seeking, reward dependence, persistence, self-directedness, and self-transcendence](elite-sports-students-higher-tci-scores.md) — related

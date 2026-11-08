@@ -47,6 +47,7 @@ The review recommends close collaboration between nurse educators and technology
 ## Related Strategies
 
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
+- [Adapt GOSCE case scenarios to the specific sensory, cultural, and individual challenges of the target recruitment population](gosce-case-adaptation-strategy.md)
 
 ## Examples
 -

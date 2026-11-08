@@ -55,3 +55,5 @@ Inductive thematic analysis of free-text post-simulation questionnaire responses
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
+- [International SBL trainers perceive their primary role as facilitators and consider structuring sessions, facilitating group learning, and stimulating reflection crucial themes](sbl-trainers-perceive-facilitator-role-three-themes.md) — related
+- [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related

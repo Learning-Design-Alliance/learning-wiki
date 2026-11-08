@@ -53,3 +53,4 @@ Three hierarchical regression analyses were performed on Experiment 2 data. In m
 - [Kindergarten children's non-symbolic addition performance correlates with end-of-year mathematics achievement, independent of literacy (Experiment 1)](nonsymbolic-addition-predicts-kindergarten-math-exp1.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — a broader claim this one bears on
 - [Non-verbal test materials add little to predicting achievement beyond verbal tests and mental age](non-verbal-tests-add-little.md) — related
+- [The hypothesized mediation of the IPS-arithmetic association by symbolic number processing was not tested because no IPS-mathematics association was found](ips-mediation-by-symbolic-number-not-conducted.md) — related

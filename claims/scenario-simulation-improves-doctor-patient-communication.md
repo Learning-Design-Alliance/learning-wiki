@@ -66,3 +66,4 @@ The review attributes this to Lin-na et al. (2023), a quasi-experimental study o
 - [The intervention group receiving lecture plus clinical simulation showed greater cognitive-performance improvement (67.8%) than the control group receiving lecture plus routine training (57.4%), a statistically significant intergroup difference](pph-simulation-outperforms-lecture-intergroup.md) — related
 - [A larger share of the combined-method group reported improved doctor–patient communication skills (82.69% vs 56.86%)](cbl-clinical-pathway-communication-skills-improved.md) — related
 - [TMTD produces greater improvement in self-efficacy than the regular lecture method in MS patients](tmtd-superior-to-lecture-for-ms-self-efficacy.md) — a narrower finding that bears on this claim
+- Self-reported improvement in doctor-patient communication after simulation training was limited, with half the students reporting no increase — related

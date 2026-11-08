@@ -16,12 +16,14 @@ sources:
     author: Krumm Ilana Roberts MD, Miles Matthew C. MD, MEd, FCCP, Clay Alison MD, Carlos II W. Graham MD, Adamson Rosemary MBBS
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A conversational, first-person script style increases engagement and attention compared with a formal presentation style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Krumm Ilana Roberts MD, Miles Matthew C. MD, MEd, FCCP, Clay Alison MD, Carlos II W. Graham MD, Adamson Rosemary MBBS. (2021). Making Effective Educational Videos for Clinical Teaching. Chest. https://doi.org/10.1016/j.chest.2021.09.015
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article reports that "a conversational tone and informal communication style, using the first-person perspective, results in increased engagement and attention when compared with a more formal presentation style," recommending reading scripts aloud before recording.
 

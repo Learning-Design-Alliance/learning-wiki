@@ -74,6 +74,7 @@ The micro flipped approach combines first exposure outside class with active lea
 - [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
 - [Deliver suturing instruction through self-directed video courses with the teacher limited to supervision, requiring no faculty guidance](supervision-only-video-based-suture-course.md)
 - [Use short online game-based learning with natural frequencies and immediate feedback to teach diagnostic test interpretation](gbl-natural-frequencies-diagnosis-strategy.md)
+- [Deliver tailored written education material by timed email before appointments and reserve appointment time for question-and-answer collaborative learning](timed-email-flipped-classroom-patient-education-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.

@@ -16,12 +16,14 @@ sources:
     author: "Stenseng, F., Tingstad, E. B., Wichstrøm, L., & Skalicka, V."
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Among boys, greater social withdrawal at age 10 predicts lower academic achievement at age 12
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Stenseng, F., Tingstad, E. B., Wichstrøm, L., & Skalicka, V. (2022). Social withdrawal and academic achievement, intertwined over years? Bidirectional effects from primary to upper secondary school. British Journal of Educational Psychology, 92, 1354–1365. https://doi.org/10.1111/bjep.12504
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Within-person paths from the RI-CLPM of teacher-rated social withdrawal and academic achievement in the TESS community sample. The article reports that "more SW at age 10 predicted decreased AA from age 10 to age 12 (β = −.19, p = .003)" among boys.
 

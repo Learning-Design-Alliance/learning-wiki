@@ -49,3 +49,4 @@ Image quality assessment using an adapted validated scoring tool applied to fell
 - [Tutored residents obtain higher-quality echocardiographic images and more interpretable cardiac findings, with no significant difference for lung ultrasound](tutoring-improves-echocardiography-image-quality-not-lung.md) — related
 - [Real-time AI guidance improved novices' acquisition of the Apical-4-chamber and Apical-5-chamber views after a short cardiac ultrasound course](ai-guidance-improved-a4c-a5c-views.md) — related
 - [Real-time AI guidance did not significantly improve the overall Cardiac US Score in novices after a short cardiac ultrasound course](ai-guidance-no-overall-cardiac-us-score-gain.md) — related
+- [Cardiac ultrasound showed the most variable image acquisition quality, with scores ranging from 1 to 5](cardiac-pocus-image-quality-most-varied.md) — related

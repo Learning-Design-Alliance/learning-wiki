@@ -62,3 +62,4 @@ Final multiple regression analyses (Table 6) entered all ten neuropsychological 
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
 - [Working-memory task type moderates MLD deficits: processing speed and updating yield larger effects than inhibition, independent of numerical content](wm-task-type-moderates-mld-deficit.md) — related
 - [Students with LD show higher verbal skills, processing speed and counting skills than students with MID, but the groups do not differ in working memory, phonological short-term memory or knowledge of properties of operations](ld-mid-cognitive-profile-differences.md) — related
+- [Time perception and working memory deficits predict word reading and numeration across time, more strongly than other neuropsychological constructs](time-perception-working-memory-predict-academics.md) — related

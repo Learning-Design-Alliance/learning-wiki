@@ -63,3 +63,4 @@ Qualitative thematic finding from five focus group discussions with 40 nursing s
 - [Microteaching gives ACP facilitator trainees a feeling of self-efficacy through successful repetition, according to the authors' course experience](microteaching-self-efficacy-successful-repetition.md) — a narrower finding that bears on this claim
 - [Simulated high-stakes scenarios with moulage shifted students into observational roles, revealing affective-domain barriers](moulage-scenarios-affective-domain-observational-roles.md) — related
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
+- [Simulation increased participants' self-efficacy in overdose response and was experienced as positive, confidence-building and identity affirming](simulation-self-efficacy-overdose-bystanders.md) — a narrower finding that bears on this claim

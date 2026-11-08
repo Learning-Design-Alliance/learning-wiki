@@ -144,3 +144,4 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related
 - [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — a narrower finding that bears on this claim
 - [Higher interactivity in educational videos is associated with more time on-task and improved knowledge outcomes, but excessive interaction demands degrade learning](video-interactivity-time-on-task-mixed.md) — a narrower finding that bears on this claim
+- [Flipped learning using pre-session video is effective, but students report the pre-session video volume can cause cognitive overload](flipped-learning-video-overload-caution.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Post-program satisfaction questionnaire (N = 71, five-point scale) covering desi
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
 - [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related
 - [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related
+- [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related

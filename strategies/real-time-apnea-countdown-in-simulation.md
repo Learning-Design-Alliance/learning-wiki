@@ -47,7 +47,8 @@ The intervention adds focused training on non-hypoxic apnea duration plus a visi
 - [Satisfaction gains concentrate in theoretical understanding, difficult airway management confidence and clinical decision-making](../claims/apnea-duration-satisfaction-domain-gains.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use continuous, comprehensive simulation-based airway management training alongside clinical practice to potentially reduce the clinical caseload needed for intubation proficiency](simulation-based-airway-training-reduce-caseload.md)
 
 ## Examples
 -

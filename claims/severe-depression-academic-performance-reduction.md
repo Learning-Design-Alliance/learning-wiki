@@ -50,3 +50,4 @@ Linear least-squares regression on survey responses from 1,398 students, depende
 - [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related
 - [A higher share of study hours missed because of mental health problems was associated with lower academic performance](absenteeism-mental-health-academic-decrease.md) — related
 - [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — related
+- [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related

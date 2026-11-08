@@ -56,3 +56,4 @@ Paired-sample t-tests on the 225 children's Dot Task accuracy showed a significa
 - [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
 - [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related
+- [The BIAT experimental effect was induced: reaction times and error rates were higher in the doping-like (incongruent) block than the doping-dislike block](biat-doping-like-block-slower-more-errors.md) — a narrower finding that bears on this claim

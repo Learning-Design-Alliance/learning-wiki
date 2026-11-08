@@ -24,6 +24,8 @@ sources:
     author: Lin Galvin Sim Siang, Tan Wen-Wu, Tan Hung-Jia, Khoo Chia-Wee, Afrashtehfar Kelvin I.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact
@@ -52,7 +54,7 @@ Non-randomized controlled study (Deshpande et al., 60 second-year undergraduate 
 
 Lin Galvin Sim Siang, Tan Wen-Wu, Tan Hung-Jia, Khoo Chia-Wee, Afrashtehfar Kelvin I. (2023). Innovative Pedagogical Strategies in Health Professions Education: Active Learning in Dental Materials Science. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20032041
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Historically controlled non-randomized study (Barbour et al., 142 second-year undergraduate students per Table 2) of an eVoting audience-response system in an undergraduate dental materials science course; no significant exam impact, equivalence not tested, no effect size printed.
 

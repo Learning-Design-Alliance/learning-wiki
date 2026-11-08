@@ -52,3 +52,4 @@ Single-group pretest/posttest quasi-experiment with 60 new graduate paediatric s
 - [Within the intervention group, self-efficacy scores improved significantly from pre-test to post-test after screen-based simulation](screen-simulation-within-group-self-efficacy-gain.md) — related
 - [Nurses who completed a tailored 72-hour training program scored significantly higher on overall clinical performance than untrained nurses in cardiac surgery wards](tailored-training-higher-nurse-clinical-performance.md) — related
 - [Total knowledge-plus-performance scores rose significantly over time in all three groups, with between-group total-score differences significant at one and six weeks post-intervention](total-score-gains-all-groups-between-group-differences-post-intervention.md) — related
+- Competence-oriented simulated teaching raised CIRN postcompetency scores more than traditional training at 4 and 8 weeks — related

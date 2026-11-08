@@ -16,6 +16,8 @@ sources:
     author: Carpentier Philippe, Morneau-Vaillancourt Geneviève, Aubé Sophie, Matte-Gagné Célia, Denault Anne-Sophie, Brendgen Mara, Larose Simon, Petitclerc Amélie, Ouellet-Morin Isabelle, Carbonneau René, Feng Bei, Séguin Jean, Côté Sylvana, Vitaro Frank, Tremblay Richard E., Dionne Ginette, Boivin Michel
     q: 2
     i: 3
+    kind: associational
+    rigour: 3
   - id: carpentier-philippe-2022-2
     resource: "https://doi.org/10.1371/journal.pone.0276532"
     title: "Carpentier Philippe, Morneau-Vaillancourt Geneviève, Aubé Sophie, Matte-Gagné Célia, Denault Anne-Sophie, Brendgen Mara, Larose Simon, Petitclerc Amélie, Ouellet-Morin Isabelle, Carbonneau René, Feng Bei, Séguin Jean, Côté Sylvana, Vitaro Frank, Tremblay Richard E., Dionne Ginette, Boivin Michel. (2022). A sequential model of the contribution of preschool fluid and crystallized cognitive abilities to later school achievement. PLOS ONE. https://doi.org/10.1371/journal.pone.0276532"
@@ -42,7 +44,7 @@ sources:
 
 Carpentier Philippe, Morneau-Vaillancourt Geneviève, Aubé Sophie, Matte-Gagné Célia, Denault Anne-Sophie, Brendgen Mara, Larose Simon, Petitclerc Amélie, Ouellet-Morin Isabelle, Carbonneau René, Feng Bei, Séguin Jean, Côté Sylvana, Vitaro Frank, Tremblay Richard E., Dionne Ginette, Boivin Michel. (2022). A sequential model of the contribution of preschool fluid and crystallized cognitive abilities to later school achievement. PLOS ONE. https://doi.org/10.1371/journal.pone.0276532
 
-`q2 · i3`
+`q2 · i3` · `associational · r3`
 
 Path analysis of the QNTS twin sample (n = 1072 assessed at 63 months), controlling for maternal education, income and sex, with teacher-rated achievement in grades 1–6. The latent crystallized factor was "the strongest predictors of school achievement in grade 1 (β = .64, p < .001)".
 

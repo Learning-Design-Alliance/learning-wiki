@@ -16,12 +16,14 @@ sources:
     author: Paech Daniel, Lehnen Nils, Lakghomi Asadeh, Schievelkamp Arndt, Gronemann Christian, Bode Felix J., Radbruch Alexander, Dorn Franziska
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Trainees rate simulator-based virtual thrombectomy training as highly beneficial for learning mechanical thrombectomy and for building confidence before treating patients
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Paech Daniel, Lehnen Nils, Lakghomi Asadeh, Schievelkamp Arndt, Gronemann Christian, Bode Felix J., Radbruch Alexander, Dorn Franziska. (2022). School of Thrombectomy—A 3-Step Approach to Perform Acute Stroke Treatment with Simulator Training and Virtual Supervision by Remote Streaming Support (RESS). Clinical Neuroradiology. https://doi.org/10.1007/s00062-022-01242-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Questionnaire study (results section): five trainees who completed the 3-step curriculum retrospectively rated step-1 simulator training on an 11-item 5-point Likert questionnaire, visualized as scatter plots with median and mean ± std. The trainees "reported an important confidence gain of simulated MT training as preparation for thrombectomies in real patients (mean 4.40 ± 0.49, median 4)". No effect size is printed.
 

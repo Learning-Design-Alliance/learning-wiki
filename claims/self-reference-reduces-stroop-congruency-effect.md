@@ -52,3 +52,4 @@ Behavioral results of the modified Stroop experiment with 33 participants in a b
 - [Self-referential stimuli elicit smaller N2 amplitude, indicating reduced top-down cognitive resource consumption in early processing](self-reference-smaller-n2-amplitude.md) — related
 - [Self-referential information is reliably decodable from ERP signals in the early-to-mid stage after stimulus onset](mvpa-early-decoding-self-referential-information.md) — related
 - [Self-reference conditions decode congruency conflict earlier than non-self-reference conditions in ERP MVPA](mvpa-earlier-conflict-decoding-self-reference.md) — related
+- [The BIAT experimental effect was induced: reaction times and error rates were higher in the doping-like (incongruent) block than the doping-dislike block](biat-doping-like-block-slower-more-errors.md) — a narrower finding that bears on this claim

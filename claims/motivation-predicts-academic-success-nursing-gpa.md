@@ -57,3 +57,4 @@ Direct-path coefficients (Table 4, paths c1–c3) from the path analysis of 261 
 - [Amotivation correlates positively with burnout exhaustion and cynicism and negatively with intrinsic motivation in primary students](amotivation-correlates-burnout-intrinsic-motivation.md) — related
 - [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — reports the opposite
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — related
+- [Personal standard, organization, doubts about action, and motive for success are positively associated with GPA, with motive for success mediating the personal-standard and doubts-about-action effects](perfectionism-gpa-mediation.md) — related

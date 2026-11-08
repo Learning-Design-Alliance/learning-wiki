@@ -48,3 +48,4 @@ Prospective observational QI study of all 12,678 analyzed births at Haydom Luthe
 - [Use of stimulation, suction, and bag-mask ventilation increased from baseline to the intervention period and decreased afterward](resuscitation-interventions-increased-during-campaign.md) — related
 - [Median time from birth to first ventilation decreased from 101 to 55 seconds during the intervention, then increased to 67 and 85 seconds in the postintervention years](time-to-first-ventilation-halved-during-campaign.md) — related
 - [Perinatal mortality showed no statistically significant change for all births, and the mortality reduction among ventilated newborns lost significance after adjustment](perinatal-mortality-no-significant-change-all-births.md) — related
+- [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related

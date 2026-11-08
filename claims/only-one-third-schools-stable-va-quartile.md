@@ -17,12 +17,14 @@ sources:
     author: Emslander, Levy, Scherer, Fischbach
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Only about one third of primary schools kept a stable VA rank quartile over two years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Emslander, Levy, Scherer, Fischbach. (2022). Value-added scores show limited stability over time in primary school. PLoS One. https://doi.org/10.1371/journal.pone.0279255
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Quartile-transition analysis (Fig 3) of the same VA scores, classifying schools into four effectiveness levels. For mathematics, "54 out of 151 schools had the same rank in both 2017 and 2019"; for language, 63 of 151 were stable, with most schools changing rank.
 

@@ -51,3 +51,4 @@ Behavioural process measure from the between-subjects experiment: log counts of 
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
 - [Strategy guidance yields better immediate recall and comprehension and higher efficiency than continuous presentation without learner control](strategy-guidance-beats-continuous-presentation-immediate.md) — related
+- [Learner control over video playback (pause and rewind) allows students to manage the intrinsic cognitive load of a task](video-playback-control-manages-intrinsic-load.md) — related

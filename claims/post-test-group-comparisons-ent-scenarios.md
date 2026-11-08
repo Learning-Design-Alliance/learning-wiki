@@ -24,12 +24,16 @@ sources:
     author: MK Goutham, Saldanha Marina, Bhat Vadisha S., A Rajeshwary, Vincent Mark Jittu, Ravikumar Aishwarya
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: mk-goutham-2023-3
     resource: "https://doi.org/10.1016/j.bjorl.2022.01.001"
     title: "MK Goutham, Saldanha Marina, Bhat Vadisha S., A Rajeshwary, Vincent Mark Jittu, Ravikumar Aishwarya. (2023). Simulation-based training in ear, nose and throat skills and emergencies. Brazilian Journal of Otorhinolaryngology. https://doi.org/10.1016/j.bjorl.2022.01.001"
     author: MK Goutham, Saldanha Marina, Bhat Vadisha S., A Rajeshwary, Vincent Mark Jittu, Ravikumar Aishwarya
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Between-group post-test knowledge differences favour the simulation-trained group for epistaxis and tracheostomy care but not nasogastric tube care
@@ -59,7 +63,7 @@ One-way ANOVA with post-hoc Tukey test comparing post-test epistaxis scores acro
 
 MK Goutham, Saldanha Marina, Bhat Vadisha S., A Rajeshwary, Vincent Mark Jittu, Ravikumar Aishwarya. (2023). Simulation-based training in ear, nose and throat skills and emergencies. Brazilian Journal of Otorhinolaryngology. https://doi.org/10.1016/j.bjorl.2022.01.001
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 One-way ANOVA and post-hoc Tukey comparison of post-test tracheostomy tube care scores across the three groups; Table 2 shows Tukey significance for Group A versus Group B (p = 0.005) and Group A versus Group C (p = 0.006).
 
@@ -69,7 +73,7 @@ One-way ANOVA and post-hoc Tukey comparison of post-test tracheostomy tube care 
 
 MK Goutham, Saldanha Marina, Bhat Vadisha S., A Rajeshwary, Vincent Mark Jittu, Ravikumar Aishwarya. (2023). Simulation-based training in ear, nose and throat skills and emergencies. Brazilian Journal of Otorhinolaryngology. https://doi.org/10.1016/j.bjorl.2022.01.001
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 One-way ANOVA of post-test nasogastric tube care scores across the three groups (Table 2 prints p = 0.274 with all Tukey contrasts non-significant); the article reports no statistically significant difference.
 

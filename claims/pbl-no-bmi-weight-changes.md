@@ -24,6 +24,8 @@ sources:
     author: Andreae Christina, Tingström Pia, Nilsson Staffan, Jaarsma Tiny, Karlsson Nadine, Kärner Köhler Anita
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # PBL produced no significant changes in BMI or weight over 5 years; only the control group's weight rose significantly at 1 year
@@ -52,7 +54,7 @@ Mixed-model analysis of BMI in the COR-PRIM randomised trial over baseline, 1, 3
 
 Andreae Christina, Tingström Pia, Nilsson Staffan, Jaarsma Tiny, Karlsson Nadine, Kärner Köhler Anita. (2023). Does problem-based learning improve patient empowerment and cardiac risk factors in patients with coronary heart disease in a Swedish primary care setting? A long-term prospective, randomised, parallel single randomised trial (COR-PRIM). BMJ Open. https://doi.org/10.1136/bmjopen-2022-065230
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Stratified mixed-model analysis of weight after a significant time × group interaction (p=0.047). The PBL group was unchanged; the control group's weight rose significantly at 1 year.
 

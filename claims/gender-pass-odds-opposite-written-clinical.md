@@ -53,3 +53,4 @@ Multivariate logistic regression of UKMED first-attempt outcomes for all candida
 - [UK graduates from more socioeconomically deprived backgrounds are less likely to pass written, but not clinical, postgraduate examinations at first attempt](ukg-deprivation-lower-written-pass-odds.md) — related
 - [International medical graduates are far less likely than UK graduates to pass UK postgraduate medical written and clinical examinations at first attempt after adjustment](img-less-likely-pass-postgraduate-exams-first-attempt.md) — related
 - [Prior academic attainment predicts success at postgraduate medical written and clinical examinations](prior-attainment-predicts-postgraduate-exam-success.md) — related
+- [Being male is an independent predictor of passing MRCS Part A at the first attempt after adjusting for prior academic attainment and all sociodemographic factors (OR 2.34)](male-independent-predictor-mrcs-part-a.md) — related

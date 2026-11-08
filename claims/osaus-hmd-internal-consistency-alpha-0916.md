@@ -49,3 +49,4 @@ Psychometric analysis of 225 ratings (45 videos * 5 assessors) of videorecorded 
 - [OSAUS scale shows strong inter-rater reliability (ICC 0.720) for assessing ultrasound HMD competence](osaus-hmd-inter-rater-reliability-icc-0720.md) — related
 - [OSAUS scores correlate strongly with a Global Rating Scale (r = 0.970) for ultrasound HMD performance](osaus-grs-convergent-validity-r-0970.md) — related
 - [Novices unexpectedly scored higher than experts on OSAUS for HMD measurement in a simulated setting](osaus-novice-higher-than-expert-scores.md) — related
+- [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related

@@ -84,6 +84,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Integrate simulation-based ultrasound training into peer-teaching programs rather than treating them as rivals](integrate-simut-into-peer-teaching-programs.md)
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
 - [Apply e-learning alongside in-person instruction as a complementary learning opportunity, especially for practical and clinical courses](combine-e-learning-with-in-person-for-practical-skills.md)
+- [Adopt blended learning combining e-learning with traditional classrooms for medical education amid crises](blended-learning-medical-education-crisis-strategy.md)
 
 ## Examples
 -

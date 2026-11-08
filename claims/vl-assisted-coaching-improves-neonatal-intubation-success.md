@@ -91,3 +91,4 @@ RCT randomising 49 neonatal learners with under one year of intubation experienc
 - [Instructor assessment found similar screening technique across groups except that the test group more often provided instructions and screened according to protocol](hss-instructor-technique-assessment.md) — related
 - [The first attempt success benefit of just-in-time coaching was significant among residents but not among fellows or student registered nurse anesthetists](jit-coaching-resident-subgroup-benefit.md) — related
 - [Trainee autonomy scores did not significantly change from pre-test to post-test in one uncontrolled pre-post study of structured video-assisted coaching during the short course timeframe](coaching-no-autonomy-improvement.md) — related
+- [Video laryngoscope use is associated with higher first attempt success than direct laryngoscope among EM trainees](video-laryngoscope-higher-fas-than-direct.md) — related

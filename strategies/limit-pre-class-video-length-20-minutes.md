@@ -52,6 +52,7 @@ The article reports that pre-class videos "cannot be too long and should be rest
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 - [Post pre-class online review materials for forgotten prerequisite knowledge (e.g., neuroanatomy) to free class time](preclass-online-review-of-prerequisite-knowledge.md)
 - [Invest in high-quality prescripted vodcasts and consider combining vodcasts with live teaching (e.g., flipped classroom)](high-quality-vodcasts-flipped-combination.md)
+- [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
 
 ## Examples
 -

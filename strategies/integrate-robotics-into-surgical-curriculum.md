@@ -55,6 +55,7 @@ The authors recommend establishing robotic techniques in students' education bec
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Structured cross-platform training curriculum combining generalised exposure and platform-specific proficiency](cross-platform-training-curriculum-robotic-surgery.md)
 - [Start robotic surgery training early, at the beginning of residency programs, capitalising on young adults' precision](start-robotic-training-at-residency-start.md)
+- [Integrate surgical simulator training into the undergraduate medical curriculum before residency](integrate-surgical-simulation-before-residency.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ Review synthesis of seven studies evaluating motivational variables among medica
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — reports the opposite
 - [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — related
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — a narrower finding that bears on this claim
+- [Intrinsic motivation correlates positively with both conscientiousness and exam score, while extrinsic motivation correlates negatively with conscientiousness and shows no significant relationship with score](intrinsic-motivation-positive-extrinsic-null-with-exam-score.md) — related

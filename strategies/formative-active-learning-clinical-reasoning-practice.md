@@ -44,7 +44,8 @@ The authors recommend that medical educators "incorporate formative active learn
 - [Co-learning with peers in TBL helps students identify knowledge gaps and practise establishing consensus](../claims/co-learning-peers-knowledge-gaps-consensus.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate TBL, or increase its percentage, in the undergraduate medical curriculum](increase-tbl-percentage-medical-curriculum.md)
 
 ## Examples
 -

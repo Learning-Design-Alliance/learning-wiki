@@ -44,7 +44,8 @@ The article's pilot curriculum indicates that a didactics-simulation model with 
 - [A single spaced-repetition simulation session one month after the washout reduces rTEE skill decay from 41% to 19%, though scores do not return to baseline](../claims/spaced-repetition-reduces-rtee-decay.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use e-learning as a low-dose, high-frequency skill maintenance tool after an initial blended learning course to counter skill decay](e-learning-low-dose-high-frequency-maintenance-strategy.md)
 
 ## Examples
 -

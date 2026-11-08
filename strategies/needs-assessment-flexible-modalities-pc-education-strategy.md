@@ -52,6 +52,7 @@ The article recommends designing education from identified practice gaps and lea
 - [Individualized SMART learning plans and skill acquisition plans for clinical ultrasound training](smart-learning-plans-ultrasound-skills.md)
 - [Involve physicians with palliative medicine expertise in perioperative care and determine treatment limitations beforehand through structured advance care planning](palliative-expertise-perioperative-involvement-strategy.md)
 - [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
+- [Involve attending physicians in simulation-based training and conduct frequent needs analyses to fit training to local context](involve-attendings-sbt-needs-analyses.md)
 
 ## Examples
 -

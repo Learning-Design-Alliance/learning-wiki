@@ -53,6 +53,7 @@ The article recommends action at programme, individual and organizational levels
 
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 - [Train the trainers in learning-promoting feedback approaches, supported by quality circle meetings sharing standards of good outpatient care](trainer-training-learning-focused-feedback-culture.md)
+- [Trainer-of-trainees scale-up strategy combining Moyo device rollout with HBB simulation training](tot-moyo-hbb-scaleup-strategy.md)
 
 ## Examples
 -

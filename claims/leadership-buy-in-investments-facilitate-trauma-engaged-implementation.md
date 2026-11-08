@@ -99,3 +99,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Connectedness with stakeholders acts as a catalyst enabling the factors that sustain teacher motivation](connectedness-catalyst-sustaining-teacher-motivation.md) — related
 - [Institutional interventions to promote psychological safety competencies are rated as barely implemented yet highly significant](institutional-interventions-low-implementation-high-significance.md) — related
 - [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related
+- [Involvement of stakeholders nationally enhanced programme acceptance, clinician buy-in and funding sustainability](stakeholder-involvement-buy-in-sustainability.md) — related

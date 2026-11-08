@@ -55,3 +55,4 @@ Binary logistic regression models (general and specific) estimated on the 108-wo
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
 - [High GPA is positively associated with prior online-learning experience, autonomy, competence, and intrinsic motivation, and negatively with amotivation](logistic-regression-gpa-predictors.md) — related
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — related
+- [The two enrolment generations differed only in motivation, with higher intrinsic motivation in the 2011/2012 generation (OR=1.47)](generations-differed-only-in-intrinsic-motivation.md) — related

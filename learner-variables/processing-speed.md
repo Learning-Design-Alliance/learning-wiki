@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (50 show a difference, 26 mixed, 10 no difference) · 62 studies (26 causal, 22 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 62 report an effect size · 86 claims rest on one study
+> **Evidence** · 88 claims (50 show a difference, 26 mixed, 12 no difference) · 64 studies (28 causal, 22 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 64 report an effect size · 88 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -122,6 +122,8 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Cognitive activity training significantly improved reading speed in refugee children while controls showed no change](../claims/cat-improves-reading-speed.md) [+M] — measured as an outcome of the instruction studied
 - [Processing speed does not significantly mediate the association between socioeconomic status and educational achievement](../claims/processing-speed-not-mediator-ses-achievement.md) [-W] — learners who differ on it differ in outcomes
 - [Grade averages show no statistically significant relationship with Stroop reaction times or time-limit exceedances](../claims/grade-average-stroop-reaction-time-null.md) [-W] — learners who differ on it differ in outcomes
+- [A 12-week school-based PA and MMNS intervention showed no significant group × time effects on Flanker-task reaction time or accuracy in South African primary schoolchildren](../claims/pa-mmns-intervention-no-cognitive-gains-south-africa.md) [-M] — measured as an outcome of the instruction studied
+- [Stroop reaction time decreased in both groups across all three phases, with no difference between standing desk and control classes](../claims/stroop-reaction-time-time-effect-no-group-difference.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

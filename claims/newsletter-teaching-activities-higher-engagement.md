@@ -65,3 +65,4 @@ The author's observational comparison of content types across newsletter issues 
 
 ## Related Claims
 - [Dissemination data from the author's resources show approximately 15,000 monthly website visitors, at least 250,000 practice-guide downloads, and a newsletter with nearly 18,000 subscribers and a 50% open rate](retrievalpractice-org-dissemination-metrics.md) — related
+- [A flipped-classroom email program achieved high patient engagement, with 77.1% of emails opened and education material accessed 4.6 times on average](flipped-classroom-patient-education-high-engagement.md) — related

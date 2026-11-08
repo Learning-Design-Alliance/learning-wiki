@@ -17,12 +17,14 @@ sources:
     author: Emslander, Levy, Scherer, Fischbach
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # School VA language scores show only moderate stability over two years (r = .37)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Emslander, Levy, Scherer, Fischbach. (2022). Value-added scores show limited stability over time in primary school. PLoS One. https://doi.org/10.1371/journal.pone.0279255
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Same longitudinal VA analysis as the mathematics result, with language achievement (listening and reading comprehension in German) as the outcome domain. The study reports language VA scores "showed a correlation of r = .37" between 2017 and 2019, which the authors classify as moderate and insufficient for high-stakes use.
 

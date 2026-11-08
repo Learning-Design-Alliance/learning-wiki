@@ -49,3 +49,4 @@ Qualitative thematic analysis of focus groups and individual interviews with 16 
 - [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related
 - [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related
 - [Students want peer-teacher training to include evidence-based educational theory and contextualized practical teaching experience with feedback](desired-training-content-theory-practice-feedback.md) — related
+- [Formal training in delivering peer feedback is rare among interprofessional trauma simulation learners](peer-feedback-training-rare.md) — a narrower finding that bears on this claim

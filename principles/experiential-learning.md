@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (40 for, 12 mixed) · 55 studies (14 causal, 11 quant-synthesis, 11 review, 9 qualitative, 5 theoretical, 3 associational, 2 design), `q1`–`q4` · 9 of 55 report an effect size · 46 claims rest on one study
+> **Evidence** · 53 claims (40 for, 13 mixed) · 56 studies (15 causal, 11 quant-synthesis, 11 review, 9 qualitative, 5 theoretical, 3 associational, 2 design), `q1`–`q4` · 10 of 56 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](../claims/rea-36-studies-simulation-virtual-interprofessional-most-effective.md) [+W] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Experiential learning with integrated psychological preparedness as a shared design pattern across effective disaster programs".
 - [Healthcare providers' learning experiences during single-port robotic surgery transition training align with Kolb's four-stage experiential learning cycle](../claims/sp-transition-training-aligns-kolb-cycle.md) [+W] — attached 2026-11-04 from Kwon Young Gyu et al. (2026), which proposed "Integrate hands-on practice with structured reflection to support adaptation to new surgical platforms".
 - [Bedside teaching is rooted in experiential learning theory and facilitates diverse skill acquisition in clinical contexts](../claims/bedside-teaching-rooted-experiential-theory.md) [+W] — attached 2026-11-05 from Farooqi Raabia (2026), which proposed "Prioritise bedside teaching within clinical placements and train facilitators in experiential learning principles".
+- [Cohort 1 DPT students' self-rated confidence rose from pre-test to post-test in all measured domains after embedding active video gaming experiences in a PBL curriculum, in a single-group pre-post study](../claims/avg-pbl-increased-dpt-confidence-cohort1.md) [~W] — attached 2026-11-07 from Wormley Michelle Elizabeth et al. (2022), which proposed "Allow time for reflection between experiential learning experiences to consolidate skills".
 
 ## Objective and learner-valued goal
 

@@ -48,3 +48,4 @@ Evaluation of a ChatGPT-4o-generated blueprint for 200 VPs, assessed against the
 ## Related Claims
 - [ChatGPT- and human-created virtual patients were comparable in didactic quality and medical accuracy](chatgpt-vps-comparable-quality-accuracy.md) — reports the opposite
 - [Human-created VPs showed greater variety in storytelling, differential diagnosis, and patient-doctor interaction than ChatGPT-generated VPs](human-vps-greater-variety.md) — related
+- [The populated blueprint covers 29 key symptoms and 176 final diagnoses, with 22 diagnoses covered by more than one VP](blueprint-29-symptoms-176-diagnoses.md) — related

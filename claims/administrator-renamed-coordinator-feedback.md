@@ -48,3 +48,4 @@ Macro cycle one retrospective analysis of coded survey and interview feedback. P
 - [International faculty feedback revealed that the term service is not clearly recognized outside North America, prompting wording changes for global comprehensibility](service-term-international-comprehensibility.md) — related
 - [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](dbr-two-macro-cycles-114-participants-standards.md) — a broader claim this one bears on
 - [By macro cycle two, faculty reported no changes were needed to five of the six overarching standards, indicating acceptance](mc2-acceptance-five-of-six-standards.md) — related
+- [Pilot testing led to two design revisions: adding a post-RCDP debriefing and reordering cases to expose pulseless-patient treatment earlier](rcdp-acls-pilot-design-revisions.md) — related

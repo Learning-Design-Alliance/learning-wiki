@@ -48,6 +48,7 @@ The article recommends using the scoring system as an objective yardstick to sel
 ## Related Strategies
 
 - [Design future manikins with adjusted anatomy for Asian populations and simulated airway obstruction](manikin-design-anatomical-realism-strategy.md)
+- [Use continuous, comprehensive simulation-based airway management training alongside clinical practice to potentially reduce the clinical caseload needed for intubation proficiency](simulation-based-airway-training-reduce-caseload.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Cross-project qualitative finding summarized in Table 5, which pairs each barrie
 - [Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities](bmtn-external-spread-channels.md) — related
 - [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](calli-districts-valued-peer-learning-experts-structure.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — a narrower finding that bears on this claim
+- [The debriefing session enabled bidirectional learning in which participants shared lived experience that identified barriers to resuscitation](bidirectional-learning-debriefing-non-clinicians.md) — related

@@ -48,3 +48,4 @@ Between-group comparisons across training levels in the 62-trainee pre/post stud
 - [Score improvement after the MVP varies by training level: most medical students and residents improved post-test scores, while fellows did not significantly improve](mvp-improvement-varies-by-training-level.md) — related
 - [Prior experience caring for a malaria patient conferred a pre-test advantage that was no longer present after using the MVP](mvp-erases-prior-malaria-care-advantage.md) — related
 - [An interactive online case-based malaria vignette tool improves medical trainees' overall pre- to post-test scores, including open-ended questions requiring critical thinking](mvp-improves-trainee-scores-overall.md) — related
+- [Baseline angiographic interpretation competence differs sharply by education level, with fellows scoring far above students and residents at pretest](pretest-angiographic-scores-vary-by-education-status.md) — related

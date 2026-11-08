@@ -16,12 +16,14 @@ sources:
     author: Yeung Jerf W. K.; Xia Lily L. L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Grade-9 educational performance mediates the effect of grade-7 family SES on adult educational achievement, whereas grade-8 academic commitment does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yeung Jerf W. K.; Xia Lily L. L. (2023). Family and Individual Contexts of Middle-School Years and Educational Achievement of Youths in Middle-Aged Adulthood. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20043279
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Indirect-effect tests following the second structural equation model of LSAY cohort-2 data. The article reports "βind = 0.003, p < 0.001" for the SES-to-adult-achievement path via grade-9 educational performance, while SES showed no significant path to grade-8 academic commitment (β = −0.001, p > 0.05).
 

@@ -60,3 +60,4 @@ In the same assessor-blinded randomized trial, the OSCE comparison favored the e
 - [Interns taught with OBE-integrated PBL achieve their career plans one year after graduation at a higher rate than lecture-taught peers](obe-pbl-career-plan-achievement-one-year.md) — related
 - [The REPs-VS group scored significantly higher on the operational examination total and on operational steps, but not on apparatus selection or doctor-patient communication](reps-vs-higher-operation-exam-scores.md) — related
 - [Blended teaching produced higher total OSCE scores than traditional offline teaching in a clinical skills training course](blended-teaching-higher-osce-total-clinical-skills.md) — related
+- Competence-oriented simulated teaching raised practical operation scores of in-service nurses more than traditional training at 4 and 8 weeks — related

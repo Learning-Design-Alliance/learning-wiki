@@ -16,6 +16,8 @@ sources:
     author: Atlas Lauren Y, Dildine Troy C, Palacios-Barrios Esther E, Yu Qingbao, Reynolds Richard C, Banker Lauren A, Grant Shara S, Pine Daniel S.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: atlas-lauren-y-2022-2
     resource: "https://doi.org/10.7554/eLife.73353"
     title: "Atlas Lauren Y, Dildine Troy C, Palacios-Barrios Esther E, Yu Qingbao, Reynolds Richard C, Banker Lauren A, Grant Shara S, Pine Daniel S. (2022). Instructions and experiential learning have similar impacts on pain and pain-related brain responses but produce dissociations in value-based reversal learning. eLife 11. https://doi.org/10.7554/eLife.73353"
@@ -42,7 +44,7 @@ sources:
 
 Atlas Lauren Y, Dildine Troy C, Palacios-Barrios Esther E, Yu Qingbao, Reynolds Richard C, Banker Lauren A, Grant Shara S, Pine Daniel S. (2022). Instructions and experiential learning have similar impacts on pain and pain-related brain responses but produce dissociations in value-based reversal learning. eLife 11. https://doi.org/10.7554/eLife.73353
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multilevel voxelwise mediation of current cue contingency effects on medium-heat pain (Figure 5, fMRI sample). Path a effects were positive in bilateral anterior insula, left dorsal posterior insula, dACC, and right anterior prefrontal cortex, and negative in left sgACC.
 

@@ -50,6 +50,7 @@ The authors recommend that future research adopt a multicenter approach to data 
 - [Pursue AI-based and console-data evaluation platforms for assessing novice robotic surgical skill](ai-based-robotic-skill-evaluation-strategy.md)
 - [Future validation studies should build on existing assessment tools rather than develop new ones](validate-existing-tools-strategy.md)
 - [Develop AI algorithms to automatically annotate surgical gestures and provide targeted feedback, with substantial testing before clinical implementation](ai-automatic-gesture-annotation-targeted-feedback-strategy.md)
+- [Provide remote automated certification of basic laparoscopic skills without on-site expert evaluators](remote-automated-laparoscopic-certification-strategy.md)
 
 ## Examples
 -

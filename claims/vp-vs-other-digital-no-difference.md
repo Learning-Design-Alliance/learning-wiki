@@ -74,3 +74,4 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
 - [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — related
 - [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related
+- [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related

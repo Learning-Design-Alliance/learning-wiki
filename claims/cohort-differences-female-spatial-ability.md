@@ -47,3 +47,4 @@ One-way ANOVA with LSD post-hoc tests run in the female group only, due to large
 
 ## Related Claims
 - [Male dental students scored significantly higher than females on both the PSVT-R and MRT spatial ability tests in the overall sample](gender-difference-spatial-ability-dental-students.md) — related
+- [Male and female students' MRT scores did not differ significantly in this cohort](no-sex-difference-mrt-scores.md) — related

@@ -51,6 +51,7 @@ The review's implication-for-practice section recommends that decision-makers in
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 - [Ensure equitable access to patient safety education across employment groups](equitable-training-access-employment-groups.md)
 - [Integrate digital health topics and practical experience with digital technologies into medical curricula](integrate-digital-health-curricula-practical-experience.md)
+- [Design online health-professions curricula with efficient learning strategies that foster self-directed learning while valuing active learning](design-online-curricula-active-learning-strategy.md)
 
 ## Examples
 -

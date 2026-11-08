@@ -73,3 +73,4 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [Knowledge-check trajectories differ: ENC 1 knowledge scores decline by 6 months while remaining above pretraining, and ENC 2 knowledge scores stay stable](venc-knowledge-check-trajectories.md) — related
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
 - [Self-efficacy gains from TMTD and lecture training persisted one month after the sessions ended, aided by follow-up](self-efficacy-gains-persist-one-month-ms.md) — related
+- [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related

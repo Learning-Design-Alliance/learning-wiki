@@ -24,12 +24,14 @@ sources:
     author: Erli Sarilita, Lita Yurika Ambar, Firman Dani Rizali, Tracey Wilkinson, Sri Susilawati, Risti Saptarini, Dudi Aripin, Endang Sjamsudin
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Spatial ability test scores correlated weakly but significantly with gross anatomy scores in the pooled female group, with no correlation in the male group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -52,7 +54,7 @@ Pearson correlations on pooled 1st- and 2nd-year dental students' anatomy grades
 
 Erli Sarilita, Lita Yurika Ambar, Firman Dani Rizali, Tracey Wilkinson, Sri Susilawati, Risti Saptarini, Dudi Aripin, Endang Sjamsudin. (2022). Spatial ability and anatomy learning performance among dental students. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2022.239
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 In the same pooled analysis, Table 4 reports the PSVT-R vs. anatomy and MRT vs. anatomy correlations as NS for the male group; the authors note agreement with Hegarty et al. (2009). No effect size is printed for this null finding.
 

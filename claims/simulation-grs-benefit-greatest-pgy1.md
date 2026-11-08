@@ -49,3 +49,4 @@ Subgroup analysis by residency year within the adjusted regression analysis of t
 - [Simulation training improves resident self-confidence in the real operating room, with the greatest gains in PGY-1 residents](simulation-improves-or-self-confidence-junior-residents.md) — related
 - [Simulation-trained residents show significantly higher adjusted GRS scores for vaginal hysterectomy but not for anterior or posterior repair](simulation-grs-gain-vaginal-hysterectomy-only.md) — related
 - [The pork-based simulation model stratifies surgical competency across PGY levels](pork-model-stratifies-competency-pgy-levels.md) — related
+- [The benefit of simulation training over control is moderated by training level, with residents deriving the greatest benefit (significant interaction, p = 0.02)](simulation-benefit-moderated-by-education-status.md) — related

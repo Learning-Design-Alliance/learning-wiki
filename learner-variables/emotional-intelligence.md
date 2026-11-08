@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 121 claims (85 show a difference, 22 mixed, 14 no difference) · 75 studies (26 causal, 21 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 75 report an effect size · 120 claims rest on one study
+> **Evidence** · 122 claims (85 show a difference, 22 mixed, 15 no difference) · 76 studies (26 causal, 22 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 76 report an effect size · 121 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -157,6 +157,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Self-emotional appraisal, appraisal of others, emotional control, emotional use and school community work experience independently predict humanistic care competence](../claims/regression-predictors-resident-humanistic-care.md) [+W] — learners who differ on it differ in outcomes
 - [The courage dimension of humanistic care competence is negatively correlated with emotional intelligence (r = -0.248)](../claims/courage-dimension-negative-correlation-ei.md) [+W] — learners who differ on it differ in outcomes
 - [Perceived emotional intelligence influences perceived academic performance only indirectly, via resilience and life satisfaction](../claims/pei-indirect-influence-pap.md) [+W] — learners who differ on it differ in outcomes
+- [None of the assessed non-academic constructs (EI, motivation, self-esteem, attitudes towards science, perceived personal incompetence) predicted final medical school GPA](../claims/non-academic-constructs-did-not-predict-gpa.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -73,6 +73,7 @@ Role play is a form of [Active Learning](../principles/active-learning.md) groun
 - [Prepare teachers through modeled, role-played practice with critique until they master the scripted instructional procedures](role-play-teacher-training-scripted-spelling-programs.md)
 - [Five classroom use cases deploying social robots for emotional learning, conflict mediation, and one-on-one support](five-robot-use-cases-mindmatters.md)
 - [Use standardized patients with structured training and consistent role portrayal across simulation sessions](standardized-patients-structured-training-consistent-portrayal.md)
+- [Use role-playing tasks and scenario-based exercises to build clinical communication skills](role-play-scenario-clinical-communication-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling a skilled enactment before learners attempt their own

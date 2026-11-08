@@ -17,12 +17,14 @@ sources:
     author: Erli Sarilita, Lita Yurika Ambar, Firman Dani Rizali, Tracey Wilkinson, Sri Susilawati, Risti Saptarini, Dudi Aripin, Endang Sjamsudin
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # PSVT-R and MRT scores correlated moderately and positively in the overall sample and within each gender group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Erli Sarilita, Lita Yurika Ambar, Firman Dani Rizali, Tracey Wilkinson, Sri Susilawati, Risti Saptarini, Dudi Aripin, Endang Sjamsudin. (2022). Spatial ability and anatomy learning performance among dental students. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2022.239
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlation analysis of the full cross-sectional sample of 326 dental students; the article reports r=0.518, p<0.001 between the two spatial tests. Within gender groups correlations were r=0.593 (male) and r=0.462 (female).
 

@@ -43,6 +43,7 @@ The authors recommend that future school-based physical activity intervention st
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 - [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
+- [Future sedentary-behavior interventions should target both school and extra-school settings and vary break type, duration and intensity](target-school-and-extra-school-settings-strategy.md)
 
 ## Examples
 -

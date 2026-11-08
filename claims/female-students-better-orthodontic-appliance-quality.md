@@ -50,3 +50,4 @@ Secondary outcome of the RCT comparing appliance quality by gender among 138 eva
 - [Calibrated dentist ratings of appliance quality showed good interrater reliability (ICC = 0.826)](good-interrater-reliability-calibrated-dentist-appliance-ratings.md) — related
 - [Flipped and face-to-face classrooms produce no significant difference in overall orthodontic wire-bending scores](flipped-vs-face-to-face-no-score-difference-wirebending.md) — related
 - [No statistically significant difference between grading systems in courses 1 and 2](no-significant-grading-difference-courses-1-and-2.md) — related
+- [Female residents showed a better post-course performance, a secondary outcome reported cautiously due to reduced subgroup power](female-residents-better-post-course-performance.md) — related

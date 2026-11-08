@@ -49,3 +49,4 @@ Chi-square comparison of post-training satisfaction from a self-made questionnai
 - [ICU nurses trained with ultrasound simulation achieve significantly higher theoretical test scores than nurses taught with the classic method](simulation-training-higher-theoretical-scores-icu-nurses.md) — related
 - [The simulation-trained and traditionally trained nurse groups were comparable at baseline on gender, age, working years, and education level](baseline-comparability-simulation-vs-traditional-groups.md) — related
 - [Students trained with the virtual simulation platform report higher learning satisfaction than traditionally taught students](virtual-simulation-higher-learning-satisfaction.md) — related
+- Interns taught with an intelligent medical simulation system report significantly higher satisfaction with teaching than traditionally taught peers (94.0% vs 53.8%) — related

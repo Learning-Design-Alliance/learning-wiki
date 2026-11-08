@@ -48,3 +48,4 @@ Matched-cohort study comparing 94 BMedSc(Hons) graduates with 94 controls matche
 - [BMedSc(Hons) graduates produce a greater number of post-graduation publications than matched controls](bmedschons-greater-publication-count.md) — related
 - [BMedSc(Hons) graduates are more likely than matched controls to complete a higher academic degree after graduation](bmedschons-higher-degree-completion.md) — related
 - [Completing a BMedSc(Hons) is not associated with a greater likelihood of attaining a faculty position post-graduation](bmedschons-no-faculty-position-association.md) — related
+- [Publication in the Australian Medical Student Journal is associated with future PubMed-indexed publications (OR 3.43)](amsj-publication-associated-future-pubmed-publications.md) — related

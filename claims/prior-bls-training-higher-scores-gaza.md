@@ -52,3 +52,4 @@ Multivariate linear regression adjusting for all baseline characteristics in the
 - [Prior hypertension training (AOR = 2.6) and more than 10 years' experience (AOR = 1.8) independently predicted good knowledge among PHC workers](training-and-experience-predict-hypertension-knowledge.md) — related
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
+- [Prior BLS knowledge was not associated with the probability of registering for a practice session, obtaining a certificate, or enlisting as a first responder](prior-bls-knowledge-not-associated-participation.md) — related

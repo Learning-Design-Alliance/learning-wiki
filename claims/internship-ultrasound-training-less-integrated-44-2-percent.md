@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-08
 recheck_by: 2029
 sources:
   - id: gram-p-2024
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
+> **Currency** · newest study 2024 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 44.2% of interns received formal ultrasound education during internship, 68.5% had to pursue it independently, while ultrasound was encountered in clinical work by 73.2% and performed by 47.6%. [→ Gram P 2024](#gram-p-2024)

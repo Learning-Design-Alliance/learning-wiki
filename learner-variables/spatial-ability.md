@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 130 claims (83 show a difference, 28 mixed, 19 no difference) · 80 studies (33 causal, 26 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 21 of 80 report an effect size · 129 claims rest on one study
+> **Evidence** · 132 claims (84 show a difference, 28 mixed, 20 no difference) · 82 studies (35 causal, 26 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 21 of 82 report an effect size · 131 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -166,6 +166,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Preschool fluid abilities (visual-spatial skills, short-term memory) predict crystallized abilities, supporting the mediation sequence](../claims/fluid-abilities-predict-crystallized-factor.md) [+M] — learners who differ on it differ in outcomes
 - [Spatial ability test scores correlated weakly but significantly with gross anatomy scores in the pooled female group, with no correlation in the male group](../claims/weak-spatial-anatomy-correlation-females-only.md) [~M] — learners who differ on it differ in outcomes
 - [The authors conclude spatial ability may not be the only factor predicting dental students' academic performance, and low-spatial-ability students may need supplementary techniques](../claims/spatial-ability-not-only-performance-predictor.md) [+W] — learners who differ on it differ in outcomes
+- [Mental Rotations Test scores positively correlated with post-intervention brainstem knowledge scores](../claims/mrt-correlates-post-intervention.md) [+W] — learners who differ on it differ in outcomes
+- [Visuospatial working memory (Corsi total score) improved more in the control group than the intervention group over 16 weeks](../claims/corsi-total-score-interaction-favors-control.md) [-W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

@@ -16,6 +16,8 @@ sources:
     author: Yu Wenjing, Qian Yiwei, Abbey Cody, Wang Huan, Rozelle Scott, Stoffel Lauren Ann, Dai Chenxu
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: yu-wenjing-2022-2
     resource: "https://doi.org/10.3390/ijerph192013317"
     title: "Yu Wenjing, Qian Yiwei, Abbey Cody, Wang Huan, Rozelle Scott, Stoffel Lauren Ann, Dai Chenxu. (2022). The Role of Self-Esteem in the Academic Performance of Rural Students in China. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph192013317"
@@ -29,7 +31,7 @@ sources:
 # Maternal education is positively and maternal migration negatively associated with student self-esteem in rural China
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -42,7 +44,7 @@ sources:
 
 Yu Wenjing, Qian Yiwei, Abbey Cody, Wang Huan, Rozelle Scott, Stoffel Lauren Ann, Dai Chenxu. (2022). The Role of Self-Esteem in the Academic Performance of Rural Students in China. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph192013317
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 OLS regression (Table 3, column 1) of RSES score on individual and household characteristics in the cross-sectional rural sample, with class-level clustered standard errors. The article reports the maternal education and maternal migration coefficients quoted above.
 

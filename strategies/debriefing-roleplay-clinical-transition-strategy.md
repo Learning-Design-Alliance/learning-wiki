@@ -46,6 +46,7 @@ The authors argue that role-play with standardized patients and guided debriefin
 - [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](video-feedback-structured-reflection-strategy.md)
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 - [Blend peer-assisted learning with scenario simulation: role-assigned team simulation with peer feedback and instructor-led debriefing for trauma first aid training](peer-assisted-scenario-simulation-blended-training.md)
+- [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
 
 ## Examples
 -

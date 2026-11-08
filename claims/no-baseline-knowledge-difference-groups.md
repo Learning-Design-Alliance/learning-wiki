@@ -54,3 +54,4 @@ Baseline comparison in the quasi-experiment using an independent samples t-test;
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — possibly the same claim (merge candidate)
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — possibly the same claim (merge candidate)
+- [Post-knowledge test scores did not differ significantly between the E-learning group and the traditional teaching group](no-significant-posttest-difference-elearning-vs-traditional.md) — related

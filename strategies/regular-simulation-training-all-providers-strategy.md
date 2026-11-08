@@ -52,6 +52,7 @@ The authors recommend that training of all providers be regular, noting that "an
 - [Develop standardized, regular, and targeted CPR education for lower-level hospitals and professional groups with lower knowledge-based BLS competency.](targeted-regular-cpr-education-lower-level-hospitals.md)
 - [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
+- [Use regular low-stakes testing with individualised feedback and learning-trajectory tracking to increase engagement in procedural simulation training](regular-testing-individualised-feedback-procedural-simulation.md)
 
 ## Examples
 -

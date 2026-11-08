@@ -16,12 +16,14 @@ sources:
     author: Worabo Heidi J., Salt Rebekah, Grubesic Ruth, Farokhi Moshtagh R.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Student reflections at the clinic consistently show assumptions challenged and replaced with cultural awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Worabo Heidi J., Salt Rebekah, Grubesic Ruth, Farokhi Moshtagh R. (2023). Promoting social justice through experiential learning at an interprofessional refugee clinic. Nurse Education Today, 121, 105699. https://doi.org/10.1016/j.nedt.2022.105699
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The article's qualitative observation of undergraduate nursing students' reflective journaling in their population health clinical rotation, which the authors say provides "a method to better understand students' critical thinking." No systematic analysis or effect size is reported.
 

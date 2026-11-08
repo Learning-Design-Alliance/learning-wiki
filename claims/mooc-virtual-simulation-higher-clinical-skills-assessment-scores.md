@@ -58,3 +58,4 @@ Quasi-experimental comparison of blended (n = 60) vs. traditional (n = 79) group
 - [VR group's total teaching quality score was significantly higher than the control group's](vr-group-higher-total-teaching-quality-score.md) — related
 - [Blended learning produced higher post-test knowledge scores than traditional lecture in the evidence-based medicine course](blended-learning-higher-post-test-ebm.md) — related
 - [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related
+- The simulation-system group outperformed the traditional-teaching group on theoretical, skill, and comprehensive ability assessments — related

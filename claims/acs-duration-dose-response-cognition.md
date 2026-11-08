@@ -53,3 +53,4 @@ Review synthesis of dose–response evidence for ACS and cognition. One study ca
 - [Active commuting to and from school is not significantly associated with cognitive performance in children and adolescents (pooled ES = −0.02)](acs-not-associated-cognitive-performance-pooled.md) — reports the opposite
 - [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related
 - [The negative effect of commuting time on rural students' outcomes is significant for girls and particularly pronounced among 5th graders.](commuting-time-girls-fifth-graders-heterogeneity.md) — related
+- [Physical activity promotes academic achievement significantly among boys but shows no significant positive effect among girls, whose duration coefficient was negative in linear models](physical-activity-gender-heterogeneity-boys-girls.md) — related

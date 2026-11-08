@@ -51,3 +51,4 @@ Conceptual, theory-building argument in which the author contends the seven para
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — related
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — a narrower finding that bears on this claim
 - [Creating a community context with mediational tools toward a genuine purpose for writing is more effective than fixing individual writing attitudes](community-context-writing-attitudes.md) — related
+- [Learning emerges under interacting individual, environmental and task constraints](constraints-interaction-shape-clinical-learning.md) — related

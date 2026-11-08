@@ -55,3 +55,4 @@ Umbrella review of 41 systematic reviews and meta-analyses; 13 meta-analyses pro
 - [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](acute-physical-activity-improves-overall-academic-outcomes.md) — related
 - [Subgroup analyses by mode of ACS, age, and sex show no significant differences in pooled effect sizes for academic outcomes](acs-subgroup-analyses-no-significant-differences.md) — related
 - [Physical activity directly and positively predicts adolescents' academic achievement (β = 0.241, 68.86% of total effect)](pa-direct-positive-predicts-aa-chinese-adolescents.md) — a narrower finding that bears on this claim
+- [Prior reviews report inconsistent effects of physical activity on academic achievement, with small positive relationships in some meta-analyses and null findings in other studies](inconsistent-pa-achievement-literature.md) — related

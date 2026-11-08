@@ -48,3 +48,4 @@ Findings from the Concerns-Based Adoption analysis of weekly meeting recordings.
 - [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](teacher-management-pedagogy-intertwined.md) — related
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — related
+- [Learning emerges under interacting individual, environmental and task constraints](constraints-interaction-shape-clinical-learning.md) — related

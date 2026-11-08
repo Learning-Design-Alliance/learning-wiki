@@ -67,3 +67,4 @@ Null finding on the path-length measure from the same observational intergroup a
 - [Novice robotic surgeons keep instruments out of the surgical field significantly longer than experts during vessel dissection](novices-instruments-out-of-field-longer.md) — related
 - [No significant correlation between RULA ergonomic score and surgical performance parameters in either expert or novice group](no-rula-performance-correlation-robust.md) — related
 - [Expert robotic surgeons show significantly lower (better) RULA ergonomic scores than novices during real-life robotic pulmonary vessel dissection](experts-lower-rula-scores-than-novices-robust.md) — related
+- [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related

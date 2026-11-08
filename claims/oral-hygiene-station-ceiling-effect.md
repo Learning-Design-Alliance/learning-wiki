@@ -47,3 +47,4 @@ Wilcoxon signed-rank comparison for the Oral Hygiene Education station in the si
 ## Related Claims
 - [The oral hygiene screening module showed a large pre-to-post knowledge gain (Cohen's d = 1.37)](oral-hygiene-screening-module-knowledge-gain.md) — related
 - [A five-week simulation-based clinical readiness module was associated with statistically significant pre-to-post OSCE improvements in five pediatric dentistry outcomes (Medical History Taking, Child–Parent Communication, Team Dynamics, Fissure Sealant Application, Fluoride Application)](readiness-module-osce-gains-five-outcomes.md) — related
+- [Knowledge improvement varies across course modules, with the largest gains where baseline knowledge was lowest and a ceiling effect for the counselling-role module](cmv-elearning-module-level-knowledge-variation.md) — related

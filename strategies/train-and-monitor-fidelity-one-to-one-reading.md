@@ -46,6 +46,7 @@ The evaluation found the intervention was delivered by teaching assistants after
 
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
+- [Pair guideline-implementation education with dedicated implementation leaders who identify local barriers, in-service new staff and audit advice delivery](implementation-leaders-beyond-education-strategy.md)
 
 ## Examples
 -

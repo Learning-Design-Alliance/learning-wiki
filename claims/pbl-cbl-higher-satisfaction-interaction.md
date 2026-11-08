@@ -49,3 +49,4 @@ Results section reporting Table 2 anonymous questionnaire perceptions for both r
 - [AI-assisted peer teaching increases student engagement and satisfaction](ai-assisted-peer-teaching-engagement-satisfaction.md) — related
 - [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related
 - [Medical students taught with combined PBL-CBL scored significantly higher on vascular surgery theoretical tests than students taught with traditional teaching](pbl-cbl-higher-theoretical-test-scores-vascular-surgery.md) — related
+- [Resident satisfaction was significantly higher in the PBL+LBL group (96%) than in the LBL-only group (80%)](pbl-lbl-higher-resident-satisfaction-ultrasound.md) — related

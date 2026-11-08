@@ -90,3 +90,4 @@ The playbook summarizes prior research (citing Attendance Works' compilation of 
 - [Cumulative ACEs show a dose-response association with truancy, absenteeism, and lower expectations of graduating](aces-dose-response-truancy-absenteeism.md) — related
 - [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](attendance-preschool-income-predict-academic-performance-ethiopia.md) — a narrower finding that bears on this claim
 - [Lecture attendance was related to better academic performance and lower average opportunity cost, but unrelated to gender](attendance-selectivity-grades-opportunity-cost.md) — related
+- [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — a narrower finding that bears on this claim

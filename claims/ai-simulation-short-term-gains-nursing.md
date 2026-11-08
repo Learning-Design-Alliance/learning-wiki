@@ -101,3 +101,5 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Audio-recorded OSCE assessment cannot capture non-verbal communication, a stated limitation of the trial](audio-recording-limits-nonverbal-assessment.md) — related
 - [In-service nurses' clinical reasoning case-management scores rose significantly from pre-test to post-test for all four illness areas after completing virtual patient cases, in one single-group pre-post study (p < 0.001)](vp-cases-increase-nurse-clinical-reasoning-scores.md) — related
 - [Blended simulation using virtual environments and simulated patients improved students' patient communication on placement](blended-simulation-improved-patient-communication.md) — related
+- [Desktop VR and face-to-face simulation produce no significant difference in confidence levels for managing clinical deterioration](desktop-vr-similar-confidence-to-face-to-face-simulation.md) — related
+- [Desktop VR and face-to-face simulation produce no significant difference in clinical performance outcomes for assessing and managing clinical deterioration](desktop-vr-similar-performance-to-face-to-face-simulation.md) — related

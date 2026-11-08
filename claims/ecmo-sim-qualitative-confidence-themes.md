@@ -52,3 +52,4 @@ Qualitative arm: 4 focus groups conducted January–August 2022, including 2 tra
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Focus groups identified three themes about the SLPTS: high level of organization, creation of a comfortable learning environment, and effective peer teaching](slpts-focus-group-three-themes.md) — related
 - [Students attribute increased confidence to making mistakes and receiving immediate feedback in the simulation lab](mistakes-feedback-build-confidence-sle.md) — related
+- [Decision-making hierarchies limit trainees' implementation of procedures their attending physicians are unfamiliar with](decision-hierarchies-procedure-implementation.md) — related

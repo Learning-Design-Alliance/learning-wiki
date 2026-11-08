@@ -52,3 +52,4 @@ Same mixed-effects proportional odds analysis of finishers' 3-tiered assessments
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — a broader claim this one bears on
 - [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](simulation-knowledge-retention-three-months.md) — a broader claim this one bears on
 - [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related
+- [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related

@@ -48,6 +48,7 @@ Based on the stronger load–flow association among less digitally ready student
 
 - [Optimize e-learning platform usability and provide technical support to maximize engagement across diverse nursing staff groups](elearning-usability-technical-support-strategy.md)
 - [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
+- [Include cognitive load as an outcome measure when evaluating cross-sectional e-learning anatomy methods](include-cognitive-load-outcome-cross-sectional-elearning.md)
 
 ## Examples
 -

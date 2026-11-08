@@ -82,3 +82,5 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Formative clinical examination score and male gender predicted BSRE performance in multivariable regression](formative-exam-and-gender-predict-bsre.md) — related
 - [Regression analysis identifies age, high school grades, and test scores as significant GPA predictors, with the final model explaining about 31.58% of variance](regression-predictors-dental-gpa-model.md) — related
 - [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related
+- [Internet abusive use is negatively correlated with academic performance (GPA) in nursing students](internet-abusive-use-gpa-negative-correlation.md) — related
+- [State Graduation Exam score predicted final-year medical school GPA, explaining 12.3% of variance](sge-predicts-final-medical-school-gpa.md) — related

@@ -70,3 +70,4 @@ Table 1 descriptive counts: 47.2% of students reported increased stress levels, 
 - [All surveyed medical students used digital screens continuously before bedtime during pandemic remote teaching](all-students-screens-before-bedtime-pandemic.md) — related
 - [Most students reported headache or visual discomfort, while few used or increased melatonin during the pandemic](headache-visual-discomfort-low-melatonin-use.md) — a narrower finding that bears on this claim
 - [The COVID-19 pandemic was accompanied by increased depression and anxiety and diminished mental wellness among students and faculty](pandemic-increased-depression-anxiety-diminished-wellness.md) — a broader claim this one bears on
+- [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related

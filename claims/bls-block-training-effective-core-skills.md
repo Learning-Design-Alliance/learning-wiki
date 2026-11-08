@@ -55,3 +55,4 @@ Across three skill retention assessments (n=20, 16, 23), correct performance rem
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [CPR performance improved further over time after feedback-equipped training, with gains at both 3 and 6 months relative to baseline](cpr-performance-retained-improved-3-6-months.md) — related
+- [Once competence in infant chest compression is achieved, the likelihood of retaining it at follow-up does not differ by how many months it took to achieve competence](icc-retention-independent-of-months-to-competence.md) — related

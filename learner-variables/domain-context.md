@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (75 show a difference, 23 mixed, 7 no difference) · 92 studies (20 causal, 20 review, 19 qualitative, 16 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 10 of 92 report an effect size · 101 claims rest on one study
+> **Evidence** · 106 claims (75 show a difference, 24 mixed, 7 no difference) · 93 studies (21 causal, 20 review, 19 qualitative, 16 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 11 of 93 report an effect size · 102 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -146,6 +146,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](../claims/ebp-knowledge-workplace-experience-differences.md) [+M] — learners who differ on it differ in outcomes
 - [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](../claims/ebp-skills-age-workplace-experience-differences.md) [+M] — learners who differ on it differ in outcomes
 - [Participants rated the simulation training as highly relevant, with relevance to shortening DNT rated 90% by physicians versus 72% by nurses](../claims/participant-reaction-ratings-simulation-stroke-training.md) [+M] — learners who differ on it differ in outcomes
+- [College athletes reported lower doping likelihood than non-athletes in benefit situations](../claims/athletes-lower-doping-likelihood-benefit-situations.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

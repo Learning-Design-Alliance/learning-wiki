@@ -50,3 +50,4 @@ Descriptive analysis of Strongly Agree percentages across the 511 responses. The
 - [Nursing students use peer support, effective communication, knowledge-seeking, nurse support and self-affirmation as coping strategies](coping-strategies-peer-support-self-affirmation.md) — related
 - [Individually based protective strategies such as active coping are ineffective for youth facing the most severe and chronic stressors unless broader interpersonal and setting supports are in place.](active-coping-ineffective-without-supports-severely-stressed-youth.md) — related
 - [All six UNI psychosocial need factors correlate positively with students' psychological distress](uni-factors-correlate-distress.md) — related
+- [Social support from family, friends, peers and seniors was a universally reported positive factor for international medical students' academic success](international-student-social-support-factor.md) — related

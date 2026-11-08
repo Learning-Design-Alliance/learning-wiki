@@ -70,3 +70,4 @@ The cohort's age 10 to 11 comparison showed high-grade IVH children "continued t
 - [Children with high-grade IVH were less likely to meet national minimum standards at age 8 to 9 years, although most still met them](high-grade-ivh-nms-age-8-9.md) — related
 - [All IVH severity groups showed similar trajectories of academic improvement with age, with fixed between-group differences and no catch-up](similar-academic-trajectories-fixed-gap.md) — related
 - [Mean overall attainment scores showed a stepwise reduction across groups by IVH severity, with full-term controls highest and high-grade IVH lowest](stepwise-academic-gradient-ivh-severity.md) — related
+- [High-risk treatment protocols and age at diagnosis show no significant association with reading scores in this cohort](high-risk-protocol-age-diagnosis-reading-null.md) — related

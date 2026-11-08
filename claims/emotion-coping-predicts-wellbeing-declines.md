@@ -53,3 +53,4 @@ Cross-lagged panel model results (Table 3; Figure 1) in the same 489-teacher two
 - [Negative affect predicts increased reliance on social diversion, but not distraction, over time](negative-affect-predicts-social-diversion.md) — related
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](task-coping-positive-affect-feedback-loop.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
+- [Self-blame coping is positively associated with e-learning satisfaction](self-blame-coping-positive-e-learning-satisfaction.md) — related

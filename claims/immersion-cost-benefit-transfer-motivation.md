@@ -83,7 +83,7 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
 - [Qualitative data offer a plausible explanation for the virtual group's higher enjoyment and engagement despite equivalent learning outcomes](qualitative-data-explain-svw-appeal.md) — related
 - [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — related
-- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
+- [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — a narrower finding that bears on this claim
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
@@ -99,3 +99,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Students highly accepted the VR anatomy software 3D Organon for learning anatomy, with enjoyment the highest-rated GETAMEL variable (μ = 1.9)](high-acceptance-3d-organon-enjoyment-highest.md) — related
 - [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related
 - [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — related
+- [Positive pre-learning emotions induced by funny videos improved knowledge transfer but not knowledge retention in elementary students learning from a video lecture.](positive-pre-learning-emotion-improves-transfer-not-retention.md) — a narrower finding that bears on this claim

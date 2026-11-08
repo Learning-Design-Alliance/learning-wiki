@@ -56,3 +56,4 @@ Partial correlational analyses in a study of 56 third-graders, controlling for i
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Fourth graders' multiplication fact solving speed correlates significantly with both symbolic and nonsymbolic magnitude comparison speed](magnitude-comparison-correlates-multiplication-facts.md) — related
+- [Symbolic number ability correlated with arithmetic ability in grade 4 children, replicating the well-known association and validating both measures](symbolic-number-arithmetic-correlation-replicated.md) — related

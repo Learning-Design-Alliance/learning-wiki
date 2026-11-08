@@ -50,3 +50,4 @@ Cross-sectional study of 1677 students: bivariate tables show significant associ
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — reports the opposite
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
 - [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related
+- [Cigarette smoking and khat use were bivariably associated with poor academic performance](smoking-khat-bivariable-poor-academic-performance.md) — related

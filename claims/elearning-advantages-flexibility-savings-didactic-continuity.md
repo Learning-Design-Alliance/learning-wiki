@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-08
 sources:
   - id: sarli-leopoldo-2022
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9534212/"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Technology facilitated learning, retrieval of contents and following lectures, improving didactic continuity via rereading e-presentations and reviewing recorded video contents. [→ Sarli Leopoldo 2022](#sarli-leopoldo-2022)

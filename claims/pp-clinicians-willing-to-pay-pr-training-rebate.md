@@ -47,3 +47,4 @@ National workforce survey conducted as part of the same research program, report
 
 ## Related Claims
 - [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
+- [Involvement of stakeholders nationally enhanced programme acceptance, clinician buy-in and funding sustainability](stakeholder-involvement-buy-in-sustainability.md) — related

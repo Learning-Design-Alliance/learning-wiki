@@ -56,3 +56,4 @@ The report’s narrative review cites multiple studies linking poverty, low SES,
 - [Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls](fr-li-children-more-environmental-health-risks.md) — related
 - [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — related
 - [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — related
+- [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](covariates-sex-poverty-maltreatment-school-outcomes.md) — related

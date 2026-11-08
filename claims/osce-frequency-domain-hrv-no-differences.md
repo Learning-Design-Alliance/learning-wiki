@@ -17,12 +17,14 @@ sources:
     author: Martínez-Pascual B, Ramírez-Adrados A, Fernández-Martínez S, Gonzalez-de-Ramos C, Fernández-Elías VE, Clemente-Suárez VJ
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Frequency-domain HRV variables (LF, HF, LF/HF) showed no significant differences across OSCE scenarios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Martínez-Pascual B, Ramírez-Adrados A, Fernández-Martínez S, Gonzalez-de-Ramos C, Fernández-Elías VE, Clemente-Suárez VJ. (2022). Autonomic stress response of physiotherapy student in the different scenarios of an objective structured clinical examination. BMC Medical Education. https://doi.org/10.1186/s12909-022-03903-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Null result from the same 86-student OSCE study. Table 3 reports F = 1.475 (LF/HF), 1.396 (LF), 1.398 (HF) with p = 0.135, 0.169, 0.168 and η2p of 0.018, 0.017, 0.017; equivalence was not tested. The article notes the sensitive HRV parameters here were in the time and nonlinear domains.
 

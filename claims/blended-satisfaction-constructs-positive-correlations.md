@@ -17,12 +17,14 @@ sources:
     author: Chen Tianjiao, Luo Heng, Feng Qinna, Li Gege
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Technology acceptance, emotional experience, social belonging, and higher-order thinking are each significantly positively correlated with blended learning satisfaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2023 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Chen Tianjiao, Luo Heng, Feng Qinna, Li Gege. (2023). Effect of Technology Acceptance on Blended Learning Satisfaction: The Serial Mediation of Emotional Experience, Social Belonging, and Higher-Order Thinking. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20054442
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Descriptive and correlational analysis (Table 3) of the 110-student questionnaire sample; all five constructs intercorrelated significantly. The strongest reported correlations with learning satisfaction were with technology acceptance (0.689) and higher-order thinking (0.705) as printed in Table 3.
 

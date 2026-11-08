@@ -50,3 +50,4 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
 - [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related
+- [Participants rated the simulation session highly on meeting learner expectations and practical organization (mean 9 of 10, SD 1)](dam-simulation-high-satisfaction-scores.md) — related

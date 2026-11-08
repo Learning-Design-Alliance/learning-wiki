@@ -70,3 +70,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Expert content validation rated all rubric items above 0.50 on the item-objective congruence index, ranging from 0.67 to 1.00](ioc-content-validity-acls-rubric.md) — related
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
 - [Expert panel content validation of the TBL-SAI-TR yields an average content validity index of 0.95](tbl-sai-tr-content-validity-cvi-095.md) — related
+- [All ForPEC and Operational Manual items reach adequate content validity, with a total CVI of 0.98 after expert revision rounds](forpec-content-validity-total-cvi-0-98.md) — related

@@ -51,3 +51,4 @@ Results from the ONA mean networks for high- vs low-performing teams (Fig. 3), c
 - [Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not](four-plus-improvement-cycles-improve-conditions.md) — related
 - [High- and low-performing simulation teams differ significantly in overall communication patterns measured by ONA (p = 0.04, Cohen's d = 1.72)](ona-distinguishes-high-low-performing-team-communication.md) — a broader claim this one bears on
 - [Across all 22 teams, the strongest communication associations linked inviting input, explicitly assessing the situation, expressing uncertainty, and implementation](overall-ona-network-strongest-associations.md) — related
+- [Teams that go through the SSRL phases tend to be more successful in learning in and adapting to new situations](ssrl-phases-team-adaptation-success.md) — related

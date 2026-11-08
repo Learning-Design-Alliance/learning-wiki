@@ -50,6 +50,7 @@ The article recommends remote coaching as a viable option for surgical education
 - [Harmonize VRS training practices and use remote mentoring and multimodal simulation to broaden access](harmonize-vrs-practices-remote-mentoring-strategy.md)
 - [Use remote instructor-led AR simulation to deliver standardized team-leader assessment where in-person simulation access is limited](remote-ar-assessment-resource-limited-settings-strategy.md)
 - [Use online platforms to connect eastern and western universities for cross-regional interprofessional teaching](online-cross-regional-ipe-strategy.md)
+- [Provide remote automated certification of basic laparoscopic skills without on-site expert evaluators](remote-automated-laparoscopic-certification-strategy.md)
 
 ## Examples
 -

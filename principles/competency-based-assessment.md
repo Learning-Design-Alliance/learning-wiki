@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (27 for, 38 mixed, 2 against) · 67 studies (15 causal, 15 design, 12 associational, 11 review, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 67 report an effect size · 62 claims rest on one study
+> **Evidence** · 68 claims (28 for, 38 mixed, 2 against) · 68 studies (17 design, 15 causal, 12 associational, 11 review, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 68 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [An analytic rubric yields higher inter-evaluator agreement than a numeric rating scale when assessing preclinical endodontic portfolios](../claims/analytic-rubric-higher-inter-evaluator-agreement-endodontics.md) [+W] — attached 2026-11-07 from Escribano Nuria et al. (2023), which proposed "Use analytic rubrics with clearly defined criteria and pre-set performance levels to increase consistency among multiple evaluators"; tests this page's relationship.
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](../claims/force-parameters-distinguish-robotic-surgery-experience-groups.md) [+W] — attached 2026-11-07 from Rahimi A. Masie et al. (2023), which proposed "Incorporate objective force-based assessment and feedback into robot-assisted surgery training programs"; tests this page's relationship.
 - [A contrasting-groups pass/fail score of 71 points on the OSCE produced no false positives or false negatives](../claims/osce-tus-pass-fail-71-no-false-classifications.md) [+W] — attached 2026-11-07 from Pietersen Pia Iben et al. (2023), which proposed "Use competence-based summative assessment rather than arbitrary case-number or time-based training requirements".
+- [A modified Delphi process with an international expert panel produced a final unweighted A-OSATS score with four key steps and 15 defined substeps for minimally invasive linear-stapled intestinal anastomoses](../claims/a-osats-delphi-consensus-development.md) [+W] — attached 2026-11-07 from Development and validity evidence of an objective structured assessment of technical skill, which proposed "Weight procedural assessment substeps by expert-judged importance for patient outcomes rather than treating all steps as equivalent".
 
 ## Objective and learner-valued goal
 

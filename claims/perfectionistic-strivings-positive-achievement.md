@@ -48,3 +48,4 @@ Random-effects meta-analysis of 37 studies (N = 8,901) reporting the relationshi
 - [The instrument used to measure perfectionism moderates its relationship with academic achievement, particularly for perfectionistic concerns](instrument-moderates-perfectionism-achievement.md) — related
 - [Perfectionistic concerns show a significant small negative relationship with academic achievement (r+ = −.08)](perfectionistic-concerns-negative-achievement.md) — related
 - [Gender and academic level do not moderate the perfectionism–academic achievement relationships](gender-academic-level-not-moderators.md) — related
+- [Only personal standard, among perfectionistic strivings facets, is significantly positively associated with extra training](personal-standard-positive-extra-training.md) — a narrower finding that bears on this claim

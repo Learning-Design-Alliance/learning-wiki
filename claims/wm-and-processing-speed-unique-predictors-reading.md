@@ -76,3 +76,4 @@ Same constrained SEM across age groups. The article reports null paths: "Inhibit
 - [Response inhibition shows small to moderate associations with listening comprehension (r = .16 to .42), based on only two studies](inhibition-listening-comprehension-small-moderate.md) — related
 - [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — related
 - [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](disorder-specific-phoneme-naming-set-shifting.md) — related
+- [Time perception and working memory deficits predict word reading and numeration across time, more strongly than other neuropsychological constructs](time-perception-working-memory-predict-academics.md) — related

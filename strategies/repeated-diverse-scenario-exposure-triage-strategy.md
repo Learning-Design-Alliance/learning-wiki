@@ -54,6 +54,7 @@ In the discussion, the authors recommend that, to reduce triage time in high-unc
 - [Gradually introduce unpredictable elements into SBL to build adaptability for CALD students preferring structured preparation](gradual-unpredictability-in-sbl.md)
 - [Incorporate multiple representative clinical cases repeatedly and group students into small cohorts to scale reception training](repeat-multiple-cases-small-cohort-reception-training.md)
 - [Extend reusable VR simulations with progress bars, awards, and social interaction across repeated runs](add-progress-awards-social-interaction-reusable-vr.md)
+- [Populate VP collections with multiple cases per key symptom to enable comparing and contrasting, and treat the blueprint as a dynamic document](comparing-contrasting-vp-collection-strategy.md)
 
 ## Examples
 -

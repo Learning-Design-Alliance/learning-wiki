@@ -94,6 +94,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Employ varied gonioscopy teaching formats in residency, including small-group practice-guided meetings with dry and wet labs, case presentations, hands-on clinic time, and live-video tutoring](varied-gonioscopy-teaching-formats-strategy.md)
 - [Concomitant use of VR and physical simulators, matched to procedural versus task-based training needs](concomitant-vr-physical-simulator-use-strategy.md)
 - [Integrate objective force-based assessment of tissue handling into robotic surgery training](objective-force-assessment-in-ras-training.md)
+- [Integrate a brief one-on-one mentored simulation session as introductory training for novice cath-lab trainees](brief-mentored-simulation-introductory-training-strategy.md)
 
 ## Examples
 -

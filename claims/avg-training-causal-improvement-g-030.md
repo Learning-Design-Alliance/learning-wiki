@@ -53,3 +53,4 @@ Intervention meta-analysis of 91 effect sizes from 28 studies with active contro
 - [Action video game training produces significantly larger phonemic awareness gains than waiting list, non-action serious games, and speech therapy in pre-readers at risk for dyslexia](avg-training-phonemic-awareness-gains-at-risk-prereaders.md) — related
 - [Phonemic awareness gains after AVG training occur in more than 80% of at-risk pre-readers](avg-phonemic-awareness-gain-majority-responder.md) — a narrower finding that bears on this claim
 - [Spatial training causally improves mathematics performance, with an overall effect size of Hedges's g = 0.28](spatial-training-improves-math-performance.md) — related
+- [Cohort 1 DPT students' self-rated confidence rose from pre-test to post-test in all measured domains after embedding active video gaming experiences in a PBL curriculum, in a single-group pre-post study](avg-pbl-increased-dpt-confidence-cohort1.md) — related

@@ -51,6 +51,7 @@ The authors recommend that "strategies to build social communication skills be i
 
 - [Include attention difficulties and social skills in preschool academic screening, and consider prosocial components and feelings about school in early interventions](preschool-screening-attention-and-social-skills.md)
 - [Test, track and extend readiness support programs for disadvantaged children](readiness-support-program-research-agenda-strategy.md)
+- [Early identification of and targeted intervention for preschoolers with low cognitive or low emotional/behavioral resilience](early-identification-intervention-low-resilience-preschoolers.md)
 
 ## Examples
 -

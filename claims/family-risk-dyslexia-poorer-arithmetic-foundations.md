@@ -56,3 +56,4 @@ Group comparisons in Table 1 showed the FR group (N = 93) performing below the T
 - [Family-risk of dyslexia and preschool language impairment are additive risk factors for reading readiness and attention and behaviour](fr-li-additive-risk-factors-outcomes.md) — related
 - [Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls](fr-li-children-more-environmental-health-risks.md) — related
 - [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — related
+- [Dyslexia predicts poorer performance in academic literacy and academic mathematics tasks but not in non-academic literacy tasks among middle school students](dyslexia-impairs-academic-but-not-non-academic-task-performance.md) — related

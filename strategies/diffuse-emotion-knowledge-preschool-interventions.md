@@ -50,6 +50,7 @@ Based on the finding that emotion knowledge gains mediate the link between presc
 
 - [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
 - [Promoting teacher–student relationships for children from low SES backgrounds may be a promising intervention avenue](teacher-student-relationships-low-ses-intervention.md)
+- [Early identification of and targeted intervention for preschoolers with low cognitive or low emotional/behavioral resilience](early-identification-intervention-low-resilience-preschoolers.md)
 
 ## Examples
 -

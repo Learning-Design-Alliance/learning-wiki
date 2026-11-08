@@ -27,6 +27,7 @@ PeerWise is a freely available online tool developed at the University of Auckla
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **PeerWise online tool for student-authored multiple-choice question repositories**: PeerWise is the technology platform used in this study's interventions. The article describes it as "a freely-available, online tool to facilitate cohorts of students writing their own MCQs and answering and commenting on those of their peers", incorporating social functionality such as rating, commenting and following contributors. Developed at the University of Auckland, at the time of writing it had nearly 100,000 student registrants, around 600,000 questions and approximately 12 million answers. (Bates et al. (2013))
+- **PeerWise online cooperative question-authoring platform**: PeerWise is an online application in which students build a bank of multiple-choice questions for peers and cycle through authoring, answering, and discussion. "PeerWise is an online application designed to facilitate students in creating a bank of MCQs for their peers and supporting cycles of question authoring, answering, and discussion." Students rate peers' questions on a five-point scale, which correlates well with expert ratings, and the system tracks how each question is answered so distractor effectiveness can be empirically assessed. (Hilton et al. (2022))
 
 ### Claims
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](../claims/peerwise-student-questions-75-percent-high-quality.md) [+M]
@@ -40,8 +41,8 @@ PeerWise is a freely available online tool developed at the University of Auckla
 
 ## Key Sources
 - Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
-
 <!-- merged 2026-10-10 from elements/peerwise-online-mcq-authoring-tool ("PeerWise online tool for student-authored multiple-choice question repositories"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Hilton, C. B., Goldwater, M. B., Hancock, D., Clemson, M., Huang, A., & Denyer, G. (2022). Scalable Science Education via Online Cooperative Questioning. CBE—Life Sciences Education, 21(1). https://doi.org/10.1187/cbe.19-11-0249
 
 # PeerWise online tool for student-authored multiple-choice question repositories
 

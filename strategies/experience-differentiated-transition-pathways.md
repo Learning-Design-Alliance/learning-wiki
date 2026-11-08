@@ -53,6 +53,7 @@ The authors recommend that "transition curricula may benefit from differentiated
 - [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
 - [Differentiate the training program by surgeon experience level: synthetic exercises for young residents, biological exercises for senior groups](tes-experience-tiered-exercise-allocation.md)
+- [Adapt simulation session length and content to learner experience level, and emphasize maintenance training for low-frequency procedures](adapt-sim-session-to-experience-and-maintain.md)
 
 ## Examples
 -

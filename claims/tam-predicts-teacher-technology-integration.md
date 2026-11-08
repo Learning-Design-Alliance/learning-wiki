@@ -60,3 +60,5 @@ The umbrella review reports this meta-analysis of 46 correlation matrices on in-
 - [Children perceived the JCLS as highly useful and easy to use, with PU and PEOU means near the scale maximum](jcls-high-perceived-usefulness-ease-of-use.md) — related
 - [Self-handicapping thoughts were the largest inhibitor of science teachers' ICT use, explaining about 38.2% of lack of utilization](self-handicapping-largest-ict-inhibitor.md) — related
 - [Professional development, ease of understanding and user-friendliness are the criteria that individually predict the largest shares of trainer motivation](top-individual-predictors-professional-development-ease-user-friendliness.md) — a narrower finding that bears on this claim
+- [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related
+- [The TAM model explains e-learning continuance intention among students with general anxiety, with all hypotheses supported](tam-applicable-anxiety-group.md) — a narrower finding that bears on this claim

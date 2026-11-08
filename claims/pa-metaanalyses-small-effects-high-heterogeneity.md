@@ -56,3 +56,4 @@ The review of reviews synthesised meta-analytic results from 18 low or criticall
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — a narrower finding that bears on this claim
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — a narrower finding that bears on this claim
 - [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](pa-null-or-small-medium-effect-academic-achievement.md) — related
+- [Prior reviews report inconsistent effects of physical activity on academic achievement, with small positive relationships in some meta-analyses and null findings in other studies](inconsistent-pa-achievement-literature.md) — related

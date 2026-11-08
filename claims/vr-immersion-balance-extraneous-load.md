@@ -69,5 +69,5 @@ Theme 4 reports that unnecessary environmental elements and unintuitive controll
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — reports the opposite
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — a broader claim this one bears on
-- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
+- [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [Neither the pedagogical agent cue nor the light cue improved learning outcomes in the immersive VR dual-task environment](vr-cueing-no-learning-outcome-effect.md) — related

@@ -17,12 +17,14 @@ sources:
     author: Iñarrairaegui M, Fernández-Ros N, Lucena F, Landecho MF, García N, Quiroga J, Herrero JI
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Difficulty indices are significantly higher for high-scoring students than for moderate/poor-scoring students on the same MCQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Iñarrairaegui M, Fernández-Ros N, Lucena F, Landecho MF, García N, Quiroga J, Herrero JI. (2022). Evaluation of the quality of multiple-choice questions according to the students’ academic level. BMC Medical Education. https://doi.org/10.1186/s12909-022-03844-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Retrospective item analysis of 257 common MCQ across five exam years; difficulty index defined as the relative frequency of students choosing the correct response. Table 1 reports medians of 0.78 (group 1) versus 0.56 (group 2), P < 0.001, with "this global significant difference was maintained for factual and case-based questions."
 

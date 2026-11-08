@@ -115,6 +115,7 @@ Family engagement functions as an out-of-school support system that amplifies in
 - [Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading](peer-to-peer-reading-interventions-social-skills.md)
 - [Use extra-school Family Group Conferences to raise parental involvement without adding burden to schools](extra-school-fgc-parental-involvement-strategy.md)
 - [Head teachers should involve parents through meetings, report card attendance, and joint improvement plans](head-teacher-parental-involvement-practices.md)
+- [Promote regular family routines (morning, mealtime, bedtime, homework) as a possible avenue for narrowing school achievement gaps](promote-family-routines-achievement-gap-strategy.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.ptplus.org)** — National program in which educators visit families at home to build relational trust before academic partnership; associated with improved attendance and behavior in district evaluations.

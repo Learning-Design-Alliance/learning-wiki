@@ -52,3 +52,4 @@ Qualitative finding from the focus groups and matrix analysis: given the lack of
 - [Communication competencies centered on validation, trauma-informed care, and discussing prognostic uncertainty while preserving realistic hope](trauma-informed-communication-prognostic-uncertainty.md) — related
 - [Specific metaphor practices reduced effectiveness: stigmatizing prefaces, forced insertion, symptom-invalidating phrasing, and poor relatability or cultural fit](metaphor-use-challenges-contexts.md) — related
 - [School responses to CYP with Long Covid were mixed, with support experienced when staff believed the CYP and offered tailored, flexible adaptations](lc-mixed-school-responses-belief-flexibility.md) — related
+- [Discrepancies between stakeholder criteria required item-level review, e.g. infection-control challenging rated significant by leads but not useful by trainees](criteria-discrepancy-item-review.md) — related

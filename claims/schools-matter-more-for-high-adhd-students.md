@@ -16,12 +16,14 @@ sources:
     author: Cheesman Rosa, Eilertsen Espen M., Ayorech Ziada, Borgen Nicolai T., Andreassen Ole A., Larsson Henrik, Zachrisson Henrik, Torvik Fartein A., Ystrom Eivind
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Schools explain more variance in achievement for students with higher ADHD symptoms than for average students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Cheesman Rosa, Eilertsen Espen M., Ayorech Ziada, Borgen Nicolai T., Andreassen Ole A., Larsson Henrik, Zachrisson Henrik, Torvik Fartein A., Ystrom Eivind. (2022). How interactions between ADHD and schools affect educational achievement: a family‐based genetically sensitive study. Journal of Child Psychology and Psychiatry, and Allied Disciplines. https://doi.org/10.1111/jcpp.13656
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Figure 2 results from Model 4 in the Norwegian cohort, controlling for parental income and education so school effects reflect value added. The article reports less than 2% of achievement variance explained by schools at average inattention, rising to 10% at the highest symptom levels.
 

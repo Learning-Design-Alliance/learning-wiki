@@ -16,6 +16,8 @@ sources:
     author: Do Thang Xuân, Tran Huong Thi Lan, Le Thuy Thu
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: do-thang-xuân-2022-2
     resource: "https://doi.org/10.1371/journal.pone.0278109"
     title: "Do Thang Xuân, Tran Huong Thi Lan, Le Thuy Thu. (2022). Factors influencing the E-learning system usage during the COVID-19 pandemic in Vietnam. PLOS ONE 17(12): e0278109. https://doi.org/10.1371/journal.pone.0278109"
@@ -42,7 +44,7 @@ sources:
 
 Do Thang Xuân, Tran Huong Thi Lan, Le Thuy Thu. (2022). Factors influencing the E-learning system usage during the COVID-19 pandemic in Vietnam. PLOS ONE 17(12): e0278109. https://doi.org/10.1371/journal.pone.0278109
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression results (Table 4) from the cross-sectional survey; instructor characteristics carried a standardized coefficient of "β = 0.221, Sig <0.005", the smallest of the four significant predictors; no separate standardized effect size is printed.
 

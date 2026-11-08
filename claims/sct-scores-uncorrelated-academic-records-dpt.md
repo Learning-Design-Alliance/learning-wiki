@@ -53,3 +53,4 @@ Correlational analysis of 44 students' SCT scores against programmatic assessmen
 - [Improvement in Orthopaedic In-Training Examination scores showed no significant correlation with OSCE scores](oite-improvement-no-osce-correlation.md) — related
 - [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — related
 - [Self-efficacy for learning estimated by IRT was not significantly correlated with one-time exam scores or full-range GPA, but showed a weak positive correlation with GPA among students with positive SEL](sel-gpa-positive-range-correlation.md) — related
+- [First-year and sixth-year GPA were very highly correlated (r=0.745)](first-year-and-sixth-year-gpa-highly-correlated.md) — related

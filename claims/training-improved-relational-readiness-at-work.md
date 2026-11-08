@@ -49,3 +49,4 @@ Pre-post administration of the Scale of Perceived Self-Efficacy at Work to the 1
 - [The audit team's self-rated general self-efficacy (GSE) scores rose from pre-test to post-test after communication training, in one uncontrolled pre-post study](communication-training-improved-general-self-efficacy.md) — related
 - [Audit team members' interpersonal communication scores (ICI) rose from baseline to follow-up after communication training, in one uncontrolled pre-post study](communication-training-improved-ici-audit-team.md) — related
 - [The audit team's communication knowledge scores rose from pre-test to post-test after communication training, in one uncontrolled pre-post study](training-increased-communication-knowledge-scores.md) — related
+- [Research staff self-rated recruitment communication skills improve significantly after the GOSCE](gosce-significant-self-rated-skill-improvement.md) — related

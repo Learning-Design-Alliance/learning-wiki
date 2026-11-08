@@ -67,3 +67,4 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [Sex does not moderate sleep–outcome associations](sex-no-moderation-sleep.md) — related
 - [The ITEI–outcomes model does not differ between gender groups](no-gender-moderation-itei-outcomes.md) — related
 - [Subgroup analysis finds no interaction between intervention and subgroup, though benefit appears uneven across sex and handedness](sa-training-subgroup-no-interaction.md) — related
+- [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](covariates-sex-poverty-maltreatment-school-outcomes.md) — related

@@ -53,3 +53,4 @@ Mixed linear models of procedure time (seconds) by group with academic year as c
 - [Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching](simulation-reduces-procedure-completion-time.md) — related
 - [After brief cadaver-based training, nearly all novice medical students independently guided a needle into the femoral nerve block target zone under ultrasound, averaging 106 seconds and 1.9 attempts](cadaver-training-skills-test-performance.md) — related
 - [Training-sequence order did not significantly affect time to blood pressure measurement or time to arterial biological sample](training-sequence-no-time-difference.md) — related
+- [A single short education session enabled novices to measure optic nerve sheath diameter accurately regardless of whether training was online or hands-on](onsd-measurement-accurate-both-groups.md) — related

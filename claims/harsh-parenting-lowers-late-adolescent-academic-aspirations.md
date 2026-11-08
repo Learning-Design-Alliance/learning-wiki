@@ -24,6 +24,8 @@ sources:
     author: Yeung Jerf W. K., Chen Hui-Fang, Lo Herman H. M., Xu Leilei, Xu Chi
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Parental hostility, emotional rejection, and harsh family interactions in early adolescence predict lower academic aspirations in late adolescence
@@ -52,7 +54,7 @@ Standardized-effects GLMM models (Table 3) adjusting early-adolescent academic a
 
 Yeung Jerf W. K., Chen Hui-Fang, Lo Herman H. M., Xu Leilei, Xu Chi. (2023). Minor Forms of Parental Maltreatment and Educational Achievement of Immigrant Youths in Young Adulthood: A Longitudinal Study. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph20010873
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Model 1 of Table 3; the article separately reports parental emotional rejection predicted lower aspirations (β = −0.040, p < 0.05; model 2). Both models adjusted early aspirations and covariates.
 

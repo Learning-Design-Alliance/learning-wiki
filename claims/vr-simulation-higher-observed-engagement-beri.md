@@ -47,3 +47,4 @@ Facilitator observations using the validated BERI protocol across 191 student ex
 ## Related Claims
 - [Students report significantly higher enjoyment of VR simulation than desktop simulation, but subjective engagement does not differ significantly](vr-enjoyment-significant-engagement-not-significant.md) — related
 - [Students spend a significantly greater percentage of time on task in VR simulation than in desktop simulation](vr-simulation-greater-time-on-task-eye-tracking.md) — related
+- [Desktop VR and face-to-face simulation produce no significant difference in clinical performance outcomes for assessing and managing clinical deterioration](desktop-vr-similar-performance-to-face-to-face-simulation.md) — related

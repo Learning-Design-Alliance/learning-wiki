@@ -49,3 +49,4 @@ Coefficients of determination and Stone-Geisser Q2 reported for the final struct
 - [Digital hoarding is not related to academic engagement (null result)](digital-hoarding-not-related-engagement.md) — related
 - [Academic engagement relates to auto-perceived academic performance but not to auto-perceived score](engagement-related-to-pap-not-oap.md) — related
 - [General self-efficacy and satisfaction with e-learning jointly predict perceived academic performance among nursing students in synchronous virtual learning](self-efficacy-elearning-satisfaction-predict-perceived-academic-performance-nursing.md) — related
+- [Internet abusive use predicts variance in both academic performance and academic burnout in multivariate regression](internet-abusive-use-regression-predicts-burnout-gpa.md) — related

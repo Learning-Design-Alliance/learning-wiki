@@ -71,3 +71,5 @@ Chest compression quality measures extracted from the SimPad SkillReporter in th
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
 - [Other timed ACLS actions (first pulse check, compressions, defibrillation, epinephrine, antiarrhythmic) did not differ significantly between RCDP and IS groups, though trends favored RCDP](rcdp-other-timed-acls-metrics-null.md) — related
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related
+- [Providers exposed to blended learning do not deliver electrical therapies faster than those exposed to face-to-face learning, and completion times deteriorate in both groups at 2 months](blended-learning-no-faster-electrical-therapies.md) — related
+- [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related

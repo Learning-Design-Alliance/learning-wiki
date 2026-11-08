@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-08
 sources:
   - id: paul-2025
     resource: "https://arxiv.org/abs/2508.11677"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-08 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Formative feedback helps graders develop reasoning skills, foster critical thinking, and improve writing skills, and includes actionable recommendations that improve submissions. [→ Paul 2025](#paul-2025)

@@ -54,3 +54,4 @@ A self-constructed 25-item teaching satisfaction questionnaire (5-point Likert s
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [Most students in the electronic ward round cohort reported a subjective knowledge gain from the streamed bedside teaching](e-visite-subjective-knowledge-gain.md) — related
+- Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related

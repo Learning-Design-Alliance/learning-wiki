@@ -71,3 +71,4 @@ Structural model path coefficients from Fig 2 of the same study: social support�
 - [The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit](model-explains-variance-in-ai-teaching-innovation-behavior.md) — related
 - [The model explains substantial variance in emotional engagement and active learning with good predictive relevance](swbcl-model-explained-variance.md) — related
 - [Self-efficacy partially mediates the relationship between externally oriented thinking and clinical communication competence](self-efficacy-partial-mediator-eot-communication.md) — related
+- [The mediation models fit well and explain 22% of variance in extra training and 37% in academic performance](mediation-model-fit-variance.md) — related

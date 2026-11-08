@@ -49,3 +49,4 @@ HITL audit of 25 AI-generated case drafts, each independently reviewed by 3 occu
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — a broader claim this one bears on
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — a broader claim this one bears on
 - [Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines](expert-revision-improves-generated-medical-storylines.md) — related
+- [The average error time per case is 227.2 s, corresponding to an average error rate of 16.1%](average-error-rate-16-percent.md) — related

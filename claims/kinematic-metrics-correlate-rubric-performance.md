@@ -77,3 +77,4 @@ Under Robotic Control, the review reports expert-novice contrasts: experts show 
 - [In all three groups, time decreased and smoothness values rose significantly from pre-test to later tests, with no significant group differences in handedness or distance between instrument tips](within-group-improvement-all-groups.md) — related
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — related
 - [The AI-enhanced curriculum reduced maximum instrument divergence relative to control, achieving the expert benchmark](voa-reduced-instrument-divergence.md) — related
+- [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — a narrower finding that bears on this claim

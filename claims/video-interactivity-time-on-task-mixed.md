@@ -16,6 +16,8 @@ sources:
     author: Krumm Ilana Roberts MD, Miles Matthew C. MD, MEd, FCCP, Clay Alison MD, Carlos II W. Graham MD, Adamson Rosemary MBBS
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
   - id: krumm-ilana-roberts-md-2021-2
     resource: "https://doi.org/10.1016/j.chest.2021.09.015"
     title: "Krumm Ilana Roberts MD, Miles Matthew C. MD, MEd, FCCP, Clay Alison MD, Carlos II W. Graham MD, Adamson Rosemary MBBS. (2021). Making Effective Educational Videos for Clinical Teaching. Chest. https://doi.org/10.1016/j.chest.2021.09.015"
@@ -29,7 +31,7 @@ sources:
 # Higher interactivity in educational videos is associated with more time on-task and improved knowledge outcomes, but excessive interaction demands degrade learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r?` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -42,7 +44,7 @@ sources:
 
 Krumm Ilana Roberts MD, Miles Matthew C. MD, MEd, FCCP, Clay Alison MD, Carlos II W. Graham MD, Adamson Rosemary MBBS. (2021). Making Effective Educational Videos for Clinical Teaching. Chest. https://doi.org/10.1016/j.chest.2021.09.015
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The article's review reports that "higher levels of interactivity are associated with more time on-task, which correlates with improved knowledge outcomes." No effect sizes are printed.
 

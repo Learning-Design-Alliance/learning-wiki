@@ -16,12 +16,14 @@ sources:
     author: "Nakayama, N., Ejiri, H., Arakawa, N., & Makino, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Parasympathetic activity shows no change with repetition during peer‐discussion phases of the simulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nakayama, N., Ejiri, H., Arakawa, N., & Makino, T. (2023). Role of peer learning and self‐efficacy in parasympathetic activity during the simulation learning process in nursing students. Nursing Open, 10, 552–559. https://doi.org/10.1002/nop2.1321
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Within the same repeated‐phase comparisons of the observational‐comparative study, the HF component showed "no change in the HF component with repetition" during the peer‐discussion phases in both scenes.
 

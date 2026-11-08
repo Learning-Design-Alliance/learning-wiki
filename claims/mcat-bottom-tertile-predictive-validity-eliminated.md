@@ -50,3 +50,5 @@ Tertile stratification of 349 admitted students based on admission composite sco
 - [Including MCAT scores in admissions composites weakens prediction of clinical skills performance measured by OSCE scores](mcat-inclusion-reduces-osce-prediction.md) — related
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](predicted-mcat-reduces-performance-correlations.md) — related
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
+- [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related
+- [Compensatory selection eliminates or tempers the positive correlation between valid standardized test scores and degree completion among accepted students](compensatory-selection-eliminates-valid-test-correlation.md) — related

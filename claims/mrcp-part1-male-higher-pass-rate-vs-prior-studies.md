@@ -54,3 +54,4 @@ Univariable chi-squared comparison of first-sitting pass rates by sex in the 604
 - [First-time PANCE pass rates were similar between the MMI cohort (98%) and the two panel-interview cohorts (100%)](mmi-simulation-similar-pance-pass-rates.md) — related
 - [Sex differences in OSCE outcome appear in univariate analysis but are not significant in the path model, and SSC mitigates them](ssc-mitigates-sex-differences-osce.md) — related
 - [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related
+- [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related

@@ -114,3 +114,5 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [On a short-answer comprehension test, only multiple-choice practice, not true—false practice, significantly beat rereading (Experiment 2)](mc-only-beats-rereading-on-short-answer.md) — a narrower finding that bears on this claim
 - [Students in an introductory genetics course report self-testing more than any other study strategy (79%), ahead of rereading notes (68%)](students-report-self-testing-most-common-strategy.md) — related
 - [Research-supported study techniques (high elaboration, retrieval practice, focusing) correlate positively with secondary school grades, while spacing and low elaboration do not](supported-techniques-correlate-grades-secondary.md) — related
+- [Exploratory correlations linked strategy knowledge and use to first-midterm performance](strategy-knowledge-use-correlate-exam1.md) — related
+- [The Study Smart program improved students’ declarative metacognitive knowledge about (in)effective learning strategies in the short and long term](study-smart-improved-declarative-metacognitive-knowledge.md) — a narrower finding that bears on this claim
