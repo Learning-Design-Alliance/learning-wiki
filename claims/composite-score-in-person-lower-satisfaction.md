@@ -49,3 +49,4 @@ Multiple linear regression adjusted for age and sex compared the 15–45 composi
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — reports the opposite
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — reports the opposite
 - [Online PBL was associated with higher student satisfaction than in-person PBL in a Japanese medical cohort](online-pbl-higher-satisfaction-japanese-cohort.md) — a broader claim this one bears on
+- [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — related

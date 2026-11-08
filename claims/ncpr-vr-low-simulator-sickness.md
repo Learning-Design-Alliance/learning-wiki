@@ -64,3 +64,4 @@ Safety outcome from the feasibility study (n = 32), with SSQ administered before
 - [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related
 - [Simulator sickness shows significant gender differences in VR trauma simulation acceptance, with women more susceptible to nausea and dizziness.](vr-simulator-sickness-gender-differences.md) — related
 - [The 3D VR mode of RiNeo MR caused no simulator sickness: subjects reported discomfort levels of 1 or lower out of 3 on all SSQ symptoms](rineo-3d-no-simulator-sickness.md) — related
+- [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related

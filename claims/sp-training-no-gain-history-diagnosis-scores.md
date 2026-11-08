@@ -52,3 +52,4 @@ Null results from the same two-cohort checklist comparison in the Results sectio
 - [AI-VSP and traditional SP training show no significant difference in SEGUE Process scores or individual dimension scores](no-group-difference-process-segue-scores.md) — related
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — possibly the same claim (merge candidate)
 - [No between-group difference in diagnosis ability after teaching between CMRL and MBL residents](no-between-group-difference-diagnosis-ability.md) — related
+- [Exam-question performance does not differ between groups and does not correlate with OSCE performance](exam-no-group-differences-no-osce-correlation.md) — related

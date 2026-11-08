@@ -105,3 +105,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [CBT plus high-fidelity simulation improved and sustained nurses' confidence in early recognition of sepsis over 90 days](cbt-hfs-improved-sustained-sepsis-recognition-confidence.md) — related
 - [With support, redeployed junior doctors can become more confident managing unwell patients and performing advanced practical procedures in ICU](icu-rich-learning-environment-redeployed-juniors.md) — related
 - [Graduate intensive care nursing students' self-confidence and self-efficacy scores rose from pre-test to post-test after repeated high-fidelity simulation modules, in a single-group pre-post study](repeated-hfs-self-confidence-self-efficacy-gains.md) — related
+- [All three groups report significant self-assessed gains in theoretical knowledge and practical skills after the seminar, with no differences between groups](self-assessed-gains-similar-across-groups.md) — related

@@ -48,3 +48,5 @@ Multivariable logistic regression (Table 5) adjusting for age, gender, departmen
 ## Related Claims
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
 - [Students reporting academic decline rated the effects of distance/mixed learning more negatively on exams, study hours, focus, and social relationships](distance-learning-perceived-worse-by-academic-decliners.md) — related
+- [Sleep duration the night before a test positively predicts test scores in both samples](test-eve-sleep-predicts-performance.md) — related
+- [Students reduce sleep duration the night before a test, delaying bedtime by about 1 hour and cutting sleep by roughly 2 hours, with more than 10% sleeping not at all](test-eve-sleep-reduction-undergraduates.md) — related

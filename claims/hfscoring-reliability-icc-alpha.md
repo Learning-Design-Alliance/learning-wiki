@@ -73,3 +73,4 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [First impression ratings formed a moderately internally consistent scale across MMI stations (α = 0.71), about equal to the internal consistency of MMI performance ratings (α = 0.69)](fir-internal-consistency-alpha-071.md) — related
 - [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related
 - [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related
+- [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — a narrower finding that bears on this claim

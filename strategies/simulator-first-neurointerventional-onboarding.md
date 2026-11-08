@@ -52,6 +52,7 @@ The curriculum places simulator training as the first step so trainees can begin
 - [Use short, gamified low-cost simulation tasks as an introductory pre-clinical training method before real laparoscopic exposure](gamified-low-cost-simulation-before-real-laparoscopy.md)
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
+- [Deliver the initial CIED learning curve in metrics-based simulation to a proficiency benchmark before in vivo practice](simulation-first-learning-curve-cied-strategy.md)
 
 ## Examples
 -

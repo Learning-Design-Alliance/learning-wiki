@@ -50,3 +50,4 @@ SEM analysis of 504 children with ADHD testing the inattention → PS → WM pat
 - [Processing speed affects math achievement directly and both reading and math indirectly through working memory](ps-direct-math-indirect-wm-academic-effects.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
+- [Avoidant coping fully mediates the relationship between resilience resources and somatic health symptoms](avoidant-coping-fully-mediates-somatic-symptoms.md) — related

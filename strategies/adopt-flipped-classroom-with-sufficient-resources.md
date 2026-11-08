@@ -49,6 +49,7 @@ The authors' forward-looking recommendation for instructors choosing between tea
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](flipped-classroom-instructional-redesign-strategy.md)
 - [Equip instructors with concrete personalization strategies when adopting flipped designs dominated by group activities](personalization-strategies-flipped-designs.md)
 - [Provide adaptive online support and targeted guidance for students with weaker self-study motivation in blended flipped courses](adaptive-online-support-varied-self-study-strategy.md)
+- [Blended-learning sequencing: learn concrete conversation techniques online first, then deepen non-verbal and emotional aspects in physical SP units](blended-sp-techniques-online-first-physical-second.md)
 
 ## Examples
 -

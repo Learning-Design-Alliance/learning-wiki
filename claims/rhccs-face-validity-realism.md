@@ -68,3 +68,4 @@ Skilled participants' rating of technical difficulty fidelity on a Likert scale 
 - [Skilled participants rated the cadaver model's educational content as very favorable for teaching colonoscopy competencies](rhccs-content-validity-educational.md) — related
 - [Perceived mental, physical and technical workload on the cadaver model was higher the lower the participant's endoscopic experience level](rhccs-workload-nasa-tlx.md) — related
 - [Surgical residents rate laparoscopic procedures on Fix4Life cadavers as Good or Very Good for face validity](residents-rate-fix4life-good-face-validity.md) — related
+- [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related

@@ -49,3 +49,5 @@ Trained observers completed RTOP evaluations of participant and comparison teach
 - [Teachers in a modeling-based discrete mathematics PD project significantly improved their discrete mathematics content knowledge, while matched comparison teachers did not](modeling-pd-improves-discrete-math-teacher-knowledge.md) — related
 - [Teachers' RTOP scores correlated moderately-to-highly with their post-test content knowledge (Spearman rho = .50, p = .007)](rtop-content-knowledge-correlation.md) — related
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
+- [Participation in the FIRST IV professional development program predicts higher learner-centered teaching practices years later](first-iv-participation-predicts-rtop.md) — related
+- [Greater percent teaching time allocation is associated with lower learner-centered teaching practices](teaching-time-allocation-negative-rtop.md) — related

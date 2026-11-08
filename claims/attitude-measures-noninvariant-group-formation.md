@@ -53,3 +53,4 @@ Confirmatory factor analysis of post-semester survey measures (teamwork satisfac
 - [Measurement invariance of secondary students' perceptions of instructional quality is examined and supported](student-perceptions-instructional-quality-measurement-invariance.md) — related
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
 - [Measurement invariance across test and questionnaire versions held at least at metric level, allowing versions to be combined in one analysis](measurement-invariance-test-versions.md) — related
+- [Measurement invariance of the four-item communication scale across OSCE stations was not established, undermining score comparisons across stations](cs-scale-invariance-fails-across-stations.md) — related

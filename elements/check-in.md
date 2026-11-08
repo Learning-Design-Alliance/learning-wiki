@@ -79,6 +79,7 @@ Check ins make learner status visible early enough to act on, converting assumpt
 
 **[Pulse polls in Canvas/Moodle](https://www.instructure.com/canvas)** — One-question anonymous polls at the start of an online module, with results summarized and addressed in the next announcement or synchronous session.
 - [Diagnose self-regulation at semester start and provide scaffolding or self-regulation instruction for online learners](../strategies/diagnose-scaffold-self-regulation-online.md)
+- [Poll participants' baseline tool familiarity at the start of a session and adjust demonstration time per tool accordingly](../strategies/poll-baseline-familiarity-adjust-tool-time.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

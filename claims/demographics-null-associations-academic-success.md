@@ -71,3 +71,4 @@ Multiple linear regression (Table 3) shows non-significant coefficients for GPA 
 - [Distance education learning environment is positively associated with academic success among medical sciences students (β = 0.233, P < 0.001; r = 0.306)](distance-learning-environment-positively-associated-academic-success.md) — related
 - [Medical sciences students reported moderate academic success and rated their distance education learning environment as having more positive than negative points](moderate-academic-success-positive-distance-environment-ratings.md) — related
 - [Improvement factor showed no correlation with sex, age, non-traditional status, accelerated degree participation, or undergraduate GPA](improvement-factor-uncorrelated-background-variables.md) — related
+- [Gender shows no significant correlation with career and satisfaction factors among dental graduates](gender-no-correlation-career-factors-dental.md) — related

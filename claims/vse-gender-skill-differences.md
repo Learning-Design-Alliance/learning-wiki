@@ -52,3 +52,4 @@ Secondary subgroup analysis of operational skill scores within the experimental 
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
 - [Female residents showed a better post-course performance, a secondary outcome reported cautiously due to reduced subgroup power](female-residents-better-post-course-performance.md) — related
+- [Female students scored higher than male students on the medical English exam in both teaching module groups](female-students-higher-medical-english-exam-scores.md) — related

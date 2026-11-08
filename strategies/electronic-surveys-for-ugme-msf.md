@@ -44,6 +44,7 @@ Among the lessons learned, the authors recommend moving UGME multisource feedbac
 
 - [Adopt computer-assisted exams as alternatives to paper-based tests once comparability is established, exploiting immediate feedback and reduced scoring burden](computer-assisted-exams-as-alternative-strategy.md)
 - [Replace broad Likert-scale patient ratings with goal-directed questions and multisource (360°) feedback structures](goal-directed-patient-questions-360-feedback.md)
+- [Deliver MSF results through facilitated feedback embedded in a supportive organizational framework](facilitated-msf-feedback-delivery-strategy.md)
 
 ## Examples
 -

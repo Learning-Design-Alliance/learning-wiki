@@ -59,3 +59,4 @@ The review reports Strout et al.'s interprofessional mass casualty incident simu
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
 - [VR-based disaster simulation education increases disaster triage confidence more than written case simulation](vr-disaster-triage-confidence-gain.md) — related
 - [The e-learning program significantly increases participants' confidence in responding to suspected abuse cases](elearning-abuse-program-raises-confidence.md) — related
+- [Pre-clinical medical students' overall knowledge of disaster response medicine rose from mean 6.99 to 13.31 of 20 after ELITE-DR self-learning videos, in one uncontrolled pre-post study](elite-dr-video-increases-drm-knowledge.md) — related

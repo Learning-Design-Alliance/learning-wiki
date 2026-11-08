@@ -52,3 +52,4 @@ Objective global rating scale (modified, previously validated) scored before and
 - [Global GOALS, global OSATS, and task-specific OSATS scores rose from pre-test to post-test in three PT/CL training groups of MIS novices](three-pt-cl-mixes-improve-lche-performance-scores.md) — related
 - [Overall SARMS-rated anastomosis quality improved significantly across sessions, with the motion and speed categories showing the strongest significant gains](sarms-quality-improves-motion-speed-significant.md) — related
 - [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related
+- [All six OSATS global rating scale variables scored significantly higher in the final drill than the first drill](osats-six-variables-improve-first-to-final-drill.md) — related

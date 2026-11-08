@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 428 claims (201 for, 199 mixed, 28 against) · 321 studies (102 associational, 77 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 27 of 321 report an effect size · 421 claims rest on one study
+> **Evidence** · 429 claims (201 for, 200 mixed, 28 against) · 322 studies (103 associational, 77 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 27 of 322 report an effect size · 422 claims rest on one study
 
 ## Conditional relationship
 
@@ -272,6 +272,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](../claims/ai-almost-perfect-agreement-peg-transfer-assessment.md) [+W] — attached 2026-11-08 from Belmar Francisca et al. (2022), which proposed "Expand AI automated assessment to additional basic laparoscopic exercises as a preliminary framework"; tests this page's relationship.
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](../claims/ai-moderate-agreement-bean-drop-assessment.md) [~W] — attached 2026-11-08 from Belmar Francisca et al. (2022), which proposed "Expand AI automated assessment to additional basic laparoscopic exercises as a preliminary framework"; tests this page's relationship.
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](../claims/competence-frameworks-cvi-085-all-items.md) [+W] — attached 2026-11-08 from Miranda Fernanda Berchelli Girão; Alves Gerson Pereira-Junior; Mazzo Alessandra (2021), which proposed "Involve experts throughout construction and validation of competence-based training and assessment material".
+- [Self-reported Risk Preference is negatively related to student grades, but this relationship is fully explained by heterogeneous scale use and is no longer significant after vignette correction](../claims/risk-preference-grades-fully-scale-use-artifact.md) [~W] — attached 2026-11-08 from Coenen Johan et al. (2021), which proposed "Use anchoring vignettes or more objective personality measures when studying relationships between personality and academic outcomes, because uncorrected subjective measures overestimate predictive power"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

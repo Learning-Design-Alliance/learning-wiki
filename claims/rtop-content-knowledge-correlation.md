@@ -50,3 +50,4 @@ Correlational analysis within the project's observational data found "the Spearm
 - [Participating teachers' classroom practice became significantly more reformed and inquiry-based over the PD year, as measured by RTOP](modeling-pd-improves-reformed-practice-rtop.md) — related
 - [Conception orientation and TPACK level show a statistically significant positive association (Spearman's rho = 0.731; Cramer's V = 0.56)](conception-tpack-strong-association.md) — related
 - [Interpretation and diagnosis scores were not correlated, suggesting the two domains are partly independent](interpretation-diagnosis-uncorrelated.md) — related
+- [Greater percent teaching time allocation is associated with lower learner-centered teaching practices](teaching-time-allocation-negative-rtop.md) — related

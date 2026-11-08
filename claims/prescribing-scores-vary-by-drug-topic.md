@@ -49,3 +49,4 @@ Topic-level analysis of exam scores across all participants. The article also re
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
 - [Pre-hospital emergency personnel show weakest OSCE performance in complicated childbirth management (33.3%) and strongest in pregnant women's resuscitation (83.2%)](osce-weakest-childbirth-strongest-resuscitation.md) — related
 - [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related
+- [Knowledge of drug interactions and contraindications remained poor (<50%) under both programmes](poor-interactions-contraindications-knowledge.md) — related

@@ -73,3 +73,4 @@ Same cross-sectional sample and adjusted multilevel models; the VPA rows in Tabl
 - [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](mvpa-aerobic-pa-benefits-executive-functions.md) — reports the opposite
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — reports the opposite
+- [The HIIT-style VPA intervention did not significantly improve internalising or externalising symptoms or self-esteem in young adolescents](fit-to-study-null-mental-health.md) — related

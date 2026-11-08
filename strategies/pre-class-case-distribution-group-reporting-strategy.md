@@ -51,6 +51,7 @@ An implementable recipe the authors describe for FC+CBL: send classic cases to s
 - [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
 - [Design virtual case-based learning as a three-phase, three-day flipped sequence combining team case discussion, peer presentation, and expert-supported conclusion](three-day-virtual-cbl-session-structure-strategy.md)
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
+- [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
 
 ## Examples
 -

@@ -92,3 +92,5 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [Blinded raters scored higher in Communication and Examination skills at post-test than pre-test in standardized patient encounters, in one uncontrolled pre-post study](sp-encounter-skills-significant-improvement.md) — related
 - [Training with standardized patients improves diagnostic accuracy, patient interaction skills, and overall clinical performance](standardized-patients-improve-diagnostic-accuracy.md) — a broader claim this one bears on
 - [Empathy is positively correlated with medical students' clinical competence, particularly communication skills](empathy-positive-clinical-competence-communication.md) — related
+- [Clustered communication and therapy checklist scores increased in both groups between examinations but without a significant group difference](communication-therapy-scores-no-group-difference.md) — related
+- [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related

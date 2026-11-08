@@ -56,6 +56,7 @@ Based on their trial results, the authors "recommend inclusion of our vaginal su
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Integrate the MaiSurge model into gynecology residency curricula for continuous TLH training and skill assessment outside the operating room](maisurge-curriculum-integration-strategy.md)
+- [Include simulation training with practice-and-feedback cycles in surgical fellowship curricula for uncommon procedures](simulation-practice-feedback-cycles-surgical-curriculum.md)
 
 ## Examples
 -

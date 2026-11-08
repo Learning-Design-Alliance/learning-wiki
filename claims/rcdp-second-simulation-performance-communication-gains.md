@@ -69,3 +69,4 @@ Same within-group Wilcoxon comparison for team communication (5-item checklist, 
 - [RCDP ACLS simulation produces greater ACLS knowledge gains than traditional simulation, which showed no significant change](rcdp-acls-simulation-greater-knowledge-gains.md) — related
 - [RCDP ACLS simulation with standardized prebriefing and video-based formative feedback produces greater ACLS self-efficacy gains than traditional simulation in nursing students](rcdp-acls-simulation-greater-self-efficacy-gains.md) — related
 - [Knowledge test scores rose from pre-test median 6 to post-test median 8 after RCDP-within-TeamSTEPPS interprofessional simulation, in one uncontrolled pre-post study](ipstar-mcq-knowledge-gain.md) — related
+- [Clustered communication and therapy checklist scores increased in both groups between examinations but without a significant group difference](communication-therapy-scores-no-group-difference.md) — related

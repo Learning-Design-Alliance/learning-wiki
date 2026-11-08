@@ -51,3 +51,4 @@ Based on a 10-item Likert-scale questionnaire and open-ended comments completed 
 - [Students were highly satisfied with the paired course model and its components, with 100% willing to advise a new student to take the paired courses](paired-course-high-student-satisfaction.md) — related
 - [Students without phonological input reported higher satisfaction with their pre-listening activity](satisfaction-higher-without-phonological-input.md) — related
 - [Participants report high satisfaction with both training modalities with no difference between groups](high-satisfaction-both-modalities-no-difference.md) — related
+- [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — related

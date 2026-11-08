@@ -74,3 +74,5 @@ Comparison of estimated marginal mean composite z-scores across the two sessions
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related
+- [Simulator measurements showed high temporal stability across sessions separated by at least one month](test-retest-temporal-stability.md) — related

@@ -57,3 +57,4 @@ Subgroup analysis of OSCE stations in the retrospective cohort: the test group s
 - [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related
+- [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related

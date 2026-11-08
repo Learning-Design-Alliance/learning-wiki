@@ -52,6 +52,7 @@ The review proposes cognitive training strategies that work within the visual wo
 ## Related Strategies
 
 - [Think-Alouds](think-alouds.md)
+- [Use subvocal imagery and ideomotoric training, with novices rehearsing systematically and experts focusing on difficult steps](subvocal-ideomotoric-imagery-strategies.md)
 
 ## Examples
 -

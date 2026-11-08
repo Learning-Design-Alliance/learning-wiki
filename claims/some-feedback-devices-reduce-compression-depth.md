@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-08
 sources:
   - id: sabery-mahdieh-2026
     resource: "https://doi.org/10.1186/s12873-026-01553-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accelerometer-based or AED-integrated audiovisual feedback devices were associated with a reduction in compression depth, a parameter critical for effective cardiac output, even while improving other parameters. [→ Sabery Mahdieh 2026](#sabery-mahdieh-2026)
@@ -55,3 +56,4 @@ Narrative synthesis of the review's included studies, citing Fischer et al.'s ra
 - [Real-time feedback training improves compression depth control within the recommended 5–6 cm range in hands-only CPR](real-time-feedback-improves-compression-depth-hands-only.md) — reports the opposite
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — reports the opposite
+- [Trainee doctors report higher self-confidence and prefer the feedback device for real resuscitation](truecpr-feedback-confidence-preference.md) — related

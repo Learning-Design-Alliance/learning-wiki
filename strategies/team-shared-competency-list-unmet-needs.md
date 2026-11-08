@@ -42,6 +42,7 @@ The article recommends that healthcare professionals share the 12-competency lis
 ## Related Strategies
 
 - [Design pharmacist competency-training programs combining didactic teaching with interactive, patient-centered approaches and communication programs](competency-based-pharmacist-training-program-design.md)
+- [Use the MUSCAT for individual self-evaluation and team-based reflection to develop multidisciplinary collaboration capacity](muscat-self-evaluation-team-reflection-strategy.md)
 
 ## Examples
 -

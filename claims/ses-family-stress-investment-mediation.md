@@ -57,3 +57,4 @@ The umbrella review's thematic analysis identifies mediating processes including
 - [The direct and indirect costs of schooling are often too high for hunter-gatherer families, constituting an economic barrier to attendance](economic-barriers-hunter-gatherer-schooling.md) — related
 - [In the U.S., variance in student achievement is explained more by family economic background than by school-level expenditures](family-economic-background-explains-more-variance-than-school-expenditures.md) — related
 - [Household income indirectly influenced perceived academic performance through private educational expenditure but not through parent–child communication](material-pathway-mediation-significant-korea.md) — a narrower finding that bears on this claim
+- [Lower family income is associated with higher parental economic stress about needs and wants and lower parental SSS](income-parent-stress-sss.md) — a narrower finding that bears on this claim

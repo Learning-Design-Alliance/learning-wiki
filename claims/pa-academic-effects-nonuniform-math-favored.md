@@ -55,3 +55,4 @@ The review's synthesis of its sub-group meta-analyses across mathematics, langua
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Across 29 controlled studies, positive overall effects of school-based PA on mathematics performance appear in 45% of studies and neutral effects in 52%, with only one negative subgroup result](pa-interventions-45-percent-positive-math.md) — a narrower finding that bears on this claim
 - [The PA intervention's benefit appeared in mathematics but not significantly in reading outcomes](pa-intervention-more-beneficial-for-mathematics.md) — a narrower finding that bears on this claim
+- [Physical activity is positively associated with academic achievement in all tested models except English, where no relationship appears](physical-activity-positive-achievement-except-english.md) — related

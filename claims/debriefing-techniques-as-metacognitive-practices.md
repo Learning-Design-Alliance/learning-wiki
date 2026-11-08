@@ -54,3 +54,4 @@ Transcript-based cognitive-ethnographic analysis across Excerpts 3-7 of the anal
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — related
 - [Educators used social networks to guide reflection on engagement, roles, and shared mindset during debriefing](educators-used-social-networks-for-engagement-roles-reflection.md) — related
 - [Simulation-based practice with advocacy-inquiry and 2-challenge techniques increased residents' appropriate challenging behavior from 27% to 67%](simulation-speak-up-challenging-behavior-increase.md) — related
+- [Facilitator questioning during debriefing is perceived as mostly open-ended and encouraging of self-reflection, though perceptions are mixed](open-ended-questioning-perceived-mixed.md) — related

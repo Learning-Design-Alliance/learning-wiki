@@ -83,3 +83,4 @@ Authors' interpretation of the treatment-group correlation comparisons (Table 4)
 - [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](mastery-mixed-teacher-variable-effects.md) — related
 - [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related
 - [Female students increased their attitudes toward physical education classes more than male students.](female-students-greater-attitude-increase.md) — related
+- [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — a narrower finding that bears on this claim

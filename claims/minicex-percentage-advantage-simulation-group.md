@@ -54,3 +54,4 @@ Descriptive comparison of post-teaching Mini-CEX means from Table 1, reported in
 - [Interns taught with practical training scenario simulation achieve significantly higher graduation-assessment scores — total, case analysis, treatment plan, and extension of relevant knowledge — than bedside-taught interns](simulation-group-higher-graduation-assessment.md) — related
 - Self-reported improvement in doctor-patient communication after simulation training was limited, with half the students reporting no increase — related
 - [SBME most improves humanistic care and doctor–patient communication, and only slightly improves basic knowledge and operation skills](sbme-lost-points-humanistic-care-communication.md) — related
+- [Students trained with simulated patients before bedside teaching scored significantly better on the final practical examination than students trained in reverse order](simulation-first-better-final-exam-pain-medicine.md) — related

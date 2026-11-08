@@ -50,3 +50,4 @@ Pearson correlation analysis between high school admission grades and graduating
 - [Students admitted with Jordanian and IB high school degrees were more likely to graduate than the rest of the cohort](jordanian-ib-degrees-more-likely-to-graduate.md) — related
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a broader claim this one bears on
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — a broader claim this one bears on
+- [High school GPA correlates significantly but weakly (0.3) with graduating GPA among Jordanian dental students](hs-gpa-weak-positive-correlation-dental-aa-gpa.md) — related

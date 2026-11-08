@@ -71,6 +71,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Use regular low-stakes testing with individualised feedback and learning-trajectory tracking to increase engagement in procedural simulation training](regular-testing-individualised-feedback-procedural-simulation.md)
 - [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
+- [Provide ongoing refresher training covering PPIUD eligibility and birth-spacing importance to sustain provider knowledge and reduce bias](ongoing-refresher-training-ppiud-eligibility-birth-spacing.md)
 
 ## Examples
 -

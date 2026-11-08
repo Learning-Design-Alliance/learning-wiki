@@ -52,3 +52,4 @@ Pearson correlation analysis in a cross-sectional study of 562 Spanish schoolchi
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
 - [Academic achievement correlates weakly to moderately with all executive functions in the total sample and in both sexes](efs-correlate-academic-achievement-both-sexes.md) — related
 - [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related
+- [Boys and girls showed no significant differences in GPA or any motor competence or fitness measure](no-gender-differences-gpa-motor-fitness.md) — reports the opposite

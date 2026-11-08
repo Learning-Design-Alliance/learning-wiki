@@ -50,6 +50,7 @@ The review's authors recommend urgently required changes in undergraduate CPT ed
 ## Related Strategies
 
 - [Extend prescribing competence assessment research to professions other than medicine](recommend-extend-assessment-research-to-other-professions.md)
+- [Improve prescribing skills through simulated-patient role-play, real supervised prescriptions, constructive alignment and a final prescribing assessment](simulated-real-prescribing-practice-strategy.md)
 
 ## Examples
 -

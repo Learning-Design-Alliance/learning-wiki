@@ -51,3 +51,4 @@ In the same census survey of 46 final-year dental students, the lowest mean conf
 - [Dental students' self-confidence declines during clinical internship for rubber dam application, flare-up management, and non-vital bleaching](dental-confidence-declines-rubber-dam-flareup-bleaching.md) — related
 - [Composite is the dominant restorative material for MIH, with material choice associated with diagnostic confidence and workplace](mih-restorative-material-choices.md) — related
 - [TBL + peer teaching cohort outperformed the traditional cohort on complex OSCE procedures (pulpotomy, tooth preparation, incision and suturing, curettage, patient intake) but not on routine skills (rubber dam, periodontal probing)](tbl-pt-osce-complex-not-routine-skills.md) — related
+- [Graduating dental students showed satisfactory self-perceived preparedness overall, but evidence-based practice skills were weakest](preparedness-satisfactory-evidence-based-skills-weak.md) — related

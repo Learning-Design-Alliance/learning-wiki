@@ -50,3 +50,4 @@ Interrater reliability analysis of the pilot study's 5 raters scoring the same 4
 - [Expert raters' MADRS scores of LLM-based virtual patients fall near predefined clinical profile scores, with a mean item difference of 0.52 (SD 0.75)](virtual-patients-madrs-score-alignment.md) — related
 - [Expert raters rated the virtual patients' profile consistency, character cohesion, and dialogue realism favorably across 20 interviews](virtual-patient-qualitative-realism-ratings.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
+- [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related

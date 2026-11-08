@@ -51,3 +51,4 @@ One-group pretest-posttest quasi-experiment with 36 fifth-year pharmacy students
 - [CBL significantly enhances communication and collaboration skills compared with LBL (RR = 2.49)](cbl-enhances-communication-collaboration-skills.md) — related
 - [Pharmacy students report clinical rotations limited to one day per week with minimal patient interaction](limited-clinical-exposure-pharmacy-uganda.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
+- [Quarantine increased student collaboration with colleagues, especially among fifth-year students](quarantine-increased-peer-collaboration-fifth-year.md) — related

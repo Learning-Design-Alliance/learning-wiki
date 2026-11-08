@@ -50,3 +50,4 @@ Questionnaire with ten 5-point Likert statements completed by the same cohort (n
 - [Greater practice-quiz use correlated with better knowledge-test scores, while more summative test attempts correlated with worse scores](practice-quiz-use-correlates-with-knowledge.md) — related
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md) — related
 - [Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection](students-lack-antimicrobial-prescribing-competence.md) — related
+- [PBL students reported greater prescribing confidence and preparedness and completed more drug prescriptions during training, but confidence did not correlate with assessed skill](pbl-confidence-preparedness.md) — related

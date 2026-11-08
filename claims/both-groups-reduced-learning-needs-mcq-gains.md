@@ -47,3 +47,4 @@ Longitudinal secondary outcomes (Table 3) using Wilcoxon rank tests within group
 ## Related Claims
 - [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
+- [In a bedside clinical examination course, an app-based blended-learning group improved significantly more on multiple-choice tests than a control group using paper course notes](app-blended-learning-higher-mc-improvement-pilot.md) — reports the opposite

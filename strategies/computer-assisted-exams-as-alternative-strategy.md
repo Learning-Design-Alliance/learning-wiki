@@ -49,6 +49,7 @@ Based on their null mode effect, the authors recommend that "computers can be ad
 ## Related Strategies
 
 - [Adopt electronic surveys for undergraduate MSF to reduce rater burden and ease data management](electronic-surveys-for-ugme-msf.md)
+- [Adopt the Smart Class teaching module as an alternative when traditional class teaching is not possible](smart-class-alternative-when-traditional-teaching-impossible.md)
 
 ## Examples
 -

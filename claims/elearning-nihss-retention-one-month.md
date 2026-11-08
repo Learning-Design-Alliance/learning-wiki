@@ -50,3 +50,4 @@ In the same randomized controlled trial, the 50-question quiz was repeated at le
 - [The video-group advantage grew to almost 8 points on a retention assessment taken two weeks later](multimedia-prelectures-higher-retention-two-weeks.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Adding a SimZone 0 interactive-video preparatory phase before instructor-led CPR training is associated with significantly higher competence retention at 6 months among nursing students](zone0-iv-cpr-competence-retention-6-months.md) — related
+- [Senior medical students following a highly interactive e-learning module acquire more NIHSS knowledge asynchronously than students following the traditional didactic video](e-learning-module-outperforms-didactic-video-nihss-medical-students.md) — related

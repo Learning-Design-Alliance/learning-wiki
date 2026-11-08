@@ -51,3 +51,4 @@ Across the three classroom experiments, affective-motivational outcomes were mea
 ## Related Claims
 - [Images that reveal the answer during retrieval practice reduce vocabulary recall compared with practice without images](answer-revealing-images-reduce-vocabulary-retrieval-practice-learning.md) — related
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
+- [Explaining was more enjoyable and more interesting than retrieving the material](explaining-more-enjoyable-and-interesting-than-retrieval.md) — related

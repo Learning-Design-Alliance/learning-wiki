@@ -48,3 +48,4 @@ Pre/post paired comparison of timed laparoscopic stitch performance by 36 first-
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related
 - [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — a broader claim this one bears on
+- [Skills trained in the FLS suture-with-intracorporeal-knot exercise did not easily transfer to the more complex SUTT1 stitching and knot-tying task](fls-suture-skills-poor-transfer-sutt1.md) — related

@@ -49,3 +49,4 @@ ENA of co-occurrences between detected learning tactics and the corresponding MO
 - [High-performance learners show stronger alignment of learning tactic choices with the tasks provided in the learning design](high-performance-alignment-tactics-design.md) — related
 - [Learners from different performance groups differ in priorities of learning tactic usage across learning sessions](performance-groups-differ-tactic-usage.md) — related
 - [The four detected learning tactics differ significantly across all nine learning actions (MANOVA)](manova-significant-tactic-differences.md) — related
+- [The MOOC's structured modules and clinical cases supported students' learning about structured, prioritized data collection and cue catching](mooc-structured-data-collection.md) — related

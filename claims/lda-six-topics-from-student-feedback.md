@@ -52,3 +52,4 @@ Analysis of written student feedback collected at a Finnish university during th
 - [Feedback questionnaire wording affects LDA topic results, more for emotional value than content](questionnaire-wording-affects-lda-topics.md) — related
 - Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid — related
 - [Simulated personalized feedback generation covered 1,401 test participants with topic counts ranging from 34 to 243 depending on student cluster](ptm-feedback-simulation-1401-participants.md) — related
+- [LDA topic modelling of free-text feedback yielded six topics consolidated into themes of ease, assessment, comprehension, interactivity, clarity and summary](lda-six-topics-course-feedback.md) — related

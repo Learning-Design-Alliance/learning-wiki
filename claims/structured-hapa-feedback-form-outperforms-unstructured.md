@@ -49,3 +49,4 @@ Review reports DeLeon et al. 2018 quasi-experimental comparison: "Significantly 
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Video-feedback interventions that structure annotations with an observation form show larger effects on communication skills than unstructured formats, according to a cited meta-analysis](observation-form-structures-video-annotation-effects.md) — related

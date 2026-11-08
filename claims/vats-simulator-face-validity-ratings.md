@@ -50,3 +50,4 @@ Post-procedure Likert questionnaire (1 = very bad to 5 = excellent) completed by
 - [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — related
 - [More experienced surgeons sutured faster on the simulator, supporting construct validity](vats-simulator-construct-validity-experience.md) — related
 - [Human cadaver models allow trainees to complete all steps of three-portal VATS lobectomy with high rated simulation quality](cadaver-model-vats-lobectomy-training-feasible.md) — related
+- [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related

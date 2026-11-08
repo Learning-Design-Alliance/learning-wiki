@@ -68,3 +68,4 @@ Word-count analysis of free verbalization interviews with 77 anesthesia personne
 - [The most common criticism of Visual Clot was its lack of a quantitative component](visual-clot-lacks-quantitative-component-criticism.md) — related
 - [Positive and negative statements about Visual Clot did not differ by participants' specialty or level of experience](visual-clot-perceptions-independent-of-specialty-experience.md) — related
 - [Positive design features was the most frequently mentioned theme about Visual Clot](visual-clot-positive-design-features-dominant-theme.md) — related
+- [Focus group participants found the smart speaker easy to use and described interacting with it as like conversing with a person](smart-speaker-mmt-focus-group-usability.md) — related

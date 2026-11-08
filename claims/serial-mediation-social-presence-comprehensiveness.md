@@ -49,3 +49,6 @@ Bootstrapped serial mediation analysis (10,000 simulations, Hayes 2013) with lea
 - [Oral explanations contain more personal references and more concepts than written explanations, but not more elaborations](oral-explanations-more-references-concepts.md) — related
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
 - [Text difficulty moderates the effect of explaining modality: oral explaining outperforms written explaining on inference-based questions only for the high-difficult text](text-difficulty-moderates-explaining-modality-effect.md) — related
+- [The chat manipulation increased personal references but not rated social presence compared with the other explaining conditions](chat-condition-personal-references-not-presence-ratings.md) — related
+- [Oral explanations contained more concepts and elaborations than chat-based written explanations](oral-explanations-more-concepts-and-elaborations-than-chat.md) — related
+- [Inducing social presence in a chat-based writing condition did not improve comprehension compared with oral, standard written, or retrieval conditions](social-presence-chat-writing-no-comprehension-benefit.md) — related

@@ -68,3 +68,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — related
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
 - [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related
+- [All six technology-acceptance subscales correlated positively with intention to use, with the strongest correlation between perceived playfulness and intention to use (r = 0.76)](ta-subscales-correlate-intention.md) — related

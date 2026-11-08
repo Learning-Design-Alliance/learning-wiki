@@ -64,3 +64,4 @@ Covariate effects on random intercepts in the RI-CLPMs (N = 3,425). The article 
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
 - [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related
 - [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related
+- [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — related

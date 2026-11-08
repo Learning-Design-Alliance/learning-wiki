@@ -44,6 +44,7 @@ The article's concluding recommendation is that "school-aged children are alloca
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Government–school–family coordination with autonomy-supportive, feedback-rich school sports plans to promote participation](sports-participation-three-party-intervention-strategy.md)
 - [Regular Physical Education (PE) Classes](regular-physical-education-pe-classes.md)
+- [Design creative and challenging motor tasks during sensitive periods to support confidence, memory, and anticipation](creative-challenging-motor-tasks-sensitive-periods.md)
 
 ## Examples
 -

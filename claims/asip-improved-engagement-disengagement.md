@@ -73,3 +73,4 @@ Objective outcome measure: pairs of trained, condition-blind raters visited clas
 - [Instructional communication strongly predicts perceived student engagement (β = 0.82)](ic-strongly-predicts-student-engagement.md) — related
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related
 - [Experimental-group semester grades rose while control-group grades declined over the semester, with a significant between-group post-test difference](3d-simulation-semester-grade-gains.md) — related
+- [The experimental group scored significantly higher than the control group only on the mid-semester procedure-and-interaction satisfaction subscale](midterm-procedure-interaction-advantage.md) — related

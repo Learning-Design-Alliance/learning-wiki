@@ -49,3 +49,5 @@ The review describes Domhan and collaborators' TuThor device, combining a porcin
 - [A porcine heart-lung tissue-block trainer shows construct validity, with completion rates differing by experience level](tissue-block-trainer-construct-validity-completion.md) — related
 - [Live swine VATS lobectomy training carries substantial anaesthesia-related complications, including hypoventilation and death](swine-model-anesthesia-complications-vats-training.md) — related
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
+- [Participants rated telesimulation positively on enjoyment, knowledge gain, suitability, and practical training opportunities](positive-perception-of-telesimulation.md) — related
+- [Ten general thoracic surgeons found the pediatric VATS simulator very difficult but unanimously agreed it was worth using for rehearsal training](ten-surgeons-rehearsal-training-consensus.md) — related

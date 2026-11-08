@@ -66,3 +66,5 @@ Randomized controlled trial of 67 third-year medical students in Vietnam, random
 - [No significant difference was found between the OLP-only and OLP+VCI groups in scored SP encounter skills](no-group-difference-olp-versus-olp-vci.md) — related
 - [No significant difference between SP-trained and control students in clinical judgement, medical record writing, or overall capabilities](no-significant-gain-clinical-judgement-medical-record.md) — related
 - [Within the SP group, specific reception skills improved significantly between the training day and two weeks later](sp-group-specific-skill-gains-first-two-weeks.md) — a narrower finding that bears on this claim
+- [Blended GC-plus-traditional teaching produced non-inferior learning satisfaction and academic achievement compared with traditional teaching, with no significant between-group differences in progress](blended-gc-non-inferior-outcomes.md) — related
+- [Clustered communication and therapy checklist scores increased in both groups between examinations but without a significant group difference](communication-therapy-scores-no-group-difference.md) — related

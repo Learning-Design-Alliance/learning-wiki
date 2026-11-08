@@ -64,6 +64,7 @@ The review recommends hybrid simulation approaches that combine different low-co
 - [Use student-chosen, real-world-anchored scenario topics with peer-designed cases in interprofessional CPR simulation](student-chosen-real-world-scenario-strategy.md)
 - [Use low-cost task simulators within high-fidelity scenarios as a first step in a train-the-trainer cascade for bleeding control](train-the-trainer-cascade-bleeding-control.md)
 - [Replace or supplement mannequins with coached actors and multidisciplinary role play to increase realism](actor-based-dysphagia-simulation-strategy.md)
+- [Increase patients' practice opportunities with an inexpensive wearable simulation tool to overcome limited nurse training time](wearable-simulation-increase-practice-opportunities.md)
 
 ## Examples
 -

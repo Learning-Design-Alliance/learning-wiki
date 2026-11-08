@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-08
 sources:
   - id: edwards-thomas-c-2021
     resource: "https://doi.org/10.1007/s00402-021-04050-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Real-world performance of rTKA rose from 11.3 ± 8.92% correct pre-training to 83.5% after iVR training, in a single-group pre-post study with no comparison group. [→ Edwards Thomas C. 2021](#edwards-thomas-c-2021)

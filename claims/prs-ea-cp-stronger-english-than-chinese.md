@@ -77,3 +77,5 @@ Aggregate p-value tests (Simes/ACAT) over SBayesR results contrasted English- an
 - The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size — related
 - [Genome-wide association studies and polygenic scores link genetic variants to individual differences in educational attainment, with small per-SNP but increasing aggregate effects](gwas-polygenic-scores-educational-attainment.md) — related
 - [Polygenic scores for EA and dyslexia have opposite associations with school performance in all three subjects](pgs-ea-dyslexia-opposite-school-performance.md) — related
+- [Four genes (MEF2C, BRINP1, S100A1, S100A13) show genome-wide significant gene-based association with science attainment, with none for maths or English](four-genes-gene-based-association-science-attainment.md) — related
+- [Polygenic risk scores for educational attainment positively predict academic achievement in both sexes, while the PRS for depression negatively predicts achievement in girls](prs-education-predicts-achievement-depression-prs-girls.md) — related

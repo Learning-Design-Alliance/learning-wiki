@@ -53,3 +53,4 @@ End-of-course questionnaire item on satisfaction administered to the 36 resident
 - [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
+- [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — a narrower finding that bears on this claim

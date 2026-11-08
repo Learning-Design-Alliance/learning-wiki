@@ -53,6 +53,7 @@ The article proposes integrating the 3D-printed simulator into virtual and mixed
 - [Design virtual simulations with ease-of-use features, haptic technology, moderate immersion, and postscenario feedback](vs-design-features-strategy.md)
 - [Prefer mixed reality with hand tracking over head-mounted-display controllers for gesture-simulation training](mr-hand-tracking-over-hmd-controllers.md)
 - [Refine tactile properties of 3D-printed simulators by adjusting photopolymer resin formulations](refine-tactile-properties-resin-formulation-adjustment.md)
+- [Use patient-specific 3D-printed phantoms to educate junior surgeons and preoperative patients and for preoperative rehearsal planning](patient-specific-phantom-education-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Mann-Whitney U comparison of STAI-S scores between first- and second-exposure su
 ## Related Claims
 - [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — reports the opposite
 - [High state-anxiety immediately after the simulation scenario is associated with higher extraneous cognitive load, but not intrinsic load or self-perceived learning](state-anxiety-associated-with-extraneous-load.md) — related
+- [Post-simulation state anxiety is significantly higher in the individual simulation group than the peer group](individual-simulation-higher-state-anxiety-after.md) — related

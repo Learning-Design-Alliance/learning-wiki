@@ -54,3 +54,4 @@ Quasi-experimental waitlist-controlled study of 32 German teachers (intervention
 - [MBSR training produces large between-group increases in teachers' trait mindfulness at post-test and 3-month follow-up](mbsr-large-mindfulness-gains-teachers.md) — possibly the same claim (merge candidate)
 - [The CBT-MBSR program significantly increased mindfulness among TVET students relative to waitlist control, continuing to rise at follow-up](cbt-mbsr-increased-mindfulness-tvet.md) — related
 - [A 14-week CBT-MBSR program substantially reduced academic test anxiety among TVET students compared with a waitlist control, with effects sustained at two-month follow-up](cbt-mbsr-reduced-test-anxiety-tvet-rct.md) — a narrower finding that bears on this claim
+- [The MBSR intervention prevented a significant drop in mindfulness, which declined significantly in controls](mbsr-maintained-mindfulness-six-months.md) — a narrower finding that bears on this claim

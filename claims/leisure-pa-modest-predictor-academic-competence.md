@@ -49,3 +49,5 @@ Cross-sectional survey of 1520 Slovenian students in grades 4–6; teachers rate
 - [Gender-specific PA characteristics predict academic competence: PA frequency for girls and sports club participation for boys](gender-specific-pa-predictors-academic-competence.md) — related
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Intensity of daily PA strongly predicts boys' reading competence in adjusted models](pa-intensity-predicts-boys-reading-competence.md) — related
+- [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
+- [Multi-predictor regression models of total grade scores explain 30.5% of variance in females but only 4.3% in males](regression-fitness-academics-gender-variance.md) — related

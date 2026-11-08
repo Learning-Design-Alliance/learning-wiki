@@ -67,3 +67,4 @@ Total satisfaction score across the survey in the same session, reported descrip
 - [Year 1 medical students positively receive the ease of accessing learning resources, clearly defined ILOs, interactive sessions, team composition, facilitator support and real-world applicability of weekly themes in integrated TBL.](tbl-elements-positively-received-year1-medical.md) — related
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related
 - [Nearly three-quarters of Year 1 medical students report a positive or very positive overall experience of integrated team-based learning.](three-quarters-positive-overall-tbl-experience.md) — related
+- [Most participants (81.4%) did not feel distracted by the music, and overall course satisfaction was high (9.2/10)](low-subjective-distraction-high-satisfaction-music-training.md) — related

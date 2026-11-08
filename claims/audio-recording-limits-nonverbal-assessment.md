@@ -51,3 +51,4 @@ Authors' stated limitation in the Limitations of the study section, an interpret
 - [Cited pilot trial and transcript-grading work show scenario-dependent strengths and reliability limits of AI in OSCE-adjacent tasks](ai-osce-evidence-mixed-strengths-limits.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Workshop students scored significantly higher on listening and on providing the patient with information during the OSCE](listening-and-information-skills-higher-after-workshop.md) — related
+- [Standardized patients' nonverbal behavior is often incongruent with student expectations, compromising OSCE interactions and outcomes](sp-nonverbal-incongruent-student-expectations.md) — related

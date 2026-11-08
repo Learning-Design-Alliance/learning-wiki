@@ -56,3 +56,4 @@ Systematic review synthesis of three high-quality longitudinal cohort studies (n
 - [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](weight-teasing-pe-adolescent-girls-obesity.md)
 - [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](obesity-achievement-indirect-attitude-perception.md)
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
+- [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — reports the opposite

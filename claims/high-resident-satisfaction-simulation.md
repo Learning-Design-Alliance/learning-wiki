@@ -54,3 +54,5 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
+- [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
+- [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related

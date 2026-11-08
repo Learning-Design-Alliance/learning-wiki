@@ -49,3 +49,4 @@ The Challenges and Limitations section presents these as author-described constr
 - [ECNs are perceived to underestimate the cumulative emotional demands of mental health nursing, increasing risk of distress and early burnout](ecn-underestimate-cumulative-emotional-demands-burnout.md) — related
 - [NASA-TLX mental demand was the highest workload subscale, rising from a median of 37.50 in round 1 to 60.00 in round 2](nasa-tlx-mental-demand-highest.md) — related
 - [Most teacher programs required significant time, effort, and resources, with mean program attrition of 12.69% and rates reaching 66.67%, suggesting time demands may limit real-world translation](teacher-program-time-burden-attrition.md) — related
+- [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](attentional-capacity-novice-implant-automation.md) — related

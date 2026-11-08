@@ -47,3 +47,4 @@ Preregistered two-tailed paired t test in the 29-participant within-subjects exp
 ## Related Claims
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md) — related
+- [Elementary-school children learned less when generating examples than when generating predictions, whereas undergraduates learned comparably well in both conditions](generating-examples-vs-predictions-elementary-undergraduates.md) — reports the opposite

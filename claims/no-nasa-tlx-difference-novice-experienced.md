@@ -63,3 +63,4 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [Subjective workload (NASA-TLX) did not differ between beginners and experts during simulated angiographies](nasa-tlx-did-not-differ-between-beginners-and-experts.md) — possibly the same claim (merge candidate)
 - [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — reports the opposite
 - [Perceived mental, physical and technical workload on the cadaver model was higher the lower the participant's endoscopic experience level](rhccs-workload-nasa-tlx.md) — reports the opposite
+- [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related

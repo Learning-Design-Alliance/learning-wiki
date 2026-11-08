@@ -47,3 +47,4 @@ First-round e-Delphi with 24 experts. Items with CVI below 0.80 were excluded af
 ## Related Claims
 - [IAFEE-ECS® achieved content validity with S-CVI of 0.89 in round one and 0.92 in round two](iafee-ecs-content-validity-s-cvi-rounds.md) — related
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
+- [Item analysis excluded three of the 21 draft items for inter-item correlations above 0.700](muscat-item-analysis-exclusions.md) — related

@@ -50,3 +50,4 @@ Descriptive analysis of confidence and accuracy per case in the 252-participant 
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [Gains varied by lesion: the largest diagnostic improvement was for herpes labialis (+53.1%) and the largest management improvement was for recurrent aphthous stomatitis (+36.6%), which decayed substantially](lesion-specific-gains-vary-herpes-labialis-aphthous.md) — related
 - [Self-reported competence is high while applied case-report knowledge is low among PT interns](competence-case-report-discrepancy.md) — a narrower finding that bears on this claim
+- [The e-learning advantage concentrates in five NIHSS quiz elements: key concepts, consciousness-global, facial palsy, ataxia, and sensory items](nihss-item-level-advantages-interactive-e-learning.md) — related

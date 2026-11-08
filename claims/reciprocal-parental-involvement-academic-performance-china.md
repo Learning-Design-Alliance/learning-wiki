@@ -58,3 +58,4 @@ Cross-lagged SEM comparison of four nested models (auto-regressive only, parent-
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [Negative risk-taking behaviors adversely predict subsequent academic engagement and academic achievement, forming bidirectional deteriorating cycles](negative-risk-taking-adverse-bidirectional-cycles-academic-development.md) — related
 - [Including parental involvement variables diminishes but does not eliminate the negative effect of mental unwellness on academic performance](parental-involvement-diminishes-unwellness-effect.md) — related
+- [The bidirectional cross-lagged model fits better than unidirectional and autoregressive-only models, supporting reciprocal effects only for girls](bidirectional-model-best-fit.md) — related

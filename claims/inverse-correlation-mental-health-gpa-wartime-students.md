@@ -71,3 +71,5 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
 - [Satisfaction with own academic performance is lower in clinical-cycle students and in students with lower GPAs](satisfaction-own-performance-clinical-cycle-lower-gpa.md) — related
 - [Perceived stress correlates negatively with GPA only in clinical medical students, suggesting a cumulative effect of preclinical stress](stress-gpa-negative-correlation-only-clinical-students.md) — related
+- [Peer victimization is strongly positively associated with adolescent depressive symptoms and negatively associated with academic achievement in both sexes](peer-victimization-depression-and-achievement.md) — related
+- [Increased perceived stress correlated negatively with results in the most challenging exam, physiology](stress-inversely-related-physiology-exam.md) — a narrower finding that bears on this claim

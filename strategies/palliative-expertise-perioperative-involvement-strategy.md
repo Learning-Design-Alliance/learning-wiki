@@ -49,6 +49,7 @@ The article recommends that perioperative care of palliative patients involve "p
 ## Related Strategies
 
 - [Use needs assessment, flexible modalities, and protected time to implement palliative care education for clinical nurses](needs-assessment-flexible-modalities-pc-education-strategy.md)
+- [Shift perioperative code status conversations to an anesthesiologist-led perioperative surgical home](perioperative-surgical-home-code-status-strategy.md)
 
 ## Examples
 -

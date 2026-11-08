@@ -55,3 +55,4 @@ Intrinsic evaluation of 60 VP-clinician conversations rated by 3 blinded physici
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — related
 - [LLM-powered virtual patients demonstrably represent intended patient preferences in dialogues](llm-vp-represent-patient-preferences.md) — related
 - [Resident-persona dialogues rated higher than poor-medical-student persona for authenticity and experience](resident-persona-outperforms-poor-student-persona.md) — a narrower finding that bears on this claim
+- [Medical students perceive standardized patients as more authentic than virtual patients across realness, involvement, and spatial presence in performance-based assessment](sps-higher-perceived-authenticity-than-vps.md) — related

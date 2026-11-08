@@ -55,6 +55,7 @@ The article recommends that "academic support systems could integrate psychoeduc
 - [Provide counselling services and an academically supportive environment for LGBTQ+ college students](counselling-and-academic-support-lgbtq-students.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
 - [Provide workshops, training, and counseling sessions to help students overcome communication apprehension, and train instructors to handle stress and CA during educational activities](workshops-counseling-overcome-communication-apprehension-strategy.md)
+- [Improve student well-being and adjustment by promoting social support seeking and reducing disengaged and avoidant coping](promote-support-seeking-reduce-avoidant-coping-strategy.md)
 
 ## Examples
 -

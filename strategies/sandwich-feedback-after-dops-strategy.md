@@ -53,7 +53,8 @@ The article recommends that clinical instructors implement sandwich feedback fol
 - [The pre-to-post gain in perceived perioperative competence is significantly larger with sandwich feedback-based learning than with traditional training](../claims/sandwich-feedback-larger-ppcsr-gain.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use repeated observational competence assessments to target top-up training and give immediate structured feedback](enact-based-targeted-topup-training-and-feedback.md)
 
 ## Examples
 -

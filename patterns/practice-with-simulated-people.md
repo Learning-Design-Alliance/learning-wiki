@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 270 claims (143 for, 108 mixed, 19 against) · 149 studies (47 causal, 36 review, 22 design, 16 quant-synthesis, 16 qualitative, 8 associational, 4 theoretical), `q1`–`q4` · 27 of 149 report an effect size · 265 claims rest on one study
+> **Evidence** · 271 claims (144 for, 108 mixed, 19 against) · 150 studies (47 causal, 36 review, 22 design, 17 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 27 of 150 report an effect size · 266 claims rest on one study
 
 ## Description and scope
 
@@ -198,6 +198,7 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](../claims/sdma-simulation-program-null-osce-nurses.md) [~W] — attached 2026-11-08 from Lin Mei-Hsiang et al. (2021), which proposed "Incorporate SDM components into EOL-care simulation when designing nursing education programs for shared decision-making attitudes".
 - [Standardized-patient-rated communication attitudes (SPS) did not differ significantly between the intervention and control groups after the EOL simulation program](../claims/sps-score-null-between-groups.md) [~W] — attached 2026-11-08 from Lin Mei-Hsiang et al. (2021), which proposed "Incorporate SDM components into EOL-care simulation when designing nursing education programs for shared decision-making attitudes".
 - [Participants reported improved communication skills after ACP-SCT, including patient listening, inferring message meanings, and responding to emotions](../claims/acp-sct-self-reported-communication-gains.md) [+W] — attached 2026-11-08 from Chen Jui-O; Chang Shu-Chen; Lin Chiu-Chu (2021), which proposed "Team-based learning combined with role play, debriefing, and reflective journaling as a training cycle"; tests this page's relationship.
+- [Students valued the SBE process structure of pre-brief, simulation activity, and debrief, including feedback from supervisors and simulated patients](../claims/sbe-process-prebrief-simulation-debrief-valued.md) [+W] — attached 2026-11-08 from Mascarenhas Sharon et al. (2021), which proposed "In-situ SBE session pattern: three 35-minute scripted scenarios each with pre-brief, simulated consultation, and debrief".
 
 ## Illustrative design instance and observation record
 

@@ -50,3 +50,4 @@ Multivariate split-plot ANOVA of performance scores (percentages of a maximum of
 - [Rating-scale format differences in ultrasound OSCE scores are concentrated in anatomically complex stations (retroperitoneum, hepatic veins), with series interaction non-significant](scale-difference-station-specific-ultrasound-osce.md) — related
 - [The generic scale shows higher generalisability than the extended scale, indicating greater performance-related variance](generic-scale-higher-phi-ultrasound-osce.md) — related
 - [More OSCE stations are needed to reach a target reliability with the extended scale than with the generic scale](decision-study-stations-to-target-reliability.md) — related
+- [An adapted PAL ultrasound course format during the COVID-19 pandemic achieved its learning goals, with OSCE results comparable to previous semesters](pal-ultrasound-osce-comparable-pandemic-format.md) — related

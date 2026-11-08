@@ -57,6 +57,7 @@ This is the article's own implementable intervention recipe: students write one 
 - [Implement journal writing as self-assessment through a seven-step guideline set with weekly teacher feedback](journal-writing-self-assessment-guidelines.md)
 - [Implement out-of-class English journal writing with weekly encouraging teacher feedback and two rotating notebooks](efl-journal-writing-weekly-feedback-strategy.md)
 - [Dialogue Journals](dialogue-journals.md)
+- [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Meta-analysis pooling three studies reporting OSATS Global. The article reports 
 - [Simulation-based training improves global rating scores in laparoscopic surgery](simulation-training-improves-global-ratings.md) — related
 - [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a broader claim this one bears on
 - [Structured video-assisted coaching improves laparoscopic performance in a simulated bleeding exercise, while simple repetition does not](video-assisted-coaching-improves-bleeding-exercise-performance.md) — related
+- [Self-directed learning by video did not produce a statistically significant difference in total OSATS score between surgery resident groups](sdl-video-no-significant-osats-difference.md) — related

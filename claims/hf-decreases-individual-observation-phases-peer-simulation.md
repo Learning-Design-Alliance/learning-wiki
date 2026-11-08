@@ -50,3 +50,5 @@ Observational‐comparative study; paired t‐tests compared each phase with Con
 - [Parasympathetic activity shows no change with repetition during peer‐discussion phases of the simulation](no-hf-change-repeated-peer-discussion.md) — related
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — a broader claim this one bears on
 - [General self‐efficacy level shows no statistically significant difference in parasympathetic activity during the peer‐learning simulation](self-efficacy-no-effect-parasympathetic-peer-simulation.md) — related
+- [Parasympathetic stress relief marker (HF) is significantly lower in peer simulation than individual simulation during the first patient assessment](peer-simulation-hf-decreased-patient-assessment.md) — related
+- [Sympathetic stress marker (LF/HF) is significantly higher in peer simulation than individual simulation during the first patient assessment](peer-simulation-lfhf-increased-patient-assessment.md) — related

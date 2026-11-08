@@ -73,3 +73,4 @@ Review analysis of response-process validity for APMs: because metrics are recor
 - [Objective metrics are used more frequently in simulated environments, while GRS and checklists are used with actual patients](context-preference-objective-simulated-subjective-patients.md) — related
 - [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — a broader claim this one bears on
 - [APM and surgical gesture assessment methods are, as of now, only available to a limited extent in the clinical setting](apm-gestures-limited-clinical-availability.md) — related
+- [The same simulation training delivered without validated metrics produces only minimal performance improvement over traditional training](simulation-without-metrics-minimal-gain.md) — related

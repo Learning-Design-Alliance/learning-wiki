@@ -57,3 +57,4 @@ Model-fit comparison of five competing SEMs (Table 5), with the hypothesized mod
 - [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — a narrower finding that bears on this claim
 - [The hypothesized path model from interpersonal motivation through engagement to performance fits the data well](path-model-fit-interpersonal-motivation-engagement-performance.md) — related
 - [The EU→EM→achievement cascade proposed by the cascading model of EI is not supported for academic achievement](no-eu-em-cascade-academic-achievement.md) — related
+- [An alternate model shows family income is also directly associated with youth stress about needs, and a reverse-causality model fits worse](alternate-models-income-direct-youth-needs.md) — related

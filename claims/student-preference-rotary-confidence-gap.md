@@ -50,3 +50,4 @@ Online questionnaire (piloted on 10 students, tested for face and content validi
 - [Overextension of the root canal filling and canal transportation occurred more frequently following manual instrumentation than rotary instrumentation](overextension-transportation-more-frequent-with-manual.md) — related
 - [The most common procedural errors in student molar RCT were underextension of obturation (48.4%), insufficient obturation (45.5%) and improper coronal seal (35.2%), with no significant difference between instrumentation techniques](common-procedural-errors-underextension-insufficient-obturation.md) — related
 - [Anterior and pre‐molar teeth show higher student treatment success rates (82.2% and 79.4%) than molars (68.7%)](student-rct-tooth-type-success-gradient.md) — related
+- [Most graduating dental students preferred post-graduation supervision and doubted readiness for independent practice](reservations-independent-practice-graduating-dentists.md) — related

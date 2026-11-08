@@ -51,6 +51,7 @@ The article recommends a blended format in which an adaptive e-learning module d
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](online-theory-face-to-face-practice-strategy.md)
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
+- [Use e-learning as structured preparation before a lecture and practical seminar (blended design for skills courses)](elearning-structured-preparation-before-lecture-seminar.md)
 
 ## Examples
 -

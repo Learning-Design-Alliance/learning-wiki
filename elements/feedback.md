@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 273 claims (127 for, 127 mixed, 19 against) · 206 studies (88 causal, 36 review, 28 quant-synthesis, 19 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 50 of 206 report an effect size · 249 claims rest on one study
+> **Evidence** · 276 claims (130 for, 127 mixed, 19 against) · 207 studies (89 causal, 36 review, 28 quant-synthesis, 19 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 50 of 207 report an effect size · 252 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -321,6 +321,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Surgeons rated proctoring feedback and the feedback form very positively, with helpfulness varying by position and institutional proprietorship](../claims/feedback-during-proctoring-rated-positively.md) [+W] — attached 2026-11-07 from Günther V et al. (2025), which proposed "Post-proctoring feedback form summarizing strengths and weaknesses".
 - [Continuous linearly increasing vibration feedback (F2) yields the lowest mean and peak forces during laparoscopic suture and knot tasks compared with other vibration modalities and no feedback](../claims/f2-vibration-lowest-force-suture-knot.md) [+W] — attached 2026-11-07 from von Bechtolsheim Felix et al. (2024), which proposed "Vibration-feedback laparoscopic instrument prototype with three tactile feedback modalities and a no-feedback control"; tests this page's relationship.
 - [Surgical novices, but not surgeons, show significantly lower forces with continuous vibration feedback (F2) in the peg transfer task](../claims/novice-force-reduction-peg-transfer.md) [+W] — attached 2026-11-07 from von Bechtolsheim Felix et al. (2024), which proposed "Vibration-feedback laparoscopic instrument prototype with three tactile feedback modalities and a no-feedback control"; tests this page's relationship.
+- [Real-time feedback device use increases chest compression depth by trainee doctors in simulated CPR](../claims/truecpr-feedback-increases-compression-depth.md) [+W] — attached 2026-11-08 from Majer Jolanta et al. (2019), which proposed "TrueCPR cardiopulmonary resuscitation feedback device"; tests this page's relationship.
+- [Feedback device use dramatically increases complete chest relaxation during simulated CPR](../claims/truecpr-feedback-increases-chest-relaxation.md) [+W] — attached 2026-11-08 from Majer Jolanta et al. (2019), which proposed "TrueCPR cardiopulmonary resuscitation feedback device"; tests this page's relationship.
+- [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](../claims/truecpr-feedback-lowers-compression-rate.md) [+W] — attached 2026-11-08 from Majer Jolanta et al. (2019), which proposed "TrueCPR cardiopulmonary resuscitation feedback device"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

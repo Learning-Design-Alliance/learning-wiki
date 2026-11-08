@@ -49,3 +49,4 @@ Realist interview study of 16 OSCE examiners (6 experienced, 5 novice, 5 interme
 - [Benchmarking shortly before the OSCE keeps information cognitively available, but immediately beforehand limits reflection; examiners judged roughly 24 hours before optimal](benchmarking-timing-within-24-hours-optimal.md) — related
 - [Receptive, thoroughly engaged examiners perceived their judgements of subsequent performances as more aligned with the expected standard after effective benchmarking](engaged-benchmarking-improves-perceived-subsequent-alignment.md) — related
 - [Less experienced OSCE raters judge more stringently and adhere rigidly to instructions, while experienced raters deviate and rely on gestalt](rater-experience-stringency-and-deviation.md) — related
+- [Standardized patients' nonverbal behavior is often incongruent with student expectations, compromising OSCE interactions and outcomes](sp-nonverbal-incongruent-student-expectations.md) — related

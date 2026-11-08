@@ -58,6 +58,7 @@ The authors recommend a sequence for curricular integration: "First, it is neces
 - [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
 - [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
 - [Four-step situated simulation teaching course for NPWT continuing education](four-step-situated-simulation-npwt-course.md)
+- [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
 
 ## Examples
 -

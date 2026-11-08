@@ -70,3 +70,4 @@ Survey-based self-report of vaginal surgery participation among all 34 enrolled 
 - [71% of surveyed surgeons believe trainees should be competent in vaginal hysterectomy before completing general obstetrics and gynaecology training, an expectation the article reports is not consistently met](vh-competency-before-completion-expectation.md) — related
 - [79% of surveyed surgeons believe 10–30 vaginal hysterectomy cases are required to achieve and to maintain proficiency](vh-perceived-10-30-cases-proficiency.md) — related
 - [Junior OB/GYN residents show significant self-rated gains in understanding and confidence for both cesarean uterine suturing and cervical laceration suturing after the porcine stomach simulation course](junior-residents-confidence-gains-porcine-model.md) — related
+- [Confidence to perform hysterectomy varies sharply by surgical approach among surveyed Italian residents](hysterectomy-confidence-varies-by-approach.md) — related

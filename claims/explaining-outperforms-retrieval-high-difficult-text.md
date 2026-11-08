@@ -52,3 +52,5 @@ Planned contrast within the ANCOVA on inference-based questions in the high-diff
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](low-difficult-text-no-modality-differences.md) — related
 - [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](oral-explaining-improves-meta-comprehension-accuracy.md) — related
 - [Explaining was not more effective than oral retrieval practice overall in Experiment 1](explaining-no-better-than-oral-retrieval-practice-exp1.md) — related
+- [Explaining did not outperform retrieval on comprehension, failing to replicate prior explaining effects](explaining-did-not-outperform-retrieval-null-replication.md) — reports the opposite
+- [Explaining was more enjoyable and more interesting than retrieving the material](explaining-more-enjoyable-and-interesting-than-retrieval.md) — related

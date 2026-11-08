@@ -68,3 +68,4 @@ Separate SP debriefing sessions gathered SP perspectives on improving case instr
 - [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — a broader claim this one bears on
 - [Medical students rated the SP verbal de-escalation workshop highly, with 82% agreeing it met the learning objectives and 86% assigning it a letter grade A](sp-deescalation-workshop-high-student-ratings.md) — related
+- [For outpatient or empathetic OSCE narratives, standardized patient performances are inferior compared to real patients](sp-performances-inferior-real-patients-relational-narratives.md) — related

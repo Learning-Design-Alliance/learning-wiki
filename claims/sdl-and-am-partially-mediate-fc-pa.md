@@ -53,3 +53,4 @@ Structural equation modeling with bias-corrected bootstrap (5,000 resamples) tes
 - [Professional recognition partially mediates the relationship between psychological quality and entrepreneurial competence](professional-recognition-partial-mediation.md) — related
 - [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](flipped-classroom-raises-autonomous-learning-motivation.md) — related
 - [The D-Casting module test score completely mediates the effect of instructing method on physical cast scores](d-casting-test-score-completes-mediation-skill-transfer.md) — related
+- [Support-seeking partially mediates the relationship between resilience resources and university adjustment](support-seeking-partially-mediates-adjustment.md) — related

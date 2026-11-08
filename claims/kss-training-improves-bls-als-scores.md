@@ -50,3 +50,4 @@ Results-section comparison in the same quasi-experimental pre-post study of 1448
 - [Between-group difference in BLS knowledge gain is not statistically significant, with a numerically higher gain in the video group](bls-video-vs-simulation-knowledge-gain-no-difference.md) — related
 - [Accuracy on case-analysis emergency questions rose significantly from pre-test to post-test after KSS training, in one group with no comparison group, including defibrillation knowledge rising from 52.6% to 95.4%](kss-training-improves-case-analysis-accuracy.md) — related
 - [Both video-based and simulation-based training significantly improve paediatric BLS knowledge immediately after training](video-and-simulation-improve-bls-knowledge-immediately.md) — related
+- [Brief BLS training increases future schoolteachers' willingness to use an AED from 70% to 98% and their knowledge of the device](aed-willingness-improves-after-brief-training.md) — related

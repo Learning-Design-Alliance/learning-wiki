@@ -103,3 +103,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Blended simulation using virtual environments and simulated patients improved students' patient communication on placement](blended-simulation-improved-patient-communication.md) — related
 - [Desktop VR and face-to-face simulation produce no significant difference in confidence levels for managing clinical deterioration](desktop-vr-similar-confidence-to-face-to-face-simulation.md) — related
 - [Desktop VR and face-to-face simulation produce no significant difference in clinical performance outcomes for assessing and managing clinical deterioration](desktop-vr-similar-performance-to-face-to-face-simulation.md) — related
+- [For outpatient or empathetic OSCE narratives, standardized patient performances are inferior compared to real patients](sp-performances-inferior-real-patients-relational-narratives.md) — related

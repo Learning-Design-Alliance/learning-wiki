@@ -65,3 +65,4 @@ A study comparing fourth- and fifth-graders with university students learning tr
 
 ## Related Claims
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — related
+- [Elementary-school children learned less when generating examples than when generating predictions, whereas undergraduates learned comparably well in both conditions](generating-examples-vs-predictions-elementary-undergraduates.md) — related

@@ -49,3 +49,4 @@ End-of-term exam analysis in the crossover study of 117 interns; Table 4 shows t
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
 - [BOPPPS teaching advantage concentrates in single-choice questions with no significant differences in true/false or case-based essay sections](boppps-advantage-single-choice-only.md) — related
+- [PBL students made significantly fewer inappropriate therapy choices; the difference in erroneous prescriptions was not statistically significant](pbl-fewer-inappropriate-therapy-choices.md) — related

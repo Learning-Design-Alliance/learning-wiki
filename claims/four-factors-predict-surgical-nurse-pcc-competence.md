@@ -51,3 +51,4 @@ Cross-sectional web-based questionnaire survey of 437 surgical nurses from 4 ter
 - [PCC competence is strongly positively correlated with empathy among surgical nurses (r = 0.700)](pcc-competence-empathy-correlation.md) — related
 - [Higher self-reported empathy is a positive factor for medical students' mental health](high-empathy-positive-factor-medical-student-mental-health.md) — related
 - [Professional self-concept impacts nursing students' mental health, academic performance and professional values](self-concept-effects-mental-health-academic-values.md) — related
+- [Magnitude of competency change correlated positively with age and job satisfaction and negatively with burnout and complaints](change-magnitude-correlates-sociodemographic-organizational.md) — related

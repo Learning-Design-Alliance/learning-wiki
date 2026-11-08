@@ -68,3 +68,4 @@ Null finding on the path-length measure from the same observational intergroup a
 - [No significant correlation between RULA ergonomic score and surgical performance parameters in either expert or novice group](no-rula-performance-correlation-robust.md) — related
 - [Expert robotic surgeons show significantly lower (better) RULA ergonomic scores than novices during real-life robotic pulmonary vessel dissection](experts-lower-rula-scores-than-novices-robust.md) — related
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related
+- [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related

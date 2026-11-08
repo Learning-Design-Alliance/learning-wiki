@@ -52,3 +52,4 @@ Null findings from the linear mixed model analysis of the Lebanese adolescent lo
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite
 - [Cigarette smoking and khat use were bivariably associated with poor academic performance](smoking-khat-bivariable-poor-academic-performance.md) — related
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
+- [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related

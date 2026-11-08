@@ -54,3 +54,4 @@ Content validity phase in which 7 experts (epidemiology, public health, internal
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
 - [Content validity of the HLC-N exceeds recommended thresholds (I-CVI 0.813–1.00; S-CVI/Ave 0.952)](hlc-n-content-validity-cvi.md) — related
 - [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related
+- [Item analysis excluded three of the 21 draft items for inter-item correlations above 0.700](muscat-item-analysis-exclusions.md) — related

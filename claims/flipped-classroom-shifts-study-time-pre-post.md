@@ -52,3 +52,4 @@ Time-use comparison from the questionnaire of the two groups of 16 students; Tab
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — related
 - [Time spent in self-learning increases significantly during the M-TBL flipped-classroom course, higher after the second and third cases than at pre-test](mtbl-flipped-increases-self-learning-time.md) — related
 - [The flipped-classroom intervention increased patient self-assessed understanding of what to expect during daily radiation treatments (p = 0.0078)](flipped-classroom-increased-daily-treatment-understanding.md) — related
+- [Time spent using the app versus course notes did not differ significantly between groups](app-versus-notes-usage-time-null.md) — related

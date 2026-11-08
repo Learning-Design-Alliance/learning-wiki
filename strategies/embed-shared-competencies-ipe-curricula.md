@@ -50,6 +50,7 @@ The authors recommend integrating the six shared competencies into interprofessi
 - [Integrate structured team-based IPE training programs and community-based placements in healthcare curricula](integrate-structured-team-based-ipe-training.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Embed short, high-frequency RCDP-based interprofessional simulation sessions early in undergraduate health curricula](embed-rcdp-ipse-sessions-undergraduate.md)
+- [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
 
 ## Examples
 -

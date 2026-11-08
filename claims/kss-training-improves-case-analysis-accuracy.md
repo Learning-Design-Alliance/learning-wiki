@@ -70,3 +70,6 @@ Discussion-section statement of the defibrillation accuracy contrast drawn from 
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
 - [Pediatric medical workers hold positive attitudes toward KSS training, with 98.59% accepting the approach and most willing to attend further training](positive-attitudes-toward-kss-training.md) — related
 - [Knowledge of manual external defibrillator handling showed the lowest improvement after simulation training](low-gain-manual-defibrillator-handling.md) — related
+- [Correct answers on AED/defibrillator questions rose from an average of 42.2% to 89.5% after the course, in one uncontrolled pre-post study](aed-question-gains-post-course.md) — related
+- [Brief BLS training increases future schoolteachers' willingness to use an AED from 70% to 98% and their knowledge of the device](aed-willingness-improves-after-brief-training.md) — related
+- [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related

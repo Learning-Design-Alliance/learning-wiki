@@ -57,3 +57,5 @@ The brief summarizes research in Chicago and nationally on predictors of college
 - [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related
 - [High school admission grades correlated significantly with graduating GPA for IGCSE, JGSC, IB and Kuwaiti entrants but not for other degree types](high-school-grades-correlate-with-graduating-gpa-select-degrees.md) — a narrower finding that bears on this claim
 - [Dropping standardized test scores from admissions raises or lowers simulated degree completion depending on whether the test is valid](dropping-test-scores-changes-simulated-degree-completion.md) — related
+- [HSGA, APT and ACT scores were each significantly positively associated with cumulative GPA at graduation](admission-scores-positively-associated-gpa.md) — related
+- [High school grade average is the strongest multivariate predictor of cumulative GPA at graduation among allied health students at King Saud University](hsga-strongest-admission-predictor-allied-health-gpa.md) — a narrower finding that bears on this claim

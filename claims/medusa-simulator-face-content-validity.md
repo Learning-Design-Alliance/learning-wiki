@@ -53,3 +53,4 @@ External validation study at the Zurich Aneurysm Clipping Course (n = 22) and th
 - [PoLaRS achieved face validity with an average questionnaire score of 6.9 (SD 1.2) on a 1–10 Likert scale](polars-face-validity-questionnaire-6-9.md) — related
 - [A neurosurgeon expert rated the simulation workflow as clear and intuitive and the vessel deformation as plausible](expert-rates-workflow-clear-deformation-plausible.md) — related
 - [In an online survey, the colour map achieved the highest statement scores and rankings among force visualisation concepts for aneurysm clipping simulation](colour-map-best-force-visualisation-clipping-survey.md) — related
+- [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related

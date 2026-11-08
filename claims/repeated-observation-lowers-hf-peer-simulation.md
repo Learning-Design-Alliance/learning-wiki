@@ -49,3 +49,4 @@ Repeated‐phase paired comparisons within the same observational‐comparative 
 - [Heart rate increases significantly during the peer‐learning simulation phases relative to baseline rest periods in both scenes](heart-rate-increases-during-peer-simulation-phases.md) — related
 - [Parasympathetic activity (HF heart rate variability) decreases significantly during individual patient‐observation phases of a peer‐learning simulation relative to baseline rest periods](hf-decreases-individual-observation-phases-peer-simulation.md) — related
 - [General self‐efficacy level shows no statistically significant difference in parasympathetic activity during the peer‐learning simulation](self-efficacy-no-effect-parasympathetic-peer-simulation.md) — related
+- [Sympathetic stress marker (LF/HF) is significantly higher in peer simulation than individual simulation during the first patient assessment](peer-simulation-lfhf-increased-patient-assessment.md) — related

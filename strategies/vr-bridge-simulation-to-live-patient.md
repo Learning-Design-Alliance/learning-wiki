@@ -47,6 +47,7 @@ The authors recommend implementing the application "via a stepwise simulation-to
 - [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](stepwise-ai-vp-to-standardized-to-real-patients.md)
 - [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
+- [Blended-learning sequencing: learn concrete conversation techniques online first, then deepen non-verbal and emotional aspects in physical SP units](blended-sp-techniques-online-first-physical-second.md)
 
 ## Examples
 -

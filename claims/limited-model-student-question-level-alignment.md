@@ -52,3 +52,4 @@ Model–student comparison ranking questions by proportion correct (Table 2, Sec
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
 - [All models predict performance worst for students of intermediate overall ability, with best performance for high and low performing students](mid-ability-students-hardest-to-predict.md) — related
 - [Item-level accuracy remained stable on the hardest case-specific item, suggesting persistent difficulty](cblc-item8-persistent-difficulty.md) — related
+- [Case difficulty varies widely: COVID-19 pneumonia (85.4%) and pneumoperitoneum (80.5%) were best interpreted, while pneumomediastinum (42.0%) and left lower lobe pneumonia (43.4%) were worst](cxr-case-difficulty-variation.md) — related

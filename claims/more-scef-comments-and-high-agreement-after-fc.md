@@ -71,3 +71,4 @@ SCEF numerical ratings on a four-point scale (SA, GA, GD, SD) introduced in acad
 - [A First Principles of Instruction-based flipped approach produced greater student achievement in three of four high school subject areas](lo-2018-fpi-fc-greater-achievement.md) — related
 - [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related
 - [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — related
+- [Students report high satisfaction with all three course formats, particularly the blended learning approach](high-satisfaction-blended-local-anaesthesia-course.md) — related

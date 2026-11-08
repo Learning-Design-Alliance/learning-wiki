@@ -59,3 +59,4 @@ Randomized, observer-blinded controlled trial of 31 analyzable first-year medica
 - [Flexible e-learning video teaching improves medical students' diagnostic accuracy of funduscopic findings more than a face-to-face lecture](elearning-video-improves-fundus-diagnostic-accuracy.md) — related
 - [Flexible e-learning video teaching raises medical students' confidence in performing funduscopic examination more than a face-to-face lecture](elearning-video-raises-fundus-confidence.md) — related
 - [Face-to-face lecture teaching alone produced no statistically significant pre-to-post gain in funduscopic diagnostic accuracy](f2f-lecture-no-accuracy-gain.md) — related
+- [Students report high satisfaction with all three course formats, particularly the blended learning approach](high-satisfaction-blended-local-anaesthesia-course.md) — related

@@ -51,3 +51,4 @@ Fisher exact test analysis of 5-point Likert-scale subjective outcomes collected
 - [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md) — related
 - [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](videos-studied-faster-than-illustrated-texts-fifth-graders.md) — related
 - [SDTS produces post-training OSCE scores in incision and suturing that do not differ significantly from traditional teaching](sdts-equivalent-incision-suturing-osce.md) — related
+- [Perceived course difficulty and duration do not differ significantly between e-learning and video groups](nihss-e-learning-video-no-difficulty-duration-difference.md) — possibly the same claim (merge candidate)

@@ -45,7 +45,8 @@ The article recommends incorporating self-reflection activities into evidence-ba
 - [Self-reflection prompts raise total observed interview competency post-training (medium effect)](../claims/self-reflection-raises-interview-competency-observation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
 
 ## Examples
 -

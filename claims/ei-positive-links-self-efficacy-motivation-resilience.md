@@ -53,3 +53,4 @@ Structural equation modelling of survey data from 518 Chinese university student
 - [Self-efficacy, motivation, and resilience each mediate the relationship between emotional intelligence and psychological well-being](ei-wellbeing-mediation-three-traits.md) — related
 - [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](protective-psychosocial-factors-positive-association-medical-students.md) — related
 - [Structural paths differ between undergraduate and postgraduate students, but the indirect mediating effects do not differ significantly](multigroup-paths-differ-indirect-similar.md) — related
+- [The resilience resources factor directly predicts greater mental well-being and higher university adjustment after controlling for personality, intelligence, and financial and living factors](resilience-resources-predict-wellbeing-adjustment.md) — related

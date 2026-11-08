@@ -49,3 +49,4 @@ Theme from qualitative content analysis of 284 transcript excerpts from 16 quali
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [Debriefing deltas revealed a lack of leadership and gaps in ALS protocol knowledge that delayed critical tasks, alongside strong teamwork, communication, and technical performance](debriefing-deltas-leadership-als-protocol-gaps.md) — related
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
+- [Neuroscientific ERP measures have the potential to evaluate MIS skill acquisition independently of numerical repetition counts](erp-measures-track-mis-skill-acquisition.md) — related

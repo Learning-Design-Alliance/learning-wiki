@@ -68,6 +68,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Formally integrate intensive simulation-based surgical education into ophthalmology residency programmes as a complement to conventional teaching](formal-integration-sbse-ophthalmology-residency.md)
 - [Incorporate stepwise, low-fidelity simulation training and assessment early in ophthalmology residency, with safe transition to live surgical teaching](stepwise-low-fidelity-simulation-early-residency-strategy.md)
 - [Structured, competency-based procedural VR training programme for robotic surgery curricula](structured-competency-based-procedural-vr-programme.md)
+- [Use DSJ as an objective waypoint metric marking transition from simulated learning to supervised practice](dsj-waypoint-metric-training-progression-strategy.md)
 
 ## Examples
 -

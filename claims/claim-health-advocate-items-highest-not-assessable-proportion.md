@@ -47,3 +47,4 @@ An analysis of scoring inference across 69 patient questionnaires and 70 fellow 
 ## Related Claims
 - [Six of eight survey items improve significantly from pre- to post-simulation, with the highest post-rating on feeling competent to assess dysphagia](six-of-eight-items-significant.md) — related
 - [Mean health advocate scores are significantly lower than mean professional scores](claim-health-advocate-scores-lower-than-professional-scores.md) — related
+- [Anaesthesiology residents rate themselves lower than colleagues and coworkers rate them, while patients give the highest ratings](msf-self-ratings-lower-patients-highest.md) — related

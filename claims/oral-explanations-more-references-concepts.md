@@ -50,3 +50,5 @@ Exploratory independent t-tests comparing features of explanations generated in 
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](low-difficult-text-no-modality-differences.md) — related
 - [The modality effect on inference-based questions is serially mediated by personal references and comprehensiveness of explanations](serial-mediation-social-presence-comprehensiveness.md) — related
 - [Text difficulty moderates the effect of explaining modality: oral explaining outperforms written explaining on inference-based questions only for the high-difficult text](text-difficulty-moderates-explaining-modality-effect.md) — related
+- [The chat manipulation increased personal references but not rated social presence compared with the other explaining conditions](chat-condition-personal-references-not-presence-ratings.md) — related
+- [Oral explanations contained more concepts and elaborations than chat-based written explanations](oral-explanations-more-concepts-and-elaborations-than-chat.md) — related

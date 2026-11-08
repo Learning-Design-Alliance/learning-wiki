@@ -53,3 +53,4 @@ Analysis of completion time (MΔT) across four task segments for six novice and 
 - [Intermediate microsurgeons show significantly shorter instrument path lengths than novices in all segments and for both instruments](intermediates-shorter-path-lengths-all-segments.md) — related
 - [Intermediate microsurgeons exhibit smoother trajectories and higher economy of volume than novices, significant in all segments](intermediates-smoother-more-economical-motion.md) — related
 - [A sensor-based objective metric framework differentiates novice from intermediate microsurgeons in line with ALI-based subjective assessment](sensor-metrics-differentiate-microsurgery-proficiency.md) — a broader claim this one bears on
+- [On the simulator's first exercise, expert and intermediate surgeons completed the trajectory faster than inexperienced interns and novices](experts-intermediates-faster-exercise1.md) — related

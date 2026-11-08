@@ -69,3 +69,4 @@ Same cross-sectional study: Pearson correlations between STAI scores and the ICL
 - [Serial mediation: map-structure salience affects disorientation, which affects extraneous load and learning performance; the chain is only partially confirmed](salience-disorientation-ecl-serial-mediation.md) — related
 - [Female students and students with high trait-anxiety report higher state-anxiety across simulation teaching sessions](female-and-high-trait-anxiety-higher-state-anxiety.md) — related
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related
+- [Intrinsic and extraneous cognitive load correlate negatively with diagnostic accuracy in simulation-based performance assessment](intrinsic-extraneous-load-negative-diagnostic-accuracy.md) — related

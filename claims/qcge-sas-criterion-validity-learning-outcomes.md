@@ -71,3 +71,4 @@ Subsample analysis using the students graded on their collaborative group work (
 - [No statistically significant association between QCGE dimension ratings and the collaborative product grade](qcge-dimensions-nonsignificant-learning-outcome-grade.md) — reports the opposite
 - [Only 16% of validated measures examined construct validity; none tested criterion validity](few-measures-construct-validity-none-criterion.md) — related
 - [TBL-SAI-TR scores correlate strongly with self-directed learning scores, supporting criterion validity](tbl-sai-tr-criterion-validity-self-directed-learning.md) — related
+- [MUSCAT scores correlate moderately with the Interprofessional Collaboration Competency Scale (r = 0.565 total)](muscat-convergent-validity-icc-cmc.md) — related

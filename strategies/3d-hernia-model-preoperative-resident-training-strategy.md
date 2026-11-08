@@ -49,7 +49,8 @@ The article recommends positioning the 3D-printed model as a training supplement
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](../claims/face-validity-expert-ratings-ldsrs-model.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use patient-specific 3D-printed phantoms to educate junior surgeons and preoperative patients and for preoperative rehearsal planning](patient-specific-phantom-education-strategy.md)
 
 ## Examples
 -

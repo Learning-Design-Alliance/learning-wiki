@@ -55,3 +55,5 @@ Stepwise multiple linear regression on 256 students, with entry threshold p < 0.
 - [None of the assessed non-academic constructs (EI, motivation, self-esteem, attitudes towards science, perceived personal incompetence) predicted final medical school GPA](non-academic-constructs-did-not-predict-gpa.md) — reports the opposite
 - [State Graduation Exam score predicted final-year medical school GPA, explaining 12.3% of variance](sge-predicts-final-medical-school-gpa.md) — related
 - [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — related
+- [Gender shows no significant correlation with career and satisfaction factors among dental graduates](gender-no-correlation-career-factors-dental.md) — related
+- [Increased perceived stress correlated negatively with results in the most challenging exam, physiology](stress-inversely-related-physiology-exam.md) — related

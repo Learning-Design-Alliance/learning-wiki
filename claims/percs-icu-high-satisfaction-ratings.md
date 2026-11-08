@@ -56,3 +56,4 @@ Post-course evaluation questions on 5-point Likert scales administered to the 69
 - [After the PERCS-ICU course, residents reported significant improvements in empathy, preparation, communication skills, relational skills, confidence, emotional awareness, and self-reflection](percs-icu-improves-empathy-and-self-reported-skills.md) — related
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
 - [Participants rate the RCDP resuscitation simulation as very or extremely helpful, with a mean helpfulness score of 4.8 on a 5-point Likert scale](rcdp-resuscitation-simulation-rated-highly-helpful.md) — related
+- [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related

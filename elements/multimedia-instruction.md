@@ -170,6 +170,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Use visual and aural aids and varied, vivid lesson structures in listening lessons](../strategies/visual-aural-aids-listening-lessons.md)
 - [Use filmed experiments in geography lessons to explain course material and save time, especially for large class groups](../strategies/filmed-experiments-large-class-groups.md)
 - [Integrate animated video education into pre-procedural patient education](../strategies/animated-video-preprocedural-education-strategy.md)
+- [Create a narrated expert video library of specific surgical techniques coupled with existing workshops and lectures](../strategies/narrated-expert-video-library-surgical-curriculum.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

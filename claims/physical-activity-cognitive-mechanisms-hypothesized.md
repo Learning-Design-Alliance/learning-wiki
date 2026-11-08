@@ -47,3 +47,4 @@ Theoretical interpretation offered in the Discussion citing prior literature; th
 ## Related Claims
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills](selective-attention-links-language-literacy-mathematics.md) — related
+- [The authors propose working memory and attention links as possible mechanisms between complex movement and academic achievement](complex-movement-academics-mechanism-proposal.md) — a narrower finding that bears on this claim

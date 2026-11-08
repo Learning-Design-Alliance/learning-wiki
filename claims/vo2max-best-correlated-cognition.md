@@ -63,3 +63,4 @@ Pearson and Spearman correlation analyses (Table 4) among 208 adolescents relate
 - [Sex, body mass index, muscle strength, cardiorespiratory function, inhibition, working memory, and shifting are key factors collaboratively influencing primary school students' academic achievement, with shifting rated most important by most algorithms](ef-fitness-demographics-key-factors-academic-achievement.md) — related
 - [Cardiorespiratory fitness is positively associated with mathematics grades in children aged 8–12](crf-associated-math-grades-children.md) — related
 - [Cardiorespiratory fitness is associated with working memory and cognitive flexibility but not inhibition in children](crf-associated-wm-cf-not-inhibition.md) — a narrower finding that bears on this claim
+- [One-year changes in cardiorespiratory fitness were not significantly related to changes in cognitive performance or mental health](fit-to-study-null-change-change.md) — related

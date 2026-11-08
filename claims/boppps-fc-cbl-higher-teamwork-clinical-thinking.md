@@ -77,3 +77,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [ADDIE-based flipped classroom training improved neurology residents' critical thinking scores significantly more than traditional teaching](addie-flipped-classroom-critical-thinking-neurology-residents.md) — related
 - [Neurology residents taught with an ADDIE-based flipped classroom scored significantly higher on theoretical knowledge and clinical skills assessments than residents taught with traditional PBL/CBL/LBL methods](addie-flipped-classroom-higher-theory-skill-scores-neurology-residents.md) — related
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
+- [Clinical thinking improvement and learning pressure showed no significant difference between the SBS & CBL and LBL & CBL groups](clinical-thinking-no-group-difference.md) — related

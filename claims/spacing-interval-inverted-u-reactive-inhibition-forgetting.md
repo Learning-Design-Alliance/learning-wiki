@@ -52,3 +52,4 @@ Theoretical argument in the review's discussion, drawing on Smith et al.'s sugge
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — a broader claim this one bears on
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — related
 - [Distributed (spaced) practice retains surgical skills better than massed practice, though no optimal gap has been identified](distributed-practice-retains-surgical-skills-better-than-massed.md) — related
+- [Novice surgeons in cognitive and integrational learning phases are especially vulnerable to skill decay after short retention intervals](novice-surgeons-decay-susceptible.md) — a narrower finding that bears on this claim

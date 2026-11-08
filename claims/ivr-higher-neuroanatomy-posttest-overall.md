@@ -53,3 +53,4 @@ Single‐blind randomized controlled trial with 67 second‐year physiotherapy s
 - [Immersive VR training yields higher overall OSATS scores than textbook-and-video training in thyroidectomy steps, driven by knowledge of instruments and flow of operation](ivr-training-higher-osats-thyroidectomy.md) — related
 - [Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later](ivr-complement-improves-manual-therapy-performance-score.md) — related
 - [Students learning with iVR reported higher motivation but the control group felt they retained and understood concepts better](ivr-higher-motivation-control-better-retention-feeling.md) — related
+- [70% of virtual dissection students reported the tool was beneficial to learning and more engaging than textbooks, while still judging real dissection superior](virtual-dissection-student-perceptions-beneficial-engaging.md) — related

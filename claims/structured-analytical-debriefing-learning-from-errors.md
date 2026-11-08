@@ -55,3 +55,4 @@ Debriefing and focus-group data from the qualitative study. Students said "Struc
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
 - [Students report that MAES places them at the center of CPR learning and increases perceived knowledge retention and integration](maes-learner-centered-knowledge-retention.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — a broader claim this one bears on
+- [Students report mixed perceptions of whether debriefers focus on errors rather than successes, with about a third perceiving an error focus](error-focus-in-debriefing-mixed-perceptions.md) — related

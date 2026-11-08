@@ -50,3 +50,4 @@ Agreement analysis of pass-or-fail judgments by two senior surgeons, each with o
 - [Inter-rater reliability of overall video quality ratings increases with rater seniority, reaching perfect agreement among senior surgeons](video-quality-rater-reliability-seniority.md) — related
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](ai-almost-perfect-agreement-peg-transfer-assessment.md) — related
+- [Pass/fail global evaluation showed poor interrater agreement (Cohen's Kappa = 0.105)](pass-fail-holistic-poor-interrater-kappa.md) — reports the opposite

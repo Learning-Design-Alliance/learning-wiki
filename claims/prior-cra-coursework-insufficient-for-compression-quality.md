@@ -51,3 +51,4 @@ Observation from the same 302-participant training program: baseline (first-cycl
 - [Compression skill success rates among final-year medical students are low despite generally high self-efficacy perceptions](low-compression-success-rates-despite-high-sep.md) — a broader claim this one bears on
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
 - [Only 27% of students performed adequately on infant chest compressions immediately after two-hour pediatric BLS training](only-27-percent-pass-immediately-after-bls-training.md) — related
+- [Prior CPR training did not ensure knowledge of quality standards, and no significant differences in CPR quality were observed by prior training](prior-training-insufficient-for-quality-standards.md) — a narrower finding that bears on this claim

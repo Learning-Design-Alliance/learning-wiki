@@ -49,3 +49,4 @@ Post-test AVEM engagement results in Table 3 show Cohen's d of -1.52 for willing
 - [In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
 - [MBSR training significantly increases trait mindfulness (mindful presence and acceptance) in teachers versus waitlist control](mbsr-increases-teacher-trait-mindfulness.md) — related
 - [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — possibly the same claim (merge candidate)
+- [The MBSR intervention prevented a significant drop in mindfulness, which declined significantly in controls](mbsr-maintained-mindfulness-six-months.md) — related

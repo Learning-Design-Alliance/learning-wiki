@@ -52,3 +52,4 @@ Reliability analysis of two independent raters scoring team performance in all 1
 - [Blinded dual-rater scoring of the modified Welling Scale shows substantial inter‐rater reliability (overall ICC 0.822)](welling-scale-dual-rater-relicability-icc-0822.md) — related
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
+- [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related

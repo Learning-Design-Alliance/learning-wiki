@@ -55,3 +55,4 @@ Interventional randomised controlled pilot study; 14 Year 4 dental students rand
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — related
 - [IVR training does not significantly reduce procedure time (prescan or tip tracking) compared to e-learning alone](ivr-training-no-procedure-time-difference.md) — related
 - [Simulation-based training significantly reduced major errors during tunnel construction compared with conventional training](simulation-training-reduced-major-errors-significantly.md) — related
+- [The augmented-cues VR group completed the first real trial significantly faster than the no-training control group, while the conventional VR group's advantage was not statistically significant](atv-first-trial-faster-than-real-only-control.md) — related

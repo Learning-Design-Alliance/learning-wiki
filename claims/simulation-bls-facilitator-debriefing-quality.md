@@ -68,3 +68,8 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
 - [Nursing students valued the reflective DML debriefing over CRM-principles debriefing for euthanasia simulation](dml-debriefing-preferred-euthanasia-simulation.md) — related
 - [Trainers structure sessions by setting clear goals, forming small groups with clear roles, and using a whiteboard to summarize procedure logic](sbl-session-structuring-practices.md) — related
+- [Students rate debriefing feedback as easy to understand, relevant, and constructive, and generally feel positive about debriefing](debriefing-feedback-clear-relevant-constructive.md) — related
+- [Students perceive debriefing as meaningful when it is linked to simulation learning objectives and allows comparison of performance with outcomes](debriefing-linked-to-learning-outcomes-meaningful.md) — related
+- [Students report mixed perceptions of whether debriefers focus on errors rather than successes, with about a third perceiving an error focus](error-focus-in-debriefing-mixed-perceptions.md) — related
+- [Students valued the SBE process structure of pre-brief, simulation activity, and debrief, including feedback from supervisors and simulated patients](sbe-process-prebrief-simulation-debrief-valued.md) — related
+- [Most students prefer a single facilitator providing debriefing for the entire academic year over multiple facilitators](single-facilitator-preferred-whole-year.md) — related

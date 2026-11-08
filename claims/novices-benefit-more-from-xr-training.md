@@ -49,3 +49,4 @@ Review synthesis of four longitudinal studies (n = 4) testing whether less exper
 - [User performance differences favor more experienced participants in XR simulation, but not consistently across all metrics](xr-performance-favors-experienced-users.md) — related
 - [XR-based training is associated with improved user performance in cranial neurosurgical simulation compared to non-XR conditions](xr-training-improves-neurosurgical-user-performance.md) — related
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — reports the opposite
+- [Total performance scores rose from pre-test to post-test for novice and intermediate residents, with no significant difference between groups; subgroup results reported smaller increases for intermediate residents](training-gain-similar-across-experience-levels.md) — related

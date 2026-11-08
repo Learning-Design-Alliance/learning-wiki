@@ -59,6 +59,8 @@ The article concludes that virtual reality training could provide a useful train
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 - [Integrate ex vivo laparoscopic basic-skills simulation training at the beginning of surgical residency](ex-vivo-simulation-before-first-laparoscopic-procedure.md)
 - [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
+- [Deliver the initial CIED learning curve in metrics-based simulation to a proficiency benchmark before in vivo practice](simulation-first-learning-curve-cied-strategy.md)
+- [Increase residents' time on simulators, pelvic trainers and cadaver courses to build surgical skill and confidence](simulator-pelvic-trainer-time-for-surgical-residents.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Qualitative content analysis of an 8-question open-ended opinion form completed 
 
 ## Related Claims
 - [Teachers reported gaining knowledge of project coordination, finding project topics suitable, and benefiting from opportunities to know their students better.](teacher-professional-benefits-project-coordination.md) — related
+- [Participants rated telesimulation positively on enjoyment, knowledge gain, suitability, and practical training opportunities](positive-perception-of-telesimulation.md) — related

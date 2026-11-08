@@ -52,3 +52,4 @@ Analysis of registration data reported in Figure 3, showing a progressive increa
 - [A majority of YOUmedia participants report improved digital media skills due to the program](youmedia-majority-report-improved-digital-media-skills.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
 - Distance and transportation costs were barriers to frequent visits for teens from Chicago's far South and West Sides — related
+- [Undergraduate participation in ECOSCOPE data science workshops rose from 0% to 8.8% to 23% of total registrants after partnership with EDUCE](educe-workshop-undergraduate-participation-increase.md) — related

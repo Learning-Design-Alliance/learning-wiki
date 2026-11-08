@@ -72,3 +72,4 @@ Survey-reported median confidence ratings for specific vaginal surgeries among t
 - [Tele-mentoring programs in Rwanda and Ghana improved cardiac surgery outcomes](tele-mentoring-rwanda-ghana-cardiac-outcomes.md) — related
 - [71% of surveyed surgeons believe trainees should be competent in vaginal hysterectomy before completing general obstetrics and gynaecology training, an expectation the article reports is not consistently met](vh-competency-before-completion-expectation.md) — related
 - [Most surveyed surgeons self-report vaginal hysterectomy proficiency, yet two-thirds perform 30 or fewer annually and 45% report a decline over the last decade](vh-high-self-proficiency-declining-volume.md) — related
+- [Confidence to perform hysterectomy varies sharply by surgical approach among surveyed Italian residents](hysterectomy-confidence-varies-by-approach.md) — related

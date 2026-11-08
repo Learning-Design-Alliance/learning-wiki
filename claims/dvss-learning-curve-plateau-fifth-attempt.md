@@ -60,3 +60,4 @@ Learning-curve analysis of the first 10 training attempts (Z-scores standardizin
 - [Learning curves improve under both basic and procedural VR training, with the greatest improvements seen in the procedural tasks](learning-curve-gains-both-modalities-procedural-greatest.md) — related
 - [Robotic simulation shows early learning-curve superiority over laparoscopic simulation, but both plateau at similar scores by round 10](rs-early-superiority-learning-curve-plateaus-similarly.md) — related
 - [Scrub nurses' iVR learning curves showed no average plateau across the three assessments, though the best performers began plateauing by the third assessment on time, prompts and errors](ivr-learning-curve-no-plateau.md) — related
+- [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related

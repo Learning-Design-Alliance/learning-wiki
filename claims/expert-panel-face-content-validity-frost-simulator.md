@@ -51,3 +51,4 @@ Structured questionnaire administered to a panel of six MFM specialists, three p
 - [Experts rated the DNH model strongly on training efficacy (skills, confidence, risk reduction) but only moderately on operability](dnh-model-content-validity-ratings.md) — related
 - [Expert raters scored the DNH model highest on anatomical accuracy and overall appearance, with weakest ratings for mucosal layer thickness replication](dnh-model-realism-ratings-profile.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
+- [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related

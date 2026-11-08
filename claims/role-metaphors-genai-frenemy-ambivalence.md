@@ -62,3 +62,4 @@ Qualitative thematic analysis of workshop metaphors. Three themes emerged: GenAI
 - [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](anvil-educators-instructor-control-editability.md) — related
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related
 - [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](online-feedback-relational-role-introverted-learners.md) — related
+- [Over time CBR workers occupied dual roles of expert and close friend for participants, converging with high 'Building trust' ENACT scores](cbr-workers-dual-roles-expert-and-close-friend.md) — related

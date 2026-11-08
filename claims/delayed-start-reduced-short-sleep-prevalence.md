@@ -75,3 +75,4 @@ Authors' interpretation of the intervention trial outcome in the discussion: des
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
 - [Sleep problems are common in school-aged children, with prevalence estimates ranging widely depending on assessment mode and definition](child-sleep-problem-prevalence-range.md) — a broader claim this one bears on
+- [Many first-year students report short regular sleep duration, more than half in the School of Sciences sample and almost a third in the Psychology sample](short-regular-sleep-prevalence-freshmen.md) — related

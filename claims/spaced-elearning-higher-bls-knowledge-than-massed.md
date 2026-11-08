@@ -47,3 +47,6 @@ Quasi-experimental two-group study of 106 first-year nursing students; intervent
 ## Related Claims
 - [Student satisfaction with the online BLS course did not differ between spaced and massed learning groups](no-satisfaction-difference-spaced-massed-bls.md) — related
 - [Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice](spaced-math-practice-raises-scores-and-calibration.md) — related
+- [Mass and spaced learning groups show no significant difference in time taken to complete the 1-month test strip](no-difference-test-strip-time-mass-vs-spaced.md) — related
+- [Mass and spaced learning groups report similar satisfaction with course structure](similar-satisfaction-mass-vs-spaced-microsurgery.md) — related
+- [Spaced learning produces higher microsurgical suturing scores than mass learning at 1 month after training](spaced-learning-better-1-month-microsurgery-retention.md) — related

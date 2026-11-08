@@ -52,3 +52,4 @@ Software-recorded analysis of baseline compressions in the training program. Tab
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — related
 - [Mandatory app use significantly increased the percentage of chest compressions with correct rate and correct depth versus no app](mandatory-app-improves-compression-rate-depth.md) — related
+- [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — related

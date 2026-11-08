@@ -47,3 +47,4 @@ Reported from Cardiff Metropolitan University module evaluation comments within 
 ## Related Claims
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](student-perceptions-peer-assessment-benefits-bias.md) — related
+- [Students and staff perceived poster presentations as an effective and fair way to assess students’ ability to collect, analyse, interpret and present data](posters-effective-fair-assessment-research-ability.md) — related

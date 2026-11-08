@@ -54,3 +54,4 @@ Self-report Likert ratings collected from the 101 participants after the VR simu
 - [Experienced HEMS participants rate the MeTra simulator's enclosed environment and communication system as highly similar to a real helicopter](metra-simulator-fidelity-ratings.md) — related
 - [Students' self-rated scores on the enhanced simulation performance dimension rose from pre-test to post-test after the digital scenario, in one uncontrolled pre-post study](digital-scenario-better-simulation-performance.md) — related
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
+- [Students valued online group discussions positively, with fifth-year students valuing them most](online-group-discussions-positive-value-fifth-year.md) — related

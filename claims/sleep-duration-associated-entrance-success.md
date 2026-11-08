@@ -52,3 +52,4 @@ Multivariate logistic regression in the retrospective Rouen cohort survey (523 r
 - [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
 - [Sleep duration shows an inverted U-shaped association with academic performance in all five subjects, with a peak around 8 hours of nightly sleep](inverted-u-sleep-duration-academic-performance.md) — related
+- [Sleep duration the night before a test positively predicts test scores in both samples](test-eve-sleep-predicts-performance.md) — related

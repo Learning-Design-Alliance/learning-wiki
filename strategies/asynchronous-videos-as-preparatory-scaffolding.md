@@ -66,6 +66,8 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Use pre-class expert demonstration videos with in-class self-directed triad practice to increase efficiency of clinical skill teaching](pre-class-video-triad-practice-strategy.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 - [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
+- [Deliver flipped-learning pre-simulation briefing materials (short online videos plus a theory-based briefing form) before simulation practice](flipped-pre-simulation-briefing-strategy.md)
+- [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
 
 ## Examples
 -

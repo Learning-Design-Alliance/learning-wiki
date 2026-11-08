@@ -49,6 +49,7 @@ The article recommends simulation training before actual surgery in circumstance
 - [Use VR surgical simulators to expand training opportunities when operative exposure is reduced, as during the COVID-19 pandemic](vr-simulation-training-during-reduced-operative-exposure.md)
 - [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
 - [Deploy the Anatomage Table through an online platform to sustain anatomy and surgical training during emergencies](anatomage-online-platform-pandemic-training-strategy.md)
+- [Use external observational training before mental practice of an unfamiliar procedure](external-observational-training-before-imagery.md)
 
 ## Examples
 -

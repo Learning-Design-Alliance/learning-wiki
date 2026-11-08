@@ -48,3 +48,4 @@ Subgroup analysis of the 586-provider cohort compared the 50–60 kg group (n = 
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [Practical compression-rate performance (57.17%) falls significantly below theoretical knowledge (96.76%) among emergency healthcare providers](cpr-compression-rate-theory-practice-gap.md) — related
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
+- [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related

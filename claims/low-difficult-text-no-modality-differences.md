@@ -52,3 +52,5 @@ ANCOVA on text-based questions from the same mixed-design experiment. The articl
 - [The modality effect on inference-based questions is serially mediated by personal references and comprehensiveness of explanations](serial-mediation-social-presence-comprehensiveness.md) — related
 - [Oral explanations contain more personal references and more concepts than written explanations, but not more elaborations](oral-explanations-more-references-concepts.md) — related
 - [Students report more mental effort and subjective difficulty during oral explaining than during retrieval practice](oral-explaining-higher-effort-difficulty-than-retrieval.md) — related
+- [Enjoyment, but not mental effort, mediated the effect of explaining on text-based comprehension in exploratory analyses](enjoyment-mediation-explaining-effect.md) — related
+- [Explaining did not outperform retrieval on comprehension, failing to replicate prior explaining effects](explaining-did-not-outperform-retrieval-null-replication.md) — related

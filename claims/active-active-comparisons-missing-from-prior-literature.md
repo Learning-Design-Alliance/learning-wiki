@@ -51,3 +51,4 @@ Narrative review of prior literature in the introduction. The article states "Ty
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) — related
 - [Lab findings on reflection may not transfer to authentic classroom environments](lab-class-transfer-caution-reflection-quizzing.md) — related
+- [Specific active strategies — completing problem sets, self-quizzing, and explaining concepts — were uniquely predictive of biology exam performance, while passive strategies were nonsignificant or negative](specific-active-strategies-uniquely-predictive-biology.md) — related

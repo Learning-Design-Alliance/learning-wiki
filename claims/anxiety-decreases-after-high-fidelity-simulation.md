@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-08
 sources:
   - id: yu-ji-hye-2021
     resource: "https://doi.org/10.1371/journal.pone.0251078"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre-post paired comparisons showed anxiety total scores fell from M = 61.41 (SD = 12.01) to M = 45.41 (SD = 12.12) after the first simulation and from M = 56.86 (SD = 11.36) to M = 43.14 (SD = 12.04) after the second, with paired t-tests significant at p < 0.001 in both sessions. [→ Yu Ji Hye 2021](#yu-ji-hye-2021)

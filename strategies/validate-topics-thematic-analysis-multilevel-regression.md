@@ -45,7 +45,8 @@ The article recommends a two-part validation strategy for topic models of writte
 - [Thematic analysis of LDA topics identifies six SET themes matching prior literature](../claims/thematic-analysis-lda-topics-set-themes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use NLP and machine learning (text mining, lexicon sentiment analysis, LDA topic modelling) to evaluate large-scale e-learning course feedback](nlp-machine-learning-course-evaluation-workflow.md)
 
 ## Examples
 -

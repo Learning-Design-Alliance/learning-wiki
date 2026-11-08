@@ -54,3 +54,4 @@ Table 4 reports significant indirect paths to psychological well-being: EI→Sel
 - [Structural paths differ between undergraduate and postgraduate students, but the indirect mediating effects do not differ significantly](multigroup-paths-differ-indirect-similar.md) — related
 - [Personality traits significantly mediate the relationship between entrepreneurial intention and student academic performance among university students](personality-traits-mediate-ei-academic-performance.md) — related
 - [Positive academic emotions increase the likelihood of academic resilience among disadvantaged students in all three grades](positive-academic-emotions-predict-resilience.md) — related
+- [The resilience resources factor directly predicts greater mental well-being and higher university adjustment after controlling for personality, intelligence, and financial and living factors](resilience-resources-predict-wellbeing-adjustment.md) — related

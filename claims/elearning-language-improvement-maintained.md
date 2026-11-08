@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-08
 sources:
   - id: mccaughan-em-2021
     resource: "https://doi.org/10.3390/ijerph181910045"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Agreement with 'I know the right language to use when discussing sexual concerns' rose significantly from baseline to both T1 (2.52 vs 2.98) and T2 (2.52 vs 2.85), each P = 0.001. [→ McCaughan E.M. 2021](#mccaughan-em-2021)

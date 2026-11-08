@@ -118,3 +118,4 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Failure to obtain a testing effect with immediate tests may be partly due to working memory depletion](testing-effect-working-memory-depletion-immediate-tests.md) — related
 - [Cognitive Load Theory has traditionally used slot-based working memory capacity models](clt-traditionally-used-slot-models.md) — related
 - [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related
+- [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](attentional-capacity-novice-implant-automation.md) — a narrower finding that bears on this claim

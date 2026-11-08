@@ -53,3 +53,4 @@ The review's narrative synthesis of checklist studies (20 studies used task-spec
 - [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](global-rating-scales-as-reliable-as-checklists.md) — related
 - [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](no-construct-validity-procedural-assessment-tools.md) — reports the opposite
 - [Procedural checklist competence after simulation training does not differ significantly between residents and practicing clinicians](pudendal-block-checklist-no-difference-residents-clinicians.md) — related
+- [In its current form the four-item scale may not adequately differentiate students with poor communication skills from those who perform better](cs-scale-poor-differentiation-low-performers.md) — related

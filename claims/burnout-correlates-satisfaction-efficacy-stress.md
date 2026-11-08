@@ -53,3 +53,4 @@ Systematic review of correlates across 99 studies. The most assessed constructs 
 - [Burnout and work engagement are the strongest correlates of teacher wellbeing](burnout-engagement-strongest-correlates.md) — related
 - [A prolonged period of forced online teaching does not necessarily lead to increased adoption; regression of adoption may occur due to stress and burnout](forced-online-teaching-not-increase-adoption.md) — related
 - [School-level factors, including accountability and the quality of supervision by school directors, are associated with teachers' motivation and job satisfaction in Katanga, DRC](school-accountability-and-director-supervision-associated-with-teacher-motivation.md) — related
+- [Magnitude of competency change correlated positively with age and job satisfaction and negatively with burnout and complaints](change-magnitude-correlates-sociodemographic-organizational.md) — related

@@ -52,3 +52,4 @@ The article attributes this to its prior randomized study (Bernacki et al., 2020
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md)
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores](microanalytic-questions-outpredict-mslq.md) — related
+- [Specific active strategies — completing problem sets, self-quizzing, and explaining concepts — were uniquely predictive of biology exam performance, while passive strategies were nonsignificant or negative](specific-active-strategies-uniquely-predictive-biology.md) — related

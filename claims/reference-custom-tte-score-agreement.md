@@ -76,3 +76,4 @@ Pearson's correlation between the two scores after normalisation to a 0–1 rang
 - [Simulation-based training does not significantly change neonatal TTE duration at 3 or 6 months](simulation-training-no-tte-duration-difference.md) — related
 - [Round two NAF scores correlated very strongly (r = 0.97) with the final round-three KOL consensus rankings](strong-correlation-naf-scores-final-consensus.md) — a narrower finding that bears on this claim
 - [Students subjectively evaluated the CLOSE checklist and the e-learning very positively](close-elearning-positive-subjective-evaluation.md) — related
+- [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related

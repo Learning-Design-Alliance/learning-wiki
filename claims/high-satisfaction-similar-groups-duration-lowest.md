@@ -52,3 +52,4 @@ Satisfaction measured with a 15-item questionnaire (14 items rated 0–10) compl
 - [In the same RCT, PBL combined with virtual simulation received significantly higher student evaluations of teaching effectiveness (17.72 ± 1.24 vs. 12.72 ± 1.02, p < 0.01) and teaching satisfaction (86.96 ± 6.46 vs. 70.24 ± 8.71, p < 0.05)](pbl-virtual-simulation-higher-satisfaction-trauma-orthopedics.md) — reports the opposite
 - [Perceptions of VR training do not differ significantly between preclinical and clinical dental students](vr-perception-similar-across-cohorts.md) — related
 - [No significant difference between e-learning and video groups in satisfaction, perceived duration, or perceived difficulty](no-difference-satisfaction-duration-difficulty.md) — related
+- [Perceived course difficulty and duration do not differ significantly between e-learning and video groups](nihss-e-learning-video-no-difficulty-duration-difference.md) — related

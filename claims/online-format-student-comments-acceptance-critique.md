@@ -51,3 +51,4 @@ Qualitative analysis of the free-text comments collected alongside the evaluatio
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Only a minority of students prefer online teaching for clinical courses, and the primary drawback cited is the lack of a classroom atmosphere](online-teaching-willingness-shortcomings-neurosurgery.md) — reports the opposite
 - [Students name travel savings and free choice of location as the main advantages, and chat-communication limits and lack of personal contact as the main drawbacks, of chat-based PbL](bpbl-interview-advantages-drawbacks.md) — related
+- [Digital SP teaching fell short of face-to-face teaching in non-verbal communication, group dynamics and atmosphere](digital-sp-teaching-nonverbal-group-dynamics-deficits.md) — related

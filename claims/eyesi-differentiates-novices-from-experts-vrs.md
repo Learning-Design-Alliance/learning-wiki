@@ -63,3 +63,4 @@ Qualitative synthesis of seven included studies in a systematic review. The revi
 - [A VR simulation-based TTE test distinguishes novice from experienced physicians on all parameters, and novice from intermediate on most parameters](vr-tte-test-distinguishes-experience-levels.md) — related
 - [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — related
 - [A non-significant trend links self-rated microsurgical ability to Eyesi Navigation Level 1 total score](trend-self-rating-objective-score-correlation.md) — related
+- [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related

@@ -50,3 +50,4 @@ Null finding from the survey's third section (11 items, 5-point scale on ease of
 - [Most OT educators and trainees agree that DOPS is a practical and appropriate assessment for OT PGY training](dops-practical-appropriate-ot-pgy-training.md) — related
 - [Subjectivity is the main disadvantage of DOPS, cited by more than 75% of respondents](dops-subjectivity-main-disadvantage.md) — related
 - [Significantly higher percentages of OT trainees than supervisors feel stressed by and satisfied with DOPS assessment](trainees-more-stressed-and-satisfied-than-supervisors-dops.md) — related
+- [Significant discrepancies were detected between the three feedback sources, with supervisors awarding the highest scores](msf-source-discrepancies-supervisors-highest.md) — related

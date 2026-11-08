@@ -52,3 +52,4 @@ Thematic content analysis of clinical interviews with 6 students (3 from each gr
 - [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](videos-3d-animations-classroom-vs-homework-no-difference.md) — related
 - [Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)](videos-3d-animations-remedy-misconceptions.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
+- [Multimedia learning materials supported self-paced review of difficult concepts, with auscultation skills highlighted as especially challenging](multimedia-materials-self-paced-review.md) — related

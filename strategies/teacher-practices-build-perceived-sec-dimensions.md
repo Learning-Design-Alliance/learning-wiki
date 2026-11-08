@@ -50,6 +50,7 @@ The article's practical implications recommend teachers directly target specific
 - [Empathy for Educators](empathy_for_educators.md)
 - [Social Awareness Instruction with Current Events](social_awareness_instruction_with_current_events.md)
 - [Build Time for Self-Reflection](build_time_for_self-reflection.md)
+- [Foster nursing students' creativity through diversity learning, freedom to learn, confidence, and group work](creativity-fostering-strategies-nursing.md)
 
 ## Examples
 -

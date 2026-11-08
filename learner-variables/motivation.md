@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 445 claims (292 show a difference, 108 mixed, 45 no difference) · 315 studies (116 associational, 108 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 86 of 315 report an effect size · 433 claims rest on one study
+> **Evidence** · 447 claims (293 show a difference, 108 mixed, 46 no difference) · 316 studies (116 associational, 108 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 8 design), `q1`–`q4` · 86 of 316 report an effect size · 435 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -495,6 +495,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Close friends' academic engagement contributes to adolescents' own academic engagement over time](../claims/close-friend-engagement-influence.md) [+M] — learners who differ on it differ in outcomes
 - [Social influence on academic engagement is strongest when adolescents' engagement is low](../claims/influence-strongest-low-engagement.md) [~M] — an instructional effect differs with it
 - [In one pre-post study with no comparison group, in-service ECEs' self-rated task and barrier self-efficacy rose significantly from pre- to post-course; pre-service ECEs' self-rated barrier self-efficacy changed significantly, while task self-efficacy did not significantly change](../claims/teach-elearning-self-efficacy-group-differences.md) [~M] — measured as an outcome of the instruction studied
+- [Undergraduates' self-reported interest in bioinformatics shifted from medium to high between surveys before and after a 5-hour EDUCE module in MICB 301, with no comparison group](../claims/educe-micb301-bioinformatics-interest-increase.md) [+M] — measured as an outcome of the instruction studied
+- [After the MICB 301 EDUCE module, computer science interest remained constant while computer science experience gained, and statistics showed no significant changes in interest or experience](../claims/educe-micb301-cs-constant-statistics-null.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

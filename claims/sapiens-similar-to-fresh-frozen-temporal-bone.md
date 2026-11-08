@@ -50,3 +50,4 @@ Comparative questionnaire (10 items, 5-point Likert scale) completed by resident
 - [Dissection time decreases across the three models, with significantly shorter time on fresh-frozen bone than the transparent 3D model (p = 0.002)](dissection-time-decreases-across-models.md) — related
 - [The transparent SAPIENS model is considered ideal for inexperienced surgeons because it visualizes hidden anatomical structures](transparent-model-ideal-for-inexperienced-surgeons.md) — related
 - [The chorda tympani replica was interrupted in every training session, with residents damaging it earlier than specialists, and it was the least appreciated structure in participant feedback](3dst-chorda-tympani-fragility-limitation.md) — related
+- [Virtual dissection showed tendential benefit on muscle listing and 2D/3D reporting of anatomical structures, but not on listing vessels, nerves and bones](virtual-dissection-2d-3d-reporting-tendential-benefit.md) — related

@@ -62,6 +62,7 @@ The article recommends that collaborative simulation "should not be restricted t
 - [Use simulated patients in the early study period and integrate real patients gradually as communication skills develop](sp-early-rp-gradual-integration-strategy.md)
 - [Use short, gamified low-cost simulation tasks as an introductory pre-clinical training method before real laparoscopic exposure](gamified-low-cost-simulation-before-real-laparoscopy.md)
 - [Repeatedly expose medical students to high-fidelity simulation to build psychological stability before clinical encounters](repeated-high-fidelity-simulation-exposure-strategy.md)
+- [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
 
 ## Examples
 -

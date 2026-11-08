@@ -53,3 +53,4 @@ Descriptive learning-curve result from the randomized crossover training trial (
 - [Surgical novices training with 3D monitors on an open-console robotic simulator consistently outperform the 2D group on efficiency parameters](3d-monitors-outperform-2d-efficiency-hugo-ras.md) — related
 - [Surgical competence in robotic LLND is achieved after 12–53 cases regardless of learning outcome](robotic-llnd-competence-12-53-cases.md) — related
 - [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) — related
+- [The amount of patch-appliance time decrease was not correlated with attendee cardiothoracic surgery experience (p > 0.05)](time-decrease-not-correlated-with-experience.md) — a narrower finding that bears on this claim

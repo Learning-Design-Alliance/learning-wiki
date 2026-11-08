@@ -44,7 +44,8 @@ The article's training program has surgeons repeatedly perform the standardized,
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](../claims/repeated-3d-simulation-training-reduces-operation-time.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Repeated hands-on simulation surgeries on a 3D-printed congenital heart disease model at approximately 1-week intervals](strategy-repeated-3d-printed-simulation-surgeries.md)
 
 ## Examples
 -

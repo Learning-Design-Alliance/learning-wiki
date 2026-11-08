@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-08
 sources:
   - id: lamiani-giulia-2021
     resource: "https://doi.org/10.12659/AOT.931147"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Empathy scores among intensive care residents rose from pre-test to post-test after PERCS-ICU, in one uncontrolled pre-post study. [→ Lamiani Giulia 2021](#lamiani-giulia-2021)

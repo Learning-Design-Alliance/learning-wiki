@@ -58,3 +58,4 @@ Meta-analysis pooling 12 longitudinal physical activity program studies in child
 - [Physical activity interventions in childhood show no overall benefit for executive functions or academic achievement](pa-interventions-no-overall-benefit-ef-achievement.md) — reports the opposite
 - [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — related
 - [School-based physical activity interventions have a small positive weighted population effect on children's academic performance (rw = 0.181)](pa-interventions-small-positive-effect-academic-performance.md) — related
+- [Physical activity is positively associated with academic achievement in all tested models except English, where no relationship appears](physical-activity-positive-achievement-except-english.md) — related

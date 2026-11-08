@@ -67,3 +67,4 @@ Session-wise correlations: surgery experience with session 1 and 2 time (r = −
 - [Senior residents achieved significantly faster final anastomosis times than junior residents in S-T-S, E-T-S, and E-T-E anastomoses (P=0.039)](senior-faster-final-anastomosis-time-than-junior.md) — related
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
 - [Overall SARMS-rated anastomosis quality improved significantly across sessions, with the motion and speed categories showing the strongest significant gains](sarms-quality-improves-motion-speed-significant.md) — related
+- [First-session operative time did not correlate with surgical skills assessment score in this cohort](no-correlation-operative-time-skills-score-first-session.md) — related

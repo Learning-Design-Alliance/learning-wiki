@@ -55,3 +55,4 @@ Reliability analysis using ICC(2,k) with a two-way random-effects model across f
 - [Blinded GOALS assessment of videotaped cholecystectomies has moderate reliability (ICC(A,3) = 0.84 for consensus ratings)](goals-video-assessment-moderate-reliability.md) — related
 - [Blinded GOALS rating of the bleeding-exercise videos showed moderate-to-good inter-rater reliability (ICC = 0.72)](goals-bleeding-exercise-icc-moderate-good.md) — related
 - [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
+- [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — related

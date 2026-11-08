@@ -68,3 +68,4 @@ The same within-class experiment reports that "these differences are statistical
 - [Counting days incentive strongly increases the number of days of practice in both a within-class and a between-instructor experiment](counting-days-increases-practice-days.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related
+- [Spacing potential — days in advance studying began and days studied per week — was not a significant predictor of performance on immediate or delayed tests](spacing-potential-not-predictive-biology-exams.md) — related

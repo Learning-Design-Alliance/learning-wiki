@@ -67,3 +67,4 @@ Post-studying Likert reflection in the pilot trial. Visualization agreement was 
 - [Students perceived 3D printed bone models as better than 2D images or a single skeleton and reported deeper learning and increased confidence](3d-printed-models-perceived-deeper-learning.md) — related
 - [AR/VR and digital tools in anatomy learning show consistently high student acceptance and better 3D understanding, but effects on knowledge gain vary widely across studies](arvr-anatomy-high-acceptance-mixed-knowledge-gain.md) — a broader claim this one bears on
 - [Digital visualization of structures that are hard to see on body donors improved the quality of preparation in dissection courses](digital-visualization-improves-dissection-quality.md) — related
+- [Virtual dissection showed tendential benefit on muscle listing and 2D/3D reporting of anatomical structures, but not on listing vessels, nerves and bones](virtual-dissection-2d-3d-reporting-tendential-benefit.md) — related

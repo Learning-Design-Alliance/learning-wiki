@@ -44,3 +44,4 @@ Table 1 questionnaire comparison between the teaching reform group (n=50) and co
 ## Related Claims
 - [Reform-group students perceive classroom time as insufficient compared with conventional-group students](dxr-mindmap-insufficient-class-time.md) — related
 - [Virtual patient platform plus mind mapping improves reported learning efficiency versus conventional teaching](dxr-mindmap-learning-efficiency.md) — related
+- [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related

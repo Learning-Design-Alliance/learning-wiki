@@ -52,3 +52,4 @@ ITT analysis of term GPA (including and excluding the focal course) and next-ter
 - [Course completion effects differed by subject: reduced DFW in Government and reduced dropping in Microeconomics](chatbot-completion-effects-differ-by-subject.md) — related
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
 - [Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th](chatbot-quantile-effects-middle-distribution.md) — related
+- [CoC participants persisted into and performed better in subsequent biology courses, especially students with low and medium preparedness](coc-improves-persistence-future-courses.md) — related

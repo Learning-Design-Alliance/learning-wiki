@@ -51,3 +51,4 @@ Thematic analysis of qualitative feedback questionnaires from trainees; the arti
 - [Group reflection and debriefing after VR simulation is perceived by students as the aspect providing the most learning benefits](group-reflection-debriefing-most-learning-benefit-students.md) — related
 - [Participant takeaways from the simulation emphasize clear communication, practical orientation to the physical environment and equipment, real-time correction of techniques, and early action before the code team arrives](rcdp-simulation-takeaways-communication-environment-early-action.md) — related
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — related
+- [Students valued online group discussions positively, with fifth-year students valuing them most](online-group-discussions-positive-value-fifth-year.md) — related

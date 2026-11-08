@@ -48,3 +48,4 @@ Pre-post comparison in the same observational study of 120 newly licensed physic
 - [Fewer than one in five newly licensed Italian physicians performed effective CPR with adequate compression depth and frequency before BLSD training](newly-licensed-physicians-low-practical-cpr-skills.md) — a narrower finding that bears on this claim
 - [CPR knowledge and performance of newly licensed physicians showed no dependence on sex across all four outcomes](cpr-performance-no-sex-difference-new-physicians.md) — related
 - [About half of newly licensed Italian physicians had adequate theoretical knowledge of CPR, well below their expected competence](half-of-new-physicians-adequate-cpr-theory.md) — related
+- [Confidence in using a defibrillator rose significantly from 38.8% to 67.9% from pre-test to post-test in one group with no comparison group](defibrillator-confidence-increase.md) — related

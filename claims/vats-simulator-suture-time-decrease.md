@@ -53,3 +53,4 @@ Quasi-experimental repeated-measures study of 25 surgeons performing three conse
 - [In one single-group pre-post study, CPMDRs' task completion times fell from pre-test to post-test across all five evaluated laparoscopic tasks (P < 0.001)](progressive-laparoscopic-training-reduced-task-times.md) — related
 - [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
+- [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related

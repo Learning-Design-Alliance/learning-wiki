@@ -61,3 +61,5 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [BMI and aerobic fitness were eliminated from the regression models and showed no effect on mathematics scores](bmi-aerobic-fitness-no-math-effect.md) — related
 - [Cardiorespiratory fitness is positively associated with mathematics grades in children aged 8–12](crf-associated-math-grades-children.md) — related
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
+- [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
+- [Adding physical fitness measures did not significantly enhance GPA prediction beyond motor competence, age, and BMI](fitness-block-did-not-enhance-gpa-prediction.md) — related

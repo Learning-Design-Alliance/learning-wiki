@@ -50,3 +50,4 @@ Multivariable logistic regression using self-reported confidence ratings as pred
 - [Only 19.1% of Ethiopian medical interns across four institutions meet the ≥80% ECG interpretation competency threshold](ethiopian-interns-low-ecg-competency-19-percent.md) — related
 - [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](randomised-case-order-attenuates-case1-effect.md) — related
 - [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related
+- [Being a diagnostic radiology resident and having higher diagnostic confidence are the only independent predictors of high diagnostic accuracy](radiology-residency-and-confidence-predict-accuracy.md) — related

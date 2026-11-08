@@ -48,3 +48,4 @@ Omnibus comparison across the meta-analyzed studies (k = 14). The review reports
 - [Mode-specific advantages: SCMC favors productive and written L2 outcomes; FTF favors receptive and oral outcomes](mode-specific-advantages-productive-written-vs-receptive-oral.md) — related
 - [Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)](scmc-ftf-interaction-significant-l2-development.md) — related
 - [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](scmc-small-advantage-overall-l2-outcomes.md) — reports the opposite
+- [Baseline developmental outcomes were similar between students in FTF and nFTF service-learning modes at pretest](baseline-equivalence-service-modes.md) — related

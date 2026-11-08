@@ -61,3 +61,4 @@ Following the non-participant study, the Partnership added general-topic offerin
 - [Teachers' framework implementation developed into increased mastery with system experience; second-phase teachers were more confident and evaluated outcomes more positively](teacher-mastery-confidence-increased-with-experience.md) — related
 - [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](raise-teacher-impacts-increased-year1-to-year2.md) — related
 - [One year after the workshops, more than 90% of respondents attribute high importance of participation to their work in student assessment](one-year-late-effects-high-importance-assessment.md) — related
+- [Undergraduate participation in ECOSCOPE data science workshops rose from 0% to 8.8% to 23% of total registrants after partnership with EDUCE](educe-workshop-undergraduate-participation-increase.md) — related

@@ -51,6 +51,7 @@ To close the identified NKLM 2.0 gaps, the authors propose that topics such as n
 - [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
 - [Integrate culinary medicine into compulsory German medical curricula with prevention and interprofessional learning contexts](integrate-cm-into-german-medical-curricula.md)
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
+- [Ground physician counseling curricula in theory with central experiential learning, start early, and strengthen nutrition and exercise instruction](wmc-curricula-experiential-early-nutrition-instruction.md)
 
 ## Examples
 -

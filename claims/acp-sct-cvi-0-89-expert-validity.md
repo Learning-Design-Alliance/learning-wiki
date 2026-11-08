@@ -55,3 +55,4 @@ Expert validation of the ACP-SCT program design and content by a nephrologist, a
 - [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
 - [A three-week ACP-SCT program achieved 100% recruitment, consent, and retention among hemodialysis nurses in a pilot study](acp-sct-pilot-full-recruitment-retention.md) — related
+- [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related

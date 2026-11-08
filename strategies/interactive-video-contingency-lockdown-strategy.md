@@ -47,6 +47,7 @@ The article proposes interactive educational videos as a contingency strategy fo
 
 - [Assign interactive video pre-class viewing to reduce in-person laboratory hours](video-preclass-viewing-reduce-lab-hours-strategy.md)
 - [Deploy screen-based simulation as an accessible training alternative when face-to-face clinical education is disrupted](screen-simulation-disrupted-education-alternative.md)
+- [Adopt the Smart Class teaching module as an alternative when traditional class teaching is not possible](smart-class-alternative-when-traditional-teaching-impossible.md)
 
 ## Examples
 -

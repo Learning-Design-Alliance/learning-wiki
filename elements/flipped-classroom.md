@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 84 claims (51 for, 28 mixed, 5 against) · 47 studies (29 causal, 12 quant-synthesis, 3 review, 2 design, 1 associational), `q1`–`q4` · 15 of 47 report an effect size · 83 claims rest on one study
+> **Evidence** · 86 claims (51 for, 30 mixed, 5 against) · 48 studies (29 causal, 12 quant-synthesis, 3 review, 3 design, 1 associational), `q1`–`q4` · 15 of 48 report an effect size · 85 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -108,6 +108,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Test scores on flipped-taught chapters (respiratory and female reproductive systems) were significantly higher for the 2021 design-thinking flipped cohort than for the 2020 cohort](../claims/dt-flipped-chapter-test-scores-significantly-improved.md) [+W] — attached 2026-11-07 from Guo Yan et al. (2024), which proposed "O-PIRTAS six-step flipped classroom model"; tests this page's relationship.
 - [In a 10-week haematology course, the flipped learning group showed a significantly greater increase in self-efficacy than the traditional lecture group](../claims/flipped-learning-self-efficacy-increase-haematology.md) [+M] — attached 2026-11-07 from Algarni Abdulrahman Abdulrahman (2024), which proposed "Flipped haematology course built on Merrill's First Principles of Instruction with Blackboard-delivered video lectures, quizzes, and in-class group problem-solving".
 - [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](../claims/flipped-learning-positive-perceptions-haematology.md) [+M] — attached 2026-11-07 from Algarni Abdulrahman Abdulrahman (2024), which proposed "Flipped haematology course built on Merrill's First Principles of Instruction with Blackboard-delivered video lectures, quizzes, and in-class group problem-solving".
+- [The online ICM version of the seminar produced evaluation results at least as good as the previous face-to-face course, with students especially emphasizing Kahoot!](../claims/online-icm-evaluation-not-worse-than-face-to-face.md) [~W] — attached 2026-11-08 from Huber J et al. (2021), which proposed "Online ICM version of the seminar 'The Lonely Patient' with synchronous Zoom sessions and Kahoot!".
+- [Using the online ICM with interactive Kahoot! components kept student interaction at the same high level as the classroom format](../claims/kahoot-interaction-maintained-online.md) [~W] — attached 2026-11-08 from Huber J et al. (2021), which proposed "Online ICM version of the seminar 'The Lonely Patient' with synchronous Zoom sessions and Kahoot!".
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

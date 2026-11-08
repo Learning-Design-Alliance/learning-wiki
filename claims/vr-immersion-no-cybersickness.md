@@ -64,3 +64,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [Cybersickness screening showed no concern for any student before or after MHW exposure](mhw-cybersickness-no-concern.md) — related
 - [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
+- [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related

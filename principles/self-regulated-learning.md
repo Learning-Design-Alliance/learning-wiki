@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 191 claims (82 for, 98 mixed, 11 against) · 130 studies (46 causal, 25 review, 23 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 130 report an effect size · 180 claims rest on one study
+> **Evidence** · 192 claims (82 for, 99 mixed, 11 against) · 131 studies (47 causal, 25 review, 23 associational, 17 quant-synthesis, 13 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 34 of 131 report an effect size · 181 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [The self-assessment group showed a smaller improvement delta in time, distance or composite score than the other groups for most suturing tasks](../claims/self-assessment-group-smaller-improvement-delta.md) [~W] — attached 2026-11-07 from Hillemans Vera et al. (2024), which proposed "Use reflection before practice with a self-assessment form before suturing training and tests to raise students' starting skill level"; tests this page's relationship.
 - [Metacognitive strategy use positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/metacognition-predicts-elementary-literacy-math.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Elementary classrooms should give students supported opportunities to plan, monitor, and evaluate their learning".
 - [Effort regulation positively predicts 6th-graders' literacy and math achievement both within and between schools](../claims/effort-regulation-predicts-elementary-achievement.md) [+W] — attached 2026-11-07 from Ha Cheyeon et al. (2023), which proposed "Elementary classrooms should give students supported opportunities to plan, monitor, and evaluate their learning".
+- [Home-based self-regulated training and centralized instructor-regulated training produce no significant inter-group differences in laparoscopic performance at pretest, posttest, or 6-month retention test](../claims/hsrt-cirt-no-intergroup-performance-differences.md) [~W] — attached 2026-11-08 from Sloth Sigurd Beier et al. (2021), which proposed "Offer home-based self-regulated laparoscopic training as a feasible and effective alternative to centralized instructor-regulated training only inside a supportive instructional design"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

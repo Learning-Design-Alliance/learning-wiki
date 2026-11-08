@@ -54,3 +54,4 @@ Results of the randomized crossover trial: after crossover, the VR-trained contr
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [VR training after crossover was associated with a significantly shorter diagnosis-to-delivery time, driven by the control group](vr-training-shorter-diagnosis-to-delivery-time.md) — related
 - [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related
+- [VR-trained groups reported significantly higher real-task workload than the real-only control group, with no significant difference between the two VR groups](vr-trained-groups-higher-real-task-workload.md) — related

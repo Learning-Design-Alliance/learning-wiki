@@ -44,6 +44,7 @@ To make gerodontology learning clinically relevant, the article recommends caseâ
 ## Related Strategies
 
 - [Revise the dental curriculum to better address cancer-treatment complications and add periodic practical visits to head and neck cancer hospitals](revise-dental-curriculum-cancer-complications-practical-visits.md)
+- [Use outreach community dental care experiences to build student clinical confidence](outreach-community-dental-care-confidence-strategy.md)
 
 ## Examples
 -

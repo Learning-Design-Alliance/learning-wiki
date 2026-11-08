@@ -51,3 +51,5 @@ Post-course evaluation of the boot camp in which students rated training effects
 - [Intervention students rated the blended learning experience less favorably but rated learning-goal clarity, structure, and curricular alignment higher than controls](mixed-course-evaluation-favors-structure-not-format.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
+- [Trainees rated interactive lectures the most beneficial boot camp component, ahead of simulated case scenarios and procedural skills training](ent-boot-camp-interactive-lectures-preferred.md) — related
+- [Most trainees reported the boot camp added to their knowledge, improved technical skills and increased confidence managing ENT on-call problems](ent-boot-camp-perceived-knowledge-skills-confidence.md) — a narrower finding that bears on this claim

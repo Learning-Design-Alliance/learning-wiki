@@ -81,3 +81,4 @@ Same questionnaire: sense-of-burden scores were 2.85 ± 1.37 (LBL) vs 2.90 ± 1.
 - [Most experimental students reported the design-thinking flipped classroom enhanced knowledge comprehension and comprehensive abilities without increasing learning burden](dt-flipped-perceived-gains-no-burden.md) — related
 - [SPOC+PBL students reported higher satisfaction with teaching than LBL students across interest, participation, collaboration, interaction and clinical thinking dimensions](spoc-pbl-higher-teaching-satisfaction.md) — related
 - [Student satisfaction was significantly lower in the flipped classroom group than in the lecture group on course content, learning, prepared content, and total satisfaction](flipped-classroom-lower-satisfaction-than-lecture.md) — reports the opposite
+- [Clinical thinking improvement and learning pressure showed no significant difference between the SBS & CBL and LBL & CBL groups](clinical-thinking-no-group-difference.md) — related

@@ -72,3 +72,4 @@ Case illustration from the second spell: Karthik, whose first-spell presentation
 - [Qualitative evaluation identified per-format conditions: rubrics improved feedback transparency, summative peer assessment was judged infeasible, and video was seen as complementary to live observation](qualitative-conditions-rubrics-peer-assessment-video.md) — related
 - [Dual formative feedback operates bidirectionally at provider and organizational levels](ohl-mini-cex-dual-feedback.md) — related
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related
+- [Video-feedback interventions that structure annotations with an observation form show larger effects on communication skills than unstructured formats, according to a cited meta-analysis](observation-form-structures-video-annotation-effects.md) — related

@@ -54,3 +54,5 @@ Review synthesis of frequency-domain HRV findings; the LF/HF ratio was the most 
 - [Frequency-domain HRV variables (LF, HF, LF/HF) showed no significant differences across OSCE scenarios](osce-frequency-domain-hrv-no-differences.md) — a narrower finding that bears on this claim
 - [Most students raised their HRV during biofeedback-assisted mindfulness sessions, with immediate on-screen feedback of physiological change](students-raised-hrv-during-biofeedback-sessions.md) — related
 - [The PASAT stress task significantly increased cardiovascular activity on all measured variables in the student sample](pasat-increased-cardiovascular-activity.md) — related
+- [No significant between-group differences in heart rate, HF or LF/HF during the break phase, or in heart rate during patient assessment](no-hrv-difference-break-phase-and-hr-assessment.md) — related
+- [Sympathetic stress marker (LF/HF) is significantly higher in peer simulation than individual simulation during the first patient assessment](peer-simulation-lfhf-increased-patient-assessment.md) — a narrower finding that bears on this claim

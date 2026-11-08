@@ -67,3 +67,4 @@ Interview quote from Respondent 4 in the 'Developing a culture of peer teaching 
 - [Junior doctor tutors reported high enjoyment and strong overall benefit from participating in the near-peer teaching program](junior-doctor-tutors-enjoyment-benefit-high.md) — related
 - [Prior teaching was somewhat stressful for junior doctor tutors but participation in the near-peer program provided only some relief of that stress](near-peer-teaching-stress-relief-minimal.md) — related
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related
+- [Emergency medical care students generally perceive the simulation debriefing environment as psychologically safe and built on a shared understanding of why debriefing occurs](debriefing-psychological-safety-perceived-hei-students.md) — related

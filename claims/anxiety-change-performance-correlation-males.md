@@ -65,3 +65,6 @@ FDR-controlled (0.25) correlations between change in anxiety and academic perfor
 - [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — reports the opposite
 - [Anxiety explains more performance variation for female than male medical students, particularly on USMLE Step 1](anxiety-explains-more-female-performance-variation.md) — related
 - [Concentration, Motivation, and Time Management predict performance more strongly for female than male medical students despite showing no gender difference in scores](concentration-motivation-time-management-stronger-female-predictors.md) — related
+- [Absence rate was significantly correlated with final grades for male students but not for female students](absenteeism-grade-correlation-males-only.md) — related
+- [The author concludes absenteeism is a negative predictor of academic success for male but not female medical sciences students in Saudi Arabia](absenteeism-negative-predictor-males-not-females.md) — related
+- [Preliminary course data showed a higher proportion of female students earning A+ grades than male students](preliminary-a-plus-proportion-sex-gap.md) — related

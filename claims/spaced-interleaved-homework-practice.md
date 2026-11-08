@@ -74,3 +74,4 @@ Review statement on mixing problem types within homework; no citation or effect 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — related
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
+- [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — a narrower finding that bears on this claim

@@ -46,6 +46,7 @@ The article recommends that during games and physical activities lessons, primar
 
 - [Design coordination activities as games without losers so all children participate actively](gaming-without-losers-coordination-activities.md)
 - [Allocate school-aged children to cognitively challenging physical activities such as tag games, team games, or coordinative exercises](cognitively-challenging-physical-activities-recommendation.md)
+- [Design creative and challenging motor tasks during sensitive periods to support confidence, memory, and anticipation](creative-challenging-motor-tasks-sensitive-periods.md)
 
 ## Examples
 -

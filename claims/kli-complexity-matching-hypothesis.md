@@ -70,3 +70,4 @@ The article presents this as a specific instance of the complexity-matching hypo
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
 - [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related
 - [Model progression benefits learning only in sufficiently complex simulations; in a simple domain it was less efficient than full complexity from the start](model-progression-complexity-boundary.md) — related
+- [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — a narrower finding that bears on this claim

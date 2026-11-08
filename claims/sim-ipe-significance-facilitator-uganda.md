@@ -67,3 +67,4 @@ Thematic analysis identified preparation for future teamwork, breaking down prof
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Students perceive interprofessional CPR training as more aligned with real-world work dynamics than discipline-separate training](ipe-cpr-training-real-world-readiness.md) — related
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
+- [Students preferred digital simulation with virtual patients and emphasized group work and faculty facilitation as important for its learning outcomes](digital-simulation-preferred-group-facilitation.md) — related

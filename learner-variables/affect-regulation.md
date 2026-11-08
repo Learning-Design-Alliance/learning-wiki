@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 340 claims (239 show a difference, 64 mixed, 37 no difference) · 224 studies (86 associational, 62 causal, 33 review, 16 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 48 of 224 report an effect size · 332 claims rest on one study
+> **Evidence** · 343 claims (240 show a difference, 65 mixed, 38 no difference) · 227 studies (88 associational, 62 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 49 of 227 report an effect size · 335 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -380,6 +380,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Perceived stress correlates negatively with GPA only in clinical medical students, suggesting a cumulative effect of preclinical stress](../claims/stress-gpa-negative-correlation-only-clinical-students.md) [~M] — learners who differ on it differ in outcomes
 - [Self-regulation level (low/medium/high) differentially predicts self-efficacy, procrastination and achievement, with family socio-educational level also affecting achievement](../claims/sr-level-by-family-level-anova-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Viewing stress as enhancing relates to greater approach coping and lower perceived distress, which relate to better health (exploratory mediation)](../claims/coping-and-distress-mediate-mindset-health-link.md) [+W] — learners who differ on it differ in outcomes
+- [Avoidant coping fully mediates the relationship between resilience resources and somatic health symptoms](../claims/avoidant-coping-fully-mediates-somatic-symptoms.md) [+M] — learners who differ on it differ in outcomes
+- [Neither mindfulness nor perceived stress correlated with first-year exam results, apart from a negligible stress-biology correlation](../claims/no-mindfulness-stress-first-year-exam-correlation.md) [-W] — learners who differ on it differ in outcomes
+- [Students experienced stress during simulation sessions from being observed and evaluated, and some expected stress to decline with repetition](../claims/sbe-observation-stress-dental-students.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

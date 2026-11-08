@@ -72,3 +72,4 @@ Table 2's total-score row prints means of 39.54 (male) and 45.82 (female), t=-2.
 - [Within the VSE group, female students outperformed male students on several skill dimensions, though the cause cannot be attributed to VSE](vse-gender-skill-differences.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — reports the opposite
+- [Female students scored higher than male students on the medical English exam in both teaching module groups](female-students-higher-medical-english-exam-scores.md) — related

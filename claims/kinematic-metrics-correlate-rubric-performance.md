@@ -78,3 +78,5 @@ Under Robotic Control, the review reports expert-novice contrasts: experts show 
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — related
 - [The AI-enhanced curriculum reduced maximum instrument divergence relative to control, achieving the expert benchmark](voa-reduced-instrument-divergence.md) — related
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — a narrower finding that bears on this claim
+- [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related
+- [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related

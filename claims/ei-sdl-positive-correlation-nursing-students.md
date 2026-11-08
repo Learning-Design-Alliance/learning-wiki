@@ -58,3 +58,4 @@ Cross-sectional correlational study of 300 nursing students in Kashan, Iran usin
 - [Self-directed learning, AI acceptance, and perceived clinical competence are mutually positively correlated](sdl-ai-acceptance-competence-correlations-nursing.md) — related
 - [Self-directed learning is the strongest positive predictor of narrative competence among Chinese nursing students (β = 0.428)](self-directed-learning-strongest-predictor-narrative-competence-nursing-students.md) — related
 - [Self-directed learning total score correlates weakly but significantly and directly with clinical competence total score among third- and fourth-year nursing students](sdl-weak-significant-direct-correlation-clinical-competence.md) — related
+- [Social–emotional competence and academic achievement are strongly canonically correlated among Korean nursing students](sec-aa-canonical-correlation-nursing-students.md) — related

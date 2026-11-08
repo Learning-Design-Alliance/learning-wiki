@@ -58,3 +58,5 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
 - [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related
 - [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](short-versus-long-intervals-no-difference-time-to-proficiency.md) — related
+- [No overall difference in training-session scores between mass and spaced learning groups](no-group-difference-during-training-sessions.md) — reports the opposite
+- [Spaced learning produces higher microsurgical suturing scores than mass learning at 1 month after training](spaced-learning-better-1-month-microsurgery-retention.md) — a narrower finding that bears on this claim

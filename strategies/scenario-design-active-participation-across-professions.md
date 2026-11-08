@@ -54,6 +54,7 @@ The review recommends that scenario development allow active participation acros
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
 - [Rotate learners through junior and senior interprofessional roles across simulation scenarios](rotate-interprofessional-roles-across-simulation-scenarios.md)
+- [Design shared interprofessional learning so both professions contribute in a balanced, mutually transactive way, supported by trac training](balanced-trac-design-strategy.md)
 
 ## Examples
 -

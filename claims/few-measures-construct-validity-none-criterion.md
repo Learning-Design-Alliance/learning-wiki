@@ -51,3 +51,4 @@ Review of measurement properties found "Thirty-seven unique measures reported so
 - [Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample](qcge-sas-criterion-validity-learning-outcomes.md) — related
 - [Construct validity of the QCGE-SAS is supported by significant correlations between its subscales and pre-validated related scales](qcge-sas-construct-validity-significant-correlations.md) — related
 - Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies — a broader claim this one bears on
+- [MUSCAT scores correlate moderately with the Interprofessional Collaboration Competency Scale (r = 0.565 total)](muscat-convergent-validity-icc-cmc.md) — related

@@ -55,3 +55,4 @@ Conceptual argument in Section 2.1 (type e), citing psychological evidence that 
 - The article argues that interpreting the meaning and significance of presented data is the important problem, and that current emphasis on reporting conditions minimizes interpretation — related
 - [Facial expression recognition of six basic emotions via FACS can detect learner emotional states in real time](facs-six-basic-emotions-detection.md) — reports the opposite
 - [Existing emotion awareness tools offer little information on learners' emotions and their antecedents](existing-emotion-awareness-tools-little-info-on-antecedents.md) — related
+- [Different cultures can interpret the same OSCE presentation contrarily, yielding a valid assessment of competence for one group but not another](cultural-interpretation-valid-assessment-one-group-not-another.md) — a narrower finding that bears on this claim

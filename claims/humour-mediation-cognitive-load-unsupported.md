@@ -51,3 +51,4 @@ Mediation analyses using PROCESS in both studies. In Study 1, irrelevant humour 
 - [Disfluency and WMC × disfluency did not affect intrinsic or germane cognitive load](no-icl-gcl-effects-disfluency.md) — related
 - [Relevant examples are perceived as more relevant than relevant humour, which may explain relevant humour's inconsistent effectiveness](relevant-examples-perceived-more-relevant-than-humour.md) — related
 - [Relevant humour does not outperform no additional elements on learning outcomes](relevant-humour-no-benefit-vs-control.md) — related
+- [Enjoyment, but not mental effort, mediated the effect of explaining on text-based comprehension in exploratory analyses](enjoyment-mediation-explaining-effect.md) — related

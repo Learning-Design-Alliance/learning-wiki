@@ -49,3 +49,4 @@ Conclusion from design studies conducted in ABE classes that informed the curric
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
 - [A controlled experiment tested whether various types of negative feedback affect adult second-language learners' acquisition of abstract constraints on an overgeneralized rule (the English dative alternation).](negative-feedback-types-dative-alternation-experiment.md) — related
 - [Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session](explicit-correction-improves-feedback-session-responses.md) — related
+- [Only about half of students report applying seminar learning in the subsequent training session, hindered by a change of scenarios between sessions](limited-transfer-to-second-training-session.md) — related

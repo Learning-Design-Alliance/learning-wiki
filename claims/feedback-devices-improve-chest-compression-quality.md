@@ -53,3 +53,8 @@ Manual chest compression tests at Resusci Anne QCPR stations with Session Viewer
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — reports the opposite
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
+- [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related
+- [Trainee doctors report higher self-confidence and prefer the feedback device for real resuscitation](truecpr-feedback-confidence-preference.md) — related
+- [Feedback device use dramatically increases complete chest relaxation during simulated CPR](truecpr-feedback-increases-chest-relaxation.md) — related
+- [Real-time feedback device use increases chest compression depth by trainee doctors in simulated CPR](truecpr-feedback-increases-compression-depth.md) — related
+- [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — related

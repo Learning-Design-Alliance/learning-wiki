@@ -58,3 +58,6 @@ Expert evaluation by ten laparoscopic surgeons using a 15-item questionnaire wit
 - [Surgeons gave the model their highest ratings for training usefulness, including resident preparation before the operating room](hernia-model-highest-ratings-training-usefulness.md) — related
 - [Surgeons rated the 3D hernia model as easy to use, realistic, and anatomically representative](surgeons-rate-hernia-3d-model-realistic-easy-to-use.md) — related
 - [Five experts rated the 3D-printed LIIA model highly on face and content validity, though texture was rated as needing improvement](liia-3d-model-face-content-validity.md) — possibly the same claim (merge candidate)
+- [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related
+- [Surveyed fetal surgeons confirmed content validity, recommending the model for training and for improving complex fetoscopic skills such as instrument handling and suturing](rabbit-fsba-model-content-validity-survey.md) — related
+- [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related

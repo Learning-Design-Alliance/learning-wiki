@@ -69,3 +69,4 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - [Participant feedback was uniformly positive and a six-month survey provides weak evidence of skill retention and long-term impact](participant-feedback-and-six-month-retention-survey.md) — a narrower finding that bears on this claim
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — a narrower finding that bears on this claim
 - [Open questions remain on whether VGS improves clinical practice or can replace clinical hours](vgs-clinical-practice-effectiveness-unknown.md) — related
+- [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — possibly the same claim (merge candidate)

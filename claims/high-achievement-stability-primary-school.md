@@ -51,3 +51,4 @@ In the cross-lagged panel models (N = 461), autoregressive paths showed "stable 
 - [Each narrative writing measure is longitudinally stable within itself across the upper elementary grades, with no significant cross-lagged relationships across measures](narrative-measures-stable-within-not-across.md) — related
 - [Cross-lagged effects between behavioral problems and achievement are sporadic and domain-dependent, not consistently reciprocal, across elementary school](sporadic-domain-dependent-cross-lagged-effects-behavior-achievement.md) — related
 - [School achievement is highly stable across primary school, with prior achievement the main predictor by grades 4 and 6](school-achievement-high-autoregressive-stability.md) — possibly the same claim (merge candidate)
+- [Academic achievement is highly stable across two years while well-being changes substantially during the transition to upper secondary school](achievement-stable-wellbeing-changes.md) — related

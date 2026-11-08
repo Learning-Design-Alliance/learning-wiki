@@ -91,3 +91,4 @@ ANOVA on playground exploration time showed Proficient learners spent less time 
 - [Window 1 profiles complicate the assumption that greater pre-query effort signals better progress: Cold Start learners completed at 97% while Struggling learners completed at 67%](pre-query-effort-completion-descriptive-profiles.md) — related
 - [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](nonverbal-cues-require-novice-proficiency.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
+- [Experienced operators completed the phantom biometry task far faster than novices](experienced-operators-faster-task-completion-ultrasound.md) — related

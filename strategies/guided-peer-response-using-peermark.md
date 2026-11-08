@@ -62,6 +62,7 @@ Structured prompts raise the specificity and actionability of peer feedback; ung
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — instructor-led alternative when peer feedback quality is insufficient
 - [3-source_rule](3-source_rule.md) — a constraint-style prompt technique applicable to review questions
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
+- [Include additional learning materials — MCQ tests with accessible correct answers, clinical cases, and a reflective written assignment with anonymous peer review — to provide feedback and support motivation](additional-learning-materials-feedback-strategy.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the core element; prompts structure how it is given

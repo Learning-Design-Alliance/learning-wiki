@@ -51,3 +51,5 @@ Randomized trial (Triola et al. 2006, USA) in which 55 health care providers rec
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Adding a virtual patient simulation to standard nursing training produces significantly greater improvement in confidence in asking about IPV than standard training alone](vp-simulation-greater-confidence-asking-about-ipv.md) — related
+- [Cognitive load is equivalent for standardized patients and virtual patients when assessment cases are of equal complexity](cognitive-load-equivalent-sps-vps.md) — related
+- [Diagnostic accuracy is higher for standardized patients than for virtual patients, and the two methods were not equivalent in grading](diagnostic-accuracy-higher-sps-than-vps.md) — reports the opposite

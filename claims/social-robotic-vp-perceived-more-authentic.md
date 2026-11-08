@@ -52,3 +52,4 @@ Thematic analysis of in-depth interviews with 23 third-year medical students who
 - [Several perceived-advantage comparisons between the social robotic and computer-based platforms did not reach statistical significance](social-robotic-vp-nonsignificant-comparisons.md) — related
 - [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related
 - [The two virtual patient platforms trained complementary skills: the social robot for history taking and question generation, the computer-based platform for physical examination and laboratory data](vp-platforms-complementary-skill-training.md) — related
+- [Medical students perceive standardized patients as more authentic than virtual patients across realness, involvement, and spatial presence in performance-based assessment](sps-higher-perceived-authenticity-than-vps.md) — related

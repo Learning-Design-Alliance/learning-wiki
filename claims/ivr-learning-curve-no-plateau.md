@@ -53,3 +53,4 @@ Learning-curve analysis of the three unguided iVR assessments in the same single
 - [Within-group learning curves differ by group: the expert-instruction group plateaued and dropped at the fifth repetition while the ICEMS group kept improving](icems-learning-curves-group-differences.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related
+- [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related

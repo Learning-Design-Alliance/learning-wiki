@@ -55,3 +55,4 @@ Chain mediation test in the 221-participant sample found the serial indirect eff
 - [Academic performance improved significantly over the one-year interval while mental health scores showed no significant change](academic-gains-stable-mental-health-over-year.md) — related
 - [Higher extracurricular physical activity correlates with lower psychological distress, better cognitive ability, and better academic performance at follow-up](correlations-activity-distress-cognition-academics.md) — related
 - [Adolescents exercising 0–3.5 h/week showed the highest academic scores, mental health and cognitive ability, while those above 3.5 h/week showed the highest physical fitness](descriptive-group-differences-activity-duration-groups.md) — related
+- [Simple fitness, body composition, and physical activity show little correlation with academic achievement in fourth graders](simple-fitness-body-composition-uncorrelated-academics.md) — related

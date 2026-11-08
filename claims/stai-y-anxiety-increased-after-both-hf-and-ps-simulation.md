@@ -51,3 +51,4 @@ Quasi-experimental before-after study of 148 medical students; paired T-test com
 - [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](simulation-no-between-group-anxiety-stress-reduction.md) — related
 - [Debriefing reduces state-anxiety associated with high-fidelity clinical simulation, which peaks after the scenario](debriefing-reduces-simulation-state-anxiety.md) — related
 - [Anxiety scores fell significantly from pre-test to post-test after high-fidelity simulation in medical students in both of two consecutive sessions, in a single-group pre-post study](anxiety-decreases-after-high-fidelity-simulation.md) — reports the opposite
+- [Post-simulation state anxiety is significantly higher in the individual simulation group than the peer group](individual-simulation-higher-state-anxiety-after.md) — related

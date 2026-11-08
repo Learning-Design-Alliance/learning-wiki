@@ -54,3 +54,4 @@ Group-level curve fitting of error rates across sessions s1-s5 of a modified Ste
 - [Trial-by-trial performance rose consistently in the MT-ITS condition while Standard-condition training curves stayed mostly flat](mt-its-training-trials-steady-increase.md) — related
 - [The reported benefit and confidence gain of RESS support decay over consecutive thrombectomies, indicating increasing trainee autonomy](ress-benefit-decays-with-trainee-autonomy.md) — a narrower finding that bears on this claim
 - [Laparoscopic learning curves follow an exponential decay shape, with efficiency learned faster than precision](laparoscopic-learning-curves-exponential-decay.md) — a narrower finding that bears on this claim
+- [A learning-curve offset method estimates augmented-cues VR training as equivalent to 0.93 real tyre-change sessions versus 0.37 for conventional VR training](equivalent-training-sessions-learning-curve-offset.md) — a narrower finding that bears on this claim

@@ -52,3 +52,5 @@ Post-training evaluation form completed by the 41 participants in the same study
 - [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
+- [A majority of E-learning participants reported they could apply the training to practice, with application more likely among provincial-level, higher-educated, and pilot-area staff](elearning-apply-knowledge-to-practice-moderators.md) — related
+- [Participants in two faculty development workshops reported high ratings for clarity, organization, and relevance of the workshop](faculty-development-virtual-teaching-workshop-high-ratings.md) — related

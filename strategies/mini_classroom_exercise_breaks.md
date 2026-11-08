@@ -75,6 +75,7 @@ Brief aerobic activity acutely improves subsequent attention and executive funct
 - [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 - [Integrate structured physical activity programs into the daily school curriculum to sustain MVPA](structured-daily-school-physical-activity-programs.md)
 - [Advise three 90-minute weekly low-aerobic-intensity swimming sessions for students whose ADHD is negatively impacting learning and class engagement](three-90min-weekly-swimming-sessions-adhd-support.md)
+- [Embed brief HIIT-style vigorous activity bursts into regular PE lessons as a scalable school physical activity approach](hiit-style-vpa-bursts-in-pe-strategy.md)
 
 ## Examples
 - **[Take 10!®](https://www.take10.net)** — Classroom-based physical activity program with 10-minute curriculum-linked activity routines for K–5; evaluated in multiple school studies.

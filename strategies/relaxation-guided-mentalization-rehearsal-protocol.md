@@ -46,6 +46,8 @@ The article's MI intervention is a concrete implementable recipe: a 5-minute rel
 
 - [Two-minute guided mental imagery script with internal perspective and kinesthetic emphasis immediately before a procedural simulation](guided-internal-kinesthetic-imagery-script-strategy.md)
 - [Use brief instructor-guided relaxation and visualization imagery sessions immediately before practicing decomposed surgical skill steps](guided-imagery-before-decomposed-step-practice.md)
+- [Mental Training session recipe: video instruction, brief practice, individual mental map, subvocal visualization](mental-training-session-recipe-strategy.md)
+- [Use subvocal imagery and ideomotoric training, with novices rehearsing systematically and experts focusing on difficult steps](subvocal-ideomotoric-imagery-strategies.md)
 
 ## Examples
 -

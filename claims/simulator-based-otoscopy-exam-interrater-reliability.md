@@ -56,3 +56,5 @@ Reliability analysis of two independent raters scoring the oral-practical exam i
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
 - [R-OSAT scoring showed excellent inter-rater reliability between the two independent expert assessors](r-osat-excellent-inter-rater-reliability.md) — related
+- [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
+- [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related

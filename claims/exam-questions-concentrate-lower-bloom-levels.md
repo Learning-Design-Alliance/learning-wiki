@@ -73,3 +73,4 @@ Manual content analysis of 115 question papers from University of Agriculture Fa
 - [Grading time varied systematically with Bloom's taxonomy category: procedural knowledge was fastest to grade and conceptual knowledge slowest](grading-time-varies-with-bloom-taxonomy-category.md) — related
 - Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments — related
 - [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — related
+- [DRM knowledge scores rose from pre-test to post-test after e-learning in one group with no comparison group; recall and comprehension were reported as comparatively stronger than complex decision-making knowledge afterward](e-learning-serves-recall-not-complex-decisions.md) — related

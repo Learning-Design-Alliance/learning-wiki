@@ -47,3 +47,4 @@ Blinded direct-observation assessment using standardised five-point checklists o
 ## Related Claims
 - [Programmed instruction produced a large improvement in blood glucose monitoring skill (Cohen's d = 1.15) over traditional teaching](programmed-instruction-glucose-monitoring-skill.md) — related
 - [Undergraduate nursing students taught with Skinner's programmed instruction achieved higher post-intervention diabetes knowledge scores than students taught with traditional lectures](programmed-instruction-higher-diabetes-knowledge.md) — related
+- [Simulation-tool training shortens the detailed teaching and mastery stages of insulin injection learning compared with traditional training](simulation-tool-shortens-insulin-injection-learning-time.md) — related

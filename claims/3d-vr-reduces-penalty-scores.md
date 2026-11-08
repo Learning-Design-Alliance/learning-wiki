@@ -54,3 +54,4 @@ Aggregated penalty scores from the feasibility RCT: "The mean penalty score for 
 - [3D monitors show no overall advantage over 2D on error metrics in robotic simulation, except wire collisions in one exercise](3d-no-advantage-error-metrics-except-wire-collisions.md) — related
 - [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
 - [Video-prepared trainees committed fewer penalties, particularly instrument collisions and out-of-view instruments](educational-video-lowers-robotic-simulation-penalty-score.md) — related
+- [The augmented-cues VR group made significantly fewer real-task error penalties than the conventional-cues VR group](atv-fewer-error-penalties-than-nc.md) — related

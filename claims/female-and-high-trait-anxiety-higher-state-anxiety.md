@@ -72,3 +72,4 @@ Mann-Whitney U comparisons of state-anxiety by trait-anxiety group (high defined
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [High state-anxiety immediately after the simulation scenario is associated with higher extraneous cognitive load, but not intrinsic load or self-perceived learning](state-anxiety-associated-with-extraneous-load.md) — related
+- [Post-simulation state anxiety is significantly higher in the individual simulation group than the peer group](individual-simulation-higher-state-anxiety-after.md) — related

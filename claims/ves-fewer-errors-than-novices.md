@@ -49,3 +49,4 @@ Construct validity study (Study 2): blinded reviewers (mean inter-rater reliabil
 - [Number of procedure steps completed did not differ significantly between very experienced and novice RARP surgeons](steps-completed-no-significant-group-difference.md) — related
 - [Very experienced surgeons in the lower half of their group made error profiles more similar to novices, with high error variability](ves-lower-half-error-variability.md) — related
 - [Pass/fail levels based on both automated performance metrics and surgical gestures fully distinguish novice from experienced robotic surgeons in simulated RARP, with 100% sensitivity and specificity](apm-and-gestures-fully-distinguish-novices-experienced-simulated-rarp.md) — related
+- [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related

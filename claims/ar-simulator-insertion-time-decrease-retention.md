@@ -51,3 +51,5 @@ Within-subject paired Wilcoxon signed-rank tests on 23 analyzed participants sho
 - [Implant placement accuracy remained stable across simulation and retention runs with no significant improvement](ar-simulator-implant-accuracy-stable.md) — related
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — a narrower finding that bears on this claim
 - [Operative time does not differ between training groups for successful implant insertions, despite a medium-sized non-significant difference](haptic-vr-operative-time-successful-null.md) — related
+- [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related
+- [Both VR training paradigms improved real-task performance, with significant improvement across trial runs but no significant main effect of training group on completion times](vr-training-improves-real-tyre-change-completion-times.md) — related

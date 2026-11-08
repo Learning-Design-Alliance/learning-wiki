@@ -85,3 +85,4 @@ Sensitivity analyses in the same study: intention-to-treat with 20 imputations (
 - [The endodontic testing effect remains significant after adjusting for prior course grade and sex, with a homogeneous effect across students](testing-effect-robust-to-prior-grade-sex.md) — related
 - [After baseline adjustment, the BOPPPS group scored significantly higher than controls on all three pre-anesthesia care skill subscales](boppps-skill-subscale-posttest-gains.md) — related
 - [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
+- [The e-learning advantage is robust to prior NIHSS knowledge, prior NIHSS courses, ward experience, and multi-day completion, but only immediate retention was tested](e-learning-nihss-advantage-robust-sensitivity-immediate-only.md) — related

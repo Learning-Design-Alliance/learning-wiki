@@ -60,3 +60,4 @@ Review of six studies performing mediation analysis. "Psychosocial distress in t
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md) — related
+- [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related

@@ -56,3 +56,5 @@ Pre/post assessment of 107 trained health care workers using validated HBB knowl
 - [Skills gain on OSCE B differed significantly between hospital sites, with Hanang highest and Babati lowest](osce-b-skills-gain-site-difference.md) — related
 - [HBB knowledge and OSCE A pass rates rose significantly from pre-test to post-test after trainings one and two only, with no significant change after the third session, in one uncontrolled pre-post study](hbb-knowledge-osce-a-improved-first-two-trainings.md) — related
 - [Adult cardiorespiratory resuscitation knowledge scores rose significantly from pre-test to post-test after health simulation training in a multi-professional hospital team, in one single-group pre-post study](simulation-training-increases-crr-knowledge.md) — related
+- [Flipped-learning pre-simulation briefing did not improve neonatal emergency care knowledge relative to a general briefing](flipped-briefing-no-knowledge-gain.md) — related
+- [Telesimulation for neonatal resuscitation significantly increases short-term resuscitation knowledge scores](telesimulation-increases-neonatal-resuscitation-knowledge.md) — related

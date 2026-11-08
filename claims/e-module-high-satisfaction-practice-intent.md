@@ -72,3 +72,5 @@ Self-reported intent to change practice on the postmodule survey; 60 (87%) said 
 - [Most trainees found the automated SHAP-based feedback easy to understand and were satisfied with the assessment, with GOALS scores rated most informative](automated-feedback-acceptability-questionnaire.md) — related
 - [A perioperative medicine e-module completed during clinical rotations significantly improves trainees' knowledge test scores](perioperative-e-module-improves-knowledge.md) — related
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
+- [87% of surveyed pediatric cardiologists would attend a Chagas-related lecture and 64% said such education would yield practical clinical knowledge](chagas-education-demand-lecture-attendance.md) — related
+- [Text mining of positive-feedback responses found 'easy', 'clear' and 'concise' as the three most common words, while improvement responses most often said 'nothing'](text-mining-frequent-words-feedback.md) — related

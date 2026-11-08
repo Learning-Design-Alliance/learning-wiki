@@ -51,3 +51,4 @@ Comparison within the same 25-participant experiment; the article also reports "
 - [Recent microsurgical suture volume and prior robotic exposure shaped the learning curve: more microscope sutures predicted faster mean time, more loupe sutures predicted larger improvement, and prior robotic experience predicted a less steep improvement](suture-volume-and-robotic-exposure-shape-learning-curve.md) — related
 - [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related
 - [Surgeons rated the VATS simulator's design, ergonomics and triangulation as very good or excellent, supporting face validity](vats-simulator-face-validity-ratings.md) — related
+- [Ten general thoracic surgeons found the pediatric VATS simulator very difficult but unanimously agreed it was worth using for rehearsal training](ten-surgeons-rehearsal-training-consensus.md) — related

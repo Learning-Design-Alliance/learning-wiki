@@ -57,3 +57,4 @@ Reliability analysis of participants' last 2 simulator trials using the 2-way mi
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [The complete VR TTE test shows high internal consistency reliability (alpha = .88) and consistent performer performance (ICC r(35) = .81)](vr-tte-test-reliability-alpha-icc.md) — related
 - [The piloted SJT demonstrated good internal consistency (Cronbach's alpha 0.80 and 0.81) across two applicant cohorts](sjt-pilot-internal-consistency-alpha-080-081.md) — related
+- [Simulator measurements showed high temporal stability across sessions separated by at least one month](test-retest-temporal-stability.md) — related

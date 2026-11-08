@@ -57,3 +57,4 @@ Regression predicting sleep duration (Table 6): homework time −0.335, device u
 - [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](sleep-duration-associated-entrance-success.md) — related
 - [Commuting time reduces rural students' sleep duration, decreasing it by 0.588 h for every additional hour of commuting.](commuting-time-reduces-sleep-duration.md) — related
 - [Screen time, sleep duration, and ethnicity are not associated with grades once psychopathology and other confounders are jointly adjusted](lifestyle-associations-attenuate-full-adjustment.md) — related
+- [Sleep duration the night before a test positively predicts test scores in both samples](test-eve-sleep-predicts-performance.md) — related

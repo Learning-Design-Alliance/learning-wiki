@@ -73,3 +73,4 @@ Enjoyment/satisfaction survey (N = 31). Negatively framed items showed minimal n
 - [Participants rated the CCC note-taking strategy highly acceptable on a social validity survey](ccc-social-validity-high-acceptability.md) — related
 - [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
+- [Participants rated telesimulation positively on enjoyment, knowledge gain, suitability, and practical training opportunities](positive-perception-of-telesimulation.md) — related

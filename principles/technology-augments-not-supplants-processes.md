@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 177 claims (110 for, 54 mixed, 13 against) · 145 studies (30 review, 30 qualitative, 30 theoretical, 28 causal, 15 design, 11 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 145 report an effect size · 173 claims rest on one study
+> **Evidence** · 180 claims (113 for, 54 mixed, 13 against) · 147 studies (30 causal, 30 review, 30 qualitative, 30 theoretical, 15 design, 11 associational, 1 quant-synthesis), `q1`–`q4` · 9 of 147 report an effect size · 176 claims rest on one study
 
 ## Conditional relationship
 
@@ -271,6 +271,9 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Pre-laboratory virtual simulation training raises medical students' pathogenic cocci test scores overall in a randomized controlled trial](../claims/virtual-simulation-raises-microbiology-lab-test-scores-rct.md) [+W] — attached 2026-11-06 from Lei Xu et al. (2025), which proposed "Integrate virtual simulation with traditional hands-on laboratory practice rather than substituting one for the other".
 - [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](../claims/students-support-vr-supplement-not-replacement.md) [+W] — attached 2026-11-06 from Hammouda Sana Ben et al. (2025), which proposed "Use VR anatomy simulation as a supplementary tool alongside, not instead of, traditional hands-on lab instruction".
 - [App-guided laypersons significantly delayed the call for help and first chest compression compared with unassisted controls in a simulated cardiac arrest](../claims/app-use-delays-call-and-first-compression.md) [-W] — attached 2026-11-08 from Metelmann Camilla et al. (2021), which proposed "Use real-time smartphone CPR guidance only as an additional tool to hands-on CPR training, with a guideline-compliant app the user knows how to operate".
+- [Real-world practice yields higher instrument-identification accuracy than tablet-based simulation or text-based study, with all conditions declining after one week](../claims/real-world-practice-beats-tablet-text-accuracy.md) [+W] — attached 2026-11-08 from Kryklywy James H. et al. (2021), which proposed "Use tablet-based simulation to augment, not replace, real-world practice for ordered instrument procedures"; tests this page's relationship.
+- [Second-year medical students who supplemented gross dissection with virtual dissection were over three times more likely to pass the post-dissection test than textbook controls (tendentially significant)](../claims/virtual-dissection-pass-likelihood-or-3-75.md) [+M] — attached 2026-11-08 from Boscolo-Berto Rafael et al. (2021), which proposed "Use virtual dissection as a supplement that maximises the impact of traditional gross dissection, not as its replacement".
+- [70% of virtual dissection students reported the tool was beneficial to learning and more engaging than textbooks, while still judging real dissection superior](../claims/virtual-dissection-student-perceptions-beneficial-engaging.md) [+W] — attached 2026-11-08 from Boscolo-Berto Rafael et al. (2021), which proposed "Use virtual dissection as a supplement that maximises the impact of traditional gross dissection, not as its replacement".
 
 ## Objective and learner-valued goal
 

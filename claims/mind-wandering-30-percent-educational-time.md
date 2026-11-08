@@ -58,3 +58,4 @@ The review reports, citing Wong et al. (2022), that mind wandering occupies "app
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — related
 - [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](mind-wandering-intervention-corrects-comprehension.md) — related
 - [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related
+- [In this course, students used about four active strategies, spent about half of study time actively, and reported distraction during roughly 20% of study time](study-habit-prevalence-intro-biology-course.md) — related

@@ -51,3 +51,4 @@ Pre-post analysis of seven of ten participants who completed both assessments in
 - [The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement](srl-hypothesized-mediator-video-annotation-acting.md) — related
 - [Students developed varied perceptions of video annotation, citing benefits for SRL and acting alongside embarrassment and added workload](varied-student-perceptions-video-annotation.md) — related
 - [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](prepost-shifts-innovation-motivation-self-directed-learning.md) — related
+- [An expanded communication skills course with video annotations and tutor-led group discussion is feasible and well received, with a mean student mark of 4.6](video-annotation-course-feasible-well-received.md) — related

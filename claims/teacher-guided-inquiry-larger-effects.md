@@ -75,3 +75,5 @@ A meta-analysis of 72 studies whose background section reports the Carolan, Hutc
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related
+- [Guidance improves K–12 students' learning outcomes across inquiry-based practices and STEM domains, but high levels of guidance can harm students with high knowledge or abilities](guidance-improves-k12-inquiry-outcomes-inverted-u.md) — related
+- [Effectiveness of inquiry-based curricula in K–12 is higher when learners receive more guidance and when learners are older, but meta-analytic findings are mixed and underwhelming](inquiry-k12-effectiveness-higher-with-guidance-and-age.md) — a broader claim this one bears on

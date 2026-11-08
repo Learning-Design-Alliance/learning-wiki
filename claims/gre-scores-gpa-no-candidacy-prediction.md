@@ -49,3 +49,4 @@ Mann-Whitney tests comparing passed vs failed candidacy exam results in the GSBS
 - [Verbal GRE percentiles predict PhD candidacy exam outcomes](verbal-gre-percentiles-predict-candidacy.md) — reports the opposite
 - [Admissions committee scores do not predict PhD time to degree for any demographic group analyzed](admissions-scores-not-correlated-time-to-degree.md) — related
 - [Graduate GPA is not correlated with PhD time to degree](grad-gpa-not-correlated-ttd.md) — related
+- [UR trainees trained at PWIs had significantly higher first-semester Ph.D. GPAs and GRE scores than UR trainees from HBCUs, but undergraduate GPA did not differ](hbcu-pwi-admission-measure-differences.md) — related

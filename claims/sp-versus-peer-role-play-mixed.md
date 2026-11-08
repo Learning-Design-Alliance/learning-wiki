@@ -74,3 +74,4 @@ The review reports other SP-versus-role-play comparison studies found "higher le
 - [International medical students receiving peer role-play and peer assessment report significantly higher course satisfaction across all measured dimensions than students in traditional collaborative group learning](peer-roleplay-higher-course-satisfaction-gynecology.md) — related
 - [Facilitators reported that real delivery experience, not role-play training alone, was needed to become confident and competent](experiential-learning-facilitator-competence.md) — related
 - [Peer-to-peer simulated tasks are identified as lacking effectiveness for developing CEP practical competencies](peer-simulation-lacking-effectiveness-cep.md) — reports the opposite
+- [Students express far more desire for additional simulated-patient practice than for additional role-play](students-want-more-sp-practice.md) — related

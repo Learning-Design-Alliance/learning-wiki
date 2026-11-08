@@ -53,3 +53,4 @@ Longitudinal pre-post study of 80 fourth-year medical students completing two SB
 - [GTA programmes are consistently associated with reduced student anxiety and improved confidence in pelvic examination, though evidence is frequently short-term and self-reported](gta-programmes-reduce-anxiety-improve-confidence.md) — related
 - [GTA-trained students outperform manikin- or clinical-patient-trained peers in examination technique and procedural sequencing, but not in diagnostic ability](gta-training-improves-technical-skill-not-diagnostic-ability.md) — related
 - [Patients' anxiety decreased from before to after the flipped-classroom education intervention, in one single-group pre-post study with no comparison group (p = 0.031)](flipped-classroom-patient-education-reduced-anxiety.md) — related
+- [Flipped-learning pre-simulation briefing did not lower anxiety relative to a general briefing](flipped-briefing-no-anxiety-reduction.md) — related

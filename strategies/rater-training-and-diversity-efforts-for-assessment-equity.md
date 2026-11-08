@@ -50,6 +50,7 @@ The authors recommend multifaceted interventions to mitigate rating disparities 
 - [Run regular bias checks comparing model and human scoring across demographic groups when deploying automated assessment](regular-demographic-bias-checks-automated-assessment.md)
 - [Use LLM-based virtual patient simulations to provide on-demand, repeated standardized interview practice for rater training and calibration](virtual-patient-rater-training-strategy.md)
 - [Increase the frequency of direct observation of trainees by different raters to mitigate rater idiosyncrasy and support assessment for learning](increase-direct-observation-frequency-mitigate-idiosyncrasy.md)
+- [Recruit diverse community-based standardized patients who act as credible experts on living with their condition in their community](diverse-community-standardized-patients-experts.md)
 
 ## Examples
 -

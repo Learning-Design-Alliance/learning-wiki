@@ -56,6 +56,7 @@ The article prescribes a repeatable session structure for SP-based MSE training:
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
+- [Use a short post-consultation questionnaire to give fast formative feedback between simulated patient interviews](quick-formative-feedback-between-simulated-consultations.md)
 
 ## Examples
 -

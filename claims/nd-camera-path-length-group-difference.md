@@ -51,3 +51,4 @@ Between-group analysis of non-dominant camera path length across the three exper
 - [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — a broader claim this one bears on
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
 - [Experts dissect pulmonary vessels faster and complete robotic vascular tasks in shorter time than novices, with no difference in path length](expert-novice-speed-time-motion-metrics-rats.md) — related
+- [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related

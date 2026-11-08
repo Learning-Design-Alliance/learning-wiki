@@ -68,3 +68,4 @@ Descriptive percentages from the practical test report the proportion applying t
 - [Repeated weekly viewing of instructional videos yields significantly better observed Bass technique precision than single viewing in preclinical dental students](repeated-video-viewing-improves-bass-technique-precision.md) — related
 - [Repeated video viewing raises dental students’ perceived security in practical skills and perceived knowledge gain compared with single viewing](repeated-video-viewing-raises-perceived-security.md) — related
 - [Model education outperformed video education on fluoride use and brushing frequency, while video was more effective in reducing unhealthy snacking](model-vs-video-differential-habit-effects.md) — related
+- [Courses increased oral care behaviours, and the e-learning group used floss and interproximal brushes more frequently than the traditional group](e-learning-group-more-floss-interproximal-use.md) — related

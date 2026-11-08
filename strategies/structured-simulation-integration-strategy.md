@@ -54,6 +54,7 @@ The article recommends a structured curricular embedding of simulation training 
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 - [Invest in structured coach development alongside curricular planning for simulation-based surgical education](structured-coach-development-surgical-simulation.md)
+- [Integrate the simulator into the formal oculoplastics curriculum with dedicated scheduled practice time early in residency](dedicated-scheduled-simulator-time-early-residency-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Post-training questionnaire from a simulation exercise in which 28 of 30 invited
 - [Surgeons gave the model their highest ratings for training usefulness, including resident preparation before the operating room](hernia-model-highest-ratings-training-usefulness.md) — related
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
 - [Compared with a biological tissue model, the 3D-printed model showed less dissection sensitivity but higher anatomical representation and easier reuse](hernia-model-vs-biological-model-tradeoff.md) — related
+- [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related

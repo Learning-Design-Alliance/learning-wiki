@@ -49,3 +49,4 @@ The review reports that "several studies reported that clinicians made more caut
 - [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — related
 - [Clinicians' emotional responses to patients impacted patient engagement and diagnostic decisions, with negative emotions associated with poorer quality care and positive emotions with more comprehensive care](clinician-emotions-shape-patient-engagement-and-care-quality.md) — related
 - [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](emotion-regulation-supports-uncertainty-management.md) — related
+- [PBL students made significantly fewer inappropriate therapy choices; the difference in erroneous prescriptions was not statistically significant](pbl-fewer-inappropriate-therapy-choices.md) — related

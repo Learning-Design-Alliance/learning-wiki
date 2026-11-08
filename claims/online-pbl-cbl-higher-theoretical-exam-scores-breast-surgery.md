@@ -116,3 +116,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - PBL combined with situational simulation teaching yields higher imaging report quality, intravenous contrast media, and practice examination scores than conventional teaching in radiology interns — related
 - [CoI-based blended learning did not significantly improve overall SPD management knowledge scores compared with face-to-face teaching](coi-blended-learning-no-knowledge-total-gain.md) — related
 - [Blended learning produced higher total knowledge scores than didactic teaching and web-based e-learning in a clinical research module](bl-higher-knowledge-score-than-dt-wel.md) — related
+- [Students in an integrated PBL pharmacology/CPT programme had significantly higher prescribing knowledge scores than students in a traditional programme](pbl-programme-higher-prescribing-knowledge.md) — related

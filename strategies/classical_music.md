@@ -72,9 +72,11 @@ Background music is an environmental manipulation of arousal and mood, not an in
 4. Monitor learner reactions and adjust or drop the practice — if it distracts more than it calms, remove it
 
 ## Related Strategies
+
 - Classroom routines and entry rituals — music works as one signal within a broader routine, not as a standalone intervention
 - [Acoustics and noise management](../strategies/acoustics_and_noise_management.md) — background music is one variable in the broader acoustic environment of the room
 - [Classroom Routines](classroom-routines-and-procedures.md) — the music works as a routine cue, not standalone
+- [Play background music at a moderate sound pressure level (~70 dB) during novice laparoscopic skills training](moderate-spl-background-music-during-skills-training.md)
 
 ## Examples
 - A secondary teacher plays Bach cello suites at low volume during the two-minute entry window, then fades them out as the do-now activity begins — music as a transition cue, not a learning aid

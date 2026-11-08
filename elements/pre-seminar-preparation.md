@@ -77,6 +77,7 @@ Preparation before discussion raises the quality of seminar talk because learner
 - **Harkness method (Phillips Exeter Academy)** — Learners prepare texts in advance so that the table discussion itself, not the teacher, carries the exposition
 - [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](../strategies/process-as-content-seminar-approach.md)
 - [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](../strategies/cbcl-pre-session-readiness-strategy.md)
+- [Use e-learning as structured preparation before a lecture and practical seminar (blended design for skills courses)](../strategies/elearning-structured-preparation-before-lecture-seminar.md)
 
 ## Key Sources
 - Strelan, P., Osborn, A., & Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. *Educational Research Review, 30*, 100314. [doi:10.1016/j.edurev.2020.100314](https://doi.org/10.1016/j.edurev.2020.100314)

@@ -49,3 +49,4 @@ The review reports a study by Schwan and Riempp (2004) in which learners saw a v
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — a broader claim this one bears on
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
+- [Multimedia learning materials supported self-paced review of difficult concepts, with auscultation skills highlighted as especially challenging](multimedia-materials-self-paced-review.md) — related

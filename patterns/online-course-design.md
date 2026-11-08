@@ -188,8 +188,10 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Flipped Classroom](../principles/flipped-learning.md) — shares the concern with using synchronous/interactive time well, though flipped classroom assumes a physical class session this pattern does not
 
 ## Examples
+
 - A weekly-rhythm asynchronous course with structured discussion prompts, peer response requirements, and a 48-hour instructor feedback commitment on assignments
 - A blended synchronous course using video conferencing for real-time discussion alongside an asynchronous discussion board for reflection
+- [Run the distance wet lab as a five-week course with weekly interactive lectures and two recorded, graded assignments per week sequenced across phacoemulsification steps](../strategies/five-week-sequential-distance-phaco-wet-lab-course.md)
 
 ## Key Sources
 - Martin, F., & Oyarzun, B. (2018). Distance learning. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/distance_learning](https://edtechbooks.org/lidtfoundations/distance_learning)

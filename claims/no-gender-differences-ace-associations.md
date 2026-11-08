@@ -68,3 +68,5 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [The ITEI–outcomes model does not differ between gender groups](no-gender-moderation-itei-outcomes.md) — related
 - [Subgroup analysis finds no interaction between intervention and subgroup, though benefit appears uneven across sex and handedness](sa-training-subgroup-no-interaction.md) — related
 - [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](covariates-sex-poverty-maltreatment-school-outcomes.md) — related
+- [Child sex does not moderate the associations of aggressive behavior, emotional, or attention problems with academic attainment](no-sex-interaction-problems-attainment.md) — related
+- [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — reports the opposite

@@ -67,6 +67,7 @@ Consistent PE supports cognition and classroom behavior, with effects strongest 
 - [Prioritize daily structured physical activity opportunities beyond regular physical education classes, incorporating aerobic, coordinative, and cognitively engaging tasks](daily-structured-physical-activity-beyond-pe.md)
 - [Integrate structured physical activity programs into the daily school curriculum to sustain MVPA](structured-daily-school-physical-activity-programs.md)
 - [Allocate school-aged children to cognitively challenging physical activities such as tag games, team games, or coordinative exercises](cognitively-challenging-physical-activities-recommendation.md)
+- [Embed brief HIIT-style vigorous activity bursts into regular PE lessons as a scalable school physical activity approach](hiit-style-vpa-bursts-in-pe-strategy.md)
 
 ## Examples
 - **SPARK (Sports, Play, and Active Recreation for Kids)** — an evidence-based PE curriculum with structured lesson plans and activity promotion, widely implemented in US elementary schools ([https://sparkpe.org](https://sparkpe.org))

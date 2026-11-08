@@ -63,3 +63,4 @@ The essay reports, citing Mayer and Moreno (2003), Guo et al. (2014), and Thomso
 - [Students built food chains more easily from anonymous images of living beings than from their names, suggesting visual aids convey more information than verbal labels](images-beat-verbal-names-food-chains.md) — related
 - [The modality effect: complex visual displays are better understood when explanatory words are presented auditorily rather than visually](modality-effect-audiovisual-superiority.md) — related
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
+- [After the intervention, students rated visual stimuli higher than audio stimuli for DRM factual learning and knowledge retention (PS +1.05 to +1.27 versus +0.77 to +0.83), in one pre-post study with no comparison group](visual-over-audio-stimuli-video-learning.md) — related

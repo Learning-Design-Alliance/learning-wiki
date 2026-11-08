@@ -51,3 +51,4 @@ Linear regression model with 38 group-mean QCGE dimension scores predicting the 
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — related
 - [Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample](qcge-sas-criterion-validity-learning-outcomes.md) — reports the opposite
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
+- [MUSCAT scores correlate moderately with the Interprofessional Collaboration Competency Scale (r = 0.565 total)](muscat-convergent-validity-icc-cmc.md) — related

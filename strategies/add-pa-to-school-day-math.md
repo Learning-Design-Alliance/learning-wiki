@@ -62,6 +62,7 @@ The review concludes that several types of school-based PA can be recommended to
 - [Integrate 20-minute physical activity breaks into twice-weekly 60-minute science lessons alongside nutritional education](active-breaks-in-science-lessons-strategy.md)
 - [Allocate school-aged children to cognitively challenging physical activities such as tag games, team games, or coordinative exercises](cognitively-challenging-physical-activities-recommendation.md)
 - [Future sedentary-behavior interventions should target both school and extra-school settings and vary break type, duration and intensity](target-school-and-extra-school-settings-strategy.md)
+- [Embed brief HIIT-style vigorous activity bursts into regular PE lessons as a scalable school physical activity approach](hiit-style-vpa-bursts-in-pe-strategy.md)
 
 ## Examples
 -

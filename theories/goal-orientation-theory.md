@@ -139,6 +139,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Standards/Mastery-Based Grading](../strategies/standards-based-grading.md)
 - [Intervene by reframing performance-avoidant students' motivations toward mastery and teaching them relationship-initiation strategies](../strategies/reframing-performance-avoidance-and-social-skills-intervention.md)
+- [Support low-efficacy and socially anxious students with low-stakes mastery-focused assignments and by mitigating anxiety-exacerbating classroom features](../strategies/low-stakes-mastery-assignments-support-anxious-students.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (1984). *Goal setting: A motivational technique that works!* Prentice Hall.

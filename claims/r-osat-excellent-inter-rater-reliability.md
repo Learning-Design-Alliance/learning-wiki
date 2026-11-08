@@ -50,3 +50,4 @@ Reliability analysis of the primary outcome measure: two independent expert robo
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Video OSATS assessments by two expert raters show moderate correlation but poor agreement with live rating](osats-video-moderate-correlation-poor-live-agreement.md) — related
+- [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related

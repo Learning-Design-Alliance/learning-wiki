@@ -50,3 +50,4 @@ Quasi-experiment with non-equivalent groups (non-MLM n = 44, MLM n = 33) in a ca
 - [Students completing multimedia learning modules score between 8 and 9% higher on mid-term examinations covering electrostatics and electromagnetism than non-MLM students](mlm-preparation-higher-exam-scores.md) — related
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
 - [The video-group advantage grew to almost 8 points on a retention assessment taken two weeks later](multimedia-prelectures-higher-retention-two-weeks.md) — related
+- [Undergraduate students preparing with an interactive surgical video platform scored significantly higher on written exams than students preparing with standard textbooks](video-platform-preparation-higher-exam-scores-than-textbooks.md) — related

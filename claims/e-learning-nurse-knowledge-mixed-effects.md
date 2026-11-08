@@ -72,3 +72,4 @@ Same knowledge synthesis section. The review reports no effects in "7 SRs out of
 - [E-learning interventions for registered nurses in continuing education are evaluated almost exclusively at Kirkpatrick levels 1 and 2, with no reported outcomes on practice change and almost none on patient outcomes](e-learning-nursing-ce-outcomes-limited-to-reactions-and-learning.md)
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md)
 - [No included systematic review reported outcomes on nurses' practice change (Kirkpatrick level 3), so the transfer of e-learning to practice remains unknown](no-behavior-outcomes-e-learning-nursing-ce.md) — related
+- [Knowledge of drug interactions and contraindications remained poor (<50%) under both programmes](poor-interactions-contraindications-knowledge.md) — related

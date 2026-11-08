@@ -68,3 +68,4 @@ Same adjusted regression model of 401 students; unstandardised coefficients B = 
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
+- [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related

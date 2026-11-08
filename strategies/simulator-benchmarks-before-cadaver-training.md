@@ -57,6 +57,8 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Mentored robotic training pathway combining simulator, dry-lab and wet-lab sessions, hands-on courses, and first-assistant experience before independent rTAPP](mentored-robotic-training-pathway-rtapp.md)
 - [Include video-based SA training with interposed questions as one component of a multimodal laparoscopic training curriculum](video-sa-training-multimodal-curriculum-strategy.md)
 - [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
+- [Use DSJ as an objective waypoint metric marking transition from simulated learning to supervised practice](dsj-waypoint-metric-training-progression-strategy.md)
+- [Increase residents' time on simulators, pelvic trainers and cadaver courses to build surgical skill and confidence](simulator-pelvic-trainer-time-for-surgical-residents.md)
 
 ## Examples
 -

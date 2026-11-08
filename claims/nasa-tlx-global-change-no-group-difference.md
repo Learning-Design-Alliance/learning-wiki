@@ -58,3 +58,4 @@ Exploratory comparison of NASA TLX global change scores in the randomized trial 
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
 - [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](ar-us-junior-trainees-lower-effort-frustration.md) — related
 - [No difference in perceived workload between Visual Clot and ROTEM temograms in high-fidelity simulation](visual-clot-no-workload-difference-simulation.md) — related
+- [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related

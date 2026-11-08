@@ -47,3 +47,6 @@ Quantitative survey data on time allocation in faculty's largest enrolment cours
 ## Related Claims
 - [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [Instructors in traditional fixed-seat classrooms report more lecture than those in classrooms designed to accommodate group work](fixed-seat-classrooms-more-lecture.md) — related
+- [Very active researchers lecture more than other instructors, while instructors involved in education research lecture less](research-activity-and-education-research-lecture-patterns.md) — related
+- [Greater percent teaching time allocation is associated with lower learner-centered teaching practices](teaching-time-allocation-negative-rtop.md) — related

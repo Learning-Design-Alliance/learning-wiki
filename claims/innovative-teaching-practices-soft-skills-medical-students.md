@@ -92,3 +92,5 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Medical students’ reflections in the e-learning course addressed all key communication topics conveyed in the course](reflections-recalled-course-content-communication.md) — related
 - [Personal simulations are perceived to substantially develop interns' communication skills, including empathy, listening, and coping with patient resistance](personal-simulations-develop-communication-skills.md) — related
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
+- [Students reported that the SBE intervention changed their attitudes, including increased empathy and professionalism, beyond skills alone](sbe-attitude-change-empathy-professionalism.md) — related
+- [Students self-assessed all five targeted skills as significantly improved after the combined simulation and bedside course](self-assessed-competence-gains-pain-course.md) — a narrower finding that bears on this claim

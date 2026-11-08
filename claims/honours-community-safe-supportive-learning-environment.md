@@ -71,3 +71,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related
 - [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related
 - [Students came to see that online teaching needs new figures and tools that facilitate communication and aggregation, particularly a supportive tutor figure](online-teaching-needs-supportive-tutor-figure.md) — related
+- [Emergency medical care students generally perceive the simulation debriefing environment as psychologically safe and built on a shared understanding of why debriefing occurs](debriefing-psychological-safety-perceived-hei-students.md) — related

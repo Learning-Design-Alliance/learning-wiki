@@ -53,3 +53,4 @@ Analytical result 4 of the article's value-critical analysis. The article treats
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
 - [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
 - [Students value NANDA-I diagnoses for professional communication but report challenges in understanding, cultural adaptation, and anticipated workload](students-value-nanda-but-report-comprehension-challenges.md) — related
+- [Different cultures can interpret the same OSCE presentation contrarily, yielding a valid assessment of competence for one group but not another](cultural-interpretation-valid-assessment-one-group-not-another.md) — related

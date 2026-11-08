@@ -50,3 +50,4 @@ Objective assessments in the RCT (n = 124) showed no significant group differenc
 - [SDH-integrated CBL improves surgical interns' social factor identification and analysis (d = 1.39) versus CBL alone](sdh-integrated-cbl-improves-social-factor-analysis.md) — related
 - [Students rate SDH-integrated CBL higher on content relevance, thinking training, and competence relevance, and lower perceived artificial integration](sdh-cbl-satisfaction-organic-integration.md) — related
 - [CBL/FC students report more positive perceptions of clinical skill gains than LBT students in both grades](cbl-fc-positive-skill-perceptions.md) — related
+- [No significant differences between blended-learning and control groups in satisfaction or self-assessed history-taking and physical examination skills](blended-learning-no-difference-satisfaction-self-assessment.md) — related

@@ -59,3 +59,5 @@ Questionnaire administered only to the experimental group (n=24 responses), anal
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related
 - [Students ranked lectures with storytelling among the most helpful learning resources and mentioned the story positively in evaluations](storytelling-ranked-top-learning-resource.md) — related
+- [Using the online ICM with interactive Kahoot! components kept student interaction at the same high level as the classroom format](kahoot-interaction-maintained-online.md) — related
+- [The online ICM version of the seminar produced evaluation results at least as good as the previous face-to-face course, with students especially emphasizing Kahoot!](online-icm-evaluation-not-worse-than-face-to-face.md) — related

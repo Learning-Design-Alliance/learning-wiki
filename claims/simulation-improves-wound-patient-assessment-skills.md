@@ -59,3 +59,5 @@ Before-and-after quasi-experiment with 50 students comparing checklist performan
 - [Standardized patients rated the experimental group's post-test OSCE communication performance significantly higher than pre-test on all questions (p < 0.001)](osce-sp-rated-performance-gains.md) — related
 - [One OSCE item, estimating the patient's carbohydrate intake in servings, showed no statistically significant pre-to-post improvement](osce-carbohydrate-estimation-item-not-significant.md) — related
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
+- [Students self-assessed all five targeted skills as significantly improved after the combined simulation and bedside course](self-assessed-competence-gains-pain-course.md) — related
+- [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related

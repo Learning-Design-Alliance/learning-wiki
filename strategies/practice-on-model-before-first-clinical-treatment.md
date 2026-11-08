@@ -37,7 +37,8 @@ The authors recommend that students operate on the 3D-printed model before their
 - surgical skill acquisition and self-confidence in wisdom-tooth osteotomy
 
 ## Related Strategies
-- 
+
+- [Use patient-specific 3D-printed phantoms to educate junior surgeons and preoperative patients and for preoperative rehearsal planning](patient-specific-phantom-education-strategy.md)
 
 ## Examples
 -
