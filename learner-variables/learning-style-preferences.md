@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (42 show a difference, 14 mixed, 17 no difference) · 45 studies (23 causal, 8 associational, 6 review, 3 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 45 report an effect size · 72 claims rest on one study
+> **Evidence** · 75 claims (43 show a difference, 14 mixed, 18 no difference) · 46 studies (23 causal, 9 associational, 6 review, 3 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 46 report an effect size · 74 claims rest on one study
 
 ## Bottom line
 
@@ -111,6 +111,8 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Post-intervention, a majority of students preferred the virtual learning module over traditional teaching and VR headset over desktop delivery](../claims/post-intervention-preference-vl-and-vr.md) [+M] — reported style was measured as an outcome of the instruction studied
 - [Students unanimously preferred the VR simulation to the PC simulation after completing both, regardless of which version they used first](../claims/unanimous-preference-vr-over-pc.md) [+M] — reported style was measured as an outcome of the instruction studied
 - [A majority of students preferred online virtual patient training over online formal teaching given in the same period](../claims/preference-vr-over-formal-online-teaching.md) [+W] — reported style was measured as an outcome of the instruction studied
+- [Diverging is the most common learning style among nursing students, and critical thinking does not differ across style groups](../claims/diverging-dominant-style-ct-similar-across-styles.md) [-W] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Learning style is significantly related to academic achievement, with accommodating-style students earning the highest GPA](../claims/learning-style-related-academic-achievement-nursing.md) [+W] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

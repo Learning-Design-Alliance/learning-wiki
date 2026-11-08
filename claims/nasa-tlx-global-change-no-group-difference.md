@@ -59,3 +59,4 @@ Exploratory comparison of NASA TLX global change scores in the randomized trial 
 - [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](ar-us-junior-trainees-lower-effort-frustration.md) — related
 - [No difference in perceived workload between Visual Clot and ROTEM temograms in high-fidelity simulation](visual-clot-no-workload-difference-simulation.md) — related
 - [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related
+- [Self-reported cognitive load (NASA TLX) is high and does not differ between expert and resident anesthetists in simulated PPH](nasa-tlx-no-group-difference-pph.md) — related

@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (41 show a difference, 16 mixed, 17 no difference) · 38 studies (23 causal, 6 quant-synthesis, 6 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 23 of 38 report an effect size · 73 claims rest on one study
+> **Evidence** · 75 claims (41 show a difference, 16 mixed, 18 no difference) · 39 studies (24 causal, 6 quant-synthesis, 6 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 23 of 39 report an effect size · 74 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -114,6 +114,7 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Paired-associate and articulation-referencing learning processes were related to alphabetic growth](../claims/pal-and-arl-related-to-alphabetic-growth.md) [+M] — instruction changes it
 - [Preschoolers in all four alphabet instruction conditions made significant growth from pretest to posttest on alphabet learning outcomes](../claims/significant-alphabet-growth-all-four-conditions.md) [+M] — instruction changes it
 - [Pretest vocabulary and alphabet knowledge did not moderate alphabet learning growth, and DLLs showed only limited differential response](../claims/no-moderation-by-vocabulary-or-dll-status.md) [-M] — an instructional effect differs with it
+- [Speechreading training shows no consistent benefit for phonological awareness, letter-sound knowledge, or word reading](../claims/speechreading-training-no-reading-phonological-benefit.md) [-W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

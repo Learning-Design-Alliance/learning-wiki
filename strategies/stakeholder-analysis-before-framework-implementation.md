@@ -45,6 +45,7 @@ The article argues that developing a competency framework alone does not change 
 - [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
 - [Engineer purpose-built solutions using fit-to-context analysis and a Heilmeier Catechism-style question set](purpose-built-solutions-heilmeier-catechism-questions.md)
 - [Revaluate optometric academic training and create a national competency framework to support professional regulation](optometric-curriculum-revaluation-competency-framework.md)
+- [Use an independent community of practice approach with multiple methods to develop a national competency framework](community-of-practice-framework-development-strategy.md)
 
 ## Examples
 -

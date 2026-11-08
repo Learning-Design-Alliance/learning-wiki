@@ -59,3 +59,4 @@ Cross-lagged SEM comparison of four nested models (auto-regressive only, parent-
 - [Negative risk-taking behaviors adversely predict subsequent academic engagement and academic achievement, forming bidirectional deteriorating cycles](negative-risk-taking-adverse-bidirectional-cycles-academic-development.md) — related
 - [Including parental involvement variables diminishes but does not eliminate the negative effect of mental unwellness on academic performance](parental-involvement-diminishes-unwellness-effect.md) — related
 - [The bidirectional cross-lagged model fits better than unidirectional and autoregressive-only models, supporting reciprocal effects only for girls](bidirectional-model-best-fit.md) — related
+- [Parental academic support and involvement predict child academic achievement](parental-academic-support-predicts-child-achievement.md) — related

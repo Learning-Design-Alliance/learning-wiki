@@ -70,6 +70,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Offer eLearning to practices with detected cold chain breaches and add reinforcement strategies for sustained improvement](elearning-offer-on-cold-chain-breach-detection.md)
 - [Incorporate virtual patient cases into continuous professional development of nurses at primary health centers](vp-cases-cpd-primary-health-nurses-strategy.md)
 - [Integrate staff training into the organisation's own schedule and LMS, simplify the program, and assess home readiness before implementation](integrate-training-organisation-lms-readiness-assessment.md)
+- [Integrate unit-specific simulation training into regular workplace violence prevention programs](unit-specific-simulation-violence-prevention-strategy.md)
 
 ## Examples
 -

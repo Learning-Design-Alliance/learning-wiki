@@ -52,3 +52,4 @@ Propensity Score Matching analysis (kernel matching with replacement, common sup
 - [Free practice of physical examinations raises OSCE physical examination scores by about five percentage points, enough for a grade jump](physical-exam-free-practice-grade-jump.md) — related
 - [A pre-procedural guided mental imagery session increases uncomplicated first-puncture success in simulated peripheral venous catheter insertion among medical students](mental-imagery-first-puncture-success-pvc.md) — related
 - [Mastery learning is feasible for USG-PVC training without extra time, and overtraining beyond mastery criteria does not improve performance](mastery-learning-feasible-usg-pvc-no-extra-time.md) — related
+- [KSX participation is associated with substantially higher MOOC completion rates (64.9% vs 6.4%), persisting after propensity score matching](ksx-participation-higher-mooc-completion.md) — related

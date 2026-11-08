@@ -66,3 +66,4 @@ An administrator-faculty reported resistance to change among faculty: "some peop
 ## Related Claims
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — a broader claim this one bears on
 - [Lack of joint nursing and medical input into simulation scenario design leaves scenarios favoring one profession](sim-ipe-scenario-design-barrier.md) — related
+- [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related

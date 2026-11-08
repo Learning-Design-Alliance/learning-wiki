@@ -58,3 +58,4 @@ Descriptive analysis of tactile-aspect questionnaire items among the 23 expert o
 - [Trainees with fewer than ten cerclage procedures reported higher satisfaction with the simulator than experts](trainees-rate-simulator-higher-than-experts.md) — related
 - [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — related
 - [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — related
+- [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](vr-hip-arthroscopy-simulator-face-validity-realism.md) — related

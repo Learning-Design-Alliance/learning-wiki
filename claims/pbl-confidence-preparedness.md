@@ -89,3 +89,4 @@ Spearman correlation analysis across both cohorts between self-rated confidence 
 - [European medical students' prescribing knowledge and skills are inadequate on a standardized pan-European exam](medical-students-prescribing-competence-inadequate.md) — related
 - [PBL students made significantly fewer inappropriate therapy choices; the difference in erroneous prescriptions was not statistically significant](pbl-fewer-inappropriate-therapy-choices.md) — related
 - [Students in an integrated PBL pharmacology/CPT programme had significantly higher prescribing knowledge scores than students in a traditional programme](pbl-programme-higher-prescribing-knowledge.md) — related
+- [Self-reported responsibilities for catheter management changed only slightly, with nurses shifting away from prescribing responsibility](responsibilities-changed-slightly.md) — related

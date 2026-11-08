@@ -49,3 +49,4 @@ In this RCT's intergroup comparison, "there were no significant differences betw
 - [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related
 - [Process-oriented feedback reduces rework (repetition of procedural steps) in simulated central venous catheter placement, unlike the control condition](process-mining-feedback-reduces-rework-cvc.md) — related
 - [Procedural checklist competence after simulation training does not differ significantly between residents and practicing clinicians](pudendal-block-checklist-no-difference-residents-clinicians.md) — related
+- [Both trained groups (remote and face-to-face) significantly outperformed the untrained control group on procedural performance](trained-groups-outperform-control-chest-tube.md) — related

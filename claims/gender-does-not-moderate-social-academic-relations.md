@@ -60,3 +60,4 @@ Nine HLM interaction analyses regressing each academic outcome onto one social p
 - [Gender and academic level do not moderate the perfectionism–academic achievement relationships](gender-academic-level-not-moderators.md) — related
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related
 - [In boys, academic achievement at age 6 anomalously predicted higher social withdrawal at age 8](boys-achievement-age6-predicts-higher-withdrawal.md) — related
+- [Boys in both very preterm and control groups display more classroom-functioning problems than girls, with no gender differences in academic functioning in the preterm group](boys-classroom-functioning-problems-preterm.md) — related

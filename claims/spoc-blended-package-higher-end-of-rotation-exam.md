@@ -60,3 +60,4 @@ Department-specific end-of-rotation examination with theoretical and practical c
 - [Non-radiology medical students taught with simulation-based education achieve higher medical imaging theoretical knowledge scores than students taught with traditional-based education](sbe-higher-theoretical-knowledge-non-radiology-students.md) — related
 - PBL combined with situational simulation teaching yields higher small and special presentation scores than conventional teaching in radiology interns — related
 - PBL combined with situational simulation teaching yields higher imaging report quality, intravenous contrast media, and practice examination scores than conventional teaching in radiology interns — related
+- [PACS-based experiential education yields significantly higher image description and diagnosis scores than traditional radiology teaching, with no significant difference in total or MCQ scores](pacs-experiential-higher-diagnosis-scores.md) — related

@@ -72,3 +72,4 @@ Same FC questionnaire, offline-course items: 90.5% liked teacher-student interac
 - [After the flipped classroom transition, students submitted significantly more course evaluation comments, and nearly all agreed the course was enjoyable and the format effective](more-scef-comments-and-high-agreement-after-fc.md) — related
 - [Most experimental-group students reported agreement with, interest in, and engagement from the flipped classroom plus web-based learning system](student-perceptions-flipped-anatomy-web-system.md) — related
 - [Students responded positively to the flipped classroom's problem-solving, short-lecture, and medical-image-reading components](flipped-classroom-component-perceptions.md) — related
+- [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related

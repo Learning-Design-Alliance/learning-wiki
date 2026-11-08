@@ -52,3 +52,4 @@ Results of measurements in the control group (CG) and experimental group (EG) re
 - [Low-scoring experimental-group students moved from 25% scoring below 25% at pre-test to none scoring below 25% at post-test, with scores reaching as much as 56.8%](lowest-scorers-crossed-25-percent-threshold.md) — related
 - [The Smartboard-taught experimental group showed a significant within-group increase in motivation from pre- to post-treatment](smartboard-group-within-group-motivation-gain.md) — related
 - [Engagement and interest scores rose markedly in the scenario-based group after training](engagement-rose-scenario-group.md) — related
+- [Students' self-assessed vaccination knowledge shifted significantly after the seminar, from 46% to 5% rating it poor/insufficient and 54% to 95% rating it sufficient or higher](self-assessed-vaccination-knowledge-rose-after-seminar.md) — related

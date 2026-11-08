@@ -56,3 +56,4 @@ Case-study finding from written reflections, subsequent lesson plans and researc
 - [Interview participants attributed speaking gains to small groups, relaxed environment, and non-interrupting instructor mentoring](interviews-attribute-gains-to-relaxed-small-group-format.md) — related
 - [Participants described developing a clinical teacher identity, growing confidence, and taking on new educational roles after the program.](pedagogical-internship-track-clinical-teacher-identity.md) — related
 - [Peer group reflection combined with teaching self-assessment produces deeper critical reflection and more specific teaching-modification plans](peer-group-reflection-deeper-critical-reflection.md) — related
+- [Seventy-three percent of students in one pre-post study with no comparison group reported in reflections that their understanding was higher after peer teaching, and 35% cited repeated teaching](reflections-repeat-teaching-deepened-understanding.md) — related

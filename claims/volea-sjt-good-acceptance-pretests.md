@@ -49,3 +49,4 @@ Formative evaluation during SJT development: expert interviews (n=6) and cogniti
 - [The article argues SJTs offer more efficient implementation and evaluation than simulated conversations and can complement, but not replace, them](sjt-more-efficient-than-simulated-conversations.md) — related
 - [Both interns and expert surgeons rated the gamified test as relevant and acceptable, though the Dotto game was perceived as very to extremely difficult](gba-acceptability-feasibility-ratings.md) — related
 - [No significant differences among feedback versions emerged for interest, acceptance, extraneous cognitive load or willingness to improve](no-differences-interest-acceptance-extraneous-willingness.md) — related
+- [Think-aloud pilot of the hygiene SJT with two medical students shows the test principle is understandable and feasible](hygiene-sjt-pilot-think-aloud-feasible.md) — related

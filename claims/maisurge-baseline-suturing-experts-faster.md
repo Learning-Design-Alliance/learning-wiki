@@ -58,3 +58,4 @@ Baseline task of the controlled trial: before the TLH simulation, all participan
 - [LSPPDM group completed basic laparoscopic model tasks faster, with fewer failures and higher scores](lsppdm-better-basic-laparoscopic-skills.md) — related
 - [Prior laparoscopic surgery experience predicted better performance in the second and third training blocks, though based on only four experienced subjects](prior-laparoscopic-experience-better-early-blocks.md) — related
 - [Novice medical students' product quality, technique (GRS), and speed rose significantly from pre-test to post-test across all six assessed knot-tying and suturing skills after a self-directed sequential CBVT course, in one uncontrolled pre-post study](cbvt-improves-pqs-grs-speed-six-skills.md) — related
+- [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related

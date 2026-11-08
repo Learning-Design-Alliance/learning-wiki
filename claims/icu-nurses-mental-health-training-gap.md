@@ -56,3 +56,4 @@ Survey item frequencies from the cross‐sectional study of 502 Jordanian ICU nu
 - [68.1% of PHC workers had no hypertension in-service training in the past two years, and none of the surveyed facilities had a chronic care model or hypertension registry](no-training-and-no-chronic-care-systems-gusau-phcs.md) — related
 - [Students' free-text expectations at baseline centered on wanting better preparation, especially for treatment planning and first patient contact](baseline-comments-wish-better-preparation.md) — related
 - [All surveyed residents wanted more expert-made videos of specific surgical techniques in their training](residents-want-more-expert-technique-videos.md) — related
+- [All participants reported feeling inadequately competent regarding mental health conditions and dissatisfied with the mental health course](nqn-mental-health-competency-deficiency.md) — related

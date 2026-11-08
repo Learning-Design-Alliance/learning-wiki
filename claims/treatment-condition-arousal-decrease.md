@@ -49,3 +49,4 @@ Repeated-measures ANOVAs in the treatment condition (n = 74) of the 148-student 
 - [In the control condition, no arousal or decrease of either measure occurred because prior knowledge eliminated the knowledge gap](control-condition-no-arousal.md) — reports the opposite
 - [A manipulation check confirmed control students referenced the evaporation explanation more often than treatment students](manipulation-check-evaporation-mentions.md) — reports the opposite
 - State epistemic curiosity and situational interest items load on a single latent factor in confirmatory factor analysis — related
+- [Situational interest in a PBL session follows a U-shape: it rises after the problem is presented and falls as knowledge closes the gap (knowledge-deprivation hypothesis)](knowledge-deprivation-hypothesis-situational-interest-u-shape.md) — related

@@ -39,6 +39,7 @@ A specific implementable activity the article reports: New Hampshire state-level
 ## Related Strategies
 
 - [Clinical director as LEA–IHE boundary-spanner managing each partnership](clinical-director-boundary-spanner-partnership.md)
+- [Engage faculty in reviewing student perception data at a curriculum retreat as an ongoing student-faculty partnership for curricular assessment](faculty-retreat-review-of-student-perception-data.md)
 
 ## Examples
 -

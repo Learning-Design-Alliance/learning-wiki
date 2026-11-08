@@ -75,3 +75,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [Stakeholders desire open-skills simulators with high fidelity, haptic feedback, realistic tissue behaviour and complex inbuilt scenarios](desired-open-skills-simulator-features-fidelity-haptics.md) — related
 - [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
 - [Participants engaging with interactive tools as learners let them experience each tool's advantages and disadvantages firsthand](experiencing-tools-as-learners-builds-tool-selection-insight.md) — related
+- [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](vr-hip-arthroscopy-simulator-face-validity-realism.md) — related

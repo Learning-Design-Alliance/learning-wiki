@@ -48,6 +48,7 @@ The article recommends a "multi-faceted, ongoing assessment strategy" combining 
 - [Future cooperative learning studies should be longitudinal and qualitative, using attitude questionnaires, interviews, and objective computerized pronunciation measures](longitudinal-qualitative-cl-research-instruments.md)
 - [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 - [Combine COPUS observation with an SDT-based survey to monitor progress toward active learning](combine-copus-sdt-survey-monitoring.md)
+- [Use up-to-date SDT/AGT motivational constructs in targeted, element-level interventions rather than curriculum-wide comparisons](targeted-element-level-motivation-research-strategy.md)
 
 ## Examples
 -

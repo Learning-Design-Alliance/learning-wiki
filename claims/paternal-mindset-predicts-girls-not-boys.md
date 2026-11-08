@@ -55,3 +55,4 @@ Multiple-group analysis by child gender with Wald tests of eight paths; only the
 - [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — reports the opposite
 - [Chinese parents show gendered involvement patterns: more educational trips, discussion, and control for daughters, more school contact for sons](gendered-forms-of-parental-involvement.md) — related
 - [Gender moderates only the path from prior academic performance to later behavioral control, which is significant for boys but not girls](gender-moderates-performance-to-control-path.md) — related
+- [Parent engagement in physical activity promotion increases child physical activity and intervention efficacy](parent-engagement-increases-child-physical-activity.md) — related

@@ -54,3 +54,4 @@ Psychometric analysis of the DOVCS checklist scored by two independent faculty r
 - [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related
 - [ComOn check shows moderate to high inter-rater reliability (ICCs 0.41-0.84), except item A2 with a low ICC](comon-check-inter-rater-reliability.md) — related
 - [Using a codebook alongside the OS-12 assessment tool yields good interrater reliability (ICC 0.74) for the overall score of audio-recorded clinical consultations](os12-codebook-interrater-reliability-icc-074.md) — related
+- [The ECRS shows 84% interrater agreement, an ICC of .527, and internal consistency of Cronbach alpha .948](ecrs-reliability-agreement-icc-alpha.md) — related

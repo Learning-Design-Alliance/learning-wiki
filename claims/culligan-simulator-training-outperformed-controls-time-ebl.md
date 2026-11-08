@@ -54,3 +54,4 @@ Non-randomized controlled trial (Table 3) with 18 credentialed gynaecological su
 - [The simulation-first advantage on OSATS was not robust in sensitivity and multivariate analyses adjusting for baseline robotic experience](simulation-first-advantage-not-robust-sensitivity.md) — related
 - [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — reports the opposite
 - [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — related
+- [The training program produced no difference in operative time, blood loss, or complications in residents' first operative laparoscopy](no-difference-operative-time-blood-loss-complications-first-laparoscopy.md) — related

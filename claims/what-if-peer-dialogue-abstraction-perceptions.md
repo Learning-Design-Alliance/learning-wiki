@@ -50,3 +50,4 @@ Group interview thematic analysis (n = 8). Students described comparing cases as
 - [Students reported that stepwise build-up in case complexity and recognition of similar reasoning steps across cases supported transfer](stepwise-complexity-similar-reasoning-steps-themes.md) — related
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](structured-reflection-self-awareness-growth.md) — related
+- [Students identify ten design principles for Virtual Patients that foster learning of clinical reasoning, and perceive well-designed VPs as preparing them better than any previously experienced method](vp-ten-design-principles-student-focus-groups.md) — related

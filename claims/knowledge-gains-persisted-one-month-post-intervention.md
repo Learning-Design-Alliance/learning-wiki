@@ -56,3 +56,4 @@ One-month follow-up in the 45-nurse trial showed between-group differences remai
 - [Knowledge-check trajectories differ: ENC 1 knowledge scores decline by 6 months while remaining above pretraining, and ENC 2 knowledge scores stay stable](venc-knowledge-check-trajectories.md) — related
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
+- [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — a narrower finding that bears on this claim

@@ -55,3 +55,4 @@ Mixed model repeated measures ANOVA in a large-scale RCT (analysed n = 5585; Yea
 - [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related
 - [An SEL program with mindfulness training (MindUP) improved diurnal cortisol slopes and social-emotional, self-concept, and math outcomes versus an active control](mindup-cortisol-randomized-trial.md) — related
 - [Across populations, children's positive emotional expressions selectively during collaboration predicted their Theory of Mind skills](affect-during-collaboration-predicts-theory-of-mind.md) — related
+- [The Mind Reading software with in vivo rehearsal improved emotion recognition, encoding and decoding in children with high-functioning ASD](mind-reading-software-improved-emotion-skills-hfasd.md) — related

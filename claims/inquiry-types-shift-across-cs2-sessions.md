@@ -73,3 +73,4 @@ Descriptive category counts across sessions from the 830-prompt dataset. Instrum
 - [Children encouraged to ask questions increase the number of relevant questions they ask over the course of training, but non-linearly](question-asking-increases-over-training-sessions.md) — related
 - [Teaching and learning activities reported by students shift across categories from memorising facts to independent research reports](tla-progression-across-categories.md) — related
 - [Session-level effect sizes for the group difference grew to a moderate level approaching Hattie's hinge point](session-level-effect-sizes-approach-hinge-point.md) — related
+- [Dynamic training shifts children's verbal explanations: fewer non-inductive and more full-inductive explanations, but no significant change for no-answer or partial-inductive categories](dynamic-training-verbal-explanation-shifts.md) — related

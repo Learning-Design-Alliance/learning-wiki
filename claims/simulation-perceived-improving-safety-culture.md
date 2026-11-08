@@ -58,3 +58,4 @@ Self-reported survey of 81 respondents (65% response rate) among 125 simulation 
 - [A brief in-situ simulation intervention mitigated an MRSA outbreak in a newly renovated NICU and improved hand hygiene compliance](in-situ-simulation-mrsa-outbreak-nicu.md) — related
 - [Frontline nursing home staff rate in situ fall simulation training highly, with 98.5% rating the simulation good or very good](nursing-home-staff-rate-fall-simulation-highly.md) — related
 - [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related
+- [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related

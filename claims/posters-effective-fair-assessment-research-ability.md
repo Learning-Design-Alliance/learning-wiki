@@ -49,3 +49,6 @@ Parallel closed-end questions in the student (n = 215) and staff (n = 10) questi
 - [Students perceived peer assessment as a fair way of assessing intervention reports and presentations](peer-assessment-perceived-fair.md) — related
 - [Only about two-thirds of students reported clarity about poster presentation expectations despite lectures, supervision and a marking rubric](limited-clarity-poster-expectations.md) — related
 - [Staff judged poster presentations an efficient way to assess the research competence of a large student cohort, with no staff member proposing a more efficient alternative format](posters-efficient-large-cohort-assessment.md) — related
+- [Students and staff perceived the poster task as demonstrating transformative learning, with 92% of students agreeing it showed how they made a difference in the community](poster-task-transformative-learning-perceptions.md) — related
+- [Staff perceived poster presentations as faster to mark than written assignments and as enabling immediate feedback](staff-perceive-posters-efficient-marking-immediate-feedback.md) — related
+- [Students perceived the poster presentation as an efficient (81%) and fair (75%) assessment method](students-perceive-poster-assessment-efficient-fair.md) — related

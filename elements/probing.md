@@ -89,6 +89,7 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 - [Deploy AI misconception screening in a risk-stratified way: revise vulnerable question values at authoring time, pair AI screening with mark-scheme-style reference reasoning, and use follow-up probing questions rather than binary classification](../strategies/risk-stratified-ai-misconception-screening.md)
 - [Generate targeted diagnostic follow-up questions using variant-problem and probe-the-gap strategies for ambiguous cases](../strategies/variant-problem-probe-the-gap-follow-ups.md)
 - [Describe a support system's design intent by asking against whose Synthesis or Analysis it elicits a structural gap](../strategies/design-intent-gap-origin-question.md)
+- [Recommendations for clinical teachers: use reasoning and follow-up questions to elicit elaboration, closed reproduction questions for knowledge recall, and reduce non-response](../strategies/cbl-questioning-recommendations-clinical-teachers.md)
 
 ## Key Sources
 - King, A. (1994). Guiding knowledge construction in the classroom: Effects of teaching children how to question and how to explain. *American Educational Research Journal, 31*(2), 338–368. [doi:10.3102/00028312031002338](https://doi.org/10.3102/00028312031002338)

@@ -68,3 +68,4 @@ Same time-log analysis: summed extracurricular time was statistically indistingu
 - [ChatGPT-guided PBL shifted study time toward pre-class preparation without increasing total learning time](chatgpt-pbl-shifts-study-time-total-unchanged.md) — related
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — related
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
+- [FC-TCLEBL students spent more time preparing before class but less time reviewing after class than LBC students, with no difference in total time](fc-tclebl-preparation-review-time-tradeoff.md) — possibly the same claim (merge candidate)

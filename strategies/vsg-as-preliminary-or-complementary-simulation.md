@@ -75,6 +75,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
 - [Use the PlaSurIn game as an alternative or complement to traditional lecture-based training for surgical instruments setup](plasurin-as-alternative-or-complement-to-lecture-strategy.md)
 - [Use online training resources as a complementary education approach to clinical training in recognising dying](online-resource-complementary-approach-recognising-dying.md)
+- [Supervised small-group seminars with simulated patients for communicative-skill training with patient-view feedback](simulated-patient-seminar-feedback-strategy.md)
 
 ## Examples
 -

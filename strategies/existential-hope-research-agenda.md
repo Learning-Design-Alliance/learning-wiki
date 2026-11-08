@@ -42,6 +42,7 @@ The article recommends a two-step empirical agenda. First, develop a psychometri
 - [Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI](genai-learning-research-agenda-process-assessments.md)
 - [Adopt a staged research agenda: measure the three belief dimensions, test incremental validity, and run component-level and person-centered tests](possibility-mindset-staged-research-agenda.md)
 - [Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education](culturally-grounded-structural-research-agenda.md)
+- [Test PESPAAP with mediation models, SEM, and compositional data analysis](pespaap-testing-analyses-strategy.md)
 
 ## Examples
 -

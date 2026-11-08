@@ -48,3 +48,4 @@ Preliminary correlational results (Table 1) for the ten motivational variables m
 - [Five cross-domain motivational profiles emerge among ninth-graders in both semesters: Adjusted, Highly motivated, Unattached, Math-motivated, and Language-motivated](five-cross-domain-motivational-profiles-grade-9.md) — related
 - [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](dimensional-comparisons-affect-task-values.md) — related
 - [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related
+- [Subject satisfaction correlates positively with school satisfaction in all subjects, highest for mathematics, and with grades for all subjects except PE](subject-satisfaction-correlations-school-satisfaction-grades.md) — related

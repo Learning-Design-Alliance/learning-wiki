@@ -53,6 +53,7 @@ Based on the finding that VR referencing increased cognitive processing demands,
 - [Do not assume that reducing orientation effort automatically frees resources for deeper learning when orientation and learning happen simultaneously](cautious-orientation-support-dual-task-vr.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Integrate radiological data into VR/AR for preoperative planning and intraoperative guidance, and extend VR/AR-supported anatomical knowledge to telemedicine](vr-ar-preoperative-intraoperative-telemedicine-integration.md)
+- [Conduct more research on augmented and virtual reality for anatomy learning before drawing overall conclusions about those techniques](more-research-augmented-virtual-reality-anatomy.md)
 
 ## Examples
 -

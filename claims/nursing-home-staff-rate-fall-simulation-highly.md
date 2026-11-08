@@ -49,3 +49,4 @@ Descriptive analysis of Likert responses on a postsimulation survey completed by
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Postfall assessment was the most commonly identified key learning from the fall simulation, followed by postfall huddles and preventive interventions](postfall-assessment-top-key-learning-simulation.md) — related
+- [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related

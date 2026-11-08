@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (18 for, 11 mixed, 1 against) · 37 studies (12 causal, 9 quant-synthesis, 6 design, 4 theoretical, 3 qualitative, 2 review, 1 associational), `q1`–`q4` · 10 of 37 report an effect size · 22 claims rest on one study
+> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 38 studies (12 causal, 9 quant-synthesis, 6 design, 4 theoretical, 3 qualitative, 2 review, 2 associational), `q1`–`q4` · 10 of 38 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -138,6 +138,7 @@ Do not rank these against one another: their comparators (traditional instructio
 - [Students enjoyed interactive game adventure writing significantly more than traditional story writing, with no significant gender difference.](../claims/enjoyment-interactive-over-traditional.md) [~W] — attached 2026-10-30 from Carbonaro et al. (2008), which proposed "Computer game construction as a gender-neutral attractor to Computing Science.".
 - [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](../claims/sglm-mixed-enjoyment-and-stress.md) [~W] — attached 2026-11-04 from Serhatlıoğlu Seda (2026), which proposed "Support student-generated learning material tasks with clear guidance, realistic time allocation, and formative feedback".
 - [Students reported difficulties with time management, material access, and indecision over subject and material selection during SGLM](../claims/sglm-difficulties-time-material-indecision.md) [+W] — attached 2026-11-04 from Serhatlıoğlu Seda (2026), which proposed "Support student-generated learning material tasks with clear guidance, realistic time allocation, and formative feedback".
+- [First-year medical students perceived poster preparation as helping them select important material for presentation (92% agreement)](../claims/poster-preparation-helped-select-important-material.md) [+W] — attached 2026-11-08 from Ross Andrew et al. (2019), which proposed "Use poster presentations as an integrated teaching, assessment and feedback strategy in large classes".
 
 ## Illustrative design instance and observation record
 

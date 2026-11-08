@@ -61,6 +61,7 @@ The authors propose a pragmatic reform model in which simulation is an "on-ramp"
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
 - [Adopt a step-wise approach to technology integration in clinical skills teaching, starting with simple familiar tools matched to learning outcomes](stepwise-technology-integration-clinical-skills.md)
 - [Use the simulator as the first step toward a BG-PDT simulation-based training program with multimodal competency assessment](bg-pdt-simulation-training-program-strategy.md)
+- [Milestones for implementing a longitudinal undergraduate US curriculum](us-curriculum-implementation-milestones.md)
 
 ## Examples
 -

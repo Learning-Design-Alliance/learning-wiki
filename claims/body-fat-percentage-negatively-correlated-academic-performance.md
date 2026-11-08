@@ -53,3 +53,4 @@ Correlation analysis (Table 2) in the same 36-player sample prints %BF–science
 - [Change-of-direction ability (T-half test) is positively correlated with academic performance in schoolchild handball players](change-of-direction-positively-correlated-academic-performance.md) — related
 - [Lower-limb jump performance is positively correlated with academic performance in schoolchild handball players](lower-limb-jump-positively-correlated-academic-performance.md) — related
 - [Upper-limb strength and sprint speed show no correlation with academic performance in schoolchild handball players](upper-limb-strength-sprint-no-correlation-academic.md) — related
+- [Body fat percentage appears to hinder the predictive effect of fitness on academic achievement.](body-fat-hinders-fitness-gpa-effect.md) — related

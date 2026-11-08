@@ -55,3 +55,4 @@ A self-constructed 25-item teaching satisfaction questionnaire (5-point Likert s
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [Most students in the electronic ward round cohort reported a subjective knowledge gain from the streamed bedside teaching](e-visite-subjective-knowledge-gain.md) — related
 - Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related
+- [Resident satisfaction with TEE training did not differ significantly among the three teaching methods](no-satisfaction-difference-among-tee-teaching-methods.md) — reports the opposite

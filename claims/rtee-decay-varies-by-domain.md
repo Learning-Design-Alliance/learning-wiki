@@ -51,3 +51,4 @@ Domain-level analysis of the same seven-participant simulator assessments, repor
 - [Time to acquire all eight rTEE views decreased from 7.3 minutes at month 6 to 5.7 minutes at month 7, a non-significant difference](rtee-acquisition-time-month6-month7.md) — related
 - [No precise timeframe for surgical skill decay exists; reported onset ranges from 11 weeks to 2 years depending on task and study](retention-interval-timeframe-varies.md) — related
 - [Random probe movements for ante/retroflexion fell from Test 1 to Test 2, while probe rotation showed a non-significant trend overall and fell in selected views, in one single-group pre-post study](tee-simulator-training-reduces-random-probe-movements.md) — related
+- [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — related

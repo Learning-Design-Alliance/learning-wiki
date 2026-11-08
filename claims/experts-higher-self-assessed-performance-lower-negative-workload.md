@@ -49,3 +49,4 @@ After each interpretation, participants completed the NASA Task Load Index. Expe
 - [Expert cardiologists interpret ECGs significantly faster and with higher diagnostic accuracy than residents across all task difficulty levels](experts-faster-more-accurate-ecg-interpretation.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — reports the opposite
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
+- [Self-reported cognitive load (NASA TLX) is high and does not differ between expert and resident anesthetists in simulated PPH](nasa-tlx-no-group-difference-pph.md) — related

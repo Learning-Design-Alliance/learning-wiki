@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (9 for, 7 mixed, 1 against) · 17 studies (5 causal, 5 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 18 studies (6 causal, 5 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 16 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -58,6 +58,8 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Seventh graders could in principle give relevant peer feedback on ELOs, but their peer-assessment skills needed further development](../claims/seventh-graders-peer-feedback-skills.md) [~W]
 - [Students using a scripting interface for peer feedback provide longer comments than students using a self-monitoring interface](../claims/scripting-interface-longer-peer-feedback-comments.md) [~W]
 - [Peer mutual evaluation scores are significantly higher than teacher ratings of the same skill videos](../claims/peer-evaluation-scores-exceed-teacher-ratings.md) [~M] — attached 2026-11-07 from Jin Peipei et al. (2025), which proposed "Video-based skill assessment with anonymous peer evaluation"; tests this page's relationship.
+- [A transparent, points-based peer assessment system did not improve team contribution in a cluster RCT among undergraduate medical students](../claims/points-based-peer-assessment-no-team-contribution-gain.md) [~W] — attached 2026-11-08 from Biesma Regien et al. (2019), which proposed "Balanced, consensus-based peer assessment system with fixed team point allocation".
+- [Students criticised the fixed balanced marking system for punishing strong contributors and elected to give everyone equal marks](../claims/balanced-marking-criticism-equal-marks.md) [~W] — attached 2026-11-08 from Biesma Regien et al. (2019), which proposed "Balanced, consensus-based peer assessment system with fixed team point allocation".
 
 ## The evidence by question
 

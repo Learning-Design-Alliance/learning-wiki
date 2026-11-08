@@ -49,3 +49,4 @@ In the same mathematics CLPM, "Conduct problems at T1 and T2 negatively predicte
 - [Reading achievement was nearly unrelated to behavioral problems across primary school, with only two significant cross-lagged paths](reading-achievement-unrelated-behavior-problems.md) — related
 - [Writing difficulties at the end of grade 1 predicted higher emotional problems, conduct problems, hyperactivity, and peer problems at the end of grade 2](writing-difficulties-predict-behavior-problems-grade2.md) — related
 - [Negative risk-taking behaviors adversely predict subsequent academic engagement and academic achievement, forming bidirectional deteriorating cycles](negative-risk-taking-adverse-bidirectional-cycles-academic-development.md) — related
+- [Externalizing problems predict lower Math and Science grades but not English grades](externalizing-math-science-not-english.md) — related

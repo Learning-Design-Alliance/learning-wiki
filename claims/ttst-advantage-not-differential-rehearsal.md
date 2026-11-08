@@ -50,3 +50,4 @@ Laboratory experiment with 60 undergraduates studying six five-item sublists, ea
 - [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](ttst-beats-pure-st-eskimo-pairs.md) — related
+- [Cue-integration learning strongly improves recall of a 50-item word list, including cued delayed recall (Experiment 3)](cue-integration-improves-word-list-recall-exp3.md) — related

@@ -50,3 +50,4 @@ Prospective observational QI study of all 12,678 analyzed births at Haydom Luthe
 - [Perinatal mortality showed no statistically significant change for all births, and the mortality reduction among ventilated newborns lost significance after adjustment](perinatal-mortality-no-significant-change-all-births.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
 - [The intervention detected no significant differences in newborn morbidity and mortality indicators, with asphyxia proportions rising and stillbirth rates slightly declining across study periods.](hbb-no-detectable-mortality-morbidity-change.md) — related
+- [One-day HBB 2.0 training made all 60 participating nurses competent in bag-and-mask ventilation, with significant knowledge gains](hbb2-training-competency-nepal-nurses.md) — related

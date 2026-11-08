@@ -47,3 +47,4 @@ Authors' report on a curricular change between course iterations: statistics exe
 ## Related Claims
 - [Biostatistics and research methodology coursework is associated with prior EBM training, while hospital clinical training is associated with lower EBM training](coursework-associated-ebm-training-clinical-training-inverse.md) — related
 - [Adding hints to multiple-try feedback increases students' performance during the e-learning learning phase in an authentic university statistics course](hints-in-multiple-try-feedback-increase-learning-phase-performance.md) — related
+- [A blended research methodology/biostatistics course improved subjective but not objective numeracy three months later](methodology-course-improves-subjective-not-objective-numeracy.md) — related

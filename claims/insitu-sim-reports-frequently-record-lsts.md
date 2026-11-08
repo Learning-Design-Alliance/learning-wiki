@@ -52,3 +52,4 @@ Descriptive observational analysis of postcourse reports from the NetworkZ natio
 - [A shared mental model, built through briefings and recaps, is the most common protective factor against adverse events in operating theater simulations, reported in 64% of reports and 81% of sites](shared-mental-model-top-protective-factor.md) — related
 - [In-situ simulation identified latent safety threats in all categories, leading to changes in unit protocols](in-situ-simulation-identifies-latent-safety-threats.md) — related
 - [In situ simulations identified latent safety threats on the unit, which were reviewed with leadership and addressed through mitigation strategies](in-situ-simulation-latent-safety-threats.md) — related
+- [Participants observed NetworkZ positively changed operating theatre workplace culture, including relationships, communication and speaking up](networkz-improved-ot-workplace-culture.md) — related

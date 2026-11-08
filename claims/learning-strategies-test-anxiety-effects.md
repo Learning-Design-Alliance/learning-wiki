@@ -60,3 +60,5 @@ Model M5 (Table 4) combining student characteristics, contextual factors, famili
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [Males score higher on Anxiety, Information Processing, Selecting Main Ideas, Self-Testing, and Test Strategies, while females score higher on Attitude and Using Academic Resources](males-higher-anxiety-test-strategies-females-higher-attitude-resources.md) — related
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
+- [The test anxiety interventions did not change end-of-course self-declared trait anxiety](test-anxiety-intervention-no-trait-anxiety-change.md) — related
+- [Women report higher trait test anxiety than men at the start of an introductory biology course](women-report-higher-trait-test-anxiety-than-men-intro-biology.md) — related

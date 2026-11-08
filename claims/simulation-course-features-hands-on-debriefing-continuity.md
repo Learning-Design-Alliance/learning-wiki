@@ -59,3 +59,5 @@ Inductive thematic analysis of free-text post-simulation questionnaire responses
 - [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related
 - [Students rate debriefing feedback as easy to understand, relevant, and constructive, and generally feel positive about debriefing](debriefing-feedback-clear-relevant-constructive.md) — related
 - [Facilitator questioning during debriefing is perceived as mostly open-ended and encouraging of self-reflection, though perceptions are mixed](open-ended-questioning-perceived-mixed.md) — related
+- [Students' open-ended feedback centered on the high-yield nature of the faculty debrief and on linking basic science concepts to PIDD presentation](debrief-high-yield-student-comments.md) — related
+- [Qualitative content analysis of students' open responses identified five dimensions: operational aspects, emotional aspects, facilitation, debriefing development, and areas of improvement](maes-qualitative-five-dimensions.md) — related

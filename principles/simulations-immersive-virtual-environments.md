@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 527 claims (331 for, 171 mixed, 25 against) · 336 studies (143 causal, 81 review, 39 quant-synthesis, 35 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 336 report an effect size · 522 claims rest on one study
+> **Evidence** · 530 claims (333 for, 172 mixed, 25 against) · 339 studies (144 causal, 81 review, 39 quant-synthesis, 37 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 339 report an effect size · 525 claims rest on one study
 
 ## Conditional relationship
 
@@ -525,6 +525,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [The simulator was built for a fixed cost of US $30 plus US $4 per use, enabling multiple iterations per assembly](../claims/bg-pdt-simulator-cost-us30-fixed-us4-per-use.md) [+W] — attached 2026-11-08 from Kattan Eduardo MD et al. (2019), which proposed "Prefer low-cost, easy-to-construct simulators to enable simulation training in settings where commercial simulators are unaffordable or unavailable".
 - [Cardiac auscultation diagnostic accuracy rose from 28% before to 61% after a simple sound simulation lesson among junior doctors, in a single-group pre-post study with no comparison group](../claims/sound-simulation-lesson-improves-auscultation-accuracy.md) [+W] — attached 2026-11-08 from Tokuda Yasuharu et al. (2020), which proposed "Combine pre-test, sound simulation lesson and post-test with gamification to teach cardiac auscultation to large groups"; tests this page's relationship.
 - [Beginner participants improved their simulator scores after repeated practice, with significant improvement after 10 experiments](../claims/epidurosim-beginners-improve-repeated-practice.md) [+W] — attached 2026-11-08 from Lee Jong Joo et al. (2020), which proposed "Use virtual simulators to train risky interventional procedures because they avoid the ethical problems and hazards of practicing on real patients".
+- [Second-year medical students taking a PIDD OSCE question after simulation scored modestly but statistically significantly higher than students taking it before simulation](../claims/post-simulation-osce-scores-higher-pidd.md) [+W] — attached 2026-11-08 from Cavuoto Petrizzo Marie et al. (2019), which proposed "Initiate or expand simulation within non-clinical basic science courses such as immunology to bridge theory and practice"; tests this page's relationship.
+- [Practicing laparoscopic skills in a simulated environment is reported to yield good acceptance and improved technical skills](../claims/simulated-practice-improves-technical-skills.md) [+W] — attached 2026-11-08 from Travassos Thiago da Costa et al. (2019), which proposed "Teach laparoscopic skills outside the operating theater using low-cost physical simulators"; tests this page's relationship.
+- [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](../claims/vr-hip-arthroscopy-simulator-face-validity-realism.md) [~W] — attached 2026-11-08 from Bartlett Jonathan D. et al. (2018), which proposed "Use VR surgical simulation to pre-train surgeons so they operate below their attentional capacity threshold".
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,4 @@ Educator interview accounts in Theme 1 reported that placement settings were "of
 - [Limited placement exposure is perceived to contribute to underdeveloped therapeutic interpersonal skills and task-focused practice](limited-placement-underdeveloped-therapeutic-skills.md) — related
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](graduate-nurse-dementia-care-barriers-facilitators.md) — related
 - [Chronic psychiatric placement shortage in the UAE left most mental health nursing practicum students without traditional placements, motivating AI simulation](clinical-placement-shortage-uae-mental-health.md) — a narrower finding that bears on this claim
+- [GPs expressed being short of strategies for identifying and treating mental disorders and wished for training plus sufficient practice](gps-short-of-strategies-wish-training-practice.md) — related

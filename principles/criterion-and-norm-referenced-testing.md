@@ -201,6 +201,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Balloons: A Concepts About Print Assessment](../products/balloons-a-concepts-about-print-assessment.md)
 - [Use diagnostic test standards to decide when a class needs special work on a fundamental ability](../strategies/geometry-ability-diagnostic-standards-strategy.md)
 - [Mathematical Ability Test of 60 objective questions covering 15 categories of mathematical abilities](../products/mathematical-ability-test-of-60-objective-questions-covering-15-categories-of-mathematical.md)
+- [Use fitted learning curves to set competency standards and estimate required practice volume and time when planning a skills curriculum](../strategies/learning-curve-estimates-for-competency-based-curriculum-planning.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

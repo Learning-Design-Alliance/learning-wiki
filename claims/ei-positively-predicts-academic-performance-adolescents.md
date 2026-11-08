@@ -52,3 +52,4 @@ Cross-sectional SEM (maximum likelihood with bootstrapping) on 3451 secondary st
 - [Cybervictimization negatively predicts emotional intelligence (β = −0.61, p < 0.001) and academic performance (β = −0.31, p < 0.01)](cybervictimization-negatively-predicts-ei-and-grades.md) — related
 - [Emotional intelligence negatively predicts cybervictimization (β = −0.49, p < 0.001)](ei-negatively-predicts-cybervictimization.md) — related
 - [Emotional intelligence is positively and significantly linked with self-efficacy, motivation, and resilience among both undergraduate and postgraduate students](ei-positive-links-self-efficacy-motivation-resilience.md) — related
+- [Emotional intelligence is positively associated with positive emotions, self-determined motivation, resilience, academic performance and intention to be physically active among PE students](ei-positive-associations-pe-outcomes.md) — related

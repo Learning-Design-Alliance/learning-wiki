@@ -48,3 +48,4 @@ Mann–Whitney U test comparing trained (n participants = 11, n responses = 44) 
 - [Physiotherapists rated MECC HCS training highly valuable and found the intervention acceptable across all Theoretical Framework of Acceptability constructs](mecc-hcs-acceptability-tfa.md) — related
 - [Physiotherapists' open discovery-question responses rose from 20 to 78 of 92 responses immediately after MECC HCS training, in one group with no comparison group](mecc-hcs-response-style-shift-post-training.md) — related
 - [At 6- to 12-week follow-up physiotherapists were highly competent in three HCS but showed lower competence in SMARTER goal-setting](mecc-hcs-smarter-goal-setting-lower-competence.md) — related
+- [Reported use of open-ended questions and summaries showed no statistically significant change from pre-test to 1-month follow-up](mi-skill-items-no-significant-change-follow-up.md) — related

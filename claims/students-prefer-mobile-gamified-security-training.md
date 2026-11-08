@@ -57,3 +57,4 @@ Preference questionnaire of 50 general students across diverse majors after game
 - [Students overwhelmingly preferred video materials over text materials for learning technical ESP content](student-preference-video-over-text-esp.md) — reports the opposite
 - [Students prefer learning via demonstration videos and recommend them for future batches](students-prefer-and-recommend-demonstration-videos.md) — related
 - [Paramedics' preferred online learning format depends on the format they most recently experienced](format-preference-follows-experienced-format.md) — related
+- [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related

@@ -64,3 +64,4 @@ Cross-sectional quality-control assessment of 586 emergency physicians and nurse
 - [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related
 - [After standard AHA BLS training, medical and PA students maintain guideline-adherent compression rate, depth, and recoil for a majority of a two-minute CPR cycle](bls-training-compressions-majority-adherent.md) — related
 - [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related
+- [Participation in theoretical or practical training did not differentially change knowledge scores over time](training-no-differential-knowledge-effect.md) — related

@@ -75,3 +75,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Most students prefer a single facilitator providing debriefing for the entire academic year over multiple facilitators](single-facilitator-preferred-whole-year.md) — related
 - [Anxiety during standardized-patient simulation can be managed by increasing simulation opportunities and providing sufficient debriefing time, according to the authors' interpretation.](debriefing-to-manage-sp-simulation-anxiety.md) — related
 - [Students report that an interprofessional facilitator team providing immediate feedback helped consolidate learning and promote clinical reasoning](interprofessional-facilitator-feedback-consolidates-learning.md) — related
+- [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related

@@ -54,3 +54,4 @@ Between-group Mann-Whitney U analysis of IPPI technical components (preparation,
 - [Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching](simulation-reduces-procedure-completion-time.md) — related
 - [Video-based learning shows a weak but statistically significant positive correlation with technical skill performance (r = 0.223, p = 0.012)](weak-significant-correlation-video-technical-skills.md) — related
 - [Higher-performing suturing groups differ mainly in suturing time, accurate needle passages, and unnecessary piercing points, not other components](suture-components-group-discrimination.md) — related
+- [Students most frequently watched and requested surgery/suturing and animal-handling content, and analytics show suturing videos are the most viewed internationally](suturing-and-handling-content-most-demanded.md) — related

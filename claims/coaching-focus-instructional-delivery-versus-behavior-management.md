@@ -53,3 +53,4 @@ The paper reports Blazar and Kraft's (2015) study showing "a combination of focu
 - [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — a broader claim this one bears on
 - [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — related
+- [Increased faculty face time with struggling learners decreased the probability of probation by 3.1% per hour and of all negative outcomes by 2.6% per hour](faculty-face-time-reduces-probability-probation.md) — related

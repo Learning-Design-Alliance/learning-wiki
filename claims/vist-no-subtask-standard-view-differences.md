@@ -65,3 +65,4 @@ Two-factorial ANOVA with group (ViST vs FS) and standard view as nominal covaria
 ## Related Claims
 - [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — related
 - [Acceptance and motivation for the ultrasound teaching videos were rated low while subjective learning success was rated positively by up to 88% of respondents](vist-video-acceptance-low-learning-success-positive.md) — related
+- [Prior literature establishes that student-tutors can achieve teaching results similar to faculty members for basic ultrasound skills](student-tutors-match-faculty-basic-ultrasound.md) — a broader claim this one bears on

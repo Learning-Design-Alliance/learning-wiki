@@ -71,3 +71,4 @@ Review synthesis of four acute-effect studies in which 20–30-min PA sessions t
 - [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — possibly the same claim (merge candidate)
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
 - [A 10-minute pre-testing review improves multiple-choice performance in all three learning conditions](pre-testing-review-additive-benefit.md) — related
+- [Acute resistance exercise improves middle school students' standardized math test performance compared to non-exercise](resistance-exercise-improves-math-scores-vs-non-exercise.md) — related

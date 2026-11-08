@@ -55,3 +55,4 @@ Multicenter prospective study in which 60 participants across three experience g
 - [A VR simulation-based TTE test distinguishes novice from experienced physicians on all parameters, and novice from intermediate on most parameters](vr-tte-test-distinguishes-experience-levels.md) — related
 - [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — reports the opposite
 - [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related
+- [The eoSim differentiates expertise groups on the intracorporeal suturing task in time and distance, demonstrating construct validity for those parameters](eosim-task1-construct-validity-time-distance.md) — related

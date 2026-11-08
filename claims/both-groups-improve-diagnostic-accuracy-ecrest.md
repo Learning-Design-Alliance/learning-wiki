@@ -70,3 +70,4 @@ Retrospective comparison on eCREST Case 1: overall proportion of relevant diagno
 - [Both cohorts significantly improve ability to identify factors influencing BPM accuracy (medical p = 0.002; PA p = 0.035)](bpm-factor-identification-gains.md) — related
 - [Virtual simulation practice improves efficiency of differential diagnosis in medical students for abdominal pain and loss of consciousness cases](virtual-simulation-improves-diagnostic-efficiency.md) — related
 - [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related
+- [Mathematical models (Gompertz for accuracy, Michaelis-Menten for time) significantly correlated both cases practiced and practice time with exam diagnostic accuracy (p<0.001), estimating 34 cases and about 112 minutes for 75% accuracy](gompertz-michaelis-menten-learning-curve-ecg-exam-accuracy.md) — related

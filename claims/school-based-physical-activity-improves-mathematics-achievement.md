@@ -66,3 +66,4 @@ Systematic review and meta-analysis pooling 13 RCTs on mathematics outcomes usin
 - [Cardiovascular fitness is positively associated with math and language grades in Swedish adolescents, though the association is weak](fitness-associated-math-language-grades.md) — related
 - [The escape room-based physical activity intervention significantly improves Italian language grades in adolescents](escape-room-pa-improves-italian-grades.md) — a narrower finding that bears on this claim
 - [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — related
+- [Physical activity interventions show beneficial effects on academic outcomes in pediatric populations](physical-activity-interventions-benefit-academic-outcomes.md) — a broader claim this one bears on

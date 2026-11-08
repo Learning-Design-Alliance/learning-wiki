@@ -53,3 +53,4 @@ Voluntary post-session survey of the pooled 2023 and 2024 human SP simulations, 
 - [Medical students rated the SP verbal de-escalation workshop highly, with 82% agreeing it met the learning objectives and 86% assigning it a letter grade A](sp-deescalation-workshop-high-student-ratings.md) — related
 - [Trainees rate the simulation experience highly and overwhelmingly agree simulation training is essential in cardiovascular fellowship](high-trainee-satisfaction-with-simulation-training.md) — related
 - [First-year medical students reported that the simulation session increased their knowledge of the pulmonary system](students-report-increased-pulmonary-knowledge-from-sbe.md) — related
+- [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related

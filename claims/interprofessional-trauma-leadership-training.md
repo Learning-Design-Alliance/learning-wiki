@@ -50,3 +50,4 @@ A recurrent theme in the interview analysis: participants described cross-depart
 - [A relatively brief four-hour simulation-based curriculum improved clinical performance of multidisciplinary trauma teams, including a 16% reduction in mean overall ED resuscitation time](brief-simulation-curriculum-improves-trauma-team-performance.md) — related
 - [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related
 - [Interprofessional CPR training with MAES is perceived by nursing and medical students to enhance teamwork and nontechnical skill development](maes-ipe-enhances-teamwork-perceptions.md) — related
+- [Recruiting surgeons was the main political challenge in establishing multidisciplinary team training](surgeon-recruitment-political-barrier.md) — related

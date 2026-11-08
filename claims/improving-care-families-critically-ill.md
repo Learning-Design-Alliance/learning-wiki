@@ -49,3 +49,4 @@ The fourth theme, on patients and families, showed that "all stressed the import
 - [Human-machine collaboration enhances the humanistic care role of emergency nurses](hmc-enhances-nurses-humanistic-care-role.md) — related
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
 - [The framework prioritises a compassionate, respectful therapeutic relationship and addresses power imbalances with detained, marginalised patients](relationship-first-attitudes-in-inpatient-framework.md) — related
+- [Communication difficulties with patients and families and the need for emotional support persisted after training and emerged only in the qualitative data, with participants requesting further training modules](pc-training-persisting-unmet-needs.md) — related

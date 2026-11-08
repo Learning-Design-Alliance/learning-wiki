@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (27 for, 13 mixed, 2 against) · 55 studies (15 causal, 15 review, 13 quant-synthesis, 5 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 55 report an effect size · 31 claims rest on one study
+> **Evidence** · 43 claims (27 for, 14 mixed, 2 against) · 56 studies (16 causal, 15 review, 13 quant-synthesis, 5 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 56 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [PCP debriefings lasted longer on average than DISCERN debriefings (18.1 vs 11.1 minutes) in the crossover study](../claims/pcp-debriefs-longer-than-discern.md) [~W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "Choose an institution- and setting-specific PRD tool based on team values, environmental constraints, and desired emotional support".
 - [No significant differences between PCP and DISCERN in ease of use, debrief-process support, improvement opportunities, or participant comfort](../claims/no-significant-difference-pcp-discern-ease-comfort.md) [~W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "Choose an institution- and setting-specific PRD tool based on team values, environmental constraints, and desired emotional support".
 - [The debriefing session enabled bidirectional learning in which participants shared lived experience that identified barriers to resuscitation](../claims/bidirectional-learning-debriefing-non-clinicians.md) [+W] — attached 2026-11-07 from Whittall Jonathan P. et al. (2022), which proposed "Include a debriefing session in simulation protocols used with non-clinicians to consolidate learning and elicit lived-experience feedback".
+- [Stop-and-go debriefing shows no significant difference from post-scenario debriefing in skill acquisition at four weeks in medical simulation training](../claims/stop-and-go-debriefing-no-skill-acquisition-difference.md) [~W] — attached 2026-11-08 from Schober Patrick et al. (2019), which proposed "Tailor the timing of simulation debriefing to participants' needs rather than adhering to a no-interruption protocol".
 
 ## Objective and learner-valued goal
 

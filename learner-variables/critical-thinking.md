@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (152 show a difference, 36 mixed, 23 no difference) · 143 studies (73 causal, 24 review, 16 associational, 9 design, 8 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q3` · 29 of 143 report an effect size · 209 claims rest on one study
+> **Evidence** · 213 claims (153 show a difference, 36 mixed, 24 no difference) · 144 studies (73 causal, 24 review, 17 associational, 9 design, 8 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q3` · 29 of 144 report an effect size · 211 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -252,6 +252,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](../claims/mind-mapping-improves-critical-thinking-disposition-nursing.md) [+M] — measured as an outcome of the instruction studied
 - [Self-reflection and critical thinking scores were significantly positively correlated in first-year nursing students](../claims/self-reflection-critical-thinking-positive-correlation-nursing.md) [+M] — learners who differ on it differ in outcomes
 - [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](../claims/ctdi-cv-no-critical-thinking-improvement.md) [-M] — measured as an outcome of the instruction studied
+- [Critical thinking skills are not significantly related to the academic achievement of nursing students](../claims/critical-thinking-not-related-academic-achievement-nursing.md) [-W] — learners who differ on it differ in outcomes
+- [Senior nursing students earn higher critical thinking total scores than lower-grade peers](../claims/critical-thinking-total-score-increases-educational-level.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

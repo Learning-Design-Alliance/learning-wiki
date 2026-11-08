@@ -50,3 +50,4 @@ Descriptive analysis of the prospective MICU examination survey of documented CC
 - [CCUS examinations performed by trained fellows change patient care plans in the majority of documented cases, suggesting learning transfer](ccus-exams-change-patient-care-plans.md) — related
 - [Critical care medicine fellows improve CCUS proficiency significantly after a 6-month training intervention regardless of training arm](ccus-proficiency-improves-after-6-month-training.md) — related
 - [An additional 8-hour intensive CCUS refresher training provides no statistically significant additional improvement over standard fellowship training in critical care medicine fellows](8h-ccus-refresher-no-additional-benefit.md) — related
+- [Abdominal US was the most common content for teaching basic US skills, and internal medicine and radiology were the disciplines most involved](abdominal-us-most-common-teaching-content.md) — related

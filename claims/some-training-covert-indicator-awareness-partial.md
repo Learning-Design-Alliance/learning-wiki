@@ -50,3 +50,4 @@ Thematic analysis of the some-training group's survey responses: training 'appea
 - [Clinicians with no family violence training most often respond to disclosures by procedural referral to another clinician rather than responding directly](no-training-disclosure-responses-procedural-referral.md) — related
 - [FSA-trained clinicians describe engaging and supporting the patient themselves, in a patient-led manner, before referring on after a disclosure](fsa-trained-patient-led-disclosure-response.md) — related
 - [Prenatal clinicians report lacking confidence and competence in applying TIC principles](tic-lack-confidence-competence-prenatal.md) — related
+- [Communication difficulties with patients and families and the need for emotional support persisted after training and emerged only in the qualitative data, with participants requesting further training modules](pc-training-persisting-unmet-needs.md) — related

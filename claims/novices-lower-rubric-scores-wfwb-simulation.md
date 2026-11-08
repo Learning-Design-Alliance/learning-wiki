@@ -56,3 +56,4 @@ In an independent-measures simulation study of 41 participants (12 novices, 13 i
 - [GRS summed scores and final competency ratings effectively discriminate between experience levels in the simulated cholecystectomy module](chole-vop-grs-final-rating-discriminate-levels.md) — related
 - [VR-based MCQ test scores discriminate significantly between medical students of three different emergency medicine experience levels](vr-mcq-scores-discriminate-experience-levels.md) — related
 - [The Otoskills simulator discriminates among novice, intermediate and expert surgeons at baseline in both performance scores and GRS scores](otoskills-simulator-discriminates-experience-levels.md) — related
+- [Experts self-assess their simulated performance and knowledge significantly higher than novices, whose lower self-ratings may more accurately reflect measured performance](expert-novice-self-assessment-discrepancy.md) — related

@@ -68,3 +68,4 @@ The authors' study of gender norm policing across urban middle schools, reported
 
 ## Related Claims
 - [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](bias-based-harassment-added-harm.md) — a broader claim this one bears on
+- [Higher loneliness scores are associated with higher depression scores and lower social satisfaction among university students](loneliness-depression-social-satisfaction-intercorrelations.md) — related

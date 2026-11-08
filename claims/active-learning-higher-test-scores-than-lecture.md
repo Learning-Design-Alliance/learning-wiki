@@ -3,6 +3,7 @@ type: claim
 title: Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)
 description: Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)
 id: active-learning-higher-test-scores-than-lecture
+aliases: [active-learning-higher-test-of-learning-scores]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` In a randomized crossover experiment, students in active classrooms scored almost half an SD (0.46) higher on multiple-choice tests of learning than students in passive lectures (P < 0.001). [→ Deslauriers L. 2019](#deslauriers-l-2019)
+
+`q3 i?` Students in active classrooms scored almost half an SD (0.46) higher on the test of learning than students in passive lectures (P < 0.001). [→ Deslauriers L. 2019](#deslauriers-l-2019)
 
 ## Evidence
 
@@ -41,7 +45,21 @@ Fixed-effects regression (model 2) on pooled data from a randomized crossover ex
 
 > "In this case, students in active classrooms scored almost half an SD (0.46) higher on the examination. These results are highly significant (P < 0.001)."
 
+<!-- merged 2026-11-08 from active-learning-higher-test-of-learning-scores: that page's entry for this study, which differed from the one above, kept verbatim.
+### Deslauriers L. 2019
+
+Deslauriers L., McCarty L. S., Miller K., Callaghan K., Kestin G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1821936116
+
+`q3 · i?`
+
+Randomized crossover experiment with 149 students in two semesters of calculus-based introductory physics, analyzed with fixed-effects regression models controlling for topic, semester, instructor, and student covariates. The article reports "students in active classrooms scored almost half an SD (0.46) higher on the examination" with P < 0.001; no standardized effect size is printed.
+
+> "Model 2 predicts students’ performance on the TOL. In this case, students in active classrooms scored almost half an SD (0.46) higher on the examination."
+-->
+
 ## Discussion
+
+
 
 ## Related Claims
 
@@ -55,3 +73,4 @@ Fixed-effects regression (model 2) on pooled data from a randomized crossover ex
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related
 - [Active learning supports learning better than passive lectures, yet students' feelings of learning favor lectures](active-learning-felt-learning-paradox.md) — a broader claim this one bears on
+- [Students in active classrooms report a lower feeling of learning than students in passive lectures](active-learning-lower-fol-randomized-crossover.md) — related

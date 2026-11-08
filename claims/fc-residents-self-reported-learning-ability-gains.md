@@ -65,3 +65,4 @@ Anonymous questionnaire completed by all 127 residents (100% response rate) afte
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
 - [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related
 - [Students' self-reported mastery of knowledge improved after the flipped classroom across all four measured knowledge factors](flipped-classroom-knowledge-mastery-improvement-radiology.md) — related
+- [Students rated the FC-TCLEBL class higher than the LBC class on teamwork ability, analytical skills, and problem-solving skills](fc-tclebl-student-questionnaire-skill-ratings.md) — a narrower finding that bears on this claim

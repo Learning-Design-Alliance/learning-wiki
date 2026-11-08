@@ -50,3 +50,4 @@ Tutor evaluation questionnaire using a 5-point Likert scale across seven cohorts
 - [Students' lowest ratings fell in the intra-personal behavior category, indicating a need for further PBL faculty development](intra-personal-behavior-lowest-rated-category.md) — related
 - [Students rated PBL tutors' mean performance ranking above halfway on a 10-point scale, with most tutors ranked in the sufficient range](pbl-tutor-mean-performance-ranking-above-halfway.md) — related
 - [Facilitator questioning during debriefing is perceived as mostly open-ended and encouraging of self-reflection, though perceptions are mixed](open-ended-questioning-perceived-mixed.md) — related
+- [Facilitator preparation was the best-rated item in the survey (M = 9.02), with the teacher's role seen as crucial for initial motivation rather than knowledge transmission](maes-facilitators-best-rated-item.md) — related

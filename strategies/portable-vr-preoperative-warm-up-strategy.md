@@ -47,6 +47,7 @@ The article recommends using a portable, low-cost simulator such as SIMISGEST-VR
 
 - [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 - [Use low-cost finger tracking on a suturing simulator for independent, expert-free training and objective self-assessment of open suturing skills](low-cost-finger-tracking-independent-suturing-assessment-strategy.md)
+- [Use an affordable mobile box simulator with instrument tracking for accessible suturing practice and pre-operative warm-up](eosim-accessible-warmup-training-strategy.md)
 
 ## Examples
 -

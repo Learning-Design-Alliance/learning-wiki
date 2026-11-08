@@ -47,3 +47,4 @@ Grade ratio analysis from official course results (Table 2). Across the five cou
 ## Related Claims
 - [Active learning improved mean course performance by 9% (g = 0.48) across five physics and astronomy courses in a MENA university](active-learning-mena-mean-gain-g048.md) — a broader claim this one bears on
 - [Active learning reduced the failure rate by 66% overall, with students on average 2.98 times more likely to fail under traditional teaching](active-learning-mena-failure-rate-reduction.md) — related
+- [Nearly half of students in active-learning biology courses perceive the course as both easy and hard simultaneously](active-learning-courses-both-easy-and-hard.md) — related

@@ -59,3 +59,4 @@ Proportion of class time devoted to group work 0.04 0.01 **"
 - [Faculty report spending significantly more time on lecture than any other classroom practice in their largest courses, though average lecture time is below 50%.](lecture-dominates-classroom-time.md) — related
 - [Intervention increases behavioral engagement: voluntary responses, evidence-referencing, and discussion time](genai-cbl-behavioral-engagement.md) — related
 - [Instructors in traditional fixed-seat classrooms report more lecture than those in classrooms designed to accommodate group work](fixed-seat-classrooms-more-lecture.md) — related
+- [Generative-instruction classes spend a significantly greater proportion of class time on higher-order cognitive skill questions than active-instruction classes](generative-instructors-more-time-on-hocs.md) — related

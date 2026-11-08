@@ -50,3 +50,4 @@ In the 54-participant within-subject study, situational interest (three items, �
 - [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](targeted-retrieval-improves-targeted-information-retention.md) — related
 - [Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest](holistic-retrieval-improves-non-targeted-information-free-recall-posttest.md) — related
 - [Overall posttest performance does not differ between targeted and holistic retrieval conditions](no-overall-performance-difference-between-retrieval-task-types.md) — related
+- [Situational interest in a PBL session follows a U-shape: it rises after the problem is presented and falls as knowledge closes the gap (knowledge-deprivation hypothesis)](knowledge-deprivation-hypothesis-situational-interest-u-shape.md) — reports the opposite

@@ -49,3 +49,4 @@ Observational engagement tracking via CRM software in a single-cohort pilot of 2
 - [A newsletter issue featuring a specific teaching activity yielded a higher email open rate than previous research-focused content, and teaching-activity content drove engagement](newsletter-teaching-activities-higher-engagement.md) — related
 - [Email nudges did not significantly increase teacher engagement (dashboard logins), though student engagement rose similarly to achievement](teacher-login-engagement-null.md) — related
 - [Only 69% of providers who received the educational slides by email opened them](email-slide-engagement-69-percent-opened.md) — related
+- [Engagement with the online content was high, with 73.5% of the e-learning cohort having ≥80% engagement, and pathogen-focused clinical cases and HCAI material accessed most](high-engagement-pathogen-cases-most-accessed.md) — related

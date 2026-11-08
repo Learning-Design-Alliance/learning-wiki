@@ -75,3 +75,4 @@ Bootstrap post-hoc pairwise comparisons after the significant omnibus ANCOVA. AV
 - [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md) — related
 - [Six weeks of adaptive training produced a significant improvement in subtraction relative to a waiting control group](calcularis-training-significant-subtraction-gains.md) — related
 - [Switch-on Reading produces a small positive impact on reading (+0.24) for Year 7 weak readers in a waiting-list RCT](switch-on-reading-overall-effect-024.md) — related
+- [GPs given a week of access to the Hygie serious game showed a significantly larger pretest-to-posttest knowledge gain at 3 to 5 weeks than GPs given access to the source articles](hygie-dq5-gain-superior-to-article-reading.md) — related

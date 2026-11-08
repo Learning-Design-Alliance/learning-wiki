@@ -58,3 +58,4 @@ Single-group pretest–posttest pilot in which 32 students conducted a 15-minute
 - [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related
 - [Mini-CEX intervention groups achieved significantly higher ward test scores than control groups (Cohen's d = 0.65)](mini-cex-higher-ward-test-scores.md) — related
 - [Experimental-group residents' Mini-CEX scores on all six assessed competencies rose significantly from admission to two and four weeks of training](minicex-scores-improve-two-four-weeks-ultrasound.md) — related
+- [GPs given a week of access to the Hygie serious game showed a significantly larger pretest-to-posttest knowledge gain at 3 to 5 weeks than GPs given access to the source articles](hygie-dq5-gain-superior-to-article-reading.md) — related

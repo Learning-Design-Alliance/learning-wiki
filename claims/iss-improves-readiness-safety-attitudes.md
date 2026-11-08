@@ -53,3 +53,4 @@ Review category 2: nine observational studies (samples where reported 14 to 289 
 - [After implementing collaboratively designed changes (emergency trolley, grab bags, orientation rules), the second in-situ simulation showed smoother, faster emergency care delivery](simlab-second-iss-improved-equipment-access.md) — a narrower finding that bears on this claim
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](simlab-confidence-teamwork-gains.md) — a narrower finding that bears on this claim
 - [In-situ simulation identified latent safety threats in all categories, leading to changes in unit protocols](in-situ-simulation-identifies-latent-safety-threats.md) — related
+- [Participants observed NetworkZ positively changed operating theatre workplace culture, including relationships, communication and speaking up](networkz-improved-ot-workplace-culture.md) — related

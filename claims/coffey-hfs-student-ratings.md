@@ -59,3 +59,4 @@ The review reports Coffey et al.'s survey percentages on high-fidelity simulatio
 - [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related
 - [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
 - [Users of the interactive clinical avatar perceived clinical reasoning skill development to a greater extent than problem-solving or decision-making skill development](avatar-clinical-reasoning-over-lower-skills.md) — related
+- [Interactive e-case questions target three foci: symptom patterns, clinical reasoning, and clinical decision making](e-case-questions-three-foci.md) — related

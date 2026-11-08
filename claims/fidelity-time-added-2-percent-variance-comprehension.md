@@ -50,3 +50,4 @@ Multiple regression with 85 comprehension-needs-only students, controlling QRI-5
 ## Related Claims
 - [Homogeneous comprehension-needs groups spent less time on engaged reader processes but received better-aligned instruction than heterogeneous groups](homogeneous-groups-less-time-better-fidelity-alignment.md) — related
 - [Teachers allocated on average five percent of intervention sessions to predicting and purpose setting, with fidelity of implementation averaging 45.4%](low-time-and-fidelity-engaged-reader-processes.md) — related
+- [Implementation fidelity significantly predicted post-intervention socioemotional comprehension (TEC) scores](fidelity-predicts-tec-post.md) — related

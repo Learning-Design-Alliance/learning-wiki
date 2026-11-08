@@ -54,3 +54,5 @@ Pre-post study of 26 Jagiellonian University medical students with no prior echo
 - [Simulation-trained residents achieve significantly higher total live pediatric TEE performance scores than apprenticeship-trained residents one week after training](simulation-training-higher-live-tee-total-scores.md) — related
 - [Simulation training's advantage is concentrated in the technically demanding views 5–11, with no significant difference on the first four basic mid-esophageal views](simulation-advantage-limited-to-demanding-views-5-11.md) — related
 - [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — a narrower finding that bears on this claim
+- [All three training groups had significantly higher scores in post-training than pre-training TEE examinations, measured within each group from pre-test to post-test](all-groups-improved-pre-to-post-tee-exams.md) — related
+- [Time to complete the practical TEE examination decreased across successive tests in all groups](tee-practical-exam-time-decreased-across-tests.md) — related

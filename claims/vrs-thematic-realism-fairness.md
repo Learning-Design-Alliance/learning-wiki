@@ -53,3 +53,4 @@ Thematic analysis of anonymous open-ended responses from VRS participants, coded
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Students rated the VR-based station similarly to the physical station on most perception items, but showed significant hesitancy toward broader future use of VR in assessments](vrs-acceptance-hesitancy-future-use.md) — related
 - [VR-based and physical OSCE stations testing identical emergency content show comparable item difficulty within the ideal reference range](vrs-item-difficulty-comparable.md) — related
+- [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related

@@ -52,3 +52,4 @@ Comparison of the two fitted SEMs (n = 386): the theory-driven MABC model (Model
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
+- [Neither negative nor positive emotional functioning alone was statistically powerful enough to explain achievement scores independently of the other](single-emotional-dimensions-insufficient-predictors.md) — related

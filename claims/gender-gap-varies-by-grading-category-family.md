@@ -81,3 +81,4 @@ Weighted-points analysis of the same Gradebook data: assessments 4.06 (42.87 vs.
 - [Female medical laboratory sciences students earn significantly higher average final grades than male students in the same courses](female-medical-lab-sciences-students-higher-grades.md) — a narrower finding that bears on this claim
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — a narrower finding that bears on this claim
 - [Women had significantly higher university-wide GPAs than men, with the gap reversing for first-year students](women-higher-university-gpa-level-gender-interaction.md) — related
+- [No gender gap in exam points, but women earned more non-exam points, in the control section](no-gender-gap-exam-points-women-more-nonexam-points.md) — related

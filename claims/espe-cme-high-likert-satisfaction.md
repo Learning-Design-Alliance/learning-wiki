@@ -68,3 +68,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Feedback-driven refinement across three workshops raised overall delegate ratings, which plateaued at a high level](workshop-ratings-improved-across-iterations-plateau.md) — related
 - [Students in an introductory CRE through PBL perceive the course structure, group work, and their learning experience positively, with all survey items averaging over 4.0 out of 5](pbl-cre-students-positive-perceptions.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
+- [Facilitator preparation was the best-rated item in the survey (M = 9.02), with the teacher's role seen as crucial for initial motivation rather than knowledge transmission](maes-facilitators-best-rated-item.md) — a narrower finding that bears on this claim

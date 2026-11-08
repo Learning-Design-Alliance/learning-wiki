@@ -48,3 +48,4 @@ Observational within-participant study in which 39 Year 5 children solved word p
 ## Related Claims
 - [Strategies inferred from MuTAT trace data appear consistent with strategies used on paper for examined students](strategy-consistency-across-mutat-and-paper.md) — related
 - [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — related
+- [The study's evaluation system was limited: paper-and-pencil memory-focused tests could capture only a small part of the difference between groups](paper-pencil-assessment-limits-radiology-study.md) — related

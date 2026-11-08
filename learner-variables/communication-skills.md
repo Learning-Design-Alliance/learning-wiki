@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (119 show a difference, 33 mixed, 25 no difference) · 146 studies (55 causal, 26 review, 25 associational, 20 quant-synthesis, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 22 of 146 report an effect size · 174 claims rest on one study
+> **Evidence** · 177 claims (119 show a difference, 33 mixed, 25 no difference) · 147 studies (56 causal, 26 review, 25 associational, 20 quant-synthesis, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 22 of 147 report an effect size · 173 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.

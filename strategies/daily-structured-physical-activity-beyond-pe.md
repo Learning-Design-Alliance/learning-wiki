@@ -47,6 +47,7 @@ The article recommends that educators and policymakers "prioritize daily opportu
 - [Regular Physical Education (PE) Classes](regular-physical-education-pe-classes.md)
 - [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 - [Implement object-control and stability-skill physical programs, prioritizing lower-grade primary schoolchildren, to support Chinese and mathematics performance](fms-object-control-stability-intervention-strategy.md)
+- [Incorporate varied exercise modalities, including resistance exercise, into school settings to support academic performance and health](varied-exercise-modalities-in-schools-strategy.md)
 
 ## Examples
 -

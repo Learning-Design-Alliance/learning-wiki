@@ -77,3 +77,4 @@ Same mixed-factors ANOVA on final test proportion correct. The article reports "
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — a broader claim this one bears on
 - [Nap benefits for no-feedback retrieval-practice items appear at both 90-minute immediate and 24-hour delayed tests](nap-benefit-nrp-immediate-and-delayed.md) — related
 - [HPL students learned as much as Scratch students, with equivalent improvement in both conditions](hpl-equivalent-learning-outcomes-scratch.md) — related
+- [Cue-integration learning strongly improves recall of a 50-item word list, including cued delayed recall (Experiment 3)](cue-integration-improves-word-list-recall-exp3.md) — related

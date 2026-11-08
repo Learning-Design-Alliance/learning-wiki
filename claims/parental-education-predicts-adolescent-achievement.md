@@ -52,3 +52,4 @@ SEM results section states "the father's educational level and work type appeare
 - [Parental SES context significantly and simultaneously predicts youth verbal ability in Add Health, with mother's education the largest SES coefficient](ses-context-predicts-verbal-ability-add-health.md) — related
 - [Self-regulation level (low/medium/high) differentially predicts self-efficacy, procrastination and achievement, with family socio-educational level also affecting achievement](sr-level-by-family-level-anova-achievement.md) — a broader claim this one bears on
 - [Self-regulation is the most potent personal predictor of academic achievement in Colombian adolescents](self-regulation-strongest-personal-predictor-adolescent-achievement.md) — related
+- [Parents in high and medium bushfire-impact regions had significantly lower Year-12-or-equivalent education rates than in low-impact regions](parental-education-lower-in-high-impact-regions.md) — related

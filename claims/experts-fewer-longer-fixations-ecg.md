@@ -55,3 +55,4 @@ Eye-tracking analysis (Tobii Pro Glasses 2) of the eight-participant pilot showe
 - [Both novice and expert teachers state valid behavioral cues when inferring student profiles, but novices rely more on salient cues such as hand raising and quality of answers](novices-rely-on-salient-cues-hand-raising.md) — related
 - [Blink rate decreases with ophthalmology experience, though PGY4 residents show a higher blink rate than PGY3s](blink-rate-decreases-with-experience-pgy4-anomaly.md) — related
 - [The more experienced radiologist showed a more uniformly distributed visual search pattern across the chest x-ray, while the less-experienced radiologist focused on regions suspected of abnormality](faculty-uniform-versus-trainee-focused-search-pattern.md) — related
+- [Expert anesthetists make more total fixation points than residents while viewing a simulated PPH video](experts-more-fixation-points-pph-video.md) — related

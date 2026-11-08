@@ -50,3 +50,4 @@ Randomized comparison of two training groups: 130 completers with in-person feed
 - [Participants trained with Lapp showed more homogeneous procedural completion times, though no significant differences in procedural times between groups](lapp-more-homogeneous-procedural-times.md) — related
 - [High drop-out: 54% of the in-person group and 70% of the Lapp group did not complete the training course](lapp-high-drop-out-rates.md) — related
 - [Asynchronous and synchronous online formats produce equal post-training knowledge in a two-hour psychiatric emergency course](equal-knowledge-async-sync-online-formats.md) — a broader claim this one bears on
+- [Remote MTU training produced procedural performance gains comparable to face-to-face training, with no significant difference between the two delivery modes](mtu-remote-training-comparable-shows-how.md) — related

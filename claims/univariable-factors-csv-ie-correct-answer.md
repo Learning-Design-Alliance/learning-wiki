@@ -49,3 +49,4 @@ Univariable logistic regression reported in Supplementary file 1 and summarized 
 - [Higher annual emergency outpatient volume and PGY-2 status independently predicted correct CSV-IE diagnosis, while university hospital training predicted lower likelihood](multilevel-factors-csv-ie-correct-answer.md) — related
 - [In multivariable analysis, region of medical school graduation was not associated with GM-ITE total score, while postgraduate year, night shifts, and assigned inpatient caseload were](gm-ite-multivariable-region-not-associated-caseload-associated.md) — related
 - [Longer daily self-study time and higher postgraduate year are associated with higher GM-ITE scores](self-study-time-pgy2-associated-with-gmite.md) — related
+- [Higher-ability examinees are more likely than lower-ability examinees to change answers from wrong to right](higher-ability-more-wrong-to-right-changes.md) — related

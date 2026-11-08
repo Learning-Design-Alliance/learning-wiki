@@ -47,3 +47,4 @@ Theoretical framework exposition (type d, definitional). The review presents the
 ## Related Claims
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — a narrower finding that bears on this claim
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — a narrower finding that bears on this claim
+- [BME students report that social networks provide access to learning resources and that isolation from such networks disadvantages them](bme-students-social-networks-resources.md) — a narrower finding that bears on this claim

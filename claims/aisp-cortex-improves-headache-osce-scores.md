@@ -68,3 +68,4 @@ Single-group pre-post study of 25 third-year medical students completing a one-w
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
 - [Previous voluntary history-taking group participation is associated with better self-rated conversational structure](history-taking-groups-better-self-rated-structure.md) — related
+- [Second-year medical students taking a PIDD OSCE question after simulation scored modestly but statistically significantly higher than students taking it before simulation](post-simulation-osce-scores-higher-pidd.md) — related

@@ -51,3 +51,4 @@ Content validity questions on 5-point Likert scales in the same 26-respondent su
 - [Expert surgeons confirmed strong content validity, with all items receiving mean scores above 4.0](content-validity-expert-ratings-ldsrs-model.md) — related
 - [Novice laparoscopic fetal surgeons reached competency in the model after 33 consecutive procedures, a number comparable to clinical fSBA-repair learning curves](rabbit-fsba-model-criterion-validity-33-cases.md) — related
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
+- [Sim-OSSCAR shows strong face and content validity as rated by international expert surgeons](sim-osscar-face-content-validity.md) — related

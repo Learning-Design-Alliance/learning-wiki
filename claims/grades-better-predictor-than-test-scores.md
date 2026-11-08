@@ -80,3 +80,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — related
 - [Secondary-school background strongly predicts university GPA, with technical/vocational students trailing liceo students](school-background-predicts-university-gpa.md) — related
 - [The selected sample shows higher examination performance (ES = .23) than Year grade difference (ES = .06), indicating standardized examinations discriminate achievement better than teacher grades](examination-versus-year-grade-discrimination.md) — reports the opposite
+- [High school grade point average is the best predictor of first-term academic success (API) across all five analyzed science degrees](high-school-gpa-best-predictor-api-science-degrees.md) — a narrower finding that bears on this claim

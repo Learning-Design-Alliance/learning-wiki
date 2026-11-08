@@ -75,3 +75,4 @@ In Theme 3, trainees requested multiple scenarios per simulator, consequences fo
 - [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related
 - [Educators and trainees expressed remarkably similar views, with trainees emphasising logbooks, protected time, scenario complexity and feedback detail](educator-trainee-response-similarity.md) — related
 - [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related
+- [High-quality manikins and bespoke surgical models engaged all disciplines, including surgeons, in in situ simulations](high-fidelity-models-engage-all-disciplines.md) — related

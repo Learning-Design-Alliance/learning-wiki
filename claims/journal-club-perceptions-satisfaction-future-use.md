@@ -55,3 +55,4 @@ Descriptive results from the perception/attitude and feedback domains of the pos
 - [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related
 - [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
+- [The 6D-approach flipped teaching with mentored journal clubs received approximately 89% student satisfaction in the MBPG course](6d-approach-high-student-satisfaction.md) — related

@@ -118,3 +118,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [Blended learning produced higher total knowledge scores than didactic teaching and web-based e-learning in a clinical research module](bl-higher-knowledge-score-than-dt-wel.md) — related
 - [Students in an integrated PBL pharmacology/CPT programme had significantly higher prescribing knowledge scores than students in a traditional programme](pbl-programme-higher-prescribing-knowledge.md) — related
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related
+- [PACS-based experiential education yields significantly higher image description and diagnosis scores than traditional radiology teaching, with no significant difference in total or MCQ scores](pacs-experiential-higher-diagnosis-scores.md) — related

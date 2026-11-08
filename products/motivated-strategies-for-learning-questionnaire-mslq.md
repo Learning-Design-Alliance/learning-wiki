@@ -13,7 +13,7 @@ generated:
 # Motivated Strategies for Learning Questionnaire (MSLQ)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The MSLQ is Pintrich and colleagues' self-report assessment of students' motivation and learning-strategy use, comprising motivation and self-regulated-learning scales for college and high-school learners.
@@ -26,6 +26,7 @@ The MSLQ is Pintrich and colleagues' self-report assessment of students' motivat
 
 ### Claims
 - [Collaborative learning with self-assessment promotes higher self-regulated learning strategies than traditional teaching in high-school geometry](../claims/collaborative-self-assessment-raises-self-regulation-geometry.md) [+M]
+- [Across 20 studies using contemporary AGT/SDT constructs, PBL showed a near-zero effect (d = 0.022) on students' intrinsic or extrinsic motives for studying](../claims/pbl-near-zero-effect-contemporary-motivation-constructs.md) [+M]
 
 ## Related Products and Programmes
 
@@ -44,3 +45,4 @@ The MSLQ is Pintrich and colleagues' self-report assessment of students' motivat
 - Ali Hatami. (2015). The effect of collaborative learning and self-assessment on self-regulation. Educational Research and Reviews. https://doi.org/10.5897/ERR2015.2349
 - Yalçınkaya, E., Boz, Y., & Erdur-Baker, Ö. (2012). Is case-based instruction effective in enhancing high school students' motivation toward chemistry? Science Education International, 23(2), 102-116. https://eric.ed.gov/?id=EJ970613
 - Stavropoulou G, Daniilidou A, Nerantzaki K. (2025). Exploring the Interplay of Motivation, Self-Efficacy, Critical Thinking, and Self-Regulation in Predicting Academic Achievement Among University Students. F1000Research 14:344. https://doi.org/10.12688/f1000research.161821.1
+- Wijnia, L. & Servant-Miklos, V. F. C. (2019). Behind the times: a brief history of motivation discourse in problem-based learning. Advances in Health Sciences Education, 24(5), 915–929. https://doi.org/10.1007/s10459-019-09923-3

@@ -60,3 +60,4 @@ Multilevel meta-analysis of cross-sectional (k = 35) and longitudinal (k = 8) ob
 - [Participation in organized PA/sports at ages 5.5 and 8 years is associated with higher executive function, and at age 8 years with higher academic achievement](organized-sports-favorable-executive-function-academic.md) — related
 - [A 2-hour after-school outdoor physical activity program significantly improves overall physical fitness scores compared with free after-school time](after-school-physical-activity-improves-physical-fitness.md) — related
 - [Muscular strength, flexibility and overall fitness show no significant association with general intelligence in adolescents](strength-flexibility-not-associated-with-intelligence.md) — related
+- [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — a narrower finding that bears on this claim

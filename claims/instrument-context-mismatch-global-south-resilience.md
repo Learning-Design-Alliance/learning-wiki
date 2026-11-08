@@ -50,3 +50,4 @@ The review's RQ4 synthesis reports that "only five (22.7%) reported cultural ada
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
 - The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context — related
 - [There is a lack of standardized, culturally adapted, psychometrically robust assessment tools tailored to postgraduate mental health nursing](lack-standardized-culturally-adapted-postgraduate-mhn-tools.md) — related
+- [Both dominant PBL discourses perpetuate neo-colonialist views and practices in health professions education](pbl-discourses-perpetuate-neocolonialism.md) — related

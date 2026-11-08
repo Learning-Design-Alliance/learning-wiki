@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 282 claims (151 show a difference, 65 mixed, 66 no difference) · 211 studies (95 associational, 81 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 211 report an effect size · 281 claims rest on one study
+> **Evidence** · 283 claims (152 show a difference, 65 mixed, 66 no difference) · 212 studies (96 associational, 81 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 212 report an effect size · 282 claims rest on one study
 
 ## How to read this page
 
@@ -367,6 +367,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Family income shows no association with academic performance in this sample once governmental class and other covariates are controlled](../claims/family-income-null-academic-performance-india.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Socioeconomic status and epilepsy-related clinical variables show no significant effect on cognitive test scores in this sample](../claims/clinical-variables-no-cognitive-effect.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [High GPS partially compensates for low SES: 47% of high-GPS/low-SES children attended university](../claims/high-gps-compensates-low-ses-university.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sociodemographic disadvantage indicators relate to lower Math and Science grades](../claims/disadvantage-lower-math-science-grades.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

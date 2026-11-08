@@ -55,3 +55,4 @@ Cross-lagged SEM on the CEPS sample controlling for individual-, family-, school
 - [Parental involvement has a significant positive direct effect on middle school students' mathematics performance](parental-involvement-direct-effect-math-performance.md) — related
 - [Parental behavioral control in Grade 7 negatively predicts Grade 8 academic performance in Chinese early adolescents](behavioral-control-negatively-predicts-performance.md) — related
 - [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — a broader claim this one bears on
+- [Parental academic support and involvement predict child academic achievement](parental-academic-support-predicts-child-achievement.md) — related

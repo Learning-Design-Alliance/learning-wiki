@@ -46,3 +46,4 @@ Criterion-validity SEM with a sample of 1248 university students, using the Span
 
 ## Related Claims
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
+- [Negative emotions negatively predict self-motivation, but their path to resilience is not statistically significant in the SEM](negative-emotions-motivation-resilience-null-path.md) — related

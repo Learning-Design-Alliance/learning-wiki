@@ -55,3 +55,5 @@ Structural equation modelling of survey data from 518 Chinese university student
 - [Structural paths differ between undergraduate and postgraduate students, but the indirect mediating effects do not differ significantly](multigroup-paths-differ-indirect-similar.md) — related
 - [The resilience resources factor directly predicts greater mental well-being and higher university adjustment after controlling for personality, intelligence, and financial and living factors](resilience-resources-predict-wellbeing-adjustment.md) — related
 - [Emotional intelligence positively predicts academic performance among secondary students (β = 0.42, p < 0.001)](ei-positively-predicts-academic-performance-adolescents.md) — related
+- [Emotional intelligence is positively associated with positive emotions, self-determined motivation, resilience, academic performance and intention to be physically active among PE students](ei-positive-associations-pe-outcomes.md) — related
+- [Resilience positively predicts self-motivation towards PE classes](resilience-predicts-self-motivation.md) — related

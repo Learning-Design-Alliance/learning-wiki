@@ -70,3 +70,4 @@ T2 follow-up comparison of total scores in the same study; the overall competenc
 - [Prescription competency improved after the lecture but returned to nearly baseline level at two-month follow-up](prescription-competency-decays-to-baseline.md) — a narrower finding that bears on this claim
 - [The experiential learning program improves patient health engagement at the immediate posttest, but the difference is no longer significant 3 months later](elt-ehealth-program-patient-engagement-mixed.md) — related
 - [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related
+- [Speechreading training produces short-term vocabulary gains at immediate post-test that are not sustained at later follow-ups](speechreading-training-short-term-vocabulary-gains.md) — a narrower finding that bears on this claim

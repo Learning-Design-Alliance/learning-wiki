@@ -70,3 +70,5 @@ Same manikin study comparing students who had administered real-life compression
 - [Prior BLS training is independently associated with higher BLS knowledge/practice scores among Gaza healthcare workers](prior-bls-training-higher-scores-gaza.md) — related
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [Prior experience observing or assisting neurosurgical cases did not predict the extent of mOSATS improvement at the workshop](prior-experience-does-not-predict-simulation-improvement.md) — related
+- [A 2-hour BLS and AED course with an interactive lecture and practical workshop significantly improved schoolchildren's knowledge, with the largest gain on how basic life support is correctly performed (r = 0,71 in Study 1)](bls-aed-course-improves-schoolchildren-knowledge.md) — related
+- [Previous attendance at a BLS or AED course had no significant effect on knowledge test scores, and the test is applicable regardless of baseline knowledge](prior-bls-course-no-effect-on-test-score.md) — related

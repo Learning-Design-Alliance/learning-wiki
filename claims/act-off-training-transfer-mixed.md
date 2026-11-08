@@ -74,3 +74,4 @@ Post-hoc simple-effects analysis of the same off-training lab battery: experimen
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
 - [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — a broader claim this one bears on
 - [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — related
+- [Both study groups progressed in training performance across sessions, with larger gains in healthy older adults in most modules except attention](both-groups-progress-in-training-healthy-larger-gains.md) — related

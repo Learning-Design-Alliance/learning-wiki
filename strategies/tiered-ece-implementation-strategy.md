@@ -136,6 +136,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Teach with simulated patients before bedside teaching in pain-medicine training](simulation-before-bedside-teaching-strategy.md)
 - [Multi-level preparation strategy for converting SP cases to digital delivery](sp-case-digital-conversion-preparation-strategy.md)
 - [Develop dedicated online competency modules combined with blended learning and telehealth interactions for clinical skills](blended-learning-telehealth-modules-optometry-strategy.md)
+- [Supervised small-group seminars with simulated patients for communicative-skill training with patient-view feedback](simulated-patient-seminar-feedback-strategy.md)
 
 ## Examples
 -

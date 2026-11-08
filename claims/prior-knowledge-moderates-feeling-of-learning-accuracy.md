@@ -3,6 +3,7 @@ type: claim
 title: Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)
 description: Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)
 id: prior-knowledge-moderates-feeling-of-learning-accuracy
+aliases: [prior-knowledge-moderates-fol-accuracy]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` A nonlinear interaction term in the test-of-learning model showed a moderately significant (P < 0.05) positive interaction between FCI-measured prior knowledge and feeling of learning. [→ Deslauriers L. 2019](#deslauriers-l-2019)
+
+`q3 i?` A moderately significant positive interaction (P < 0.05) between FCI background knowledge and FOL indicates students with more prior expertise had a stronger correlation between feeling of learning and test performance. [→ Deslauriers L. 2019](#deslauriers-l-2019)
 
 ## Evidence
 
@@ -41,9 +45,24 @@ A nonlinear interaction term added to the test-of-learning regression model in t
 
 > "We found a moderately significant (P < 0.05) interaction between students’ background physics knowledge as measured by the FCI and their FOL as measured by question 2: “I feel like I learned a great deal from this lecture.”"
 
+<!-- merged 2026-11-08 from prior-knowledge-moderates-fol-accuracy: that page's entry for this study, which differed from the one above, kept verbatim.
+### Deslauriers L. 2019
+
+Deslauriers L., McCarty L. S., Miller K., Callaghan K., Kestin G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1821936116
+
+`q3 · i?`
+
+Secondary analysis adding a nonlinear interaction term to the TOL regression model in the randomized crossover study. The article reports a "moderately significant (P < 0.05) interaction" with a positive sign; no effect size is printed.
+
+> "We found a moderately significant (P < 0.05) interaction between students’ background physics knowledge as measured by the FCI and their FOL as measured by question 2: “I feel like I learned a great deal from this lecture.”"
+-->
+
 ## Discussion
 
+
+
 ## Learner Variables
+
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims

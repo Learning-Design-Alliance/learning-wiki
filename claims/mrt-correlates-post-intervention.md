@@ -52,3 +52,4 @@ Kendall's tau B correlation analysis in the 38-student cohort: MRT scores correl
 - [MRT scores did not correlate with one-week long-term brainstem test scores](mrt-no-long-term-correlation.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — a broader claim this one bears on
 - [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related
+- [Mental rotation ability moderated elective-course gains: Theory-group students with high MRT scores improved significantly more than low-MRT peers, while Magic Mirror improvement was independent of MRT score.](mrt-moderates-anatomy-radiology-gains.md) — related

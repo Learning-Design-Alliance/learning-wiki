@@ -57,3 +57,4 @@ Same postsimulation survey (110 respondents). Figure 6 reports mean perceived-im
 - [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
 - [All participants agreed the VR simulation would benefit their future clinical practice, and several valued the safe learning environment for attempting risky communication.](vr-safe-environment-perceived-benefits.md) — related
 - [Most learners thought they would be able to apply the knowledge in practice, though fewer for module 5 than modules 1-4](most-learners-could-apply-knowledge-in-practice.md) — related
+- [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — a broader claim this one bears on

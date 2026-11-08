@@ -77,3 +77,4 @@ Responses to the statement "Without Facebook I would be lonely": "only 3 per cen
 - [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related
 - [Students reported moderate to high digital readiness while valuing face-to-face instructor contact](students-moderately-highly-digitally-ready.md) — related
 - [Social support from family, friends, peers and seniors was a universally reported positive factor for international medical students' academic success](international-student-social-support-factor.md) — related
+- [Higher loneliness scores are associated with higher depression scores and lower social satisfaction among university students](loneliness-depression-social-satisfaction-intercorrelations.md) — related

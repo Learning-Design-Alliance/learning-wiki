@@ -57,3 +57,4 @@ Linear regression and Pearson correlation analysis of MRT-A scores against compe
 - [Remote one-to-one procedural training via HoloLens 2 was feasible, with no tutorials cancelled for technology issues](hololens-remote-procedural-training-feasible.md) — related
 - [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](mrt-no-correlation-suturing-improvement.md) — related
 - [Mental Rotations Test scores positively correlated with post-intervention brainstem knowledge scores](mrt-correlates-post-intervention.md) — related
+- [Mental rotation ability moderated elective-course gains: Theory-group students with high MRT scores improved significantly more than low-MRT peers, while Magic Mirror improvement was independent of MRT score.](mrt-moderates-anatomy-radiology-gains.md) — reports the opposite

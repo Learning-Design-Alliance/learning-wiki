@@ -105,3 +105,5 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [The 3D feature is rated as moderately interesting relative to 2D video, with no difference between novice and experienced groups](3d-feature-moderate-added-interest.md) — related
 - [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
 - [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — related
+- [Across 21 reviewed studies, 3D visualization methods were significantly more effective than traditional methods for learning anatomy in twelve studies, while nine found no significant advantage](3d-visualization-more-effective-anatomy-review.md) — related
+- [Virtual reality anatomy learning showed no consistent advantage: three of four reviewed VR studies favored VR over books, but one found no advantage over static 2D depictions](virtual-reality-anatomy-no-consistent-advantage.md) — related

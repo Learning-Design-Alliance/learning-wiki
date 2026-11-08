@@ -64,3 +64,4 @@ Model 1 of the crossed-random effects analysis tested five child predictors; Tab
 - [Initial word reading skill interacted with imageability: the poorest readers needed nearly 4 more exposures for low-imageability words than stronger readers](swe-imageability-interaction-exposures.md) — related
 - [Word reading task measures of O-P and imageability reliance predict intervention gains beyond vocabulary, phonological awareness, rapid naming, and auditory attention](op-imageability-unique-predictors-of-gains.md) — related
 - [AVG training effects are specific to phonemic awareness, with no significant gains in phonological working memory or rapid automatized naming](avg-training-null-pwr-ran.md) — related
+- [Condition and initial ability are the strongest predictors of gain scores; trained children with lower initial ability, and trained higher-ability children with lower auditory working memory, improved most](predictors-of-dynamic-testing-gains.md) — related

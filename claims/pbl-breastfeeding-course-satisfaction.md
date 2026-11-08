@@ -46,3 +46,4 @@ End-of-course evaluation questionnaires using a 5-point Likert scale were comple
 
 ## Related Claims
 - [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](pbl-positive-student-feedback-survey.md) — related
+- [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related

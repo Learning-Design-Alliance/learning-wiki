@@ -50,3 +50,4 @@ Quasi-experimental comparison of four course offerings (non-CBL n=86, CBL n=103)
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
 - [MOOC-HFS blended model promotes deep learning approaches without changing surface learning on R-SPQ-2F](mooc-hfs-promotes-deep-learning-approaches.md) — related
+- [Controlled e-learning cases promote student satisfaction and are suggested for burnout prevention (second-hand reports)](elearning-cases-satisfaction-burnout-prevention.md) — related

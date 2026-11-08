@@ -65,3 +65,4 @@ Narrative synthesis of longitudinal studies (e.g. Clark et al. 2013; Fuhs et al.
 - [Horseback-riding hours and age significantly predict executive functions](riding-hours-predict-ef.md) — related
 - [EF Touch performance at kindergarten entry longitudinally predicts later math achievement at kindergarten exit in autistic kindergartners](ef-touch-entry-predicts-exit-math.md) — a narrower finding that bears on this claim
 - [Behavioral self-regulation and working memory, but not short-term memory, partially mediate the relation between early and later math skills](self-regulation-working-memory-partially-mediate-early-later-math.md) — related
+- [Neither the SEMLA nor the DIL intervention produced measurable effects on preschool children's language, communication, executive functions, socioemotional comprehension, or early math skills](semla-dil-preschool-intervention-null-effects.md) — related

@@ -53,3 +53,4 @@ In the same PROCESS mediation analysis (model 4, bootstrap of 10,000 samples), "
 - [Satisfaction/enjoyment with PE mediates the relation between perceived autonomy support and PE academic performance](enjoyment-mediation-autonomy-support-pe-performance.md) — related
 - [Autonomy support predicts enjoyment but not boredom, and enjoyment predicts PE grades, in the mediation model](mediation-model-paths-enjoyment-boredom-pe-grades.md) — related
 - [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](boredom-negative-mediation-tcb-eap.md) — related
+- [Boredom with school subjects does not significantly predict academic grades](subject-boredom-does-not-predict-grades.md) — related

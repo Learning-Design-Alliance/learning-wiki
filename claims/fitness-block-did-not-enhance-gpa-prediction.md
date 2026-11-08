@@ -53,3 +53,4 @@ Hierarchical regression block comparison from block 2 to block 3 in the Results 
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [GPA correlates positively and significantly with almost all motor competence and physical fitness measures but negatively with BMI in young school-aged children](gpa-correlates-positively-motor-competence-fitness-negatively-bmi.md) — related
 - [Boys and girls showed no significant differences in GPA or any motor competence or fitness measure](no-gender-differences-gpa-motor-fitness.md) — related
+- [The change in motor skills has a borderline significant association with the change in academic achievement.](motor-skills-change-gpa-borderline.md) — related

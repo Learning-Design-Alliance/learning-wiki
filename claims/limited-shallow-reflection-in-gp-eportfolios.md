@@ -48,3 +48,4 @@ Quantitative content analysis of 90 GP trainee e-portfolios, rated with a litera
 - [Learning goals in GP trainee e-portfolios lack specificity but are mostly challenging and mutually congruent](goal-specificity-low-challenge-high-in-eportfolios.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — a broader claim this one bears on
 - [About three-quarters of GP trainee e-portfolios show signs of monitoring, but in a third of these cases monitoring is limited to a single feedback request](monitoring-signs-in-three-quarters-of-eportfolios.md) — related
+- [E-portfolio content analysis shows groups addressed conceptualisation, practicality, and knowledge application in CBR](eportfolios-show-conceptualisation-practicality-application.md) — related

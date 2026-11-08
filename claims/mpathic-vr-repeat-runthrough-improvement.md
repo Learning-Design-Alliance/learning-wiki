@@ -72,3 +72,5 @@ Repeated-measures ANOVA on the interprofessional scenario in the same trial. Sco
 - [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](vr-practice-sessions-reduce-state-anxiety.md) — related
+- [MPathic scores improved significantly from the first to the second run-through of each scenario after automated feedback](mpathic-scores-improve-after-feedback-repeat.md) — possibly the same claim (merge candidate)
+- [Medical students who trained with the MPathic-VR virtual human simulation scored significantly higher on an OSCE than control students](mpathic-vr-improves-osce-communication-scores.md) — related

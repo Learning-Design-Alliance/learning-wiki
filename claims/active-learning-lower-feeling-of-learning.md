@@ -68,3 +68,4 @@ Fixed-effects regression (model 1) predicting composite feeling-of-learning z sc
 - [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — possibly the same claim (merge candidate)
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — a broader claim this one bears on
+- [Students in active classrooms report a lower feeling of learning than students in passive lectures](active-learning-lower-fol-randomized-crossover.md) — possibly the same claim (merge candidate)

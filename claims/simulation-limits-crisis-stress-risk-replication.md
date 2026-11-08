@@ -51,3 +51,4 @@ Thematic analysis of interviews: "participants acknowledged its limitations in r
 - [Included studies acknowledge OSS cannot fully reproduce the lived experience of people with obesity](oss-cannot-replicate-lived-experience.md) — related
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related
+- [Using real trocars in the box imposes the same positioning, visibility and movement-limitation challenges as real surgery](real-trocars-real-surgery-challenges.md) — related

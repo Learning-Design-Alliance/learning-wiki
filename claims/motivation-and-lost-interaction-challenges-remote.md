@@ -108,3 +108,5 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Most dental students reported missing educational experiences as a result of the COVID-19 lockdown](students-missed-educational-experiences-lockdown.md) — related
 - [Most participants judged telesimulation as offering fewer training opportunities than face-to-face instruction, citing technical difficulties most often](telesimulation-perceived-disadvantages.md) — related
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
+- [Instructors give feedback most often in learning groups during course sessions (71%) and almost never via learning platforms (89% never)](feedback-situations-learning-groups-dominant.md) — related
+- [Fifty-five percent of instructors desire further training, collaboration or information on feedback](majority-desire-feedback-training.md) — related

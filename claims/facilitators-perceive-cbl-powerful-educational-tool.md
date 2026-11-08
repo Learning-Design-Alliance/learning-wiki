@@ -49,3 +49,4 @@ In the merged results-and-discussion of the IPA interview study, facilitators re
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
 - [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related
+- [Resistance from specific stakeholders who believed traditional teaching superior to flipped teaching emerged despite preparation](stakeholder-resistance-flipped-teaching.md) — related

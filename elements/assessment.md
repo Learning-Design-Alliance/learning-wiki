@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 40 claims (18 for, 19 mixed, 3 against) · 36 studies (11 causal, 8 review, 6 quant-synthesis, 6 design, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 36 report an effect size · 38 claims rest on one study
+> **Evidence** · 41 claims (18 for, 20 mixed, 3 against) · 37 studies (11 causal, 8 review, 6 quant-synthesis, 6 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 37 report an effect size · 39 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -91,6 +91,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Student self-assessments and faculty evaluations of patient care domains diverge, with self-reported scores generally lower than faculty-assigned scores](../claims/self-assessment-faculty-score-discrepancy-dental-rotations.md) [~W] — attached 2026-11-07 from Shukla A (2025), which proposed "Community-Based Dental Education (CBDE) rotation assessment toolkit: five patient care domains on a five-point Likert scale".
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](../claims/ai-almost-perfect-agreement-peg-transfer-assessment.md) [+W] — attached 2026-11-07 from Belmar Francisca et al. (2022), which proposed "AI assessment algorithm for basic laparoscopic simulation exercises (U-net and YOLO v4)"; tests this page's relationship.
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](../claims/ai-moderate-agreement-bean-drop-assessment.md) [~W] — attached 2026-11-07 from Belmar Francisca et al. (2022), which proposed "AI assessment algorithm for basic laparoscopic simulation exercises (U-net and YOLO v4)"; tests this page's relationship.
+- [Common OSCE and Management Viva assessor biases such as familiarity with the student were not observed in this rural-campus cohort](../claims/examiner-familiarity-bias-not-observed.md) [~W] — attached 2026-11-08 from Shulruf Boaz et al. (2019), which proposed "OBM2 borderline-performance moderation method for OSCE and Management Viva examiner marks".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

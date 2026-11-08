@@ -75,3 +75,5 @@ Same study, results section: the hybrid implementation had a countervailing enha
 - [PBL approaches consistently enhance EFL student engagement, motivation, and active involvement in learning](pbl-enhances-efl-engagement-motivation.md) — related
 - [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](vpbl-equally-effective-as-text-based-pbl.md) — related
 - [Student-centered approaches yield enhanced teaching readiness, academic performance, engagement, and self-assessment abilities](student-centered-approach-multiple-advantages.md) — a broader claim this one bears on
+- [Cultural factors shape PBL processes, experiences and outcomes, requiring careful consideration in implementation](cultural-factors-shape-pbl-processes.md) — related
+- [The Danish PBL model exhibits higher student self-direction and stronger contextualization than the McMaster and Maastricht models, but isolation still occurs within it.](danish-pbl-model-higher-self-direction-contextualization.md) — related

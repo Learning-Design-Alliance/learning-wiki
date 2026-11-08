@@ -54,6 +54,7 @@ The article recommends assessing robotic surgical skill with multiple complement
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 - [Use performance thresholds that meaningfully measure surgeon performance alongside standardized terminology when assessing surgical learning curves](meaningful-thresholds-standardized-terminology-learning-curves.md)
 - [Use validated EEG and eye-tracking models to provide objective, expert-free performance and learning-rate feedback in surgical residency training](eeg-eye-tracking-objective-ras-training-assessment.md)
+- [Use eye tracking and neurophysiological measures to assess expertise and human factors in simulated medical emergencies](eye-tracking-assessment-simulated-emergencies.md)
 
 ## Examples
 -

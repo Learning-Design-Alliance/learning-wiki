@@ -52,6 +52,7 @@ Students and authors propose concrete, feasible adaptations rather than direct a
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 - [Key considerations and proposed strategies for better CBL implementation in applied physiology](cbl-implementation-improvement-strategies-applied-physiology.md)
+- [Use clinically contextualised online e-learning cases to support didactic teaching in content-heavy preclinical subjects](online-cases-support-didactic-content-heavy-teaching.md)
 
 ## Examples
 -

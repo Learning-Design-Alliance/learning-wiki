@@ -47,3 +47,5 @@ This is the authors' interpretation of the questionnaire results and their devic
 
 ## Related Claims
 - [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
+- [The homemade laparoscopic simulator can be built for US$ 75.00, reducible to US$ 60.00 without internal lighting](simulator-cost-75-dollars.md) — related
+- [The simulator offers ambient-light operation, recording for movement analysis, and external three-dimensional observation of the surgeon's movements](simulator-recording-and-observation-advantages.md) — related

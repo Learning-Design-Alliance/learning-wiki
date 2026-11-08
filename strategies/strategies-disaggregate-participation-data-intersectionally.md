@@ -43,6 +43,7 @@ This strategy operationalizes EQUIP data for equity analysis: record low-inferen
 - [Equity Audits](equity-audits.md)
 - [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
 - [Disaggregate student outcome data by demographic variables when evaluating educational interventions](disaggregate-outcomes-by-demographics-strategy.md)
+- [Use graph theory talk-turn analysis to inform equitable classrooms and give students feedback on group contribution](graph-analysis-equity-assessment-strategy.md)
 
 ## Examples
 -

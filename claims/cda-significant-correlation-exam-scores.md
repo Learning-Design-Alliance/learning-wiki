@@ -50,3 +50,4 @@ Pearson correlation analysis comparing CDA results with end-of-trimester written
 - [CDA3 correlates with OSCE Procedural stations but not with OSCE Communication stations](cda3-osce-procedural-not-communication.md) — related
 - [No significant correlation between Diagnostic Thinking Inventory scores and assessment scores](dti-o-no-correlation-with-assessments.md) — related
 - [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — related
+- [Key-Feature Problems with Long Menu show higher reliability and higher OSCE correlations than context-rich Single Best Answer questions, with no difference in difficulty](kfp-long-menu-higher-reliability-osce-correlation-than-crsba.md) — related

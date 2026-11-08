@@ -66,3 +66,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related
 - [Students’ learning outcomes did not differ significantly in their pre-test-to-post-test changes by gender, age, admission type, or residency status across the two teaching methods in one study without a comparison group](background-characteristics-not-moderating-e-learning-outcomes.md) — related
 - [Perceived stress was not significantly related to any measured student, instructor or clinical-environment characteristic](no-significant-stress-characteristic-relationships.md) — related
+- [Academic achievement rises with educational level but is not significantly related to age or marital status](gpa-increases-educational-level-nursing.md) — related

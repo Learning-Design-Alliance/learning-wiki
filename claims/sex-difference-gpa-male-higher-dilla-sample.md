@@ -54,3 +54,4 @@ Results summary of the Dilla University study (n = 30; 20 males, 10 females). De
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
 - [Male nursing students scored slightly higher GPA than female students in this sample](male-students-higher-gpa-sample.md) — possibly the same claim (merge candidate)
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — reports the opposite
+- [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — reports the opposite

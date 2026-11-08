@@ -65,3 +65,4 @@ The implementation study reports that "Colleges are adopting new technology plat
 - [A 4-year public institution deployed personalized learning software at scale in College Algebra and used large-scale platform data for continuous improvement rather than acquisition decisions](action-lab-scale-deployment-continuous-improvement.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — related
 - [JCC faculty used crossword puzzles and forums on the college's EMES electronic platform, and rated the language labs satisfactory](jcc-faculty-emes-crossword-forum-language-labs.md) — related
+- [Sustaining a strengthened PE program in high-stakes academic settings is difficult, and discontinuation erodes its academic benefits](pe-program-sustainability-challenge-exam-pressure.md) — a narrower finding that bears on this claim

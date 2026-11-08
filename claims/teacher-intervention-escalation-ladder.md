@@ -50,3 +50,4 @@ Qualitative interview finding (RQ2). Proactive teaching belonged almost entirely
 - [Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points](reactive-fof-time-cost-fewer-opportunities.md) — related
 - [Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm](teachers-jurisdiction-tests-visibility-academic-safety.md) — related
 - [Experts respond to classroom events predictively and proactively via precursor detection, while novices are either unaware or reactively aware](expert-predictive-novice-reactive-decisions.md) — related
+- [Struggling learners rarely self-refer accurately to remediation, and students who accept remediation show longer-term test-taking improvement than those who decline, supporting proactive intervention](struggling-learners-inaccurate-self-referral.md) — related

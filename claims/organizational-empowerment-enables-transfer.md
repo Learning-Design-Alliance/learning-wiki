@@ -61,3 +61,4 @@ Qualitative descriptive interview study of 32 participants (15 neurosurgical spe
 - [Recruiting managers define a specialty nurse through three interconnected dimensions: education and training, clinical experience, and specialised skills including mentoring and leadership](managers-define-specialty-nurse-three-dimensions.md) — related
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
 - [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related
+- [Recruiting surgeons was the main political challenge in establishing multidisciplinary team training](surgeon-recruitment-political-barrier.md) — related

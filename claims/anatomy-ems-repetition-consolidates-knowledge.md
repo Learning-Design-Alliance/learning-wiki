@@ -51,3 +51,4 @@ A student interview quote within the Quality Learning theme illustrates that aft
 - [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](pmd-tdcs-no-early-6h-consolidation.md) — related
 - [Anodal tDCS at left PMd, but not right PMd, during repetitive practice produces sleep-related offline gain similar to interleaved practice](left-pmd-tdcs-sleep-related-offline-gain.md) — related
 - [Teachers perceive that combining movement with academic content consolidates learning, particularly for practice-friendly concepts such as multiplication tables](pal-movement-academic-consolidates-learning-perceived.md) — related
+- [Seventy-three percent of students in one pre-post study with no comparison group reported in reflections that their understanding was higher after peer teaching, and 35% cited repeated teaching](reflections-repeat-teaching-deepened-understanding.md) — related

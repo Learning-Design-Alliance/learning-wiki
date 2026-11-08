@@ -54,3 +54,4 @@ Multi-group two-level MSEMs (known-classes function, MLR estimation) comparing g
 - [Social Awareness, Relationship Skills and Responsible Decision-Making show no practically meaningful association with Year 7 reading or numeracy](interpersonal-sel-competencies-no-meaningful-association.md) — related
 - [Self-Awareness and Self-Management explain largely shared (overlapping) variance in Year 7 reading and numeracy](self-awareness-self-management-shared-variance.md) — related
 - [The association between school ethos and student outcomes does not differ between boys and girls](no-gender-moderation-ethos-outcomes.md) — related
+- [The knowledge test showed measurement invariance across gender and school grade, with girls and ninth-graders scoring better at small effect sizes](bls-test-measurement-invariance-gender-grade.md) — related

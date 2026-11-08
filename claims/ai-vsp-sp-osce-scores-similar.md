@@ -58,3 +58,4 @@ End-of-course OSCE history-taking station in the RCT: "6.5 ± 1.5 for the AI-VSP
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
 - [No significant difference between SP-trained and control students in clinical judgement, medical record writing, or overall capabilities](no-significant-gain-clinical-judgement-medical-record.md) — related
 - [Fourth-year medical students' overall communication performance did not differ significantly across classroom, clinical and OSCE settings](overall-communication-performance-no-difference-across-settings.md) — related
+- [First-year medical students with enhanced medical improv training scored significantly higher on ECRS-rated OSCE communication than students with no medical improv](enhanced-medical-improv-higher-ecrs-osce-scores.md) — related

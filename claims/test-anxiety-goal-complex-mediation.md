@@ -60,3 +60,4 @@ The review reports Elliot and McGregor's (1999) undergraduate study measuring tr
 - [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](worry-positively-predicts-grades.md) — related
 - [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](literacy-difficulties-moderate-trait-anxiety-gpa.md) — related
 - [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related
+- [Higher trait test anxiety predicts lower exam points but more non-exam points among control students](test-anxiety-predicts-lower-exam-points-higher-nonexam-points.md) — related

@@ -56,3 +56,4 @@ Cross-sectional survey of 192 students (132 women, 60 men) disaggregated by gend
 - [Women report greater stress and lower confidence than men in managing endodontic emergencies](women-more-stressed-less-confident-endodontic-emergencies.md) — related
 - [Men rate their emergency surgical self-competence significantly higher than women across indication, laparoscopic and open surgery items](gender-differences-emergency-surgery-self-assessed-competence.md) — related
 - [No significant gender differences in self-efficacy, optimism, resilience, perceived stress or GPA among medical undergraduates](no-gender-differences-psychosocial-variables-gpa.md) — related
+- [Women report higher trait test anxiety than men at the start of an introductory biology course](women-report-higher-trait-test-anxiety-than-men-intro-biology.md) — related

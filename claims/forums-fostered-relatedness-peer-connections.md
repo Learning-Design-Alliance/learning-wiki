@@ -57,3 +57,4 @@ Theme 3 from inductive interview analysis; 73 codes related to positive peer rel
 - [WhatsApp use during clinical placements was positively associated with professional identity and placement satisfaction but negatively associated with feelings of professional isolation](whatsapp-placement-correlates.md) — related
 - [Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue](ofd-learner-perceptions-seven-themes.md) — related
 - [A minority of teachers found group process, connection, and conveying themes more difficult online than in-person](online-mbp-group-process-challenges.md) — related
+- [Medical school social events centred on alcohol culture left BME students uncomfortable and isolated from peers](bme-students-social-events-alcohol.md) — related

@@ -51,6 +51,7 @@ To remedy perceived residency shortcomings, the authors recommend employing mult
 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Bundle multiple provider education modalities (workshops, lectures, outreach visits, distributed materials) rather than a single session](bundle-provider-education-interventions.md)
+- [Revise and standardize Indian ophthalmology residency to include basic retinal diagnosis and treatment, with wet-lab and virtual/augmented reality surgical training](revise-standardize-indian-retina-residency-strategy.md)
 
 ## Examples
 -

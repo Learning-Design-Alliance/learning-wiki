@@ -73,3 +73,4 @@ Multiple linear regression (Table 3) shows non-significant coefficients for GPA 
 - [Improvement factor showed no correlation with sex, age, non-traditional status, accelerated degree participation, or undergraduate GPA](improvement-factor-uncorrelated-background-variables.md) — related
 - [Gender shows no significant correlation with career and satisfaction factors among dental graduates](gender-no-correlation-career-factors-dental.md) — related
 - [Perceived stress was not significantly related to any measured student, instructor or clinical-environment characteristic](no-significant-stress-characteristic-relationships.md) — related
+- [Academic achievement rises with educational level but is not significantly related to age or marital status](gpa-increases-educational-level-nursing.md) — reports the opposite

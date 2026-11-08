@@ -51,3 +51,4 @@ Workload outcome (NASA-TLX, 0–100) in the pilot trial; group means were 47.3 (
 - [Self-guided and facilitator-guided debriefing showed no significant difference in paediatric emergency performance outcomes](no-performance-difference-between-debriefing-methods.md) — related
 - [Perceived task load on the NASA-TLX is higher for novices than beginners and experienced endoscopists](endonix-nasa-tlx-higher-novices.md) — related
 - [Self-directed AI training produced no additional perceived cognitive workload compared with expert tutor instruction on the NASA-TLX](ai-training-no-extra-cognitive-workload-nasa-tlx.md) — related
+- [Self-reported cognitive load (NASA TLX) is high and does not differ between expert and resident anesthetists in simulated PPH](nasa-tlx-no-group-difference-pph.md) — related

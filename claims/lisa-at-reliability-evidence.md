@@ -62,3 +62,4 @@ Internal-structure analysis of the first simulation round (33 participants, two 
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
 - [The complete VR TTE test shows high internal consistency reliability (alpha = .88) and consistent performer performance (ICC r(35) = .81)](vr-tte-test-reliability-alpha-icc.md) — related
 - [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related
+- [The ECRS shows 84% interrater agreement, an ICC of .527, and internal consistency of Cronbach alpha .948](ecrs-reliability-agreement-icc-alpha.md) — related

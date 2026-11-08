@@ -80,3 +80,4 @@ Checklist-item analysis in the same pilot. The article reports Cohen's d > 1 for
 - [Video feedback produces higher post-intervention performance than infographics on specific CPR techniques, including compression depth, compression rate, airway opening, and hand positioning](video-feedback-better-specific-cpr-techniques.md) — related
 - [Assessment of consciousness, airway obstruction and breathing, and body and arm positioning did not differ significantly between app and control groups](assessment-and-positioning-no-group-differences.md) — related
 - [Three of forty skills showed no significant improvement from pre-course to post-course](three-skills-no-significant-improvement.md) — related
+- [Item-level completeness of the survey differs by group, with low scores in breathing-related items](item-level-survey-completeness-patterns.md) — related

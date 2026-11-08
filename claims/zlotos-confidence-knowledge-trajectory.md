@@ -86,3 +86,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Perceived value of and interest in the simulation was high immediately post-session but declined significantly at 4 and 8 months](simulation-interest-declines-months.md) — related
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related
+- [Total MI utilization scores increased from pre-test to 1-month follow-up after a 1-h didactic, though only some individual skills changed](brief-mi-didactic-utilization-total-increase.md) — related

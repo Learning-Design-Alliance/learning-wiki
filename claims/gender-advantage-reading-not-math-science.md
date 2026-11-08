@@ -49,3 +49,4 @@ Pairwise comparisons in the ECLS-K:2011 ANOVA showed the gender pattern. The art
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — a broader claim this one bears on
 - [Mathematics was a relative strength across communication status, income, and gender](math-relative-strength-fourth-grade.md) — related
 - [Subject scores interacted significantly with communication status, gender, income, and their four-way combination](subject-by-status-gender-ses-interactions.md) — related
+- [Male gender relates to lower English grades but not Math or Science grades](male-gender-lower-english-grades-only.md) — reports the opposite

@@ -68,3 +68,4 @@ Epistemic network analysis of group chat logs from the Week 2 unguided task (13 
 - [Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation](students-passive-users-to-critical-evaluators-genai.md) — reports the opposite
 - [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — related
 - [Positive GenAI personalization outcomes commonly co-occur with artifact grounding, quality assurance loops, graduated scaffolding, and AI literacy integration](implementation-conditions-positive-outcomes.md) — related
+- [Talk-turn contributions differ by gender and URM status, with minority-status participants contributing below their fair share](talk-turn-equity-gender-urm.md) — related

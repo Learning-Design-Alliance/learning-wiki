@@ -53,3 +53,6 @@ Qualitative comparative case study integrating interviews, observations, documen
 - [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](scope-of-pbl-implementation-shapes-discussion.md)
 - [Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion](tutor-behavior-major-impact-discussion.md)
 - [Group collaborative culture shapes ChatGPT use: weaker collaborative cultures use it sooner and more passively, stronger cultures use it less and more critically](collaborative-culture-moderates-chatgpt-use.md) — related
+- [Cultural factors shape PBL processes, experiences and outcomes, requiring careful consideration in implementation](cultural-factors-shape-pbl-processes.md) — a broader claim this one bears on
+- [The Danish PBL model exhibits higher student self-direction and stronger contextualization than the McMaster and Maastricht models, but isolation still occurs within it.](danish-pbl-model-higher-self-direction-contextualization.md) — related
+- [PBL's underlying values have global origins traceable to many cultures, predating and exceeding its Western attribution](pbl-global-origins-marginalized-perspective.md) — related

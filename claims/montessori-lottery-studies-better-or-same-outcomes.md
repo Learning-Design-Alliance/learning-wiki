@@ -56,3 +56,4 @@ The review reports the Lillard and Else-Quest (2006) lottery study of 5- and 12-
 - [Montessori-schooled children outperform traditionally-schooled children on both divergent and convergent creativity tests](montessori-higher-divergent-convergent-creativity.md) — related
 - [The stronger a school's adherence to Montessori principles (implementation fidelity), the stronger its positive impact on maths](montessori-fidelity-moderates-maths-impact.md) — related
 - [Montessori-educated children outperform those in traditional schools in mathematics with an effect size of 0.22, according to a recent systematic review of 12 baseline-equivalent studies](montessori-maths-outperforms-traditional-es-022.md) — related
+- [Montessori schoolchildren score higher than traditionally schooled peers on language and math at both kindergarten and elementary age](montessori-higher-language-math-both-ages.md) — a narrower finding that bears on this claim

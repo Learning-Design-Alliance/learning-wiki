@@ -59,3 +59,4 @@ Kirkpatrick levels 1 and 2 evaluation in the Fluharty et al. study (370 BSN and 
 - [Standardized-patient-rated communication attitudes (SPS) did not differ significantly between the intervention and control groups after the EOL simulation program](sps-score-null-between-groups.md) — related
 - [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related
 - [All three groups report significant self-assessed gains in theoretical knowledge and practical skills after the seminar, with no differences between groups](self-assessed-gains-similar-across-groups.md) — related
+- [Happiness, depression, quality-of-life, and self-care scale scores change significantly at 3 months in both groups, with no difference between education methods](psychosocial-scales-improve-3-months.md) — related

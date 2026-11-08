@@ -51,3 +51,4 @@ In the survey of 333 matched graduates (265 female, 68 male in dichotomous respo
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — related
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
 - [Employment status and dentistry as first career choice differ significantly by GPA in Kruskal-Wallis tests](kruskal-wallis-employment-first-choice-gpa.md) — related
+- [No significant gender differences in depression, loneliness, social satisfaction, or academic achievement scores among university students](no-gender-differences-emotional-functioning-achievement.md) — related

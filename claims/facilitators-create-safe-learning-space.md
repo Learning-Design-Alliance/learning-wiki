@@ -55,3 +55,4 @@ Thematic analysis of interviews with nine facilitators: all described a safe atm
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — reports the opposite
 - [Supportive supervisor behaviour, co-worker support and a team learning climate are common environment characteristics related to adaptive expertise](supportive-environment-team-learning-climate-adaptive-expertise.md) — related
 - [Competence was sustained through peer supervision, which supported wellbeing, though non-specialist supervisors were felt to lack relevant expertise](peer-supervision-sustains-competence-and-wellbeing.md) — related
+- [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related

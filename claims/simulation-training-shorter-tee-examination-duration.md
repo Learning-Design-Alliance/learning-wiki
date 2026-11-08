@@ -56,3 +56,4 @@ Same randomized trial's live clinical assessment on pediatric patients aged 10�
 - [Nurses trained with NIVR simulation completed the six OSCE tasks significantly faster than conventionally trained nurses](nivr-training-faster-total-task-completion.md) — related
 - [VR training produced more efficient radiography students with fewer errors and faster diagnostic imaging than traditional simulation training](vr-training-more-efficient-fewer-errors-radiography.md) — related
 - [Simulation-tool training shortens the detailed teaching and mastery stages of insulin injection learning compared with traditional training](simulation-tool-shortens-insulin-injection-learning-time.md) — a narrower finding that bears on this claim
+- [Time to complete the practical TEE examination decreased across successive tests in all groups](tee-practical-exam-time-decreased-across-tests.md) — related

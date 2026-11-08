@@ -50,3 +50,4 @@ Descriptive cross-sectional survey (N=94) using a 5-point Likert item comparing 
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
 - [Students' pre-intervention apprehension that virtual learning would feel unrealistic was largely reversed after completing the module](realism-apprehension-reversed-post-intervention.md) — related
 - [Anatomage-based gross anatomy study of the pelvis and musculoskeletal system appears equivalent to cadaveric dissection](anatomage-pelvis-musculoskeletal-equivalent-cadaveric.md) — related
+- [In the gross anatomy course survey (N = 749), Anatomage received significantly higher ratings than Magic Mirror on most statements, yet both systems were considered enhancements rather than replacements for dissection courses.](gross-anatomy-survey-anatomage-preferred-tutorial.md) — related

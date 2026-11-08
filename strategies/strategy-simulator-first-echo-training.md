@@ -51,6 +51,7 @@ NPE and TNE guidelines recommend that learners first acquire basic echocardiogra
 ## Related Strategies
 
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
+- [Use simulation-mannequin training for the initial stages of TEE training](simulation-first-initial-tee-training-strategy.md)
 
 ## Examples
 -

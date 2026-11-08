@@ -53,3 +53,4 @@ Subgroup analyses of the three significant subscales found no differences by sex
 - [Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study](service-learning-norms-increase-small-effect.md) — related
 - [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](service-learning-perceived-costs-reduction.md) — related
 - [Attitude gains were significant in male students but not in female students](csas-gains-males-not-females.md) — reports the opposite
+- [Landscape design students’ CSES-Feelings empathy scores increased significantly from pre-test to post-test for both female and male participants](landscape-students-significant-empathy-increase-interdisciplinary-refuge-project.md) — related

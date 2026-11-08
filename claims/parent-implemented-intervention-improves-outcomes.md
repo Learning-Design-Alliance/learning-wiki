@@ -124,3 +124,4 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related
 - [A brief multi-component communication intervention immediately improves initiated joint attention in preverbal preschoolers with autism](multicomponent-intervention-improves-joint-attention-post.md) — related
 - [Parents in the intervention implemented reading strategies far more than control parents, who seldom used them spontaneously](parent-strategy-implementation-fidelity-summer-reading.md) — related
+- [Computerized feedback (VocSyl) outperformed a pacing board and active control on multisyllabic speech outcomes in children with speech impairments including ASD](vocsyl-computerized-feedback-speech-productions.md) — related

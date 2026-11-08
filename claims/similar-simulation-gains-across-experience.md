@@ -50,3 +50,4 @@ Dichotomised unadjusted mixed model analysis of geometric mean DNT by simulation
 - [Simulation attendance is associated with a significant reduction in door-to-needle time across experience levels](simulation-attendance-reduces-dnt-21-8-percent.md) — a broader claim this one bears on
 - [Improvements after MR simulator training were seen in both experienced and non-experienced participants.](mr-training-improved-experienced-and-novice.md) — possibly the same claim (merge candidate)
 - [Stroke centres that completed simulation-based team training improved their door-to-needle time by 30 min from 2015 to 2018, versus 20 min in centres without the training (p=0.01)](simulation-training-improved-dnt-change-versus-control.md) — related
+- [Simulation-based BBN training closes the skills gap between clinically inexperienced trainees and more experienced controls, equalizing performance at post-test](bbn-training-closes-experience-gap.md) — related

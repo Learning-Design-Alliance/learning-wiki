@@ -47,3 +47,4 @@ Secondary outcomes of the randomized controlled trial, from medical records of t
 ## Related Claims
 - [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — possibly the same claim (merge candidate)
 - [Stepwise CBME training significantly shortens operative time for supervised breast-conserving surgery compared to conventional training](stepwise-cbme-shortens-bcs-operative-time.md) — related
+- [The training program produced no difference in operative time, blood loss, or complications in residents' first operative laparoscopy](no-difference-operative-time-blood-loss-complications-first-laparoscopy.md) — possibly the same claim (merge candidate)

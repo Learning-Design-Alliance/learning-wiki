@@ -65,3 +65,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
 - [Most students in the HBOPPPS cohort were satisfied, perceived improved learning ability, and preferred HBOPPPS over offline or online-only teaching](hboppps-student-satisfaction-and-preference.md) — related
 - [Most sixth-year medical students gave a positive evaluation of fully online virtual reality training during the COVID-19 pandemic](positive-evaluation-online-vr-training-covid.md) — related
+- [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related

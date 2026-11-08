@@ -113,3 +113,4 @@ A systematic review evaluating ten learning techniques against generalisability,
 - [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](generative-activities-improve-monitoring-not-restudy-learning.md) — related
 - [Fluency gains from rereading follow the power law: improvement occurs up to about the fourth reading and then diminishes](power-law-four-rereadings-limit.md) — related
 - [The Study Smart program improved students’ declarative metacognitive knowledge about (in)effective learning strategies in the short and long term](study-smart-improved-declarative-metacognitive-knowledge.md) — a narrower finding that bears on this claim
+- [The 3-R (read-recite-review) technique significantly improves short- and long-term memory of narrative passages versus no learning strategy (Experiment 1)](3r-technique-improves-memory-exp1.md) — related

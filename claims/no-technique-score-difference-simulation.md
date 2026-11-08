@@ -50,3 +50,4 @@ Two-tailed t-test comparing surgeon rubric scores (1–25 scale) in the randomiz
 - [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related
 - [Clinician training level shows no clear correlation with subacromial injection accuracy](training-level-no-accuracy-correlation.md) — related
 - [First subcutaneous injection success rate is higher with simulation-tool training (73.33%) than traditional training (46.67%)](simulation-training-first-injection-success-rate.md) — reports the opposite
+- [Training on cadavers produced the best OSCE skill scores for infiltrations, followed by training on anatomical models, for proficiency, systematics and completeness in the glenohumeral joint, subacromial space and lateral epicondyle](cadaver-training-best-osce-skill-scores.md) — related

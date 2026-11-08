@@ -52,3 +52,4 @@ Descriptive comparison of percentage confidence increases across the three cohor
 - [Simulator-based TEE training is feasible for larger cohorts of early medical students](tee-simulator-training-feasible-large-cohorts.md) — related
 - [Participants without prior ultrasound course experience showed greater knowledge gains (26.7 vs 20 points, p = 0.003) despite lower pre- and post-course scores](rush-mooc-novice-greater-gains.md) — related
 - [Prior UBE experience moderates e-learning knowledge gains but not simulator skill gains](prior-experience-moderates-elearning-not-simulator-gains.md) — related
+- [All three training groups had significantly higher scores in post-training than pre-training TEE examinations, measured within each group from pre-test to post-test](all-groups-improved-pre-to-post-tee-exams.md) — related

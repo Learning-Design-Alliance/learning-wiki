@@ -94,3 +94,4 @@ Participant-reported barrier within team dynamics sub-theme; the article also no
 - [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related
 - [Frustrations with group work, especially unequal participation, recurred in every year group](groupwork-unequal-participation-frustration.md) — related
 - [Students report uneven workload within PBL groups and insufficient time allocated per topic](pbl-group-workload-and-time-limitations.md) — related
+- [Students reported losing focus during PBL and found technology use challenging, making tutor guidance essential](pbl-focus-loss-and-technology-difficulties.md) — related

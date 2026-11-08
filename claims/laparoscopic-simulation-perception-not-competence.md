@@ -52,3 +52,4 @@ Interpretive conclusion of the scoping review's narrative synthesis, which used 
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](peer-tutoring-simulation-technical-skill-gains.md) — related
 - [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — related
 - [Student confidence in laparoscopic skills improved significantly after practice, with no difference between near-peer-taught and self-taught groups](confidence-improves-independent-of-group.md) — related
+- [Practicing laparoscopic skills in a simulated environment is reported to yield good acceptance and improved technical skills](simulated-practice-improves-technical-skills.md) — related

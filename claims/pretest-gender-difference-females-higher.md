@@ -53,3 +53,4 @@ Pre-exam two-way ANOVA on the quasi-experiment's baseline scores. Table 2 prints
 - [No statistical gender difference appeared in pre-test or comparison scores in either control group](no-gender-difference-vocabulary-test-controls.md) — related
 - [Female students score higher on empathy than male students in both teaching groups before and after class](female-higher-empathy-both-groups.md) — related
 - [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite
+- [Nursing students began the study with markedly higher pre-test empathy levels than architecture and landscape students](nursing-higher-baseline-empathy-than-design-students.md) — related

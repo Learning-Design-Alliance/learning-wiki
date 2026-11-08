@@ -49,3 +49,4 @@ Post-training GESEA-based tissue integrity scores (2 for integrity, 1 for a few 
 - [Multidirectional stitching training shortens laparoscopic suturing time compared with traditional instruction in junior residents](multidirectional-stitching-faster-suturing.md) — related
 - [Multidirectional stitching training shows no significant difference from traditional instruction on knot stability, tissue tightness, or thread length](multidirectional-stitching-null-outcomes.md) — related
 - [Residents trained with spaghetti knotting achieve higher overall scores and tissue integrity scores than residents trained with conventional knotting](spaghetti-knotting-higher-tissue-integrity-overall-score.md) — related
+- [All novice participants exceeded the 3 N tissue-damage safety threshold during purse-string suturing at both pre- and post-course assessment](tatme-suturing-exceeds-safety-threshold.md) — related

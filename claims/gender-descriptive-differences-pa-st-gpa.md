@@ -52,3 +52,4 @@ Gender-comparative descriptive statistics from the accelerometer and GPA data of
 - [Boys spent significantly more time gaming while girls reported higher academic motivation across ages 7-10](sex-differences-gaming-time-and-motivation-levels.md) — related
 - [MVPA trajectories differed by gender, but gender was not a significant factor in the MVPA–achievement relationship](gender-differences-mvpa-trajectories-not-achievement.md) — related
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — related
+- [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — related

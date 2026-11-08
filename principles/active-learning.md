@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (55 for, 33 mixed, 4 against) · 75 studies (36 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 14 of 75 report an effect size · 84 claims rest on one study
+> **Evidence** · 94 claims (55 for, 35 mixed, 4 against) · 76 studies (37 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 14 of 76 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [No statistically significant difference in retention of course content among flipped classroom, jigsaw, and lecture groups six weeks after the intervention](../claims/no-retention-difference-three-methods.md) [~W] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Adopt learner-centered active methods such as jigsaw and flipped classroom as alternatives to lecture, considering needs, conditions, and resources"; tests this page's relationship.
 - [Active learning benefits college humanities and social science students, with larger effects in smaller classes (≤20 students) and upper-level courses](../claims/active-learning-humanities-kozamitis-moderators.md) [+W] — attached 2026-11-07 from Lebert et al. (2024), which proposed "Use active learning rather than traditional lecturing, favoring smaller classes and upper-level courses where effects are largest"; tests this page's relationship.
 - [Active learning health education improves arterial stiffness (CAVI) more than didactic health education in older adults with low health literacy](../claims/active-learning-education-improves-cavi-older-adults-low-health-literacy.md) [+M] — attached 2026-11-08 from Uemura Kazuki et al. (2021), which proposed "Use active learning health education, rather than passive didactic instruction, to promote health behavior change in older adults with low health literacy"; tests this page's relationship.
+- [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](../claims/no-attention-reset-after-al.md) [~W] — attached 2026-11-08 from Darnell et al. (2019), which proposed "Value active learning for the activity itself, not for an expected attention reset afterward".
+- [Average heart rate rose about 1.5 bpm during active learning sessions, then returned immediately to a level similar to or lower than before, in one single-group pre-post study with no comparison group](../claims/al-hr-uptick-no-reset.md) [~W] — attached 2026-11-08 from Darnell et al. (2019), which proposed "Value active learning for the activity itself, not for an expected attention reset afterward".
 
 ## Objective and learner-valued goal
 

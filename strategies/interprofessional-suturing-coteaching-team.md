@@ -48,6 +48,7 @@ The workshop's teaching and evaluation team combined midwifery and surgical expe
 ## Related Strategies
 
 - [Offer recurring evidence-based suturing workshops, including through ACNM state affiliates, to support confidence and skill retention](recurring-suturing-workshops-recommendation.md)
+- [Include midwives and obstetricians in anesthesia provider courses to support multidisciplinary practice change](multidisciplinary-attendance-refresher-course-strategy.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ Postsession debriefing uses a reflective model structured according to the PEARL
 - [Facilitate debriefing as guided reflection linking theory to practice](guided-reflection-debriefing-facilitation.md)
 - [Pair the simulation with a structured 30–40 minute debrief including a PowerPoint lecture, reflection, and checklist review](simulation-debrief-lecture-checklist-review.md)
 - [Train lecturers in the good-judgement debriefing model to ensure consistent, non-punitive debriefing](good-judgement-debriefing-lecturer-training.md)
+- [Joint basic-science and clinical faculty debriefing using Socratic facilitation to immerse basic science content in the clinical case](paired-faculty-socratic-debrief-basic-science.md)
 
 ## Examples
 -

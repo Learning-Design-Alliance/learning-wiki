@@ -50,3 +50,4 @@ Anonymous online satisfaction survey within one week after training, all 116 res
 - [First-year OB-GYN residents taught with the refined Peyton four-step method score higher on basic skill operation assessments than residents taught with traditional simulation-based instruction](refined-peyton-higher-skill-operation-scores.md) — related
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — possibly the same claim (merge candidate)
 - [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related
+- [Resident satisfaction with TEE training did not differ significantly among the three teaching methods](no-satisfaction-difference-among-tee-teaching-methods.md) — reports the opposite

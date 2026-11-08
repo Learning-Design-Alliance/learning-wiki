@@ -54,3 +54,4 @@ MANOVA with repeated measures over the 15-week intervention; Table 5 reports Wil
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related
 - [Time-by-method interaction shows authentic learning and the available program differ in achievement growth](time-method-interaction-achievement-growth.md) — possibly the same claim (merge candidate)
 - [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related
+- [Significant multivariate pre-post changes occurred only in participants without dementia; in the dementia group changes were not significant, though observed power was low and the effect size was high](multivariate-changes-only-in-healthy-group.md) — related

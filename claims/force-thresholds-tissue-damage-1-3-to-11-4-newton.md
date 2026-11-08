@@ -47,3 +47,5 @@ The review attributes this finding to cited studies: "Studies found that excessi
 
 ## Related Claims
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
+- [Dissection tasks take significantly less time but cause significantly more ossicular damage than grasping tasks](dissection-faster-but-more-damaging-than-grasping.md) — related
+- [All novice participants exceeded the 3 N tissue-damage safety threshold during purse-string suturing at both pre- and post-course assessment](tatme-suturing-exceeds-safety-threshold.md) — a narrower finding that bears on this claim

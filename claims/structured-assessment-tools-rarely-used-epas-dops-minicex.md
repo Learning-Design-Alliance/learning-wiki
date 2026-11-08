@@ -52,3 +52,5 @@ Descriptive analysis of assessment and examination structures across the 42 nati
 - [Participants report that clinical competence assessment in Iranian medical education relies on written and multiple-choice exams rather than performance-based evaluation.](weak-performance-based-assessment-iran.md) — possibly the same claim (merge candidate)
 - [There is no unified pathway for training, curricula, and formal assessments across UEMS member countries](no-unified-neonatal-training-pathway-uems.md) — related
 - [OSCE and DOPS represent the gold standard for assessing student ultrasound competence according to current research](osce-dops-gold-standard-ultrasound-assessment.md) — related
+- [Many standardized feedback instruments are unknown to the majority of instructors, including CEC (72%), 360° feedback (65%), DOPS (62%) and mini-CEX (59%)](standardized-feedback-instruments-unknown-majority.md) — related
+- [Assessment of undergraduate US skills was mostly non-standardized; only a minority used OSCE or DOPS](us-assessment-mostly-nonstandardized.md) — related

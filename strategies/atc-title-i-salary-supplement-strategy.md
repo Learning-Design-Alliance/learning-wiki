@@ -42,6 +42,7 @@ The proposed ATC strategy ties tangible rewards to service in high-poverty schoo
 - [Reward and develop high-quality teachers through substantially higher salaries plus increased professional responsibility](high-teacher-salaries-with-professional-responsibility.md)
 - [Badges](badges.md)
 - [Micro Credentials And Badging](micro-credentials-and-badging.md)
+- [Create small wins to motivate faculty during pedagogical change](small-wins-faculty-motivation-change.md)
 
 ## Examples
 -

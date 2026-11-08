@@ -51,3 +51,4 @@ Narrative synthesis of the Adatara et al. cross-sectional study within the revie
 - [A third of Spanish educators (36.4%) used videogames as didactic tools in 2011-2012, with younger teachers more willing](spanish-educators-videogame-use-36-percent.md) — related
 - [Younger nursing professionals self-assessed RC competence highest, significantly on 4 of 8 subscales](younger-nurses-higher-self-assessed-rc-competence.md) — related
 - [Mature Nursing students reported significantly lower empathic care intentions than younger counterparts, possibly explaining the discipline's lower scores](mature-nursing-students-lower-empathic-intentions.md) — related
+- [Senior physician-leaders (older age, longer oncology experience, longer leadership experience) consistently rate task management and leading others higher than less experienced leaders](senior-leaders-rate-task-management-leading-others-higher.md) — reports the opposite

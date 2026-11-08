@@ -87,3 +87,4 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 - [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related
 - [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](structured-reflection-self-awareness-growth.md) — related
 - [Peer group reflection combined with teaching self-assessment produces deeper critical reflection and more specific teaching-modification plans](peer-group-reflection-deeper-critical-reflection.md) — related
+- [The evidence type produced by formative assessment prompts shapes what can be diagnosed: closed-ended prompts reveal pervasiveness of ideas, while open-ended prompts reveal diversity of student thinking](prompt-evidence-type-shapes-diagnosis.md) — related

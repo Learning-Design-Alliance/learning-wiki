@@ -72,3 +72,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Protected teaching time and dedicated space are reported barriers, while equipment cost is not for clinical staff](time-space-equipment-barriers-ed-sbt.md) — related
 - [Challenges in the transition included connectivity problems, clinical skills training limits, preparation workload, and doubts about student self-directed learning](challenges-e-learning-transition-optometry.md) — related
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
+- [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related

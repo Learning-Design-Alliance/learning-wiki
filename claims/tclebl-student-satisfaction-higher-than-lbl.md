@@ -57,3 +57,6 @@ Student questionnaire (10-point VAS) comparing the TCLEBL group (n = 21) with th
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](pri-e-student-ability-development-ratings.md) — related
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
+- [FC-TCLEBL students scored higher than LBC students on clinical practice skills assessment for diabetic retinopathy, including teamwork and individual components](fc-tclebl-higher-clinical-practice-skills-scores.md) — related
+- [FC-TCLEBL students self-reported improved clinical thinking ability and independent learning ability after class, while LBC students did not](fc-tclebl-self-evaluated-ability-gains.md) — related
+- [Teachers rated the FC-TCLEBL class more favorably than the LBC class on student understanding, enjoyment, and expectations](fc-tclebl-teacher-feedback-favorable.md) — related

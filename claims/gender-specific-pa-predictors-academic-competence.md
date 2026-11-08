@@ -50,3 +50,4 @@ Model 1 of the multiple regression analysis in the cross-sectional study of 1520
 - [Associations between sports participation and grades are stronger for boys than girls, and girls showed no significant dose relationship in Chinese and math](sports-participation-grades-sex-differences.md) — reports the opposite
 - [Girls who engage in sport at least one hour per week show better math and reading results; this relationship did not hold for boys](girls-sport-one-hour-better-math-reading.md) — related
 - [Intensity of daily PA strongly predicts boys' reading competence in adjusted models](pa-intensity-predicts-boys-reading-competence.md) — related
+- [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related

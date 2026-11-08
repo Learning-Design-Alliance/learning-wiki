@@ -68,3 +68,4 @@ Descriptive result of the controlled simulation trial (Table 4): correct body po
 - [Simulation-based PBLS training significantly improves specific life-support skills including airway opening, rescue breathing, and chest compression quality](simulation-pbls-improves-specific-pbls-steps.md) — related
 - [Among students, a medium-fidelity passive simulator configuration was associated with improved ventilation frequency and pressure during hands-on training](medium-fidelity-best-for-novice-students.md) — related
 - [In a mixed-effects model, intervention group, baseline knowledge and midline health assessment skill positively predicted endline competency, while age was negatively associated](mixed-model-predictors-of-cadre-competency.md) — related
+- [Item-level completeness of the survey differs by group, with low scores in breathing-related items](item-level-survey-completeness-patterns.md) — related

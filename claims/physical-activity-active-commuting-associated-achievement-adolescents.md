@@ -61,3 +61,4 @@ Cross-sectional analysis of physical activity measures against grades, adjusted 
 - [Leisure-time physical activity alone statistically significantly but modestly predicts overall academic competence in primary school children (about 3% of variance in girls, 4% in boys)](leisure-pa-modest-predictor-academic-competence.md) — related
 - [Non-HPS students did more physical activity while HPS students more often walked or cycled to school](non-hps-more-physical-activity-hps-active-transport.md) — related
 - [Each additional point of physical activity score was associated with a 0.423-point increase in Physical Education achievement](pa-point-increases-pe-achievement.md) — related
+- [Strengthened PE lowers math scores, with the decrease concentrated among girls](strengthened-pe-lowers-math-scores-girls.md) — reports the opposite

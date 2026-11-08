@@ -52,3 +52,4 @@ Scoping review synthesis of ten expert-consensus/Delphi studies (1989–2017) yi
 - [Interdisciplinary teamwork and patient/caregiver needs are significantly underrepresented in geriatric core competencies](geriatric-competencies-underrepresent-teamwork-caregiver-needs.md) — related
 - Only ten studies met inclusion criteria, yielding 257 core competencies across 18 domains — related
 - [The 2025 ETR expands the geriatric medicine knowledge base, including frailty identification tools, validated prescribing tools, and integrated care frameworks](etr2025-expanded-knowledge-base.md) — related
+- [Participants judged pharmacology teaching insufficient, recommending it be taught for more than one semester](nqn-pharmacology-insufficient-content.md) — related

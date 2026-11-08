@@ -52,3 +52,4 @@ Interviews with tutors and academic leaders in the qualitative study found that 
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Poor educator knowledge, unfavorable attitudes, and lack of careful planning impede PBL](educator-knowledge-attitude-planning-barriers-pbl.md) — related
+- [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related

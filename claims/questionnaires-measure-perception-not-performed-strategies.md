@@ -70,3 +70,4 @@ The editorial's methodological-considerations section states this validity chall
 - [Self-reported self-care may not reflect real practical behavior in older people, a stated limitation of the HAPA trial](self-report-self-care-limitation-older-adults.md) — possibly the same claim (merge candidate)
 - [Self-reported perceptions of regulatory activities often differ from learners' actual regulatory behaviour](self-reports-differ-actual-regulation-behaviour.md) — possibly the same claim (merge candidate)
 - [Behavioral marker systems offer greater objectivity than self-report but are more resource intensive](behavioral-marker-systems-objective-but-costly.md) — possibly the same claim (merge candidate)
+- [Self-reported hygiene attitudes and behaviors often diverge from actually observed hygiene behavior](self-reported-versus-observed-hygiene-divergence.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 345 claims (242 show a difference, 65 mixed, 38 no difference) · 228 studies (88 associational, 63 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 50 of 228 report an effect size · 337 claims rest on one study
+> **Evidence** · 349 claims (244 show a difference, 66 mixed, 39 no difference) · 231 studies (89 associational, 65 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 50 of 231 report an effect size · 341 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -385,6 +385,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Students experienced stress during simulation sessions from being observed and evaluated, and some expected stress to decline with repetition](../claims/sbe-observation-stress-dental-students.md) [~M] — measured as an outcome of the instruction studied
 - [Music-based CBT significantly reduces test anxiety of primary school children in basic science at posttest compared with a control group](../claims/cbt-music-reduces-test-anxiety-posttest.md) [+M] — measured as an outcome of the instruction studied
 - [The music-based CBT effect on children's test anxiety is maintained at a 2-month follow-up relative to control](../claims/cbt-music-test-anxiety-followup-maintained.md) [+M] — measured as an outcome of the instruction studied
+- [Higher trait test anxiety predicts lower exam points but more non-exam points among control students](../claims/test-anxiety-predicts-lower-exam-points-higher-nonexam-points.md) [~M] — learners who differ on it differ in outcomes
+- [Perceived stress during simulation was higher in the recently trained group, and stress did not correlate with performance or experience.](../claims/higher-perceived-stress-in-recently-trained-group.md) [+M] — measured as an outcome of the instruction studied
+- [The test anxiety interventions did not change end-of-course self-declared trait anxiety](../claims/test-anxiety-intervention-no-trait-anxiety-change.md) [-M] — measured as an outcome of the instruction studied
+- [In one single-group pre-post study, nurses' self-reported confidence in coping with patient aggression rose from pre-test to post-test after workplace violence simulation training](../claims/simulation-training-increases-confidence-coping-aggression.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

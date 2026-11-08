@@ -52,3 +52,4 @@ Multiple linear regression on the 321-nurse survey (R2 = 0.552, adjusted R2 = 0.
 - [Permanent employment is associated with higher patient safety competency scores](permanent-employment-higher-psc.md) — related
 - [Work experience, but not gender, education, or job category, significantly predicts organizational maturity](work-experience-significant-demographic-predictor-maturity.md) — related
 - [Training, drill frequency, formal qualifications and leadership roles are significant predictors of disaster management competencies, explaining 13.7% of variance](logistic-regression-disaster-competency-predictors.md) — related
+- [Participants averaging about 8 skill drills over 3 months achieved effective ventilation, and drill count was associated with effective ventilation (p = 0.032)](eight-skill-drills-effective-ventilation.md) — related

@@ -183,3 +183,4 @@ The review reports countervailing findings in the same category, including that 
 - [Role-play scores did not correlate with next-day patient-encounter scores when the complaint was the same](same-complaint-no-correlation-roleplay-encounter.md) — related
 - [Students judged the virtual patient platform realistic for clinical assessment, diagnostic activity and treatment management](virtual-platform-realism-ratings.md) — a narrower finding that bears on this claim
 - [Pre-registration trainees who used virtual patients reported communication skill development not reported by non-interactive case study users](vp-communication-skills-self-reported.md) — related
+- [Interactive e-case questions target three foci: symptom patterns, clinical reasoning, and clinical decision making](e-case-questions-three-foci.md) — related

@@ -54,3 +54,4 @@ Independent t-test comparing aggregated 12-item attitudinal survey means (coeffi
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
 - [Students generally favored the interactive simulation over the paper-based method in attitudinal survey responses](students-favor-simulation-attitudinal-survey.md) — related
+- [Medical students who trained with the MPathic-VR virtual human simulation scored significantly higher on an OSCE than control students](mpathic-vr-improves-osce-communication-scores.md) — related

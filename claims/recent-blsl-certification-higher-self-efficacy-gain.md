@@ -50,3 +50,4 @@ U Mann–Whitney moderator analyses in the exploratory single-group study contra
 - [BLS certification coverage is low and often expired, with 50.8% certified and 52.5% of certificates expired](low-expired-bls-certification-rates.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [Behavioral capability increases with training level and with longer time since last BLS certification](factors-raising-behavioral-capability.md) — related
+- [A 2-hour BLS and AED course with an interactive lecture and practical workshop significantly improved schoolchildren's knowledge, with the largest gain on how basic life support is correctly performed (r = 0,71 in Study 1)](bls-aed-course-improves-schoolchildren-knowledge.md) — related

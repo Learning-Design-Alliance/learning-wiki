@@ -73,3 +73,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — a narrower finding that bears on this claim
 - [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — a narrower finding that bears on this claim
 - [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](autonomy-case-choice-vr-motivation.md) — a narrower finding that bears on this claim
+- [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — a narrower finding that bears on this claim

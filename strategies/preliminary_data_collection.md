@@ -73,6 +73,7 @@ Data-informed problem framing improves the fit between interventions and local c
 - [Adapt instructional systems to local contexts through systematic inquiry and collaboration among educators, developers, and researchers](continuous-improvement-collaboration-for-aied.md)
 - [Identify resistant students through observations, teacher interviews, and follow-up forms before intervening](identify-resistance-via-observation-interviews.md)
 - [Attend to host-context cultural logistics — daily structure, prayer and fasting schedules, and locally adapted team composition — when implementing simulation activities](cultural-logistics-simulation-implementation.md)
+- [Diagnose context-specific causes of underperformance via student interviews or focus groups before deploying one-size-fits-all psychological interventions](diagnose-underperformance-context-before-interventions.md)
 
 ## Examples
 - A school team reviewing achievement and behavioral data disaggregated by race, then conducting walkthroughs and student focus groups to understand school culture before redesigning discipline practices — surfacing how specific policies reinforced disproportionality.

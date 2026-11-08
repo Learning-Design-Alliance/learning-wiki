@@ -88,3 +88,4 @@ Double-blind randomized controlled trial in which 21 medical students completed 
 - [LLM-generated feedback improved the creating context and securing information subdomains of clinical decision making, but not focusing questions](feedback-improves-creating-context-securing-information-not-focusing.md) — related
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related
 - [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related
+- [Interactive e-case questions target three foci: symptom patterns, clinical reasoning, and clinical decision making](e-case-questions-three-foci.md) — related

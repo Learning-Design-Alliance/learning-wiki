@@ -50,3 +50,4 @@ Longitudinal usage evaluation (secondary hypothesis 1) in the randomized pilot, 
 - [Intervention students spent more preparation time and control students more often felt disadvantaged, while other feedback items did not differ](student-feedback-prep-time-and-allocation-fairness.md) — reports the opposite
 - [Students receiving intelligent ITS feedback spent significantly more time and made significantly more steps on the hypothesis-testing tasks than controls](its-feedback-more-time-and-steps.md) — related
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — related
+- [GPs spent an average of 43 minutes on the Hygie game over the access week, with self-reported time more than twice that of the reading group](hygie-time-spent-43-minutes-engaging.md) — related

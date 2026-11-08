@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 161 claims (72 for, 79 mixed, 10 against) · 85 studies (44 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 26 of 85 report an effect size · 154 claims rest on one study
+> **Evidence** · 162 claims (73 for, 79 mixed, 10 against) · 86 studies (45 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 27 of 86 report an effect size · 155 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](../claims/no-practice-format-effect-on-retention-vsaq-mcq.md) [~W] — attached 2026-11-07 from van Wijk EV et al. (2024), which proposed "Choose VSAQs or MCQs for practice testing based on diagnostic purpose, since neither format shows a retention advantage for lower-order skills".
 - [Repeated MCQ test-enhanced learning produced no significant difference in delayed basic-science assessment scores among first-year anesthesiology residents](../claims/tel-mcq-no-effect-basic-science-neuroanesthesia.md) [~W] — attached 2026-11-07 from Raksakietisak M et al. (2024), which proposed "Test-enhanced learning at the postgraduate medical level should be designed with attention to test format and feedback, since unfeedbacked context-free MCQs may not enhance learning"; tests this page's relationship.
 - [In a course with frequent assessment, cumulative versus non-cumulative midterm format has no effect on final exam performance in introductory biology](../claims/cumulative-midterms-no-final-exam-effect-frequent-testing.md) [~M] — attached 2026-11-08 from Bailey Elizabeth G. et al. (2021), which proposed "Engineer repeated quizzes to target the same learning objectives for testing effects to emerge"; tests this page's relationship.
+- [With task exposure equated across groups, the 3-R technique still significantly improves memory, while higher-intensity exercise shows no significant effect (Experiment 2)](../claims/3r-technique-improves-memory-equal-exposure-exp2.md) [+M] — attached 2026-11-08 from Loprinzi Paul D. et al. (2019), which proposed "Students should adopt the 3-R and cue-integration learning techniques, and may benefit from a brief bout of walking before studying or lectures"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

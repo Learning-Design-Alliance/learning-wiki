@@ -58,3 +58,5 @@ Stepwise multiple linear regression on 256 students, with entry threshold p < 0.
 - [Gender shows no significant correlation with career and satisfaction factors among dental graduates](gender-no-correlation-career-factors-dental.md) — related
 - [Increased perceived stress correlated negatively with results in the most challenging exam, physiology](stress-inversely-related-physiology-exam.md) — related
 - [Regression models combining demographics, lifestyle, and fitness explain 23.7% to 58.0% of variance in academic performance](regression-models-variance-academic-performance.md) — related
+- [Higher loneliness scores are associated with higher depression scores and lower social satisfaction among university students](loneliness-depression-social-satisfaction-intercorrelations.md) — related
+- [No significant gender differences in depression, loneliness, social satisfaction, or academic achievement scores among university students](no-gender-differences-emotional-functioning-achievement.md) — reports the opposite

@@ -54,3 +54,4 @@ Cross-sectional regression in 106 children with overweight/obesity (1-RM subsamp
 - [Cardiorespiratory fitness is positively associated with general intelligence in adolescents on both the D48 and Raven tests, adjusting for sex and age](crf-associated-with-intelligence-adolescents.md) — related
 - [Cardiorespiratory fitness, flexibility and overall fitness are positively associated with academic achievement in all subjects, but muscular strength is not associated with Spanish language or mathematics](fitness-components-associated-with-academic-achievement.md) — reports the opposite
 - [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related
+- [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — related

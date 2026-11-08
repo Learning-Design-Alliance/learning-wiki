@@ -49,3 +49,4 @@ Five 5-point Likert perception questions administered after the exam to the part
 - [Student self-marking of ISF-VSAQ answers shows excellent inter-rater reliability with teacher ratings (rs = 0.87–0.98 per item; overall r = 0.97)](isf-vsaq-self-marking-teacher-reliability.md) — related
 - [In ISF-VSAQ path analysis, the second-attempt self-reflected understanding level directly affects final MCQ score (β = 0.25, p = 0.033), while passing the VSAQ does not](understanding-level-predicts-mcq-not-vsaq-score.md) — related
 - [VSAQ scores differ by self-reflected understanding tertile on both attempts (η² = 0.44 and 0.45), and overall understanding scores rose from first to second attempt (d = 0.24)](vsaq-scores-stratified-understanding-tertiles.md) — related
+- [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related

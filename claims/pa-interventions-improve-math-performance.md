@@ -55,3 +55,4 @@ Random-effect meta-analysis (RevMan 5.4.1) pooling 24 included studies that used
 - [School-based physical activity interventions show a small positive pooled effect on children's mathematics performance (d = 0.23) across 11 randomised trials](school-pa-small-positive-effect-math-meta-analysis.md) — related
 - [Partial HPSF schools (physical activity only) showed no significant mathematics improvement versus control schools](partial-hpsf-no-mathematics-effect-versus-control.md) — related
 - [After-school studying or reading time did not differ significantly between the physical activity and control groups, and mathematics scores did not differ significantly by study-time level](physical-activity-does-not-reduce-study-time.md) — related
+- [Physical activity interventions show beneficial effects on academic outcomes in pediatric populations](physical-activity-interventions-benefit-academic-outcomes.md) — possibly the same claim (merge candidate)

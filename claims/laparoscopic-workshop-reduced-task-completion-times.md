@@ -72,3 +72,4 @@ Same workshop study, Intracorporeal Suturing task: paired t-test showed the larg
 - [Task completion time for the 150 cm bowel measurement did not significantly decrease after training](measurement-time-not-significantly-reduced.md) — related
 - [Progressive simulation-based laparoscopic training raised residents' suture test performance from 29% to 43% to 88% across three test points with significant differences between all mean scores](simulation-training-raises-laparoscopic-performance-29-43-88.md) — related
 - [During five-minute sessions, students averaged 3.68 beads placed on simulator I and 3.98 holes passed on simulator II, with few completing either task within the time limit](simulator-checklist-performance-five-minute-sessions.md) — related
+- [Task time did not decrease after TaTME training, unlike in earlier conventional laparoscopic training studies](no-task-time-reduction-tatme-training.md) — reports the opposite

@@ -70,3 +70,4 @@ Participation analysis of the Day 12 discussion, where Eve and Cal advanced conf
 - [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
 - [Ninth graders in a five-week symbolism module increased their participation and facility with literary interpretation practices](symbolism-module-increased-interpretive-participation.md) — related
 - [DLGs create egalitarian spaces for dialogue and exchange in which pupils contribute most of the talk](dlg-spaces-dialogue-exchange-pupil-talk.md) — related
+- [Peer facilitators show two distinct talk-turn patterns: behaving like students or like a classroom authority figure](peer-facilitator-two-talk-turn-patterns.md) — related

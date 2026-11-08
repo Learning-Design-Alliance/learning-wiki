@@ -64,6 +64,7 @@ Contextualized, meaningful tasks direct learner attention and effort more effect
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — learners' everyday quantitative experience in any currency or counting system is the entry point for new math-in-English tasks
 - [Acting/Role-Play](acting-role-play.md) — the communicative frame that turns a math task into language practice
 - [Use a bilingual WebQuest with authentic materials on measurement to develop ideas of new length units and conversion ways](bilingual-webquest-authentic-measurement-units-strategy.md)
+- [Implement clinical context in all numeracy- and statistics-related courses in medical education](clinical-context-in-numeracy-courses.md)
 
 ## Examples
 - **[EMPower (Extending Mathematical Power), TERC](https://www.terc.edu)** — an adult basic education mathematics curriculum built on open, discussion-based problem solving; widely adapted in ESOL-linked adult classrooms because its language demands are controlled and its tasks draw on adult experience.

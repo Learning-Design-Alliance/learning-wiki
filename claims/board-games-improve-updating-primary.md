@@ -68,3 +68,4 @@ Mixed-model analysis of the second-to-sixth-grade subsample (n = 270 play, n = 2
 ## Related Claims
 - [The board-game group showed greater pre-post improvement than controls in reading fluency, maths fluency and calculus in grades two to six](board-games-improve-reading-maths.md) — related
 - [Classroom board-game play improved inhibition in first grade but not in grades two to six, where inhibition and flexibility improved in both groups](board-games-inhibition-grade-dependent.md) — related
+- [Adaptive working-memory and cognitive-flexibility game training showed no statistically significant group differences over mock training in children with ASD, with a 26% attrition rate](braingame-brian-executive-function-training-no-group-differences.md) — related

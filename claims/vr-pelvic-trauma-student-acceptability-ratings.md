@@ -78,3 +78,4 @@ Descriptive questionnaire results in the same pilot; Table 2 prints Q3 means of 
 - [Trainees rate the simulation experience highly and overwhelmingly agree simulation training is essential in cardiovascular fellowship](high-trainee-satisfaction-with-simulation-training.md) — related
 - Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related
 - [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
+- [Students rate virtual patient cases as a rewarding learning experience that prepares them for real patients, but only partially experience authentic clinical decision-making](vp-design-evaluation-student-ratings.md) — related

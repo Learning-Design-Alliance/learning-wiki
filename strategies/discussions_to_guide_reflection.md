@@ -70,6 +70,7 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 - [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
 - [Managing a PBL class: heterogeneous small groups, facilitator monitoring, and a closing debriefing to correct misconceptions](pbl-class-management-groups-debriefing.md)
 - [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
+- [Provide explicit verbal instructions and facilitator prompting to guide students to articulate reasoning during in-class group work](explicit-instructions-prompt-reasoning-strategy.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns leading discussion of a text, articulating predicting, questioning, clarifying, and summarizing moves; the discussion makes comprehension strategies visible and reflective.

@@ -69,3 +69,8 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Cardiorespiratory fitness, flexibility and overall fitness are positively associated with academic achievement in all subjects, but muscular strength is not associated with Spanish language or mathematics](fitness-components-associated-with-academic-achievement.md) — related
 - [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
+- [Changes in aerobic fitness are positively associated with changes in academic achievement (GPA) over 2 years.](aerobic-fitness-change-gpa-association.md) — related
+- [Body fat percentage appears to hinder the predictive effect of fitness on academic achievement.](body-fat-hinders-fitness-gpa-effect.md) — a narrower finding that bears on this claim
+- [Aerobic and muscular fitness may positively predict academic achievement indirectly through motor skills.](fitness-indirect-effect-via-motor-skills.md) — related
+- [Better academic achievement predicts better motor skills, aerobic fitness, and muscular fitness one year later.](gpa-predicts-future-fitness.md) — related
+- [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — related

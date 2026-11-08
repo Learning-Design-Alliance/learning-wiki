@@ -49,3 +49,5 @@ Repeated measures analysis of the 60 trained children's prompt counts across fiv
 - [Prompt requirements for each scenario-protocol change differently over the series of problems](scenario-by-series-interaction-prompts.md) — related
 - [Prompt requirements differ between scenario-protocols, with the height-planning protocol (C) requiring the most prompts](prompt-requirements-differ-between-scenario-protocols.md) — related
 - [The number of prompts children needed during training predicted mathematics and technical reading achievement, while static pre- and post-test scores did not](prompt-count-predicts-math-reading.md) — related
+- [Children who receive graduated prompts dynamic training show larger gains in series-completion accuracy than untrained controls](dynamic-training-larger-irt-gain-scores.md) — related
+- [Dynamic training shifts children's verbal explanations: fewer non-inductive and more full-inductive explanations, but no significant change for no-answer or partial-inductive categories](dynamic-training-verbal-explanation-shifts.md) — related

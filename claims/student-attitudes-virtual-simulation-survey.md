@@ -74,3 +74,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Online assessment was conducted by a minority of educators but favored by a majority](online-assessment-conducted-versus-favored.md) — related
 - [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related
 - [Most students had received some CPR training and wanted to learn CPR, but fewer were willing to perform it](training-exposure-and-willingness-gap-shanghai-students.md) — related
+- [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related

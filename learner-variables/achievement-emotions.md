@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 266 claims (183 show a difference, 59 mixed, 24 no difference) · 163 studies (60 associational, 53 causal, 17 review, 13 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 39 of 163 report an effect size · 263 claims rest on one study
+> **Evidence** · 269 claims (184 show a difference, 59 mixed, 26 no difference) · 165 studies (62 associational, 53 causal, 17 review, 13 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 39 of 165 report an effect size · 266 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -301,6 +301,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Big Five factors relate to achievement emotions stably across class, study and testing situations, with neuroticism linked to negative emotions and conscientiousness to positive emotions](../claims/big-five-achievement-emotions-three-situations.md) [+M] — learners who differ on it differ in outcomes
 - [Emotion-focused coping strategies positively predict negative achievement emotions, while problem-focused coping strategies predict no type of emotion](../claims/emotion-focused-coping-predicts-negative-emotions.md) [~M] — learners who differ on it differ in outcomes
 - [Wi-Fi signal interruptions and smartphone technical failures were a major barrier to the Just Dance Now exergame, causing student frustration](../claims/wifi-technical-failures-major-barrier.md) [+M] — measured as an outcome of the instruction studied
+- [Boredom with school subjects does not significantly predict academic grades](../claims/subject-boredom-does-not-predict-grades.md) [-M] — learners who differ on it differ in outcomes
+- [Negative and positive emotional functioning each independently predict academic achievement scores in stepwise multiple regression](../claims/emotional-functioning-independently-predicts-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Neither negative nor positive emotional functioning alone was statistically powerful enough to explain achievement scores independently of the other](../claims/single-emotional-dimensions-insufficient-predictors.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

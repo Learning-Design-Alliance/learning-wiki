@@ -52,3 +52,4 @@ Cross-sectional discriminative validation comparing four expertise groups (17 ex
 - [Intermediate microsurgeons complete task segments faster than novices, significantly in the first three segments](intermediates-faster-completion-time-microsurgery.md) — related
 - [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](vrs-performance-gains-novice-intermediate-only.md) — related
 - [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — a broader claim this one bears on
+- [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related
