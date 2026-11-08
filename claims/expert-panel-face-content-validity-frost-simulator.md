@@ -52,3 +52,5 @@ Structured questionnaire administered to a panel of six MFM specialists, three p
 - [Expert raters scored the DNH model highest on anatomical accuracy and overall appearance, with weakest ratings for mucosal layer thickness replication](dnh-model-realism-ratings-profile.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
 - [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related
+- [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
+- [Nurse-midwifery students rated Essential and Advanced LSMs realistic when engorged (6.3/7) and not engorged (6.5/7) but were unsure the skin felt realistic (4.3/7)](midwifery-student-lsm-realism-2017.md) — related

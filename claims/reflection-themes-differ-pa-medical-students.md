@@ -67,3 +67,4 @@ Qualitative coding of free-text reflections: PA students more often reported kno
 - [Both PA and medical students improve diagnostic accuracy during eCREST cases, with PAs starting higher and medical students improving more steeply](both-groups-improve-diagnostic-accuracy-ecrest.md) — related
 - [PA and medical students ask similar proportions of essential questions and select similar essential physical exams and bedside tests in eCREST cases](pa-medical-students-similar-data-gathering-ecrest.md) — related
 - [PA and medical students show similar flexibility in thinking about diagnoses when using eCREST](pa-medical-students-similar-diagnostic-flexibility-ecrest.md) — related
+- [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related

@@ -70,3 +70,4 @@ Same one-group pre-post quantitative evaluation of the OMP-based PEP with 30 pre
 - [Tutors identified probing for underlying reasoning (micro-skill 2) as the main benefit of the OMP, changing how they elicited students' clinical reasoning](omp-probing-reasoning-main-benefit.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
 - [Clinical tutors in Swedish primary care experienced the OMP as a flexible, easy-to-use model applicable across student levels and clinical situations](omp-experienced-flexible-easy-to-use-phc.md) — related
+- [Nurse preceptors' self-rated clinical teaching competency scores, in total and in all four CTCI subdomains, were higher after the CTBL program than before it, in a single-group study](ctbl-increased-clinical-teaching-competency.md) — related

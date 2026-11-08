@@ -70,3 +70,4 @@ The same models show relative-position effects are much smaller than the overall
 - Students attending higher-performing Chicago high schools have lower GPAs, on average, than similar students at lower-performing schools — related
 - [Selecting students for the math circle initiated a labeling process designating them as good at math among peers, teachers, and parents](math-circle-selection-labeling-good-at-math.md) — related
 - [Ninth-grade teachers vary substantially and systematically in the grades they give](teacher-total-grade-effects-vary-substantially.md) — related
+- [Items explicitly referring to grades are positively related to students' grades across three school subjects](grade-referencing-items-positively-related-to-grades.md) — related

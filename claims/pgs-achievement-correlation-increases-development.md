@@ -52,3 +52,4 @@ Correlational analyses in the TEDS twin sample across four waves (ages 7, 9, 12,
 - [Non-cognitive skills predict academic achievement beyond cognitive ability at every stage of compulsory education, with self-reported prediction increasing from β = 0.10 at age 9 to β = 0.58 at age 16](ncs-predict-achievement-beyond-cognition.md) — related
 - [NonCog polygenic score prediction of academic achievement increases across development, reaching effects comparable to the Cog PGS by age 16 (β = 0.22)](noncog-pgs-prediction-increases-development.md) — related
 - [Within-family sibling-difference analyses show the direct NonCog PGS effect on achievement also increases from age 7 to 16, while direct Cog PGS effects remain stable](within-family-noncog-effect-increases.md) — related
+- [Prediction of educational achievement from GPS and SES increases steadily from age 7 to age 16](gps-ses-prediction-increases-school-years.md) — related

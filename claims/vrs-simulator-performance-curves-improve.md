@@ -78,3 +78,4 @@ Authors' interpretation of two included studies' performance curves: surgeons' s
 - [VR training improves surgical performance and reduces the learning curve for complex procedures](vr-training-improves-surgical-performance.md) — related
 - [Learning curves improve under both basic and procedural VR training, with the greatest improvements seen in the procedural tasks](learning-curve-gains-both-modalities-procedural-greatest.md) — a narrower finding that bears on this claim
 - [VR-based surgical simulation addresses the non-reusable and expensive nature of physical oral implant training materials](vr-simulation-avoids-physical-material-waste.md) — related
+- [Beginner participants improved their simulator scores after repeated practice, with significant improvement after 10 experiments](epidurosim-beginners-improve-repeated-practice.md) — a narrower finding that bears on this claim

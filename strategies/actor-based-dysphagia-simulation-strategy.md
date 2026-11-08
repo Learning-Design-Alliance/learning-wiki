@@ -48,6 +48,7 @@ To address mannequin limitations, the authors recommend using real actors who ca
 ## Related Strategies
 
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
+- [Use realistic simulation scenarios of STEMI assistance, adjusted to the local health system, in undergraduate medical teaching](realistic-stemi-simulation-teaching-strategy.md)
 
 ## Examples
 -

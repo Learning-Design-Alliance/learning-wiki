@@ -47,3 +47,4 @@ Cognitive ethnographic analysis of 80 hours of observation of 27 PGY-1 residents
 ## Related Claims
 - [PGY 1 residents made more training errors than higher PGYs, and errors partially mediated PGY level's effect on adaptive expertise (40.9%)](pgy1-errors-mediate-seniority-reversal.md) — related
 - [The difficult EMT learning strategy is more effective for residents earlier in training, with a significant cohort-by-PGY interaction on adaptive expertise](pgy-moderates-emt-adaptive-expertise.md) — related
+- [Participating in pandemic-era operational adaptations exposes residents to a real-life example of systems-based practice](pandemic-adaptations-systems-based-practice-exposure.md) — related

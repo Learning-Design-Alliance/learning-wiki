@@ -50,3 +50,4 @@ Pre–post questionnaire study of 35 pre-service teachers in a semester-long sem
 - [Qualitative evaluations report that co-teaching by individuals with Disorders of Intellectual Development deepens students' understanding and increases empathy and comfort in interactions](qualitative-student-benefits-id-coteaching.md) — reports the opposite
 - [A single three-hour communication skills session involving tutors with intellectual disability reduced medical students' self-reported discomfort interacting with people with developmental disabilities](id-tutor-session-reduces-medical-student-discomfort.md) — related
 - [Pre-service teachers' empathy positively predicts their attitudes toward inclusive education](empathy-predicts-attitudes-inclusive-education.md) — related
+- [Overall empathy scores of pre-clinical medical students did not change significantly after a semester-long project-based empathy course](pbl-empathy-course-no-overall-change.md) — related

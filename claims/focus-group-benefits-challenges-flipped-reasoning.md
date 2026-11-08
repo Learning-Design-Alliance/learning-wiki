@@ -53,3 +53,4 @@ Focus group interview one week after the survey with seven volunteers (three fem
 - [Preclinical medical students responded positively to case-based flipped learning with illness script worksheets, rating it effective for clinical reasoning development](preclinical-students-positive-response-flipped-clinical-reasoning.md) — related
 - [Professors rated the flipped clinical reasoning course positively, with a mean of 3.43 out of 4](professors-positive-response-flipped-clinical-reasoning.md) — related
 - [Focus group discussion of ForPEC yielded comments categorized as completeness, practicality and usefulness](forpec-focus-group-completeness-practicality-usefulness.md) — related
+- [Students cite research skill development, collaboration skills, active learning, and increased motivation as the most beneficial aspects of the PBL-based CRE](cre-open-ended-benefits.md) — related

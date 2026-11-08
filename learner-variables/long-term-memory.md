@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 249 claims (146 show a difference, 61 mixed, 42 no difference) · 165 studies (91 causal, 32 review, 17 quant-synthesis, 10 theoretical, 9 associational, 3 qualitative, 3 design), `q1`–`q4` · 54 of 165 report an effect size · 241 claims rest on one study
+> **Evidence** · 250 claims (146 show a difference, 61 mixed, 43 no difference) · 166 studies (91 causal, 32 review, 17 quant-synthesis, 10 associational, 10 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 54 of 166 report an effect size · 242 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -284,6 +284,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Grammar school students are the only school type benefiting significantly from grade retention and repetition in the short-, middle- and long-term, while general school students show no significant effects](../claims/school-type-heterogeneous-well-being-trajectories.md) [~M] — measured as an outcome of the instruction studied
 - [Students who engaged in no repetition activity scored significantly lower on long-term anatomical retention than all other groups](../claims/no-repetition-lower-long-term-anatomical-retention.md) [+M] — measured as an outcome of the instruction studied
 - [The type of repetition activity (test-only, lecture, e-learning module, or small-group dissession) did not affect long-term retention of anatomical knowledge](../claims/repetition-format-no-effect-retention.md) [-M] — measured as an outcome of the instruction studied
+- [Prior newborn-care training did not improve skill retention and was associated with poorer retention in the Non-Breathing Baby scenario](../claims/prior-training-did-not-improve-retention.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

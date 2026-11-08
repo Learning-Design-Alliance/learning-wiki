@@ -56,3 +56,4 @@ Domain-specific analysis of 20-item BLS knowledge questionnaire responses from 2
 - [Specific advanced hypothermia decision items showed low accuracy, ranging from 45% to 94% across the scenario's 16 questions](vr-scenario-item-accuracy-range-45-94.md) — related
 - [Gaza doctors and nurses show significant BLS knowledge gaps in resuscitation sequence, compression depth, advanced-airway ventilation and choking response](gaza-hcw-bls-knowledge-gaps.md) — related
 - [About half of newly licensed Italian physicians had adequate theoretical knowledge of CPR, well below their expected competence](half-of-new-physicians-adequate-cpr-theory.md) — related
+- [Only about 7.7% of surveyed Shanghai senior high school students reached the CPR knowledge qualification threshold, with pass rates lowest for defibrillation items](shanghai-high-school-cpr-qualification-rate-7-7-percent.md) — related

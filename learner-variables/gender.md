@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 628 claims (335 show a difference, 142 mixed, 151 no difference) · 446 studies (222 associational, 165 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 446 report an effect size · 620 claims rest on one study
+> **Evidence** · 634 claims (339 show a difference, 142 mixed, 153 no difference) · 450 studies (225 associational, 165 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 450 report an effect size · 626 claims rest on one study
 
 ## How to read this page
 
@@ -667,6 +667,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](../claims/women-higher-course-grades-stem-courses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women had significantly higher university-wide GPAs than men, with the gap reversing for first-year students](../claims/women-higher-university-gpa-level-gender-interaction.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women were marginally about 1.5 times more likely than men to earn a top grade (A or A+), failing to support the variability hypothesis](../claims/women-more-likely-top-grades-stem.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A higher proportion of males than females report being completely comfortable in 4, 8, and 12 or more of the 24 scenarios (p < 0.05)](../claims/males-more-likely-completely-comfortable-many-scenarios.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender divide in intimate examination exposure is pronounced, with males far more likely to have performed male genitalia and prostate examinations and females breast examinations](../claims/intimate-examination-gender-divide-jordan.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male response patterns show bimodal distributions, with a small subset of males reporting high or very high comfort](../claims/bimodal-male-comfort-distributions.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Males report significantly higher median comfort than females for upper-level, gender, and religion related interactions](../claims/males-higher-comfort-upper-level-gender-religion.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No gender differences or year-by-gender interaction effects in SDLRS or GCS scores](../claims/no-gender-effects-sdlrs-gcs.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Pre-test empathy scores did not differ by gender in this cohort](../claims/pbl-empathy-no-gender-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

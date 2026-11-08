@@ -51,3 +51,4 @@ Within‐level path from the multilevel model for autonomous motivation. The pri
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — a broader claim this one bears on
 - [Within‐classroom variation in teacher and student perceptions of need support is considerably larger than between‐classroom variation, indicating teachers differentiate between students](within-class-variation-need-support-larger-than-between-class.md) — related
+- [Perceived teacher autonomy support positively predicts students' basic psychological needs satisfaction in college classes](autonomy-support-predicts-bpn-satisfaction-college.md) — related

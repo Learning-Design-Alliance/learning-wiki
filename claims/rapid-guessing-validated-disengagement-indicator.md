@@ -56,3 +56,6 @@ The presentation asserts, citing prior research, that rapid guessing is "a valid
 - [Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math](serious-disengagement-retest-zero-guessing-gains.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
 - [E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement](em-scoring-assumes-remaining-responses-unaffected.md) — related
+- [Discussing low test performance with a mentor is associated with much higher odds of serious test-taking behavior in a low-stakes progress test](mentor-discussion-low-performance-serious-test-taking.md) — related
+- [Presentation type and individuality of discussed results show no significant relation to serious test-taking behavior as main effects](null-presentation-type-individuality-results.md) — related
+- [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related

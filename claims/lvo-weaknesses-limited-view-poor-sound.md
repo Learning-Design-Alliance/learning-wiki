@@ -55,3 +55,4 @@ Paired-samples t-test results from Wave 2 (all 40 students rating both methods).
 - [After experiencing only live video observations, students rate nearly all aspects of the experience significantly positively except seeing and hearing everything in the classroom](wave3-lvo-ratings-significant-except-see-hear.md) — related
 - [Fusing pose information from multiple camera views makes the model's pose-related ratings more robust than single-view human judgements, which are limited by participant angle and initial posture.](multiview-fusion-robust-pose-ratings.md) — related
 - [Poor-quality video production increases learners' cognitive load and decreases learning gains](poor-video-quality-increases-cognitive-load.md) — related
+- [Live video streaming engaged a wider audience but poor lighting and audio limited its efficacy](video-streaming-engaged-audience-limited-by-audio-lighting.md) — related

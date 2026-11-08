@@ -68,3 +68,5 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Participants in two faculty development workshops reported high ratings for clarity, organization, and relevance of the workshop](faculty-development-virtual-teaching-workshop-high-ratings.md) — related
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
+- [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
+- [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related

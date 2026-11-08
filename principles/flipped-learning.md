@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 180 claims (111 for, 65 mixed, 4 against) · 115 studies (67 causal, 19 quant-synthesis, 13 review, 6 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 115 report an effect size · 172 claims rest on one study
+> **Evidence** · 181 claims (111 for, 66 mixed, 4 against) · 116 studies (68 causal, 19 quant-synthesis, 13 review, 6 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 116 report an effect size · 173 claims rest on one study
 
 ## Conditional relationship
 
@@ -221,6 +221,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Transitioning a dental materials course to a flipped classroom format was followed by positive shifts in student satisfaction feedback across delivery, time, accessibility and content](../claims/fc-transition-positive-scef-feedback-dental-materials.md) [+W] — attached 2026-11-08 from Binnie Rebecca S. L. (2021), which proposed "Protect timetable time for flipped pre-class preparation and budget staff time for recording and editing".
 - [Flipped classroom combined with a human anatomy web-based learning system produced higher post-quiz anatomy scores than traditional classroom teaching in medical freshmen](../claims/flipped-classroom-web-system-higher-anatomy-post-quiz.md) [+W] — attached 2026-11-08 from Yang C et al. (2020), which proposed "Two-stage flipped classroom design: pre-class self-study with the web system followed by interactive in-class application"; tests this page's relationship.
 - [Second-year nursing students taught with blended learning combined with a flipped classroom design achieved significantly higher course grades than students taught by traditional teacher-centred learning](../claims/blended-flipped-learning-higher-nursing-course-grades.md) [+W] — attached 2026-11-08 from Halasa S et al. (2020), which proposed "Combine blended learning with a flipped classroom design so students prepare material at home and class time is used for higher-order, student-centred work".
+- [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](../claims/fc-ebm-open-ended-feedback-ebook-case-discussion.md) [~W] — attached 2026-11-08 from Huang Hsien-Li et al. (2020), which proposed "Streamline lecture content into short interactive eBook units for pre-class self-study when flipping an EBM course".
 
 ## Objective and learner-valued goal
 

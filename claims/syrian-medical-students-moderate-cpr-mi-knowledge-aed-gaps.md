@@ -54,3 +54,4 @@ Cross-sectional online survey of 500 undergraduate medical students from nine Sy
 - [Students at public Syrian universities show higher CPR and MI knowledge than private-university peers after adjustment](public-university-higher-cpr-mi-knowledge-syria.md) — related
 - [Greater self-reported willingness to intervene in emergencies is associated with higher CPR knowledge among Syrian medical students](willingness-to-act-associated-cpr-knowledge.md) — related
 - [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](gender-difference-clinical-surgical-knowledge-syria.md) — related
+- [Only about 7.7% of surveyed Shanghai senior high school students reached the CPR knowledge qualification threshold, with pass rates lowest for defibrillation items](shanghai-high-school-cpr-qualification-rate-7-7-percent.md) — related

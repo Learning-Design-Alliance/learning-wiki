@@ -58,6 +58,7 @@ Participants and faculty proposed concrete design features: dedicated simulation
 - [Improve simulation-based learning through curriculum integration, increased capacity with low-cost local materials, open access, and a designated simulation coordinator](rwanda-simulation-improvement-strategy.md)
 - [Adopt tabletop and virtual formats, and interprofessional participation, to address resource burden and the absence of IPE in on-call simulation](tabletop-and-ipe-innovation-for-on-call-simulation.md)
 - [Simulate the actual ED's resource constraints, including realistic delays for lab and radiology results](simulate-local-resource-constraints.md)
+- [Expand the simulation to an interprofessional audience by adding profession-specific content, faculty, and adjusted assessments](interprofessional-expansion-med-rec-simulation-strategy.md)
 
 ## Examples
 -

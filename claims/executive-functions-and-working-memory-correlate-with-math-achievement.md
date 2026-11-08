@@ -69,3 +69,5 @@ The authors relate this to the load of mathematical problem solving, which requi
 - [A recent meta-analysis of 8,760 children from 25 studies found small to medium effect sizes for the association between SES and EF](meta-analysis-ses-ef-effect-sizes.md) — related
 - [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — a broader claim this one bears on
 - [Academic achievement correlates weakly to moderately with all executive functions in the total sample and in both sexes](efs-correlate-academic-achievement-both-sexes.md) — a broader claim this one bears on
+- [Poorer cognitive flexibility and working memory performance correlate moderately with poorer academic progress (r = −.33 to −.35)](ant-flexibility-working-memory-correlate-academic-progress.md) — a narrower finding that bears on this claim
+- [Academic achievement was positively correlated with all three executive function domains in both boys and girls](executive-function-categories-higher-academic-grades.md) — related

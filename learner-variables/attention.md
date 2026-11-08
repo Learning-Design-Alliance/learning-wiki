@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 210 claims (138 show a difference, 43 mixed, 29 no difference) · 156 studies (54 causal, 41 associational, 24 review, 15 quant-synthesis, 10 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 31 of 156 report an effect size · 204 claims rest on one study
+> **Evidence** · 211 claims (138 show a difference, 44 mixed, 29 no difference) · 157 studies (55 causal, 41 associational, 24 review, 15 quant-synthesis, 10 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 31 of 157 report an effect size · 205 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -248,6 +248,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Most participants (81.4%) did not feel distracted by the music, and overall course satisfaction was high (9.2/10)](../claims/low-subjective-distraction-high-satisfaction-music-training.md) [-M] — measured as an outcome of the instruction studied
 - [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](../claims/attentional-capacity-novice-implant-automation.md) [+W] — measured as an outcome of the instruction studied
 - [Free-text keyword-recognition problems in virtual patients did not distract most trainees from learning](../claims/vp-keyword-recognition-issues-not-detracting.md) [-M] — measured as an outcome of the instruction studied
+- [Qualitative feedback identifies novelty, immersion and helpful spatial visualisation in MR, but distraction, overwhelm and unhelpfulness for nominal learning](../claims/qualitative-themes-mr-novelty-distraction.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

@@ -77,3 +77,4 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 - [Control-group focus-group participants perceived their structured debriefing as superficial, focused on general overview rather than critical reflection](control-debriefing-perceived-superficial.md) — related
 - [Feedback via simulation debriefing acts as a mirroring tool that builds self-knowledge and ownership of actions](debrief-feedback-mirror-self-knowledge-ownership.md) — related
 - [Real-time spectator observation plus group debriefing was followed by constantly decreasing procedure time despite increasing scenario difficulty](spectator-debriefing-decreasing-procedure-time.md) — related
+- [Residents reported discomfort being videotaped and watched in groups, and facilitators struggled to link video feedback with theoretical references](vf-real-consultations-challenges-discomfort-theory-linkage.md) — related

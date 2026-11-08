@@ -49,6 +49,7 @@ The article recommends that educators should develop an integrated laparoscopic 
 - [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
+- [Use low-cost homemade box trainers to expand access to laparoscopic training in resource-limited settings](low-cost-homemade-box-trainers-resource-limited-settings.md)
 
 ## Examples
 -

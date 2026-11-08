@@ -55,3 +55,4 @@ Prospective pilot case-control study measuring CPR-SES (range 20–160) before a
 - [Adding a SimZone 0 interactive-video preparatory phase before instructor-led CPR training is associated with significantly higher competence retention at 6 months among nursing students](zone0-iv-cpr-competence-retention-6-months.md) — related
 - [Before training, the two groups showed no significant differences in CPR knowledge, skill scores, or technique performance](no-pre-training-differences-between-groups.md) — related
 - [Students' self-perceived ability to perform CPR was similar in both groups immediately and at seven months, with higher means in the blended group](als-cpr-self-perception-similar.md) — related
+- [Simulation-based training improves immediate knowledge-test scores of primary care professionals in critical patient care](simulation-training-improves-pc-knowledge-critical-care.md) — related

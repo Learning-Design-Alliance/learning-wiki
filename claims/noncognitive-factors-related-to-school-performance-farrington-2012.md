@@ -60,3 +60,4 @@ This white paper reports, citing its predecessor critical review by Farrington e
 - [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — a narrower finding that bears on this claim
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — a narrower finding that bears on this claim
+- [Perseverance shows the highest bivariate correlation with academic performance, while autonomy support is not correlated with grades](perseverance-highest-correlation-grades.md) — a narrower finding that bears on this claim

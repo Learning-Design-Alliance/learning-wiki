@@ -119,3 +119,5 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related
 - [In one single-group pre-post study, physicians' total primary assessment performance was significantly better immediately after the course and at 3–4 months follow-up than before the course](simulation-course-improves-abcde-primary-assessment.md) — related
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — a narrower finding that bears on this claim
+- [Playing the RETAIN board game improved NRP providers' knowledge retention of the neonatal resuscitation algorithm in a small single-site study](retain-board-game-improves-knowledge-retention.md) — a narrower finding that bears on this claim
+- [Among unqualified students, willingness to perform CPR and recent training both decline as school grade increases](willingness-and-recent-training-decline-with-grade.md) — related

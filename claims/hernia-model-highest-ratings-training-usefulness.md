@@ -51,3 +51,5 @@ Results of the post-training Likert questionnaire (Table 2) completed by 28 surg
 - [Most participating surgeons had limited TAPP herniorrhaphy experience, and a majority reported high laparoscopic volume](participant-experience-profile-hernia-model-evaluation.md) — related
 - [Trainees who have practised on simulators enter the operating room more self-assured, and expert mentors spend less time teaching basic skills](simulation-confidence-and-mentor-time-benefits.md) — related
 - [Surgeons rate the simulation model as educationally beneficial, immersive and realistic, and overwhelmingly agree more complication-management training is needed](surgeon-questionnaire-support-for-pcr-simulation-model.md) — related
+- [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
+- [Simulation-based learning cannot replace operating-room skills acquisition but can catalyse students' transition from the learning phase to the competency phase](sbl-catalyses-learning-to-competency-transition.md) — related

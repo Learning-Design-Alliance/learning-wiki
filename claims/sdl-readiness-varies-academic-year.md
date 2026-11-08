@@ -55,3 +55,4 @@ One-way ANOVA across the five academic years in the cross-sectional survey; firs
 - [Compassion competence, caring behaviours, and professional commitment all differed significantly by academic semester, with third-semester students highest on compassion competence](academic-semester-differences-compassion-caring-commitment.md) — related
 - [Mental health varies by year of study: fourth-year students of both genders scored lowest, with female peaks in year one and male peaks in year three](scl90-by-year-of-study.md) — related
 - [Academic success differs by school, with medical students scoring lowest (P = 0.011)](school-differences-academic-success-medicine-lowest.md) — related
+- [Group cohesion scores increase significantly as medical students progress through school years](gcs-increases-across-school-years.md) — related

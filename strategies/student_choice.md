@@ -60,8 +60,10 @@ Choice supports motivation primarily by satisfying the need for autonomy, one of
 6. Debrief the choice itself — what learners would choose differently next time — to build transferable decision-making skill.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured cycle that wraps choice in planning and reflection routines
 - [Goal-Setting](../elements/goal-setting.md) — choice becomes more effective when learners articulate why they chose a path
+- [Offer students a range of professor-suggested research topics to choose from when selecting their own proves frustrating](professor-suggested-topic-options-strategy.md)
 
 ## Examples
 - **Writer's Workshop (Teachers College Reading & Writing Project)** — students choose their own writing topics and genres while the teacher structures the writing process stages; topic choice is the autonomy lever within a fixed process.

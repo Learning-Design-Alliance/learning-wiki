@@ -49,3 +49,4 @@ Two-way ANOVA of task accuracy from the clinical reasoning task (16 easy and 16 
 - [Correctly diagnosed cases involved more time on history and physical exam, fewer tests and test rounds, and fewer test-ordering penalties](correct-cases-more-time-fewer-tests-fewer-penalties.md) — related
 - [First-year students completing 20 cases outperformed second-year students completing 10 cases in all clinical reasoning metrics by end of pre-clerkship](m1-20-cases-outperform-m2-10-cases.md) — related
 - [Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers](bioworld-successful-solvers-faster-fewer-actions.md) — related
+- [Final-year students' ASCLIRE performance ranks between pre-clerkship students and medical experts, supporting the test's validity](asclire-performance-between-novices-and-experts.md) — related

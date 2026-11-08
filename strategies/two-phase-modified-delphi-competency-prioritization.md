@@ -55,6 +55,7 @@ The study demonstrates a replicable strategy for competency development: an inte
 - [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
 - [Use a two-round modified Delphi survey to prioritise e-learning topics separately for students and educators](modified-delphi-topic-prioritisation-strategy.md)
 - [Use a Delphi panel with predefined inclusion and stopping criteria to build cross-institution consensus on procedure steps](delphi-consensus-for-procedure-breakdown.md)
+- [Use nominal group technique in expert workshops to reach consensus on training principles](nominal-group-technique-expert-consensus.md)
 
 ## Examples
 -

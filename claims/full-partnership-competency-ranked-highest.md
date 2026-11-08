@@ -48,3 +48,4 @@ Overall ranking from the Q-sort of all 69 participants, reported in Table 3: thi
 ## Related Claims
 - [The lowest-ranked competencies were judged not specific to nursing, requiring a multidisciplinary approach, or requiring patients and families to take their own responsibility](three-themes-lowest-ranked-fcc-competencies.md) — related
 - [Thematic analysis of commentaries on the highest-ranked competencies yielded four themes: preconditions for FCC, partnership promotion, basic element of nursing, and positive attitude toward FCC](four-themes-highest-ranked-fcc-competencies.md) — related
+- [The highest-rated enabling competency is communicating with respect and empathy with patients and loved ones (mean 5.02)](empathy-communication-highest-enabling-competency.md) — related

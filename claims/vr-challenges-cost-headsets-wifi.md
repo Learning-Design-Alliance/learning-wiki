@@ -79,3 +79,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
 - [Despite generational familiarity with technology, students uniformly requested more familiarization with VR hardware and free exploration before managing a virtual patient](students-requested-vr-hardware-familiarization.md) — related
+- [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related

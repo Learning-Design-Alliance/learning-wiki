@@ -56,3 +56,4 @@ Within-group Wilcoxon signed-rank pre-post comparisons in the quasi-experiment; 
 - [Diagnosis, treatment planning, and patient counseling scores rose from pre-test to post-test after informed AI use, in one uncontrolled pre-post study](ai-informed-gains-across-three-skill-domains.md) — related
 - [In both groups, knowledge post-test and persistence test scores rose significantly above pre-test, and persistence scores exceeded post-test scores](intragroup-knowledge-gains-both-groups.md) — related
 - [Patients perceived no differences between trained and untrained students, rating both groups very positively](patients-perceive-no-communication-training-differences.md) — related
+- [In one uncontrolled pre-post study, the proportion of interns informing patients of their current physical condition rose from 8.67% to 39.34% after training with the communication software](software-training-informing-physical-condition.md) — related

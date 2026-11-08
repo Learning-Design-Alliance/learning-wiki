@@ -50,3 +50,5 @@ Post-OSCE questionnaire comparison of the two groups: Rosenberg scores (28.53 vs
 - [NM competence is positively correlated with total empathy score (r=0.229), with no correlation found with the four personality trait dimensions](nm-competence-correlates-empathy-not-personality.md) — related
 - [Neither self-assessment, self-efficacy change, nor self-video activity was significantly associated with OSCE performance in novice ultrasound training](no-quantitative-predictors-of-osce-ultrasound.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — reports the opposite
+- [Pre-test empathy scores did not differ by gender in this cohort](pbl-empathy-no-gender-difference.md) — related
+- [Video-based feedback on real consultations is associated with a significant group-by-time increase in residents' self-perceived empathy on the Jefferson Scale](vf-real-consultations-increases-self-perceived-empathy.md) — related

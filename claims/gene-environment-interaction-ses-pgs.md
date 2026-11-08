@@ -58,3 +58,4 @@ Table 6 models using a PCA summary score of SES in the combined sample. The like
 - [The observed gene-by-environment pattern supports the diathesis-stress model over the bioecological model of G × E interaction on reading, in this sample of unrelated children](diathesis-stress-model-supported-reading-gxe.md) — related
 - [Non-transmitted parental polygenic scores predict offspring educational attainment, evidencing genetic nurturing effects in adults](genetic-nurturing-nontransmitted-pgs-adult-attainment.md) — related
 - [Within-family ADHD polygenic score effects on achievement vary between schools, constituting a gene–environment interaction uncontaminated by school selection](within-family-adhd-pgs-school-gene-environment-interaction.md) — related
+- [GPS-by-SES interaction is small and opposite in direction to the gene-by-environment amplification hypothesis](gps-ses-interaction-small-opposite-direction.md) — reports the opposite

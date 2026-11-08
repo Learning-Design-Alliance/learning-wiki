@@ -76,6 +76,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 - [Use staged, short-interval, high-frequency emergency training with immediate practice while knowledge is fresh to consolidate first aid knowledge and skills](staged-short-interval-emergency-training-strategy.md)
 - [Structure surgical skills courses as short weekly spaced sessions instead of a single massed day](spaced-weekly-sessions-surgical-skills-courses.md)
+- [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 
 ## Examples
 -

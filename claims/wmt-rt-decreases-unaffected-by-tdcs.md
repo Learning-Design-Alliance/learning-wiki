@@ -53,3 +53,4 @@ Mixed ANCOVAs on RTs of verbal 4- and 6-back tasks at Post1 and Post21, controll
 - [HD-tDCS facilitated and enhanced training-induced increases in frontal task-related theta, alpha, beta, and gamma power](tdcs-enhances-task-related-eeg-power-gains.md) — related
 - [HD-tDCS combined with mental rotation training shows no significant group effect or Group × Time interaction on accuracy, response time, or P300 GFP](hd-tdcs-no-added-effect-mental-rotation-training.md) — related
 - [Fifty minutes of adaptive n-back training produced small but significant accuracy gains and response-time decreases with large individual differences](fifty-minute-nback-training-improves-accuracy-and-response-time.md) — related
+- [Both training groups improve equally in speeded character matching, with no training-type difference in accuracy or response time](character-matching-improves-equally-both-groups.md) — related

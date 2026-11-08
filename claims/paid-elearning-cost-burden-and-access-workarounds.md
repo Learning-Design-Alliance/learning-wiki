@@ -70,3 +70,4 @@ Descriptive survey result on access methods among the same 119 respondents. "40%
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
 - [Performance-based payment privileging measurable clinical output was perceived as producing role conflict between service provision and teaching](performance-based-payment-role-conflict-teaching.md) — related
 - [Most medical students who used paid e-learning resources for school exams perceived an improvement in their exam scores](paid-elearning-perceived-exam-score-improvement.md) — related
+- [Experts describe medical students as suffering 'information overload', making learning lengthier at the expense of doing](information-overload-undergraduate-surgery.md) — related

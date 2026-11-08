@@ -77,3 +77,4 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Self-rated competency scores rose from pre-test to post-test for all technical skills after the online surgical skills course, in one uncontrolled pre-post study](self-rated-competency-improves-online-course.md) — a narrower finding that bears on this claim
 - [Simulators were not integrated into surgical specialist training in 81.8% of clinics, though 94% favored future integration](simulator-training-rarely-integrated-into-surgical-training.md) — related
 - [Simulation-trained residents report higher willingness to repeat the training, while training satisfaction rates do not differ](st-willingness-retrain-higher.md) — a narrower finding that bears on this claim
+- [Department-wide acceptance and integration increased students' willingness to use Learning Moment, with utility rising as peer use rose](lm-department-wide-acceptance-theme.md) — related

@@ -50,3 +50,4 @@ Cohort comparison of seven M1 cohorts against three M2 cohorts who had not used 
 - [Diagnostic justification scores and cognitive errors are the strongest multivariate predictors of diagnostic accuracy](dxj-and-cognitive-errors-strongest-predictors.md) — related
 - [Correct diagnoses are associated with higher diagnostic justification and test-ordering scores and fewer cognitive errors in pre-clerkship virtual patient cases](correct-diagnoses-higher-dxj-fewer-cognitive-errors.md) — related
 - [Expert gastroenterologists diagnose more clinical cases accurately than second-year medical students](experts-outperform-novices-diagnostic-accuracy.md) — related
+- [Final-year students' ASCLIRE performance ranks between pre-clerkship students and medical experts, supporting the test's validity](asclire-performance-between-novices-and-experts.md) — related

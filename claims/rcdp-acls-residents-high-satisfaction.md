@@ -53,3 +53,4 @@ Post-course survey of 21 participants from the eight offerings of the RCDP ACLS 
 - [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related
+- [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related

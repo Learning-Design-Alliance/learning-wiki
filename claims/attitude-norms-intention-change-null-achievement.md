@@ -51,3 +51,4 @@ Null findings from the linear mixed model analysis of the three-wave Lebanese ad
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
 - [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related
 - [Increases in academic self-efficacy are associated with higher academic achievement at 12 months but not at 6 months in Lebanese adolescents](self-efficacy-increase-achievement-12-months-only.md) — related
+- [Among the extended TPB's additional measures, only past behaviour correlated significantly with intention; social pressure and modelling did not](social-pressure-modelling-no-intention-correlation.md) — related

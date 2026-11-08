@@ -87,3 +87,4 @@ The review attributes to Arlington et al. the finding of skill decay 4–6 month
 - [Team training in neonatal resuscitation improved team performance on simulated re-evaluation at 3 and 6 months, but studies of neonatal outcomes are inconclusive](resuscitation-team-training-simulated-performance.md) — related
 - [Only 11.2% of midwives and nurses in Eastern Ethiopia public health facilities demonstrated good retention of basic neonatal resuscitation skills](low-nr-skill-retention-eastern-ethiopia.md) — a narrower finding that bears on this claim
 - [LDHF/m-mentoring trainees reported reductions in maternal and neonatal morbidity and mortality and improved knowledge and skills in qualitative follow-up](qualitative-trainee-reported-outcome-improvements.md) — related
+- [Prior newborn-care training did not improve skill retention and was associated with poorer retention in the Non-Breathing Baby scenario](prior-training-did-not-improve-retention.md) — related

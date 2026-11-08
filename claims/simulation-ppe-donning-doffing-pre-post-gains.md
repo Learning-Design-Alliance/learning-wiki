@@ -58,3 +58,4 @@ Pre-post simulation-based educational intervention on PPE donning/doffing, repor
 - [Higher cognitive load during simulation is associated with a reduced odds of subsequently identifying a trained clinical sign](cognitive-load-negatively-associated-diagnostic-performance.md) — related
 - [In-situ simulation significantly increases physician comfort with PPE donning and doffing for COVID-19 aerosol-generating procedures](insitu-sim-ppe-comfort-gain.md) — related
 - [The majority of participants experienced problems with simulated self-contamination during PPE doffing](majority-participants-self-contamination-doffing.md) — related
+- [Video training and instructor-led training produce no statistically significant difference in PPE doffing scores one month after training](video-vs-instructor-doffing-no-significant-difference.md) — related

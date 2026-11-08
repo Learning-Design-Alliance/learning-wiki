@@ -49,3 +49,4 @@ Comparison of GPS prediction in the GWA discovery target trait versus GCSE outco
 - [EduYears polygenic scores predict achievement increasingly with age (about 4% at KS1 to 10% at GCSE) and show largely stable effects, with less than 1% age-specific prediction](eduyears-gps-increasing-stable-prediction-achievement.md) — related
 - [EduYears GPS correlates positively with GCSE (7.6% of variance) and with the selection factors ability (2.1%), achievement (5.2%) and family SES (6.6%)](eduyears-gps-correlates-selection-factors-gcse.md) — related
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
+- [High GPS partially compensates for low SES: 47% of high-GPS/low-SES children attended university](high-gps-compensates-low-ses-university.md) — related

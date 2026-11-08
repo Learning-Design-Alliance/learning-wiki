@@ -69,3 +69,4 @@ Covariant model for mathematics across settings. The article states "There were,
 - [Mathematics achievement improved significantly over time only for students in general education classrooms, not in either inclusive form](math-slope-significant-only-general-classrooms.md) — related
 - [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](gender-gaps-math-lower-l1-slope-favors-girls.md) — related
 - [Students in traditional Polish classrooms have higher family SES than students in inclusive classrooms, indicating hidden SES-based selection](ses-selection-into-inclusive-classrooms.md) — related
+- [GPS and SES independently predict both the intercept and the slope of educational achievement growth](gps-ses-predict-intercept-and-slope-growth.md) — related

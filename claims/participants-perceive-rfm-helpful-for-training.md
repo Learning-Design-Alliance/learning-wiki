@@ -52,3 +52,4 @@ Structured questionnaire with closed and open-ended questions completed by all 4
 - [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](group-exam-and-consultation-perceptions-pilot.md) — related
 - [Almost 90% of follow-up survey participants reported increased confidence in performing or assisting with therapies, with over half describing the boost as significant](therapy-intensive-confidence-increase.md) — related
 - [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related
+- [Most interns (90%, 18 of 20) found resident feedback somewhat or very helpful for improving future consult calls](interns-rate-resident-feedback-helpful.md) — related

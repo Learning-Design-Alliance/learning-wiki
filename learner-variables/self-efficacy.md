@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 330 claims (252 show a difference, 44 mixed, 34 no difference) · 264 studies (88 causal, 87 associational, 33 review, 24 qualitative, 14 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 54 of 264 report an effect size · 326 claims rest on one study
+> **Evidence** · 333 claims (255 show a difference, 44 mixed, 34 no difference) · 265 studies (89 causal, 87 associational, 33 review, 24 qualitative, 14 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 55 of 265 report an effect size · 329 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -361,6 +361,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Reading self-confidence is the student variable most strongly linked to academic resilience, significant and positive in every country analyzed](../claims/reading-self-confidence-predicts-academic-resilience-all-countries.md) [+M] — learners who differ on it differ in outcomes
 - [FIRST IV alumni differ from paired colleagues: lower knowledge-transmission beliefs and intentions, higher teaching-methods self-efficacy, and classroom infrastructure seen as more challenging](../claims/first-iv-comparison-faculty-differences.md) [+M] — measured as an outcome of the instruction studied
 - [Academic self-efficacy and intention are positively associated with high academic achievement, with self-efficacy showing the most prominent effect](../claims/self-efficacy-intention-academic-achievement-lebanon.md) [+M] — learners who differ on it differ in outcomes
+- [GP registrars' self-rated confidence in clinical abilities rose significantly from pre-test to post-test after a 3-hour dementia education workshop, with a strong pre-post effect size, in one uncontrolled pre-post study](../claims/dementia-workshop-increases-registrar-clinical-confidence.md) [+M] — measured as an outcome of the instruction studied
+- [The proportion of registrars who self-rated as confident to diagnose dementia rose from 13.8% before to 60.4% after a dementia workshop, in one uncontrolled pre-post study](../claims/registrar-diagnostic-confidence-percentages-rise.md) [+M] — measured as an outcome of the instruction studied
+- [GP supervisors also increase confidence in clinical abilities after a modified dementia workshop, but registrars improve significantly more](../claims/supervisor-confidence-gain-smaller-than-registrars.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

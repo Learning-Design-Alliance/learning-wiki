@@ -67,3 +67,5 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related
 - [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — a broader claim this one bears on
 - [Inter-rater reliability of OSCE scores was fair and similar for accented and non-accented videos](osce-fleiss-kappa-fair-reliability-both-accents.md) — related
+- [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
+- [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related

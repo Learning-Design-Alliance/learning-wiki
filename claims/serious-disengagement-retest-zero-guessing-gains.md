@@ -55,3 +55,6 @@ Observational analysis of retests taken no more than one day after the initial t
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Initial test trials sit on variable and treacherous ground, while practice limits indicate both relative standing and general performance](practice-limits-signal-standing-and-performance.md) — related
+- [Discussing low test performance with a mentor is associated with much higher odds of serious test-taking behavior in a low-stakes progress test](mentor-discussion-low-performance-serious-test-taking.md) — related
+- [Presentation type and individuality of discussed results show no significant relation to serious test-taking behavior as main effects](null-presentation-type-individuality-results.md) — related
+- [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related

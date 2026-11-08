@@ -51,3 +51,4 @@ Exploratory linear regression (predictors mean-centered) predicting post-error a
 - [Pe amplitude on error trials relates to post-error accuracy, but Pe does not mediate the mindset–post-error accuracy link in children](pe-post-error-accuracy-no-mediation-children.md)
 - [Error Positivity amplitude increases with note information content and asynchrony, suggesting it signals event salience during rhythm production](pe-increases-with-note-surprise-and-error-size.md) — related
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](pgi-moderation-growth-mindset-performance.md) — related
+- [Self-reported growth mindset moderated HCPs' task performance in the RETAIN video game](growth-mindset-moderates-retain-performance.md) — related

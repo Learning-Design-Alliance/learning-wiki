@@ -51,3 +51,4 @@ Before–after quasi-experimental study (Lazzarini et al., as charted in Table 1
 - [A pilot RCT found simulation workshop participants 16 times more likely to be assessed as competent in debridement skills and more confident than controls](simulation-workshop-debridement-competence-confidence.md) — related
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
 - [A 3-day Ebola training workshop significantly increased health professionals' knowledge and confidence in caring for EVD patients](ebola-training-workshop-increased-knowledge-confidence.md) — related
+- [A 3-day chronic breathlessness training workshop significantly increased health professionals' confidence across all course objectives](breathlessness-workshop-increases-confidence-all-objectives.md) — related

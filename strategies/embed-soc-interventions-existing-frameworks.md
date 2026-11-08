@@ -55,6 +55,7 @@ The article recommends that interventions to strengthen students' sense of coher
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Integrate structured stress-management and resilience-building supports into undergraduate nursing education](stress-management-resilience-in-nursing-curriculum.md)
 - [Embed REE stress management content in the religious education curriculum so students acquire stress-management skills for themselves and their future students](embed-ree-stress-content-in-teacher-curriculum.md)
+- [Integrate online patient simulations into course delivery and learning management platforms to raise uptake and acceptability](integrate-ops-into-curriculum-delivery-strategy.md)
 
 ## Examples
 -

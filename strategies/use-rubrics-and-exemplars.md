@@ -68,6 +68,7 @@ Rubrics and exemplars make quality criteria visible, supporting self-regulated p
 - [Use rubrics to make assessment criteria and performance levels explicit so students can regulate their learning](rubrics-transparency-support-self-regulation.md)
 - [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
 - [Clearly explain the purpose, benefits, challenges, and evaluation criteria of group work, and use detailed rubrics, training, and practice to support equitable peer evaluation.](transparent-communication-peer-evaluation-rubrics.md)
+- [Provide students the research skill rubric as a guide before they begin their research](rubric-as-research-guide-strategy.md)
 
 ## Examples
 - **[Explain Everything / model essays in AP courses](https://apcentral.collegeboard.org)** — College Board publishes scored sample essays with grader commentary for every free-response question; students study scored exemplars against the published rubric before writing.

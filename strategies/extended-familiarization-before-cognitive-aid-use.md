@@ -45,6 +45,7 @@ Participants in the pilot study expressed the need for more practice before usin
 
 - [Incorporate the CPR app into the first aid course syllabus and have learners practise its operation during training](incorporate-cpr-app-into-first-aid-syllabus.md)
 - [Provide a video-based hardware demonstration for students to watch before a VR session](video-based-vr-hardware-demonstration-before-session.md)
+- [Train staff in cognitive-aid use, placement, cueing and content before implementing bedside resuscitation cognitive aids in live clinical settings](train-staff-before-cognitive-aid-implementation.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Momentary time-sampling observation (2-second sweeps with an in-ear metronome, b
 - [PAL lessons elicit moderate-to-vigorous heart-rate responses (73% HRmax) versus very light-to-light intensity in NAL lessons (51% HRmax)](pal-moderate-vigorous-heart-rate.md) — related
 - [PAL produces no difference in academic outcomes compared with NAL, though teaching raised scores in both conditions](pal-no-academic-difference.md) — related
 - [Knowledge gains from both PAL and NAL weeks were not significantly retained at the one-week follow-up](pal-nal-retention-not-significant.md) — related
+- [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related

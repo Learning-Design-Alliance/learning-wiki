@@ -50,3 +50,4 @@ Independent-group t-test comparing post-test scores of the experimental (n=46) a
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
 - [Post-test achievement differed significantly between the test and control groups in favour of the test group](post-test-achievement-significant-favouring-test-group.md) — related
+- [No statistically significant differences emerge across grades 7, 8, and 9 in the experimental group's mathematics self-concept pretest, posttest, or gain scores](no-grade-differences-math-self-concept.md) — related

@@ -50,3 +50,4 @@ Self-report survey item in the COSTRUIRE study. The article reports that "inform
 - [Only 7.9% of Italian surgical residents report receiving formal communication training during residency, despite 91% rating it as crucial](surgical-residents-formal-communication-training-gap.md) — related
 - [85.2% of surgical trainees report having communicated a difficult diagnosis without supervision during training](unsupervised-difficult-diagnosis-communication-prevalence.md) — related
 - [Surgical nurses in this sample acquired most NPWT knowledge informally, with only 19% reporting formal training](npwt-knowledge-informal-sources-nurses.md) — related
+- [Most medical students in the study (73%) had never previously received direct patient feedback during medical school](most-students-never-received-direct-patient-feedback.md) — related

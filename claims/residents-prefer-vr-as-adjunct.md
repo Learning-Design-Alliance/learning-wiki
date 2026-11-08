@@ -74,3 +74,4 @@ Reverse preference question from the same survey: conventional methods remained 
 - [Teachers hold a positive view of VSP-TCM as a cost-effective adjunct that should be built around syndromes rather than diseases](teachers-positive-vsp-tcm-perspective.md) — related
 - [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related
 - [Students view e-learning as a useful supplement to, not a replacement for, practical seminars and lectures in local anaesthesia teaching](elearning-supplement-not-replacement-practical-seminars.md) — related
+- [A surgeon-authored virtual reality adrenalectomy training module significantly improved trainees' quiz performance and was preferred over conventional training materials](tips-vr-module-improved-quiz-preference.md) — related

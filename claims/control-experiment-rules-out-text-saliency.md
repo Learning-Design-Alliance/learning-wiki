@@ -51,3 +51,4 @@ Follow-up within-subjects control experiment with another sample of 60 first- an
 - [Reading comprehension is significantly higher when extraneous illustrations are removed from beginning reader books](streamlined-illustrations-improve-reading-comprehension.md) — related
 - [Fixations to extraneous details uniquely predict comprehension gains, controlling for reading proficiency and relevant-illustration fixations](extraneous-fixations-unique-predictor-comprehension-gains.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
+- [Individual learners who make more image-to-text and text-to-image gaze transitions score higher on the first posttest](aoi-transitions-image-text-posttest.md) — related

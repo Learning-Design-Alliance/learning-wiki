@@ -85,3 +85,5 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Interdisciplinary communication between medical departments is perceived as essential, particularly in the ICU where multiple specialties cooperate](interdisciplinary-communication-icu-priority.md) — related
 - [Participants believe leadership training for trauma resuscitation should be multidisciplinary and interprofessional, involving emergency physicians, trauma surgeons, and nurses](interprofessional-trauma-leadership-training.md) — related
 - [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related
+- [Collaborative practice with other professions develops students' values/ethics competency of mutual respect and shared values](ipe-develops-values-ethics-competency.md) — related
+- [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — related

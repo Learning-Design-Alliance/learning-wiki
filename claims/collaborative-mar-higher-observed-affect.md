@@ -47,3 +47,4 @@ Observational analysis of mood (P1Obs1) at three time points during the study of
 ## Related Claims
 - [Collaborative MAR gameplay exceeds competitive gameplay on observed physical activity and interest in exploring the tool](collaborative-mar-physical-activity-tool-use.md) — related
 - [Both competitive and collaborative MAR game modes are highly enjoyable and easy to use for primary school children, with no significant differences between modes](mar-modes-enjoyment-ease-no-difference.md) — related
+- [Gaze similarity is significantly higher in the collaborative than the competitive game version, while scores do not differ](collaborative-versus-competitive-gaze-similarity.md) — related

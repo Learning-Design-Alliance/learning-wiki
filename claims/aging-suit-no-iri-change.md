@@ -48,3 +48,4 @@ Repeated-measures ANOVA of IRI scores in the RCT with 82 professionals; the tota
 - [Adding an aging simulation suit experience to theoretical training improves clinical empathy (JSPE-HPS total) in long-term care professionals](aging-suit-improves-jspe-total-empathy.md) — related
 - [Aging simulation suit improves the Perspective Taking and Compassionate Care subscales of clinical empathy but not Standing in the Patient's Shoes](aging-suit-perspective-taking-compassionate-care.md) — related
 - [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](jspe-time-effect-both-groups.md) — related
+- [Lower-empathy students' gains appeared in fantasy, empathic concern and personal distress sub-scales but not perspective-taking](pbl-empathy-subscale-pattern.md) — related

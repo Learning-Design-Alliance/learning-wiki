@@ -87,3 +87,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [77.2% of students reported poor or very poor academic performance during remote classes, linked to daytime sleepiness](poor-academic-performance-remote-classes-sleepiness.md) — a narrower finding that bears on this claim
 - [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](student-sleepiness-associated-lower-achievement-2019.md) — a narrower finding that bears on this claim
 - [Treatment-seeking war-affected youth show chronic, frequent nightmares with severe sleep disturbance and daytime sleepiness at school](chronic-nightmares-sleep-disturbance-school-sleepiness.md) — related
+- [Delaying school start times reduces adolescent daytime sleepiness, with two exceptions among the reviewed studies](later-start-times-reduce-daytime-sleepiness.md) — related

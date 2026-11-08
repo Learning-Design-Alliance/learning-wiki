@@ -59,3 +59,4 @@ Authors' stated limitation in the Discussion: the Delphi process ensured content
 - [Construct validity of the DragonSkin model remains unestablished and requires future research](dragonskin-construct-validity-future-research.md) — related
 - [The authors state that educational effectiveness of 3DOVR-DR on clinical skills remains untested and requires quantitative assessment](3dovr-dr-effectiveness-untested-needs-quantitative-assessment.md) — related
 - [Predicting patient outcomes within developmental corridors is a largely unexplored cognitive process in intervention reasoning](developmental-corridors-prediction-unexplored.md) — related
+- [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related

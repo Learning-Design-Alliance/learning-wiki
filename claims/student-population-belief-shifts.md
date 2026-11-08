@@ -48,3 +48,4 @@ One-way ANOVA with Tukey HSD comparisons on course-level shift data grouped by s
 - [No significant interactions between teaching method, class size, and student population on belief shifts, though the dataset is deeply unbalanced](no-interactions-belief-shift-factors.md) — related
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
+- [Science majors slightly outperformed non-science majors across all conditions when controlling for pre-test score](science-majors-outperform-non-science-majors-moon-phases.md) — related

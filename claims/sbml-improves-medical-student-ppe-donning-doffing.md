@@ -51,3 +51,5 @@ Prospective pre-test/post-test study of 155 medical students at a university tea
 - [Pre-clinical and clinical medical students show no significant difference in baseline PPE donning and doffing performance.](no-baseline-ppe-difference-preclinical-clinical.md) — related
 - [Two pre-clinical students with very limited clinical exposure did not reach mastery after more than four post-testing attempts within a two-hour session, in one single-group pre-post study.](sbml-requires-time-unlimited-deliberate-practice.md) — related
 - [The majority of participants experienced problems with simulated self-contamination during PPE doffing](majority-participants-self-contamination-doffing.md) — related
+- [Video training and instructor-led training produce no statistically significant difference in PPE doffing scores one month after training](video-vs-instructor-doffing-no-significant-difference.md) — related
+- [Video training and instructor-led training produce no statistically significant difference in PPE donning scores one month after training](video-vs-instructor-donning-no-significant-difference.md) — related

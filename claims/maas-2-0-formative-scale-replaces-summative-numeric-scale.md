@@ -46,3 +46,4 @@ Descriptive report of the instrument revision (section 3.3). The authors state t
 
 ## Related Claims
 - [MAAS Global uniquely assesses both communication and medical skills within one consultation, enabling targeted individual feedback](maas-global-assesses-communication-and-medical-skills.md) — related
+- [Scores on rating-scale variability declined after the shift from 5-point rating scales to a checklist format](checklist-shift-reduces-rating-variability.md) — related

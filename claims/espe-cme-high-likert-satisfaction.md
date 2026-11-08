@@ -66,3 +66,5 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
 - [Trainees reported high satisfaction with the module, with all respondents agreeing the training was excellent and 91% finding the content relevant to practice](wbl-module-satisfaction-neonatal-cus.md) — related
 - [Feedback-driven refinement across three workshops raised overall delegate ratings, which plateaued at a high level](workshop-ratings-improved-across-iterations-plateau.md) — related
+- [Students in an introductory CRE through PBL perceive the course structure, group work, and their learning experience positively, with all survey items averaging over 4.0 out of 5](pbl-cre-students-positive-perceptions.md) — related
+- [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related

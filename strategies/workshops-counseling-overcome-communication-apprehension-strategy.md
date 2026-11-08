@@ -48,6 +48,7 @@ The article recommends institutional support for students with high communicatio
 
 - [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
 - [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
+- [Supportive clinical-instructor strategies to reduce midwifery students' stress](supportive-clinical-instructor-strategies-stress.md)
 
 ## Examples
 -

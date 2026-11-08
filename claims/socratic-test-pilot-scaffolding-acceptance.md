@@ -53,3 +53,4 @@ Student-perception survey from the Spring 2026 pilot (Figure 1, N=98); the agree
 - [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related
 - [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — related
+- [eCREST was highly acceptable to students, with acceptability higher in the integrated cohort](ecrest-high-student-acceptability.md) — related

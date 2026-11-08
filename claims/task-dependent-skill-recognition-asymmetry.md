@@ -52,3 +52,4 @@ Percentage‐normalised confusion matrices aggregated across 10 folds show that 
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related
 - [Difficulty varied significantly across Versius Trainer tasks, with endoscope control, suturing and knot-tying the hardest to pass](task-difficulty-varies-endoscope-suturing-knot-tying-hardest.md) — related
 - [Fivefold cross-validation of the action recognition network yields a mean accuracy of 98%, while skill assessment cross-validation varies widely (mean 79%)](cross-validation-ar-98-sa-79-mean-accuracy.md) — related
+- [Senior and junior trainees disagree on which suturing component step is most difficult](perceived-difficulty-suturing-steps-differs-by-level.md) — related

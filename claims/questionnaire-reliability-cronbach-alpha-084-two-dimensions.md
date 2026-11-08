@@ -55,3 +55,4 @@ Psychometric validation of the 11-item satisfaction questionnaire using principa
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
 - [The Spanish SCLS shows high internal consistency, with Cronbach's alpha of .885 for the total questionnaire and above .81 for both dimensions](scls-spanish-high-internal-consistency.md) — related
+- [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related

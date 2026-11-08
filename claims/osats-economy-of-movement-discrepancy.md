@@ -57,3 +57,4 @@ The article reports this from the previously conducted randomized trial's expert
 - [AI tutoring feedback (VOA) produced significantly higher practice Expertise Scores than remote expert instruction and no-feedback control in simulated tumor resection](voa-feedback-higher-practice-expertise-scores.md) — related
 - [VOA-trained students achieved significantly higher Expertise Scores in the realistic (transfer) resection than instructor and control groups](voa-higher-realistic-resection-expertise.md) — related
 - [Feedback on 4 AI-selected metrics improved 3 trained metrics and generalized to 8 of 16 untrained ICEMS performance metrics](voa-metric-feedback-extended-effect-untrained-metrics.md) — related
+- [Metric weights reveal each metric's relative importance and expose compensation between metrics, allowing trainees to see how strong performance on one metric offsets weakness in another](metric-weights-reveal-importance-and-compensation.md) — related

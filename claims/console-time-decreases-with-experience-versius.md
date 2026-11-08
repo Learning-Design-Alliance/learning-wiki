@@ -68,3 +68,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Procedures rated difficult take significantly longer than non-difficult procedures, while trainee experience shows no significant operating-time difference](difficult-procedures-longer-operating-time.md) — reports the opposite
 - [All residents completed step 3 operating-room requirements, performing a median of 12 console procedures within six months](rostrac-step3-console-procedures.md) — related
 - [SCS training produced a statistically significant greater reduction in procedure time in the intervention group than in the control group (–15.98 versus –1.14 min; P = 0.024)](scs-reduces-procedure-time-simulated-cholecystectomy.md) — related
+- [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related

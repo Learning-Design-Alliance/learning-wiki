@@ -51,3 +51,4 @@ The DBS was piloted on 150 students in the 2009-2010 school year; low-reliabilit
 - [The researcher-built two-stage Mixtures Achievement Test showed high reliability in the pilot and research groups](mixtures-achievement-test-reliability.md) — related
 - [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](exam-reliability-cronbach-082-nursing-skills.md) — related
 - [The Turkish-adapted tool shows good total internal consistency (Cronbach's α = 0.822) but low reliability for the extraneous load subdimension (α = 0.572)](turkish-clt-tool-total-alpha-0822.md) — related
+- [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related

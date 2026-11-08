@@ -68,3 +68,5 @@ Learning curves were generated using the cumulative sum (CUSUM) method based on 
 - [Robotic simulation shows early learning-curve superiority over laparoscopic simulation, but both plateau at similar scores by round 10](rs-early-superiority-learning-curve-plateaus-similarly.md) — related
 - [Scrub nurses' iVR learning curves showed no average plateau across the three assessments, though the best performers began plateauing by the third assessment on time, prompts and errors](ivr-learning-curve-no-plateau.md) — related
 - [The largest learning-curve gains in basic laparoscopic skills occur within the first three training sessions](largest-pi-gains-first-three-sessions.md) — related
+- [CUSUM analysis identifies a procedure-time learning-curve inflection at case 52 and a fluoroscopy-time inflection at case 43 for TAVR in native aortic regurgitation](tavr-ar-learning-curve-52-cases-cusum.md) — related
+- [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related

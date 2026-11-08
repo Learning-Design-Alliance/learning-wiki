@@ -65,3 +65,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Shortage of suitable resources and lack of intercultural training are the top questionnaire-reported reasons teachers do not devote more time to IFLT](resources-and-training-top-reasons-limited-iflt.md) — related
 - [Protected teaching time and dedicated space are reported barriers, while equipment cost is not for clinical staff](time-space-equipment-barriers-ed-sbt.md) — related
 - [Lack of knowledge, resources, and time were the most reported barriers to utilizing EBM among trainees](knowledge-resources-time-top-ebm-barriers.md) — related
+- [Reasons for never teaching nutrition: other teachers teach it, lack of knowledge, and no administrator requirement](barriers-never-teaching-nutrition.md) — related

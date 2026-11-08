@@ -52,3 +52,4 @@ Skills were assessed with a 13-item validated checklist during the simulated sce
 - [Among health professionals, a high-fidelity active simulator configuration supported improved performance during hands-on training](high-fidelity-active-best-for-experienced-professionals.md) — related
 - [Item-level skill performance varied between fidelity groups: the high-fidelity group did better on dressing selection and wound edges but worse on anatomic location](item-level-skill-differences-fidelity-groups.md) — related
 - [Kappa agreement on pressure injury cleaning improved from 0.81 to 0.91 after realistic simulation](realistic-simulation-improves-wound-cleaning-kappa.md) — related
+- [The effect of simulator fidelity on skill acquisition may depend on trainee level of training, but only one of 17 studies addressed it](fidelity-effect-depends-on-trainee-level-one-study.md) — related

@@ -65,3 +65,4 @@ Cross-case observational finding from the Lessons Learned chapter (Lesson 4); th
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](practice-opportunities-develop-teacher-self-efficacy.md) — possibly the same claim (merge candidate)
 - [Introducing explicit learning objectives and preparatory materials between iterations was associated with improved resident ratings of teaching materials and educational value](preparatory-materials-improved-ratings.md) — a narrower finding that bears on this claim
 - [Mixed-methods mapping showed the workshop mainly impacted capacity while field coaching impacted opportunity and motivation](com-b-causal-pathway-workshop-coaching.md) — related
+- [Iterative revisions to the implementation plan produced no evidence of increased implementation outcomes across the three waves](no-uptake-increase-across-waves.md) — related

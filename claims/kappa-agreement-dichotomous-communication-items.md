@@ -47,3 +47,4 @@ Cohen's Kappa analysis of thirteen yes-no items comparing 193 students' self-rep
 ## Related Claims
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
 - [Inter-model agreement is moderate, indicating models do not consistently identify the same questions correctly](moderate-inter-model-agreement-endodontic-questions.md) — related
+- [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related

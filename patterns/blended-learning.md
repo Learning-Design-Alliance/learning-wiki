@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 110 claims (69 for, 38 mixed, 3 against) · 78 studies (39 causal, 14 quant-synthesis, 10 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 78 report an effect size · 108 claims rest on one study
+> **Evidence** · 111 claims (70 for, 38 mixed, 3 against) · 79 studies (39 causal, 14 quant-synthesis, 10 associational, 7 review, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 18 of 79 report an effect size · 109 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](../claims/blended-als-knowledge-posttest-equivalent.md) [~W] — attached 2026-11-08 from Chaves Juan et al. (2020), which proposed "Use blended methodology with e-learning to reduce face-to-face session duration in ALS courses without apparent loss of performance"; tests this page's relationship.
 - [General course satisfaction was significantly higher in the traditional face-to-face group than in the blended e-learning group](../claims/als-satisfaction-higher-face-to-face.md) [-W] — attached 2026-11-08 from Chaves Juan et al. (2020), which proposed "Use blended methodology with e-learning to reduce face-to-face session duration in ALS courses without apparent loss of performance".
 - [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](../claims/students-prefer-blended-future.md) [+W] — attached 2026-11-08 from Puljak Livia et al. (2020), which proposed "Deliver health sciences education as blended learning, with practical education in person, as the post-pandemic norm".
+- [Higher-level clinical reasoning, handling of lines and wires, and dealing with out-of-textbook situations could not be achieved with the e-learning module alone](../claims/elearning-alone-limits-reasoning-lines.md) [+W] — attached 2026-11-08 from Major ME et al. (2020), which proposed "Integrate e-learning with, or closely connect it to, students' clinical placement when preparing for complex clinical environments".
 
 ## Illustrative design instance and observation record
 

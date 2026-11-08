@@ -71,3 +71,4 @@ Secondary analysis of ICEMS benchmark metrics across practice resections in the 
 - [Real-time AI feedback improves safety-related learning outcomes: lower bleeding risk, lower tissue injury risk, and less bipolar force than expert instruction](icems-improves-safety-learning-outcomes.md) — related
 - [Blinded expert OSATS ratings favored the VOA group on overall performance and economy of movement despite measured efficiency losses, exposing a limitation of granular metric-based assessment](osats-economy-of-movement-discrepancy.md) — related
 - [The AI-enhanced curriculum reduced healthy tissue damage during simulated tumor resection relative to control, reaching the expert benchmark](voa-reduced-healthy-tissue-damage.md) — related
+- [Four of 270 simulator-derived performance metrics, all with negative weights, were selected by an iterative loop algorithm to drive the classification model](four-metrics-selected-from-270-negative-weights.md) — related

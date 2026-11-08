@@ -76,3 +76,4 @@ Theme 3 (professional identity) of the qualitative analysis. Students reported s
 - [Male nursing students experience initial anxiety with maternal-newborn mannequins that decreases through instructor support and repeated practice](hfs-initial-anxiety-eased-by-instructors-and-repetition.md) — related
 - [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related
 - [Managers describe a gap between practical skills learned in nursing education and the situations encountered in working life](education-work-gap-practical-clinical-skills.md) — related
+- [Patients who underwent the Practical Life Room intervention reported feeling more prepared and confident to execute activities of daily living](patient-reports-better-prepared-after-intervention.md) — related

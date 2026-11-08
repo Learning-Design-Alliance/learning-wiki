@@ -54,3 +54,4 @@ Cross-sectional questionnaire study of 39 medical students and 25 otolaryngologi
 - [IVR application shows face validity for realism of anatomy and equipment, but tissue-interaction realism is rated low due to suboptimal haptic feedback](ivr-face-validity-haptic-limitation.md) — related
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Trainees reported high satisfaction with SimLife on learning ease, anatomic fidelity, realism and overall satisfaction](simlife-high-trainee-satisfaction.md) — related
+- [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related

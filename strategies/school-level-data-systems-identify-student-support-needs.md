@@ -52,6 +52,7 @@ The chapter recommends that schools build systems for monitoring student data so
 - [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
 - [Proactively monitor engagement trajectories and address students who fail to improve or catch up](proactively-address-lack-of-engagement-catch-up.md)
 - [Early identification and preventive school health approaches addressing trauma exposure to improve academic trajectories](early-identification-preventive-school-health-aces.md)
+- [Use routine data linkage across health and education services to identify and longitudinally support children at risk from prematurity and early school entry](routine-data-linkage-support-preterm-children.md)
 
 ## Examples
 -

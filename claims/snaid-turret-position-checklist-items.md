@@ -50,3 +50,4 @@ Post-hoc comparison by turret position (N = 156); Table 2 reports turret 12 outp
 - [Turret position moderates post-training outcomes: turret 9 shows better skill and confidence, while turret 12 shows better comfort](snaid-turret-position-moderates-outcomes.md) — related
 - [Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device](snaid-simulation-training-improves-procedural-checklist.md) — related
 - [No significant improvement in procedural checklist scores was observed](rcdp-simulation-no-checklist-score-improvement.md) — related
+- [Applicants from the authors' institution performed similarly overall to other applicants, with better results on some checklist items](home-institution-applicants-similar-stemi-performance.md) — related

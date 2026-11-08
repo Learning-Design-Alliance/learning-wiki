@@ -67,3 +67,5 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related
 - [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related
 - [The expected-actions checklist achieved excellent inter-rater agreement (ICC = 0.899, Cronbach's alpha = 0.908)](checklist-icc-0899-cronbach-0908.md) — related
+- [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
+- [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related

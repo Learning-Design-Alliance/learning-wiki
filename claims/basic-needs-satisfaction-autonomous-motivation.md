@@ -65,3 +65,5 @@ Meta-analysis reported in the self-determination theory section "confirmed that 
 - [Basic psychological needs positively predict college students' mindfulness](bpn-predict-mindfulness-chinese-college.md) — related
 - [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](moderate-needs-identity-descriptives.md) — related
 - [Student‐perceived need support is positively associated with students' autonomous motivation at both the student and class levels](student-perceived-need-support-autonomous-motivation.md) — a narrower finding that bears on this claim
+- [Perceived teacher autonomy support positively predicts students' basic psychological needs satisfaction in college classes](autonomy-support-predicts-bpn-satisfaction-college.md) — related
+- [Basic psychological needs satisfaction positively predicts intrinsic motivation, which predicts perseverance more strongly than passion](bpn-satisfaction-predicts-intrinsic-motivation.md) — a narrower finding that bears on this claim

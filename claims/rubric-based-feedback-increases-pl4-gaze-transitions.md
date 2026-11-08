@@ -67,3 +67,4 @@ Among all Phase 4 gaze measures, "only the number of PL4-picture transitions sig
 - [Visual attention to the highest performance level (PL4) predicts task performance, whereas verbal references to performance levels do not](visual-attention-to-pl4-predicts-performance.md) — related
 - [University students visually prioritize the highest performance level (PL4) when first reading a rubric](students-attend-most-to-highest-rubric-performance-level.md) — related
 - [Rubric performance level order shapes visual reading patterns—students attend most to the level presented first—but does not affect verbal references or performance](rubric-level-order-shapes-visual-reading-patterns.md) — related
+- [Individual learners who make more image-to-text and text-to-image gaze transitions score higher on the first posttest](aoi-transitions-image-text-posttest.md) — related

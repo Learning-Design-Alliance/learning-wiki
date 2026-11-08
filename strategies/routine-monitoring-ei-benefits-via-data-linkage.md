@@ -37,7 +37,8 @@ The article recommends that jurisdictions maintain and update linked administrat
 - Monitoring long-term academic outcomes of early intervention programming
 
 ## Related Strategies
-- 
+
+- [Use routine data linkage across health and education services to identify and longitudinally support children at risk from prematurity and early school entry](routine-data-linkage-support-preterm-children.md)
 
 ## Examples
 -

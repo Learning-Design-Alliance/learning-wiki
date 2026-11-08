@@ -45,6 +45,7 @@ Because simulated pediatric CPR performance deteriorated after a 5-6-week washou
 - [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
+- [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 
 ## Examples
 -

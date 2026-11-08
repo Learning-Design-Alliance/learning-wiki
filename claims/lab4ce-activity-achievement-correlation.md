@@ -50,3 +50,4 @@ Correlational analysis within the exploratory study: after filtering, 55 student
 - [Higher question-asking originality and complexity were negatively correlated with closed-ended multiple-choice exam performance](question-originality-complexity-negative-exam.md) — related
 - [Collaborative features of Lab4CE saw very little use in the exploratory study](lab4ce-collaboration-low-usage.md) — related
 - [Using Lab4CE is associated with higher engagement in remote Linux practice than installing a local virtual machine (more than 50% vs 25% of students)](lab4ce-virtual-machine-use-engagement.md) — related
+- [Time spent on pre-placement work correlates positively with end-of-placement knowledge test performance](preparation-time-correlates-with-knowledge-test.md) — related

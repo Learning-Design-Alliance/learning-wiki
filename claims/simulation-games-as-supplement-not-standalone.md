@@ -54,3 +54,4 @@ Meta-analytic moderator analysis across 40 effect sizes for games used as a supp
 - [Trainees learn more from simulation games when they have unlimited access to the game](unlimited-access-enhances-simulation-game-learning.md) — related
 - [The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions](simulation-games-higher-skill-based-knowledge.md) — related
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — reports the opposite
+- [Serious games could supplement traditional simulation-based education and enhance access to training in resource-limited areas, but clinical outcomes remain unexamined](serious-games-supplement-sbe-access-limited-evidence.md) — related

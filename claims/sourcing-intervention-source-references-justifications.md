@@ -52,3 +52,4 @@ Mixed-effects logistic regression on source references in near-transfer justific
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — related
 - [Trained ninth-graders became more critical toward less reliable links than controls, with the effect persisting three weeks for the least reliable (bad) links](sourcing-intervention-lower-ratings-less-reliable-links.md) — related
+- [The resource-reliability poll task stimulated discussion, with 12 of 16 learner comments demonstrating correct evaluation of resource reliability with justification](poll-task-stimulates-reliability-discussion.md) — related

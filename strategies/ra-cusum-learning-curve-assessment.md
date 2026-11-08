@@ -49,6 +49,7 @@ The review recommends using risk-adjusted cumulative sum (RA-CUSUM) analysis to 
 - [Use performance thresholds that meaningfully measure surgeon performance alongside standardized terminology when assessing surgical learning curves](meaningful-thresholds-standardized-terminology-learning-curves.md)
 - [Select early-phase laparoscopic radical prostatectomy patients for smaller prostates and no anticipated lymph node dissection to shorten initial operative times](early-phase-lrp-patient-selection-strategy.md)
 - [Adopt CUSUM analysis as a standardized self-monitoring tool when assessing learning curves of new surgical techniques](cusum-standardized-self-monitoring-strategy.md)
+- [Use CUSUM analysis of procedure time to quantify the surgical learning curve for a novice team adopting a new procedure](cusum-learning-curve-analysis-surgical-training.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Reliability analysis of the 25-candidate OSCE validation dataset. The article re
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — related
 - [Overall OSCE internal consistency is acceptable but varies widely across stations](osce-internal-consistency-varies-across-stations.md) — related
 - [OSCE test scores discriminate between novice, intermediate and experienced basic thoracic ultrasound operators](osce-tus-scores-discriminate-experience-groups.md) — related
+- [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related

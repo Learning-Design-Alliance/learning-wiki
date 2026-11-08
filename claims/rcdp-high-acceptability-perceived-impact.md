@@ -61,3 +61,4 @@ Paper-based acceptability and impact survey completed by all 23 learners who fin
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — related
+- [Learners reported high satisfaction, rating the simulation 97% relevant, 97% effective, and 90% high quality](brown-bag-simulation-high-satisfaction.md) — related

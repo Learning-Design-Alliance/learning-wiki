@@ -54,3 +54,4 @@ Classification of learning stage from 10-s EEG segments (84 relative-PSD feature
 - [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
 - [Cognitive and behavioral metrics via EEG and eye-tracking with machine learning predicted surgical training outcomes with 72.5% accuracy](eeg-eye-metrics-ml-predict-training-outcomes.md) — related
+- [A linear support vector machine using 4 performance metrics classified skilled versus novice participants in a virtual reality brain tumor resection task with 92% accuracy, 100% sensitivity and 82% specificity](svm-classifies-skilled-novice-vr-neurosurgery-92-accuracy.md) — related

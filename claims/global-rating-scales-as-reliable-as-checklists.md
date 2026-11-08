@@ -50,3 +50,4 @@ Narrative synthesis within the systematic review comparing the two assessment me
 - [Global rating scales discriminate between performance levels without a ceiling effect, making them useful for high-stakes summative assessment of advanced residents](global-rating-scales-summative-advanced-residents.md) — related
 - [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) — related
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](checklists-valid-but-ceiling-effect-novice-formative.md) — related
+- [Scores on rating-scale variability declined after the shift from 5-point rating scales to a checklist format](checklist-shift-reduces-rating-variability.md) — related

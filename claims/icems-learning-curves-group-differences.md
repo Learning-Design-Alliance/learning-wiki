@@ -51,3 +51,4 @@ Friedman's test learning-curve analysis across five practice repetitions in the 
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
 - [Scrub nurses' iVR learning curves showed no average plateau across the three assessments, though the best performers began plateauing by the third assessment on time, prompts and errors](ivr-learning-curve-no-plateau.md) — related
 - [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related
+- [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related

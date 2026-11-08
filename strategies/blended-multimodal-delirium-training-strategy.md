@@ -51,6 +51,8 @@ The authors recommend that, following refinement, the e-learning program be embe
 - [Target warfarin education through structured programs, interactive e-learning modules, regular workshops, and case-based training](warfarin-targeted-education-strategy.md)
 - [Offer interactive E-book apps for nurses' self-paced in-service education](ebook-app-self-paced-in-service-education-strategy.md)
 - [Nurse-led multi-session training combining a hospital session with repeated home visits and follow-up phone calls](nurse-led-hospital-home-visit-training-strategy.md)
+- [Design blended preceptor education by combining web-based modules with face-to-face case-based learning and planning logistics in the initial design phase](blend-wcp-case-based-preceptor-training-strategy.md)
+- [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
 
 ## Examples
 -

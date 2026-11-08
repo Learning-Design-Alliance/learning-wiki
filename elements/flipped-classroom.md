@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 87 claims (52 for, 30 mixed, 5 against) · 49 studies (30 causal, 12 quant-synthesis, 3 review, 3 design, 1 associational), `q1`–`q4` · 16 of 49 report an effect size · 86 claims rest on one study
+> **Evidence** · 88 claims (53 for, 30 mixed, 5 against) · 50 studies (31 causal, 12 quant-synthesis, 3 review, 3 design, 1 associational), `q1`–`q4` · 16 of 50 report an effect size · 87 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -111,6 +111,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [The online ICM version of the seminar produced evaluation results at least as good as the previous face-to-face course, with students especially emphasizing Kahoot!](../claims/online-icm-evaluation-not-worse-than-face-to-face.md) [~W] — attached 2026-11-08 from Huber J et al. (2021), which proposed "Online ICM version of the seminar 'The Lonely Patient' with synchronous Zoom sessions and Kahoot!".
 - [Using the online ICM with interactive Kahoot! components kept student interaction at the same high level as the classroom format](../claims/kahoot-interaction-maintained-online.md) [~W] — attached 2026-11-08 from Huber J et al. (2021), which proposed "Online ICM version of the seminar 'The Lonely Patient' with synchronous Zoom sessions and Kahoot!".
 - [Second-year nursing students taught with blended learning combined with a flipped classroom design achieved significantly higher course grades than students taught by traditional teacher-centred learning](../claims/blended-flipped-learning-higher-nursing-course-grades.md) [+W] — attached 2026-11-08 from Halasa S et al. (2020), which proposed "Moodle-supported blended flipped course design with a 2-to-1 in-class to at-home ratio"; tests this page's relationship.
+- [Flipped-classroom EBM training produced significantly higher Fresno test scores than traditional lecture-based EBM training in medical technology interns](../claims/fresno-test-higher-flipped-ebm-medical-technology.md) [+M] — attached 2026-11-08 from Huang Hsien-Li et al. (2020), which proposed "Tailor-made flipped-classroom EBM course for medical technology interns (FC-EBM)"; tests this page's relationship.
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

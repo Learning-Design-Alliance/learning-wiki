@@ -49,3 +49,4 @@ Whole-cohort comparison across 96 students (54 males, 42 females). Table 1 repor
 - [Female students are more negative about their overall integrated TBL experience than male students.](female-students-more-negative-overall-tbl-experience.md) — related
 - [Student perception of TBL did not affect knowledge acquisition: no difference in iRAT or end-of-session test scores between students rating TBL 1–2 versus 4–5.](tbl-rating-no-effect-on-test-scores.md) — related
 - [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related
+- [Medical and physiotherapy students show no difference in pre-class (IRAT) quiz scores, indicating equivalent prior content knowledge](ip-tbl-equivalent-prior-knowledge-irat.md) — related

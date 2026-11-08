@@ -49,3 +49,6 @@ Correlational analysis of 120 medical students who took the 2020 Post-CC OSCE an
 - [Resuscitation chart documentation OSCE scores correlate significantly with clerkship performance](resuscitation-documentation-correlates-with-clerkship.md) — a narrower finding that bears on this claim
 - [Informed consent chart documentation OSCE scores correlate significantly with clerkship performance](informed-consent-documentation-correlates-with-clerkship.md) — a narrower finding that bears on this claim
 - [Diagnostic imaging chart documentation scores show only a slight, non-significant correlation with clerkship performance](diagnostic-imaging-documentation-nonsignificant-correlation.md) — related
+- [Students generally scored between 80% and 90% across OSCE, CBT, and clerkship measures](osce-cbt-cc-scores-eighty-to-ninety-percent.md) — related
+- [Total OSCE and CBT scores significantly predict subsequent clinical clerkship performance in Japanese medical students](osce-cbt-total-scores-correlate-clerkship-performance.md) — a broader claim this one bears on
+- [Of seven OSCE components, only medical interview and chest examination significantly correlate with clerkship performance](osce-medical-interview-chest-exam-correlate-clerkship.md) — related

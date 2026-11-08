@@ -69,3 +69,4 @@ The review's stated boundary condition on JITT effectiveness, naming pediatric i
 - [Just-in-time coaching improved technical skill metrics (airway views, advancement maneuvers, technical difficulties, intubation time) but complications did not differ significantly](jit-coaching-technical-metrics-complications-null.md) — related
 - [The first attempt success benefit of just-in-time coaching was significant among residents but not among fellows or student registered nurse anesthetists](jit-coaching-resident-subgroup-benefit.md) — related
 - [Just-in-time expert coaching on a manikin within one hour of clinical care increases first attempt success of infant intubation by inexperienced clinicians](just-in-time-coaching-improves-first-attempt-infant-intubation.md) — related
+- [Video-group participants largely watched the training videos on the assessment day, amounting to just-in-time training](just-in-time-video-viewing-assessment-day.md) — related

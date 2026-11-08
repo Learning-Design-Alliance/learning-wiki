@@ -21,6 +21,7 @@ A structured framework created by Kurtz and Silverman for teaching and assessing
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Calgary-Cambridge model as the underlying framework for structuring communication assessment**: The Calgary-Cambridge approach is an internationally established method for teaching and training clinical communication skills, created by Kurtz and Silverman in 1996. The article describes it as "a five-step guide which, if followed, should facilitate successful doctor-patient communication", focusing on constructive structuring of consultations and building relationships. MAAS 2.0 explicitly emphasizes this scheme as its underlying model, e.g. by moving the empathy item between emotions and imparting information. (Stamer Tjorven et al. (2023))
+- **The Calgary-Cambridge Guide as a six-domain framework structuring the clinical communication consultation**: The Calgary-Cambridge Guide (C-CG), introduced by Kurtz and Silverman in 1996 and updated to a third edition in 2013, is a well-known framework for teaching and training clinical communication skills. The article organizes communication assessment around its structure, with the OS-12's "12 items covering the following six domains: initiating the session, gathering information, building the relationship, explanation and planning, providing structure, and closing the session." Although not intended as an assessment tool, it is used to guide structured feedback and rating, and it contains 73 micro-skills from which the OS-12 selected a priority subset. (Iversen Else Dalsgaard et al. (2020))
 
 ### Claims
 
@@ -29,3 +30,4 @@ A structured framework created by Kurtz and Silverman for teaching and assessing
 
 ## Key Sources
 - Stamer Tjorven, Essers Geurt, Steinhäuser Jost, Flägel Kristina. (2023). From summative MAAS Global to formative MAAS 2.0 – a workshop report. GMS Journal for Medical Education. https://www.egms.de/en/journals/zma/2023-40/zma001591.shtml
+- Iversen Else Dalsgaard, Wolderslund Maiken Overbeck, Kofoed Poul-Erik, Gulbrandsen Pål, Poulsen Helle, Cold Søren, Ammentorp Jette. (2020). Codebook for rating clinical communication skills based on the Calgary-Cambridge Guide. BMC Medical Education. https://doi.org/10.1186/s12909-020-02050-3

@@ -51,3 +51,4 @@ Endline simulation test scores in the same pilot trial, adjusted for correspondi
 - [In a mixed-effects model, intervention group, baseline knowledge and midline health assessment skill positively predicted endline competency, while age was negatively associated](mixed-model-predictors-of-cadre-competency.md) — related
 - [After adjusting for age, endline knowledge and skills scores exceed baseline by large adjusted mean differences (AβC = 11.7 and 13.9 of 22)](adjusted-regression-pph-knowledge-skills-gains.md) — related
 - [Assessment of consciousness, airway obstruction and breathing, and body and arm positioning did not differ significantly between app and control groups](assessment-and-positioning-no-group-differences.md) — related
+- [Healthcare workers' written knowledge scores rose from 44% to 89% immediately after EENC coaching in Solomon Islands hospitals, in one uncontrolled pre-post study](eenc-coaching-increased-written-knowledge-scores.md) — related

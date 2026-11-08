@@ -56,3 +56,4 @@ Adjusted logistic regression of 553 recorded births (47 in-facility deaths, 57 t
 - [Perinatal mortality showed no statistically significant change for all births, and the mortality reduction among ventilated newborns lost significance after adjustment](perinatal-mortality-no-significant-change-all-births.md) — related
 - [Clinical secondary outcomes did not differ after in situ simulation training, with a lower 5-minute Apgar score that did not persist after excluding deceased neonates](secondary-clinical-outcomes-unchanged-in-situ-sbt.md) — related
 - [Early neonatal death rates at 24 hours and 7 days were significantly lower in 2019 than in 2017 during implementation](early-neonatal-death-reduction-2019-vs-2017.md) — related
+- [PROMPT training implementation showed no significant reduction in term babies with Apgar<7 at 5 min in the intention-to-treat analysis of 12 Scottish maternity units](prompt-itt-non-significant-apgar-reduction.md) — related

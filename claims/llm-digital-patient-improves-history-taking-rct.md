@@ -76,3 +76,4 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
+- [Previous voluntary history-taking group participation is associated with better self-rated conversational structure](history-taking-groups-better-self-rated-structure.md) — related

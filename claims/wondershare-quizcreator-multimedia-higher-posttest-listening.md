@@ -65,3 +65,4 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [Instructional media teaching produced significantly higher comprehension achievement than conventional teaching among teacher training students](instructional-media-higher-comprehension-achievement.md) — related
 - [Instructional media teaching produced significantly higher lexis formation achievement than conventional teaching among teacher training students](instructional-media-higher-lexis-formation-achievement.md) — related
 - [Audio-only listening test group outperformed video-only group on overall listening comprehension scores](audio-outperforms-video-efl-listening-test.md) — reports the opposite
+- [Students receiving written pre-placement materials outperform video-material students on the end-of-placement knowledge test](written-materials-better-knowledge-test-than-video.md) — related

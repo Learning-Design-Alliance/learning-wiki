@@ -57,3 +57,4 @@ Controlled trial of 14 two-hour weekly EBM sessions for medical students (n=289)
 - [Palestinian medical students understand basic EBM terms better than advanced appraisal-related terms, and prior EBM training is associated with higher knowledge of most terms](ebm-terminology-gradient-basic-advanced-palestinian-students.md) — related
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
 - [Quarantine increased student collaboration with colleagues, especially among fifth-year students](quarantine-increased-peer-collaboration-fifth-year.md) — related
+- [EBM-trained medical students rate all six self-reported EBM skills significantly better than untrained students, with differences emerging mainly after the second year](ebm-training-better-self-rated-skills-medical-students.md) — related

@@ -117,3 +117,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — related
 - [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related
 - [Students experienced stress during simulation sessions from being observed and evaluated, and some expected stress to decline with repetition](sbe-observation-stress-dental-students.md) — related
+- [Residents reported discomfort being videotaped and watched in groups, and facilitators struggled to link video feedback with theoretical references](vf-real-consultations-challenges-discomfort-theory-linkage.md) — related

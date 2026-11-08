@@ -48,3 +48,4 @@ Pearson correlation analysis of the 553-student cross-sectional sample (Table 2)
 - [First-year nursing students before clinical practice reported mild-to-moderate overall stress, highest for education-related stressors](first-year-nursing-stress-mild-moderate-education-highest.md) — related
 - [All four stressor domains negatively and significantly predict first-year nursing students' readiness for clinical practice, together explaining 73.5% of its variance](stressors-negatively-predict-nursing-clinical-readiness.md) — related
 - [Perceived clinical preparation is significantly positively correlated with readiness for practice among nurse interns](preparation-readiness-positive-correlation-nurse-interns.md) — related
+- [Students' interest in their field of study correlates negatively with stressors in clinical practices and interpersonal communication](interest-in-field-negative-correlation-clinical-stressors.md) — related

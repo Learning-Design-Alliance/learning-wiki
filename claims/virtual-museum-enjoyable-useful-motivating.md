@@ -52,3 +52,4 @@ Open-ended question responses from 20 students showed the most frequent opinion 
 - [Students identified specific deficiencies in virtual museums, including lack of detailed object information and audio features.](virtual-museum-deficiencies-information-audio.md) — related
 - [Students with better computer knowledge had more positive attitudes toward the virtual museum application.](computer-knowledge-moderates-virtual-museum-attitudes.md) — related
 - [Web-based museum trails enhanced design students' knowledge of, interest in, and closeness to museum objects](trails-enhanced-knowledge-interest-closeness-objects.md) — related
+- [Students reported that the greatest difficulty lay in working in groups, while the most frequently shared feeling was enjoyment](student-difficulty-groupwork-enjoyment.md) — related

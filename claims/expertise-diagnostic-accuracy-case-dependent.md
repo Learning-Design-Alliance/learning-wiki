@@ -77,3 +77,4 @@ Null findings from the same regression models: no significant expertise–accura
 - [In Experiment 1, diagnosis scores were better for the liver cirrhosis case than the pheochromocytoma case, but not among experts](exp1-case-difficulty-liver-cirrhosis.md) — a narrower finding that bears on this claim
 - [GGR outperforms SNAPPS on complex cases (chronic liver disease, chronic dyspnoea, chronic diarrhoea) but not on the simpler anaemia case](ggr-advantage-complex-cases-only.md) — related
 - [ChatGPT-4 diagnostic performance is low across all user-expertise groups on complex internal medicine cases](chatgpt4-low-performance-complex-im-cases.md) — related
+- [Clinical reasoning measures vary substantially across acute dyspnoea case scenarios within both programme groups](case-variation-asclire-measures.md) — related

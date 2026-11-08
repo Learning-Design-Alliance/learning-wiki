@@ -77,3 +77,5 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [The purpose-developed portrayal instrument showed good inter-rater reliability, with ICCs of 0.62–0.82 across assessor pairs](portrayal-instrument-good-inter-rater-reliability.md) — related
 - [Self-assessed skills and OSCE results are consistent across five annual cohorts, indicating routine viability](aalplus-cross-cohort-consistency.md) — related
 - [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — reports the opposite
+- [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
+- [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related

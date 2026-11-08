@@ -48,3 +48,4 @@ Feasibility observation from the randomized pilot (n = 12 fourth-year medical st
 - [A simulation-based training programme for urgent laryngectomy care is feasible, with 93% of accepted multidisciplinary healthcare professionals completing all activities](simulation-laryngectomy-training-feasible.md) — related
 - [Participants reported high satisfaction with the progressive laparoscopic program, with 80% strongly agreeing it stimulated learning interest and 64% stating it exceeded expectations](laparoscopic-program-high-satisfaction-interest.md) — related
 - [Self-reported confidence in telemedicine skills improved significantly after the interventions across nearly all domains](tm-training-significant-confidence-gains.md) — related
+- [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related

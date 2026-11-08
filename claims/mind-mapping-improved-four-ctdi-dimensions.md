@@ -52,3 +52,4 @@ Paired t-tests on the seven CTDI-CV dimensions in the same 64-student pre/post s
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](mind-mapping-improves-critical-thinking-disposition-nursing.md) — related
+- [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related

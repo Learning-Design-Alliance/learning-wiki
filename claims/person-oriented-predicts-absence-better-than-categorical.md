@@ -51,3 +51,4 @@ Regression comparison for attendance outcomes in the 558-child sample. Predicted
 - [No classification method was significantly superior for predicting mathematics achievement](no-method-superior-predicting-math-achievement.md) — related
 - [Person-oriented classification predicts later GPA significantly better than dimensional or categorical methods](person-oriented-classification-best-predicts-gpa.md) — related
 - [After the Focus on High Schools initiative, days absent, days tardy, and student suspensions were lower](focus-high-schools-lower-absences-tardies-suspensions.md) — related
+- [Later school start times reduce tardiness but show no significant effect on school absences](later-start-times-reduce-tardiness-not-absences.md) — related

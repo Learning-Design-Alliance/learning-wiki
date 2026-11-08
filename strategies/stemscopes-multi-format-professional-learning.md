@@ -56,6 +56,7 @@ The program offers professional development in multiple formats: "webinars, in-p
 - [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
 - [Multi-mode, ongoing professional development for instructors implementing technology-infused courses](multi-mode-pd-for-tech-infusion-instructors.md)
 - [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
+- [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
 
 ## Examples
 -

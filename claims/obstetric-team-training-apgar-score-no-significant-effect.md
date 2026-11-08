@@ -50,3 +50,4 @@ Meta-analysis of five studies reporting Apgar scores less than 7 at 5 minutes. T
 - [The effect of obstetric team training on severe postpartum hemorrhage and transfusion remains unclear, with conflicting RCT and cohort results](obstetric-team-training-postpartum-hemorrhage-unclear.md) — related
 - [Annual obstetric emergency team training may reduce brachial plexus injury at birth, with low certainty evidence from cohort studies and a non-significant RCT result](obstetric-team-training-reduces-brachial-plexus-injury.md) — related
 - [Obstetric team training is associated with reduced delay of birth at emergency cesarean section (decision-to-delivery time excess of 30 min), with very low certainty evidence](obstetric-team-training-reduces-decision-to-delivery-delay.md) — related
+- [When actual implementation dates were used, PROMPT training showed no evidence of improvement in Apgar<7 at 5 min rates](prompt-as-implemented-no-effect.md) — related

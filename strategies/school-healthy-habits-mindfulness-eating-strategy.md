@@ -49,6 +49,7 @@ The article closes with four school-level suggestions arising from its findings:
 ## Related Strategies
 
 - [Promote healthy dietary habits and mental well-being among university students as a lever for academic success](promote-healthy-habits-mental-wellbeing-university.md)
+- [Develop school-based healthy-lifestyle education and free intervention programs (workshops, afterschool programs) targeting eating, sleep, and screen-time habits](healthy-lifestyle-school-intervention-programs.md)
 
 ## Examples
 -

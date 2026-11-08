@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 279 claims (150 for, 110 mixed, 19 against) · 155 studies (48 causal, 36 review, 24 design, 19 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 28 of 155 report an effect size · 274 claims rest on one study
+> **Evidence** · 281 claims (152 for, 110 mixed, 19 against) · 156 studies (48 causal, 36 review, 25 design, 19 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 28 of 156 report an effect size · 276 claims rest on one study
 
 ## Description and scope
 
@@ -207,6 +207,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Simulation-based training modestly improved board members' perceived skills and confidence in communicating during board meetings (d=0.40, one-sided p=0.068)](../claims/simulation-training-communication-skills-confidence.md) [~M] — attached 2026-11-08 from Faulkner Nicholas et al. (2020), which proposed "Place learners in realistic simulations that provide guided practice and reflection in a safe environment to build difficult-conversation skills"; tests this page's relationship.
 - [Virtual patient users reported confidence for future practice, which was not reported by non-interactive case study users](../claims/vp-confidence-for-future-practice.md) [+W] — attached 2026-11-08 from Thompson Jessica; White Simon; Chapman Stephen (2020), which proposed "Use virtual patient simulations to let pre-registration trainees practise realistic scenarios in a safe environment and bridge training variation".
 - [All virtual patient users reported learning by doing as the most effective way to develop pharmacist skills and knowledge](../claims/vp-experiential-learning-by-doing.md) [+W] — attached 2026-11-08 from Thompson Jessica; White Simon; Chapman Stephen (2020), which proposed "Use virtual patient simulations to let pre-registration trainees practise realistic scenarios in a safe environment and bridge training variation".
+- [The simulation significantly increased medical students' knowledge scores from 85% presurvey to 92% on a delayed postsurvey](../claims/brown-bag-simulation-increased-knowledge-scores.md) [+W] — attached 2026-11-08 from Hawley Chelsea E. et al. (2019), which proposed "Include hands-on medication reconciliation simulations in health science curricula to build trainee self-efficacy and skills with older adults"; tests this page's relationship.
+- [A brown bag medication reconciliation simulation significantly increased second-year medical students' self-efficacy across all four assessed domains](../claims/brown-bag-simulation-increased-self-efficacy.md) [+W] — attached 2026-11-08 from Hawley Chelsea E. et al. (2019), which proposed "Simulated patient encounter followed by large-group debriefing with targeted teaching points".
 
 ## Illustrative design instance and observation record
 

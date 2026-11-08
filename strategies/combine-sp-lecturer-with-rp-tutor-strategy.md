@@ -47,7 +47,8 @@ The article's conclusion recommends matching teaching method to instructor type:
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](../claims/self-rated-gains-all-groups-no-differences.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Voluntary peer-tutored history-taking groups with structured feedback as communication-skills training](voluntary-history-taking-groups-strategy.md)
 
 ## Examples
 -

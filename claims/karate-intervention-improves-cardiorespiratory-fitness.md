@@ -51,3 +51,4 @@ In the cluster randomized trial, shuttle-run performance assessed by karate tech
 - [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](higher-crf-higher-academic-performance-children.md) — related
 - [A 1-year school-based karate intervention reduced conduct problems in children aged 7–8 years compared with traditional PE lessons](karate-intervention-reduces-conduct-problems.md) — related
 - [A one-academic-year HIIT-style vigorous physical activity intervention delivered during school PE did not significantly improve cardiorespiratory fitness in young adolescents](fit-to-study-null-crf.md) — related
+- [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](gamification-program-improves-crf-college-students.md) — related

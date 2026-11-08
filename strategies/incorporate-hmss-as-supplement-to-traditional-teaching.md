@@ -47,6 +47,7 @@ The authors recommend that "health management educators could incorporate the HM
 ## Related Strategies
 
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Integrate online patient simulations into course delivery and learning management platforms to raise uptake and acceptability](integrate-ops-into-curriculum-delivery-strategy.md)
 
 ## Examples
 -

@@ -73,3 +73,4 @@ Meta-analysis of the same three RCTs comparing high-fidelity simulation with tra
 - [Skill benefit of HF simulation holds against LF simulation (SMD = 0.36) but not against traditional training (SMD = -0.08)](hf-skill-benefit-lf-not-traditional.md) — reports the opposite
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](hfs-professional-skills-practising-nurses.md) — related
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](hfs-knowledge-acquisition-practising-nurses.md) — related
+- [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — related

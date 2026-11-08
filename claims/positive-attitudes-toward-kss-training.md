@@ -47,3 +47,4 @@ Descriptive results from three attitude questions administered post-training in 
 ## Related Claims
 - [KSS-based emergency training significantly raises total emergency knowledge scores of pediatric medical workers from a median of 75.00 to 100.00](kss-training-raises-total-emergency-knowledge-scores.md) — related
 - [Accuracy on case-analysis emergency questions rose significantly from pre-test to post-test after KSS training, in one group with no comparison group, including defibrillation knowledge rising from 52.6% to 95.4%](kss-training-improves-case-analysis-accuracy.md) — related
+- [Most students had received some CPR training and wanted to learn CPR, but fewer were willing to perform it](training-exposure-and-willingness-gap-shanghai-students.md) — related

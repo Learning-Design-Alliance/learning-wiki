@@ -62,3 +62,4 @@ The review reports that studies across many STEM disciplines and sub-disciplines
 - [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](spatial-and-state-anxiety-negative-grade-associations.md) — related
 - [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](mrt-no-correlation-suturing-improvement.md) — reports the opposite
 - [Mental Rotations Test scores positively correlated with post-intervention brainstem knowledge scores](mrt-correlates-post-intervention.md) — a narrower finding that bears on this claim
+- [Psychometric abilities relate to learning outcomes differently by tool: attention correlates with nominal scores in the text-only group and spatial short-term memory with spatial scores in the MR group](psychometric-abilities-correlate-differentially-by-tool.md) — related

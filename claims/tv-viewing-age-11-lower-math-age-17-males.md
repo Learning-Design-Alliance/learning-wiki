@@ -56,3 +56,4 @@ Negative binomial regression of Millennium Cohort Study data, stratified by sex,
 - [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — a broader claim this one bears on
 - [Daily digital game playing is associated with lower reading competence in girls, while TV time was not a significant predictor](digital-games-lower-reading-competence-girls.md) — related
+- [Screen time measures are negatively correlated with academic performance in female high school students, with few associations in male students](screen-time-negative-academic-performance-females.md) — related

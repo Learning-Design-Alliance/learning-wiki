@@ -57,3 +57,4 @@ Controlled cross-sectional and longitudinal study (Dumm, 2023) of the 'Eat This!
 - [Lecture attendance is associated with higher knowledge, attitude and practice scores across all three dimensions](lecture-attendance-higher-kap-scores.md) — related
 - [Both course formats reduced self-reported learning needs and improved multiple-choice knowledge scores, with no significant between-group differences](both-groups-reduced-learning-needs-mcq-gains.md) — related
 - [Students' written-exam knowledge of surgical instruments, materials, and techniques rises from 54% to 87% after the CBVT elective (P < 0.01)](cbvt-written-exam-54-to-87-percent.md) — related
+- [Teachers favored posting nutrition knowledge on bulletin boards and integrating it into health courses as future practices](teacher-informed-practices-nutrition-delivery.md) — related

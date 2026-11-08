@@ -103,3 +103,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
 - [Inter-rater agreement on five POCUS clinical-competence checklist items is fair to moderate (κ = 0.32 to 0.55)](pocus-checklist-fair-moderate-rater-agreement.md) — related
 - [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related
+- [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related

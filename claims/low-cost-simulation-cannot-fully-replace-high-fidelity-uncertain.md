@@ -50,3 +50,4 @@ This is the review authors' interpretive statement in the Discussion, not a test
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [Low- and high-fidelity simulation settings do not produce different results regarding situation awareness.](no-sa-difference-between-fidelity-settings.md) — a narrower finding that bears on this claim
 - [Open questions remain on whether VGS improves clinical practice or can replace clinical hours](vgs-clinical-practice-effectiveness-unknown.md) — related
+- [Serious games could supplement traditional simulation-based education and enhance access to training in resource-limited areas, but clinical outcomes remain unexamined](serious-games-supplement-sbe-access-limited-evidence.md) — related

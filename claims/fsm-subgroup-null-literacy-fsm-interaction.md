@@ -84,3 +84,4 @@ Interaction analysis of group allocation and FSM status in the same trial, illus
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
 - [SPOKES showed a positive effect on Key Stage 1 teacher-based literacy measures, an outcome not pre-specified in the trial protocol](spokes-positive-ks1-literacy-effect.md) — related
 - [SfA showed no evidence of differential effects by baseline attainment level](sfa-no-interaction-baseline-attainment.md) — related
+- [No associations between school health improvement variables and Key Stage 4 attainment in high or low FSM schools](no-health-ks4-attainment-association.md) — related

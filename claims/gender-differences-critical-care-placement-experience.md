@@ -48,3 +48,4 @@ Comparative thematic analysis of journals by student gender found "female studen
 - [Final-year nursing students' reflective journals about emergency and ICU placements yield four themes and an overall positive learning experience with high emotional burden](rlj-four-themes-critical-care-placements.md) — related
 - [Clinical placements in emergency and ICU involve an intense emotional experience, with negative emotions before the placement and emotional ambivalence during it](intense-emotional-experience-critical-care-placement.md) — related
 - [Students in emergency and ICU placements report acquiring attitudes linked to humanization of care alongside technical skills](humanization-attitudes-over-techniques.md) — related
+- [The highest individual clinical stressors are witnessing critically ill patients, instructor admonition before staff, and communication with the instructor](instructor-related-stressors-highest-in-clinical-learning.md) — related

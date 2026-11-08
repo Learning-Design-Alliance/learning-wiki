@@ -51,3 +51,4 @@ Item-level analysis of the 14-item ECG test across all 220 interns (Table 3). Th
 - [High self-reported confidence in ECG interpretation strongly predicts actual competency (AOR up to 9.10)](self-confidence-predicts-ecg-competency.md) — related
 - [Only 19.1% of Ethiopian medical interns across four institutions meet the ≥80% ECG interpretation competency threshold](ethiopian-interns-low-ecg-competency-19-percent.md) — related
 - [Asystole was the best-recognised ECG emergency (69.9% correct) while third-degree A-V block was the least recognised](asystole-best-recognised-ecg-emergency.md) — related
+- [Diagnosis recognition, transfer persistence and communication are the weakest checklist items in simulated STEMI care](stemi-checklist-diagnosis-transfer-communication-gaps.md) — related

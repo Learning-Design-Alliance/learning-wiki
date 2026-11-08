@@ -47,6 +47,7 @@ The article's practitioner recommendations split into two strands matched to the
 
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
 - [Design engaging L2 instruction and positive classroom climate to cultivate learners' sustained interest in the target language](cultivate-sustained-interest-l2-strategy.md)
+- [Teaching for grit: build autonomy-supportive classroom climates with collaboration, low-competition culture, constructive feedback, and challenging long-horizon learning experiences](teaching-for-grit-autonomy-support-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (118 show a difference, 33 mixed, 24 no difference) · 144 studies (54 causal, 26 review, 24 associational, 20 quant-synthesis, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 22 of 144 report an effect size · 172 claims rest on one study
+> **Evidence** · 177 claims (119 show a difference, 33 mixed, 25 no difference) · 146 studies (55 causal, 26 review, 25 associational, 20 quant-synthesis, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 22 of 146 report an effect size · 174 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -217,6 +217,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Cognitive aptitudes each explain unique variance in future academic performance, jointly 5.77% (numerical 3.08%, verbal 1.54%, abstract reasoning 1.15%)](../claims/cognitive-aptitudes-unique-variance-t3-gpa.md) [+M] — learners who differ on it differ in outcomes
 - [CBR worker competence varied between workers with consistent rankings over time, and those with prior community work experience tended to score higher](../claims/prior-community-work-experience-linked-higher-competence.md) [+M] — learners who differ on it differ in outcomes
 - [Multi-modal training combining role-plays with immediate feedback, field practice and participatory teaching contributed to early competence development](../claims/multimodal-training-role-plays-feedback-field-practice.md) [+M] — measured as an outcome of the instruction studied
+- [In a randomized EM clerkship trial, students receiving a multimodal communication curriculum at the midpoint achieved maximum CAT scores more often than controls in weeks 3–4 (OR 1.65, p = 0.008)](../claims/multimodal-curriculum-patient-feedback-improves-cat-max-scores.md) [+M] — measured as an outcome of the instruction studied
+- [Interpersonal and communication skills ratings do not increase significantly over training, unlike other competencies](../claims/communication-skills-ratings-no-significant-increase.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

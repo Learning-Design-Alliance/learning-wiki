@@ -75,3 +75,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related
 - [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related
 - [A 3-point subjective Accuracy scoring system for free-text ECG interpretations shows fair-to-good to excellent inter-rater agreement across four evaluators of different training levels](pecg-accuracy-score-interrater-agreement-validated.md) — related
+- [Interpreter and faculty raters gave similar scores on the interpreter-use subcompetency](interpreter-faculty-raters-similar-scores.md) — related

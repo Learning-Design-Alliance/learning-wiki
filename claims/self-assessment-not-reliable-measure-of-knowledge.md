@@ -51,3 +51,4 @@ Spearman rank correlation analysis of self-assessment ratings against TDI-KNOW I
 - [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related
 - [Self-perceived competency correlates moderately with self-reported practice behavior, while objective knowledge correlates negatively with practice behavior](scs-cpbs-positive-okto-cpbs-negative-correlation.md) — related
 - [Residents' interest in the field correlated with their self-assessed practical abilities but not with self-assessed theoretical knowledge, and theoretical knowledge showed no correlation with practical abilities](interest-correlates-with-practical-not-theoretical-ability.md) — related
+- [Resident and intern ratings of the intern's consult-calling ability show only a moderate positive correlation (r = .43)](moderate-correlation-resident-intern-consult-ability.md) — related

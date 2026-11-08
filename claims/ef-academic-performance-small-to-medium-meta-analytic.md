@@ -78,3 +78,4 @@ The review reports, citing Jacob and Parkinson 2015, a ranked pattern across EF 
 - [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](ef-achievement-variance-srl-low-effect.md) — reports the opposite
 - [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — related
 - [Working memory span, updating, and cognitive flexibility positively predict English writing, response inhibition positively predicts reading, and working memory span negatively predicts listening](ef-components-predict-english-subskills-network.md) — a narrower finding that bears on this claim
+- [Academic achievement was positively correlated with all three executive function domains in both boys and girls](executive-function-categories-higher-academic-grades.md) — a narrower finding that bears on this claim

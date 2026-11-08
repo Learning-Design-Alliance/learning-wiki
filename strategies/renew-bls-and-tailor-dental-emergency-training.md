@@ -49,6 +49,7 @@ The article recommends shortening the BLS renewal interval below the usual 24 mo
 - [Sustain certification through dynamic renewal, multi-channel feedback, and a training–certification–motivation–development cycle](dynamic-certification-renewal-cycle-strategy.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Decentralise BLS training at scale with periodic retraining and certification tracking in performance management](decentralised-bls-training-retraining-strategy.md)
+- [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 
 ## Examples
 -

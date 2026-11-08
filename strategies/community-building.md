@@ -89,6 +89,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Build structured feedback mechanisms, explicit team formation and clear workload expectations into active learning environments in public health education](structured-feedback-team-formation-workload-expectations.md)
 - [Run icebreaking activities before formal team activities to build trust and intimacy among newly formed teams](icebreaking-before-team-activities-strategy.md)
 - [Facilitate a learning community in which the teacher-learner knowledge boundary is blurred and social presence is cultivated](online-learning-community-facilitation-roles.md)
+- [Prepare video-feedback sessions with facilitators attentive to learners' psychological needs, skilled at linking feedback to communication theory](vf-session-preparation-facilitator-strategy.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

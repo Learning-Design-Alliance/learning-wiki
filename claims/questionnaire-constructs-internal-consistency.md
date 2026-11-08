@@ -86,3 +86,4 @@ collaboration."
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
+- [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related

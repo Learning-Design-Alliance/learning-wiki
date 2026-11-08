@@ -48,6 +48,7 @@ A concrete implementation step drawn from the trial's finding that familiarizati
 ## Related Strategies
 
 - [Provide longer training and familiarization before deploying an interactive cognitive aid in simulated resuscitation](extended-familiarization-before-cognitive-aid-use.md)
+- [Train staff in cognitive-aid use, placement, cueing and content before implementing bedside resuscitation cognitive aids in live clinical settings](train-staff-before-cognitive-aid-implementation.md)
 
 ## Examples
 -

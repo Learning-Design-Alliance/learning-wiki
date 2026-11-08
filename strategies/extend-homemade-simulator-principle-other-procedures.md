@@ -49,6 +49,7 @@ The authors recommend applying the same low-cost homemade simulator principle to
 - [Extend competency-driven procedural training to other under-taught clinical skills and resource-limited settings](extend-competency-driven-training-to-other-procedures.md)
 - [Extend high-fidelity clinical simulation to other Dentistry curriculum areas such as pediatric dentistry](extend-simulation-pediatric-dentistry.md)
 - [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
+- [Use low-cost homemade box trainers to expand access to laparoscopic training in resource-limited settings](low-cost-homemade-box-trainers-resource-limited-settings.md)
 
 ## Examples
 -

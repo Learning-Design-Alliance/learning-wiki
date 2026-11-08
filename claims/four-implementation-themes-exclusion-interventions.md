@@ -60,3 +60,4 @@ Qualitative synthesis of nine UK-based process evaluations of stakeholder (teach
 - [Staff and parent support, recognition by the school, confidence, cohesive leader teams and time together enabled cyber leadership, while lack of staff support inhibited it](cyber-leadership-enablers-and-barriers.md) — related
 - [Teachers, senior leaders, speech and language therapists and local authority managers perceived that Talk of the Town had a positive effect on pupil learning and confidence](tott-staff-perceived-positive-effects.md) — a narrower finding that bears on this claim
 - [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related
+- [Policy-level priorities for PAL include self-governance support, Ofsted compatibility, and investment in initial teacher training](pal-policy-priorities-ofsted-itt.md) — related

@@ -51,3 +51,4 @@ Subgroup analysis repeating the primary model using data only from pupils eligib
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — a broader claim this one bears on
 - [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related
+- [Disruptive behavior and FSM eligibility predict intervention compliance in the Good Behavior Game trial](disruptive-behavior-fsm-predict-gbg-compliance.md) — related

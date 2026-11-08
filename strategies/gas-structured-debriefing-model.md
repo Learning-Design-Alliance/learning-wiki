@@ -44,6 +44,7 @@ GAS is a three-phase structured debriefing method applied after each simulated s
 - [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
 - [Debriefing](debriefing.md)
 - [Debrief the postvention scenario with \"The Diamond\" model across descriptive, analytical and application phases](diamond-model-three-phase-debriefing-postvention.md)
+- [Use a structured three-phase debriefing after each resuscitation scenario, including reaction, advocacy-inquiry, and generalization phases](three-phase-debriefing-shock-simulation-strategy.md)
 
 ## Examples
 -

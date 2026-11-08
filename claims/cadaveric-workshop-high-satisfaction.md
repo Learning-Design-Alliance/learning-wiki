@@ -56,3 +56,5 @@ Post-workshop satisfaction survey of the 109 participants using a 5-point Likert
 - [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related
 - [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
+- [Learners reported high satisfaction, rating the simulation 97% relevant, 97% effective, and 90% high quality](brown-bag-simulation-high-satisfaction.md) — related
+- [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related

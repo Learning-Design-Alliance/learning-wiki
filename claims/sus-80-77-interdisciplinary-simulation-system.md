@@ -52,3 +52,4 @@ Modified SUS questionnaire interviews with 71 fourth-year clinical medical stude
 - [Nursing students rate the VR oral health learning system as a good experience, and satisfaction does not differ by prior VR game experience](vr-system-satisfaction-sus.md) — related
 - [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
+- [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related

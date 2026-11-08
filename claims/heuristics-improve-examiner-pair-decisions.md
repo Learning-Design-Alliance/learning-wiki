@@ -50,3 +50,4 @@ Simulation over 10,000 randomly sampled examiner pairs from the ten-examiner poo
 - [Rater disagreement is significantly larger for low-performing candidates than for high-performing candidates in rater-based assessment](rater-disagreement-larger-for-low-performers.md) — related
 - [Grade discrepancies span about half a grade for excellent candidates but two to three grades for weaker candidates](grade-discrepancy-half-grade-versus-two-three-grades.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
+- [The borderline (average) candidate's outcome differed between solo and paired marking, with pairs never failing that performance](paired-marking-changes-borderline-candidate-outcome.md) — related

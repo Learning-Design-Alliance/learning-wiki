@@ -68,6 +68,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
 - [Deliver flipped-learning pre-simulation briefing materials (short online videos plus a theory-based briefing form) before simulation practice](flipped-pre-simulation-briefing-strategy.md)
 - [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
+- [Scaffold learners with a preassessment resource-evaluation poll plus source-evaluation videos before a written assignment requiring cited resources](scaffolded-preassessment-resource-evaluation-sequence.md)
 
 ## Examples
 -

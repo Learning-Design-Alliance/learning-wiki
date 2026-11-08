@@ -64,6 +64,7 @@ Art and music function as dual-coding supports: pairing verbal content with visu
 - [Annotating](../principles/annotating.md) — students can annotate artworks, scores, or lyrics as an analysis routine
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
 - [Lecture Method Supplemented with Music (LMM)](lecture-method-supplemented-with-music.md)
+- [Combine cognitive stimulation with racial socialization by selecting enriching activities that highlight African American art, history, and culture](culturally-relevant-cognitive-stimulation-activities.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling how to analyze an artwork or musical piece

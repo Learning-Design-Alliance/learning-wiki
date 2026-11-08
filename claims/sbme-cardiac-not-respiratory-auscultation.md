@@ -77,3 +77,4 @@ Narrative review attributing this to Bernardi et al.'s prospective study of pati
 - [Medical interns taught via the smartphone application scored significantly higher than traditionally taught peers on pediatric, cardiovascular and respiratory exam topics](mobile-app-interns-higher-exam-scores-three-topics.md) — related
 - [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — a broader claim this one bears on
 - [Simulation participants also scored higher on the pulmonary physiology section of the block test](sbe-higher-pulmonary-physiology-section-scores.md) — related
+- [Cardiac auscultation diagnostic accuracy rose from 28% before to 61% after a simple sound simulation lesson among junior doctors, in a single-group pre-post study with no comparison group](sound-simulation-lesson-improves-auscultation-accuracy.md) — a narrower finding that bears on this claim

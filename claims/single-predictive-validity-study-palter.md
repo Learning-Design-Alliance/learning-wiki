@@ -62,3 +62,4 @@ The review reports this as the only included study of predictive validity (Palte
 - [Training and evaluation results on a Japanese otoscopy teaching model are comparable with results attained using real patients](otoscopy-model-comparable-real-patients.md) — related
 - [Trainees strongly supported a standardised laparoscopic curriculum and identified motivators including assessments, defined expectations, competitions and live-operating incentives](trainee-support-standardised-curriculum.md) — related
 - [Consequence validity evidence for simulation-based surgical assessments is rarely reported and remains unevaluated for the EMIG systems](emig-consequence-validity-evidence-gap.md) — related
+- [Only 3 of 17 studies evaluated skills transfer to patients or live animals after simulator training, limiting evidence for clinical outcomes](clinical-transfer-evaluated-in-three-of-seventeen.md) — a broader claim this one bears on

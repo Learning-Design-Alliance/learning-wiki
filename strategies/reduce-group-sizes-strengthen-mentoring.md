@@ -50,6 +50,7 @@ The article recommends reducing the number of students in practice groups and st
 - [Strengthen core microteaching competencies — structured teaching, learner engagement, reflection, feedback, and role modelling — through faculty development](faculty-development-microteaching-competencies.md)
 - [Establish a reading teaching social network, strengthen group discussions and feedback, and report platform errors quickly](reading-social-network-and-feedback-strategy.md)
 - [Integrate collaborative learning into nursing education for newly acquired skills, with instructor numbers matching group numbers](integrate-collaborative-learning-nursing-skills-strategy.md)
+- [Supportive clinical-instructor strategies to reduce midwifery students' stress](supportive-clinical-instructor-strategies-stress.md)
 
 ## Examples
 -

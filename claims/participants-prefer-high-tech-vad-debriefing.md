@@ -54,3 +54,4 @@ Qualitative focus group interviews after three one-day simulation trainings in t
 - [Equipment and display choices affect educational TV quality: black-on-white for fine-line charts, lapel microphone, two cameras, and a 16-inch minimum screen for 20 viewers](educational-tv-equipment-display-conclusions.md) — related
 - [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related
 - [Limited camera views and poor sound quality are the two main weaknesses of live video observation](lvo-weaknesses-limited-view-poor-sound.md) — related
+- [Live video streaming engaged a wider audience but poor lighting and audio limited its efficacy](video-streaming-engaged-audience-limited-by-audio-lighting.md) — related

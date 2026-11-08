@@ -54,6 +54,7 @@ Based on the finding that teamwork and collaboration are the most frequently dev
 - [Strengthen science communication competency through curricular innovation and multidisciplinary team-based practice platforms](curricular-innovation-and-multidisciplinary-tbl-platforms.md)
 - [Embed the shared competencies into undergraduate and postgraduate interprofessional education curricula](embed-shared-competencies-ipe-curricula.md)
 - [Structure sustained engineer-clinician collaboration to bridge the IT-medical gap in hospital learning technology projects](engineer-clinician-collaboration-strategy.md)
+- [Integration module in the curricular internship: fixed weekly multiprofessional team practice with families in a health territory](curricular-internship-integration-module-strategy.md)
 
 ## Examples
 -

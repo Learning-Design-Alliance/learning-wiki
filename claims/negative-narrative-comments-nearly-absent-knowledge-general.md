@@ -52,3 +52,4 @@ Valence-by-category analysis reported in the Results: negative units were "almos
 - [Only 6.4% of preclerkship narrative comments offered guidance on how to improve](preclerkship-narrative-comments-rarely-suggest-improvement.md) — related
 - [Narrative MSF comments are predominantly positive and rarely constructive, and respondents use very polite language that can mask criticism](narrative-msf-comment-quality.md) — related
 - [Experienced supervisors can discriminate between trainees based on narrative MSF reports, with reports of concerning trainees containing significantly more negative and constructive comments](narrative-msf-discriminating-capacity.md) — related
+- [Narrative comment themes shift over training: medical knowledge emphasized in year 1, autonomy, leadership, and teaching in later years](comment-themes-shift-over-training-years.md) — related

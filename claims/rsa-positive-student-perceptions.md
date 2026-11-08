@@ -50,3 +50,4 @@ Small-scale quasi-experimental classroom-based study; open-ended questionnaire r
 - [Experimental-group learners expressed positive attitudes toward animation films in the reading class](positive-learner-attitudes-animation-films-reading.md) — related
 - [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — related
 - [Most students perceived that RSA increased their English reading habit a lot, while some reported no increase](rsa-reading-habit-increase-perceptions.md) — related
+- [Students reported that the greatest difficulty lay in working in groups, while the most frequently shared feeling was enjoyment](student-difficulty-groupwork-enjoyment.md) — related

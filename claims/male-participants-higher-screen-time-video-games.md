@@ -51,3 +51,4 @@ Descriptive analysis of parent-reported screen time (Table 2) in the TARGet Kids
 ## Related Claims
 - [Male participants were almost twice as likely as females to be engaged in gaming](males-twice-likely-gaming-engagement.md) — a narrower finding that bears on this claim
 - [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related
+- [Screen time measures are negatively correlated with academic performance in female high school students, with few associations in male students](screen-time-negative-academic-performance-females.md) — related

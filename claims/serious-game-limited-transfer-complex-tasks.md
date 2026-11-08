@@ -51,3 +51,4 @@ Results section, Clip Applying analysis of the randomized study: the serious gam
 - [Error scores on the Fine Dissection task did not improve significantly in any group, suggesting error metrics are more resistant to change over short training intervals](fine-dissection-error-scores-not-improved.md) — related
 - [Only about one-third of residents believe FLS skills transfer to complex laparoscopic cases, with positivity declining as training advances](fls-skill-transferability-skepticism.md) — related
 - [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](box-skills-transferred-to-vr-not-vice-versa.md) — related
+- [Basic operative laparoscopic skills and cognitive knowledge scores rose significantly from pre-test to post-test after the advanced course, in one uncontrolled pre-post study](basic-skills-and-cognition-improve-after-course.md) — related

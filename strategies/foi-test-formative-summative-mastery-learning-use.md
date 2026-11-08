@@ -51,6 +51,7 @@ The article recommends using the test for both formative (feedback) and summativ
 
 - [Use AI-based assessment periodically for formative feedback while avoiding AI in summative assessment](ai-formative-not-summative-assessment-strategy.md)
 - [Simulation-based assessment gate requiring three passed assessments before clinical intubation practice](simulation-assessment-gate-clinical-practice.md)
+- [Use serious games as formative, summative and preinstructional assessments in resuscitation training](serious-games-as-formative-summative-preinstructional-assessment.md)
 
 ## Examples
 -

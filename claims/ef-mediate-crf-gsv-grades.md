@@ -59,3 +59,5 @@ Multiple mediation SEM for the grammar, spelling, and vocabulary outcome in the 
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md) — related
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
 - [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](ef-partially-mediates-fms-academic-achievement.md) — related
+- [Inhibition and cognitive flexibility partially mediated the association between CRF and academic achievement in language and mathematics](inhibition-cognitive-flexibility-partially-mediate-crf-achievement.md) — a broader claim this one bears on
+- [Working memory did not mediate the association between CRF and academic achievement](working-memory-does-not-mediate-crf-achievement.md) — related

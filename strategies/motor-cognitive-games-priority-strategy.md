@@ -51,7 +51,8 @@ The article recommends that teachers and educational policy promote physical act
 - [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](../claims/ef-partially-mediates-fms-academic-achievement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design physical activity programs aimed at increasing CRF and executive functions to improve academic achievement in schoolchildren](physical-activity-programs-crf-executive-functions-academic-achievement.md)
 
 ## Examples
 -

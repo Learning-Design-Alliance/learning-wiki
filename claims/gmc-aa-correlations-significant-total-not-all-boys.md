@@ -54,3 +54,5 @@ Bivariate Pearson correlation analysis (Table 2) across the 451-child sample, re
 - [Cognitive mediation of the gross motor competence-academic achievement relationship is predominant in boys, accounting for over half of the total effect](cognitive-mediation-predominant-boys-gmc-academic-achievement.md) — related
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
 - [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — related
+- [For boys, dynamic balance is associated with academic performance but waist circumference does not mediate the association](boys-balance-associated-no-waist-mediation.md) — reports the opposite
+- [Precision throw is not associated with academic performance in children, in the combined sample or by sex](precision-throw-not-associated-academic-performance.md) — related

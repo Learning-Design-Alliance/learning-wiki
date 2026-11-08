@@ -56,3 +56,5 @@ Fleiss' Kappa analysis of diagnostic consistency among the two student cohorts o
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
 - [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
 - [Inter-rater agreement on five POCUS clinical-competence checklist items is fair to moderate (κ = 0.32 to 0.55)](pocus-checklist-fair-moderate-rater-agreement.md) — related
+- [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
+- [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related

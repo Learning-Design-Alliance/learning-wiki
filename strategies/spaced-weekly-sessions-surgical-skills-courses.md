@@ -50,6 +50,7 @@ The article recommends that microsurgical and basic surgical skills training be 
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](spread-skills-courses-over-several-days-strategy.md)
 - [Replace massed Halstedian-style training with spaced VR simulator-based psychomotor training for novice doctors](implement-spaced-vr-simulator-training-novice-doctors.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
+- [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
 
 ## Examples
 -

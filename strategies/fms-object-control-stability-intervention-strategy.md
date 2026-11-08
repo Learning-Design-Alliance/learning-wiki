@@ -46,6 +46,7 @@ The article recommends that educators and parents deliver engaging physical prog
 ## Related Strategies
 
 - [Prioritize daily structured physical activity opportunities beyond regular physical education classes, incorporating aerobic, coordinative, and cognitively engaging tasks](daily-structured-physical-activity-beyond-pe.md)
+- [Design physical activity programs aimed at increasing CRF and executive functions to improve academic achievement in schoolchildren](physical-activity-programs-crf-executive-functions-academic-achievement.md)
 
 ## Examples
 -

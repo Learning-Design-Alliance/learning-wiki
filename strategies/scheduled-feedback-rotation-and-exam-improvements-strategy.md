@@ -50,6 +50,7 @@ Based on combined quantitative gaps and qualitative explanations, the authors pr
 
 - [Timetable collaborative learning into the internship and redesign feedback mechanisms to lower the barrier to commenting](timetable-collaborative-learning-and-lower-feedback-barriers.md)
 - [Individual Rotation](individual-rotation.md)
+- [Supportive clinical-instructor strategies to reduce midwifery students' stress](supportive-clinical-instructor-strategies-stress.md)
 
 ## Examples
 -

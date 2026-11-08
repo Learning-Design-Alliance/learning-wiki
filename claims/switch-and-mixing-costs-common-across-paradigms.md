@@ -75,3 +75,4 @@ The review reports, citing numerous studies, that "performance is worse in mixed
 - [Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure](sentence-processing-affects-language-switching.md)
 - [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md)
 - [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md)
+- [Extensive task-switching training reduces switch cost, with reduction limited to short cue–stimulus interval trials](task-switching-training-reduces-switch-cost-short-csi.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Cross-sectional multi-group structural equation model of baseline data from the 
 - [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](ef-partially-mediates-fms-academic-achievement.md) — related
 - [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related
 - [Boys score higher on catching and throwing while girls score higher on static and dynamic balance](sex-differences-gmc-components-balance-object-control.md) — related
+- [Precision throw is not associated with academic performance in children, in the combined sample or by sex](precision-throw-not-associated-academic-performance.md) — related

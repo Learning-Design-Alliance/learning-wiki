@@ -73,3 +73,4 @@ Same correlation analysis (Table 2). Repetitions in Basic showed a near-zero, no
 - [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related
 - [Repeated practice in a case-based VR suture simulation significantly improved stomatology undergraduates' item and total scores from formative to final test](vr-facial-wound-suture-score-improvement.md) — reports the opposite
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
+- [Basic operative laparoscopic skills do not correlate significantly with laparoscopic suturing performance before or after an advanced training course](no-correlation-basic-laparoscopic-skills-suturing.md) — related

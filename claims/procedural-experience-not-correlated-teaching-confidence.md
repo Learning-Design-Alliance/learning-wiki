@@ -66,3 +66,4 @@ Null correlational findings from the same Table 2 analysis: "no significant corr
 ## Related Claims
 - [Postworkshop attitudinal scores improved significantly for all five attitudinal questions among residents and fellows, including confidence in applying instructional design theory to procedural skills teaching](teaching-procedures-workshop-attitudes-improved.md) — related
 - [Previous simulated FONA procedures correlated moderately with first-evaluation score but practically not with final-evaluation score](simulated-fona-experience-first-eval-association.md) — related
+- [Confidence in procedure performance rises with professional experience and with Masters/PhD qualifications](confidence-rises-with-experience-and-qualifications.md) — a narrower finding that bears on this claim

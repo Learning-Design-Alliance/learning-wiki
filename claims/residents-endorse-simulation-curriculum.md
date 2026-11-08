@@ -48,3 +48,4 @@ Posttest questionnaire administered to all 41 participants after the course and 
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Most participants agreed the simulator can teach basic instrument handling and clip application skills and should be integrated into training and workflows](medusa-basic-skills-and-integration-endorsement.md) — related
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
+- [Overwhelming majorities of senior and junior trainees want laparoscopic suturing introduced early in the curriculum](trainees-want-early-suturing-introduction.md) — related

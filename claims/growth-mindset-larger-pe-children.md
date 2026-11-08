@@ -53,3 +53,4 @@ Correlational ERP analysis of 123 children performing a child-friendly go/no-go 
 - [Four weeks of cognitive training produced larger increases in growth mindset in children than business-as-usual schooling](cognitive-training-increases-growth-mindset-children.md) — related
 - [Error Positivity amplitude increases with note information content and asynchrony, suggesting it signals event salience during rhythm production](pe-increases-with-note-surprise-and-error-size.md) — related
 - [The KITS intervention produced no significant group differences in the ERN or Pe on incorrect trials, nor in behavioral task performance](kits-no-group-effects-ern-pe-behavior.md) — related
+- [Self-reported growth mindset moderated HCPs' task performance in the RETAIN video game](growth-mindset-moderates-retain-performance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 245 claims (158 show a difference, 56 mixed, 31 no difference) · 201 studies (80 associational, 48 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 31 of 201 report an effect size · 243 claims rest on one study
+> **Evidence** · 247 claims (158 show a difference, 58 mixed, 31 no difference) · 202 studies (81 associational, 48 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 31 of 202 report an effect size · 245 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -277,6 +277,8 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Age 25 years or older is the only significant demographic predictor of simulator score, with older students scoring lower](../claims/age-25-plus-lower-simulator-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Attending a private school and being younger are independently associated with higher academic achievement](../claims/private-school-younger-age-higher-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Older students who had failed an academic year showed lower end-of-year academic performance than younger peers, except in the workshop group](../claims/grade-repeaters-lower-performance-except-workshop.md) [~M] — an instructional effect differs with it
+- [The age pattern of kanji writing accuracy differs between cohorts: writing peaked in early adulthood in 2006 but continued increasing into middle adulthood in 2016](../claims/writing-accuracy-age-pattern-cohort-difference.md) [~M] — learners who differ on it differ in outcomes
+- [The age pattern of the writing-semantic correlation differs between cohorts: it rose into middle adulthood in 2006 but stagnated after university age in 2016](../claims/orthography-semantics-correlation-cohort-stagnation.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

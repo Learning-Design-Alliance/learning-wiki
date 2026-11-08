@@ -71,3 +71,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [High-fidelity simulator realism was rated higher but participant comfort lower than the low-cost simulator, without affecting overall perceived efficacy](hf-realism-higher-comfort-lower-than-lc.md) — related
 - [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
 - [More than 80% of SBME students were satisfied with the SBME course and its projects](sbme-student-satisfaction-over-80-percent.md) — related
+- [Physicians rated the simulator helpful for anatomical understanding (75%) and epiduroscopy training (85%), but realism was acceptable to only 40%](epidurosim-survey-helpful-but-moderate-realism.md) — a narrower finding that bears on this claim

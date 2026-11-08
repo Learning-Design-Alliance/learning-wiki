@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 449 claims (293 show a difference, 109 mixed, 47 no difference) · 318 studies (117 associational, 109 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 8 design), `q1`–`q4` · 87 of 318 report an effect size · 437 claims rest on one study
+> **Evidence** · 450 claims (294 show a difference, 109 mixed, 47 no difference) · 319 studies (118 associational, 109 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 8 design), `q1`–`q4` · 88 of 319 report an effect size · 438 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -499,6 +499,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [After the MICB 301 EDUCE module, computer science interest remained constant while computer science experience gained, and statistics showed no significant changes in interest or experience](../claims/educe-micb301-cs-constant-statistics-null.md) [-M] — measured as an outcome of the instruction studied
 - [Academic performance correlates positively with intrinsic motivation but is unrelated to extrinsic motivation and amotivation in PE students](../claims/intrinsic-motivation-gpa-correlation-pe-students.md) [~W] — learners who differ on it differ in outcomes
 - [Gamification did not change intrinsic motivation or amotivation in university PE students](../claims/gamification-no-intrinsic-motivation-amotivation-change.md) [-M] — measured as an outcome of the instruction studied
+- [Basic psychological needs satisfaction positively predicts intrinsic motivation, which predicts perseverance more strongly than passion](../claims/bpn-satisfaction-predicts-intrinsic-motivation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

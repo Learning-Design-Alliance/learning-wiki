@@ -56,3 +56,4 @@ Single-group pre/post study of 64 nursing students using the CTDI-CV; paired t-t
 - [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related
+- [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related

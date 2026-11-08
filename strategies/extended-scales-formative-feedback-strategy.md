@@ -47,6 +47,7 @@ The article recommends reserving extended, task-specific rating scales for forma
 ## Related Strategies
 
 - [Provide immediate formative feedback from faculty and embedded participants after each OSCE station](immediate-formative-feedback-after-each-osce-station.md)
+- [Use the ComOn check for time-efficient assessment and feedback of student communication skills in teaching and OSCE contexts](comon-check-teaching-osce-use-strategy.md)
 
 ## Examples
 -

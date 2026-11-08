@@ -54,3 +54,4 @@ Educator survey from the District-Charter Collaboration Grant evaluation. Respon
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Nearly 90% of participants reported sharing their program knowledge with others through formal training, workshops, or informal mentoring and case discussions](therapy-intensive-knowledge-dissemination.md) — related
 - [Grantees reported very high satisfaction with NTTAC technical assistance and products](high-satisfaction-nttac-ta-recipients.md) — related
+- [Most workshop participants planned to apply the training in clinical practice and to share it with other health professionals and students](breathlessness-workshop-participants-plan-practice-change.md) — related

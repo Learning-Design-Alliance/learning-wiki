@@ -57,3 +57,4 @@ Cross-sectional survey of 20,778 children in eight Chinese cities; sleep duratio
 - [Fatigue depends on age, sex, lesson length and number, time of day, weekday, recesses, holidays, rest, sleep, nature of work, school program, and teacher personality (Offner's laws of fatigue)](laws-of-fatigue-school-conditions.md) — related
 - [Optimal sleep duration varies by subject: about 8–9 hours for mathematics and 7–8 hours for Chinese, English, science, and arts](subject-specific-optimal-sleep-duration.md) — related
 - [Many first-year students report short regular sleep duration, more than half in the School of Sciences sample and almost a third in the Psychology sample](short-regular-sleep-prevalence-freshmen.md) — related
+- [Medical students have less rest time compared to dental students](medical-students-less-rest-time-dental.md) — related

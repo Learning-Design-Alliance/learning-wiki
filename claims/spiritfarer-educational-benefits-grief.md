@@ -51,3 +51,4 @@ Findings from the LED analysis categorized into three educational themes: percep
 - [Players formed personal connections with Spiritfarer characters, often because spirits reminded them of real loved ones](spiritfarer-personal-connection-characters.md) — related
 - [The course significantly reduced perceived difficulty of palliative care, increased recognition of its necessity, and corrected misconceptions equating palliative care with giving up treatment or shortening life](palliative-attitude-misconception-shifts.md) — related
 - [Overdose simulation stimulated introspective reflection and gave participants a new perspective, including the responder's vantage point](simulation-new-perspective-reflection-overdose.md) — related
+- [Two-thirds of attendees reflected on their attitudes towards dying, death and grief and about one in five changed their attitude because of the seminar](seminar-prompted-attitude-reflection-and-change-eolc.md) — related

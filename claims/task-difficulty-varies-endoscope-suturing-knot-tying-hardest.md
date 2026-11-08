@@ -52,3 +52,4 @@ One-way ANOVA (IBM SPSS Statistics Version 29) on attempts to pass each Versius 
 - [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related
 - [Robot-system training requires significantly fewer repetitions than VR training to reach proficiency in three of six FRS tasks](robot-training-fewer-repetitions-to-proficiency.md) — related
 - [Skills trained in the FLS suture-with-intracorporeal-knot exercise did not easily transfer to the more complex SUTT1 stitching and knot-tying task](fls-suture-skills-poor-transfer-sutt1.md) — related
+- [Senior and junior trainees disagree on which suturing component step is most difficult](perceived-difficulty-suturing-steps-differs-by-level.md) — related

@@ -49,3 +49,4 @@ Descriptive statistics from the cross-sectional survey (Table 1, n = 553). The d
 - [First-year nursing students reported moderate-to-high readiness for clinical practice, highest for recognition of the practice area](readiness-moderate-high-recognition-area-highest.md) — related
 - [Overall stress level correlates strongly and negatively with readiness for clinical practice among first-year nursing students (r = −0.85)](stress-readiness-strong-negative-correlation.md) — related
 - [All four stressor domains negatively and significantly predict first-year nursing students' readiness for clinical practice, together explaining 73.5% of its variance](stressors-negatively-predict-nursing-clinical-readiness.md) — related
+- [Students' interest in their field of study correlates negatively with stressors in clinical practices and interpersonal communication](interest-in-field-negative-correlation-clinical-stressors.md) — related

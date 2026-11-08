@@ -50,3 +50,4 @@ Logistic regression using a compound score dividing participants into four group
 - [Perceived stress and hair cortisol were not significantly correlated in this sample](pss-hcc-not-significantly-correlated.md) — related
 - [High-risk students (high stress plus elevated cortisol) show increased risk of lower GPA in both semesters (RR 3.10 and 2.54)](high-risk-profile-lower-gpa-two-semesters.md) — possibly the same claim (merge candidate)
 - [High perceived stress combined with elevated cortisol tertile is associated with poorer perceived memory performance](high-stress-high-cortisol-poorer-perceived-memory.md) — related
+- [More than half of midwifery students in clinical learning report severe perceived stress](midwifery-students-severe-clinical-stress.md) — related

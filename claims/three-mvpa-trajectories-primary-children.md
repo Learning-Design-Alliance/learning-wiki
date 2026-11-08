@@ -52,3 +52,4 @@ Longitudinal cohort analysis of 202 children using the SAS Proc Traj group-based
 - [MVPA trajectories differed by gender, but gender was not a significant factor in the MVPA–achievement relationship](gender-differences-mvpa-trajectories-not-achievement.md) — related
 - [Baseline age was inversely related to reading scores in adjusted models](baseline-age-inversely-related-reading-scores.md) — related
 - [Students' favourable attitudes towards sports were positively associated with higher academic achievement](student-sports-attitudes-academic-achievement.md) — related
+- [Over the three years, academic performance significantly declined while cognitive control measures generally improved, with no gender difference in cognitive control change](grades-decline-cognitive-control-improves.md) — related

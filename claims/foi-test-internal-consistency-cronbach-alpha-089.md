@@ -58,3 +58,4 @@ Validity evidence for internal structure, calculated as Cronbach's alpha across 
 - [Questionnaire subscales show high internal consistency with Cronbach's alpha ranging from 0.86 to 0.89](see-questionnaire-subscales-alpha-086-089.md) — related
 - [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](acls-rubric-cronbach-alpha-076.md) — related
 - [The conversational VP exam is reliable, averaging Cronbach's alpha of 0.86 across five years of exams](vp-exam-reliability-cronbach-086.md) — related
+- [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related

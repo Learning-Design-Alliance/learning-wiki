@@ -52,3 +52,4 @@ From the same regression analysis of 189 participants (75.3% female); gender ent
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Ego orientation and need for cognition did not significantly contribute to predicting gaming engagement](ego-nfc-dropped-from-engagement-model.md) — related
 - [Male participants had higher screen time than female participants, particularly in video game time](male-participants-higher-screen-time-video-games.md) — a broader claim this one bears on
+- [Screen time measures are negatively correlated with academic performance in female high school students, with few associations in male students](screen-time-negative-academic-performance-females.md) — related

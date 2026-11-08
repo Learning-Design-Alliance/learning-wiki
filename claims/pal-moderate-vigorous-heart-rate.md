@@ -49,3 +49,4 @@ Heart-rate monitoring (Polar RS400) in a subset of eight participants across all
 - [Children's time on task is about 10 percentage points higher during PAL lessons (97%) than NAL lessons (87%)](pal-raises-time-on-task.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Children accumulated an average of 19.4 minutes (44.81%) of moderate-to-vigorous heart rate intensity per physical education lesson](mvpa-time-pe-lessons-19-4-min.md) — related
+- [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related

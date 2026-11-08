@@ -53,3 +53,4 @@ The review's discussion states that "self-assessed abilities are uncorrelated wi
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — related
 - [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](simulation-based-training-enhances-neuraxial-outcomes.md) — related
+- [Evaluation of the auscultation lab is limited to Kirkpatrick level one perception data, with insufficient data on knowledge retention in clinical practice](auscultation-lab-evaluation-limited-to-level-one.md) — related

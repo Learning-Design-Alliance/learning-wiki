@@ -50,3 +50,4 @@ NASA-TLX administered after each simulated case; medians [IQR] for mental demand
 - [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](novices-higher-tlx-temporal-demand-performance-frustration.md) — reports the opposite
 - [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — reports the opposite
 - [Perceived mental, physical and technical workload on the cadaver model was higher the lower the participant's endoscopic experience level](rhccs-workload-nasa-tlx.md) — reports the opposite
+- [Time to reach the virtual target did not differ between expert and beginner groups (83.50 s vs. 83.00 s; P = 0.194)](epidurosim-time-to-target-no-group-difference.md) — related

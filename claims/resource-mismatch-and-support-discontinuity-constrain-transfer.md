@@ -149,3 +149,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Managers value the centrally organised, obligatory residency programme with reflection as a supportive structure for continued learning](residency-programme-supportive-structure-continued-learning.md) — related
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
 - [Pre-registration trainees attributed training variation to differing experiences and discussed needing more support and resources](preregistration-training-variation-support-need.md) — related
+- [The major implementation barriers were located in collective action: high caseloads, competing priorities and financial incentives pushed carer support below measurable service-user targets](collective-action-barriers-caseloads-priorities.md) — a narrower finding that bears on this claim
+- [Staff perception of REACT as research rather than a clinical initiative impeded long-term uptake](react-perceived-as-research-impeded-uptake.md) — related

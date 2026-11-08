@@ -52,3 +52,4 @@ Pearson correlation analysis (Table 2) linking inhibitory control, cognitive fle
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related
 - [Executive functions fully mediate the association between gross motor competence and academic achievement in boys but not in girls](efs-mediate-gmc-aa-boys-not-girls.md) — related
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
+- [Academic achievement was positively correlated with all three executive function domains in both boys and girls](executive-function-categories-higher-academic-grades.md) — possibly the same claim (merge candidate)

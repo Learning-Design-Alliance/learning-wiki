@@ -50,3 +50,4 @@ Multi-factorial MANCOVA of the 409-doctor survey, adjusted for years of service.
 - [Malaysian doctors report moderate EBM knowledge and facilitating factors but a high level of self-reported EBM practice](malaysian-doctors-moderate-knowledge-high-practice-ebm.md) — related
 - [Knowledge and practice scores differ significantly by designation, workshop participation, research experience, and facilitating-factor level in an omnibus MANCOVA](mancova-omnibus-ebm-knowledge-practice.md) — a broader claim this one bears on
 - [Specialist designation and high facilitating factors are associated with higher EBM practice scores](specialists-facilitators-higher-ebm-practice.md) — related
+- [Healthcare work experience, student research, upper study year and EBM course participation independently predict better EBM term knowledge, with EBM course participation the strongest factor (OR = 3.32)](predictors-of-ebm-knowledge-logistic-regression.md) — related

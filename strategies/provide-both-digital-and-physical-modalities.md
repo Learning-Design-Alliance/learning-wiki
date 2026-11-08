@@ -50,6 +50,7 @@ The article recommends offering complementary digital and physical resources in 
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 - [Provide opportunities for both collaborative and individual learning to accommodate differing learning preferences](provide-collaborative-and-individual-learning-opportunities.md)
 - [Recommend individualised eLearning educational plans matched to students’ demands and needs](individualised-elearning-plans-student-needs.md)
+- [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
 
 ## Examples
 -

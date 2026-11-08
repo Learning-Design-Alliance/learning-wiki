@@ -50,6 +50,7 @@ Based on the study's findings, the authors recommend that universities implement
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Organize student well-being supports through a three-tier MTSS with universal screening](mtss-three-tier-universal-screening-wellbeing.md)
 - [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
+- [Daily teleconferences and interval wellness surveys to protect team psychosocial well-being during remote rotations](daily-teleconference-wellbeing-monitoring-strategy.md)
 
 ## Examples
 -

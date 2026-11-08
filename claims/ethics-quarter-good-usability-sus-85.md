@@ -55,3 +55,4 @@ Cross-sectional survey of 95 Finnish nurse managers after the EQ intervention wi
 - [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related
 - [Nurse managers rate the Ethics Quarter as highly feasible for learning nursing management ethics](ethics-quarter-high-feasibility.md) — related
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
+- [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related

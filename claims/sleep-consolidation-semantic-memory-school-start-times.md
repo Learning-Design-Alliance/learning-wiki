@@ -60,3 +60,5 @@ Review-based claim from the Shing and Brod article as summarized here. The intro
 - [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](children-daily-fluctuations-sleep-and-working-memory.md) — related
 - [After app use, students were significantly better at identifying factors affecting sleep quality and benefits of later school start times, but not effects of sleep deprivation](cityhacks-openended-sleep-understanding-mixed.md) — related
 - [Sleep duration the night before the test increases as test start time is delayed across shifts](later-test-shift-longer-sleep.md) — related
+- [Delaying school start times is associated with improved mood, less illness absenteeism, better attention and reaction time, and reduced vehicle accident rates (by 16.5%)](later-start-secondary-outcomes-mood-accidents.md) — related
+- [Delaying school start times substantially delays students' wake time and increases total sleep duration](later-start-times-increase-adolescent-sleep-duration.md) — related

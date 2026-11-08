@@ -86,3 +86,4 @@ The report identifies a middle group harmed by sorting: "students with slightly 
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [Medical students graded under criterion-referenced honors/pass/fail grading scored higher on the Basic Medical Science Examination than students graded under norm-referenced A–F grading](honors-pass-fail-higher-basic-medical-science-exam-scores.md) — related
 - [Low-achieving students showed declining test scores in all 3 semesters, with the largest average decline among the three achievement groups](low-achievers-declined-all-three-semesters-online-transition.md) — related
+- [The average positive effect of rank feedback under relative grading is driven by improvement of low-performing students, consistent with a pass-threshold mechanism](pass-threshold-mechanism-drives-average-effect.md) — related

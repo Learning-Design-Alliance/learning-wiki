@@ -56,3 +56,4 @@ Comparative study of two cohorts of first-year postgraduates at a Chinese medica
 - [Blended learning produced higher post-test knowledge scores than traditional lecture in the evidence-based medicine course](blended-learning-higher-post-test-ebm.md) — possibly the same claim (merge candidate)
 - [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related
 - [Blending Moodle e-learning review with a field trip improves herbal plant identification scores for both plant groups in a quasi-experiment with 49 Chinese medicine students](moodle-review-improves-herbal-identification-quasi-experiment.md) — related
+- [Flipped-classroom EBM training produced significantly higher Fresno test scores than traditional lecture-based EBM training in medical technology interns](fresno-test-higher-flipped-ebm-medical-technology.md) — related

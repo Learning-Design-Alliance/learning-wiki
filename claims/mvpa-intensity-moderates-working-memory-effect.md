@@ -56,3 +56,4 @@ Exploratory RVE meta-regression across studies comparing intensity categories; t
 - [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md) — related
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related
 - [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](mvpa-aerobic-pa-benefits-executive-functions.md) — related
+- [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related

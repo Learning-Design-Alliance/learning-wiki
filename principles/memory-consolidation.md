@@ -211,6 +211,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Use workshops and training sessions to familiarize students and educators with MALL and foster independence](../strategies/workshops-training-mall-familiarization.md)
 - [Design CT interventions using empirically valid instructional design principles and report student and teacher characteristics](../strategies/design-ct-interventions-with-valid-instructional-principles.md)
 - [Embed low-burden spaced review structures such as a 48-hour recap and a 1-week revisit with automated reminders](../strategies/spaced-review-structures-strategy.md)
+- [Provide answers to probing questions one week after the session so students can quiz themselves for spaced repetition](../strategies/delayed-answer-sheet-spaced-repetition.md)
 
 ### Illustrative
 

@@ -56,3 +56,4 @@ Post-course student feedback questionnaire (chi-square tests on Likert items) in
 - [Both SSP-TCM and OSP-TCM simulation training improved TCM clinical skills performance relative to traditional didactic training](sp-simulation-improves-tcm-clinical-skills.md) — related
 - [Students trained with VSP-TCM report greater gains in TCM thinking, history collection, communication, and autonomous learning than traditionally trained students](vsp-tcm-student-feedback-gains.md) — related
 - [Post-training satisfaction and self-confidence ratings were significantly higher for VR training than traditional training](vr-training-higher-satisfaction-self-confidence.md) — related
+- [Nursing students report significantly greater satisfaction and motivation after serious-game simulation than after traditional teaching](sg-greater-satisfaction-motivation.md) — related

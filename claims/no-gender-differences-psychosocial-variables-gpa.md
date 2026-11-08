@@ -52,3 +52,4 @@ Student t-tests and Wilcoxon–Mann–Whitney tests comparing 25 men and 93 wome
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [High academic performance (upper GPA quartile) in medical undergraduates is not predicted by self-efficacy, optimism, resilience or perceived stress](psychological-variables-do-not-predict-high-gpa-upper-quartile.md) — related
 - [Among low-performing medical undergraduates (lower GPA quartile), low optimism, low resilience and high perceived stress predict poor academic performance](low-optimism-low-resilience-high-stress-predict-poor-gpa-medical-students.md) — related
+- [Perceived PBL group effectiveness does not differ by prior PBL experience or gender](no-difference-pbl-experience-gender-tgei.md) — related

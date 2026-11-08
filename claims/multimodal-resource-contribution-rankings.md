@@ -52,3 +52,4 @@ Survey of 149 novice veterinary students rating five preparatory resource catego
 - [Using HIS resources in imaging teaching lets students dynamically display and post-process images and access complete clinical data, improving perceived teaching quality](his-resources-benefits-imaging-teaching.md) — related
 - [Students' most frequent independent learning techniques are seeking extra resources, practice questions, self-questioning, note-making, and group contribution](most-common-independent-learning-techniques.md) — related
 - [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — related
+- [Video materials preferentially promote clinical skill acquisition over written materials](video-materials-better-skill-acquisition-than-written.md) — related

@@ -55,3 +55,4 @@ Revalidation item-functioning analyses of Cultivate responses in CPS. The articl
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
 - [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — reports the opposite
 - [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related
+- [Pre-university GPA was positively related to performance on six of 19 selection items, while gender and age effects outweighed each other and did not affect overall performance.](pu-gpa-dif-selection-items-gender-age-null.md) — related

@@ -46,6 +46,7 @@ Participants suggested involving standardized patients as additional assessors b
 
 - [Comprehensive pre-exam SP and examiner training program with scripted cases, rubric walkthrough, video review, and simulated examinees](sp-examiner-pre-exam-training-program-strategy.md)
 - [Stakeholder-recommended improvements: better SP compensation and breaks, backup rosters, hybrid training, and clinical faculty involvement](stakeholder-sp-programme-improvement-strategies.md)
+- [Use patients as assessors of trainee communication to lessen resource demands of standardized patients and OSCEs](patient-as-assessor-communication-strategy.md)
 
 ## Examples
 -

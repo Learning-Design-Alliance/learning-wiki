@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-08
 recheck_by: 2028
 sources:
   - id: laughlin-jacob-l-bs-2025
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-08 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Reductions in instrument tip path length have been correlated with improved performance on structured rubrics, suggesting construct validity. [→ Laughlin Jacob L. BS 2025](#laughlin-jacob-l-bs-2025)

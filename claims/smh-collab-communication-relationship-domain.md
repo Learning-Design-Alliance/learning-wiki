@@ -52,3 +52,4 @@ First theme reported in the Results section of the Delphi study. Panelists ident
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
 - [The framework comprises nine key areas of competency spanning knowledge, skills, attitudes and organisational competences](nine-competency-areas-inpatient-framework.md) — related
 - [Students reported gaining non-technical skills (active listening, communication, empathy, trust-building) from simulated GBV video consultations](gbv-simulation-non-technical-skills.md) — related
+- [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related

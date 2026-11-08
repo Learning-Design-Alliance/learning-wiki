@@ -52,3 +52,4 @@ Student attitude survey data reported in the article alongside the experimental 
 - [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md) — related
 - [Children showed high engagement and enjoyment of MIXER, with nearly 90% wanting to use it again](mixer-high-engagement-enjoyment.md) — related
 - [Most students held favorable attitudes toward pictorial-aids instruction](positive-student-attitudes-pictorial-aids.md) — related
+- [Almost all participants (97%) reported they would want to use the cognitive aid during a real medical crisis](high-acceptance-of-resuscitation-cognitive-aid.md) — related

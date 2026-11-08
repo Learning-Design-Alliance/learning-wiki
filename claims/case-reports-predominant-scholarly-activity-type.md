@@ -52,3 +52,4 @@ Descriptive analysis of scholarly activity characteristics among 656 residents w
 - [GM-ITE clinical knowledge scores are similar across scholarly activity groups among Japanese PGY1-2 residents](gm-ite-scores-similar-scholarly-activity.md) — related
 - [Required scholarly activity shows a small adjusted ACE tool score difference and higher odds of future academic interest compared to no scholarly activity](required-scholarly-activity-ace-and-interest.md) — related
 - [Depression symptom odds are heterogeneous across scholarly activity subgroups, with higher odds among those without clinical research or without requirements](depression-odds-heterogeneous-scholarly-subgroups.md) — related
+- [Capstone projects produced scholarly outputs including conference presentations and publications](capstone-scholarly-outputs.md) — related

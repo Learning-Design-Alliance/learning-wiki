@@ -70,3 +70,4 @@ Descriptive effect sizes by SES group for within-grade growth, computed from raw
 - [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — related
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
 - [Students with low initial reading and math proficiency grew faster over two school years than students with higher initial proficiency, with the inverse relation stronger in math than reading](low-initial-proficiency-faster-growth-grades-1-5.md) — related
+- [GPS-by-SES interaction is small and opposite in direction to the gene-by-environment amplification hypothesis](gps-ses-interaction-small-opposite-direction.md) — related

@@ -67,3 +67,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — related
 - [The purpose-developed portrayal instrument showed good inter-rater reliability, with ICCs of 0.62–0.82 across assessor pairs](portrayal-instrument-good-inter-rater-reliability.md) — related
+- [Intrarater reliability of the OS-12 overall score is excellent (ICC 0.86) when recordings are re-rated after three months](os12-intrarater-reliability-icc-086.md) — related

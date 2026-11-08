@@ -61,3 +61,4 @@ ACE-moderation analysis (Model 4, Table 2) of Cito scores for 18,384 same-sex an
 - [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — related
 - [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related
 - [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related
+- [Twins assigned to different classrooms show larger additive genetic and non-shared environmental variance and smaller twin-shared environmental variance than twins sharing a classroom](classroom-separation-lower-twin-shared-environment.md) — related

@@ -52,3 +52,4 @@ Psychometric analysis of the 15 examination circuits in the June 2024 PJ-OSCE. R
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — a broader claim this one bears on
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [The basic thoracic ultrasound OSCE shows high internal consistency reliability (Cronbach's alpha 0.87 across practical stations)](osce-tus-internal-consistency-alpha-087.md) — related
+- [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related

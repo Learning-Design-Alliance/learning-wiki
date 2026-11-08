@@ -50,3 +50,4 @@ Paired-samples Wilcoxon signed-rank analysis of the nurses' subsample (n = 55), 
 - [Post-intervention correlations between self-efficacy and communication styles differed by profession, with nurses' pre-test negative verbal-aggressiveness association disappearing after training](self-efficacy-communication-correlations-profession-differences.md) — related
 - [Self-efficacy is positively correlated with expressiveness and preciseness and negatively with emotionality, at both pre- and post-test, in health personnel](self-efficacy-correlated-expressiveness-preciseness-positive-emotionality-negative.md) — related
 - [Self-efficacy did not change significantly after the simulation training programme](als-simulation-self-efficacy-change-not-significant.md) — related
+- [Doctors score higher than nurses on the post-simulation knowledge test](doctors-outscore-nurses-knowledge-test-simulation.md) — related

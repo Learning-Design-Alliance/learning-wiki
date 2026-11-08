@@ -73,6 +73,7 @@ The article describes a specific instructional sequence for caregiver emergency-
 - [Assess CPR competence with mannequin performance trials using real-time feedback devices, before and after training](mannequin-feedback-based-cpr-assessment-strategy.md)
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 - [Structured prebriefing to establish psychological safety before the simulated scene](structured-prebriefing-psychological-safety.md)
+- [Deliver standard precautions training as biweekly mixed media sessions combining lectures, videos, role-play, and individual online supervision with feedback](mixed-media-sp-training-session-structure-strategy.md)
 
 ## Examples
 -

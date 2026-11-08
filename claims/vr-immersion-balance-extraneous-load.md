@@ -71,3 +71,4 @@ Theme 4 reports that unnecessary environmental elements and unintuitive controll
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — a broader claim this one bears on
 - [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [Neither the pedagogical agent cue nor the light cue improved learning outcomes in the immersive VR dual-task environment](vr-cueing-no-learning-outcome-effect.md) — related
+- [Qualitative feedback identifies novelty, immersion and helpful spatial visualisation in MR, but distraction, overwhelm and unhelpfulness for nominal learning](qualitative-themes-mr-novelty-distraction.md) — a narrower finding that bears on this claim

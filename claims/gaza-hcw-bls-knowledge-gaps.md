@@ -54,3 +54,4 @@ Cross-sectional survey of 402 doctors and nurses in six Gaza governmental hospit
 - [Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.](defibrillation-knowledge-lowest-domain-accuracy.md) — related
 - [Hospital staff's average correct answers on ERC guideline knowledge rose from 62.3% to 93.7% after a 2-hour BLS-D informative meeting, in one single-group pre-post study](blsd-informative-meeting-knowledge-gain.md) — related
 - [After BLS training, students fail to meet AHA ventilation guidelines: fewer than half of ventilations deliver adequate tidal volume and missed ventilations average 2.2 per cycle](bls-training-ventilation-inadequate.md) — related
+- [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related

@@ -95,3 +95,4 @@ The review reports correlational evidence across multiple studies (Gilbert et al
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
 - [Cognitive offloading does not guarantee representational permanence and memory can suffer if the external record becomes unavailable](offloading-does-not-guarantee-permanence.md) — related
 - [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related
+- [Physical reminder gadgets as an add-on to the digital training were discarded because no participant saw added value in them](physical-reminders-discarded.md) — related

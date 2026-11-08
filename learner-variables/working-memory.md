@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (94 show a difference, 45 mixed, 22 no difference) · 128 studies (49 causal, 33 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 128 report an effect size · 152 claims rest on one study
+> **Evidence** · 164 claims (95 show a difference, 46 mixed, 23 no difference) · 131 studies (50 causal, 35 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 25 of 131 report an effect size · 155 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -204,6 +204,9 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Adding metacognitive strategy training to working memory training produces greater working memory gains at 3 months than working memory training alone](../claims/metacognitive-addition-greater-wm-gains-3-months.md) [+M] — measured as an outcome of the instruction studied
 - [The authors attribute the 4-step group's short-term advantage to Step 3 verbalization producing deeper cognitive processing](../claims/step3-verbalization-cognitive-processing.md) [+W] — measured as an outcome of the instruction studied
 - [Working memory training improves children's working memory performance relative to an adaptive control group, immediately and at 3 months](../claims/wm-training-near-transfer-adaptive-control-children.md) [+M] — measured as an outcome of the instruction studied
+- [Poorer cognitive flexibility and working memory performance correlate moderately with poorer academic progress (r = −.33 to −.35)](../claims/ant-flexibility-working-memory-correlate-academic-progress.md) [+M] — learners who differ on it differ in outcomes
+- [Psychometric abilities relate to learning outcomes differently by tool: attention correlates with nominal scores in the text-only group and spatial short-term memory with spatial scores in the MR group](../claims/psychometric-abilities-correlate-differentially-by-tool.md) [~M] — learners who differ on it differ in outcomes
+- [Working memory did not mediate the association between CRF and academic achievement](../claims/working-memory-does-not-mediate-crf-achievement.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

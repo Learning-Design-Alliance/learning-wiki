@@ -87,3 +87,5 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on
 - [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related
 - [Students' perceived effectiveness of e-learning was not associated with their e-learning readiness scores overall or in any domain](e-learning-readiness-not-associated-perceived-effectiveness.md) — related
+- [Students' self-reported mastery of knowledge improved after the flipped classroom across all four measured knowledge factors](flipped-classroom-knowledge-mastery-improvement-radiology.md) — reports the opposite
+- [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related

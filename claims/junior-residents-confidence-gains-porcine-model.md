@@ -51,3 +51,4 @@ Questionnaire study in which "Twenty-three junior OB/GYN residents (first- to th
 - [Residents' vaginal surgery experience in the past 12 months was largely limited to obstetric procedures rather than gynecologic ones](ghana-residents-vaginal-experience-largely-obstetric.md) — related
 - [Surveyed Italian residents report high experience and confidence with simple and complex cesarean sections](italian-residents-cesarean-experience-confidence.md) — related
 - [Surveyed Italian residents show high volume and near-universal confidence in low-complexity procedures such as uterine curettage and low-degree tear sutures](italian-residents-low-complexity-procedure-confidence.md) — related
+- [The cesarean section simulation produced statistically significant improvement in perceived instrument knowledge and suturing skills among all participants](cs-simulation-improved-instrument-knowledge-suturing-all-participants.md) — related

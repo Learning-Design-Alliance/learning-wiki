@@ -53,7 +53,8 @@ The authors' recommendation is that, in their words, "capacity building among he
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](../claims/three-month-skills-drop-both-arms.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use high-quality interactive eLearning as a scalable capacity-building tool for health professionals, supplemented with follow-up practical training, supervision and mentoring](elearning-scalable-capacity-building-with-followup-support.md)
 
 ## Examples
 -

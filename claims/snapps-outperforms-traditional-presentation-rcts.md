@@ -75,3 +75,4 @@ The article reports, citing Shindala et al (2024), an RCT with 30 Family Medicin
 - [SNAPPS use yields benefits over traditional teaching and the OMP model, including increased learner satisfaction and clinical reasoning (Level 1b, Grade B)](snapps-benefits-over-traditional-and-omp.md) — a broader claim this one bears on
 - [SNAPPS students more often take the initiative to present and justify diagnoses and management plans than OMP students](snapps-more-initiative-case-presentation.md) — related
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — related
+- [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related

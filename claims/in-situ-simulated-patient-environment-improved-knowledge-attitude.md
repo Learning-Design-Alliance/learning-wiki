@@ -50,3 +50,4 @@ Comparative educational evaluation study with pre–post self-assessment (Babu e
 - [Poverty simulations improve average poverty attitudes among dental students immediately after participation](poverty-simulations-improve-average-poverty-attitudes.md) — related
 - [Total attitude scores (APuP) significantly improved after training (dz = 1.728)](apup-attitude-scores-improved-after-training.md) — related
 - [Both e-learning and gamification significantly improved nurses' attitude scores from pre- to post-intervention](both-interventions-improved-attitudes-significantly.md) — related
+- [Healthcare workers' written knowledge scores rose from 44% to 89% immediately after EENC coaching in Solomon Islands hospitals, in one uncontrolled pre-post study](eenc-coaching-increased-written-knowledge-scores.md) — related

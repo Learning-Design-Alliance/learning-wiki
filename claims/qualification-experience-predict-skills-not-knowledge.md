@@ -86,3 +86,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Intervention effectiveness is moderated by demographics: younger, less experienced, female, and Bachelor's-degree nurses improved more](demographics-moderate-nontechnical-skill-intervention-effect.md) — related
 - [Frequency of performing blood transfusions is associated with knowledge score, while gender, qualification, ward, experience and training are not](transfusion-frequency-associated-with-knowledge.md) — related
 - [The experimental and control groups differed significantly in age, nursing seniority, professional level, and department at baseline](group-imbalance-age-seniority-department.md) — related
+- [Confidence in procedure performance rises with professional experience and with Masters/PhD qualifications](confidence-rises-with-experience-and-qualifications.md) — a narrower finding that bears on this claim

@@ -72,3 +72,5 @@ Author interpretation regarding the class of 1924, for whom administration influ
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related
 - [The Rosanoff High Standard Frequency Test, but not writing-speed measures, diverges sharply between high-discrepancy and control students](rosanoff-frequency-test-diverges-between-discrepancy-groups.md) — related
 - [Army Alpha point scores correlate about +0.36 with academic grades among nearly 6000 college students, with correlations varying across sub-tests](army-alpha-grades-correlation-036-college.md) — related
+- [Discussing low test performance with a mentor is associated with much higher odds of serious test-taking behavior in a low-stakes progress test](mentor-discussion-low-performance-serious-test-taking.md) — related
+- [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related

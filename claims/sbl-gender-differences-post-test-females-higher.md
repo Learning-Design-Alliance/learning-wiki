@@ -57,3 +57,4 @@ Independent samples t-tests comparing males (N = 174) and females (N = 366) in t
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Female medical students scored higher than male students on both pre-test and post-test knowledge measures in the escape room evaluation](escape-room-gender-knowledge-correlation.md) — related
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — reports the opposite
+- [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related

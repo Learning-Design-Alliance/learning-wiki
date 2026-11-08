@@ -52,6 +52,7 @@ The article recommends a recurring low-dose training structure: deliver all HBB 
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 - [Use staged, short-interval, high-frequency emergency training with immediate practice while knowledge is fresh to consolidate first aid knowledge and skills](staged-short-interval-emergency-training-strategy.md)
+- [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 
 ## Examples
 -

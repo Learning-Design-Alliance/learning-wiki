@@ -70,3 +70,4 @@ The four profiles were labeled from standardized means: Consistent Achievers (n 
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related
+- [K-means clustering of admissions data yields four student signatures distinguished mainly by uGPA level and trajectory](four-medical-student-signatures-clustering.md) — related

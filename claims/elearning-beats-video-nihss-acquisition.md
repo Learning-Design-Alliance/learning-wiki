@@ -55,3 +55,6 @@ Web-based randomized controlled trial in 3 Swiss university hospitals; 43 e-lear
 - [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
 - [Senior medical students following a highly interactive e-learning module acquire more NIHSS knowledge asynchronously than students following the traditional didactic video](e-learning-module-outperforms-didactic-video-nihss-medical-students.md) — related
 - [The e-learning advantage concentrates in five NIHSS quiz elements: key concepts, consciousness-global, facial palsy, ataxia, and sensory items](nihss-item-level-advantages-interactive-e-learning.md) — related
+- [Prior professional eye care training is associated with slightly higher PEC knowledge and skill scores](prior-eye-training-associated-higher-pec-scores.md) — related
+- [Simulation-based training improves immediate knowledge-test scores of primary care professionals in critical patient care](simulation-training-improves-pc-knowledge-critical-care.md) — related
+- [Video materials preferentially promote clinical skill acquisition over written materials](video-materials-better-skill-acquisition-than-written.md) — related

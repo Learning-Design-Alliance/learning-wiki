@@ -50,3 +50,5 @@ Pearson correlation among the same 120 students; Table 3 prints R = 0.813, coeff
 - [Diagnostic imaging chart documentation scores show only a slight, non-significant correlation with clerkship performance](diagnostic-imaging-documentation-nonsignificant-correlation.md) — related
 - [Resuscitation chart documentation OSCE scores correlate significantly with clerkship performance](resuscitation-documentation-correlates-with-clerkship.md) — related
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related
+- [Total OSCE and CBT scores significantly predict subsequent clinical clerkship performance in Japanese medical students](osce-cbt-total-scores-correlate-clerkship-performance.md) — a broader claim this one bears on
+- [Of seven OSCE components, only medical interview and chest examination significantly correlate with clerkship performance](osce-medical-interview-chest-exam-correlate-clerkship.md) — related

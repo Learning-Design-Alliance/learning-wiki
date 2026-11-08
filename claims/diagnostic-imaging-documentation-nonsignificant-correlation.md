@@ -48,3 +48,5 @@ Pearson correlation among the same 120 students; Table 3 prints R = 0.148, coeff
 - [Total medical chart documentation OSCE scores correlate significantly with clinical clerkship performance in Japanese medical students](chart-documentation-osce-total-correlates-with-clerkship.md) — related
 - [Resuscitation chart documentation OSCE scores correlate significantly with clerkship performance](resuscitation-documentation-correlates-with-clerkship.md) — related
 - [Informed consent chart documentation OSCE scores correlate significantly with clerkship performance](informed-consent-documentation-correlates-with-clerkship.md) — related
+- [Total OSCE and CBT scores significantly predict subsequent clinical clerkship performance in Japanese medical students](osce-cbt-total-scores-correlate-clerkship-performance.md) — related
+- [Of seven OSCE components, only medical interview and chest examination significantly correlate with clerkship performance](osce-medical-interview-chest-exam-correlate-clerkship.md) — related

@@ -70,3 +70,4 @@ Initial linear regression with bootstrapped p-values (1000 samples). Table 4 pri
 - [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [State Graduation Exam score predicted final-year medical school GPA, explaining 12.3% of variance](sge-predicts-final-medical-school-gpa.md) — related
+- [Regression models combining demographics, lifestyle, and fitness explain 23.7% to 58.0% of variance in academic performance](regression-models-variance-academic-performance.md) — related

@@ -51,3 +51,4 @@ Descriptive follow-up comparison within the three-group quasi-experiment two wee
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
 - [Retention of the target medical terms declined significantly over the month across all teaching methods](retention-declines-over-time-all-groups.md) — reports the opposite
+- [The intervention group was significantly more expert (higher CWS) than controls at the 2-week follow-up, but the groups did not differ on CWS immediately post intervention](oracles-cws-expertise-higher-at-follow-up-only.md) — related

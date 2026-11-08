@@ -53,3 +53,4 @@ Prospective randomized comparative study: 28 first-year medical students (Arthro
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a broader claim this one bears on
 - [A single VR training session before a tibial nailing synthetic-bone exercise significantly reduces completion time (about 5 minutes faster, P=.007)](vr-pretraining-faster-tibia-nailing.md) — related
 - [Human-factor skills (HuFSHI) scores were comparable between VR-trained and theory-trained groups](husfhi-comparable-between-groups.md) — related
+- [The effect of simulator fidelity on skill acquisition may depend on trainee level of training, but only one of 17 studies addressed it](fidelity-effect-depends-on-trainee-level-one-study.md) — related

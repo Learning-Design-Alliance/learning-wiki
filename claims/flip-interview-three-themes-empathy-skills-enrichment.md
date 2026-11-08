@@ -53,3 +53,4 @@ Qualitative study: semistructured interviews with seven students with one year o
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — related
+- [Students reported the empathy project improved their understanding of empathy and empathic communication skills](pbl-empathy-student-reflections.md) — related

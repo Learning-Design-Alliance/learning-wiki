@@ -52,3 +52,4 @@ Qualitative content analysis of focus-group comments: "Of the 11 comments relate
 - [Preclinical medical students rated the VR version of a gynecologic pelvic exam simulation significantly higher than the PC version on all five Likert metrics regardless of order of use](vr-scored-higher-than-pc-gpe-simulation.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
 - [Distraction during lecture was reported only by slideshow participants, suggesting VR is more engaging](vr-more-engaging-fewer-distractions.md) — related
+- [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related

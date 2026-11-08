@@ -71,3 +71,4 @@ Interviews with 30 external partners of Annenberg networks. Almost two-thirds no
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
 - [The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas](nsf-exp-network-238-researchers-87-projects.md) — related
 - [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related
+- [Ninety-three percent of participants attributed achieved project results highly to the challenge model team coaching approach](lethho-coaching-attributed-success.md) — related

@@ -50,3 +50,4 @@ Pilot RCT of medical students on neonatology rotation; 81 self-evaluation questi
 - [Instructors rated the stamp-game group as more proactive across both clinical courses during the rotation](instructor-rated-proactivity-higher-both-courses.md) — related
 - [Students in the stamp collecting game group rated their sense of participation and harvest degree higher, but self-rated proactivity did not differ significantly](stamp-game-participation-harvest-up-proactivity-null.md) — related
 - [Instructor-rated proficiency was higher in the stamp-game group for Neonatal Resuscitation Training but not for Teaching Rounds](proficiency-gain-resuscitation-not-teaching-rounds.md) — related
+- [The Neonatology Game was associated with a higher post-test score that was not statistically significant, in a cluster-randomised trial with no pre-test](neonatology-game-post-test-score-not-significant.md) — related

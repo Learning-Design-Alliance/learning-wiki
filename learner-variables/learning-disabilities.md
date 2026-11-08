@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (119 show a difference, 35 mixed, 24 no difference) · 99 studies (50 associational, 24 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 99 report an effect size · 176 claims rest on one study
+> **Evidence** · 180 claims (121 show a difference, 35 mixed, 24 no difference) · 100 studies (51 associational, 24 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 20 of 100 report an effect size · 178 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -212,6 +212,8 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Dyslexia predicts poorer performance in academic literacy and academic mathematics tasks but not in non-academic literacy tasks among middle school students](../claims/dyslexia-impairs-academic-but-not-non-academic-task-performance.md) [~M] — learners who differ on it differ in outcomes
 - [Students with dyslexia judge themselves as less competent at school than students without dyslexia, but do not differ on warmth, effort, or assertiveness](../claims/dyslexia-lower-self-judgement-competence-only.md) [~M] — learners who differ on it differ in outcomes
 - [The performance gap tied to dyslexia depends on task framing: dyslexia status and academic versus non-academic task type interact](../claims/academic-framing-by-dyslexia-interaction.md) [~M] — an instructional effect differs with it
+- [Adding self-reported daily EF (plan/organize) to autism symptom severity triples explained variance in academic progress to 36% in higher-education students with ASD](../claims/brief-a-plan-organize-triples-variance-academic-progress-asd.md) [+W] — learners who differ on it differ in outcomes
+- [Autism symptom severity shows a medium negative correlation with academic progress (r = −.35)](../claims/srs-a-symptom-severity-correlates-academic-progress.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

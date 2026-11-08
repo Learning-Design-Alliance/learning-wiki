@@ -52,3 +52,4 @@ Training-frequency comparison in the RCT; cycles were manually counted for the t
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related
 - [Both AI-VSP and SP groups improved significantly from pre-test to post-test, with no significant difference in score improvement between groups](ai-vsp-sp-post-test-improvement-similar.md) — related
 - [Both AI-trained and expert-tutor-trained physicians improved significantly on most performance metrics from pre- to post-training](both-training-methods-improve-bronchoscopy-performance.md) — related
+- [Most SEGUE communication skills (18/25) did not change significantly from pre-test to post-test after software-based training, and use of inducing questions declined, in one group with no comparison group](software-training-most-skills-no-improvement.md) — related

@@ -73,3 +73,4 @@ Same questionnaire, knowledge-and-skills items: the clinical reasoning item aver
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
 - [Users of the interactive clinical avatar perceived clinical reasoning skill development to a greater extent than problem-solving or decision-making skill development](avatar-clinical-reasoning-over-lower-skills.md) — related
+- [eCREST was highly acceptable to students, with acceptability higher in the integrated cohort](ecrest-high-student-acceptability.md) — related

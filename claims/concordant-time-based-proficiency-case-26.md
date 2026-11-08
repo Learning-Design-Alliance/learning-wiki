@@ -49,3 +49,4 @@ CUSUM chart of operative time across the same 51-case chronological series ident
 - [CUSUM analysis of a single surgeon's first 51 THD-Anolift cases identifies a proficiency point at case 23 for the composite failure endpoint](cusum-proficiency-case-23-thd-anolift.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
+- [CUSUM analysis identifies a procedure-time learning-curve inflection at case 52 and a fluoroscopy-time inflection at case 43 for TAVR in native aortic regurgitation](tavr-ar-learning-curve-52-cases-cusum.md) — related

@@ -113,3 +113,5 @@ Observational and interview study of four after-school sites; educators reported
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
 - [Challenges in the transition included connectivity problems, clinical skills training limits, preparation workload, and doubts about student self-directed learning](challenges-e-learning-transition-optometry.md) — related
 - [Free-text keyword-recognition problems in virtual patients did not distract most trainees from learning](vp-keyword-recognition-issues-not-detracting.md) — related
+- [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related
+- [Wi-Fi signal interruptions and smartphone technical failures were a major barrier to the Just Dance Now exergame, causing student frustration](wifi-technical-failures-major-barrier.md) — related

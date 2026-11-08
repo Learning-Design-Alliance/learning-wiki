@@ -64,3 +64,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
 - [Mobile AR for anatomy education received a mean System Usability Scale score of 58.25 (SD ±15.41), below the average threshold of 68 and translating to a 'D' grade](mobile-ar-anatomy-sus-58-25-d-grade.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
+- [Despite high overall usability, only 46% of surveyed students reported they would frequently use the Learning Moment website](sus-frequent-use-only-46-percent.md) — related

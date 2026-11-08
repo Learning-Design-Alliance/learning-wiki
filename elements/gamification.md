@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 78 claims (54 for, 21 mixed, 3 against) · 44 studies (25 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 44 report an effect size · 77 claims rest on one study
+> **Evidence** · 80 claims (56 for, 21 mixed, 3 against) · 45 studies (26 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 45 report an effect size · 79 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -102,6 +102,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Participant satisfaction with the tournament was overwhelmingly high in both editions](../claims/pharmacotrophy-high-satisfaction.md) [~M] — attached 2026-11-07 from Delage Clément et al. (2024), which proposed "Pharmacotrophy: a two-week game-, team- and competition-based pharmacology tournament using Kahoot! quizzes".
 - [Gamification increased external regulation in university PE students only in the gamified group, with no change in other regulations](../claims/gamification-increased-external-regulation-university-pe.md) [+W] — attached 2026-11-08 from Ferriz-Valero Alberto; Østerlie Ove; García Martínez Salvador; García-Jaén Miguel (2020), which proposed "Classcraft platform as gamified intervention tool in physical education teacher education"; tests this page's relationship.
 - [Gamified group achieved significantly better final-exam performance than the control group](../claims/gamification-better-final-exam-performance-university-pe.md) [+W] — attached 2026-11-08 from Ferriz-Valero Alberto; Østerlie Ove; García Martínez Salvador; García-Jaén Miguel (2020), which proposed "Classcraft platform as gamified intervention tool in physical education teacher education".
+- [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](../claims/gamification-program-improves-crf-college-students.md) [+M] — attached 2026-11-08 from Mora-Gonzalez Jose et al. (2020), which proposed "The Matrix rEFvolution gamification-based physical activity program".
+- [Intervention students reported very high satisfaction with the gamified program](../claims/high-satisfaction-gamified-program.md) [+M] — attached 2026-11-08 from Mora-Gonzalez Jose et al. (2020), which proposed "The Matrix rEFvolution gamification-based physical activity program".
 
 ## Examples
 

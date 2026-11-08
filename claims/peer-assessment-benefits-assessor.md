@@ -127,3 +127,4 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [The act of giving peer feedback has greater impact on student learning gain than the mark or feedback received from a peer assessor](giving-peer-feedback-outweighs-receiving.md) — related
 - [Students at all performance levels sought peer feedback on their own, facilitated by prior knowledge of learning objectives, though lower performers preferred tutor feedback](feedback-seeking-objectives-and-tutor-preference.md) — related
 - [Peer assessment functions as a learning activity: evaluating peers helps students review their own knowledge and clinical skills](peer-assessment-as-learning-activity.md) — a narrower finding that bears on this claim
+- [Improvements were attributable to the first intervention: comment box placement and a dedicated recommendations box, not to checklist reduction or a rubric hyperlink](comment-box-placement-recommendation-box-effective.md) — related

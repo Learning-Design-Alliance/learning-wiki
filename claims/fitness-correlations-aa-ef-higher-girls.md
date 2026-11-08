@@ -53,3 +53,4 @@ Pearson correlation analysis in a cross-sectional study of 562 Spanish schoolchi
 - [Academic achievement correlates weakly to moderately with all executive functions in the total sample and in both sexes](efs-correlate-academic-achievement-both-sexes.md) — related
 - [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related
 - [Boys and girls showed no significant differences in GPA or any motor competence or fitness measure](no-gender-differences-gpa-motor-fitness.md) — reports the opposite
+- [Mediation by executive functions differed by gender: cognitive flexibility was not significant in girls and inhibition was not significant in boys](gender-differences-ef-mediation-crf-achievement.md) — related

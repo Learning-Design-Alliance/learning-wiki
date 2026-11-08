@@ -47,3 +47,4 @@ Cost analysis reported in the Discussion, comparing the WCCS with the commercial
 ## Related Claims
 - [Obstetricians rate the WCCS highly effective for training McDonald cerclage stitches](wccs-rated-effective-for-cerclage-training.md) — related
 - [Realism ratings for prophylactic and emergency cerclage scenarios are positive but lower than overall effectiveness](wccs-realism-ratings-scenarios.md) — related
+- [The simulator was built for a fixed cost of US $30 plus US $4 per use, enabling multiple iterations per assembly](bg-pdt-simulator-cost-us30-fixed-us4-per-use.md) — related

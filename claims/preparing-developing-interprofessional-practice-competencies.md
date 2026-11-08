@@ -55,3 +55,4 @@ First synthesized finding category on identifying the need for collaboration and
 - [How to create opportunities for the internship and placement period in online health-professions education remains an open question requiring further research](online-internship-placement-remains-open-question.md) — related
 - [The clinic's experiential learning venue expanded healthcare access for vulnerable populations while supporting student learning](refugee-clinic-access-and-learning-outcome.md) — related
 - [Mentoring positions combine a professional self-understanding dimension (service providing, development supporting, or signaling) with a subjective educational theory dimension (responsive, collaborative, or directive)](psu-set-dimensions-of-mentoring-positions.md) — related
+- [The curricular internship period is perceived as an opportune time for effective interprofessional integration of health courses](internship-period-opportune-for-ipe-integration.md) — related

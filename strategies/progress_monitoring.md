@@ -69,6 +69,7 @@ Progress monitoring operationalizes [Assessment for Learning](../principles/asse
 - [Weekly gradebook monitoring with a 70 percent threshold and templated early-warning interventions](weekly-gradebook-monitoring-70-percent-intervention.md)
 - [Adapt assistance reactively to moment-to-moment fluctuations in affect and performance](reactive-microscale-assistance-adaptation.md)
 - [Adapt self-monitoring goals over time based on data to program for prolonged behavioral change](adapt-goals-over-time-for-maintenance.md)
+- [Use standard celeration charts with weekly written feedback to monitor and support learner progress during fluency-based practice](celeration-chart-feedback-safmeds.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the measurement act itself

@@ -49,3 +49,4 @@ Multiple regression analyses with one's own trac and the other trac predicting s
 - [The intensity of physiotherapy trainees' transactive communication positively predicts medical students' self-reported knowledge gains in interprofessional peer tutoring](other-trac-predicts-medical-students-knowledge-gains.md) — related
 - [Medical students and physiotherapy trainees differed in knowledge gains, stereotype changes, and rated transactive communication](profession-differences-trac-knowledge-stereotypes.md) — related
 - [Medical students' transactive communication did not predict physiotherapy trainees' knowledge gains about doctors](medical-student-trac-no-knowledge-gain-effect.md) — related
+- [Collaborative practice develops students' recognition of their own and other professions' roles and reduces professional stereotypes](ipe-develops-role-recognition-competency.md) — reports the opposite

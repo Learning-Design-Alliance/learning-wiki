@@ -52,3 +52,4 @@ Between-group comparison in the RCT (n = 82 analyzed). The article reports moder
 - [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — reports the opposite
 - [Students training with AI-VSPs give more positive and fewer negative feedback comments than traditional SP students](ai-vsp-more-positive-feedback-comments.md) — related
 - [Hybrid simulation-based training yields higher post-intervention suturing skill scores than routine mannequin training (P = 0.013, Cohen's d > 0.80)](hybrid-simulation-higher-suturing-scores-than-routine-training.md) — related
+- [Most SEGUE communication skills (18/25) did not change significantly from pre-test to post-test after software-based training, and use of inducing questions declined, in one group with no comparison group](software-training-most-skills-no-improvement.md) — related

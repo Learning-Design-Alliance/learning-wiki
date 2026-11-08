@@ -55,3 +55,4 @@ Multicenter prospective randomized two-arm single-blind trial at 11 German surgi
 - [Trainees who have practised on simulators enter the operating room more self-assured, and expert mentors spend less time teaching basic skills](simulation-confidence-and-mentor-time-benefits.md) — related
 - [A one-week intensive trabeculectomy simulation course produces a large, sustained increase in residents' simulated surgical competency scores](simulation-course-sustained-trabeculectomy-competency-gain.md) — related
 - [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related
+- [Simulation-based learning cannot replace operating-room skills acquisition but can catalyse students' transition from the learning phase to the competency phase](sbl-catalyses-learning-to-competency-transition.md) — related

@@ -72,3 +72,4 @@ Interview coding of heatmap rationales: most teachers reported finding the heatm
 - [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
 - [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related
 - [Teachers used student performance and progress data at individual, class, and school levels, often presented via color-coded dashboard visualizations](digital-data-types-teachers-use.md) — related
+- [Students reported that maximal simplicity and usability drove adoption of Learning Moment, while extraneous entry steps felt burdensome](lm-simplicity-maximal-usability-theme.md) — related

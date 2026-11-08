@@ -61,3 +61,4 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [No overall difference in training-session scores between mass and spaced learning groups](no-group-difference-during-training-sessions.md) — reports the opposite
 - [Spaced learning produces higher microsurgical suturing scores than mass learning at 1 month after training](spaced-learning-better-1-month-microsurgery-retention.md) — a narrower finding that bears on this claim
 - [Repeated simulation training with a one-month interval accelerated the learning curve and reduced inter-individual variability](repeated-simulation-sets-accelerate-learning-curve.md) — related
+- [Shorter CPR training intervals yield faster skill acquisition: daily training outperforms quarterly by session 4](shorter-cpr-intervals-faster-acquisition.md) — a narrower finding that bears on this claim

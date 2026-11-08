@@ -50,3 +50,4 @@ Stratified analysis of 116 conventional-controller procedures (57 expert, 59 beg
 - [With joystick-controlled flexible scopes, operative time and transfusion rates do not differ significantly between expert and beginner scopists](joystick-controller-attenuates-expert-beginner-gap.md) — related
 - [CUSUM analysis shows joystick-controlled scope use attenuates the cumulative operation-time gap between expert and beginner scopists](cusum-joystick-attenuates-cumulative-gap.md) — related
 - [In major hepatectomy, operative efficiency improved over time for both scopist groups with joystick control, but beginner-assisted cases showed no comparable improvement with conventional control](major-hepatectomy-learning-curve-controller-type.md) — related
+- [Time to reach the virtual target did not differ between expert and beginner groups (83.50 s vs. 83.00 s; P = 0.194)](epidurosim-time-to-target-no-group-difference.md) — related

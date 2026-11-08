@@ -59,6 +59,7 @@ The article recommends using both delivery modes together rather than choosing o
 - [Blend identical pre-class theory teaching with group-based virtual simulation case practice in the internship class](vr-internship-class-group-case-strategy.md)
 - [Apply various modes of learning to enhance the development of nursing students' competence.](apply-various-modes-of-learning-nursing-competence.md)
 - [Adopt a mixed mode combining classroom and e-learning for post-graduate health-professions education](mixed-mode-classroom-elearning-postgraduate-strategy.md)
+- [Design blended preceptor education by combining web-based modules with face-to-face case-based learning and planning logistics in the initial design phase](blend-wcp-case-based-preceptor-training-strategy.md)
 
 ## Examples
 -

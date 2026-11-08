@@ -43,6 +43,7 @@ The Fluency Formula™ Assessment System "allows teachers to assess student flue
 - [Timed Practice With Progress Monitoring](timed-practice-with-progress-monitoring.md)
 - [Progress Monitoring](progress_monitoring.md)
 - [Use the system's student data analysis to let teachers monitor class progress and mistakes at scale](teacher-monitors-class-progress-via-its-data.md)
+- [Use standard celeration charts with weekly written feedback to monitor and support learner progress during fluency-based practice](celeration-chart-feedback-safmeds.md)
 
 ## Examples
 -
