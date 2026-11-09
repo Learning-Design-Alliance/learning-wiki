@@ -52,3 +52,4 @@ Randomized controlled trial with pretest-posttest parallel group design; 60 four
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [Scaffolded case-based learning yields higher self-directed learning capacity than lecture-based teaching at Week 4, driven by resource utilization and reflective learning](scaffolded-cbd-self-directed-learning-week4.md) — related
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — a narrower finding that bears on this claim
+- [Fourth-year medical students show a high prevalence of erroneous clinical beliefs that could place patients at risk, regardless of item format](high-prevalence-erroneous-beliefs-medical-students.md) — related

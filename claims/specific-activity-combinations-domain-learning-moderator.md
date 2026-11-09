@@ -51,3 +51,4 @@ Moderator analysis (Table 2) of specific combinations of scaffolded collaborativ
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related
 - [Face-to-face collaboration scripts focus on individual knowledge acquisition activities, while computer-mediated scripts focus on communicative-coordinative processes](f2f-vs-cscl-script-focus-difference.md) — related
 - [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](chen-2018-meta-analysis-cscl-positive-effects.md) — related
+- [A collaboration script increases collaborative activities (elicitation, externalisation, consensus building) among observers in simulation-based training](collaboration-script-increases-collaborative-activities.md) — a narrower finding that bears on this claim

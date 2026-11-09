@@ -62,3 +62,4 @@ Correlation meta-analysis (17 meta-analyses, one per centrality measure) pooling
 - [In Year 1, no centrality metric was significantly associated with CGPA](year1-centrality-cgpa-null.md) — related
 - [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related
 - [The words 'information' and 'transfer' are integral to students' medical communication perceptions, with 'information' centrality rising at each stage](information-transfer-central-in-mc-perceptions.md) — related
+- [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related

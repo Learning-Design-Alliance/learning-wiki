@@ -50,3 +50,4 @@ Logistic regression analysis of the 124 ACLS trainees comparing males with femal
 - [Female participants demonstrated significantly better knowledge of oral care/health management for cancer patients than males (58.9% vs. 47.4%, p < 0.05)](females-exceed-males-oral-care-management-knowledge.md) — reports the opposite
 - [Male students showed significantly higher overall satisfaction and attitude toward TBL than female students](male-students-higher-tbl-satisfaction-attitude.md) — related
 - [Female gender independently predicts low self-esteem among Saudi medical students](female-gender-predicts-low-self-esteem-medical-students.md) — related
+- [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related

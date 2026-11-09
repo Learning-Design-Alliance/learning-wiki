@@ -59,3 +59,4 @@ Paired t-tests of providers' standardised HBB OSCE B simulation scores at 4 and 
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related
 - [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — related
+- [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — a broader claim this one bears on

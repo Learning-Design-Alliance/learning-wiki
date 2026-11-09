@@ -52,3 +52,4 @@ Hierarchical regression in the cross-sectional survey (N = 1,208) with four bloc
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Trait-based DT dispositions add no incremental explanatory value for teaching behaviours once skills are controlled](trait-based-dt-dispositions-no-incremental-value.md) — related
 - [Narrow conscientiousness traits add incremental prediction of dental performance beyond global conscientiousness](narrow-traits-incremental-validity-dental-performance.md) — related
+- [Skills tests add limited value for specific course prediction: math shows incremental validity for statistics courses (ΔR¯c2 = .12) while English adds none for theoretical courses](skills-tests-specific-course-prediction-statistics-theoretical.md) — related

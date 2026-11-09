@@ -16,12 +16,14 @@ sources:
     author: Mahler Daniela, Großschedl Jörg, Harms Ute
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Subject-specific enthusiasm predicts students' performance more strongly than enthusiasm for teaching the subject
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mahler Daniela, Großschedl Jörg, Harms Ute. (2018). Does motivation matter? – The relationship between teachers' self-efficacy and enthusiasm and students' performance. PLoS ONE 13(11): e0207252. https://doi.org/10.1371/journal.pone.0207252
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 χ2-difference test comparing model 3 (subject-specific enthusiasm) and model 4 (enthusiasm for teaching) in the doubly-latent multilevel analysis; the printed statistic is χ2[2] = 46.56. This is a model-comparison result, not an effect size.
 

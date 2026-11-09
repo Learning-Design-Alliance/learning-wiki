@@ -51,3 +51,5 @@ Item-analysis comparison of the same 50 items in both formats; the DF difference
 - [Item difficulty was slightly higher (easier) for 3-option items on the ITE-CCM only, while item discrimination was similar between formats on both exams](three-option-item-difficulty-discrimination-similar.md) — related
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
+- [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — related
+- [Pooled mixed-model ANOVA found no significant effect of offering (five vs four options) on item difficulty or discrimination](mcq-pooled-anova-no-offering-effect.md) — related

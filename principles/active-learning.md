@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (55 for, 35 mixed, 4 against) · 76 studies (37 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 14 of 76 report an effect size · 86 claims rest on one study
+> **Evidence** · 96 claims (57 for, 35 mixed, 4 against) · 78 studies (39 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 15 of 78 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Active learning health education improves arterial stiffness (CAVI) more than didactic health education in older adults with low health literacy](../claims/active-learning-education-improves-cavi-older-adults-low-health-literacy.md) [+M] — attached 2026-11-08 from Uemura Kazuki et al. (2021), which proposed "Use active learning health education, rather than passive didactic instruction, to promote health behavior change in older adults with low health literacy"; tests this page's relationship.
 - [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](../claims/no-attention-reset-after-al.md) [~W] — attached 2026-11-08 from Darnell et al. (2019), which proposed "Value active learning for the activity itself, not for an expected attention reset afterward".
 - [Average heart rate rose about 1.5 bpm during active learning sessions, then returned immediately to a level similar to or lower than before, in one single-group pre-post study with no comparison group](../claims/al-hr-uptick-no-reset.md) [~W] — attached 2026-11-08 from Darnell et al. (2019), which proposed "Value active learning for the activity itself, not for an expected attention reset afterward".
+- [Students who wrote good-quality MCQ on Respiratory pathophysiology scored significantly better on that section than students who wrote good MCQ on Blood](../claims/good-mcq-quality-respiratory-exam-gain.md) [+W] — attached 2026-11-09 from Herrero Jose Ignacio et al. (2019), which proposed "Expect student question-writing to benefit learning mainly when question quality is high enough"; tests this page's relationship.
+- [Critical thinking CAT scores rose significantly from pre-test to post-test in flipped intermediate and upper-level life science courses using active learning, in one uncontrolled pre-post study](../claims/flipped-active-learning-cat-gains-upper-level.md) [+M] — attached 2026-11-09 from Styers M. L. et al. (2018), which proposed "Disperse even small amounts of active learning throughout introductory lectures, and target upper-level electives for flipped active learning, to promote critical thinking"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

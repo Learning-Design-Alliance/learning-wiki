@@ -89,3 +89,4 @@ Same secondary outcome analysis: right-hand depth perception in balloon resectio
 - [Improvement varied by exercise: time improved significantly in all exercises except the PVT1 knot-tying exercise, and path length improved significantly in only five of eight exercises](per-exercise-improvement-varies-pvt1-null.md) — related
 - [Educator-guided D-Box simulator training enabled novices to perform acceptable wedge resection, though the educator's score advantage was not significant](educator-guided-dbox-training-novice-wedge-resection.md) — related
 - [No significant difference between RCH and human camera assistant groups in reaching competency in circle cutting or needle guidance tasks](rch-no-difference-circle-cutting-needle-guidance.md) — related
+- [Instrument handling outcomes (time and motion parameters) decreased significantly in five of six tasks after at-home training](time-motion-parameters-decreased-after-training.md) — related

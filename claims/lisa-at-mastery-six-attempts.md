@@ -50,3 +50,4 @@ Learning-curve analysis of 23 novices practising in a second round with one minu
 - [Simulation-based LISA training to the minimum passing score costs a median of USD 68 per novice using trained investigators as onsite raters](lisa-simulation-training-cost.md) — related
 - [Fellows required an average of 4.5 training sessions (about 90 minutes of individualized bedside instruction) to reach the mastery learning standard, and 7 of 11 recruited fellows met it](mastery-learning-sessions-to-mps-echocardiography.md) — related
 - [Two pre-clinical students with very limited clinical exposure did not reach mastery after more than four post-testing attempts within a two-hour session, in one single-group pre-post study.](sbml-requires-time-unlimited-deliberate-practice.md) — reports the opposite
+- [Novices reached expert-set proficiency levels for all six tasks within about two weeks of at-home training](proficiency-reached-two-weeks-home-training.md) — related

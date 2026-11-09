@@ -70,3 +70,4 @@ Table 1 of the cluster-randomized trial reports baseline prerequisite (Human Ana
 - [Simulation participants also scored higher on the pulmonary physiology section of the block test](sbe-higher-pulmonary-physiology-section-scores.md) — related
 - [The two cohorts were of equivalent academic standard before the module, with a non-significant mean prior-grade difference of 0.24](cohorts-equivalent-prior-achievement.md) — related
 - [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related
+- [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related

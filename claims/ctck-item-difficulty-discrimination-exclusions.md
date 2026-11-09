@@ -48,3 +48,4 @@ CTT item analysis in which “Items 6 and 17 have point-biserial correlations be
 ## Related Claims
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
+- [Item discrimination of the Quick Risk Test is adequate overall, with three items below the conventional 0.2 threshold before training](quick-risk-test-item-discrimination-indices.md) — related

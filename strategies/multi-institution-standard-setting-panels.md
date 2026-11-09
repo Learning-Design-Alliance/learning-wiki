@@ -45,6 +45,7 @@ The authors recommend recruiting Angoff panellists from several universities rat
 ## Related Strategies
 
 - [Use EPAs to standardize student performance expectations and assessment across dental schools](epas-standardize-dental-assessment-strategy.md)
+- [Use the Angoff method to set passing standards for multiple levels of proficiency, not only minimal competence](angoff-method-multi-level-standards-strategy.md)
 
 ## Examples
 -

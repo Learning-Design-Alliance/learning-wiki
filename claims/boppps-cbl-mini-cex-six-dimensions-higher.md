@@ -79,3 +79,4 @@ Null result within the same randomized trial's Mini-CEX assessment: physical exa
 - [CBL combined with BOPPPS improved four of five modified Mini-CEX clinical-thinking dimensions; for medical history writing the article's text reports no significant difference but its table prints p = 0.002](cbl-boppps-mini-cex-clinical-thinking-dimensions.md) — related
 - [Adopting CBL combined with BOPPPS raises teachers' Personal Teaching Efficiency and Sense of Teaching Efficiency scores](cbl-boppps-raises-teacher-teaching-efficacy.md) — related
 - [The ADDIE-based flipped classroom group outperformed the traditional-teaching group on all seven Mini-CEX clinical competence domains](addie-flipped-classroom-mini-cex-all-domains-neurology-residents.md) — related
+- [First-year medical students portray the good physician as communicative, humble, and morally strong, combining biomedical knowledge with humanistic qualities](students-ideal-physician-humanistic-qualities.md) — related

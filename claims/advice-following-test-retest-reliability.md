@@ -57,3 +57,4 @@ Participants completed the same bandit task in two sessions on adjacent days wit
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
 - [Feedback orientation is a multidimensional quasi-trait stable for approximately six months, useful for tailoring feedback](feedback-orientation-quasi-trait-tailoring.md) — related
+- [Test-retest reliability of the EBMQ was mixed, with most items showing good or fair correlations but some low](ebmq-test-retest-reliability-mixed.md) — related

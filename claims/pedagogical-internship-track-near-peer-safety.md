@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-09
 sources:
   - id: ramo-thomas-2026
     resource: "https://doi.org/10.1186/s12909-026-09549-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants reported that being close in academic stage made it easier to understand learners' perspectives and fostered openness and psychological safety. [→ Ramo Thomas 2026](#ramo-thomas-2026)
@@ -68,3 +69,7 @@ Interview quote from Respondent 4 in the 'Developing a culture of peer teaching 
 - [Prior teaching was somewhat stressful for junior doctor tutors but participation in the near-peer program provided only some relief of that stress](near-peer-teaching-stress-relief-minimal.md) — related
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related
 - [Emergency medical care students generally perceive the simulation debriefing environment as psychologically safe and built on a shared understanding of why debriefing occurs](debriefing-psychological-safety-perceived-hei-students.md) — related
+- [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — possibly the same claim (merge candidate)
+- [Peer tutors acted as mentors beyond the sessions’ explicit remit, sharing practical know-how of how to be a clinical medical student](peer-tutors-mentoring-hidden-curriculum.md) — related
+- [Clinical teaching by senior tutors was experienced as threatening, and the safety of PAL was understood in contrast to it](threat-of-the-ward-clinical-teaching.md) — a narrower finding that bears on this claim
+- [Peer tutors’ understanding of students’ wider sociocultural context was the most important factor underpinning the PAL environment and tutor-student relationship](tutor-understanding-sociocultural-context.md) — related

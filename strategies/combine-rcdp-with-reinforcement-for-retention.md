@@ -53,6 +53,7 @@ Because RCDP improved immediate but not one-year forceps skill performance, the 
 - [Provide regular simulation training for all providers, with additional individualised training for those lacking competency](regular-simulation-training-all-providers-strategy.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
+- [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
 
 ## Examples
 -

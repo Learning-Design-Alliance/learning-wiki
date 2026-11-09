@@ -47,3 +47,4 @@ Descriptive synthesis of intervention content across the 20 included studies. Th
 ## Related Claims
 - [Most evaluated EBP educational interventions teach only some of the five EBP steps, with critical appraisal (Step 3) taught most frequently](ebp-interventions-focus-on-critical-appraisal-step.md) — a narrower finding that bears on this claim
 - [Validity evidence for data-driven assessment tools relies predominantly on construct validity, with 11 of 35 studies using unvalidated tools](validity-evidence-construct-dominant-unvalidated-tools.md) — related
+- [Four of the seven reviewed studies included only a vague focus on teaching EBP principles, with research utilisation dominating](vague-focus-ebp-principles-four-studies.md) — related

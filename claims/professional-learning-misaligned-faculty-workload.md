@@ -81,3 +81,4 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - [Financial incentives under the HTP were perceived as indirectly enabling education by supporting faculty retention, but not sufficient for sustained teaching engagement](htp-financial-incentives-indirect-educational-enabler.md) — related
 - [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
 - [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — related
+- [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related

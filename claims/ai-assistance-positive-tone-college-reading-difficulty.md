@@ -49,3 +49,4 @@ NLP-based analysis of the full dataset using VADER and Flesch Reading Ease found
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Surface readability measures are weak predictors of question difficulty, per reviewed studies](readability-weak-difficulty-predictors.md) — related
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
+- [The EBMQ is readable at Flesch reading ease 61.2, within the average-document range](ebmq-flesch-reading-ease-612.md) — related

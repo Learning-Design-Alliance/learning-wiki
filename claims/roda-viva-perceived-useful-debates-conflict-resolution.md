@@ -49,3 +49,4 @@ End-of-course focus groups across the nine TTS-EP courses identified two educati
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
 - [Small-group training in the HMSS was associated with students strengthening communication skills and resolving team conflicts](hmss-small-group-conflict-resolution.md) — related
 - [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related
+- [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related

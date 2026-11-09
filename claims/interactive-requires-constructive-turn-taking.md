@@ -64,3 +64,4 @@ The article's operational definition of interactive engagement, stated as a theo
 - [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](robovie-cooperative-learning-partner-interactions.md) — related
 - [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — a narrower finding that bears on this claim
 - [Visible interaction rates on an educational Instagram account remain modest relative to total reach, suggesting primarily passive engagement](histo-embryo-passive-engagement-model.md) — related
+- [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related

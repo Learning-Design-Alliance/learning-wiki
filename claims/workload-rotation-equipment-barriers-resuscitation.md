@@ -69,3 +69,4 @@ Theme 3 interview finding, supported by a midwife's quote: "If I don't get enoug
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related
 - [Missed CVC training opportunities were attributed to time constraints, variable patient volume, and inconsistent access to equipment and funding](cvc-training-opportunities-limited-time-volume-equipment.md) — related
+- [Mentors report individual, logistical, and cultural barriers persisting across key neonatal resuscitation skills after simulation training](mentor-identified-barriers-nr-skills-bihar.md) — related

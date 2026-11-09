@@ -57,3 +57,4 @@ Online survey of 437 emergency physicians assessing self-perceived competence ac
 - [Emergency medicine residents scored lower on an eclamptic-seizure simulation case with an added language barrier than another group of residents scored on the prior version without it](language-barrier-simulation-lowered-resident-scores.md) — related
 - [Residents' confidence in managing paediatric and neonatal emergencies does not differ by residency year or prior SBMT exposure](emergency-confidence-no-difference-year-or-sbmt-exposure.md) — related
 - [Self-assessed knowledge and skills for pediatric emergencies differed significantly by profession and qualification level, with residents reporting the lowest preparedness](self-assessed-emergency-preparedness-residents-lowest.md) — related
+- [Residents' prior OR emergency experience varied widely across the 23 scenario topics](resident-emergency-experience-varied-by-topic.md) — related

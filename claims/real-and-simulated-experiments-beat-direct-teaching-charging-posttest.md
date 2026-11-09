@@ -51,3 +51,4 @@ Quasi-experimental posttest comparison among three groups (Real n=86, Sim n=81, 
 - [Students commonly hold the everyday-experience-based misconception that electrostatic interaction stops when charged objects are placed at greater distance](greater-distance-no-interaction-misconception.md) — related
 - [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](simulation-method-higher-posttest-human-body-unit.md) — related
 - [Learning the Solar System with PhET simulation produced significantly higher normalized-gain improvement in conceptual understanding than learning with PowerPoint slides](phet-solar-system-higher-understanding-gain.md) — related
+- [Student satisfaction was higher after simulator-based teaching than after traditional teaching](simulator-teaching-higher-student-satisfaction.md) — related

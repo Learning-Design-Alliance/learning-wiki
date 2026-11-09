@@ -16,12 +16,14 @@ sources:
     author: Kim Seung Jae, Kwon Oh Deog, Kim Kyae Hyung, Lee Ji Eun, Lee Seung-Hee, Shin Jwa-Seop, Park Sang Min
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Most GICC-15 subcategory scores improve after training, but reflective listening and responsiveness do not improve significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kim Seung Jae, Kwon Oh Deog, Kim Kyae Hyung, Lee Ji Eun, Lee Seung-Hee, Shin Jwa-Seop, Park Sang Min. (2019). Investigating the effects of interprofessional communication education for medical students. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.125
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Subcategory analysis of the same paired pre/post design (Table 3). 'Efficiency' showed the greatest increase at 0.46 points; 'conversational appropriateness' scored lowest before practice (2.33±0.99). No standardized effect sizes were printed.
 

@@ -72,3 +72,5 @@ Internal consistency was examined using Cronbach's alpha. Values were acceptable
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
 - [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related
+- [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related
+- [Test-retest reliability of the EBMQ was mixed, with most items showing good or fair correlations but some low](ebmq-test-retest-reliability-mixed.md) — related

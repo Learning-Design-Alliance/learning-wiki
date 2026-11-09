@@ -81,3 +81,4 @@ Test-retest reliability was assessed with 46 nurses across two administrations s
 - [BUSS shows three-week test-retest reliability of .70 for Tenacity and .77 for Self-composure](buss-test-retest-reliability.md) — related
 - [The Spanish ARS shows satisfactory internal consistency, discriminant validity and temporal stability for its three factors](spanish-ars-reliability-temporal-stability.md) — related
 - [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related
+- [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related

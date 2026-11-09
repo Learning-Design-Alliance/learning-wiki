@@ -16,6 +16,8 @@ sources:
     author: Donkin Rebecca, Askew Elizabeth, Stevenson Hollie
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: donkin-rebecca-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1745-1"
     title: "Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1"
@@ -42,7 +44,7 @@ sources:
 
 Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Frequency analytics of the 2017 cohort's in-class and online participation, reported by percentage for each group in Fig. 3. Tutorial attendance was "95.1%" for the video group versus "64.0%" for controls.
 

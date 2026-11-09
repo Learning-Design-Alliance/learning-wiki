@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (18 for, 5 mixed, 1 against) · 14 studies (9 causal, 3 quant-synthesis, 2 design), `q1`–`q3` · 5 of 14 report an effect size · 24 claims rest on one study
+> **Evidence** · 26 claims (19 for, 6 mixed, 1 against) · 15 studies (10 causal, 3 quant-synthesis, 2 design), `q1`–`q3` · 5 of 15 report an effect size · 26 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -71,6 +71,8 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [Medical students given access to problem-based learning modules within a blended learning course had a significantly higher problem solving score than students in the blended-learning-only course](../claims/pbl-modules-higher-problem-solving-score-medical-statistics.md) [+M] — attached 2026-11-08 from Bukumiric Zoran et al. (2022), which proposed "Moodle-based problem-based learning modules for medical statistics with guiding questions following the steps of statistical analysis"; tests this page's relationship.
 - [Students with access to problem-based learning modules in the blended course had a significantly higher total medical statistics score than blended-learning-only students](../claims/pbl-modules-higher-total-medical-statistics-score.md) [+M] — attached 2026-11-08 from Bukumiric Zoran et al. (2022), which proposed "Moodle-based problem-based learning modules for medical statistics with guiding questions following the steps of statistical analysis"; tests this page's relationship.
 - [Hematology postgraduates in the WeChat-PBL program achieved high average quiz scores across five hematological diseases, ranging from 77.5% for lymphoma to 89.0% for acute myelogenous leukemia](../claims/wechat-pbl-quiz-scores-five-diseases.md) [+W] — attached 2026-11-08 from Luo P et al. (2021), which proposed "WeChat-PBL: an online problem-based learning mode for hematology postgraduates built on the WeChat app with micro clinical cases".
+- [Anesthesia residents' self-reported self-confidence for managing OR circulation, CVC, and pain-complication emergencies rose from pre-test to post-test after PBL training, in one uncontrolled pre-post study](../claims/pbl-alsop-improved-resident-self-confidence.md) [+W] — attached 2026-11-09 from Komasawa Nobuyasu et al. (2018), which proposed "ALS-Op PBL scenario curriculum: 23 written OR emergency vignettes with facilitated discussion".
+- [Self-rated confidence did not change from pre-test to post-test for impossible intubation, impossible oxygenation, or awake intubation after PBL, in one single-group pre-post study](../claims/pbl-no-gain-airway-high-experience-topics.md) [~W] — attached 2026-11-09 from Komasawa Nobuyasu et al. (2018), which proposed "ALS-Op PBL scenario curriculum: 23 written OR emergency vignettes with facilitated discussion".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

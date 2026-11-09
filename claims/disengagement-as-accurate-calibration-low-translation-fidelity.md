@@ -48,3 +48,4 @@ Theoretical argument in the section on control, self-efficacy, and attribution a
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related
+- [Self-efficacy in the ability to endure in situations without a solution or right answer did not increase significantly, suggesting a need for more training in enduring meaningless and powerless situations](endurance-without-solution-self-efficacy-not-increased.md) — related

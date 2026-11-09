@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (97 show a difference, 31 mixed, 9 no difference) · 99 studies (25 review, 22 associational, 17 causal, 17 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 99 report an effect size · 132 claims rest on one study
+> **Evidence** · 140 claims (99 show a difference, 32 mixed, 9 no difference) · 100 studies (25 review, 22 associational, 18 causal, 17 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 100 report an effect size · 135 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -174,6 +174,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Quality of contact with Jewish students at university is associated with Arab students' subsequent sense of academic belonging](../claims/contact-quality-associated-academic-belonging.md) [+M] — measured as an outcome of the instruction studied
 - [Emotional experience, social belonging, and higher-order thinking serially mediate technology acceptance and blended learning satisfaction](../claims/serial-mediation-emotion-belonging-higher-order-thinking.md) [+M] — learners who differ on it differ in outcomes
 - [Technology acceptance, emotional experience, social belonging, and higher-order thinking are each significantly positively correlated with blended learning satisfaction](../claims/blended-satisfaction-constructs-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Self-reported perceptions of student-centeredness and community of inquiry rose significantly from pre-test to post-test in flipped classrooms among both high-achieving and low-achieving students, in one uncontrolled pre-post study](../claims/flipped-classroom-gains-both-achievement-groups.md) [+M] — measured as an outcome of the instruction studied
+- [Sense of teaching presence increases significantly among lower-performing students but not among higher-performing students in flipped classrooms](../claims/teaching-presence-gain-lower-performers-only.md) [~M] — measured as an outcome of the instruction studied
+- [Student sense of community of inquiry in flipped classrooms increases significantly in teaching, social, and cognitive presence](../claims/flipped-classroom-coi-all-three-presences-increase.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

@@ -51,6 +51,7 @@ The authors' instructional-practice recommendations follow from their finding th
 - [Build supportive classroom and home environments and use constructive feedback to strengthen self-efficacy and engagement](supportive-environment-feedback-self-efficacy-strategy.md)
 - [Four-part support strategy: mindset interventions, grit-building tasks, adaptability support, and PGI-promoting growth opportunities](four-part-mindset-grit-adaptability-pgi-support-strategy.md)
 - [Positive Classroom Climate](positive-classroom-climate.md)
+- [Use autonomy-supportive intervention behaviors in physical education to foster a self-determined motivational climate](autonomy-supportive-pe-intervention-behaviors.md)
 
 ## Examples
 -

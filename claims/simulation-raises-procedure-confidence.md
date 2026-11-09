@@ -54,3 +54,4 @@ Pre-post analysis of eight surveys from two skill-based simulation lab sessions 
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
 - [Paired and individual bronchoscopy simulation training show no difference in effectiveness for medical students](dyad-versus-individual-simulation-training-null.md) — related
+- [Self-rated confidence did not change from pre-test to post-test for impossible intubation, impossible oxygenation, or awake intubation after PBL, in one single-group pre-post study](pbl-no-gain-airway-high-experience-topics.md) — related

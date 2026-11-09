@@ -61,3 +61,4 @@ Multilevel meta-analysis of cross-sectional (k = 35) and longitudinal (k = 8) ob
 - [A 2-hour after-school outdoor physical activity program significantly improves overall physical fitness scores compared with free after-school time](after-school-physical-activity-improves-physical-fitness.md) — related
 - [Muscular strength, flexibility and overall fitness show no significant association with general intelligence in adolescents](strength-flexibility-not-associated-with-intelligence.md) — related
 - [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — a narrower finding that bears on this claim
+- [Higher self-reported physical activity, grip strength, and VO2 max are independently associated with better concentration performance in disadvantaged children](fitness-activity-associated-concentration-performance.md) — a narrower finding that bears on this claim

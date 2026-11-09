@@ -50,3 +50,4 @@ Mortality data from medical records of children with SAM over 12-month periods p
 - [Referrals of SAM admissions to tertiary hospitals in Ghana fell from 6.7% to 1.3% after the intervention](sam-tertiary-referrals-fell-after-elearning.md) — related
 - [Observed quality of SAM case-management rose from preintervention to postintervention in almost all components of the WHO Ten Steps after eLearning training](who-ten-steps-care-improved-after-elearning.md) — related
 - [Screening for SAM among children admitted with ARI or gastroenteritis rose from before to after the eLearning intervention in one single-group pre-post study with no comparison group](sam-screening-in-ari-and-gastroenteritis-increased.md) — related
+- [Awareness of WHO SAM management guidelines was low before training (36.73% overall; 26.3% among in-service professionals)](malnutrition-elearning-low-baseline-awareness.md) — related

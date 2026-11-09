@@ -72,3 +72,4 @@ The review reports, citing a prior meta-analysis of nine studies, 'a lack of imp
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — related
 - [Evidence that NTS training improves clinical or process outcomes in EDs is limited but generally favourable in single-centre studies, including shorter resuscitation times and improved protocol adherence (low to very low certainty).](nts-training-clinical-outcomes-limited-evidence.md) — related
 - [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related
+- [Simulation-trained trauma teams obtain CT scans faster than traditional practice in grade I trauma patients](simulation-team-training-faster-ct-scan.md) — related

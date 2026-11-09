@@ -59,3 +59,4 @@ Descriptive comparison of final-test means from the results section, with 31 res
 - [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related
 - [Twelfth-grade students taught Access databases with Moodle-based educational software obtained significantly higher final-test grades than a comparable control class](moodle-access-software-higher-final-test-grades.md) — related
 - [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related
+- [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related

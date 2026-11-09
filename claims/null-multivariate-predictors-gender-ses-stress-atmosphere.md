@@ -53,3 +53,4 @@ Multivariate ordinal logistic regression of the cross-sectional FMSo survey (n =
 - [Tunisian nationality independently predicts higher academic performance among Tunisian medical students (OR = 4.99)](tunisian-nationality-higher-academic-performance.md) — related
 - [No significant association was found between student gender and NCAT-EM scores across the seven domains](no-gender-association-ncat-em-scores.md) — related
 - [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — related
+- [Career intention and age are not significant predictors of medical students' confidence in anatomy knowledge](career-intention-age-not-predictors-anatomy-confidence.md) — a narrower finding that bears on this claim

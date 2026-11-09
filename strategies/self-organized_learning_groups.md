@@ -69,6 +69,7 @@ Peer-organized groups work because they combine social accountability with learn
 - [Peer Teaching](peer-teaching.md) — the mechanism by which group members consolidate their own understanding
 - [Communities of Practice](../principles/communities-of-practice.md) — the longer-lived organizational form these groups can mature into
 - [Self-directed professional learning cycle in recurring two-week PD chunks with public goals and study groups](summit-self-directed-teacher-pd-cycle.md)
+- [Run organized humanistic activities — forums, reflective writing, and small-group programs — to shape an organizational culture of humanism](organized-activities-promote-humanism-strategy.md)
 
 ## Examples
 - **Working Out Loud circles** (John Stepper) — 12-week structured peer groups in which members work toward a goal while building relationships and visibility; widely adopted in enterprises ([workingoutloud.com](https://workingoutloud.com)).

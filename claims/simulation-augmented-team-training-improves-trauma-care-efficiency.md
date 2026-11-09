@@ -66,3 +66,6 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related
 - [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related
 - [Regular in situ simulation had no effect on the incidence of urgent intubation in the acute care ward](iss-no-effect-urgent-intubation.md) — related
+- [Simulation-trained trauma teams obtain blood routine reports and other blood tests faster than traditional practice](simulation-team-training-faster-blood-tests.md) — related
+- [Simulation-trained trauma teams obtain CT scans faster than traditional practice in grade I trauma patients](simulation-team-training-faster-ct-scan.md) — related
+- [Simulation-trained ED trauma teams achieve faster initiation of hemostasis than traditional practice in grade I trauma patients](simulation-team-training-faster-hemostasis-trauma.md) — related

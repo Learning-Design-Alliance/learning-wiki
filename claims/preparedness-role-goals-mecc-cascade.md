@@ -53,3 +53,4 @@ Qualitative Framework Method analysis of interviews with 21 participants and pos
 - [Trainees reported low readiness to become a consultant at the end of training](low-consultant-readiness-at-end-of-training.md) — related
 - [Receivers' confidence in cascading newly learned eLearning knowledge to colleagues increased only after completing the full development process, while institutional support and resources remained barriers](cascading-knowledge-confidence-and-institutional-barriers.md) — related
 - [Trainers structure sessions by setting clear goals, forming small groups with clear roles, and using a whiteboard to summarize procedure logic](sbl-session-structuring-practices.md) — related
+- [Sierra Leone field trial: new master trainers reverted to lecturing on new topics and reported needing to improve feedback skills](hbb2-sierra-leone-master-trainer-facilitation-gaps.md) — related

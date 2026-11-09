@@ -51,3 +51,4 @@ Domain-level analysis of the same randomized trial's quizzes. Quiz items were cl
 - [FC+CBL advantage over LBC in pathology lies in clinical case-analysis questions, not basic theoretical knowledge](fc-cbl-advantage-case-analysis-not-basic-knowledge.md) — related
 - [Students taught with flipped classroom combined with case-based learning scored higher on post-class quizzes than lecture-based classroom students in undergraduate pathology](fc-cbl-higher-post-quiz-scores-pathology.md) — related
 - [PUC-FC students outperformed FC and LBL students on case analysis questions and total theoretical scores, with no difference on basic knowledge questions](puc-fc-case-analysis-advantage.md) — possibly the same claim (merge candidate)
+- [Medical students in a hybrid curriculum perceive no significant difference between PBL and traditional lectures in the amount of basic knowledge recalled](pbl-lectures-no-difference-recalled-basic-knowledge.md) — related

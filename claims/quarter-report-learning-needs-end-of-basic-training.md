@@ -72,3 +72,4 @@ Clinic-level comparison in table 1 of learning-need frequencies across the three
 - [Self-judged mastery of learning objectives increases across all three competence levels (K, E, P) during basic training](perceived-mastery-increases-all-competence-groups.md) — related
 - [Self-judged level of training goal completion increases over the nine months of basic training, though weakly](self-judged-goal-completion-increases-over-training.md) — related
 - [Supervisor judgement of training goal completion increases over training, runs parallel to self-judgement, and shows less variance](supervisor-judgement-parallel-self-judgement-less-variance.md) — related
+- [Nine in ten recently graduated Peruvian physicians self-perceive as adequately competent to perform PAP, while only six in ten do so for VIA or VILI](peruvian-graduates-self-perceived-competence-pap-higher-than-via-vili.md) — related

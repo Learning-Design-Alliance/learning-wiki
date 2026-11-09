@@ -16,12 +16,14 @@ sources:
     author: Beaudoin Pier-Luc, Labbé Mathilde, Fanous Amanda, Young Meredith, Rappaport Jamie, Park Yoon Soo, Manoukian John, Nguyen Lily H. P.
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Poorly and variably performed communication skills differed from one scenario to another
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Beaudoin Pier-Luc, Labbé Mathilde, Fanous Amanda, Young Meredith, Rappaport Jamie, Park Yoon Soo, Manoukian John, Nguyen Lily H. P. (2019). Teaching communication skills to OTL-HNS residents: multisource feedback and simulated scenarios. Journal of Otolaryngology - Head & Neck Surgery. https://doi.org/10.1186/s40463-019-0329-8
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Item-level analysis of mean scores for each item of each station, with poorly performed items defined as means at least one SD below the station mean. Poorly and variably performed items "differed from one scenario to the other", indicating context-dependent skill performance.
 

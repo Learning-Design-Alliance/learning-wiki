@@ -46,6 +46,7 @@ The article recommends that public policy combine attention to social inequity w
 ## Related Strategies
 
 - [Improving educational outcomes for very preterm children may require mitigating social disadvantage and addressing modifiable early-life medical risks](multisectoral-support-very-preterm-school-outcomes.md)
+- [Incorporate socioeconomic factors into outcome discussions with families of preterm infants](discuss-ses-factors-with-preterm-families.md)
 
 ## Examples
 -

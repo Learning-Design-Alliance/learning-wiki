@@ -64,3 +64,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related
 - [Learning scores for all five theory modules were higher in the flipped classroom group, averaging an 11.2% increase](flipped-classroom-module-scores-higher-all-five.md) — related
 - [OSCE scores were below national average scores at pre-test and above national average scores at post-test in one uncontrolled pre-post study](post-osce-scores-exceeded-national-average.md) — related
+- [Clinical reasoning performance scores rose from entry exam to exit and retention tests after repeated computer-based key feature testing, in one uncontrolled pre-post study](repeated-key-feature-testing-large-gains.md) — related

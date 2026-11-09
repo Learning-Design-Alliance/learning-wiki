@@ -48,3 +48,4 @@ Narrative review of barriers reported across included RaT studies; the authors i
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related

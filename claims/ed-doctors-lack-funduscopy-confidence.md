@@ -52,3 +52,4 @@ Cross-sectional national survey of 346 FY2 doctors in UK EDs (202/210 EDs respon
 - [Undergraduate ophthalmology teaching is widely perceived as inadequate preparation for ED work](undergraduate-ophthalmology-teaching-inadequate.md) — related
 - [Foundation and SHO doctors working in UK general EDs lack confidence in managing ophthalmic emergencies](foundation-sho-doctors-lack-confidence-ophthalmic-emergencies.md) — related
 - [Most surveyed EM doctors were not confident performing lateral canthotomy and cantholysis for retrobulbar haemorrhage](em-doctors-not-confident-lateral-canthotomy-rbh.md) — related
+- [Nearly all surveyed non-specialist doctors lacked confidence in dermoscopy despite its reported diagnostic advantage](doctors-lack-dermoscopy-confidence.md) — related

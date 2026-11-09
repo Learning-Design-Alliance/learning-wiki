@@ -17,12 +17,14 @@ sources:
     author: Sa Bidyadhar, Ezenwaka Chidum, Singh Keerti, Vuma Sehlule, Majumder Md. Anwarul Azim
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PBL tutorial groups differ significantly in tutor-assigned mean ratings, with the highest-rated group G8 significantly above the lowest-rated group G9
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Sa Bidyadhar, Ezenwaka Chidum, Singh Keerti, Vuma Sehlule, Majumder Md. Anwarul Azim. (2019). Tutor assessment of PBL process: does tutor variability affect objectivity and reliability? BMC Medical Education. https://doi.org/10.1186/s12909-019-1508-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational analysis of tutor ratings from 181 year-3 MBBS students randomly assigned to 14 PBL groups, each assessed three times by different tutors. The independent t-test found a significant difference between "highest and lowest rated groups G8 vs. G9" with t-ratio = 12.64, p < 0.05.
 

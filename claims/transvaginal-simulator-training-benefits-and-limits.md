@@ -66,3 +66,4 @@ Narrative review reporting a comparative study of transvaginal ultrasound traini
 ## Related Claims
 - [Simulator assessment scores correlate strongly and positively with real-patient assessment scores, supporting simulators as competency assessment alternatives](simulator-assessment-scores-correlate-with-real-patient-performance.md) — related
 - [Simulator-based training was more effective than traditional training at improving obstetric ultrasound performance, with large ANCOVA effect sizes](simulator-training-outperforms-traditional-training-obstetric-ultrasound.md) — related
+- [Basic obstetric ultrasound knowledge scores rose from pre-test to post-test among medical students and junior house officers in a low-resource setting after a combined didactic and hands-on ultrasound teaching session, in one single-group pre-post study](didactic-hands-on-ultrasound-training-improves-knowledge-medical-students-jhos.md) — related

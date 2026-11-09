@@ -126,3 +126,4 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [Students judged the virtual patient platform realistic for clinical assessment, diagnostic activity and treatment management](virtual-platform-realism-ratings.md) — related
 - [Virtual patient simulation sessions significantly increase medical students' clinical reasoning scores without lecturer supervision](vps-increases-clinical-reasoning-scores.md) — related
 - [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — related
+- [Perceived confidence in diagnosing and managing upper gastrointestinal bleed did not differ significantly between VP case and PowerPoint arms, though handover confidence trended higher with the VP case](vp-case-confidence-change-null-with-handover-trend.md) — a narrower finding that bears on this claim

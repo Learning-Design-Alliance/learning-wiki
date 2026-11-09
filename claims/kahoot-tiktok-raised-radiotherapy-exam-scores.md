@@ -59,3 +59,4 @@ Retrospective quasi-experimental cross-sectional comparison of two academic-year
 - [Adding gamification to an in-person radiology rotation produces significantly higher radiographic-interpretation knowledge scores than the in-person rotation alone in fifth-year medical students](gamification-raises-radiographic-interpretation-knowledge.md) — related
 - [Students in the PBL-online group had significantly higher grade point averages in their internship semester than the traditional group, but the two groups were not equivalent at baseline](pbl-online-group-gpa-difference.md) — related
 - [The Study Smart cohort showed greater knowledge growth across exams than the prior, untrained cohort](study-smart-cohort-greater-exam-growth.md) — related
+- [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related

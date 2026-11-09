@@ -52,6 +52,7 @@ Design training modules according to deliberate practice theory, which "posits t
 - [Individual Deliberate Practice](individual_deliberate_practice.md)
 - [Deliberate Practice](deliberate_practice.md)
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
+- [Deliberate practice with immediate feedback and repeated simulation lab practice before competency evaluation](deliberate-practice-simulation-lab-before-osce-strategy.md)
 
 ## Examples
 -

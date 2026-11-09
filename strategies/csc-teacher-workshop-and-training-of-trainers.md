@@ -48,6 +48,7 @@ The program's professional development model centers on a one-day workshop: "Tea
 - [Implement PAX Good Behavior Game via one-day onsite teacher training with home-support manuals for parents](pax-gbg-onsite-training-parent-manuals.md)
 - [Start PD with ready and willing teachers and scale up over time, using train-the-trainers models](start-pd-with-ready-and-willing-scale-up.md)
 - [Two-day teacher professional learning workshop before simulation-supported inquiry implementation](isia-teacher-training-workshop-strategy.md)
+- [Train-the-trainer workshops to disseminate the program to residency programs](train-the-trainer-workshops-medical-physics-residency.md)
 
 ## Examples
 -

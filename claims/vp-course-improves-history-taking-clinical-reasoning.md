@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-09
 sources:
   - id: isaza-restrepo-andrés-2018
     resource: "https://doi.org/10.1186/s12909-018-1395-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Student skills in interview, physical exam, clinical judgment, relevance of medical exams, and presentation of case rose significantly from pre-test to post-test across all five assessed descriptors in one single-group pre-post study of the 16-week VP course (Wilcoxon signed rank test, p < 0.01). [→ Isaza-Restrepo Andrés 2018](#isaza-restrepo-andres-2018)

@@ -57,3 +57,4 @@ Pairwise raw-data correlations at 21 measurement points in the N = 360 sample. P
 - [Perceived difficulty was negatively correlated with recognition but not significantly with transfer or drawing test performance](perceived-difficulty-recognition-correlation-only.md) — related
 - [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related
 - [Working memory and perceived cognitive load were not significantly correlated in this sample](wm-cognitive-load-uncorrelated.md) — related
+- [Higher task difficulty and task complexity are each associated with lower RAS performance, mainly through more errors](difficulty-complexity-correlate-fsrs-performance.md) — related

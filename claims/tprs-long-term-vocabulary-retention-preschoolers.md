@@ -71,3 +71,4 @@ Delayed productive posttest data from Table 2 for the same 19 participants. The 
 ## Related Claims
 - [In one single-group pre-post study of TPRS with very young learners, immediate posttest means for receptive and productive L2 vocabulary were higher than pretest means in all weeks](tprs-short-term-vocabulary-gains-preschoolers.md) — related
 - [Receptive test means were higher than productive test means on immediate and delayed administrations during TPRS instruction among very young learners, in a single-group pre-post study with no comparison group](tprs-receptive-outperforms-productive-preschoolers.md) — related
+- [Retention and transfer knowledge decreased significantly between the immediate posttest and the test one week later across conditions and groups](retention-transfer-decrease-over-one-week.md) — reports the opposite

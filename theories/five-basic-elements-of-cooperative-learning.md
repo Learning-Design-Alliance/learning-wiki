@@ -17,7 +17,7 @@ sources:
 # Five basic elements make cooperative learning work: positive interdependence, face-to-face interaction, individual accountability, interpersonal and small group skills, and group processing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (8 for) · 7 studies (4 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 3 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 8 studies (5 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 3 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 The report presents five essential basic elements that must be "precisely structured into every learning group" for cooperative learning to work. Positive interdependence means students feel they "sink or swim" together, created through mutual goals, joint rewards, shared materials, and assigned roles. Face-to-face interaction holds that beneficial outcomes come from interaction patterns and verbal exchanges such as oral summarizing and elaborating. Individual accountability requires frequently stressing and assessing individual learning. Interpersonal and small group skills must be taught by teachers, and group processing gives students time and procedures to analyze how well their groups are functioning. These elements were woven throughout the staff development sessions and listed in each manual activity.
@@ -46,6 +46,7 @@ The report presents five essential basic elements that must be "precisely struct
 - [Students taught with the Learning Together technique achieved significantly higher psychology posttest scores than students taught by lecture-based teaching](../claims/learning-together-higher-achievement-posttest.md) [+M] — attached 2026-11-01 from Tran (2014), which proposed "Five basic elements of cooperative learning".
 - [Students taught with the Learning Together technique retained significantly more psychology knowledge on a delayed test than lecture-taught students](../claims/learning-together-greater-knowledge-retention.md) [+M] — attached 2026-11-01 from Tran (2014), which proposed "Five basic elements of cooperative learning".
 - [Learning Together technique significantly raised learning achievement in a Modern French Literature course, with the lowest pre-test students gaining the most](../claims/lt-technique-significant-achievement-gains-french-literature.md) [+W] — attached 2026-11-02 from Orprayoon (2014), which proposed "Learning Together technique of cooperative learning (Johnson & Johnson)".
+- [Within intervention classrooms, students were more collaboratively engaged during the interdependent phase 2 than phase 1](../claims/phase2-interdependence-raises-engagement.md) [+W] — attached 2026-11-09 from Premo Joshua et al. (2018), which proposed "Interdependency theory as an account of classroom collaborative dynamics"; tests this page's relationship.
 
 ## Related Theories
 

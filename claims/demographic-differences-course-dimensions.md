@@ -54,3 +54,4 @@ Mann–Whitney U comparisons across demographic subgroups. The article reports "
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Discipline-level predictors differed: gender predicted anatomy scores, graduate type predicted physiology, social sciences and biochemistry scores](discipline-level-predictors-bsre.md) — related
+- [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related

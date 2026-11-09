@@ -48,7 +48,8 @@ The article proposes four application areas for the framework and SAICS scale. "
 - [Self-reported instruments measure AI self-efficacy (perceptions) rather than AI literacy abilities, so both should be included in comprehensive assessment](../claims/self-report-measures-self-efficacy-not-literacy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use validated competency frameworks to guide curricular training strategies and evaluation, and invest in further framework creation across other nursing areas](frameworks-guide-curriculum-and-evaluation-strategy.md)
 
 ## Examples
 -

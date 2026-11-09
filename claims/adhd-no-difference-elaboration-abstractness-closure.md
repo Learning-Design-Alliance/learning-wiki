@@ -53,3 +53,4 @@ One-factor ANOVA results for the three remaining TTCT dimensions in the 34-versu
 - [No significant differences in affect recognition errors emerged between the ADHD-Combined group and controls or between the ADHD-C and ADHD-I groups](no-adhd-combined-affect-recognition-differences.md) — related
 - [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](adhd-children-higher-ttct-fluency.md) — related
 - [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](adhd-children-higher-creativity-index.md) — related
+- [Premature closure occurred significantly more often in group W than group S, and confidence differed across groups](premature-closure-more-likely-group-w.md) — related

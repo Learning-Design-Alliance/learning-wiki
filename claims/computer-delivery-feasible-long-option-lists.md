@@ -47,3 +47,4 @@ Debate-article assertion (type e) citing prior feasibility reports, including lo
 ## Related Claims
 - [Broad clinical scenarios cannot be limited to a small number of options, and longer option lists are perceived as more authentic to clinical practice](clinical-authenticity-long-option-lists.md) — related
 - [A majority of answer options chosen in long-menu questions were not offered as distractors in the corresponding Type A questions](long-menu-chosen-options-outside-type-a-distractors.md) — related
+- [Fear that reducing MCQ options increases correct answers by guessing is unfounded, because examinees engage in educated rather than blind guessing](mcq-option-reduction-guessing-concern-unfounded.md) — related

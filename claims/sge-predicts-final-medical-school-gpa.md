@@ -51,3 +51,4 @@ Stepwise linear regression in an exploratory prospective cohort study of 65 Croa
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — related
 - [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related
+- [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related

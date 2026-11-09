@@ -50,6 +50,7 @@ The article recommends formal training initiatives, "such as structured mentorsh
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
+- [Use team-based training approaches so clinical leadership development transfers skills while building teams and reducing resistance to change](team-based-clinical-leadership-training-strategy.md)
 
 ## Examples
 -

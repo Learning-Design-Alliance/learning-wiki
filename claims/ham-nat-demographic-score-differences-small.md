@@ -16,12 +16,14 @@ sources:
     author: Meyer Hubertus, Zimmermann Stefan, Hissbach Johanna, Klusmann Dietrich, Hampe Wolfgang
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Entrance test performance differs by demographic factors with small effect sizes, and no difference by parents' birthplace
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Meyer Hubertus, Zimmermann Stefan, Hissbach Johanna, Klusmann Dietrich, Hampe Wolfgang. (2019). Selection and academic success of medical students in Hamburg, Germany. BMC Medical Education. https://doi.org/10.1186/s12909-018-1443-4
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Analysis of all applicants who sat the HAM-Nat 2012–2015 (Table 1). The article reports "males performed better than females (d = 0.51)" and the age difference d = 0.23; German first language d = 0.11 and both-parents-academic d = 0.21 were smaller, and parent birthplace showed no difference.
 

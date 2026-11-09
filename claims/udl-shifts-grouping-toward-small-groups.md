@@ -49,3 +49,4 @@ MANCOVA of observed grouping structures (Table 9): overall F(9,68) = 11.434, par
 - [UDL instructional practices alone raised reported inclusivity and student autonomy but not classroom or school climate, with very small effect sizes on social variables](udl-instruction-alone-raises-inclusivity-autonomy-not-climate.md) — related
 - [UDL treatment students interacted more frequently with peers and adults and spent less time not interacting](udl-increases-peer-and-adult-interaction.md) — related
 - [RM-CC5 treatment teachers shifted toward one-on-one instruction with individual students, while control teachers led more whole-group and small-group instruction](rm-cc5-teacher-role-shift-one-on-one.md) — related
+- [Intervention students spent proportionally more time discussing question sets and supporting peers, and less time off-table, than comparison students](beg-individual-engagement-favors-intervention.md) — related

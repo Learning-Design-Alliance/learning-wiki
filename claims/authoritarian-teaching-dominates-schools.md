@@ -49,3 +49,4 @@ Finding from the observational analysis of teachers’ pedagogical activity. The
 - [Civic education teaching in Nigerian secondary schools has been dominated by teacher-centered strategies emphasizing transmission of civic information](teacher-centered-civic-education-nigeria.md) — a narrower finding that bears on this claim
 - [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related
 - [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](teacher-audience-promotes-evaluation-not-construction.md) — related
+- [Undergraduate lecture experience transmits a normative belief that lecture is the accepted way to teach](undergraduate-lecture-enculturation-transmits-lecture-norm.md) — related

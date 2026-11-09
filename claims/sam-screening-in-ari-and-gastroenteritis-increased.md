@@ -48,3 +48,4 @@ Medical record review of children diagnosed with ARI or gastroenteritis, testing
 - [From before to after eLearning training, in one group with no comparison group, hospitals recorded the requisite anthropometric data for more children and correctly diagnosed a higher proportion of SAM cases](sam-assessment-and-diagnosis-improved-post-elearning.md) — related
 - [Case-fatality among children with SAM fell from 5.8% to 1.9% after the eLearning intervention](sam-case-fatality-fell-after-elearning.md) — related
 - [Observed quality of SAM case-management rose from preintervention to postintervention in almost all components of the WHO Ten Steps after eLearning training](who-ten-steps-care-improved-after-elearning.md) — related
+- [Awareness of WHO SAM management guidelines was low before training (36.73% overall; 26.3% among in-service professionals)](malnutrition-elearning-low-baseline-awareness.md) — related

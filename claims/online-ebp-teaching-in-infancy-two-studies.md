@@ -48,3 +48,4 @@ Narrative synthesis of the review's search results. The review states online EBP
 - [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](ebp-skills-gains-fluctuations.md) — related
 - [Content analysis identified four facilitatory features of technology-based teaching: delivery mode, multimedia design, clinical skill practice, and interaction or feedback](four-facilitatory-features-tech-stroke-teaching.md) — related
 - [Seven of the 20 included studies reported an overall increase across all EBP domains indicating higher EBP competence, and two studies focused on the searching databases skill](seven-studies-overall-ebp-domain-increase.md) — related
+- [Four of the seven reviewed studies included only a vague focus on teaching EBP principles, with research utilisation dominating](vague-focus-ebp-principles-four-studies.md) — related

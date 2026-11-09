@@ -50,3 +50,4 @@ Correlational analysis of difficulty indices computed for ten open-ended items f
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — related
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
+- [Rasch analysis shows DialogPR item difficulty spans −2.00 to 1.06, with recall, discussion-before-reading, and completion prompts least endorsed and responding, discussion-after, and wh-/open-ended questions most endorsed](dialogpr-rasch-item-difficulty-ordering.md) — related

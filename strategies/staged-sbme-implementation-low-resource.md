@@ -50,6 +50,7 @@ A staged implementation strategy for simulation-based medical education in finan
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 - [Use short, gamified low-cost simulation tasks as an introductory pre-clinical training method before real laparoscopic exposure](gamified-low-cost-simulation-before-real-laparoscopy.md)
+- [Assess available resources and develop targeted team training to improve trauma care efficiency in resource-limited hospitals](resource-assessment-targeted-team-training-strategy.md)
 
 ## Examples
 -

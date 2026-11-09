@@ -50,3 +50,4 @@ Between-group post-test comparison in the randomised controlled trial (intervent
 - [The Time-by-Group interaction on AS-NTS performance is significant for teamwork/leadership and team orientation but not for planning/problem-solving](time-group-interaction-nts-dimensions.md) — possibly the same claim (merge candidate)
 - [Flipped classroom preparation before anesthesia crisis management simulation yields higher overall ANTS non-technical skills scores than conventional lecture](fc-higher-overall-ants-scores-anesthesia-simulation.md) — related
 - [Flipped classroom raises ANTS decision making, team-working and leadership, and task management scores, but not situation awareness](fc-ants-subscores-situation-awareness-null.md) — related
+- [Non-technical skills improved significantly in mixed-experience teams in an exploratory analysis, a finding the authors say requires confirmation with an adequate sample size](nts-improvement-mixed-experience-teams.md) — related

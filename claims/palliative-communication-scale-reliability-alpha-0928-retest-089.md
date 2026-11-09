@@ -81,3 +81,4 @@ Test-retest reliability was assessed with a 2-week interval by randomly selectin
 - [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related
 - [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
+- [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related

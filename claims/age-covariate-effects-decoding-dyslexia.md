@@ -52,3 +52,4 @@ Covariate results from the word-decoding mediation model in 55 children with dys
 - [Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures](no-support-iq-discrepancy-model.md) — related
 - [No significant total or direct effect of semantic knowledge on word or pseudoword decoding in children with dyslexia](no-direct-semantic-effect-decoding-dyslexia.md) — related
 - [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related
+- [Working memory capacity did not influence the size of the modality or redundancy effects on study time or knowledge gain, despite children with dyslexia having weaker working memory](working-memory-no-relation-modality-redundancy-effects.md) — related

@@ -159,3 +159,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Lecture only, lecture plus seeing peer BSDS responses, and lecture plus the BSDS activity were equally effective at shifting student attitudes](three-teaching-methods-equally-effective.md) — a narrower finding that bears on this claim
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — related
 - [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related
+- [Lectures are effective for conveying factual information but less effective for promoting active thought and influencing attitudes](lectures-factual-not-attitude-effective.md) — related

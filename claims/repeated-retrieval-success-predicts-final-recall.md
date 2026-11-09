@@ -1,14 +1,16 @@
 ---
 type: claim
-title: Repeated successful retrieval during learning predicted final recall in both experiments
-description: Repeated successful retrieval during learning predicted final recall in both experiments
+title: "Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study"
+description: "Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study"
 id: repeated-retrieval-success-predicts-final-recall
+aliases: [correct-retrievals-predict-retention-probability]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-09
 sources:
   - id: ariel-2018
     resource: "https://doi.org/10.1037/xap0000133"
@@ -26,17 +28,28 @@ sources:
     i: 1
     kind: causal
     rigour: 2
+  - id: ludwig-sascha-2018
+    resource: "https://doi.org/10.1186/s12916-018-1090-y"
+    title: "Ludwig Sascha, Schuelper Nikolai, Brown Jamie, Anders Sven, Raupach Tobias. (2018). How can we teach medical students to choose wisely? A randomised controlled cross-over study of video- versus text-based case scenarios. BMC Medicine 16:107. https://doi.org/10.1186/s12916-018-1090-y"
+    author: Ludwig Sascha, Schuelper Nikolai, Brown Jamie, Anders Sven, Raupach Tobias
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
-# Repeated successful retrieval during learning predicted final recall in both experiments
+# Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2018 · checked against its sources 2026-11-09 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
+
 `q3 i2` In Experiment 1, each additional successful retrieval attempt increased the probability of correct final recall. [→ Ariel 2018](#ariel-2018)
 `q3 i1` The effect persisted in both sessions of Experiment 2, though with smaller coefficients. [→ Ariel 2018 (2)](#ariel-2018-2)
+
+`q3 i?` In the aggregate sample, the probability of correctly answering an item in the retention test was 27.7% after three failed retrievals versus 87.5% after three correct retrievals. [→ Ludwig Sascha 2018](#ludwig-sascha-2018)
 
 ## Evidence
 
@@ -60,10 +73,22 @@ Separate multilevel logistic regression models for each Experiment 2 session; th
 
 > "the probability of recalling translations on the final test increased by .59 (/H9252 = .37) during the initial session and by .54 (/H9252 = .18) during the transfer session for each successful recall attempt during the learning phase"
 
+### Ludwig Sascha 2018
+
+Ludwig Sascha, Schuelper Nikolai, Brown Jamie, Anders Sven, Raupach Tobias. (2018). How can we teach medical students to choose wisely? A randomised controlled cross-over study of video- versus text-based case scenarios. BMC Medicine 16:107. https://doi.org/10.1186/s12916-018-1090-y
+
+`q3 · i?` · `causal · r2`
+
+Descriptive analysis of retention-test performance as a function of number of correct retrievals during e-seminars and the exit exam in the cross-over study. The quoted percentages are descriptive; no inferential test or effect size was reported for this gradient.
+
+> "the probability of correctly answering an item in the retention test following three failed retrievals in preceding e-seminars and the exit exam was 27.7%; the corresponding percentage for one, two and three correct retrievals were 51.3%, 70.2% and 87.5%, respectively"
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
@@ -76,3 +101,4 @@ Separate multilevel logistic regression models for each Experiment 2 session; th
 - [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](skipping-permits-more-retrieval-attempts.md) — related
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](mixed-effects-across-experiments-criterion-failures.md) — related
 - [Completing more skill levels is associated with higher Checkpoint Quiz post-test accuracy, with positive coefficients for Levels 1, 2, and 4](leveling-up-associated-checkpoint-quiz-accuracy.md) — related
+- [Number of correctly retrieved and acquired Word Engine items each correlated moderately with VST score gains](word-engine-use-correlates-vst-gains.md) — related

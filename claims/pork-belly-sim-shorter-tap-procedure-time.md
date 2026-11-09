@@ -54,3 +54,4 @@ In the randomized trial's standardized assessment, the simulation group's median
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
 - [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite
 - [Procedure times were similar between simulation and traditional groups across most nerve block approaches](procedure-times-similar-most-approaches.md) — related
+- [Student satisfaction was higher after simulator-based teaching than after traditional teaching](simulator-teaching-higher-student-satisfaction.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Westerlaken M, Christiaans-Dingelhoff I, Filius RM, de Vries B, de Bruijne M, van Dam M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Teacher interaction before face-to-face meetings was valued (mean 3.6–3.9 of 5), but inconsistent teacher replies frustrated some students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Westerlaken M, Christiaans-Dingelhoff I, Filius RM, de Vries B, de Bruijne M, van Dam M. (2019). Blended learning for postgraduates; an interactive experience. BMC Medical Education. https://doi.org/10.1186/s12909-019-1717-5
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Questionnaire evaluation of teacher interaction (Table 4: amount of feedback 3.6, quality 3.8, content expertise 3.9, speed 3.9). Three students gave positive comments, e.g. that there was already contact before the face-to-face meeting.
 

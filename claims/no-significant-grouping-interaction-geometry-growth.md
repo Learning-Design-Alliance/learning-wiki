@@ -47,3 +47,4 @@ Mixed ANOVA comparing treatment (n=54) and control (n=48) groups' pre/post CKT-M
 ## Related Claims
 - [Treatment-group preservice teachers showed a statistically significant increase in geometry content knowledge after the quadrilateral activities intervention](treatment-significant-geometry-ck-growth-preservice.md) — related
 - [DG-group lessons were significantly better designed for conjecture-to-proof progression and used dynamic features far more than control lessons, while other observed teaching aspects did not differ significantly](dg-classroom-implementation-fidelity-observation.md) — related
+- [The Group × Treatment interaction in the mixed 2×2 ANOVA was not statistically significant, despite significant Group and Treatment main effects](group-treatment-interaction-not-significant.md) — related

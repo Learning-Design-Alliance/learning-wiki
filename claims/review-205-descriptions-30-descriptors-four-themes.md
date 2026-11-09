@@ -53,3 +53,4 @@ Systematic review with content analysis of articles reporting witnessed or admit
 - [Research attention to medical student unprofessional behaviour shifted over time: fraudulent behaviours first (US, around 1980), poor self-awareness around 2000, and internet-related behaviours recently](temporal-shift-in-unprofessional-behaviour-research-focus.md)
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md)
 - [Medical students' views on learning pharmacotherapy cluster into four themes: Curriculum, Clinical placement, Theoretical teaching and Student responsibility](four-themes-students-pharmacotherapy-learning.md) — related
+- [Early academic failure carries far lower risk of later disciplinary action than unprofessional behavior in medical school](academic-failure-low-disciplinary-risk-versus-unprofessional-behavior.md) — related

@@ -48,3 +48,4 @@ Linear mixed modelling of total processing time per word in the same experiment;
 - [Late SDF presentation reduces diagnostic accuracy without reducing processing time, contradicting the competition hypothesis for early bias](late-sdf-accuracy-without-time-reduction.md) — related
 - [Early-presented salient distracting findings reduce diagnostic accuracy in medical students by 61% compared with no-SDF cases](early-sdf-reduces-diagnostic-accuracy-61-percent.md) — related
 - [SDF presence increases SDF-related diagnostic mistakes by around 60% regardless of presentation position](sdf-increases-sdf-related-mistakes.md) — related
+- [Premature closure occurred significantly more often in group W than group S, and confidence differed across groups](premature-closure-more-likely-group-w.md) — related

@@ -57,3 +57,4 @@ Construct-validity comparison using a low-fidelity mitral valve replacement trai
 - [IVR and control groups do not differ in attending-surgeon interventions, verbal answers to composite questions, or safety cessations](ivr-null-surgeon-intervention-questions-safety.md) — related
 - [Operation times on the DNH hydrogel ESD model discriminate between physicians of different experience levels](dnh-model-operation-times-discriminate-experience-levels.md) — a narrower finding that bears on this claim
 - [Gamified simulation-based training improved resident competency, engagement, and narrowed baseline skill disparities across residency programs](gamification-improves-resident-training-engagement.md) — related
+- [A five-level scale of progression of skill and proficiency in suture video surgery classified trainees by task completion time, showing residents and young surgeons need additional training time](scale-progression-skill-proficiency-baraitric-suture.md) — related

@@ -69,3 +69,4 @@ Same record-review analysis of cases classified against WHO SAM criteria (6–60
 - [Case-fatality among children with SAM fell from 5.8% to 1.9% after the eLearning intervention](sam-case-fatality-fell-after-elearning.md) — related
 - [Observed quality of SAM case-management rose from preintervention to postintervention in almost all components of the WHO Ten Steps after eLearning training](who-ten-steps-care-improved-after-elearning.md) — related
 - [Referrals of SAM admissions to tertiary hospitals in Ghana fell from 6.7% to 1.3% after the intervention](sam-tertiary-referrals-fell-after-elearning.md) — related
+- [Awareness of WHO SAM management guidelines was low before training (36.73% overall; 26.3% among in-service professionals)](malnutrition-elearning-low-baseline-awareness.md) — related

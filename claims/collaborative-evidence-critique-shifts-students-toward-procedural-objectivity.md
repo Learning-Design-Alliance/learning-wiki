@@ -64,3 +64,4 @@ The absence of a control group is a real limitation the authors acknowledge (for
 - [Students' experiment-evaluation strategies shifted toward correct CVS after instruction, though 23% still used incorrect strategies](evaluation-strategies-shift-to-cvs.md) — related
 - [Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest](dinsmore-project-based-declarative-only.md) — related
 - [A student-built CTE webpage redesign coincided with the school adding one computer science course the following year](student-webpage-project-coincided-cs-course-increase.md) — related
+- [Qualitative analysis found shifts from uncritical deference to technical experts toward well-justified inclusion of public actors](cl-qualitative-shift-toward-justified-public-inclusion.md) — related

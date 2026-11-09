@@ -70,6 +70,7 @@ The article describes a standardized simulation-based training protocol structur
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 - [Implement suturing/ligature tutoring in parallel with real patient practice, combining expert-led teaching with AI system-assisted self-assessment sessions](expert-led-plus-ai-suturing-tutoring-strategy.md)
 - [Bedside hands-on training combining lectures, pelvic model practice, and supervised clinical application](hands-on-bpst-bedside-training-strategy.md)
+- [Blended learning package combining an animated e-learning video with structured face-to-face training and supervised real-life practice](blended-bpst-training-package-strategy.md)
 
 ## Examples
 -

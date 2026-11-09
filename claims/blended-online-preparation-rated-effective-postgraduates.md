@@ -50,3 +50,4 @@ Evaluation of two blended modules with voluntary anonymous questionnaires comple
 - [The online seminar with preparatory case processing was rated positively for deepening understanding and enabling active participation](online-seminar-case-preparation-positive-ratings.md) — related
 - [Most postgraduate trainees (84.6%) reported confidence in applying CT skills in professional life after the foundation course](ct-course-confidence-feedback-84-percent.md) — related
 - [Replacing passive homework with interactive online preparation did not diminish the need for face-to-face meetings, contrary to expectations](face-to-face-need-not-diminished-by-blended-preparation.md) — related
+- [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — a narrower finding that bears on this claim

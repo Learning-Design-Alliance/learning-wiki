@@ -51,3 +51,4 @@ Thematic analysis by two subject matter experts coding student game questions wi
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
 - [The cartooning activity engaged students in cognitive processes beyond the first level of Bloom's taxonomy, including analysis, evaluation and creativity](cartooning-blooms-taxonomy-higher-order.md) — related
+- [Medical students can write cognitively challenging MCQs: 74% of student-generated pathology MCQs required application or analysis](student-mcqs-majority-application-analysis.md) — related

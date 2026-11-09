@@ -73,3 +73,4 @@ Post-hoc coding of a representative sample of 602 questions from four introducto
 - [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
 - [Most LLM-generated MCQs from video transcripts met established quality criteria, with 84.05% rated clear, 86.38% containing plausible distractors, and 93.39% directly answerable](llm-mcq-video-quality-ratings-majority-clear.md) — related
 - [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — related
+- [Medical students can write cognitively challenging MCQs: 74% of student-generated pathology MCQs required application or analysis](student-mcqs-majority-application-analysis.md) — related

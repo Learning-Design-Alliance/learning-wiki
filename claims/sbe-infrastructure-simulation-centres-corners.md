@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-09
 sources:
   - id: mwalabu-gertrude-2024
     resource: "https://doi.org/10.1155/2024/1776533"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Lecturers reported skills laboratories cannot accommodate student demand and recommended purposefully built, well-equipped simulation centres accessible at any time. [→ Mwalabu Gertrude 2024](#mwalabu-gertrude-2024)
@@ -70,3 +71,5 @@ A senior lecturer cited two SBE training sessions and examples from South Africa
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Student nurses booked and used the clinical simulation laboratory for SSL at far lower rates than other health science students in 2019](nursing-students-low-ssl-booking-rates.md) — related
 - [Perceived barriers to implementing ophthalmic simulation in SSA include cost, inadequate supervision, lack of equipment or facilities, resistance to change and sustainability concerns](sbse-implementation-barriers-ssa.md) — related
+- [Participants identified infrastructure and resource shortages as a barrier to accommodating growing student numbers](infrastructure-shortage-barrier-growing-nursing-intakes.md) — possibly the same claim (merge candidate)
+- [Panel and focus group participants reported a mismatch between the type of nurses trained and service users' expectations](nurse-training-type-mismatch-user-expectations-malawi.md) — related

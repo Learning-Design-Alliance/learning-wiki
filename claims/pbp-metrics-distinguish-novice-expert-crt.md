@@ -55,3 +55,4 @@ The article reports this validation as previously published work by the same gro
 - [Very experienced RARP surgeons made 72% fewer procedure errors than novices in blinded video-based assessment](ves-fewer-errors-than-novices.md) — related
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — related
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md) — related
+- [Metrics-based assessment of epidural catheter placement achieves high inter-rater reliability (0.88) and discriminates experts from novices](metrics-assessment-high-irr-construct-validity.md) — related

@@ -50,3 +50,4 @@ The review's overall synthesis of the 37 included studies states that "the evide
 - [Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed](mixed-evidence-network-density-course-outcomes.md) — related
 - [Diffusion-based centralities show moderate-to-strong statistically significant positive correlations with the frequency of information sharing and argumentation utterances in CSCL](diffusion-centralities-capture-information-exchange-argumentation.md) — a narrower finding that bears on this claim
 - [Network measurement in undergraduate SNA research shows little consistency even when research questions overlap](inconsistent-network-measures-undergrad-sna.md) — related
+- [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related

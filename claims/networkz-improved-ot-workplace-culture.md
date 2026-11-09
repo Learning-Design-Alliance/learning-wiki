@@ -50,3 +50,4 @@ Framework analysis of interviews with 31 staff from five hospitals in the early 
 - [High-quality manikins and bespoke surgical models engaged all disciplines, including surgeons, in in situ simulations](high-fidelity-models-engage-all-disciplines.md) — related
 - [All nine studies using ISS to assess and promote system readiness and safety cultures reported improvements in readiness scores and safety attitudes](iss-improves-readiness-safety-attitudes.md) — related
 - [In situ simulation postcourse reports in operating theaters frequently record latent safety threats, with 77 of 103 reports containing codable LSTs across all London Protocol factor types](insitu-sim-reports-frequently-record-lsts.md) — related
+- [Trained participants reported institutional, operational, and policy changes, including active screening and establishment of malnutrition units](malnutrition-elearning-policy-operational-changes.md) — related

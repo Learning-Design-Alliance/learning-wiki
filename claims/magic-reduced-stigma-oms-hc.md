@@ -50,3 +50,4 @@ Paired pre/post comparison on the OMS-HC-15 stigma scale in the same 152-partici
 - [Mental Health First Aid training improved school staff mental health knowledge, attitudes and confidence in helping colleagues](mhfa-improves-staff-mental-health-literacy.md) — related
 - [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related
 - [Students showed significantly stronger anti-fat stigmatisation than teachers and SPs on AFAT weight control/blame items](students-stronger-anti-fat-stigmatisation-afat.md) — related
+- [Both MHFA modes reduce beliefs that people with depression or PTSD are dangerous or unpredictable, while weak-not-sick stigma shows no significant improvement](mhfa-dangerousness-stigma-reduction.md) — related

@@ -84,3 +84,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — reports the opposite
 - [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related
 - [Independent raters score the sCPEP-3 Performance Test consistently, with mean and median polychoric correlation coefficients from 0.64 to 0.93 across subtests](scpep3-interrater-reliability.md) — related
+- [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related

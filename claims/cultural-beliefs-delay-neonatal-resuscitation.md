@@ -51,3 +51,4 @@ Focus group data in the qualitative study; a participant quoted mothers believin
 - [Knowledge gaps in perinatal care persist despite HBB training, and midwives report a need for recurrent and more comprehensive training](knowledge-gaps-persist-despite-hbb-training.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
 - [The proclivity to perform suction first delays ventilation during neonatal resuscitation, and suction is rarely clinically indicated](suction-first-delays-ventilation-air-air-air.md) — related
+- [Second edition scientific revisions: drying and stimulating babies born through meconium-stained fluid without suctioning, and initiating ventilation before cutting the cord](hbb2-scientific-revisions-suctioning-cord-clamping.md) — related

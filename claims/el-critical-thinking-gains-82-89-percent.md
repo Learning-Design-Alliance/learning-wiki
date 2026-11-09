@@ -55,3 +55,4 @@ Results of three critical-thinking and problem-solving Likert prompts from the c
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — a broader claim this one bears on
 - [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [Interviewed masterclass participants reported increased confidence and broader application of skills in novel work situations, indicating adaptive expertise](masterclass-interviews-adaptive-expertise.md) — related
+- [The protocol writing model helped students apply theories or concepts to new situations by designing their own study](protocol-writing-applying-concepts-new-situations.md) — a narrower finding that bears on this claim

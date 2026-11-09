@@ -62,6 +62,7 @@ The review recommends a research agenda for strengthening the evidence base on A
 - [Prioritise flexible, ergonomically adaptable haptic input devices and standardised, longer training protocols in future VR surgical training research](flexible-haptic-input-devices-and-standardised-protocols-strategy.md)
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
 - [Integrate VR with traditional training methods and validate with large-scale multicenter trials before wide promotion](cautious-multimethod-vr-integration-strategy.md)
+- [Prioritise rigorous intervention research with standardised behavioural outcome measures to build causal evidence for communication skills training](prioritise-rigorous-intervention-research-standardised-behavioural-measures-strategy.md)
 
 ## Examples
 -

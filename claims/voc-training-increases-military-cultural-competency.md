@@ -54,3 +54,4 @@ A repeated-measures ANOVA on the five-item MCC composite (covering preparedness 
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Online father engagement training improves practitioner competencies, but confidence, competence and perceived effectiveness deteriorate from post-training to 2-month follow-up](ot-competencies-deteriorate-at-follow-up.md) — related
+- [The proportion of participants achieving the pass mark increased from 18.2% pretraining to 58.7% posttraining](malnutrition-elearning-pass-mark-increase.md) — related

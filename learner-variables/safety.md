@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 171 claims (124 show a difference, 33 mixed, 14 no difference) · 103 studies (31 associational, 23 review, 17 qualitative, 13 causal, 8 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 103 report an effect size · 171 claims rest on one study
+> **Evidence** · 172 claims (125 show a difference, 33 mixed, 14 no difference) · 104 studies (31 associational, 23 review, 18 qualitative, 13 causal, 8 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 104 report an effect size · 172 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -207,6 +207,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Bullying perpetration and victimization correlate positively, and teaching styles correlate with bullying, in descriptive statistics](../claims/correlations-teaching-styles-bullying-table1.md) [+M] — measured as an outcome of the instruction studied
 - [Students' self-determined motivation in PE negatively predicts bullying perpetration and victimization](../claims/sdi-negative-predicts-bullying-pe.md) [+M] — measured as an outcome of the instruction studied
 - [Victimization positively predicts bullying perpetration among PE students](../claims/victimization-predicts-perpetration-pe.md) [+M] — learners who differ on it differ in outcomes
+- [Clinical teaching by senior tutors was experienced as threatening, and the safety of PAL was understood in contrast to it](../claims/threat-of-the-ward-clinical-teaching.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

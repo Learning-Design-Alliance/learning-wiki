@@ -50,3 +50,4 @@ Pearson correlation analysis across the study cohort relating end-of-course conf
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
 - [Missing offline CBL classes does not significantly affect exam scores in thoracic trauma and closed chest drainage teaching](offline-attendance-no-exam-score-effect.md) — related
 - [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related
+- [Structural equation modeling in the block group showed course value positively predicted self-assessed statistical ability, which weakly predicted exam achievement](sem-perceptions-predict-biostatistics-achievement.md) — related

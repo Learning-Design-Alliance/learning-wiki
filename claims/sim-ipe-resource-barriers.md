@@ -87,3 +87,4 @@ A nursing faculty key informant reported inadequate instructor numbers: "sometim
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — possibly the same claim (merge candidate)
 - [Professional hierarchy and low student confidence are key barriers to interprofessional education](hierarchy-and-confidence-barriers-ipe.md) — related
 - [Organizational issues, limited simulation capacity, and restricted access are major barriers to simulation-based learning reported by Rwandan medical students](organizational-capacity-access-barriers-simulation.md) — related
+- [Participants identified infrastructure and resource shortages as a barrier to accommodating growing student numbers](infrastructure-shortage-barrier-growing-nursing-intakes.md) — possibly the same claim (merge candidate)

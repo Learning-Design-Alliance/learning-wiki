@@ -92,3 +92,5 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
 - [The ad hoc 16-item Likert-5 questionnaire measuring motivation, autonomy and self-regulation showed acceptable validity and reliability (KMO = 0.807; α = 0.81)](adhoc-questionnaire-mot-aut-ser-validity.md) — related
 - [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related
+- [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related
+- [The EBMQ shows strong internal consistency, with overall Cronbach's alpha of 0.909](ebmq-internal-consistency-alpha-0909.md) — related

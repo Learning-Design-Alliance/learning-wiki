@@ -76,3 +76,4 @@ Interview data showed "altered consciousness and inability to communicate evoked
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — a broader claim this one bears on
 - [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related
 - [Perceived 'intern bias' from patients and nurses is a reported cause of difficulty in clinical practice](intern-bias-cause-of-difficulty.md) — related
+- [Experiential learning material triggered emotional experiences of loss and bereavement, and some nursing students felt guilty about becoming emotionally involved](emotional-experiences-eol-experiential-learning.md) — related

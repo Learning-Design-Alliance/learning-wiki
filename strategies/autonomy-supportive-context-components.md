@@ -51,6 +51,7 @@ The article recommends that higher education settings foster autonomy support th
 - [Classroom strategies from brain-based learning: positive emotion, student choice and responsibility, and the joy of success](bbl-classroom-strategies-positive-emotion-choice-success.md)
 - [Adopt autonomy-supportive practices to cultivate emotionally supportive EFL environments](autonomy-supportive-practices-efl-emotional-support.md)
 - [PE teachers should support autonomy (offering choices, justifying decisions, minimizing pressure) and avoid controlling strategies to help reduce bullying](pe-autonomy-support-anti-bullying-strategies.md)
+- [Use autonomy-supportive intervention behaviors in physical education to foster a self-determined motivational climate](autonomy-supportive-pe-intervention-behaviors.md)
 
 ## Examples
 -

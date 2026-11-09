@@ -24,6 +24,8 @@ sources:
     author: Kovacevic Pedja, Dragic Sasa, Kovacevic Tijana, Momcicevic Danica, Festic Emir, Kashyap Rahul, Niven Alexander S., Dong Yue, Gajic Ognjen
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The tele-education intervention prompted structural and process-of-care changes, with the vast majority evaluated as fully implemented
@@ -53,7 +55,7 @@ Semistructured evaluation by 16 providers (10 physicians, 4 charge nurses, 2 phy
 
 Kovacevic Pedja, Dragic Sasa, Kovacevic Tijana, Momcicevic Danica, Festic Emir, Kashyap Rahul, Niven Alexander S., Dong Yue, Gajic Ognjen. (2019). Impact of weekly case-based tele-education on quality of care in a limited resource medical intensive care unit. Critical Care. https://doi.org/10.1186/s13054-019-2494-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Provider evaluation of medication practice changes after two years of tele-education, reported in the Results section. Standardized nutrition, avoidance of polypharmacy, beta blocker use, and bone marrow biopsy were considered partially implemented by a minority of evaluators (25%).
 

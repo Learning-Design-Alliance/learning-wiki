@@ -67,3 +67,4 @@ The authors' own qualification of the segmented analysis in section 3.4: subgrou
 - [Content-acquisition gains segmented by intelligence style reached significance only for Interpersonal and Intrapersonal IS](knowledge-gains-by-is-mostly-nonsignificant.md) — related
 - [MI-based strategy improves five intelligence types while logical-mathematical intelligence decreases, partly due to instrument bias](five-intelligences-improve-logical-math-declines.md) — reports the opposite
 - [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](mit-emotional-posttest-advantage.md) — related
+- [Postgraduates' perceptions and self-assessed ability varied with age, specialty, research experience, logical thinking, mathematical and computer basics](learner-characteristics-associated-biostatistics-perceptions.md) — related

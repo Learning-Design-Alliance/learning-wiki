@@ -58,3 +58,4 @@ Intra-observer reliability was evaluated with a sample of 45 nursing students wh
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
 - [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related
+- [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related

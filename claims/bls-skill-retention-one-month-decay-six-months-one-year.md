@@ -58,3 +58,4 @@ Longitudinal DOPS re-assessment of 100 students at 1 month, 6 months and 1 year 
 - [BLS knowledge and practical skills are not maintained 2 years after initial training in dental students](bls-skills-decay-two-years-without-retraining.md) — a narrower finding that bears on this claim
 - [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — related
 - [Total practical skills scores decreased in both groups between the post-test and the six-month retention test](bls-practical-skills-decay-six-months.md) — related
+- [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on

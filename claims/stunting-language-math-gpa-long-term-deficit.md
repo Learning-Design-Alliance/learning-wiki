@@ -52,3 +52,4 @@ Longitudinal group analysis over the 2010–2016 follow-up in the NW-CHILD study
 - [Thinness showed no significant academic differences from normal weight over time, with significance reached only in grade 1 GPA](thinness-no-significant-academic-differences-over-time.md) — related
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — reports the opposite
 - [Underweight girls showed no statistically significant academic differences from normal-weight girls at any time point or over time](underweight-no-significant-academic-differences.md) — related
+- [No significant effects on schooling were observed for children stunted at birth](birth-stunting-no-significant-schooling-effects.md) — related

@@ -51,3 +51,4 @@ Phenotypic multivariable linear regression in the ALSPAC cohort (N=6113), adjust
 - [School absence mediates health–attainment associations, least for ADHD (7.1%) and most for migraine (72.0%) and BMI (39.9%) (ALSPAC cohort)](school-absence-mediation-health-attainment.md) — related
 - [Two-sample Mendelian randomization in independent adult samples supports negative effects of BMI (and, secondarily, asthma) on years of schooling, with little evidence for migraine](two-sample-mr-bmi-asthma-years-of-schooling.md) — related
 - [Heavy or prolonged menstrual bleeding in adolescence is associated with more school absence, including persistent absence of 10% or more](heavy-menstrual-bleeding-school-absence-alspac.md) — related
+- [In this rural county sample, asthma posed a marked burden: asthma was the primary cause of school absences and two mortalities in Ector County schools in 2014–2015](ecton-county-asthma-school-absence-burden.md) — related

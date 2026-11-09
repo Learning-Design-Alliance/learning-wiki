@@ -50,3 +50,4 @@ Second interview question asked about difficulties and obstacles facing tablet a
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Students reported practical barriers including discomfort photographing in public, difficulty photographing children, unequal group participation, and time management difficulties](photovoice-tbl-practical-barriers.md) — related
 - [Students reported implementation challenges with flipped learning: technical difficulties, workload, and deadlines](fl-implementation-challenges-technical-workload-deadlines.md) — related
+- [Community health workers reported high satisfaction with tablet-based training, with battery life and video pausing the main technical issues](chw-satisfaction-tablet-training-technical-issues.md) — related

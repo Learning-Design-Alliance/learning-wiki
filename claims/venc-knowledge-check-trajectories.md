@@ -76,3 +76,4 @@ Six-month ENC 2 knowledge-check results for the cohort, showing stable median sc
 - [A two-day introductory POCUS course increased hospitalist knowledge from 58% to 85% correct, with a slight decline to 81% at one year](iscan-knowledge-gain-two-day-course.md) — related
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Knowledge and skills test scores improved significantly from precourse to postcourse and remained improved at 4 and 12–18 months after SAFE-OB training](safe-ob-knowledge-skill-retention-sustained.md) — related
+- [Knowledge was retained at 6 months, and retention was higher among participants who applied their knowledge in clinical practice (66% vs 39%)](malnutrition-elearning-knowledge-retention-application.md) — related

@@ -92,6 +92,7 @@ Errors generate learning when they are *explained*, not merely committed: the be
 - [Provide explicit comparison of decimals, whole numbers, and fractions with correct and incorrect examples](compare-contrast-rational-number-notations.md)
 - [Remedial strategies using remedial SEMs to correct misconceptions](remedial-sem-misconception-correction.md)
 - [Normalize failure and integrate post-traumatic growth through faculty disclosure of mistakes and structured reflection](failing-forward-ptg-reflection-strategy.md)
+- [Analyse incorrect answers to key feature questions to identify and remediate specific misconceptions in clinical reasoning teaching](error-analysis-key-feature-responses-strategy.md)
 
 ## Examples
 - **Youcubed (Stanford)** — Jo Boaler's [mathematical mindset lessons](https://www.youcubed.org) include activities built around discussing mistakes and the brain science of error-based learning.

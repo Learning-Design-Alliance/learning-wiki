@@ -50,7 +50,8 @@ The article recommends identifying undernutrition early, especially stunting, an
 - [No interaction effects between nutrition groups were found for academic performance over time](../claims/no-interaction-effects-nutrition-groups-academic.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritise nutritional and learning needs of persistently stunted children in future interventions, and consider improving nutrition beyond age 2](prioritise-persistently-stunted-children-interventions.md)
 
 ## Examples
 -

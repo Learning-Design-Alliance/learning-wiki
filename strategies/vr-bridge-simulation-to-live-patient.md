@@ -48,6 +48,7 @@ The authors recommend implementing the application "via a stepwise simulation-to
 - [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Blended-learning sequencing: learn concrete conversation techniques online first, then deepen non-verbal and emotional aspects in physical SP units](blended-sp-techniques-online-first-physical-second.md)
+- [Evaluate multifaceted training packages combining manikins, computer simulation, expert patients and clinical supervision for pelvic examination competency](multifaceted-pelvic-examination-training-package-strategy.md)
 
 ## Examples
 -

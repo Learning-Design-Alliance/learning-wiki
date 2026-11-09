@@ -54,3 +54,4 @@ Survey feedback on eight TBL parameters from 64 students on a 5-point Likert sca
 - [Students reacted favourably to HPOT: most wanted to continue using the techniques despite mixed perceived anxiety benefit](student-acceptance-of-hpot.md) — related
 - [FC-TBL students expressed high satisfaction, with about 78% reporting sparked interest and over 74% willing to choose the model again](fc-tbl-high-satisfaction.md) — related
 - [Students report positive interprofessional attitudes after the TBL session, with majorities agreeing that viewpoints were respected and shared learning helps teamwork](ip-tbl-students-value-interprofessional-learning.md) — related
+- [Research protocol writing in small groups enhanced medical students' critical thinking skills, as perceived by most participants](protocol-writing-enhanced-critical-thinking-perceptions.md) — related

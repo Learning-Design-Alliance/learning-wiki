@@ -16,12 +16,14 @@ sources:
     author: Bäwert Andjela, Holzinger Anita
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Most medical students report better recall of individual procedural steps after watching instructional videos on urinary catheter insertion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bäwert Andjela, Holzinger Anita. (2019). Practice makes perfect! Patient safety starts in medical school: Do instructional videos improve clinical skills and hygiene procedures in undergraduate medical students? GMS J Med Educ. [doi:10.3205/zma001224](https://doi.org/10.3205/zma001224)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Online questionnaire survey of 623 of 647 students who viewed one of two catheter-insertion videos before the OSCE; 15 questions on a three-point scale. "551 (85.2%) reported being better able to recall individual steps and procedures"; no effect size is printed for this self-report.
 

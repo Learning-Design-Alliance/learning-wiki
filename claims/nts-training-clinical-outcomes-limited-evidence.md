@@ -57,3 +57,4 @@ The review reports that "evidence for clinical or process outcomes was limited b
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — a narrower finding that bears on this claim
 - [Adding a communication module to RTTDC training further shortened transfer-related times in rural trauma care](rttdc-communication-module-transfer-times.md) — a narrower finding that bears on this claim
 - [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
+- [Simulation-trained ED trauma teams achieve faster initiation of hemostasis than traditional practice in grade I trauma patients](simulation-team-training-faster-hemostasis-trauma.md) — a narrower finding that bears on this claim

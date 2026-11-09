@@ -47,3 +47,4 @@ Supplemental Fig. 1 box plots of delta scores by angiographic view; the article 
 ## Related Claims
 - [A brief mentored simulation session added to didactic teaching improves coronary angiographic interpretation test scores more than didactic teaching alone](simulation-plus-didactic-improves-angiographic-interpretation.md) — related
 - [Cardiology fellows showed no apparent benefit from the simulation session, consistent with prior attainment of the tested competency](simulation-no-benefit-for-advanced-fellows.md) — related
+- [Simulator-based teaching improved scores on all three evaluation parts: coronary anatomy, angiographic projections, and real-case interpretation](simulator-teaching-improved-all-three-test-parts.md) — related

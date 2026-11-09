@@ -210,6 +210,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Sequence a basics lecture before simulation practice to manage cognitive load](../strategies/basics-lecture-before-simulation-cognitive-load.md)
 - [Use eye-tracking feedback and gradually increasing case complexity to train targeted visual search and cognitive-load management in ECG education](../strategies/eye-tracking-feedback-ecg-visual-strategy-training.md)
 - [Refine program materials based on teacher process evaluation to reduce preparation burden and content density](../strategies/process-evaluation-driven-material-refinement.md)
+- [Minimise extraneous cognitive load in student MCQ-writing by assigning topics and modelling scenario-based questions without introducing Bloom's taxonomy](../strategies/assign-topics-model-scenario-mcq-strategy.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

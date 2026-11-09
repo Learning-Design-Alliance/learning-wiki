@@ -57,3 +57,4 @@ Repeated Measures ANOVA (SPSS v. 22.0) comparing RAT scores between the two cour
 - [TBL sessions improved knowledge acquisition: tRAT and end-of-session test scores were significantly higher than iRAT scores (p < 0.0001).](tbl-improved-knowledge-acquisition-irat-comparison.md) — related
 - [Team readiness assurance test scores significantly exceed individual readiness assurance test scores in TBL sessions](trat-scores-exceed-irat-scores.md) — possibly the same claim (merge candidate)
 - [Team readiness assurance test (TRAT) scores are significantly higher than individual readiness assurance test (IRAT) scores in an interprofessional TBL session](tbl-trat-scores-significantly-higher-than-irat.md) — a broader claim this one bears on
+- [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related

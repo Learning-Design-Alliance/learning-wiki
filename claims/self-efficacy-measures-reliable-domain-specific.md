@@ -83,3 +83,4 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — a narrower finding that bears on this claim
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
 - [A 50-knowledge-point Mokken scale extracted from a difficulty-rating questionnaire shows high internal consistency for measuring student self-efficacy for learning](mokken-scale-50-kp-sel-high-reliability.md) — a narrower finding that bears on this claim
+- [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related

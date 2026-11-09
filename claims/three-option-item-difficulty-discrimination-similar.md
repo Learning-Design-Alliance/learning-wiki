@@ -49,3 +49,6 @@ Paired t-tests on corrected point-biserial discrimination across the 150 matched
 - [Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination](integrated-curriculum-higher-item-difficulty.md) — related
 - [Exam reliability (KR-20) was similar between 3- and 4-option formats, and reducing options does not necessarily raise reliability](three-option-mci-kr20-reliability-similar.md) — related
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
+- [The relationship between item difficulty and discrimination describes a dome, and reducing options did not significantly affect this relationship](mcq-difficulty-discrimination-dome-relationship.md) — related
+- [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — related
+- [Pooled mixed-model ANOVA found no significant effect of offering (five vs four options) on item difficulty or discrimination](mcq-pooled-anova-no-offering-effect.md) — related

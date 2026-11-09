@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (47 show a difference, 16 mixed, 12 no difference) · 46 studies (19 causal, 10 associational, 9 review, 4 quant-synthesis, 2 qualitative, 2 design), `q2`–`q4` · 9 of 46 report an effect size · 75 claims rest on one study
+> **Evidence** · 78 claims (49 show a difference, 17 mixed, 12 no difference) · 48 studies (20 causal, 11 associational, 9 review, 4 quant-synthesis, 2 qualitative, 2 design), `q2`–`q4` · 9 of 48 report an effect size · 78 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -111,6 +111,9 @@ Visual processing is what the brain does with the input that comes through visio
 - [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](../claims/targeted-training-doubles-reading-fluency-first-graders.md) [+M] — measured as an outcome of the instruction studied
 - [After visual identification training, face N170 amplitude decreases in the left hemisphere while tool N170 is unchanged, consistent with competition between word and face processing](../claims/vl-training-decreases-face-n170-left-hemisphere.md) [+M] — measured as an outcome of the instruction studied
 - [One-way tests showed positive pre-post changes almost exclusively in older adults without dementia, who improved in attention, visuospatial processing, visual memory and working memory but not verbal learning and language; the dementia group improved only on the easiest tasks with one negative change](../claims/oneway-gains-almost-exclusive-to-healthy-group.md) [~M] — measured as an outcome of the instruction studied
+- [After self-training, novices visualize more structures than moderately experienced bronchoscopists and identify more than highly experienced ones](../claims/post-training-novices-exceed-experienced-on-visualization-identification.md) [~M] — measured as an outcome of the instruction studied
+- [Integration between motor, cognitive and visual modules decreases with practice time at specific frequency bands during RAS skill acquisition](../claims/module-integration-decreases-practice-time.md) [+M] — measured as an outcome of the instruction studied
+- [Longer practice gaps reduce recruitment of motor and visual modules, so RAS learning gains deteriorate with irregular practice](../claims/practice-gap-reduces-module-recruitment.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

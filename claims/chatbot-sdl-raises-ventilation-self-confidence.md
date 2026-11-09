@@ -53,3 +53,4 @@ In the same randomized controlled trial (31 experimental, 29 control fourth-year
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — related
 - [Simulation-assisted application increases nursing students' satisfaction and self-confidence in learning compared with clinical practice alone](simulation-raises-nursing-satisfaction-self-confidence.md) — a broader claim this one bears on
 - [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related
+- [Fourth-year medical students show a high prevalence of erroneous clinical beliefs that could place patients at risk, regardless of item format](high-prevalence-erroneous-beliefs-medical-students.md) — related

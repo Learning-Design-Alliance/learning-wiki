@@ -56,3 +56,4 @@ External POCUS experts blinded to prior experience rated the 18 Danish office-ba
 - [Tutor-rated OSAUS scores improved significantly for image recognition and both in-plane and out-of-plane US-FNA after model training](osaus-scores-improve-after-liver-model-training.md) — related
 - [UCAT-measured POCUS competency improved significantly from module two to module six](pocus-competency-ucat-improved.md) — related
 - [Hybrid POCUS certification program participants' self-reported confidence improved significantly from pre-program to post-program](pocus-confidence-improved-hybrid-certification.md) — related
+- [Post-training success on individual practical applications ranged from 87.5% to 100% across the twelve tasks](post-training-practical-task-success-rates.md) — related

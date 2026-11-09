@@ -16,18 +16,22 @@ sources:
     author: Nabizadeh Sakineh; Hajian Sepideh; Sheikhan Zohre; Rafiei Fatemeh
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: nabizadeh-sakineh-hajian-sepideh-sheikhan-zohre-rafiei-fatemeh-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1527-9"
     title: "Nabizadeh Sakineh; Hajian Sepideh; Sheikhan Zohre; Rafiei Fatemeh. (2019). Prediction of academic achievement based on learning strategies and outcome expectations among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1527-9"
     author: Nabizadeh Sakineh; Hajian Sepideh; Sheikhan Zohre; Rafiei Fatemeh
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Weekly study hours related positively and outside employment negatively to CGPA, while demographic variables showed no differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Nabizadeh Sakineh; Hajian Sepideh; Sheikhan Zohre; Rafiei Fatemeh. (2019). Prediction of academic achievement based on learning strategies and outcome expectations among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1527-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational analysis of extrinsic individual factors in the 380-student study; Table 2 reports study hours/week R = 0.256 (p < 0.001) and vacation hours/week R = -0.360 (p < 0.05).
 
@@ -50,7 +54,7 @@ Correlational analysis of extrinsic individual factors in the 380-student study;
 
 Nabizadeh Sakineh; Hajian Sepideh; Sheikhan Zohre; Rafiei Fatemeh. (2019). Prediction of academic achievement based on learning strategies and outcome expectations among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1527-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Group comparisons in the same 380-student sample found no significant differences on any questionnaire structure or CGPA across the listed demographic variables; the authors note this is consistent with Turkish studies by Turan et al. and Demirören et al.
 

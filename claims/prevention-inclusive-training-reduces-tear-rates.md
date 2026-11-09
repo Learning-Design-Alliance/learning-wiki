@@ -50,3 +50,4 @@ Systematic review finding from the Results section. The review reports a "32%–
 - [The support of champions is evidenced as favourable in the application of the educational intervention.](champions-support-favourable-in-educational-intervention.md) — related
 - [The leadership and commitment of administrators and heads of units were fundamental for attendance at the educational programme.](leadership-and-commitment-fundamental-for-programme-attendance.md) — related
 - [Hands-on training of birth attendants in bimanual perineal support significantly reduced episiotomy rates among primiparous women in intervention hospitals](hands-on-bpst-training-reduced-episiotomy-rates.md) — related
+- [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related

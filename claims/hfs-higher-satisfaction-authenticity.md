@@ -51,3 +51,4 @@ Satisfaction was a secondary outcome measured with study-specific 7-point Likert
 - [Novices training on a high-fidelity VR arthroscopy simulator report significantly greater satisfaction with instrument handling and with the overall knee arthroscopy training experience than novices on a low-fidelity simulator](high-fidelity-greater-instrument-handling-and-overall-satisfaction.md) — related
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
 - [Practitioners rate the simulation and its collaborative process as rather authentic](practitioners-rate-simulation-authentic.md) — related
+- [All groups report high simulator satisfaction, with novices most satisfied (median 44 vs 38 vs 35, p = 0.02)](high-satisfaction-bronchoscopy-simulator-novices-most-satisfied.md) — related

@@ -55,3 +55,4 @@ Descriptive analysis of the modified Delphi survey with 19 experts in round one 
 - [Participants proposed 103 additional competencies in round one, of which 90 (87.4%) achieved consensus in round two](delphi-90-of-103-participant-suggested-competencies-achieved-consensus.md) — related
 - [Most competencies in the final delirium e-learning curriculum address both nurses and GPs, supporting an interprofessional design](majority-competencies-address-both-disciplines.md) — related
 - [A three-round modified Delphi consensus process with neurosurgical key opinion leaders produced a prioritised list of 47 procedural skills for simulation-based learning](delphi-consensus-47-neurosurgical-procedures-sbe.md) — related
+- [Competency frameworks for nurse training in the airway, breathing and circulation approach were developed and validated by a three-phase expert consensus process.](abc-competency-frameworks-nurses-validated.md) — related

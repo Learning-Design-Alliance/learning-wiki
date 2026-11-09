@@ -16,12 +16,14 @@ sources:
     author: Woodham Luke A., Round Jonathan, Stenfors Terese, Bujacz Aleksandra, Karlgren Klas, Jivram Trupti, Riklefs Viktor, Poulton Ella, Poulton Terry
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The adapted MSLQ subscales showed acceptable internal consistency in the VP context after two items were dropped, with alphas from 0.72 to 0.91
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Woodham Luke A., Round Jonathan, Stenfors Terese, Bujacz Aleksandra, Karlgren Klas, Jivram Trupti, Riklefs Viktor, Poulton Ella, Poulton Terry. (2019). Virtual patients designed for training against medical error: Exploring the impact of decision-making on learner motivation. PLoS ONE. https://doi.org/10.1371/journal.pone.0215597
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Reliability analysis of the adapted MSLQ across the three survey translations: after two items with poor item-total correlations were dropped, alphas were recalculated "then ranging from 0.72 to 0.91, with only the Help Seeking scale lower (alpha between 0.6 and 0.68)".
 

@@ -16,6 +16,8 @@ sources:
     author: Yeates P, Cope N, Hawarden A, Bradshaw H, McCray G, Homer M.
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
   - id: yeates-p-2019-2
     resource: "https://doi.org/10.1111/medu.13783"
     title: "Yeates P, Cope N, Hawarden A, Bradshaw H, McCray G, Homer M. (2019). Developing a video‐based method to compare and adjust examiner effects in fully nested OSCEs. Medical Education, 53(3), 250–263. https://doi.org/10.1111/medu.13783"
@@ -42,7 +44,7 @@ sources:
 
 Yeates P, Cope N, Hawarden A, Bradshaw H, McCray G, Homer M. (2019). Developing a video‐based method to compare and adjust examiner effects in fully nested OSCEs. Medical Education, 53(3), 250–263. https://doi.org/10.1111/medu.13783
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Post hoc classification analysis of 116 students' MFRM-adjusted global scores against an artificial cut-score interpolated within 0.5 scale points of the real standard. "8.6%" of students' scores changed by at least ±0.24 (d of 0.5); reclassified students mostly showed good model fit.
 

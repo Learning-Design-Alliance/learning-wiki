@@ -51,6 +51,7 @@ The authors draw practical implications for staffing problem-based curricula fro
 
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
+- [Equip faculty and peer tutors with tools to foster social congruence with and between students](faculty-development-social-congruence-strategy.md)
 
 ## Examples
 -

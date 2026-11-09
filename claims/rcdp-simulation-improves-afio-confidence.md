@@ -67,3 +67,4 @@ Same self-assessment survey; self-rated performance relative to peers improved "
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — related
 - [Self-reported confidence increased after e-learning boosters but did not relate to knowledge or performance](confidence-increases-unrelated-to-nrp-performance.md) — related
 - [Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study](rcdp-simulation-increases-under-120-seconds-proportion.md) — related
+- [Self-rated confidence did not change from pre-test to post-test for impossible intubation, impossible oxygenation, or awake intubation after PBL, in one single-group pre-post study](pbl-no-gain-airway-high-experience-topics.md) — reports the opposite

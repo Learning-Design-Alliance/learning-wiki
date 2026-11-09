@@ -16,12 +16,14 @@ sources:
     author: Offiah G, Ekpotu LP, Murphy S, Kane D, Gordon A, O’Sullivan M, Sharifuddin SF, Hill ADK, Condron CM
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Psychomotor skill elements decayed at retest for both procedures, while behavioural elements were retained better for venepuncture than catheterisation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Offiah G, Ekpotu LP, Murphy S, Kane D, Gordon A, O’Sullivan M, Sharifuddin SF, Hill ADK, Condron CM. (2019). Evaluation of medical student retention of clinical skills following simulation training. BMC Medical Education. https://doi.org/10.1186/s12909-019-1663-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Secondary analysis of the two skills with the longest teaching-to-retest intervals, with MPS components categorised to affective, cognitive and psychomotor domains aligned to Bloom's Taxonomy and reported in Fig. 1. The caption states students "performed less poorly the behavioural aspects" of venepuncture than its psychomotor elements. No effect size is printed.
 

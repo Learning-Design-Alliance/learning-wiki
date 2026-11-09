@@ -52,3 +52,4 @@ Multivariable regression from the same 4,662-resident survey, with fixed covaria
 - [Overall GM-ITE scores did not differ significantly among resident physicians educated in Japan, Non-Japan Asia, and Europe and Other regions (p = 0.153)](gm-ite-overall-score-no-regional-difference.md) — related
 - [Japan-trained residents scored higher in the Surgery (p = 0.007) and Obstetrics and Gynecology (p = 0.002) fields, an exploratory finding](gm-ite-surgery-obgyn-japan-higher.md) — related
 - [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related
+- [Vertical integration of anatomy with clinical teaching is associated with higher confidence, while clinical-stage students report lower confidence than pre-clinical students](vertical-integration-anatomy-clinical-confidence.md) — related

@@ -49,7 +49,8 @@ The article proposes that clinical teachers use the error types identified from 
 - [Analysis of errors in VSA examinations is possible and affords greater insight into students' knowledge and understanding than SBA analysis](../claims/vsa-error-analysis-possible-insight.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Analyse incorrect answers to key feature questions to identify and remediate specific misconceptions in clinical reasoning teaching](error-analysis-key-feature-responses-strategy.md)
 
 ## Examples
 -

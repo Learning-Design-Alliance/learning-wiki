@@ -17,12 +17,14 @@ sources:
     author: Abderrahmane Moulaye
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Only 7.5% of surveyed trainees reported prescribing sedation or local anesthesia before lumbar puncture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Abderrahmane Moulaye. (2019). Assessment of lumbar puncture skills in students, interns and residents attending hospital internship. The Pan African Medical Journal. https://doi.org/10.11604/pamj.2019.33.56.16986
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Questionnaire item on patient preparation from the 92-participant survey. The article reports that "Few of them recognized (7.5%) that they had prescribed sedation or local anesthesia to patients before lumbar puncture." In contrast, most students reported informing the patient about the procedure.
 

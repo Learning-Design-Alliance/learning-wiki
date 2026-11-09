@@ -67,3 +67,4 @@ ANOVA of pre-test MSLQ scores (Table 5; test anxiety F = 3,466, p = ,021). Posth
 - [Baseline anxiety and self-efficacy did not differ between the intervention and control groups before the intervention](sps-cbl-baseline-equivalence-observed.md) — related
 - [Self-directed learning subscale scores—self-monitoring, motivation, self-control, and self-confidence—rose significantly from pre-test to post-test in one group with no comparison group after collaborative learning, with all pre-post effect sizes classified as large](collaborative-learning-raises-all-four-sdl-subscales.md) — related
 - [Experimental and control groups did not differ significantly in test anxiety at pretest](cbt-music-groups-equivalent-at-pretest.md) — reports the opposite
+- [Control and implementation groups were largely equivalent at pre-test on ethical reasoning, with one exception](cl-pretest-equivalence-control-implementation-groups.md) — related

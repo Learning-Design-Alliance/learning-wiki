@@ -89,6 +89,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 - [Incorporate blended learning into the dental curriculum by combining the best features of classroom and distance learning](blended-learning-dental-curriculum-strategy.md)
 - [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
+- [Blend didactic lectures with small-group active learning activities in biostatistics teaching](blended-small-group-biostatistics-teaching.md)
+- [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Focus-group theme from the same qualitative study of 47 students: participants r
 - [Nurse educators experience an ambiguous dual role supporting ECNs' emotional wellbeing while maintaining educational responsibilities](educator-dual-role-education-pastoral-support.md) — related
 - [Students reported that SP simulation practice helped them see patients as people and validated their feelings, supporting rapport building](sp-simulation-supports-rapport-and-patient-personhood.md) — related
 - [Limited placement exposure is perceived to contribute to underdeveloped therapeutic interpersonal skills and task-focused practice](limited-placement-underdeveloped-therapeutic-skills.md) — related
+- [Mental health nurses commonly feel physical care is outside their remit, creating role ambiguity that master's level competencies should reduce](nurse-role-ambiguity-physical-care-outside-remit.md) — related

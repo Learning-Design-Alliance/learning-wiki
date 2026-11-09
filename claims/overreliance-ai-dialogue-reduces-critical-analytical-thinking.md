@@ -63,3 +63,4 @@ Systematic review synthesis answering research question 1, integrating findings 
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — a narrower finding that bears on this claim
 - [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](ai-use-lower-critical-thinking-literacy-buffer.md) — related
+- [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](ebp-teaching-enhances-analytical-skills-nursing.md) — related

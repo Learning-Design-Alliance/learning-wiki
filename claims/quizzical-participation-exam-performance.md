@@ -51,3 +51,4 @@ ANCOVA on combined 2017–2018 data from a sophomore molecular biology class of 
 - [Requiring students to author multiple-choice questions is associated with higher course performance after controlling for prior academic performance](mcq-authoring-course-performance.md) — related
 - [The benefit of group work on integration exam marks appeared across student performance categories, including mid-range students](group-work-benefit-across-ability-bands.md) — related
 - [Within the e-learning cohort, each percentage increase in online engagement was associated with a 0.05% increase in SNQ grade after adjusting for prior performance, with no significant relationship for MCQ grade](engagement-predicts-snq-not-mcq.md) — a narrower finding that bears on this claim
+- [Prior science experience and science interest related less strongly to quiz performance in intervention than comparison classrooms](cooperative-learning-levels-playing-field-achievement.md) — related

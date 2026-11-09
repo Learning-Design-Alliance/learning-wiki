@@ -65,3 +65,4 @@ A two-round modified Delphi study with 19 emergency medicine experts from 11 ter
 - [The Delphi process produced a final competency scale for clinical nutritionists with five primary, twelve secondary, and sixty-six tertiary indicators](delphi-scale-five-twelve-sixty-six-indicators.md) — related
 - [A French Delphi panel selected 24 technical skills and 20 non-technical skills to be taught as a priority through simulation during emergency medicine residency](delphi-selected-24-ts-20-nts-priority-simulation-em-residency.md) — related
 - [The SVI's validity for predicting future performance remains debated, and critics warn it may unintentionally diminish diversity in emergency medicine](svi-validity-debated-diversity-concern.md) — related
+- [Competency frameworks for nurse training in the airway, breathing and circulation approach were developed and validated by a three-phase expert consensus process.](abc-competency-frameworks-nurses-validated.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Engerer C, Berberat PO, Dinkel A, Rudolph B, Sattel H, Wuensch A.
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Standardized patients' global evaluation of intervention-group students improves significantly with a large effect (ES = 1.62)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Engerer C, Berberat PO, Dinkel A, Rudolph B, Sattel H, Wuensch A. (2019). Specific feedback makes medical students better communicators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1470-9
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Secondary outcome: trained standardized patients rated observed student performance on a 10 cm VAS before and after training; means moved from 6.44 to 8.15, p = 0.002, ES = 1.62, described as "a large effect."
 

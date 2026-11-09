@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (154 show a difference, 36 mixed, 24 no difference) · 145 studies (73 causal, 24 review, 18 associational, 9 design, 8 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q3` · 29 of 145 report an effect size · 212 claims rest on one study
+> **Evidence** · 217 claims (156 show a difference, 36 mixed, 25 no difference) · 148 studies (73 causal, 25 review, 18 associational, 11 design, 8 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q3` · 30 of 148 report an effect size · 215 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -255,6 +255,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Critical thinking skills are not significantly related to the academic achievement of nursing students](../claims/critical-thinking-not-related-academic-achievement-nursing.md) [-W] — learners who differ on it differ in outcomes
 - [Senior nursing students earn higher critical thinking total scores than lower-grade peers](../claims/critical-thinking-total-score-increases-educational-level.md) [+W] — learners who differ on it differ in outcomes
 - [Total critical thinking disposition scores correlate positively with PBL performance scores and all five performance dimensions in undergraduate medical students](../claims/ct-disposition-correlates-pbl-performance.md) [+M] — learners who differ on it differ in outcomes
+- [None of the three flipped courses produced significant gains in identifying additional information needed to evaluate a hypothesis or evaluating whether spurious information supports a hypothesis](../claims/no-gains-hypothesis-evaluation-cat-questions.md) [-M] — measured as an outcome of the instruction studied
+- [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](../claims/ebp-teaching-enhances-analytical-skills-nursing.md) [+M] — measured as an outcome of the instruction studied
+- [Research protocol writing in small groups enhanced medical students' critical thinking skills, as perceived by most participants](../claims/protocol-writing-enhanced-critical-thinking-perceptions.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

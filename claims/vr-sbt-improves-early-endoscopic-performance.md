@@ -16,12 +16,14 @@ sources:
     author: Mahmood T, Scaffidi Michael Anthony, Khan Rishad, Grover Samir Chandra
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Trainees receiving virtual reality simulation-based training improve early endoscopic performance across procedure types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mahmood T, Scaffidi Michael Anthony, Khan Rishad, Grover Samir Chandra. (2018). Virtual reality simulation in endoscopy training: Current evidence and future directions. World Journal of Gastroenterology. [doi:10.3748/wjg.v24.i48.5439](https://doi.org/10.3748/wjg.v24.i48.5439)
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review's synthesis of 21 randomized controlled trials of VR simulation in endoscopy training reports that of 18 studies comparing SBT to no training or conventional teaching, "16 of the RCTs reported positive results for SBT, i.e., improved outcomes."
 

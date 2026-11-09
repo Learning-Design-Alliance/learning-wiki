@@ -67,3 +67,4 @@ Same CTT analyses on the barriers scale found no differences (gender p = 0.276, 
 - [Trainees with 19–24 months of PGY training scored higher than less-experienced trainees in all domains except counseling skills, but not significantly](pgy-experience-higher-mini-cex-scores-not-significant.md) — related
 - [Longer daily self-study time and higher postgraduate year are associated with higher GM-ITE scores](self-study-time-pgy2-associated-with-gmite.md) — related
 - [PCAT performance increased with postgraduate year, but only about half of PGY 2s and PGY 3s met the aggregate score for unsupervised practice](pcat-scores-increase-with-pgy-level.md) — related
+- [Quiz participation declines and scores rise across postgraduate years of residency](participation-declines-scores-rise-by-pgy.md) — related

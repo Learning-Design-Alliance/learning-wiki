@@ -50,6 +50,7 @@ The article recommends staffing peer-guided courses for international students w
 
 - [Run peer-moderated live case discussions with trained student moderators and clinician backup](peer-moderated-ccd-with-moderator-training-and-clinician-backup.md)
 - [Deploying a high-performing former student as an in-class peer teaching assistant during guided practice](student-learning-assistant-guided-practice-strategy.md)
+- [Equip faculty and peer tutors with tools to foster social congruence with and between students](faculty-development-social-congruence-strategy.md)
 
 ## Examples
 -

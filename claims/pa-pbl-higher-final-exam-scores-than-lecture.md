@@ -57,3 +57,4 @@ Non-randomized controlled trial in the Infection and Immunity module: 134 PA-PBL
 - [Adding Kahoot and TikTok to traditional teaching raised final exam scores by 12.9% in a radiation oncology course for third-year medical students](kahoot-tiktok-raised-radiotherapy-exam-scores.md) — related
 - [Sim + LBL students scored higher on subjective and case-analysis test components, with a large effect for case analysis](sim-lbl-case-analysis-scores-large-effect.md) — related
 - [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — reports the opposite
+- [Medical students in a hybrid curriculum perceive no significant difference between PBL and traditional lectures in the amount of basic knowledge recalled](pbl-lectures-no-difference-recalled-basic-knowledge.md) — related

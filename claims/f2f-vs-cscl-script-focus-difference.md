@@ -48,3 +48,4 @@ The article's own conceptual analysis of prototypical script approaches, compari
 ## Related Claims
 - [Scripts scaffolding coordination alone or negotiation with information sharing show the largest domain-learning effects, while three-way combinations show smaller significant effects](specific-activity-combinations-domain-learning-moderator.md) — related
 - [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction](transactivity-moderator-not-significant.md) — related
+- [A collaboration script increases collaborative activities (elicitation, externalisation, consensus building) among observers in simulation-based training](collaboration-script-increases-collaborative-activities.md) — related

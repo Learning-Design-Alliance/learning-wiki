@@ -76,3 +76,4 @@ Skill transfer strategies were coded 9 times (17% of n = 53); managers recommend
 - [Management and clinical staff prioritise different aspects of ED simulation training](clinician-management-priority-split-sbt.md) — related
 - [Managers value the centrally organised, obligatory residency programme with reflection as a supportive structure for continued learning](residency-programme-supportive-structure-continued-learning.md) — related
 - [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](practitioner-driven-cpd-supportive-contexts.md) — a broader claim this one bears on
+- [Workplace awareness of the training topic, own-time scheduling, and continuing medical education accreditation points facilitate uptake of a digital communication training](facilitators-awareness-accreditation-points.md) — related

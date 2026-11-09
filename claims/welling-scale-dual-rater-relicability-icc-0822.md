@@ -52,3 +52,4 @@ Reliability/agreement analysis reported in the statistical analysis and Table II
 - [Remote OSCE double scoring shows high rater agreement and total-score consistency (weighted Cohen's Kappa 0.97; Pearson correlation 0.9; Cronbach's alpha 0.66)](remote-osce-double-scoring-high-agreement-kappa-097.md) — related
 - [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related
 - [Blinded independent OSCE rating of tutor scanning images reached very high inter-rater agreement (ICC 0.97)](osce-blinded-rating-icc-0-97.md) — related
+- [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related

@@ -51,3 +51,4 @@ In the randomized controlled trial, satisfaction was measured with a single-item
 - [Personalised video-assisted feedback in simulation significantly increases student satisfaction and self-confidence compared to structured self-debriefing](personalised-video-feedback-raises-satisfaction-self-confidence.md) — related
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — related
 - [Simulation-assisted application increases nursing students' satisfaction and self-confidence in learning compared with clinical practice alone](simulation-raises-nursing-satisfaction-self-confidence.md) — related
+- [Fourth-year medical students show a high prevalence of erroneous clinical beliefs that could place patients at risk, regardless of item format](high-prevalence-erroneous-beliefs-medical-students.md) — related

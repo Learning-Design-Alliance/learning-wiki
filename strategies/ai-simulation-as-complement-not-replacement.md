@@ -67,6 +67,7 @@ The authors recommend treating AI-enhanced simulation as an augmenting strategy 
 - [Complement traditional teaching with experiential dHealth formats such as hackathons and capstone projects, covering fundamental technologies broadly before AI](experiential-dhealth-curriculum-strategy.md)
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 - [Integrate simulation-based ultrasound training into peer-teaching programs rather than treating them as rivals](integrate-simut-into-peer-teaching-programs.md)
+- [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Observational analysis of LMS forum interaction networks from 12 problem-based l
 - [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md)
 - [Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.](post-size-unreliable-tie-weight.md) — related
 - [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related
+- [Group cohesion and interactivity parameters (clustering coefficient, density, average degree) correlate positively with performance, while group size correlates negatively](group-cohesion-density-correlate-with-performance.md) — related

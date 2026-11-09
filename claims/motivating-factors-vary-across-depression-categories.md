@@ -52,3 +52,4 @@ One-way ANOVA across five PHQ-9 depression categories in a sample of 444 e-learn
 - [Individual attitude and expectation, challenging goals, and social pressure and competition scores vary across general fatigue categories](motivating-factors-vary-across-fatigue-categories.md) — related
 - [Depressive symptom severity (PHQ-9) is not statistically significantly associated with GPA category among Saudi physical therapy students](phq9-not-associated-gpa-saudi-pt-students.md) — related
 - [In computer programming e-learners, challenging goals predict decreased anxiety, but this pattern is absent in other e-learners](challenging-goals-predict-decreased-anxiety-programming-learners.md) — related
+- [Mean study skills scores differ across depression severity categories, declining from minimal to severe depression](study-skills-scores-differ-by-depression-severity.md) — related

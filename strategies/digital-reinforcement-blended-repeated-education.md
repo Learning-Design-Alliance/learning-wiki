@@ -52,6 +52,7 @@ The article proposes extending repeated education through digital learning tools
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
 - [Multimodal infection-prevention training combining theory with clinical practice, delivered by qualified internal experts with employer-supported time](multimodal-nosocomial-training-strategy.md)
+- [Blend tablet-assisted video training with traditional classroom training for CHWs with fewer years of formal education](blended-tablet-classroom-training-lower-education-chws.md)
 
 ## Examples
 -

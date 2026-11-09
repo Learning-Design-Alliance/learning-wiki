@@ -78,3 +78,4 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 - [Feedback via simulation debriefing acts as a mirroring tool that builds self-knowledge and ownership of actions](debrief-feedback-mirror-self-knowledge-ownership.md) — related
 - [Real-time spectator observation plus group debriefing was followed by constantly decreasing procedure time despite increasing scenario difficulty](spectator-debriefing-decreasing-procedure-time.md) — related
 - [Residents reported discomfort being videotaped and watched in groups, and facilitators struggled to link video feedback with theoretical references](vf-real-consultations-challenges-discomfort-theory-linkage.md) — related
+- [Compliance scores rise substantially after each debriefing episode, with video-assisted gains of 33.55% and oral gains of 26.29% per scenario](per-scenario-compliance-gains-debriefing.md) — related

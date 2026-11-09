@@ -56,6 +56,7 @@ The review groups proposed solutions into examiner training and calibration, que
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
 - [Multidimensional rater-improvement strategy combining expert training, monitoring and evaluation, quality assurance mechanisms, and item banking](ugmle-multidimensional-rater-improvement-strategy.md)
 - [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
+- [Implementation-phase recommendations: more improvisation time, systematic integration of the question tool, and training in enduring without solutions](existential-communication-course-implementation-recommendations.md)
 
 ## Examples
 -

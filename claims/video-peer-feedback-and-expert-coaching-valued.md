@@ -71,3 +71,4 @@ In the same user-testing analysis, critical comments concerned "emotional concer
 - [Medical students report gaining more from annotating a peer's video than from annotating their own video in communication skills training](peer-annotation-valued-over-self-annotation.md) — related
 - [An expanded communication skills course with video annotations and tutor-led group discussion is feasible and well received, with a mean student mark of 4.6](video-annotation-course-feasible-well-received.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
+- [Oncological HCP desire digital training connected to clinical practice, with feedback on videotaped skills from peers, experts, or patients, progress monitoring, and tailoring to individual needs](hcp-training-preferences-feedback-tailoring.md) — a broader claim this one bears on

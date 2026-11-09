@@ -16,12 +16,14 @@ sources:
     author: Abderrahmane Moulaye
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Diagnostic purposes dominated trainees' lumbar punctures, with meningitis and meningoencephalitis the leading indications
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Abderrahmane Moulaye. (2019). Assessment of lumbar puncture skills in students, interns and residents attending hospital internship. The Pan African Medical Journal. https://doi.org/10.11604/pamj.2019.33.56.16986
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive results on LP indications from the survey (Tables 4 and 5). The results state that "Deux-tiers des PL réalisées par nos étudiants étaient à visée diagnostique"; the abstract adds that LP was diagnostic in 69% of cases and both diagnostic and therapeutic in 25%. Only proportions are printed.
 

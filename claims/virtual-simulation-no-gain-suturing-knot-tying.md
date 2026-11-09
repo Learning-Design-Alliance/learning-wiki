@@ -58,3 +58,4 @@ Null finding on the hands-on laparoscopic simulator task scored on suture placem
 - [Students reported improved confidence in instrument handling, cable knot tying and suture tying after the virtual session](virtual-session-confidence-gains-surgical-skills.md) — related
 - [Skills trained in the FLS suture-with-intracorporeal-knot exercise did not easily transfer to the more complex SUTT1 stitching and knot-tying task](fls-suture-skills-poor-transfer-sutt1.md) — related
 - [Novice medical students' product quality, technique (GRS), and speed rose significantly from pre-test to post-test across all six assessed knot-tying and suturing skills after a self-directed sequential CBVT course, in one uncontrolled pre-post study](cbvt-improves-pqs-grs-speed-six-skills.md) — related
+- [Novices reached expert-set proficiency levels for all six tasks within about two weeks of at-home training](proficiency-reached-two-weeks-home-training.md) — related

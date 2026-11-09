@@ -52,3 +52,4 @@ Focus group finding from the value-of-the-experience theme, reported in the Resu
 - [The unexpected character of the confrontation with death was considered the key to the simulation's success](unexpected-death-confrontation-key-to-success.md) — related
 - [Emotionally challenging simulated scenarios such as patient death can produce higher practical competence than scenarios without those stressors](emotional-stressors-higher-practical-competence.md) — related
 - [The authors conclude that clinical simulation helps nursing students increase their confidence and satisfaction for facing real clinical scenarios](simulation-increases-confidence-satisfaction-authors-conclusion.md) — related
+- [After experiential learning, most nursing students related the learning to clinical practice and verbalised feeling more competent to deal with death and dying](perceived-competency-eol-care-students.md) — possibly the same claim (merge candidate)

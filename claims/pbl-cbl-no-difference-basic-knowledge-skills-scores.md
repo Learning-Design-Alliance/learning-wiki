@@ -58,3 +58,4 @@ In the same quasi-experimental study, post-class basic knowledge scores showed "
 - [CBL multimodal teaching did not weaken single-mode image analysis or basic knowledge performance relative to traditional teaching](cbl-multimodal-no-difference-basic-and-single-mode.md) — related
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — reports the opposite
 - [Online PBL is as effective as traditional face-to-face PBL, with no significant difference in knowledge outcomes or assignment grades](online-pbl-equivalent-to-face-to-face-pbl.md) — related
+- [Medical students in a hybrid curriculum perceive no significant difference between PBL and traditional lectures in the amount of basic knowledge recalled](pbl-lectures-no-difference-recalled-basic-knowledge.md) — related

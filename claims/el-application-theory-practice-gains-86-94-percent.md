@@ -49,3 +49,4 @@ Results of application-of-theory-to-practice Likert prompts from the combined-co
 - [Male nursing students saw maternity simulation as preparation for realistic situations and as essential to integrating theory into clinical practice](simulation-preparation-realistic-situations-theory-integration.md) — related
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
 - [Male nursing students report that mannequin-based simulation bridges the gap between theoretical knowledge and practical application in maternal-newborn nursing education](hfs-bridges-theory-practice-male-nursing-students.md) — related
+- [The protocol writing model helped students apply theories or concepts to new situations by designing their own study](protocol-writing-applying-concepts-new-situations.md) — a narrower finding that bears on this claim

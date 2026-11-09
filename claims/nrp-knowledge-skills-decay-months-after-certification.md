@@ -125,3 +125,5 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Technical performance in a simulated pediatric emergency differs significantly across groups trained at different times before assessment, declining from a maximum within 6 months of training (p < 0.0001).](simulation-training-performance-declines-over-time-pediatric.md) — related
 - [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — related
 - [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — a narrower finding that bears on this claim
+- [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on
+- [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — related

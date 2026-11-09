@@ -68,3 +68,4 @@ Repeated-measures analysis of language performance in the comparison group, show
 - [The EI intervention improves mathematics performance in the first year, and the gain is maintained through the second year, while the comparison group shows no change](edi-intervention-improves-mathematics-performance.md) — related
 - [A two-year school-based EI intervention significantly increases trait emotional intelligence in pre-adolescent elementary students](edi-intervention-increases-trait-ei.md) — related
 - [Without intervention, trait EI remains stable in the first year and significantly decreases during the second year (6th grade)](ei-declines-without-intervention-sixth-grade.md) — related
+- [Group 3 students’ empathic ability increased significantly after the two-term intervention and remained higher than their pre-intervention baseline at every subsequent time point](group3-empathy-increase-after-two-term-intervention.md) — related

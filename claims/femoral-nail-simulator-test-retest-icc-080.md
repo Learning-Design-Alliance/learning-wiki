@@ -58,3 +58,4 @@ Reliability analysis of participants' last 2 simulator trials using the 2-way mi
 - [The complete VR TTE test shows high internal consistency reliability (alpha = .88) and consistent performer performance (ICC r(35) = .81)](vr-tte-test-reliability-alpha-icc.md) — related
 - [The piloted SJT demonstrated good internal consistency (Cronbach's alpha 0.80 and 0.81) across two applicant cohorts](sjt-pilot-internal-consistency-alpha-080-081.md) — related
 - [Simulator measurements showed high temporal stability across sessions separated by at least one month](test-retest-temporal-stability.md) — related
+- [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related

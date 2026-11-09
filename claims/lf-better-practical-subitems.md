@@ -16,12 +16,14 @@ sources:
     author: Massoth C, Röder H, Ohlenburg H, Hessler M, Zarbock A, Pöpping DM, Wenk M.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # LF-trained students significantly outperformed HF-trained students on several ALS practical sub-items in video-rated scenarios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Massoth C, Röder H, Ohlenburg H, Hessler M, Zarbock A, Pöpping DM, Wenk M. (2019). High-fidelity is not superior to low-fidelity simulation but leads to overconfidence in medical students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1464-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Video analysis of assessment scenarios (ventricular fibrillation case) rated by two independent investigators using a predefined score sheet. On four sub-items "students in the LF group performed significantly better"; performance was comparable on most other criteria (Table 2).
 

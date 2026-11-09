@@ -47,3 +47,4 @@ Discussion-section contrast with Japanese medical residents: "CTDRs did not enga
 ## Related Claims
 - [Japanese CTDRs' perceptions of good clinical teachers yield 376 statements across 44 themes, with 'Provides advice at the level of CTDRs' most frequently mentioned](ctdr-good-clinical-teacher-44-themes.md) — related
 - [The mental well-being of supervising dentists emerged as a theme not previously addressed in reports on clinical teachers](supervisor-mental-wellbeing-theme.md) — related
+- [Peer tutors acted as mentors beyond the sessions’ explicit remit, sharing practical know-how of how to be a clinical medical student](peer-tutors-mentoring-hidden-curriculum.md) — related

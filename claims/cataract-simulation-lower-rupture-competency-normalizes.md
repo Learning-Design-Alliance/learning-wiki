@@ -75,3 +75,4 @@ Same review-narrated trial: competency scores significantly higher at 3 and 12 m
 - [Prior VR simulator training is associated with lower PCR rates in live cataract surgery (2.2% vs 4.8%, p = 0.032), as reported by a cited study](vr-simulation-training-lower-pcr-rates-cited.md) — related
 - [Simulation-based training reduces posterior capsule rupture rates by 70.7% among trainee cataract surgeons](simulation-training-reduces-posterior-capsule-rupture-rates.md) — possibly the same claim (merge candidate)
 - [Simulation-based cataract surgical training produces an almost 3-fold increase in objectively assessed surgical competence at 3 months compared with conventional training alone](simulation-training-triples-cataract-surgical-competence-3-months.md) — related
+- [Posterior capsule rupture and vitreous loss fall from 14.3% to 6.9% after wet-laboratory training in resident-performed MSICS](wet-lab-training-reduces-pc-rupture-vitreous-loss.md) — related

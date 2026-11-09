@@ -44,6 +44,7 @@ In the adoption stage, the framework directs districts to determine who needs pr
 - [Agile pedagogical strategies: interactive notebooks, bootcamps, and sustained educator professional learning](agile-mi-pedagogical-strategies-notebooks-bootcamps.md)
 - [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 - [Provide staff and student induction and ongoing training for educational technologies in inquiry-based contexts](staff-student-induction-training-edtech-pbl.md)
+- [Secure managerial commitment, train collaborators on PBL and collaboration skills, use a memorandum of agreement, and monitor and evaluate the collaboration](pbl-collaboration-implementation-recommendations.md)
 
 ## Examples
 -

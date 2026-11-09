@@ -52,3 +52,6 @@ T-test comparison of 37 teachers (19 novices, 18 experts) reflecting on their ow
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](novices-more-negative-noticing-valence.md) — related
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — related
 - [The association between expertise and the valence of noticing and of alternatives holds after controlling for subject, grade level, minority status, and gender](expertise-valence-association-robust-to-controls.md) — related
+- [Expert active-learning instructors notice creating opportunities for generative work significantly more often than novices](experts-notice-generative-work.md) — related
+- [Expert active-learning instructors notice how instructors hold students accountable significantly more often than novices do](experts-notice-student-accountability-more.md) — related
+- [Expert active-learning instructors notice planning for topic-specific student difficulties significantly more often than novices](experts-notice-topic-specific-difficulties.md) — related

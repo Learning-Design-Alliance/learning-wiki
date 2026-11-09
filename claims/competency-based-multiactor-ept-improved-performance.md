@@ -57,3 +57,5 @@ Pre–post educational intervention study without control group (Scott et al. 20
 - [Simulation-based learning consistently improves knowledge, skills, and self-efficacy in diabetes education, especially with structured debriefing and progressive case complexity](simulation-consistent-gains-diabetes-education.md) — a broader claim this one bears on
 - [Health professionals achieved a mean of 69.4% correct clinical decisions in an immersive VR hypothermia/helicopter-evacuation ALS scenario](vr-als-hypothermia-mean-69-percent-correct-decisions.md) — related
 - [Pre-clinical medical students' overall knowledge of disaster response medicine rose from mean 6.99 to 13.31 of 20 after ELITE-DR self-learning videos, in one uncontrolled pre-post study](elite-dr-video-increases-drm-knowledge.md) — related
+- [Both debriefing strategies raise compliance toward 100% by the third simulated scenario](compliance-approaches-100-percent-third-scenario.md) — related
+- [An e-learning course significantly increased hypothermia knowledge among mountain rescuers from pretest to post-test (p < 0.001 in both groups).](e-learning-increases-hypothermia-knowledge-rescuers.md) — related

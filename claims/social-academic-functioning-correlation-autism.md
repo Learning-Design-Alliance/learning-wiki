@@ -16,12 +16,14 @@ sources:
     author: Gurbuz Emine, Hanley Mary, Riby Deborah M.
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Social and academic functioning are positively correlated in both autistic and non-autistic students, more strongly in the autistic group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gurbuz Emine, Hanley Mary, Riby Deborah M. (2018). University Students with Autism: The Social and Academic Experiences of University in the UK. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-018-3741-4
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Correlational analysis of PCA component scores in the same questionnaire study; the autism-group correlation (r = 0.589, p = 0.002) is reported with caution for its small sample (n = 26). Correlation r = 0.589 corresponds to a large effect.
 

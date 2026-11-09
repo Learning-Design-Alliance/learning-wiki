@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1111 entries** · 0 stable · 1111 in review · 0 drafts
+**1112 entries** · 0 stable · 1112 in review · 0 drafts
 
 ---
 
@@ -201,6 +201,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Critical psychometrics](critical-psychometrics.md) - The article proposes \"critical psychometrics\" as the next stage in psychometric evolution, in which \"psychometricians engage critical and interpretivist approaches more fully during scale development to consider power dynamics, gender disparities, and socio‐cultural differences as an integral part o
 * [Cross-theoretical integration of four motivational theories of teacher influence on engagement](cross-theoretical-integration-of-four-motivational-theories-of-teacher-influence-on-engage.md) - The article synthesises four theories of how teachers improve student engagement: self-determination theory, achievement goal theory, growth mindset theory, and transformational leadership theory.
 * [Cued retrospective reporting (CRR)](cued-retrospective-reporting-crr.md) - Cued retrospective reporting (CRR) is a retrospective think-aloud protocol based on eye movements: subjects verbally report their thoughts after task completion, using their own previously recorded eye-tracking patterns as memory cues.
+* [Cultural evolutionary framework for analyzing pedagogical change](cultural-evolutionary-framework-for-analyzing-pedagogical-change.md) - A framework, presented with Figure 1, for viewing academia as \"a global population of individuals who have pedagogical beliefs and practices that can evolve over time\".
 * [Cumulative probability plotting of administrative grade data for demographic-group monitoring](cumulative-probability-plotting-of-administrative-grade-data-for-demographic-group-monitor.md) - The article demonstrates a descriptive practice: representing grade outcomes as cumulative probability curves stratified by demographic group, so that differences at every grade threshold are visible rather than only mean grades.
 * [Curricular analytics: graph-based measures of degree-program complexity (blocking, delay, centrality, structural complexity)](curricular-analytics-graph-based-measures-of-degree-program-complexity-blocking-delay-cent.md) - Curricular analytics is the study of academic program design and layout, in which a degree plan is translated into a directed acyclic graph of courses and prerequisites.
 * [Curriculum analytics using cognitive diagnostic modeling and hierarchical learner-profile clustering](curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile.md) - A two-step curriculum analytics approach that maps existing assessments to professional standards and applies a generalized cognitive diagnostic model to assessment grades to produce attainment probabilities (0–1) per standard, then uses hierarchical agglomerative clustering to group learners into i

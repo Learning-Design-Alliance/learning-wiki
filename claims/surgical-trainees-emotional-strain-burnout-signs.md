@@ -48,3 +48,4 @@ Five-item Likert-scale assessment of emotional involvement, empathy, and stress 
 ## Related Claims
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
+- [Nurses’ empathic ability declined after about one year of work, which the authors attribute to empathy burnout](empathy-decline-one-year-work-burnout.md) — related

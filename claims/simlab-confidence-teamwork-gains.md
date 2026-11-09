@@ -62,3 +62,4 @@ Session 4 group interview self-reports. A participant reported "an increase in o
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related
 - [Team collaboration scores rose from pre-test to post-test after integrated simulation with TBL in paediatric postgraduates, in one single-group pre-post study using the French TEAM system](simulation-tbl-improves-teamwork-team-scores.md) — related
 - [In-situ team simulation surfaced emergent leadership from any team member and strengthened team identity among ward colleagues](insitu-simulation-emergent-leadership-team-identity.md) — related
+- [Reported outcomes of clinical leadership interventions span personal development, leadership knowledge and skills, clinical skills, teamwork, patient care and service delivery](clinical-leadership-intervention-outcomes-range.md) — a broader claim this one bears on

@@ -70,3 +70,4 @@ Authors' interpretation in the Discussion comparing the self-assessment secondar
 - [Formal scanning proficiency varied across POCUS applications and changed unevenly by follow-up, decreasing for pleural effusion](formal-scanning-proficiency-varied-uneven-change.md) — related
 - [Lowest OSAUS item scores concerned technical performance (applied knowledge, image optimization, systematic examination), yet all seven items improved significantly at follow-up](osaus-item-scores-technical-items-lowest.md) — related
 - [Younger GPs and those with prior POCUS experience tended to score higher, while no clear relationship was found between number of performed scans and competence](osaus-scores-age-prior-experience-not-scan-count.md) — related
+- [Post-training success on individual practical applications ranged from 87.5% to 100% across the twelve tasks](post-training-practical-task-success-rates.md) — related

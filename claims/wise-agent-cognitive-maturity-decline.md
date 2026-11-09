@@ -57,3 +57,4 @@ Paired-sample t-test on the cohort's Cognitive Maturity sub-dimension scores pre
 - [Absolute epistemic beliefs increase over the study period among computer science undergraduates](cs-absolute-epistemic-beliefs-increase-longitudinally.md) — related
 - [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
+- [The intervention did not shift student dispositions toward collaboration or perceptions of the classroom environment](no-disposition-shift-ccem.md) — related

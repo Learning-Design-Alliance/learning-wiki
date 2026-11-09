@@ -54,3 +54,4 @@ Psychological safety was an overarching theme across all four normalisation proc
 - [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — a broader claim this one bears on
 - [Self-operating IVR scenarios offer scalability and resource efficiency, but their rigidity reduces debriefer engagement](self-operating-ivr-scenarios-rigidity-reduces-debriefer-engagement.md) — related
+- [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — related

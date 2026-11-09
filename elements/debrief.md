@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (21 for, 8 mixed, 1 against) · 31 studies (11 quant-synthesis, 8 causal, 5 review, 3 qualitative, 3 design, 1 associational), `q1`–`q4` · 8 of 31 report an effect size · 24 claims rest on one study
+> **Evidence** · 31 claims (22 for, 8 mixed, 1 against) · 32 studies (11 quant-synthesis, 8 causal, 5 review, 4 qualitative, 3 design, 1 associational), `q1`–`q4` · 8 of 32 report an effect size · 25 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -86,6 +86,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Facilitators find TeamTAG easy to handle, clearly structured, helpful, and report it facilitates time management during debriefings](../claims/teamtag-facilitator-feasibility-time-management.md) [+W] — attached 2026-11-08 from Freytag J et al. (2021), which proposed "TeamTAG — a cognitive aid listing six CRM principles with behavioural anchors for structuring teamwork debriefings".
 - [Debriefing with versus without TeamTAG shows no difference in participant satisfaction, perceived relevance of CRM principles, or teamwork quality](../claims/teamtag-no-difference-satisfaction-teamwork.md) [~W] — attached 2026-11-08 from Freytag J et al. (2021), which proposed "TeamTAG — a cognitive aid listing six CRM principles with behavioural anchors for structuring teamwork debriefings"; tests this page's relationship.
 - [Using the TeamTAG cognitive aid does not change the number of teamwork principles discussed in debriefings compared with roughly structured GAS debriefings](../claims/teamtag-no-difference-number-principles-discussed.md) [~W] — attached 2026-11-08 from Freytag J et al. (2021), which proposed "TeamTAG — a cognitive aid listing six CRM principles with behavioural anchors for structuring teamwork debriefings"; tests this page's relationship.
+- [Simulation debriefs identified 15 of 20 total themes found by traditional needs assessment methods in a community critical care setting](../claims/simulation-debriefs-capture-15-of-20-themes.md) [+W] — attached 2026-11-09 from Sarti Aimee J et al. (2018), which proposed "Manikin-based simulation (MBS) debrief sessions as needs assessment data sources".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

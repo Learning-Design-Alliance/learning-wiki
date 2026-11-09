@@ -16,12 +16,14 @@ sources:
     author: Lockie R.G., Balfany K., Bloodgood A.M., Moreno M.R., Cesario K.A., Dulla J.M., Dawes J.J., Orr R.M.
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Recruits who failed academic or scenario training were significantly older than graduates, and age predicted inclusion in that separation group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lockie R.G., Balfany K., Bloodgood A.M., Moreno M.R., Cesario K.A., Dulla J.M., Dawes J.J., Orr R.M. (2019). The Influence of Physical Fitness on Reasons for Academy Separation in Law Enforcement Recruits. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16030372
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Retrospective one-way ANOVA with Bonferroni post hoc across five academy classes (330 GRAD vs 25 SEPAS). Table 1 prints SEPAS age 32.70 ± 9.01 vs GRAD 26.67 ± 5.19 years; Table 2 prints the GRAD-SEPAS age effect size as 0.82. The Results also state age predicted SEPAS inclusion with 5% explained variance.
 

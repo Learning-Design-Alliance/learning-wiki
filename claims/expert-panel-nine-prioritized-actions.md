@@ -54,3 +54,4 @@ Phase 2 one-round expert panel (seven members: coordinator, five faculty with si
 - [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md) — related
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [Three consensus-selected change plans were implemented in the ward: improving education, involving nursing students in patients' education, and increasing motivation through peer evaluation and nurse of the week.](par-three-change-plans-surgical-ward.md) — related
+- [Needs most readily uncovered in simulation debriefs may represent the highest priority needs](readily-uncovered-needs-highest-priority.md) — related

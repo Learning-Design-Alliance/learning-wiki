@@ -70,3 +70,4 @@ IMMS total-score analysis in phase 1 showing a slight pooled pre-to-post motivat
 - [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — related
 - [VRS teaching produced significantly higher posttest infection control knowledge scores than traditional teaching in undergraduate nursing students](vrs-higher-posttest-infection-control-knowledge.md) — related
 - [Learning attitudes toward caring for patients with infectious diseases did not differ significantly between the VRS and control groups at either time point](vrs-no-attitude-difference-between-groups.md) — related
+- [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — related

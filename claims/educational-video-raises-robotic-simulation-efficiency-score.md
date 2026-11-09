@@ -48,3 +48,4 @@ Secondary endpoint from the same RCT: efficiency scores in cycles 1–10 were 93
 - [Surgical trainees who watched an educational video before robotic simulation training achieved significantly higher overall scores across ten cycles than trainees who did simulation alone](educational-video-raises-robotic-simulation-overall-score.md) — related
 - [Surgical novices training with 3D monitors on an open-console robotic simulator consistently outperform the 2D group on efficiency parameters](3d-monitors-outperform-2d-efficiency-hugo-ras.md) — related
 - [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related
+- [Serious-game training improved economy of time and motion and reduced the help needed from the supervising surgeon](serious-game-economy-and-independence.md) — related

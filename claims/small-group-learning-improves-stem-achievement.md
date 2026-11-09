@@ -109,3 +109,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Cooperative group work activities improve pre-school children's pattern recognition skills more than individual instruction](cooperative-group-work-improves-preschool-pattern-recognition.md) — a narrower finding that bears on this claim
 - [Class time in the flipped model was devoted to active learning activities rather than lecturing](flipped-class-time-active-learning-activities.md) — a narrower finding that bears on this claim
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
+- [Interdependent cooperative-learning modules did not raise weekly quiz achievement once between-classroom variance was controlled](interdependent-cooperative-learning-no-quiz-gain.md) — a narrower finding that bears on this claim

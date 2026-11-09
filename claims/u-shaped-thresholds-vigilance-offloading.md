@@ -56,3 +56,4 @@ Post-hoc quadratic analysis in the PLS-SEM model, visualized in Fig. 5. Low-to-m
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related
 - [Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures](variant2-least-positive-agent-perception.md) — related
 - [In a visual-spatial integration task, the interaction between visual-spatial working memory capacity and visual design is quadratic, with the inverted-U progression more strongly accentuated for the dynamic design](quadratic-ati-spatial-ability-visual-design-study1.md) — related
+- [Stress affects performance in an inverted-U fashion, so increased stress does not necessarily impair performance](stress-performance-inverted-u.md) — related

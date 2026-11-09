@@ -54,6 +54,7 @@ Because online teaching could not fully replace face-to-face teaching for clinic
 - [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 - [Improve platform technical support and academic-related interactions, and use blended learning with virtual simulation for students in higher learning phases](platform-support-interactions-virtual-simulation-strategy.md)
+- [Precede non-obligatory e-learning with face-to-face education that explains the subject's importance to enhance autonomous motivation and participation](face-to-face-rationale-before-elearning.md)
 
 ## Examples
 -

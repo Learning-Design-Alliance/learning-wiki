@@ -70,3 +70,4 @@ A longitudinal study of 353 medical students (von Harscher et al., USA) used the
 - [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — related
 - [Higher self-reported empathy is a positive factor for medical students' mental health](high-empathy-positive-factor-medical-student-mental-health.md) — reports the opposite
 - [Professional self-concept impacts nursing students' mental health, academic performance and professional values](self-concept-effects-mental-health-academic-values.md) — related
+- [Nurses’ empathic ability declined after about one year of work, which the authors attribute to empathy burnout](empathy-decline-one-year-work-burnout.md) — related

@@ -24,6 +24,8 @@ sources:
     author: Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Clients counseled with the Mama-U model said the demonstration helped them decide to accept the PPIUD by dispelling myths and fears
@@ -52,7 +54,7 @@ Structured individual interviews with women who received PPIUDs from trained pro
 
 Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Focus group discussions exploring community perceptions of PPFP and the PPIUD. Clients "reported that the demonstration helped them understand the placement of the PPIUD and removed concerns that it would move around in the abdomen and cause harm".
 

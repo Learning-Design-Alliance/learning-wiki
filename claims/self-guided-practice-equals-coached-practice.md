@@ -16,12 +16,14 @@ sources:
     author: Kim T. Edward, Tsui Ban C.H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-guided simulation practice produced checklist and GRS performance equal to coached simulation practice, cautioning against excessive external feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kim T. Edward, Tsui Ban C.H. (2019). Simulation-based ultrasound-guided regional anesthesia curriculum for anesthesiology residents. Korean J Anesthesiol. https://doi.org/10.4097/kja.d.18.00317
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports a comparative-effectiveness study (Udani et al.) of simulation-based deliberate practice versus self-guided practice; self-guided residents "performed equally well when assessed by a checklist and GRS" as coached residents. No effect size is printed.
 

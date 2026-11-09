@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 84 claims (40 for, 39 mixed, 5 against) · 56 studies (31 causal, 9 review, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 20 of 56 report an effect size · 80 claims rest on one study
+> **Evidence** · 84 claims (40 for, 39 mixed, 5 against) · 57 studies (32 causal, 9 review, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 20 of 57 report an effect size · 79 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -64,7 +64,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](../claims/retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) [+W]
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](../claims/retrieval-practice-enhances-learning-applied-settings.md) [+W]
 - [A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [+W]
-- [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
 - [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-learning.md) [+W]
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](../claims/retrieval-practice-improves-final-inference-and-transfer-questions.md) [~W]
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]

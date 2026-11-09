@@ -48,3 +48,5 @@ Exploratory robust linear model adding malleability-of-intelligence beliefs and 
 - [Stronger teacher belief in school meritocracy is associated with less support for equity-enhancing practices and initiatives](bsm-negatively-predicts-equity-support.md) — a narrower finding that bears on this claim
 - [Belief in school meritocracy moderates set allocation in a three-way interaction with student SES and ethnicity, contrary to predictions](bsm-three-way-interaction-set-allocation.md) — related
 - [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related
+- [College instructors with higher fixed mindsets report implementing fewer active-learning practices](fixed-mindset-less-active-learning-implementation.md) — related
+- [College instructors with higher fixed mindsets report being less persuaded that active-learning practices are a good idea](fixed-mindset-less-persuaded-active-learning.md) — related

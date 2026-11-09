@@ -52,3 +52,4 @@ Thematic analysis subtheme from the 12 interviews. Residents reported that inter
 - [Contextual support—including supervisors performing uncertainty and allowing residents to be uncertain—mediated residents' tolerance of uncertainty and adaptive practices](contextual-support-uncertainty-tolerance.md) — related
 - [Decision-making hierarchies limit trainees' implementation of procedures their attending physicians are unfamiliar with](decision-hierarchies-procedure-implementation.md) — related
 - [Competence was sustained through peer supervision, which supported wellbeing, though non-specialist supervisors were felt to lack relevant expertise](peer-supervision-sustains-competence-and-wellbeing.md) — related
+- [Residents value feedback from perceived experts — grounded in de facto clinical practice rather than credentials — including allied healthcare professionals for competencies such as communication](msf-perceived-expertise-over-credentials.md) — related

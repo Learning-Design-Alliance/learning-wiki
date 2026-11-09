@@ -63,3 +63,4 @@ The authors' review of Cronbach's alpha for relevant scales of existing online S
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
 - [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related
 - [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related
+- [The EBMQ shows strong internal consistency, with overall Cronbach's alpha of 0.909](ebmq-internal-consistency-alpha-0909.md) — related

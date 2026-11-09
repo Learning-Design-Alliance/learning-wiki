@@ -54,3 +54,4 @@ In the randomized trial's Likert self-assessments, "both groups demonstrated sig
 - [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite
 - [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — related
 - [VR group shows greater improvement in ultrasound image identification but lower post-test anatomical image scores](vr-image-identification-gains-mixed-anatomy-results.md) — related
+- [Student satisfaction was higher after simulator-based teaching than after traditional teaching](simulator-teaching-higher-student-satisfaction.md) — related

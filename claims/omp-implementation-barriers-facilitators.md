@@ -55,3 +55,4 @@ Qualitative content analysis of the interviews generated the main category 'Barr
 - [After an OMP workshop, tutors' self-rated tutoring competence and frequency of giving feedback on what was not done well increased significantly](omp-workshop-increases-self-rated-competence.md) — related
 - [Five barriers hinder implementation of physically active university teaching: uncertainty, lack of space, lack of time, students' unwillingness to move, and organisational social norms](five-barriers-physically-active-teaching.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
+- [Workplace awareness of the training topic, own-time scheduling, and continuing medical education accreditation points facilitate uptake of a digital communication training](facilitators-awareness-accreditation-points.md) — related

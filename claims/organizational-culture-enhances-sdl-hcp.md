@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-09
 recheck_by: 2030
 sources:
   - id: berger-estilita-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Supportive organizational cultures significantly enhance SDL practices among healthcare professionals. [→ Berger-Estilita 2025](#berger-estilita-2025)
@@ -60,3 +61,4 @@ The review's narrative synthesis of 34 studies involving over 5,700 healthcare p
 - [Physicians engage in lifelong learning through contextual, social, and independent processes](contextual-social-independent-lifelong-learning-processes.md) — related
 - [Organizational culture, communication and motivational efforts are identified as organizational behaviour factors in department chair performance improvement](dc-organizational-culture-communication-motivation.md) — a narrower finding that bears on this claim
 - [Graduate students report their departments support research more than teaching across exosystem cultural measures](exosystem-culture-favors-research.md) — related
+- [Addressing organizational factors is at least equally important as individual-level interventions for sustaining humanistic practice and countering physician burnout.](organizational-change-as-important-as-individual-humanism-interventions.md) — related

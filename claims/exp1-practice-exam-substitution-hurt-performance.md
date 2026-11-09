@@ -16,12 +16,14 @@ sources:
     author: Casper Anne M., Eddy Sarah L., Freeman Scott
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Substituting a timed weekly online practice exam for traditional homework (experiment 1) decreased both exam scores and DFW rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Casper Anne M., Eddy Sarah L., Freeman Scott. (2019). True Grit: Passion and persistence make an innovative course design work. PLoS Biology. https://doi.org/10.1371/journal.pbio.3000359
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 One-semester quasi-experiment in which the only change from control terms was replacing about 30 varied homework questions with a 15-question, 30-minute-limit autograded practice exam. The article reports "exam scores decreased and DFW rates increased"; no effect size is printed.
 

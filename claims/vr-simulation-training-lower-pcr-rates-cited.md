@@ -55,3 +55,5 @@ Second-hand finding reported in this article's discussion, attributed to referen
 - [Simulation-trained cataract surgery trainees perform 2.5 times as many live surgical procedures as conventionally trained controls in the first year](simulation-training-increases-live-cataract-surgery-output.md) — related
 - [Simulation-based training reduces posterior capsule rupture rates by 70.7% among trainee cataract surgeons](simulation-training-reduces-posterior-capsule-rupture-rates.md) — related
 - [Simulation-based cataract surgical training produces an almost 3-fold increase in objectively assessed surgical competence at 3 months compared with conventional training alone](simulation-training-triples-cataract-surgical-competence-3-months.md) — related
+- [Resident-performed MSICS after wet-laboratory training has a lower intraoperative complication rate than before its introduction (23.7% vs 15.08%)](wet-lab-training-lower-intraoperative-complications-msics.md) — related
+- [Posterior capsule rupture and vitreous loss fall from 14.3% to 6.9% after wet-laboratory training in resident-performed MSICS](wet-lab-training-reduces-pc-rupture-vitreous-loss.md) — related

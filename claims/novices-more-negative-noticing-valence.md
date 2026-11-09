@@ -55,3 +55,6 @@ Loglinear modelling of 645 coded noticing clauses from 37 teachers retained a No
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — related
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
 - [Expert teachers interpret classroom events more analytically and focus on learning consequences, while novices emphasize student behavior](experts-interpret-events-learning-novices-behavior.md) — related
+- [Expert active-learning instructors notice creating opportunities for generative work significantly more often than novices](experts-notice-generative-work.md) — related
+- [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — related
+- [Expert active-learning instructors notice planning for topic-specific student difficulties significantly more often than novices](experts-notice-topic-specific-difficulties.md) — related

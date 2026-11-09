@@ -59,3 +59,7 @@ The review attributes this Level 4 finding to Steinemann (2011), a before-and-af
 - [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
 - [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — related
 - [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related
+- [Trauma-care procedures were performed faster after PHTLS training and remained faster one year later](phtls-training-faster-procedures.md) — related
+- [Simulation-trained trauma teams obtain blood routine reports and other blood tests faster than traditional practice](simulation-team-training-faster-blood-tests.md) — related
+- [Simulation-trained trauma teams obtain CT scans faster than traditional practice in grade I trauma patients](simulation-team-training-faster-ct-scan.md) — related
+- [Simulation-trained ED trauma teams achieve faster initiation of hemostasis than traditional practice in grade I trauma patients](simulation-team-training-faster-hemostasis-trauma.md) — related

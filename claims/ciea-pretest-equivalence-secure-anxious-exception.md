@@ -48,3 +48,4 @@ Independent-samples t-tests on pre-test SV-O scores after checking normality and
 - [After CIEA implementation the experimental group scored significantly higher than the control group on Social Competence, Internalising Problems and General Adaptation composite scales](ciea-composite-scale-gains.md) — related
 - [Five-month implementation of the CIEA produced significant group-by-time interactions favouring the experimental group on five of eight basic social-behaviour scales](ciea-improved-five-basic-social-behaviour-scales.md) — related
 - [The CIEA did not produce a significant group-by-time difference on the Prosocial-Egotistical basic scale](ciea-no-prosocial-scale-effect.md) — related
+- [Age differences between the experimental and control groups do not explain the learning outcome differences](age-difference-not-confound-epm-effect.md) — related

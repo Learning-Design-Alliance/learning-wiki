@@ -16,12 +16,14 @@ sources:
     author: Elsey EJ, Griffiths G, West J, Humes DJ
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Supervision patterns through training differ by procedural complexity, with complex procedures remaining largely supervised in the final year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Elsey EJ, Griffiths G, West J, Humes DJ. (2018). Changing Autonomy in Operative Experience Through UK General Surgery Training: A National Cohort Study. Annals of Surgery. https://doi.org/10.1097/SLA.0000000000003032
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cohort logbook analysis of supervision codes by training year for 311 trainees. The article reports that for complex procedures "the proportion of segmental colectomies recorded as unsupervised rose to 17.4%" in the final year, and separately that 66.1% of final-year colectomies remained supervised, reflecting ongoing senior-level supervised training.
 

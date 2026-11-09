@@ -50,3 +50,4 @@ Thematic analysis of 12 mentor interviews. Mentors described simulation as more 
 - [The effectiveness of active learning in nursing education is shaped by multilevel conditions including learner readiness, psychological safety, instructional facilitation, classroom dynamics, and institutional support](multilevel-conditions-shape-active-learning-effectiveness.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Faculty identify clinical simulation as enabling intentional definition and integrated observation of multiple soft skills in nursing education](clinical-simulation-soft-skills-nursing.md) — related
+- [Adequate stimulation in live deliveries was high at baseline and did not change significantly with training](live-delivery-stimulation-high-baseline-no-change.md) — related

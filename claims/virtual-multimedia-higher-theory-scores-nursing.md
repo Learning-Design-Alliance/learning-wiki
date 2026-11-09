@@ -49,3 +49,4 @@ Quasi-experimental comparison of 43 freshman nursing students in a virtual learn
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related
 - [Web-based multimedia virtual simulation embedded in PowerPoint teaching increases Form Four students' achievement on the Islamic Studies pilgrimage topic compared with PowerPoint teaching without simulation](virtual-simulation-improves-pilgrimage-achievement.md) — related
 - [3D game-based simulation produces no significant difference in vital signs academic achievement compared with traditional instruction (d = 0.02)](3d-game-simulation-no-achievement-difference-vital-signs.md) — reports the opposite
+- [Simulator-based teaching produced higher overall knowledge scores than traditional PowerPoint-based teaching in medical students](simulator-teaching-higher-total-score-than-lecture.md) — related

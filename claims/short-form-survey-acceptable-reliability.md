@@ -72,3 +72,4 @@ The same short-form evaluation reports test-retest reliability of 0.75 and item 
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
+- [Test-retest reliability of the EBMQ was mixed, with most items showing good or fair correlations but some low](ebmq-test-retest-reliability-mixed.md) — related

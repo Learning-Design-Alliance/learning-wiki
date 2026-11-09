@@ -70,6 +70,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
 - [Scaffold learners with a preassessment resource-evaluation poll plus source-evaluation videos before a written assignment requiring cited resources](scaffolded-preassessment-resource-evaluation-sequence.md)
 - [Combine preprocedural online didactics, video demonstration, case-based learning, and simulation to address both cognitive and psychomotor procedural learning](comprehensive-multimodal-procedure-education-package.md)
+- [Implement the teach-and-question assignment with brief in-class training, example videos, partner-finding support, required audio recordings, and scattered instructor feedback](tq-implementation-strategy.md)
 
 ## Examples
 -

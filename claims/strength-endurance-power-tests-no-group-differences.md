@@ -16,12 +16,14 @@ sources:
     author: Lockie R.G., Balfany K., Bloodgood A.M., Moreno M.R., Cesario K.A., Dulla J.M., Dawes J.J., Orr R.M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Push-up, sit-up, vertical jump and medicine ball throw performance did not differentiate graduates from recruits who separated for any reason
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lockie R.G., Balfany K., Bloodgood A.M., Moreno M.R., Cesario K.A., Dulla J.M., Dawes J.J., Orr R.M. (2019). The Influence of Physical Fitness on Reasons for Academy Separation in Law Enforcement Recruits. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16030372
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Retrospective one-way ANOVA with Bonferroni post hoc across the four groups; the article reports no significant differences for these measures. The discussion notes this contrasts with prior findings that fewer push-ups or poorer vertical jump predicted separation in other cohorts.
 

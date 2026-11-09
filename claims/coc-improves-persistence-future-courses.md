@@ -68,3 +68,4 @@ Follow-up grade analysis in Bio201 comparing average grades of low- and medium-p
 - [CoC participation showed no significant benefit for high-preparedness students, while a trend toward benefit appeared on exam 1 for low-preparedness participants](coc-no-benefit-high-preparedness.md) — related
 - [A UV essay in the final unit of the course promotes enrollment in the second biology course, especially for high-performing students](uv-third-essay-promotes-continuation-for-high-performers.md) — related
 - [Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment](chatbot-no-spillover-medium-term-effects.md) — related
+- [Exploring Biology students continued into and completed the two-semester introductory biology sequence at higher rates than comparison students](exploring-biology-higher-sequence-persistence.md) — related

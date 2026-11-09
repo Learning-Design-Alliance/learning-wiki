@@ -48,5 +48,5 @@ Trial-count analysis in the Results section of the fixed-time experiment: permit
 - [Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping](participant-computer-controller-no-recall-difference.md) — related
 - [Participants' willingness to skip feedback after correct responses increases substantially across retrieval-practice cycles](skipping-after-correct-increases-across-cycles.md) — related
 - [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](skipping-feedback-fixed-time-improves-recall.md) — related
-- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related

@@ -77,3 +77,5 @@ Same Model 1 regression, contrasting programme types against standard entry. Gat
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
 - [Gateway students enter UK medical school with substantially lower A-level attainment and UCAT scores than SEMED students (Cohen's d = 1.254 and 1.066)](gateway-lower-entry-attainment-aptitude.md) — related
 - [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related
+- [BME ethnicity is negatively related to EPM ranking while positively predicting completion, a disparity across success measures](bme-ethnicity-epm-completion-disparity.md) — related
+- [Lower starting age, higher GAMSAT score, and BME ethnicity independently predict successful completion of medical school among graduate entrants](gamsat-age-bme-predict-completion.md) — related

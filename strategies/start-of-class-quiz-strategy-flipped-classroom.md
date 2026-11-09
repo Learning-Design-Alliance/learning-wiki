@@ -56,6 +56,7 @@ The article recommends that instructors use short quizzes at the beginning of fa
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 - [Assign interactive video pre-class viewing to reduce in-person laboratory hours](video-preclass-viewing-reduce-lab-hours-strategy.md)
 - [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
+- [Adopt low-cost online reading quizzes as a course-structure intervention in community college STEM courses](low-cost-reading-quiz-intervention-strategy.md)
 
 ## Examples
 -

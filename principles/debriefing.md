@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (27 for, 14 mixed, 2 against) · 56 studies (16 causal, 15 review, 13 quant-synthesis, 5 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 56 report an effect size · 32 claims rest on one study
+> **Evidence** · 45 claims (29 for, 14 mixed, 2 against) · 58 studies (17 causal, 15 review, 13 quant-synthesis, 6 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 58 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,8 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [No significant differences between PCP and DISCERN in ease of use, debrief-process support, improvement opportunities, or participant comfort](../claims/no-significant-difference-pcp-discern-ease-comfort.md) [~W] — attached 2026-11-07 from Kam April J. et al. (2022), which proposed "Choose an institution- and setting-specific PRD tool based on team values, environmental constraints, and desired emotional support".
 - [The debriefing session enabled bidirectional learning in which participants shared lived experience that identified barriers to resuscitation](../claims/bidirectional-learning-debriefing-non-clinicians.md) [+W] — attached 2026-11-07 from Whittall Jonathan P. et al. (2022), which proposed "Include a debriefing session in simulation protocols used with non-clinicians to consolidate learning and elicit lived-experience feedback".
 - [Stop-and-go debriefing shows no significant difference from post-scenario debriefing in skill acquisition at four weeks in medical simulation training](../claims/stop-and-go-debriefing-no-skill-acquisition-difference.md) [~W] — attached 2026-11-08 from Schober Patrick et al. (2019), which proposed "Tailor the timing of simulation debriefing to participants' needs rather than adhering to a no-interruption protocol".
+- [Simulation debriefs identified 15 of 20 total themes found by traditional needs assessment methods in a community critical care setting](../claims/simulation-debriefs-capture-15-of-20-themes.md) [+W] — attached 2026-11-09 from Sarti Aimee J et al. (2018), which proposed "Use simulation debriefs as a dual-purpose needs assessment and education method under certain conditions".
+- [Structured instructor-guided oral debriefing and video-assisted oral debriefing both improve neonatal resuscitation skills, with neither strategy superior to the other](../claims/oral-versus-video-debriefing-no-superiority-neonatal-resuscitation.md) [+W] — attached 2026-11-09 from Gamboa Oscar Andrés et al. (2018), which proposed "Three-stage structured debriefing: descriptive, analytical, and transference phases led by an instructor".
 
 ## Objective and learner-valued goal
 

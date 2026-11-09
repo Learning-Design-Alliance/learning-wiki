@@ -48,3 +48,4 @@ Logistic regression on the same 1555-provider survey for the enabling-environmen
 - [Specific training in maternal sepsis is associated with increased odds of provider knowledge of maternal sepsis after adjustment for qualifications, age, experience, region and facility characteristics](training-associated-provider-sepsis-knowledge.md) — related
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
+- [Availability of regular simulation training and regular operating room training is independently associated with confidence in performing ETI](simulation-and-or-training-associated-with-eti-confidence.md) — related

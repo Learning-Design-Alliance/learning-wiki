@@ -50,3 +50,4 @@ Inductive thematic analysis of summer-scholarship SPAR logs. Students learned th
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — related
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
 - [RLHF rapidly shapes model outputs toward rater-endorsed norms, improving surface compliance while leaving principle-level generalization unresolved](rlhf-surface-compliance-gap.md) — related
+- [Qualitative analysis found shifts from uncritical deference to technical experts toward well-justified inclusion of public actors](cl-qualitative-shift-toward-justified-public-inclusion.md) — related

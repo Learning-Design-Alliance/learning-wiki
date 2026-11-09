@@ -68,6 +68,7 @@ The article recommends that EBP educational interventions be embedded in institu
 - [Adopt web-based training as continuing professional education to build nurses' EBP competencies](web-based-training-continuing-education-ebp-strategy.md)
 - [Managers facilitate newly graduated nurses' continued learning by creating structures for reflection and mentorship](manager-created-reflection-structures-nurse-transition.md)
 - [Modify the Vietnamese physical therapy curriculum and use journal clubs to build EBP capacity and reduce the English language barrier](curriculum-and-journal-club-strategy-for-ebp-vietnam.md)
+- [Use interactive and clinically integrated teaching strategies, with librarian collaboration, to build EBP knowledge and skills](interactive-clinically-integrated-ebp-teaching-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Expert benchmark established by the senior investigator completing each task thr
 - [Novice first-attempt completion times were significantly longer than expert times on all six FRS VR tasks](frs-vr-novice-times-longer-than-experts.md) — related
 - [Among participants who completed the task without critical errors, novices committed significantly more errors (12.3 vs 8.1) and took more than twice as long (25.3 vs 11.2 min) as experts](sp-anastomosis-non-ce-subgroup-differences.md) — related
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
+- [Higher completion time correlates with poorer RAS task performance across most FSRS metrics](completion-time-correlates-fsrs-metrics.md) — related

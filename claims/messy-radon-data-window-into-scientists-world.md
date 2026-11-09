@@ -61,3 +61,4 @@ The commentary reports, citing Aridor et al. (this issue), a case study of two m
 - [A culminating final project with a structured reflection script served as authentic assessment mirroring real-world data science practices](final-project-script-authentic-assessment.md) — related
 - [Working with live, real-world datasets promoted students' perception of real-world authenticity and career transferability in a high school data science curriculum](live-real-world-datasets-real-world-authenticity.md) — related
 - [The MobiLAP intervention significantly increased ninth-graders' attitudes and perceptions of self as citizen scientists (Ideas about Citizen Science subscale)](mobilap-increased-citizen-science-identity.md) — related
+- [Higher-scoring students in the data collection phase envisioned more meaningful engagement between scientists and the public](cl-data-collection-phase-meaningful-public-engagement.md) — related

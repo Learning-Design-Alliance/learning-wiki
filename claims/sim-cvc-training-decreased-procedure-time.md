@@ -50,3 +50,4 @@ Skill was assessed by timing CVC placement on the task trainer before and after 
 - [Participation in the simulation-based CVC training session significantly increased learner confidence in CVC placement](sim-cvc-training-increased-confidence.md) — related
 - [Participation in the simulation-based CVC training session significantly increased learner knowledge test scores](sim-cvc-training-increased-knowledge.md) — related
 - [The training program benefited learners across experience levels and specialties, including learners who had previously placed CVCs in patients](sim-cvc-training-portable-across-learner-groups.md) — related
+- [Novices' median total procedure time fell from 561 s to 216 s from pre-test to post-test in the novice group after self-training (p = 0.002)](self-training-halves-novice-procedure-time.md) — related

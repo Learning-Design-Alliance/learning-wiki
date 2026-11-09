@@ -49,3 +49,4 @@ Theme 2 interview accounts: educators described "a blurring of roles, with educa
 - [Peer supporters in peer support RCTs were primarily recruited from community organizations and required lived experience and a similar diagnosis to service recipients](peer-supporter-recruitment-community-lived-experience.md) — related
 - [Nurses' role boundaries become blurred under human-machine collaboration due to absent norms and responsibility divisions](blurred-nurse-role-boundaries-under-hmc.md) — related
 - [SP simulations evoked perceived ambiguity among nursing students about the psychiatric-mental health nurse's role, blurring therapeutic communication and psychotherapy](sp-simulation-role-ambiguity-psychiatric-nurses.md) — related
+- [Mental health nurses commonly feel physical care is outside their remit, creating role ambiguity that master's level competencies should reduce](nurse-role-ambiguity-physical-care-outside-remit.md) — related

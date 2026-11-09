@@ -55,3 +55,4 @@ Pre-post analysis of twenty-two surveys from four coma and status epilepticus ca
 - [Undergraduate students' self-rated perceived level of competence rose from a median of 2 to 4 on a 5-point scale from pre-test to post-test in one uncontrolled pre-post study of VR pediatric emergency training, for both scenarios](vr-pem-training-increased-perceived-competence.md) — related
 - [Participation in the simulation-based CVC training session significantly increased learner confidence in CVC placement](sim-cvc-training-increased-confidence.md) — related
 - [Confidence increases significantly after high-fidelity simulation in both sessions](confidence-increases-after-high-fidelity-simulation.md) — related
+- [Anesthesia residents' self-reported self-confidence for managing OR circulation, CVC, and pain-complication emergencies rose from pre-test to post-test after PBL training, in one uncontrolled pre-post study](pbl-alsop-improved-resident-self-confidence.md) — related

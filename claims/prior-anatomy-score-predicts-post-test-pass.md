@@ -47,3 +47,4 @@ Univariate analysis (Table 2) comparing the 9 passing and 14 non-passing student
 ## Related Claims
 - [Second-year medical students who supplemented gross dissection with virtual dissection were over three times more likely to pass the post-dissection test than textbook controls (tendentially significant)](virtual-dissection-pass-likelihood-or-3-75.md) — related
 - [Students who passed the pathophysiology exam had both higher previous academic performance and higher formative assessment participation in univariate analysis](univariate-passing-factors-cases-and-gp.md) — related
+- [Exposure to dissection and prior anatomy education before medical school are each associated with higher confidence in anatomy knowledge](dissection-prior-anatomy-confidence.md) — related

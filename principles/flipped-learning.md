@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 188 claims (114 for, 69 mixed, 5 against) · 121 studies (72 causal, 19 quant-synthesis, 13 review, 7 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 121 report an effect size · 180 claims rest on one study
+> **Evidence** · 190 claims (116 for, 69 mixed, 5 against) · 122 studies (72 causal, 19 quant-synthesis, 13 review, 8 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 122 report an effect size · 182 claims rest on one study
 
 ## Conditional relationship
 
@@ -229,6 +229,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [The flipped classroom group obtained better qualitative exam grade distributions, with more merit and outstanding grades and fewer failures, than the lecture-based group](../claims/flipped-classroom-better-qualitative-grade-distribution-social-work.md) [+W] — attached 2026-11-09 from Oliván Blázquez Bárbara et al. (2019), which proposed "Use flipped classroom methodology to improve academic performance in social work university education"; tests this page's relationship.
 - [Short-term learning was significantly worse in the flipped classroom group on two of the five topics, contrary to the initial prediction](../claims/flipped-classroom-worse-short-term-learning-topics-3-4.md) [-W] — attached 2026-11-09 from Oliván Blázquez Bárbara et al. (2019), which proposed "Use flipped classroom methodology to improve academic performance in social work university education"; tests this page's relationship.
 - [Laymen who received web-based education on cardiovascular disease before BLS training achieved a significantly higher total score for practical skills six months after training than those receiving BLS training alone](../claims/web-cvd-education-higher-bls-retention-score.md) [+W] — attached 2026-11-09 from Bylow Helene et al. (2019), which proposed "Offer improved web-based education on cardiovascular disease before public BLS training as an appropriate addition to BLS learning activities"; tests this page's relationship.
+- [Student perceptions of the student-centeredness of flipped classrooms increase significantly over a semester](../claims/flipped-classroom-student-centeredness-perceptions-increase.md) [+W] — attached 2026-11-09 from Lee Young Hwan (2018), which proposed "Flipped classroom pattern: pre-class assignments plus in-class quizzes and structured academic debate".
+- [Student sense of community of inquiry in flipped classrooms increases significantly in teaching, social, and cognitive presence](../claims/flipped-classroom-coi-all-three-presences-increase.md) [+W] — attached 2026-11-09 from Lee Young Hwan (2018), which proposed "Flipped classroom pattern: pre-class assignments plus in-class quizzes and structured academic debate".
 
 ## Objective and learner-valued goal
 

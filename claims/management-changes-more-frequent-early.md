@@ -17,12 +17,14 @@ sources:
     author: Kovacevic Pedja, Dragic Sasa, Kovacevic Tijana, Momcicevic Danica, Festic Emir, Kashyap Rahul, Niven Alexander S., Dong Yue, Gajic Ognjen
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Management changes during tele-education sessions occurred more frequently early in the study period and in more complex patients
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
@@ -35,7 +37,7 @@ sources:
 
 Kovacevic Pedja, Dragic Sasa, Kovacevic Tijana, Momcicevic Danica, Festic Emir, Kashyap Rahul, Niven Alexander S., Dong Yue, Gajic Ognjen. (2019). Impact of weekly case-based tele-education on quality of care in a limited resource medical intensive care unit. Critical Care. https://doi.org/10.1186/s13054-019-2494-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Session-level observational data from the 82 tele-education sessions, reported in the Results section. The article reports the counts of management changes and ad hoc e-mails descriptively, with no effect size or significance test printed.
 

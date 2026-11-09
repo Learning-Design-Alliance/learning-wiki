@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 115 claims (64 for, 48 mixed, 3 against) · 88 studies (39 causal, 19 quant-synthesis, 18 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 88 report an effect size · 109 claims rest on one study
+> **Evidence** · 118 claims (66 for, 49 mixed, 3 against) · 90 studies (41 causal, 19 quant-synthesis, 18 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 90 report an effect size · 112 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,9 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Nursing students who used the digital game-based study guide scored significantly higher on post-intervention practical skills than control students](../claims/game-based-study-guide-higher-practical-skills.md) [+M] — attached 2026-11-06 from Bashiri Bonab Esmaeil et al. (2025), which proposed "Scenario-based game modules with stage-by-stage feedback and card-based correctness signals"; tests this page's relationship.
 - [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](../claims/escape-rooms-improve-healthcare-student-outcomes.md) [+W] — attached 2026-11-06 from Sarin Jyoti et al. (2025), which proposed "Educational escape room structure: common goal, layered puzzle types, meta-puzzle finale, and debriefing"; tests this page's relationship.
 - [Medical students who played the Diabe-teach board game scored higher on an immediate diabetes post-test than students in a self-study control group](../claims/diabe-teach-posttest-outperformed-self-study.md) [+W] — attached 2026-11-07 from Mariam S et al. (2025), which proposed "Keyword-chain board-game pattern: build and verbally justify connected chains of concept cards"; tests this page's relationship.
+- [Serious-game training improved economy of time and motion and reduced the help needed from the supervising surgeon](../claims/serious-game-economy-and-independence.md) [+W] — attached 2026-11-09 from Haubruck P et al. (2018), which proposed "Implement serious games with relevant content in surgical curricula in addition to traditional learning methods"; tests this page's relationship.
+- [Fifth-year medical students who chose training with the Serious Game EMERGE scored significantly higher on a key feature examination than those who chose small-group PBL](../claims/emerge-higher-key-feature-exam-than-pbl.md) [+W] — attached 2026-11-09 from Middeke Angélina et al. (2018), which proposed "Use Serious Games as a resource-efficient alternative to intensive small-group teaching when broad case exposure is the goal"; tests this page's relationship.
+- [No significant performance difference between EMERGE and PBL groups on key feature cases discussed in both instructional formats](../claims/no-difference-shared-content-cases.md) [~W] — attached 2026-11-09 from Middeke Angélina et al. (2018), which proposed "Use Serious Games as a resource-efficient alternative to intensive small-group teaching when broad case exposure is the goal"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

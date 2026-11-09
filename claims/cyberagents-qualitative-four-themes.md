@@ -62,3 +62,4 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [Thematic analysis identified exam-aligned structured practice as the core perceived value of AIVP](aivp-thematic-exam-aligned-practice.md) — related
 - [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related
 - [Participant feedback themes were adaptation to simulation-based learning and recognition of its reflective, skills-based potential](vital-coms-feedback-content-analysis-themes.md) — related
+- [Qualitative responses reveal students' difficulty feeling compassion despite showing empathic behaviour after communication skills training](difficulty-feeling-compassion-despite-empathic-behaviour.md) — related

@@ -51,3 +51,4 @@ Multivariate linear model of the six BSRE discipline scores among 61 registrars.
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related
 - [Formative clinical examination score and male gender predicted BSRE performance in multivariable regression](formative-exam-and-gender-predict-bsre.md) — related
+- [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related

@@ -56,3 +56,4 @@ Thematic analysis of 300-word written reflections from 151 participants, coded i
 - [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related
 - [Small-group training in the HMSS was associated with students strengthening communication skills and resolving team conflicts](hmss-small-group-conflict-resolution.md) — related
 - [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related
+- [The training program was designed in collaboration with medical school faculty and emphasizes experiential, practice-based learning over didactic presentations](experiential-practice-based-communication-training-medical-physicists.md) — related

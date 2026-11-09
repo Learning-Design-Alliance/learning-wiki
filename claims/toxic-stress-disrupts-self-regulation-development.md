@@ -74,3 +74,4 @@ The brief states this as a finding from the research literature on stress and se
 - [Working with sensitive family topics in VR can feel intense and overwhelming, requiring teacher preparation for emotional reactions](vr-sensitive-topics-intensity-reactions.md) — a narrower finding that bears on this claim
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
 - [Physical activity engagement is negatively associated with academic anxiety and positively associated with critical thinking, self-regulation and time and study habits in adolescents](pa-anxiety-learning-strategies-correlations.md) — related
+- [Stress affects performance in an inverted-U fashion, so increased stress does not necessarily impair performance](stress-performance-inverted-u.md) — related

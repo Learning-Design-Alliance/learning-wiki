@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 281 claims (163 show a difference, 78 mixed, 40 no difference) · 224 studies (83 causal, 38 associational, 36 review, 25 theoretical, 21 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 37 of 224 report an effect size · 264 claims rest on one study
+> **Evidence** · 283 claims (163 show a difference, 79 mixed, 41 no difference) · 225 studies (84 causal, 38 associational, 36 review, 25 theoretical, 21 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 37 of 225 report an effect size · 266 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -329,6 +329,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Prior-knowledge groups differ in diagnostic accuracy, with ceiling effects for final diagnoses](../claims/prior-knowledge-groups-diagnostic-accuracy.md) [~M] — learners who differ on it differ in outcomes
 - [Prior-knowledge groups differ in diagnostic efficiency](../claims/prior-knowledge-groups-diagnostic-efficiency.md) [+M] — learners who differ on it differ in outcomes
 - [Prior-knowledge groups differ in reported intrinsic cognitive load, decreasing with prior knowledge](../claims/prior-knowledge-groups-intrinsic-load.md) [+M] — learners who differ on it differ in outcomes
+- [After self-training, novices visualize more structures than moderately experienced bronchoscopists and identify more than highly experienced ones](../claims/post-training-novices-exceed-experienced-on-visualization-identification.md) [~M] — learners who differ on it differ in outcomes
+- [Post-self-training novices reach overall performance scores comparable to moderately and highly experienced bronchoscopists](../claims/post-self-training-novices-comparable-to-experienced-bronchoscopists.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

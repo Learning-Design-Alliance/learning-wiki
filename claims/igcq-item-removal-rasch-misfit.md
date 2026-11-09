@@ -16,6 +16,8 @@ sources:
     author: Horton William B., Law Sidney, Darji Monika, Conaway Mark R., Kubiak Nancy T., Kirby Jennifer L., Thigpen S. Calvin
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
   - id: horton-william-b-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1657-0"
     title: "Horton William B., Law Sidney, Darji Monika, Conaway Mark R., Kubiak Nancy T., Kirby Jennifer L., Thigpen S. Calvin. (2019). Construction and preliminary evaluation of the inpatient glycemic control questionnaire (IGCQ): a survey tool assessing perceptions and knowledge of resident physicians. BMC Medical Education. https://doi.org/10.1186/s12909-019-1657-0"
@@ -42,7 +44,7 @@ sources:
 
 Horton William B., Law Sidney, Darji Monika, Conaway Mark R., Kubiak Nancy T., Kirby Jennifer L., Thigpen S. Calvin. (2019). Construction and preliminary evaluation of the inpatient glycemic control questionnaire (IGCQ): a survey tool assessing perceptions and knowledge of resident physicians. BMC Medical Education. https://doi.org/10.1186/s12909-019-1657-0
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Phase 3 UL cohort Rasch analysis; Table 2 shows item 17 MNSQ of 2.568, and multicenter merged data (Table 3) again showed misfit (MNSQ 1.9779). The article states "Question 17 showed severe misfit (Table 2)."
 

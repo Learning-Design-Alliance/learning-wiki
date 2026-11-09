@@ -60,6 +60,7 @@ The review recommends treating GTA programmes as part of a broader educational s
 - [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
 - [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
 - [Stakeholder-recommended improvements: better SP compensation and breaks, backup rosters, hybrid training, and clinical faculty involvement](stakeholder-sp-programme-improvement-strategies.md)
+- [Evaluate multifaceted training packages combining manikins, computer simulation, expert patients and clinical supervision for pelvic examination competency](multifaceted-pelvic-examination-training-package-strategy.md)
 
 ## Examples
 -

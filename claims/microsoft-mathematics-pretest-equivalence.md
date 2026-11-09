@@ -75,3 +75,4 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — a broader claim this one bears on
 - [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related
 - [The intervention and control groups did not differ significantly in knowledge before the intervention](no-baseline-knowledge-difference-groups.md) — possibly the same claim (merge candidate)
+- [Control and implementation groups were largely equivalent at pre-test on ethical reasoning, with one exception](cl-pretest-equivalence-control-implementation-groups.md) — a narrower finding that bears on this claim

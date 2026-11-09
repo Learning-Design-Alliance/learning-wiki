@@ -50,3 +50,5 @@ Trial by Fieux et al. (2021): 196 of 200 participating students completed the kn
 - [Nursing students trained with a high-fidelity simulator achieved significantly higher post-test cardiac auscultation knowledge scores than students taught by traditional lecture and static manikin methods](hfs-higher-knowledge-cardiac-auscultation.md) — related
 - [The high-fidelity simulation group achieved a significantly higher overall (knowledge plus skill) post-test score than the traditional instruction group](hfs-higher-overall-performance-score.md) — related
 - [Two further confidence items favored the simulator group only at the P<.10 level, while 19 survey questions showed no significant differences](hss-marginal-items-and-null-items.md) — related
+- [Both discovery-then-instruction and instruction-then-discovery sequences improve otoscopy knowledge with no significant difference between groups](otoscopy-simulator-sequence-no-knowledge-difference.md) — related
+- [Simulator-based teaching produced higher overall knowledge scores than traditional PowerPoint-based teaching in medical students](simulator-teaching-higher-total-score-than-lecture.md) — related

@@ -51,3 +51,4 @@ Post-hoc construct-validity correlation within the EBM-BOPPPS group (n = 47) bet
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — a broader claim this one bears on
 - [CDA3 correlates with OSCE Procedural stations but not with OSCE Communication stations](cda3-osce-procedural-not-communication.md) — related
 - [Self-efficacy scores showed a moderate, significant direct correlation with physical therapy students' OSCE performance](osce-self-efficacy-correlates-with-performance.md) — related
+- [Post-course knowledge and confidence correlated moderately and positively for both pedagogies (r = 0.514 lecture-based; r = 0.495 problem-based), but no significant correlation existed at pre-course or pre-clinics evaluation](post-course-knowledge-confidence-moderate-correlation.md) — related

@@ -49,3 +49,4 @@ Post-mastery comparison (Table 4) of novices' second-round performances (N = 95)
 - [Novices reach the minimum passing LISA-AT score of 39/40 in a median of 6 attempts (range 4–9) within one 90-minute simulation session with per-attempt feedback](lisa-at-mastery-six-attempts.md) — related
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
 - [Fellows required an average of 4.5 training sessions (about 90 minutes of individualized bedside instruction) to reach the mastery learning standard, and 7 of 11 recruited fellows met it](mastery-learning-sessions-to-mps-echocardiography.md) — related
+- [Novices reached expert-set proficiency levels for all six tasks within about two weeks of at-home training](proficiency-reached-two-weeks-home-training.md) — related

@@ -52,3 +52,4 @@ Qualitative component using student focus groups, professor field journals, and 
 - [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — related
 - [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
+- [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — related

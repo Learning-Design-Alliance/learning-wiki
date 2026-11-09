@@ -61,6 +61,7 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Increase residents' time on simulators, pelvic trainers and cadaver courses to build surgical skill and confidence](simulator-pelvic-trainer-time-for-surgical-residents.md)
 - [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
+- [Structure at-home laparoscopic training as deliberate practice with objective metrics, feedback and proficiency benchmarks](at-home-deliberate-practice-laparoscopic-curriculum.md)
 
 ## Examples
 -

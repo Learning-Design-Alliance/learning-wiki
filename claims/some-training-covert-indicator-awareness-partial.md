@@ -51,3 +51,4 @@ Thematic analysis of the some-training group's survey responses: training 'appea
 - [FSA-trained clinicians describe engaging and supporting the patient themselves, in a patient-led manner, before referring on after a disclosure](fsa-trained-patient-led-disclosure-response.md) — related
 - [Prenatal clinicians report lacking confidence and competence in applying TIC principles](tic-lack-confidence-competence-prenatal.md) — related
 - [Communication difficulties with patients and families and the need for emotional support persisted after training and emerged only in the qualitative data, with participants requesting further training modules](pc-training-persisting-unmet-needs.md) — related
+- [Interviews indicated the course increased participants' existential self-awareness, awareness of patients in need of existential communication, and confidence in carrying out such communication](qualitative-increased-awareness-and-confidence.md) — related

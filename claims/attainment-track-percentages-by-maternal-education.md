@@ -17,12 +17,14 @@ sources:
     author: Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents with low-educated mothers most often attain the lowest educational track, while adolescents with high-educated mothers most often attain the highest track
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H. (2019). The pathways from parental and neighbourhood socioeconomic status to adolescent educational attainment: An examination of the role of cognitive ability, teacher assessment, and educational expectations. PLoS ONE 14(5): e0216803. https://doi.org/10.1371/journal.pone.0216803
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive analysis of Table 4 (n = 1,978 with both parental education measures): low-educated-mother adolescents were mostly in the lowest track while high-educated-mother adolescents were mostly in the highest track, and "The proportions based on paternal education paralleled those for maternal education". These are descriptive percentages with no test reported.
 

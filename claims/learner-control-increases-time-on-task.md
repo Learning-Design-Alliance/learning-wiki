@@ -58,3 +58,4 @@ Log-file analysis of the learner control group (n = 26) showed every participant
 - [Segmentation increases learning time](segmenting-increases-learning-time.md) — related
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related
 - [All four original multimedia experiments showed a main effect favoring the dynamic visualization, especially for transfer tasks](four-experiments-dynamic-visualization-main-effect.md) — related
+- [Study time was not correlated with retention or transfer knowledge in either group](study-time-uncorrelated-knowledge-gain.md) — related

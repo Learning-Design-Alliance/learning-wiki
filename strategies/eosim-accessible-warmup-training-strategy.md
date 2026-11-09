@@ -50,6 +50,7 @@ The article recommends the eoSim as a training tool because its mobile case setu
 
 - [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 - [Deploy portable low-cost VR simulation for ubiquitous learning and preoperative warm-up before surgery](portable-vr-preoperative-warm-up-strategy.md)
+- [Use low-cost physical box simulators to provide safe, cost-effective laparoscopic skills training, especially in low and middle-income settings](low-cost-box-simulator-training-strategy.md)
 
 ## Examples
 -

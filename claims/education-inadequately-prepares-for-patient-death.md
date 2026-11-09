@@ -50,3 +50,4 @@ Focus group finding from the reflections-on-the-experience theme. Interviewees c
 - [Physicians reported manikin-based training was regarded as inadequate for replicating technical nuances and anatomical variability of real patients](manikin-training-inadequate-real-patient-variability-cvc.md) — related
 - [Unexpected simulated patient death evokes varying degrees of emotional distress, with the active renunciation of life-sustaining measures felt as particularly formative](simulated-death-emotional-distress-active-renunciation.md) — related
 - [The unexpected character of the confrontation with death was considered the key to the simulation's success](unexpected-death-confrontation-key-to-success.md) — related
+- [After experiential learning, most nursing students related the learning to clinical practice and verbalised feeling more competent to deal with death and dying](perceived-competency-eol-care-students.md) — related

@@ -47,3 +47,4 @@ Baseline test performance in the RCT: the results section reports the pre-test "
 ## Related Claims
 - [The MVP equalizes performance: fellows' higher pre-test scores over students and residents were no longer present on the post-test](mvp-elevates-students-residents-to-fellow-level.md) — related
 - [Cardiology fellows showed no apparent benefit from the simulation session, consistent with prior attainment of the tested competency](simulation-no-benefit-for-advanced-fellows.md) — related
+- [Simulator-based teaching improved scores on all three evaluation parts: coronary anatomy, angiographic projections, and real-case interpretation](simulator-teaching-improved-all-three-test-parts.md) — related

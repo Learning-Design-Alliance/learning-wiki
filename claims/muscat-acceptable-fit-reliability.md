@@ -47,3 +47,4 @@ Confirmatory factor analysis performed on the same cross-sectional survey sample
 ## Related Claims
 - [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
 - [Excluding low-loading items yields an eight-item ACLS rubric with better CFA fit than the full ten-item form](cfa-eight-item-acls-rubric-fit.md) — related
+- [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related

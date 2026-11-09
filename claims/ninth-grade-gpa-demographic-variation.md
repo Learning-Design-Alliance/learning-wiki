@@ -72,3 +72,4 @@ Descriptive, unadjusted analyses of pooled 2006-13 CPS cohorts (Figures 2-7): ge
 - [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](schedule-gpa-gender-moderators-college-algebra.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Female gender and private school attendance predict high achievement in the socio-demographic model but are overshadowed by health behaviors](gender-school-type-overshadowed-by-health-behaviors.md) — related
+- [Girls earn significantly higher and significantly less variable teacher-assigned grades than boys overall](girls-higher-less-variable-grades-overall.md) — related

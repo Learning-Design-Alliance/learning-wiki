@@ -50,3 +50,4 @@ Authors' interpretation of focus-group responses on training difficulties: three
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Teachers perceive roda viva as useful for debates and for student-led resolution of intra-group conflicts](roda-viva-perceived-useful-debates-conflict-resolution.md) — related
 - [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — a broader claim this one bears on
+- [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related

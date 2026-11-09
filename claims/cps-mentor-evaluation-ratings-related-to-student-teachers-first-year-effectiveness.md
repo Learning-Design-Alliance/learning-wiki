@@ -71,3 +71,4 @@ The same hired-cohort analysis found mentor qualifications "including their year
 - [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) — related
 - [Mentoring residents improves mentors' own teaching practice](mentoring-residents-improves-mentor-practice.md) — related
 - [Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings](cps-placement-school-characteristics-unrelated-first-year-effectiveness.md) — related
+- [Career selection events (hiring, pre-tenure, tenure) prioritize research over teaching, providing little or no selection for student-centered pedagogy](career-selection-prioritizes-research-over-teaching.md) — related

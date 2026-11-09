@@ -50,3 +50,4 @@ Conventional qualitative content analysis of semi-structured interviews with 16 
 - [Psychological readiness of the feedback receiver is perceived as a prerequisite for translating feedback into improvement](receiver-psychological-readiness-prerequisite.md) — related
 - [Tensions arise when there is a perceived imbalance in the centering of social justice](social-justice-tensions-perceived-imbalance.md) — related
 - [Qualitative analysis found Web 2.0 tool adoption intertwined with shifting power dynamics, pedagogical vulnerability, emotional labour of inclusion, and institutional resistance](web20-adoption-qualitative-themes.md) — related
+- [Perceived power differentials between residents and allied healthcare professionals fluctuate and create barriers to providing and accepting multisource feedback](msf-power-dynamics-barriers.md) — related

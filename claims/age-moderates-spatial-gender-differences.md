@@ -52,3 +52,4 @@ Moderator analysis within the single-paper meta-analyses of the pooled US, Irish
 - [Instrument type moderated the mental rotation gender-difference effect size but not the visualisation effect size](instrument-type-moderates-mental-rotation-gap.md) — related
 - [A medium gender difference in mental rotation favouring boys exists across adolescence and is already apparent at the beginning of adolescence](mental-rotation-gender-gap-adolescence-medium.md) — related
 - [A small gender difference in visualisation favouring boys exists across adolescence and is robust across measurement instruments](visualisation-gender-gap-adolescence-small.md) — related
+- [Gender differences in grade mean and variability are already present in childhood and do not increase during adolescence](grade-gender-gap-present-in-childhood-not-adolescent-growth.md) — related

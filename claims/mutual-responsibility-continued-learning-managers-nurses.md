@@ -51,3 +51,4 @@ Subtheme 'Mutual responsibility' from the manager interviews. Managers acknowled
 - [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Faculty members reportedly lose practice competence over time, motivating continuous professional development](faculty-lose-practice-competence-cpd-needed.md) — related

@@ -50,3 +50,5 @@ The review reports, citing Stains et al. 2018, a large-scale observation study u
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
 - [Active learning and inclusive practices are associated with better outcomes and reduced equity gaps, though evidence is contested and uptake remains low](active-learning-reduces-equity-gaps-contested.md) — related
+- [Interventions targeting individual departments or institutions may fail to change the broader academic system because selection hurdles and transmission pathways favor lecture](local-pedagogical-interventions-may-fail-systemically.md) — related
+- [PhD-granting institutions, especially the most prestigious, disproportionately reproduce pedagogical culture because they train future faculty](phd-granting-institutions-reproduce-pedagogical-culture.md) — related

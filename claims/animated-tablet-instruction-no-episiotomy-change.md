@@ -50,3 +50,4 @@ Results of the interventional cohort study comparing episiotomy rates before and
 - [Hands-on training of birth attendants in bimanual perineal support significantly reduced episiotomy rates among primiparous women in intervention hospitals](hands-on-bpst-training-reduced-episiotomy-rates.md) — related
 - [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related
 - [Episiotomy rates in nonintervention hospitals did not change significantly during either intervention phase](nonintervention-hospitals-episiotomy-unchanged.md) — related
+- [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related

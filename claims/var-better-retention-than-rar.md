@@ -50,3 +50,4 @@ The review reports Prakash and colleagues' evaluation of VAR versus RAR debriefi
 - [Airway management skills decay significantly after training in both simulation-based and non-simulation based groups, with between-group differences no longer evident at follow-up](airway-skill-decay-both-training-groups.md) — related
 - [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — related
 - [Individual and group reflection produce similar MCQ scores at the 60-day voluntary follow-up](ir-gr-similar-long-term-retention-60-days.md) — related
+- [Long-term advantage of video-based over text-based key feature testing is statistically non-significant, with only weak Bayesian support](video-testing-retention-weak-evidence.md) — related

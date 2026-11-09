@@ -55,3 +55,5 @@ Observational SNA analysis across the 12 PBL courses comparing multigraph, weigh
 - [Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.](post-size-unreliable-tie-weight.md) — related
 - [Educational Platform Use is the only ICT use significantly correlated with academic performance (negatively)](epu-only-ict-use-correlated-with-performance.md) — related
 - [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related
+- [Group cohesion and interactivity parameters (clustering coefficient, density, average degree) correlate positively with performance, while group size correlates negatively](group-cohesion-density-correlate-with-performance.md) — related
+- [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related

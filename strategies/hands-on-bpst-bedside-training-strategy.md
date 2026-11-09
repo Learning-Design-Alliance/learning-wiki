@@ -51,6 +51,7 @@ A multi-component hands-on training recipe for teaching a clinical skill: face-t
 
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
+- [Blended learning package combining an animated e-learning video with structured face-to-face training and supervised real-life practice](blended-bpst-training-package-strategy.md)
 
 ## Examples
 -

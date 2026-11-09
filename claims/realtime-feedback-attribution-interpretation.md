@@ -16,12 +16,14 @@ sources:
     author: McCoy C. Eric MD, MPH; Rahman Asif MD; Rendon Juan C. MD; Anderson Craig L. PhD, MPH; Langdorf Mark I. MD, MPHE; Lotfipour Shahram MD, MPH; Chakravarthy Bharath MD, MPH
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The authors attribute the simulation group's CPR performance advantage to real-time feedback and immersion fidelity (authors' interpretation, not a tested result)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 McCoy C. Eric MD, MPH; Rahman Asif MD; Rendon Juan C. MD; Anderson Craig L. PhD, MPH; Langdorf Mark I. MD, MPHE; Lotfipour Shahram MD, MPH; Chakravarthy Bharath MD, MPH. (2019). Randomized Controlled Trial of Simulation vs. Standard Training for Teaching Medical Students High-quality Cardiopulmonary Resuscitation. Western Journal of Emergency Medicine. https://doi.org/10.5811/westjem.2018.11.39040
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Authors' interpretation offered in the Discussion without a direct test in this trial; the article states "We believe the feedback that is provided through high-fidelity simulation is what resulted in superior CPR performance in the SIM group." No effect size or test was printed for this attribution.
 

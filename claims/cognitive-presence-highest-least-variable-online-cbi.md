@@ -58,3 +58,4 @@ Descriptive statistics (means and SDs) from the study's survey of 47 graduate st
 - In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables. — related
 - [Students in higher SRL profiles perceive significantly higher teaching, social, and cognitive presence than students in lower SRL profiles](higher-srl-profiles-higher-coi-perceptions.md) — related
 - [Across all eight cases, the Integration dimension achieved the highest grand mean (4.61) while the Interest dimension received the lowest rating (4.15) with the smallest standard deviation.](pbl-bridge-integration-highest-interest-lowest-case-dimension.md) — related
+- [No differences in community of inquiry perceptions between higher- and lower-performing students in pre- or post-course surveys](no-achiever-group-differences-coi-perceptions.md) — related

@@ -78,3 +78,4 @@ Qualitative thematic analysis of open-ended responses independently coded by two
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
 - [Qualitative content analysis of students' open responses identified five dimensions: operational aspects, emotional aspects, facilitation, debriefing development, and areas of improvement](maes-qualitative-five-dimensions.md) — related
 - [Residents reported that boot camp participation enhanced their confidence and readiness for managing patient care in the NICU](boot-camp-enhanced-resident-confidence-readiness.md) — related
+- [Qualitative responses reveal students' difficulty feeling compassion despite showing empathic behaviour after communication skills training](difficulty-feeling-compassion-despite-empathic-behaviour.md) — related

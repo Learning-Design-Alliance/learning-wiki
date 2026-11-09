@@ -66,3 +66,4 @@ Narrative review attribution within the teaching-methods burst discussion: the r
 ## Related Claims
 - [Modern teaching methods significantly improve nursing students' problem-solving abilities (SMD = 1.05)](modern-methods-improve-nursing-problem-solving-meta.md) — related
 - [The certainty of evidence for the effects of teaching strategies on critical thinking ranges from very low to moderate, with no strategy rated high.](certainty-of-evidence-teaching-strategies-critical-thinking-very-low-to-moderate.md) — related
+- [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](ebp-teaching-enhances-analytical-skills-nursing.md) — related

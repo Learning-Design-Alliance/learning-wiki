@@ -60,3 +60,4 @@ A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65
 - [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related
 - [Students' perceived preparedness, participation, and effectiveness improved after the flipped course, while satisfaction changes were insignificant](flipped-course-survey-improvements.md) — related
 - [E-learning on patient safety increased medical students' perceived preparedness for safe patient practice, sustained at one year](elpas-preparedness-increase-sustained.md) — related
+- [The proportion of participants achieving the pass mark increased from 18.2% pretraining to 58.7% posttraining](malnutrition-elearning-pass-mark-increase.md) — related

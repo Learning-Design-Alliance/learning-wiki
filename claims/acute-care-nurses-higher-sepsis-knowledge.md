@@ -56,3 +56,5 @@ One-way ANOVA across clinical areas in the 355-nurse survey found significant di
 - [Nurse educators showed better research knowledge and skills than clinical nurses (89.6% vs 58.9% with better knowledge)](educator-clinician-ebp-knowledge-gap-ghana.md) — related
 - [ICU nurses report targeted knowledge gaps in sepsis risk factors, screening tools, and infection-prevention strategies](icu-nurse-sepsis-knowledge-gaps.md) — related
 - [Most ICU nurses believe early sepsis detection saves lives and that their care can improve sepsis outcomes](icu-nurses-believe-early-sepsis-detection-saves-lives.md) — related
+- [Most ICU nurses in Dar es Salaam hospitals demonstrated undesirable overall knowledge of ETS evidence-based recommendations](icu-nurses-undesirable-ets-knowledge.md) — related
+- [ICU training was associated with higher knowledge but showed no significant association with observed ETS practice](knowledge-practice-gap-icu-training.md) — related

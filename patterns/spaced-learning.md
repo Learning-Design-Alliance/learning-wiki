@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 97 claims (42 for, 50 mixed, 5 against) · 72 studies (40 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 72 report an effect size · 92 claims rest on one study
+> **Evidence** · 98 claims (43 for, 50 mixed, 5 against) · 73 studies (40 causal, 14 review, 7 quant-synthesis, 5 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 73 report an effect size · 93 claims rest on one study
 
 ## Description
 
@@ -118,6 +118,7 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 - [Repeated simulation training with a one-month interval accelerated the learning curve and reduced inter-individual variability](../claims/repeated-simulation-sets-accelerate-learning-curve.md) [+W] — attached 2026-11-08 from Oh Eun Jung et al. (2020), which proposed "Use distributed repeated simulation training sets with an inter-training interval rather than massed training"; tests this page's relationship.
 - [Shorter CPR training intervals yield faster skill acquisition: daily training outperforms quarterly by session 4](../claims/shorter-cpr-intervals-faster-acquisition.md) [+W] — attached 2026-11-08 from Oermann Marilyn H. et al. (2020), which proposed "Space novice psychomotor skill practice at short intervals with real-time feedback to speed skill refinement"; tests this page's relationship.
 - [Frequent simulation repetition lowers 24-hour sympathetic activity on simulation days: group × time interaction in LF/HF ratio favoring the 9-session group](../claims/repeated-simulation-lowers-24h-sympathetic-activity.md) [+M] — attached 2026-11-08 from Ghazali Daniel Aiham et al. (2019), which proposed "Schedule repeated simulation sessions about every six weeks so trainees habituate and simulation stress ceases to spill into daily life"; tests this page's relationship.
+- [Longer practice gaps reduce recruitment of motor and visual modules, so RAS learning gains deteriorate with irregular practice](../claims/practice-gap-reduces-module-recruitment.md) [+W] — attached 2026-11-09 from Shafiei Somayeh B. et al. (2018), which proposed "Schedule regular, continuous practice in RAS training because brain-function gains deteriorate with long practice gaps"; tests this page's relationship.
 
 ## Elements
 

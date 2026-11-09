@@ -49,3 +49,4 @@ Descriptive statistics (means, SDs, pass rates) for all assessment items and fiv
 - [OSCE performance differs by specialty in physical examination, basic operational skills, auxiliary examination analysis, and case analysis, with clinical medicine students outperforming anesthesiology students](osce-specialty-differences-four-modules.md) — related
 - [Female medical students score significantly higher than male students on OSCE modules and total score except auxiliary examination analysis](female-osce-outperformance-except-auxiliary-examination.md) — related
 - [In the OSCE module network, Pediatric Skills and Nursing Skill show the strongest edge, followed by Cardiac Auscultation and Pulmonary Auscultation](osce-network-strongest-module-edges.md) — related
+- [Self-assessment produced the highest mean score of the four marker groups for the history-taking task](self-assessment-highest-mean-score.md) — related

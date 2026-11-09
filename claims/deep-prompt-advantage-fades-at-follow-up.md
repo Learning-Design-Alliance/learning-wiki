@@ -76,3 +76,4 @@ Authors' interpretation of the Experiment B follow-up data: even high-quality de
 - [The AI-enhanced group showed significantly higher one-month knowledge retention than both comparison groups](ai-enhanced-higher-knowledge-retention.md) — related
 - [One month after the course, knowledge retention did not differ significantly between the AI-assisted and traditional-teaching groups](deepseek-assistant-no-retention-advantage-one-month.md) — related
 - [Advantages of scaffolded case-based learning persist and widen at Week 8, including significant knowledge retention differences](scaffolded-cbd-week8-retention.md) — reports the opposite
+- [Long-term advantage of video-based over text-based key feature testing is statistically non-significant, with only weak Bayesian support](video-testing-retention-weak-evidence.md) — related

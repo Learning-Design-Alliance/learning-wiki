@@ -70,3 +70,4 @@ Same focus-group data, communication domain: a student described adapting langua
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related
+- [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related

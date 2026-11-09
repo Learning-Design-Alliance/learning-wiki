@@ -68,3 +68,4 @@ MANOVA on CCTDI pretest/posttest scores across the three instructional groups sh
 - [The PBL step-by-step process from problem to solution is credited by the authors with improving learners' systematicity and self-confidence](pbl-stepwise-process-systematicity-self-confidence.md) — reports the opposite
 - [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](mooc-blended-critical-thinking-mixed.md) — related
 - [Open-mindedness is the CT subscale that primarily predicts improvement in the preparation dimension of PBL performance](open-mindedness-predicts-preparation-improvement.md) — related
+- [The intervention did not shift student dispositions toward collaboration or perceptions of the classroom environment](no-disposition-shift-ccem.md) — related

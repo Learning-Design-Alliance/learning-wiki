@@ -52,3 +52,4 @@ Multiple linear regression targeting retention exam scores with midterm format, 
 - [Midterm format has no overall effect on retention exam scores five months after the course](midterm-format-no-overall-retention-effect.md) — related
 - [Midterm format and cognitive level interact on the retention exam: non-cumulative students retain more on high-order questions](retention-cognitive-level-interaction.md) — related
 - [Students perceive cumulative midterms as more beneficial for retention regardless of the format they experienced](students-prefer-cumulative-midterms.md) — related
+- [The exam benefit of the TQ assignment was significant only for low-transition reasoners, with no significant interaction between reasoning ability and treatment](tq-benefit-low-transition-reasoners.md) — related

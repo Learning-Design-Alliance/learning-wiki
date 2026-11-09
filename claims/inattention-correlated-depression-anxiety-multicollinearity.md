@@ -51,3 +51,4 @@ Preliminary correlational analysis (Table 4 and the Statistical Preparation sect
 - [Neither ADHD symptoms alone nor combined with comorbid symptoms significantly predict first-semester GPA; only depressive symptoms show a significant independent contribution](no-adhd-comorbidity-prediction-first-semester-gpa.md) — related
 - [Inattention symptoms, but not hyperactivity-impulsivity symptoms, predict academic performance and academic adjustment in South African first-year undergraduates](inattention-not-hyperactivity-predicts-academic-success.md) — related
 - [Depressive symptomatology is significantly inversely correlated with students' overall evaluation of the distance education experience](depression-negatively-correlated-de-evaluation.md) — related
+- [Poorer study skills correlate with higher depressive symptoms among medical students](poor-study-skills-correlate-depressive-symptoms.md) — related

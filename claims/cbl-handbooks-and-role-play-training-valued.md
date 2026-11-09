@@ -48,3 +48,4 @@ IPA interview theme on supporting resources: the 'Facilitators Case Handbooks' w
 - [Reflective practice, supported by individual and group supervision, helped facilitators learn from rather than be derailed by challenging cases](reflective-practice-supervision-challenging-cases.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Facilitators reported reduced preparation time using the CBL module compared with preparing didactic teaching materials de novo](cbl-pediatric-meningitis-facilitator-prep-time.md) — related
+- [India field trial: 22 of 24 participants felt well-prepared to facilitate, with facilitator interaction, workshop structure, and quality improvement content rated most effective](hbb2-india-field-trial-themes.md) — related

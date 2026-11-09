@@ -47,3 +47,4 @@ Pre- and post-training 5-point Likert self-confidence surveys administered in th
 ## Related Claims
 - [PA students' self-rated confidence in performing ultrasound-guided cyst drainage was significantly higher after cadaver-based simulation training across all assessed procedure aspects, in a one-group pre-test/post-test study with no comparison group](pa-cadaver-simulation-increases-procedure-confidence.md) — possibly the same claim (merge candidate)
 - [Confidence to perform the procedure on a live patient without help rose from 1.06 to 3.70 on the 5-point scale after training](live-patient-confidence-item-increase.md) — related
+- [Final-year medical students' practical application exam scores rose from 1.1 ± 0.9 to 10.9 ± 0.2 from pre-test to post-test after simulation-based ultrasound training, in one single-group study with no comparison group](simulation-ultrasound-training-improves-practical-scores.md) — related

@@ -16,18 +16,22 @@ sources:
     author: "Brockfeld, T., Müller, B., & de Laffolie, J."
     q: 2
     i: 0
+    kind: causal
+    rigour: 2
   - id: brockfeld-2018-2
     resource: "https://doi.org/10.1080/10872981.2018.1555434"
     title: "Brockfeld, T., Müller, B., & de Laffolie, J. (2018). Video versus live lecture courses: a comparative evaluation of lecture types and results. Medical Education Online, 23(1). https://doi.org/10.1080/10872981.2018.1555434"
     author: "Brockfeld, T., Müller, B., & de Laffolie, J."
     q: 1
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Live and video lectures produce statistically indistinguishable exam performance across the complete clinical medical-exam content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2` · `i0` negligible
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q1`–`q2` · `i0` negligible
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Brockfeld, T., Müller, B., & de Laffolie, J. (2018). Video versus live lecture courses: a comparative evaluation of lecture types and results. Medical Education Online, 23(1). https://doi.org/10.1080/10872981.2018.1555434
 
-`q2 · i0`
+`q2 · i0` · `causal · r2`
 
 Crossover analysis of 205 course participants' answers to 301 exam questions assigned to lecture days; 61,705 question responses total. The article reports the difference as n.s. with p = 0.407 and effect size ω = 0.003337, calling the video group "on average 0.332 percentage points better".
 
@@ -50,7 +54,7 @@ Crossover analysis of 205 course participants' answers to 301 exam questions ass
 
 Brockfeld, T., Müller, B., & de Laffolie, J. (2018). Video versus live lecture courses: a comparative evaluation of lecture types and results. Medical Education Online, 23(1). https://doi.org/10.1080/10872981.2018.1555434
 
-`q1 · i0`
+`q1 · i0` · `causal · r2`
 
 Authors' power analysis in the Discussion: at n = 61,705 the study could have detected ω = 0.012128, and the observed ω = 0.003337 was significantly smaller, so any live–video difference is negligible.
 

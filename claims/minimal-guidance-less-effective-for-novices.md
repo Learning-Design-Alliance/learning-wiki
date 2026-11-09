@@ -334,3 +334,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](guidance-moderates-digital-inquiry.md) — a narrower finding that bears on this claim
 - [During initial bandaging practice, novice students taught with minimal implicit instructions performed comparably to students taught with a detailed explicit protocol](implicit-instruction-comparable-practice-performance-bandaging.md) — a narrower finding that bears on this claim
 - [Confronting learners with ill-structured, non-routine tasks and self-directed discovery is a key task/training characteristic for adaptive expertise](ill-structured-tasks-discovery-adaptive-expertise.md) — reports the opposite
+- [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related

@@ -62,3 +62,4 @@ Reliability analysis of a random subset of 10 videos independently evaluated by 
 - [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
+- [Metrics-based assessment of epidural catheter placement achieves high inter-rater reliability (0.88) and discriminates experts from novices](metrics-assessment-high-irr-construct-validity.md) — related

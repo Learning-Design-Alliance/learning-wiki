@@ -60,3 +60,4 @@ Discussion of the case study's interview and SoCQ findings: teachers developed C
 - [Teachers' AI integration followed a developmental trajectory from self to task and impact concerns](ai-integration-self-task-impact-trajectory.md) — reports the opposite
 - [A prolonged period of forced online teaching does not necessarily lead to increased adoption; regression of adoption may occur due to stress and burnout](forced-online-teaching-not-increase-adoption.md) — related
 - [Institutions adopting LA reported success primarily as gaining experience, knowledge, and improved attitudes rather than measurable learning outcomes](la-success-as-gaining-experience.md) — related
+- [Endorsement of active-learning practices declines across each stage of the EPIC adoption process](active-learning-endorsement-declines-across-epic-stages.md) — related

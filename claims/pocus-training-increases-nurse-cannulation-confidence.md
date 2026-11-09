@@ -53,3 +53,4 @@ Prospective pre-test post-test evaluation with 15 nurses at three regional haemo
 - [Nurses' self-reported comfort with ultrasound-guided PIV placement increased after asynchronous training, while comfort without ultrasound did not change](comfort-us-piv-increased-post-training.md) — related
 - [Patient communication training significantly increases medical physics graduate students' self-reported confidence on four communication measures](confidence-gains-patient-communication-training-medphys.md) — related
 - [Confidence in POCUS rose from 1.5 to 3.1 on a 4-point scale after the two-day course and remained unchanged at one year (2.73)](iscan-confidence-increase-maintained.md) — related
+- [Self-reported comfort performing basic obstetric ultrasound increased for all participant groups after the training intervention](ultrasound-training-increases-self-reported-comfort-all-groups.md) — related

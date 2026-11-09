@@ -60,3 +60,4 @@ Construct-validity audit (Stage 2) of 311 deployed LLM-generated MCQs in two dat
 - [Little post-2014 progress on generating questions of controlled difficulty, feedback generation, and verbalisation](aqg-little-progress-difficulty-feedback-verbalisation.md) — reports the opposite
 - [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](active-learning-gains-across-bloom-difficulty-levels.md) — related
 - [Teachers' trial-by-trial predictions about learners' performance track the actual performance of an independent sample of learners](teacher-predictions-track-independent-learner-performance.md) — related
+- [Exam cognitive level, question type, and content coverage were similar across control and reading-quiz terms, ruling out reduced exam rigor](exam-rigor-similar-across-quiz-and-control-terms.md) — related

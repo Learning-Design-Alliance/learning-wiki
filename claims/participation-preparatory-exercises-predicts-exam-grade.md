@@ -52,3 +52,4 @@ Linear regressions on the volunteered subsample (e.g. Year 1 n = 269 to Year 4 n
 - [During the intervention, linear algebra exam performance rose distinctly above overall first-year performance, a pattern the authors interpret as intervention impact beyond cohort differences](linear-algebra-performance-above-overall-first-year-trend.md) — related
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
 - [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](measured-self-testing-predicts-course-score.md) — related
+- [The number of questions a student asked during TQ sessions significantly predicted final exam performance above reasoning ability and attendance](questions-asked-predict-final-exam.md) — related

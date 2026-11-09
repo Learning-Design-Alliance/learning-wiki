@@ -47,3 +47,4 @@ Items from the student questionnaire (n = 230 returned) in the cross-sectional c
 ## Related Claims
 - [Group work on the research project fostered interaction and peer learning, with about 80% of students reporting they learned more in a group than alone](group-work-peer-learning-research-projects.md) — possibly the same claim (merge candidate)
 - [First-year medical students perceived poster preparation as helping them select important material for presentation (92% agreement)](poster-preparation-helped-select-important-material.md) — related
+- [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related

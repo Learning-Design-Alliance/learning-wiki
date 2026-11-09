@@ -48,3 +48,4 @@ Comparison-condition moderator analysis in the unassisted-discovery meta-analysi
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Explicit instruction produces greater learning than unassisted discovery learning under most conditions](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Meta-analytic evidence cited in the article: enhanced discovery learning outperforms other instruction, while unassisted discovery does not benefit learners](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related
+- [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related

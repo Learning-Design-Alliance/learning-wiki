@@ -93,3 +93,4 @@ RCT randomising 49 neonatal learners with under one year of intubation experienc
 - [Trainee autonomy scores did not significantly change from pre-test to post-test in one uncontrolled pre-post study of structured video-assisted coaching during the short course timeframe](coaching-no-autonomy-improvement.md) — related
 - [Video laryngoscope use is associated with higher first attempt success than direct laryngoscope among EM trainees](video-laryngoscope-higher-fas-than-direct.md) — related
 - [Video laryngoscopy shows higher novice success rates with fewer complications than direct laryngoscopy, though findings are inconsistent across studies](vl-novice-advantage-mixed-evidence.md) — related
+- [Intubation success rates are comparable with one staff member versus a five-person audience](audience-no-effect-intubation-success-rates.md) — related

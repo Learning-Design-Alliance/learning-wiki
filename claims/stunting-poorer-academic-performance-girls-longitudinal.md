@@ -52,3 +52,4 @@ Repeated measures ANOVA with post hoc Bonferroni adjustment in the NW-CHILD long
 - [No interaction effects between nutrition groups were found for academic performance over time](no-interaction-effects-nutrition-groups-academic.md) — related
 - [Academic performance declined significantly from grade 1 to grade 7, with mathematics falling from 76.90% to 51.26% and GPA from 74.45% to 59.21%](academic-decline-grade1-to-grade7.md) — related
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — reports the opposite
+- [No significant effects on schooling were observed for children stunted at birth](birth-stunting-no-significant-schooling-effects.md) — related

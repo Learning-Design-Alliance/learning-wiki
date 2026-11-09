@@ -16,12 +16,14 @@ sources:
     author: Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In the pilot study, teachers' acceptability of the PAL training was lower, with teachers judging activities insufficiently challenging for secondary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther. (2019). Introducing physically active lessons in UK secondary schools: feasibility study and pilot cluster-randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025080
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Whole-school pilot cluster-randomised trial with all-subject teachers; questionnaire and focus-group data on training acceptability. The article reports average acceptability scores "fell below 4 (the 'neutral' value)" and that activities were "not sufficiently challenging for secondary students".
 

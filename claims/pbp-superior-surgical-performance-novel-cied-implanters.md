@@ -79,3 +79,4 @@ Results section of the randomized trial reports that apart from non-critical Err
 - [IVR-trained residents made fewer critical procedural errors in guide pin insertion, glenoid reaming, and baseplate sizing than video-trained controls](ivr-training-fewer-critical-errors-rsa.md) — related
 - [PBP training achieved communication skill acquisition rates of about 60%, similar to rates seen with technical skills using this approach](pbp-communication-skill-acquisition-rate-similar-to-technical-skills.md) — related
 - [E+PBP training produced more completed steps and fewer combined errors and critical errors than E or E+S training](pbp-more-steps-fewer-errors-secondary-outcomes.md) — related
+- [Proficiency-based progression training reduces labour epidural failure rate compared with simulation-only training in novice anaesthetic trainees](pbp-training-reduces-labour-epidural-failure-rate.md) — a narrower finding that bears on this claim

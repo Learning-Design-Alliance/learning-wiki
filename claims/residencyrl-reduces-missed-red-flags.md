@@ -50,3 +50,4 @@ Held-out adversarial safety evaluation comparing the ResidencyRL-trained agent t
 - [Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas](multi-strategy-adversarial-testing-lowers-rpla-robustness.md) — related
 - [Procedural competencies from simulation-based RL training generalize to out-of-domain benchmarks including AMIE Mx, AgentClinic, and CRAFT-MD](residencyrl-generalizes-out-of-domain.md) — related
 - [Blinded board-certified clinicians prefer the RL-trained agent in 87.6% of side-by-side comparisons for overall clinical impression](residencyrl-clinician-preference-side-by-side.md) — related
+- [Premature closure occurred significantly more often in group W than group S, and confidence differed across groups](premature-closure-more-likely-group-w.md) — related

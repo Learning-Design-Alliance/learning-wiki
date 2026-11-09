@@ -50,3 +50,4 @@ Multilevel moderation analysis (Model B, PISA 2018) treating cultural distance a
 - [Students in countries culturally more distant from the US (less WEIRD) endorse growth mindsets less, r(46) = -.47](non-weird-countries-endorse-growth-mindsets-less.md) — related
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](pgi-moderation-growth-mindset-performance.md) — related
+- [Summer Institutes participants lean toward growth mindset, but a substantial minority endorse fixed-mindset items](faculty-mindset-distribution-summer-institutes.md) — related

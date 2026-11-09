@@ -45,5 +45,5 @@ Secondary analysis of self-scoring during the test/study phase of the map-learni
 
 
 ## Related Claims
-- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](unsuccessful-retrieval-smaller-benefit-than-successful.md) — related

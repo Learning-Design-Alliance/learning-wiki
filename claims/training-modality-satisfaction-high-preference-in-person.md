@@ -69,3 +69,4 @@ Questionnaire item on preferred training modality. Despite comparable satisfacti
 - [Most participants in both groups rated their randomized training tool as helpful and enjoyable, and three quarters wanted more digitalization in medical education](positive-subjective-ratings-both-training-tools.md) — related
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related
 - [Surgical residents rate laparoscopic procedures on Fix4Life cadavers as Good or Very Good for face validity](residents-rate-fix4life-good-face-validity.md) — related
+- [Most participants in both groups preferred the instruction-then-discovery sequence](students-prefer-instruction-first.md) — related

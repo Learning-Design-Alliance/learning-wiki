@@ -56,3 +56,4 @@ Comparison of expert evaluation scores between overestimation and underestimatio
 - [Trainee-supervisor rating agreement improves as supervisor ratings rise, with lower-rated trainees more likely to over-rate themselves](rating-agreement-improves-with-higher-supervisor-rating.md) — related
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related
 - [Peer and report (staff) assessments rated managers significantly higher than managers rated themselves on all six competencies, while only knowledge differed significantly for supervisors](peer-report-ratings-higher-than-self-all-competencies.md) — related
+- [Among nursing students, 30 of 39 scored themselves lower than faculty on clinical competence in an OSCE evaluation](students-underestimate-competence-versus-faculty-osce.md) — related

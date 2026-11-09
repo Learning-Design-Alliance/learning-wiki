@@ -53,3 +53,4 @@ Phenomenological analysis of debriefing data, performed by a senior surgical att
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
 - [Phenomenological interviews identified four themes of graduate nurses' lived experience: pleasant discovery, useful learning, emotional change, and an active learning process](lived-experience-four-themes-repeated-simulation.md) — related
+- [Simulation-specific themes of fidelity and the simulation instructor's multiple roles emerged only in debrief data](simulation-specific-themes-fidelity-facilitator-roles.md) — related

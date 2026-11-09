@@ -67,7 +67,7 @@ Experiment 2 final recall in both sessions favored the instructed group, showing
 
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — possibly the same claim (merge candidate)
-- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [On a delayed assessment 1 to 3 months later, many students transferred their appreciation of variation to another context and could explain the meaning of variation](delayed-assessment-variation-transfer.md) — related

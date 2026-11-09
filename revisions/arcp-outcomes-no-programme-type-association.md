@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/arcp-outcomes-no-programme-type-association.md
+---
+
+# Revision history: [claims/arcp-outcomes-no-programme-type-association](../claims/arcp-outcomes-no-programme-type-association.md)
+
+### 2026-11-09 · ingest · process:wiki-ingest
+Ingested from pmc-6219209 (Impact of accelerated, graduate-entry medicine courses: a comparison of profile, success, and specialty destination between graduate entrants to accelerated or standard medicine courses in UK.) via eval_harness.py + ingest_extractions.py

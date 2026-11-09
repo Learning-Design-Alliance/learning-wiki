@@ -56,3 +56,4 @@ Multicenter prospective study in which 60 participants across three experience g
 - [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — reports the opposite
 - [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related
 - [The eoSim differentiates expertise groups on the intracorporeal suturing task in time and distance, demonstrating construct validity for those parameters](eosim-task1-construct-validity-time-distance.md) — related
+- [Force, motion and time parameters were largely uncorrelated in trials-to-proficiency, indicating time and motion monitoring alone does not capture tissue manipulation](force-motion-time-parameters-uncorrelated.md) — related

@@ -27,7 +27,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (18 for, 11 mixed, 1 against) · 23 studies (14 qualitative, 4 design, 2 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 23 report an effect size · 30 claims rest on one study
+> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 24 studies (14 qualitative, 4 design, 2 review, 2 associational, 1 causal, 1 theoretical), `q1`–`q2` · 0 of 24 report an effect size · 31 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +125,7 @@ Claims the earlier page cited that are not core evidence above, each with what i
 - [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](../claims/instructors-part-of-the-solution-frameshift.md) [+W]: one project team's dialogue (`q1`). Bears on staff as the group sharing power; used above.
 - [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](../claims/states-co-design-voice-counts.md) [+W]: a count from a review of state AI-in-education guidance (`q2`, `review · r2`). Context on how often policy names co-design; it does not bear on whether co-design works.
 - [Staff and students in three California schools describe collaboration among leaders, teachers and students as improving buy-in and creating student leadership opportunities](../claims/collaboration-buy-in-student-leadership.md) [+W]: used above among the perception claims.
+- [A majority of schools involved people with intellectual disability in designing and teaching content, but the extent of involvement was inconsistent](../claims/inclusive-teaching-people-with-id-audit.md) [+W] — attached 2026-11-09 from Trollor JN et al. (2018), which proposed "Medical schools should renew intellectual disability curricula using varied teaching methods and inclusive teaching involving people with intellectual disability".
 
 ## Illustrative design instance and observation record
 

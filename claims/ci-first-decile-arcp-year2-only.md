@@ -69,3 +69,4 @@ Odds ratio analysis of first-CI-decile students failing to achieve the optimum A
 - [Conscientiousness Index scores in years 1–2 of medical school significantly correlate with later UK Foundation Programme Situational Judgement Test scores](ci-predicts-foundation-programme-sjt.md) — related
 - [Conscientiousness Index scores significantly correlate with Prescribing Safety Assessment scores, and first-decile students score significantly lower](ci-predicts-prescribing-safety-assessment.md) — related
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
+- [Foundation Programme ARCP outcomes show very few unsatisfactory results and no significant association with type of medicine programme](arcp-outcomes-no-programme-type-association.md) — related

@@ -51,3 +51,4 @@ Descriptive percentages from the questionnaire of Classes 2023 and 2024 students
 - [Students preferred a hybrid ALG model (50.4%) over fully in-person (40.4%) or fully virtual (9.2%), with no significant difference across groups](hybrid-alg-preference-plurality.md) — related
 - [Inductive coding of open-ended responses yielded four themes: virtual format issues, work-life balance, influential group dynamics, and improved connection in-person](alg-qualitative-four-themes.md) — related
 - [Comparison of Class 2025 with Classes 2023 and 2024 showed no significant differences in any survey responses](no-significant-difference-class2025-vs-2023-2024.md) — related
+- [Shared purpose and camaraderie between peer tutors and students fostered close, personalised relationships in PAL](pal-camaraderie-shared-purpose.md) — related
