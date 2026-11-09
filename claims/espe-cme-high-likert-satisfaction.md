@@ -71,3 +71,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Facilitator preparation was the best-rated item in the survey (M = 9.02), with the teacher's role seen as crucial for initial motivation rather than knowledge transmission](maes-facilitators-best-rated-item.md) — a narrower finding that bears on this claim
 - [Postgraduate health professionals rated blended online modules as an effective preparation for face-to-face meetings, with a 7.6 median overall rating](blended-online-preparation-rated-effective-postgraduates.md) — related
 - [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related
+- [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — a narrower finding that bears on this claim

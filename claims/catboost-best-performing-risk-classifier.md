@@ -65,3 +65,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [Random Forest is the best classifier for discriminating trained from untrained VR trainees](random-forest-best-classifier-vrts-student-model.md) — reports the opposite
 - [Random Forest is the best-performing classification model for predicting postgraduate public health students' CGPA category, with 71.43% accuracy and AUC 0.87](random-forest-best-classifier-ap.md) — related
 - [Most learners were repeat users: 77.1% completed more than one module and learners revisited modules an average of 2.84 to 3.82 times](gen-equip-repeat-usage-keeners.md) — related
+- [A logistic regression model using SNA indicators classifies high versus low achievers with 93.3% accuracy (AUC 0.92) in the study dataset](logistic-regression-classifies-achievement-93-percent.md) — related

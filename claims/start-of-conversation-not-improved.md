@@ -16,12 +16,14 @@ sources:
     author: Engerer C, Berberat PO, Dinkel A, Rudolph B, Sattel H, Wuensch A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Start of conversation and patient perception skills do not change significantly after behavior-oriented feedback training, and start of conversation declines slightly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Engerer C, Berberat PO, Dinkel A, Rudolph B, Sattel H, Wuensch A. (2019). Specific feedback makes medical students better communicators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1470-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Discussion of the Table 2 results: the start-of-conversation domain decreased from 2.06 to 1.79 (ES = −0.28) and patient perception rose non-significantly (p = 0.063, ES = 0.48); no effect size is printed for the non-significant findings.
 

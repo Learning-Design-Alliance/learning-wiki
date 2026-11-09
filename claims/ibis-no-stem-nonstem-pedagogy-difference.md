@@ -16,12 +16,14 @@ sources:
     author: Shaw Tarren J., Yang Suann, Nash Troy R., Pigg Rachel M., Grim Jeffrey M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # STEM and non-STEM majors did not differ in how much they valued the IBIS active-learning pedagogy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Shaw Tarren J., Yang Suann, Nash Troy R., Pigg Rachel M., Grim Jeffrey M. (2019). Knowing is half the battle: Assessments of both student perception and performance are necessary to successfully evaluate curricular transformation. PLoS ONE. https://doi.org/10.1371/journal.pone.0210030
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 SALG-based comparison of STEM vs. non-STEM student attitudes across the four cohorts (details in S2 File). The article reports no difference between the groups; no test statistic or effect size is printed in the main text.
 

@@ -50,3 +50,4 @@ The review's discussion states that "Proficiency-based training was an effective
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
 - Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI — related
 - [Training fidelity: low-fidelity manikins performed comparably to high-fidelity manikins for epidural skill acquisition](low-fidelity-manikins-comparable-to-high-fidelity-epidural.md) — related
+- [PBP-trained trainees show a lower clinical learning-curve failure rate than simulation-only trainees across their first 10 epidurals](pbp-learning-curve-failure-rate-lower.md) — a narrower finding that bears on this claim

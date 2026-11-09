@@ -16,12 +16,14 @@ sources:
     author: Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Pre-clinical GPA is not a predictor of matching into highly competitive specialties when considered with COMLEX Level 1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C. (2019). Student academic performance factors affecting matching into first-choice residency and competitive specialties. BMC Medical Education. https://doi.org/10.1186/s12909-019-1669-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Ordinal logistic regression in the cohort. The article reports the unadjusted 66% odds increase per 5-point GPA increment but "no statistically significant association with the adjusted odds"; no effect size is printed for the null adjusted result, so impact is coded i? (no magnitude reported; not a null effect).
 

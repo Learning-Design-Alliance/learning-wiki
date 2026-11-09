@@ -49,3 +49,4 @@ Survey of the 2015 cohort with 174 responses (38.2%); reflexive thematic analysi
 - [The positive predictive relationship between answering PeerWise questions and exam performance is sustained across four cohorts (2015-2018)](peerwise-answering-multiyear-replication.md) — related
 - [Answering PeerWise questions significantly predicts Stage 4 exam performance in fourth-year medical students after controlling for Stage 3 performance](peerwise-answering-predicts-stage4-exam.md) — related
 - [Stage 4 exam score drop was significantly smaller in cohorts after PeerWise introduction than in cohorts before it](peerwise-smaller-stage4-score-drop-post-introduction.md) — related
+- [Students found PeerWise easy to use but did not perceive it as useful for enhancing learning](peerwise-easy-but-not-useful.md) — related

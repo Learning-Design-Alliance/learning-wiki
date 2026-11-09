@@ -137,6 +137,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Multi-level preparation strategy for converting SP cases to digital delivery](sp-case-digital-conversion-preparation-strategy.md)
 - [Develop dedicated online competency modules combined with blended learning and telehealth interactions for clinical skills](blended-learning-telehealth-modules-optometry-strategy.md)
 - [Supervised small-group seminars with simulated patients for communicative-skill training with patient-view feedback](simulated-patient-seminar-feedback-strategy.md)
+- [Evaluate multifaceted training packages combining manikins, computer simulation, expert patients and clinical supervision for pelvic examination competency](multifaceted-pelvic-examination-training-package-strategy.md)
+- [Use interactive virtual patient cases to standardize clinical exposure and reinforce core internal medicine presentations for junior trainees](vp-cases-standardize-clinical-exposure-strategy.md)
 
 ## Examples
 -

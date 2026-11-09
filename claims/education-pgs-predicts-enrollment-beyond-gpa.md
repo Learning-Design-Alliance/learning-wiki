@@ -50,3 +50,4 @@ Year-by-year logistic analyses (Supplementary Table 5) of students enrolled in m
 - [School SES and education-PGS each predicted completing Calculus without a significant interaction, and even top-2% polygenic-score students rarely took Calculus](calculus-completion-pgs-school-ses-no-interaction.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
 - [SES differences in educational achievement persist after accounting for polygenic score differences between children](ses-ea-differences-persist-after-pgs-adjustment.md) — related
+- [Higher curriculum-sampling test scores are associated with higher odds of self-chosen enrollment, indicating the tests may promote self-selection](curriculum-sampling-scores-predict-enrollment-self-selection.md) — related

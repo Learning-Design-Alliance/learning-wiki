@@ -118,3 +118,5 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — reports the opposite
 - [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](sex-female-advantage-not-mathematics.md) — reports the opposite
 - [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](sex-differences-simce-high-school-males.md) — related
+- [The gender gap in grade mean and variability has not changed significantly over the last eight decades](grade-gender-gap-stable-over-80-years.md) — related
+- [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — related

@@ -17,12 +17,14 @@ sources:
     author: "van Rijsewijk, L.G.M., Oldenburg, B., Snijders, T.A.B., Dijkstra, J.K., & Veenstra, R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Segmentation and inequality in classroom help networks are negatively correlated, contrary to theoretical expectations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 van Rijsewijk, L.G.M., Oldenburg, B., Snijders, T.A.B., Dijkstra, J.K., & Veenstra, R. (2018). A description of classroom help networks, individual network position, and their associations with academic achievement. PLoS ONE. https://doi.org/10.1371/journal.pone.0208173
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Bivariate correlations among 54 classrooms showed "Segmentation was moderately and positively related to the proportion of isolates (r = .50, p < .01) and more strongly and negatively related to inequality (r = −.67, p < .01)". This was unexpected as both were theorized as indicators of positive climate.
 

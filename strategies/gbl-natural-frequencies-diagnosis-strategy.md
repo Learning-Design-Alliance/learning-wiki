@@ -56,6 +56,7 @@ A specific implementable training recipe: have learners watch a short video on n
 
 - [Debriefing](debriefing.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
+- [90-minute risk-literacy training session built around natural frequency trees and PPV/NPV curves with small-group practice on real diagnostic tests](ninety-minute-natural-frequency-tree-training-session.md)
 
 ## Examples
 -

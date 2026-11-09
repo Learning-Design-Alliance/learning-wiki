@@ -62,6 +62,7 @@ Music and movement add a second, temporally structured representational channel 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — rhythmic warm-ups can surface counting and pattern knowledge before new instruction
 - [Develop lesson plans covering all learning objectives across various intelligences](comprehensive-lesson-plans-all-objectives-intelligences.md)
 - [Correlate mathematical and scientific studies through manual activities as a plan for lesson concentration](schrag-concentration-manual-activities.md)
+- [Use team body-formation games in which pupils build geometric shapes with their bodies](body-formation-geometry-games-strategy.md)
 
 ## Examples
 - **Karl Schaffer and Erik Stern (Math Dance / Dr. Schaffer and Mr. Stern Dance Ensemble)** — classroom workshops and a TEDx talk using dance to teach counting combinations and symmetry ([https://www.mathdance.org](https://www.mathdance.org)).

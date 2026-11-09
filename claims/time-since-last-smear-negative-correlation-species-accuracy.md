@@ -50,3 +50,4 @@ Kendall's tau-b correlation analysis of 24 participants' background variables ag
 - [Post-training microscopy performance showed no significant correlation with age, gender, educational background, or number of blood smears examined over the preceding 5 years](no-demographic-correlation-with-post-training-performance.md) — related
 - [Prior parasite-morphology experience and recent theoretical or practical training were positively correlated with post-training malaria microscopy performance](prior-morphology-experience-predicts-post-training-accuracy.md) — related
 - [Time since last performing or supervising an intubation correlates poorly with intubation skill assessment scores](time-since-last-eti-poor-correlation-skill.md) — related
+- [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on

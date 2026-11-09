@@ -62,3 +62,4 @@ Multi-level model analysis of the experiment with N = 77 university students per
 - [Dynamic visualizations benefit vocational-school students with lower visual-spatial ability more than those with higher visual-spatial ability](dynamic-visualizations-compensate-low-visual-spatial-ability-vs-students.md) — related
 - [Tokenizer vocabulary size exhibits a concave-down (Goldilocks) relationship with LLM scoring agreement, with diminishing returns beyond moderate sizes](vocab-size-concave-scoring-agreement.md) — a narrower finding that bears on this claim
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](multimedia-advantage-concentrated-visual-spatial-tasks.md) — related
+- [Stress affects performance in an inverted-U fashion, so increased stress does not necessarily impair performance](stress-performance-inverted-u.md) — related

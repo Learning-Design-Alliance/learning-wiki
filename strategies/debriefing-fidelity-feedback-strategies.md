@@ -60,6 +60,7 @@ The review identifies implementation strategies that "significantly enhanced exp
 - [Align simulation topics with students' clinical interests and enhance feedback processes such as video feedback](align-simulation-topics-clinical-interests-video-feedback.md)
 - [Pair e-learning video with embedded feedback and debriefing to target complex decision-making knowledge](video-plus-feedback-for-complex-decision-making.md)
 - [Use a locally trained facilitator to lead debriefings and sustain the curriculum, with debriefing time lengthened as learners gain experience](local-facilitator-debriefing-sustainability.md)
+- [Use immediate, facilitator-led structured debriefing after simulated neonatal resuscitation scenarios; video assistance is optional, not required](immediate-facilitator-led-debriefing-strategy.md)
 
 ## Examples
 -

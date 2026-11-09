@@ -67,3 +67,4 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
 - [Baseline depressive symptoms, but not anxiety symptoms, predict lower GPA at six-month follow-up, though not after controlling for baseline GPA](depression-not-anxiety-predicts-followup-gpa.md) — related
 - [Social networking addiction is negatively and significantly correlated with academic performance (GPA) among medical sciences students](social-networking-addiction-negative-gpa-correlation.md) — related
+- [Mean study skills scores differ across depression severity categories, declining from minimal to severe depression](study-skills-scores-differ-by-depression-severity.md) — related

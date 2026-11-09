@@ -58,3 +58,4 @@ Descriptive demographic comparison of 68 respondents reported in Table 1: grade 
 - [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related
 - [The online and offline groups showed no significant difference in prior third-year examination marks](baseline-third-year-marks-no-group-difference.md) — related
 - [The two cohorts were of equivalent academic standard before the module, with a non-significant mean prior-grade difference of 0.24](cohorts-equivalent-prior-achievement.md) — related
+- [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related

@@ -49,3 +49,4 @@ Linear regression analyzing the effect of robotic surgery experience on outcome 
 - [Force parameters decrease over trials for novices and experts but not intermediates](force-decrease-learning-curve-novices-experts-only.md) — related
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — related
 - [Recent microsurgical suture volume and prior robotic exposure shaped the learning curve: more microscope sutures predicted faster mean time, more loupe sutures predicted larger improvement, and prior robotic experience predicted a less steep improvement](suture-volume-and-robotic-exposure-shape-learning-curve.md) — related
+- [Learning curves for mean force during tissue manipulation (MeanForceNZ) were less present than for time, path length and max force parameters](meanforcenz-learning-curves-less-present.md) — related

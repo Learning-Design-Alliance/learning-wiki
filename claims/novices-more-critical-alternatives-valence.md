@@ -53,3 +53,6 @@ Loglinear analysis of 207 coded alternative-strategy clauses showed a significan
 - [Expert and novice teachers do not differ significantly in the number of alternative teaching strategies they mention when reflecting on their own MET videos](expert-novice-no-difference-alternatives-count.md) — related
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](novices-more-negative-noticing-valence.md) — related
 - [Novice teachers hold misconceptions about differentiation, such as equating DI with personalized instruction](novice-teacher-di-misconceptions.md) — related
+- [Expert active-learning instructors notice creating opportunities for generative work significantly more often than novices](experts-notice-generative-work.md) — related
+- [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — related
+- [Expert active-learning instructors notice planning for topic-specific student difficulties significantly more often than novices](experts-notice-topic-specific-difficulties.md) — related

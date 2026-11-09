@@ -98,3 +98,4 @@ The article reports eye-tracking research (Wolff et al. 2016) showing novices' s
 - [Video-based evaluation changed teacher self-reports and retention but did not improve student achievement](video-evaluation-no-student-achievement-gain.md) — related
 - [Experts show fewer and longer fixations than residents during ECG interpretation, indicating more targeted visual search](experts-fewer-longer-fixations-ecg.md) — related
 - [The more experienced radiologist showed a more uniformly distributed visual search pattern across the chest x-ray, while the less-experienced radiologist focused on regions suspected of abnormality](faculty-uniform-versus-trainee-focused-search-pattern.md) — a narrower finding that bears on this claim
+- [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — a narrower finding that bears on this claim

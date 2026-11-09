@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (20 for, 7 mixed, 2 against) · 26 studies (14 causal, 6 review, 5 quant-synthesis, 1 theoretical), `q2`–`q4` · 13 of 26 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (20 for, 7 mixed, 2 against) · 27 studies (15 causal, 6 review, 5 quant-synthesis, 1 theoretical), `q2`–`q4` · 13 of 27 report an effect size · 25 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -42,7 +42,7 @@ Retrieval practice is the element in which learners recall information from memo
 - [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+M]
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [+W]
 - [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](../claims/retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) [+W]
-- [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
 - [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](../claims/metacognitive-illusion-pretesting-underrated.md) [+W]
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]

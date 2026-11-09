@@ -57,3 +57,4 @@ Spearman correlation analysis among the three instrument components in the 434-p
 - [Baseline self-confidence in ECG interpretation does not correlate with baseline ECG exam performance](no-correlation-confidence-ecg-exam-score.md) — related
 - [Resident and intern ratings of the intern's consult-calling ability show only a moderate positive correlation (r = .43)](moderate-correlation-resident-intern-consult-ability.md) — related
 - [Subjective learning outcomes correlate moderately with objective clinical reasoning performance at post-test and delayed post-test](subjective-outcomes-correlate-with-knowledge-application.md) — related
+- [The correlation between knowledge gain and confidence was weak immediately posttraining but strengthened over time through application (rs=.74 at 6-12 months among appliers)](malnutrition-elearning-knowledge-confidence-correlation.md) — related

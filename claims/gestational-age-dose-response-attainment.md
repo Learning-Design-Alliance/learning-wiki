@@ -62,3 +62,4 @@ Fully adjusted GEE logistic regression models on 14,129 children with complete o
 - [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related
 - [Each successive week born early increases the odds of not attaining a Good Level of Development at age 5 by 1.09, independent of academic month of birth](gestational-age-weekly-odds-failing-gld.md) — related
 - [All very preterm children with full-scale IQ <70 or neurosensory impairment received at least one support service, and IQ <70 is more strongly associated with poor educational performance than NSI](preterm-iq70-nsi-support-need.md) — related
+- [The impact of maternal social factors on achievement-test scores is similar across all gestational-age groups (no GA × social factors interaction)](social-factor-effect-similar-across-ga-groups.md) — related

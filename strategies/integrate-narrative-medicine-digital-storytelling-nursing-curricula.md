@@ -52,6 +52,7 @@ The authors recommend that nursing education simultaneously develop digital lite
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Integrate digital-competency development into nursing curricula through pedagogically guided real-world technology activities](integrate-digital-competencies-nursing-curricula.md)
 - [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
+- [Incorporate focus groups into formal education programs to foster learning about outpatients' narratives](focus-groups-in-formal-education-for-narrative-learning.md)
 
 ## Examples
 -

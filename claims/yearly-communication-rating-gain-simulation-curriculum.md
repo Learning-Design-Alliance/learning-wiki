@@ -16,18 +16,22 @@ sources:
     author: Beaudoin Pier-Luc, Labbé Mathilde, Fanous Amanda, Young Meredith, Rappaport Jamie, Park Yoon Soo, Manoukian John, Nguyen Lily H. P.
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
   - id: beaudoin-pier-luc-2019-2
     resource: "https://doi.org/10.1186/s40463-019-0329-8"
     title: "Beaudoin Pier-Luc, Labbé Mathilde, Fanous Amanda, Young Meredith, Rappaport Jamie, Park Yoon Soo, Manoukian John, Nguyen Lily H. P. (2019). Teaching communication skills to OTL-HNS residents: multisource feedback and simulated scenarios. Journal of Otolaryngology - Head & Neck Surgery. https://doi.org/10.1186/s40463-019-0329-8"
     author: Beaudoin Pier-Luc, Labbé Mathilde, Fanous Amanda, Young Meredith, Rappaport Jamie, Park Yoon Soo, Manoukian John, Nguyen Lily H. P.
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Residents' overall communication ratings increased significantly by 0.25 points per year over the three-year simulation-based curriculum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Beaudoin Pier-Luc, Labbé Mathilde, Fanous Amanda, Young Meredith, Rappaport Jamie, Park Yoon Soo, Manoukian John, Nguyen Lily H. P. (2019). Teaching communication skills to OTL-HNS residents: multisource feedback and simulated scenarios. Journal of Otolaryngology - Head & Neck Surgery. https://doi.org/10.1186/s40463-019-0329-8
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Random-intercept regression on multisource ratings from 17 residents consented for at least two consecutive years (2009–2011). The article reports the score was "3.60 at baseline with an increase of 0.25 points per year" (p < 0.001); no standardized effect size is printed.
 
@@ -50,7 +54,7 @@ Random-intercept regression on multisource ratings from 17 residents consented f
 
 Beaudoin Pier-Luc, Labbé Mathilde, Fanous Amanda, Young Meredith, Rappaport Jamie, Park Yoon Soo, Manoukian John, Nguyen Lily H. P. (2019). Teaching communication skills to OTL-HNS residents: multisource feedback and simulated scenarios. Journal of Otolaryngology - Head & Neck Surgery. https://doi.org/10.1186/s40463-019-0329-8
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Multisource assessment data from the same cohort showed learners with initial difficulty "improved enough to reach the average of their peers' performance" in subsequent years; the article reports this descriptively with no test statistic.
 

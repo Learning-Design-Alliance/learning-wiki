@@ -48,3 +48,4 @@ Descriptive survey findings from the 12-responder cohort on future intentions. T
 - [Participants reported the book club contributed to peer bonding and engagement with the residency program](book-club-bonding-engagement.md) — related
 - [Most intern participants agreed the virtual book club showed the importance of professional development and prompted reflection on their own development](book-club-survey-pd-importance-reflection.md) — related
 - [A virtual professional development book club was feasible to implement for emergency medicine interns during orientation](virtual-book-club-feasible-em-interns.md) — a broader claim this one bears on
+- [Residents overwhelmingly want more education on antibiotic prescribing, yet fewer than six in ten participate when e-learning is offered](education-wish-vs-participation-gap.md) — related

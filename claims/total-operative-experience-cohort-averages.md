@@ -16,12 +16,14 @@ sources:
     author: Elsey EJ, Griffiths G, West J, Humes DJ
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Total operative experience averages 2060 procedures and does not differ by sex but varies by special interest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Elsey EJ, Griffiths G, West J, Humes DJ. (2018). Changing Autonomy in Operative Experience Through UK General Surgery Training: A National Cohort Study. Annals of Surgery. https://doi.org/10.1097/SLA.0000000000003032
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cohort summary of total eLogbook operative counts for 311 trainees. The study reports "the mean total operative experience for the cohort was 2060 [standard deviation (SD) = 535] procedures" with no significant sex difference; a separate comparison across special interests ranged from 1865 (vascular) to 2143 (colorectal), P = 0.035.
 

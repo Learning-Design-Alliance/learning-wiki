@@ -173,3 +173,4 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related
 - [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](direct-scaffolding-outperforms-indirect-inquiry.md) — a narrower finding that bears on this claim
 - [Effectiveness of inquiry-based curricula in K–12 is higher when learners receive more guidance and when learners are older, but meta-analytic findings are mixed and underwhelming](inquiry-k12-effectiveness-higher-with-guidance-and-age.md) — a broader claim this one bears on
+- [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related

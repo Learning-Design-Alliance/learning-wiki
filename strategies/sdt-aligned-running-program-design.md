@@ -52,6 +52,7 @@ A concrete recipe the article used and recommends: structure physical activity p
 - [Structure EER design around the three basic psychological needs of self-determination theory](eer-design-for-sdt-needs.md)
 - [Active Recess](active-recess.md)
 - [Develop gender-specific, motivation-based curricula that support autonomy and increase intrinsic motivation in PE teacher education](gender-specific-motivation-based-pe-curriculum.md)
+- [Use autonomy-supportive intervention behaviors in physical education to foster a self-determined motivational climate](autonomy-supportive-pe-intervention-behaviors.md)
 
 ## Examples
 -

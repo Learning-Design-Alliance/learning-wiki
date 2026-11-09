@@ -51,3 +51,4 @@ Covariate-adjusted regression models compared 33 Tertiary First Step students wi
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
 - [Tertiary First Step improves parenting efficacy but not parental distress within the intervention group](tertiary-first-step-parenting-outcomes-mixed.md) — related
+- [Prosocial behavior grew over the intervention in cooperative-learning classrooms but not in comparison classrooms](prosocial-behavior-grows-only-in-intervention.md) — related

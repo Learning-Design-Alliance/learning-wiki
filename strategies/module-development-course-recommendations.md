@@ -42,6 +42,7 @@ The authors distill their AY201b experience into implementable steps: "we recomm
 
 - [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
 - [Improve active bioinformatics lessons by balancing theory with practice, clarifying tasks, providing detailed software tutorials, and running a regular feedback loop](balance-theory-practice-clear-tasks-feedback-loop-strategy.md)
+- [Implement the teach-and-question assignment with brief in-class training, example videos, partner-finding support, required audio recordings, and scattered instructor feedback](tq-implementation-strategy.md)
 
 ## Examples
 -

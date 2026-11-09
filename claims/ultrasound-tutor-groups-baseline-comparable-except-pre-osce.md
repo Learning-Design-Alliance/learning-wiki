@@ -17,12 +17,14 @@ sources:
     author: Celebi Nora, Griewatz Jan, Malek Nisar Peter, Hoffmann Tatjana, Walter Carina, Muller Reinhold, Riessen Reimer, Pauluschke-Fröhlich Jan, Debove Ines, Zipfel Stephan, Fröhlich Eckhart
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # At baseline the three tutor-training groups were essentially comparable except the course-only group's slightly better pre-OSCE scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Celebi Nora, Griewatz Jan, Malek Nisar Peter, Hoffmann Tatjana, Walter Carina, Muller Reinhold, Riessen Reimer, Pauluschke-Fröhlich Jan, Debove Ines, Zipfel Stephan, Fröhlich Eckhart. (2019). Outcomes of three different ways to train medical students as ultrasound tutors. BMC Medical Education. https://doi.org/10.1186/s12909-019-1556-4
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Baseline comparison in the Results of the quasi-randomized study (Table 1); the authors also note a slight nonsignificant trend towards older age and more ultrasound exposure in the C-group.
 

@@ -56,3 +56,5 @@ Descriptive analysis of the self-assessment accuracy distribution in the same N 
 - [The gap between raters' predictions and actual performance was inconsistent across UGMLE domains, ranging from 30.4% underestimation in domain thirteen to overestimation in domain three](ugmle-mean-gap-inconsistent-across-domains.md) — related
 - [The better residents perform objectively, the more they underestimate their performance, while the worst quartile overestimates it](better-performance-more-underestimated.md) — related
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related
+- [Student self-reported learning gains on the SALG survey do not accurately predict objective CAT gains in critical thinking](self-report-inaccurate-critical-thinking-gains.md) — related
+- [Among nursing students, 30 of 39 scored themselves lower than faculty on clinical competence in an OSCE evaluation](students-underestimate-competence-versus-faculty-osce.md) — related

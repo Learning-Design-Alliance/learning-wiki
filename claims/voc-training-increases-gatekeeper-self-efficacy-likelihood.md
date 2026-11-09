@@ -77,3 +77,4 @@ A repeated-measures ANOVA on the GBS likelihood subscale (two items on a 4-point
 - [RVTs' seven-item communication self-confidence scores significantly increased by 2 months after a 5-day training programme, but not immediately after training](rvt-training-seven-item-confidence-increase-at-2-months.md) — related
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
 - [A 1-hour framework workshop improves faculty confidence in writing narrative evaluations, sustained at 3 months](framework-workshop-improves-faculty-confidence-sustained.md) — a narrower finding that bears on this claim
+- [The proportion of participants achieving the pass mark increased from 18.2% pretraining to 58.7% posttraining](malnutrition-elearning-pass-mark-increase.md) — related

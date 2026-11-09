@@ -61,3 +61,4 @@ Qualitative documentary review of 14 studies of students' views on creative dram
 - [Thematic synthesis of qualitative studies identifies four descriptive themes: learning-teaching process, learning outcomes, motivation, and implementation suggestions/requirements](tpr-thematic-synthesis-four-themes.md) — related
 - [Preservice teachers' interview views indicate drama supports expression, empathy, creativity, communication and group work](drama-preservice-teacher-views-positive.md) — a narrower finding that bears on this claim
 - [Thematic document analysis of included studies yields five themes on drama's contributions, including a theme of negative aspects of using drama](drama-thematic-analysis-five-themes.md) — related
+- [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](ebp-teaching-enhances-analytical-skills-nursing.md) — related

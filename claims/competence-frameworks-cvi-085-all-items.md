@@ -55,3 +55,5 @@ Delphi validation with 15 expert nurses in the first round and 13 in the second;
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
+- [Competency frameworks for nurse training in the airway, breathing and circulation approach were developed and validated by a three-phase expert consensus process.](abc-competency-frameworks-nurses-validated.md) — a broader claim this one bears on
+- [All items in the final version of the ABC competency frameworks reached a Content Validation Index of at least 85% after revision of below-threshold items.](cvi-at-least-85-percent-final-items.md) — related

@@ -68,3 +68,4 @@ The same focus group study reported differential interest by seniority: "Oncolog
 - [In individual user testing, four of five junior oncologists expressed a willingness to use a digital training tool to acquire information-provision skills](junior-oncologists-willing-to-use-digital-cst.md) — related
 - [Qualitative interviews with oncology professionals and patient representatives yielded eight topic areas for an e-learning course on PRO measures](eight-topic-areas-pro-e-learning-interviews.md) — related
 - [Semi-structured interviews identified nurses' palliative care learning needs that informed the design of the educational sessions](interviews-informed-session-design.md) — related
+- [Oncological healthcare providers struggle to tailor information to individual patients, to structure information, and to deal with patients' emotions](hcp-struggle-tailoring-structuring-emotions.md) — possibly the same claim (merge candidate)

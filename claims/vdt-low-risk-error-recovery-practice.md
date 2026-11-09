@@ -59,3 +59,4 @@ The authors' interpretive argument in the Discussion, contrasting VDT practice w
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
 - [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — a broader claim this one bears on
 - [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related
+- [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — a narrower finding that bears on this claim

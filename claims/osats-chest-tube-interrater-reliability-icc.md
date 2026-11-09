@@ -53,3 +53,5 @@ Reliability analysis of the two blinded surgeons' video ratings of the 41 partic
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
+- [Medical students who trained with the Touch Surgery chest tube insertion module scored significantly higher on directly observed OSATS performance than students trained with an irrelevant module](serious-game-osats-direct-performance.md) — related
+- [Blinded video-based raters also scored the serious-game group significantly higher, and combined direct-plus-video ratings confirmed the difference](serious-game-osats-video-ratings.md) — related

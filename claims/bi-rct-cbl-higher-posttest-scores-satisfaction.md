@@ -99,3 +99,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related
 - [Broad instructional style categories showed only weak differences in learning gains, with overlapping confidence intervals](instructional-style-weak-effect-overlapping-ci.md) — related
 - [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related
+- [Fifteen months after the course, lecture-based knowledge and confidence scores decreased significantly from post-course to pre-clinics, while problem-based knowledge and confidence scores showed no significant decrease in one group with no comparison group](pbl-long-term-retention-pre-clinics.md) — related

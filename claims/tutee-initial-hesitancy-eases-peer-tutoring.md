@@ -80,3 +80,4 @@ Tutee interview data in the hesitancy and emotional issues subtheme; participant
 - [Before the flipped classes, students reported specific learning pain points including fear of public speaking, unfamiliarity with the method, and PPT-making difficulty](dt-flipped-pre-survey-pain-points.md) — related
 - [Students were initially hesitant about student-led interactive sessions, with tutorial attendance 5% lower than traditional lecture delivery before engagement rose](initial-student-hesitancy-pbl-sessions.md) — related
 - [Students' emotions vary before, during and after simulation, unfolding in a rollercoaster from negatively to positively loaded across the session](emotional-rollercoaster-during-simulation.md) — related
+- [Clinical teaching by senior tutors was experienced as threatening, and the safety of PAL was understood in contrast to it](threat-of-the-ward-clinical-teaching.md) — related

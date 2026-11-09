@@ -47,3 +47,4 @@ Teacher-rated prosocial behavior analysis in the same multilevel models, plotted
 ## Related Claims
 - [In the IYT trial, intervention effects for students were moderated by grade level and free/reduced lunch status in the direction predicted](iyt-effects-moderated-by-grade-and-ses.md) — a broader claim this one bears on
 - [IYT benefited emotion regulation only for kindergarteners receiving free/reduced lunch](iyt-emotion-regulation-kindergarten-frl-benefit.md) — related
+- [Intervention classrooms showed higher whole-class prosocial behavior and discussion practices than comparison classrooms](interdependent-cooperative-learning-raises-class-collaboration.md) — related

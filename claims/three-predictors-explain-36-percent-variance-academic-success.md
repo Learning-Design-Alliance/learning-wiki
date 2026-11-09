@@ -71,3 +71,4 @@ Model-change statistics from the stepwise regression in Table 3. Model 2 added e
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — related
 - [Students' Academic Self-Perceptions strongly affect cognitive engagement, explaining 39% of its variance](academic-self-perceptions-cognitive-engagement.md) — related
+- [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related

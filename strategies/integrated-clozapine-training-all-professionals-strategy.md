@@ -50,6 +50,7 @@ The review recommends combining education, training and hands-on experience rath
 ## Related Strategies
 
 - [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](preparation-program-design-three-strategies.md)
+- [Design e-learning for information-giving skills to support transfer to clinical practice rather than knowledge enhancement](elearning-transfer-to-clinical-practice-strategy.md)
 
 ## Examples
 -

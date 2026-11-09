@@ -56,3 +56,4 @@ Secondary correlational analysis in the same 20-resident cohort; participants av
 - [Residents' interest in the field correlated with their self-assessed practical abilities but not with self-assessed theoretical knowledge, and theoretical knowledge showed no correlation with practical abilities](interest-correlates-with-practical-not-theoretical-ability.md) — related
 - [Post-CBD residents performed worse on the bHIT and MCQ than the pre-CBD cohort, with no improvement in video interpretation](bhit-performance-worse-after-cbd.md) — related
 - [MCQ scores correlated moderately with observed bHIT ability while video interpretation did not, so neither can substitute for direct observation](indirect-assessment-does-not-substitute-bhit-observation.md) — related
+- [CHWs with the lowest pre-training MCQ scores showed the largest score improvements](low-pretest-scores-largest-gains.md) — related

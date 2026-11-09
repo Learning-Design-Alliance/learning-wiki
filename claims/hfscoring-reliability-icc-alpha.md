@@ -83,3 +83,4 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [AS-NTS achieves excellent interrater reliability (mean 0.89) when used in simulation scenarios](as-nts-excellent-interrater-reliability.md) — related
 - [The communication assessment tool showed high internal-consistency reliability (Cronbach's alpha 0.88–0.96) across the nine scenarios](communication-tool-internal-consistency-088-096.md) — related
 - [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related
+- [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related

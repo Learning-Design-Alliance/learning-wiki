@@ -53,3 +53,4 @@ The paper cites a study conducted by the L.H. Martin Institute (Andrews et al. 2
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - Only 2 of the 54 reviewed documents directly reflected on academics' reactions to the escalating deterioration of their working conditions — related
+- [Intellectual disability units are taught mostly by medical practitioners, but a substantial share involve staff from multiple professional backgrounds and appointment types](id-educator-backgrounds-and-appointments-audit.md) — related

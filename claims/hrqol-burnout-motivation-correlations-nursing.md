@@ -71,3 +71,4 @@ Bivariate correlations (Table 3) in the same sample. The article reports r = 0.2
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — reports the opposite
 - [HRQoL at baseline does not predict academic performance 24 months later in adolescents](hrqol-does-not-predict-academic-performance.md) — related
 - [Internet abusive use is positively correlated with academic burnout in nursing students](internet-abusive-use-burnout-positive-correlation.md) — related
+- [Autonomous extrinsic motivation correlated positively with intrinsic motivation and CBT, with a general positive attitude toward computer-based testing among Iranian paramedical students](autonomous-extrinsic-motivation-positive-cbt-attitude.md) — related

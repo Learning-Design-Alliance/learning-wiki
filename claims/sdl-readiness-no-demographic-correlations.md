@@ -68,3 +68,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Perceived stress was not significantly related to any measured student, instructor or clinical-environment characteristic](no-significant-stress-characteristic-relationships.md) — related
 - [Academic achievement rises with educational level but is not significantly related to age or marital status](gpa-increases-educational-level-nursing.md) — related
 - [No significant relationships were observed between demographic characteristics and self-handicapping or its subscale scores](no-demographic-relationships-self-handicapping.md) — related
+- [Years of rescue experience were not significantly correlated with baseline hypothermia knowledge in either group (professionals R = 0.10, p = 0.493; volunteers R = 0.06, p = 0.521).](experience-uncorrelated-with-baseline-hypothermia-knowledge.md) — related

@@ -66,3 +66,4 @@ Independent t-test comparing mean gain scores between the lesson study group (n=
 ## Related Claims
 - [The Education Management Model significantly improves mathematics learning in second-grade students compared to a control group.](education-management-model-improves-math-learning.md) — related
 - [Pre-test/post-test learning gains showed no significant difference compared to a control group](tapacarp-learning-gain-null-vs-control.md) — a broader claim this one bears on
+- [Post hoc tests showed no significant difference between the experimental and control groups at either initial or final testing](no-between-group-difference-post-hoc.md) — related

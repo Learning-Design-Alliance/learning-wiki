@@ -68,3 +68,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Reasons for never teaching nutrition: other teachers teach it, lack of knowledge, and no administrator requirement](barriers-never-teaching-nutrition.md) — related
 - [Lack of technical support and time constraints are the most frequently reported barriers to active learning in Middle Eastern healthcare colleges](barriers-technical-support-time-constraints-active-learning.md) — related
 - [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
+- [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related

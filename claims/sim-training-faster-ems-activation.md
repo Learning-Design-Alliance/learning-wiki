@@ -16,12 +16,14 @@ sources:
     author: McCoy C. Eric MD, MPH; Rahman Asif MD; Rendon Juan C. MD; Anderson Craig L. PhD, MPH; Langdorf Mark I. MD, MPHE; Lotfipour Shahram MD, MPH; Chakravarthy Bharath MD, MPH
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Simulation-trained students activated emergency medical services faster than standard-trained students in a simulated cardiac arrest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 McCoy C. Eric MD, MPH; Rahman Asif MD; Rendon Juan C. MD; Anderson Craig L. PhD, MPH; Langdorf Mark I. MD, MPHE; Lotfipour Shahram MD, MPH; Chakravarthy Bharath MD, MPH. (2019). Randomized Controlled Trial of Simulation vs. Standard Training for Teaching Medical Students High-quality Cardiopulmonary Resuscitation. Western Journal of Emergency Medicine. https://doi.org/10.5811/westjem.2018.11.39040
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary outcome of the randomized trial: time from ventricular fibrillation onset to verbalized request to activate EMS. The article reports "the time to activation of EMS was 24.7 seconds" for SIM versus 79.5 seconds for STD, p=0.007. No effect size was printed.
 

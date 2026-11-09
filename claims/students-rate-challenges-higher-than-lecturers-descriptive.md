@@ -49,3 +49,4 @@ Descriptive comparison of Round 2 mean ratings between student and academic subg
 - [The article reports age-related SDL challenge patterns as tentative, sample-specific patterns rather than definitive age-based differences](sdl-age-patterns-tentative-sample-specific.md) — related
 - [Stakeholders in Polish public medical universities perceive space shortages and overcrowding as the most important organizational challenges of clinical teaching](space-shortages-top-clinical-teaching-challenge-poland.md) — related
 - [Exploratory correlation analysis of challenge ratings reveals two broad thematic patterns: space and overcrowding, and teaching methods](two-thematic-patterns-clinical-teaching-challenges.md) — related
+- [Increased student enrolment caused overcrowding in clinical areas that challenged clinical teaching](clinical-area-overcrowding-challenges-clinical-teaching.md) — related

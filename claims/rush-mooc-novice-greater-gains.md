@@ -61,3 +61,4 @@ Mann-Whitney U comparison of quiz-score gains between participants without versu
 - [Students rate the HMD-based course's learning experience comparable to tutor-led and significantly better than e-learning](hmd-learning-experience-better-than-elearning.md) — related
 - [Prior vocational education, prior obstetric emergency experience, and gender showed no significant influence on simulation performance](no-significant-influence-prior-experience-gender-simulation.md) — related
 - [Trainees in the study were genuine novices, averaging 11.5 prior ultrasounds and minimal ocular ultrasound experience](onsd-trainees-novice-baseline.md) — related
+- [Scores for practical obstetric ultrasound skills among novice and lower-level trainees rose from pre-test to post-test after instruction and hands-on practice, in one single-group pre-post study](novice-trainees-learn-practical-ultrasound-skills-with-instruction-and-practice.md) — related

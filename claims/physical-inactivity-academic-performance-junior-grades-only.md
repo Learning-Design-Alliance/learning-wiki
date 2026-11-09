@@ -16,12 +16,14 @@ sources:
     author: Yamada Masaaki, Sekine Michikazu, Tatsuse Takashi, Asaka Yukiko
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Physical inactivity is associated with low academic performance in junior grades but not overall or in senior grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yamada Masaaki, Sekine Michikazu, Tatsuse Takashi, Asaka Yukiko. (2019). Association between lifestyle, parental smoke, socioeconomic status, and academic performance in Japanese elementary school children: the Super Diet Education Project. Environmental Health and Preventive Medicine. https://doi.org/10.1186/s12199-019-0776-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Grade-stratified multivariate analysis in the cross-sectional survey: rare physical activity OR 1.84 (95% CI, 1.09–3.12) in junior grades, OR 0.99 in senior grades; overall multivariate OR 1.33 (95% CI, 0.93–1.90), not significant.
 

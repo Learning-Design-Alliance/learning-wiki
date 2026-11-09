@@ -75,3 +75,5 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — reports the opposite
 - [Two independent blinded video raters showed excellent agreement when scoring chest tube insertions with the modified OSATS (ICC=0.96)](osats-chest-tube-interrater-reliability-icc.md) — related
 - [Independent raters score the sCPEP-3 Performance Test consistently, with mean and median polychoric correlation coefficients from 0.64 to 0.93 across subtests](scpep3-interrater-reliability.md) — related
+- [Medical students who trained with the Touch Surgery chest tube insertion module scored significantly higher on directly observed OSATS performance than students trained with an irrelevant module](serious-game-osats-direct-performance.md) — related
+- [Blinded video-based raters also scored the serious-game group significantly higher, and combined direct-plus-video ratings confirmed the difference](serious-game-osats-video-ratings.md) — related

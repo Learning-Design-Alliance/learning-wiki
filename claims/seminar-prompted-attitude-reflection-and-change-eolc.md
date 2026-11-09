@@ -51,3 +51,4 @@ Dichotomous questions plus free-text qualitative content analysis in the follow-
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](trainees-value-reflective-and-bereaved-caregiver-involvement.md) — related
 - [Implementing grief training faces multi-level challenges including small class sizes, faculty turnover and low motivation because some physicians do not consider grief support part of their job](grief-training-implementation-challenges.md) — related
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
+- [Experiential learning opportunities supported nursing students' clarification of their own values about death and dying and their respect for others' values](value-clarification-death-dying-experiential.md) — related

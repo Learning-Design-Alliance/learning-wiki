@@ -52,3 +52,5 @@ Mixed effects linear model for retention over 6 months in the cluster-randomized
 - [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Knowledge attainment immediately after training did not differ significantly between the video-debriefing and standard-training arms](video-debriefing-knowledge-attainment-not-significant.md) — related
+- [Neither debriefing strategy is superior for technical/cognitive or behavioral skills separately in neonatal resuscitation training](debriefing-type-technical-behavioral-skills-no-difference.md) — related
+- [Structured instructor-guided oral debriefing and video-assisted oral debriefing both improve neonatal resuscitation skills, with neither strategy superior to the other](oral-versus-video-debriefing-no-superiority-neonatal-resuscitation.md) — related

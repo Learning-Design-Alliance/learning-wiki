@@ -53,3 +53,4 @@ Pearson correlation analysis (Table 4, n = 203) between the 10-item BDI-II total
 - [Exhaustion relates positively to depression and negatively to life satisfaction; engagement relates positively to life satisfaction; neither relates to academic achievement](burnout-engagement-outcomes-achievement-null.md) — related
 - [Learning concentration impairment during distance education is the strongest predictor of poor academic performance, raising the odds more than 8 times](concentration-impairment-strongest-predictor-poor-performance.md) — related
 - [Among university students, lower depression and loneliness scores and higher social satisfaction scores are associated with higher academic achievement](emotional-functioning-correlates-academic-achievement.md) — related
+- [Poorer study skills correlate with higher depressive symptoms among medical students](poor-study-skills-correlate-depressive-symptoms.md) — related

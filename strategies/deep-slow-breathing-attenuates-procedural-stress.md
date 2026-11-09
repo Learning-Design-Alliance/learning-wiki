@@ -51,6 +51,7 @@ The article includes deep slow breathing (DSB) in its educational program as an 
 - [Mental skills training (mental imagery rehearsal of procedural steps) as a component of training for high-stakes clinical procedures](mental-skills-training-rehearses-procedural-steps.md)
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
 - [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](integrate-mindfulness-schoolwide-daily-routines.md)
+- [Include multiple observers in simulation scenarios for stressful procedures so trainees learn to manage audience-related stress](audience-observers-in-simulation-scenarios.md)
 
 ## Examples
 -

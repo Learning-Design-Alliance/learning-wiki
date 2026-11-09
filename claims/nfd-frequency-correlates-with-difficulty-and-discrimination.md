@@ -54,3 +54,5 @@ Pearson correlation analysis of NFD frequency against item DF and DS in both tes
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
 - [High-scoring students produce more poor-functioning and non-functioning distractors than moderate/poor-scoring students](non-functioning-distractors-high-scorers.md) — related
 - [Functional distractors per item correlate negatively with difficulty index and positively with discrimination index, but far from perfectly](fds-item-correlations-difi-disi.md) — related
+- [The relationship between item difficulty and discrimination describes a dome, and reducing options did not significantly affect this relationship](mcq-difficulty-discrimination-dome-relationship.md) — related
+- [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related

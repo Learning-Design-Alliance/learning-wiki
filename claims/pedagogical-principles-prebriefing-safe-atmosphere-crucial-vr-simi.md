@@ -68,3 +68,4 @@ Participants stated they would prefer smaller groups for more active engagement,
 - [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related
 - [Resident doctors in child and adolescent psychiatry experienced VR-SIMI as an appropriate method for training non-technical skills during residency](vr-simi-experienced-appropriate-nons-technical-skill-training-residents.md) — a broader claim this one bears on
 - [International SBL trainers perceive their primary role as facilitators and consider structuring sessions, facilitating group learning, and stimulating reflection crucial themes](sbl-trainers-perceive-facilitator-role-three-themes.md) — related
+- [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — related

@@ -51,3 +51,4 @@ Row from the item-analysis table (Table 2, n = 122) for the bilateral pleural in
 ## Related Claims
 - [In one single-group pre-post study, knowledge scores rose significantly from pre-test to post-test in five of six content areas after the POCUS course, but did not change significantly for the suprapubic/pelvic view](pocus-content-area-gains-mixed.md) — related
 - [In one uncontrolled pre-post study, developers' largest score increases from pre-test to post-test were on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline](prompt-coach-largest-gains-on-baseline-blind-spots.md) — related
+- [Every topic area of the theoretical exam improved significantly, with the largest absolute gains in basic ultrasound physics and the FAST exam](theory-topic-subscore-gains.md) — related

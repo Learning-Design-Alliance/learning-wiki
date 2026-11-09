@@ -108,3 +108,4 @@ Narrative review reporting the D'Angelo et al. (2014) meta-analysis: supplementi
 - [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](guidance-moderates-digital-inquiry.md) — a narrower finding that bears on this claim
 - [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related
 - [Guidance improves K–12 students' learning outcomes across inquiry-based practices and STEM domains, but high levels of guidance can harm students with high knowledge or abilities](guidance-improves-k12-inquiry-outcomes-inverted-u.md) — possibly the same claim (merge candidate)
+- [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related

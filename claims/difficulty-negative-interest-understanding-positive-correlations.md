@@ -102,3 +102,4 @@ Same pairwise correlation analysis; printed coefficients r = .18 to .65, with th
 - [Perceived task difficulty negatively predicts mathematics achievement (β = −.374)](perceived-task-difficulty-negative-predictor-math-achievement.md) — related
 - [Question interest correlated negatively with difficulty for students but positively for teachers](pharmacotrophy-interest-difficulty-divergence.md) — related
 - [Course difficulty is the largest negative correlate of overall teaching quality ratings, while student interest is the second largest positive correlate](difficulty-negative-interest-positive-set.md) — related
+- [Higher task difficulty and task complexity are each associated with lower RAS performance, mainly through more errors](difficulty-complexity-correlate-fsrs-performance.md) — related

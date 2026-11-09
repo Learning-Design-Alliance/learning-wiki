@@ -47,3 +47,4 @@ Item analysis of pre- and post-course assessments for learners who took the cour
 ## Related Claims
 - [The bilateral pleural interface content area had the largest relative rise in knowledge scores from pre-test to post-test and the lowest pre-course score, in one single-group pre-post study](pleural-interface-largest-gain.md) — related
 - [In one single-group pre-post study, EMS providers' knowledge of POCUS fundamentals and eFAST image interpretation rose from pre-course to post-course after an 8-hour simulation-based POCUS course with pre-course e-learning](pocus-course-improves-ems-knowledge.md) — related
+- [Every topic area of the theoretical exam improved significantly, with the largest absolute gains in basic ultrasound physics and the FAST exam](theory-topic-subscore-gains.md) — related

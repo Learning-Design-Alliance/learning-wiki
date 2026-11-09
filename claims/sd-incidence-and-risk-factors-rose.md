@@ -49,3 +49,5 @@ Register-based analysis of all 113,785 vertex deliveries. The study reports "the
 - [Permanent brachial plexus birth injury incidence decreased after implementation of systematic simulation training despite rising shoulder dystocia incidence](simulation-training-reduced-permanent-bpbi-incidence.md) — related
 - [Among shoulder dystocia cases, the risk of permanent brachial plexus birth injury was significantly lower after simulation training (43.5% vs 6.0%)](sd-cases-bpbi-risk-lower-post-training.md) — related
 - [Multidisciplinary simulation training for shoulder dystocia reduced neonatal brachial plexus injury rates (RR 0.37), but the effect declined over time](shoulder-dystocia-simulation-brachial-plexus-reduction.md) — related
+- [Diagnosed shoulder dystocia rates increased after training introduction, from 0.9/1000 deliveries to 1.8 and 2.5/1000, without changes in maternal risk factors](diagnosed-shoulder-dystocia-increase-post-training.md) — related
+- [Fewer infants with shoulder dystocia were delivered instrumentally in the post-training period, with no increase in anal sphincter injury](fewer-instrumental-deliveries-post-training.md) — related

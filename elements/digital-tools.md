@@ -234,6 +234,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 
 - [Drawingvoice 2.0: a three-phase method combining small-group collaborative drawing, Facebook sharing, and face-to-face re-discussion](../strategies/drawingvoice-2-0-three-phase-method.md)
 - [Three-pronged intervention framework: personalized digital learning, emotional support, and engagement enhancement for EFL teaching](../strategies/three-pronged-efl-digital-intervention-framework.md)
+- [Blend tablet-assisted video training with traditional classroom training for CHWs with fewer years of formal education](../strategies/blended-tablet-classroom-training-lower-education-chws.md)
 
 ## Related Elements
 

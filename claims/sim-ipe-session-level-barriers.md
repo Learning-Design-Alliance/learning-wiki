@@ -88,3 +88,4 @@ Thematic analysis found perceived hierarchies between medical and nursing studen
 - [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related
 - [In an interprofessional needs assessment, all 32 learners showed significant self-efficacy improvements and feedback redirected the simulation toward early-career medical students](needs-assessment-32-learners-self-efficacy.md) — related
 - [Uneven team ratios and late integration of physiotherapy students into established medical teams hindered interprofessional contributions](uneven-team-ratio-hindered-physio-contribution.md) — a narrower finding that bears on this claim
+- [Lower simulation fidelity led to discovery of system-level gaps in practice in some instances](lower-fidelity-reveals-practice-gaps.md) — related

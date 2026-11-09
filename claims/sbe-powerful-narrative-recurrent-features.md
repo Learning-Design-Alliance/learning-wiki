@@ -16,12 +16,14 @@ sources:
     author: Bearman Margaret, Greenhill Jennene, Nestel Debra
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Powerful SBE narratives share recurrent features regardless of category: early-training timing, dramatic scenarios, developing appreciation of SBE, highly emotional experiences, things going wrong, and ongoing reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bearman Margaret, Greenhill Jennene, Nestel Debra. (2019). The power of simulation: a large‐scale narrative analysis of learners’ experiences. Medical Education. https://doi.org/10.1111/medu.13747
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis across the four narrative categories in the 327-narrative dataset identified these six recurrent features, reported in the article's results summary. The discussion adds that many stories were set early in careers yet still guided current practice. No effect sizes are printed.
 

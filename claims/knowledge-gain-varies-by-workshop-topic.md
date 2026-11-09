@@ -51,3 +51,4 @@ Overall pooled analysis of both academic years by workshop type, reported in Res
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
 - [In the OSCE module network, Pediatric Skills and Nursing Skill show the strongest edge, followed by Cardiac Auscultation and Pulmonary Auscultation](osce-network-strongest-module-edges.md) — related
+- [Specific safety-critical ETS steps were widely omitted, including chest auscultation, pre- and post-oxygenation, and cuff pressure checks](ets-safety-steps-widely-omitted.md) — related

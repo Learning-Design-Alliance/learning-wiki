@@ -77,3 +77,4 @@ The review reports the single included disability study found significantly lowe
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
 - [First-Conscientiousness-decile students have worse ARCP outcomes in year 2 of training but not in year 1](ci-first-decile-arcp-year2-only.md) — related
 - [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related
+- [UK overseas graduates were more likely than other graduate groups to receive a less satisfactory ARCP outcome in postgraduate training](uk-og-less-satisfactory-arcp-outcomes.md) — related

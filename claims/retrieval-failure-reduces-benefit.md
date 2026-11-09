@@ -45,14 +45,15 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How much should retrieval succeed during practice, and how much support should it get?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How much should retrieval succeed during practice, and how much support should it get?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **6 distinct studies** (2 quant-synthesis, 2 causal, 1 review, 1 kind not coded), `q2`–`q4`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Rowland 2014](https://doi.org/10.1037/a0037559) | q4 · quant-synthesis · r? | i? | this claim; [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) (qualifies) |
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 / q3 · review · r3 | i? | [A review reports that retrieval practice effects grow more robust as initial retrieval suc](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) (supports); [Initial retrieval conditions that provide less cue support, such as free recall rather tha](less-initial-retrieval-support-produces-better-retention.md) (qualifies); [Inducing learners to recollect the prior study episode during retrieval practice enhances ](recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) (qualifies) |
 | [Steven C. Pan and Timothy C. Rickard 2018](https://doi.org/10.1037/bul0000151) | q4 · quant-synthesis · r3 | i? | [Response congruency, elaborated retrieval practice, and initial test performance strongly ](moderators-congruency-elaborated-retrieval-initial-test-performance.md) (supports) |
-| [Ariel 2018](https://doi.org/10.1037/xap0000133) | q3 · causal · r2 | i2; i1 | [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) (supports) |
+| [Ariel 2018](https://doi.org/10.1037/xap0000133) | q3 · causal · r2 | i2; i1 | [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](repeated-retrieval-success-predicts-final-recall.md) (supports) |
+| [Ludwig Sascha 2018](https://doi.org/10.1186/s12916-018-1090-y) | q3 | i? | [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](repeated-retrieval-success-predicts-final-recall.md) (supports) |
 | Maass 2016 | q3 · causal · r2 | i? | [Unsuccessful retrieval attempts confer a smaller benefit to future performance than succes](unsuccessful-retrieval-smaller-benefit-than-successful.md) (supports) |
 <!-- synthesis:end -->
 
@@ -77,7 +78,7 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
-- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — possibly the same claim (merge candidate)
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](unsuccessful-retrieval-smaller-benefit-than-successful.md) — a narrower finding that bears on this claim

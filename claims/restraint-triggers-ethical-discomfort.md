@@ -49,3 +49,4 @@ Students reported feeling distressed witnessing restrained patients struggling a
 - [First encounters with delirium produce intense fear, professional inadequacy, and empathy-based emotional burden in nursing students](delirium-first-encounter-emotional-burden.md) — related
 - [Observing nurse role models shapes nursing students' clinical behavior, communication, and professional values during delirium care](nurse-role-models-shape-student-development.md) — related
 - [Nursing students struggle to label observed changes as delirium and often misinterpret them as other conditions](students-misattribute-delirium-symptoms.md) — related
+- [Experiential learning material triggered emotional experiences of loss and bereavement, and some nursing students felt guilty about becoming emotionally involved](emotional-experiences-eol-experiential-learning.md) — related

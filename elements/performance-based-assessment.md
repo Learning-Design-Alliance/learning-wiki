@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (24 for, 9 mixed) · 26 studies (10 design, 7 causal, 7 associational, 2 review), `q1`–`q4` · 1 of 26 report an effect size · 33 claims rest on one study
+> **Evidence** · 34 claims (25 for, 9 mixed) · 27 studies (10 design, 8 causal, 7 associational, 2 review), `q1`–`q4` · 1 of 27 report an effect size · 34 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -75,6 +75,7 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Measurement reliability of the formative OSCE with student examiners is fully in line with the summative comparison OSCEs (Eρ2=0.647, Φ=0.525)](../claims/formative-osce-reliability-comparable-summative.md) [~M] — attached 2026-11-08 from Möltner Andreas et al. (2020), which proposed "Formative OSCE General Medicine program at Heidelberg Medical Faculty with peer tutors as examiners".
 - [Nearly all participants of a 1-day simulation-based SARS-CoV-2 diagnostic training completed the curriculum successfully, with mean OSCE ratings of 27.6 ± 0.8 of 28 points](../claims/simulation-covid-training-97-8-percent-pass-osce-27-6.md) [+W] — attached 2026-11-08 from Mileder LP et al. (2020), which proposed "Full-process simulator-based OSCE with a standardized 14-item, 28-point assessment form".
 - [Recently graduated physicians show modest overall clinical competence in simulated STEMI management, with a median general score of 7.0 (IQR 5.5-8.0)](../claims/recent-graduates-median-7-simulated-stemi-performance.md) [+W] — attached 2026-11-08 from Stocco AU (2020), which proposed "Simulated STEMI OSCE station with professional actors and a 12-item guideline-based checklist".
+- [Metrics-based assessment of epidural catheter placement achieves high inter-rater reliability (0.88) and discriminates experts from novices](../claims/metrics-assessment-high-irr-construct-validity.md) [+W] — attached 2026-11-09 from Kallidaikurichi Srinivasan Karthikeyan et al. (2018), which proposed "Metrics-based epidural catheter placement assessment tool (74 procedure-specific metrics)".
 
 ## Related Elements
 

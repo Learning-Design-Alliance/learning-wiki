@@ -17,12 +17,14 @@ sources:
     author: Gurbuz Emine, Hanley Mary, Riby Deborah M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The 57-item questionnaire yields a two-factor structure of social functioning and academic functioning with good internal consistency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Gurbuz Emine, Hanley Mary, Riby Deborah M. (2018). University Students with Autism: The Social and Academic Experiences of University in the UK. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-018-3741-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Principal Component Analysis with Varimax rotation on the 57-item questionnaire (KMO = 0.83; Bartlett's χ2(1596) = 5264.061, p < 0.001); a two-factor structure was chosen because each component explained the highest variance (24%, 10%).
 

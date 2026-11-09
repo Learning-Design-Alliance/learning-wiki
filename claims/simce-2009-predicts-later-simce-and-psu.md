@@ -17,18 +17,22 @@ sources:
     author: Ivanovic Daniza M. et al
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: ivanovic-daniza-m-et-al-2019-2
     resource: "https://doi.org/10.1371/journal.pone.0212279"
     title: "Ivanovic Daniza M. et al. (2019). A multifactorial approach of nutritional, intellectual, brain development, cardiovascular risk, socio-economic, demographic and educational variables affecting the scholastic achievement in Chilean students: An eight- year follow-up study. PLoS ONE. https://doi.org/10.1371/journal.pone.0212279"
     author: Ivanovic Daniza M. et al
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # 2009 SIMCE outcomes positively and significantly predict later 2013 SIMCE, 2013 PSU and 2017 PSU outcomes in Chilean students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -41,7 +45,7 @@ sources:
 
 Ivanovic Daniza M. et al. (2019). A multifactorial approach of nutritional, intellectual, brain development, cardiovascular risk, socio-economic, demographic and educational variables affecting the scholastic achievement in Chilean students: An eight- year follow-up study. PLoS ONE. https://doi.org/10.1371/journal.pone.0212279
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Follow-up association analysis (Fig 5) of the 2010 5ESG cohort; chi-squared tests showed the same positive association eight years later with 2017 PSU language and mathematics outcomes (p < .001 and p < .001).
 
@@ -51,7 +55,7 @@ Follow-up association analysis (Fig 5) of the 2010 5ESG cohort; chi-squared test
 
 Ivanovic Daniza M. et al. (2019). A multifactorial approach of nutritional, intellectual, brain development, cardiovascular risk, socio-economic, demographic and educational variables affecting the scholastic achievement in Chilean students: An eight- year follow-up study. PLoS ONE. https://doi.org/10.1371/journal.pone.0212279
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Follow-up association analysis (Fig 6) of the 2010 1HSG cohort linking 2009 SIMCE scores to 2013 PSU university-admission scores four years later.
 

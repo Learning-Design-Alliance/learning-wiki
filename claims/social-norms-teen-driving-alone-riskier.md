@@ -16,12 +16,14 @@ sources:
     author: Emre Sezgin, Simon Lin
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Social norms influence teen driving risk: crash risk was higher for teens driving alone than with passengers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Emre Sezgin, Simon Lin. (2019). Technology-Based Interventions, Assessments, and Solutions for Safe Driving Training for Adolescents: Rapid Review. JMIR mHealth and uHealth. https://doi.org/10.2196/11942
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review attributes to the Simons-Morton et al naturalistic study (observation over the first 18 months after licensure) the finding that "the risk of crash was higher for teens driving alone than while driving with passengers". No effect size is printed.
 

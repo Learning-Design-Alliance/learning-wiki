@@ -80,3 +80,4 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](genai-agency-mechanism-clusters.md) — related
 - [Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving](higher-trust-lower-appropriate-reliance-ai-assistant.md) — related
 - Acceptance of individual and collective cheating form two distinct factors in students' responses — related
+- [Alongside criticism, students voiced an apologetic discourse trusting the system's wisdom, the protective function of knowledge, and the developmental value of unsupervised responsibility](apologetic-discourse-trust-system.md) — related

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 229 claims (145 show a difference, 51 mixed, 33 no difference) · 122 studies (41 causal, 40 associational, 17 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 31 of 122 report an effect size · 225 claims rest on one study
+> **Evidence** · 229 claims (145 show a difference, 51 mixed, 33 no difference) · 122 studies (41 causal, 41 associational, 17 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 31 of 122 report an effect size · 225 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.

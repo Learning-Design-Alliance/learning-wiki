@@ -50,3 +50,4 @@ Repeated-measures simulation study of 17 medical students trained in a mock oper
 - [Mental workload is significantly higher for the flexible ureterorenoscopy stone-retrieval task than for the rigid cystoscope preparation task in every session](flexible-ureterorenoscopy-task-higher-workload-than-cystoscopy.md) — related
 - [Subjective mental workload (NASA-TLX) declines continually across repeated ureterorenoscopy simulation sessions without plateauing in both tasks](mental-workload-declines-without-plateau-repeated-simulation.md) — related
 - [Total operative time for both ureterorenoscopy simulation tasks decreases over the training sessions](operative-time-decreases-over-training-sessions.md) — related
+- [All OSATS scores increased significantly from pre- to post-course assessment across all six training tasks](osats-scores-increased-all-tasks.md) — related

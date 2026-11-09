@@ -58,3 +58,4 @@ The article cites Kittel's (1957) three-condition experiment on logic problems, 
 - [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md) — related
 - [Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry](guidance-improves-inquiry-learning-activities.md) — related
 - [Generative instructional conditions (inquiry and explanation) outperformed receptive conditions on far transfer, with inquiry best on far transfer problems](eysink-four-methods-inquiry-far-transfer-advantage.md) — a narrower finding that bears on this claim
+- [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related

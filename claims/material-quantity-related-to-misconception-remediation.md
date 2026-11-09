@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-09
 sources:
   - id: unal-cakiroglu-2017
     resource: "https://eric.ed.gov/?id=EJ1158165"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article draws an inverse relationship between the quantity of materials and their effects on conceptual understanding, observed especially in the ethernet card and sound card units. [→ Unal Cakiroglu 2017](#unal-cakiroglu-2017)

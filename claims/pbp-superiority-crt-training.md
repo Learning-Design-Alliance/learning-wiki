@@ -60,3 +60,4 @@ The statement reports a CRT training comparison in which "PBP demonstrated super
 - [Prospective randomised blinded trials in other interventional disciplines show PBP training yields 40%–60% better intraoperative performance than traditional training](pbp-simulation-better-intraoperative-performance.md) — related
 - [PBP training achieved communication skill acquisition rates of about 60%, similar to rates seen with technical skills using this approach](pbp-communication-skill-acquisition-rate-similar-to-technical-skills.md) — related
 - [E+PBP-trained students were more than 20 times as likely to demonstrate proficiency as e-learning-only students (Ext (B)=20.25)](pbp-group-twenty-times-more-likely-proficient-logistic-regression.md) — related
+- [Proficiency-based progression training reduces labour epidural failure rate compared with simulation-only training in novice anaesthetic trainees](pbp-training-reduces-labour-epidural-failure-rate.md) — related

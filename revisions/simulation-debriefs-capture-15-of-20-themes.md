@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/simulation-debriefs-capture-15-of-20-themes.md
+---
+
+# Revision history: [claims/simulation-debriefs-capture-15-of-20-themes](../claims/simulation-debriefs-capture-15-of-20-themes.md)
+
+### 2026-11-09 · ingest · process:wiki-ingest
+Ingested from pmc-6194405 (Comparison of simulation debriefs with traditional needs assessment methods: a qualitative exploratory study in a critical care community setting.) via eval_harness.py + ingest_extractions.py

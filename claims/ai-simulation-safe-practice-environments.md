@@ -132,3 +132,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related
+- [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — a narrower finding that bears on this claim

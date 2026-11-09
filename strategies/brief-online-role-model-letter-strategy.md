@@ -51,6 +51,7 @@ A 5-minute online activity in which students read a letter from a similar, succe
 - [Promoting Belonging Through Instruction](promoting_belonging_through_instruction.md)
 - [Creating A Sense Of Belonging](creating_a_sense_of_belonging.md)
 - [Welcome Messages](welcome-messages.md)
+- [Normalize help-seeking through recorded testimonials, leadership messaging, and framing support as academic consultation](normalize-help-seeking-testimonials-consultation.md)
 
 ## Examples
 -

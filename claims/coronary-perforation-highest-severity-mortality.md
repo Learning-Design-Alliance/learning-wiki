@@ -49,3 +49,4 @@ Survey participants graded severity of experienced adverse events using the Soci
 - [Self-rated operator confidence in managing distal coronary perforation and stent loss rose from before to immediately after structured simulation-based learning, in one uncontrolled pre-post study](sbl-improves-operator-confidence-pci-complications.md) — related
 - [Access to emergency bailout equipment varies among PCI operators, with reduced availability of coronary snares, aortic snares, and coronary coils](pci-bailout-equipment-access-varies-snares-coils.md) — related
 - [Many PCI operators lack confidence in non-technical dimensions of complication management, including relying on their team and obtaining colleague assistance](hf-gaps-team-reliance-cathlab.md) — related
+- [People diagnosed with schizophrenia die on average 15 years earlier than the general population and show elevated coronary heart disease mortality](schizophrenia-life-expectancy-gap-76-vs-61.md) — related

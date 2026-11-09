@@ -40,6 +40,7 @@ The M-PLANS professional learning approach incorporates four themes from contemp
 
 - M Plans Program Element
 - [Reflective Practice](reflective-practice.md)
+- [Run organized humanistic activities — forums, reflective writing, and small-group programs — to shape an organizational culture of humanism](organized-activities-promote-humanism-strategy.md)
 
 ## Examples
 -

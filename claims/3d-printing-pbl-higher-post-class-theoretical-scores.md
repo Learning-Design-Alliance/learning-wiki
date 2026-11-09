@@ -55,3 +55,4 @@ Comparison of examination scores between 269 randomly divided interns (tradition
 - [Fourth-year medical students taught with combined CBL and clinical pathway scored significantly higher on post-internship theoretical and skill tests than students taught traditionally](cbl-clinical-pathway-higher-postinternship-scores-gynecology.md) — related
 - [No significant difference was found between the teaching methods in improving interns' understanding of cerebrovascular diseases](3d-printing-pbl-no-difference-understanding.md) — reports the opposite
 - [Pre-class theoretical and clinical practice scores did not differ significantly between the traditional and 3D printing + PBL groups](3d-printing-pbl-no-pre-class-score-difference.md) — related
+- [Students rate skills gained from PBL much higher than from lectures (total skill score 47.2 vs 33.0, t = 20.9, P<.001)](pbl-higher-rated-skills-total-score.md) — related

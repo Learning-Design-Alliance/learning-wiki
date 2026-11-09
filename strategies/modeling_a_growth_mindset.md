@@ -68,6 +68,7 @@ Modeling works through social learning: observers extract behavioral standards a
 - [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
 - [Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge](mindset-theory-early-in-teacher-education.md)
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
+- [Explicitly address educators' theories of intelligence during instructor professional development](address-mindsets-in-faculty-development.md)
 
 ## Examples
 - A school principal opens each staff meeting by sharing a current professional challenge, what they tried, what failed, and what they are learning — normalizing error analysis at the top of the hierarchy.

@@ -75,3 +75,4 @@ An eight-year study of 850,000 New York City 4th- and 5th-grade students cited i
 - [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](principal-turnover-18-percent-annually.md) — related
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related
 - [Occupational commitment is the strongest positive consequence and turnover intentions the strongest negative consequence of teacher wellbeing](wellbeing-consequences-commitment-turnover.md) — related
+- [Attrition from STEM PhD programs carries substantial financial costs, estimated at $22.2 million per year for the study cohort and $1–3 billion per national cohort](financial-cost-stem-phd-attrition.md) — related

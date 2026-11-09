@@ -49,3 +49,5 @@ Results section comparison of episiotomy rates during the video-only phase versu
 - [Hands-on training of birth attendants in bimanual perineal support significantly reduced episiotomy rates among primiparous women in intervention hospitals](hands-on-bpst-training-reduced-episiotomy-rates.md) — related
 - [Effects of the animated video intervention varied across hospitals, including a significant increase in Hospital 3](video-intervention-effects-varied-across-hospitals.md) — related
 - [Episiotomy rates in nonintervention hospitals did not change significantly during either intervention phase](nonintervention-hospitals-episiotomy-unchanged.md) — related
+- [Blended learning (animated e-learning video plus structured face-to-face training) reduced OASIS incidence by 74% versus baseline and by 52% versus e-learning alone](blended-learning-reduced-oasis-74-percent.md) — related
+- [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related

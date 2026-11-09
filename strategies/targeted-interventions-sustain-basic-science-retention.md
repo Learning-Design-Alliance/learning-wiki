@@ -58,6 +58,7 @@ The review recommends targeted educational interventions and continuous professi
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 - [Integrate TMJ, myofunctional, and periodontal-orthodontic multidisciplinary content into residency training and target continuing education at undertrained practitioners](integrate-mdt-content-orthodontic-training.md)
 - [Use continuing education as a mechanism to build subdiscipline expertise among anatomy teachers lacking graduate coursework](continuing-education-subdiscipline-training-anatomy-teachers.md)
+- [Use PBL tutorials to support long-term retention of basic-science knowledge before clinical training](pbl-tutorials-long-term-retention-strategy.md)
 
 ## Examples
 -

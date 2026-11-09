@@ -65,3 +65,4 @@ Metareview synthesis: symptom and school-absence results split evenly between fa
 
 ## Related Claims
 - [Digital asthma self-management interventions improved knowledge and reduced activity limitation in the RCTs that examined these outcomes](digital-asthma-interventions-improve-knowledge-activity-limitation.md) — related
+- [In this rural county sample, asthma posed a marked burden: asthma was the primary cause of school absences and two mortalities in Ector County schools in 2014–2015](ecton-county-asthma-school-absence-burden.md) — related

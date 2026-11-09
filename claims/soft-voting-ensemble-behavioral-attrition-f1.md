@@ -55,3 +55,4 @@ Benchmark of nine classifiers under 5-fold stratified cross-validation on the ba
 - [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related
 - [Ensemble models generalize better than individual learners on held-out test samples for predicting academic achievement](ensemble-generalization-test-samples.md) — related
 - [Ensemble learning models (XGB, RF, Stacking) achieve higher cross-validated accuracy than individual learners (SVM, DT, LR, LDA) in predicting primary school students' academic achievement](ensemble-outperforms-individual-learners-training-accuracy.md) — related
+- [The prediction model validated on a next-year cohort classifies underachievers with 82.7% recall and 83.1% overall accuracy, though with relatively low precision](next-year-validation-of-achievement-prediction.md) — related

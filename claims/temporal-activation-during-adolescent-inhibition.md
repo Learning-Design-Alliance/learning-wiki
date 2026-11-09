@@ -17,12 +17,14 @@ sources:
     author: Fuhrmann Delia, Schweizer Susanne, Leung Jovita, Griffin Cait, Blakemore Sarah-Jayne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The emotional go-no-go inhibition contrast recruits mainly bilateral temporal regions in adolescent girls, not frontal-striatal regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Fuhrmann Delia, Schweizer Susanne, Leung Jovita, Griffin Cait, Blakemore Sarah-Jayne. (2019). The neurocognitive correlates of academic diligence in adolescent girls. Cognitive Neuroscience. https://doi.org/10.1080/17588928.2018.1504762
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Whole-brain fMRI analysis (cluster-level p < .001, FDR-corrected) in 40 adolescent girls; significant clusters included left middle temporal gyrus/pole (z = 4.64) and right middle temporal gyrus (z = 4.47). The article calls this "prominent activation in the temporal cortex during the inhibition task".
 

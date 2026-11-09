@@ -42,7 +42,8 @@ The article's discussion recommends that because children presenting with ADHD s
 - [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](../claims/financial-difficulties-strongest-ses-predictor-adhd-age-7.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate socioeconomic factors into outcome discussions with families of preterm infants](discuss-ses-factors-with-preterm-families.md)
 
 ## Examples
 -

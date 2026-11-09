@@ -51,3 +51,4 @@ Subgroup analysis of the 15 RCTs split into basic theory courses (n = 2) and app
 - [Exploratory subgroup analysis suggests larger effects in practice courses than theory courses, driven by only 2 practice-oriented studies](llm-teaching-practice-course-subgroup-signal.md) — related
 - [Case-based learning and combined emerging methods show non-significant pooled advantages over lecture-based learning](cbl-combined-methods-nonsignificant-dental.md) — related
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
+- [Block teaching students reported higher self-assessed application of basic statistical methods, but not for analysis of variance or nonparametric tests](block-teaching-self-assessed-statistical-ability.md) — related

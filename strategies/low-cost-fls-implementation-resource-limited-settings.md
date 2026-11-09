@@ -52,6 +52,7 @@ The authors recommend that countries with limited resources implement the fundam
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Develop structured post-FLS simulation curricula with advanced skills, regular faculty coaching, and early orientation to simulation resources](post-fls-structured-simulation-curricula-strategy.md)
 - [Adapt the progressive laparoscopic program to resource-limited settings by grouping trainees per animal, expanding lower-cost ex vivo practice, and retaining core box trainer and VR modules](resource-adaptive-laparoscopic-training-strategy.md)
+- [Use low-cost physical box simulators to provide safe, cost-effective laparoscopic skills training, especially in low and middle-income settings](low-cost-box-simulator-training-strategy.md)
 
 ## Examples
 -

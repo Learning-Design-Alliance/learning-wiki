@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 109 claims (68 for, 38 mixed, 3 against) · 88 studies (64 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 19 of 88 report an effect size · 103 claims rest on one study
+> **Evidence** · 110 claims (69 for, 38 mixed, 3 against) · 89 studies (65 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 19 of 89 report an effect size · 104 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -145,6 +145,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Simulated animated video education improved sleep quality more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](../claims/animated-video-improves-sleep-quality-endoscopy.md) [+W] — attached 2026-11-07 from Qian Xiaoqing et al. (2025), which proposed "Two-minute simulated animated video for digestive endoscopy patient education"; tests this page's relationship.
 - [An instructional video as a stand-alone first exposure yields higher practical skill scores than unsupervised self-study in last-year medical students](../claims/instructional-video-standalone-beats-self-study-first-exposure.md) [+W] — attached 2026-11-07 from Ott Thomas et al. (2024), which proposed "Ten-minute stand-alone instructional video on humeral intraosseous access".
 - [Within the OSCAR framework, the A-step (aiding patient understanding with audiovisual materials) showed the largest self-assessed improvement](../claims/oscar-a-step-largest-improvement.md) [+W] — attached 2026-11-08 from Chiang Dung-Hung et al. (2022), which proposed "OSCAR framework for preprocedural communication with integrated audiovisual materials"; tests this page's relationship.
+- [In one uncontrolled pre-post study, OASIS incidence fell by 45% from baseline after a stand-alone animated e-learning video for the bimanual perineal support technique](../claims/animated-elearning-video-reduced-oasis-45-percent.md) [+W] — attached 2026-11-09 from Ali-Masri Hadil et al. (2018), which proposed "Four-minute animated e-learning video teaching the bimanual perineal support technique"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

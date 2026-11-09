@@ -70,3 +70,4 @@ Cross-condition comparison of the QA readability results: under implicit conditi
 - [Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable](implicit-conditioning-inflates-aes-scores-llama-70b.md) — related
 - [Implicit demographic cues produce larger and less predictable effects in open-ended tasks, including longer responses for laptop users and education-related length effects](implicit-cues-unpredictable-effects-open-ended-tasks.md) — related
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
+- [The EBMQ is readable at Flesch reading ease 61.2, within the average-document range](ebmq-flesch-reading-ease-612.md) — related

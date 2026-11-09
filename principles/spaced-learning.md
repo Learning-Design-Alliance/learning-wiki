@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 98 claims (53 for, 42 mixed, 3 against) · 70 studies (40 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 17 of 70 report an effect size · 90 claims rest on one study
+> **Evidence** · 99 claims (54 for, 42 mixed, 3 against) · 71 studies (41 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 17 of 71 report an effect size · 91 claims rest on one study
 
 ## Description
 
@@ -191,6 +191,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [The type of repetition activity (test-only, lecture, e-learning module, or small-group dissession) did not affect long-term retention of anatomical knowledge](../claims/repetition-format-no-effect-retention.md) [~W] — attached 2026-11-08 from Kooloos Jan G.M. et al. (2020), which proposed "Facilitate retrieval of earlier learned knowledge at the right position in a spiral curriculum, in any format".
 - [Most optical diagnosis performance parameters fell significantly from before to after a 6-month non-practice period without a refresher course, with specificity most affected, in one uncontrolled pre-post study](../claims/non-practice-period-drops-od-performance.md) [+W] — attached 2026-11-09 from Bustamante-Balén M et al. (2019), which proposed "Require continuous practice with a refresher course after any long non-practice period to maintain optical diagnosis performance"; tests this page's relationship.
 - [Most residents (80.40%) agreed that holding the boot camp prior to each NICU rotation would be useful](../claims/residents-support-repeat-boot-camp-each-rotation.md) [+W] — attached 2026-11-09 from Surcouf JW et al. (2018), which proposed "Schedule preparatory boot camps close to the target rotation and protect faculty time to sustain implementation".
+- [Sustained simulation-based shoulder dystocia team training is associated with a significant decrease in brachial plexus injury at birth, from 73% to 17% of complicated deliveries](../claims/probe-training-brachial-plexus-injury-decrease.md) [+W] — attached 2026-11-09 from Dahlberg Johanna et al. (2018), which proposed "Sustain mandatory simulation training on a fixed recurring schedule integrated into clinical working time to maintain rare-event emergency preparedness".
 
 ## Source verification and open tests
 

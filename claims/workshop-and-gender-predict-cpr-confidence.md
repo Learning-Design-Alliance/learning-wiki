@@ -76,3 +76,4 @@ Same regression model predicting CPR confidence; gender was entered with female 
 - [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related
 - [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related
 - [Training is associated with increased odds of provider confidence, perceived resource availability and perceived support in making sepsis decisions](training-associated-enabling-environment-perceptions.md) — related
+- [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related

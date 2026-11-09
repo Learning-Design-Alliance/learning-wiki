@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 278 claims (187 show a difference, 57 mixed, 34 no difference) · 198 studies (66 causal, 48 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 52 of 198 report an effect size · 271 claims rest on one study
+> **Evidence** · 284 claims (191 show a difference, 57 mixed, 36 no difference) · 200 studies (66 causal, 49 associational, 44 review, 16 quant-synthesis, 15 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 53 of 200 report an effect size · 277 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -320,6 +320,12 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Training improves self-rated empathy alongside other communication skills items](../claims/cst-empathy-item-improvement.md) [+M] — measured as an outcome of the instruction studied
 - [A 12-hour role-playing empathy training program raises total empathy scores of operating room nursing students immediately after the intervention compared with a no-intervention control group](../claims/role-playing-empathy-training-raises-or-nursing-student-empathy.md) [+W] — measured as an outcome of the instruction studied
 - [Role-playing empathy training significantly raises all three Jefferson Scale dimensions — perspective-taking, compassionate care, and standing in patient's shoes — versus control](../claims/empathy-training-raises-all-jse-dimensions.md) [+W] — measured as an outcome of the instruction studied
+- [Communication skills training did not shift the relative role of compassionate care versus perspective taking in willingness to show empathic behaviour, contrary to expectation](../claims/training-did-not-reduce-compassionate-care-correlation.md) [-M] — an instructional effect differs with it
+- [Fourth-year medical students' willingness to show empathic behaviour is substantially more correlated with perspective taking than with compassionate care](../claims/willingness-empathic-behaviour-perspective-taking-over-compassionate-care.md) [+M] — learners who differ on it differ in outcomes
+- [Peer tutors’ understanding of students’ wider sociocultural context was the most important factor underpinning the PAL environment and tutor-student relationship](../claims/tutor-understanding-sociocultural-context.md) [+W] — learners who differ on it differ in outcomes
+- [Shared purpose and camaraderie between peer tutors and students fostered close, personalised relationships in PAL](../claims/pal-camaraderie-shared-purpose.md) [+M] — measured as an outcome of the instruction studied
+- [Students showed a modest increase from retrospective pre-training to post-training in perspective taking, compassionate care, and willingness to show empathic behaviour](../claims/modest-pre-post-increase-empathy-factors.md) [+M] — measured as an outcome of the instruction studied
+- [The number of medical interviewing training sessions (1 to 3) showed no statistically significant relation to perspective taking, compassionate care, or willingness to show empathic behaviour](../claims/training-session-count-null-effect-empathy-factors.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (15 for, 8 mixed) · 19 studies (9 causal, 4 associational, 2 quant-synthesis, 2 qualitative, 1 review, 1 design), `q1`–`q4` · 1 of 19 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (15 for, 9 mixed) · 20 studies (9 causal, 4 associational, 3 qualitative, 2 quant-synthesis, 1 review, 1 design), `q1`–`q4` · 1 of 20 report an effect size · 23 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -75,6 +75,7 @@ Peer teaching works because explaining to another person demands deeper processi
 - [An adapted PAL ultrasound course format during the COVID-19 pandemic achieved its learning goals, with OSCE results comparable to previous semesters](../claims/pal-ultrasound-osce-comparable-pandemic-format.md) [~W] — attached 2026-11-08 from Nourkami-Tutdibi N. et al. (2021), which proposed "sonoBYstudents peer-assisted ultrasound teaching program"; tests this page's relationship.
 - [After cross-age peer teaching, agreement that GMO crops should be part of the food supply rose from 46% to 97% among non–science major undergraduates](../claims/peer-teaching-gmo-opinion-shift-46-to-97.md) [~W] — attached 2026-11-08 from Chrispeels H. E. et al. (2019), which proposed "Cross-age peer-teaching service-learning program with a repeated genetics/GMO lesson for high school students".
 - [Seventy-three percent of students in one pre-post study with no comparison group reported in reflections that their understanding was higher after peer teaching, and 35% cited repeated teaching](../claims/reflections-repeat-teaching-deepened-understanding.md) [+W] — attached 2026-11-08 from Chrispeels H. E. et al. (2019), which proposed "Cross-age peer-teaching service-learning program with a repeated genetics/GMO lesson for high school students".
+- [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](../claims/pal-safe-egalitarian-learning-environment.md) [~W] — attached 2026-11-09 from Tamachi Shameena et al. (2018), which proposed "Near-peer PAL scheme at Salford Royal NHS Foundation Trust".
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

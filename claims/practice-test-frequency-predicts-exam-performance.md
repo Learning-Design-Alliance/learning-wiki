@@ -73,3 +73,4 @@ Hierarchical regression in Study 2 (n = 111, practice tests plus immediate indiv
 - [Deeper engagement in cooperative question authoring with peer feedback predicts metabolism exam performance on both multiple-choice and short-answer sections](cooperative-question-authoring-predicts-metabolism-exam.md) — a narrower finding that bears on this claim
 - [Offering voluntary multiple-choice questions was associated with overwhelmingly positive student evaluation comments each semester](voluntary-mcqs-positive-student-evaluation-comments.md) — related
 - [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related
+- [The number of questions a student asked during TQ sessions significantly predicted final exam performance above reasoning ability and attendance](questions-asked-predict-final-exam.md) — related

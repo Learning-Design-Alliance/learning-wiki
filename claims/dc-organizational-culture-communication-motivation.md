@@ -52,3 +52,4 @@ Qualitative FGD study with 20 participants; organizational behaviour management 
 - [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](organizational-culture-enhances-sdl-hcp.md) — a broader claim this one bears on
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [Performance evaluation with defined indicators and auditing is identified as a critical component of department chair performance improvement](dc-performance-evaluation-indicators-auditing.md) — related
+- [Faculty physicians identify an organizational culture of humanism as the overarching organizational factor motivating humanistic practice.](organizational-culture-of-humanism-overarching-motivator.md) — related

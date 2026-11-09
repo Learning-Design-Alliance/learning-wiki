@@ -21,6 +21,7 @@ A secure, governed UK database linking medical students' and postgraduate traine
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **UK Medical Education Database (UKMED) linked dataset enabling granular differential-attainment analysis**: UKMED is a database "which holds educational outcomes for all medical students and postgraduate trainees in approved UK medical schools and training programmes by crosslinking data from several sources, including the Higher Education Statistics Authority (HESA) Limited and the General Medical Council (GMC)". In this study it supplied anonymised, linked sociodemographic, programme, EPM, SJT and MRCP Part 1 records for 6040 graduates, analysed within a secure Data Safe Haven. Researchers can apply for access to the same data via UKMED. (Johnston Peter W. et al. (2025))
+- **UKMED (UK Medical Education Database) as a national data resource for medical education research**: UKMED is a national database covering all UK medical schools that links selection measures (UKCAT, GAMSAT, HESA data), medical school progression, Foundation Programme selection (FPAS EPM and SJT), ARCP outcomes and specialty choice. The article uses the UKMEDP02 extract for graduates entering in 2007 and 2008. The authors state that "use of the UKMED database has enabled us to characterise students starting medicine as graduates, examine their progress at medical school, in foundation training and their choice of specialty, in a national study embracing all UK medical schools". (Garrud Paul (2018))
 
 ### Claims
 
@@ -35,3 +36,4 @@ A secure, governed UK database linking medical students' and postgraduate traine
 
 ## Key Sources
 - Johnston Peter W., Vieira Rute, Cameron Isobel M., Kumwenda Ben, Walker Kim A., Cleland Jennifer A. (2025). Big data analysis: examination of the relationship between candidates' sociodemographic characteristics and performance in the UK's Membership of the Royal College of Physicians Part 1 examination. Advances in Health Sciences Education 30(1), 53-68. https://doi.org/10.1007/s10459-024-10406-3
+- Garrud Paul, McManus I. C. (2018). Impact of accelerated, graduate-entry medicine courses: a comparison of profile, success, and specialty destination between graduate entrants to accelerated or standard medicine courses in UK. BMC Medical Education 18:250. https://doi.org/10.1186/s12909-018-1355-3

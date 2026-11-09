@@ -56,6 +56,7 @@ The article recommends a complementary teaching model in which theoretical knowl
 - [Combine push-based mobile learning with simulation practice and tiered content in a push-practice-feedback loop](push-plus-simulation-hybrid-nursing-education-strategy.md)
 - [Integrate ultrasound and radiological training early into medical degree programs, combining practical and theoretical cross-sectional imaging teaching](early-ultrasound-radiology-training-integration.md)
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
+- [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Two researchers categorized a random sample of 100 student-authored questions us
 - [Pharmacology assessment action verbs are weighted towards the Understand tier of Bloom's revised taxonomy, a pattern unchanged across programmes and years of study](pharmacology-assessment-verbs-weighted-understand-tier.md) — related
 - [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — related
 - [Module learning outcomes align well with summative assessment action verbs at lower Bloom tiers (100%, 82%, 70%, 78%) but poorly for Evaluate (68%) and especially Create (17%)](pharmacology-lo-summative-alignment-evaluate-create-gap.md) — related
+- [Exam cognitive level, question type, and content coverage were similar across control and reading-quiz terms, ruling out reduced exam rigor](exam-rigor-similar-across-quiz-and-control-terms.md) — related

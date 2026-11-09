@@ -46,3 +46,4 @@ Descriptive statistics from the aggregate pilot sample (N=303, Table 1). "an ave
 
 ## Related Claims
 - [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related
+- [Medical students scored lowest on concentration and reading domains of the SSI](ssi-domain-score-variation.md) — related

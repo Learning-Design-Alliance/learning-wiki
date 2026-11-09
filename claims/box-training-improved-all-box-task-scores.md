@@ -50,3 +50,4 @@ Randomized prospective study of 12 veterinary students without prior laparoscopi
 - [Post-training scores on all box tasks were higher for the box-trained group than the VR-trained group](box-group-outperformed-vr-group-on-box-tasks.md) — related
 - [Neither box nor VR training led to significant improvement in simulated surgical (gastropexy) task performance](neither-program-improved-simulated-surgical-task.md) — related
 - [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — reports the opposite
+- [In novice residents, at-home box trainer training significantly reduced maximum exerted force on several laparoscopic tasks](at-home-training-reduced-max-force-laparoscopic-tasks.md) — related

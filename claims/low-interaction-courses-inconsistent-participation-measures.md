@@ -55,3 +55,4 @@ The study plotted centrality measures against course network characteristics (Fi
 - [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](role-playing-forum-interaction-pilot.md) — related
 - [Closeness and betweenness centralities showed negative correlations with performance in approximately 4% of courses](closeness-betweenness-negative-correlations-subset.md) — related
 - [Eigenvector centrality has a combined correlation of r=0.41 with grades and is a consistent indicator of student success](eigenvector-centrality-consistent-indicator.md) — related
+- [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related

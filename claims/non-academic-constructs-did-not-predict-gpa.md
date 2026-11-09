@@ -51,3 +51,4 @@ Null result from the stepwise linear regression in the prospective cohort study 
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [State Graduation Exam score predicted final-year medical school GPA, explaining 12.3% of variance](sge-predicts-final-medical-school-gpa.md) — related
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — reports the opposite
+- [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related

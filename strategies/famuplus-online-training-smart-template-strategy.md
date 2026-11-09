@@ -46,6 +46,7 @@ The article recommends combining a short online module introducing learning theo
 ## Related Strategies
 
 - [Teachers should check question levels with software after writing papers and be trained in preparing higher-order questions](check-question-levels-and-train-higher-order.md)
+- [Minimise extraneous cognitive load in student MCQ-writing by assigning topics and modelling scenario-based questions without introducing Bloom's taxonomy](assign-topics-model-scenario-mcq-strategy.md)
 
 ## Examples
 -

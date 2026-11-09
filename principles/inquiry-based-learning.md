@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (55 for, 34 mixed, 10 against) · 100 studies (39 causal, 20 quant-synthesis, 12 review, 11 theoretical, 7 qualitative, 7 design, 4 associational), `q1`–`q4` · 26 of 100 report an effect size · 85 claims rest on one study
+> **Evidence** · 100 claims (56 for, 34 mixed, 10 against) · 101 studies (40 causal, 20 quant-synthesis, 12 review, 11 theoretical, 7 qualitative, 7 design, 4 associational), `q1`–`q4` · 26 of 101 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Inquiry-based teaching interventions produce a statistically significant, medium-sized increase in secondary students' interest in school science and technology compared with control classes](../claims/inquiry-interventions-increase-school-science-interest.md) [+M] — attached 2026-11-03 from Patrice Potvin et al. (2017), which proposed "Embed minimal guidance within inquiry-based interventions rather than leaving students unguided".
 - [An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes](../claims/inquiry-programme-increases-informative-explorations-cvs.md) [+W] — attached 2026-11-03 from Dejonckheere et al. (2016), which proposed "Three-phase structure for inquiry-based preschool science activities".
 - [In one uncontrolled pre-post study, participant use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and concepts used were oriented towards the basic concepts of magnetism after sequential inquiry-based science activities with challenging questions](../claims/sequential-inquiry-reduces-magnetic-pole-misconceptions.md) [+W] — attached 2026-11-03 from Okulu et al. (2018), which proposed "Support inquiry with dialogues and discussions among students during the activity, since an activity is just a tool that serves for the inquiries and experiences of the students."; tests this page's relationship.
+- [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](../claims/minimal-guidance-low-simulator-usage.md) [+W] — attached 2026-11-09 from Xu J et al. (2018), which proposed "Discovery learning with simulators requires some form of guidance to ensure adequate engagement".
 
 ## Objective and learner-valued goal
 

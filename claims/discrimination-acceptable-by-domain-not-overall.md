@@ -48,3 +48,4 @@ Item analysis comparing top-performing 25% and bottom-performing 25% of the 203 
 ## Related Claims
 - [Using a single question per EBM topic–cognitive level combination resulted in low reliability coefficients for the overall test and its subscales](single-question-per-combination-low-reliability.md) — related
 - [No participant group outperformed others on individual cognitive levels, but experts outperformed students on the EBM topics Study design and Sources of evidence](experts-outperform-students-topic-not-level.md) — related
+- [The EBMQ discriminated between doctors with and without EBM training for 24 of 42 items](ebmq-discriminative-validity-ebm-training.md) — related

@@ -75,3 +75,4 @@ This is a single-site design-based study (evidence tier q2) without a comparison
 - [Awareness of discourse patterns lets teachers scaffold students toward an epistemic orientation and stance](discourse-pattern-awareness-scaffolds-epistemic-orientation.md) — related
 - [Teachers see diversification as deliberate design of experiences for engaging with difference, not curriculum expansion](diversification-as-pedagogical-design-not-content-inclusion.md) — related
 - [Teacher-researchers shifted epistemic stances from a positivistic perspective to a more grounded framework](action-research-epistemic-shift.md) — related
+- [Qualitative analysis found shifts from uncritical deference to technical experts toward well-justified inclusion of public actors](cl-qualitative-shift-toward-justified-public-inclusion.md) — related

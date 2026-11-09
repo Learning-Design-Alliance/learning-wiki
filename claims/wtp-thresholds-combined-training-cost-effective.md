@@ -66,3 +66,4 @@ Recurring-cost CEAC (Fig. 4B) shows the combined strategy favored at WTP of $185
 ## Related Claims
 - [Incremental cost-effectiveness ratios per ICO OSCAR phaco score gained were highest for the VR-plus-wetlab combination on capital cost but lowest on recurring cost](icer-capital-versus-recurring-cost-pattern.md) — related
 - [Novice trainees who received additional proficiency-based virtual reality simulator training achieved higher operating theater phacoemulsification competency scores than trainees with wet laboratory training alone or basic wet laboratory training only](vr-plus-wetlab-higher-ico-oscar-phaco-scores.md) — related
+- [Cost-effectiveness acceptability curves show a higher probability of cost-effectiveness for GTA teaching at 60% and 70% competence thresholds than at the 50% threshold](ceac-higher-probability-cost-effective-higher-thresholds.md) — related

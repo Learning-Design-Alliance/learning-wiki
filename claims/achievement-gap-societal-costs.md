@@ -57,3 +57,4 @@ The report's rationale section attributes this figure to one study it cites, alo
 - [U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can](us-school-funding-inequity-property-tax-reliance.md)
 - [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related
 - [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](costs-of-ignoring-social-side-of-school.md) — related
+- [Attrition from STEM PhD programs carries substantial financial costs, estimated at $22.2 million per year for the study cohort and $1–3 billion per national cohort](financial-cost-stem-phd-attrition.md) — related

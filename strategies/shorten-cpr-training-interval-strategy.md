@@ -52,6 +52,7 @@ The article recommends consolidating CPR learning by "reducing training interval
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
 - [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 - [Renew BLS certification more frequently and tailor emergency training to dental settings](renew-bls-and-tailor-dental-emergency-training.md)
+- [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
 
 ## Examples
 -

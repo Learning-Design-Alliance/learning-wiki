@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (147 show a difference, 27 mixed, 12 no difference) · 160 studies (63 causal, 30 review, 24 qualitative, 13 associational, 13 design, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 13 of 160 report an effect size · 186 claims rest on one study
+> **Evidence** · 188 claims (149 show a difference, 27 mixed, 12 no difference) · 162 studies (65 causal, 30 review, 24 qualitative, 13 associational, 13 design, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 14 of 162 report an effect size · 188 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -228,6 +228,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [A single didactic NTS seminar significantly improved medical students' teamwork, situational awareness and error handling, but decision making and patient outcomes did not differ from control](../claims/didactic-seminar-improves-teamwork-situational-awareness.md) [+W] — measured as an outcome of the instruction studied
 - [Interprofessional team training using TeamSTEPPS led healthcare professionals to experience greater awareness and knowledge of their common teamwork skills during a 12-month implementation on a surgical ward](../claims/teamstepps-team-training-greater-awareness-teamwork-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Students' self-rated positive attitudes toward interprofessional collaboration rose from pre-test to post-test in the control group during the control IPE activity of cooperative learning plus interprofessional community service learning](../claims/cooperative-learning-community-service-alone-improves-ipe-attitudes.md) [+M] — measured as an outcome of the instruction studied
+- [A collaboration script increases collaborative activities (elicitation, externalisation, consensus building) among observers in simulation-based training](../claims/collaboration-script-increases-collaborative-activities.md) [+M] — measured as an outcome of the instruction studied
+- [Prosocial behavior grew over the intervention in cooperative-learning classrooms but not in comparison classrooms](../claims/prosocial-behavior-grows-only-in-intervention.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

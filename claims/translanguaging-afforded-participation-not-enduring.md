@@ -51,3 +51,4 @@ Analysis of Excerpt 3, a small-group brainstorming interaction in which the teac
 - [The institutionalized “ELL” label positioned labelled students as the Other, depriving them of access to agentive participation in the unit](ell-label-positioned-students-as-other.md) — related
 - [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — related
 - [Translanguaging is commonly used by Foundation Phase teachers in multilingual classrooms but is not an official pedagogical approach](translanguaging-common-but-not-official-pedagogy.md) — related
+- [Self-efficacy in the ability to endure in situations without a solution or right answer did not increase significantly, suggesting a need for more training in enduring meaningless and powerless situations](endurance-without-solution-self-efficacy-not-increased.md) — related

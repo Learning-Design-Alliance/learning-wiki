@@ -55,3 +55,4 @@ Voluntary post-session evaluation by 53 of 58 participants at three institutions
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Emergency medical care students generally perceive the simulation debriefing environment as psychologically safe and built on a shared understanding of why debriefing occurs](debriefing-psychological-safety-perceived-hei-students.md) — related
 - [Ratings for the status epilepticus case were slightly less uniform: five of six fellows strongly agreed on relevance, challenge, and expected practice improvement](status-epilepticus-case-five-of-six-strongly-agree.md) — related
+- [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — related

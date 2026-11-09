@@ -48,3 +48,4 @@ Correlation analysis within the knowledge-mapping class relating essay scores to
 ## Related Claims
 - [Knowledge-mapping students more often identified the author's main statement and grounds and explained them in relation to each other in their essays](knowledge-mapping-fosters-capture-of-text-argument.md) — related
 - [Undergraduate students who created knowledge maps from underlined text wrote essays with significantly higher logical coherence and constructiveness than students who did not create maps](knowledge-mapping-improves-argumentative-essay-quality.md) — related
+- [Correlations between number of nodes added and scores were higher in group S than in groups C and W](node-score-correlations-higher-group-s.md) — related

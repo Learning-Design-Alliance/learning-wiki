@@ -53,3 +53,4 @@ Hierarchical multiple regression (Model 3) with demographics, five BFI traits, a
 - [SEB skills show larger average correlations with ACT composite scores than Big Five personality traits in high school students](seb-skills-stronger-act-correlations-than-traits.md) — related
 - [Innovation Skill is the SEB skill most strongly correlated with ACT composite scores (r = .33)](bessi-innovation-skill-act-correlation.md) — related
 - [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](big-five-conscientiousness-openness-act-correlations.md) — related
+- [Skills tests add limited value for specific course prediction: math shows incremental validity for statistics courses (ΔR¯c2 = .12) while English adds none for theoretical courses](skills-tests-specific-course-prediction-statistics-theoretical.md) — related

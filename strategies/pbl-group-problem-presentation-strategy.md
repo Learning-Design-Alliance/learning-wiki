@@ -45,6 +45,7 @@ The article's PBL implementation recipe: teachers "purposively divide students i
 
 - [Problem Based Learning](problem-based-learning.md)
 - [Use PBL with flipped classroom and scenario-based troubleshooting modules for specialized molecular pathology technique training](pbl-flipped-classroom-scenarios-molecular-pathology-training.md)
+- [Co-operative learning group presentations on death and dying themes using student-chosen stimulus material](cooperative-group-presentations-eol-themes.md)
 
 ## Examples
 -

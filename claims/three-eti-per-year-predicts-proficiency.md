@@ -50,3 +50,6 @@ ROC curve analysis on factors correlating at r ≥ 0.6, using a borderline-metho
 - [Emergency physicians' intubation skill assessment scores correlate with the mean number of endotracheal intubations they supervise annually](eti-skill-correlates-annual-supervised-intubations.md) — related
 - [Cumulative endotracheal intubation experience is associated with increased first attempt success among emergency medicine trainees after adjustment for device, indication, and airway difficulty](cumulative-eti-experience-increases-first-attempt-success.md) — related
 - [Years of experience show a weak negative correlation with intubation skill assessment scores among attending physicians](years-experience-weak-negative-correlation-eti-skill.md) — related
+- [Most Northern Japanese ELSTs report anxiety about ETI experience and skill retention, and anxiety about skill retention correlates negatively with ETI confidence](eti-anxiety-prevalence-and-confidence-correlation.md) — related
+- [Annual ETI exposure and years of advanced-level experience are independently associated with confidence in performing ETI](eti-exposure-and-experience-associated-with-confidence.md) — related
+- [Out-of-hospital ETI is an uncommon event for most Northern Japanese ELSTs, with 95.7% exposed to two or fewer ETI opportunities annually](eti-uncommon-event-northern-japan-elsts.md) — related

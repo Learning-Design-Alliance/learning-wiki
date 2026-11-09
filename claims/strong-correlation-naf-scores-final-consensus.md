@@ -51,3 +51,4 @@ A Pearson correlation coefficient test was performed to evaluate rank correlatio
 - [AI total scores correlate strongly with official human scores on handwritten physics assessments (r = 0.91–0.97 in Round I; 0.93–0.96 in Round II)](ai-human-total-score-correlation-handwritten-physics.md) — a broader claim this one bears on
 - [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — a broader claim this one bears on
 - [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](automated-assessment-agrees-with-tutors-search-algorithms.md) — a broader claim this one bears on
+- [Correlations between number of nodes added and scores were higher in group S than in groups C and W](node-score-correlations-higher-group-s.md) — related

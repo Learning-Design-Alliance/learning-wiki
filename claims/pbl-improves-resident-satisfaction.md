@@ -53,3 +53,4 @@ Narrative synthesis of the 12 reaction-level studies in the review; the review r
 - [Student satisfaction favours traditional teaching over PBL methods (pooled MD -0.14), conflicting with the skills and knowledge findings](satisfaction-favours-traditional-teaching.md) — reports the opposite
 - [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related
 - [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](pharmacy-students-strong-engagement-experiential-campaign.md) — related
+- [Students report more positive attitudes to learning with PBL than lectures, including stronger motivation (P<.001 on attitude items)](pbl-more-positive-learning-attitudes.md) — related

@@ -56,3 +56,4 @@ Delphi-style expert validation of the scenario: round-1 CVI values below 100% (c
 - [Two initially low-rated items (item 83 Evolution and item 10 Level of the manual) were modified per expert suggestions and reassessed to a CVI of 1.0](forpec-revised-items-cvi-1-0.md) — related
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related
 - [The lowest-agreement items (90.2%–93.7%) each prompted specific expert revision advice, including a suggested 2–3:1 bed-to-student ratio](lowest-agreement-items-revision-advice.md) — related
+- [All items in the final version of the ABC competency frameworks reached a Content Validation Index of at least 85% after revision of below-threshold items.](cvi-at-least-85-percent-final-items.md) — related

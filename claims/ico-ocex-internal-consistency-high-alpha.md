@@ -57,3 +57,4 @@ Internal consistency was evaluated across 402 forms from 134 raters. 'Subscale-l
 - [G-OSAD ratings show acceptable internal consistency (Cronbach's α = 0.865) and excellent composite reliability (ω = 0.93)](gosad-internal-consistency-composite-reliability.md) — related
 - [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
+- [The EBMQ shows strong internal consistency, with overall Cronbach's alpha of 0.909](ebmq-internal-consistency-alpha-0909.md) — related

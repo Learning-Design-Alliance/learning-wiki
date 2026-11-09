@@ -88,3 +88,4 @@ Same LIWC analysis using the cognitive-processes dictionary on the same nine-cou
 - [Synchronous private messages are shorter, easier to read, and use fewer academic words than asynchronous notes in dual-mode online courses](sync-messages-shorter-easier-less-academic-than-notes.md) — related
 - [Teacher-student online interaction pattern significantly moderates blended instruction effects, with synchronous + asynchronous interaction largest (SMD = 1.189) and absence of interaction smallest (SMD = 0.130)](online-interaction-pattern-moderates-blended-instruction-effects.md) — related
 - [Proposed course provides highest human interaction among compared courses](proposed-course-highest-human-interaction.md) — related
+- [Team leaders' communication shifted after training, with increases in big words and articles interpreted by the authors as a surrogate marker of reduced stress](team-leader-communication-stress-surrogate.md) — related

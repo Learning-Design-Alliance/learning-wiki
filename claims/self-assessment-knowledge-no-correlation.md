@@ -54,3 +54,4 @@ Pearson's correlation between the validated knowledge questionnaire and the expl
 - [Students' post-training confidence ratings do not correlate with their objectively assessed US-PIVC competency scores.](us-pivc-confidence-not-correlated-with-competency.md) — related
 - [Nutrition knowledge shows no significant association with academic performance](nutrition-knowledge-no-association-academic-performance.md) — related
 - [Delegates' pre-workshop self-evaluated knowledge was inversely proportional to their actual pre-workshop mOSATS score](self-evaluation-inversely-proportional-mosats.md) — related
+- [Self-perceived competence is a limited proxy for actual competence because perceived competencies do not always match objectively measured competencies](self-perceived-competence-limited-proxy-objective-competence.md) — possibly the same claim (merge candidate)

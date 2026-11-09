@@ -50,6 +50,7 @@ The article recommends structuring online collaborative activities as small grou
 - [Community Building](community-building.md)
 - [Mix It Up](mix_it_up.md)
 - [Advise teachers to use Twitter learning activities in blended courses integrating face-to-face and online discussion](advise-twitter-activities-blended-courses.md)
+- [Precede non-obligatory e-learning with face-to-face education that explains the subject's importance to enhance autonomous motivation and participation](face-to-face-rationale-before-elearning.md)
 
 ## Examples
 -

@@ -75,6 +75,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
 - [Pair simulation-based communication practice with multisource assessment and debriefing involving medical and non-medical evaluators](multisource-assessment-debriefing-strategy.md)
 - [Use role-playing as a teaching method for clinical-skills training of operating room nursing students and revise the curriculum to include empathy](role-playing-teaching-method-or-nursing-curriculum.md)
+- [Follow experiential learning opportunities with open discussions focusing on emotional intelligence](open-discussions-emotional-intelligence.md)
 
 ## Examples
 -

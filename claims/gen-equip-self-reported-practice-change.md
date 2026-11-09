@@ -68,3 +68,4 @@ Phase 4 qualitative interview data (21 interviews, thematic analysis coded indep
 - [Gen-Equip e-learning modules significantly improve primary care professionals' pre/post knowledge and skills test scores (overall 66.7% to 89.9%, p < 0.001)](gen-equip-prepost-knowledge-skills-gain.md) — related
 - [Primary care professionals report high satisfaction with and relevance of the Gen-Equip resources (73.8% highly/very relevant to own practice; 82.5% would recommend)](gen-equip-satisfaction-relevance.md) — related
 - [Average increase in skills questions (46.8%) exceeded that of knowledge questions (34.7%) across Gen-Equip modules](gen-equip-skills-versus-knowledge-gains.md) — related
+- [Most non-specialist doctors had never referred a patient with a suspicious lesion to a dermatologist in the preceding year](most-doctors-never-referred-suspicious-lesions.md) — related

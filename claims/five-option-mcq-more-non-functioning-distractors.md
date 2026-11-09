@@ -74,3 +74,5 @@ Distractor-per-item comparison (Table 7) from the same analysis; fully functioni
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
 - [Broad clinical scenarios cannot be limited to a small number of options, and longer option lists are perceived as more authentic to clinical practice](clinical-authenticity-long-option-lists.md) — related
+- [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
+- [Only a minority of five-option MCQs have four effective distractors, with 19% of questions having four effective distractors and 32% having three](mcq-minority-four-effective-distractors.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Binary logistic regression on course records from the same randomized experiment
 - [The overall intervention contrast comparing all UV conditions to control was not significant, and no individual UV condition significantly outperformed control in the dummy-coded model](uv-no-overall-effect-versus-control.md) — reports the opposite
 - [A utility-value writing intervention increases STEM major persistence across the semester](uv-intervention-increases-stem-major-persistence.md) — related
 - [A utility-value intervention interacted with students' confidence to predict enrollment in the second biology course and biomedical major two years post-intervention](uvi-confidence-interaction-biomedical-persistence.md) — related
+- [Exploring Biology students continued into and completed the two-semester introductory biology sequence at higher rates than comparison students](exploring-biology-higher-sequence-persistence.md) — related

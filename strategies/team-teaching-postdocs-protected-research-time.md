@@ -44,7 +44,8 @@ The article proposes structural staffing changes to free anatomy professors' tim
 - [Most PoTs lack formal education-research training, and 60% report inadequate campus opportunities to develop scholarly skills](../claims/pot-training-resources-misalignment.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Target pedagogical change efforts at R1 institutions: train PhD students and postdocs bound for R1 faculty careers, reach professors who train graduate students at top R1 departments, and build collaboration channels between teaching-focused and research-focused institutions](r1-targeted-pedagogical-change-strategy.md)
 
 ## Examples
 -

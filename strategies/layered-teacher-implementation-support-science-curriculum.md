@@ -87,6 +87,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 - [Implement large-scale team training through local ownership with ongoing central support and multi-level backing](national-local-ownership-team-training-implementation.md)
 - [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
+- [Train-the-trainer workshops to disseminate the program to residency programs](train-the-trainer-workshops-medical-physics-residency.md)
 
 ## Examples
 -

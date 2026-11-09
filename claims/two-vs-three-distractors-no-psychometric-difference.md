@@ -51,3 +51,4 @@ Randomized comparison of 98 two-distractor and 100 three-distractor MCQs from se
 - [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related
 - [Experimental items performed comparably to the other exam items, supporting generalisability of the format comparison](experimental-items-comparable-to-other-exam-items.md) — related
 - [Item-writing flaws are reported to compromise assessment reliability and validity with inconsistent effects](item-flaws-compromise-validity.md) — related
+- [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related

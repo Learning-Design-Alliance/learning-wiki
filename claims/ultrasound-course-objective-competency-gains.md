@@ -56,3 +56,4 @@ Pre-post theory test comparison with no control group (45 multiple-choice questi
 - [Subjective and objective competency scores are uncorrelated before the course but show a significant positive linear relationship after it (R = 0.35, p = 0.0031)](subjective-objective-correlation-emerges-post-course.md) — related
 - [Dynamic ultrasound images produce higher overall theory test scores than static images in abdominal sonography training](dynamic-images-higher-overall-ultrasound-theory-scores.md) — related
 - [Structured VR simulator training significantly increases visual spatial ability scores compared with no training](vr-training-increases-vsa-scores.md) — related
+- [Final-year medical students' theoretical exam scores rose from 7.9 ± 2.2 to 17.1 ± 1.6 after simulation-based ultrasound training, in one uncontrolled pre-post study](simulation-ultrasound-training-improves-theory-scores.md) — related

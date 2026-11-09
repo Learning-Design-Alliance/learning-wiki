@@ -66,3 +66,4 @@ The guidelines report that academically weaker students and those suffering burn
 ## Related Claims
 - [The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted](teacher-is-principal-ocf-provider.md) — related
 - [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](teacher-intervention-escalation-ladder.md) — related
+- [Only about 7% of students self-refer to remediation programs](seven-percent-self-refer-remediation.md) — possibly the same claim (merge candidate)

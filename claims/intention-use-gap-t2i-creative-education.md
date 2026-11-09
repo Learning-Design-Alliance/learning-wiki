@@ -74,3 +74,4 @@ Coefficients of determination from the structural model (UB R² p = 0.01; PR R²
 - [Facilitating condition has no direct effect on actual use of MALL, departing from prior literature.](facilitating-condition-no-direct-effect-use.md) — related
 - [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related
 - [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related
+- [Physical activity intentions are positively associated with habitual physical activity, which in turn predicts life satisfaction](intentions-activity-life-satisfaction-chain.md) — related

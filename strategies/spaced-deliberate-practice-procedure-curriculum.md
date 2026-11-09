@@ -50,6 +50,7 @@ The curriculum schedules individual 1-hour simulation sessions in which a learne
 - [Recommendations for ascites puncture simulation programs: standardized purpose-built models, longer evaluation horizons, and added patient-communication assessment](ascites-simulation-program-recommendations.md)
 - [Use spaced repetition sessions to mitigate skill decay in high-acuity, low-occurrence procedural skills](spaced-repetition-high-acuity-skills-strategy.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
+- [Deliberate practice with immediate feedback and repeated simulation lab practice before competency evaluation](deliberate-practice-simulation-lab-before-osce-strategy.md)
 
 ## Examples
 -

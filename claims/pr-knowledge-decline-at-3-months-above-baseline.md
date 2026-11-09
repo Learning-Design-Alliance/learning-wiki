@@ -79,3 +79,4 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — reports the opposite
 - [Both flipped classroom and traditional instruction groups improve EBN knowledge and self-efficacy after training, with scores declining by one month](both-groups-improve-then-decline-ebn.md) — related
 - [A case-based e-learning course on patient safety significantly increased medical students' technical knowledge, and the gains persisted one year later](elpas-knowledge-gains-retained-one-year.md) — related
+- [PHTLS training significantly improved simulated trauma team performance scores, with a slight decline one year later that remained above baseline](phtls-training-improved-team-performance-scores.md) — related

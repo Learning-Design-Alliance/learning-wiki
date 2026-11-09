@@ -55,3 +55,4 @@ Hierarchical regression (Table 8) on the Time 1 sample predicted weighted first-
 - [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
 - [Depressive symptomatology is significantly inversely correlated with students' overall evaluation of the distance education experience](depression-negatively-correlated-de-evaluation.md) — related
 - [Exhaustion relates positively to depression and negatively to life satisfaction; engagement relates positively to life satisfaction; neither relates to academic achievement](burnout-engagement-outcomes-achievement-null.md) — related
+- [Poorer study skills correlate with higher depressive symptoms among medical students](poor-study-skills-correlate-depressive-symptoms.md) — related

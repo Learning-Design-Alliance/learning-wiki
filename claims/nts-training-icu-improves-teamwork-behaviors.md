@@ -77,3 +77,4 @@ Systematic review of 14 studies (11 before-and-after, one RCT, one quasi-experim
 - [Simulation training is reported as the most effective way to train surgeons' non-technical skills](simulation-most-effective-nts-training-review.md) — related
 - [First-year doctors report that non-technical skills trained in simulation — communication, teamwork, leadership and situational awareness — transferred to clinical practice](nts-transfer-to-clinical-practice.md) — related
 - [Team performance in simulated emergencies is highly case-specific: teams varied considerably across cases, with no superb or incapable teams per se](team-performance-context-specificity-simulation.md) — related
+- [Reported outcomes of clinical leadership interventions span personal development, leadership knowledge and skills, clinical skills, teamwork, patient care and service delivery](clinical-leadership-intervention-outcomes-range.md) — a broader claim this one bears on

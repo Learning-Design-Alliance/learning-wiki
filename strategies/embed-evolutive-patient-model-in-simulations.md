@@ -55,6 +55,7 @@ The authors recommend a next step for the validated model: "Embedding this model
 - [Tiered competency training for mobile nurses: simulation-based serious games for junior nurses and crisis-leadership modules for senior nurses](tiered-mobile-nurse-competency-training.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Games](games.md)
+- [Design future Serious Game versus traditional teaching trials as randomised studies with pre-tests and learning-time data](randomised-pretest-design-for-serious-game-trials.md)
 
 ## Examples
 -

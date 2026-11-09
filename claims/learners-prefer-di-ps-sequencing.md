@@ -47,3 +47,4 @@ Instructional preference measured with a 13-item scale (Cronbach's alpha .74) in
 ## Related Claims
 - [Instructional design and preferences interacted in predicting knowledge: DI-PS assignment and DI-PS preference were negatively associated with conceptual knowledge gain](design-preference-interaction-knowledge-gains.md) — related
 - [PS-DI learners consulted the reference book on supplier selection procedure far more often than DI-PS learners (d = .83)](ps-di-more-reference-book-use.md) — related
+- [Most participants in both groups preferred the instruction-then-discovery sequence](students-prefer-instruction-first.md) — related

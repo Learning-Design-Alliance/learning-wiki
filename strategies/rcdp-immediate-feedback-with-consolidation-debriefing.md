@@ -69,6 +69,7 @@ The article recommends adopting RCDP in nursing education because it provides im
 - [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 - [Pair e-learning video with embedded feedback and debriefing to target complex decision-making knowledge](video-plus-feedback-for-complex-decision-making.md)
 - [Provide initial instructions on the adequate sequence of actions before self-training game play](initial-instructions-before-serious-game-play.md)
+- [Deliberate practice with immediate feedback and repeated simulation lab practice before competency evaluation](deliberate-practice-simulation-lab-before-osce-strategy.md)
 
 ## Examples
 -

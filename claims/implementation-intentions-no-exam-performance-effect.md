@@ -53,3 +53,4 @@ Linear model predicting final exam grade from group and prior performance in the
 - [Choice-based personalization did not affect final exam performance in the MOOC](choice-personalization-no-final-exam-effect.md) — related
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in final exam performance after controlling for prior exam scores](quiz-reflection-vs-extended-quiz-final-exam-no-difference.md) — related
 - [High prior performers showed higher training success rates than low performers, with no group effect of learning modality](prior-knowledge-moderates-training-performance.md) — related
+- [Prior science experience and science interest related less strongly to quiz performance in intervention than comparison classrooms](cooperative-learning-levels-playing-field-achievement.md) — related

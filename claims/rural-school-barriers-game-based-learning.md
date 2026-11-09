@@ -55,3 +55,4 @@ Qualitative findings from researcher observation, FGDs with twelve students, and
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
 - [Stakeholders in Polish public medical universities perceive space shortages and overcrowding as the most important organizational challenges of clinical teaching](space-shortages-top-clinical-teaching-challenge-poland.md) — related
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related
+- [Participants identified infrastructure and resource shortages as a barrier to accommodating growing student numbers](infrastructure-shortage-barrier-growing-nursing-intakes.md) — related

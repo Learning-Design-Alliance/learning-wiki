@@ -69,3 +69,4 @@ Forward regression on the Biology cohort (N = 113); final model adjusted R² = 4
 - [Regression analysis identifies age, high school grades, and test scores as significant GPA predictors, with the final model explaining about 31.58% of variance](regression-predictors-dental-gpa-model.md) — related
 - [High school grade point average is the best predictor of first-term academic success (API) across all five analyzed science degrees](high-school-gpa-best-predictor-api-science-degrees.md) — related
 - [The grade obtained in the PAU specific phase is a significant secondary predictor of the API in all five degrees](pau-specific-phase-secondary-predictor.md) — related
+- [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related

@@ -51,3 +51,4 @@ Descriptive comparison of resuscitation practices across the four study periods 
 - [Presence of trained providers and other early resuscitation steps at birth rose from pre-training to post-training after HBB training, except stimulation, in one uncontrolled pre-post study](hbb-training-increases-early-resuscitation-process-indicators.md) — related
 - [The proclivity to perform suction first delays ventilation during neonatal resuscitation, and suction is rarely clinically indicated](suction-first-delays-ventilation-air-air-air.md) — related
 - [Mechanically ventilated patients and DRG coefficients decreased sequentially after the intervention](ventilation-and-drg-decreased-post-intervention.md) — related
+- [Second edition scientific revisions: drying and stimulating babies born through meconium-stained fluid without suctioning, and initiating ventilation before cutting the cord](hbb2-scientific-revisions-suctioning-cord-clamping.md) — related

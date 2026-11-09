@@ -52,6 +52,7 @@ Because the included interventions were mainly short-term and the review found n
 - [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
 - [Increase radiology education emphasis in the medical curriculum](radiology-education-curriculum-emphasis.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
+- [Design future Serious Game versus traditional teaching trials as randomised studies with pre-tests and learning-time data](randomised-pretest-design-for-serious-game-trials.md)
 
 ## Examples
 -

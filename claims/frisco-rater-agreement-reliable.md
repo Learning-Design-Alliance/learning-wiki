@@ -104,3 +104,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Inter-rater agreement on five POCUS clinical-competence checklist items is fair to moderate (κ = 0.32 to 0.55)](pocus-checklist-fair-moderate-rater-agreement.md) — related
 - [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related
 - [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
+- [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related

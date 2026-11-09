@@ -60,6 +60,7 @@ Because the study observed that resuscitation skills and patient safety attitude
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 - [Implement periodic self-guided CPR training using high-fidelity manikins in every medical student's training](periodic-self-guided-hf-cpr-training-strategy.md)
 - [Simulation-based refresher training and proactive skills maintenance for physicians who infrequently perform intubation](simulation-refresher-training-infrequent-intubators.md)
+- [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
 
 ## Examples
 -

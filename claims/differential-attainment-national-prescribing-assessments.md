@@ -48,3 +48,4 @@ Analysis of the NHS National Pharmacist Recruitment Programme 2022–2023 assess
 ## Related Claims
 - [Predictive validity, cost, and differential attainment by demographics are not indicated in the prescribing assessment literature](missing-predictive-validity-cost-differential-attainment.md) — related
 - [No statistically significant score differences between paired non-white and white candidates for the Asian fail, Chinese fail, and all pass-grade comparisons](no-significant-race-differences-other-pairings.md) — related
+- [Female sex, white ethnicity, and higher UKCAT scores are significant predictors of FPAS SJT score among graduate entrants](sex-ethnicity-ukcat-predict-sjt.md) — related

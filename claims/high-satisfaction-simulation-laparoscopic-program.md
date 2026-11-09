@@ -54,3 +54,4 @@ Descriptive Kirkpatrick level-1 (reaction) results from the end-of-program quest
 - [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related
 - [Participants rated the simulation's effectiveness and performance very good or excellent, supporting content validity](vats-simulator-content-validity-rating.md) — related
 - [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related
+- [In a randomized crossover study, surgeons rated the EndoSuture Trainer Box Simulator higher overall than a standard laparoscopic trainer for training laparoscopic skills](estbs-overall-score-higher-than-slt.md) — related

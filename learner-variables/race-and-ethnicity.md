@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 236 claims (185 show a difference, 36 mixed, 15 no difference) · 177 studies (95 associational, 33 causal, 28 review, 8 theoretical, 7 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 6 of 177 report an effect size · 234 claims rest on one study
+> **Evidence** · 237 claims (185 show a difference, 36 mixed, 16 no difference) · 178 studies (96 associational, 33 causal, 28 review, 8 theoretical, 7 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 6 of 178 report an effect size · 235 claims rest on one study
 
 ## How to read this page
 
@@ -273,6 +273,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Students with ethnic minority-sounding names obtained substantially lower exam grades in both open and blind grading years](../claims/ethnic-minority-name-lower-grades-both-years.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Talk-turn contributions differ by gender and URM status, with minority-status participants contributing below their fair share](../claims/talk-turn-equity-gender-urm.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Controlled motivation is positively associated with surface strategy only among non-Western minority students](../claims/controlled-motivation-surface-strategy-non-western.md) [~M] — an instructional effect differs by group
+- [No significant interaction effects of race/ethnicity with TD engagement on college teaching self-efficacy were found](../claims/no-race-ethnicity-td-interaction.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

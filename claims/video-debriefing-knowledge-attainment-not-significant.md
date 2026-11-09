@@ -49,3 +49,4 @@ Knowledge (MCQ) post-test row from the trial's Table 2; the adjusted difference 
 - [Adding video-debriefing to standard HBB training improved combined knowledge-and-skills (competence) attainment in the immediate post-training period among Ugandan skilled birth attendants](video-debriefing-improved-hbb-competence-attainment.md) — related
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related
 - [Knowledge scores did not differ significantly between the LDHF/m-mentoring and TRAD arms at 3 and 12 months post-training](no-knowledge-difference-3-12-months.md) — related
+- [Tablet-based video training produced MCQ knowledge gains comparable to traditional in-person training among community health workers in rural Uganda](tablet-training-comparable-mcq-gains-chws.md) — related

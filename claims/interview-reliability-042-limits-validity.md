@@ -54,3 +54,4 @@ Meta-analytic summary in Table 1 combining one employment meta-analysis (Huffcut
 - [Mechanical/formula-based selection decisions outperform holistic/clinical (human-judgement) decisions, with an average effect size advantage of +.11 SD across 161 studies](mechanical-outperforms-clinical-selection-esd-011.md)
 - [Interview validity tends to be higher for non-academic outcomes than for academic outcomes](interview-validity-higher-non-academic-outcomes.md) — related
 - [Structured interviews have two to three times the predictive value of unstructured interviews but are rarely used in EU selection](structured-interviews-predictive-value-selection.md) — a narrower finding that bears on this claim
+- [Applicant rankings were largely unchanged from pre-test to post-test after small weighting changes, while prior academic attainment remained dominant in admission, in one single-group pre-post study](small-weighting-changes-preserve-ranking.md) — related

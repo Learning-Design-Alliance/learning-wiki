@@ -47,3 +47,4 @@ Exploratory Spearman rank correlation analysis of Round 2 ratings in the overall
 ## Related Claims
 - [Stakeholders in Polish public medical universities perceive space shortages and overcrowding as the most important organizational challenges of clinical teaching](space-shortages-top-clinical-teaching-challenge-poland.md) — related
 - [Students reported higher mean ratings of organizational challenges than academic teachers, as a descriptive pattern rather than a statistically verified difference](students-rate-challenges-higher-than-lecturers-descriptive.md) — related
+- [Increased student enrolment caused overcrowding in clinical areas that challenged clinical teaching](clinical-area-overcrowding-challenges-clinical-teaching.md) — related

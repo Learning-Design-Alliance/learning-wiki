@@ -50,3 +50,4 @@ Results section (Table 3) reporting per-hospital episiotomy rates before and aft
 - [Hands-on training of birth attendants in bimanual perineal support significantly reduced episiotomy rates among primiparous women in intervention hospitals](hands-on-bpst-training-reduced-episiotomy-rates.md) — related
 - [Hands-on training was significantly more effective than animated instruction videos alone in reducing episiotomy rates](hands-on-more-effective-than-animated-video-bpst.md) — related
 - [Episiotomy rates in nonintervention hospitals did not change significantly during either intervention phase](nonintervention-hospitals-episiotomy-unchanged.md) — related
+- [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related

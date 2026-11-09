@@ -16,12 +16,14 @@ sources:
     author: Offiah G, Ekpotu LP, Murphy S, Kane D, Gordon A, O’Sullivan M, Sharifuddin SF, Hill ADK, Condron CM
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Retention differs by skill: male catheterisation was most poorly retained and venepuncture best retained
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Offiah G, Ekpotu LP, Murphy S, Kane D, Gordon A, O’Sullivan M, Sharifuddin SF, Hill ADK, Condron CM. (2019). Evaluation of medical student retention of clinical skills following simulation training. BMC Medical Education. https://doi.org/10.1186/s12909-019-1663-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive comparison across the 7 retested skills in the same 51-student cohort; the Results section states "male catheterisation was the most poorly retained skill while students performed best at venepuncture." No effect size or significance test is printed for this contrast.
 

@@ -50,6 +50,7 @@ The authors recommend the combined video-based, student tutor concept as a way t
 ## Related Strategies
 
 - [Adopt mastery learning and peer-assisted learning models to maximize ultrasound training effectiveness in resource-limited settings](mastery-peer-assisted-ultrasound-resource-limited.md)
+- [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
 
 ## Examples
 -

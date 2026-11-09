@@ -50,6 +50,7 @@ Because competence was the strongest need predictor of self-determined motivatio
 
 - [Target teachers first in autonomy-support interventions to foster student autonomous motivation](autonomy-support-interventions-target-teachers-first.md)
 - [Run workshops focused on enhancing trainees' self-efficacy and awareness of their autonomy and performance](workshops-enhancing-trainee-self-assessment-accuracy.md)
+- [Precede non-obligatory e-learning with face-to-face education that explains the subject's importance to enhance autonomous motivation and participation](face-to-face-rationale-before-elearning.md)
 
 ## Examples
 -

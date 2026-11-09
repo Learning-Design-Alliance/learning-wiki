@@ -52,6 +52,7 @@ The review recommends that dental educators tailor standard-setting implementati
 - [Tailor active methodologies to the specific educational context and subject matter](tailor-active-methods-to-context-dentistry.md)
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 - [Use EPAs to standardize student performance expectations and assessment across dental schools](epas-standardize-dental-assessment-strategy.md)
+- [Use the Angoff method to set passing standards for multiple levels of proficiency, not only minimal competence](angoff-method-multi-level-standards-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ In this randomized controlled trial of 30 anesthesiology residents, the simulati
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
 - [Image quality scores are slightly higher in the XR training group compared to the standard group](xr-training-higher-image-quality.md) — related
 - [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite
+- [Student satisfaction was higher after simulator-based teaching than after traditional teaching](simulator-teaching-higher-student-satisfaction.md) — related

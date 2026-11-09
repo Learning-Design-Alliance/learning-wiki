@@ -49,6 +49,7 @@ The review recommends using its six-domain competency framework to assess nurses
 - [Use simulation and virtual reality to train nurse managers' decision-making competency](simulation-vr-training-nurse-manager-decision-making.md)
 - [Use the competency framework as a fluid tool for appraisal, self-assessment and identifying learning needs](competency-framework-as-development-review-tool.md)
 - [Use the framework to design competence-based education, training programs, and assessment tools for BCP](bcp-framework-training-design-strategy.md)
+- [Use validated competency frameworks to guide curricular training strategies and evaluation, and invest in further framework creation across other nursing areas](frameworks-guide-curriculum-and-evaluation-strategy.md)
 
 ## Examples
 -

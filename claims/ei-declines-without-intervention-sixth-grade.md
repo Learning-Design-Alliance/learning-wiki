@@ -52,3 +52,4 @@ Repeated-measures analysis of the comparison group (n = 46) over four time point
 - [The EI intervention improves language performance during intervention periods, while the comparison group's language performance declines progressively](edi-intervention-improves-language-performance.md) — related
 - [A two-year school-based EI intervention significantly increases trait emotional intelligence in pre-adolescent elementary students](edi-intervention-increases-trait-ei.md) — related
 - [Students' NFC and academic interest declined in mean level over Grades 5–7 while achievement test scores increased](nfc-and-interest-decline-grades-5-7.md) — related
+- [Group 3 students’ empathic ability increased significantly after the two-term intervention and remained higher than their pre-intervention baseline at every subsequent time point](group3-empathy-increase-after-two-term-intervention.md) — related

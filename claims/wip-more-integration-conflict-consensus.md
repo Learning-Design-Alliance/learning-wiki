@@ -50,3 +50,4 @@ Z-test comparison of column proportions of social-mode codes (Cohen's Kappa κ =
 - [An individual-then-collaborative activity structure (I+C) yields better delayed recall than collaborative-then-individual (C+I) and fully individual (I) structures](ic-structure-better-recall-than-ci-and-individual.md) — related
 - [An individual preparation phase shows no significant difference on concepts, domains or cross-links in the resulting collaborative concept maps](wip-no-difference-concepts-domains-crosslinks.md) — related
 - [An individual preparation phase yields significantly more types of cross-links in collaborative concept maps, with a large effect size](wip-significant-types-of-cross-links.md) — related
+- [A collaboration script increases collaborative activities (elicitation, externalisation, consensus building) among observers in simulation-based training](collaboration-script-increases-collaborative-activities.md) — related

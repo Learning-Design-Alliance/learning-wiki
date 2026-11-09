@@ -16,12 +16,14 @@ sources:
     author: Mahler Daniela, Großschedl Jörg, Harms Ute
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teachers' self-efficacy shows no relationship with students' performance in a biology teaching-unit study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mahler Daniela, Großschedl Jörg, Harms Ute. (2018). Does motivation matter? – The relationship between teachers' self-efficacy and enthusiasm and students' performance. PLoS ONE 13(11): e0207252. https://doi.org/10.1371/journal.pone.0207252
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Doubly-latent multilevel SEM with 48 biology teachers and 1036 students; model 2 added self-efficacy to control variables. The article reports "no relationship between teachers' self-efficacy and students' performance"; no effect size is printed (standardised β = -.02 in Model 2, Table 2).
 

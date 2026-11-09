@@ -50,3 +50,4 @@ Postcurriculum survey of 22 residents (47% of invited) after the four-month at-h
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
 - [Simulated laparoscopic practice decreases after completion of the FLS examination among general surgery residents](simulated-practice-decreases-after-fls-completion.md) — related
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
+- [Trainees reported improved skills and self-confidence and supported making the at-home curriculum part of regular residency training](questionnaire-supports-curriculum-adoption.md) — possibly the same claim (merge candidate)

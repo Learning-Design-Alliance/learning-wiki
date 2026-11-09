@@ -50,3 +50,4 @@ Multiple stepwise regression with difficulties as dependent variable, demographi
 - [In a structural equation model, delirium knowledge, self-efficacy and clinical reasoning each show significant negative direct paths to delirium care difficulties](sem-direct-paths-to-delirium-care-difficulties.md) — related
 - [Clinical reasoning competency partially mediates the relationships of delirium knowledge and self-efficacy with delirium care difficulties](clinical-reasoning-partially-mediates-difficulties.md) — related
 - [ICU nurses reported moderate delirium care difficulties, with dealing with stress and distress the highest-scoring subdimension](moderate-difficulties-stress-distress-highest.md) — related
+- [Existing remediation approach models explain little of the outcome variance in clinical skills, knowledge or professionalism](remediation-models-explain-little-variance.md) — related

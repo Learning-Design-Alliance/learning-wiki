@@ -88,3 +88,4 @@ Phase 2 paired t-test analysis of 42 first-year medical students' confidence sur
 - [Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study](simulator-tee-training-improves-student-knowledge.md) — related
 - [Simulator-based TEE training is feasible for larger cohorts of early medical students](tee-simulator-training-feasible-large-cohorts.md) — a broader claim this one bears on
 - [All participants successfully demonstrated TEE skills after simulator-based training](simulator-tee-training-skills-mastery.md) — related
+- [Final-year medical students' practical application exam scores rose from 1.1 ± 0.9 to 10.9 ± 0.2 from pre-test to post-test after simulation-based ultrasound training, in one single-group study with no comparison group](simulation-ultrasound-training-improves-practical-scores.md) — related

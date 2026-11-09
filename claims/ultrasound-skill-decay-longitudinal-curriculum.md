@@ -71,3 +71,4 @@ The review identifies an evidence gap: "only few studies examine the long-time r
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [In the authors' prior study, self-assessment was not sufficient for acquiring ultrasound-guided vascular access skills and objective skill testing proved crucial](self-assessment-insufficient-skill-testing-crucial.md) — related
+- [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on

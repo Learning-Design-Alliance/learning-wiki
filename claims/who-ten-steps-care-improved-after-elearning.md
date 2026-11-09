@@ -49,3 +49,4 @@ Unannounced structured observations of SAM care at ten hospitals (El Salvador ex
 - [Case-fatality among children with SAM fell from 5.8% to 1.9% after the eLearning intervention](sam-case-fatality-fell-after-elearning.md) — related
 - [Referrals of SAM admissions to tertiary hospitals in Ghana fell from 6.7% to 1.3% after the intervention](sam-tertiary-referrals-fell-after-elearning.md) — related
 - [Screening for SAM among children admitted with ARI or gastroenteritis rose from before to after the eLearning intervention in one single-group pre-post study with no comparison group](sam-screening-in-ari-and-gastroenteritis-increased.md) — related
+- [Awareness of WHO SAM management guidelines was low before training (36.73% overall; 26.3% among in-service professionals)](malnutrition-elearning-low-baseline-awareness.md) — related

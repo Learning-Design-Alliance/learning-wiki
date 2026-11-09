@@ -98,3 +98,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
 - [G-OSAD ratings show acceptable internal consistency (Cronbach's α = 0.865) and excellent composite reliability (ω = 0.93)](gosad-internal-consistency-composite-reliability.md) — related
+- [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related

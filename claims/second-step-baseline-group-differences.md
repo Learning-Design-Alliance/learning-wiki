@@ -50,3 +50,4 @@ Baseline comparison from three-level growth models controlling for gender, ethni
 - [No statistically significant difference was found between treatment and control schools in the growth rate of prosocial school behaviors](second-step-no-effect-prosocial-behavior-growth.md) — related
 - [Students in Second Step treatment schools showed a significantly greater reduction in problem behaviors over four semesters than students in control schools](second-step-reduces-problem-behaviors-longitudinal.md) — related
 - [Treatment students significantly increased in prosocial behaviors and social responsibility, and were less excluded by peers, while control students decreased in these behaviors.](rd-program-improved-prosocial-behavior-and-social-responsibility.md) — related
+- [Prosocial behavior grew over the intervention in cooperative-learning classrooms but not in comparison classrooms](prosocial-behavior-grows-only-in-intervention.md) — related

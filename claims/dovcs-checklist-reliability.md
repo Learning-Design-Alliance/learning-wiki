@@ -55,3 +55,4 @@ Psychometric analysis of the DOVCS checklist scored by two independent faculty r
 - [ComOn check shows moderate to high inter-rater reliability (ICCs 0.41-0.84), except item A2 with a low ICC](comon-check-inter-rater-reliability.md) — related
 - [Using a codebook alongside the OS-12 assessment tool yields good interrater reliability (ICC 0.74) for the overall score of audio-recorded clinical consultations](os12-codebook-interrater-reliability-icc-074.md) — related
 - [The ECRS shows 84% interrater agreement, an ICC of .527, and internal consistency of Cronbach alpha .948](ecrs-reliability-agreement-icc-alpha.md) — related
+- [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related

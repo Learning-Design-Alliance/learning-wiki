@@ -56,3 +56,5 @@ Preliminary bivariate correlation analysis (Table 1) of 615 secondary students i
 - [Emotional intelligence positively predicts academic performance among secondary students (β = 0.42, p < 0.001)](ei-positively-predicts-academic-performance-adolescents.md) — related
 - [Self-efficacy, motivation, and resilience each mediate the relationship between emotional intelligence and academic achievement](ei-achievement-mediation-three-traits.md) — related
 - [Emotional intelligence is positively and significantly linked with self-efficacy, motivation, and resilience among both undergraduate and postgraduate students](ei-positive-links-self-efficacy-motivation-resilience.md) — related
+- [Physical activity intentions are positively associated with habitual physical activity, which in turn predicts life satisfaction](intentions-activity-life-satisfaction-chain.md) — related
+- [Global intrinsic motivation positively predicts students' perceived importance of physical education, which in turn predicts intentions to be physically active](intrinsic-motivation-importance-intentions-chain.md) — related

@@ -52,3 +52,5 @@ MANOVA with SRL profile membership as independent variable and the three CoI pre
 - [The low regulators with limited social skills profile showed significantly lower social presence than the low regulators profile, with no significant difference in teaching or cognitive presence](limited-social-skills-profile-lower-social-presence.md) — related
 - [SRL sub-constructs correlate substantially with all three CoI presences, and a seven-factor OSLQ model fits better than the original six-factor model](srl-coi-correlations-seven-factor-oslq.md) — related
 - [Teaching, social, and cognitive presence each significantly positively predict learning performance in blended learning](three-presences-predict-performance-blended.md) — related
+- [Student sense of community of inquiry in flipped classrooms increases significantly in teaching, social, and cognitive presence](flipped-classroom-coi-all-three-presences-increase.md) — related
+- [No differences in community of inquiry perceptions between higher- and lower-performing students in pre- or post-course surveys](no-achiever-group-differences-coi-perceptions.md) — related

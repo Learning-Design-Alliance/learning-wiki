@@ -13,6 +13,8 @@ sources:
     title: Ngcobo 2019
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: ngcobo-2019-2
     title: Ngcobo 2019 (2)
     q: 2
@@ -24,7 +26,7 @@ sources:
 # Most surveyed Bachelor of Nursing students were female (82.7%), African (81.9%), South African-born (95.5%), and had 1–3 years of programme exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 design `r2` · `q2`
+> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -37,7 +39,7 @@ sources:
 
 Ngcobo, S.J. & Mchunu, G.G., 2019, 'Bachelor of Nursing students' HIV and AIDS knowledge in KwaZulu-Natal province: An evaluation study', Curationis 42(1), a1928. https://doi.org/10.4102/curationis.v42i1.1928
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive demographic results (Table 2) from the total population sample of 133 programme recipients surveyed in November 2015. Programme exposure was 1 year for 52 students (39.1%), 2 years for 34 (25.6%), and 3 years for 47 (35.3%).
 

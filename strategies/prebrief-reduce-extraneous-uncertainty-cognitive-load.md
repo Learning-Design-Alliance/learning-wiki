@@ -49,6 +49,7 @@ A session-design strategy for healthcare simulation: because uncertainty is inhe
 - [Protocolize the prebriefing with a fiction contract, a preplanned written briefing script, and a case-design checklist](protocolized-prebriefing-fiction-contract.md)
 - [Two-stage prebriefing strategy: advance written communication plus a short in-person prebrief on the day of the simulation](two-stage-prebriefing-in-situ-simulation-strategy.md)
 - [Multiprofessional in situ simulation of procedural complications to develop situational awareness](in-situ-simulation-endoscopy-complications-situational-awareness.md)
+- [Minimise extraneous cognitive load in student MCQ-writing by assigning topics and modelling scenario-based questions without introducing Bloom's taxonomy](assign-topics-model-scenario-mcq-strategy.md)
 
 ## Examples
 -

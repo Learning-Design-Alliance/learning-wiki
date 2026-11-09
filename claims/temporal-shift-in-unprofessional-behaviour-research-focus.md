@@ -49,3 +49,4 @@ Descriptive trend analysis of the 46 included studies (January 1977–May 2016),
 - [Systematic review distils 205 descriptions of medical students' unprofessional behaviours into 30 descriptors in four themes](review-205-descriptions-30-descriptors-four-themes.md)
 - [Minor rule non-compliance (failing course evaluations, failing to report immunization compliance) predicts students' later unprofessional behaviours](minor-rule-noncompliance-predicts-later-unprofessional-behaviour.md)
 - [Some student behaviours (poor initiative, irresponsibility, diminished capacity for self-improvement) predict future unprofessional behaviour as a physician](some-student-lapses-predict-future-physician-unprofessionalism.md)
+- [Early academic failure carries far lower risk of later disciplinary action than unprofessional behavior in medical school](academic-failure-low-disciplinary-risk-versus-unprofessional-behavior.md) — related

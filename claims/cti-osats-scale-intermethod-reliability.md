@@ -52,3 +52,4 @@ Intermethod reliability analysis (direct on-site versus indirect video rating; i
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [A modified OSATS for chest tube insertion shows criterion validity by distinguishing four self-estimated experience levels in blinded video-rated performance on a porcine model](osats-chest-tube-criterion-validity-experience-levels.md) — related
+- [Medical students who trained with the Touch Surgery chest tube insertion module scored significantly higher on directly observed OSATS performance than students trained with an irrelevant module](serious-game-osats-direct-performance.md) — related

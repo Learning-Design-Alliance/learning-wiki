@@ -54,3 +54,4 @@ Interview finding from the grounded theory study; Participant 16 contrasted pre-
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
 - [Faculty and students report declining senior-faculty engagement in clinical teaching, with educational duties delegated to residents without ensuring learner competence.](reduced-faculty-mentoring-engagement-iran.md) — related
 - [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related
+- [Increased student enrolment caused overcrowding in clinical areas that challenged clinical teaching](clinical-area-overcrowding-challenges-clinical-teaching.md) — possibly the same claim (merge candidate)

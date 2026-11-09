@@ -52,3 +52,4 @@ Step 3 of the logistic regression in the 203-student survey; Table 5 prints O.R.
 - [For low-physical-activity adolescents of both genders, depression has a significant negative indirect effect on academic performance through peer relationships](low-pa-indirect-effect-significant-both-genders.md) — related
 - [More than half of students reported significant impairment in concentration and learning abilities during distance education](majority-concentration-impairment-during-de.md) — related
 - [Women showed more severe depression levels and better visual memory retention than men in the sample](gender-differences-severe-depression-visual-memory.md) — related
+- [Poorer study skills correlate with higher depressive symptoms among medical students](poor-study-skills-correlate-depressive-symptoms.md) — related

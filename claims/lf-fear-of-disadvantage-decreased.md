@@ -16,12 +16,14 @@ sources:
     author: Massoth C, Röder H, Ohlenburg H, Hessler M, Zarbock A, Pöpping DM, Wenk M.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # LF participants' fear of being disadvantaged decreased significantly after experiencing LF training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Massoth C, Röder H, Ohlenburg H, Hessler M, Zarbock A, Pöpping DM, Wenk M. (2019). High-fidelity is not superior to low-fidelity simulation but leads to overconfidence in medical students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1464-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Self-assessment questionnaire item analyzed with Chi-squared and McNemar's tests on paired samples. The LF group showed "a significant reduction concerning their fear of being disadvantaged" from 37% to 13% (p = 0.003); the HF group's assumption of advantage did not change significantly (p = 0.052).
 

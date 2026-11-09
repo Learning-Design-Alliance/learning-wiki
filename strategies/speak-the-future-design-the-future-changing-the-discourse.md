@@ -63,6 +63,7 @@ Language functions as a framing device that shapes which problems teams perceive
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the strategy works by surfacing and interrogating prior assumptions rather than adding information
 - [Interrogate parent involvement constructs through a genealogical lens to advance equity](interrogate-parent-involvement-for-equity.md)
 - [Develop IDC as a leadership tool for district-level equity discourse, not only a curriculum design framework](idc-as-leadership-tool.md)
+- [Replace deficit-framed remediation language with conditioning and qualification-standard terminology](destigmatizing-remediation-language.md)
 
 ## Examples
 - **CityBridge School Design Fellows** (Washington, DC) use the DI/DII lens to analyze language they hear from school leaders and to audit ideas generated during design sessions. At a January 2020 Fellows gathering, the lens structured an "equity pause" in which teams sorted brainstormed ideas along a DI-to-DII spectrum.

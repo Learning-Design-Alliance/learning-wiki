@@ -57,3 +57,4 @@ Cross-site RCT randomizing 126 classrooms (one target child each) to PFS or usua
 - [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related
 - [Tertiary First Step improves teacher- and parent-rated adaptive and social skills relative to a comparison group](tertiary-first-step-improves-prosocial-outcomes.md) — related
 - [Tertiary First Step reduces teacher- and parent-rated problem behavior relative to a comparison group](tertiary-first-step-reduces-problem-behavior.md) — related
+- [Prosocial behavior grew over the intervention in cooperative-learning classrooms but not in comparison classrooms](prosocial-behavior-grows-only-in-intervention.md) — related

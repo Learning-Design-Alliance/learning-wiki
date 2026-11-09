@@ -51,3 +51,4 @@ Post-procedure Likert questionnaire (1 = very bad to 5 = excellent) completed by
 - [More experienced surgeons sutured faster on the simulator, supporting construct validity](vats-simulator-construct-validity-experience.md) — related
 - [Human cadaver models allow trainees to complete all steps of three-portal VATS lobectomy with high rated simulation quality](cadaver-model-vats-lobectomy-training-feasible.md) — related
 - [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related
+- [ESTBS was rated superior to SLT on 7 of 10 questionnaire items, including triangulation, resistance and resilience, ergonomics, design, training, technology and teaching](estbs-superior-seven-of-ten-items.md) — related

@@ -16,18 +16,22 @@ sources:
     author: Sa Bidyadhar, Ezenwaka Chidum, Singh Keerti, Vuma Sehlule, Majumder Md. Anwarul Azim
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: sa-bidyadhar-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1508-z"
     title: "Sa Bidyadhar, Ezenwaka Chidum, Singh Keerti, Vuma Sehlule, Majumder Md. Anwarul Azim. (2019). Tutor assessment of PBL process: does tutor variability affect objectivity and reliability? BMC Medical Education. https://doi.org/10.1186/s12909-019-1508-z"
     author: Sa Bidyadhar, Ezenwaka Chidum, Singh Keerti, Vuma Sehlule, Majumder Md. Anwarul Azim
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Tutors' PBL experience correlates moderately with their mean ratings, while male and female tutors' mean ratings do not differ significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Sa Bidyadhar, Ezenwaka Chidum, Singh Keerti, Vuma Sehlule, Majumder Md. Anwarul Azim. (2019). Tutor assessment of PBL process: does tutor variability affect objectivity and reliability? BMC Medical Education. https://doi.org/10.1186/s12909-019-1508-z
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Pearson product moment correlation across the 18 tutors, whose PBL experience ranged from 5 to 25 years (mean 12.8 years). The correlation with mean ratings was "moderately significant (r = 0.52; p < 0.05)".
 
@@ -50,7 +54,7 @@ Pearson product moment correlation across the 18 tutors, whose PBL experience ra
 
 Sa Bidyadhar, Ezenwaka Chidum, Singh Keerti, Vuma Sehlule, Majumder Md. Anwarul Azim. (2019). Tutor assessment of PBL process: does tutor variability affect objectivity and reliability? BMC Medical Education. https://doi.org/10.1186/s12909-019-1508-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Independent t-test comparing male and female tutors' mean PBL ratings in the same cohort. The difference was "statistically insignificant" with t-ratio = 0.62, p > 0.05; no equivalence test was reported.
 

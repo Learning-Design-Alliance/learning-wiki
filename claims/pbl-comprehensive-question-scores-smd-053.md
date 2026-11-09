@@ -60,3 +60,4 @@ Random-effects pooling of the 3 included studies that reported comprehensive que
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related
 - [Hybrid BOPPPS group achieved modestly higher formative, final exam and comprehensive scores than the LBL group](boppps-higher-comprehensive-grades-radiology.md) — related
 - [Participation in the Pharmacotrophy tournament was associated with 20.1% higher pharmacology exam marks than non-participants, with comparable overall academic levels](pharmacotrophy-higher-pharmacology-marks.md) — a narrower finding that bears on this claim
+- [Fifth-year medical students who chose training with the Serious Game EMERGE scored significantly higher on a key feature examination than those who chose small-group PBL](emerge-higher-key-feature-exam-than-pbl.md) — related

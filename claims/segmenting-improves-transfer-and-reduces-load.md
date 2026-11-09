@@ -52,3 +52,4 @@ The review reports a meta-analysis (Rey et al., 2019) of "56 studies and 7713 pa
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — a broader claim this one bears on
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — a narrower finding that bears on this claim
+- [Children with dyslexia spend more study time on user-paced multimedia lessons with written text than with audio, while typically developing children spend equal time in both conditions](dyslexia-modality-effect-study-time.md) — related

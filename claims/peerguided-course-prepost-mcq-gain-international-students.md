@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-09
 sources:
   - id: huhn-d-2018
     resource: "https://doi.org/10.3205/zma001203"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a paired pre-post comparison of identical multiple-choice questions, twelve international students improved from 55.9% correct on pre-tests to 78.7% on the post-test (t(11)=-8.48, p<.001, d=1.95). [→ Huhn D 2018](#huhn-d-2018)

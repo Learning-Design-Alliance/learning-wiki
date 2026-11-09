@@ -52,3 +52,4 @@ Table 2 presents matched pre- and post-intervention open reflections of the 11 s
 - [Students rated the VR-based station similarly to the physical station on most perception items, but showed significant hesitancy toward broader future use of VR in assessments](vrs-acceptance-hesitancy-future-use.md) — related
 - [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
 - [A VR-based OSCE station can be integrated into an established curricular OSCE with 93% of students using the VR technology without issues](vrs-osce-integration-feasible.md) — related
+- [Trainees reported improved skills and self-confidence and supported making the at-home curriculum part of regular residency training](questionnaire-supports-curriculum-adoption.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Minder Stefan P., Weibel David, Wissmath Bartholomäus, Schmitz Felix M.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Course-script knowledge shows a significant time-by-condition interaction: the treatment group increases continuously while the control group first decreases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Minder Stefan P., Weibel David, Wissmath Bartholomäus, Schmitz Felix M. (2018). Do students achieve the desired learning goals using open-book formative assessments? International Journal of Medical Education, 9, 293-301. https://doi.org/10.5116/ijme.5bc6.fead
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Repeated-measures ANOVA on course-script knowledge at t1, t2 and t3 with condition as between-subjects variable; Figure 1 depicts the interaction, showing the treatment level "continuously increases" while the control group decreases from t1 to t2 then increases.
 

@@ -53,3 +53,4 @@ Reconstruction from the typescript of Mead's Course 50 on Philosophy of Educatio
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — related
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related
 - [Learning from others acquires usable information efficiently but limits the potential for innovation](social-learning-limits-innovation.md) — related
+- [Lectures are effective for conveying factual information but less effective for promoting active thought and influencing attitudes](lectures-factual-not-attitude-effective.md) — related

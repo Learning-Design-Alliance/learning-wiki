@@ -16,12 +16,14 @@ sources:
     author: Abderrahmane Moulaye
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Trainees preferred the sitting position over lateral decubitus for lumbar puncture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Abderrahmane Moulaye. (2019). Assessment of lumbar puncture skills in students, interns and residents attending hospital internship. The Pan African Medical Journal. https://doi.org/10.11604/pamj.2019.33.56.16986
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive results on technique from the survey, illustrated in Figure 1. The results state that "la position assise (56% des étudiants) était plus souvent préférée au décubitus latéral (14%)" and that 30% used both. Percentages are descriptive; no effect size is printed.
 

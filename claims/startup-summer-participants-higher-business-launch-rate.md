@@ -51,3 +51,4 @@ Descriptive survey analysis of the Startup Summer subgroup (n = 78 identified vi
 - [Among NFTE alumni respondents who launched businesses, 47 percent had a business open in the past year, 65 percent of open businesses were profitable, and 52 percent employed at least one other person](nfte-alumni-businesses-profitable-and-employing-others.md) — related
 - [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — related
 - [Review reports Bolashak scholarship alumni had above-95% employment but very few became entrepreneurs despite desire to start businesses](bolashak-employment-few-entrepreneurs.md) — related
+- [Most Summer Institutes participants recalled exposure to all seven active-learning practices, and recall did not decline with year of attendance](exposure-recall-seven-practices-stable-over-years.md) — related

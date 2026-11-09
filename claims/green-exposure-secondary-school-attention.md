@@ -78,3 +78,4 @@ Within-subjects experiment with N = 64 Austrian students aged 16–18 comparing 
 - [Stress reduction did not mediate the nature–working memory effect in the one study testing it, which proposed a direct impact of nature exposure instead](stress-did-not-mediate-nature-cognition-effect.md) — related
 - [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](sustained-selective-attention-mixed-nature-effects.md) — related
 - [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](pa-breaks-sustained-attention-university-strong-evidence.md) — related
+- [Cognitive performance on the d2 test does not differ between natural and classroom environments in children](no-cognitive-performance-difference-natural-classroom-d2.md) — reports the opposite

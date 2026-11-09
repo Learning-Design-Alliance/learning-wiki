@@ -58,3 +58,4 @@ Descriptive comparison of the study sample (n=106; 61 boys) using independent t-
 - [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — reports the opposite
 - [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — reports the opposite
 - [Girls outperform boys in academic achievement and executive functioning across all three physical activity groups in this sample](girls-outperform-boys-all-pa-groups.md) — reports the opposite
+- [Girls had higher academic results and better selective attention scores than boys, and older children had lower scores, in this disadvantaged cohort](gender-and-age-differences-attention-grades.md) — reports the opposite

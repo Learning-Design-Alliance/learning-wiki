@@ -53,3 +53,4 @@ Wilcoxon signed-rank tests in the same study showed "a decrease in the mean non-
 - [Force on tissue changed systematically over the course of the exams, increasing within the second exam and decreasing within the first exam in both groups](force-trends-within-exams.md) — related
 - [Training sequence did not significantly affect force exerted on tissue during the second robotic hepaticojejunostomy exam](no-force-difference-between-sequences-second-exam.md) — related
 - [Torque signatures during the circular suture show sinus-like patterns that shift toward lower values during training, indicating improved symmetry and teamwork](torque-signature-patterns-tatme.md) — related
+- [Force, motion and time parameters were largely uncorrelated in trials-to-proficiency, indicating time and motion monitoring alone does not capture tissue manipulation](force-motion-time-parameters-uncorrelated.md) — related

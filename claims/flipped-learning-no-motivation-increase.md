@@ -47,3 +47,4 @@ Secondary outcome in the randomised controlled trial, measured with the German S
 ## Related Claims
 - [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](flipped-classroom-raises-autonomous-learning-motivation.md) — reports the opposite
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
+- [Residents with more autonomous relative motivation are more likely to participate in non-obligatory e-learning on antibiotic prescribing (adjusted OR 2.6 per 10-point RAM increase)](autonomous-motivation-predicts-elearning-participation.md) — related

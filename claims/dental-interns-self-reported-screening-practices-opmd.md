@@ -51,3 +51,5 @@ Three self-reported practice items in the cross-sectional survey. The authors wa
 - [Knowledge scores are positively associated with self-reported screening and counselling practice among dental interns](knowledge-practice-association-dental-interns-opmd.md) — related
 - [Knowledge tertile is significantly associated with consistent screening practice among dental interns](knowledge-tertile-consistent-practice-association.md) — related
 - [About one-third of medical interns chose to refer patients to oral medicine specialists (38% average across cases), a proportion the authors judge insufficient](referral-to-oral-medicine-specialist-insufficient.md) — related
+- [Few non-specialist doctors educated patients about skin cancer risk reduction or skin self-examination](few-doctors-deliver-skin-cancer-patient-education.md) — reports the opposite
+- [Most non-specialist doctors had never referred a patient with a suspicious lesion to a dermatologist in the preceding year](most-doctors-never-referred-suspicious-lesions.md) — related

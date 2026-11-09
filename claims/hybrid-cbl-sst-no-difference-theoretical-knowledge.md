@@ -58,3 +58,5 @@ Written exam administered one week after the six-week Endodontics module in the 
 - [Symptom-focused CBL and conventional CBL produce no significant difference in dental residents’ theoretical knowledge of TMD](limited-mouth-opening-cbl-no-theoretical-knowledge-difference.md) — related
 - [Hybrid Physician Associate students performed as well as or better than on-campus students across both years, with no observed difference in academic or clinical exam performance](hybrid-students-perform-as-well-or-better.md) — related
 - [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related
+- [No significant performance difference between EMERGE and PBL groups on key feature cases discussed in both instructional formats](no-difference-shared-content-cases.md) — related
+- [Medical students in a hybrid curriculum perceive no significant difference between PBL and traditional lectures in the amount of basic knowledge recalled](pbl-lectures-no-difference-recalled-basic-knowledge.md) — related

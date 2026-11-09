@@ -83,3 +83,4 @@ Authors' interpretation in the interactive-use section: dialogue-partner uses of
 - [GenAI can act as an active participant in professional learning communities, transforming teacher knowledge construction](genai-active-participant-professional-learning-communities.md) — a narrower finding that bears on this claim
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — possibly the same claim (merge candidate)
 - [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — a narrower finding that bears on this claim
+- [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related

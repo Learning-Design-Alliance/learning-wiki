@@ -63,3 +63,4 @@ Follow-up mean comparisons after a significant coding × time interaction, F(1,1
 - [The explanation assisted REACT group retains its advantage on a delayed test nine weeks after the intervention despite score decline](react-explanation-delayed-retention.md) — related
 - [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related
+- [Retention and transfer knowledge decreased significantly between the immediate posttest and the test one week later across conditions and groups](retention-transfer-decrease-over-one-week.md) — related

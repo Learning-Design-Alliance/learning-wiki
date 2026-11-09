@@ -147,3 +147,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [The authors attribute the observed error reduction to guided deliberate practice on the simulator, in which trainees repeated each tunnel-construction step until competent](guided-deliberate-practice-explanation-error-reduction.md) — a narrower finding that bears on this claim
 - [Deliberate practice maintains and improves skills after acquisition](deliberate-practice-maintains-skills.md) — related
 - [Systematic review shows strong evidence for simulation with repetitive practice, mastery learning, and deliberate practice in teaching procedural skills](simulation-competency-based-strong-evidence.md) — a broader claim this one bears on
+- [Clinical skills taught but not practiced result in significant skill deficit, with average performance at 92% of original skill level after 1 year without practice](unpracticed-clinical-skills-decay-92-percent-one-year.md) — related

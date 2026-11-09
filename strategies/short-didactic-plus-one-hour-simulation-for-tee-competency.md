@@ -54,6 +54,7 @@ The article recommends integrating simulation training as a component of pediatr
 - [Integrate ongoing hands-on POCUS training into pediatric residency curricula to build resident competence and confidence](hands-on-pocus-training-integration-pediatric-residency.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 - [Combine instructional video viewing with hands-on practice on a 3D-printed procedure-specific model before live performance](video-plus-3d-printed-model-training-strategy.md)
+- [Pair a short didactic session with small-group hands-on scanning practice on patient volunteers when teaching basic ultrasound in low-resource settings](hands-on-scanning-practice-low-resource-ultrasound-teaching-strategy.md)
 
 ## Examples
 -

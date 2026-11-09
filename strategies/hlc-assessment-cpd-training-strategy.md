@@ -48,6 +48,7 @@ The authors recommend that health system administrators and educators embed the 
 - [Use the indicator system for competency assessment, training needs diagnosis, pre-post training evaluation, and talent development pathways](applications-tb-educator-competency-indicator-system.md)
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 - [Use a short validated self-report rubric longitudinally to track SDL competency development and target students for remediation](longitudinal-sdl-rubric-tracking-strategy.md)
+- [Administer the EBMQ to help policy makers identify knowledge, practice and barrier gaps and improve EBM uptake](ebmq-policy-maker-gap-identification-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Survey results reported with a country-by-country table (Table 1); the article s
 - [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
 - [Qualification programs for primary care teaching physicians exist at many German sites but are mandatory at fewer sites, and formats and duration vary](teaching-practice-qualification-programs-coverage-mandatory.md) — related
 - [The duration of EBP interventions, varying from some hours to even months, was not related to students' EBP competence](intervention-duration-not-related-to-ebp-competence.md) — related
+- [Australian medical schools vary considerably in the teaching methods used for intellectual disability content, with lectures the most frequent method for compulsory units](id-content-teaching-method-variability-australian-medical-schools.md) — related

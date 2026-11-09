@@ -68,3 +68,4 @@ Same correlational analysis (Table 4): URM verbal GRE score correlated positivel
 - [Quantitative GRE percentiles negatively correlate with PhD time to degree for all students, females, and international students](gre-quant-percentiles-correlated-ttd.md) — related
 - [Admissions committee scores do not predict PhD time to degree for any demographic group analyzed](admissions-scores-not-correlated-time-to-degree.md) — related
 - [Verbal GRE percentiles predict PhD candidacy exam outcomes](verbal-gre-percentiles-predict-candidacy.md) — related
+- [GRE Q scores are negative predictors of STEM PhD completion for men, with men who left programs scoring significantly higher than men who completed](gre-q-negative-predictor-men-stem-phd-completion.md) — related

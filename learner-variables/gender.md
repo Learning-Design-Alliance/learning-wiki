@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 649 claims (344 show a difference, 147 mixed, 158 no difference) · 460 studies (232 associational, 167 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 66 of 460 report an effect size · 641 claims rest on one study
+> **Evidence** · 657 claims (348 show a difference, 151 mixed, 158 no difference) · 465 studies (237 associational, 167 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 66 of 465 report an effect size · 649 claims rest on one study
 
 ## How to read this page
 
@@ -688,6 +688,14 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No gender difference in any of the six GAP-test competence domains among medical students](../claims/no-gender-difference-gap-test-domains.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](../claims/sex-differences-simce-high-school-males.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Total operative experience averages 2060 procedures and does not differ by sex but varies by special interest](../claims/total-operative-experience-cohort-averages.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys show higher tonic and event vagal tone than girls across both environments](../claims/boys-higher-tonic-event-vagal-tone-than-girls.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls earn significantly higher and significantly less variable teacher-assigned grades than boys overall](../claims/girls-higher-less-variable-grades-overall.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Greater male variability is insufficient to explain male over-representation in STEM, given the small gender gaps in STEM grades](../claims/variability-insufficient-to-explain-stem-underrepresentation.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male medical students report higher confidence in anatomy knowledge than female students](../claims/male-gender-anatomy-confidence.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Participation even in nonintensive TD activities benefits women early-career scholars' self-efficacy in course planning and interacting with students, although it shows no average benefit](../claims/nonintensive-td-benefits-women.md) [~M] — an instructional effect differs by group
+- [TD engagement closes the course-planning and teaching-methods self-efficacy gap between women and men early-career scholars as engagement increases](../claims/td-engagement-gender-gap-closing.md) [~M] — an instructional effect differs by group
+- [The gender gap in grade mean and variability has not changed significantly over the last eight decades](../claims/grade-gender-gap-stable-over-80-years.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](../claims/gre-q-gender-gap-similar-completion.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

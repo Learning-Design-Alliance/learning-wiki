@@ -47,3 +47,4 @@ The guidelines narrate Papadakis’s finding on professionalism lapses predictin
 ## Related Claims
 - [Some student behaviours (poor initiative, irresponsibility, diminished capacity for self-improvement) predict future unprofessional behaviour as a physician](some-student-lapses-predict-future-physician-unprofessionalism.md) — related
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
+- [Early academic failure carries far lower risk of later disciplinary action than unprofessional behavior in medical school](academic-failure-low-disciplinary-risk-versus-unprofessional-behavior.md) — possibly the same claim (merge candidate)

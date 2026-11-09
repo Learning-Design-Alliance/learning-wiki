@@ -18,7 +18,7 @@ sources:
 # Social Interdependence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (9 for, 14 mixed, 1 against) · 20 studies (7 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 20 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (9 for, 15 mixed, 1 against) · 21 studies (8 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 21 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Claims this page cited before it was rewritten, and neighbours found while rewri
 - [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](../claims/interdependence-modes-weakly-negatively-correlated.md) [~W] and [the specialisation–role interdependence relationship holds only where colleagues are seen as competing](../claims/specialization-role-interdependence-moderated-by-social-climate.md) [~W] — the same correlational study of 40 offices; organisational structure, not learning.
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](../claims/classroom-research-supports-motivational-perspective.md) [+W] — attached 2026-10-14 from Slavin (2014), which proposed "Design cooperative learning with group goals and individual accountability for group success".
 - [Conjunctive group work shows mixed evidence of lower task procrastination than individual work among high trait-procrastinators](../claims/conjunctive-group-work-lower-procrastination.md) [~W] — attached 2026-11-04 from Koppenborg et al. (2026), which proposed "Reduce procrastination by changing the learning environment, using group work that induces perceived indispensability of each member's contribution"; tests this page's relationship.
+- [Interdependent cooperative-learning modules did not raise weekly quiz achievement once between-classroom variance was controlled](../claims/interdependent-cooperative-learning-no-quiz-gain.md) [~M] — attached 2026-11-09 from Premo Joshua et al. (2018), which proposed "Integrating interdependence-based tasks can foster collaborative engagement, but by itself may not increase achievement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

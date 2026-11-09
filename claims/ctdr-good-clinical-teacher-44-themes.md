@@ -68,3 +68,4 @@ From the results section reporting theme frequencies across the 376 extracted st
 - [Unlike medical residents, CTDRs did not compare themselves with peers but sought individualised guidance, possibly reflecting one-on-one dental supervision](ctdrs-seek-individualised-guidance.md) — related
 - [Outpatient teaching for Japanese residents is most frequently provided during the decision-making and patient assessment stages and least frequently during the medical interview stage](outpatient-teaching-frequency-decision-making-highest.md) — related
 - [New dental-specific themes include practical guidance, a safe training environment, resident–patient relationships, career education and comprehensive treatment planning](new-dental-specific-teacher-themes.md) — related
+- [Peer tutors acted as mentors beyond the sessions’ explicit remit, sharing practical know-how of how to be a clinical medical student](peer-tutors-mentoring-hidden-curriculum.md) — related

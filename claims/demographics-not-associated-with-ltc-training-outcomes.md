@@ -57,3 +57,4 @@ Multivariate linear regression in the 90-student study, controlling for gender, 
 - [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — a narrower finding that bears on this claim
 - [Academic adaptability differs significantly by gender, age, and grade but not by student type or residence](adaptability-demographic-differences-gender-age-grade.md) — related
 - [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — reports the opposite
+- [Career intention and age are not significant predictors of medical students' confidence in anatomy knowledge](career-intention-age-not-predictors-anatomy-confidence.md) — a narrower finding that bears on this claim

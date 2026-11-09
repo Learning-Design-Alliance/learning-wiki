@@ -57,3 +57,4 @@ Correlational analysis in the prior-knowledge survey of the 13-student course, c
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](negative-knowledge-confidence-correlation-veneers.md) — related
 - [Knowledge and self-reported competence represent distinct but weakly correlated constructs within the DKSCQ-N (r = 0.13).](dkscqn-knowledge-competence-distinct-constructs.md) — related
 - [Self-perceived competency correlates moderately with self-reported practice behavior, while objective knowledge correlates negatively with practice behavior](scs-cpbs-positive-okto-cpbs-negative-correlation.md) — related
+- [Student self-reported learning gains on the SALG survey do not accurately predict objective CAT gains in critical thinking](self-report-inaccurate-critical-thinking-gains.md) — related

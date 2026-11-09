@@ -52,3 +52,4 @@ Cross-sectional study of 1677 students: bivariate tables show significant associ
 - [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related
 - [Cigarette smoking and khat use were bivariably associated with poor academic performance](smoking-khat-bivariable-poor-academic-performance.md) — related
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
+- [Grade 12 physical science is not a significant predictor of first-year nursing science module performance despite a significant bivariate correlation](physical-science-not-significant-predictor-nursing-science.md) — related

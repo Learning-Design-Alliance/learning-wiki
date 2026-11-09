@@ -51,3 +51,4 @@ Interventional cohort study of 12,841 primiparous women with singleton noninstru
 - [Episiotomy rates in nonintervention hospitals did not change significantly during either intervention phase](nonintervention-hospitals-episiotomy-unchanged.md) — related
 - [Education and training programmes increase knowledge and skills of skilled birth attendants in perineal anatomy, assessment and classification of perineal tears.](perineal-tear-training-increases-knowledge-skills.md) — a broader claim this one bears on
 - [Education programmes including perineal tear prevention training are associated with reduced severe perineal tear rates.](prevention-inclusive-training-reduces-tear-rates.md) — related
+- [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related

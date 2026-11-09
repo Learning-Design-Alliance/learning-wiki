@@ -17,12 +17,14 @@ sources:
     author: Mayer-Hirshfeld Ilana, Agarwal Gauri G., Jackson Jennifer S.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The SVI's validity for predicting future performance remains debated, and critics warn it may unintentionally diminish diversity in emergency medicine
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Mayer-Hirshfeld Ilana, Agarwal Gauri G., Jackson Jennifer S. (2019). SVI Self-Study Guide: A Study Tool for Independent Preparation for the AAMC Standardized Video Interview. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.10805
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The article attributes this critique to Buckley, Hoch, and Huang (2018); the present article did not test SVI validity itself. It also notes Buckley and colleagues warn the SVI may unintentionally diminish diversity and that other portfolio markers may already fill the SVI's aims.
 

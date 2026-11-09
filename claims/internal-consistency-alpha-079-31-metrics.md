@@ -51,3 +51,4 @@ Internal-structure validity evidence: standardized Cronbach's alpha computed acr
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
 - [Novice participants' simulator evaluation scores did not significantly differ from those of experienced surgeons, with high internal consistency (Cronbach's alpha 0.872) and interrater agreement (ICC 0.851)](traps-simulator-novice-expert-rating-agreement.md) — related
 - [The OSCE performance measure showed acceptable internal consistency (Cronbach's alpha = 0.858)](osce-performance-measure-cronbach-alpha-0858.md) — related
+- [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related

@@ -50,3 +50,4 @@ Cross-sectional survey of 420 ICU nurses in 15 Chinese hospitals using a self-de
 - [Knowledge, attitude and practice scores for enteral nutrition are positively correlated](positive-kap-correlations-enteral-nutrition.md) — related
 - [Lecture attendance is associated with higher knowledge, attitude and practice scores across all three dimensions](lecture-attendance-higher-kap-scores.md) — related
 - [Knowledge and practice gaps concentrate in tube flushing, enteral nutrition with lower gastrointestinal bleeding, intra-abdominal pressure measurement and caloric/protein assessment](en-specific-knowledge-practice-gaps.md) — related
+- [Most ICU nurses in Dar es Salaam hospitals demonstrated undesirable overall knowledge of ETS evidence-based recommendations](icu-nurses-undesirable-ets-knowledge.md) — related

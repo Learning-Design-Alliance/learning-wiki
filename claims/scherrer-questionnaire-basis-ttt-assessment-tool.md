@@ -49,3 +49,4 @@ The review describes the most detailed assessment method, by Scherrer et al: a c
 - [Pre- and post-course appraisal was the most popular assessment method, used in three of five included EBM TTT course evaluations](pre-post-appraisal-most-popular-ttt-assessment.md) — related
 - [The included EBM TTT courses targeted faculty members, podiatric medical educators, clinical teachers and librarians, with course duration varying from 1 day to 24 months](ebm-ttt-course-audience-and-duration-range.md) — related
 - [Existing generic assessment instruments (RSES, SOC model) lack face validity for EBM TTT courses, and no included article used Kirkpatrick's model](existing-instruments-lack-face-validity-ebm-ttt.md) — related
+- [Collaboration with librarians was emphasised as important for teaching information literacy in EBP education](librarian-collaboration-information-literacy-ebp.md) — related

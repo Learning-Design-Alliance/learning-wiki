@@ -87,3 +87,4 @@ Despite seeking peer feedback, lower-performing students "indicated a preference
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions](both-feedback-types-perceived-positively.md) — related
+- [Peer tutors acted as mentors beyond the sessions’ explicit remit, sharing practical know-how of how to be a clinical medical student](peer-tutors-mentoring-hidden-curriculum.md) — related

@@ -86,3 +86,4 @@ The review's second barrier category states institutions "may lack the necessary
 - [Faculty identify administrative workload as a primary barrier to intrinsic motivation and teaching innovation](administrative-workload-barrier-faculty-innovation.md) — related
 - [Residents' motivation to train with the PLET was poor in both groups, driven by workload and time constraints](poor-motivation-workload-time-constraints-plet.md) — related
 - [Professional pressures — time constraints, workload and vast scope of knowledge — hindered registrars' revisitation of basic science knowledge](professional-pressure-hinders-knowledge-revisitation.md) — related
+- [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related

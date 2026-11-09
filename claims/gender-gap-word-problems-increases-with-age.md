@@ -74,3 +74,4 @@ The review reports disagreement about when the male advantage first appears, att
 - [Affective variables and gender do not relate to picture effects on elementary schoolers' word problem-solving performance](affective-gender-no-moderation.md) — related
 - [In one word-problem study, females' scores rose significantly from pre-test to post-test in the unformatted-to-formatted sequence and fell from pre-test to post-test in the formatted-to-unformatted sequence, based on within-group pre-post measurements](females-benefit-free-exploration-then-plan.md) — related
 - [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related
+- [Gender differences in grade mean and variability are already present in childhood and do not increase during adolescence](grade-gender-gap-present-in-childhood-not-adolescent-growth.md) — related

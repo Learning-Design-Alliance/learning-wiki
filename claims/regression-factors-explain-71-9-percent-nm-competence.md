@@ -53,3 +53,4 @@ Multiple linear regression with total NM competence score as dependent variable 
 - [Higher GPA, unmarried status and more positively perceived orientation programs are associated with higher readiness for practice](gpa-marital-status-orientation-predict-readiness.md) — related
 - [Age, gender, job position, and hospital type did not significantly predict nurses' warfarin-related knowledge scores](demographics-not-significant-warfarin-knowledge-predictors.md) — related
 - [Age, marital status, educational level, and professional title did not significantly affect PCC competence in the multiple regression](demographics-nonsignificant-in-regression.md) — related
+- [Existing remediation approach models explain little of the outcome variance in clinical skills, knowledge or professionalism](remediation-models-explain-little-variance.md) — reports the opposite

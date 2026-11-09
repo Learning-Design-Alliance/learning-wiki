@@ -71,3 +71,4 @@ From the same regression (Table 6), the no-prior-chemistry coefficient was −19
 - [Student chemistry content knowledge scores rose from first attempts to highest attempts in one group with no comparison group, with median scores of 95% versus 74%](postquiz-scores-improve-mastery.md) — related
 - [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md) — related
 - [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](students-differ-in-initial-knowledge-not-learning-rate.md) — related
+- [Prior science experience and science interest related less strongly to quiz performance in intervention than comparison classrooms](cooperative-learning-levels-playing-field-achievement.md) — related

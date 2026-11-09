@@ -17,12 +17,14 @@ sources:
     author: Gurbuz Emine, Hanley Mary, Riby Deborah M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Over half of autistic university students self-report a diagnosed mental health condition, roughly three times the rate of non-autistic peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Gurbuz Emine, Hanley Mary, Riby Deborah M. (2018). University Students with Autism: The Social and Academic Experiences of University in the UK. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-018-3741-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Self-report demographic item in the questionnaire study of 26 autistic and 158 non-autistic students; Table 1 shows 17% of non-autistic students reported a diagnosis (14% anxiety/depression). Percentages are descriptive; no effect size printed.
 

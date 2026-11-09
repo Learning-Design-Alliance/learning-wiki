@@ -51,7 +51,7 @@ Experiment 1 time-allocation analysis: instructed group M = 21.89 minutes versus
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1](instructions-increase-self-testing-cumulative-learning.md) — related
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
-- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](mixed-effects-across-experiments-criterion-failures.md) — related
 - [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md) — related
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related

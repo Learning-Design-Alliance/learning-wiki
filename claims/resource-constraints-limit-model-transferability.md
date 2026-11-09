@@ -69,3 +69,4 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [KFQ-based TBL cases push students toward choosing wisely and committing to decisions as a parallel to real-life patient care](kfq-tbl-choosing-wisely-commitment-decisions.md) — related
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
+- [Participants identified infrastructure and resource shortages as a barrier to accommodating growing student numbers](infrastructure-shortage-barrier-growing-nursing-intakes.md) — related

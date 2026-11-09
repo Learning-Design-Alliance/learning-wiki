@@ -57,3 +57,4 @@ Descriptive comparison of teacher-made test scores (Fig 2, N = 351) reported gra
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — reports the opposite
 - [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](math-self-efficacy-gender-gap-top5.md) — related
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
+- [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — reports the opposite

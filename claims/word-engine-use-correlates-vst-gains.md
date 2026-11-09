@@ -68,3 +68,4 @@ Correlational analysis of acquired words (six consecutive correct retrievals ove
 - [Raw VST gain scores did not support that two hours of weekly Word Engine use produced greater gains than one hour](raw-gains-no-support-two-hours-word-engine.md) — related
 - [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](word-engine-vst-gains-ancova.md) — related
 - [Cumulative correct answers on blended-workshop activities relate to final exam score, but number of attempts does not](activity-accuracy-not-attempts-predicts-final-exam.md) — related
+- [Probability of correct retrieval in the retention test rises steeply with the number of prior correct retrievals](repeated-retrieval-success-predicts-final-recall.md) — related

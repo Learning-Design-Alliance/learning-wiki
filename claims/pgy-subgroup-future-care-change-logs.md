@@ -48,3 +48,4 @@ Chi-square subgroup analysis of log codes by postgraduate year across the 10,574
 - [No significant difference by resident gender in logs recording real-time or future patient-care change](gender-null-pbl-log-care-change.md) — related
 - [Resident EBM log activity led to real-time changes in ED patient care in 3.7% of logs and planned future care changes in 18.7% of logs](pbl-logs-real-time-ebm-care-change.md) — a broader claim this one bears on
 - [The association between tachypnea detection and correct video answers varies by postgraduate year and age but not by sex](tachypnea-answer-interactions-pgy-age-sex.md) — related
+- [Quiz participation declines and scores rise across postgraduate years of residency](participation-declines-scores-rise-by-pgy.md) — related

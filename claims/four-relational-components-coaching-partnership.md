@@ -61,3 +61,4 @@ Requisite Relationship Components section: focus group data showed coaches empha
 - [Journal writing with weekly teacher feedback fostered cooperative learning atmosphere and student-teacher rapport](journal-writing-builds-rapport-and-cooperation.md) — related
 - [All eight participants reported positive experiences and a new appreciation for inclusive education practices.](ipd-participants-positive-experiences.md) — related
 - [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related
+- [Residents and allied healthcare professionals expressed interest in bi-directional, two-way feedback as a valued feature of a multisource feedback program](msf-bidirectional-feedback-interest.md) — related

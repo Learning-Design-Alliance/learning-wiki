@@ -70,6 +70,7 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
 - [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
 - [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](iterative-review-dops-portfolio-authenticity.md)
+- [Use a clinical skills checklist to document achievements and set clear, achievable stepwise goals](clinical-skills-checklist-stepwise-goals-strategy.md)
 
 ## Examples
 - **New Tech Network schools** — students defend digital portfolios of project work before panels of teachers and community members at graduation (https://newtechnetwork.org).

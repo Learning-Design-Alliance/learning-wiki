@@ -53,3 +53,4 @@ Prospective observational cohort of 51 final-year RCSI medical students who volu
 - [In one single-group pre-post study, all participating hospitalists reached the minimum passing standard immediately after one-on-one 60-minute SBML](sbml-immediate-mastery-hospitalists.md) — related
 - [In one uncontrolled pre-post study, only 40% of hospitalists achieved passing scores at a mean of 7 months after SBML (40% for LP and 40% for AP)](sbml-skill-decay-hospitalists-7-months.md) — related
 - [PICU staff's minimum competency scores fell at 3-month and 12-month follow-up assessments compared with post-baseline scores after high flow training, in one single-group pre-post study](highflow-retention-loss-3-12-months.md) — related
+- [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on

@@ -89,3 +89,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Small-group learning effects vary by classroom gender and ethnic diversity, with effects smaller in female-dominated and predominately White classrooms](diversity-composition-moderates-small-group-effects.md) — related
 - [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](schedule-gpa-gender-moderators-college-algebra.md) — related
 - [Peer assessment is vulnerable to implicit bias influenced by status perceptions, with women and minoritized students receiving lower evaluations despite substantive contributions.](peer-assessment-implicit-bias-status-perceptions.md) — related
+- [International students earned significantly fewer exam points than the reference category in the regression model](international-students-lower-exam-points.md) — related

@@ -103,3 +103,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Poorer reading comprehension, but not word-recognition speed or history of reading difficulties, is associated with lower university academic achievement](comprehension-not-decoding-predicts-wam.md) — related
 - [Regression analysis identifies age, high school grades, and test scores as significant GPA predictors, with the final model explaining about 31.58% of variance](regression-predictors-dental-gpa-model.md) — related
 - [Working memory measures taken at age 7–8 predict mathematics performance at age 9–10 two years later, over and above earlier mathematics performance](wm-predicts-math-two-years-later.md) — related
+- [Postgraduates' perceptions and self-assessed ability varied with age, specialty, research experience, logical thinking, mathematical and computer basics](learner-characteristics-associated-biostatistics-perceptions.md) — related

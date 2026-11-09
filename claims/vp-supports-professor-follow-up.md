@@ -16,12 +16,14 @@ sources:
     author: Isaza-Restrepo Andrés, Gómez María Teresa, Cifuentes Gary, Argüello Arturo
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # VP use enables better professor follow-up of student learning and reflection on the teaching-learning process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Isaza-Restrepo Andrés, Gómez María Teresa, Cifuentes Gary, Argüello Arturo. (2018). The virtual patient as a learning tool: a mixed quantitative qualitative study. BMC Medical Education. https://doi.org/10.1186/s12909-018-1395-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative findings from the contributions-to-the-teaching-process category, drawing on professor field journals and ethnographic observation. Professors described students' statements about what they had yet to learn with encouragement and noted collaborative work amongst teams working well.
 

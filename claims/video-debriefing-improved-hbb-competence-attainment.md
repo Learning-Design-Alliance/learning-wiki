@@ -48,3 +48,4 @@ Cluster-randomized trial of 26 health facilities and 86 birth attendants in Lira
 - [Video-debriefing improved bag-mask ventilation skill at immediate post-test, the only individual skill component significant at that time point](video-debriefing-improved-bmv-post-test.md) — related
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related
 - [Knowledge attainment immediately after training did not differ significantly between the video-debriefing and standard-training arms](video-debriefing-knowledge-attainment-not-significant.md) — related
+- [Tablet-based video training produced MCQ knowledge gains comparable to traditional in-person training among community health workers in rural Uganda](tablet-training-comparable-mcq-gains-chws.md) — related

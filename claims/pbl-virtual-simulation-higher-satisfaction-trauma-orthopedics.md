@@ -94,3 +94,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - Interns taught with an intelligent medical simulation system report significantly higher satisfaction with teaching than traditionally taught peers (94.0% vs 53.8%) — related
 - Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related
 - [Clinical virtual simulation raises nursing students' satisfaction with the learning experience compared with low-fidelity simulation](cvs-raises-learning-satisfaction.md) — related
+- [Students are more satisfied with PBL than traditional lectures and expect better future learning outcomes from it (both P<.001)](pbl-higher-satisfaction-future-outcome.md) — related

@@ -54,3 +54,4 @@ Descriptive frequency analysis of anthropometric classifications at baseline in 
 - [Academic performance declined significantly from grade 1 to grade 7, with mathematics falling from 76.90% to 51.26% and GPA from 74.45% to 59.21%](academic-decline-grade1-to-grade7.md) — related
 - [Underweight girls showed no statistically significant academic differences from normal-weight girls at any time point or over time](underweight-no-significant-academic-differences.md) — related
 - [No interaction effects between nutrition groups were found for academic performance over time](no-interaction-effects-nutrition-groups-academic.md) — related
+- [Boys had higher stunting prevalence than girls at birth, early childhood and late childhood](boys-higher-stunting-prevalence-than-girls.md) — related

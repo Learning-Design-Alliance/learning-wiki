@@ -44,6 +44,7 @@ The article's recommendations section sets out implementable steps for adopting 
 ## Related Strategies
 
 - [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
+- [Secure managerial commitment, train collaborators on PBL and collaboration skills, use a memorandum of agreement, and monitor and evaluate the collaboration](pbl-collaboration-implementation-recommendations.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Observational analysis of betweenness centrality correlations with performance a
 - [Closeness and betweenness centralities showed negative correlations with performance in approximately 4% of courses](closeness-betweenness-negative-correlations-subset.md) — related
 - [In Year 1, no centrality metric was significantly associated with CGPA](year1-centrality-cgpa-null.md) — related
 - [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related
+- [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related

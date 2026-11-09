@@ -46,6 +46,7 @@ Mental skills training (MST) in the program is "a rehearsal involving mental ima
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Practice](simulation-based-practice.md)
 - [Use mental practice as a low-resource adjunct for maintaining procedural competency when clinical opportunities are scarce](mental-practice-low-resource-competency-maintenance.md)
+- [Include multiple observers in simulation scenarios for stressful procedures so trainees learn to manage audience-related stress](audience-observers-in-simulation-scenarios.md)
 
 ## Examples
 -

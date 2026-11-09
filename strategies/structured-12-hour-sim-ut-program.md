@@ -48,7 +48,8 @@ The FESIM III training program consisted of an introductory 90-minute seminar, t
 - [After 6 weeks of simulation-based training, ultrasound novices complete the fetal echocardiography standard-plane protocol faster than Ob/Gyn physicians and are no longer significantly slower than experts](../claims/fesim2-students-faster-than-physicians-not-slower-than-experts-6-weeks.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Structure a four-week ultrasound course with weekly theory plus supervised simulation-based hands-on practice covering FAST, E-FAST, RUSH and CLUE protocols](four-week-simulation-ultrasound-course-structure.md)
 
 ## Examples
 -

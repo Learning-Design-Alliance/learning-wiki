@@ -61,3 +61,4 @@ Blinded construct validity comparison of recorded SP chicken anastomosis perform
 - [After three days of intensive simulator training, most participants who attempted the final anastomosis completed it, but only a minority reached advanced analytic scores](anastomosis-success-after-three-day-course.md) — related
 - [Novice medical students required far more time and clutch use on robotic tasks than an expert benchmark](novice-expert-performance-gap-robotic-tasks.md) — related
 - [Experienced operators completed the phantom biometry task far faster than novices](experienced-operators-faster-task-completion-ultrasound.md) — related
+- [Novices reached expert-set proficiency levels for all six tasks within about two weeks of at-home training](proficiency-reached-two-weeks-home-training.md) — related

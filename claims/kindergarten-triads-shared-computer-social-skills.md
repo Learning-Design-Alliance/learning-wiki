@@ -51,3 +51,4 @@ Editorial summary of Gómez, Nussbaum, Weitz, Lopez, Mena and Torres's experimen
 - [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
 - [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
 - [Linear path design in EERs tends to foster collaboration, while open-path structures enable positive social interdependence](eer-path-design-collaboration.md) — related
+- [Within intervention classrooms, students were more collaboratively engaged during the interdependent phase 2 than phase 1](phase2-interdependence-raises-engagement.md) — related

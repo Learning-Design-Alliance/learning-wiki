@@ -50,3 +50,4 @@ Descriptive survey of 118 genetic counselors recruited through NSGC, MDCGC, and 
 - [ITTF scores differ by student-population group, with GCs teaching both GC and other students scoring higher than those teaching only non-GC students](ittf-anova-group-differences.md) — related
 - [Genetic counselors who teach GC students have higher teacher-focused (ITTF) scores than those who do not, opposite to the hypothesized direction](gc-student-teachers-higher-ittf-scores.md) — related
 - [Higher learner-centered (CCSF) ATI-R scores are associated with more lectures taught and a greater percentage of time devoted to teaching](ccsf-scores-correlate-lectures-and-teaching-time.md) — related
+- [Undergraduate lecture experience transmits a normative belief that lecture is the accepted way to teach](undergraduate-lecture-enculturation-transmits-lecture-norm.md) — related

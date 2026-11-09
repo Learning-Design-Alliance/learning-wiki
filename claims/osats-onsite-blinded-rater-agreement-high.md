@@ -55,3 +55,4 @@ Reliability analysis in which a blinded expert ureteroscopist reassessed a subse
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
 - [Two independent blinded video raters showed excellent agreement when scoring chest tube insertions with the modified OSATS (ICC=0.96)](osats-chest-tube-interrater-reliability-icc.md) — related
+- [Medical students who trained with the Touch Surgery chest tube insertion module scored significantly higher on directly observed OSATS performance than students trained with an irrelevant module](serious-game-osats-direct-performance.md) — related

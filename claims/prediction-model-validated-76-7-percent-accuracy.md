@@ -48,3 +48,4 @@ Temporal validation in an independent cohort of 56 NYMU graduates (July 2020) te
 ## Related Claims
 - [The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)](kei-threshold-individual-prediction-errors-large.md) — related
 - [Random Forest performed slightly better overall than SVM and Complement Naive Bayes for classifying short exam answers, with an average F-score of 0.82](random-forest-slightly-better-for-answer-classification.md) — related
+- [The prediction model validated on a next-year cohort classifies underachievers with 82.7% recall and 83.1% overall accuracy, though with relatively low precision](next-year-validation-of-achievement-prediction.md) — related

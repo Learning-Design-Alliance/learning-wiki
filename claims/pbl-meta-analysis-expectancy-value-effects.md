@@ -67,3 +67,4 @@ The same meta-analysis reported an effect on "students’ attitude toward learni
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related
 - [Across 20 studies using contemporary AGT/SDT constructs, PBL showed a near-zero effect (d = 0.022) on students' intrinsic or extrinsic motives for studying](pbl-near-zero-effect-contemporary-motivation-constructs.md) — related
+- [Students report more positive attitudes to learning with PBL than lectures, including stronger motivation (P<.001 on attitude items)](pbl-more-positive-learning-attitudes.md) — related

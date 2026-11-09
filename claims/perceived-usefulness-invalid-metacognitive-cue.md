@@ -53,3 +53,4 @@ Exploratory correlational analysis within the experimental group (N = 77) report
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
 - [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — a broader claim this one bears on
 - [Overestimation of performance correlates positively with external regulation (r = 0.36)](overestimation-external-regulation-correlation.md) — related
+- [Self-perceived competence is a limited proxy for actual competence because perceived competencies do not always match objectively measured competencies](self-perceived-competence-limited-proxy-objective-competence.md) — related

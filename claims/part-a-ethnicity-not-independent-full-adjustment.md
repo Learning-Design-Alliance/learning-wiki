@@ -50,3 +50,4 @@ Multivariate logistic regression models for the Part A cohort comparing a partia
 - [Being a non-graduate on entry to medicine independently predicts first-attempt success at both MRCS Part A (OR 1.98) and Part B (OR 1.77)](non-graduate-independent-predictor-mrcs.md) — related
 - [Candidates from minority ethnic backgrounds, especially Black or Black British candidates, are significantly less likely to pass postgraduate medical examinations at first attempt](minority-ethnic-lower-first-attempt-pass-odds.md) — related
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
+- [Lower starting age, higher GAMSAT score, and BME ethnicity independently predict successful completion of medical school among graduate entrants](gamsat-age-bme-predict-completion.md) — related

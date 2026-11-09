@@ -76,6 +76,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Use the PlaSurIn game as an alternative or complement to traditional lecture-based training for surgical instruments setup](plasurin-as-alternative-or-complement-to-lecture-strategy.md)
 - [Use online training resources as a complementary education approach to clinical training in recognising dying](online-resource-complementary-approach-recognising-dying.md)
 - [Supervised small-group seminars with simulated patients for communicative-skill training with patient-view feedback](simulated-patient-seminar-feedback-strategy.md)
+- [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
 
 ## Examples
 -

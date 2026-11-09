@@ -16,12 +16,14 @@ sources:
     author: Fuhrmann Delia, Schweizer Susanne, Leung Jovita, Griffin Cait, Blakemore Sarah-Jayne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Ventral striatum activation shows an inhibition × emotion interaction: it is lower for happy no-go than happy go trials, with the reverse pattern for neutral trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Fuhrmann Delia, Schweizer Susanne, Leung Jovita, Griffin Cait, Blakemore Sarah-Jayne. (2019). The neurocognitive correlates of academic diligence in adolescent girls. Cognitive Neuroscience. https://doi.org/10.1080/17588928.2018.1504762
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ROI analysis in the same 40-participant fMRI sample; the VS inhibition × emotion interaction was significant (Table 3: χ2 = 4.58, p = .032). The article interprets this as the VS "responded preferentially to trials on which participants were looking out for subjectively rewarding social cues".
 

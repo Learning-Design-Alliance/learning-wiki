@@ -53,3 +53,4 @@ Descriptive post-workshop survey item (n = 41). The article reports planned use 
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related
 - [Belief that people with chronic breathlessness can rate their own symptom intensity on a scale increased significantly but remained disputed after the workshop](breathlessness-workshop-shifts-self-rating-belief-partially.md) — related
+- [85.9% of in-service professionals reported applying course knowledge by changing clinical practice in screening, assessment, diagnosis, and management](malnutrition-elearning-clinical-practice-application.md) — related

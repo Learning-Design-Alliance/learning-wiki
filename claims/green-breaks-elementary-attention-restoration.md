@@ -95,3 +95,4 @@ Within-subjects quasi-experimental study of N = 62 Danish fourth and fifth grade
 - [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](nature-walk-improves-selective-attention.md) — related
 - [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](sustained-selective-attention-mixed-nature-effects.md) — related
 - [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](working-memory-exhaustion-restored-by-break.md) — a broader claim this one bears on
+- [Cognitive performance on the d2 test does not differ between natural and classroom environments in children](no-cognitive-performance-difference-natural-classroom-d2.md) — reports the opposite

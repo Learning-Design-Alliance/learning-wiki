@@ -51,3 +51,4 @@ Finding from the discussion of the qualitative study; a focus group participant 
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
 - [A know-do gap exists in weighing neonates: 92% of IHCPs endorsed weight-based dosing but only 9% actually measured babies' weights](ihcp-know-do-gap-weighing-neonates.md) — related
 - [Healthcare workers who used newborn care skills routinely (nurse aides, midwives) retained skills better than those who did not (doctors, nurses)](routine-skill-use-associated-with-better-retention.md) — related
+- [Mentors report individual, logistical, and cultural barriers persisting across key neonatal resuscitation skills after simulation training](mentor-identified-barriers-nr-skills-bihar.md) — related

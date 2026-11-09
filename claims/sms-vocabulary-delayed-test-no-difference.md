@@ -50,3 +50,4 @@ Delayed test administered in the fifth week to both groups (EG mean 66.44, SD=20
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Delayed-posttest retention scores did not significantly differ by digital storytelling, though experimental-group means were higher](digital-storytelling-math-delayed-posttest-no-significant-difference.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
+- [EPM-based learning shows better 6-week delayed recall of recognition and pronunciation than traditional content, though group differences narrow](epm-content-better-six-week-recall.md) — reports the opposite

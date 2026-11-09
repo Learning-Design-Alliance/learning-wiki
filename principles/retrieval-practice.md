@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 162 claims (73 for, 79 mixed, 10 against) · 86 studies (45 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 27 of 86 report an effect size · 155 claims rest on one study
+> **Evidence** · 162 claims (73 for, 79 mixed, 10 against) · 87 studies (46 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 27 of 87 report an effect size · 154 claims rest on one study
 
 ## Conditional relationship
 
@@ -194,7 +194,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](../claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) [~W]
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](../claims/instructions-promote-three-recall-criterion.md) [+W]
 - [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]
-- [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
+- [Items retrieved successfully more often during learning were more likely to be recalled on a final test, in two experiments and in a medical-student cross-over study](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [~W]
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](../claims/llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) [~W]
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]

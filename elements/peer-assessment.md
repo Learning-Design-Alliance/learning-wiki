@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 18 studies (6 causal, 5 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (9 for, 10 mixed, 1 against) · 19 studies (6 causal, 6 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 17 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -60,6 +60,7 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Peer mutual evaluation scores are significantly higher than teacher ratings of the same skill videos](../claims/peer-evaluation-scores-exceed-teacher-ratings.md) [~M] — attached 2026-11-07 from Jin Peipei et al. (2025), which proposed "Video-based skill assessment with anonymous peer evaluation"; tests this page's relationship.
 - [A transparent, points-based peer assessment system did not improve team contribution in a cluster RCT among undergraduate medical students](../claims/points-based-peer-assessment-no-team-contribution-gain.md) [~W] — attached 2026-11-08 from Biesma Regien et al. (2019), which proposed "Balanced, consensus-based peer assessment system with fixed team point allocation".
 - [Students criticised the fixed balanced marking system for punishing strong contributors and elected to give everyone equal marks](../claims/balanced-marking-criticism-equal-marks.md) [~W] — attached 2026-11-08 from Biesma Regien et al. (2019), which proposed "Balanced, consensus-based peer assessment system with fixed team point allocation".
+- [Self and peer marks correlate moderately with faculty marks while self and near-peer marks correlate weakly on a clinical history-taking task](../claims/self-peer-marks-moderately-correlate-faculty-np-weak.md) [~W] — attached 2026-11-09 from Fitzgerald K (2018), which proposed "Video-recorded history-taking assessment with SHARP debriefing rubric marked by four assessor groups".
 
 ## The evidence by question
 

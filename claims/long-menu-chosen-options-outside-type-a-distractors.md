@@ -49,3 +49,4 @@ Descriptive analysis of the distractors chosen in the long-menu format during th
 - [Long-menu and Type A question formats have equivalent discriminatory power when applied to identical question stems in summative exams](long-menu-type-a-equivalent-discriminatory-power.md) — related
 - [Broad clinical scenarios cannot be limited to a small number of options, and longer option lists are perceived as more authentic to clinical practice](clinical-authenticity-long-option-lists.md) — related
 - [Computer-based delivery makes longer MCQ option lists feasible without impairing examinee performance](computer-delivery-feasible-long-option-lists.md) — related
+- [Fear that reducing MCQ options increases correct answers by guessing is unfounded, because examinees engage in educated rather than blind guessing](mcq-option-reduction-guessing-concern-unfounded.md) — related

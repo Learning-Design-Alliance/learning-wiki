@@ -17,12 +17,14 @@ sources:
     author: Soemantri Diantha, Dodds Agnes, Mccoll Geoff
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Mini-CEX ratings were uniformly high and the seven clinical performance domains showed moderate to strong positive intercorrelations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Soemantri Diantha, Dodds Agnes, Mccoll Geoff. (2018). Examining the nature of feedback within the Mini Clinical Evaluation Exercise (Mini-CEX): an analysis of 1427 Mini-CEX assessment forms. GMS Journal for Medical Education, Volume 35, Issue 4, Doc47. [doi:10.3205/zma001193](https://doi.org/10.3205/zma001193)
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Analysis of the 1427 assessment forms' performance ratings; the article reports "moderate to strong positive significant relationships" with printed correlations r = .59 to .79, indicating a tendency to give similar ratings across domains for a particular student. Mean domain scores ranged from 4.53 to 4.77.
 

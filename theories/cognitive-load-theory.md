@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 142 claims (95 for, 36 mixed, 11 against) · 118 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 22 of 118 report an effect size · 130 claims rest on one study
+> **Evidence** · 144 claims (95 for, 37 mixed, 12 against) · 119 studies (50 causal, 26 review, 19 theoretical, 13 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 22 of 119 report an effect size · 132 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -213,6 +213,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [The benefit of computer-assisted instruction over inquiry-based learning was larger for students with higher working memory capacity](../claims/cai-benefit-moderated-by-working-memory.md) [+W] — attached 2026-11-08 from Chevalère Johann et al. (2021), which proposed "Working memory demands account for the differential effectiveness of CAI and IBL".
 - [Talk-aloud interviews with 28 junior residents and expert physicians identified 5 thematic sources of cognitive load in trauma resuscitation videos](../claims/cinevr-talk-aloud-five-cognitive-load-sources.md) [+W] — attached 2026-11-08 from Devika Patel et al. (2020), which proposed "Cognitive Load Theory as a framework for overlaying cineVR videos with visual and auditory teaching points".
 - [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](../claims/notss-improvement-after-scenario-simplification.md) [+W] — attached 2026-11-09 from Wu Kitty et al. (2019), which proposed "Cognitive load theory applied to simulation scenario design (intrinsic, extraneous, and germane loads)"; tests this page's relationship.
+- [No modality or redundancy effects on knowledge gain (retention or transfer, short or long term) were found in children with or without dyslexia in a user-paced multimedia environment](../claims/no-modality-redundancy-knowledge-gain-dyslexia.md) [~W] — attached 2026-11-09 from Knoop‐van Campen CAN et al. (2018), which proposed "Cognitive theory of multimedia learning (CTML): dual-channel and limited-capacity working memory as the basis of the modality and redundancy effects"; tests this page's relationship.
+- [Working memory capacity did not influence the size of the modality or redundancy effects on study time or knowledge gain, despite children with dyslexia having weaker working memory](../claims/working-memory-no-relation-modality-redundancy-effects.md) [-W] — attached 2026-11-09 from Knoop‐van Campen CAN et al. (2018), which proposed "Cognitive theory of multimedia learning (CTML): dual-channel and limited-capacity working memory as the basis of the modality and redundancy effects"; tests this page's relationship.
 
 ## The evidence by question
 

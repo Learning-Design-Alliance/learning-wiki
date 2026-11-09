@@ -66,3 +66,4 @@ The paper reports, citing Liu et al.'s randomized experiments, that brief AI-ass
 - [Most students report using LLMs to get solutions more often than they believe is ideal for learning, and this gap widened after the lesson](usage-exceeds-ideal-for-solution-generation.md) — related
 - [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](suboptimal-design-hints-trigger-costly-self-management.md) — related
 - [Uncontrolled hint use can considerably reduce students' learning and autonomous solving capacity](uncontrolled-hint-use-reduces-learning.md) — related
+- [Maps in which learners gave up and requested the system's diagnosis contained fewer nodes, lower scores, fewer summary statements and lower confidence than maps solved by learners themselves](gave-up-maps-fewer-nodes-lower-scores.md) — a narrower finding that bears on this claim
