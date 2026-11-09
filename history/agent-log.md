@@ -5,6 +5,26 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-09 · `pages` leaves wiki-index.json; the page records are read from the shards
+
+Asked for by the maintainer ("move the readers to the shards"). `wiki-index.json` had reached
+53.7 MB and drew GitHub's 50 MB warning on every push. Its page records have been written to
+`wiki-index/<kind>/<xx>.ndjson` since 2026-11-07, so the remaining step was moving the readers.
+
+- **Readers found:** one outside this repo, `studies/producers/pipeline/wiki_agent.py` in
+  Learning-engineering-research, and one inside, `scripts/mcp_server.py`. The second reader CLAUDE.md
+  named, learning-design-spec's `tools/check-wiki-links.py`, never read the file: it checks page URLs on
+  the published site and raw files on GitHub. learning-engine-ai-frontend has no reference to it. The
+  other scripts here read only `resolve` or `moved`.
+- **Moved:** both readers load the shards and fall back to `pages` for an older checkout. The outside
+  one merged as Learning-engineering-research#35, checked to give the same 93,996 records as `pages`.
+- **Dropped:** `build_wiki_index.py` now writes `pages` to the shards only. `wiki-index.json` is 9.4 MB,
+  with `resolve`, `moved`, `kinds` and `counts`. `--check` still checks both, and the MCP `resolve` and
+  `fetch` tools were run against the new layout.
+- **Also:** `.claude/settings.local.json` is ignored. It is where Claude Code saves "don't ask again"
+  permission rules verbatim, and those can carry a secret from a command line; it has never been
+  committed here.
+
 ## 2026-11-07 · the candidate ledger is sharded, and wiki-index.json's page records are written sharded too
 
 Asked for by the maintainer ("do what you recommend for the file splitting"). A push of batch

@@ -23,7 +23,7 @@ and this file is where the spec side learns that `4cid` means
 would make every rename a silent break on the consuming side — precisely the
 failure `aliases:` exists to prevent, reintroduced one repo over.
 
-**A precomputed `resolve` map, per kind.** `pages` already carries id and
+**A precomputed `resolve` map, per kind.** The page records already carry id and
 aliases, so the map is derivable — but derivable by each consumer, separately,
 possibly differently. Ids and aliases share one namespace *per kind*
 (CLAUDE.md, "Page identity"), which is a rule a second implementation can get
@@ -53,10 +53,11 @@ WIKI_ROOT = Path(__file__).parent.parent
 OUT_PATH = WIKI_ROOT / "wiki-index.json"
 # The per-page records again, one file per kind and slug prefix: wiki-index/<kind>/<xx>.ndjson,
 # one record per line, sorted by id (2026-11-07). wiki-index.json had reached 48 MB, growing about
-# 1 MB a batch toward GitHub's 100 MB file limit, and 41 MB of it is `pages`. The shards are
-# additive: wiki-index.json keeps its shape until its readers (Learning-engineering-research's
-# wiki_agent.py, learning-design-spec's check-wiki-links.py) read pages from here, and only then
-# does `pages` leave it, keeping `resolve`, `moved`, `kinds` and `counts`.
+# 1 MB a batch toward GitHub's 100 MB file limit, and 41 MB of it was `pages`. Since 2026-11-09
+# the page records live only here: `pages` left wiki-index.json once its one outside reader
+# (Learning-engineering-research's wiki_agent.py) read the shards. learning-design-spec's
+# check-wiki-links.py never read it: it checks page URLs. wiki-index.json keeps `resolve`, `moved`,
+# `kinds` and `counts`.
 SHARD_DIR = WIKI_ROOT / "wiki-index"
 
 
@@ -183,10 +184,11 @@ def build() -> tuple[dict, list]:
         "note": ("Resolution table for learning-design-spec: every content page's "
                  "id, kind and title, plus every retired slug that still resolves. "
                  "Built by scripts/build_wiki_index.py; committed because the "
-                 "consuming repo has no wiki checkout. The same page records are in "
-                 "wiki-index/<kind>/<xx>.ndjson (first two characters of the id); read "
-                 "them there: `pages` will leave this file, which is nearing GitHub's "
-                 "100 MB file limit."),
+                 "consuming repo has no wiki checkout. The page records themselves "
+                 "(id, type, title, description, path, status, aliases) are in "
+                 "wiki-index/<kind>/<xx>.ndjson, one per line, keyed by the first two "
+                 "characters of the id; they left this file on 2026-11-09, when it "
+                 "passed GitHub's 50 MB warning."),
         "okf_version": "0.2",
         "kinds": sorted(set(KINDS.values())),
         "counts": {kind: sum(1 for p in pages if p["type"] == kind)
@@ -218,8 +220,9 @@ def main() -> None:
         print("Run: python3 scripts/lint.py --type identity", file=sys.stderr)
         sys.exit(1)
 
+    pages = index.pop("pages")          # written only to the shards (see SHARD_DIR)
     rendered = okf_lib.dump_json_records(index, depth=3)
-    shards = page_shards(index["pages"])
+    shards = page_shards(pages)
 
     if args.check:
         if not OUT_PATH.exists():
@@ -242,8 +245,8 @@ def main() -> None:
         path.parent.mkdir(parents=True, exist_ok=True)
         if not path.exists() or path.read_text(encoding="utf-8") != text:
             path.write_text(text, encoding="utf-8")
-    n_aliases = sum(len(p.get("aliases", [])) for p in index["pages"])
-    print(f"Wrote {OUT_PATH.name}: {len(index['pages'])} page(s), "
+    n_aliases = sum(len(p.get("aliases", [])) for p in pages)
+    print(f"Wrote {OUT_PATH.name} and {SHARD_DIR.name}/: {len(pages)} page(s), "
           f"{n_aliases} retired slug(s) still resolving.")
     for kind, n in index["counts"].items():
         print(f"  {kind:<18} {n:>5}")

@@ -6,6 +6,8 @@ __pycache__/
 .obsidian/
 .claude/skills-workspace/
 .claude/worktrees/
+# Claude Code's saved "don't ask again" rules, stored verbatim: can carry a secret from a command line.
+.claude/settings.local.json
 venv/
 
 # eval harness: cached article text (may be copyrighted full text) and
